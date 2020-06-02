@@ -12,6 +12,7 @@ NUM_CORES = multiprocessing.cpu_count()
 data_in = os.path.join("..","data","sgml")
 data_out = os.path.join("..","data","txt")
 data_ref = os.path.join("..","ref")
+passim_output_path = os.path.join("..","passim_in.json")
 
 if os.path.exists(data_out) == False:
 	os.mkdir(data_out)
@@ -84,7 +85,7 @@ if __name__ == "__main__":
 	
 		
 	try:
-		os.remove("passim_in.json")
+		os.remove(passim_output_path)
 	except FileNotFoundError:
 		z = 0
 
@@ -93,13 +94,13 @@ if __name__ == "__main__":
 
 
 	for file in tqdm(files[:int(limit_files_in_json)]):
-		TXT_to_passimJSON(file,"passim_in.json")
+		TXT_to_passimJSON(file,passim_output_path)
 
 	with open(os.path.join(data_ref,"king_james.txt")) as f:
 		text = " ".join(f.read().replace("\n"," ").split())
 		id_ = "king_james"
 		series = "bible"
 		json = '{"id": "'+id_+'", "series": "'+series+'", "text": "'+text+'"}\n'
-		with open("passim_in.json","a") as f_out:
+		with open(passim_output_path,"a") as f_out:
 			f_out.write(json)
 	print("Passim input file written to disk.")
