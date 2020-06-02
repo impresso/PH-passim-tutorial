@@ -1,0 +1,99 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD EEBOPROOF 2.0//EN">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-08-10</DATE>
+<RESPSTMT>
+<NAME>Sara Gothard</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TYPEs to DIVs in order to validate. Proofed title page(s). Checked for TYPE="book". Checked ^s. Reviewed structure. Checked division-marking material at heads and feet of divisions (HEADS, etc.). Checked for signatures. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected 2 $s of 2. Converted _0_ $s to GAP DESC="illegible" RESP="pdcc". Checked spacing of foreign GAPs. Checked for EPIGRAPHs and ARGUMENTs. Checked for startqs, endqs, oes, q;s, and Qs. Checked proofsheets and made corrections found there. Checked for CLOSERs, TRAILERs, and BYLINEs. Sample: 5 minutes. Proofing: 25 minutes. Tag review and corrections: 25 minutes. I captured a HEAD TYPE=illustration. DONE.</ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="A34375">
+<STC T="W">C596</STC>
+<BIBNO T="oclc">16960776</BIBNO>
+<VID>105484</VID>
+</IDG>
+<TEXT LANG="eng">
+<BODY>
+<DIV1 TYPE="acrostic poem">
+<PB REF="1" MS="y">
+<HEAD TYPE="illustration"><FIGURE>
+<HEAD>ACADEMIA OXONIENSIS</HEAD>
+<FIGDESC>seal of Oxford University</FIGDESC>
+</FIGURE></HEAD>
+<HEAD>VIRO, FAVORE REGIO, ET MERITIS SUIS HONORATISSIMO, AMPLISSIMOQUE DOMINO, EDVARDO HIDE, Equiti Aurato, summo <HI>Angliae</HI> &amp; optato <HI>Oxoniae</HI> Cancellario, necnon Serenissimo Regi <HI>CAROLO</HI> II^d^o. &acirc; secretioribus Conciliis, &amp;c. CARMEN GRATVLATORIVM. an. 1660</HEAD>
+<DIV2 LANG="lat" TYPE="version">
+<LG>
+<L><HI>E</HI>rige depressam Victrix Academia cristam,</L>
+<L><HI>D</HI>ii Tutelares rem Tibi nuper agunt:</L>
+<L><HI>V</HI>enit lo extorris (praeclarior ostracismo)</L>
+<L><HI>A</HI>nchora quassat&acirc; deficiente rati:</L>
+<L><HI>R</HI>egibus ante omnes, Patri, Natoque fidelis</L>
+<L><HI>D</HI>extera; captivo deliciae populo:</L>
+<L><HI>V</HI>irtut&igrave;sque supremus apex: hunc <HI>Anglia</HI> prim&ugrave;m</L>
+<L><HI>S</HI>uscipit in gremium, jam capit <HI>Oxonium.</HI></L>
+</LG>
+<LG>
+<L><HI>H</HI>erculeus labor! at languens Ecclesia poscit,</L>
+<L><HI>I</HI>nque Tuas gestit tradere sacra manus:</L>
+<L><HI>D</HI>urius incumbens humeris onus utile Nobis</L>
+<L><HI>E</HI>xpulsos revocas, restituisque Deos.</L>
+</LG>
+<LG>
+<L><HI>C</HI>os Musis, cui terra minax, pelagusque pepercit</L>
+<L><HI>A</HI>nnue, dans votis vela secunda meis:</L>
+<L><HI>N</HI>utriat admissos (sit anus lic&egrave;t) ubere pleno</L>
+<L><HI>C</HI>asta parens olim, nunc tibi filiola.</L>
+<L><HI>E</HI>numerans Mecaenates sis &igrave;pse patronus</L>
+<L><HI>L</HI>iber, ut excellens Bibliotheca crepat:</L>
+<L><HI>L</HI>eg&igrave;s-latores auge, jurisque peritos,</L>
+<L><HI>A</HI>uthores nullo cod&igrave;ce deficiant:</L>
+<L><HI>R</HI>edde ant&igrave;qua, &amp; er&igrave;s Nob&igrave;s Tu Stator Apollo;</L>
+<L><HI>(J</HI>upiter hoc famam nomine nactus erat.)</L>
+<L><HI>V</HI>i cum serus ob&igrave;s post Te monumenta relinquens</L>
+<L><HI>S</HI>umptibus hic cedant <HI>Seldeniana</HI> Tuis.</L>
+</LG>
+</DIV2>
+<DIV2 LANG="eng" TYPE="version">
+<LG>
+<L>Erect thy Crest, Tryumphant <HI>OXFORD,</HI> see</L>
+<L>The Tutelary Gods take care of Thee,</L>
+<L>And call One home from banishment to steer</L>
+<L>Thy shipwreck'd Barque, and be thy Mariner:</L>
+<L>One thou maist trust, whose faith two <HI>Kings</HI> have prov'd,</L>
+<L>Hence the delight of all, and most belov'd:</L>
+<L>Whose stock of Vertues made Him first in power</L>
+<L>Or'e <HI>England,</HI> now Our wish'd-for CHANCELLOR.</L>
+</LG>
+<LG>
+<L>Go on, Great Hero, let the Church confesse</L>
+<L>Thine is a Thirteenth Work for <HI>Hercules</HI>:</L>
+<L>Yours is the Burthen, Ours the Gaine by odds,</L>
+<L>That hast restor'd to Us Our exil'd Gods.</L>
+</LG>
+<LG>
+<L>Thou by whose beams Our Muses thrive, for Whom</L>
+<L>Land-tumults cease, and th' Sea forgets to foame,</L>
+<L>Hear Our requests, May <HI>OXFORD</HI> sprout and grow,</L>
+<L>(<HI>OXFORD,</HI> Your Mother once, Your Daughter now)</L>
+<L>Live Our <HI>Mecaenas,</HI> pile on Books to th' height,</L>
+<L>Untill Sir <HI>Thomas Bodley</HI> groan with weight;</L>
+<L>Make LAW amends for its too long disgrace,</L>
+<L>Be there no Idiom wanting to this Place:</L>
+<L>Let Statutes rule, Restorer be to Us,</L>
+<L>(<HI>Iove</HI> gain'd his lasting Name and Honour thus)</L>
+<L>That when You shall (late may it be) go hence,</L>
+<L>You may out-v<GAP DESC="illegible" EXTENT="1 letter">e great <HI>Seldens</HI> Monuments.</L>
+</LG>
+</DIV2>
+<CLOSER><SIGNED><HI>Robert Whitehall,</HI> Fellow of <HI>Merton</HI> College.</SIGNED></CLOSER>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

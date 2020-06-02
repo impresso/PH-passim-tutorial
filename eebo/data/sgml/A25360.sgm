@@ -1,0 +1,897 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD EEBOPROOF 2.0//EN">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-08-26</DATE>
+<RESPSTMT>
+<NAME>John Latta</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate. Proofed title page. Checked ^s. Reviewed structure. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected $s. Checked spacing of foreign GAPs. Checked for EPIGRAPHs and ARGUMENTs. Checked for startqs, endqs, abq's, oes, q;s, Ae's, and Qs. Checked proofsheets and made corrections. Checked for CLOSERs, OPENERs, SIGNEDs, SALUTEs, TRAILERs, and BYLINEs. Sample: 5 minutes. Proofing: 35 minutes. Tag review and corrections: 80 minutes. DONE.</ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="A25360">
+<STC T="W">A3099</STC>
+<BIBNO T="oclc">10065726</BIBNO>
+<VID>44483</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1">
+<P>THE COPIE OF A BARONS COURT: Newly translated by WHATS-YOV-CALL-HIM, Clerk to the same.</P>
+<P>Printed at <HI>Helicon,</HI> beside <HI>Parnassus,</HI> and are to be sold in CALEDONIA.</P>
+</DIV1>
+<DIV1 TYPE="publisher's notice">
+<PB REF="2">
+<HEAD>ADVERTISEMENT.</HEAD>
+<P>THE Publisher of the following Poem is credibly inform'd that the Author thereof was the learned and facetious Mr. <HI>Patrick Anderson, Dr.</HI> of <HI>Medecine</HI>; Who, besides his other Works, both Historical and Physical, wrote a Book in <HI>latine,</HI> 8<HI>vo.</HI> printed <HI>Edinb.</HI> 1635. intituled <HI>Grana Angelica,</HI> concerning the Nature and Use of these famous <HI>Pills,</HI> which are now commonly sold by the Name of <HI>Anderson's Pills.</HI></P>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="masque">
+<PB N="3" REF="2">
+<STAGE>BARON, BAILY, OFFICER.</STAGE>
+<SP>
+<SPEAKER>*<HI>Bail.</HI></SPEAKER>
+<P>GOD save your worship.</P>
+</SP>
+<SP>
+<SPEAKER>*<HI>Bar.</HI></SPEAKER>
+<L>Welcom Baily; How</L>
+<L>Does <HI>Kate</HI> my Aunt, and <HI>Will</HI> my God-son do?</L>
+<L>What News abroad? How sells the Bear I pray?</L>
+</SP>
+<SP>
+<SPEAKER>*<HI>Bail.</HI></SPEAKER>
+<P>The Prices rises ev'ry Market Day.</P>
+</SP>
+<SP>
+<SPEAKER>*<HI>Bar.</HI></SPEAKER>
+<P>Good News y faith: Come Sirra, fill some Ale.</P>
+</SP>
+<SP>
+<SPEAKER>*<HI>Offic.</HI></SPEAKER>
+<P>He loves the Tongue that tells him such a Tale.</P>
+</SP>
+<SP>
+<SPEAKER>*<HI>Bar.</HI></SPEAKER>
+<L>Good Baillie, pull him home; It's white: I think</L>
+<L>You are not dry, or loves not well our Drink.</L>
+</SP>
+<SP>
+<SPEAKER>*<HI>Bail.</HI></SPEAKER>
+<P>O Sir it's strong!</P>
+</SP>
+<SP>
+<SPEAKER>*<HI>Bar.</HI></SPEAKER>
+<L>And yet our Browster says,</L>
+<L>It is a fault comportable always:</L>
+<L>And this I think my self; For now I see</L>
+<L>Wine is a Stranger unto each Degree.</L>
+</SP>
+<SP>
+<SPEAKER>*<HI>Off.</HI></SPEAKER>
+<P>And long may it be so; For We could want it.</P>
+</SP>
+<SP>
+<SPEAKER>*<HI>Bail.</HI></SPEAKER>
+<L>You speak the Truth; I think the Laird will grant it.</L>
+<L>But O! the tender Stomachs are opprest</L>
+<L>With Cruditys, and Mine among the rest.</L>
+</SP>
+<SP>
+<SPEAKER>*<HI>Bar.</HI></SPEAKER>
+<L>Drink <HI>Aquavitae</HI> Baily, that's no fault;</L>
+<L>The Sp'rit of Drink is now confin'd in Malt.</L>
+<L>As for my self I can as well be merry</L>
+<L>With the Bear-Pickle as the <HI>Spanish</HI> Berry.</L>
+</SP>
+<SP>
+<SPEAKER>*<HI>Bail.</HI></SPEAKER>
+<L>But let me interrupt your Worship; Why</L>
+<L>Did <HI>Iack</HI> your Foot Man call me hastily?</L>
+</SP>
+<SP>
+<SPEAKER>*<HI>Bar.</HI></SPEAKER>
+<L>Some Disappointments makes me male-content,</L>
+<L>I cannot live, and live not on my <GAP DESC="illegible" REASON="faint" EXTENT="1 letter">ent:</L>
+<L>My Court and Jurisdiction is as free</L>
+<L>As any not exceeding my Degree,</L>
+<L>And you Sir Bailly know that I can do it,</L>
+<L>My old Infestments lead me justly to it.</L>
+</SP>
+<SP>
+<SPEAKER>*<HI>Bail.</HI></SPEAKER>
+<L>Not to offend your Worship in Effect,</L>
+<L>I dare be bold, it is your own Neglect;</L>
+<L><PB N="4" REF="3">Your Predecessors, of good Memory,</L>
+<L>Did manage Maters with Audacity;</L>
+<L>Your Power, Sir, is not a whit abreg'd,</L>
+<L>Nor yet was theirs more amply priveleg'd.</L>
+</SP>
+<SP>
+<SPEAKER>*<HI>Bar.</HI></SPEAKER>
+<L>You're right indeed: And I forsooth resent it,</L>
+<L>And possibly shall make some to repent it.</L>
+</SP>
+<SP>
+<SPEAKER>*<HI>Bail.</HI></SPEAKER>
+<L>Sir, Hold a <HI>COVRT,</HI> that we may clearly see</L>
+<L>Th'alledg'd Abuses of the Barony.</L>
+<L>Go Officer, and warn the Tenents in,</L>
+<L>And where VVe ended let Us now begin;</L>
+<L>If with your VVorships Pleasure it could rest</L>
+<L>To countenance the Court, your self; 'twere best.</L>
+</SP>
+<SP>
+<SPEAKER>*<HI>Bar.</HI></SPEAKER>
+<L>Go to, Sir Baily, for I must confess</L>
+<L>You are sufficient for the Bussiness;</L>
+<L>I'le to the Hunting: Hey Dogs! Hey Dogs! Hey!</L>
+<L>Great pity were to losse so brave a Day.</L>
+</SP>
+<STAGE>BAILY, CHAMBERLAIN, CLERK,</STAGE>
+<SP>
+<SPEAKER>&dagger;<HI>Ch.</HI></SPEAKER>
+<P>GOod morrow Baily.</P>
+</SP>
+<SP>
+<SPEAKER>&dagger;<HI>Bail.</HI></SPEAKER>
+<L>You're the Trout I wish'd</L>
+<L>If for a great one I had all Day fish'd;</L>
+<L>Whence came you last? If asked it may be.</L>
+</SP>
+<SP>
+<SPEAKER>&dagger;<HI>Chamb.</HI></SPEAKER>
+<P>From compassing my Masters Baronie.</P>
+</SP>
+<SP>
+<SPEAKER>&dagger;<HI>Bail.</HI></SPEAKER>
+<P>I cry for Mercy; I am thick of Hearing.</P>
+</SP>
+<SP>
+<SPEAKER>&dagger;<HI>Chamb.</HI></SPEAKER>
+<P>Sir, You may mend it, by a double Spearing.</P>
+</SP>
+<SP>
+<SPEAKER>&dagger;<HI>Bail.</HI></SPEAKER>
+<P>From <HI>Conquessing,</HI> I thought your Speech had been.</P>
+</SP>
+<SP>
+<SPEAKER>&dagger;<HI>Cham.</HI></SPEAKER>
+<P>Play on your Friends.</P>
+</SP>
+<SP>
+<SPEAKER>&dagger;<HI>Bail.</HI></SPEAKER>
+<L>Yet such Play has been seen;</L>
+<L>But to the Purpose: Is your Book about you?</L>
+</SP>
+<SP>
+<SPEAKER>&dagger;<HI>Chamb.</HI></SPEAKER>
+<L>A <HI>Psalm</HI>-Book Sir? Lo there is one! what doubt you</L>
+<L>The Moon is at the Full.</L>
+</SP>
+<SP>
+<SPEAKER>&dagger;<HI>Bail.</HI></SPEAKER>
+<L>So may some say,</L>
+<L>The Laird was like for to go mad the Day;</L>
+<L>It is your Book, Man, of Recepts, I mean.</L>
+</SP>
+<SP>
+<SPEAKER>&dagger;<HI>Chamb.</HI></SPEAKER>
+<L>Excuse Me Sir, it was by me mista'ne;</L>
+<L>What needs a Book of that Kind or Condition?</L>
+<L>I have Discharges of my Intromission.</L>
+</SP>
+<SP>
+<PB N="5" REF="3">
+<SPEAKER>&dagger;<HI>Bail.</HI></SPEAKER>
+<L>That's not the Matter: I would only see</L>
+<L>The Count of Rest, if any Rests there be.</L>
+<L>The Laird complains, and hath some cause I trow,</L>
+<L>At <HI>Whitsunday</HI> his VVorship hath ado,</L>
+<L>And yet his Mails and Dutys come not in</L>
+<L>Till that the <HI>Kalends</HI> of the next year <GAP DESC="illegible" REASON="indecipherable" EXTENT="1 letter">in.</L>
+<L>This stains his Credit, damnifies his State,</L>
+<L>And this Abuse is bred but of the late.</L>
+</SP>
+<SP>
+<SPEAKER>&dagger;<HI>Chamb.</HI></SPEAKER>
+<L>The Roomes are rental'd to so high Avail,</L>
+<L>The Tenents termly cannot pay their hail:</L>
+<L>The bygone years (you know Sir) have been ill.</L>
+</SP>
+<SP>
+<SPEAKER>&dagger;<HI>Bail.</HI></SPEAKER>
+<P>They do not so (you'll grant) continue still.</P>
+</SP>
+<SP>
+<SPEAKER>&dagger;<HI>Chamb.</HI></SPEAKER>
+<L>I cannot help't: I poyn'd, arrest, remove,</L>
+<L>And all I do is for the Lairds Behoove.</L>
+</SP>
+<SP>
+<SPEAKER>&dagger;<HI>Bail.</HI></SPEAKER>
+<P>But give me leave, he much condemns your Sleuth.</P>
+</SP>
+<SP>
+<SPEAKER>&dagger;<HI>Chamb.</HI></SPEAKER>
+<P>You jest I hope: I pray Sir tell the Treuth?</P>
+</SP>
+<SP>
+<SPEAKER>&Verbar;<HI>Bail.</HI></SPEAKER>
+<L>And adds this more (for He envies your pelf)</L>
+<L>Indeed He could be Chamberlain himself:</L>
+</SP>
+<SP>
+<SPEAKER>&Verbar;<HI>Chamb.</HI></SPEAKER>
+<L>Good CHAMBERLAIN y Faith! Ev'n let him try</L>
+<L>If He can gain more by that Craft nor I.</L>
+</SP>
+<SP>
+<SPEAKER>&Verbar;<HI>Bail.</HI></SPEAKER>
+<L>Lend Him but twenty Pieces, I'le be plain</L>
+<L>Ye shall be Friends yet or the Morn again.</L>
+</SP>
+<SP>
+<SPEAKER>&Verbar;<HI>Chamb.</HI></SPEAKER>
+<L>He's hungry: But my self shall never fill him;</L>
+<L>Pay my Advancements, take my Office till him.</L>
+</SP>
+<SP>
+<SPEAKER>&Verbar;<HI>Clerk</HI></SPEAKER>
+<L>Ye're Gentlemen of great Experience,</L>
+<L>I humbly would intreat your Patience;</L>
+<L>I wonder oft at one thing; That's to see</L>
+<L>Such Alterations in this poor Countrie.</L>
+<L>This Gentleman, whose Court We are to hold,</L>
+<L>His Father conquest: But this Man hath sold;</L>
+<L>Yet at his Death he left his Living free,</L>
+<L>And ten for one, He keept in Familie,</L>
+<L>Brave Gentlemen, with double Horse and Boys,</L>
+<L><PB N="6" REF="4">He fill'd the Causey with compleet convoys.</L>
+<L>His Son hath but a Foot-Man and a Page,</L>
+<L>To whom he pays but little or no wage,</L>
+<L>And if He rid<GAP DESC="illegible" REASON="faint" EXTENT="1 letter"> to any publick place,</L>
+<L>His Train is packt up in a leathern Case.</L>
+</SP>
+<SP>
+<SPEAKER>&Verbar;<HI>Chamb.</HI></SPEAKER>
+<L>It's good to have the Grace of God ye know,</L>
+<L>But here I halt, and let my Passion go</L>
+</SP>
+<SP>
+<SPEAKER>&Verbar;<HI>Bail.</HI></SPEAKER>
+<L>Good Chamberlain, this Text you should refer</L>
+<L>For to be handled by the Minister:</L>
+<L>VVe'll go no higher: Clerk but since you speer</L>
+<L>The cause of this great alteration here;</L>
+<L>I will not undertake to tell you all.</L>
+<L>But some that seems to be m<GAP DESC="illegible" REASON="faint" EXTENT="1 letter">st principall,</L>
+<L>This Gentleman of whom we now discourse,</L>
+<L>(For I have ever known him from his Nurse)</L>
+<L>When that his Father yeelded up the Gh<GAP DESC="illegible" REASON="faint" EXTENT="1 letter">st,</L>
+<L>He was of Age but fifteen years at most;</L>
+<L>Then he began to rattle and to reel,</L>
+<L>And kick'd against the Colledge with his Heel;</L>
+<L>Horse, Hawks, and Dogs, with Guns, and such Munition,</L>
+<L>Began to get his Morning Repetition.</L>
+<L>And thus he liv'd till he was twenty <HI>Year,</HI></L>
+<L>His Tutors found his Pastime was too dear,</L>
+<L>They did resolve to send him unto <HI>France,</HI></L>
+<L>To learn to parle, handle Armes and dance,</L>
+<L>But what a Rank this rulelesse youth keept there</L>
+<L>VVill now be seen upon his son and heir.</L>
+<L>He salted to the Rigs with Charges vain,</L>
+<L>No Rain that falls can make them fresh again.</L>
+</SP>
+<STAGE>Lady, Baily, Chamberlain, Clerk, Officer.</STAGE>
+<SP>
+<SPEAKER>&Verbar;<HI>Off.</HI></SPEAKER>
+<L>MADAM, the Members of the Court are met,</L>
+<L>All is not right, the Chamberlain doth fret.</L>
+</SP>
+<SP>
+<SPEAKER>&Verbar;<HI>Lady</HI></SPEAKER>
+<P>Where are they now?</P>
+</SP>
+<SP>
+<SPEAKER>&Verbar;<HI>Off.</HI></SPEAKER>
+<L>below into the Hall.</L>
+</SP>
+<SP>
+<PB N="7" REF="4">
+<SPEAKER>&Verbar;<HI>Lady</HI></SPEAKER>
+<P>Incontinent I will go see them all.</P>
+</SP>
+<SP>
+<SPEAKER>&Verbar;<HI>Bail.</HI></SPEAKER>
+<P>God save your Ladyship.</P>
+</SP>
+<SP>
+<SPEAKER>&Verbar;<HI>Lady</HI></SPEAKER>
+<L>And you Sir Baily,</L>
+<L>The Laird ha<GAP DESC="illegible" REASON="faint" EXTENT="1 letter">h won, and you must pay the Failzie,</L>
+</SP>
+<SP>
+<SPEAKER>&Verbar;<HI>Bail.</HI></SPEAKER>
+<P>VVhat is the Matter?</P>
+</SP>
+<SP>
+<SPEAKER>&Verbar;<HI>Lady</HI></SPEAKER>
+<L>I did lay a Crown</L>
+<L>You should not come before the Day at Noon.</L>
+</SP>
+<SP>
+<SPEAKER>&Verbar;<HI>Bail.</HI></SPEAKER>
+<L>But I durst lay the best Ox in my Plough,</L>
+<L>Madam your Tenents think it soon enough.</L>
+</SP>
+<SP>
+<SPEAKER>&Verbar;<HI>Lady</HI></SPEAKER>
+<L>Good Baily, Fleg them, fleg them, fleg them Thieves,</L>
+<L>They multiply upon us termly grieves;</L>
+<L>It<GAP DESC="illegible" REASON="missing" EXTENT="1 letter">s <HI>Lambmass</HI> now, and yet we want our Ferm,</L>
+<L>My husband bought a fleet horse at the Term,</L>
+<L>And I my self did se<GAP DESC="illegible" REASON="missing" EXTENT="1 letter">l a score of <HI>Hoggs</HI></L>
+<L>To buy three couple of these <HI>English</HI> Doggs,</L>
+<L>In case the Laird with <HI>Caption</HI> were prest,</L>
+<L>H<GAP DESC="illegible" REASON="missing" EXTENT="1 letter"> may hunt on to <HI>Berwick</HI> with the best</L>
+</SP>
+<SP>
+<SPEAKER>&Verbar;<HI>Bail.</HI></SPEAKER>
+<P>God shield your Ladieship but too much Cares.</P>
+</SP>
+<SP>
+<SPEAKER>&Verbar;<HI>Lady</HI></SPEAKER>
+<P>I love not <HI>Hunting</HI> that brings home no <HI>Hares.</HI></P>
+</SP>
+<SP>
+<SPEAKER>&Verbar;<HI>Bail.</HI></SPEAKER>
+<L>The Gentleman is generously dispos'd,</L>
+<L>You need not think all that's in hazard loos'd.</L>
+</SP>
+<SP>
+<SPEAKER>&Verbar;<HI>Lady</HI></SPEAKER>
+<L>This is a Fault remeediless in Men,</L>
+<L>VVhich you sir baily perfectly do ken;</L>
+<L>Find Me, 'mongst twenty, one in all this Life</L>
+<L>That will take Councel from his wedded wife.</L>
+<L>Though Women be not edutat at Schools</L>
+<L>I'm sure they are not all created Fools.</L>
+<L>To make him free, I will'd him sell a Town,</L>
+<L>Tho' of the worth he would give som<GAP DESC="illegible" REASON="indecipherable" EXTENT="1 letter">what down;</L>
+<L>It's misery to see a man so set,</L>
+<L>To rack his Rental, and obscure his Debt;</L>
+<L>This is my Verdict till the Day I die,</L>
+<L>A Man hath no more Rent, nor he hath free.</L>
+<L>The Chamberla<GAP DESC="illegible" REASON="missing" EXTENT="1 letter">n I trow is of my Mind;</L>
+</SP>
+<SP>
+<SPEAKER>&Verbar;<HI>Chamb.</HI></SPEAKER>
+<P>I never think to meddle in that kind.</P>
+</SP>
+<SP>
+<PB N="8" REF="5">
+<SPEAKER>*<HI>Lady</HI></SPEAKER>
+<P>I hope directly I did never wrong you.</P>
+</SP>
+<SP>
+<SPEAKER>*<HI>Chamb.</HI></SPEAKER>
+<P>I'le shift or one: Hereafter part among you.</P>
+</SP>
+<SP>
+<SPEAKER>*<HI>Bail.</HI></SPEAKER>
+<L>Courage Madam, redeem the Time bygone,</L>
+<L>There's Earth eneugh to build the Dyke upon.</L>
+<L>You have a Son, a Son of Expectation,</L>
+<L>A braver <HI>Youth</HI> is not in this our Nation.</L>
+<L>Descended of the best of <HI>BARONS Blood,</HI></L>
+<L>His Tocher yet may make all matters good.</L>
+</SP>
+<SP>
+<SPEAKER>*<HI>Lady</HI></SPEAKER>
+<P>And mary with his equals too?</P>
+</SP>
+<SP>
+<SPEAKER>*<HI>Bail.</HI></SPEAKER>
+<L>No, no;</L>
+<L>Your Ladyship did not hear Me say so.</L>
+<L>Go match Him with some wealthy Merchants Child,</L>
+<L>So that the VVench be beautifull and mild;</L>
+<L>Thus shall you have some twenty-thousand Pound.</L>
+<L>VVhich will relieve the burden of the Ground.</L>
+</SP>
+<SP>
+<SPEAKER>*<HI>Lady</HI></SPEAKER>
+<L>That were the path-way (God forbid) to wrong us,</L>
+<L>There's too much else of <HI>Burgess-Blood</HI> among us.</L>
+<L>Away with all that's got with Perjury,</L>
+<L>Light weights, false Measures, and with Usury;</L>
+<L>E're I disgrace his Parentage a Jot,</L>
+<L>I'le rather sell if 'twere untill my Coat.</L>
+</SP>
+<SP>
+<SPEAKER>*<HI>Bail.</HI></SPEAKER>
+<L>I must confess, He is a lusty Lad,</L>
+<L>But Money now is ill for to be had.</L>
+</SP>
+<SP>
+<SPEAKER>*<HI>Lady</HI></SPEAKER>
+<L>I scorn that ever my Posterity</L>
+<L>Degener should from true Gentility.</L>
+</SP>
+<SP>
+<SPEAKER>*<HI>Bail.</HI></SPEAKER>
+<L>Gentility is nothing else, Madam,</L>
+<L>But Wealth continued in an House or Name;</L>
+<L>Empires beginning had, and Endings too.</L>
+<L>So hath the Race of ancient Barons now.</L>
+<L>Fatalitys are sometimes so prepar'd,</L>
+<L>That Laird turns no man, Merchant turns a Laird.</L>
+<L>Barons, you see, of singularity</L>
+<L>For Means do mix with Popularity.</L>
+</SP>
+<SP>
+<SPEAKER>*<HI>Lady</HI></SPEAKER>
+<P>We will advise.</P>
+</SP>
+<SP>
+<SPEAKER>*<HI>Bail.</HI></SPEAKER>
+<L>It's good to advise indeed,</L>
+<L>*&dagger;* <HI>ANGELS</HI> will breed you an immortal Seed. *&dagger;* i. e. <HI>Gold.</HI></L>
+</SP>
+<STAGE><PB N="9" REF="5">BARON, LADY, BAILY, CLERK, OFFICER, TENENTS.</STAGE>
+<SP>
+<SPEAKER>*<HI>Off.</HI></SPEAKER>
+<P>SIr Baily, all the Tenents are conveen'd.</P>
+</SP>
+<SP>
+<SPEAKER>*<HI>Bail.</HI></SPEAKER>
+<P>Clerk fence the Court.</P>
+</SP>
+<SP>
+<SPEAKER>*<HI>Ten.</HI></SPEAKER>
+<L>The great God be our Friend,</L>
+<L>For any thing that we can see or say</L>
+<L>No Mercy is for none of Us this Day.</L>
+</SP>
+<SP>
+<SPEAKER>&dagger;<HI>Clerk,</HI></SPEAKER>
+<L>Silence: I fence, and I forbid in plain,</L>
+<L>In the Behalf of our dread Soveraign,</L>
+<L>And in the Name of the right honourable</L>
+<L>The Laird and Baily, sitting at this Table;</L>
+<L>That none presume to speak, Tho' for a Friend,</L>
+<L>Unless that Leave be asked and obteen'd</L>
+</SP>
+<SP>
+<SPEAKER>&dagger;<HI>Bail.</HI></SPEAKER>
+<L>Go forward quickly, and read on the Rolls,</L>
+<L>That We may know the Rest of Farn-Years Bolls.</L>
+</SP>
+<SP>
+<SPEAKER>&dagger;<HI>Clerk,</HI></SPEAKER>
+<L>Iohn Petersen, Iohn Paterson,</L>
+<L>Iohn Dennison, Iohn Davison,</L>
+<L><HI>Tom Taylor,</HI> and his Brother,</L>
+<L><HI>Will Waker</HI> and his Mother,,</L>
+<L>The o<GAP DESC="illegible" REASON="missing" EXTENT="1 letter">d Good Wife, and her Son <HI>Gibbie,</HI></L>
+<L><HI>Iohn Iohnson,</HI> and stin<GAP DESC="illegible" REASON="faint" EXTENT="1 letter">ing <HI>Tibbie,</HI></L>
+<L>The over town, and nether-town,</L>
+<L>The wester-town, and cotter-town,</L>
+<L>The Foul-Foord, and the Miln-town,</L>
+<L>Brank <GAP DESC="illegible" REASON="faint" EXTENT="1 letter">ornent him, and the Hiltown.</L>
+<L>The Mutton-Hole, and reck thou there,</L>
+<L>The windy-Walls, and Whissell-Bare.</L>
+</SP>
+<SP>
+<SPEAKER>&dagger;<HI>Off.</HI></SPEAKER>
+<P>They are all present.</P>
+</SP>
+<SP>
+<SPEAKER>&dagger;<HI>Ten.</HI></SPEAKER>
+<L>Here Sir Baily, Here,</L>
+<L>We cannot run no faster to repeer.</L>
+</SP>
+<SP>
+<SPEAKER>&dagger;<HI>Bail.</HI></SPEAKER>
+<L><HI>Iohn Davison,</HI> com tell Me what's your rest</L>
+<L>For you are one I know can pay it best.</L>
+</SP>
+<SP>
+<SPEAKER>&dagger;<HI>Io. Davison,</HI></SPEAKER>
+<L>Rest said you Bialy: Marry God be lo'ed.</L>
+<L>My Neighbours kens I get but little o'ed,</L>
+</SP>
+<SP>
+<SPEAKER>&dagger;<HI>Bail.</HI></SPEAKER>
+<L>Behold that Villain rightly understands,</L>
+<L>And yet unrightly answers my Demands,</L>
+<L><PB N="10" REF="6">I must speak <HI>Scots,</HI> Swingeor, let it be shawen</L>
+<L>Into the Court, what thou art justly awn,</L>
+</SP>
+<SP>
+<SPEAKER>&dagger;<HI>Iohn Davison,</HI></SPEAKER>
+<L>My awen, I thank you little or nothing,</L>
+<L>Was ever mine since you began to reign.</L>
+</SP>
+<SP>
+<SPEAKER>&dagger;<HI>Bail.</HI></SPEAKER>
+<L>Gods pity, how can flesh and blood abide him&punc;</L>
+<L>The Rascall has so many holes to hide him.</L>
+</SP>
+<SP>
+<SPEAKER>&dagger;<HI>Off.</HI></SPEAKER>
+<L>The Laird is lighted, for it's more nor Noon,</L>
+<L>And ask'd at Me if that the Court was d<GAP DESC="illegible" REASON="missing" EXTENT="1 letter">ne.</L>
+</SP>
+<SP>
+<SPEAKER>&dagger;<HI>Bail.</HI></SPEAKER>
+<L>Intreat his Worship humbly to <GAP DESC="illegible" REASON="faint" EXTENT="3 letters">e in,</L>
+<L>He's come in time, I pray thee fellow <GAP DESC="illegible" REASON="faint" EXTENT="1 word">.</L>
+<L>Your Worship's wellcome, I have <GAP DESC="illegible" REASON="faint" EXTENT="1 word"> full neer,</L>
+<L>Your Bail<GAP DESC="illegible" REASON="faint" EXTENT="1 letter">; Sir, I think this twenty year,</L>
+<L>And yet such Knav'ry did I <GAP DESC="illegible" REASON="faint" EXTENT="1 span"></L>
+<L>Under Pretext of plain Simpli<GAP DESC="illegible" REASON="faint" EXTENT="1 letter">i<GAP DESC="illegible" REASON="missing" EXTENT="1 letter">ie;</L>
+<L><HI>Iohn Davison</HI> as each man hears and sees,</L>
+<L>He cuts me off with <HI>Am<GAP DESC="illegible" REASON="faint" EXTENT="2 letters">i<GAP DESC="illegible" REASON="faint" EXTENT="1 letter">ologies.</HI></L>
+</SP>
+<SP>
+<SPEAKER>&dagger;<HI>Io. Davison,</HI></SPEAKER>
+<L>I <GAP DESC="illegible" REASON="faint" EXTENT="1 word"> a boll? or yet a Peck? No, no!</L>
+<L>I rather baily brake my Leg in two;</L>
+<L>God bless the Laird! I trow his Worship knaws,</L>
+<L>I am a man that hath no Happer-Gaws.</L>
+<L>To tell you Sir the clipped Veritie,</L>
+<L>I had a <HI>Stagg,</HI> a bonie beast to see,</L>
+<L>Our good young Master, the young Laird I mean,</L>
+<L>In a good time, He coft him heer yestreen;</L>
+<L>Whose Price he said his Father would allow,</L>
+<L>And this compleets my bygone Mail<GAP DESC="illegible" REASON="missing" EXTENT="1 letter">s, I trow.</L>
+</SP>
+<SP>
+<SPEAKER>&Verbar;<HI>Bar.</HI></SPEAKER>
+<L>Pass from him baliy, for this time, I swear</L>
+<L>If that I chance to live another year</L>
+<L>I'le teach them better manners. Clerk, call on;</L>
+</SP>
+<SP>
+<SPEAKER>&Verbar;<HI>Lady,</HI></SPEAKER>
+<P>A word my Heart, you's go again anone.</P>
+</SP>
+<SP>
+<SPEAKER>&Verbar;<HI>Off.</HI></SPEAKER>
+<L>behold the Ladys tender Love: <HI>I</HI>'le lay</L>
+<L>She's fear'd her Son shall get a Blow to Day.</L>
+</SP>
+<SP>
+<PB N="11" REF="6">
+<SPEAKER>*<HI>Bail.</HI></SPEAKER>
+<L>We will be doing till the Laird return,</L>
+<L>Let them make Moan who have best Cause to mourn.</L>
+<L><HI>Tom Tailour,</HI> answer quickly and compear,</L>
+<L>What are you resting for your bygone year?</L>
+</SP>
+<SP>
+<SPEAKER>&Verbar;<HI>Tom Ta:</HI></SPEAKER>
+<L>At Pasch I lent the Lady twenty pound,</L>
+<L>In payment of the Duty of the Ground.</L>
+<L>Be<GAP DESC="illegible" REASON="missing" EXTENT="1 letter">ore you all in publick I protest,</L>
+<L>I owe no more, and this compleats my Rest.</L>
+</SP>
+<SP>
+<SPEAKER>&dagger;<HI>Bail,</HI></SPEAKER>
+<L>Call for the Laird, I do not understand</L>
+<L>This form of payment that's from hand to hand.</L>
+</SP>
+<SP>
+<SPEAKER>*<HI>Lady,</HI></SPEAKER>
+<L>Go Officer, round in the Bailies Ear,</L>
+<L>That he would pass from poor <HI>Tom Tayler</HI> there,</L>
+</SP>
+<SP>
+<SPEAKER>*Bail,</SPEAKER>
+<L>It shall be so, <HI>Will Waker,</HI> what say you,</L>
+<L>It's not your fashion to advance I trow.</L>
+</SP>
+<SP>
+<SPEAKER>*<HI>W. Wa.</HI></SPEAKER>
+<L>God help me Sir: I cannot well deny,</L>
+<L>And ye<GAP DESC="illegible" REASON="faint" EXTENT="1 letter"> I have my Summer Meal to buy.</L>
+</SP>
+<SP>
+<SPEAKER>&Verbar;<HI>Bail.</HI></SPEAKER>
+<L>Go Off<GAP DESC="illegible" REASON="missing" EXTENT="1 letter">cer, and poynd his house with speed,</L>
+<L>He's not so poor as he doth peep indeed.</L>
+<L>I mov'd the Laird to give him something down,</L>
+<L>Yet notwithstanding he will play the Lown.</L>
+<L>Call on the Tennents of old <HI>Whissel-bare,</HI></L>
+<L>How now? I think I see none of them there:</L>
+<L>Cause note them absent. <HI>Windy-walls</HI> compear,</L>
+<L>What are ye resting for the foresaid year?</L>
+</SP>
+<SP>
+<SPEAKER>*<HI>Tenn.</HI></SPEAKER>
+<L>More nor our room can pay, as you well ken,</L>
+<L>If you exact't, we are but herried men.</L>
+</SP>
+<SP>
+<SPEAKER>&Verbar;<HI>Bail.</HI></SPEAKER>
+<L>I cannot let these crafty Villains pass,</L>
+<L>I'le tell you Clerk the story as it was,</L>
+<L>The Laird that's dead, a Baron of good worth.</L>
+<L>Whose Conscience did bear his Credit forth,</L>
+<L>In all his Conquesses, and in this too,</L>
+<L>This Town I mean, which they do labour now,</L>
+<L><PB N="12" REF="7">The same Companions did give up that day</L>
+<L>The Rental, which they now refuse to pay.</L>
+<L>Go Officer, and poind them, Man by Man,</L>
+<L>I'le meet their craft the best way that I can.</L>
+</SP>
+<SP>
+<SPEAKER>*<HI>Bar,</HI></SPEAKER>
+<P>I'm come again to see how matters falls.</P>
+</SP>
+<SP>
+<SPEAKER>*<HI>Bail.</HI></SPEAKER>
+<P>VVe're at the Tennents of the <HI>Windie-walls.</HI></P>
+</SP>
+<SP>
+<SPEAKER>*<HI>Tenn.</HI></SPEAKER>
+<L>The <HI>Windie-walls,</HI> a place and name most fit,</L>
+<L>And so is seen on us poor men in it.</L>
+</SP>
+<SP>
+<SPEAKER>*<HI>Bar.</HI></SPEAKER>
+<P>I know your shifts, so did my Father too.</P>
+</SP>
+<SP>
+<SPEAKER>&Verbar;<HI>Tenn.</HI></SPEAKER>
+<P>VVe're in your will, do what you list to do.</P>
+</SP>
+<SP>
+<SPEAKER>&Verbar;<HI>Bar.</HI></SPEAKER>
+<L>It's notour, that I lent you money here,</L>
+<L>To pay your debts, and pay a stronger Feet?</L>
+<L>I'm born to set you Land, so that you pay,</L>
+<L>But not to entertain you tho' I may.</L>
+</SP>
+<SP>
+<SPEAKER>&Verbar;<HI>Bail:</HI></SPEAKER>
+<P>Call on the Tenents of the <HI>Over-town.</HI></P>
+</SP>
+<SP>
+<SPEAKER>&Verbar;<HI>Ten.</HI></SPEAKER>
+<P>Here's our Discharges Bailie.</P>
+</SP>
+<SP>
+<SPEAKER>Bail.</SPEAKER>
+<L>Lay them down,</L>
+<L>They rest nothing indeed.</L>
+</SP>
+<SP>
+<SPEAKER>Bar.</SPEAKER>
+<L>Go take them in,</L>
+<L>And with the best Ale roundly pack their skin:</L>
+<L>These are the Lads that I may lippen till,</L>
+<L>Go to your Dinners, Eat and drink your fill.</L>
+</SP>
+<SP>
+<SPEAKER>*<HI>Off.</HI></SPEAKER>
+<P>The rest, Sir Bailie, have Discharges too.</P>
+</SP>
+<SP>
+<SPEAKER>&Verbar;<HI>Bail.</HI></SPEAKER>
+<L>That likes me well, we have the less ado&punc;</L>
+<L>Unlaw the absents, and see that ye poind</L>
+<L>The Tenents resting, as you was enjoyn'd.</L>
+</SP>
+<SP>
+<SPEAKER>*<HI>Clerk.</HI></SPEAKER>
+<L>Sir Bailie, please, you have not ended all,</L>
+<L>There are some bills yet of complaint to call.</L>
+</SP>
+<SP>
+<SPEAKER>&Verbar;<HI>Bail.</HI></SPEAKER>
+<L>Be short then Clerk, I cannot stay, say on,</L>
+</SP>
+<SP>
+<SPEAKER>*<HI>Clerk.</HI></SPEAKER>
+<P><HI>Iohn Dunkison</HI> against <HI>Iohn Davidson.</HI></P>
+</SP>
+<SP>
+<SPEAKER>*<HI>Bail.</HI></SPEAKER>
+<L>That <HI>Iohn Davidson</HI> he is a pakie Knave,</L>
+<L>He doth molest us more than all the lave.</L>
+</SP>
+<SP>
+<SPEAKER>&dagger;<HI>Io. Da.</HI></SPEAKER>
+<L>I never had a pack in all my life,</L>
+<L>But one, I wasted wooing of my VVise.</L>
+</SP>
+<SP>
+<SPEAKER>&dagger;<HI>Bail.</HI></SPEAKER>
+<P>Your VVorship hears, who can abide his mocks?</P>
+</SP>
+<SP>
+<SPEAKER>&dagger;<HI>Bar.</HI></SPEAKER>
+<P>Go Officer and put him in the Stocks.</P>
+</SP>
+<SP>
+<PB REF="7">
+<SPEAKER>&Verbar;<HI>Clerk,</HI></SPEAKER>
+<L>As also Baily, here poore <HI>Maggie Beans</HI></L>
+<L>Upon <HI>Will Waggrels</HI> heavily compleans.</L>
+</SP>
+<SP>
+<SPEAKER>&Verbar;<HI>Off.</HI></SPEAKER>
+<L>That is a wonder, ask at <HI>Sandy Sim,</HI></L>
+<L>For she did on<GAP DESC="illegible" REASON="missing" EXTENT="1 letter">y love <HI>Iohn Dick</HI> and him.</L>
+</SP>
+<SP>
+<SPEAKER>&Verbar;<HI>Bail.</HI></SPEAKER>
+<P>What is the matter? Quickly <HI>Me<GAP DESC="illegible" REASON="faint" EXTENT="1 letter">g</HI> say on.</P>
+</SP>
+<SP>
+<SPEAKER>&Verbar;<HI>Maggie Beans,</HI></SPEAKER>
+<L><HI>Will Waggrels</HI> is the man I plean upon,</L>
+<L>He promisd me good <HI>Bear</HI> to sow indeed,</L>
+<L>Yet he conceiv'd me sir, with rotten seed,</L>
+<L>Hold you that reason Baily?</L>
+</SP>
+<SP>
+<SPEAKER>&Verbar;<HI>Bail.</HI></SPEAKER>
+<L>No:</L>
+<L>It is a common cause, none wi<GAP DESC="illegible" REASON="missing" EXTENT="1 letter">l say so.</L>
+<L>VVhat say you <HI>Will</HI>?</L>
+</SP>
+<SP>
+<SPEAKER>&Verbar;<HI>Will Waggr.</HI></SPEAKER>
+<L>I swear by <HI>Saint Muff</HI></L>
+<L>In all my Stack I had n<GAP DESC="illegible" REASON="missing" EXTENT="1 letter"> better stuff.</L>
+</SP>
+<SP>
+<SPEAKER>&Verbar;<HI>Bail.</HI></SPEAKER>
+<P>VVithout all question you must pay her Loss.</P>
+</SP>
+<SP>
+<SPEAKER>&Verbar;<HI>W. Wag.</HI></SPEAKER>
+<P>I'le do no less, because I am her Goss.</P>
+</SP>
+<SP>
+<SPEAKER>&Verbar;<HI>Lady,</HI></SPEAKER>
+<L>Now for my Interest Baily I compeer,</L>
+<L>VVe have a kid Thief to our webster heae,</L>
+<L>A greater Knave lives not I think nor He,</L>
+<L>Cause punish him and that exemplarly.</L>
+</SP>
+<SP>
+<SPEAKER>*<HI>Web<GAP DESC="illegible" REASON="missing" EXTENT="2 letters">er,</HI></SPEAKER>
+<P>Baily! Now for the love of God but hear Me.</P>
+</SP>
+<SP>
+<SPEAKER>&dagger;<HI>Bail.</HI></SPEAKER>
+<L>VVhat would you say? Stand by let him come near me:</L>
+</SP>
+<SP>
+<SPEAKER>&dagger;<HI>Webst.</HI></SPEAKER>
+<L>It's not so much for any Imputation,</L>
+<L>The Lady hath unto my Occupation,</L>
+<L>As for my Daughter, who but went away,</L>
+<L>Out of her service the Last <HI>Whitsunday,</HI></L>
+<L>VVho at her going, when she crav'd her Fee,</L>
+<L>The Lady lockt a gown up privily,</L>
+<L>VVhich was into my Daughters Keeping, so</L>
+<L>Her Fee thus poynded, she got leave to go:</L>
+<L>Judge you sir Baily, for I cannot read,</L>
+<L>If this be not a crying sin indeed.</L>
+</SP>
+<SP>
+<SPEAKER>*<HI>Bail.</HI></SPEAKER>
+<P>If you be true, I think Madam you wrong him.</P>
+</SP>
+<SP>
+<SPEAKER>*<HI>Lady,</HI></SPEAKER>
+<L>I know as much, sir Baily, as would hang him.</L>
+</SP>
+<SP>
+<PB N="14" REF="8">
+<SPEAKER>&dagger;<HI>Bail.</HI></SPEAKER>
+<L>Into this Ground he shall no longer sit,</L>
+<L>Wherefore I warn you presently to flit.</L>
+</SP>
+<SP>
+<SPEAKER>&dagger;<HI>Webst.</HI></SPEAKER>
+<L>Must it be so, for any thing <HI>I</HI> see,</L>
+<L>My Bounty's like unto my Daughters Fee.</L>
+</SP>
+<SP>
+<SPEAKER>&dagger;<HI>Off.</HI></SPEAKER>
+<L>Go get you gone in time, if you be wise,</L>
+<L>Lest you pass to the Knowledge of a Size.</L>
+</SP>
+<SP>
+<SPEAKER>&dagger;<HI>Bail.</HI></SPEAKER>
+<L>To speak the truth, good Servants now are Scant,</L>
+<L>Their Fees likewise are grown exorbitant.</L>
+</SP>
+<SP>
+<SPEAKER>&dagger;<HI>Clerk,</HI></SPEAKER>
+<L>It is no marvell, sir, tho it be so,</L>
+</SP>
+<SP>
+<SPEAKER>&Verbar;<HI>Bar.</HI></SPEAKER>
+<P>Tell me the reason, Clerk, before you go.</P>
+</SP>
+<SP>
+<SPEAKER>&Verbar;<HI>Clerk.</HI></SPEAKER>
+<L>Where Barons wont to keep some four, some three,</L>
+<L>They snedded have such Superfluity;</L>
+<L>One serves the Cure perhaps of little Valour,</L>
+<L>The Laird his Jackman is the Ladys Tailor,</L>
+<L>The Stewart, Cook, and Browster now are one,</L>
+<L>All gallant Fellows to the warrs are gone;</L>
+<L>In one mans person this pluralitie</L>
+<L>Makes men indeed to crave a larger Fee;</L>
+<L>And Ladys Gentle-women (as they call them)</L>
+<L>A world of Gifts must now a Days befall them</L>
+<L>To sow, to spin, weave <HI>Pearline,</HI> and knit shanks,</L>
+<L>To page the Laird, and win the Stewarts Thanks:</L>
+<L>She must be rare in all these handy trads,</L>
+<L>Cast off her Gown, and syne go make the beds;</L>
+<L>At all Occasions she must still be ready,</L>
+<L>Or else she is not meet to serve my Lady.</L>
+</SP>
+<SP>
+<SPEAKER>&dagger;<HI>Bail.</HI></SPEAKER>
+<L>Clerk, by your Leave, I'le teach the Laird a Trick,</L>
+<L>Requests you see instead of presse go thick,</L>
+<L>Offer unto some Captain two or three</L>
+<L>Of <HI>Yeomen,</HI> men within the Barony,</L>
+<L>By Violence e're they aboord be brought,</L>
+<L>They'll rather stay and serve the Laird for nought.</L>
+</SP>
+<SP>
+<PB N="15" REF="8">
+<SPEAKER>&dagger;<HI>Ten.</HI></SPEAKER>
+<L>Baily, Forsooth your Counsell ay was good,</L>
+<L>An heavy Curse we give you to conclude.</L>
+</SP>
+<SP>
+<SPEAKER>&dagger;<HI>Bail.</HI></SPEAKER>
+<L>Your VVorship will take you for Me I trow,</L>
+</SP>
+<SP>
+<SPEAKER>&dagger;<HI>Bar.</HI></SPEAKER>
+<P>Such Casualitys belong to you.</P>
+</SP>
+<SP>
+<SPEAKER>&dagger;<HI>Bail.</HI></SPEAKER>
+<P>Sir, I request you for the Clerk provide them.</P>
+</SP>
+<SP>
+<SPEAKER>&dagger;<HI>Clerk</HI></SPEAKER>
+<P>Nay, rather, sir, betwixt you two divide them.</P>
+</SP>
+<SP>
+<SPEAKER>&dagger;<HI>Lady,</HI></SPEAKER>
+<L>Clerks ay were Knaves: Take up your books, and gilt,</L>
+<L>You fash the Laird, your Dinner, sir, is spilt.</L>
+</SP>
+<SP>
+<SPEAKER>&dagger;<HI>Baron,</HI></SPEAKER>
+<L>Up stay the Pleugh, and let Us kill a Mouse,</L>
+<L>I and the baily must have one Carouse.</L>
+</SP>
+<P><HI>Vivet post Funera VIRTVS.</HI></P>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

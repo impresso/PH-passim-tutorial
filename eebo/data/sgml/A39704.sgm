@@ -1,0 +1,4794 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD EEBOPROOF 2.0//EN">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-09-22</DATE>
+<RESPSTMT>
+<NAME>Mona Logarbo</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>*Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate.
+*Checked for GROUP tags.
+*Proofed title page(s).
+*Checked ^s.
+*Checked I / J.
+*Checked oe for ae ligatures.
+*Reviewed structure.
+On PB REF="3," removed the DIV1 and made text a part of the preceding DIV1 since this is all part of the dedication.
+On PB REF="9," removed P and replaced ARGUMENT with HEAD TYPE="sub".
+On PB REF="5," added HEAD TYPE="illustration" with FIGURE / P.
+Removed BACK matter since the "Epilogue" ends the play.
+On PB REF="71," changed CLOSER to TRAILER.
+On PB REF="31" N="45," replaced DIV4 with Q / TEXT / BODY / DIV1 TYPE="letter" and removed DIV4 following letter.
+On PB REF="31" N="45," removed SALUTE from CLOSER and made text a part of SIGNED.
+*Checked placement and completeness of PBs.
+*Checked for duplicate pages.
+*Checked for missing pages.
+*Checked spacing of foreign GAPs.
+*Checked for damage GAPs, #s, @s,  --s, &mdash;, q;s, <ABBR>Esq</ABBR> and UNCLEARs.
+In cases where "&mdash;" occurs twice, removed second one. (In cases where there two or more "&mdash;" one suffices.)
+*Corrected $s by inserting the appropriate character(s) and / or GAP DESC.
+*Checked for &amp;cs with incorrect spacing.
+*Checked for OPENERs, SALUTEs, CLOSERs, DATEs, DATELINEs, SIGNEDs,  TRAILERs, BYLINEs, etc.
+*Checked for TABLEs and LISTs.
+*Checked for LBs.
+*Checked for startqs, endqs and Qs.
+*Checked proofsheets and make corrections.
+DONE 09-22-03.</ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="A39704">
+<STC T="W">F1211</STC>
+<BIBNO T="oclc">12039558</BIBNO>
+<VID>52960</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1">
+<PB REF="1">
+<P>THE Damoiselles <HI>A LA MODE.</HI> A COMEDY.</P>
+<P>Compos'd and Written by RICHARD FLECKNOE.</P>
+<P><FIGURE>
+</FIGURE></P>
+<P><HI>LONDON:</HI> Printed for the Author, 1667.</P>
+</DIV1>
+<DIV1 TYPE="license">
+<PB REF="2">
+<P>Licens'd</P>
+<CLOSER><DATELINE><DATE>May the <HI>15th,</HI> 1667.</DATE></DATELINE>
+<SIGNED>By <HI>Roger L'Estrange.</HI></SIGNED></CLOSER>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="2">
+<P>TO THEIR GRACES THE DUKE &amp; DUCHESS OF Newcastle,
+<PB REF="3">
+THE AUTHOR DEDICATES THIS HIS COMEDY MORE HUMBLY <HI>THEN BY WAY</HI> OF EPISTLE.</P>
+</DIV1>
+<DIV1 TYPE="preface">
+<PB REF="3">
+<HEAD>THE PREFACE.</HEAD>
+<P>THis <HI>Comedy</HI> is taken out of several Excellent Pieces of <HI>Moliere.</HI> The main plot of the <HI>Damoiselles</HI> out of his <HI>Pretieusee's Ridiculee's;</HI> the Counterplot of <HI>Sganarelle,</HI> out of his <HI>Escole des Femmes,</HI> and out of the <HI>Escole des Marys,</HI> the two <HI>Naturals;</HI> all which like so many <HI>Pretieuse</HI> stones, I have brought out of <HI>France;</HI> and as a Lapidary set in one Jewel to adorn our <HI>English Stage:</HI> And I hope my set|ting them, and giving them an <HI>English</HI> foyle, has nothing diminisht of their native luster. And I have not only done like one who makes a posie out of divers flowers in which he has nothing of his own, (besides the collection, and ordering them) but like the <HI>Bee,</HI> have extracted the spirit of them into a certain Quintes|sence of mine own.</P>
+<P><PB REF="4">For the Language of the <HI>Pretieuse,</HI> it may be wondred that I durst attempt the <HI>Englishing</HI> it (so often attempted by our best <HI>English</HI> wits, and as often despaired of) it being a Language even new unto the <HI>French</HI> themselves, and so little understood by most of them, as they are forc'd to make a Dictionary for it apart; which notwithstanding I have done, and I hope with that success, as I have not only made the Language of the Author, <HI>English,</HI> but even the spirit, life, and quickness of it too.</P>
+<P>For my Printing it before 'tis Acted, 'tis only to give the Auditors their Bill of Fare before hand; so far from taking away their Appetites of seeing it after|wards, as (on the contrary) if they like it, it increases it but the more; and if every one who writes for the Stage wou'd but do the like, there wou'd not be so much deceit in it as there is&punc; Nor do I it to render it more publick, but only more legible, (few having patience to read more then a Letter in written
+<PB REF="4">
+hand) and I may well say I have found out the secret of Printing, since <HI>writ|ten</HI> Copies communicated to many, and <HI>Printed</HI> only to few, are secrets alike.</P>
+<P>For the Acting it, those who have the Governing of the Stage, have their Humours, and wou'd be intrea|ted; and I have mine, and w'ont in|treat them; and were all Drammatick VVriters of my mind, they shou'd wear their old <HI>Playes</HI> Thred-bare, e're they shou'd have any <HI>New,</HI> till they better understood their own Interest, and how to distinguish betwixt good and bad.</P>
+<P>Mean time I suppose 'twill not be difficult for all who read this <HI>Comedy,</HI> to comprehend, how the VVorld's a a Theater, every place a Stage, all vvho read and understand, Actors
+<PB REF="5">
+and Auditors, and there may be as good Playes now a daies <HI>not Acted,</HI> as <HI>Acted,</HI> at our Theaters, and by our Actors here.</P>
+<CLOSER><SIGNED>Richard Flecknoe.</SIGNED></CLOSER>
+</DIV1>
+<DIV1 TYPE="introduction">
+<PB REF="5">
+<HEAD TYPE="illustration"><FIGURE>
+<P>AA</P>
+</FIGURE></HEAD>
+<HEAD>THE INTRODUCTION.</HEAD>
+<STAGE>The Candles lighted, before the Curtain's drawn, Enter one of the Actors, another (suppos'd no Actor) calling after him.</STAGE>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<P>HArk you, hark you, whither away so fast?</P>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<LG>
+<L>Why to the Theater, 'tis past three o'th Clock,</L>
+<L>and the Play's ready to begin.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<LG>
+<L>Stay a little, and I'le go along w'ye.</L>
+<L>They say y'ave a new Play to day?</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<P>We have so.</P>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<P>And who's the Author? who made it?</P>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<P>For that 'tis no matter, so the Play be good.</P>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<LG>
+<L>By your favour, but 'tis though,</L>
+<L><PB REF="6">and a great matter too; for oftentimes</L>
+<L>the reputation of the Author, is more</L>
+<L>then half the goodness of the Play.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<LG>
+<L>Let it suffice, 'tis one who has been more</L>
+<L>then a Prentiship at the Trade,</L>
+<L>and 'tis with Poets, and their Playes,</L>
+<L>as with Potters, and their Vessels,</L>
+<L>where (most commonly) your young beginners</L>
+<L>Marr half a dozen</L>
+<L>before they can make one.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<LG>
+<L>But has he any Faction for him?</L>
+<L>has he any to cry him up, in court or town?</L>
+<L>else he'l be sure to be cryed down</L>
+<L>before the Curtain's drawn, or Musick</L>
+<L>play.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<LG>
+<L>For that he's of an odd humour,</L>
+<L>and says h'ad rather stand on his own legs,</L>
+<L>then stalk on stilts of others favours.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<LG>
+<L>That's the surest way indeed,</L>
+<L>but t'other (now adays) the more plausible</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<LG>
+<L>And what thinks he of it himself? for</L>
+<L>none can do any thing but by chance,</L>
+<L>who knows not how well he does it.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<LG>
+<L>For him to praise or dispraise it</L>
+<L>were vanity,</L>
+<L>and but to usurp</L>
+<L><PB REF="6">upon the priviledge of the Auditors,</L>
+<L>only this he dares say, 'tis a <HI>Merry Comedy,</HI></L>
+<L>and he hopes will please all, but only such</L>
+<L>as wou'd have Playes as serious as their business,</L>
+<L>and as sad as Funeral Orations.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<LG>
+<L>But let him not be too confident of it though,</L>
+<L>for 'tis a Critical Age that finds out spots</L>
+<L>even in the <HI>Sun</HI> it self;</L>
+<L>and mens expectations</L>
+<L>never deceive them more</L>
+<L>then in others judgments of their Playes;</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<LG>
+<L>For him, he is so little presumptuous,</L>
+<L>as he submits his Play wholly unto</L>
+<L>the judgment of the Auditors</L>
+<L>with this Protestation,</L>
+<L>that he shall be as little offended with</L>
+<L>those who shall justly find any fault with</L>
+<L>it, as he shou'd be with those who</L>
+<L>shou'd find any durt</L>
+<L>or spot of durt,</L>
+<L>on his Hat, or Cloaths, to brush off,</L>
+<L>or wipe away;&mdash;</L>
+<L>nay he shou'd take it</L>
+<L>as a courtesie from them rather.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<LG>
+<L>As for that</L>
+<L><PB REF="7">he shall find enough</L>
+<L>to do him that courtesie</L>
+<L>(I'le vvarrant him)</L>
+<L>and me amongst the rest.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<P>Come, let's go then.</P>
+</SP>
+<STAGE>Exeunt.</STAGE>
+</DIV1>
+<DIV1 TYPE="dramatis personae">
+<PB REF="7">
+<HEAD>Of the Persons Represented, and Actors Representing them.</HEAD>
+<P>TOgether with the Per|sons Represented in this Comedy, I have set down the Comedians, whom I intended shou'd Represent them, that the Reader might have half the pleasure of seeing it Acted, and a lively imagination might have the pleasure of it all intire. The Scaenes &amp; Cloaths being the least Considerable in it, any <HI>Italian</HI> Scaenes with four Doors serving for the one, and for the other any <HI>French</HI> Cloaths <HI>A la Mode.</HI></P>
+<LIST>
+<PB REF="8">
+<HEAD>The Persons Represented.</HEAD>
+<ITEM>Monsir <HI>Bonhomme,</HI> Father to the <HI>Damsels.</HI>
+<LIST>
+<HEAD>In love with <HI>Isabella.</HI> His Friend.</HEAD>
+<ITEM>Monsir <HI>Valerio,</HI></ITEM>
+<ITEM>Monsir <HI>Ergasto,</HI></ITEM>
+</LIST>
+<LIST>
+<HEAD>Suitors unto them.</HEAD>
+<ITEM>Monsir <HI>Du Buisson</HI></ITEM>
+<ITEM>Monsir <HI>La Fleur</HI></ITEM>
+</LIST></ITEM>
+<ITEM><HI>Sganarelle,</HI> Guardian to <HI>Isabella.</HI>
+<LIST>
+<HEAD>Two Laquys disguis'd.</HEAD>
+<ITEM>Mar&abque; <HI>Mascarillio,</HI></ITEM>
+<ITEM>Count <HI>Iodelet.</HI></ITEM>
+</LIST></ITEM>
+<ITEM>Two Natural Fools, <HI>Sganerelle</HI>'s Houskeepers.</ITEM>
+<ITEM><HI>Madmoiselle Mary. Damoiselles a la Mode.</HI></ITEM>
+<ITEM><HI>Madmoiselle Anne. Damoiselles a la Mode.</HI></ITEM>
+<ITEM><HI>Isabella</HI> A vvitty Damoiselle</ITEM>
+<ITEM><HI>Lysette,</HI> the <HI>Damoiselles</HI> waiting Woman.
+<LIST>
+<HEAD>Mutes.</HEAD>
+<ITEM>Two Chair-Men.</ITEM>
+<ITEM>One of the Musick.</ITEM>
+<ITEM>Gentlemen and Ladies for the Ball, &amp;c.</ITEM>
+</LIST></ITEM>
+</LIST>
+<STAGE>The <HI>Scaene</HI> PARIS.</STAGE>
+<P>The Unity of Persons, Time, and Place, exactly observed.</P>
+<LIST>
+<PB REF="8">
+<HEAD>The Representers, as they were first design'd.</HEAD>
+<ITEM>Cartwright.</ITEM>
+<ITEM>C. Hart.</ITEM>
+<ITEM>W. Winterson.</ITEM>
+<ITEM>Burt.</ITEM>
+<ITEM>E. Keninston.</ITEM>
+<ITEM>I. Lacy.</ITEM>
+<ITEM>M. Moon.</ITEM>
+<ITEM>R. Shatterel.</ITEM>
+<ITEM>Alexander <HI>and</HI> Wilbraham.</ITEM>
+<ITEM>The Two Marshalls.</ITEM>
+<ITEM>Mrs. Rutter.</ITEM>
+<ITEM>Nel Guin.</ITEM>
+</LIST>
+</DIV1>
+<DIV1 TYPE="prologue">
+<PB REF="9">
+<HEAD>PROLOGUE.</HEAD>
+<HEAD TYPE="sub">Intended for the Overture of the Theater, 1666.</HEAD>
+<LG>
+<L>IN these sad Times our Author has been long</L>
+<L>Studying to give you some diversion;</L>
+<L>And he has ta'n the way to do't, which he</L>
+<L>Thought most diverting, mirth, and Comedy:</L>
+<L>And now he knows there are inough i'th Town</L>
+<L>At name of Mirth and Comedy will, frown,</L>
+<L>And sighing say, the times are bad what then?</L>
+<L>Will their being sad &amp; heavy better them!</L>
+<L>Or rather won't their sad and heavy cheer</L>
+<L>Make these our times worse then they ar appear?</L>
+<L>Sadness for Physick may be sometimes good;</L>
+<L>But cheerfulness shou'd be our daily food;</L>
+<L>Without whose most delightful seasoning,</L>
+<L>Even life it self were an insipid thing.</L>
+<L>'Tis a great happiness when men are sad,</L>
+<L>Divertisments may any wayes be had:</L>
+<L>And we do hope our Comedy to day,</L>
+<L>May so divert you, as you all shall say,</L>
+<L>Whilst every one some Recreation has,</L>
+<L>The best and most delightful ones, are Playes.</L>
+</LG>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="play">
+<PB N="1" REF="9">
+<HEAD>THE DAMOISELLES <HI>A LA MODE.</HI></HEAD>
+<DIV2 N="1" TYPE="act">
+<HEAD>Actus I.</HEAD>
+<DIV3 N="1" TYPE="scene">
+<HEAD>Scaena I.</HEAD>
+<STAGE>Enter Sganarelle and Monsieur Bonhomme.</STAGE>
+<SP>
+<SPEAKER>Bonhomme.</SPEAKER>
+<P>NAy but will you hear me a little?</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<LG>
+<L>Perhaps I will, perhaps I will not.&mdash;</L>
+<L>You don't come to chide me I hope?</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>No, but to give you good coun|sel rather.</P>
+</SP>
+<SP>
+<PB N="2" REF="10">
+<SPEAKER>Sgan.</SPEAKER>
+<P>And that's little better then chiding.</P>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>And to tell you as a friend what the world says of you.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>What care I what it says?</P>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>I there 'tis now! you care not for the world, nor the world for you; who live in't so sequestred from all socie|ty: You seem no more a part of the Universe, then a loose stone in a wall, a part of the building, or Edifice.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Well 'tis my humour, what then?</P>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>Then y'ar as froward as young Children, as wayward as old age; and for courtesie and civility the chiefest bond of humane Society, y'ar a meer stranger to't, and know no more then the very <HI>Savages</HI> in <HI>America.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Ha, ha, ha.</P>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>What d'ye laugh! and are you not mov'd with this?</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Yes to a little vanity or so, to hear so much of my Commendations.</P>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>If you count this your commen|dations, what d'ye count discommenda|tions I pray?</P>
+</SP>
+<SP>
+<PB N="3" REF="10">
+<SPEAKER>Sgan.</SPEAKER>
+<P>Why to be counted such a silly fool, to have them say of me, <HI>Oh! he's a very good! a very honest man!</HI></P>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>And is goodness, and honesty, a discommendation with you then?</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>I marry is it, as the world goes now adays, when it only serves to fool us, and makes us but a prey to every knave.&mdash;</P>
+<P>And what do they say beside?</P>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>Why since you'l needs have it, for Madmoiselle <HI>Isabella.</HI>&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>I, what do they say of her?</P>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>Why they say, she was not left unto your care by her deceased father, to be made a slave and prisoner by you.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>And was she left unto your care I pray?</P>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>Why no, who says she was?</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Then meddle with that you have to do withal,&mdash;you'd have me bring her up, I'le warrant you, as you do your fine Daughters there, to be always gadding abroad a visiting.</P>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>Well.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Or visited at home?</P>
+</SP>
+<SP>
+<PB N="4" REF="11">
+<SPEAKER>Bonh.</SPEAKER>
+<P>And that too?</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>And have all your fine youths and Gallants of the Time (who stoop like Pyes or Dawes when they peck at fruit, alternaetly, their tayls above their becks) complement them, and give them Balls and Collations?</P>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>And what then?</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Why then y'ar a fool, Cousin, and if you were twenty Cousins I'de tell you so;&mdash;for her, being committed to my care, either to marry her, or see her well marryed, I'le bring her up in manner as befits a wife, in the blessed state of ignorance, she shall see and know nothing; for this seeing and knowing too much, undid the first woman in Paradise, and has undone all your Women ever since.</P>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>Shu'd your Women but hear you, they'd claw out your eyes for this.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Then she shall have no Books to read in, for that but corrupts them at second hand; and if she had not learnt to write and read before her fa|thers death, she shu'd have never learnt for <HI>Sganarelle.</HI></P>
+</SP>
+<SP>
+<PB N="5" REF="11">
+<SPEAKER>Bonh.</SPEAKER>
+<P>And this you count good bree|ding now?</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Better then your fine Daughters have, I wuss, to be always a' the mode, drest up unto the heigth, as if such Beau|ties simply of themselves, wear not darts killing and dangerous enough, but they must be poysoned too? no, I'le keep her untainted from the vanities of the Time.</P>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>Alas! you know she is too wise to be corrupted by them.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>No matter for that, I'le trust rather to mine own wisdom, then unto hers, and keep so strict a hand o're her, as she sha'nt be corrupted, though she wo'd.</P>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>And I so gentle an one o're mine, as I hope they wou'd not, though they cou'd.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Well then since y'ar so resolv'd, take you your course, and I'le take mine, and see who'l have the better of it at the end.</P>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>Content, and see:</P>
+<P>Here comes my Daughters&mdash;they have done their visit it seems.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>And <HI>Isabella</HI> with them! I like not that.</P>
+</SP>
+</DIV3>
+<DIV3 N="2" TYPE="scene">
+<PB N="6" REF="12">
+<HEAD>SCENA II.</HEAD>
+<STAGE>Enter Madmoiselle Anne, Mary, Isabella, and Lysette.</STAGE>
+<SP>
+<SPEAKER>Mary.</SPEAKER>
+<P>ANd do's he coop you up so?</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>So as you see.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Nor suffers you to be visited by none.</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>By none but you, and that he grumbles at too!</P>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<P>How d'ye pass your time then&mdash;learn to Preserve perhaps?</P>
+</SP>
+<SP>
+<SPEAKER>Lys.</SPEAKER>
+<P>I&mdash;to preserve her shooes, if she never stirs abroad.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>And yet do's he make Love t'ye?</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>I, as Cats do, or <HI>High-Dutch</HI> to their Mistresses, you'd think they chid the while.</P>
+</SP>
+<SP>
+<SPEAKER>Lys.</SPEAKER>
+<P>And I'd scold as fast, were it to me.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Come you shall go abroad with us and take the air.</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>He'l never suffer it.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>I'le warrant you.</P>
+</SP>
+<SP>
+<PB N="7" REF="12">
+<SPEAKER>Sgan.</SPEAKER>
+<P>Now! whither away so fast w'ye?</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>I tremble every joynt of me!</P>
+</SP>
+<SP>
+<SPEAKER>Lys.</SPEAKER>
+<P>Fie for shame!&mdash;e're I'd stand in such awe of any man, I'd see him hang'd, if he were worth hanging.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>W'ave intreated our Cousin here along with us to take the air.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>for you, you may go if you please; but for her, she shall tarry at home, I'le have no gadding with her.</P>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>Pray let me intreat for her this once,&mdash;we must allow youth some Re|creation.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Youth's a fool, and Age is little better;&mdash;she'as Recreation enough at home, she needs not go abroad for't.</P>
+</SP>
+<SP>
+<SPEAKER>Lys.</SPEAKER>
+<P>What? to make you Night-caps! or piece your old Stockins at heels perhaps!</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>I'le none of these Recreations, I, in her whom I intend to make my wife.</P>
+</SP>
+<SP>
+<SPEAKER>Lys.</SPEAKER>
+<P>Your wife! what shou'd you do with a wife I pray? a dainty Itch well scratcht, or Curry-comb neatly handled, wou'd do your business.</P>
+</SP>
+<SP>
+<PB N="8" REF="13">
+<SPEAKER>Bonh.</SPEAKER>
+<P>Peace, huswife, y'ar too bold.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Shan't we intreat so much for her this once then?</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>No indeed Sha'nt you, and I'd intreat you to come and visit her no more if this be your business,&mdash;I fear she learns no good of you, so she does not.</P>
+</SP>
+<SP>
+<SPEAKER>Lys.</SPEAKER>
+<LG>
+<L>More then of you for all your</L>
+<L>sowre countnance</L>
+<L>and venegar meen&mdash;i'faith, i'faith were I</L>
+<L>as she, if you shou'd use me thus, I'd make</L>
+<L>you a Cuckold if ever I marryed you.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<LG>
+<L>And were she</L>
+<L>as you, I think she wou'd indeed;</L>
+<L>but as she is, I'le look to her well enough,</L>
+<L>she shall have none of your mothers</L>
+<L>Daughters for Counsellors.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Lys.</SPEAKER>
+<P>And if she had, she'd be better counselled then by your father's son, I wuss.</P>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>Come, come, leave your prattle, and Daughters go you home, where y'ar to expect two honest Gentlemen, in na|ture of Suiters to come and visit you.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<LG>
+<L>Fine Gentlemen <STAGE>spoken scornfully.</STAGE></L>
+<L>I'le vvarrant them!</L>
+</LG>
+</SP>
+<SP>
+<PB N="9" REF="13">
+<SPEAKER>Bonh.</SPEAKER>
+<P>And look you use them kindly when they come, and entertain them well, d'ye hear?</P>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<P>Ne're fear it, we'l entertain them as they deserve.</P>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>Do so then&mdash;so go and take your leaves.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>I good Lady <HI>Eve</HI> begone and take your Tempter there, your waiting|woman along w'ye.</P>
+</SP>
+<SP>
+<SPEAKER>Lys.</SPEAKER>
+<P>I'faith, i'faith, were I your Temp|ter, I'd only tempt you to hang yourself, or so.</P>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>Go, go, begone I say, and I'le but only go dispatch a little business I have i'th' Town, and strait ways follow you.</P>
+<STAGE>Exeunt Damoiselles.</STAGE>
+<P>As for you Cousin, I'ave only this to say t'ye before I go,&mdash;</P>
+<P>Those who seek to be rather fear'd then lov'd, shall find themselves rather hated then fear'd at last,&mdash;and so farevvell.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Very good&mdash;and I've only this to say to you too before you go&mdash;let them hate me so they fear me, and so fare|well to you again.</P>
+</SP>
+<STAGE>Exit Bonhomme.</STAGE>
+<STAGE><PB N="10" REF="14">Manent Sganarelle and Isabella.</STAGE>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>So&mdash;now get you in and expect no more this liberty, d'ye hear? she whom I intend to make my wife, must imagine my house is all the world, and that there's no other company in the world but only she and I.</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>bless me! that imagination wou'd make me desperate!</P>
+<STAGE>Aside.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>So&mdash;make your curtsie, and be gone,&mdash;&punc; very good&mdash;and look to your business, d'ye hear!</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>Which is only to be rid of you, which till I am,</P>
+<STAGE>Aside.</STAGE>
+<P>I will be nothing but Plot and Strata|gem.</P>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Now let me think a little.</P>
+</SP>
+</DIV3>
+<DIV3 N="3" TYPE="scene">
+<HEAD>SCENA III.</HEAD>
+<STAGE>Enter Valerio and Ergato, Sganarelle.</STAGE>
+<SP>
+<SPEAKER>Valerio.</SPEAKER>
+<P>YOnders the waking Dragon that has my Golden fruit in Custody, I'd fain be acquainted vvith him.</P>
+</SP>
+<SP>
+<PB N="11" REF="14">
+<SPEAKER>Sgan.</SPEAKER>
+<P>Let me see, what am I about now? to marry&mdash;very good, an honourable calling! and if there be any pleasure and contentment in this life, your marryed man has it&mdash;I'le go marry presently, I am resolv'd on it.</P>
+</SP>
+<STAGE>Valerio salutes him, and he minds him not.</STAGE>
+<SP>
+<SPEAKER>Er.</SPEAKER>
+<P>He sees you not, to him agen.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>But stay <HI>Sganarelle,</HI> consider a little first, how besides the care and trou|ble of wife and children, all marryed men, or are, or may be Cuckolds&mdash;hum! I'le none of't, marry who's list for me.</P>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<P>He's blind a' this side (sure,) I'le try the other.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Well, I'le take some further time to consider on't; mean time I'le out of Town assoon as I can, for there's no keeping a woman here without a hundred eyes.</P>
+</SP>
+<SP>
+<SPEAKER>Erg.</SPEAKER>
+<P>Now, now.</P>
+</SP>
+<STAGE>Espies him.</STAGE>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Whoo! what a do's here, this is no <HI>English Quaker</HI> sure, he makes so many Reverences&mdash;agen? sure he's some
+<PB N="12" REF="15">
+young Reveller, practising to make his honours here&mdash;with me Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<P>Yes Sir, I have the happin<GAP DESC="illegible" REASON="blotted" EXTENT="1 letter">ss to be your Neighbour here hard by.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>It may be so.</P>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<P>I shu'd be glad of your better acquaintance.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>And why so I pray?</P>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<P>Only to come and discourse w'ye sometime, o'th affairs o'th time, and news o'th Town, as who's marryed, to whom.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Let them be hang'd, what care I.</P>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<P>And what's said or done at Court, amongst the rest, d'ye hear the News Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>No, nor I don't care to hear it.</P>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<LG>
+<L>No fastning any discourse on him?</L>
+<L>I perceive Sir you live solitary <STAGE>Aside.</STAGE></L>
+<L>and retir'd at home.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>What's that to you?</P>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<P>And shu'd be glad of company sometimes.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Who told you so?</P>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<P>And i'faith how d'ye pass your time at home.</P>
+</SP>
+<SP>
+<PB N="13" REF="15">
+<SPEAKER>Sgan.</SPEAKER>
+<P>Why, as I please my self.</P>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<P>You do very well in't, and so shu'd every one do that is wise; and if you please, I shu'd be glad sometimes to come and pass an Eve'ning w'ye, or so.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Serviteur.</P>
+</SP>
+<STAGE>Exit abruptly.</STAGE>
+<STAGE>Manent Valerio and Ergato.</STAGE>
+<SP>
+<SPEAKER>Erg.</SPEAKER>
+<P>Ha, ha, ha!</P>
+<P>If he fight at this ward as he speaks, I'le warrant any one for hitting him,&mdash;Now&mdash;what d'ye think of him, and of his brisk replyes?</P>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<P>Why I think he's one of the race of the antient <HI>Spartans,</HI> or <HI>Pythagoreans,</HI> h'as so few words with him.</P>
+</SP>
+<SP>
+<SPEAKER>Erg.</SPEAKER>
+<P>And those he has, are all rusty, and want oyling; the whorson speaks nothing but old Iron and Hobnails.</P>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<P>Rather Daggers and Punyards that stab me to the heart;&mdash;what a mise|ry is't to have her I love, guarded by such a <HI>Cerberus</HI> as he?</P>
+</SP>
+<SP>
+<SPEAKER>Erg.</SPEAKER>
+<P>Rather 'tis your happiness; for take this from me, a Woman guarded, is half won; and he who but delivers her from her Guardian, gains the other half of her.</P>
+</SP>
+<SP>
+<PB N="14" REF="16">
+<SPEAKER>Val.</SPEAKER>
+<P>I, but how to do't, there's all the difficulty.</P>
+</SP>
+<SP>
+<SPEAKER>Erg.</SPEAKER>
+<P>Think, think, have you no in|vention in you? I never saw a man so dull;&mdash;did you ever speak unto her?</P>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<P>Never.</P>
+</SP>
+<SP>
+<SPEAKER>Erg.</SPEAKER>
+<P>Nor writ unto her?</P>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<P>Neither.</P>
+</SP>
+<SP>
+<SPEAKER>Erg.</SPEAKER>
+<P>Why then y'ave done nothing yet;&mdash;has she no servants to make your confidents?</P>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<P>None as I know of; only as often as she goes abroad, I follow her; nor do's the <HI>Hyacinth</HI> that amorous flovver, e're follovv the Sun vvith more assidual re|gards, then I do her.</P>
+</SP>
+<SP>
+<SPEAKER>Erg.</SPEAKER>
+<P>But do's she take notice of it?</P>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<P>That I knovv not neither.</P>
+</SP>
+<SP>
+<SPEAKER>Erg.</SPEAKER>
+<P>Why then you knovv nothing&mdash;think, think on some vvay to let her knovv your love for shame.</P>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<P>I but vvhat? the more I think on it, the more impossible I find it.</P>
+</SP>
+<SP>
+<SPEAKER>Erg.</SPEAKER>
+<P>Hang impossibilities! there's no such things in nature, 'tis hope enough, you love a Woman, and she a living one;
+<PB N="15" REF="16">
+<HI>Pigmalion</HI> only lov'd the dead Statua of one, and yet (you see) he put life into it at last.&mdash;Think, think agen then, and I'le vvarrant you, the brain's a fertile soil; and let our vvit but sovv the seed, Time soon will ripen it.</P>
+</SP>
+<STAGE>Exeunt.</STAGE>
+</DIV3>
+<DIV3 N="4" TYPE="scene">
+<HEAD>SCENA IV.</HEAD>
+<STAGE>Enter Sganarelle and Isabella.</STAGE>
+<SP>
+<SPEAKER>Sganarelle.</SPEAKER>
+<P>SAy no more, I knovv the man, and the house he lives at&mdash;<HI>Valerio</HI> d'ye call him?</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>So they tell me Sir.</P>
+<P>Heaven prosper my plot, as my intent is innocent.</P>
+</SP>
+<STAGE>Aside.</STAGE>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Go, go in, and let me alone vvith him: Gramercy for this Intelligence i'faith novv I see thou lov'st me.</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>I, as I do a Snake or Toad.</P>
+</SP>
+<STAGE>Aside.</STAGE>
+<STAGE>Manet Sganarelle.</STAGE>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>I! are you such an one indeed!
+<PB N="16" REF="17">
+I'm glad I knovv it,&mdash;no vvonder he made me so many Reverences, and desir'd to come and visit me,&mdash;I'le none of that I thank you; that vvere to let a <HI>Thief</HI> into my house, or <HI>Wolf</HI> into my sheepfold; but he that's vvarn'd is Arm'd, I'le to him strait, and tell him soundly of it;&mdash;but stay before I go, let me make all sure at home: Where are my <HI>Urchins?</HI> vvhere are my <HI>Changlings</HI> there?</P>
+</SP>
+</DIV3>
+<DIV3 N="5" TYPE="scene">
+<HEAD>SCENA V.</HEAD>
+<STAGE>Enter two Natural Fools.</STAGE>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<P>HEre Master.</P>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<P>Here Master.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>These are all the servants I keep, or rather the Parish keeps them, and they serve vvell enough to keep my house, there's thrift and policy together novv: I suppose they vvill be faithful, 'cause they have not vvit enough to be othervvise, Come hither, you must stand modestly vvhilst I speak unto ye; hovv often have <STAGE>espyes them Playing.</STAGE>
+<PB N="17" REF="17">
+I told you of this!</P>
+<P>I must go abroad, d'ye hear?</P>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<P>I Master.</P>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<P>I Master.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>And be sure in my absence you look well unto my house.</P>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<P>I Master.</P>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<P>I Master.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>If any Trades-woman come, un|der pretence of selling their Ware, be sure you keep them out, for th'ar all Bawds, d'ye hear?</P>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<P>I Master.</P>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<P>I Master.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>As for the men, I need not tell you how dangerous it is to let them in who talk to women of nothing but fire &amp; flames.</P>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<P>I Master.</P>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<P>I Master.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Then though your Mistress fall into a swound, be sure you let no Physici|an in unto her, for their looking to their waters is altogether as dangerous as t&punc;o|thers fires.</P>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<P>I Master.</P>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<P>I Master.</P>
+</SP>
+<SP>
+<PB N="18" REF="18">
+<SPEAKER>Sgan.</SPEAKER>
+<P>So, being so well instrusted, 'go, look carefully to your charge, and my benediction w'ye.</P>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<P>I'le go for fear the Cat eat up my Bird.</P>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<P>And I for fear the Dog lap up my Porridge.</P>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE>Manet Sganarelle.</STAGE>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Now for my other business, this is the house as I take it.</P>
+<P>Holla, who's within there?</P>
+</SP>
+<STAGE>Knocks.</STAGE>
+</DIV3>
+<DIV3 N="6" TYPE="scene">
+<HEAD>SCAENA VI.</HEAD>
+<STAGE>Enter Valerio and Ergasto.</STAGE>
+<SP>
+<SPEAKER>Valerio.</SPEAKER>
+<P>VVHo knocks there? Oh Sir is it you, y'ar very welcome.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>I'le none of your welcomes.</P>
+</SP>
+<SP>
+<SPEAKER>Erg.</SPEAKER>
+<P>He's at's old ward agen.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Is your name <HI>Valerio?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<P>It is Sir, at your service.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>I'le none of your services neither, but I come to ask you whether you know that I am Guardian to a certain Damoi|selle
+<PB N="19" REF="18">
+call'd <HI>Isabella</HI> there.</P>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<P>I do Sir very well.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Well then, if you know it, I need not tell you so&mdash;next, if you know that, having the disposing of her in Marriage, I intend to marry her my self.</P>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<P>That I know not yet.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Well then, if you don't, I'd have you know so much, and that I take it very unkindly at your hands, that she can never stir abroad, but you are hanting her like a Ghost, and following her so, she may aswell be rid of her shadow, as of you.</P>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<P>I Sir!</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>I you Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<P>Who tells you so I pray?</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Marry those who best can tell, even she her self.</P>
+</SP>
+<SP>
+<SPEAKER>Erg.</SPEAKER>
+<P>There's some comfort, she takes notice of thee yet.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>'And besides she bids me tell you that she marks the amorous glances that you give her too.</P>
+</SP>
+<SP>
+<SPEAKER>Erg.</SPEAKER>
+<P>Ah, ha, Boyes! this works.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>And having perceiv'd thus much she wou'd advise you to take some other
+<PB N="20" REF="19">
+course, for this won't do she says.</P>
+</SP>
+<SP>
+<SPEAKER>Erg.</SPEAKER>
+<P>Why this is clear, she's thine own I'le warrant thee boy.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>And this she says she wou'd have told you soon, but that she wanted oppor|tunity of a fit messenger, and was loath to trouble me.</P>
+</SP>
+<SP>
+<SPEAKER>Erg.</SPEAKER>
+<P>A notable witty wench!</P>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<P>Well, Sir I'm sorry I've put you to this trouble, and pray tell her I follow her 'tis true, and look on her, with the same Reverence as adoring <HI>Persians</HI> look upon the Sun.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Pray lets have no more of your Reverence; w'ave had enough of them to day already, and for your looks pray keep them to your self, for if I catch you looking on her any more.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<P>What then?</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Why then&mdash;I'd intreat you to look on some body else.</P>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<P>Oh! is that all?</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>And so farewell unto ye.</P>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<P>I dare not bid him farewell agen now, least he shou'd be angry&mdash;well what dost think of this?</P>
+</SP>
+<SP>
+<PB N="21" REF="19">
+<SPEAKER>Sgan.</SPEAKER>
+<P>I've made him stare like a Pig! little did he look for such a message from her.</P>
+</SP>
+<SP>
+<SPEAKER>Erg.</SPEAKER>
+<P>Why she's done thy business to thy hand, and prevented thee.</P>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<P>Peace he observes us, let us in, and think what use to make of it.</P>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE>Manet Sganarelle.</STAGE>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>I think I have put him to his dumps. I marry here's a vertuous woman now! that's offended if a man but look on her! where shall you find such another? and how long wou'd it bee're my Cousin's Daughters wou'd do so much, who dress up themselves a purpose to be lookt upon? but <HI>Isabella</HI> defyes them all, and I defie all the world to shew me such ano|ther; thanks to my care of her, and her good Breeding and Education.</P>
+</SP>
+<STAGE>Exit.</STAGE>
+</DIV3>
+<TRAILER>Finis Actus Primi.</TRAILER>
+</DIV2>
+<DIV2 N="2" TYPE="act">
+<PB N="22" REF="20">
+<HEAD>Actus II.</HEAD>
+<DIV3 N="7" TYPE="scene">
+<HEAD>Scaena VII.</HEAD>
+<STAGE>Enter Monsieur Du Buisson, and La Fleur.</STAGE>
+<SP>
+<SPEAKER>La Fleur.</SPEAKER>
+<P>VVEll, and what think you of our Entertainment now?</P>
+</SP>
+<SP>
+<SPEAKER>Du Buis.</SPEAKER>
+<P>Why I think, had we been of the lowest rank of men, no higher then Grooms and Foot-boys, they cou'd not have entertain'd us more scurvily, nor with more contempt and scorn.&mdash;</P>
+<P>Proud pets! not so much as salute us, nor offer us to sit!</P>
+</SP>
+<SP>
+<SPEAKER>La Fl.</SPEAKER>
+<P>No, nor speak to us, and when we spoke to them, not so much as daign to answer us with yea nor no!</P>
+</SP>
+<SP>
+<SPEAKER>Du Buis.</SPEAKER>
+<P>Then there was such winking and whispering, such laughing and teehy|ing with them?</P>
+</SP>
+<SP>
+<SPEAKER>La Fl.</SPEAKER>
+<P>I, and such yavvning and rub|bing of their eyes, vvith ever and anon
+<PB N="23" REF="20">
+looking on their Watches, as if they thought the time too long, and vvere a vveary of our Companies.</P>
+</SP>
+<SP>
+<SPEAKER>Du Buis.</SPEAKER>
+<P>And at last they fairly rose and went away without so much as bid|ding us farewell:&mdash;But I know the rea|son of this, and if I do not fit them for't.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>La Fl.</SPEAKER>
+<P>As how I prithee?</P>
+</SP>
+<SP>
+<SPEAKER>Du. Buis.</SPEAKER>
+<P>Why I have observed your Damoiselles in <HI>Paris</HI> here, and almost all <HI>France</HI> over, are grown of late as mad with reading your modern Romances, as Don <HI>Quixot</HI> was with reading your anci|ent Books of Chivalry; and look that all who visits them shou'd be as mad and Ro|mansick as themselves; and cause we were not so, they slighted us as they did; now will I cloath my Laquey like one of your Gallants, whom they admire so much, all Fool and Feather, and send him thither, and see how they'l entertain him.</P>
+</SP>
+<SP>
+<SPEAKER>La Fl.</SPEAKER>
+<P>Content, and I've another as foolish and fantastical as he, who can imitate all their Cringes and Comple|ments, talk bilk as loud and confi|dently as any of them, and throw him|self
+<PB N="24" REF="21">
+like a Tumbler after the Ladies, and he shall along with him.</P>
+</SP>
+<SP>
+<SPEAKER>Du Buis.</SPEAKER>
+<P>The more the merryer.&mdash;But see here comes their Father Monsieur <HI>Bonhomme,</HI> good honest Gentleman, one who speaks as he thinks, and does as he says, and means well and honestly in eve|ry thing.</P>
+</SP>
+</DIV3>
+<DIV3 N="2" TYPE="scene">
+<HEAD>SCAENA II.</HEAD>
+<STAGE>Enter Monsieur Bonhomme.</STAGE>
+<SP>
+<SPEAKER>Bonhomme.</SPEAKER>
+<P>THis <HI>Paris</HI> is nothing but noise and hurry, and one loses more spirits in a day with't here, then they can reco|ver in a month in the Country.&mdash;</P>
+<P>What Monsieur <HI>Du Buisson</HI> and Monsieur <HI>La Flour?</HI> my sons I hope they shall be! and how i'st ha? have you been with my Daughters?</P>
+</SP>
+<SP>
+<SPEAKER>Du Buis.</SPEAKER>
+<P>Yes we have seen them Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>And how d'ye like them ha?</P>
+</SP>
+<SP>
+<SPEAKER>La Fl.</SPEAKER>
+<P>Their person's well, but their Entertainment not so well.</P>
+</SP>
+<SP>
+<PB N="25" REF="21">
+<SPEAKER>Bonh.</SPEAKER>
+<P>How so?</P>
+</SP>
+<SP>
+<SPEAKER>Du Buis.</SPEAKER>
+<P>Nay for that y'ad best ask them themselves, and so we take our leaves and humbly thank you for all your courtesies and civilities.</P>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE>Manet Bonhomme.</STAGE>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>Hovv's this? this is very strange and abrupt? I'le lay my life these scorn|ful Baggages have said or done somevvhat novv that has offended them.&mdash;I shall knovv that presently, and if they have, they shall hear of 't soundly.&mdash;</P>
+<P>Who's vvithin there?</P>
+</SP>
+</DIV3>
+<DIV3 N="3" TYPE="scene">
+<HEAD>SCAENA III.</HEAD>
+<STAGE>Enter Lysette.</STAGE>
+<SP>
+<SPEAKER>Lysette.</SPEAKER>
+<P>VVHat's your pleasure Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>Where are your Mistresses?</P>
+</SP>
+<SP>
+<SPEAKER>Lys.</SPEAKER>
+<P>Above in their Closet forsooth.</P>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>What a doing I pray.</P>
+</SP>
+<SP>
+<SPEAKER>Lys.</SPEAKER>
+<P>Making <HI>Pomatum</HI> forsooth.</P>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>Go call them hither presently.&mdash;
+<PB N="26" REF="22">
+I'le no more of these <HI>Pomatums,</HI> they mean to undo me vvith them I think; I could keep half a dozen servants vvith the milk, vvhites of Eggs, and sheeps Trotters, vvhich they spend in daubing their fine Muzzles every day,&mdash;th'ar quite spoiled agen since their Mothers death, she kept them to their vvork, but novv there's nothing but idleness vvith them, and rea|ding of these paltry Romances, that fill their heads vvith nothing but vvhimseys and vvindmills that are perpetually tur|ning round;&mdash;vvou'd they vvere all burnt for me.</P>
+</SP>
+</DIV3>
+<DIV3 N="4" TYPE="scene">
+<HEAD>SCAENA IV.</HEAD>
+<STAGE>Enter Madmoiselle Ann, Mary and Lysette.</STAGE>
+<SP>
+<SPEAKER>Bonhomme.</SPEAKER>
+<P>COme, vvhere are you?&mdash;and hovv did&punc; you use those Gentle|men I pray, whom I recommended for Husbands t'ye that they are gone away so discontent?</P>
+</SP>
+<SP>
+<PB N="27" REF="22">
+<SPEAKER>Mar.</SPEAKER>
+<P>Better then they deserv'd I'm sure.</P>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>How so?</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Fine Gentlemen indeed! to be|gin their addresses to us with Matrimony at first dash!</P>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>And how wou'd you have them begin, with Concubinage, I pray? I'm sure 'tas been the beginning of all who 'ave meant well and honestly ever since I was born.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Fie Father, how simply and vul|garly you talk? introth I'm, asham'd of you! had the <HI>Grand Cyrus</HI> begun with <HI>Mandana</HI> a' this manner, or else <HI>Aruns</HI> with <HI>Clelia,</HI> w'ad had a fine Romance no doubt of it, no longer then the Posie of a Wedding Ring.</P>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>What have I to do with <HI>Aruns</HI> and <HI>Clelia,</HI> or the Grand <HI>Cyrus</HI> either?</P>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<P>Nay father my sister tells you right, for to begin with Marriage, was to begin at the wrong end, and to take the Ro|mance by the tayle, as they use to say.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>No father, a hundred Adventures must precede, and a hundred Intrigues, before it comes to that; as first the Cava|lier
+<PB N="28" REF="23">
+must see the Lady in some Ball Tem|ple or publick solemnity, and there fall desperately in love with her.</P>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<P>Then by some friend or near pa|rent or so, he's to be brought to kiss her hands, when he's to endeavour by a thou|sand Gallantries, to gain her favour and good esteem.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>But not a word of Marriage all this while, until at last in some Terrase or private walk i'th Garden, remote from Company, he's to declare his love unto her.</P>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<P>When presently in mighty dis|pleasure she's to leave him, and banish him her presence.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Then is he to pine, languish, and consume away, ('twould pitty you to see him) till at last by mediation of some friend, and's humble submission, her an|ger is appeas'd, his banishment revokt, and he restor'd unto her favour and grace agen.</P>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<P>But not a word of Marriage, all this while.</P>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>Never have done!</P>
+</SP>
+<SP>
+<PB N="29" REF="23">
+<SPEAKER>An.</SPEAKER>
+<P>Till after a hundred persecutions of Parents displeasures, servants Treache|ries, and Rivals Jealousies, with two or three duels at least (happy if he scapes with life) by mutual consent he's to steal her away at last, and so to marry her.</P>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>I thought they'd never have done,</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>This father in true Gallantry now, is to marry <HI>a la mode,</HI> a la <HI>Belle mani|ere</HI> as they say.</P>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>Fidle fadle! without all these ceremonies and ado's, you shall marry these Gentlemen, and that presently, or I'le know why you shall not, do ye hear? you <HI>Mary</HI> and <HI>Anne,</HI> I say you shall&punc;</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Oh father! for heavens Love call us no more by those scurvy trivial names of <HI>Anne</HI> and <HI>Mary,</HI> able to spoile the best Romance as e're was writ.</P>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>Yet more Romances!</P>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<P>My Sister tells you true Father, and be you Judg your self, whether <HI>Ama|ranthe</HI> and <HI>Polixene,</HI> Names which w'ave chose ourselves, sound not a hundred times better then <HI>Mal</HI> and <HI>Nane,</HI> Names only for Orange women, able to shock any
+<PB N="30" REF="24">
+curious ear; out upon't, I wonder you can endure to hear them!</P>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>Go to, I say, I'le none of these <HI>Amarantha's</HI> and <HI>Polixens,</HI> but have you call'd by the names you were Christned by at the Font and Baptism, by your God|fathers and Godmothers.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Still Father will you be vulgar and trivial? to talk of Godfathers and Godmothers, Christendom, Fonts, Bap|tism, and I know not what, as if you were Catechising! when I pray did you ever read of these in a Romance.</P>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>And when did I ever read a Ro|mance I pray?</P>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<P>I that 'tis that makes you so igno|rant as you are, if you had, i'faith you wou'd have better known what belongs to Gallantry and <HI>a la mode.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P><HI>Mode</HI> me no <HI>modes,</HI> but leave these Fopperies, and marry these Gentle|men presently, or else you both go to a Nunnery, there's the short and the long of it: My shoulders are too weak I tell you plain, to carry any longer so heavy a burthen as tvvo such as you unmarryed in my house.</P>
+</SP>
+<SP>
+<PB N="31" REF="24">
+<SPEAKER>An:</SPEAKER>
+<P>For my part father I cou'd be vvell content to marry, so it vvere vvith one I likt.</P>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>And what i'st you dislike in these I pray?</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Why a hundred things, first for a man to come a wooing in a plain and simple leg, without canons, a Hat without Feathers, and so horrible and furious an indigence of Ribbons and Garniture of his clothes, vvho cou'd endure it?</P>
+</SP>
+<SP>
+<SPEAKER>An&punc;</SPEAKER>
+<P>Then their Linnen vvas none of the finest, nor o'th best Linniners making neither:</P>
+</SP>
+<SP>
+<SPEAKER>An:</SPEAKER>
+<P>Besides 'tvvas all plain as my Sock vvithout, or point of <HI>Geneva, Venice, Ra|gusa, Sedan,</HI> or <HI>Oreliaek.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>What faults they find?</P>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<P>Besides their hair instead of fal|ling handsomely and regularly unto curls, as it ought to do, either stood wildly staring up an end, or else hang loosly dangling down as 'f 'twere comb'd a' the <HI>German</HI> manner, only with four fingers and a thumb.</P>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>Tush, toyes and trifles!
+<PB N="32" REF="25">
+Tell me, are they not honest and proper men?</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Proper enough I must confess to make Noble mens Porters, or <HI>Swizers</HI> of the Guard, and for their Honesties, they look indeed as if they had their Maiden|heads still, and that is as much out of fashion with Gallants, a't'other side&punc;</P>
+</SP>
+<SP>
+<SPEAKER>An&punc;</SPEAKER>
+<P>Then for their Language 'twas as unfashonable as their clothes, all clow|nish, savouring of the Country, far from the Elegance and Gallantry of Court, where they speak such douceurs, such dain|ty and delicate things, as 'tis a very Ban|quet for Ladies Ears:</P>
+</SP>
+<SP>
+<SPEAKER>Mar:</SPEAKER>
+<P>Besides d'ye think we'd marry only with simple Gentlemen, without any honour or Titles to set them off, but bare Monsieur <HI>du Buisson</HI> and Monsieur <HI>LaFleur</HI>&mdash;one poor Hawthorn bush in <HI>France</HI> wou'd make four or five as good Gentle|men as they:</P>
+</SP>
+<SP>
+<SPEAKER>Bonh&punc;</SPEAKER>
+<P>Come, all this is but trifling, and I'le hear no more of it: In a word, resolve to marry these Gentlemen, or you know what follows; for the rest whil'st y'ar in
+<PB N="33" REF="25">
+the Town I give you free liberty to see and follow the fashion, visit, and be vi|sited, do what you will, y'ar Mistresses of my house, and of your selves; but in point of Marriage I'le be Master, and so farewell.</P>
+</SP>
+<STAGE>Exit.</STAGE>
+<STAGE>Manent the Damoiselles:</STAGE>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Alas poor man, introth I pitty him! he is so simple and ignorant, I see the form was deeply sunk into the mat|ter when he was born, which makes his brain so muddy ever since.</P>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<P>I must needs say he's a very honest man; but for the Mode and Gallantry 'tis <HI>terra incognita</HI> to him.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>This comes o'th want of reading Romances now; I'le warrant ye they re'd nothing when he was young, but only Homelies and dull Morality.</P>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<P>Or at best but the History or <HI>Bar|laam</HI> and <HI>Iosaphat.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Introth I have wondred with my self a hundred times, how one so heavy and dull as he, cou'd ever beget so lively and sprightly a child as I! sure he's none of my Father, but I am Daughter of some
+<PB N="34" REF="26">
+King, or Emperour, lost in my Cradle by some strange accident, and look e're long, by one as strange for to be found a|gen,&mdash;I've read of as strange things as these have come to pass.</P>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<P>And I look to marry some Duke or Prince, or Marquis, or Count, at least; I was a dream'd of one last night.</P>
+</SP>
+</DIV3>
+<DIV3 N="5" TYPE="scene">
+<HEAD>SCAENA V.</HEAD>
+<STAGE>Enter Lysette.</STAGE>
+<SP>
+<SPEAKER>Mary.</SPEAKER>
+<P>NOw! what news with you?</P>
+</SP>
+<SP>
+<SPEAKER>Lys.</SPEAKER>
+<P>Yonders one Marquis <HI>Mas|carillio,</HI> forsooth, has sent his Valet to know if you'l be within this Afternoon, and please to be visited.</P>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<P>Oh sister! my dream as right as may be.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Go tell him he shall much honour us, but will you never learn to denounce handsomly, and <HI>a la Mode?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Lys.</SPEAKER>
+<P>Why forsooth?</P>
+</SP>
+<SP>
+<PB N="35" REF="26">
+<SPEAKER>Mar.</SPEAKER>
+<P>You shou'd say now, yonder's Marquis such an one, desires to be infor|med whether you please to render your self visible or no.</P>
+<P>This now is to speak your precious Lan|guage, and <HI>a la mode.</HI></P>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<P>Well, go and dispatch the Messen|ger with an answer affirmative, and when you come agen, we'l read you a lecture of it.&mdash;</P>
+<STAGE>Exit Lysette.</STAGE>
+<P>Oh my <HI>Toutebonne,</HI> now w'ar in pass to be famous indeed, when no less then Mar|quisses come to visit us!</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>I, this 'tis to live in <HI>Paris</HI> now, we might have liv'd in the Country long enough, e're ever we had had this ho|nour.</P>
+</SP>
+<STAGE>Enter Lysette.</STAGE>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<P>Well, have you dispatcht the Messenger?</P>
+</SP>
+<SP>
+<SPEAKER>Lys.</SPEAKER>
+<P>Yes forsooth.</P>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<P>Then hearken to your Lesson,&mdash;Always before Company, be sure you elevate your stile, and speak a Language which none may understand but the Pre|tious <HI>Cabal,</HI>&mdash;- that which they under|stand not they'l admire, and admiration
+<PB N="36" REF="27">
+begets Esteem and Reverence.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>As for example, go presently and fetch me my <HI>Zephirus</HI> hither.</P>
+</SP>
+<SP>
+<SPEAKER>Lys.</SPEAKER>
+<P>Her <HI>Zephirus!</HI> what's that!</P>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<P>She means her Fan you fool.</P>
+</SP>
+<SP>
+<SPEAKER>Lys.</SPEAKER>
+<P>Oh! is that her <HI>Zephirus.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>And bring the <HI>Councellor of the Graces</HI> along with you.</P>
+</SP>
+<SP>
+<SPEAKER>Lys.</SPEAKER>
+<P>The <HI>Councellor of the Graces!</HI> what's that I wonder?</P>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<P>Her Looking-Glass she means.</P>
+</SP>
+<SP>
+<SPEAKER>Lys.</SPEAKER>
+<P>Oh now I understand.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>And look you do not soil and sully it with reflexion of your Phisiogno|my.</P>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<P>This now is to speak the pretious Language, and <HI>a la mode,</HI> which 'twere to endear on Ridiculousness it self, for any Damoiselle <HI>a la mode</HI> to be ignorant of.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>This, only to give you a tast of it, for this time is enough; go now and make ready the House as we shall do our selves, against he comes, and look you perfume the Rooms till we may loose our selves in the precious miste.</P>
+</SP>
+<SP>
+<PB N="37" REF="27">
+<SPEAKER>Lys.</SPEAKER>
+<P>I go forsooth.</P>
+</SP>
+<STAGE>Exit Lysette.</STAGE>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<P>Marquis <HI>Mascarillio</HI> d'ye call him! oh my dear! what a fine name is that?</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>And he's as fine a man I'le war|rant you.</P>
+</SP>
+<STAGE>Exeunt.</STAGE>
+</DIV3>
+<DIV3 N="6" TYPE="scene">
+<HEAD>SCAENA VI.</HEAD>
+<STAGE>Enter the Two Naturals.</STAGE>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<P>COme, now let's Play a little 'till Master comes.</P>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<P>Content; Hi, hi, hi, hi, hi.</P>
+</SP>
+<STAGE>They play a many fools Gambols.</STAGE>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<P>No, but I'le teach you a fine Play now,&mdash;See saw, see saw.</P>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<P>Nay now you play foul play, so you do.</P>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<P>Foul play! what's that?</P>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<P>Why 'tis&mdash;to play foul play.</P>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<P>Oh now I understand.</P>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<P>Now stand you there, and I'le stand here&mdash;and I'le lay you a wager I'le meet you before you shall meet me.</P>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<P>Come on then:</P>
+</SP>
+<SP>
+<PB N="38" REF="28">
+<SPEAKER>2.</SPEAKER>
+<P>Lo ye there now.</P>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<P>Nay I met you first.</P>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<P>But you did not:</P>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<P>But I did.</P>
+</SP>
+<STAGE>Sganarelle knocks within.</STAGE>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<LG>
+<L>Who's within there?</L>
+<L>Open the door here.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<LG>
+<L>'Uds so! 'tis Master knocks;</L>
+<L>Go you and let him in.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<P>Go you and you will.</P>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<P>I won't.</P>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<P>And I wont neither.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Will no body come there! are ye all deaf? I'le make you hear.</P>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<LG>
+<L>'Uds so, Master's angry.</L>
+<L>I'le go and open the door.</L>
+</LG>
+<STAGE>Knocks.</STAGE>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<P>Nay, I'le go.</P>
+</SP>
+<STAGE>They strive, and open it betwixt them.</STAGE>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<P>But you shan't.</P>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<P>But I will.</P>
+</SP>
+</DIV3>
+<DIV3 N="7" TYPE="scene">
+<PB N="39" REF="28">
+<HEAD>SCAENA VII.</HEAD>
+<STAGE>Enter Sganarelle, and whilst they fight, all the blows light on him betwixt them.</STAGE>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<P>I'le teach you to take my office from me.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Why how now! what's the mat|ter? hold, hold I say, what beat your Master? Nay if you'l needs fight, I'le fight with you.</P>
+</SP>
+<STAGE>Beats them.</STAGE>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<P>Oh, oh, oh.</P>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<P>Oh, oh, oh.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Here's fine doing indeed! 'tis time to look to you!</P>
+<P>Go leave your bawling, and call your Mistress presently.</P>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<P>I'le go.</P>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<P>Nay I'le go.</P>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<P>But you shall not.</P>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<P>But I will.</P>
+</SP>
+<STAGE>They strive to go out together, and are set in the Door&punc;</STAGE>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Agen! agree, or I'le make you agree. So this is fine! I'le set you going with a vengeance.&mdash; <STAGE>Shoves them in&punc;</STAGE>
+<PB N="40" REF="29">
+Now I know she longs to hear what news I bring.</P>
+</SP>
+</DIV3>
+<DIV3 N="8" TYPE="scene">
+<HEAD>SCAENA VIII.</HEAD>
+<STAGE>Enter Isabella.</STAGE>
+<SP>
+<SPEAKER>Isabella.</SPEAKER>
+<P>I'Ve done an Act here, of so bold a strain as well might put a Virgin to her shame; but <HI>Love</HI> and my extream necessity, or never blush, or let them blush for me.&mdash;Well ha' ye been there?</P>
+<STAGE>A Box in her hand.</STAGE>
+<STAGE>Aside</STAGE>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>I have.</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>And what says he?</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Why he says, He looks upon you or so, sometimes 'tis true, but he means no harm by't.</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>And wou'd you believe him? y'ad best say he meant no harm by this too. Just now as I was standing at my Window to take the air, who shu'd come by but he? and what did he? but just as I turn'd my back, threw me this Box with this Letter in it here, into my Chamber:</P>
+</SP>
+<SP>
+<PB N="41" REF="29">
+<SPEAKER>Sgan.</SPEAKER>
+<P>How a Letter!</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>I, and when ha'd done, away he went like Lightning, or I had thrown it like a Thunderbolt at his head;&mdash;inso|lent as he is! to offer to send his Letters unto me!</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>What's in't dost know?</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>Not I, nor desire to know.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Why hast thou not re'd it then?</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>Not for a world; for but imagin Sir, what dishonour 'twere to me, and en|couragement to him, if he shu'd think, I'd the vicious curiosity to open and read his Letters!</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Let me see't, I'le read it then.</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>That were the same, for then he'd think 'twere I;&mdash;no pray Sir let me send it back as 'tis.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Well go thy ways for a mirrour of Prudence and Discretion!</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>Besides words are but air, but when inclos'd in Letters once, I shou'd think their poysnous damp wou'd kill me presently, shou'd I but open them;&mdash;cou'd I but find one now to send it by.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>I'le do't, I'le do't.</P>
+</SP>
+<SP>
+<PB N="42" REF="30">
+<SPEAKER>Isab.</SPEAKER>
+<P>And tell him how I scorn to read his Letters.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Let me alone.</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>Yet Sir, to satisfie your Curiosity, you may read it if you please.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Not I, I promise you, without an Antidote, if 't, be so dangerous as you say it is.</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>Well, then pray carry it him as it is; methinks I am in pain until he have it.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>I'le soon rid thee of that pain I'le warrant thee, and assure thy self I'le mar|ry thee a week sooner then I thought to have done, only for this my little pretty Rogue.</P>
+<STAGE>Caresses her.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Isab:</SPEAKER>
+<P>His kindness and unkindness e|qually do's kill, As poyson, though sugred, is poyson still.</P>
+<STAGE>Aside.</STAGE>
+<STAGE>Manet Sganarelle.</STAGE>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>I, are you good at writing Let|ters i'faith? I'm glad I know it; you shall find that I'm as good at carrying them.&mdash;Now cou'd I preach against Love Letters, and bid your Damoisells by her example take heed of them; for just as Mounte|banks
+<PB N="43" REF="30">
+wrap up their poysonous Drugs in paper, so if you look on the outside of these Letters th'ar are only paper, but open them and look on them within, you find them poyson, very poyson, the bane of Virginity, the ratsbane that makes them swell agen;&mdash;methinks I'm in an excellent vein of Preaching now.&mdash;</P>
+<P>But to my business, holla, who's within there.</P>
+</SP>
+<STAGE>Knocks&punc;</STAGE>
+</DIV3>
+<DIV3 N="9" TYPE="scene">
+<HEAD>SCAENA IX.</HEAD>
+<STAGE>Enter Ergasto.</STAGE>
+<SP>
+<SPEAKER>Ergasto.</SPEAKER>
+<P>VVHo's there? what Monsieur <HI>Sganarelle?</HI> your pleasure Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Pleasure me no pleasures, where's your friend? your friend <HI>Valerio</HI> there, that is so good at writing Letters.</P>
+</SP>
+<SP>
+<SPEAKER>Erg.</SPEAKER>
+<P>He's not within at present.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>No matter, there give him that Letter, and tell him, his piece won't off, his powder's damp, and wont take fire,
+<PB N="44" REF="31">
+h'as mist of his aim this once.</P>
+</SP>
+<SP>
+<SPEAKER>Erg.</SPEAKER>
+<P>What's all this!</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>In plainer terms, tell him, <HI>Isabella</HI> scorns to read his Letters, but h'as sent it back to him, as 'twas sent to her.</P>
+</SP>
+<SP>
+<SPEAKER>Erg.</SPEAKER>
+<P>I understand nothing of all this now?</P>
+</SP>
+<SP>
+<SPEAKER>Sgan:</SPEAKER>
+<P>And d'ye hear? take notice I pray that I deliver it as 'twas delivered Seal'd and unopen'd, &amp; so farewell.</P>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>Erg.</SPEAKER>
+<P>What shou'd the meaning of this be I wonder?</P>
+</SP>
+</DIV3>
+<DIV3 N="10" TYPE="scene">
+<HEAD>SCAENA X.</HEAD>
+<STAGE>Enter Valerio.</STAGE>
+<SP>
+<SPEAKER>Valerio.</SPEAKER>
+<P>O Hi I'm glad y'ar come.</P>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<P>Why?</P>
+</SP>
+<SP>
+<SPEAKER>Erg.</SPEAKER>
+<P>Here has been your old Messen|ger agen.</P>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<P>Who! <HI>Sganarelle?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Erg.</SPEAKER>
+<P>The same, and he has left this Letter for you.</P>
+</SP>
+<SP>
+<PB N="45" REF="31">
+<SPEAKER>Val.</SPEAKER>
+<P>'Tis not a Challenge, is it?</P>
+</SP>
+<SP>
+<SPEAKER>Erg.</SPEAKER>
+<P>if it be, 'tis from <HI>Isabella,</HI> for she sent it he tells me.</P>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<P>From her! Oh give it me straight then, that I may kiss it a thousand times; how's this? the Superscription is to her!</P>
+</SP>
+<SP>
+<SPEAKER>Erg.</SPEAKER>
+<P>But open it, and see from whom the Subscription is.</P>
+</SP>
+<STAGE>Reads.</STAGE>
+<Q><TEXT LANG="eng">
+<BODY>
+<DIV1 TYPE="letter">
+<HEAD>Isabella's Letter.</HEAD>
+<OPENER><SALUTE>Noble Sir,</SALUTE></OPENER>
+<LG>
+<L>IF I have rightly interpreted your Love,</L>
+<L>I hope you will not be so unjust</L>
+<L>to misinterpret mine; I am here in the hands</L>
+<L>of one I hate, and if you deliver me not</L>
+<L>the sooner, death shall; mean time</L>
+<L>I am the miserablest alive, unless you find</L>
+<L>some way to make me happy.</L>
+</LG>
+<CLOSER><SIGNED>Yours till Death
+ISABELLA:</SIGNED></CLOSER>
+</DIV1>
+</BODY>
+</TEXT></Q>
+<SP>
+<SPEAKER>Erg.</SPEAKER>
+<P>Now, what think you of this piece? i'st not an Original!</P>
+</SP>
+<SP>
+<PB N="46" REF="32">
+<SPEAKER>Val.</SPEAKER>
+<P>Yes <HI>Ergasto,</HI> and that of such a hand I shall think it no Idolatry to adore: Now I perceive she is as wise as fair, and I am happy, nor shall I ever rest till I have made her so:</P>
+<STAGE>Kisses it.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Erg.</SPEAKER>
+<P>Ha, ha, ha! what an Ass has she made of him? to make him carry this himself!</P>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<P>Peace, here he comes.</P>
+</SP>
+</DIV3>
+<DIV3 N="11" TYPE="scene">
+<HEAD>SCAENA XI:</HEAD>
+<STAGE>Enter Sganarelle:</STAGE>
+<SP>
+<SPEAKER>Sganarelle:</SPEAKER>
+<P>IT do's me good to think how blank he'l look when he receives this Letter; I long to see him, and laugh at him: Now Sir y'ave receiv'd your Letter?</P>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<P>I have so Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>And you perceive by it the dif|ference of persons, and how some have the happiness to be belov'd, and others not?</P>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<P>I do so Sir, and must have patience.</P>
+</SP>
+<SP>
+<PB N="47" REF="32">
+<SPEAKER>Sgan.</SPEAKER>
+<P>Poor man! he's ready to cry a|gen;&mdash;well, and what service will you command me back? you see, I'm good at carrying Messages.</P>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<P>Why you may tell her Sir, that as I only live for her so I shall die to serve her.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>The poor man's even desperate I see?</P>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<P>And for this Letter here which you esteem so high disgrace, tell her I take it for the highest grace and favour she cou'd do me.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Even much good do't ye with't, and when w'ar marryed, you shall come if you please and give her thanks for it.</P>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<P>How marryed!</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Yes, I'le invite you to my Wed|ding.</P>
+</SP>
+<SP>
+<SPEAKER>Erg.</SPEAKER>
+<P>Can you endure this?</P>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<P>Peace, inconsiderate man? i'st fit that I shu'd offend him, who has power to injure her?&mdash;I'le fright him yet, and see what that will do,&mdash;Hark you Sir, me|thought I heard you talk of marrying <HI>Isabella.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>I did so Sir, what then!</P>
+</SP>
+<SP>
+<PB N="48" REF="33">
+<SPEAKER>Val.</SPEAKER>
+<P>Why then y'ad best to make your Will before, or see me dead, 'twill be dan|gerous else, and say, I told you so.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan:</SPEAKER>
+<P>How's this! the mans despe|rate I think indeed; if he be such an one, I'le not invite him to my Wedding be|shrew me: Hark ye Sir, now I better con|sider on it, I mean to be marryed pri|vately&punc;</P>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<P>Talk of Marriage agen?</P>
+</SP>
+<SP>
+<SPEAKER>Sgan:</SPEAKER>
+<P>Cry mercy Sir, if you be so angry I'm sorry I've troubled you, and so fare|well:&mdash;I'le no more Messenges if he be such an one.</P>
+</SP>
+<STAGE>Steals away.</STAGE>
+<STAGE>Manent Valerio and Ergasto.</STAGE>
+<SP>
+<SPEAKER>Val:</SPEAKER>
+<P>So, this will defer his Marriage a vvhile I hope, till I may think on some prevention, but what I can't imagin?</P>
+</SP>
+<SP>
+<SPEAKER>Erg:</SPEAKER>
+<P>Come n'er torment nor vex your self, but leave it all to her; imprison'd winds either inforce their way, or cause an Earthquake; so now sh'as begun she'l ne're give o're, till she has throughly done:</P>
+</SP>
+<STAGE>Exeunt:</STAGE>
+</DIV3>
+<TRAILER>Finis Actus Secundi.</TRAILER>
+</DIV2>
+<DIV2 N="3" TYPE="act">
+<PB N="49" REF="33">
+<HEAD>Actus III.</HEAD>
+<DIV3 N="1" TYPE="scene">
+<HEAD>Scaena I.</HEAD>
+<STAGE>Mascarillio brought in, in a Chair by two Sedan-Men.</STAGE>
+<SP>
+<SPEAKER>Mascarillio.</SPEAKER>
+<P>HOlla, holla, these baptiz'd Mules I think have a plot to break my bones, they do so joult and jostle their Chair against every post they meet.</P>
+<STAGE>Opens the Chair.</STAGE>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<P>The Entry's strait Sir, and you'd be carryed in.</P>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>And good reason, Goodman <HI>Faquin,</HI> d'ye think I'd expose my Feathers to the humidity of the air, and shoes to the rude assault of <HI>Paris</HI> dirt?</P>
+<STAGE>Comes out.</STAGE>
+<P>So now take up y'ur luggage and begone.</P>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<P>You'l pay us first, Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>How!</P>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<P>Our Money Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>Was ever heard of such an Inso|lence,
+<PB N="50" REF="34">
+to demand money of me?</P>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<P>How wou'd have us live Sir, if you do not pay us?</P>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>If you can't live without paying, there's payment for you, and there&mdash;saucy Rogue, to demand money of such Gallants as I!</P>
+<STAGE>Beats him.</STAGE>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<P>But we'l be paid in another manner Sir, before you go, for all your Gallantry.</P>
+</SP>
+<STAGE>Takes out the Lever of the Sedan.</STAGE>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>How now! what mean you?</P>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<P>Or pay us our Money, or&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>Hold, hold! there 'tis; now thou ask'st it in good manner, and as thou oughts, but that's an unmannerly Rogue there:&mdash;Now, are you satisfyed?</P>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<P>Yes Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>Then begone and leave me.</P>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<P>Stay Sir, now I'le be paid for your beating of me too, before we go, or else.&mdash;</P>
+</SP>
+<STAGE>Takes the other Lever.</STAGE>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>Hold, and good reason, there's somewhat for thee too; you shall find me the reasonablest man i'th world, when you ask things in good manner, and as you
+<PB N="51" REF="34">
+ought. Now are you satisfied?</P>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<P>Yes, I thank you Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>No, thank your Ignobility you Rogues; for, but I scorn to draw my Sword upon such base Faquins as you, by this bright steel I'd kill'd you both e're this&mdash;this excuse I learnt of a Gallant who was beaten by a Hackny-Coachman t'other day.&mdash;Well, get you gone now, and take heed of provoking my fury another time.</P>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<P>At your service Sir.</P>
+<STAGE>Exeunt.</STAGE>
+<P>We hope you can't say but w'ave us'd you civilly?</P>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>I, I, I must needs say that:&mdash;So, thus far I have play'd the Gallant right, never to fight when I can help it; nor pay debts, but when I cannot choose:&mdash;Now for the Ladies, which is the main business of your Gallants in the world, and when there are no more to Court and Complement, they may go out of it, as having no more to do.</P>
+</SP>
+<STAGE><HI>He</HI> sings, <HI>Adjusts</HI> his Canons and Feather, Surveys himself, &amp; does all the Antick tricks <HI>Of a</HI> Fantastick <HI>Mounsieur.</HI></STAGE>
+</DIV3>
+<DIV3 N="2" TYPE="scene">
+<PB N="52" REF="35">
+<HEAD>SCAENA II.</HEAD>
+<STAGE>Enter Lysette.</STAGE>
+<SP>
+<SPEAKER>Lysette.</SPEAKER>
+<P>MY Ladies desire you to have a little patience, Sir, and they'l instantly wait upon you.</P>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>No hast, no hast, my pretty Carry|er of Messages; I can entertain my self well enough here the whil'st, with con|templating the Historical Ornaments of the place.</P>
+</SP>
+<SP>
+<SPEAKER>Lys.</SPEAKER>
+<P>Methinks this Monsieur in these clothes, and that feather there, looks just like some Amphibious Animal, half Bird, and half Baboon.</P>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>Now don't I know whether in true Gallantry, I were not to fall on the Waiting-woman first; I have a gal|lant Itch come upon me, and cannot hold: Hark you, hark you sweet heart, suppose one shou'd ask you an Enigmatical Questi|on now?</P>
+</SP>
+<SP>
+<PB N="53" REF="35">
+<SPEAKER>Lys.</SPEAKER>
+<P>Excuse me Sir, I'm none of those I can assure you.</P>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>Right!&mdash;Thus whatsoever they understand not, they interpret strait to.&mdash;you know what:&mdash;Come, come, there's somewhat for thee; you must not be so coy&mdash;you understand me.</P>
+</SP>
+<SP>
+<SPEAKER>Lys.</SPEAKER>
+<P>Yes very well Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>Or else thou wert no right Wai|ting-woman:&mdash;Come then.</P>
+</SP>
+<SP>
+<SPEAKER>Lys.</SPEAKER>
+<P>Soft Sir, another time&punc; I hear my Ladies coming.</P>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>This now is another trick of Gallantry, to have Wenches cozen them of their money.</P>
+</SP>
+<SP>
+<SPEAKER>Lys.</SPEAKER>
+<P>And see th'ar hear.</P>
+</SP>
+</DIV3>
+<DIV3 N="3" TYPE="scene">
+<HEAD>SCAENA III.</HEAD>
+<STAGE>Enter Mademoiselle, Mary and Anne.</STAGE>
+<STAGE>Mascarillio Addresses himself unto them:</STAGE>
+<P>OH Heavens! Oh paradice!</P>
+<SP>
+<SPEAKER>Lys.</SPEAKER>
+<P>Hai day! this Mounsieur has got the <HI>French</HI> staggers right.</P>
+</SP>
+<SP>
+<PB N="54" REF="36">
+<SPEAKER>Mas.</SPEAKER>
+<P>Most fair, and most accomplisht Ladies, If I importune you with my visit, 'tis your perfections have brought this trouble on your selves, of which I am so great an Idolater, as where e're 'tis found, I needs must go to reverence and honour it.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Noble Sir, there's no perfection here, but only what you bring along with you.</P>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>Now by your fair Eyes Ladies, which like Suns, illuminate all this other Hemisphear; your Graces and Perfection are so great, as for Wit, Beauty, and true Gallantry, you <HI>pic, repic,</HI> and <HI>Capot,</HI> all the Ladies in <HI>Paris</HI> else.</P>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<P>You may say what you please Sir, but we are not so vain to lend the serious of our belief, unto the Raollery of your Complement,&mdash;I marry sister, this is a brave man indeed! you may see Nobility in his very Meen!</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>I, and in's fashion and behaviour too! who's there? some <HI>Chamber Pulpits</HI> strait.</P>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<P>Some Chairs, <STAGE>They set Chairs.</STAGE>
+<PB N="55" REF="36">
+some Chairs there,&mdash;please you Sir to sit, here's a Chair that stretches forth its arms, and shou'd be glad and proud o'th honour of embracing you.</P>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>All here speaks civility even to the Chairs and Stools; but pardon me Ladies, I wou'd fain tarry, but I see cer|tain dangerous eyes here, that look as if they'd kill men, or rob them of their li|berties at least.</P>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<P>We'l warrant you Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>Well Ladies, on your security I'le venture this once; nor can I sacrifice my Liberty any where better then at the Al|tar of your feet.</P>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<P>Don't ye admire him Sister?</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Admire him! I am rapt a thou|sand degrees beyond Admiration!</P>
+<STAGE>They sit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>And what think you of my Fea|ther Ladies?</P>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<P>Oh, 'tis the very top, and top-gal|lant of all I ever saw! and you'r the true Estridge, t'other but a counterfeit.</P>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>And my Canons.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Oh most heavenly wide!</P>
+</SP>
+<SP>
+<PB N="56" REF="37">
+<SPEAKER>Mas.</SPEAKER>
+<P>I can assure you there's more in them by half an Ell <HI>Paris</HI> measure, then in any are worn in Town beside.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>I never saw the Elegance of Ad|justement carryed so high by any one be|fore!</P>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<P>I Sister, this 'tis to know the fine of things, the superfine, the very fine of fines!</P>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>And how long Ladies is it since you made this Town happy with your Residence and abode?</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>So short a time Sir yet, as we count only by days the age of our being here.</P>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>And what d'ye think of <HI>Paris?</HI> is it not the Paradice of all Delights! the Treasury of all that's rich and precious, and compendium and abridgement of all wonders and rarities!</P>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<P>'Tis incontestible truth Sir; and I do not see, I protest, how 'tis possible for any Lady to be sav'd out of <HI>Paris</HI> here.</P>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>Why now you ravish me! and what Recreations have you had since your arrival here?</P>
+</SP>
+<SP>
+<PB N="57" REF="37">
+<SPEAKER>Mar.</SPEAKER>
+<P>O Lord Sir! w'ave had so horri|ble a want and dearth of them, as w'ar even starv'd and famish'd agen.</P>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>I'le carry you to the next new Play that's play'd, but then you are ob|lig'd to cry it down what e're it be, 'tis the fashion of your Gallants now, and will get you the reputation of Wits.</P>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<P>That Sir we shall not fail to do, before the Musick plays, or Curtain's drawn.</P>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>And what acquaintances, Ladies, have you made, since you came to Town?</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>None at all Sir yet.</P>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>I'le bring you acquainted with all the <HI>Wits</HI> of the new Collection, they come unto my Chamber every day; and but this morning I'd a dozen of them there; nay, if please, they shall keep an <HI>Academy</HI> at your Lodging every week.</P>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<P>O Lord Sir, you'l infinitely oblige us, for only such as they, govern the Fames of the Ladies here in Town, and with a Copy of Verses cry them up, or <HI>Lampoon,</HI> cry them down, when e're they please.</P>
+</SP>
+<SP>
+<PB N="58" REF="38">
+<SPEAKER>Mas.</SPEAKER>
+<P>Right; and besides, they can in|form you to a half Stanza of all the Ver|ses that are made in <HI>Paris</HI> every day, as who made a <HI>Madrigal</HI> of's Mistress Beau|ty, who an <HI>Ede</HI> of enjoyment, who sent an <HI>Elegy</HI> to his Mistress over night, and the answer she made unto't by next day noon.</P>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<P>I, these are things to be known 'bove all your dull Morality and Philo|sophy.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>I, and Divinity too Sister.</P>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>Still Ladies you ravish me more and more; and since I see y'ar delighted with Poetry, I'le recite you some compo|sitions of mine own.</P>
+</SP>
+<SP>
+<SPEAKER>A:</SPEAKER>
+<P>Beseech you Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>For you must know I've a Poeti|cal itch sometimes, and scratch for it on paper too; amongst the rest you shall hear recited in all your most celebrous Assemblies here, some hundred Songs and Sonnets of mine, as many Odes and Ele|gies, a thousand Madrigals, and Epigrams sans number.</P>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<P>And I'ave a very furious Tender
+<PB N="59" REF="38">
+for those Epigrams, methinks th'ar the finest things!</P>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>And for those I shall fit you, for I am turning all <HI>Roman</HI> story into Epi|grams.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>And that must needs be rare and excellent! but touching the Verses Sir, you promis'd us.</P>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>You shall have them as soon as I can intreat them of my Memory; and these they are, made of a Ladies stealing my heart away, imagin it your selves.</P>
+<LG>
+<HEAD>The VERSES.</HEAD>
+<L>Ah, ha! and have I caught you (as they say,</L>
+<L><HI>Mos</HI> did his Mare) stealing my heart away.</L>
+<L>And wo'd you run awaywith't wheny' avedon;</L>
+<L>I'faith, i'faith, for all you'd fain be gone,</L>
+<L>I'le make you dearly pay for't e're you part;</L>
+<L>Stop Thief, stop Thief, my heart, my heart, my heart.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<P>Rare!</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Excellent!</P>
+<STAGE>Enter Lysette.</STAGE>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<P>The best as e're I heard!</P>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>D'ye mark that <HI>Ah, ha!</HI> at my entrance into stile, what a natural Ex|pression it is, as much as to say, are you
+<PB N="60" REF="39">
+there i'faith? or have I caught you? as I express it afterwards <HI>ah, ha!</HI></P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>That <HI>ah, ha,</HI> alone is worth a whole <HI>Epick</HI> Poem.</P>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>Then have I caught you as <HI>Mos</HI> did catch his Mare; there's an Erudition for you now? taken neither from <HI>Greek</HI> nor <HI>Latin,</HI> but from an <HI>English</HI> Proverb, no|thing savouring of <HI>Homer</HI> nor <HI>Virgil,</HI> and a thousand degrees at least remov'd from the Scholar or Pedant.</P>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<P>I, and a thousand, and thousand more to that!</P>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>But you'd be ravish'd now to hear the air, I've set unto't.</P>
+</SP>
+<SP>
+<SPEAKER>Mar:</SPEAKER>
+<P>Why are ye a Musician too! have you learnt Musick Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>Not learnt it, but such Gallants as I, know every thing without learning.</P>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<P>Assuredly my dear?</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Pray let's hear it Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>You shall, but you must consider 'tis <HI>a la Cavalier,</HI> hem, hem, <HI>ah, ha!</HI> &amp;c.</P>
+</SP>
+<STAGE>He sings hoarcely and ridiculously with all the Grimaces of an af|fected Singer.</STAGE>
+<SP>
+<PB N="61" REF="39">
+<SPEAKER>An.</SPEAKER>
+<P>Oh! most divine! the very Har|mony of the Spheres.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>I'm enthusiasm'd with it!</P>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<P>'Tis pure Chromatick, this!</P>
+</SP>
+<SP>
+<SPEAKER>Lys.</SPEAKER>
+<P>Methink 'tis pure <HI>Caterwouling,</HI> if this be <HI>a la Cavalier,</HI> I have enough of it.</P>
+</SP>
+<STAGE>Exit:</STAGE>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Did you mark the humouring of the words? how at stealing, the Musick stole away, as 'twere, and then at running, it ran away as fast.</P>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<P>We did, and admir'd it.</P>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>Besides, if you markt it at the word <HI>stop Thief,</HI> there was such a Hubbub, as you'd have thought a whole <HI>Heu</HI> and <HI>Cry</HI> had been following, the rest was in <HI>stilo Recitativo.</HI></P>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<P>This 'tis now to know the heigth and depth, the longitude, latitude, and every dimension of Art!</P>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>I can hold no longer, ah, ah!</P>
+</SP>
+<STAGE>Crys vehemently out, they start up.</STAGE>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>What ayle you Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>Now by your soft and sweeter bosoms Ladies, those perfum'd pillows that love does rest upon! you even ravish
+<PB N="62" REF="40">
+my heart out of my breast; methinks it hangs only by a slender string: Oh, oh, oh! I languish, faint, and die!</P>
+</SP>
+<STAGE>Lies down.</STAGE>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Does he not do it rarely Sister? those two Monsieurs who came a wooing to us, are not worthy to be his Laquys.</P>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<P>I have a certain curiosity to know if he be marryed, or no.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>I, are you there Sister? I'm glad I know it&punc;</P>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<P>And are you jealous Sister? I'm glad I know that too.</P>
+</SP>
+<STAGE>Enter Lysette.</STAGE>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Now what's the news with you.</P>
+</SP>
+<SP>
+<SPEAKER>Lys.</SPEAKER>
+<P>Yonders one Count <HI>Iodelet</HI> with|out, desires to know whither you please to render your selves visible.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Oh! I see you'l learn in time.</P>
+</SP>
+<SP>
+<SPEAKER>Mas:</SPEAKER>
+<P>How Count <HI>Iodelet?</HI></P>
+</SP>
+<STAGE>Starts up.</STAGE>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<P>I, do you know him?</P>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>Know him! my only Comrade in all our former Warrs; why <HI>Piladis</HI> and <HI>Orestes,</HI> and <HI>Damon</HI> and <HI>Pithias</HI> were meer strangers and enemies, compar'd unto us two.</P>
+</SP>
+<SP>
+<SPEAKER>Mar:</SPEAKER>
+<P>Go introduce him strait.</P>
+</SP>
+<STAGE>Exit Lys.</STAGE>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>Count <HI>Iodelet!</HI> now Ladies I'le
+<PB N="63" REF="40">
+promise you, you shall see the gallantest man in <HI>France,</HI> and bravest Soldier, brave upon brave, a three pyld brave.</P>
+</SP>
+</DIV3>
+<DIV3 N="4" TYPE="scene">
+<HEAD>SCAENA IV:</HEAD>
+<STAGE>Enter Iodelec fantastically habited a la Soldatesque, Lysette, &amp;c.</STAGE>
+<SP>
+<SPEAKER>Iodelet.</SPEAKER>
+<P>VVHat Marquis, art thou here?</P>
+</SP>
+<SP>
+<SPEAKER>Mas&punc;</SPEAKER>
+<P>Count! I am ravisht to see thee, go and salute these Ladies, that afterward I may more freely pour out my self into thy Embraces.</P>
+</SP>
+<SP>
+<SPEAKER>Iod.</SPEAKER>
+<P>By your fair leave Ladies.</P>
+</SP>
+<STAGE>Kisses their Hands.</STAGE>
+<SP>
+<SPEAKER>Mas:</SPEAKER>
+<P>And how dost, ha! thou lookst somewhat pale methinks!</P>
+</SP>
+<SP>
+<SPEAKER>Iod.</SPEAKER>
+<P>The fatigues of the War, and Vigils of the Court, but I'm resolv'd to leave it, there's no reward for men of our merits and deservings now a days, who have lost our lives in our Countrys ser|vice.</P>
+</SP>
+<SP>
+<PB N="64" REF="41">
+<SPEAKER>Mas.</SPEAKER>
+<P>I, the Children of peace carry all away novv, from us the sons of War.&mdash;And hovv long i'st i'faith since thou and I met first i'th Warrs.</P>
+</SP>
+<SP>
+<SPEAKER>Iod.</SPEAKER>
+<P>Let me see&mdash;some sixteen years as I take it&punc;</P>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>'Tis more, 'tis more man, by the same token thou commandst a Regiment of Horse on the Gallies of <HI>Malta.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Iod.</SPEAKER>
+<P>I, we had hot service there.</P>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>But not so hot as afterwards at taking the <HI>half Moon</HI> at siege of <HI>Graulin.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Iod.</SPEAKER>
+<P><HI>Half Moon!</HI> 'twas a whole one man, thou hast forgot.</P>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>I think it was indeed, I'm sure I've good reason to remember it, for I receiv'd this Musquetad there,&mdash;pray Ladies vouchsafe to feel here.</P>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<P>A very terrible wound indeed!</P>
+</SP>
+<SP>
+<SPEAKER>Lys.</SPEAKER>
+<P>I feel nothing but only the nape of his neck.</P>
+</SP>
+<SP>
+<SPEAKER>Iod.</SPEAKER>
+<P>And I, this other <HI>coup de Granad,</HI> pray Ladies stoop, and feel here.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>A horrible one too!</P>
+</SP>
+<SP>
+<SPEAKER>Lys.</SPEAKER>
+<P>There's nothing but only the hollow of his Ancle; I think these Gal|lants
+<PB N="65" REF="41">
+swear nothing but <HI>Wounds,</HI> there's so many Wounds with them.</P>
+</SP>
+<SP>
+<SPEAKER>Iod.</SPEAKER>
+<P>But now I'le shew you a terrible one indeed.</P>
+</SP>
+<STAGE>Offers to put down his Hose.</STAGE>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<P>Oh no, we beseech you Sir, w'ave seen enough already, you'l fright us with sight of more.</P>
+</SP>
+<SP>
+<SPEAKER>Iod&punc;</SPEAKER>
+<P>Well, as you please; these are honourable marks and signs what men are.</P>
+</SP>
+<SP>
+<SPEAKER>Lys.</SPEAKER>
+<P>And that's the reason it seems your Gallants now a days, especially in Ladies companies, stand with their hands in their Codpieces only to shew what men they are.</P>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>And when didst see the <HI>Duke</HI> thine old Comrade?</P>
+</SP>
+<SP>
+<SPEAKER>Iod.</SPEAKER>
+<P>We supt together yester night, and h'as invited me for to morrow to hunt the Stag with him; wilt' be o'th party sirrah?</P>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>I'faith, I cannot, I'm oblig'd to wait on the <HI>Duchess</HI> thou wot'st of, out of Town.</P>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>Th'are acquainted with all the Grandees of the Town it seems?</P>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<P>More honour for us to be acquain|ted with them.</P>
+</SP>
+<SP>
+<PB N="66" REF="42">
+<SPEAKER>Mas.</SPEAKER>
+<P>But we neglect the Ladies,&mdash;Sirrah as thou camst in, these Ladies and I were discoursing of Verses, and thou art excellent at them I know.</P>
+</SP>
+<SP>
+<SPEAKER>Iod.</SPEAKER>
+<P>A little at <HI>Inpromptuses</HI> or <HI>extem|pore</HI> ones.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>And that's the very Touchstone of a prompt and ready wit!</P>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>Thou shalt make some of these Ladies here.</P>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<P>We beseech you Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>And the subject shall be of their fair eyes.</P>
+</SP>
+<SP>
+<SPEAKER>Iod.</SPEAKER>
+<P>You put me strangely to it, Mar|quess, but I'le try.</P>
+<P><HI>Of your fair Eyes Ladies what shu'd I say? what shu'd I say?</HI></P>
+</SP>
+<STAGE>Repeats them, and is at a stand.</STAGE>
+<SP>
+<SPEAKER>Lys.</SPEAKER>
+<P>I think he knows not what to say indeed.</P>
+</SP>
+<SP>
+<SPEAKER>Iod.</SPEAKER>
+<P>Pox on't, I can easily make the first verse; all the difficulty is, to make the second Rhyme unto't.</P>
+</SP>
+<SP>
+<SPEAKER>Lys.</SPEAKER>
+<P>I think so too.</P>
+</SP>
+<SP>
+<SPEAKER>Iod.</SPEAKER>
+<P>Well Ladies, pardon me this once I have lately let blood so much in thee
+<PB N="67" REF="42">
+Poetick vein, as my Muse is but weak and feeble yet, but assoon as I shall have re|cover'd a little strength, you shall see I'le make you as good <HI>extempore</HI> Verses (with a little study) as ever you heard.</P>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>Mean time what shall we do? shall we carry these Ladies abroad to take the air?</P>
+</SP>
+<SP>
+<SPEAKER>Iod.</SPEAKER>
+<P>Content, thou hast thy Coach here Marquess, hast thou not?</P>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>Not I, I came in a Chair.</P>
+</SP>
+<SP>
+<SPEAKER>Iod.</SPEAKER>
+<P>And I've sent mine away.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>No matter, 't shall be for another time;&mdash;shall we have a Ball then?</P>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>I, but for the Violins? the Ani|maters of the feet, and paradice of the Eares?</P>
+</SP>
+<SP>
+<SPEAKER>Iod.</SPEAKER>
+<P>I'le send one of my Valets for them; holla, who's there without? <HI>Basque, Lorrain, Piccard, Burquenot, Bre|tain, Gascoin, Norman, Perigot,</HI> none of these Valets there? <HI>par la mort bleu,</HI> there's never a Signeur in all <HI>France</HI> worse serv'd then I, I think.</P>
+</SP>
+<SP>
+<SPEAKER>Lys.</SPEAKER>
+<P>Faith, and I think so too.</P>
+</SP>
+<SP>
+<SPEAKER>Iod&punc;</SPEAKER>
+<P>To have never a Valet at hand
+<PB N="68" REF="43">
+when one has most need of them!</P>
+</SP>
+<SP>
+<SPEAKER>Lys.</SPEAKER>
+<P>The devil of Valet did they bring along with them.</P>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<P>No matter, ours shall go; but then for filling parts unto our Ball 'twill be too empty else.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>We'l send to invite our Neigh|bours here hard by, amongst the rest <HI>Ly|sette</HI> you shall go to our Cozen <HI>Isabella's,</HI> and see if the clown her Guardian will let her come:</P>
+</SP>
+<SP>
+<SPEAKER>Au.</SPEAKER>
+<P>I know he will not, wherefore 'tis in vain.</P>
+</SP>
+<STAGE>Exit Lysette.</STAGE>
+<SP>
+<SPEAKER>Mar:</SPEAKER>
+<P>No matter, she shall go only to vex him;&mdash;mean time please you to honour us so much to accept of a slight Banquet w'ave prepar'd within, you shall infinitely oblige us.</P>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>Y'ave abundantly regall'd us La|dies with your fairer sights, but we shall wait upon you.</P>
+</SP>
+<STAGE>Exeunt.</STAGE>
+</DIV3>
+<DIV3 N="5" TYPE="scene">
+<PB N="69" REF="43">
+<HEAD>SCAENA V:</HEAD>
+<STAGE>Enter Sganarelle, Lysette, stealing in after him.</STAGE>
+<SP>
+<SPEAKER>Sganarelle.</SPEAKER>
+<P>SO, I'm glad I'm come home; were I the King, I'd make a Law against this saluting and complementing, the very Rack of coversation that sets every ones joynts a stretching, with <HI>I'm your humble servant,</HI> and I know not what;&mdash;your Porters Salutation with a thump o'th back at meeting, and a kick o'th breech at parting, is not half so troublesome.</P>
+</SP>
+<SP>
+<SPEAKER>Lys.</SPEAKER>
+<P>I've stoln in after him, and he'l wonder to see me here.</P>
+</SP>
+<STAGE>Aside:</STAGE>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>I like your <HI>Hollander</HI> yet, who goes plodding about his business, and ne|ver troubles himself nor others with good manners;&mdash;besides, 'tis the very Univer|sity of lying, for they'l tell you th'are your servants, when they think themselves far better men then you, and say th'ar
+<PB N="70" REF="44">
+glad to see you well, when they'd be far more glad to see you hang'd.</P>
+</SP>
+<SP>
+<SPEAKER>Lys&punc;</SPEAKER>
+<P>Now will I shew my self.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>How now? how came you here?</P>
+</SP>
+<SP>
+<SPEAKER>Lys.</SPEAKER>
+<P>Why thorough the door, which way else shu'd I come? you don't take me for a Lapland witch I hope, to enter by the Chimney riding upon a broom-staff?</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>I do not know;&mdash;and what wou'd you here I pray?</P>
+</SP>
+<SP>
+<SPEAKER>Lys.</SPEAKER>
+<P>I'd only speak with Madamoiselle <HI>Isabella&punc;</HI></P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>And from whom?</P>
+</SP>
+<SP>
+<SPEAKER>Lys.</SPEAKER>
+<P>From my Ladies.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>And what to do I pray?</P>
+</SP>
+<SP>
+<SPEAKER>Lys.</SPEAKER>
+<P>This man wou'd make an excellent Catechist:&mdash;why they'd intreat her com|pany at a Ball.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>A Ball!</P>
+</SP>
+<SP>
+<SPEAKER>Lys.</SPEAKER>
+<P>Yes, there's the Marquess <HI>Masca|rillio</HI> and Count <HI>Iodelet</HI> at our house, and they'd desire her to come and bear them company.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Why th'art not mad? or dost thou think me so? that I shu'd suffer her go unto a Ball, especially in such compa|ny
+<PB N="71" REF="44">
+as those; I'le send her to the Burdell rather.</P>
+</SP>
+<SP>
+<SPEAKER>Lys:</SPEAKER>
+<P>Why I hope you take my Ladies for honest women? and I can assure you th'ar very honest Gentlemen?</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>No matter for that, your women may be honest women, and men honest men, but put them together once, and I'le not answer for their honesties.</P>
+</SP>
+<SP>
+<SPEAKER>Lys.</SPEAKER>
+<P>You won't let her go then?</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>No indeed won't I, and get you gone the sooner, or I'le set you going.</P>
+</SP>
+<SP>
+<SPEAKER>Lys.</SPEAKER>
+<P>And can you find in your heart to deny me then?</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>I indeed can I, and beat you too if you get you not gone the sooner.</P>
+</SP>
+<SP>
+<SPEAKER>Lys.</SPEAKER>
+<P>I who am so much your servant.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>She's at her Complements!</P>
+</SP>
+<SP>
+<SPEAKER>Lys.</SPEAKER>
+<P>And have always spoke so well of you&punc;</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>I so you did to day, if you be re|membred.</P>
+</SP>
+<SP>
+<SPEAKER>Lys.</SPEAKER>
+<P>And said, that <HI>Isabella</HI> wou'd be most happy in marrying you, and that I wondred at my heart that every one was not in love with you.</P>
+</SP>
+<SP>
+<PB N="72" REF="45">
+<SPEAKER>Sgan.</SPEAKER>
+<P>And are you lying too?</P>
+</SP>
+<SP>
+<SPEAKER>Lys.</SPEAKER>
+<P>Now tell me in conscience don't you think this true now?</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Perhaps I do, what then?</P>
+</SP>
+<SP>
+<SPEAKER>Lys.</SPEAKER>
+<P>Why then y'ar an Ass to believe any one can be in love with that Owles face of yours, and those Asses ears, which one wou'd swear wear horns, if you were but marryed once.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Why thou damn'd Baggage, how how darst thou provoke me thus?</P>
+</SP>
+<SP>
+<SPEAKER>Lys.</SPEAKER>
+<P>Or that proper person of yours half <HI>Bear,</HI> half <HI>drill,</HI> and all a <HI>Beast.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>If I cou'd catch you&punc;</P>
+</SP>
+<STAGE>He fol|lows her.</STAGE>
+<SP>
+<SPEAKER>Lys.</SPEAKER>
+<P>And so I humbly take my leave, and rest your most humble ser|vant.</P>
+</SP>
+<STAGE>Exit Lysette.</STAGE>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>She's at her Complements agen! this woman is a compound of all women together, and h'as more ingredients in her then <HI>Mithridate</HI> or <HI>Treacle,</HI> but the main is <HI>Mercury</HI> and <HI>Quick-silver.</HI></P>
+<P>But vvhere are my Urchins, vvhere are my changlings there? I'le talk vvith them for this.</P>
+</SP>
+</DIV3>
+<DIV3 N="6" TYPE="scene">
+<PB N="73" REF="45">
+<HEAD>SCAENA VI.</HEAD>
+<STAGE>Enter the Changelings.</STAGE>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<P>HEre Master.</P>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<P>Here Master.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Come hither you egrigious Ideots.</P>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<P>Uds so Master's angry.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Did not I charge you to let no Trades-woman in, because I said they were all Bawds? and do you let waiting women in now? look better to your charge, or</P>
+<STAGE>They tumble over one another for fear.</STAGE>
+<P>I'le so bang your fools coats, I'le make them stick like playsters to your sides:&mdash;Go call your Mistress, and leave your Tumbling tricks.</P>
+<STAGE>Exeunt.</STAGE>
+<STAGE>Manet Sganarelle.</STAGE>
+<P>I must not let her know&punc;</P>
+<P>she's invited to a Ball, for fear of stiring up light species in her mind.</P>
+</SP>
+</DIV3>
+<DIV3 N="7" TYPE="scene">
+<PB N="74" REF="46">
+<HEAD>SCAENA VII.</HEAD>
+<STAGE>Enter Isabella.</STAGE>
+<SP>
+<SPEAKER>Isabella.</SPEAKER>
+<P>HE never sends for me, but I'm afraid my plot's discover'd; but custom of fearing now, has almost made me fearless: Well, have you deliver'd the Letter?</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>I, I'ave paid him in his own coyn I think.</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>And what said he?</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>A great many good morrows, I know not what, but I've pour'd water to his vvine I'le warrant ye.</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>Rather oyle to his fire, for he is grovvn more violent and outragious then ever.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Hovv so?</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>Why as I'm credibly inform'd, he intends a terrible Ryot on your house, and to come to night and take me avvay by force.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Methought he talkt somevvhat
+<PB N="75" REF="46">
+desperately indeed; but hovv come you to intelligence of this?</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>Why this Note vvith a stone vvrapt in't vvas throvvn into my Cham|ber vvindovv, I knovv not by vvhom.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>I must have that window damn'd up.</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>But I imagin by one of my Cozens.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Very like; and what shall we do then?</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>Why go to him, and tell him soundly of it, ask him if he been't asham'd; you deal too gently with him, tell him I desie his worst, let him come and take me away if he dare&mdash;offer to take me away from my dear Guardian!</P>
+</SP>
+<STAGE>Fayns.</STAGE>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>He shan't, he shan't, ne're fear, I'le defend you.</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>You won't sight with him?</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Not I beshrew me, I han't so much o'th Cavalier, I thank heaven, to fight and die for my Mistress, that's just like selling ones horse to buy him Proven|der, so plays fools.</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>Well go then, and tell him with|all that less he makes an end the sooner,
+<PB N="76" REF="47">
+he'l put me to terrible straits and plunges, and make me take some desperate resolu|tion, wou'd I might speak with him, you shu'd hear how I'd rattle him.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>I wou'd you did for me, for I'ave no mind to't, now I know what a danger|ous man he is; well, get you in, and let me alone with him.</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>I go most gladly to avoid his sight, which I so abhor, and hate as I shu'd fear to go even to paradice if he were there.</P>
+</SP>
+<STAGE>Manet Sganarelle.</STAGE>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>I'le marry her, that's certain, for I see she loves me, and there's like to be no love lost if she holds on as she begins,&mdash;but let me see, it behoves me now more then ever to look unto my house&punc;</P>
+<P>Where are you there?</P>
+</SP>
+</DIV3>
+<DIV3 N="8" TYPE="scene">
+<HEAD>SCAENA VIII.</HEAD>
+<STAGE>Enter the Changelings.</STAGE>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<P>HEre Master.</P>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<P>Here Master.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>I'd best get a couple of Halberts for them,&mdash;come hither I'm to go abroad
+<PB N="77" REF="47">
+d'ye hear, and now be sure you be more careful then ever, to let none enter, espe|cially if any young Gentleman come be sure you keep him out.</P>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<P>I Master.</P>
+</SP>
+<SP>
+<SPEAKER>2:</SPEAKER>
+<P>I Master.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Suppose me the man, now let me see how you'l deal with him.</P>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<P>Get you gone.</P>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<P>Get you gone I say.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Good, and if he go not the sooner thrust him out. Let's see.</P>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<P>Away.</P>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<P>Away I say.</P>
+</SP>
+<STAGE>They thrust him.</STAGE>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Very good, and if he won't go, beat him soundly, I'le bear you out in't.</P>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<P>Won't you go, I'le make you.</P>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<P>And so will I.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Excellent!</P>
+<STAGE>They beat him&punc;</STAGE>
+<P>Hold, hold, 'tis well they have no Hal|berts now, these fools lay on without any mercy;&mdash;Now suppose he shu'd flatter you, and say, pray let me in, and offer you money, let's see what you'd do!</P>
+<STAGE>They offer to take the Money.</STAGE>
+<P><PB N="78" REF="48">What wou'd you take it?</P>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<P>Yes, and then we'd beat him agen for offering it us.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>That's well, <STAGE>They beat him agen.</STAGE> or else I'd beaten you for taking it;&mdash;Hold, hold, 'tis enough&mdash;I see they are not such very fools as I take them for, or in taking Money all are wise alike.</P>
+<P>Well, being so well instructed, go and look well to your charge, and my bene|diction w'ye.</P>
+<STAGE>Exeunt:</STAGE>
+<P>This 'tis to do things wisely; now will I go and do my other business as wisely as I can.</P>
+</SP>
+<STAGE>Exit.</STAGE>
+</DIV3>
+<TRAILER>Finis Actus Tertij.</TRAILER>
+</DIV2>
+<DIV2 N="6" TYPE="act">
+<PB N="79" REF="48">
+<HEAD>Actus VI.</HEAD>
+<DIV3 N="1" TYPE="scene">
+<HEAD>Scaena I.</HEAD>
+<STAGE>Enter Lysette&punc;</STAGE>
+<SP>
+<P>I'm glad  <GAP DESC="illegible" EXTENT="1 letter">h'ave almost done within, there was such eating I thought they wou'd have eat us all; if these be your <HI>French</HI> Counts and Marquisses, they are the hun|gryest ones as e're I saw! then they pocketed up more sweet-meats and ban|queting stuff then twenty Gossips at a Christning. Oh! here they come at last.</P>
+</SP>
+</DIV3>
+<DIV3 N="2" TYPE="scene">
+<HEAD>SCAENA II.</HEAD>
+<STAGE>Enter the Damoiselles with Mascarillio and Iodelet, and other Gallants, and Ladies for the Ball.</STAGE>
+<SP>
+<SPEAKER>Mascarillio.</SPEAKER>
+<P>VVHat are the Violins come yet?</P>
+</SP>
+<SP>
+<SPEAKER>Lys.</SPEAKER>
+<P>Yes Sir.</P>
+</SP>
+<SP>
+<PB N="80" REF="49">
+<SPEAKER>Mas.</SPEAKER>
+<P>Let them strike up then, and play me a Corrant, I'le take the hardiess for Prologue to the Ball to dance you a Cor|ranto Ladies.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>You'l much honour us.</P>
+</SP>
+<SP>
+<SPEAKER>Lys.</SPEAKER>
+<P>Faith if his dancing be no better then his singing, the dancing Bears shall dance the Tricotees with him for a wager.</P>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>Sa&mdash;begin there. <HI>Tout beau, tout beau,</HI> not so fast, not so fast I say,&mdash;firm, firm, en Cadence, en Cadence and be hang'd! Oh Diable! there's no enduring them, <HI>Violins de village!</HI></P>
+<STAGE>Dances.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Lys.</SPEAKER>
+<P>They play well enough if he cou'd but dance as well, I knew well enough what a manner of dancer he was.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Come now, lets have our Ball.</P>
+</SP>
+<STAGE>They dance singly and together, and at the end.</STAGE>
+</DIV3>
+<DIV3 N="3" TYPE="scene">
+<PB N="81" REF="49">
+<HEAD>SCAENA III.</HEAD>
+<STAGE>Enter Du Buisson and La Fleur, with Cudgels.</STAGE>
+<SP>
+<SPEAKER>Du Buisson.</SPEAKER>
+<P>OH! have we found you! must you be dancing here, and make us dance attendance for you at home? there's mu|sick for you if you'l needs be dancing.</P>
+</SP>
+<SP>
+<SPEAKER>La Fl.</SPEAKER>
+<P>And there.</P>
+</SP>
+<STAGE>They beat the Laqueys, the rest, all but the Damoiselles run off.</STAGE>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>How now! what insolence is this.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Hold, hold, this was not in the bargain though.</P>
+</SP>
+<SP>
+<SPEAKER>Du Buis.</SPEAKER>
+<P>Had you none, you insolent Rascals, to abuse with your impostures! but these Ladies here whom we both love and honour.</P>
+</SP>
+<SP>
+<SPEAKER>La Fl.</SPEAKER>
+<P>We'l make ye an example for it.</P>
+</SP>
+<STAGE>Exeunt hastily.</STAGE>
+<STAGE>Manent the Damoiselles with Mascarillio and Iodelet.</STAGE>
+<SP>
+<PB N="82" REF="50">
+<SPEAKER>An.</SPEAKER>
+<P>What's the matter d'ye know?</P>
+</SP>
+<SP>
+<SPEAKER>Lys.</SPEAKER>
+<P>The matter's clear, they have been soundly beaten.</P>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>Pho! only a wager.</P>
+</SP>
+<SP>
+<SPEAKER>Iod.</SPEAKER>
+<P>Ne're trouble your selves, all this is nothing.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>D'ye make nothing of a beating then!</P>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>Pho! a hundred such things as these pass amongst Friends.</P>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<P>For you, your Gallantry priviledges you from fighting; but for him so great a Soldier, and so brave a man, Brave upon brave, a three pyl'd brave.</P>
+</SP>
+<STAGE>To Mas.</STAGE>
+<SP>
+<SPEAKER>Iod.</SPEAKER>
+<P>Why there 'tis now, the more valiant, hardier to provoke to anger still; but when their anger's up once, woe to those who provoked them.</P>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>Were they but here agen you shu'd see now how we wou'd handle them.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Behold them here.</P>
+</SP>
+<SP>
+<SPEAKER>Lys.</SPEAKER>
+<P>They look methinks as if they cou'd wish them away agen.</P>
+</SP>
+</DIV3>
+<DIV3 N="4" TYPE="scene">
+<PB N="83" REF="50">
+<HEAD>SCAENA IV:</HEAD>
+<STAGE>Enter Du Buisson and La Fleur agen with Servants.</STAGE>
+<SP>
+<SPEAKER>Du Buisson.</SPEAKER>
+<P>THere, strip them, strip them, that that these Ladies may see when their borrow'd Plumes are of, what pit|tiful Jack-Dawes they are.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Why who are they?</P>
+</SP>
+<SP>
+<SPEAKER>La Fl.</SPEAKER>
+<P>Why Ladies if you'l needs have the naked truth, these are our Laqueys.</P>
+</SP>
+<SP>
+<SPEAKER>Both.</SPEAKER>
+<P>How! Laqueys!</P>
+</SP>
+<SP>
+<SPEAKER>Laqueys.</SPEAKER>
+<P>At your service.</P>
+</SP>
+<SP>
+<SPEAKER>Lys.</SPEAKER>
+<P>I knew what manner of Counts and Marquesses they were.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Were ever any so abus'd!</P>
+</SP>
+<SP>
+<SPEAKER>Du Buis.</SPEAKER>
+<P>Right Ladies, and that makes us so severe in punishing them.</P>
+</SP>
+<SP>
+<SPEAKER>La Fl.</SPEAKER>
+<P>Nor is this but a light prepara|tive to the punishment we mean to inflict on them at home.</P>
+</SP>
+<SP>
+<SPEAKER>Du Buis.</SPEAKER>
+<P>Dispatch, dispatch there.</P>
+</SP>
+<SP>
+<PB N="84" REF="51">
+<SPEAKER>Iod.</SPEAKER>
+<P>There goes the County.</P>
+</SP>
+<STAGE>As they take away their Cloths.</STAGE>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>And there the Marquisat.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>I am so confounded and asham'd I know not what to say, nor what to do.</P>
+</SP>
+<SP>
+<SPEAKER>La Fl.</SPEAKER>
+<P>Our shame and confusion is no less then yours, that any who had any Re|lation unto us, shu'd presume to offer ye this injury and affront.</P>
+</SP>
+<SP>
+<SPEAKER>Du Fl.</SPEAKER>
+<P>And we beseech you to believe we had no hand in it, but only in the punishing it.</P>
+</SP>
+<SP>
+<SPEAKER>La Fl.</SPEAKER>
+<P>And if you think them not suf|ficiently punished, we leave them w'ye to punish them more; and so for this time we take our leaves.</P>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE>Manent the Damoiselles and Laqueys stript to their shirts and Calcons.</STAGE>
+<SP>
+<SPEAKER>An:</SPEAKER>
+<P>Get ye gone ye Rogues, how dare ye tarry here, considering how y'ave a|bus'd us:</P>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>We only tarry to know what farther service you please to command us, if you need one now to run a race for you behold your man ready stript:</P>
+</SP>
+<SP>
+<SPEAKER>Iod.</SPEAKER>
+<P>And I to do the double supersault
+<PB N="85" REF="51">
+for you, if you love feats of Activity.</P>
+</SP>
+<SP>
+<SPEAKER>Mar:</SPEAKER>
+<P>Away ye Rogues, away.</P>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>This! to <HI>Counts</HI> and <HI>Marquesses.</HI></P>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<P>Yet dare ye usurp those Names?</P>
+</SP>
+<SP>
+<SPEAKER>Iod.</SPEAKER>
+<P>Why not, I'm sure if we were else|where, we might pass for such, and no body question it.</P>
+</SP>
+<STAGE>Enter one of the Musick.</STAGE>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<P>Who pays us for our Musick here?</P>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>Ask Monsieur <HI>le Count.</HI></P>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<P>Will you Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Iod.</SPEAKER>
+<P>Ask Monsieur <HI>le Marquess</HI> there.</P>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>Why thus goes the world, when men once are fallen into adversity every one falls upon them:</P>
+</SP>
+<SP>
+<SPEAKER>Lys.</SPEAKER>
+<P>Hark ye, hark ye Sir, do you know me I pray?</P>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>The waiting woman too!</P>
+</SP>
+<SP>
+<SPEAKER>Lys.</SPEAKER>
+<P>D'ye remember how you'd have deboiched me to day? now cou'd I find in my heart to beat you for't, but that y'ar sufficiently beaten already.</P>
+</SP>
+</DIV3>
+<DIV3 N="5" TYPE="scene">
+<PB N="86" REF="52">
+<HEAD>SCAENA V.</HEAD>
+<STAGE>Enter Monsieur Bonhomme.</STAGE>
+<SP>
+<SPEAKER>Bonhomme.</SPEAKER>
+<P>VVHere are these Bagages? where are these Damoiselles <HI>a la mode</HI> here?</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>My Father, here! then we are sham'd for ever!</P>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>Here's fine doings! fine Revels w'ye, is there not?</P>
+<P>Monsieur <HI>Du Buisson</HI> and <HI>La Fleur</HI> yonder have told me all; you must have your Counts and Marquesses, no worse men serve your turns,&mdash;and are these they I pray?</P>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>All that are left of them.</P>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>Get ye gone, and that presently too, or I'le not leave you so much as your skins, but strip you of them as others have of your Clothes.</P>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>Come Brother w'ad best be gone and leave this ungrateful place where men of our good parts for singing and dancing are no more rewarded.</P>
+</SP>
+<SP>
+<PB N="87" REF="52">
+<SPEAKER>Iod.</SPEAKER>
+<P>And where naked vertue's not lookt upon, but men are more regarded for their Cloths, then for themselves.</P>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE>Manent the Damoiselles and Monsieur Bonhomme, &amp;c:</STAGE>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>Go, get you in too, for I'm too angry w'ye to chide you now, but when my anger's over once, expect to hear from me, and that soundly too.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Come Sister lets go and think on some way of repairing our ho|nours.</P>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<P>Will you pay us for our Musick Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>I marry will I, there's payment for you, and there agen, must you be fidling here amongst the rest? I'le fiddle you.&mdash;</P>
+<STAGE>Beats him.</STAGE>
+<P>I'am vext at heart with these foolish Bag|gages, and shall be more; when once 'tis known in Town, we shall have the Boys hoot them as they pass the streets, and call one Madam the Countess, t'other Ma|dam the Marchioness: besides, I fear th'as quite broke off the match with these Gentlemen and them;&mdash;I must go seek to make all whole agen, or else I shall not know what to do with them.</P>
+</SP>
+<STAGE>Exit.</STAGE>
+</DIV3>
+<DIV3 N="6" TYPE="scene">
+<PB N="88" REF="53">
+<HEAD>SCAENA VI.</HEAD>
+<STAGE>Enter Sganarelle.</STAGE>
+<SP>
+<P>YOnder's the house, but I know not what's the matter, I'm nothing nigh so forwards to knock as I was wont to be; but fall back fall edge: I am resolv'd, yet softly, softly <HI>Sganarelle,</HI> for fear of angring him,&mdash;and see here he comes already, now han't I breath enough to blow up the bladder of a whiting mop.</P>
+</SP>
+<STAGE>Knocks:</STAGE>
+</DIV3>
+<DIV3 N="7" TYPE="scene">
+<HEAD>SCAENA VII.</HEAD>
+<STAGE>Enter Valerio and Ergasto:</STAGE>
+<SP>
+<SPEAKER>Valerio.</SPEAKER>
+<P>IAm inrag'd, that I can think of no ex|pedient to free her from this savage beast?</P>
+</SP>
+<SP>
+<SPEAKER>Erg.</SPEAKER>
+<P>Peace, yonder he is.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Methought I heard him say, he was inrag'd. I'm more and more afraid of him.</P>
+</SP>
+<SP>
+<PB N="89" REF="53">
+<SPEAKER>Val.</SPEAKER>
+<P>Now Sir what news with you? you'r never without some or other I know.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Pardon me Sir, I'm afraid I trou|ble you too often.</P>
+</SP>
+<STAGE>Speaks fleeringly.</STAGE>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<P>Not a whit, not a whit, ne're fear it.</P>
+</SP>
+<SP>
+<SPEAKER>Erg.</SPEAKER>
+<P>Has strangely chang'd his Tone and Countenance, what e're's the matter.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>But I am but a Messenger, you must consider.</P>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<P>I do consider it.</P>
+</SP>
+<SP>
+<SPEAKER>Erg.</SPEAKER>
+<P>The Rogue's abominably afraid, now I perceive, fogh! how he stinks!</P>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<P>And what says Madamoiselle <HI>Isa|bella?</HI> for I know you come from her!</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Why she commends her t'ye, and says that she is credibly inform'd you in|tend a terrible Ryot on my house, and to come to night and take her away by force.</P>
+</SP>
+<SP>
+<SPEAKER>Erg.</SPEAKER>
+<P>Slid! she but instructs thee what thou shu'dst do.</P>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<P>Well, and what more?</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>And says, that if you make not an end the sooner, you'l put her to terri|ble
+<PB N="90" REF="54">
+straits and plunges, and make her take some desperate resolution.</P>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<P>Poor soul! it grieves me at heart to think what straits and plunges indeed I put her to;&mdash;</P>
+<STAGE>Aside.</STAGE>
+<P>But do's she say this indeed?</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>If you wont believe but go a|long with me, and you shall hear her say so much her self;&mdash;I must do any thing to content him.</P>
+</SP>
+<STAGE>Aside.</STAGE>
+<SP>
+<SPEAKER>Erg.</SPEAKER>
+<P>Slid take him at his word.</P>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<P>Well Sir, since you'l needs have it so, I'le go along w'ye, though unwillingly.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>I can't blame you, for I'le war|rant ye a sound chiding:&mdash;I'le but go a little way, and call you presently.</P>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<P>We'l go along w'ye if you please.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Pox on him! wou'd I were well rid of him.</P>
+<STAGE>Aside.</STAGE>
+<P>I'le instantly be here agen.</P>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<P>what need you make more labors then one of it? we'l go together;&mdash;Come.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>What before you Sir! pray.</P>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<P>Beseech you.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Never Sir.</P>
+</SP>
+<SP>
+<PB N="91" REF="54">
+<SPEAKER>Val.</SPEAKER>
+<P>Nay't must be so.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>To obey your commands then since you'l needs have it so, and shew you the way.</P>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<P>This is the first time I think that ever he Complemented.</P>
+</SP>
+<SP>
+<SPEAKER>Erg.</SPEAKER>
+<P>'Tis strange indeed! but what i'st fear can't do?</P>
+<P>that tames wild beasts, and makes him civil too.</P>
+</SP>
+<STAGE>Exeunt.</STAGE>
+</DIV3>
+<DIV3 N="8" TYPE="scene">
+<HEAD>SCAENA VIII.</HEAD>
+<STAGE>Enter Monsieur Bonhomme, Du Buisson</STAGE>
+<SP>
+<SPEAKER>Bonhomme.</SPEAKER>
+<P>COme ne're deny it, I know it was your plot, and thank you for it, thank you heartily, they may well stile you their <HI>Esculapius,</HI> you have done so miraculous a cure on them, to let them see their follies and vanities, see them to their shame, and shame unto amendment.</P>
+</SP>
+<SP>
+<SPEAKER>DuBuis.</SPEAKER>
+<P>If't be so w'ar most glad of it, for we confess we love them, love them hear|tily; but were their Beauties and their
+<PB N="9" REF="55">
+Fortunes centuplied, we wou'd not marry them as they were before;&mdash;I love a lit|tle noble Pride in Women, but hate a dis|dainful one.</P>
+</SP>
+<SP>
+<SPEAKER>La Fl.</SPEAKER>
+<P>And I a little vanity in the sex, it shews handsomly in them, for vanity in women it is like allay in Coyn, a little no ways abases it, but renders it only more ductil and pliable.</P>
+</SP>
+<SP>
+<SPEAKER>Du Buis.</SPEAKER>
+<P>But in such excess there's no enduring it, and all our whole Estates in a year or two, wou'd be set flying after the mode and fashions, and one half acre of St. <HI>Germans</HI> Fayr wou'd consume a hun|dred of ours in the Country, only in toys and trifles.</P>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>Never fear, for I tell you th'ar quite chang'd from what they were, and never <HI>Circes</HI> so transformed others, nor <HI>Proteus</HI> himself, as you have transformed them.</P>
+</SP>
+<SP>
+<SPEAKER>La Fl.</SPEAKER>
+<P>If it be so, 'tis well; but still we doubt it.</P>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>And if you won't believe me, but go along with me, and believe your selves.</P>
+</SP>
+<SP>
+<PB N="39" REF="55">
+<SPEAKER>Du Buis.</SPEAKER>
+<P>Well, once more we'l venture; but if once more we find our selves de|ceiv'd&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Bonh:</SPEAKER>
+<P>Ne're trust me agen; for more assurance; I'le go before, and leave you to come after, mean time pray put your selves a little more i'th mode and fashion.</P>
+</SP>
+<SP>
+<SPEAKER>La Fl.</SPEAKER>
+<P>Why so?</P>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>For a Certain reason I have, wo|mens affections follow their eyes, and the way to take the one is to take the other first, they love to see men gallant and fashionable, and the neglect of it, they take as a neglect unto themselves.</P>
+</SP>
+<SP>
+<SPEAKER>Du Buis.</SPEAKER>
+<P>Well, for this once we'l follow your advice.</P>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>Pray do, you'l oblige me in't, and so farewell, within this hour I shall expect you.</P>
+</SP>
+<SP>
+<SPEAKER>La Fl.</SPEAKER>
+<P>And we shall not fail to come.</P>
+</SP>
+<STAGE>Exeunt Several ways.</STAGE>
+</DIV3>
+<DIV3 N="9" TYPE="scene">
+<PB N="94" REF="56">
+<HEAD>SCAENA IX:</HEAD>
+<STAGE>Enter Sganarelle, Valerio and Ergasto, a Song within.</STAGE>
+<SP>
+<SPEAKER>Sganarelle.</SPEAKER>
+<P>THat's she that sings there:</P>
+<P>So, now tarry here a little, and I'le go fetch her strait, but expect a sound chiding.</P>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>Va.</SPEAKER>
+<P>And I deserve it, I know not with what face to look on her, but I hope she'l be so merciful to think t'has rather been want of ability then will, that I've obey'd her commands no sooner, and that occasion has rather been wanting unto me, then I to it.</P>
+</SP>
+</DIV3>
+<DIV3 N="10" TYPE="scene">
+<PB N="95" REF="56">
+<HEAD>SCENA X.</HEAD>
+<STAGE>Enter to them Sganarelle and Isabella.</STAGE>
+<SP>
+<SPEAKER>Isabella:</SPEAKER>
+<P>NOw what i'st you'l shew me?</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>That which you'l wonder to see I'm sure:</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Some fine sight I'le warrant you:</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Look! d'ye see who's yonder!</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>Ha! <HI>Valerio!</HI></P>
+</SP>
+<SP>
+<SPEAKER>Sgan:</SPEAKER>
+<P>I knew you'd wonder to see him here.</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>Help me dissimulation, or else I shall betray my joy to see him.</P>
+<STAGE>Aside.</STAGE>
+<P>And was't you that brought him hither?</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Who else dost think?</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>Y'ave done very well, and I'm much beholding t'ye, to bring such Gal|lants as these unto your house; I wonder what you mean by it!</P>
+</SP>
+<SP>
+<SPEAKER>Sgan:</SPEAKER>
+<P>Nay, be not angry now,&mdash;I only brought him to hear confirmed by you what I have told him from you; as
+<PB N="96" REF="57">
+first, that you observed well enough how he follow'd you, and the amorous glan|ces he gave you too.</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>All this I bid him tell you.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Go too then, these are Truths I hope,&mdash;and you wou'd not believe me now;&mdash;then for the Letter.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>I confess I sent that too.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Go too then, these are truths I hope still,&mdash;and did you not bid me tell him you were inform'd he intended a ter|rible Ryot in my house, and to come to night and take you away by force?</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>I did so.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Very good still all these are truths I hope.</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>And that if you made not an end the sooner you'd put me to terrible straits and plunges, and make me take some de|sperate resolution.</P>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<P>All this he told me too:</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Very good then, all these are truths I hope still.</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>And are you not asham'd all this being so, that I woman shu'd send unto ye so oft, and you a man shu'd never answer
+<PB N="97" REF="57">
+me; or only by words, not by effects and deeds:&mdash;Was this done like a Gentle|man?</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Well said, I told you she wou'd chide you; but thou dost not chide him enough.</P>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<P>I confess your Reproaches are just, but I beseech you to consider all the difficulties I had, and believe that I'm more unfortunate then criminal.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>Well then, for your greater sa|tisfaction (if yet you be not satisfied) know there stands a couple of you, of which the one I love, the other hate as much.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Mark that now.</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>The one is all my pleasure and delight, t'other all my pain and torment.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Mark that agen.</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<LG>
+<L>T'one, finally, I'd have for Hus|band rather then my life,</L>
+<L>T'other I'd sooner die&mdash;then be his wife.</L>
+<L>Does this content you now?</L>
+</LG>
+</SP>
+<STAGE>To Sgan.</STAGE>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>I child of mine own Education, it does; and in sign of it&mdash;there kiss my hand.</P>
+</SP>
+<SP>
+<PB N="98" REF="58">
+<SPEAKER>Erg.</SPEAKER>
+<P>A special favour.</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>Well, now if you be satisfied, will you get you gone!</P>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<P>Yes Lady, I go, and since I well perceive who 'tis you love, and who you hate so much, I shall soon rid you of his hateful sight.</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>Pray do then, and know in any one Action you can't oblige me more; for I confess I'd rather see a Basilisk.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Aye, say not so.</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>Why?</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Thou'lt kill him quite, dost not see how sad he is already;&mdash;poor man! I pity him, but I cannot cry.</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>Nor shall you laugh long I hope.</P>
+<STAGE>Aside.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>What are you here still, I thought you had been gone with a nose thus long at least;&mdash;now I'm on mine own dung|hill I may crow over him.</P>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<P>'Tis well Sir, you'r a happy man that may tarry here whilst I must part from hence; yet shall I never repent my love to her, nor envy her's to you.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan:</SPEAKER>
+<P>Do what you will, so you get
+<PB N="99" REF="58">
+you gone, for you know she can't endure to see your face, wherefore I pray try a little how she'l endure to see your back.</P>
+</SP>
+<SP>
+<SPEAKER>Erg.</SPEAKER>
+<P>How I cou'd beat the Rogue!</P>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<P>Come, come, lets go and never mind him.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>So, so, 'tis very well, Oh what a comfortable sight it is yet a little more,&mdash;so now 'tis well.</P>
+</SP>
+<STAGE>Exeunt Valerio &amp; Erg.</STAGE>
+<STAGE>Manent Sganarelle and Isabella.</STAGE>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>Fie, fie, you jeer him most un|mercifully.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>No 'tis you, this was but a little pleasant Raillery; but thou wert too bit|ter with him, i'faith thou wert; that of the Basilisk kil'd him quite: I'le marry thee presently for that conceit.</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>How!</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>I am resolv'd on't, and tomorrow morning fresh and fasting I'le dispatch the business.</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>I'm justly plagu'd for my dissem|bling,&mdash;you wont have time sufficient to prepare and put all things in readiness so soon for the Wedding, Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>I'le warrant you a little prepara|tion will suffice.</P>
+</SP>
+<SP>
+<PB N="100" REF="59">
+<SPEAKER>Isab.</SPEAKER>
+<P>Nor I to provide my Wedding Clothes.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>There's no need of provision.</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>My Cousins will look to be in|vited too.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>I'le none of these Invitations, 'tis but an unnecessary charge and trouble.</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>No way to prevent it!&mdash;Oh! I feel my self very ill on the sudden.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>'Tis but a qualm that presently will over, I'le but go and see the writings drawn and look to find you well at my return.</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>But pray let me not be molested then, for I'le to bed, and hope a little rest will make me better.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Do, and sleep soundly; and so good night.</P>
+</SP>
+<STAGE>Exit.</STAGE>
+<STAGE>Manet Isabella.</STAGE>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>What shall I do? this makes me desperate, and just like those who fly great fiers, rather consider what it is they fly, then whither 'tis they go; so to avoid his hateful Nuptials, I must do somewhat, and care not what I do.
+<PB N="101" REF="59">
+The worst is dying, and howe're death be Hateful enough, 'tis lovelier yet then he:</P>
+</SP>
+<STAGE>Exit.</STAGE>
+</DIV3>
+<TRAILER>Finis Actus Quarti:</TRAILER>
+</DIV2>
+<DIV2 N="5" TYPE="act">
+<HEAD>Actus V.</HEAD>
+<DIV3 N="1" TYPE="scene">
+<HEAD>Scaena I.</HEAD>
+<STAGE>Enter Isabella.</STAGE>
+<SP>
+<P>HAving consulted all my love and hate, I am resolv'd by favour of the night to leave this loathed house, and take my flight unto <HI>Valerio</HI>'s, I know there is danger in it,</P>
+<P>But those who weigh all dangers may befal e're they resolve, shall ne're resolve at all.</P>
+</SP>
+</DIV3>
+<DIV3 N="2" TYPE="scene">
+<PB N="102" REF="60">
+<HEAD>SCAENA II.</HEAD>
+<STAGE>Enter Sganarelle.</STAGE>
+<SP>
+<SPEAKER>Sganarelle.</SPEAKER>
+<P>SO, I've got the writings drawn.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>Aye me! Who do I hear?</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Let me see if I have not lost them.</P>
+</SP>
+<STAGE>Searches his Pockets.</STAGE>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>Envious Fortune! that never yet were't friend to vertuous love, hadst thou no time but now to declare thy self an enemy?</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>No, here they are, I was afear'd I'd lost them.</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>Fixt and surpris'd 'twixt fear and strong desire,</P>
+<P>I neither dare go on, nor yet retire, this is such a misfortune, there is no reme|dy against but poyson and precipices.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>So now I'le go home.</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>But this is not a time to spend in vain complaints, Somewhat I must do.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Holla! who goes there? I'm
+<PB N="103" REF="60">
+afear'd 'tis <HI>Valerio</HI> come to steal <HI>Isabella</HI> a|way,&mdash;Oh for three blanks of courage more, for what I have will hardly serve my turn.</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>It shall be so;&mdash;who's there Guardian.?</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Isabella!</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>The same.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>What make you here? you said you were ill, and meant to go to bed, and I thought y'd been in your first sleep o're this.</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>And so I had, but for an extraor|dinary accident that happen'd me.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>What accident?</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>Not so hasty I beseech you,&mdash;Why just as I was ready to go to bed, who shu'd come to visit me but my Cousin Madamoiselle <HI>Mary.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>At this time of night?</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>Yes Sir, and what d'ye think her business was?</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Nay&mdash;I know not.</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>Nor cou'd you imagin I'le war|rant you&mdash;I wou'd I cou'd&mdash;</P>
+</SP>
+<STAGE>Aside.</STAGE>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>VVhat was't? ha!</P>
+</SP>
+<SP>
+<PB N="104" REF="61">
+<SPEAKER>Isab.</SPEAKER>
+<P>VVhy Sir, having heard it seems that <HI>Valerio</HI> intended to come and steal me away to night&punc;&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Oh? that shews that it was she who gave you the intelligence of 't:&mdash;well on.</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>VVhat does she, but intreat me of all loves that she might come and take my place to night.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>And so be stoln away instead of you?</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>Right Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>But why this?</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>Why Sir you must know she has lov'd <HI>Valerio</HI> long, and quite despairing of all other ways, she wou'd needs try this way to gain his love&punc;</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>And so put a trick upon him?</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>Yes Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>She's nothing else but tricks I think;&mdash;and wou'd you consent to this?</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>Oh no Sir, but I disswaded her all I could, and told her what a dishonour it wou'd be to her, and to my self, till see|ing all my disswasions were in vain, I seemingly at last consented, intending
+<PB N="105" REF="61">
+privately to ask your Counsel and advice in it.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Where is she?</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>Within Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Why then go presently and turn her out of doors, I'le no such tricks play'd in my house, and why are you out of doors at this time of night?&mdash;let me examine that.</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>Why only to see if I could 'spy you coming, I did so long for your coming home.</P>
+</SP>
+<STAGE>Flatters him.</STAGE>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Oh! 'tis well,&mdash;well&punc; go your ways, and do as I bid you:&mdash;Where is she! let me come to her, you shall hear how I'le rattle her.</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>Oh by no means Sir, you'l shame her quite, and me too, for she'l think I have betray'd her t'ye; rather let me by fair perswasions seek first to send her hence, and then if that wont do, use your discretion&punc;</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Do't any ways so you rid the house of her.</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>And as she passes by, pray seem to take no notice of her&punc;</P>
+</SP>
+<SP>
+<PB N="106" REF="62">
+<SPEAKER>Sgan.</SPEAKER>
+<P>Well, well, at your request I will not,&mdash;go and dispatch presently:</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>So, thus far all goes well, <STAGE>Aside:</STAGE> now muster up thy whole self <HI>Isabella</HI> to deceive him, and get away from him, the rest were only light assayes, but this when it is done shall be my Master-piece.</P>
+</SP>
+<STAGE>Manet Sganarelle.</STAGE>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Here's brave doings! and fine order in my Consins house, I have heard of all their Rex to day, and wou'd not for twenty pound but have heard of it; but this surpasses all, to have his Daugh|ters rambling abroad at this time of night alone, and on such Errants too! were she my charge, I'd break the neck of her; but <HI>Isabella</HI> is far from doing thus, thanks to her good breeding and education&punc; But where are my Urchins, I'le talk with them for this; where are you there?</P>
+</SP>
+</DIV3>
+<DIV3 N="3" TYPE="scene">
+<PB REF="62">
+<HEAD>SCAENA III.</HEAD>
+<STAGE>Enter the Two Fools.</STAGE>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<P>HEre Master.</P>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<P>Here Master.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>VVhy ye Changlings&punc; ye Ideots.</P>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<P>'Uds so Master's angry!</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Did not I charge you to look well to my house, and let none enter whilst I was abroad, and d'ye let your Damoiselles Errant in!</P>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<P>Oh, Oh, Oh.</P>
+</SP>
+<SP>
+<SPEAKER>2.</SPEAKER>
+<P>Oh, Oh, Oh.</P>
+</SP>
+<SP>
+<SPEAKER>1.</SPEAKER>
+<P>VVhy d'ye beat us? we saw none indeed:</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Therefore I beat you, you neg|ligent Dog-boults, for you shu'd have seen them, and kept them out too;&mdash;VVell, go your ways, and as you like this, look better to your charge hereafter.</P>
+</SP>
+<STAGE>Manet Sganarelle.</STAGE>
+<STAGE>Exeunt.</STAGE>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>I perceieve that those who care not how things are done, may trust others&punc;
+<PB REF="63">
+but those who'd have them well done in|deed, must trust unto themselves; here after I'le look to my house my self, and then deceive me those who can. Hark! I hear some stiring within, I think she be coming forth.</P>
+</SP>
+<SP>
+<SPEAKER>Isabella within.</SPEAKER>
+<P>VVell Cousin to disa|buse you, in fine, your stay is all in vain, there's no <HI>Valerio</HI> comes here to night, I can assure you, my careful Guardian has ta'n order for that, wherefore I pray be gone.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>I like her well, she tells her plain|ly of it without dissembling.</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>As for my Clothes you may keep them, and send them me to morrow mor|ning, and so good night; you'l excuse me that I do not wait upon you out.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan:</SPEAKER>
+<P>Now, now, she's coming, I'le stand close and observe her.</P>
+</SP>
+</DIV3>
+<DIV3 N="4" TYPE="scene">
+<PB REF="63">
+<HEAD>SCAENA IV.</HEAD>
+<STAGE>Enter Isabella Vail'd.</STAGE>
+<SP>
+<SPEAKER>Isabella.</SPEAKER>
+<P>NOw Night, put on thy darkest man|tle, and hide me in't.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>So&mdash;I'm glad my house is rid of her, which way goes she? what directly to <HI>Valerio</HI>'s? Here's a desperate wench now? cares not to put fire and tow to|gether, we shall have a brave flame of it anon.</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>This is the house, now Love after so many storms and dangers past, here let me find a happy port at last&punc;</P>
+</SP>
+</DIV3>
+<DIV3 N="5" TYPE="scene">
+<HEAD>SCAENA V.</HEAD>
+<STAGE>Enter Valerio rushing out.</STAGE>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<P>I Am resolv'd I'le either die, or free my <HI>Isabella</HI> from her Captivity.</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>Live, live <HI>Valerio,</HI> for behold her here&punc;</P>
+</SP>
+<SP>
+<PB REF="64">
+<SPEAKER>Val.</SPEAKER>
+<P>Ha! <HI>Isabella?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>The same.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>But you lie&punc; though, for all your counterfeiting her, and her voice so well.</P>
+<STAGE>Aside.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>I fear now my <HI>Valerio</HI> may less esteem his Conquest of me, having gain'd me so early as has done.</P>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<P>Rather the more, the more a thou|sand times, for what we gain with diffi|culty we use to attribute chiefly to our own industry, but coming by you so ea|sily as I do, I must attribute all the thanks to you.</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>I fear I shall be seen here&punc;</P>
+</SP>
+<STAGE>Looks fearfully about.</STAGE>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<P>Come in then dearest, and hide you in mine Arms.</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>But by the port o'th Temple I dare not enter, Honour forbids it.</P>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<P>You are a thing so sacred, you make each place a Temple where you are: Mean time your scrupulous honour needs not fear.</P>
+<P>By that port only you shall enter here.</P>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE><PB N="111" REF="64">Manet Sganarelle.</STAGE>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>So, get you together with all my heart, pity two houses shu'd be troub|led w'ye, and I'm glad mine's rid of you: Now cou'd I but meet mine honest Cousin to confer notes together, how I shu'd laugh at him? and see in good time he's here.</P>
+</SP>
+</DIV3>
+<DIV3 N="6" TYPE="scene">
+<HEAD>SCAENA VI.</HEAD>
+<STAGE>Enter Mounsieur Bonhomme</STAGE>
+<SP>
+<SPEAKER>Sganarelle.</SPEAKER>
+<P>OH Cousin! my dear Cousin well; met, I'm heartily glad to see you well.</P>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>And I you; y'ar grown very kind and Complemental of late me|thinks! I'm glad to see't, 'tis a good sign.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Right Cousin, a very good sign, a sign that all goes well, and I congratu|late w'ye.</P>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>For what?</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Why for the high advancement
+<PB N="112" REF="65">
+of Madamoiselles your Daughters there.</P>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>To what I pray?</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>To the Dignity of Countess and Marchioness;&mdash;and how I pray does the honourable Lords the Count and Mar|quess their Husbands?</P>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>Y'ar very pleasant.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Have I not reason? being allied unto such noble Personages? and where I pray is your Daughter Madamoiselle <HI>Mary,</HI> if one might be so bold to ask?</P>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>VVhy at home I think.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Oh! you do but think so; but I shu'd be asham'd were I as you, and she my charge, not to know for certain where she were.</P>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>But why d'ye ask the question?</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>For a certain reason I shall tell you presently, d'ye know that house I pray? and who lives there?</P>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>VVhy Mounsieur <HI>Valerio</HI> as I take it.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>You take it right, and thereby hangs a tale:</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>VVhat tale?</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>VVhy of him and your Daugh|ter,
+<PB N="113" REF="65">
+and both together; for the plain truth is, she's run away from you, and has marryed <HI>Valerio.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>It cannot be!</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Nay, pray heaven it be no worse; and now I hope you see the difference Cousin betwixt our two procedures, yours by the way of mildness and gentle|ness, and mine by that of rigor and severity.</P>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>I see nothing yet, and shall believe nothing of all you say, until I see it with these eyes of mine.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>If that be all your difficulty, you shall soon see it. Holla! who's within there?</P>
+</SP>
+</DIV3>
+<DIV3 N="7" TYPE="scene">
+<HEAD>SCAENA VII.</HEAD>
+<STAGE>Enter Valerio and Isabella Vail'd.</STAGE>
+<SP>
+<SPEAKER>Valerio.</SPEAKER>
+<P>VVHo knocks there?</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>None but friends;&mdash;Look there, d'ye see her now?</P>
+</SP>
+<SP>
+<PB N="114" REF="66">
+<SPEAKER>Bonh.</SPEAKER>
+<P>Why this is <HI>Isabella.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Ha, ha, ha! he's deceiv'd as well as t'other there,&mdash;conceal your self still, and I'le keep your council since he'l needs be deceiv'd, you shall see how finely I'le deceive: Well, are you contented who e're it be, that he shu'd marry her?</P>
+<STAGE>To Isab:</STAGE>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>I am with all my heart; and are you so too?</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>with all my heart too, there's my hand on't.</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>Why then I thank you Sir.</P>
+</SP>
+<STAGE>unvails</STAGE>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>How! <HI>Isabella!</HI></P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>Yes Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>Did I not tell you so!</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Poor <HI>Sganarelle!</HI> how art thou coz'ned then?</P>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>And now I hope you see the difference betwixt our two procedures, yours by way of rigor and severity, and mine by mildness and gentleness?</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Now were I a Poet what Lam|poons cou'd I make against all woman|kind.</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>As for my portion, by good for|tune
+<PB N="115" REF="66">
+Sir 'twas left in your hands by my deceased Father to be paid me at day of Marriage.</P>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>'Tis confest, and I shall be ready to pay it whensoe're you please to de|mand it.</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>Then Sir to you, I've nothing else to say, but only to thank you for the care y'ave had of my good breeding and education:</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>And is this the fruit of it?</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>Even such as it deserves, and when I have any slaves to breed hereafter, I'le commend them to your care.</P>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<P>And I thank you Sir for all the good offices y'ave done me of carrying Letters and Messages betwixt us; without whose mediation I confess w'ad never been so happy as we are.</P>
+</SP>
+<SP>
+<SPEAKER>Sgan.</SPEAKER>
+<P>Nor I so unhappy&punc;&mdash;mockt and jeer'd on all sides; Well, I dare not be an|gry with them, but when I'm at home my Changlings shall dearly pay for it;&mdash;mean time my comfort is, you have as lit|tle joy of your Daughters as I of her here, and have as much reason to grieve for the
+<PB N="116" REF="67">
+marring of their Marriages, as I for the making of hers here.</P>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>Y'ar deceiv'd Sir, their Marri|ages are forwarder then you imagin: And here behold the Bridegroom's come, ready prepar'd for it.</P>
+</SP>
+</DIV3>
+<DIV3 N="8" TYPE="scene">
+<HEAD>SCAENA VIII.</HEAD>
+<STAGE>Enter Monsieur Du Buisson, and La Fleur, gallantly Attired, Mascarillio and Iode|let in their Laqueyes Clothes.</STAGE>
+<SP>
+<SPEAKER>Sganarelie.</SPEAKER>
+<P>NAy, if all be Marryed but I, 'tis time for me to go home, and hang my self; but first, though it fail'd the last year, I'le go and preach the end of the World this year infallibly.</P>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>So, now I like you, you appear like Bridegrooms, and your selves, and your Mistress, needs must like you too.
+<PB N="117" REF="67">
+What? my Count and Marquess! I am glad to see your Honours well.</P>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>Quelque chose Monsieur pour boire vostre sante.</P>
+</SP>
+<SP>
+<SPEAKER>Iod.</SPEAKER>
+<P>Somewhat to drink your health Sir&punc;</P>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>What Counts and Marquesses beg?</P>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>Yes in Court Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Iod.</SPEAKER>
+<P>And out of Court sometimes too.</P>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>Well, there's somewhat for act|ing your parts so well.</P>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>Gramercy Monsieur.</P>
+</SP>
+<SP>
+<SPEAKER>Iod.</SPEAKER>
+<P>We thank you Sir.</P>
+</SP>
+</DIV3>
+<DIV3 N="9" TYPE="scene">
+<HEAD>SCAENA IX.</HEAD>
+<STAGE>Enter Lysette:</STAGE>
+<SP>
+<SPEAKER>Bonhomme.</SPEAKER>
+<P>VVEll, where are your Mistresses?</P>
+</SP>
+<SP>
+<SPEAKER>Lys.</SPEAKER>
+<P>In the other world I think by this time.</P>
+</SP>
+<SP>
+<PB N="118" REF="68">
+<SPEAKER>Bonh.</SPEAKER>
+<P>How so?</P>
+</SP>
+<SP>
+<SPEAKER>Lys.</SPEAKER>
+<P>Why yonders the strangest change and alteration with them, t'one instead of Romances, reads nothing now but spi|ritual Books, amongst the rest sh'as got the <HI>Spur of Devotion,</HI> and reads it all day, and I think mean&punc;s to lie with't a nights too.</P>
+</SP>
+<SP>
+<SPEAKER>Du Buis.</SPEAKER>
+<P>He shu'd have but a cold bed|fellow then that marries her.</P>
+</SP>
+<SP>
+<SPEAKER>Lys.</SPEAKER>
+<P>T'other has got the <HI>Sick-mans salve,</HI> and instead of making <HI>Pomatum,</HI> studies nothing now but making Salves and Unguents for the poor.</P>
+</SP>
+<SP>
+<SPEAKER>La Fl.</SPEAKER>
+<P>Hei day!</P>
+</SP>
+<SP>
+<SPEAKER>Lys.</SPEAKER>
+<P>And means to go shortly and practise in an Hospital.</P>
+</SP>
+<SP>
+<SPEAKER>La Fl.</SPEAKER>
+<P>There let her practise for me, I shu'd be sorry my wife shu'd smell of no|thing but Salves and Plaisters, and talk of nothing but scald heads, aud scab'd skins.</P>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>Here's a strange and miraculous Conversion now!</P>
+</SP>
+<SP>
+<SPEAKER>Du Buis.</SPEAKER>
+<P>A conversion and a half! I'd rather have my wife bodily then spiritu|ally proud and vain.</P>
+</SP>
+<SP>
+<PB N="119" REF="68">
+<SPEAKER>La Fl.</SPEAKER>
+<P>We shall have them preach shortly, and of all things bless me from a preaching-wife</P>
+</SP>
+</DIV3>
+<DIV3 N="10" TYPE="scene">
+<HEAD>SCAENA X.</HEAD>
+<STAGE>Enter Madamoiselle Mary with a Book, Anne with a Gally pot in her hand, &amp;c.</STAGE>
+<SP>
+<SPEAKER>Du Buisson.</SPEAKER>
+<P>OH! here they come.</P>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>And see there's the <HI>Spur of Devotion,</HI> and there the <HI>Sick-man's Salve,</HI> let's stand close and observe them.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Look Sister, i'th first part of the <HI>Grand Cyrus</HI> here, there's the prittiest story of the <HI>Belle Incognita,</HI> as e're thou re'dst:</P>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>How's this! is this her <HI>Spur of Devotion!</HI></P>
+</SP>
+<SP>
+<SPEAKER>An:</SPEAKER>
+<P>And here's the best Pomatum as ever skin'd Ladies face.</P>
+</SP>
+<SP>
+<PB N="120" REF="69">
+<SPEAKER>La Fl.</SPEAKER>
+<P>And this her <HI>Sick-mans Salve?</HI> I'am glad of this i'faith.</P>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>Why thou lying Baggage didst thou not tell me they were converted, and had quite left off their follies and vanities.</P>
+</SP>
+<SP>
+<SPEAKER>Lys.</SPEAKER>
+<P>And so they have Sir if one may believe themselves, I'm sure they told me so;&mdash;Come, come, and leave off your dissembling, you make me be chid for you here.</P>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>'Tis true, we but dissemble in|deed.</P>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>Oh! that's well yet:</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>For we are truly converted.</P>
+</SP>
+<SP>
+<SPEAKER>La Fl.</SPEAKER>
+<P>What! more turnings yet?</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>And mean to leave off this vain and wicked world, and betake us pre|sently to a Nunnery.</P>
+</SP>
+<SP>
+<SPEAKER>Lys.</SPEAKER>
+<P>Beshrew me if you do, you shall go alone for me, for I'le not follow you.</P>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>Come, come, leave this sooling, and talk no more of Nunneries, but think of Marriage; behold your Husbands here:</P>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<P>Which?</P>
+</SP>
+<SP>
+<PB N="121" REF="69">
+<SPEAKER>Bonh.</SPEAKER>
+<P>Why these here, don't you see?</P>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<P>Who, those? with those profane legs there in surplices!</P>
+</SP>
+<SP>
+<SPEAKER>Du Buis.</SPEAKER>
+<P>They'r turn'd Fanaticks!</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>And those light shuttle-cock heads that look as if they'd fly?</P>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<P>No, those whom we were to mar|ry, were grave and sober Gentlemen, and far from the folly and levity of these:</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Sure these are the Lacqueys agen!</P>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>Come, come, leave your fooling I say, I tell you these are they.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>If they be, we are much beholding to them sure, to inveigh against the fashi|on and the mode, and cry out against va|nity, whilst th'ar a hundred times more vain themselves.</P>
+</SP>
+<SP>
+<SPEAKER>Du Buis.</SPEAKER>
+<P>Oh now I perceive what they'd be at&punc;&mdash;no, no, far be it from us to prohibit you any thing you have a mind unto, or seek to be your Masters, but follow the mode and fashions, read <HI>Romances,</HI> do what you will, you shall find us always your servants&punc;</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Nay then to shew our selves right women, now we may, we will not, but
+<PB N="222" REF="70">
+thus we throw them all away, which had you sought to have made us do by any other way then gentleness, we wou'd have died e're ever we wou'd have done.</P>
+</SP>
+<STAGE>They throw away their Book and Pot.</STAGE>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<P>Mean time don't think you have deceiv'd us with your fine plot there, for I hope by what w'ave done, you see we have our plots as well as you, and cou'd too if we list deceive you too.</P>
+</SP>
+<SP>
+<SPEAKER>Du Buis.</SPEAKER>
+<P>We confess and acknowledge it.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>And now we'l be idolatrous of the mode no more, nor think that Lady damn'd who's out o'th fashion.</P>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<P>Nor call a leg without Canons, a leg in Herauldry, or Hat without Feathers, the <HI>Quakers</HI> block.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Nor read Romances so long till we imagin our selves, th' <HI>Amaranths</HI> and <HI>Polixens</HI> we read of.</P>
+</SP>
+<SP>
+<SPEAKER>Lys.</SPEAKER>
+<P>And pray leave off your precious Language too, and speak intelligibly, that I may understand you.</P>
+</SP>
+<SP>
+<SPEAKER>Du Buis.</SPEAKER>
+<P>Enough, enough.</P>
+</SP>
+<SP>
+<SPEAKER>Bonh.</SPEAKER>
+<P>So, so, I'm glad you are so well
+<PB N="123" REF="70">
+agreed;&mdash;And now behold this other couple too, who are in Love agree'd as well as you.</P>
+</SP>
+<SP>
+<SPEAKER>La Fl.</SPEAKER>
+<P>Noble <HI>Valerio</HI> and fair <HI>Isabella,</HI> we heartily congratulate w'ye.</P>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<P>And we with you.</P>
+</SP>
+</DIV3>
+<DIV3 N="11" TYPE="scene">
+<HEAD>SCAENA XI.</HEAD>
+<STAGE>Enter Ergasto.</STAGE>
+<SP>
+<SPEAKER>Valerio.</SPEAKER>
+<P>COme <HI>Ergasto,</HI> where are you in all this joy?</P>
+</SP>
+<SP>
+<SPEAKER>Erg.</SPEAKER>
+<P>Now you have got another Com|panion, there is no need of me, I may be gone.</P>
+</SP>
+<SP>
+<SPEAKER>Val.</SPEAKER>
+<P>That's unkindly said, <HI>Ergasto,</HI> a friend's my better self, and no compani|on can be more dear to me then such an one, know him and love him my dear as one whom you and I have special obliga|tion to.</P>
+</SP>
+<STAGE>Embraces him.</STAGE>
+<SP>
+<PB N="124" REF="71">
+<SPEAKER>Bonh.</SPEAKER>
+<P>Come, come, 'tis late, and time each loving couple part, to meet agen with greater joy to morrow, to night's a fast, and <HI>Venus</HI> vigil, to morrow <HI>Heymen</HI>'s feast, to which I invite each one that's here my Guest.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>What my Count and Marquess, are you here?</P>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<P>At your service.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>No,&mdash;we'd rather counsel you to continue Actors still, you did your parts so well.</P>
+</SP>
+<SP>
+<SPEAKER>Iod.</SPEAKER>
+<P>Well then&punc;</P>
+<P>Gentlemen and Ladies you hear what's said, and we are ready for our parts so you'r content, to be Actors still for your divertisement.</P>
+</SP>
+</DIV3>
+</DIV2>
+</DIV1>
+<DIV1 TYPE="epilogue">
+<PB REF="71">
+<HEAD>EPILOGUE.</HEAD>
+<SP>
+<SPEAKER>Mascarillio&punc;</SPEAKER>
+<LG>
+<L>ANd now what</L>
+<L>think ye o'th Damoiselles a la Mode?</L>
+<L>We hope none grutches mony th'ave bestow'd</L>
+<L>In seeing them; or if that any here</L>
+<L>Thinks that for seing them theypaid too dear;</L>
+<L>We wish that for the mode &amp; Damoiselles too,</L>
+<L>They ne're may dearer pay then now they do.</L>
+</LG>
+</SP>
+<TRAILER>FINIS. Quinti &amp; Ultimi Actus.</TRAILER>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

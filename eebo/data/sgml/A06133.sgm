@@ -1,0 +1,1406 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD EEBOPROOF 2.0//EN">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-08-18</DATE>
+<RESPSTMT>
+<NAME>Emma Leeson Huber</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TYPEs to DIVs in order to validate. Proofed title page(s).  Checked ^s. Reviewed structure. Checked division-marking material at heads and feet of divisions (HEADS, etc.). Checked for signatures. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected 21 $s of 340. Converted 319 $s to GAP DESC="illegible" RESP="tech". Checked spacing of foreign GAPs. Checked for EPIGRAPHs and ARGUMENTs. Checked for startqs, endqs, oes, q;s, and Qs. Checked proofsheets and made corrections found there. Checked for CLOSERs, TRAILERs, and BYLINEs. DONE.</ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="OX" ID="A06133">
+<STC T="S">16618</STC>
+<BIBNO T="umi">99844419</BIBNO>
+<VID>9230</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1">
+<PB REF="1">
+<P>THE
+CHOYCE
+OF
+IEVVELS. By <HI>Lodowik Lloid</HI> Esquier.</P>
+<P><HI>LONDON</HI>
+Printed by Thomas Purfoot.
+1607.</P>
+</DIV1>
+<DIV1 TYPE="acrositc dedication">
+<PB REF="2">
+<PB REF="2">
+<LG>
+<L><HI>T Te<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">psichore</HI> comes with <HI>Clio</HI> in hand, to iudge with graces three,</L>
+<L><HI>O</HI> Of one such like <HI>Lucina</HI> sayd, the Sunne did seldome see.</L>
+</LG>
+<LG>
+<L><HI>A</HI> As she that suckt <HI>Mellissaes</HI> milke, fed on <HI>Sibillas</HI> brest,</L>
+<L><HI>N</HI> Nurst with sweet <HI>Ambrosias</HI> meat, with heuenly <HI>Nectar</HI> drest.</L>
+<L><HI>N</HI> Now comes <HI>Vrania</HI> on message sent, from states of greatest fame,</L>
+<L><HI>A Aurora</HI> like descends from skie to enrowle on earth her name.</L>
+</LG>
+<LG>
+<L><HI>Q</HI> Queene <HI>Pallas</HI> sayd, her name in Court should be <HI>Pan<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">ophia</HI> stal'd,</L>
+<L><HI>V Venus</HI> smiling wisht her name, might be <HI>Panphila</HI> cal'd.</L>
+<L><HI>E</HI> Euer <HI>Iuno</HI> sadly sayd, her name must <HI>Pandora</HI> be,</L>
+<L><HI>E</HI> Each Nymph, each Muse, each grace agreed, <HI>Pandora</HI> should be she.</L>
+<L><HI>N</HI> Now sits shee on <HI>Mynerua</HI> seat, where all <HI>Cytherides</HI> gree,</L>
+<L><HI>E Euterpe</HI> shold to <HI>Cynthia</HI> say, crowne this Queen with Crownes three.</L>
+</LG>
+<LG>
+<L><HI>O</HI> On forth <HI>Eudora</HI> said, and send <HI>Medeas</HI> golden fleece,</L>
+<L><HI>F</HI> Fates all agreed <HI>Palladium</HI> should, to <HI>Britane</HI> come from <HI>Greece.</HI></L>
+</LG>
+<LG>
+<L><HI>G</HI> Great thrice gracious grac't shee is, where graces three do tend,</L>
+<L><HI>R</HI> Right happie thrice &amp; thrice Queen, where kingdom<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> three do bend.</L>
+<L><HI>E Erato</HI> charged <HI>Iris</HI> streight&punc; on knee to <HI>Euri<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ia</HI> bend,</L>
+<L><HI>T</HI> That soone <HI>Euribia</HI> from <HI>Samos</HI> should, her crowne and scepter send.</L>
+</LG>
+<LG>
+<L><HI>B Bellona</HI> arm'd with sword and shield: <HI>Eumenides</HI> stands in place,</L>
+<L><HI>R Rhamnusia</HI> shall reuenge on those, that seeks this Queenes disgrace&punc;</L>
+<L><HI>I</HI> In strength from <HI>Delos Diana</HI> comes with bowe and quiuer bend.</L>
+<L><HI>T</HI> The Troiane Ladies from <HI>Ida</HI> did, the goulden apple send.</L>
+<L><HI>A Amarusia</HI> comes with <HI>Peplon</HI> on, her chore <HI>Calliope</HI> <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">als,</L>
+<L><HI>N</HI> Now <HI>Daphnes</HI> comes with lawrell crownes to crowne her Ladies all.</L>
+</LG>
+<LG>
+<L><HI>H</HI> Her bowers the <HI>Dryads</HI> build vp braue, and these the <HI>Oreads</HI> decke,</L>
+<L><HI>E</HI> Each Nymph with flowers &amp; poesies sweet attend <HI>Pandoras</HI> check.</L>
+<L><HI>A Arabi<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">n</HI> Ladies with <HI>Saba</HI> came, with myrth and <HI>Cassia</HI> sweet,</L>
+<L><HI>L</HI> Like <HI>Libanon</HI> all these Ladies smell, which comes our Queen to greet.</L>
+<L><HI>T Triton</HI> sound the Trumpet out, make worlds her fam<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> to know,</L>
+<L><HI>H</HI> Heauens haue their starres of states, some such on earth be so.</L>
+</LG>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="3">
+<HEAD>TO THE MOST NO|ble
+and vertuous Queene Anne, by
+the grace of God, Queene of Great Britaine,
+Fraunce, and Ireland, &amp;c.</HEAD>
+<P><HI>_LEa</HI> and <HI>Rachel,</HI> (most Noble
+Queene) left and forsooke
+their Countrey <HI>Mesopotamia,</HI>
+to come to <HI>Israell,</HI> to bee the
+mother of the twelue Tribes
+of <HI>Israell&punc; Ruth</HI> the Moabite,
+came from <HI>Moab</HI> to <HI>Iudah,</HI> to
+be the mother of many great
+and godly Kings in <HI>Iudah.</HI> Your Maiestie descen|ding
+from many Kings and Princes, came from <HI>Den|marke</HI>
+to <HI>Scotland,</HI> from <HI>Scotland</HI> to <HI>England,</HI> to be the
+mother of many Kings and Princes, in great <HI>Britane.</HI></P>
+<P>Thus wee are bound to the prouidence of God,
+by whom Kings do raigne, and Kingdomes are sup|ported,
+and that by Gods good and gracious means
+in women, as by <HI>Thermu<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">s Pharoes</HI> daughter to saue
+<HI>Moses</HI> in <HI>Nylus;</HI> to bring the Children of <HI>Israell</HI> out
+of <HI>Egipt,</HI> by King <HI>Tharbus</HI> daughter of <HI>Ethiop;</HI> to yeild
+the Citie <HI>Saba,</HI> and thereby the victorie to the He|brew
+Armie; thus heathen women by God are ap|pointed
+to serue <HI>Israell</HI> at neede.</P>
+<P>How much more is <HI>Es<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">her</HI> famous for her great vi|ctory
+ouer the Persians. <HI>Iudith</HI> by cutting off <HI>Holofer|nus</HI>
+head was in <HI>Bethulia</HI> both for euer famous: noble
+stratagems of women. But your Maiestie by putting
+<PB REF="3">
+your Highnes helping hand to pare their feet lesser,
+their eares shorter, their eyes out, and their mon|strous
+heads off, that can come and goe, that can see
+and heare from <HI>Rome,</HI> from <HI>Rhemes,</HI> from <HI>Spaine</HI> to
+<HI>Great Britaine,</HI> such victories shold haue double try|umphes,
+the one in earth, the other in heauen.</P>
+<P>Whe~ <HI>Rachels</HI> Image was buried by <HI>Syche~, Israel</HI> be|gan
+to flourish; then <HI>Debora</HI> a woman within a while
+after became a Iudge in <HI>Israel</HI> for 40 yeres in mount
+<HI>Ephraim:</HI> when <HI>Maachas</HI> idoll <HI>Priapus,</HI> was buried and
+ashes throwne to <HI>Caedron,</HI> then <HI>Iudah</HI> prospered, and
+<HI>Hulda</HI> a woman dwelling in <HI>Hierusalem,</HI> to whome
+<HI>Iosias</HI> sent to know how to serue the Lord, and to be
+instructed by a woman, to purifie <HI>Iudah</HI> from Images
+and Idols.</P>
+<P>God raised wise, godly&punc; and vertuous women in all
+countreys to feare him, &amp; to feed his seruants; a wo|man
+in <HI>Sarepta</HI> to feed <HI>Elias,</HI> a Sanamite woman to
+lodge <HI>Elizeus,</HI> to a woman of <HI>Samaria</HI> Christ asked
+drinke, &amp; confessed himselfe to be the Messias.</P>
+<P>Since Christ was so conuersant with wome~, that to
+women Christ spake his last speach before his death,
+&amp; after his death he first appeared to women, I wish
+some women should haue Christ in their hearts in
+<HI>Great Britane,</HI> as <HI>Anna</HI> had in her armes in <HI>Hieru|salem,</HI>
+to pray to him and not to Saints, to worship
+Christ in the Church, and not Idols and Images in
+Closets and Galleries: then did <HI>Iudah</HI> prosper, then
+did <HI>Israell</HI> florish, and then shall <HI>Great Britane</HI> bee
+happie.</P>
+<CLOSER><SIGNED>Your Maiesties most bounden and dutifull seruant.
+<HI>LODOVVIK LLOID.</HI></SIGNED></CLOSER>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="4">
+<HEAD>To the most noble and vertuous
+Prince Christianus King of Denmarke, &amp;c. Lodowik
+Lloids most humble Gratulation at his
+comming to great Britane.</HEAD>
+<P>_WHo can passe in silence (most noble Prince)
+the ioyes and triumphes of these Halcyons
+dayes, wherein <HI>Christianus</HI> King of <HI>Den|marke,</HI>
+leauing his Kingdome, his Queen,
+his Court, forsaking his imperiall Sceptor
+and his Subiects, renouncing all princely
+dignities, as a Prince that had his soule diuided betweene
+Great <HI>Britane</HI> and <HI>Denmarke,</HI> esteeming more the one
+halfe in <HI>Britane,</HI> than the whole in <HI>Denmarke.</HI></P>
+<P>O loue! excelling all loue, and that in a King, which the
+heauens cannot subdue, the earth forget, nor fortune ouer|throwe;
+of whose eternall fame, fame dare not lye.</P>
+<P>Let <HI>Maro</HI> cease to commend his Troiane <HI>Aeneas:</HI> let
+<HI>Homer</HI> blush to aduance the greatnesse of <HI>Achilles,</HI> which
+disguised himselfe like a woman, lest hee should goe from
+Greece to Phrygia. Let Greece not name <HI>Vlisses</HI> to faine
+madnesse, lest he should depart from Ithaca, and his wife
+<HI>Penelope</HI> to Ilion.</P>
+<P>But <HI>Christianus</HI> King of <HI>Denmarke,</HI> whom neither mo|ther,
+Queen, Crownes, or Kingdome, could keepe him from
+great <HI>Britan:</HI> where his Maiestie may of right more reioyce
+of his princely Progenie, than King <HI>Philip</HI> of <HI>Hercules</HI>
+stocke in Macedonia, or <HI>Augustus Caesar</HI> of <HI>gens Iulia</HI> in
+Rome, sith the line of <HI>Hercules</HI> expired in <HI>Alexander,</HI>
+and the stemme of <HI>Aeneas</HI> in the Emperour <HI>Nero,</HI> so that
+Romanes now may say, <HI>Fuimus Troes;</HI> and Macedoni|ans
+say, <HI>Fuimus Herculani.</HI></P>
+<P>But <HI>Great Britane</HI> was then neuer so great vnder
+<HI>Brutus</HI> the first King, as nowe vnder <HI>Iames</HI> the second
+<PB REF="4">
+King, whose continuance well nye three thousand yeres,
+is now againe like the Eagle renewed and reuiued, to be by
+Gods goodnesse continued as long by the second <HI>Brutus,</HI>
+that babes in cradles may say, <HI>Iubilate Britanni.</HI></P>
+<P>Much beholden we are to God, if we forget not God, and
+great cause haue we to loue, and to honour his Highnesse in
+great <HI>Britane:</HI> if we looke but vnto the greatnesse of his
+loue to <HI>England</HI> in Queen <HI>Elizabeths</HI> time, and now with
+greater at this present to King <HI>Iames,</HI> if we shuld be deafe,
+and not heare of it, or be dumbe, and not speak of it, heauen
+and earth would accuse vs of too much ingratitude, wood
+and stones should condemne vs of too much forgetfulnesse.</P>
+<P>Sith neither <HI>Syracusa,</HI> with their conuoyes and proui|sion
+to the Romanes at <HI>Thrasymenum,</HI> neither <HI>Tyre</HI>
+nor <HI>Sydon,</HI> with their Caedars of Lybanon to <HI>Ierusalem,</HI>
+were so forward as <HI>Denmark</HI> was of late to <HI>England;</HI> but
+as <HI>Masinissa</HI> sayd of the Romanes, that there was one kind
+of people vpon the earth, the people of <HI>Rome,</HI> and among
+that one people one <HI>Scipio,</HI> to whom he fully deuoted him|selfe,
+as one whose soule rested in <HI>Scipioes</HI> bodie: the like
+sayd <HI>Hyra</HI> King of <HI>Tyre,</HI> of <HI>Salomon</HI> King of <HI>Israel.</HI></P>
+<P>But neither <HI>Hyra</HI> with his Sydonians, was more grate|ful
+to <HI>Salomon</HI> King of Israel, nor <HI>Masinissa</HI> with his Nu|midians
+more louing to <HI>Scipio</HI> the Romane Consul, than
+<HI>Christianus</HI> King of Denmarke, was to <HI>Iames</HI> King of
+great Britane, whom neither heauens, earth, nor seas, nei|ther
+Kingdomes nor Court, could keepe that louing King
+from his loue, to come from <HI>Denmark</HI> as a crowned starre
+of the North, to shine in <HI>England,</HI> and to come to celebrate
+and to renew the name of great <HI>Britane,</HI> to see the Queene
+his Sister, his Nephew, and the rest of the Kings children,
+the sound and sacred anchor of three Kingdomes.</P>
+<P><PB REF="5">
+O loue immortall! not to be wayed in ballance, not with
+measure to be measured, not knitted with <HI>Gordius</HI> knot to
+be cut by <HI>Alexanders</HI> sword, neither with <HI>Hercules</HI> knot to be vnknitted by <HI>Phoebus,</HI> sith all prophane Histories
+cannot allow but eight onely of the like loue, but not eight
+Kings, most seldome two. For to see a King out of his king|dome,
+is as strange, as to see the Sunne out of the skie.</P>
+<P>Let <HI>England</HI> bee of equall loue with <HI>Denmarke,</HI> sith
+loue is recompensed with loue, iustly weyed in equall bal|lance,
+not with <HI>Philips</HI> siluer swords in <HI>Greece,</HI> not with
+<HI>Artaxerxes</HI> golden Archers in <HI>Persia,</HI> but with <HI>Pytha|goras</HI>
+weapons, one minde, one heart, and one soule, per|petuall
+weapons, the triumphes thereof haue their euerla|sting
+tropheis.</P>
+<P>Among such, what needs such leagues, and couenants
+to dippe our weapons in blood, as the Scythians did? or die
+our clothes in blood, as the Armenians did? or to drinke
+blood out of our armes, as the Medians and Lydians did?</P>
+<P>Sith the league between great <HI>Britane</HI> and <HI>Denmarke</HI>
+is consecrated with inward blood of mutuall hearts, and
+confirmed with the entrals and bowels of naturall Parents,
+that two Sunnes may be sooner found to agree in the skie,
+than these two Kings to disagree on earth.</P>
+<P>This God hath appointed, nature confirmed, fates al|lowed,
+and fortune thereto agreed.</P>
+<P>Hence grow the cause of our publicke Iubilies, and crow|ned
+feasts, our dayly tropheis, and perpetuall triumphes;
+that as the Romans loued and agreed with the Sabins, yeel|ding
+thanks to their God in the Feast <HI>Consualia:</HI> so the
+Britanes with the Danes, yeelding thanks to their
+God <HI>Iehouah</HI> in their Feasts <HI>Scaenopegia.</HI></P>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="text">
+<PB REF="5">
+<HEAD>The Choyse of Iewels.</HEAD>
+<P>_THE Empire of Women,
+and Courts of Queenes,
+euen fro~ <HI>Semiramis</HI> time,
+haue gouerned countries
+and kingdomes, subdued
+Realmes ruled States, and
+brought vnder their o|beysance
+both Kings and
+kingdomes;<NOTE PLACE="marg"><HI>Asia</HI> buil|ded by a wo|man of that name.</NOTE> as also before <HI>Semiramis</HI> time it may
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ee<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">e probable, for that <HI>Asia</HI> the greatest part
+of the world was named <HI>Asia</HI> by a Queene of
+that name which then dwelt in <HI>Asi<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">,</HI> whose fame
+continued vntill <HI>Semiramis</HI> the second Empresse,<NOTE PLACE="marg">Semira<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">is <HI>the second Empresse of</HI> Asia.</NOTE>
+whose martiall exploytes and gouernment&punc; hath
+been such (if authorities may serue) as neither
+<HI>Alexander</HI> the great could exceede in magnani|mitie,
+nor <HI>Cyrus</HI> in victories, nor <HI>Xerxes</HI> in mul|titude
+of souldiers.</P>
+<P><PB N="2" REF="6">
+Wee leaue the Court of <HI>Sardanapalus</HI> King of
+<HI>Assiria,</HI> who during his life, exceeded in all effe|minate
+wanto~nesse, hauing his Court full of such
+Iewels, as he was wont to <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">it amongst them in
+womans apparell, among such light and shame|lesse
+women where women were in mens appa|rell,
+and men in womens apparell, of which I will
+omit to speake; But I will begin with those wo|men
+that were speciall Iewels appointed not on|ly
+to saue his people, but to saue kingdomes and
+countryes, not only among christi<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ns, but among
+Heathens and Pagans.</P>
+<P>DEBORA,<NOTE PLACE="marg">DEBORA <HI>a Iudge in</HI> Isarell.</NOTE> a woman which dwelt in Mount
+<HI>Ephraim,</HI> and iudged <HI>Israel</HI> fourty yeares, vanqui|shed
+the Chananites, and slue <HI>Sisera.</HI></P>
+<P>HVLDAH,<NOTE PLACE="marg">HVLDAH <HI>a Prophe|tesse in</HI> Ie|rusalem,</NOTE> a Prophetesse which dwelt in <HI>Ie|rusalem,</HI>
+to whome king <HI>I<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">sia<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"></HI> after the law booke
+was found, sent for Councell to know how and
+what way God might be pleased with <HI>Israell.</HI></P>
+<P>Who knoweth not, but <HI>Rebecca</HI> by God ap|poynted,
+councelled her sonne <HI>Iacob</HI> to flee from
+his brother <HI>Esau</HI> to <HI>M<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">sopotamia,</HI> where God ap|poynted
+such two Iewels for him, as made him
+the father of the 12 Tribes of <HI>Israell,</HI> in whome
+he and his posteritie was blessed by the seede of
+LEA, a woman?</P>
+<P>IOSEPH,<NOTE PLACE="marg">IOSEPH <HI><GAP DESC="illegible" RESP="tech" EXTENT="1 word"> to</HI> E|gipt <HI>by his brethren.</HI></NOTE> a man sent by God to <HI>Egipt,</HI> (though
+sold by his brethren) where the like Iewell was
+appoynted him, to weete <HI>Assanetha</HI> an Egiptian,
+the mother of <HI>Manasses</HI> and <HI>Ephraim,</HI> two adop|ted
+<PB N="3" REF="6">
+Tribes in <HI>Israell,</HI> by whome (during <HI>Iosephs</HI>
+life) the <HI>Hebrews</HI> were Lords of the land of
+<HI>Goshen,</HI> and free from their bondage in <HI>Egipt.</HI></P>
+<P>Was not THERMVTIS the Kings daugh|ter
+of <HI>Egipt,</HI><NOTE PLACE="marg">THERMV|TIS <HI>the daughter of</HI> Pharo <HI>K. of</HI> Egipt.</NOTE> a Iewell appointed to saue <HI>Moses</HI> from
+drowning in <HI>Nilus,</HI> to name him <HI>Moses,</HI> to bring
+him vpp as her sonne adoptiue to possesse the
+Crowne in spight of their Priests of <HI>Memphis?</HI></P>
+<P>ESTHER an <HI>Hebrew</HI> maide,<NOTE PLACE="marg">ESTER <HI>rare and zeale for the Iewes.</HI></NOTE> maried to <HI>A<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">a|shuerosh</HI>
+the great King of <HI>Persia,</HI> a Iewell of God
+not only appointed to saue <HI>M<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">rdocheus</HI> her vnc|kle,
+but all the Iewes her country-men within an
+hundred seauen and twenty Prouinces, with the
+daunger of her owne life, and the destruction of
+Seauenty and fiue thousand <HI>Persi<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ns,</HI> and the han|ging
+of <HI>H<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">man,</HI> and his ten sonnes.</P>
+<P>In <HI>Bethulia</HI> a woman widdow ventured more
+then any man,<NOTE PLACE="marg">The bold and rare at|tempt of <HI>Iu|dith</HI> a wo|man.</NOTE> either <HI>Cyrus, Alexander,</HI> Or <HI>Caesar</HI>
+in their owne persons, as shee did&punc; who brought
+<HI>Holofer<GAP DESC="illegible" RESP="tech" EXTENT="3 letters"></HI> head in a bagge through the <HI>Assirian</HI>
+campe to <GAP DESC="illegible" RESP="tech" EXTENT="1 word">, whereby the whole <HI>Assirian</HI>
+army was ouerthrowne. A famous victorie for
+a woman to be recorded for the fame of women.</P>
+<P>Obserue therefore, how God chiefly by wo|men,
+in all countries saued and defended his peo|ple:
+In <HI>Mesopotamia,</HI> by <HI>Labans</HI> daughters, <HI>Lea</HI> &amp;
+<HI>Rachell.</HI> In <HI>Egipt,</HI> by THERMVTIS King <HI>Pharoes</HI>
+daughter. In <HI>Ethiopia,</HI> by <HI>Tharbis</HI> the King of <HI>E|thiops</HI>
+daughter, whom <HI>Moses</HI> maried and made
+her a christian, whome <HI>Pharaoh</HI> and the Priests of
+<PB N="4" REF="7">
+<HI>Egipt</HI> gaue him to th' end to slay him; as <HI>Saul</HI> sent
+<HI>Dauid</HI> to the <HI>Philistians</HI> for the like purpose. In
+<HI>Persia</HI> by ESTHER King <HI>Ahashuerosh</HI> wife. In <HI>Be|thulia</HI>
+by <HI>Iudith</HI> a widdow, these were peculier
+women by God appoynted.</P>
+<P>What should wee seeke proofes far off, when
+we haue examples at home. Had we not in <HI>Eng|land,</HI><NOTE PLACE="marg">England, Scotland, <HI>&amp;</HI> Fraunce, <HI>combined by women.</HI></NOTE> such a Iewell as combined <HI>Fraunce</HI> vnto <HI>Eng|land?</HI>
+And another Iewell that brought <HI>Scotland</HI>
+vnto <HI>England,</HI> being two women?</P>
+<P>Had we not such a Iewell of a woman in <HI>Eng|land,</HI>
+after tenne terrible battels wherein there
+were a Hundred Knights and Barons slayne,
+tenne Princes and Dukes destroyed, and one
+Hundred thousand Englishmen slayne in the
+field between the houses of <HI>Lancaster</HI> and <HI>Yorke,</HI>
+a woman being the onely cause of a perpetuall
+League betweene both houses? And euen at
+this present wee enioye such a Iewell, that will
+blesse <HI>Brittane,</HI> both with Tribes and Kings, as
+<HI>Lea</HI> and <HI>Ruth</HI> did <HI>Israell.</HI></P>
+<P>This onely shall suffice,<NOTE PLACE="marg">Kingdomes &amp; Realmes, combined in a League by women.</NOTE> that kingdomes and
+Realmes are combined and ioyned together in
+perpetuall League of amity by women general|ly.
+And sithence in the seed of a woman all the
+people of God are blessed, I neede not to name
+the virgin <HI>Mary,</HI> whose wombe was blessed that
+bare him, and her paps that gaue him sucke; Nor
+make mencion of such women long before <HI>Ma|ry,</HI>
+of whome lineally Christ descended. as <HI>Lea,</HI>
+<PB N="5" REF="7">
+and <HI>Racheli</HI> the wiues of <HI>Iacob,</HI> the mother of the
+Tribes of <HI>Israell,</HI> of whome the Lyon of <HI>ludah,</HI>
+and the starre of <HI>Iacob</HI> descended,<NOTE PLACE="marg">Ruth <HI>the Moabite.</HI></NOTE> <HI>Ruth</HI> the Mo|abite
+the wife of <HI>Booz,</HI> the mother of <HI>Obed,</HI> the fa|ther
+of <HI><GAP DESC="illegible" RESP="tech" EXTENT="1 letter">sai,</HI> the father of <HI>Dauid,</HI> of whome came
+the Kng of Kings.</P>
+<P>How much more then were godly and vertu|ous
+women blessed by Angells, by Prophets
+magnified, and by Kings and Princes reuere~ced?
+<HI>Iae<GAP DESC="illegible" RESP="tech" EXTENT="2 letters"></HI> the wife of <HI>Aber</HI> the Kenite shalbe blessed
+sayd the Angell,<NOTE PLACE="marg">Ia<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">l <HI>that slue</HI> Sisera.</NOTE> for shee slue <HI>Sisera</HI> King Iabins
+Generall; And the victory of <HI>Israell</HI> was obtai|ned
+by a woman, as DEBORA sayd to the fame
+of women: Did not <HI>Osias</HI> the Gouernor of <HI>Bethu|lia</HI>
+and of the army of <HI>Israell,</HI><NOTE PLACE="marg">The prayse of <HI>Iudith.</HI></NOTE> blesse <HI>Iudith?</HI> And
+so <HI>Achior</HI> blessed her, saying blessed art thou of
+thy God in all the Tabernacles of <HI>Iacob.</HI></P>
+<Q>Tugloria lerusalem, Tulaetitia Israell.</Q>
+<P>Asmuch and more might be spoken of Queene
+<HI>Est<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">er.</HI></P>
+<P>But to speake in particular of women, it were
+infinite. I shoud but weary the Reader to runne
+throughout the old and new Testament, with
+the due prayse and commendacions of such Iew|els
+as are fit to attend in Courts of Princes: As
+of the woman of <HI>Bahurim</HI> by hiding <HI>Dauids</HI> ser|uants,<NOTE PLACE="marg">The woman of <HI>Bahu|rim</HI> co~men|ded.</NOTE> shee saued their liues from <HI>Absalon,</HI> who
+made search to destroy the King his father; shee
+onely thereby saued her selfe, the Citie, and all
+the Citizens.</P>
+<P><PB N="6" REF="8">
+So RAHAB in <HI>Iericho</HI> hid the Messengers of
+<HI>Ioshua,</HI><NOTE PLACE="marg"><HI>RAHAB</HI> the like wo|man in <HI>Ieri|cho.</HI></NOTE> whereby she saued not onely them, but al|so
+her selfe, her family, and all the friends that s<GAP DESC="illegible" RESP="tech" EXTENT="2 letters"> called
+to her house, at the destruction of <HI>Iericho.</HI></P>
+<P>The <HI>Sunamites</HI> wife for her pitie &amp; compassi<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">
+of the Prophet <HI>Elizeus,</HI> to make him a cham<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">
+in the house, to feed him being the man of Go<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"></P>
+<P>The Widdow of <HI>Sarepta</HI> entertained <GAP DESC="illegible" RESP="tech" EXTENT="1 word">
+with all the wealth she had,<NOTE PLACE="marg">The widdow of <HI>Sarepta.</HI></NOTE> which was a handfull
+of flowre, a little cruise full of Oyle. See a wo|man
+was appointed to feed <HI>Elias;</HI> &amp; a woman to
+make a chamber to welcome <HI>Elizeus</HI> in.</P>
+<P>Such Iewels are to be entertained in Courts of
+Kings who are alwaies readie for good and god|ly
+suits; and not with <HI>Moloch</HI> his reaching hand,<NOTE PLACE="marg">Moloch.</NOTE>
+and his <HI>Caemorims</HI> Priests; nor with <HI>Iudas</HI> with o|pen
+hands to take what they will.</P>
+<P>Againe to speake of wise and discreet wo|men,<NOTE PLACE="marg">The praise of wise wo|men.</NOTE>
+who could be wiser than ABIGAIL <HI>Na|bals</HI>
+wife, who by her wisedome so intreated <HI>Da|uid,</HI>
+that she saued her husbands life, and after be|came
+Queene in Israell, euen king <HI>Dauids</HI> wife?</P>
+<P>The woman of <HI>Abella,</HI> who with her wise|dome
+councelled with the chiefe Magistrates of
+<HI>Abella,</HI><NOTE PLACE="marg"><HI>Sebaes</HI> head the Traytor.</NOTE> and brought <HI>Sebaes</HI> head the Traitor, and
+threw it ouer the wall to <HI>Ioab;</HI> when neither <HI>Ioab</HI>
+offered peace, nor the Magistrates of <HI>Abella</HI>
+sought peace, yet she saued the Towne, and the
+Armie of <HI>Israel</HI> from much slaughter.</P>
+<P>I will therefore conclude with an Epilogue of
+<PB N="7" REF="8">
+the new Testament, of women that farre excel|led
+men in faith, in constancie, and in seruice of
+the Lord.<NOTE PLACE="marg">Women more zea|lous than men.</NOTE> I will omit to speake of <HI>Marie Magda|len,
+Ioanna</HI> the wife of <HI>Chusa, Herods</HI> Steward, of
+<HI>Susanna,</HI> with many other such women, which
+ministred to the Lord, as he trauailed to preach.
+I need not make mention of <HI>Anna,</HI> who prophe|sied
+of Christ to the people, receiuing Christ in
+her armes at <HI>Ierusalem,</HI> confessed (as <HI>Simeon</HI> did)
+the redemption of <HI>Israel;</HI> but euen of <HI>Pilates</HI> wife,
+whe~ all men cried,<NOTE PLACE="marg">Pilates <HI>wife</HI></NOTE> <HI>Crucifige,</HI> to crucifie Christ, yet
+this only woma~ endeuored to perswade her hus|band
+<HI>Pilate,</HI> to wash his hands fro~ such a wicked
+fact, affirming he was a just and a godly man.</P>
+<P>I sieldome read of such faith in a man, as of
+the woman, who desired but to touch the hem
+of Christs garment, and to be healed thereby, as
+she confessed, to whom Christ said, her faith had
+made her whole.</P>
+<P>Now hauing heard, that as women ministred
+vnto Christ in his preaching, so women follow|ed
+him to his death, and also attended him to his
+graue;<NOTE PLACE="marg">More wo|men followed Christ, than men.</NOTE> and more women were at Christs death,
+than men; and as it seemed wept more bitterly,
+than those fewe men that were there.</P>
+<P>No doubt <HI>Iohn</HI> the Euangelist wept, <HI>Ioseph</HI>
+of <HI>Arymathia,</HI> and <HI>Nichodemus</HI> wept and a few o|thers
+wept, of whose weeping Christ took no no|tice;
+but to the women who were many &amp; wept
+much, the Lord spake, saying, <HI>why weepe ye for me,
+<PB N="8" REF="9">
+yee daughters of Syon?</HI> with much compassion he
+pittied the women, who much lamented his
+death;<NOTE PLACE="marg">Christ first appeared to women after his resur|rect on.</NOTE> and after his death, Christ first appeared to
+women, when the Apostles fled, forsooke, and
+denyed him.</P>
+<P>I know most men doubted of Christ his resur|rection,
+yea the Apostles, whome the Lord re|prehended
+for their incredulity, because they
+would not beleeue <HI>Mary Magdalen</HI> to whome
+the Lord first appeared;<NOTE PLACE="marg">The Apo|stles <GAP DESC="illegible" RESP="tech" EXTENT="2 letters">re|dulous of the resurrection of Christ.</NOTE> neither would the Apo|stles
+beleeue the other women, whome the An|gell
+sent to tell them that the Lord was risen, and
+went before them into <HI>Gal<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">lie.</HI></P>
+<P>Marke how the Lord spake to women his last
+words at his death,<NOTE PLACE="marg">Christ ap|peared twise to women after his death, before he appeared to his Apo|stles.</NOTE> and likewise appeared twice
+to women after his death, before he appeared to
+his Apostles.</P>
+<P>If you reade prophane histories, you shall find
+<HI>Asia</HI> first christened by a woman so named. And
+<HI>Europe</HI> by the name of a woman called <HI>Europe
+Agenors</HI> daughter King of <HI>Phaenicia. Scithia</HI> of
+a woman that sprang out of the earth, and named
+her sonne <HI>Scytha.</HI><NOTE PLACE="marg">The Ro|mans brag of <HI>Rhea.</HI></NOTE> The Romans might better
+brag of <HI>Rhea</HI> a woman, a vestall virgin well know|en,
+(the Mother of <HI>Romulus</HI>) than of <HI>Rom<GAP DESC="illegible" RESP="tech" EXTENT="4 letters"></HI>
+whose Father was not knowen; or of a farr<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">
+more ancient woman named <HI>Roma.</HI></P>
+<P>The Greeks might better bragge of <HI>Helena</HI> <GAP DESC="illegible" RESP="tech" EXTENT="1 word">
+woman,<NOTE PLACE="marg">The Greeks named of <HI>Helena</HI> a woman, ra|rather than of <HI>Hellas</HI> a man&punc;</NOTE> and not as they would haue it of <HI>Hellas</HI> <GAP DESC="illegible" RESP="tech" EXTENT="1 word">
+man; <HI>Helena</HI> made Greeks then vnknowen, to be
+<PB N="9" REF="9">
+knowne; she was the woman that was the whet|stone
+of <HI>Greece,</HI> by this woman the Greekes be|came
+first famous. But we leaue <HI>Asia, Europe, Phry|gia,
+Greece, Scythia,</HI> and <HI>Rome;</HI> if we omit the fame
+of women in these, what should I recite Prouin|ces
+and Isles, Cities and Townes named after the
+name of women? as <HI>Rhodes, Corcyra, Salamina, Ae|gina,</HI><NOTE PLACE="marg">Many Isles named after the name women.</NOTE>
+&amp; of many more which <HI>Diodorus</HI> writes of,
+to whome I referre you.</P>
+<P>And as the most part of the earth is Christened
+and named by women, so also the most part of the
+starres are constellated with women, not onely
+with the names of women, but with the forme,
+shape, and figure of women, of which I wish
+you conferre with that Astronomer <HI>Astratus,</HI>
+who filled the starres of women:<NOTE PLACE="marg">The most part of the starres are figured by the names of women.</NOTE> considering
+there be but a thousand and twenty starres names
+knowne, I thinke the most part are figured and
+named after the names of women.</P>
+<P>I would haue a good Scholler to answere me,
+that neuer loued a woman, That is not true, sith
+the forme and jmage of <HI>Iustice</HI> is formed like a
+woman with a sword in her hand; <HI>Prudence</HI> with
+a glasse in her hand; <HI>Temperance</HI> with a dyall in
+her hand; <HI>Fortitude</HI> with a great huge <HI>Colossus</HI> on
+her shoulder, that <HI>Hercules</HI> could not stirre her.
+And all these are wrought in gold, in siluer, in Ar|ras,
+and in all kinde of Tapestrie.</P>
+<P>The Queens of the <HI>Amazones</HI> courts were
+onely of women, without men, where men by
+<PB N="10" REF="10">
+Law and decrees made, might not gouerne or
+beare rule, but were exercised in seruile works,<NOTE PLACE="marg">The queens of <HI>Ama|zons,</HI> and their ex|ployts.</NOTE>
+hauing their legges and armes made so weake by
+their Nurces, that they could not beare armor,
+as <HI>Diodorus</HI> writes, <HI>Quoinutiles fierent bello.</HI> This
+was a pollicy of the <HI>Amazones,</HI> to be carefull to
+keepe the anncient Lawe of <HI>Scithia,</HI> that men
+should not gouerne them; who vsed to cut off
+the right pappe of euery female kinde, because
+it should not hinder them in their shot and mili|tary
+seruice.</P>
+<P>An example of two or three; <HI>Myrina</HI> one of
+their Queens with thirty thousand foot women,<NOTE PLACE="marg"><HI>Myrinaes</HI> marshall acts &amp; vic|<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">ries.</NOTE>
+and two thousand horse, being armed with skins
+of great Serpents, after that shee had subdued
+many Regions and confines, euen vnto <HI>Libia,</HI>
+marched vnto <HI>Egipt,</HI> at what time <HI>Orus, Isis</HI> sonne
+reigned King there (so auncient a History it is)
+with whom shee co~sented to a <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">eague of peace.</P>
+<P>Thence she marched into <HI><GAP DESC="illegible" RESP="tech" EXTENT="1 word">,</HI> whome she
+much was<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ed and spoyled; from thence to Syria,
+whome shee conquered with much slaughter.
+Thence shee marched to Mount <HI><GAP DESC="illegible" RESP="tech" EXTENT="1 word"></HI> and o|uer
+came the nations there about, so that Queen
+<HI>Myr<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">a</HI> was as famous in S<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ythia, as was Semira|nus
+in <HI>Asia;</HI> and both were as famous as <HI>Alex|ander</HI>
+or <HI>Cyrus.</HI></P>
+<P>In like sort may it be spoken of Queene <HI>Medu|sa,</HI><NOTE PLACE="marg">Queene <HI>Medusaes</HI> warlike acts</NOTE>
+and of her Court, as we did of Queene <HI>Myri|na,</HI>
+that shee likewise gouerned a Nation of war|like
+<PB N="11" REF="10">
+women named <HI>Gorgons,</HI> who feared not to
+encounter with great King <HI>Perseus,</HI> the most fa|mous
+and warlike King of his time amongst the
+Graecians, and kept him long and hard in twoo
+great battles.</P>
+<P>The fame of these Queens grew so great,<NOTE PLACE="marg"><HI>Hercules</HI> was ama|zed at the fame of those Queenes.</NOTE> that
+<HI>Hercules</HI> hearing the fame of them, and of their
+courts, &amp; of their wome~, was much abashed, that
+so many Nations should be subdued by wome~.</P>
+<P><HI>Hercules,</HI> after <HI>Perseus,</HI> in great furie began
+his warre against these Queenes, (after <HI>Myrina</HI>
+and <HI>Medusaes</HI> time, with whome <HI>Perseus</HI> fought)
+and slue so many (I meane of the <HI>Gorgans</HI> and <HI>A|mazones</HI>)
+that Queene <HI>Myrina</HI> buried so many of
+her Ladies, that to this day their graue is called
+<HI>Tumuli Amazonum:</HI> which is in Greece, and
+not in <HI>Scythia.</HI></P>
+<P>Among other Nations and Kingdomes the
+Court of the Queenes of <HI>Saca,</HI> ought iustly for
+their misitary discipline, their victories and go|uernment
+to bee remembred.<NOTE PLACE="marg">The queene of <HI>Saca.</HI></NOTE> Among many
+Queenes that ruled there, I will onely speake of
+one Queene, named <HI>Tarina,</HI> who after shee had
+subdued the Nations about her,<NOTE PLACE="marg">Queene <HI>Ta|rinaes</HI> victory.</NOTE>
+and brought in
+subiection many countries vnder the <HI>Saceans,</HI> af|ter
+peace and quietnesse, had made such Lawes
+to her Subiects that the Queenes which succee|ded
+her, altered nothing therof, but one Queene
+after another confirmed <HI>Tarinas</HI> Lawes in <HI>Saca.</HI></P>
+<P>Such was the loue &amp; commendations of this
+<PB N="12" REF="11">
+Queene, of her Subiects in her Court, for her
+pollicy, wisedome, counsell, and benefits done
+to her countrey, that such a Sepulcher was made
+for her after her death, that the <HI>Pyramides</HI> of <HI>E|gipt,</HI>
+and the <HI>Labyrinth</HI> of <HI>Creete</HI> might well giue
+place vnto it. Neither might <HI>Mauseolum</HI> it selfe,
+which Queene <HI>Artimesia</HI> made for King <HI>Mauso|lus</HI>
+her husbands Tombe, be preferred, though
+that Tombe was numbred one of the seauen
+wonders of the world.</P>
+<P>The Queenes of <HI>Scythia</HI><NOTE PLACE="marg">The Queens of <HI>Scythia.</HI></NOTE> their Court, a known
+History; whose antiquitie is such that <HI>Diodorus,
+Cetesi<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">s</HI> and others <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> of. But the Queenes
+of <HI>Scythia,</HI> howsoeuer they were first named, en|larged
+their kingdomes so greatly, that some were
+called <GAP DESC="illegible" RESP="tech" EXTENT="1 span">, and some <HI>A|rimaspi;</HI>
+all warlike Queenes, which subdued
+much of <HI>Asia,</HI> and of <HI>Europe,</HI> so that many of the
+Queenes of the <HI>Amazones</HI><NOTE PLACE="marg">The Queens of <HI>Ama|zones</HI> <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> with the most fa|mous con|querors of the world.</NOTE> are most renowned
+for the watres which they had with the greatest
+Conquerors of the world.</P>
+<P>As Queen <HI><GAP DESC="illegible" RESP="tech" EXTENT="1 word"></HI> with <HI>Hercules,</HI> Queen <HI>Tari|na</HI>
+with <HI>Pers<GAP DESC="illegible" RESP="tech" EXTENT="3 letters">,</HI> Queene <HI><GAP DESC="illegible" RESP="tech" EXTENT="1 word"></HI> with <HI>Achilles,</HI>
+Queen <HI><GAP DESC="illegible" RESP="tech" EXTENT="1 word"></HI> with <HI>Cyrus,</HI> whom she slue in bat|tell,
+with 200000. <HI>Persians</HI> with him. And after
+<HI>Cyrus</HI> was slayne in <HI>Scythia,</HI> King <HI>Darius</HI> thought
+to reueng that shame, that the great King of <HI>Per|sea</HI>
+with his army should be slayne by a woman,
+but <HI>Darius</HI> was glad to leaue <HI>Scythia</HI> vnto wome~,
+and to returne vnto <HI>Persia.</HI></P>
+<P><PB N="13" REF="11">
+And also of <HI>Camilla,</HI> who came armed against
+Aeneas and his Troian army;<NOTE PLACE="marg">Camilla.</NOTE> with so many Kings
+as well of <HI>Asia,</HI> as of <HI>Europe,</HI> who felt the courage
+of the Queenes of <HI>Scythia,</HI> that Kings payde Tri|bute
+to Queenes in <HI>Asia.</HI></P>
+<P>The women <HI>Laxamathae</HI> were Marshall wo|men
+on horse backe, the men of that country on
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">oote;<NOTE PLACE="marg">The women <HI>Laxama|thae</HI> mar|shallwomen.</NOTE> In the field the woman fought on horse|backe
+with halters and short strong ropes, and
+the men with speares and <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">argats.</P>
+<P>The women of <HI>Sparta,</HI> are preferred before
+men.<NOTE PLACE="marg">The women of <HI>Sparta</HI> pr<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ferred for councell and courage be|fore men.</NOTE> All care and busines of <HI>Sparta</HI> are layde
+vpon the women. For they sit in Councell, they
+Iudge in causes, and make such Lawes and de|crees
+as to them seemed good; which being ob|iected
+against by a certaine Gentleman, that on|ly
+the women of <HI>Sparta</HI> ruled ouer men; And
+well worthy, answered <HI>Leonidas</HI> wife, wee wo|men
+only of <HI>Sparta</HI> beare men only. True it is, as
+women bring their infants vp in their youth, so
+are they found in their age.</P>
+<P>The women in <HI>Persia,</HI> were so much honored,<NOTE PLACE="marg">The women of <HI>Persia.</HI></NOTE>
+that they might not be seene, but couered secret
+in Coaches&punc; So <HI>Themis<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ocles</HI> being sought for by
+the <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> and Lu<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">d<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">monians, escaped by fa|uoure,
+and was caried among the <HI>Persian</HI> Ladies
+secretly. For none but the <HI>Persian</HI> Ladies might
+haue accesse to their Coaches, or presume to
+speake to them. So much in <HI>Persia</HI> were women
+esteemed, that in all secret Councells of States
+<PB N="14" REF="12">
+they were sent for.</P>
+<P>Moreouer the <HI>Persians</HI> would haue their
+wiues present in place to see them fight in bat|tells,<NOTE PLACE="marg">The women would be pres<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">t in e|ue<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">y battell where their husbands fought as whe<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">stones.</NOTE>
+that they might at the sight of their wiues&punc;
+be made more couragious to fight.</P>
+<P>What can be sayd of men, but as much may bet
+sayd of women, or rather more? Might Hercul<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">s
+any way haue subdued <HI>Cerberus</HI> or led him in tri|umph,
+but by the helpe and councell of <HI>Proserp<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">|na</HI>
+a woman? Neither <HI>Iason</HI> could possibly winne
+the golden fleece, and carry it away from <HI><GAP DESC="illegible" RESP="tech" EXTENT="1 word"></HI>
+vnto Greece, without the helpe of <HI>Medea</HI> a wo|man.</P>
+<P>Who taught <HI>Theseus</HI> the way to the <HI>Laby<GAP DESC="illegible" RESP="tech" EXTENT="4 letters"></HI>
+at <HI>Creete</HI> to kill the monster <HI>Mino-taurus,</HI> but <HI><GAP DESC="illegible" RESP="tech" EXTENT="1 word"></HI>
+a woman? Who taught the way to wer<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+ouer so many daungerous gulfes, fiery <GAP DESC="illegible" RESP="tech" EXTENT="1 word">
+frosty riuers, vnto hell it selfe? but <GAP DESC="illegible" RESP="tech" EXTENT="1 span">
+woman.</P>
+<P>Therefore the Lawe was, that they that <GAP DESC="illegible" RESP="tech" EXTENT="1 word">
+to <HI>Carras</HI> into the Temple of <HI>Luna,</HI><NOTE PLACE="marg">The Lawe in Courts of women.</NOTE> and offered
+sacrifice to the Moone, such women should haue
+the rule &amp; gouernment of their husbands with
+good reason, and their husbands should be ruled
+by them. And they which made supplycation
+&amp; offered sacrifice to god <HI>Lunus,</HI> such men had
+the dominion and gouernm<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">t ouer their wiues.</P>
+<P>The people called <HI>Sauromatae</HI> in <HI>Sarmatia,</HI> a<NOTE PLACE="marg">Women ru|led all <HI>Sar|matia.</HI></NOTE>
+very large country in <HI>Scythia,</HI> reaching from the
+riuer <HI>Vistul<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"></HI> vnto the end of <HI>Germanie,</HI> euen vnto
+<PB N="15" REF="12">
+the confines of <HI>Hyrcania</HI> in <HI>Scythia,</HI> and yet as
+large as <HI>Sarmatia</HI> was, women ruled their coun|<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">rey;
+for when all women rule their husbands,
+they must needs rule the countreys.</P>
+<P>These be the scoffes of <HI>Cato</HI> against the <HI>Roman</HI>
+women,<NOTE PLACE="marg">Scoffes of <HI>Cato</HI> in Rome a|gainst wo|men.</NOTE> that the valiant <HI>Romanes,</HI> that conquered
+all Nations abroad, were conquered at home by
+women.</P>
+<P>It is most strange, that women should so loue
+men for children sake, and yet the Male-kinde
+should neither beare rule nor gouerne amongst
+them.</P>
+<P>THALESTRES Queene of <HI>Scythia,</HI><NOTE PLACE="marg"><HI>Thalestres</HI> Queene of <HI>Scythia</HI> went to see <HI>Alexander</HI> the Great.</NOTE> hearing
+of the fame and report of <HI>Alexander</HI> to be such
+for his martiall prowesse and great conquest, she
+came with three hundred Scythian Ladies, not
+onely for the sight of <HI>Alexander,</HI> but also to get
+children by him and his Macedonian Lords, that
+should be like their Parents.</P>
+<P>And though <HI>Alexander</HI> had not so many queens
+as <HI>Salomon,</HI> yet had he (after the Persian manner)
+as many Queenes as there be dayes in the yeare;
+Notwithstanding his sonnes should beare no rule
+in <HI>Scythia,</HI> though they were gotten of the queen
+<HI>Thalestres,</HI> and of <HI>Alexander</HI> the great.</P>
+<P>So it is historied of <HI>Ne<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">aule</HI> queene of <HI>Ethiopia,</HI><NOTE PLACE="marg">Queene <HI>Sa|ba</HI> went to heare <HI>Salo|mon.</HI></NOTE>
+that she came to <HI>Ierusalem</HI> to heare <HI>Salomons</HI> wis|dome,
+and to propose vnto him hard questions,
+and darke problemes, being as willing to haue as
+many wise <HI>Salomons</HI> in <HI>Ethiopia,</HI> as <HI>Thalestres</HI> was
+<PB N="16" REF="13">
+to haue valiant <HI>Alexanders</HI> in <HI>Scythia.</HI></P>
+<P>The Romane women, hearing such repor<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+and fame of the women of <HI>Sparta,</HI><NOTE PLACE="marg">The <HI>Ro|man</HI> cou|rage to fight with wilde beasts on Theaters.</NOTE> of the Sace|ans,
+Sarmatians, Scythians, and of sundry other
+Countreys, (hauing no men to fight with for tha<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+the Romans had conquered al Nations) came ar|med
+vpon the Theators to fight with diuers and
+sundrie wilde beasts, as Lions, Elephants, Beares
+and such like: and when they were not permitted
+to fight vpon the Theators with beasts; yet would
+they ouercome (as <HI>Cato</HI> sayd) the Conquerour<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+and Champions at home, which ouercame Ty|gers
+and Lions vpon the Theators.</P>
+<P>The Ladies of ROOME perceiuing tha<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+all the gold and siluer which was in the treasurie
+of <HI>Rome,</HI><NOTE PLACE="marg">Due com|mendacions of the <HI>Ro|man</HI> Ladies.</NOTE> to be consumed and spent in the warres
+against the <HI>Gaules,</HI> in the time of that noble cap|taine
+<HI>Camillus&punc;</HI> the women brought all their gold,
+siluer, chaines, earings, and all their Iewels vnto
+the Senators, whereby the <HI>Gaules</HI> were satisfied,
+and <HI>Rome</HI> againe deliuered&punc; At which time the
+Matrons of Rome were so advanced and honou|red
+by carrying in Coaches to their temples, and
+to their Theators. So that now it was also de|creed
+in the Senate house, that women being
+dead, their commendations and prayses should
+bee recited in the pulpits at their Funerals, in as
+large manner as men.</P>
+<P>So was <HI>Popilia</HI> by her sonne <HI>Crassus.</HI> So <HI>Iulius
+<PB N="17" REF="13">
+Caesar</HI> did commend his wife <HI>Pomp<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ia,</HI> and <HI>Ner<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"></HI>
+his friend <HI>Poppea.</HI></P>
+<P>Againe in the second Affrican warres, when
+<HI>Rome</HI> was so afflicted by <HI>Hanniball,</HI> that both men
+and money were S<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ant, but chiefly all the money
+in the treasurie was spent, the chiefe Roman Ma|trons
+(as before) brought all their rich treasures,
+(which of long time they had kept) vnto the Se|nate
+house, being ready to be armed, whereby
+the Romanes were so animated against <HI>Hanniball</HI>
+again, that he was inforced after his great Victo|ries
+in <HI>Italy,</HI> to forsake <HI>Italy,</HI> and flye to <HI>Affrica.</HI></P>
+<P>True it is, that <HI>Rome</HI> by women was twise re|couered,
+and deliuered from the enemies, that
+the <HI>Gaules</HI> fledde from <HI>Rome,</HI> and <HI>Haniball</HI> from
+<HI>Italy.</HI></P>
+<P>What praise had <HI>Veturia</HI> and <HI>Volumnia,</HI><NOTE PLACE="marg"><HI>Veturia</HI> &amp; <HI>Volumnia</HI> two women much com|mended.</NOTE> two
+Roman Ladies worthy their commendations in
+the pulpit; the one intreating her husband, the
+other her sonne, at that time that Rome was in
+<HI>Corolianus</HI> hand, either to spill, or to spare?</P>
+<P>How should I passe in <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> <HI>Cloaelia,</HI> that scaped
+King <GAP DESC="illegible" RESP="tech" EXTENT="1 span">, and swimmed ouer the Ri|uer
+<HI>Tiber,</HI> and opened the secrets of <HI>Porsenna</HI> to
+the Roman Senators?</P>
+<P>What great benefites had the Hebrewes by
+the midwiues of <HI>Egipt,</HI> being by <HI>Pharoh</HI> the King
+commaunded to <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> the Male-children,<NOTE PLACE="marg">The Mid|wiues of E|gipt <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> many thou|sands of the <HI>Hebrewes</HI> children from <HI>Nilus.</HI></NOTE> and to
+drowne them in <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> yet did they rather ha|zard
+their liues in breaking the Kings commaun|dement,
+<PB N="18" REF="14">
+than to offend God in so foule a fact;
+whereby they are had in perpetuall reme~brance
+in the booke of God, to saue so many thousand
+mens liues, with the hazard of their owne, as it is
+recorded in Exodus.</P>
+<P>These examples should mooue our English|women
+to do good to their country, &amp; not seeke
+the ouerthrow thereof.</P>
+<P>The <HI>Sabine</HI> virgins,<NOTE PLACE="marg">The <HI>Sa|b<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ne</HI> vir|gins saued both the Roman and <HI>Sabine</HI> ar|my.</NOTE> after they were rauished
+by the Romans at the feast <HI>Cons<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">alia,</HI> and married
+vnto the Romans, so that warres grew thereby,
+they came in their smocks betweene the two ar|mies,
+the one part their husbands, the other their
+fathers; So by the meanes of the <HI>Sabin</HI> virgins,
+peace grew between the Romans &amp; the <HI>Sabees.</HI></P>
+<P>When the <HI>Cartha<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">n<GAP DESC="illegible" RESP="tech" EXTENT="3 letters"></HI> in their warres against
+the Romans wanted for their matches,<NOTE PLACE="marg">The women of <HI>Rome</HI> &amp; of <HI>Rhod.</HI></NOTE> the Ma|trons
+of Cartha<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">e cause themselves &amp; all the wo|men
+to shaue the hayres of their heads.</P>
+<P>So did the women of Rhodes.</P>
+<P>Many graue and wise women, haue stood
+much in stead aswell in publike councell, as al<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">o
+in priuate pollicies, to their countryes, who<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">e
+deuises and sentences being set downe, were i|mitated
+and found <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">it to be followed and there|fore
+in diuerse great kingdomes and countryes,
+women beare such rule, that they had the whole
+gouernment of the common weale.</P>
+<P>It neuer repented <HI>August<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">us,</HI><NOTE PLACE="marg">Liuia.</NOTE> to follow the
+councell of <HI>Liuia.</HI></P>
+<P><PB N="19" REF="14">
+It much profited <HI>Ferdinandus,</HI> to heare what
+<HI>Isabella</HI><NOTE PLACE="marg">Isabella.</NOTE> sayd, and to effect only what shee sayd.</P>
+<P><HI>Xerxes</HI> the great King, among all his wise cou~|cellors
+in <HI>Persia,</HI> would not sit in councell with|out
+<HI>Artimesias</HI> aduice.<NOTE PLACE="marg">Artimesia<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> <HI>queene of</HI> Caria.</NOTE> <HI>Ninus</HI> King of the <HI>Assi|rians,</HI>
+would effect nothing without <HI>Semiramis</HI>
+councell; And after his death you may reade
+how shee gouerned the <HI>Assirians</HI> for fortie two
+yeares together, as stout as <HI>Alexander</HI> ruled the
+<HI>Macedonians.</HI></P>
+<P>Therefore the <HI>Lacedemonians</HI> admitted their
+wise-women,<NOTE PLACE="marg">The women of <HI>Lacede|monia</HI> ad|mitted to <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">it in councell.</NOTE> not only to come to heare coun|cell,
+but also to be hearde and to set downe their
+opinions, touching aswell Ciuill as Marshall cau|ses.</P>
+<P>Among the old <HI>Germans,</HI> vpon any great affairs,
+touching the state of their country, the women
+which were wise and discreete, did sit in coun|cell
+and giue their sentence and aduice, &amp; among
+the <HI>Germans</HI> were cheifly accepted, and at this
+time more trust and confidence is giuen to wo|men
+in <HI>Germany,</HI> than to men. For women bee
+there sober when men are drunken</P>
+<P>The selfe same authoritie and credit had the
+women aswell in that part of <HI>Spaine</HI> called <HI>Celti|beria,</HI><NOTE PLACE="marg">Women in <HI>Celtiberia.</HI></NOTE> as also in <HI>Fraunce;</HI> in which countries wo|men
+were not only accepted in counsell, but in
+any strife or controuersy it was determyned and
+adiuged by verdit and Arbitrement of women.</P>
+<P>In the time of <HI>Hanibal,</HI> in certaine debates be|tweene
+<PB N="20" REF="15">
+<GAP DESC="illegible" RESP="tech" EXTENT="1 span"></P>
+<P><GAP DESC="illegible" RESP="tech" EXTENT="1 paragraph"></P>
+<P><GAP DESC="illegible" RESP="tech" EXTENT="1 paragraph"></P>
+<P><GAP DESC="illegible" RESP="tech" EXTENT="1 span">, and other Countreys, where Queenes go|uerned
+and ruled as kings, were admitted as Iud|ges,
+and fat as Councellors, to determine of right
+and wronge, as you have heard betweene the
+<HI>Gaules,</HI> and the <HI>Carthag<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">mans.</HI></P>
+<P>Yea among the inuincible Romans, by de|grees
+<PB N="21" REF="15">
+were wise women admitted to haue ac|cesse
+to the <HI>Senate,</HI> and their counsell heard by
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">he Senators.<NOTE PLACE="marg">Wise women in Rome had accesse to the Se|nate.</NOTE></P>
+<P>So was <HI>M<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">tia, Agrippina, Cornelia,</HI> and others,
+that it came to passe in <HI>Rome,</HI> that the women a|monge
+the Romans were as much authorized as
+the women of <HI>Sparta.</HI></P>
+<P>So <HI>Candaces</HI> Queene of <HI>Et<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">iopia,</HI> was so singu|<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">er<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">
+wi<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">e,<NOTE PLACE="marg">The praise of Queene <HI>Candaces.</HI></NOTE> that she ruled and gouerned her sub|<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ects
+in such sort, that she was so much honoured
+and beloued amonge the <HI>Ethiopians</HI> (as <HI>Asarces</HI>
+among the Parthians) that all the Queenes that
+succeeded her in <HI>Ethiopia,</HI> were called <HI>Candac<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">s</HI>
+after her name.</P>
+<P>Amonge the <HI>Li<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ian</HI> people that dwelt in <HI>Asia</HI>
+the lesse, the women children were named after
+their Mothers names, and not after their Fa|thers,
+and they by the lawe and custome of that
+countrey, are heires to their Mothers, and not to
+their Fathers.</P>
+<P>As amonge the Hebrew women, who gaue
+such names to their children as pleased the mo|thers,<NOTE PLACE="marg">The He|brew women gaue names to their children without the consent of husbands.</NOTE>
+without the consent of their Fathers.</P>
+<P><HI>Sitones,</HI> people not far from the <HI>Sucu<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">ns,</HI> had a
+Law that none might gouerne ouer them, but
+a woman. The name of a King was to them odi|ous,
+as it was of long time odious both to the
+Romans and the Graecians.</P>
+<P>Among the old <HI>Danes,</HI> if any soldier should not
+follow his Captaine, and fight valiantly for his
+<PB N="22" REF="16">
+Country,<NOTE PLACE="marg">The Law a|mong the old <GAP DESC="illegible" RESP="tech" EXTENT="1 word">.</NOTE> the law was their wiues should master<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+and gouerne them as their seruants, and their
+husbands should lye with their heads downward
+toward their wiues feete, as a marke fo infamy, to
+be knowen cowards.</P>
+<P>The woman in <HI>Sparta,</HI> did meete their hus|bands
+&amp; sonnes,<NOTE PLACE="marg"><GAP DESC="illegible" RESP="tech" EXTENT="1 span"></NOTE> using scoffing &amp; flouting words
+saying; whether creepe yee, yee cowards into
+your Mothers and wiues bellies againe?</P>
+<P>That made the <HI><GAP DESC="illegible" RESP="tech" EXTENT="1 word">&punc;</HI><NOTE PLACE="marg"><GAP DESC="illegible" RESP="tech" EXTENT="1 span"></NOTE> that theiy would haue
+their wiues and concubines to see them how<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+manfully they <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ought, to auoyd the name of co|wards.
+For in <HI>Persia</HI> to be called a coward, an<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+Acion might be had against him in Law.</P>
+<P>If you read <HI>Phylo<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ophy,</HI> you shall find <HI>Aristipp<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"></HI>
+daughter <HI><GAP DESC="illegible" RESP="tech" EXTENT="1 word">,</HI> in the schoole of <HI>Athens,</HI> a reade<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+and a Teacher of <HI>Phylosophy</HI> in her fathers place.</P>
+<P><HI>Corynna</HI> was set forth and garnished with <GAP DESC="illegible" RESP="tech" EXTENT="1 word">
+seuerall garlands of Laurell, which shee wanne o<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+<HI>Pyndarus</HI> (the only Poet of his time) for that she<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+excelled him in verses and poems.</P>
+<P><HI>Eustochium</HI> and <HI>Blessilla,</HI> for Hebrew, Greeke
+and Latine,<NOTE PLACE="marg">A catalogue of rare wo|men.</NOTE> were equall to a great number of the
+best learned in those times, in zeale of true Religion,
+and in following of Saint <HI>Hyerom,</HI> for th<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+further i<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">structions of their faith. Of these
+<HI><GAP DESC="illegible" RESP="tech" EXTENT="1 word"> Hyerom</HI> made mention in his Prologues of Ioshu|a,
+of <HI>Esay,</HI> and of <HI>Daniell.</HI></P>
+<P><HI>Aspasia,</HI> a Greeke woman, red Rhetorick in
+<HI>Miletum,</HI><NOTE PLACE="marg">Aspasia.</NOTE> is to be praysed.</P>
+<P><PB N="23" REF="16">
+<HI>Sappho</HI> red Poetry in <HI>Lesbos;</HI> both taught schol|lers
+with much commendations.<NOTE PLACE="marg">Sappho.</NOTE></P>
+<P><HI>Leontinum</HI> a Graecian woman, wrote a whole
+volume against <HI>Theophrastus,</HI> the great Philoso|pher,
+and as <HI>Cicero</HI> saith,<NOTE PLACE="marg">Leontinu~</NOTE> <HI>Aiticosermone.</HI></P>
+<P><HI>Hortensia</HI> in Rome, nothing inferior to her fa|ther,
+was as eloquent as her father; For as many
+came to see Hortensias comely gesture and sweet
+pronunciacion, as came to heare her eloquence.<NOTE PLACE="marg">Hortensia.</NOTE></P>
+<P><HI>Amesia</HI> pleaded her owne causes before <HI>Q.</HI><NOTE PLACE="marg">Amesia.</NOTE>
+<HI>Titu<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"></HI> the Roman Pretor, with such manly cou|rage,
+that shee was called <HI>Androgune.</HI> <NOTE PLACE="marg"><GAP DESC="foreign"></NOTE></P>
+<P>And <HI>Sara, Raguels</HI> daughter, <HI>To<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ies</HI> wife, for
+her zeale and earnest prayers was deliuered from
+the spirit Asmod<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">us.<NOTE PLACE="marg">Sara.</NOTE></P>
+<P>And <HI>Mary Magdalen</HI> for her inward loue and
+faith to the Lord was deliuered from seauen
+<HI>As|mod<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">u<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"></HI> seauen diuells.<NOTE PLACE="marg">Mary Magdalen.</NOTE> And many such women,
+which to speake of in perticuler it were infinite,
+as before is said.</P>
+<P>The Romans made lawes <HI>demaritandis ordini|bus</HI>
+First by Q. <HI>Metellus,</HI> after by <HI>Iulius Caesar,</HI>
+and after him by <HI>Augustus,</HI> with giftes and re|wards
+to intice young men and maides to mari|age,
+and to make choyse of such as should alwaies
+continue.</P>
+<P>So much was mariage esteemed for multipli|cation,<NOTE PLACE="marg"><HI>Licurgus</HI> lawes in <HI>Sparta. Solon</HI> laws in <HI>Athens&punc;</HI></NOTE>
+that <HI>Licurgus</HI> made lawes in <HI>Sparta,</HI> and
+<HI>Solon</HI> in <HI>Athens,</HI> that men might chaunge their
+wiues that were barren for others, to make triall
+<PB N="24" REF="17">
+in whome the cause of sterility was, whether in
+the maner wom<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">n. And this was so common
+a cou<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">e among the Romans and the graecians&punc;
+that <HI>Ca<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">o</HI> himselfe <GAP DESC="illegible" RESP="tech" EXTENT="1 span"> <HI>Marcia</HI> in Rome
+<GAP DESC="illegible" RESP="tech" EXTENT="1 span"> his <GAP DESC="illegible" RESP="tech" EXTENT="1 span">.</P>
+<P>It was the opinion<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> Philosophers, yea<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+the <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> that men might marry for childrens <GAP DESC="illegible" RESP="tech" EXTENT="1 word">&punc;
+as many wiues as they would. Other for reli|gion
+<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">rried where they lift, for <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">o was the law
+of <GAP DESC="illegible" RESP="tech" EXTENT="1 word">,<NOTE PLACE="marg">Chrysippus lawes.</NOTE> whose writing was full of Oracles.</P>
+<P>Among the <HI>Hebrewes</HI> the wiues would bring
+their <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> vnto their husbands.</P>
+<P>Among the <HI>Graecians,</HI><NOTE PLACE="marg">The custom in Greece at mariages.</NOTE> the custome was the
+mothers of the married persons should haue <GAP DESC="illegible" RESP="tech" EXTENT="1 word">
+torches ready to light, and their friends <GAP DESC="illegible" RESP="tech" EXTENT="1 word">
+Hymnes and longs called <GAP DESC="illegible" RESP="tech" EXTENT="1 span">
+foure presidents of marriages, <GAP DESC="illegible" RESP="tech" EXTENT="1 span">
+Diana, and <HI>Suad<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">la,</HI> that these Goddesses and
+Queenes would vouchsafe to blesse these <GAP DESC="illegible" RESP="tech" EXTENT="1 span">,
+that <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> would make them pa|rents
+of children; that <HI>Venus</HI> would encrease their
+loue; <HI>Diana</HI> their courage and chastity; and that
+<HI>Suadela</HI> would make them delectable and louing
+to her husbands.</P>
+<P>And the next day after their marriage,<NOTE PLACE="marg">The cere|monies in Greece vp|pon the next day after the mariage.</NOTE> the fa|ther
+of the bride should bring her <HI><GAP DESC="illegible" RESP="tech" EXTENT="1 word"> mu|nus,</HI>
+a faire cloured boy in a white coloured
+gowne, carying a burning torch in his hand, after
+him a fellow that brings the new Bride her at|tires
+and then they which bringe a summe of
+<PB N="25" REF="17">
+gold and siluer, and after them they which bring
+houshold vessels &amp; houshold stuffe, against whose
+comming the gates &amp; dores of the house where|in
+these new married couples are come to dwell,
+are opened.</P>
+<P>In <HI>Sparta,</HI> they were appointed by <HI>Licurgus</HI> law,<NOTE PLACE="marg"><HI>Licurgus</HI> Law of the orders and ma<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ners in any mariage in Sparta.</NOTE> that the young mayds which should be maried,
+should shaue off their haire, &amp; be clothed in mans
+apparell, and bee brought at night into a darke
+chamber without light, and the Bridegrome then
+should loose the Brides girdle, which betokened
+that both were but one. Yet in the Isle of <HI>Coos,</HI>
+the men must bee clothed in womens garments
+contrarie to the~ of <HI>Sparta,</HI> &amp; yet signified but one.</P>
+<P>The <HI>Lacedemonian</HI> maydes that should be mar|ried,<NOTE PLACE="marg">The manner of the Lace|demonians in their ma|riages.</NOTE>
+do trusse their haires vp with a kind of speare
+called <HI>Celibaris,</HI> to signifie that they should bring
+forth such martiall children, as would vse both
+speares and swords.</P>
+<P>The <HI>Athenians</HI> also vsed to dresse the head of
+the Bridegrome with palmes and Oliues,<NOTE PLACE="marg">Of the order of the Athenians in marriage.</NOTE> to sig|nifie
+victorie and conquest.</P>
+<P>These Ceremonies were onely to all<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">re and
+to entice young people to mariage, for multiplication&punc;
+and therefore the old Germans had his
+custome that the young men should send to their
+Loues that should be their wiues, <GAP DESC="illegible" RESP="tech" EXTENT="1 span">,
+a sword,<NOTE PLACE="marg"><GAP DESC="illegible" RESP="tech" EXTENT="1 span"></NOTE> a shield and armour, in
+&amp; pledges of loue, with a garland <GAP DESC="illegible" RESP="tech" EXTENT="1 span"> Ver|uine
+called <HI>Verb<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">na.</HI></P>
+<P><PB N="26" REF="18">
+In <HI>Booetia,</HI><NOTE PLACE="marg">Of Boaetia.</NOTE> they vsed to put a garland of Sparage
+vpon the head of the new married mayd. In o|ther
+parts of <HI>Greece</HI> made of <HI>Balsamet,</HI> called <HI>Sy|simbrium.</HI></P>
+<P>The <HI>Locrians</HI> made crownes of diuers flowers
+gathered by the Matrons,<NOTE PLACE="marg">Of the <HI>Lo|crians.</HI></NOTE> and brought the day
+of marriage to the married mayd.</P>
+<P>The <HI>Macedonians</HI> vsed to cut a loafe of bread
+with a sword, and both parties to eat of the same,<NOTE PLACE="marg">Of the <HI>Ma|cedonians.</HI></NOTE>
+was a full consent and decree of marriage.</P>
+<P>The <HI>Latines</HI> in their mariage ware white gar|ments,<NOTE PLACE="marg">Of the order of the latins.</NOTE> and their ceremonie was, that the newe
+married couple should stand together vnder a
+yoake of Oxen, in token they should liue and loue
+one with another, without offending the lawe
+of marriage.</P>
+<P>So the other Goddesse of mariage is called <HI>Iu|no
+iugalis,</HI> signifying concord and agreement, and
+be yoaked together during life.</P>
+<P>The <HI>Lusitanians,</HI><NOTE PLACE="marg">Of the mar|riage in <HI>Lu|sitania.</HI></NOTE> which are <HI>Portugales;</HI> the wo|men
+must be drawne and forced out of dores be|fore
+they came to be married, to shew how vn|willing
+they were to forsake their Parents, their
+friends, and their Countreys, and now must fol|low
+a stranger, hauing before her a Musitian, and
+one that <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">inges a songe of <HI>Hymaeneus,</HI> carrying
+with her a Distaffe, a spindle, and flaxe.</P>
+<P>The people about mount <HI>Taurus</HI> had this cu|stome,<NOTE PLACE="marg">The people about mount <HI>Taurus.</HI></NOTE> that the women should gird them before
+they were maried, with a woollen girdle full of
+<PB N="27" REF="18">
+<HI>Hercules</HI> knots vppon it, which should bee loo|sed
+by the Bridegroome the first night, in token
+hee should be the Father of so many children as
+<HI>Hercules</HI> had,<NOTE PLACE="marg"><HI>Herotinu<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"></HI> had 600. sonnes.</NOTE> who left behind him when he died
+70. sonnes; and yet not so many as <HI>Herotinus</HI> king
+of <HI>Arabia,</HI> who had 600 sonnes.</P>
+<P><HI>Solon</HI> made a law, that the man might not come
+vnto his newe married wiues companie before
+hee had eaten <HI>Ex malo Cydonio,</HI> which was a
+notable Towne in <HI>Candie.</HI></P>
+<P>And so the custome among the <HI>Babilonians</HI> was,<NOTE PLACE="marg">The <HI>Babi|lonians</HI> rule and or|der in mar|riage.</NOTE>
+that the young married folkes might not lye toge|ther,
+before both had tasted of a secret gum cal|led
+<HI>Storiae.</HI> Such customes of these Countreys
+were carefully obserued and kept.</P>
+<P>In <HI>Greece</HI> they had these Ceremonies (as <HI>Pausa|nius</HI> affirmeth) that the Bride should bee carried
+from her Parents and Friends in a Coach, and the
+Axeltree of this Coach should bee burned at the
+dore of the house, before the Bride would enter
+into the house,<NOTE PLACE="marg">Certaine ce|remonies in <HI>Greece.</HI></NOTE> signifying that there shee should
+stay and tarrie, and thence neuer to depart.</P>
+<P>But if they were not carried in a coach, but
+went on foot, her husband should euer be called
+<HI>Chamoepus,</HI> being a word of great reproach,<NOTE PLACE="marg">The first miracle of Christ in a marriage.</NOTE> for
+that he made mariage honorable of no account,
+considering that the first miracle that Christ did,
+was at a mariage in <HI>Chanaan,</HI> and so honored ma|riage
+with his owne presence.</P>
+<P>It was lawfull in <HI>Persia</HI> for the young married
+<PB N="28" REF="19">
+man to lye with his newe married wife before he
+had eaten <HI><GAP DESC="illegible" RESP="tech" EXTENT="1 span">,</HI><NOTE PLACE="marg">The lawes of the Per|sians
+for ma+riage.</NOTE> the marrow of a Ca|mell:
+neither any thing else, but an Apple, and
+the marrow of a Camell.</P>
+<P>The <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ewes at their marriages, the glasse that
+they drink in that day they are maried, the Bride
+and Bridegrome both ioyntly at night, breake
+that glasse, to sign<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">fie the frailtie of life.</P>
+<P>A young woman not married, might neither
+amonge the <HI>Lacedemonions,</HI><NOTE PLACE="marg">The l<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">w of the Lacede|monians,
+&amp; of the Ro|manes.</NOTE> or amonge the Ro|manes
+come amonge married women, or to the
+sacrifice and feasts of <HI>C<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">rus</HI> &amp; <HI>Venus,</HI> but the <GAP DESC="illegible" RESP="tech" EXTENT="2 letters">rier
+should openly charge and command all vncleane
+women&punc; <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">uch as had the Leprosie, or any brea|king
+out of their bodies, or <HI><GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ens<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">rium,</HI> should a|voide
+the <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">acred and secret s<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ruice, and after all
+this hee commaunded, &amp; sayd to the woman vn|married&punc;
+<GAP DESC="illegible" RESP="tech" EXTENT="1 span">, that the maides
+vnmarried should goe out of the <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">emple, as an
+enemie to mankinde.</P>
+<P>And therefore the <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">awe of <HI>Moses,</HI> was, that if
+a man should strike a woman with child, the child
+being quicke and thereby borne abortiue, the
+man should die for it. The law was that he should
+yeeld,<NOTE PLACE="marg">The lawe of <HI>Moses.</HI></NOTE> <HI>Animam pro anima.</HI> And if the childe
+had life, the man should bee punished, <HI>Pecunia
+mulctetur,</HI> as much as the womans husband
+would.</P>
+<P>This condemneth the absurd opinion of the
+<PB N="29" REF="19">
+<HI>Pithagorians,</HI> of their transanimation which they
+call <HI>Metempsuchosis,</HI> that the soule should passe
+from one body to another, and withall so grosse,<NOTE PLACE="marg">The absurd opinions of the <HI>Pytha|gorians.</HI> <GAP DESC="foreign">.</NOTE>
+that it should bee transported from a man to a
+beast.</P>
+<P>Hence grew the forbidding of eating of flesh
+among many, of whome <HI>Tertullian</HI> spake merri|<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">&punc;
+<HI>Ne quisp<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">am bubulam de aliquo proauo obsonet;</HI>
+l<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ast some should eate of their old parents flesh.</P>
+<P><HI>Mose<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"></HI> law was, that the young men should be
+married to maides, and such as was of honest pa|rentage,<NOTE PLACE="marg"><HI>Moses</HI> law of marriage.</NOTE> vertuous and godly education. <HI>Moses</HI>
+thought it not fit that young women of ripe
+yeares, should be vnmarried.</P>
+<P>That was the cause why <HI>Lycurgus</HI> made such
+sharpe laws in <HI>Sparta,</HI> that the yong men which
+were not,<NOTE PLACE="marg">Licurgus <HI>lawe.</HI></NOTE> not would not be married in <HI>Sparta,</HI>
+they should goe naked in the winter time round|about
+the market place, vpon the market day&punc;
+neither might these vnmarried ba<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">che<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">lors come
+to see the games and playes among the <HI><GAP DESC="illegible" RESP="tech" EXTENT="1 span">.</HI></P>
+<P>The like lawe made <HI>Plato,</HI><NOTE PLACE="marg">Plafoes<GAP DESC="illegible" RESP="tech" EXTENT="3 letters"></NOTE> that if any young
+man in <HI>Greece</HI> should be vnmarried at 35, yeares,
+he should be so little esteemed, that he should
+not be preferred before any man&punc; but be last man
+either going into any company, or co~ming from
+them, without any countenance or credit giuen
+him.</P>
+<P>This was the cause that the <HI>Lacedemonians</HI> had
+<PB N="30" REF="20">
+such Laws and customes, that the parents which
+had three children, should be freed from watch
+and warde; But those parents which had foure,
+<HI>ab omni onere immunis foret,</HI> he should be dischar|ged
+from all taskes and Subsidies.</P>
+<P>And this was the cause why the Persians pre|ferred
+the parents of children before others, and
+that the King of <HI>Persia</HI> by the Persian law, was
+bound to giue a peece of Gold to euery woman
+with childe in any town the King came through,
+and this was the only cause why those Hebrew
+wome~ which were barren, brought their maids
+vnto their own husbands chambers for childre~s
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ake. As you heard of <HI>Abrahams</HI> wife, and of <HI>Ia|cobs</HI>
+wiues.</P>
+<P>Such was the affection and loue in Martiall
+countries, to haue young men married to young
+women.</P>
+<P>The warlike Romans would hardly suffer any
+Patrician that was not father of many children,<NOTE PLACE="marg">Patricians that were not parents of children, not estee|med in Rome.</NOTE>
+to be any Magistrate in Rome, either Questor,
+Praetor, or Consull. And if any should faine to
+be parents of children, &amp; not so found, he should
+be depriued from his office and place <HI>per Senatus
+consultum.</HI></P>
+<P>And therefore <HI>Furius Camillus,</HI> and after him
+<HI>Posthumius,</HI><NOTE PLACE="marg"><HI>Furius, Ca|millus</HI> lawe of bachelors vnmaried.</NOTE> at what time they were made Cen|sors
+in Rome, made such decrees, that old bache|lers
+which were found vnmarried in Rome,
+should pay such fine to the Treasury as were im|posed
+<PB N="31" REF="20">
+vpon them by their Censors.</P>
+<DIV2 N="2" TYPE="section">
+<HEAD>Sectio. 2.</HEAD>
+<P>SEe how much all heathen lawes doe esteeme
+honour,<NOTE PLACE="marg">The loue of the mother more then the loue of the father.</NOTE> and make much of marriage: And
+how much we owe to our mothers that nourish
+vs in their wombes, and our wiues that bring
+vs children. And therfore the mothers are (as
+the <HI>Philosopher</HI> saith) <HI>Philosturge,</HI> of the great
+loue and affection shee beareth more then the fa|ther,
+and wee are or ought to be more affected
+to our mothers. <HI>Plus paulo &agrave; matre, quam &agrave; patre
+suscipit faetus.</HI> For nothing can be more repug|nant
+to nature,<NOTE PLACE="marg">The loue of the mother prooued by <HI>Gallen</HI> and <HI>Hippocra|tes.</HI></NOTE> then a mother to hate and forget
+her owne children, which is brought for an ex|ample
+by the Euangelist of <HI>Rachell,</HI> whose com|plaint,
+wailing and weeping was such for her
+children, that shee would not, nor could not be
+comforted, which is easily to bee beleeued, si|thence
+women feede vs and nourish vs with the
+substance of their own bodies, as both <HI>Hippocra|tes</HI>
+and <HI>Gallen</HI> sayd, <HI>Ex Sanguine Materno faetum ali.</HI>
+First for ninetie dayes women beare vs dead in
+their bellies, the other ninetie dayes women
+beare vs quicke in their bodies with greater care
+and feare for our liues, then for their owne; so
+that from the very day of conception vnto the
+very houre of our birth, they liue in great dan|ger&punc;</P>
+<P><PB N="32" REF="21">
+That made <HI>Alexander</HI> the great to answere
+<HI>Antipaters</HI> letter,<NOTE PLACE="marg">Examples of <HI>Alexander</HI> the great.</NOTE> in the which hee much com|plained
+of his mother <HI>Olympias,</HI> charging her with
+great crimes; to the which complainte, <HI>Alex|ander</HI>
+smiling, sayd, <HI>Vna materna lachryma, multas
+hujusmodi d<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">ebi<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">l<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">era.</HI> Doth not <HI>Antipater</HI> (sayd
+<HI>Alexander</HI>) know that one small teare of a Mother&punc;
+will blot out many such complaints?</P>
+<P>And therefore the Matrons of Rome,<NOTE PLACE="marg">The Ma|trons of <HI>Rome</HI> much reue|renced.</NOTE> were
+so much reuerenced, that it was decreed by the
+Law <HI>Senatus-consultum,</HI> <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">et down by the Senators
+and Consulls, that if any man should meete with
+any Matron of Rome vpon any path-way, they
+should as it were of a duty to be done, <HI>discedered
+semitis,</HI> stand off and giue the path-way. Nei|ther
+might any officer or Magistrate call a Ma|tron
+of Rome into Law.</P>
+<P>Among the very heathen, young vertuous
+virgins and young maids well brought vp,<NOTE PLACE="marg">Poore yong <GAP DESC="illegible" RESP="tech" EXTENT="2 letters">gins sin <HI>Athens</HI> and in <HI>Sparta,</HI> prouided for their mar|riage.</NOTE> both
+by the Law of <HI>Licurgus</HI> in <HI>Sparta,</HI> and the Law
+of <HI>Solon</HI> in <HI>Athens,</HI> were prouided for, and care|fully
+looked vnto for their marriages, out of their
+common Treasure. So were <HI>Aristides</HI> daughte<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">s
+in <HI>Athens,</HI> and <HI>Lysanders</HI> daughters in <HI>Sparta.</HI>
+Among the Romans with no lesse care were the
+daughters of <HI><GAP DESC="illegible" RESP="tech" EXTENT="1 word"> Fabri<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ius,</HI> &amp; <HI>Man: Curius</HI> pro|uided
+for; which was the only cause that many
+Noble women and Matrons in diuers countries
+bestowed Dowries, for the marriage of poore
+virgins.</P>
+<P><PB N="33" REF="21">
+<HI>Sampsons</HI> mother was taught by the Angel how
+her son should bee brought vp,<NOTE PLACE="marg"><HI>Samsons</HI> mother wa<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> taught how <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">o bring her sonne vp.</NOTE> after the Angell
+had appeared twice vnto her, saying: <HI>Behold
+thou art barren, thou shalt conceaue and beare a Son,
+and thou shalt bring him vp and be his nurse.</HI> Here
+the mother was charged to bee the nurse to her
+son, and to bring him vp, and not the father.</P>
+<P>The <HI>Hebrew</HI> women not only nourished their
+children,<NOTE PLACE="marg">The <HI>He|brew</HI> wo|men.</NOTE> but also named their children without
+consent of their father. So did <HI>Iochabed</HI> nurse <HI>Mo|ses</HI>
+her sonne.</P>
+<P>Among the <HI>Lacedemonians,</HI> the mothers were
+nurses to their Children,<NOTE PLACE="marg"><HI>The</HI> Lace|demonians.</NOTE> least by education
+and sucking of strange nurses, the infants should
+degenerate from the nature of their parents.</P>
+<P>The old Germans thought it not fit nor lawfull
+to haue their children brought vp or nourished
+by any woman,<NOTE PLACE="marg">The old Germans.</NOTE> but by the mother.</P>
+<P>The Romans were warned and had councell,
+that their children should be lulled vpon their
+mothers laps, &amp; suck vpon their mothers breasts.</P>
+<P>So the blessed virgin <HI>Mary</HI> nourished her only
+son with her milk:<NOTE PLACE="marg">The virgin <HI>Mary</HI> nur|sed her own sonne.</NOTE> And so <HI>Sarah</HI> nourished <HI>Isaack</HI>
+her sonne.</P>
+<P>The Angell of the Lord appeared vnto <HI>Agar</HI>
+the mother of <HI>Ismaell,</HI> and spake vnto her in the
+wildernes o<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> <HI>Berseba,</HI> and comforted her &amp; said,
+<HI>Arise and take <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">e lad by the hand, for I will make of
+him a great people.</HI></P>
+<P><HI>Hannah</HI><NOTE PLACE="marg">Hannah <HI>the wife of El|canah&punc;</HI></NOTE> the wife of <HI>Elcanah,</HI> made continuall
+<PB N="34" REF="22">
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ute vnto the Lord for a sonne, and neuer went
+out of the temple, but still prayed vntill the An|gell
+of the lord <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">old&punc; her that shee should haue a
+sonne which was <HI>Samuell.</HI></P>
+<P>The woman of <HI>Chanaan</HI> neuer left Christ vntill
+uhee had obtained her sute of the lord,<NOTE PLACE="marg">The woman of Chana<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">n.</NOTE> to heale
+her daughter beeing sicke.</P>
+<P>And the lord would haue vs earnest for our
+sinnes,<NOTE PLACE="marg">Sampsons mother.</NOTE> as <HI>Sampsons</HI> mother was for her son, and
+as the woman of <HI>Chana<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">n</HI> was for her daughter,
+continually praying vnto God for his goodnesse,
+and blessing towards vs.</P>
+<P><HI>Sara,</HI><NOTE PLACE="marg">Sara.</NOTE> at 80. yeares was desirous to haue a son,
+and had <HI>Isaac.</HI></P>
+<P><HI>Anna&punc;</HI><NOTE PLACE="marg">Elizabeth.</NOTE> solicited God vntill she had <HI>Samuel.</HI> And
+so <HI>Elizabeth</HI> by praying got <HI>Iohn Baptist</HI> in her lat|ter
+yeares. These godly women sought children
+at Gods hands.</P>
+<P>Though <HI>Rachell</HI> made much means to her hus|band
+for children,<NOTE PLACE="marg">Rachell.</NOTE> saying&punc; vnlesse she might haue
+children, shee should die; yet farre better then
+such women are,<NOTE PLACE="marg">Balphaegor P<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">iapus.</NOTE> that goe to <HI>Bal-phaegor</HI> to the i|mage
+of <HI>Priapus</HI> to seeke children by vnlawfull
+meanes (as the Prophet saith,) <HI>Auolabit gloria
+eorum &agrave; conceptu, &amp; &agrave; partu.</HI> They shall not be mo|thers
+of Children, they shall haue barren wombs,
+<HI>Et arentia vbera,</HI> and drie brests.</P>
+<P>So God did threaten superstitious women,
+<HI>Plangentes Adonidem.</HI></P>
+<P>Now that women are so set forth for their
+<PB N="35" REF="22">
+wisedome, learning, ver<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ue, and for their magna|nimitie,
+courage and gouernment, and after their
+marriages had as great care to bring vp their
+children, as they had to please their husbands, I
+thought good with some examples of diuers
+countries to confirme the same.</P>
+<P>The Iacobites people in the East baptised,<NOTE PLACE="marg">The Iaco|bites.</NOTE> and
+vsed <HI>Moses</HI> lawe of circumsicio~, they burne their
+Infants vpon the forehead, or the brest, with the
+signe of the crosse.</P>
+<P>The custome among the old Romans was this,<NOTE PLACE="marg">The cus|tome of the Romans at the birth of Infants.</NOTE>
+first the midwife would lay the childe new borne
+vpon the ground, and after sa<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">crifice done to <HI>E<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">d<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">sa,</HI>
+it should be presented to <HI>Nundina,</HI> by whom
+the Romans were warned, that their infants
+should be carefully brought vp by their mothers.</P>
+<P>Among the Graecians it was brought by the
+midwife,<NOTE PLACE="marg"><HI>Of the</HI> Graecians.</NOTE> and the women him associate at the
+birth before La<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">es their houshold Gods, where
+the neighbors sacrificed for the health of their
+infants, and after deliuered them to the mother.</P>
+<P>The <HI>Ethiopians ab ipso natali die,</HI><NOTE PLACE="marg">Of the <HI>E|thiopians.</HI></NOTE> the first day of
+their infants birth, haue such care of their chil|dren,
+that they do <HI>murere frontes in fantium,</HI> that
+they should <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">uffer paine, &amp; be knowne euer after
+by that marke as the Iacobites were: so that the <HI>E|thiopians</HI>
+would pro<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">e what spirit their children
+were of, by ryding vpon Elephants and by fl<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ing
+on fowles backs, wherby they might know &amp; see
+whether they were coragious and bold, or timo|rous
+&amp; fearfull.</P>
+<P><PB N="36" REF="23">
+But wee haue children brought vp from their
+cradle, taught to ride vpon Lyons &amp; Vnicornes,
+and to fly ouer Seas vpon Eagles, the cheifest Ro|man
+ensignes of the Papists.</P>
+<P>It is sayd,<NOTE PLACE="marg">The Isl<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">s Baleares.</NOTE> that the women of the two Isles na|med
+<HI>Baleares</HI> in <HI>Spaine,</HI> neuer minister any meate
+to their yong infants, <HI>nisia baculo &amp; funda,</HI> but fro~
+a sling or from a staffe, to signify they should a|uoide
+idlenes and get their liuing by laboure and
+paine.</P>
+<P>The women of <HI>Sparta</HI> according to <HI>Licurgus</HI>
+law,<NOTE PLACE="marg">The women of <HI>Sparta.</HI></NOTE> vsed to wash their yonge infants with cold
+water mingled with salt, to make them acquain|ted
+euen from their cradle with paine and tra|vell.
+Insomuch that it came to a prouerbe, <HI>So|las
+Lacenas vtros parere,</HI> that the Lacedemonian
+women only brought vp children to be men</P>
+<P>So it is written by the same author,<NOTE PLACE="marg"><HI>The women of Creet and of</HI> Ger|many.</NOTE> that the wo|men
+of <HI>Creet,</HI> and the old Germans would bring
+vp their children from their birth day, to endure
+paine of cold and heat, and to suffer hunger and
+thirst.</P>
+<P>And so it is written, that the ancient women in
+<HI>Iberia,</HI><NOTE PLACE="marg"><HI>In</HI> Iberia.</NOTE> being brought vp euer to see such slaugh|ter
+in their Countrey of their husbands and chil|dren,
+that the Infants being new borne, haue their
+first feeding from the point of a sword, or of a
+Dart.</P>
+<P>In <HI>India</HI> their Philosophers called <HI>Gymnosophystoe</HI>
+within 2. or 3. yeeres after they were borne,
+<PB N="37" REF="23">
+would examine what kind of trade they should
+professe.</P>
+<P>And the same Gymnosophists thought <HI>Diem mor|tis
+esse diem natalem;</HI><NOTE PLACE="marg">Gymnoso|phistae.</NOTE> for the same Nation in <HI>Thra|cia</HI>
+weepe and lament the birth of their children,
+and at their death, reioyce and triumph.</P>
+<P>The Persians had such care of their Infants,<NOTE PLACE="marg">The Persi|ans.</NOTE>
+that they prouided such Nurses as should bring
+them vnder in such seuere discipline, that they
+might not spit nor clense their noses in publicke
+presence, neither might they sit in sight of their
+Elders, they might drinke no wine, they might
+see no naked persons; for such faults by the law
+of <HI>Persia,</HI> were capitall crimes: which was as
+strict a lawe as the <HI>Nazarites</HI> had.</P>
+<P><HI>Saba</HI><NOTE PLACE="marg">Saba.</NOTE> in <HI>Iosephus,</HI> called <HI>Nicaule,</HI> for her wise
+propositions to <HI>Salomon,</HI> called <HI>Arabica Sybilla,</HI>
+and of whome Christ maketh mention in the
+gospell.</P>
+<P><HI>Hydra</HI><NOTE PLACE="marg">Hydra.</NOTE> also, whome <HI>Plato</HI> much commends for
+her probleame and darke questions, that it grew
+to a prouerbe, <HI>capita Hydrae conficere.</HI></P>
+<P>And <HI>Dama</HI><NOTE PLACE="marg">Dama.</NOTE> <HI>Pythagoras</HI> daughter in expounding
+her fathers darke and obscure questions, might
+worthily claime to be <HI>Pythagoras</HI> daughter.</P>
+<P><HI>Caelius</HI><NOTE PLACE="marg">Caelius.</NOTE> writes of some women named <HI>Manti|nea,
+Lasthenia,</HI> and <HI>Axiothea,</HI> which came in ap|parell
+like men, to heare <HI>Plato</HI> reade Philosophy
+in schooles.</P>
+<P>Were not the Fathers happy to bring vp such
+<PB N="38" REF="24">
+daughters, and were not their husbands more
+happy to marry such wiues?</P>
+<P>To be short and to verify a french prouerbe,
+<HI>non est faelix natus, qui non est faelix maritatus,</HI> so <HI>A|ristotle</HI>
+saith, that he which is not well married,
+hath lost the one halfe of his ioyes in this life: and
+so <HI>Pharoneus</HI><NOTE PLACE="marg">Phoroneus</NOTE> a wise man and a law maker in his
+country told his brother at his death, that he had
+wanted no felicity in this world, if he had not ma|ried
+such a wife.</P>
+<P>Yet such sharpe dames are sometimes necessa|rie
+to Philosophers,<NOTE PLACE="marg">Sharpe dames ne|cessary.</NOTE> to Phisitions, and to Prea|chers,
+to reprehend them of their faultes and to
+cure them of their maladyes at home, as they re|prehend
+and find faultes in others abrode.</P>
+<P><HI>Socrates</HI> so confest, that <HI>Zantippe</HI> his wife did
+him as much good at home by chiding,<NOTE PLACE="marg">Socrates <HI>saying.</HI></NOTE> to learne
+him patience; as he did in Schoole to learne his
+schollers Phylosophy.</P>
+<P>I wanted more time, than matter to write of
+such Iewels as our mothers, our wiues, our sisters,
+our kinswomen; and finally, of such Iewels as
+the world would be no world, without women
+the Mothers of the world.</P>
+<P>But to be briefe, let <HI>Semiramis</HI> be commend<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">
+in <HI>Babylon;</HI> let <HI>Atlanta</HI> with her marshall wo|men
+in feats of Armes bee praysed in <HI>Ar<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">dia;</HI>
+let <HI>Camilla</HI> be spoken of among the <HI>Volskans; To|myris</HI>
+amonge the <HI>Scythians;</HI> Queen <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> in
+<HI>Aethyopia;</HI> and all other renowned Ladies, &amp; of
+<PB N="39" REF="24">
+worthy women, that with foeminine feats meri|ted
+manly fame, be eternized; and let them wor|thily
+sit in the triumphant chaires of fame crow|ned
+with Garlands of Lawrell, with braunches
+of Palmes in their hands, as Victors ouer con|querours,
+and Conquerours of Kings and King|domes.
+To these valiant exploits of women,
+<HI>Hercules</HI> must yeeld; or else <HI>Omphale</HI> Queene of
+<HI>Lydia</HI> will make <HI>Hercules</HI> to yeeld. To these ex-exployts
+of women, wise <HI>Salomon</HI> must yeeld; or
+else <HI>Pharaohs</HI> Daughter will make <HI>Salomon</HI> to
+yeeld: So must <HI>Achilles</HI> to <HI>Polyxena:</HI>
+So must <HI>Caesar</HI> to <HI>Cleopatra:</HI> and
+so in fine, all men must
+yeeld to wo|men.</P>
+<TRAILER>FINIS.</TRAILER>
+</DIV2>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

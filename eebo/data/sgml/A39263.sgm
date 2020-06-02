@@ -1,0 +1,600 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD EEBOPROOF 2.0//EN">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-08-19</DATE>
+<RESPSTMT>
+<NAME>Judith Siefring</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TYPEs to DIVs in order to validate. Proofed title page(s).  Checked ^s. Reviewed structure. Checked division-marking material at heads and feet of divisions (HEADS, etc.). Checked for signatures. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected 15 $s of 18. Converted 3 $s to GAP DESC="illegible" RESP="tech". Checked spacing of foreign GAPs. Checked for EPIGRAPHs and ARGUMENTs. Checked for startqs, endqs, oes, q;s, and Qs. Checked proofsheets and made corrections found there. Checked for CLOSERs, TRAILERs, and BYLINEs. DONE.</ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="OX" ID="A39263">
+<STC T="W">E567</STC>
+<BIBNO T="oclc">11963477</BIBNO>
+<VID>51634</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1">
+<PB REF="1" MS="y">
+<P><HI>Piae Iuventuti Sacrum,</HI>
+An
+ELEGIE
+on
+The Death of the most vertuous
+and hopefull young Gentleman
+GEORGE PITT <HI><ABBR>Esq</ABBR>:</HI></P>
+<Q><BIBL>Sen: Herc: Fur: Act: 3.</BIBL>
+<L><HI>Prima quae vitam dedit hora, carpsit.</HI></L><L>Even that first hour wherein man lives,</L>
+<L>Takes one hour from the life it gives.</L></Q>
+<P>Printed in the Yeare 1658.</P>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="2">
+<PB REF="2">
+<HEAD>To
+THE MOST VERTVOVS
+AND THEREFORE MOST
+DESERVEDLY HONOURED LADY,
+M^r^i^s ALICE PITT,
+With all due Service and Devotion is hum|bly
+Dedicated the following Elegy:
+At the Funerals of her onely, and worthily
+Beloved Sonne M^r G. P.</HEAD>
+<OPENER><SALUTE>MADAM,</SALUTE></OPENER>
+<L>_SInce You can be so <HI>Charitably</HI> kind,</L>
+<L>To let us share the <HI>Blessings</HI> of your <HI>Mind;</HI></L>
+<L>Since of the <HI>Comforts</HI> of your <HI>Wombe,</HI> your Son,</L>
+<L>You could allow me <HI>part;</HI> and still had done,</L>
+<L>Had not our wretched lives <HI>curs'd Mistresses</HI></L>
+<L>His Progresse <HI>Fear'd, Envy'd</HI> our <HI>Happinesse.</HI></L>
+<L><PB REF="3">
+It seems But <HI>just,</HI> I should be sharer to,</L>
+<L>As of your <HI>Ioyes</HI> before, soe <HI>sorrows</HI> now.</L>
+<L>Not <HI>then</HI> to <HI>joy</HI> with you, it had but bin</L>
+<L>My <HI>Misery;</HI> 'twere, <HI>not to grieve,</HI> my sin.</L>
+<L><HI>That</HI> was my <HI>Priv'ledge, This</HI> my <HI>duety</HI> is;</L>
+<L>That <HI>Gratitude</HI> Commands, <HI>Religion</HI> this.</L>
+<L>Nor dare I <HI>mourne</HI> by <HI>halves,</HI> The <HI>whole man</HI> he,</L>
+<L>Must weare noe <HI>party-colour'd</HI> livory:</L>
+<L>Such as indeed the <HI>joy-dissembling</HI> Heire</L>
+<L>Too oft at's Father's funerall seems to weare;</L>
+<L>when <HI>turne</HI> him <HI>inside out,</HI> you'll eas'ly find</L>
+<L>Much <HI>diff'ring</HI> colours in his <HI>cloak</HI> and <HI>Mind.</HI></L>
+<L>My sorrow's <HI>die'd in graine</HI> I onely have</L>
+<L>Just so much <HI>life</HI> as keeps me from the <HI>grave.</HI></L>
+<L>Your <HI>Bounty</HI> cloaths the <HI>outward</HI> man in <HI>black,</HI></L>
+<L>His <HI>Death</HI> would not allow my <HI>soule</HI> to lack</L>
+<L>Her <HI>Mourning-suit;</HI> who in respect to <HI>you</HI></L>
+<L>Has clad her <HI>Maid</HI> all in <HI>close mourning</HI> too</L>
+<L>Your <HI>Goodnesse</HI> calls on <HI>one;</HI> and here you see,</L>
+<L>My <HI>bold griefe</HI> multiplies that <HI>one</HI> to <HI>three.</HI></L>
+<L><PB REF="3">
+Upon the weak <HI>staffe</HI> of a <HI>splitted Quill,</HI></L>
+<L>My <HI>Creeple Muse</HI> comes <HI>halting</HI> up the <HI>Hill;</HI></L>
+<L>And humbly at your <HI>feet</HI> does prostrate fall,</L>
+<L>The <HI>devout'st</HI> mourner at this Funerall.</L>
+<L>Your <HI>sorrows</HI> rais'd her from that <HI>Bed</HI> of <HI>ease,</HI></L>
+<L>Where she so long had <HI>hugg'd</HI> her own <HI>disease;</HI></L>
+<L>And had <HI>expir'd</HI> long siuce, a <HI>prey</HI> to death,</L>
+<L>But that your <HI>sighs</HI> brought a supply of <HI>breath</HI></L>
+<L>Hearing your <HI>groans,</HI> she <HI>started</HI> up, and see</L>
+<L>No <HI>Sun</HI> appear, she straight cries out-<HI>'Tis he!</HI></L>
+<L>And with a <HI>trembling</HI> eye, roaving about,</L>
+<L>At length she spies that mournfull HARROVV out.</L>
+<L>Seeing this<NOTE N="*" PLACE="marg">The two tops are the Church and your house.</NOTE> <HI>two-top'd</HI> Hill (for now there's <HI>odds</HI></L>
+<L>Betwixt <HI>your house,</HI> and <HI>that</HI> which <HI>once</HI> was <HI>God's:</HI></L>
+<L>Though <HI>these</HI> made <HI>one,</HI> 'till some more <HI>wise</HI> then we</L>
+<L>Durst preach it <HI>Schisme</HI> to live in <HI>unity.</HI>)</L>
+<L>Seeing these <HI>tops</HI> two <HI>blackest clouds</HI> o'reshade</L>
+<L>(God's <HI>frown</HI> the one, your <HI>sadnesle</HI> t'other made:)</L>
+<L>She calls it her <HI>Parnassus,</HI> and does run</L>
+<L>In hast, to <HI>take leave</HI> of her <HI>setting sun.</HI></L>
+<L><PB REF="4">
+The <HI>Deity</HI> inspir'd her was your <HI>Son,</HI></L>
+<L>Whose <HI>vertues</HI> made your <HI>teares</HI> her <HI>Helicon.</HI></L>
+<L>But may this fountaine <HI>soon</HI> run dry! that streame</L>
+<L>No more occasion'd on so <HI>sad</HI> a <HI>theme!</HI></L>
+<L>O rather may my Muses <HI>last breath</HI> be</L>
+<L>Exhal'd <HI>in this</HI> unwelcome Elegie!</L>
+<L>O may she rather spend her <HI>rustick</HI> Rithme</L>
+<L>Upon the <HI>reigning vices</HI> of the <HI>time;</HI></L>
+<L>And with her <HI>betters</HI> only reap these <HI>gaines,</HI></L>
+<L>An <HI>happy Curse</HI> of <HI>Silence</HI> for her pains!</L>
+<L>Had she not in this <HI>sin</HI> which she has done,</L>
+<L>Serv'd the <HI>sad mother</HI> more then <HI>happy son;</HI></L>
+<L>She had not in so <HI>deep a note</HI> sat <HI>down,</HI></L>
+<L>And groan'd: But up to <HI>Heav'n</HI> had <HI>flown</HI></L>
+<L>In <HI>lofty</HI> numbers; such as might become</L>
+<L>The <HI>Sainted off-spring</HI> of your <HI>happy</HI> wombe.</L>
+<L>I cannot blame your <HI>love,</HI> which did contrive</L>
+<L>So many waies to keep this <HI>Flow'r</HI> alive:</L>
+<L>Though in a lovely <HI>garden</HI> here he <HI>grew,</HI></L>
+<L>Made for such <HI>Flow'rs</HI> alone as <HI>he</HI> and <HI>you:</HI></L>
+<L><PB REF="4">
+Though you did well those <HI>lawfull hopes</HI> to nourish,</L>
+<L>To see him in <HI>this</HI> garden <HI>thrive</HI> and <HI>flourish:</HI></L>
+<L>Though such <HI>endeavours</HI> with <HI>Religion</HI> stand,</L>
+<L>Yet did your <HI>pray'rs</HI> still <HI>contradict</HI> your <HI>hand:</HI></L>
+<L>You wish'd him <HI>blest,</HI> your <HI>own</HI> experience shows</L>
+<L>That no man's <HI>so</HI> before to <HI>heav'n</HI> he goes.</L>
+<L>I know you <HI>grudge</HI> him not his <HI>early</HI> rest,</L>
+<L>Nor think his <HI>blessing lesse,</HI> 'cause <HI>so soon</HI> blest.</L>
+<L>Who <HI>soonest</HI> goes this <HI>journey,</HI> runs his <HI>race</HI></L>
+<L>With as much <HI>ease</HI> as <HI>speed,</HI> and takes his <HI>place</HI></L>
+<L><HI>Highest</HI> in Heav'n; we who stay here <HI>behind,</HI></L>
+<L><HI>Laden</HI> with <HI>sins</HI> and <HI>sorrows,</HI> we shall find</L>
+<L>The <HI>entrance</HI> much more <HI>hard,</HI> and there must be</L>
+<L>Content to sit <HI>lower</HI> by much then <HI>he.</HI></L>
+<L>This is your Blessing, that for <HI>seav'nteen yeares</HI></L>
+<L>You have <HI>possess'd</HI> what now you <HI>lose</HI> with <HI>teares.</HI></L>
+<L>That heav'n <HI>intrusted</HI> you with that <HI>rich prize,</HI></L>
+<L>In <HI>love</HI> of which <HI>it selfe</HI> did <HI>sympathize</HI></L>
+<L>With <HI>you</HI> and <HI>us:</HI> That you have been so long</L>
+<L>His <HI>Nurse,</HI> 'till he can speak the <HI>Angells tongue.</HI></L>
+<L><PB REF="5">
+And beares his <HI>part</HI> in that sweet <HI>quire,</HI> that siug</L>
+<L>Loud <HI>Halleluiahs</HI> to their <HI>God</HI> and <HI>King.</HI></L>
+<L>May that bright <HI>Glory,</HI> which now <HI>Crownes</HI> the <HI>Son,</HI></L>
+<L><HI>Attend</HI> the <HI>Mother</HI> when her race is run!</L>
+<L><HI>There</HI> may you meet <HI>where endlesse</HI> comforts may,</L>
+<L>And <HI>shall</HI> mak't an <HI>aeternall Holiday.</HI></L>
+<L>Till when my <HI>alter'd Calender</HI> shall b<GAP DESC="illegible" EXTENT="2 letters"></L>
+<L>Two <HI>letters</HI> for <HI>this day</HI> in every yeare.</L>
+<L>A <HI>black</HI> one for your <HI>losse,</HI> an other <HI>Red</HI></L>
+<L>To signifie the happy <HI>day</HI> he sped</L>
+<L>In Heav'n; May all the vertuous <HI>family</HI></L>
+<L>Still <HI>live</HI> so <HI>innocent,</HI> so <HI>happy die!</HI></L>
+<L>May Heav'ns warme rayes <HI>revive</HI> your <HI>joies</HI> and keep</L>
+<L>Your <HI>Hopes awake,</HI> untill your <HI>Bodies sleep</HI></L>
+<L>In peacefull Graves, and <HI>all</HI> your <HI>Soules</HI> do flye</L>
+<L>In <HI>triumph</HI> up to <HI>Immortality!</HI></L>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="text">
+<PB N="1" REF="5">
+<HEAD>ON
+The Early, but happy death, of the
+very Hopefull young Gentleman,
+my once most dear, and Honou|red
+friend, GEORGE PITT <ABBR>Esq</ABBR>:
+Dying of an haereditary Consumption
+at 17 yeares of age.</HEAD>
+<L>_THus <HI>flitting</HI> are our <HI>best</HI> of Joyes, and this</L>
+<L>The <HI>misery</HI> attends <HI>too early</HI> blisse;</L>
+<L>To <HI>have</HI> a friend which I must <HI>lose!</HI> O blesse</L>
+<L>Me <HI>(Heavens)</HI> with no such <HI>fading</HI> happinesse!</L>
+<L>Whil'st <HI>here</HI> I breath, O let me <HI>rather</HI> be</L>
+<L>As <HI>free</HI> from <HI>friends,</HI> as <HI>Immortality!</HI></L>
+<L>So shall no <HI>dying joy</HI> to me <HI>bequeath</HI></L>
+<L>A <HI>living sorrow</HI> by its <HI>hasty Death.</HI></L>
+<L>" Sorrow hath to the <HI>height</HI> its selfe <HI>improv'd,</HI></L>
+<L>" When we have <HI>lost</HI> what we can say we <HI>lov'd.</HI></L>
+<L><PB N="2" REF="6">
+What shall I call <HI>my Passion</HI> then, who have</L>
+<L><HI>Bury'd</HI> more then <HI>one</HI> Heaven in <HI>his Grave?</HI></L>
+<L>I <HI>lov'd</HI> and <HI>lost,</HI> to tell you <HI>what,</HI> and <HI>when,</HI></L>
+<L>Were but to <HI>love</HI> and <HI>lose</HI> him <HI>o're</HI> again.</L>
+<L><HI>Great</HI> Griefs are <HI>dumb,</HI> in these <HI>sad</HI> lines I show,</L>
+<L>What 'tis my Griefe <HI>would</HI> say were it <HI>not so.</HI></L>
+<L>What others might call <HI>words, here</HI> are but <HI>weak</HI></L>
+<L>Expressions, onely <HI>signes</HI> that I <HI>would</HI> speak.</L>
+<L>Could I speak <HI>out,</HI> my lines should have no <HI>end,</HI></L>
+<L>My Griefe bee'ng <HI>more</HI> then words can <HI>comprehend.</HI></L>
+<L>And yet no wonder, if each <HI>sigh,</HI> each <HI>teare,</HI></L>
+<L>Falling upon <HI>his dust new-moulded</HI> were,</L>
+<L>And unto <HI>us articulate</HI> now seeme,</L>
+<L><HI>Rebounding</HI> from so <HI>Elegant</HI> a <HI>theme.</HI></L>
+<L>As <HI>Memnon's statue</HI> without <HI>soul</HI> or <HI>sense,</HI></L>
+<L>When <HI>warm'd</HI> and <HI>mov'd</HI> by th' pow'rfull <HI>Influence</HI></L>
+<L>Of Heaven above, did seem in <HI>gratitude</HI></L>
+<L>To <HI>blesse</HI> the power whence 'twas with <HI>life</HI> indu'd:</L>
+<L>So may his <HI>shining</HI> soul, which now is gone</L>
+<L>Triumphant far above the <HI>Stars</HI> and <HI>Sun,</HI></L>
+<L><PB N="3" REF="6">
+Dart down a <HI>Courteous</HI> and <HI>enlivening</HI> ray,</L>
+<L>To <HI>actuate</HI> our <HI>souls,</HI> as those our <HI>clay;</HI></L>
+<L>And make us <HI>such</HI> in<GAP DESC="illegible" EXTENT="1 letter">eed as <HI>he</HI> should have</L>
+<L>All <HI>speaking monuments</HI> about his grave.</L>
+<L>Till then, like one whose <HI>losses</HI> strike him <HI>dumbe,</HI></L>
+<L>With this sad <HI>Paper</HI> on my <HI>brest</HI> I come,</L>
+<L>And <HI>mourne</HI> before thy <HI>Herse,</HI> such Griefe's <HI>exprest</HI></L>
+<L>Best by a <HI>silent tongue,</HI> and <HI>vocall brest:</HI></L>
+<L>For these <HI>sad words</HI> in these <HI>white sheets,</HI> they be</L>
+<L>The <HI>walking Ghosts</HI> of my <HI>dead Po&euml;try.</HI></L>
+<L>Which <HI>haunt</HI> thy <HI>Grave,</HI> the <HI>place</HI> which does enclose</L>
+<L>More of my <HI>treasure</HI> then the world yet <HI>knows.</HI></L>
+<L><HI>More</HI> then I have to <HI>lose</HI> again, and <HI>more</HI></L>
+<L>Then <HI>richest nature</HI> can againe <HI>restore.</HI></L>
+<L><HI>More</HI> then my <HI>hopes</HI> can aime at <HI>here,</HI> or can</L>
+<L>Be recompens'd in one that's <HI>meerly man.</HI></L>
+<L>A <HI>treasure</HI> can indeed no more be <HI>lost</HI></L>
+<L>Then be <HI>forgot,</HI> 'tis but <HI>secur'd</HI> at most:</L>
+<L>Since 't lies so <HI>safe,</HI> what's <HI>left,</HI> I'll cast <HI>all</HI> in;</L>
+<L>This <HI>Mite-devotion</HI> of my <HI>widdow'd Pen.</HI></L>
+<L><PB N="4" REF="7">
+Could <HI>sighs</HI> breath'd out from sorrow's <HI>clouded</HI> nest,</L>
+<L>(Call it <HI>thy living tomb</HI> or <HI>my dead brest</HI>)</L>
+<L>Prevaile and <HI>blow</HI> thee back againe: or <HI>teares</HI></L>
+<L><HI>Shour'd</HI> on thy Corps raise a new <HI>spring</HI> of years:</L>
+<L>Could <HI>Sobbes</HI> and dolefull <HI>groans,</HI> sent from the heart,</L>
+<L>(The <HI>last sad Gasps</HI> wherein our <HI>hopes depart</HI>)</L>
+<L>Or be so pow'rfull, as to mollifie</L>
+<L>The <HI>Fates,</HI> or make <HI>thee</HI> think it <HI>sin</HI> to die.</L>
+<L>Thy <HI>friends,</HI> whom thy <HI>far-spreading</HI> death bereft</L>
+<L>Of Joyes, and <HI>senselesse</HI> as thy <HI>body</HI> left,</L>
+<L>Would <HI>borrow</HI> of <HI>surviving</HI> passion,</L>
+<L>To <HI>antedate</HI> thy <HI>resurrection.</HI></L>
+<L>Could <HI>whitest Innocence</HI> with <HI>sweetnesse</HI> mix'd,</L>
+<L>Could <HI>Piety</HI> in <HI>Resolution</HI> fix'd,</L>
+<L>Could <HI>inward Grace</HI> in <HI>outward beauty</HI> set</L>
+<L>As <HI>true Gold</HI> in a <HI>Gilded Cabinet</HI></L>
+<L>Could <HI>sweetest Inclinations</HI> in a mind</L>
+<L>Not <HI>warp'd</HI> by <HI>favour,</HI> nor through <HI>passion blind;</HI></L>
+<L>Could (what's a <HI>miracle</HI>) a <HI>pious youth</HI></L>
+<L><HI>Ag'd</HI> in Devotion and Religion's <HI>Growth,</HI></L>
+<L><PB N="5" REF="7">
+Could <HI>each</HI> or <HI>all</HI> of these have set a <HI>rate</HI></L>
+<L>Upon a <HI>mortall,</HI> death might <HI>venerate,</HI></L>
+<L>And through <HI>religion</HI> be afraid to weare</L>
+<L>Those <HI>sacrilegious spoils</HI> it now does <HI>here:</HI></L>
+<L>We had <HI>enjoy'd</HI> him longer, and in him</L>
+<L>Those <HI>vertues</HI> which so beautifi'd the <HI>Gemme.</HI></L>
+<L>Wer't thou no more (sweet soul) but as of late</L>
+<L>My <HI>dearest Freind,</HI> I durst <HI>expostulate</HI></L>
+<L>With <HI>death</HI> and <HI>sicknesse,</HI> and thus seem to be</L>
+<L>In danger of a <HI>name</HI> in <HI>Po&euml;try.</HI></L>
+<L>Could <HI>threats</HI> or <HI>flatt'ries, force</HI> or <HI>wooe</HI> the Grave,</L>
+<L>Onely to <HI>take</HI> what <HI>aged nature gave:</HI></L>
+<L>Could dire <HI>Anathemaes</HI> belch'd out with noise</L>
+<L>(The loudest <HI>thunder</HI> of a <HI>Po&euml;t's</HI> voice)</L>
+<L><HI>Fright</HI> death, and <HI>excommunicate</HI> disease</L>
+<L>I'm sure thou had'st not bin so <HI>soon</HI> at ease:</L>
+<L>I know not which had giv'n more cause t' have griev'd</L>
+<L>That now <HI>thou die'st,</HI> or then <HI>so many liv'd.</HI></L>
+<L>Were <HI>vertue</HI> but a <HI>name</HI> in <HI>thee,</HI> no doubt</L>
+<L>Our words might <HI>swell</HI> so <HI>big</HI> as speak it out:</L>
+<L><PB N="6" REF="8">
+Or were our sorrow <HI>passion, Reason</HI> might</L>
+<L>Enter the lists and hope to <HI>win</HI> the fight:</L>
+<L>But 'tis <HI>above</HI> this straine <HI>we</HI> mourne, not one</L>
+<L><HI>Forc'd</HI> Sigh we have, <HI>strain'd</HI> tear, or <HI>modish</HI> Groane.</L>
+<L>Such as the <HI>zealous Hypocrite</HI> puts on</L>
+<L>When he <HI>should</HI> mourn for's <HI>lost</HI> Religion.</L>
+<L>No <HI>mourners of the Poste,</HI> whose Grief's a <HI>trade,</HI></L>
+<L>Who <HI>arm'd</HI> with <HI>Iron words,</HI> so come t' <HI>invade</HI></L>
+<L>Death with their <HI>Execrations, murther</HI> fate</L>
+<L>With <HI>Curses</HI> as <HI>prophane,</HI> as <HI>then too late.</HI></L>
+<L>Our sorrow's <HI>Christian,</HI> and our <HI>verses</HI> be</L>
+<L>Our <HI>due Devotion,</HI> no <HI>starch'd Elegie.</HI></L>
+<L>True, he whose <HI>dryer</HI> soul would boast a <HI>power</HI></L>
+<L>Beyond what's <HI>mortall,</HI> and forbear to <HI>showr</HI></L>
+<L>Down pensive tears upon thy <HI>ashes,</HI> must</L>
+<L>Crumbling to <HI>ashes</HI> too, mix with thy <HI>dust:</HI></L>
+<L>None can but grieve for thy <HI>Mortality</HI></L>
+<L>Except a soul that's <HI>much</HI> more <HI>dead</HI> then thee.</L>
+<L>And yet he only mourns <HI>aright,</HI> that shows</L>
+<L>A soul as <HI>innocent</HI> as <HI>vertuous:</HI></L>
+<L><PB N="7" REF="8">
+As thine, whose <HI>actions</HI> write insteed of <HI>Griefe</HI></L>
+<L>An <HI>harmlesse Comment</HI> on thy <HI>spotlesse life.</HI></L>
+<L>A life so <HI>good,</HI> so <HI>chast,</HI> it seem'd to give</L>
+<L>Us a <HI>short tast</HI> of that which <HI>Angells</HI> live:</L>
+<L>And what's most true in <HI>all Goods here</HI> we meet,</L>
+<L>This was its Commendation, <HI>Short and sweet.</HI></L>
+<L>The <HI>fairest morning</HI> of a man, the <HI>dawn</HI></L>
+<L>Of an aeternall day; On's clay was drawn</L>
+<L>The <HI>lovely'st picture</HI> of a <HI>lovely'r</HI> soul,</L>
+<L>On <HI>this</HI> the <HI>Divine Image</HI> almost <HI>whole.</HI></L>
+<L><HI>Man</HI> in his <HI>stature,</HI> in's <HI>forme</HI> more then <HI>man,</HI></L>
+<L>In purest Innocence a <HI>Christian.</HI></L>
+<L>His nature <HI>soft,</HI> his body such as <HI>stole</HI></L>
+<L>From Heav'n a <HI>lodging</HI> for so sweet a soul.</L>
+<L>Nature (as in the <HI>Ermine</HI>) fairly drew</L>
+<L>His <HI>duties' Embleme</HI> in his <HI>spotlesse hue.</HI></L>
+<L>Who so observ'd that rarest <HI>caution</HI> which</L>
+<L>Appear'd, when e're he was to passe the <HI>ditch</HI></L>
+<L>Wherein too many <HI>welter</HI> and lie <HI>drown'd,</HI></L>
+<L>Chusing the <HI>softest</HI> not the <HI>firmest</HI> ground.</L>
+<L><PB N="8" REF="9">
+Would almost say more then in <HI>Complement</HI></L>
+<L><HI>Nature,</HI> not <HI>vertue</HI> made him <HI>Innocent.</HI></L>
+<L>To see so <HI>young</HI> a soule stand <HI>all alone</HI></L>
+<L>I'th' <HI>world,</HI> as <HI>vertue</HI> 'twixt <HI>two</HI> vices, <HI>one;</HI></L>
+<L><HI>Assaulted</HI> now by one, then by another,</L>
+<L>And neither <HI>leare</HI> to one, nor <HI>cringe</HI> to t'other,</L>
+<L>Made me first see the <HI>businesse</HI> he had</L>
+<L>For Heav'n gave him no <HI>leasure</HI> to be <HI>bad,</HI></L>
+<L>Whose race with so great <HI>haste</HI> to Heav'n was run</L>
+<L>'Twas almost <HI>finish'd</HI> e're we <HI>saw't begun.</HI></L>
+<L>O pious soule! who know'st no paralell,</L>
+<L>To <HI>die</HI> so <HI>young</HI> when yet thou <HI>liv'dst so well!</HI></L>
+<L>To see so choyce a <HI>Gemme</HI> lye <HI>all alone</HI></L>
+<L>Amid st a croud, and yet <HI>caught up</HI> by none</L>
+<L>Must speake a vertue <HI>more</HI> then <HI>naturall</HI></L>
+<L>Which struck that <HI>secret rev'rence</HI> into all.</L>
+<L>To see so faire a <HI>flower</HI> oft beset</L>
+<L>With <HI>weeds</HI> and <HI>thistles,</HI> and to <HI>flourish</HI> yet</L>
+<L>Retain it's <HI>Beauty</HI> and its <HI>sent,</HI> and be</L>
+<L>Ev'n <HI>guarded</HI> by 't's malignant <HI>Enemie,</HI></L>
+<L><PB N="9" REF="9">
+Argues a <HI>vigour</HI> more then <HI>Earth</HI> can <HI>give,</HI></L>
+<L>And more then ought but <HI>Heaven</HI> Could receive.</L>
+<L>Those pritty <HI>tempting</HI> bates which lye and hemme</L>
+<L><HI>Youth</HI> in, and <HI>prey</HI> on those would <HI>feast</HI> on them,</L>
+<L>Could in his more <HI>resolved</HI> Count'nance move</L>
+<L>A <HI>smile</HI> at most, and of <HI>disdain,</HI> not <HI>love.</HI></L>
+<L>Those <HI>thundring Oaths,</HI> the highest <HI>Embloss'd</HI> Pride</L>
+<L>Of <HI>brave</HI> discourse, which the <HI>swolne Deicide</HI></L>
+<L><HI>Enam'lling</HI> all his talke with that <HI>rude grace</HI></L>
+<L>In a <HI>Bravado spits</HI> in Heav'ns pure <HI>face.</HI></L>
+<L>Spread such an <HI>horrour</HI> o're his soule, as't seem'd</L>
+<L>The <HI>tender'st part</HI> of what was thus <HI>Blasphem'd,</HI></L>
+<L>So <HI>constant</HI> at's <HI>Devotion,</HI> as though</L>
+<L>His soule did <HI>nothing</HI> but his Heaven <HI>know.</HI></L>
+<L>How <HI>eas'ly</HI> went that soule to God, each day</L>
+<L>Which made it thus it's <HI>taske</HI> to <HI>learne</HI> that <HI>way!</HI></L>
+<L>For him to goe to Heaven, 'twas no more</L>
+<L>But <HI>trace</HI> the <HI>foot steps</HI> he had made <HI>before:</HI></L>
+<L>Knowing that he must <HI>run,</HI> that <HI>wins</HI> the <HI>Goale,</HI></L>
+<L>It was his care thus <HI>oft</HI> to <HI>breath</HI> his soule.</L>
+<L><PB N="10" REF="10">
+What e're might bring to Heav'n, to him 'twas all</L>
+<L>Becomes so perfectly <HI>habituall</HI></L>
+<L>It was as <HI>hard</HI> for <HI>him</HI> to do <HI>amisse</HI></L>
+<L>As 'twas for <HI>others</HI> to <HI>obtaine</HI> their blisse.</L>
+<L>Where <HI>others</HI> with amazement gaze and spie</L>
+<L>A <HI>Phancy'd</HI> lustre which puts out the eye,</L>
+<L>He <HI>saw,</HI> and seeing <HI>loath'd,</HI> and loathing <HI>shun'd;</HI></L>
+<L>Did not his <HI>reason;</HI> with his <HI>sense</HI> confound.</L>
+<L>His <HI>words</HI> were such, as onely <HI>his</HI> could be</L>
+<L>Sweet <HI>perfumes</HI> breath'd from that rich <HI>Spicery</HI></L>
+<L>Which did <HI>embalme</HI> his soule whil'st here it lay</L>
+<L><HI>Bury'd</HI> within it's <HI>Sepulchre</HI> of clay.</L>
+<L>He liv'd, as if his <HI>arrand</HI> hither were</L>
+<L>To beg of each a <HI>passion,</HI> each a <HI>pray'r.</HI></L>
+<L>So <HI>Heav'nly</HI> were his soul's sweet <HI>motions</HI> all</L>
+<L>To <HI>rest below</HI> had been <HI>unnaturall.</HI></L>
+<L>So doth that <HI>noblest</HI> element of <HI>fire</HI></L>
+<L><HI>Fight</HI> with it's <HI>fuell</HI> and to heav'n <HI>aspire,</HI></L>
+<L>And when that's <HI>vanquish'd,</HI> and it <HI>upwards</HI> gone,</L>
+<L><HI>Lives</HI> the more <HI>pure</HI> though after <HI>seen</HI> by none.</L>
+<L><PB N="11" REF="10">
+His busnesse here below was not to <HI>wast.</HI></L>
+<L>A life, or stay 'till some few <HI>minutes</HI> pass'd;</L>
+<L>All that he came to <HI>doe</HI> was <HI>this,</HI> no where</L>
+<L>He had to leave's <HI>mortallity</HI> but <HI>here.</HI></L>
+<L>His blessed soul came <HI>hither</HI> but to shew</L>
+<L>That all that <HI>goe</HI> to Heav'n must <HI>this way goe:</HI></L>
+<L>Had it been possible a soul should <HI>bound</HI></L>
+<L>So <HI>high</HI> without a <HI>fall</HI> upon the <HI>Ground,</HI></L>
+<L>Could man enjoy aeternall <HI>life,</HI> and not</L>
+<L>First <HI>dye,</HI> then had he never been <HI>forgot:</HI></L>
+<L>Heav'n would have priz'd such <HI>jewells</HI> much more high,</L>
+<L>Then to expose them to each <HI>vulgar eye.</HI></L>
+<L>But since the purest <HI>Di'mond,</HI> e're it stand</L>
+<L>The <HI>pride</HI> and <HI>Glory</HI> of a <HI>Noble</HI> hand</L>
+<L>Must first endure the <HI>file,</HI> and not think much</L>
+<L>T' abide the Lapidarie's <HI>ruder</HI> touch.</L>
+<L>Even so his richer soul now safely <HI>set</HI></L>
+<L>In God's more <HI>wide</HI> and <HI>Glorious Cabinet,</HI></L>
+<L>(<HI>Enamell</HI> rich as those bright Orbes e're wore.)</L>
+<L>Was here plac'd to be <HI>Cut</HI> and <HI>polish'd ore.</HI></L>
+<L><PB N="12" REF="11">
+Such was his entertainment here, that day</L>
+<L>Which <HI>first</HI> gave <HI>life, first</HI> took his <HI>health</HI> away.</L>
+<L>Born but to <HI>practice</HI> his mortallity,</L>
+<L>Only to <HI>learn</HI> how to be <HI>sick</HI> and <HI>dye.</HI></L>
+<L>Nature grew <HI>jealous</HI> at his birth, she saw</L>
+<L>A face so <HI>sweet,</HI> so <HI>brave</HI> a soul, in awe</L>
+<L>Of her own work she stood, and lest it should</L>
+<L>Grow <HI>more</HI> then man, and <HI>deifie</HI> her <HI>mould,</HI></L>
+<L>She sent him not <HI>abroad,</HI> but as we do</L>
+<L>Our <HI>Pris<GAP DESC="illegible" EXTENT="1 letter">ners;</HI> with his churlish <HI>keeper</HI> too.</L>
+<L>His <HI>guard's</HI> a sad disease, which does essay</L>
+<L>To <HI>stifle's</HI> soul in his <HI>infected</HI> clay.</L>
+<L>And when she would have <HI>walk'd</HI> abroad, to view</L>
+<L>What <HI>Nature</HI> made of <HI>old,</HI> or <HI>Art anew,</HI></L>
+<L>Clapp'd <HI>bolts</HI> and <HI>shackles</HI> on each <HI>faculty,</HI></L>
+<L>And made <HI>her life a death, who</HI> could not <HI>die.</HI></L>
+<L>Till <HI>leaning</HI> too too heavy on the <HI>wall,</HI></L>
+<L>It had so <HI>weakn'd,</HI> caus'd at length its <HI>fall:</HI></L>
+<L>And now the joyfull soul <HI>escaped</HI> is</L>
+<L>Into a fair aeternity of blisse.</L>
+<L><PB N="13" REF="11">
+O <HI>Happy</HI> soul, in this thy <HI>misery!</HI></L>
+<L>For having <HI>try'd</HI> so long what tis to die,</L>
+<L>Thou <HI>quickly</HI> did'st thy work, without all <HI>pain,</HI></L>
+<L>And go'st to <HI>rest</HI> aeternally again.</L>
+<L>Whil'st others <HI>drop</HI> or <HI>stumble</HI> in, Heav'ns gave</L>
+<L>Him leave to <HI>walke softly</HI> into this grave.</L>
+<L>Such Flowr's are not <HI>cut</HI> down, but <HI>drawn</HI> up hence</L>
+<L>By their bright Sire's <HI>attractive</HI> influence.</L>
+<L>No sudden <HI>raging</HI> Fever <HI>parch'd</HI> his clay,</L>
+<L>And in an instant <HI>scorch'd</HI> his life away:</L>
+<L>But, as <HI>wax</HI> in the Sun-shine, when't has felt</L>
+<L>That <HI>warmth,</HI> does rather sweetly <HI>yeeld</HI> then <HI>melt.</HI></L>
+<L>And seems to <HI>smile</HI> upon its <HI>kinder</HI> fates,</L>
+<L>And to embrace the <HI>wounding</HI> raies, <HI>dilates</HI></L>
+<L>And kindly <HI>spreads</HI> it's selfe, and <HI>wooes</HI> it's death</L>
+<L>Longing it's <HI>last</HI> embraces to <HI>bequeath:</HI></L>
+<L>So did his <HI>melting</HI> body <HI>yeelding</HI> lie</L>
+<L><HI>Smiling</HI> upon the <HI>Courteous Cruelty</HI></L>
+<L>Of such a <HI>kind</HI> disease, which in each limbe</L>
+<L>Did seem to <HI>wast</HI> it <HI>selfe</HI> much more then <HI>him.</HI></L>
+<L><PB N="14" REF="12">
+Who saw him breath his <HI>last</HI> would conclude thence,</L>
+<L>He <HI>whisper'd</HI> Death <HI>in's eare</HI> to fetch him hence.</L>
+<L>They seemd to strive which should yeeld first of <HI>these,</HI></L>
+<L>His <HI>feeble body</HI> or his <HI>weak disease,</HI></L>
+<L>He did <HI>espouse</HI> his sicknesse, was <HI>in love</HI></L>
+<L>With that which first could seat his soule above.</L>
+<L>Angry with his <HI>Phisitians,</HI> who did try</L>
+<L>To <HI>kill</HI> the <HI>Death</HI> brought <HI>Immortality.</HI></L>
+<L>His sicknesse to his body was born <HI>twin,</HI></L>
+<L>As every <HI>soul</HI> since Adam to it's <HI>sin.</HI></L>
+<L>Such entire <HI>friends</HI> that <HI>both</HI> must be or neither</L>
+<L>Since both were <HI>borne,</HI> both <HI>live,</HI> both <HI>dye</HI> together.</L>
+<L>But why <HI>miscall</HI> we't <HI>sicknesse</HI> or <HI>disease,</HI></L>
+<L>Which is his <HI>Conduct</HI> to aeternall <HI>ease?</HI></L>
+<L>Which Heav'n sent hither with him, lest when <HI>hurl'd</HI></L>
+<L>Now here, now there in a <HI>tumultuous</HI> world,</L>
+<L>He might forget <HI>where</HI> 'twas his bus'nesse <HI>lay,</HI></L>
+<L>This <HI>softly pulls,</HI> and tells him <HI>that's the way.</HI></L>
+<L>If ere it <HI>pinch'd</HI> so hard, as <HI>fetch'd</HI> a groan,</L>
+<L>It quickly sends a <HI>slumber</HI> to atone.</L>
+<L><PB N="15" REF="12">
+The breach of friendship, as an early <HI>taste</HI></L>
+<L>Or soft <HI>praeludium</HI> to aeternall <HI>rest.</HI></L>
+<L>So <HI>like</HI> the <HI>sisters</HI> were in him, his <HI>breath,</HI></L>
+<L>Did onely <HI>tell</HI> us which was <HI>sleep,</HI> which <HI>death,</HI></L>
+<L>His last <HI>successive</HI> breathings did increase</L>
+<L>In such <HI>proportion'd measures,</HI> that to cease</L>
+<L>Did seem Impossible, what e're may be</L>
+<L>The adverse dictates of Philosophy.</L>
+<L>His breathings <HI>pass'd</HI> in such <HI>proportion</HI></L>
+<L>As each <HI>respected</HI> that <HI>aeternall one.</HI></L>
+<L>When by his long disease his patient brest</L>
+<L>Did seem to be more then was fit opprest,</L>
+<L>And made us sometimes over apt to say</L>
+<L>His <HI>spirit</HI> was as <HI>heavy</HI> as his <HI>clay,</HI></L>
+<L>We sinn'd against his <HI>piety</HI> which thus</L>
+<L><HI>Sequestred</HI> from's <HI>malignant</HI> dust and us</L>
+<L>That <HI>purest</HI> soule, which up to Heav'n was <HI>gone</HI></L>
+<L>In holy <HI>raptures</HI> of <HI>Devotion:</HI></L>
+<L>When e're we judg'd him to be <HI>sad</HI> or <HI>dull</HI></L>
+<L>'Twas <HI>absence</HI> but no <HI>heavinesse of soul.</HI></L>
+<L><PB N="16" REF="13">
+He was a <HI>study'ng</HI> whil'st he here did stay</L>
+<L>Onely to make <HI>choice</HI> of a <HI>dying Day.</HI></L>
+<L>And 'twas no wonder, he <HI>dispatch'd</HI> so soon,</L>
+<L>Who <HI>goes</HI> with th' <HI>Sun,</HI> shall come to Heav'n at <HI>noon.</HI></L>
+<L>'Twas not too <HI>soon</HI> to goe <HI>when</HI> God did call,</L>
+<L>His <HI>fruit</HI> was <HI>ripe</HI> before his <HI>flow'r</HI> did <HI>fall.</HI></L>
+<L><HI>Angels</HI> could not too soon their <HI>Hooks</HI> here bring,</L>
+<L>'Tis ever <HI>Harvest,</HI> where there's such a <HI>Spring.</HI></L>
+<L>He saw but <HI>little,</HI> dislik'd <HI>more:</HI> the world</L>
+<L><HI>Unsetled,</HI> alwayes <HI>round</HI> about him <HI>hurl'd;</HI></L>
+<L>To <HI>fixe</HI> there, were not to <HI>stand still</HI> but reel;</L>
+<L>Who would live to be <HI>broake on such a wheele?</HI></L>
+<L>Yet did he try <HI>Towne, Country,</HI> and did see</L>
+<L>Some <HI>Reliques</HI> of an <HI>University:</HI></L>
+<L>But nought could force his stay: much more he might</L>
+<L>Have seen, but strove to be at <HI>home ere night:</HI></L>
+<L>And now no wonder if such <HI>Flow'rs</HI> do <HI>fade</HI></L>
+<L>Set in so <HI>lean</HI> a soyle, so cold a shade</L>
+<L>As is the <HI>barren</HI> world that's here below:</L>
+<L>No such <HI>faire flow'rs</HI> on such <HI>foule dung-hils</HI> grow.</L>
+<L><PB N="17" REF="13">
+Just <HI>blowne</HI> he was when Heav'ns all-searching eye</L>
+<L>In love with's <HI>beauty</HI> and his <HI>fragrancie,</HI></L>
+<L>Streight <HI>plucks him up,</HI> and gives him this new name,</L>
+<L>A <HI>Saint</HI> inth' <HI>Bosome</HI> of blest <HI>Abraham.</HI></L>
+<L>This is his name, And now whom I before</L>
+<L>Did <HI>love</HI> and <HI>honour,</HI> I must learne t' <HI>adore.</HI></L>
+<L>He now has happ'ly chang'd his mortall state,</L>
+<L>And 'twas his <HI>aemulation,</HI> not his <HI>Fate:</HI></L>
+<L>That Death so <HI>early</HI> call'd a soule so chaste,</L>
+<L>Argues his <HI>timely ripenesse,</HI> not <HI>it's haste.</HI></L>
+<L>It was my happinesse when I could call</L>
+<L>Him <HI>friend,</HI> not startled at a <HI>Funerall.</HI></L>
+<L>But since 'tis more his blisse thus to <HI>acquaint</HI></L>
+<L>Himselfe with <HI>Angels,</HI> canoniz'd a <HI>Saint</HI></L>
+<L>By <HI>Death's</HI> owne hand, I must aesteeme it more</L>
+<L>To be his <HI>vot'ry</HI> now, then <HI>friend</HI> before</L>
+<L>He was not borne for us, alas we must</L>
+<L>Not thinke such <HI>Iewels</HI> fitted for our <HI>trust</HI></L>
+<L>His <HI>Goodnesse</HI> was our <HI>losse,</HI> Heav'n often spares</L>
+<L><HI>Lesse</HI> blessings for a <HI>greater terme of yeares:</HI></L>
+<L><PB N="18" REF="14">
+We measure <HI>Good</HI> lives not by <HI>yeares</HI> but <HI>houres,</HI></L>
+<L>'Tis <HI>much</HI> that we can say, he <HI>once</HI> was <HI>ours:</HI></L>
+<L>That we once <HI>saw</HI> him is enough to <HI>boast:</HI></L>
+<L>And 'tis the <HI>noblest bragge</HI> to say <HI>we've lost,</HI></L>
+<L>And yet we have not <HI>lost</HI> our Saint, unlesse</L>
+<L>In an aeternity of Happinesse.</L>
+<L>We well may lose <HI>our selves</HI> in thinking how</L>
+<L>Heav'n is so mindfull of poor things below,</L>
+<L>As <HI>lend</HI> us so long <HI>his</HI> sweet presence, when</L>
+<L><HI>It selfe</HI> thus <HI>picks</HI> him out from <HI>other men.</HI></L>
+<L>So when the Glorious eye of Heav'n doth goe</L>
+<L>To view the wonders which <HI>we call below</HI></L>
+<L>We use to say he <HI>sets</HI> and <HI>falls,</HI> when there</L>
+<L>He's no lesse <HI>high</HI> or <HI>bright</HI> then he was <HI>here:</HI></L>
+<L>His <HI>course</HI> is <HI>one,</HI> and <HI>Constant,</HI> though we call</L>
+<L>What our owne <HI>Nat'rall darknesse</HI> is, <HI>his fall</HI></L>
+<L><HI>Hee's</HI> not of <HI>life,</HI> but <HI>we</HI> of <HI>him</HI> bereft,</L>
+<L>The sorrows we have <HI>found,</HI> those he has <HI>left</HI></L>
+<L>Going to't all the <HI>morning,</HI> now at <HI>Even</HI></L>
+<L>We see him <HI>step over</HI> the <HI>Grave</HI> to Heaven.</L>
+<L><PB N="19" REF="14">
+All joy to <HI>thee</HI> in Heav'n (blest soul!) whil'st <HI>we</HI></L>
+<L>Here weep and groan and <HI>pray</HI> to <HI>rest</HI> with <HI>thee.</HI></L>
+<L>Tis not <HI>thy fate</HI> that we thy friends bemoan,</L>
+<L>Tis not <HI>thy</HI> death, not <HI>thy</HI> losse but our <HI>own.</HI></L>
+<L>We nee'r shall <HI>find</HI> our <HI>joies</HI> again 'till we</L>
+<L>Can die and <HI>lose</HI> our <HI>griefs</HI> in Heav'n with thee.</L>
+<L>But we disturb thy sacred dust, now close</L>
+<L>Wrapt up securely in a sweet repose.</L>
+<L>We not <HI>so</HI> prize thy soul, as hope to <HI>buy</HI></L>
+<L>It back by th' <HI>cheap</HI> expences of an eye.</L>
+<L>Why should'st thou now from all thy joyes <HI>descend,</HI></L>
+<L><HI>Unblesse</HI> thy selfe, so to <HI>reblesse</HI> thy friend?</L>
+<L>When we'd enjoy thee <HI>next,</HI> 'twill be a <HI>light</HI></L>
+<L>Task for <HI>thy sake</HI> to bid the <HI>world</HI> Good-night,</L>
+<L>We <HI>eas'ly</HI> shall passe through the <HI>Grave</HI> and <HI>death</HI></L>
+<L>To <HI>come</HI> to <HI>thee,</HI> we'll <HI>run</HI> quite <HI>out of breath.</HI></L>
+<L>Such pious journeys still successefull be,</L>
+<L>He's sure to <HI>go</HI> to <HI>Heav'n</HI> that <HI>comes</HI> to <HI>thee.</HI></L>
+<EPIGRAPH>
+<Q>Mors iter ad vitam.</Q>
+</EPIGRAPH>
+</DIV1>
+</BODY>
+<BACK>
+<DIV1 TYPE="epitaph">
+<PB N="20" REF="15">
+<HEAD>An EPITAPH on the same.</HEAD>
+<L>ASke you, what's by this <HI>Marble</HI> meant?</L>
+<L>Thus said the soul, which <HI>this way</HI> went.</L>
+<L>Friend, I am <HI>gone,</HI></L>
+<L><HI>There</HI> nothing lies but dust and stone:</L>
+<L>Would'st thou be <HI>here?</HI></L>
+<L><HI>Step in</HI> and leave thy body <HI>there.</HI></L>
+<L>Why at the <HI>door</HI></L>
+<L>Do'st stand and talk? I'm far <HI>before</HI></L>
+<L>Would'st be where I</L>
+<L>Now happy rest? Dispatch and <HI>die</HI></L>
+<L>So shalt thou <HI>be</HI></L>
+<L>that in thy <HI>selfe,</HI> thou <HI>seek'st</HI> in <HI>me.</HI></L>
+<L>Strike through this <HI>stone,</HI> make hast to tast &amp; know,</L>
+<L>What I enjoy, but cannot <HI>tell</HI> thee now.</L>
+</DIV1>
+<DIV1 TYPE="epitaph">
+<PB N="21" REF="15">
+<HEAD>Another.</HEAD>
+<L><HI>KNock</HI> not, but <HI>enter;</HI> why do'st fear?</L>
+<L>His ashes <HI>sleep,</HI> his soul's not <HI>here.</HI></L>
+<L>VVhat <HI>here</HI> thou see'st, this <HI>breathlesse dust</HI></L>
+<L>Liv'd seav'nteen yeares, <HI>Chast, Good,</HI> and <HI>Iust.</HI></L>
+<L>VVhen here it could no <HI>better</HI> be,</L>
+<L>'T went <HI>home</HI> ro Immortallity.</L>
+<L>This <HI>Grave,</HI> which by its death became</L>
+<L>The sole surviver of the<NOTE N="*" PLACE="marg"><HI>PITT.</HI> He being the last heir male of the family.</NOTE> <HI>name,</HI></L>
+<L>VVas left its <HI>Heir,</HI> 'till <HI>that day</HI> when</L>
+<L>These ashes shall <HI>revive</HI> againe;</L>
+<L>And up to those blest mansions sore,</L>
+<L>VVhither the soul went <HI>long before.</HI></L>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+</BACK>
+</TEXT>
+</EEBO>
+</ETS>

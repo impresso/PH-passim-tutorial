@@ -1,0 +1,313 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD EEBOPROOF 2.0//EN">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-08-22</DATE>
+<RESPSTMT>
+<NAME>Marika Ismail</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TYPEs to DIVs in order to validate. Proofed title page(s). Checked for N=""s. Checked for GROUP tags. Checked ^s. Reviewed structure. Checked division-marking material at heads and feet of divisions (HEADS,  CLOSER, OPENER, ARGUMENT, EPIGRAPH, SIGNED, BYLINE, etc.). Checked for signatures. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected ** $s and $word$s etc. of **. Converted __ $$s to GAP DESC="illegible" RESP="[vendor name]". Checked spacing of foreign GAPs.  Checked for LBs. Checked for startqs, endqs, oes, q;s, and Qs. Checked proofsheets and made corrections found there.  Checked for FIGUREs and decorated initials. Checked for missing-page GAPs. Revalidated. </ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="A38518">
+<STC T="W">E3167</STC>
+<BIBNO T="oclc">11847115</BIBNO>
+<VID>49856</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1">
+<PB REF="1">
+<P>AN EPISTLE TO S^r. Richard Blackmore, Occasion'd by The New Session of the POETS.</P>
+<P><FIGURE>
+</FIGURE></P>
+<P><HI>LONDON,</HI> Printed for <HI>A. Baldwin,</HI> in <HI>Warwick-Lane.</HI> MDCC.</P>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="letter">
+<PB REF="2">
+<PB N="3" REF="2">
+<HEAD>AN EPISTLE TO Sir Richard Blackmore.</HEAD>
+<LG>
+<L>NOT that you need Assistance in your Wars,</L>
+<L>Or have receiv'd dishonourable Scars,</L>
+<L>By <HI>Criticks</HI> worried, as by Beasts of Prey,</L>
+<L>Men void of Sense, and full as wild as they;</L>
+<L>Who against Wit Infernal Batt'ries raise,</L>
+<L>And tear with Envy what they ought to praise.</L>
+<L>Yet tho undaunted you maintain the Fight,</L>
+<L>And force your Foes within the Shades of Night,</L>
+<L>Groveling far distant from the Realms of Light,</L>
+<L>Suffer an humble Unexperienc'd Muse</L>
+<L>Your sacred Harp and trembling Strings to use</L>
+<L>(A Muse was only by your Self inspir'd,</L>
+<L>And only by the Heat you gave her, fir'd)</L>
+<L>Who owns what Merit may to her belong,</L>
+<L>Is always due to your Immortal Song.</L>
+</LG>
+<LG>
+<L>How blest, how happy were the Infant days,</L>
+<L>When Poets only sang their Maker's Praise?</L>
+<L>When in united Notes they did reherse</L>
+<L>The mighty Founder of the Universe,</L>
+<L><PB N="4" REF="3">Who forc'd out Light from the Abyss of Shade,</L>
+<L>And this vast Orb of slender nothing made;</L>
+<L>Whose Surface, water'd with Celestial Dew,</L>
+<L>Unto our sight most pleasing Objects threw;</L>
+<L>Of Flow'rs and Herbs a Treasure did unfold,</L>
+<L>Wondrous in shape, and beauteous to behold;</L>
+<L>Whose fertil Womb did every thing produce,</L>
+<L>Which might suffice for Ornament or Use?</L>
+<L>They saw with wonder the amazing Sea,</L>
+<L>How near the Earth it kept its rapid Sway,</L>
+<L>And yet eternal Orders did obey;</L>
+<L>How its vast Waves in wat'ry Mountains rise,</L>
+<L>Whose foaming Pyramids do threat the Skies;</L>
+<L>Lash'd by the Winds, how bulky Billows roar,</L>
+<L>Yet know their Bounds, and break upon the Shoar:</L>
+<L>They saw the Rack dividing from afar</L>
+<L>With weighty Clouds the thinner space of Air;</L>
+<L>Thunder they heard, which thro the <HI>Aether</HI> rang;</L>
+<L>They saw God's Works, and what they saw, they sang.</L>
+</LG>
+<LG>
+<L>The self-same God in antient times did raise</L>
+<L>The Heathen Bards to celebrate his Praise.</L>
+<L>Tho by Eternal Wisdom he was seen</L>
+<L>Only to them with a thick Veil between;</L>
+<L>Yet such their Knowledg, that their Harps they strung,</L>
+<L>And an Eternal Deity they sung;</L>
+<L><PB N="5" REF="3">They taught the Nations its indulgent Sway,</L>
+<L>And by Example drew them to obey:</L>
+<L>They kept their Passions in severest awe,</L>
+<L>And made Lust stoop unto impartial Law;</L>
+<L>When men grew vicious, and enclin'd to Hell,</L>
+<L>They did the Lash of pointed <HI>Satyr</HI> feel.</L>
+<L>Both for their Counsel and their Justice fear'd,</L>
+<L>No vicious Kings or Potentates they spar'd:</L>
+<L>To future Times they did the Truth declare,</L>
+<L>Which were the Lewd, and which the Virtuous were.</L>
+</LG>
+<LG>
+<L>So much we now decline from Virtue's ways,</L>
+<L>The Poet works his Labours into <HI>Plays;</HI></L>
+<L>Each Bard is grown a Mimick or Buffoon,</L>
+<L>And what was <HI>Satyr</HI> once, is now <HI>Lampoon:</HI></L>
+<L>They meanly flatter for the Bread they eat,</L>
+<L>And not by Virtue, but by Crimes grow great.</L>
+</LG>
+<LG>
+<L>'Tis true, your <HI>Genius</HI> was by Fate design'd</L>
+<L>To shew us Virtue and exalted Mind;</L>
+<L>And those blest Paths, alas! we seldom find.</L>
+<L>Like <HI>Daedalus,</HI> an equal distance show,</L>
+<L>You neither soar too high, nor creep too low;</L>
+<L>'Tis natural all, and not attain'd by Force,</L>
+<L>You guide with steddy Reins th' unruly Horse;</L>
+<L><PB N="6" REF="4">Whilst those who neither Rule nor Distance keep,</L>
+<L>Like <HI>Icarus</HI> descend into the Deep.</L>
+<L>To move their Rubbish you your self demean,</L>
+<L>Yet cannot this <HI>Augean Stable</HI> clean;</L>
+<L>The nest of Viper-Criticks there you found,</L>
+<L>Their snaky Heads erect, and hissing round;</L>
+<L>Like the old Serpent, ne'er will they grow wise,</L>
+<L>Nor quit their Venom, but retain their Vice.</L>
+</LG>
+<LG>
+<L>Of all your Foes, the Rhymer of most note</L>
+<L>Is he who the new <HI>Session</HI> lately wrote,</L>
+<L>Who, that his Lines may better pass for Wit,</L>
+<L>Has stamp'd with <HI>Honour</HI> all the stuff he writ.</L>
+<L>If we mistrust him, we are not to blame,</L>
+<L>Who shews his Honour, but conceals his Name;</L>
+<L>No Suit of Scandal can we undergo,</L>
+<L>His mighty <HI>Honour</HI> being <HI>incognito.</HI></L>
+<L>And cou'd we see this wondrous Son of Wit,</L>
+<L>Who late as <HI>Scribe</HI> did to <HI>Apollo</HI> sit,</L>
+<L>I dare believe his Title he'd disown,</L>
+<L>Nor call himself <HI>Apollo</HI>'s hopeful Son:</L>
+<L>In thredbare Verse, perhaps in thredbare Clothes,</L>
+<L>He do's his honourable Wit impose;</L>
+<L>Whose show of <HI>Honour</HI> signifies as much</L>
+<L>As <HI>Citt</HI>'s confin'd within a <HI>Booby-Hutch.</HI></L>
+<L><PB N="7" REF="4">Tho he attempts the Regions of the Sky,</L>
+<L>Flutters o'er Earth, nor can ascend on high;</L>
+<L>His Pinions broken, and his Lute unstrung,</L>
+<L>He sings a horrid and confounded Song.</L>
+</LG>
+<LG>
+<L>His mighty <HI>Dr&mdash;n</HI> to the Shades is gone,</L>
+<L>And <HI>Con&mdash;ve</HI> leaves Successor of his Throne:</L>
+<L>Tho long before his final <HI>Exit</HI> hence</L>
+<L>He was himself an abdicated Prince,</L>
+<L>Disrob'd of all Regalities of State,</L>
+<L>Drawn by a <HI>Hind</HI> and <HI>Panther</HI> from his Seat:</L>
+<L>Heir to his Plays, his Fables and his Tales,</L>
+<L><HI>Con</HI>&mdash;is the <HI>Poetick Prince of Wales;</HI></L>
+<L>Not at <HI>St. Germains,</HI> but at <HI>Will</HI>'s his Court,</L>
+<L>Whither the Subjects of his Dad resort;</L>
+<L>Where Plots are hatch'd, and Councils yet unknown,</L>
+<L>How young <HI>Ascanius</HI> may ascend the Throne,</L>
+<L>That in despite of all the <HI>Muses</HI> Laws</L>
+<L>He may revenge his injur'd Father's Cause.</L>
+</LG>
+<LG>
+<L>Go nauseous Rhymers, into Darkness go,</L>
+<L>And view your <HI>Monarch</HI> in the Shades below,</L>
+<L>Who takes not now from <HI>Helicon</HI> his Drink,</L>
+<L>But sips from <HI>Styx</HI> a Liquor black as Ink;</L>
+<L>Like <HI>Sisyphus</HI> a restless Stone he turns,</L>
+<L>And in a Pile of his own Labours burns;</L>
+<L><PB N="8" REF="5">Whose curling Flames most ghastly Fiends do raise,</L>
+<L>Supply'd with Fuel from his impious Plays;</L>
+<L>And when he fain would puff away the Flame,</L>
+<L>One stops his Mouth with bawdy <HI>Limberham:</HI></L>
+<L>There, to augment the Terrors of the Place,</L>
+<L>His <HI>Hind</HI> and <HI>Panther</HI> stare him in the Face;</L>
+<L>They grin like Devils at the cursed Toad,</L>
+<L>Who made 'em draw on Earth so vile a Load.</L>
+<L>Cou'd some Infernal Painter draw the Sight,</L>
+<L>And once transmit it to the Realms of Light,</L>
+<L>It might our Poets from their Sins afright:</L>
+<L>Or cou'd they hear how there the Sons of Verse</L>
+<L>In dismal Yells their Tortures do express;</L>
+<L>How scorch'd with Ballads on the <HI>Stygian</HI> Shoar,</L>
+<L>They Horrors in a dismal <HI>Chorus</HI> roar;</L>
+<L>Or see how th' <HI>Lawreat</HI> do's his Grandeur bear,</L>
+<L>Crown'd with a Wreath of flaming Sulphur there.</L>
+</LG>
+<LG>
+<L>Tho <HI>Con</HI>&mdash;may in time, when he has merit,</L>
+<L>The Prophet's Throne in peaceful sway inherit,</L>
+<L>The Poets all with one consent agree</L>
+<L>His Mantle falls to <HI>G</HI>&mdash;by Destiny,</L>
+<L>Who did whilst living wear his Livery;</L>
+<L>Who never did a Hero form in Verse,</L>
+<L>But what he fashion'd still in <HI>Dr&mdash;n</HI>'s Dress;</L>
+<L><PB N="9" REF="5">Like him's ill-natur'd, and abounds in spleen,</L>
+<L>As if his nat'ral Issue he had been;</L>
+<L>Like him's Malicious, Envious, and Uncivil,</L>
+<L>The three good Properties of Mr. Devil,</L>
+<L>Which <HI>Dr&mdash;n</HI> held unto the very last,</L>
+<L>Improv'd in Malice as his Life did wast:</L>
+<L>His dying <HI>Epilogue</HI> with Curses cramm'd,</L>
+<L>Has both the <HI>Arthurs,</HI> and their Author damn'd.</L>
+<L>No one so fit as <HI>G</HI>&mdash;in all the Nation</L>
+<L>T' harangue the Crowd in Funeral Oration:</L>
+<L>That nauseous Crowd of Mourners, void of Brains,</L>
+<L>Stood more in need of <HI>Ty&mdash;ns</HI> Bedlam Pains.</L>
+</LG>
+<LG>
+<L>The former Times produc'd prodigious Men</L>
+<L>During the Reigns of <HI>Chaucer</HI> and of <HI>Ben,</HI></L>
+<L>Who show'd a Virtuous and exalted Mind,</L>
+<L>Which from that time has ever since declin'd.</L>
+<L><HI>Cowley</HI> indeed endeavour'd to retrieve</L>
+<L>The Fame of Verse, and Life to Virtue give;</L>
+<L>But that vile Age was in a League with Hell,</L>
+<L>And he in the Attempt successless fell.</L>
+<L>A Court debauch'd, a Theatre profane,</L>
+<L>Were all the Blessings of that virtuous Reign:</L>
+<L>Poets themselves by Lewdness then did raise,</L>
+<L>By servile Flatt'ry, and by fulsom Praise;</L>
+<L>He then wrote best, that made the lewdest Plays.</L>
+</LG>
+<LG>
+<PB N="10" REF="6">
+<L>The Poet now the self-same method takes,</L>
+<L>His Reason, Virtue, and his God forsakes,</L>
+<L>Declines Instructions of the Good and Wise,</L>
+<L>By Vanity and Vice attempts to rise;</L>
+<L>Some Packhorse for a <HI>Pegasus</HI> he strides,</L>
+<L>And stumbles on Preferment as he rides.</L>
+<L>No matter how unfurnish'd be his Scull,</L>
+<L>Be he a Sot, incorrigibly dull:</L>
+<L>If some lewd Courtier he can meanly praise,</L>
+<L>He never fails of Honour and the Bays.</L>
+<L>Thus <HI>St&mdash;ey</HI> rose to be a Chit of State,</L>
+<L>And <HI>Pr&mdash;r</HI> grew magnificently great;</L>
+<L><HI>P&mdash;r,</HI> who was with <HI>M&mdash;ue</HI> ally'd,</L>
+<L>For by their Hands the <HI>Hind</HI> and <HI>Panther</HI> dy'd;</L>
+<L>They both in Partnership the Monsters shot,</L>
+<L>But <HI>M&mdash;ue</HI> the praise of Conquest got.</L>
+</LG>
+<LG>
+<L>Great <HI>M&mdash;ue,</HI> the wonder of the Nation,</L>
+<L>Only a Poet is by Imputation,</L>
+<L>And others Works of Supererrogation.</L>
+<L>Haughty and proud, he highly do's disdain</L>
+<L>To bless us with the Labours of his Brain.</L>
+<L>When e'er we see a Comet in the Sky,</L>
+<L>We strait conclude some Potentate will die;</L>
+<L><PB N="11" REF="6">So when the stormy Winds come puffing on,</L>
+<L>Disturb the Waters of smooth <HI>Helicon,</HI></L>
+<L>This Mountain Poet does bring forth a <HI>Mouse,</HI></L>
+<L>Larger and bigger than a Souldiers Louse.</L>
+<L>What need he write to make Mankind abhor him,</L>
+<L>Who has so many Bards to scribble for him?</L>
+<L>Not one dares boggle, or his Patron lash,</L>
+<L>Who has the hap to keep the <HI>Muses</HI> Cash,</L>
+<L>Which bribes into his Service all the Rhymers,</L>
+<L>The <HI>Sonneteers</HI> and little <HI>Dogrel</HI> Chimers;</L>
+<L>Yet always culls amidst the Multitude</L>
+<L>Such as are very dull, or very lewd.</L>
+<L>He plants fresh Laurels for each Impious Head,</L>
+<L>And builds fine <HI>Tombs</HI> and <HI>Statues</HI> for the Dead.</L>
+<L>But what vile Bard will e'er lament his Fall,</L>
+<L>Or write a Poem on his Funeral?</L>
+<L>He like a Tyrant on the Earth will drop,</L>
+<L>And no one deign to take the Monster up.</L>
+</LG>
+<LG>
+<L>Some Fumes of Claret do from Hogsheads drown,</L>
+<L>Such as <HI>Ned W&mdash;d,</HI> or libelling <HI>Tom Br&mdash;n;</HI></L>
+<L>Others being made of different sort of Metal,</L>
+<L>Are leud as <HI>De&mdash;is,</HI> or as dull as <HI>Sc&mdash;le;</HI></L>
+<L>Yet all in Council do together sit</L>
+<L>How to dethrone the beamy God of Wit;</L>
+<L><PB N="12" REF="7">How to defame all virtuous Men that write,</L>
+<L>They rally Forces, and their Strength unite.</L>
+</LG>
+<LG>
+<L>This, Sir's your Fate, curs'd <HI>Criticks</HI> you oppose,</L>
+<L>The most Tyrannical and cruel Foes:</L>
+<L><HI>Dr&mdash;n</HI> their Huntsman dead, no more he wounds,</L>
+<L>But now you must engage his Pack of Hounds.</L>
+<L>So have I seen an <HI>English</HI> Mastiff pass</L>
+<L>Along the Streets with a Majestick Grace;</L>
+<L>The little Dogs come barking from their Cell,</L>
+<L>And whine and growl with a confounded Yell;</L>
+<L>The num'rous Crowd on the bold Mastiff stare,</L>
+<L>And think each minute he the Curs will tear,</L>
+<L>When he who with his Jaws might have undone 'em,</L>
+<L>Lift up his Leg, and only piss'd upon 'em.</L>
+</LG>
+<LG>
+<L>You need not value what the <HI>Criticks</HI> say,</L>
+<L>Keep on your Course, and lead in Virtue's way:</L>
+<L><HI>Col&mdash;r</HI> already has undone the Stage;</L>
+<L>But if you strive to mend this vicious Age,</L>
+<L>You must with <HI>Ty&mdash;n,</HI> Sir, employ your Pains,</L>
+<L>And try if you can cure their want of Brains.</L>
+</LG>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+</BODY>
+<BACK>
+<DIV1 TYPE="publisher's advertisement">
+<HEAD>POEMS lately publish'd, and sold by <HI>A. Baldwin.</HI></HEAD>
+<P>The Dream, To Sir <HI>Charles Duncomb,</HI> Alderman of <HI>London.</HI></P>
+<P>A Description of <HI>Dryden</HI>'s Funeral, <HI>3d</HI> Edition.</P>
+<P>The Way to Heaven in a string; or Mr. <HI>Asgill</HI>'s Argument burlesqu'd.</P>
+<PB REF="7">
+</DIV1>
+</BACK>
+</TEXT>
+</EEBO>
+</ETS>

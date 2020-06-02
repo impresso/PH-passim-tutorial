@@ -1,0 +1,3294 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD EEBOPROOF 2.0//EN">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-09-03</DATE>
+<RESPSTMT>
+<NAME>Olivia Bottum</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TYPEs to DIVs in order to validate. Proofed title page(s). Checked for N=""s. Checked for GROUP tags. Checked ^s. Reviewed structure. Checked division-marking material at heads and feet of divisions (HEADS,  CLOSER, OPENER, ARGUMENT, EPIGRAPH, SIGNED, BYLINE, etc.). Checked for signatures. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Converted 209 $-groups to GAP DESC="illegible" RESP="tech". Checked spacing of foreign GAPs.  Checked for LBs. Checked for startqs, endqs, oes, q;s, and Qs. Checked proofsheets and made corrections found there.  Checked for FIGUREs and decorated initials. Checked for missing-page GAPs. Revalidated. </ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="A10327">
+<STC T="S">20610</STC>
+<BIBNO T="umi">99850783</BIBNO>
+<VID>16010</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1">
+<PB REF="1">
+<P>AN
+EXCELLENT
+Oration of that late fa|mously
+learned <HI>Iohn Rai|nolds,</HI>
+D. D. and Lecturer
+of the <HI>Greek</HI> tongue
+in <HI>Oxford.</HI></P>
+<P>Very usefull for all such as affect
+the studies of <HI>Logick</HI> and <HI>Phi|losophie,</HI>
+and admire pro|fane
+Learning.</P>
+<P>Translated out of Latine in|to
+English by <HI>I. L.</HI>
+Schoolmaster.</P>
+<Q>Thy wisdoms and thy knowledge have caused
+thee to rebell.</Q>
+<BIBL>Isa. 47. 10.</BIBL>
+<P>LONDON,
+Printed by <HI>Tho. Harper</HI> for <HI>Thomas
+Slater</HI> and <HI>William Aderton,</HI> and are
+to be sold at their shops in
+Duck-lane, 1638.</P>
+</DIV1>
+<DIV1 TYPE="to the reader">
+<PB REF="2">
+<PB REF="2">
+<HEAD>To the well affe|cted
+Christian
+Reader.</HEAD>
+<P><HI>_ANatomists</HI> do
+write, that in
+the brain of
+man, there is a <HI>Rete
+mirabile,</HI> an admirable
+Net, that is, an heape
+and conjugation of
+<HI>Arteries,</HI> that for the
+<PB REF="3">
+many windings, tur|nings,
+and intricate
+foldings cannot be a|natomized;
+and so in|deed,
+as if that of the
+body were to signifie
+that of the minde; in
+the wit and wisdome
+of man there is a <HI>Rete
+mirabile,</HI> an admira|ble
+net, a heape and a
+co~jugatio~ of manifold
+infolded Subtilties,
+which for the Maean|drian
+windings and
+turnings, and intricate
+devices cannot be
+<PB REF="3">
+be anatomized; with
+this admirable net the
+pernicious perverters
+of Learning&punc; do catch
+the poor fish and foul
+they deal withall. But
+if ever this net was
+discovered; and that
+monstrous <HI>Sphynx</HI> of
+corrupted knowledge
+e<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ploded to the
+World, this our Eng|lish
+<HI>Oedipus</HI> that <HI>Atlas</HI>
+of Learning (as<NOTE N="*" PLACE="marg"><HI>Sir</HI> <GAP DESC="illegible" RESP="tech" EXTENT="1 span"></NOTE> one
+stiles him) Reveren<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+<HI>Rainolds</HI> hath (as I
+<PB REF="4">
+think) in this most ex|quisite
+and pathetical
+Oration sufficiently
+and perspicuously ef|fected,
+insomuch that
+(in my opinion) that
+<NOTE N="*" PLACE="marg">In Techno|matrian A|<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">es<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">.</NOTE> <HI>Eulogie</HI> may very
+well suit to this Ora|tion,
+<Q><P>Huc usque turpi nubilo
+pressum caput,</P>
+<P>Inter que cunas artium
+pect us rude vincti te|nemus.</P>
+<P>Nunc illa rerum mon|stra
+<PB REF="4">
+ridemus, Chaos
+Cacumque pondus, sole
+perfusi novo.</P></Q></P>
+<P>Englished thus.</P>
+<P>Till now an ugly
+cloud our heads and
+hearts</P>
+<P>Opprest, and in the
+Cradles of the Arts
+Were tyed fast.</P>
+<P>But with a new Sun
+beam<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> our eyes made
+ope,</P>
+<P>Now see that Chaos,
+which wee late did
+grope,</P>
+<P><PB REF="5">
+And laugh at it at last.</P>
+<P>But notable is that
+testimony of a grave
+and learned Divine,<NOTE PLACE="marg"><HI>H<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">n. I<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ck|son</HI> in his Epistle prefixed to this O|ration.</NOTE>
+which may very wel
+excite thee (Courte|ous
+Reader) to the
+reading, as it did part|ly
+induce mee to the
+version of this Orati|on.
+<HI>Vt enim Academi|cis
+&amp; nobis, qui egre|gia
+ipsius sanctitatis &amp;
+pietatis certamina ad|mirati
+sumus difficile
+<PB REF="5">
+fuit judicare, an vir
+melior, vel doctior ille
+fuerit; ita illi qui Orati|ones
+hasces<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ri<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> legerint,
+haerebunt, (opinor) ali|quandi&ugrave;,
+an ipsi ex ea|rum
+lectione doctiores
+vel meliores evaserint.</HI>
+For as it was an hard
+matter both for the
+Vniversity and us,
+who have admired
+the Conflicts of his
+rare holines and pie|ty
+to determine, whe+ther
+hee excelled in
+<PB REF="6">
+learning or in good|nesse;
+so they who
+shall seriously reade
+these Orations wil be
+in some doubt awhile
+(I thinke) whether
+they are become bet|ter
+men, or better
+Schollars by reading
+them.</P>
+<P>Then pitty it were
+surely, that the Cabi|net
+of the Latine
+tongue should locke
+up so rich a Treasure,
+or that the shel of one
+<PB REF="6">
+Language should ex|clude
+many (though
+not expert in the La|tine
+tongue, yet judi|cious
+to apprehend)
+from participating of
+this delectable kernel
+of sound Learning &amp;
+pious affectio~. I have
+therfore according to
+my poor skill turned
+this one into English,
+hoping that I shall be
+found <HI>fidus Interpres,</HI>
+in rendring the genu|ine
+sense &amp; true mea|ning
+<PB REF="7">
+thereof, though
+my stile be not equi|valent
+either to the
+we<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ght of the argu|ment,
+or to the <HI>Cicero|nian</HI>
+sweetnesse, and
+eleganc<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">e of the Ori|ginall
+As for the usu|all
+Cavils against
+Translations of pro+fitable
+things, let that
+most learned <HI>Andraeas
+Hyperius</HI> answer for
+me,<NOTE PLACE="marg">* In his Book <GAP DESC="illegible" RESP="tech" EXTENT="1 span"> <HI>con|cion.</HI></NOTE> <HI>An exact Trans|lation</HI>
+makes things
+so perspicuous, that
+<PB REF="7">
+it deserveth to bee e|steemed
+instead of a
+Commentary.</P>
+<P>But howsoever I
+expect not to escape
+the stings of Censure
+especially of the com|mon
+adversaries of
+the Truth (the vindi|cating
+wherof is the
+very Center of this
+<HI>Oratio~</HI>) yet this is my
+Comfort, that I have
+in this point kept
+within the Circle of
+my calling, and im|ployed
+<PB REF="8">
+my small Ta|lent
+for the publique
+good. So farewell.</P>
+<CLOSER><SIGNED>Thine in the
+common faith,
+<HI>Iohn Leycester.</HI></SIGNED>
+<DATELINE><DATE>Aprill 30. 1638.</DATE></DATELINE></CLOSER>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="text">
+<PB N="1" REF="8" MS="y">
+<HEAD>THE
+ORATION.</HEAD>
+<P>_IF any here
+present in
+this As|sembly,
+(honou|red
+<HI>Auditors)</HI> seeing hee
+hath not heard what I
+have formerly expound|ed
+in <HI>Aristotles Rhetori<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ques,</HI>
+may perhaps mer|vaile
+what moved mee,
+who have taken upon me
+<PB N="2" REF="9">
+the <HI>Lectureship</HI> of the
+<HI>Greek</HI> tongue&punc; to discourse
+of <HI>Aristotles Summum Bo|num,</HI>
+when the same par|ty
+heares the <HI>Blessednesse</HI>
+spoken of by <HI>Aristotle</HI> to
+be now explaned by me,
+and that it ought of neces|sity
+bee taught, that yee
+may both know how to
+perswade aright, &amp; what
+the proper end of good
+things is, let him not dis|like
+the reason that mo|ved
+me, but let him attend
+to the matter now in
+handling. After hee per|ceives,
+that it is the drift
+of my discourse to shew
+<HI>Aristotles</HI> e<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">roneous opi|nion
+<PB N="3" REF="9">
+concerning <HI>Su~mum
+Bonum,</HI> hee will (I feare
+me) in his thoughts con|demne
+my drift and pur|pose,
+that I, but a young
+man, should so transgresse
+against the fashion of the
+<HI>Vniversitie,</HI> as to cry
+downe <HI>Aristotles</HI> credit.
+But when he shall under|stand,
+that I am enjoyned,
+as I am a publike Teach|er,
+to deliver sound and
+true opinions, not errors
+in the expounding of Au|thors,
+I hope hee will not
+censure mee too hardly.
+Will hee demand what
+reasons induced me to be
+of a contrary opinion to
+<PB N="4" REF="10">
+most of <HI>Aristotles</HI> Inter|preters
+now a days? Tru|ly,
+if I have any judgment
+at all, the vulgar and tri|viall
+Expositors of <HI>Ari|stotle</HI>
+do always, as much
+as they can, and some|times
+more then they
+ought, adhere unto him in
+their expositions. And e|ven
+as the <HI>Romans</HI> did
+highly extoll all <HI>Neroes</HI>
+actions, yea his Villanies,
+as sacred; in like manner
+they, as it were appro|ving
+al <HI>Aristotles</HI> sayings,
+though never so false, doe
+greatly applaud him. I be|ing
+therfore very inquisi|tive
+after the truth, when
+<PB N="5" REF="10">
+I had perused such writers
+as were not so much in|clined
+to <HI>Aristotle,</HI> I was
+upon sundry good grou~ds
+induced to believe, that <HI>A|ristotle</HI>
+was greatly decei|ved.
+For I did not onely
+rest upon the opinions of
+<HI>Ludovicus Vives,</HI> and
+<HI>Peter Martyr</HI> (as some
+malicious persons do ob|ject)
+whose authority not|withstanding,
+I doe, (as I
+ought) much esteeme of;
+but omitting others, who
+have handled this point
+before <HI>Vives</HI> and <HI>Martyr,</HI>
+both <HI>Talaus</HI> &amp; <HI>Fox</HI> have
+of set purpose lately con|futed
+this <HI>Blessednesse of
+<PB N="6" REF="11">
+Aristotles.</HI> And those an|cient,
+and excellent men
+have long agoe so con+demned
+it, that <HI>Gregorie
+Nazi<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">nze<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"></HI> calls it con|temptible
+and base&punc; <HI>Euse+bius</HI>
+unreasonable &amp; false&punc;
+<HI>Ambrose, Augustine, Ori|gen,
+Lactantius, Gregorie Nyssen</HI> call it very fooli<GAP DESC="illegible" RESP="tech" EXTENT="2 letters"> in part, and all of them do
+fl<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">tly affi<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">me it to be con|trary
+to tru<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">h and piet<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">e.
+Whose authoritie when
+it is confirmed by Christ
+himselfe, who alone, w<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">th+out
+any other&punc; ought to
+be imbraced <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> all autho+rities
+in the World let no
+man think it strange, that
+<PB N="7" REF="11">
+I had rather concuire in
+opinion with such and so
+great Clerks, then to hold
+an errour with <HI>Aristotle.</HI> I
+heartily wish, that this o|pinion
+were well setled in
+your minds, <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">s both rea|son
+and Religion doe re|quire;
+that so, I might
+have lesse trouble in spea|king,
+and you lesse irke|somnesse
+in heating those
+things, which should be
+as well pleasing, as they
+are wont to be distastfull
+unto you. But because this
+conceit is so deeply roo|ted
+in you, namely, that
+<HI>Aristotles</HI> opinion, which
+hath been approved and
+<PB N="8" REF="12">
+defended with the great
+labour and pains of so ma|ny
+learned Interpreters
+cannot be shaken; I wish
+you not sodainly to lay a|side
+this conceit of yours,
+although you see it so
+strongly opposed by so
+many, and so great autho|rities;
+onely I crave, that
+you wold not obstinately
+prejudicate those things
+which I shal speak against
+it. I suppose, that such, as
+are not obstinately bent
+in defending <HI>Aristotle,</HI>
+will grant, that so great
+authorities have some
+weight, but yet they will
+deny, that <HI>Aristotles</HI> opi|nion
+<PB N="9" REF="12">
+can be co~futed with
+any Arguments drawne
+from his own Principles.
+I will not complain, that I
+am hardly dealt withall
+by them, who will have
+the question decided by
+those Principles, which
+being falsly framed have
+caused this false opinion,
+which I so dislike, especi|ally
+when <HI>Aristotle</HI> him|selfe
+useth first of all to
+shake the opinio~s of those
+Philosophers he contra|dicts
+in the fundamentall
+points, before he confutes
+them; as we may observe
+in <HI>Plato's Idea.</HI> But yet I
+will accept of this condi|tion,
+<PB N="10" REF="13">
+to prove <HI>Aristotle</HI> to
+be in a manifest errour by
+his own Principles. But
+because there are some o|ther
+things, which for the
+present doe more concern
+us&punc; I intreat your patience,
+that the handling of this
+point may be deferred till
+another time; for as the
+husbandman, when hee
+intends to til his ground,
+that is overrunne with
+briats and thornes, doth
+first rid the ground of
+them, that hee may the
+more conveniently pro|ceed
+in his tillage, &amp; sow
+his seed; even so, before
+your mindes can be setled
+<PB N="11" REF="13">
+in the true opinion of
+<HI>Summum Bonum,</HI> some
+distinctions, which, (like
+thornes and briars) have
+encumbred them, must be
+removed; that so the see<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+of truth may take deeper
+root, and spring up more
+fruitfully.</P>
+<P>For there is risen up in
+this last age of the world,
+a sort of men unknowne
+to the Ancients, &amp; hated
+of the Learned, who, not
+out of any desire to si<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">t
+out the truth, but to con|firme
+their own perverse
+opinions, would bee
+thought of ignorant peo|ple,
+in their rufflin<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> dis|putes,
+<PB N="12" REF="14">
+to defend grosse
+absurdities with their no
+lesse absurd, and foolish
+distinctions; in very deed
+they doe expose them to
+the judgement of all wise
+men to bee laughed at.
+There was one <HI>Callico</HI> (as
+<HI>Eustathius</HI> reports) none
+of the wisest, when hee
+went to sleepe, used to lay
+a brasse pot under his
+head for a pillow; an hard
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">olster sure, but very fit
+for his doltish pate; at the
+last awaking, and not ve|ry
+well pleased with his
+hard pillow, hee filled the
+pot with straw, to make it
+softer; the pot certainly
+<PB N="13" REF="14">
+was not softer, but it was
+enough for <HI>Callico,</HI> all the
+while the fool perswaded
+himselfe that it was softer.
+After the same manner,
+when we seek for case and
+rest to our perplexed
+mindes; certaine pa<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">try
+<HI>Philosophers</HI> do put under
+them this leaden <HI>Blessed|nesse</HI>
+of <HI>Aristotles,</HI> &amp; when
+they c<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">mplain it is very
+hard, t<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">y fill it with the
+Chaffe <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">f Distinctions, &amp;
+perhap<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> they perswade
+themselves, that it is sof|<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">er,
+when neverthelesse, it
+is a leaden lumpish <HI>Bles|sednesse</HI>
+still. Whose bloc|kisnesse
+is so much the
+<PB N="14" REF="15">
+more worthy blame, be|cause
+that out of an obsti|nate
+wilfulnesse of uphol|ding
+<HI>Aristotle,</HI> they do so
+labour to reconcile the o|pinions
+of other Philoso|phers
+dissenting in the
+very judgement of <HI>Ari|stotle</HI>
+himselfe, that even
+as <HI>Proteus,</HI> sometime a
+stone, by and by a stock,
+anon fire, then again wa|ter.</P>
+<Q>Omnia transformant se|se
+in m<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">racula rerum.</Q>
+<P>They change the~selves
+to wo~derments of things.
+So these men are some|times
+<HI>Stoicks,</HI> by and by
+<HI>Epicureans,</HI> anon <HI>Plato|nicks,</HI>
+<PB N="15" REF="15">
+then again <HI>Aristip|pians,</HI>
+and yet wholy <HI>Pe|ripateticks,</HI>
+and so it see|meth
+they would be all
+things and nothing. <HI>Cice|ro</HI>
+laughs at <HI>L. Gellius,</HI>
+who, when he came <HI>Pro|consul</HI>
+into <HI>Greece,</HI> called
+together all the <HI>Philoso|phers</HI>
+in <HI>Athens,</HI> and ex|horted
+them earnestly to
+leave off all wranglings,
+and to spend no more
+time in contentions,
+which if they would
+promise to doe, he promi|sed
+likewise to hold with
+them in opinion. But are
+not <HI>Distinguishers</HI> like un+to
+this <HI>Gellius?</HI> They see
+<PB N="16" REF="16">
+well enough, that Philo|sophers
+do dissent in opi|nion?
+and what then?
+they, like pittifull men,
+go about to reduce them
+to an unity on equall con|ditions.
+But, because an
+unskilfull person does un|dertake
+the businesse, it is
+the more ridiculous; And
+must the busines be quite
+done &amp; finished, because
+they make <HI>Aristotle</HI> the
+Iudge? Wheras, if those
+ancient Philosophers <HI>Pla|to,
+Aristotle,</HI> and <HI>Tully</HI> did
+but heare a<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ter what man|ner
+their own repugnant
+opinions, are accorded
+now adayes, it is to bee
+<PB N="17" REF="16">
+doubted whether they
+would laugh or chafe at
+it. But if you please let us
+produce some one of these
+<HI>Distinguishers,</HI> which can
+defend the matter to their
+faces. Whom will yee
+have then, <HI>Buridanus,</HI> or
+<HI>Bricottus?</HI> I know ye can|not
+understand them, if
+they spake. Whom ther|fore
+wil ye have? whom?
+<HI>Donatus Acci<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">iolus</HI> the
+<HI>Florentine,</HI> both more e|loquent,
+then the rest,
+and better acquainted
+with you; who, if hee
+should appeare in place,
+and behold these Philoso|phers
+standing here with
+<PB N="18" REF="17">
+<HI>Cicero,</HI> he would perhaps
+thus accoast them. Why
+are yee thus in an uprore,
+and perplexity, O yee
+Philosophers? why are ye
+thus distracted with seve|rall
+opinions about <HI>Sum|mum
+Bonum?</HI> What, do
+yee not know, how that
+all your jar<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ing, and diffe|ring
+opinions may easily
+be reconciled by distin|guishing?
+Have any of
+you wrote any thing con|cerning
+felicity or <HI>Sum|mum
+Bonum,</HI> which (al|though
+it be clean contra|ry
+to all other opinions)
+yet may not be accounted
+true <HI>in his kinde?</HI> I lesse
+<PB N="19" REF="17">
+indeed wonder, that thou
+O <HI>Cicero,</HI> doest not un|derstand
+the Philoso|phers,
+for thou hadst no
+distinctions; Be not osten|ded
+with mee, I say thou
+wantest distinctions. O|therwise
+why doest thou
+teach in thy Books <HI>de Fi|nibus,</HI>
+is in thy first Book,
+that <HI>Epicurus</HI> placed <HI>Su~|mum
+Bonum</HI> in v<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">luptu|ousnes,
+in the third Book;
+that <HI>Zeno</HI> assigned it to
+moral honesty; &amp; in thy
+fifth Book, that <HI>Aristotle</HI>
+placed <HI>Summum Bonum</HI>
+in the comprehension &amp;
+composition of all good
+things internal, and ex|ternall;
+<PB N="20" REF="18">
+Why else didst
+thou refute the first opi|nion
+in the second Book,
+and the second opinion
+in thy fourth Book? Do|est
+thou not understand
+Distinctions, how, and in
+what manner all these o|pinions
+may bee true in
+<HI>their kinde?</HI> For wheras
+<HI>Epicurus</HI> resolves Volup|tuousnes
+to be <HI>Summum
+Bonum,</HI> hee means carnall
+Felicity; <HI>Zeno</HI> Vertue; he
+meanes Felicity simply;
+And whereas <HI>Aristotle</HI>
+ascribes <HI>Summum Bonum</HI>
+to united, and compacted
+good things, hee meanes
+added, or associated Feli|city.
+<PB N="21" REF="18">
+Why didst thou <HI>Ci|cero</HI>
+waste so much labour
+about confuting <HI>Zeno's,</HI>
+and <HI>Epicurus</HI> their opini|ons,
+when with one one|ly
+distinction, they may
+easily be accorded? But
+(O <HI>Aristotle!)</HI> (whom I
+admire as the Philoso|phers
+God) what reason
+hadst thou <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">o to calum|niate
+<HI>Plato's Idaea,</HI> and to
+wrest his meaning, that e|ven
+thy most favourable
+Interpreters do leave thee
+there? Thou wilt perhaps
+acknowledge this one
+fault of thine. But where
+is thy sharpe judgement
+become? Thinkest thou,
+<PB N="22" REF="19">
+that thine opinion ca~not
+be true, unlesse <HI>Plato</HI> be
+con<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ute<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">? Thou <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> wide
+all the World over For I
+in my life time taught, &amp;
+thy <HI>Zuing<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">rus</HI> after my
+death wrote, that thou &amp;
+<HI>Plato</HI> were both in <GAP DESC="illegible" RESP="tech" EXTENT="1 word">
+truth; for his Blessednesse
+was divine, and thine hu|mane,
+his was after this
+life, and thine in this life.
+What, it by distinguish|ing
+I do so reconcile their
+opinions, that differ from
+thine, and thine, whic<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+s<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ems to contradict it sell
+that there shall appear no
+d<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">fference at al<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">? <HI>Eusebius</HI>
+teacheth, that Chr<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">stians
+<PB N="23" REF="19">
+do <GAP DESC="illegible" RESP="tech" EXTENT="1 span"> then B<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">esse<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">|nesse
+in the knowledge &amp;
+worship of God; If wee
+should deny this, wee
+should be accounted im|pious;
+Therefore in thy
+behalf I thus distinguish.
+That is an heavenly <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">les|sednesse,
+and thine a ci|vile
+Blessednesse, that is
+true in Divinity, a<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">d thine
+is true in Philosophy. <HI>He|<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">l<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">us</HI>
+the Philosopher
+pla<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ed his <HI>Summum Bo|num</HI>
+in knowledge; this
+felicity of man consists in
+the minde onely; thy feli<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">city,
+so far forth, as it con|sists
+of body and minde.
+The <HI>Stoicks</HI> assigned fe|licity
+<PB N="24" REF="20">
+to vertue, and hone|sty;
+this also is an active
+felicity; but thine is both
+active and civill. Now
+forsooth thou mayst per|ceive,
+that externall good
+things are sometimes the
+necessary parts, somtimes
+not the parts, but the
+appurtenances of felicity.
+Here we make a medicine
+of simple felicity, &amp; com|pacted
+felicity; <HI>Priamus</HI>
+is not happy with an as|sociated
+happinesse; again
+<HI>Priamus</HI> is happy in mi|sery
+with a single happi|nesse.
+One rub is yet be|hinde;
+wheras in the first
+Booke of thine <HI>Ethicks,</HI>
+thou ascribest an happy
+<PB N="25" REF="20">
+li<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">e to men in action; and
+again in thy tenth Booke,
+thou ascribest it to men in
+contemplation; We will
+decide the controversie,
+we love not contentions;
+Wee allow those active
+blessednesse, and these
+contemplative blessednes.
+And thus, <HI>Aristotle,</HI> thou
+seest the sundry opinions
+of other Philosophers, &amp;
+thine owne to be all true
+in <HI>their kinde.</HI> If <HI>Dona|tus</HI>
+should speake thus,
+what answere doe you
+thinke those Ancients
+would make him? If <HI>Ho|race,
+Zeno, Epicurus</HI> and
+<HI>Plato</HI> were present, they
+<PB N="26" REF="21">
+and all things else would
+rejoyce over him, &amp; give
+<HI>Donatus</HI> hearty thanks in
+the like Verses almost, as
+he gave <HI>Damasippus. Ho|rat
+lib. 2. Satyr.</HI> 3.</P>
+<Q><L>&mdash;Dii te <HI>Donate</HI> Dea&abque;</L>
+<L>Rectum ob judictum do|ment
+tonsore;</L>
+<L>Sed und&egrave; t&agrave;m ben&egrave; distin|guis?</L></Q>
+<Q><L>For thy right judgement
+<HI>Donatus,</HI></L>
+<L>The sexes both divine</L>
+<L>Give thee a Barbers bles|sing
+but</L>
+<L>Where hadst thou such
+fine distinctions?</L></Q>
+<P><PB N="27" REF="21">
+Philosophers would
+much wonder, that a
+foolish fellow understa~ds
+not, that these distinctions
+are frivolous by the very
+definition of <HI>Summum
+Bonum;</HI> which is termed
+of all Philosophers the
+upshot of all things, as
+that, whereon all other
+good things depend, but
+Blessednesse it selfe is
+no where subsisting one|ly
+in GOD. <HI>Cicero</HI>
+would exclaime against
+the words and manners
+of these doltish monsters,
+and tell them, that they
+had disgraced all Philoso|phy
+with their basenesse.
+<PB N="28" REF="22">
+Thus would <HI>Cicero</HI> speak.
+Truly I doe not <HI>(Dona|tus)</HI>
+account thee unlear|ned,
+as I have often done,
+nor brutish, as I have al|ways
+done; but a witlesse
+mad man by thy distin|ctions.
+For certaine it is
+(although the <HI>Dunscotists</HI>
+doe repine at it) that long
+ago I wrote upon the like
+subject, and I doe here a|gain
+recite it; that it may
+very well be, that not one
+of so many severall opini|ons
+of Philosophers is
+true; for how is it possi|ble
+that so many opini|ons,
+so much differing, &amp;
+disagreeing bee all true?
+<PB N="29" REF="22">
+Fire and water may soo|ner
+bee reconciled toge|ther,
+than those opinions,
+which thou so strivest to
+compose. But &ocirc; the times
+we live in! O the manners
+of men now adays!</P>
+<Q>O fortunatam natam me
+Consule <HI>Romam!</HI></Q>
+<P>O daughter <HI>Rome</HI> most
+fortunate, when I was
+Consull there!</P>
+<P>I searched out the true
+Art of reasoning, and did
+apply it to the practice of
+Eloquence; but yee ob|trude
+upon yong Schol|lars,
+<PB N="30" REF="23">
+I know not what,
+monstrous Distinctions,
+and Demonstrations in
+stead of true Logicke, I
+searched out Philosophy
+by the light of Nature,
+living creatures, plants, &amp;
+the probable conjectures
+of God; yee for the most
+part search after nothing
+but certaine trifling con|ceits,
+of motion, time, in|finite,
+empty matter, and
+privation; which you ap|ply
+to no practice, but pul
+in pieces (as it were) with
+your disputations. I have
+declared the severall opi|nions
+of Philosophers
+concerning <HI>Summum Bo|num;</HI>
+<PB N="31" REF="23">
+I have confuted
+them that were false; I ap|proved
+the most proba|ble;
+but you have so trans|formed
+their Opinions
+with your <HI>Medusaean</HI> <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">or|ceries
+of distinctions, that
+if you had pleaded with
+me at the bar, you might
+have maintained by your
+distinctions, that <HI>Clodius</HI>
+was at one and the same
+houre both at <HI>Rome,</HI> and
+<HI><GAP DESC="illegible" RESP="tech" EXTENT="1 letter">erano.</HI> But what doe I
+mean? Let us set aside
+<HI>Cicero</HI> and other Philoso|phers;
+for what doe they
+here? If they should
+come into our Schooles,
+they would bee so trou|bled
+<PB N="32" REF="24">
+with distinctions,
+that they would suppose
+themselves to bee in <HI>Epi|curus</HI>
+middle Worlds, and
+not in the Schools of the
+ancient Arts. Do but ob|serve
+these distinctions,
+they will serve the turne
+very well in the Schooles
+in <HI>Lent. Blessednesse,</HI> di|vine,
+humane, civill, hea|venly,
+simple, associated,
+active, contemplative, car|nall
+spirituall, in this life,
+after this life, according
+to man consisting of soule
+and body, and according
+to man subsisting of soule
+onely; (of soule onely?
+who is that? what? doe
+<PB N="33" REF="24">
+yee aske? The Schollar
+must believe his Master.)
+So farre forth as man is
+of a simple substance, and
+a compound substance, in
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> <HI>Philosophicall truth,</HI> and
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">n a <HI>Theologicall truth, &amp;
+in his kinde;</HI> fifteene di|stinctions
+a very com|pleat
+number of even, and
+odde; marke them well:
+But first of all let <HI>in his
+kinde</HI> be well noted; for
+when all fails, <HI>in suo gene|re,</HI>
+will never faile. <HI>Varro</HI>
+reports, that a man may
+collect 288 severall opi|nions,
+concerning <HI>Sum|mum
+Bonum.</HI> It is very
+strange, if they be not all
+<PB N="34" REF="25">
+true <HI>in their kinde.</HI> Rhe|toricians
+contend, whe|ther
+Rhetoriques proper
+end bee to perswade
+soundly, or to speake ele|gantly
+and neatly; what
+need they trouble them|selves?
+each end is good
+<HI>in his kinde.</HI> Why do we
+make any difference be|tween
+Arts and Sciences
+in their conclusions, for,
+to speak finely, to pro|nounce
+well, or to speak
+rudely, to perswade and
+not to perswade, are
+all Rhetoricall ends in
+their kinde. For, what is
+it to be in action, or con|templation,
+vertue, or vo|luptuousnesse,
+<PB N="35" REF="25">
+the narrow
+path, or the broad path,
+doe they not all tend to
+life <HI>in their kinde?</HI> The
+<HI>Canonists</HI> are hardly cen|sured,
+because they called
+the <HI>Romish Bishop God,</HI> as
+the <HI>Romans</HI> of yore called
+the Emperour <HI>Domitian</HI>
+so. If they had had any
+brains, they might have
+distinguished him to be a
+God <HI>in his kinde:</HI> A mur|thering
+God as <HI>Mars,</HI> or
+God of the <HI>Romans,</HI> as
+<HI>Romulus,</HI> or God of this
+World, as <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">athan is. Doe
+yee not thinke, that the
+Physician does comfort
+his sicke Patient well e|nough,
+<PB N="36" REF="26">
+if he tell him, that
+hee is a sound man <HI>in his
+kinde?</HI> Surely these fel|lowes
+are sharp-witted
+Logicians <HI>in their kinde,</HI>
+but simply they are wran|gling
+pratling <HI>Sophisters,</HI>
+who like <HI>A<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">tolycus,</HI>
+<Q>Candida de nigris, &amp; de
+candentibus atra.</Q></P>
+<Q>The black to white, and
+white to black they
+turn.</Q>
+<P>They make miserable
+men of happy, and happy
+men of miserable. I would
+they had been appointed
+Iudges betwixt us, and
+<PB N="37" REF="26">
+the Councell of <HI>Trent;</HI> I
+suppose they would have
+affirmed each Religion to
+be true in <HI>his kinde,</HI> that to
+a carnall man, and ours to
+a spirituall man. But lest
+some jesting companion
+may sya, that I am fowly
+fallen out with distincti|ons,
+I must therfore di|stinguish
+distinctions, that
+I may resolve what distin|ctions
+are true, and lear|ned,
+and what are false &amp;
+foolish. I embrace learned
+and true distinctions,
+which are used in dis|putes;
+but I scorne, and
+reject those distinctions
+as false, and absurd, which
+<PB N="38" REF="27">
+are propounded either
+simply, or <HI>in his kinde.</HI>
+But heere I would not
+have the authority of Di|stinguishers
+objected un|to
+me. For there are some,
+who, if you deny this un|happy
+Blessednesse to be
+true <HI>in his kinde,</HI> doe pre|sently
+betake themselves
+to this th<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ed-bare Max|ime,
+<HI><GAP DESC="illegible" RESP="tech" EXTENT="1 letter">he Scholar must be
+<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">ve the Master.</HI> Truly
+I do not conceive to what
+purpose they produce
+th<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">s, unlesse perhaps they
+will thus argue; therefore
+these felicities are <HI>true in
+their kinde.</HI> O wondrous
+witty! You have hit the
+<PB N="39" REF="27">
+naile on the head&punc; Is this
+a demonstration, because
+it is? <HI>Ar<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">totle</HI> himselfe
+could not more strongly
+demonstrate.</P>
+<Q><L>&mdash;Si <HI>Pergama</HI> dextra,</L>
+<L>Defendi possent <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">na hac
+defensa fuissent.</L></Q>
+<Q><L>If Fates to <HI>Troy</HI> had
+granted a defence,</L>
+<L>This hand of mine had
+beat the <HI>Greeks</HI> from
+thence.</L></Q>
+<P>If demonstrations make
+such thunder-claps, I have
+done.</P>
+<Q><PB N="40" REF="28">
+Hostis habet mu<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">os, ruit
+alto &agrave; culmine <HI>Troia.</HI></Q>
+<Q>The Enemy hath wonne
+the walls, and
+<HI>Troy</HI> comes tumbling
+down.</Q>
+<P>But certainly the Schol|ler
+must believe the Ma|ster,
+for so says <HI>Aristotle;</HI>
+And surely, he that teach|eth
+must not lie, for so
+sayes <HI>Aristotle</HI> also. If you
+will observe <HI>Aristotles</HI>
+law in teaching, unlesse I
+keep the same also in lear|ning,
+I shall transgresse.
+But if you teach false do|ctrines,
+which I ought
+<PB N="41" REF="28">
+not to believe; it is an ab|surd
+part in you to co~pell
+me to believe them. If you
+would have men believe
+what you teach, you must
+teach those things, which
+you ought to teach; if you
+will not discharge your
+duty in teaching, I will
+not discharge mine in the
+hearing; for oftentimes
+the Teachers authority is
+very prejudiciall to the
+Scholers profit. Thus said
+<HI>Cicero,</HI> I like not that <HI>Py|thagorean
+ipse dixit</HI> in
+mens resolutio~s. But they
+that are bound must o|bey;
+what must, if thy
+commands be unjust? A
+<PB N="42" REF="29">
+Scholar must bee credu|lous;
+if you teach false
+doctrine? Hee that hath
+twice suffered shipwrack
+is but a fool to trust <HI>Nep|tune.</HI>
+Wherefore if they
+will be ruled by mee; let
+them leave these poore
+shifts, and sticke fast to
+their surest refuge, as men
+use to doe in dangerous
+cases; namely, that they,
+which speak against <HI>Ari|stotle,</HI>
+doe not understand
+<HI>Aristotles</HI> meaning. They
+think, perhaps, that <HI>Ari|stotle</HI>
+was a jugler, which
+casts a mist <GAP DESC="illegible" RESP="tech" EXTENT="2 letters">ore his
+Readers eyes. Do not we
+understa~d <HI>Aristotles</HI> mea+ning?
+<PB N="43" REF="29">
+O poore shift! So
+<HI>Cicero</HI> reports of <HI>Torqua|tus,</HI>
+who, when <HI>Epicurus</HI>
+opinions were called in
+question, said, that Philo|sophers
+did not under|stand
+<HI>Epicurus</HI> meaning.
+Certaine <HI>Pythagoreans</HI>
+said, that when the Hea|vens
+are turned about,
+they make an admirable
+harmony, but men can|not
+heare it. In like man|ner
+<HI>Democritus</HI> said, that
+his subtile moates were
+dispersed thr<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ugh the
+frame of the whole uni|verse,
+but all men did not
+perceive them. What
+were <HI>Aristotles</HI> slaves able
+<PB N="44" REF="30">
+to understand him, and
+shall not we be able? <HI>Dio</HI>
+reports, that there is a cer|tain
+cave at <HI>Hierap<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">lis</HI> in
+<HI>Asia,</HI> whose vapours no
+living creatures, saving
+onely gelded men, are able
+to endure. Is not <HI>Aristo|tles</HI>
+stile like unto this
+Cave, whose savo<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">r, none
+but <HI>Eunne<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">es,</HI> that is, such
+as want the masculine li+berty
+of judgement, and
+are <HI>Aristotles</HI> slaves can a|bide?
+it is even so. But
+perhaps they are like to
+that franticke fellow <HI>Ho+ratia<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">us,</HI>
+who, the day
+after the publique playes
+were ended, would clap
+<PB N="45" REF="30">
+his hands in the Theater,
+&amp; when his friends came
+running, and demanded
+the reason of his acclama|tions,
+seeing that no bo|dy
+acted; hee answered,
+that hee saw Actours,
+though they could not.
+These men surely see
+some strange things in <HI>A|ristotles</HI>
+Theater, and doe
+applaud them, which wee
+cannot discern. But what
+if I can shew, that they
+themselves do not under|stand
+him but being blin|ded
+with a self-conceit of
+<HI>Aristotles</HI> worth, as men
+distempered with some
+malady, doe with that
+<PB N="46" REF="31">
+franticke fellow imagine,
+that they see that, which
+they do not. And what if
+I proove unto you that
+<HI>Cicero, Diogenes, Laertius,</HI>
+and <HI>Alexander Aphrodi|saeus</HI>
+himselfe do interpret
+<HI>Aristotle,</HI> as I do? What
+if I shew those notable
+Champions and Lights
+of the Christian Church
+both the <HI>Greek</HI> and <HI>Latine</HI>
+Doctors, doe not onely so
+expound, but also confute
+<HI>Aristotle?</HI> What refuge
+have they then? I know
+not what answer they wil
+make to <HI>Cicero, Laertius,</HI>
+and <HI>Alexander;</HI> unlesse
+perhaps they will say
+<PB N="47" REF="31">
+that credit is not to be gi|ven
+to examples; at least
+wise, that the places cited,
+are but probable, not true.
+And mee thinkes I smell
+what they will say of
+Christian Writers. They
+wil not (except I be much
+mistaken) deny, that those
+things, which so worthy
+men have wrote against
+<HI>Aristotle</HI> are true, and yet
+they will deny that <HI>Ari|stotle</HI>
+cried. How then can
+it be possible, that in this
+very point they write tru+ly
+that <HI>Aristotle</HI> erred, &amp;
+yet (say they) <HI>Aristotle</HI>
+erred not? You shall
+heare: there is a twofold
+<PB N="48" REF="32">
+<HI>Truth;</HI> a <HI>Philosophicall
+Truth,</HI> and a <HI>Theologicall
+Truth. Aristotle</HI> was in an
+error according to a <HI>The|ologicall
+Truth,</HI> and in that
+sense he is blame worthy;
+but <HI>Aristotle</HI> erred not in
+a <HI>Philosophicall Truth,</HI> for
+in that sense hee could not
+bee mistaken without
+doubt, for hee is a miracle
+of Nature. What is this I
+heare? A <HI>Philosophicall
+Truth?</HI> and a <HI>Theologicall
+Truth?</HI> This is pulling in
+pieces, not distinguishing.
+Now indeed, I nothing
+marvell at those men, who
+use to scoffe and deride
+the <HI>simple Truth,</HI> when
+<PB N="49" REF="32">
+<GAP DESC="illegible" RESP="tech" EXTENT="1 span"> can
+hatch two <HI>Truths</HI> for
+one; as drunken men use
+to see two Lanthorns for
+one; and <HI>Plautinus</HI> found
+two Masters for one <HI>Mes+seinus,</HI>
+and mad <HI>Pentheus</HI>
+beheld two <HI>Suns</HI> for one.
+They have so well profi|ted
+in the Art of wrang|ling,
+that they have quite
+forgotten how to dispute.
+For what is <HI>Truth?</HI> The
+Learned in the <HI>Greeke</HI>
+Tongue doe call <HI>Verum</HI>
+<GAP DESC="foreign"> of the Verbe <GAP DESC="foreign">, <HI>i<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+esse</HI> to be, because it is the
+same, which it is said to
+be. Therefore as Philoso|phers
+teach, that Contra|ries
+<PB N="50" REF="33">
+cannot stand together
+at one, and the same time
+in the same subject; so the
+same Philosophers teach,
+that contradictories can|not
+both be true of one
+and the same thing. Is it
+not then a shame for our
+<HI>Logicians</HI> to disable, and
+enervate the very first
+Principles of <HI>Logicke?</HI>
+For wheras <HI>Aristotle</HI> doth
+teach, that to affirme and
+deny the same thing not
+onely in the generall, but
+also in the particular must
+needs be co~tradictorious;
+these men do in very deed
+deny this truth; albeit
+they oppose a frivolous
+<PB N="51" REF="33">
+distinction (like a Cloud
+against the Sunne, to ob|scure
+the truth. <HI>Aristotles</HI>
+felicity is not true felicity,
+this they grant to be true
+in Divinity; again <HI>Aristo|tles</HI>
+felicity is true felicity;
+this they will have to be
+true in Philosophy. O sil|ly
+<HI>Epiphanius,</HI> who didst
+reck on the errours of Phi|losophers
+amongst Here|sies!
+O simple <HI>Iustin Mar|tyr,</HI>
+to confute <HI>Aristotles</HI>
+opinions in so great a Vo+lume!
+D<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">d not they (silly
+men) know how to argue
+ma<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ers in a phil<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">sophi+call
+truth, when they em|brace
+a divine truth? But
+<PB N="52" REF="34">
+&ocirc; thou Apostle, <HI>Paul</HI> I
+am sorry for thee! why
+doest thou dispute with
+the <HI>Stoicks</HI> &amp; <HI>Epicureans</HI>
+at <HI>Athens,</HI> of the resurre|ction
+of the dead, and the
+life to come? It needs no
+controversie at all. For al|though
+all Philosophers
+doe flatly deny the resur|rection
+of the body, yet
+it is in a philosophicall
+truth; but thou <HI>Paul</HI> dost
+affirme it in a <HI>Theologicall
+truth,</HI> as thou hadst lear|ned
+of <HI>Christ.</HI> But why
+dost thou dissent from all
+Philosophers to no pur|pose?
+Why doest thou
+not permit the <HI>Athenians</HI>
+<PB N="53" REF="34">
+to believe Philosophers?
+Doest thou thinke they
+will the more hardly be|come
+Christians for that?
+It is not reasonable to al|low
+<HI>Eusebius</HI> the benefit
+of this distinction; For he
+was in an error. He knew
+not this twofold truth.
+Hee sayes <HI>Aristotle</HI> doth
+impugne, and gainsay the
+Scriptures, in that hee did
+ascribe felicity to the ex|ternall
+welfare of the bo|dy
+in that hee said that
+Gods Providence exten|ded
+not to every subluna|ry
+thing; in that hee said
+the World was eternall,
+not created, and that the
+<PB N="54" REF="35">
+soule of man was not e|ternall
+but mortall. <HI>Euse|bius</HI>
+affirmes, that in all
+these points <HI>Aristotles</HI> o|pinions
+are flat against
+the Scriptures. Thou art
+mistaken <HI>Eusebius! Ari|stotle</HI>
+doth not thwart the
+Scriptures. Thou must
+learne to distinguish be|tweene
+a <HI>Philosophicall
+Truth,</HI> and a <HI>Theologicall
+Truth.</HI> Come hither <HI>Am|brose,</HI>
+come <HI>Augustine,</HI>
+come all the rest of <HI>Do|ctors,</HI>
+and learne of our
+<HI>Philosophers,</HI> that there is
+one Truth in Divinity, &amp;
+another Truth in Philo|sophy.
+They do Philoso|phers
+<PB N="55" REF="35">
+much wrong. <HI>Plu|tarch</HI>
+reports, how that
+one bid a Painters boy
+who had painted a Cock
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">l-favouredly to chase a|way
+all right Cocks from
+his picture. Those men
+that doe alienate divine
+Truth, doe the very same
+thing. Yet if these men
+had bin Painters, I doubt
+not, but they would have
+distinguished, that they
+had painted well accor|ding
+to the truth of the
+Picture, though not ac|cording
+to the truth of
+the Cocks nature. But as
+<HI>Tiridates</HI> King of <HI>Arme|nia</HI>
+called that wicked
+<PB N="56" REF="36">
+Wretch <HI>Nero</HI> his God;
+So <HI>Aristotles</HI> Patrons, do
+ascribe the name of Truth
+to the vaine Opinion of
+Philosophy. Which if it
+be once granted, what can
+be so absurd, but it may
+be defended, or what so
+false, but it may be pro|ved,
+either with an <HI>Epicu|rean,
+Platonicall, Stoicall,</HI>
+or <HI>Turkish</HI> Truth; or with
+a Papisticall, or Hereticall
+Truth; to co~clude, which
+way not? And in this
+manner, as <HI>Democritus</HI>
+not satisfied with the opi|nion
+of one World, drea|med
+of infinite Worlds;
+so we not contented with
+<PB N="57" REF="36">
+one truth, shall conceive
+innumerable truths of
+our owne braine. But this
+will be the issue of all at
+last in despight of Philo|sophers,
+that as <HI>Varro</HI>
+reckons up 30000 Gods
+amongst the <HI>Gentiles,</HI>
+when indeed there was
+but one onely; even so,
+when they have forged
+30000 Truths, they shall
+finde but one only, and
+that is the simple Truth,
+which they so deride.
+Here before I proceed a+ny
+further, lest these
+things perhaps exami|ned,
+which I have allea|ged
+(and I very gladly
+<PB N="58" REF="37">
+desire they may be) are
+not to be found in <HI>Euse|bius,</HI>
+which I have cited
+out of <HI>Eusebius;</HI> yee shall
+understand, that they are
+not to be found in the <HI>La|tine
+Eusebius. Trapezun|tius,</HI>
+who was <HI>Aristotles</HI>
+great friend, translated
+<HI>Eusebius</HI> his Books <HI>de Eu|angelica
+praeparatione</HI>
+into the Latine tongue.
+Fourteene of his Books,
+which contain a consuta|tion
+of Heathens and
+Philosophers, <HI>Trapezun|tius</HI>
+translated into Latin,
+but as for his fifteenth
+Booke, which <HI>Eusebius</HI>
+wrote almost altogether
+<PB N="59" REF="37">
+against <HI>Aristotles</HI> errours,
+as concerning mans Feli|city,
+the Worlds Fterni|ty,
+the Providence of
+God, and the Souls Mor|tality,
+<HI>Trapezuntius</HI> ne+ver
+medled with that.
+Therefore lest any man,
+being deceived with the
+Table of the Booke, doe
+traduce me, ye shall know
+that Latine <HI>Eusebius de
+Evangelica praeparatione</HI>
+wants the fifteenth Book,
+in which are co~tained the
+things by me alleaged If
+any will look for it, hee
+may finde it in the <HI>Greeke</HI>
+Copy. Study therfore the
+<HI>Greek</HI> tongue, that ye may
+be able to discern the craf|tinesse
+<PB N="60" REF="38">
+of Interpreters,
+which is too frequent in
+prophane writings, but
+chiefly in the Scriptures.
+What <HI>Eusebius</HI> thought
+fit to write for the advan|tage
+of the <HI>Christia~ faith,
+Trapezuntius</HI> thought
+not fit to be expounded,
+because it weakned <HI>Ari|stotles</HI>
+credit. How much
+worse then hee, are our
+men in these dayes, who,
+fearing lest they should
+savour too much of Chri|stianity,
+desire to heare
+young Striplings speake
+finely, and to defend by
+arguments, points repug|nant
+to godlines; but are
+loth to hear those things,
+<PB N="61" REF="38">
+which are consonant to
+godlinesse. And yet they
+love Piety, they love Re|ligion,
+So, I think, as the
+Ape loves her puppies, or
+as <HI>Iuno</HI> loved <HI>Hercules;</HI>
+They love exceedingly;
+they kill with loving;
+They love, as <HI>Thais</HI> loved
+<HI>Phaedria.</HI></P>
+<Q>Misera prae amore exclu|sit
+hunc for&agrave;s,</Q>
+<Q>Shee poor soule for ve|ry
+love hath shut him
+out of doores.</Q>
+<P>Let us speak like Phi|losophers
+(say they)
+<PB N="62" REF="39">
+when we dispute, when
+wee declayme. I had
+thought yee had rather
+have spoken like Christi|ans.
+Are you to be saved,
+redeemed and judged of
+a Philosopher? were yo<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+initiated in the Mysteries
+of Philosophers? But
+what does this concerne
+us say they? Wee may
+speak as Philosophers, we
+are not Divines yet. Di|vines?
+It is a womans
+priviledge to say what she
+list; for without doubt
+they will never bee Di|vines,
+unlesse perhaps
+they be Popes, as (some
+say) <HI>Ioane</HI> was of yore;
+<PB N="63" REF="39">
+and albeit they may bee
+such, they may not bee
+Divines for all that. But
+why do they separate the
+bounds of Divinity and
+Philosophy, like the Bor|ders
+of <HI>England</HI> and <HI>Scot|land?</HI>
+I thinke this was
+the Deputies doing. But
+yet we may speak as Phi|losophers.
+What? as <HI>Dia+goras,</HI>
+when hee denied
+there was a God? as <HI>Pro|tagoras,</HI>
+when hee doub|ted
+whether there was a
+God or no? as <HI>Aristotle,</HI>
+when hee takes away&punc;
+Providence from God?
+These are the words of
+Atheists. What then? as
+<PB N="64" REF="40">
+<HI>Plato,</HI> when hee sets up a
+Purgatory? or <HI>Porphyrius,</HI>
+who sayes that <HI>Angels</HI> are
+to be worshipped? or as
+<HI>Aristotle,</HI> when he teach|eth
+<HI>Free-will?</HI> Let <HI>Pa|pists</HI>
+picke out such stuffe
+for themselves. What
+then? shall we say with
+<HI>Epicurus</HI> that the soule is
+mortall? with <HI>Aristippus,</HI>
+that <HI>Pleasure</HI> is <HI>Summum
+Bonum?</HI> or with <HI>Plato</HI>
+that a mutuall Participa|tion
+of Wives is to be to|lerated?
+No, wee allow
+none of these? But wee
+would have <HI>Declamati|ons,</HI>
+not <HI>Sermons.</HI> What
+is a <HI>Declamation?</HI> Is it to
+<PB N="65" REF="40">
+deny that to be a <HI>Poeme,</HI>
+which wants fabulous
+matter? or shall not that
+be called a <HI>Declamation,</HI>
+which is not stuffed with
+impiety? If such are no
+better, than base Strum|pets,
+which esteeme no|thing
+wittily spoken, but
+that which is obscene;
+what kinde of Philoso|phers
+are they which ac|count
+nothing spoken O|rator-like,
+but that which
+is prophane? But wee
+would heare Philosophi|call
+points. If they be true
+and good they dissent not
+from holy things. If they
+bee naught and untrue,
+<PB N="66" REF="41">
+what are they to be estee|med?
+The <HI>Persia~s</HI> thought
+it a great fault in a childe,
+either to lie, or speak cor|ruptly;
+Do yee make our
+Christian Youth worse
+then the Heathen? would
+you not have us speak as
+Philosophers? I would
+have you speak like wise|men,
+not like the ignorant
+and unlearned. I call them
+wise men, who propound
+true matters, <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">nd them ig|norant,
+who teach un|truths&punc;
+For Philosophy is
+the study of Wisdome;
+Wisdome comprehends
+the knowledge of Divine
+and Human things; more|over
+<PB N="67" REF="41">
+knowledge is of true
+things; &amp; therupon those
+things onely, which are
+said to be true, deserve the
+name of Philosophy. For
+Philosophers are not
+Philosophers, when they
+digresse from the truth.
+But because the name of
+Philosophy is commonly
+ascribed to the opinions
+of Philosophers, whether
+true or false, and not to
+true wisdome; yee ought
+to remember what the
+Apostle warnes you to
+take heed of, <HI>Lest any m<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">n
+spoile you through Philo|sophy.
+Coloss.</HI> 2. 8. For there
+are some amongst us now
+<PB N="68" REF="42">
+adayes, who maintaining
+most pernicious errours
+contrary both to reason
+and religion, call it Philo|sophy.</P>
+<Q><L>Nesci<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> furtivo: <HI>Dido</HI> me|ditatur
+am<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">res.</L>
+<L>C<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">njug<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">um vocat h<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">c prae
+texit nomi<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">e culpam.</L></Q>
+<Q><L>On amorous th<GAP DESC="illegible" RESP="tech" EXTENT="3 letters">s runs
+<HI>Dido's</HI> b<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">nded minde&punc;</L>
+<L>To hide her fault shee
+W<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">dlocks c<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">oak doth
+finde.</L></Q>
+<P>She called it marriage,
+but she comm tred adul|tery;
+They call it Philo|sophy,
+<PB N="69" REF="42">
+but they do defend
+impiety. You must not
+imitate <HI>Caracalla Caesar,</HI>
+who was so in love with
+the very name of <HI>Alexan|der,</HI>
+that he was much of|fended,
+that a base Ruffi|an
+(whose name was <HI>A|lexander</HI>)
+was arraigned
+before him. Doest thou
+accuse <HI>Alexander</HI> (said he)
+hold thy peace, or else wo
+be to thee. Take yee heed,
+lest by loving the name
+of Philosophy, yee enter|tain
+Philosophers errors.
+He accused <HI>Alexander,</HI>
+but yet a Ruffian; I reject
+Philosophy, yet that
+which is erroneous. But
+<PB N="70" REF="43">
+some (like <HI>Caracalla</HI>) will
+say to mee; What doest
+thou condemne Philoso|phy?
+ho<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">d thy tongue of
+Philosophy, or e<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">e thou
+shalt heare ill news. I care
+not for bad dealing from
+b<GAP DESC="illegible" RESP="tech" EXTENT="2 letters"> men: I accou<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">t not
+<GAP DESC="illegible" RESP="tech" EXTENT="1 span"> to be <HI>Summ<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">m
+<GAP DESC="illegible" RESP="tech" EXTENT="1 word">.</HI> I doe admonish
+you againe, and aga<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ne&punc; to
+t<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ke <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> of Philosoph<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">.
+What admonitions the
+Ap<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">st<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">e, and ancient Fa|thers
+have given, what
+the learned of la<GAP DESC="illegible" RESP="tech" EXTENT="3 letters"> times
+have continually admo|nished
+you of, both by
+precepts and examples,
+that doe I likewise. Thus
+<PB N="71" REF="43">
+doth <HI>Lactantsus</HI> often
+presse, and repeate, that
+Philosophy is false, and
+frivolous; The <HI>Philoso+phers</HI>
+could speak wel like
+learned men, but they
+could not speake truely,
+because they were not in|structed
+by him who was
+<HI>Puiss<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">nt in Truth.</HI> So
+said <HI>Eusebius,</HI> that <HI>Philo|sophers</HI>
+erred from the
+truth, that <HI>Philosophy</HI> was
+stuffed full of vaine con|jectures,
+divers errors, and
+trifling toyes. Thus <HI>Ter|tullian</HI>
+said, that Heresies
+were suborned and sup|ported
+by the Philoso|phy
+of <HI>Plato,</HI> the <HI>Stoicks,
+<PB N="72" REF="44">
+Epicurus, Heracl<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">tus, Ze|no,</HI>
+and <HI>Aristotle;</HI> &amp; that
+Heresies did spring, and
+spread from Secular Lear|ning.
+What shall I recite
+<HI>Iustine Martyr,</HI> Saint <HI>Am|brose,</HI>
+Saint <HI>Augustine,</HI>
+and the rest, who doe fre|quently,
+and vehemently
+urge the same opinion?
+What shall I say of later
+Writers, as <HI>Ludovicus
+Vives, Picus Mirandula,
+Hieronymus Savanorol<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">?</HI>
+which three most learned
+men doe tell us with one
+consent, that they must be
+very warily perused; who
+are they? I say not Phi|losophers,
+but <HI>Aristotle</HI>
+<PB N="73" REF="44">
+and <HI>Plato</HI> the <HI>Princes of
+Philosophers.</HI> Why so?
+because <HI>Aristotle</HI> makes
+men ungodly, and <HI>Plato</HI>
+superstitious. Doe ye de|sire
+examples? <HI>Pompona|tius</HI>
+became a wretched
+man by listning too much
+to <HI>Aristotle;</HI> and <HI>Ficinus</HI>
+became superstitious from
+the <HI>Platonicall</HI> dreames of
+Spirits. Many pestilent
+errours, first entred into
+the Churches of Chri|stians,
+&amp; continued there
+a long fime, (yea, and at
+this day doe spoile them)
+from the errours of <HI>Pla|to's</HI>
+and <HI>Aristotles</HI> Philo|sophy.
+And is the world
+<PB N="74" REF="45">
+bewitched still, with the
+delusions of Satan, that
+Christians will defend
+Philosophers errours in
+publike Assemblies with
+idle and rotten distincti|ons?
+They little thinke,
+that by this abominable
+custome, it is come to
+passe, that the Christian
+Faith hath not residence
+in the hearts, but in the
+Temples of Christians,
+and not there sometimes.
+O what a difference is be|twixt
+even the Heathens,
+and us Christians? <HI>Ari|stotle</HI>
+forsooke his Master
+<HI>Plato</HI> to uphold his owne
+errors, and wee will not
+<PB N="75" REF="45">
+forsake <HI>Aristotle,</HI> that we
+may defend Gods Truth.
+<HI>Virgill</HI> gathered gold out
+of the dunghil of E<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">ius;
+and shall we scrape toge|ther
+stinking filth out of
+the Philosophers Store-house?
+<HI>Isocrates</HI> calleth
+speech the image of the
+minde; <HI>Democritus</HI> calls
+it the shadow of work|manship;
+shall we imagine
+that our thoughts and a|ctions
+are agreeable to
+Christianity, if we speake
+as Heathens? Wickedly
+and falsly spake those fil|thy
+Poets.</P>
+<Q><PB N="76" REF="46">
+<L>Vita verecunda est; Mus<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+jocosa mea est;</L>
+<L>Lasciva est nobis pagi|na,
+vita proba.</L></Q>
+<Q><L>Demure my life, though
+merry be my Muse,</L>
+<L>An honest life lascivi|ous
+lines may use.</L></Q>
+<Q><L>C<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">stum esse decet pium
+P<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ctam ipsum,</L>
+<L>Versu<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">os nihil necesse
+est.</L></Q>
+<Q><L>A Poet himselfe devout
+and chast must be,</L>
+<L>That his Verse bee so,
+there's no necessity.</L></Q>
+<P><PB N="77" REF="46">
+Well said <HI>Socrates;</HI> such
+as the minde is, such is
+thy speech. Speech is the
+badge of the minde. Is
+thy speech corrupt? thy
+thoughts are impure. A
+prophane tongue, and a
+true Christian will never
+agree. What pains Chri|stians
+bestow in the
+Church, Philosophers
+destroy in the Hall. Beate
+downe the affections as
+much as you can, and lop
+off the sprouts, yet they
+will spring again, quench
+the firebrands, yet they
+will kindle againe. Yee
+should inure your selves
+from tender age to the
+<PB N="78" REF="47">
+best things; Children
+ought to be instructed in
+sound, and true opinions
+even from their infancie.
+There is no time, place,
+or occasion allotted for
+naughtinesse. There is no
+doubt, but <HI>Iulian</HI> the A|postate,
+(who had his e|ducation
+from the Empe|rour
+<HI>Constantine</HI>) heard
+many Sermons in the
+CHURCH, but those
+private Conferences at
+home with <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">hat declay|ming
+Li<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">an<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">us instilled
+into his minde more
+naughtinesse, than all the
+Sermons hee heard could
+expell. <HI>Nero</HI> heard many
+<PB N="79" REF="47">
+notable precepts of his
+Master <HI>Seneca;</HI> but those
+flattering wordes, <HI>All
+things are lawfull for a
+Prince,</HI> marred all those
+Precepts. Deceive not
+your selves, <HI>One sparke of
+fire is able to kindle more
+Gunpowder, than all the
+Ocean can quench.</HI> Concu|piscence
+is so deeply roo|ted
+in us, that as it is easi|ly
+kindled like Gunpow+der,
+so it more contagi|ously
+rageth. Take heed
+of the flame, yea, the
+sparks of this fire. What
+doe our Philosophers an|swer
+to this? Surely they
+laugh at my simplicitie,
+<PB N="80" REF="48">
+who require Godli|nesse,
+and Christiani|tie
+in their Studies.
+What have wee to doe
+(say they) with this
+over-busie godlinesse and
+Holinesse? Wee leave
+that to Divines, let
+them preach CHRIST
+devoutly, What have
+wee Philosophers to doe
+with Divinitie? It is
+not our profession. Let
+us speake like <HI>Aristotle,</HI>
+like Philosophers. For
+whereas the Apostle
+commands the CO|LOSSIANS
+to be|ware,
+lest they be de|ceived
+through Philoso|phy,
+<PB N="81" REF="48">
+that (say they)
+belongs not to all Chri|stians,
+but onely to Di|vines.
+It is written in|deed
+unto the CO|LOSSIANS,
+and
+Geographers say, that
+COLOSSUS was a
+Citie, but COLOSSAE
+(without doubt) was a
+Divinitie Schoole; or
+at least-wise because it
+is written unto Christi|ans,
+it is an advice, not a
+precept; of which sort
+there are some things in
+the Gospell, which are
+not prescribed to all, but
+to compleate Christians;
+as the Expositors of <HI>Ari|stotles</HI>
+Moralls do teach.
+<PB N="82" REF="49">
+shall we leave off the old
+want of defending <HI>Ari|stotle,</HI>
+whom the most
+learned of the Vniversi|ties
+have so long time
+highly esteemed? nay, we
+will rather with the <HI>Au|gustinians</HI>
+maintain all <HI>A|ristotles</HI>
+sayings even a|gainst
+the superstitious
+Stoickes, according to
+a Philosophicall truth,
+not according to a Di|vine
+Truth, not by the
+light of Faith, but of Rea|son,
+so farre forth as wee
+are Philosophers, not as
+we are Christians. Thus
+do these men in their cups
+bragge, and brave it out,
+though not perhaps in
+<PB N="83" REF="49">
+these very same words,
+yet in the same sense. But
+I wo<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ld advise these men
+to co~sider, that since they
+wil live like Philosophers,
+let them take heed, that
+they die not Pagans. A
+certain plain Country fel|low
+seeing a noble man
+of <HI>Germany</HI> cla<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> in ar|mour
+in the morning, like
+a General of the field, and
+with his Mitre like a Pre|late
+in the Church at eve|ning,
+asked one of his ser|vants,
+why his Lord and
+Master did sometimes
+weare an Helmet, &amp; som|times
+a Mitre; he answe|red,
+because he was both
+<PB N="84" REF="50">
+a Prince, and Bishop
+of a City. A Prince,
+and a Bishop said the
+Countrey man? I pray
+you (Sir) tell mee, if
+the Prince goe to Hell,
+whither shall the BI|SHOP
+goe? If I had so
+much authoritie as the
+Countryman, I would
+aske these Philosophers,
+and these <HI>Centaure Chri|stians,</HI>
+both men &amp; mon|sters,
+these <HI>Hermaphro|dites</HI>
+both men and wo|men,
+or rather neither,
+who speake impiously
+as Philosophers in the
+Schooles, and holily in
+the Church like Christi|ans,
+<PB N="85" REF="50">
+what thinke you will
+become of the Christian,
+if the Philosopher bee
+thrust down to Hell? Let
+no body wrest my words
+otherwise, than I mean; I
+know not how it may fall
+out, that I may hereafter
+lay the fault upon your
+tongues, seeing that those
+things, which I have spo|ken
+true, through your
+misreporting them, may
+be accounted false. I have
+at the last bid farewell to
+obscene Poets, such as
+(for th<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> most part) are not
+to be taught to children.
+I have fetched this out of
+Saint <HI>Augustine</HI> in his
+<PB N="86" REF="51">
+Confessions who aver|reth
+<HI>Terence</HI> expresly not
+worthy to be read, and
+blame such Grammarians
+as expound him. If this
+seemes absurd to them,
+why doe they finde fault
+with mee? let them finde
+fault with S<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">int <HI>Augu|stine.</HI>
+But let no man so
+mistake my meaning, as
+though I condemned the
+reading of all Poets; as
+though I should say, be|cause
+children must be fed
+with milke, not with
+flesh, some Butcher, or o|ther
+should inferre, that I
+spake against eating of
+flesh absolutely. Now if
+<PB N="87" REF="51">
+it bee reported againe to
+Butchers that my demand
+was, what will become of
+the Christian, when the
+Philosopher is thrust
+downe to Hell; My an|swer
+is this to Butchers,
+that I speake of Philoso|phers
+in the same sense,
+that <HI>Tertullian</HI> did; <HI>What
+likenesse is there between a
+Philosopher and a Chri|<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">ian?
+What hath</HI> Athens
+<HI>to do with</HI> Ierusalem? <HI>an
+Vniversitie with the
+Church? or what have
+Heretiques to doe with
+Christians?</HI> He calls Phi|losophers
+Heretiques. He
+was never acquainted
+<PB N="88" REF="52">
+with this absurde distin|ction
+of a P<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ilosophicall
+truth, and a divine truth;
+but he calls Philosophers
+Hereticks. He complains,
+that Philosophy hath bin
+many sundry ways distri|buted
+into Heresies, by
+the industry and labour
+of Philosophizing Fel|lows,
+which have corrup|ted
+the truth in the
+Church. What hath <HI>A|thens</HI>
+to doe with <HI>Ierusa|lem?</HI>
+an Vniversity with
+the Church, or Hereticks
+with Christians? And yet
+shall any man marvell,
+why I am of opinion, that
+it is dangerous to speake
+<PB N="89" REF="52">
+like Philosophers? Men
+speaking as Philosophers
+have long agoe infected
+the <HI>Greeke</HI> Church, and
+almost all <HI>Europe</HI> with di|vers
+errours. Men speak|ing
+as Philosophers have
+in our dayes polluted all
+<HI>Italy</HI> (would to God it
+were but <HI>Italy</HI> only) with
+most noysome opinions.
+Those two most vild and
+gracelesse men (if they
+may be called men) <HI>Cor|nelius
+Agrippa,</HI> and <HI>Ni|cholas
+Machiavell</HI> speak
+as <HI>Philosophers,</HI> of whom,
+the one in his naturall,
+the other in his Morall
+Philosophy have disgor|ged
+<PB N="90" REF="53">
+such Lessons.</P>
+<Q><L>Qualia cred<GAP DESC="illegible" RESP="tech" EXTENT="4 letters">le est rictu ru<GAP DESC="illegible" RESP="tech" EXTENT="3 letters">sse <GAP DESC="illegible" RESP="tech" EXTENT="1 word">.</L>
+<L><HI><GAP DESC="illegible" RESP="tech" EXTENT="3 letters">be<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">on,</HI> &amp; Stygii m<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">n
+stratremenda lacus.</L></Q>
+<Q><L>As if the Stygian Lake,
+or three chopt <HI>Cerbe|rus,</HI></L>
+<L>Had spued their mon|strous
+ugly fil<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">h on us.</L></Q>
+<P><HI>Pomponatius,</HI> and <HI>Car|danus</HI>
+spake as <HI>Philoso|phers,</HI>
+whereof the one
+wrote that cursed Trea|t<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">se
+of the Souls mortali|ty,
+the other broached
+many impious errours in
+<PB N="91" REF="53">
+his subtilties. I deny not,
+but they are both confu|ted,
+<HI>Pomponatius</HI> sleight|ly
+by <HI>Contarenus,</HI> &amp; <HI>Car|dane</HI>
+soundly and tho|roughly
+by <HI>Scaliger.</HI> But
+how many in the meane
+time have they spoiled
+with their philosophicall
+sentences? Poison hur|teth
+moe, then the Medi|cine
+helpeth; neither are
+all cured, that are poyso|ned.
+And is any man so
+foolish to seeke to bee
+wounded, that he may be
+cured? What then will
+some say, doe you forbid
+the reading of prophane
+matters, l<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">st men be cor|rupted
+<PB N="92" REF="54">
+therby? Shall we
+not reade <HI>Aristotle, Plato,
+Cicero, De<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">osthenes?</HI> shall
+wee not attaine to the
+knowledge of Historie,
+Philosophy, Eloquence?
+And hereupon <HI>Philoso|phers</HI>
+w<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ll ampli<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ie, that
+a thing is not to be reje|cted
+for the abuse of it.
+F<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">e<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ds are drowned with
+waters; Houses are con|sumed
+with fire, the earth
+is scorched with the Sun,
+men are spoiled by buil|dings,
+and yet for all this
+water, fire, the Sun, hou|ses
+and buildings are ne|cessary.
+I would not have
+the thing it selfe, but the
+<PB N="93" REF="54">
+abuse thereof abolished,
+and the proper use therof
+restored again. I doe not
+say, that hee offendeth
+that reades profane Au|thors,
+so that he doe but
+lightly passe them over;
+but this I take to be sin|<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ull,
+when profane things
+are believed; for then art
+thou foyled, when thou
+givest credit to them.
+And in that case. I hold
+it dangerous to defend
+them; for therby perhaps
+thou hurtest others, or
+else art hurt thy self. Thou
+must also take heed not
+onely what thou defen|dest,
+but also what, and in
+<PB N="94" REF="55">
+what manner thou rea|dest;
+For although thou
+doest but touch those
+things, that thou readest,
+yet be not so carelesse; for
+many things, but touched
+doe hurt, and sometimes
+kil. Saint <HI>Augustine</HI> makes
+mention of a little Fly
+called a <HI>Cynips,</HI> which is
+of so small a substance,
+that, unlesse you be very
+sharp-sighted, you can|not
+discern her, yet when
+shee fastens on you, shee
+will sting soundly, so that
+shee, that you could not
+perceive co~ming to sting,
+you shall too late repent
+her stinging. But if your
+<PB N="95" REF="55">
+judgements bee not so
+sharp-sighted, to discern
+those, which I call the
+stings of philosophy, yet
+know, that Philosophy is
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> <HI>Cynips,</HI> which uses to
+sting heedlesse men; feele
+it not after it is too late.
+The veriest foole that is
+learnes wit after a shrewd
+turn. The byting of an
+Aspe procureth a most
+sweet sleep, insomuch that
+one cannot be sensible of
+death approaching, but it
+is a deadly sleepe at last.
+Enjoy thy sweete sleepe
+<HI>Cleopatra,</HI> I envie thee
+not, for thine Aspes by|ting:
+I will propose to
+<PB N="96" REF="56">
+you <HI>Ieromes</HI> opinion set
+downe in his Epistle to
+<HI>D<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">m<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">sus</HI> concerning the
+Prodigal<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> sonne; it is in|deed
+rejected of the per|tinacious,
+but embraced
+of the wiser sort, and is
+very necess<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">r<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">or al sorts
+of men. <HI>Ieromes</HI> words
+are these, <HI>Even as it was
+lawfull for the Iewes, if
+they had gotten a beauti|full
+woman captive, to take
+her to wife upon this con|dition,
+that first her head
+should be shaved, her nails
+pared, &amp; her captive gar|ments
+cast away; In like
+manner, it may be lawfull
+for Christians to use Philo|sophers,
+<PB N="97" REF="56">
+and <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ooks of Se|cular
+Learning, but with
+this condition, that what|soever
+they finde in them,
+that is profitable and use|full,
+they convert it to
+Christian doctrine, and
+do, as it were, shave off,
+and pare away all super|fluous
+stuffe concerning I|dols,
+love and carnal cares
+of the world.</HI> And lest any
+should cavill and say, that
+those things, which wee
+ought to believe, apper|tain
+to faith, and yet men
+are not for all that forbid|den
+to talke as Heathens;
+<HI>Ierome</HI> proceeds, (His
+meaning is not of such as
+<PB N="98" REF="57">
+speake profanely, but of
+such <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">s read profane mat|ters.)
+<HI>Neither let us flatter
+our selves (saith hee) al|though
+wee do not believe
+those things which are
+written, when others con|sciences
+are wounded; and
+wee may be thought to ap|proove
+those things wee
+reade, when we do not re|prove
+them.</HI> If any wi<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">l
+further object, that these
+things are written to the
+Bishop, or else they are to
+be understood of deeds,
+and actions; let him know
+that <HI>Ierome</HI> speaks also of
+words; yea, of all Chri|stians
+in generall. For hee
+<PB N="99" REF="57">
+annexeth, <HI>Farre be it from
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> Christians mouth to ut|ter
+omnipotent</HI> love, <HI>so
+helpe</HI> Hercules, <HI>so help me</HI>
+Castor, <HI>and such like ra|ther
+bug-beares, than di|vine
+powers.</HI> Therefore
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">hosoever shall at any
+time utter such idle
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ords, hee is not to be
+allowed in that. Marke
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">hat <HI>Ierome</HI> sayes, <HI>farre</HI>
+<GAP DESC="illegible" RESP="tech" EXTENT="1 word"> <HI>it from a Christians
+<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">uth to utter Omnipo|tent</HI>
+Iove, <HI>so help me</HI> Her|cules,
+<HI>or</HI> Castor, <HI>and such
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ike rather bug-bears, than
+leities.</HI> What shal we not
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ame the immortal gods,
+not <HI>Iupiter?</HI> What, not
+<PB N="100" REF="58">
+in verse? not in our talke?
+not when wee declayme,
+or dispute? Why do yee
+aske mee? <HI>Augustine</HI> re|proves
+it, <HI>Ierome</HI> abhors
+it. Far be it from a Chri|stian
+to speak thus. And
+if the most excellent men
+have been so strict about
+trifling words, let our wit
+lesse youngsters at length
+leave off their railing in e|very
+place where they
+come, that there are some
+upstarts of a new opini|on,
+who would neither
+have others to defend <HI>A|ristotle</HI>
+in all points, nor
+yet wil defend him them|selves.
+O hainous fact!
+<PB N="101" REF="58">
+My neighbour <HI>Q. <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ube|r<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"></HI>
+doth advertise thee <HI>C.
+Caesar</HI> of a crime never
+heard of before, <HI>Q. Li|garius</HI>
+is gone into <HI>Africa.</HI>
+That which all the Anci|ents
+both sacred and pro|phane,
+<HI>Greeks, Latines,
+Christians,</HI> and <HI>Heathens</HI>
+have freely done, that
+which the most learned
+amongst later Writers of
+<HI>Logicke, Rhetoricke,</HI> and
+<HI>Philosophie</HI> both naturall
+and morall, have not one|ly
+done themselves, but
+taught others to doe so,
+(because men by nature,
+Philosophers by truth,
+discreet men by reason,
+<PB N="102" REF="59">
+wise men by piety, and
+Christians by religion are
+not perswaded, but com+manded;
+not intreated,
+but compelled) some fa|ctious
+fellowes, who ac|cuse
+<HI>Aristotle</HI> of many
+grosse errours (although
+hee alone of all men the
+the <HI>Pope</HI> excepted could
+not erre) have appeached
+us of a new crime never
+before heard of till now.
+What shall wee do ther|fore?
+Whither shall wee
+turn our selves? shall wee
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">all to reasoning? But it
+cannot be possibly that
+ever <HI>Aristotle</HI> should be
+refu<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ed by arguments;
+<PB N="103" REF="59">
+no, although hee should
+speake Contradictories
+Shall wee flie to authori|tie?
+You object modern
+Writers, <HI>Vives, Ramus,
+Talaeus, Martyr;</HI> these are
+either unlearned, or
+proud. If you presse us
+with ancient Fathers, as
+<HI>Eusebius, Augustine, Ter|tullian,
+Ierome,</HI> they doe
+not condemne us, but the
+Heathens. If you alleage
+the Schools of <HI>Germany,</HI>
+and <HI>Switzerland</HI> (who
+have reformed the man|ner
+of teaching Philoso|phy
+with Religion,) they
+will be thought of some
+to have dealt superstiti|ously
+<PB N="104" REF="60">
+in this point; al|though
+I doubt not, that
+learned judgements are
+nothing at all mooved
+with these pettie cavils,
+yet to give al men satisfa|ction,
+if I can) not insisting
+upon these arguments,
+which they are wont
+to jest at) I will produce
+certain witnesses, so fresh
+in memory, that have ob|served
+this manner of
+teaching, men so well
+practised in Letters, that
+doubtlesse they have been
+well versed in it. They are
+by place, and authoritie
+<HI>Bishops</HI> at least, for num|ber
+almost two hundred;
+<PB N="105" REF="60">
+namely the whole gene|rall
+Councell of <HI>Lateran</HI>
+held at <HI>Rome</HI> within lesse,
+then these sixtie yeeres.
+Marke I pray you dili|gently
+what I alleage, for
+it is a place most worthy
+your observation, and it
+is extant in the third Vo|lume
+of Councels in the
+<HI>Lateran</HI> Councell under
+<HI>Leo</HI> the tenth, the eighth
+Session; if any be desirous,
+hee may see this more at
+large, which I doe but
+point at. About that time,
+when the Professors of
+<HI>Aristotle</HI> in the Vniversi|ties
+had prevailed thus
+farre, that they defended
+<PB N="106" REF="61">
+by <HI>Aristotle</HI> the soule to
+be mortall, at least wise in
+a philosophicall sense (o|therwise
+perhups, then
+<HI>Aristotle</HI> himself meant)
+because that Commenta|tor
+<HI>Averroes</HI> thought,
+that <HI>Aristotle</HI> meant so; it
+was declared by the <HI>La|teran</HI>
+Councell, <HI>That cer|tain
+pernicious errours, al|wayes
+abhorred of the
+faithfull, were sowed in the
+Lords field by that conta|gious
+Contriver of all mis|chiefe,
+and amongst the
+rest, that the soule of man
+is mortall; which whosoe|ver
+shall affirme, to be
+true, are taxed by that
+<PB N="107" REF="61">
+Councell for rash and
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">nadvised Philosophers.</HI>
+And no more but so?
+yea, they are all con|demned,
+that doe af|firme,
+or once questi|on
+it. True may some
+say according to Divini|ty;
+nay, but they are con|demned,
+whosoever doe
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ouch it to be true even
+in Philosophy; I say
+Philosophy; for it is ex|presly
+named in the De|cree.
+Heare the generall
+Decree annexed. <HI>Foras|much
+as truth can in
+<GAP DESC="illegible" RESP="tech" EXTENT="1 word"> wise bee opposite to
+truth, wee doe resolve,
+that every assertion con|trary
+<PB N="108" REF="62">
+to the Christian faith
+is altogether false; and we
+doe straightly forbid all o|thers
+to conclude other|wise.
+And wee doe decree,
+that all persons, who doe
+pertin<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ciously mayntaine
+this errour, are to be taken
+heed of, and punished as
+breeders and dispensers
+of damnable heresies, and
+to be hated and abhorred
+in all points, as Hereticks
+and Infidels, who go about
+to extinguish the Catho|like
+faith.</HI> You heare, that
+our rash<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">heady Philoso|phers
+are pronounced by
+a generall Councell to be
+hated and abhorred as
+<PB N="109" REF="62">
+Heretickes and Infidels.
+But now (lest they might
+seem onely to make a de<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">cree
+against the defenc<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+of <HI>Aristotles</HI> errors) they
+enjoyn further, that they
+be not onely not defen|ded,
+but also, that they be
+<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">ongly opposed, and
+rejected. Which, let them
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ell consider, who have
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">he charge of Philosophi|<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">all
+disputations; for thus
+<GAP DESC="illegible" RESP="tech" EXTENT="1 word"> follows in the Decree.
+<HI>Wee straightly charge and
+command all Professors of
+Philosophy in Vniversities
+and publique Readers else|where,
+that when they
+read, or expound to their
+<PB N="110" REF="63">
+hearers the points of Phi|losophy,
+which are contrary
+to the true faith, as of the
+soules mortality, the worlds
+eternity or such like opini|ons,
+that to their uttermost
+power, they vindicate the
+truth of Christian Religi|on
+from such errours, and
+explain it to their hearers,
+and (as much as they can)
+both by doctrine and ex|hortation
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">root out, and con|fute
+these arguments of
+Philosophers, seeing they
+may be easily confuted.</HI>
+Thus ye have the Decree,
+the curse is denounced a|gainst
+all t<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">e violaters
+therof. And this Decree
+<PB N="111" REF="63">
+was not ratified by a few,
+but by the whole Coun|cell
+in generall; saving
+onely worshipfull Master
+<HI>Thomas</HI> Superintendent
+of the Preachers Order
+did not approve it. He, as
+it seems, more favouring
+<HI>Aristotle,</HI> then Piety, said
+that the second part of
+the Decree did not please
+him, wherin it was enjoy|ned
+that Philosophers
+should openly teach, and
+instruct their Auditories
+in the true Faith. Now
+then let it seeme doubtfull
+(if it be possible) whe|ther
+the conceit of one
+onely Master <HI>Thomas</HI> a
+<PB N="112" REF="64">
+younger Brother of the
+Preachers Order, or the
+Decree of the general <HI>L<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">|teran</HI>
+Cou~cel ratified with
+an exec<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ation annexed, is
+to be preferred. Moreo|ver,
+if the <HI>Latera~</HI> Cou~cel,
+if the <HI>R<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">mish</HI> Bishop, if the
+Cardinals themselves of
+the Romish Church (ma|ny
+chief points of whose
+Religion rather agrees
+with <HI>Aristotle,</HI> and the
+Philosophers, than with
+Christ, and his Apostles)
+doe denounce a Curse a|gainst
+all such, as shall af|firme
+<HI>Aristotles</HI> opinion<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+dissenting from Christ to
+be true, though in a phi|losophicall
+sense, what
+will become of us thinke
+<PB N="113" REF="64">
+you, who have taken up|on
+us the profession of
+pure Religio~ purged from
+Superstition, freed from
+the rotten devices of men,
+and clensed from the
+drosse and dregs of all er|rours?
+I omit the pressing
+of this point in the <HI>Ny|cene</HI>
+Assembly of Cardi|nals
+appointed for that
+purpose; They held it a
+great abuse, and a matter
+of dangerous co~sequence
+for Philosophers to
+broach impieties in pub|lique
+Schools, and not to
+discover how weake the
+light of nature is to dis|course
+of God, the world,
+and such like arguments,
+<PB N="114" REF="65">
+and in all their disputati|ons
+not to make piety
+their chiefest ayme. I
+presse no<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> the opinion of
+sworne Witnesses those
+Cardinals, <HI>Sadole<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">, Conta|re<GAP DESC="illegible" RESP="tech" EXTENT="3 letters">,
+Poole;</HI> I stick to the
+<HI>Laterane</HI> Councels De|cree.
+Whosoever there|fore
+affirmeth it to bee
+true but in a philosophi|call
+sense, that the soule i<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+mortall, or that the world
+is eternall, if he feare God,
+let him know, that hee
+grievously prophanes
+Gods Name, when the
+authority of his Word is
+disabled, either in jest, or
+in earnest. If hee be a Pa|pist,
+<PB N="115" REF="65">
+let him know, that
+he is pronounced an exe|crable
+Heretick, and Infi|dell,
+lyable to a Curse, and
+delivered up to Satan, by
+the Romish Bishop, and
+the <HI>Lateran</HI> Councell: if
+hee be an Atheist, let him
+take his liberty of philo|sophizing,
+defend his di|stinctions,
+and what hee
+list; I forbid him not. To
+all others, whether they
+are godly, or seeme to be
+so, what I say of the
+Worlds Eternity, or the
+Souls Mortalitie, I say the
+same of all other questi|ons,
+which dissent from
+Christian godlinesse (a|mongst
+<PB N="116" REF="66">
+which is <HI>Aristo|tles</HI>
+opinion of <HI>Blessednes,</HI>
+condemned by the judg|ment
+of <HI>Eusebius, Lactan|tius,
+Augustine, Ambrose,
+Gregory Nyssen, naz<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">an|zene,</HI>
+and many other
+most learned men:) Let
+them look to it, which de<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">fend
+it. Let Philosophers
+distinguish the <HI>Sorbonists</HI>
+barke, <HI>Epicureans</HI> rage,
+<HI>Machiavili<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ns</HI> scoffe,
+<HI>the Truth is conquerer;</HI>
+They themselves totter,
+and shake, fall and rot, but
+the <HI>Truth will triumph</HI>
+Truth (like the Palme-tree)
+the more it is kept
+downe, the more it flou|risheth,
+<PB N="117" REF="66">
+and by how much
+the more forcibly it is
+bended down-wards, by
+so much the more vigo|riously
+it reflecteth up|wards.
+The Sun ofttimes
+is darkned, but that dark|nesse
+is discussed. <HI>Proser|pines
+golden branches are
+broke off, but they spring
+again; Truth may be pres|sed,
+but it cannot be op|pressed.</HI>
+But if any <HI>Novice</HI>
+in Philosophy be offen|ded
+at these things, which
+are truly uttered (neither
+can it bee expected but
+some will take offence at
+them) let him not like a
+<HI>Momu<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"></HI> backbite in a cor|ner,
+<PB N="118" REF="67">
+or maliciously tra|duce
+this, or that thing,
+which I have spoken, but
+let him refute mine Ora|tion.
+He shall not need to
+goe to the <HI>Augustinian</HI>
+Monkes, let him writewithin
+his owne walls;
+Words are but winde,
+writings will stick by it,
+let the learned judge. I
+will most willingly give
+him a copy of mine Ora|tion.
+And so I doe hear|tily
+againe, and againe
+intreat the <HI>Aristotelians,</HI>
+if they have any confi|de~ce
+in their cause, if they
+beare any true affection
+either to <HI>Aristotle,</HI> or Phi|losophy,
+or the Truth,
+<PB N="119" REF="67">
+that they will confute
+mine opinions. If they
+cannot doe it (for I doubt
+not of their good will to
+do it) let them leave their
+wonted obstinacie, and
+yield to the truth. Let
+them not object, they are
+not suffered to speak their
+minds openly, they have
+place enough to write
+their mindes, and that
+they may do more freely,
+and upon better delibera|tion.
+I acknowledge
+mine own weaknesse, no
+man more, but strong is
+the Truth. I doe not so
+much distrust my selfe, as
+I trust to my Cause. A
+very child may mayntain
+<PB N="120" REF="68">
+a good cause; but <HI>Cicero</HI>
+himsefe is not a sufficient
+Patron for a bad cause
+But I would wish them
+to provide new distincti|ons;
+for these, which I
+have handled, have been
+oftner boyled, than the
+Colewo<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">t in the Pro|verbe,
+not twice, but a
+thousand times, which
+the stomack of <HI>Polyphe|mus</HI>
+himself is not able to
+disgest, so that it is no
+mervaile our Schollers
+are sicke so often, when
+they are crammed with
+such distinctions. If any
+more sober minded hath
+either not understood, or
+<PB N="121" REF="68">
+not approoved what ac|cording
+to mine abilitie I
+rather pointed at, than
+explained, by reason of
+the shortnesse of the time,
+I intreat him to come to
+mee; hee shall finde mee
+most ready to teach what
+I know, or to learn what
+I know not: We do not
+all know all things, I may
+erre, I am willing to be
+instructed. This onely I
+crave, that no man doe
+rashly carpe at what is
+done; I neither contemne
+nor condemne the studie
+of Philosophy. But I see
+a deeper wound concea|led.
+There are some in
+<PB N="122" REF="69">
+whose hearts impious
+profanenes is so fast roo|ted,
+that they make piety
+not onely to seeme harsh
+and unsavoury to others,
+but to be rejected and vi|lified
+by themselves. Tru|ly
+as Saint <HI>Augustine</HI>
+wrote long agoe (<HI>that the
+enemies of grace lay con<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">chedunder
+the name of na|ture</HI>)
+so it may be as truly
+said in our times, that the
+enemies of the Faith lie
+couched under the name
+of Philosophy. I know
+indeed there are many
+that erre through lack of
+knowledge, but I mean
+the obstinate, and perti|nacious
+<PB N="123" REF="69">
+Patrons of Phi|losophy;
+of whom would
+to God that were untruly
+spoken, which I here
+speak againe with griefe,
+<HI>The enemies of the faith
+lie couched under the
+name&punc; of Philosophy.</HI> I shall
+be thought of some to be
+their enemy, now I have
+rub'd their soares: So
+mad <HI>Orestes</HI> in <HI>Euripides</HI>
+called his sister <HI>Electra</HI> a
+Fury of Hell, because she
+tied him fast in his bed,
+lest hee should run mad;
+But her brothers outragi|ous
+words nothing daun|ted
+<HI>Electra,</HI> neither shall
+these mens prejudicate
+<PB N="124" REF="70">
+censures disquiet mee,
+when they are whole,
+they will give me thanks.
+The Physician must bear
+with the frowardnesse of
+his patient; For I am not
+ignorant how many and
+how bitter grudgings I
+shall meet with all, which
+did I know to bee spent
+upon these trifles of
+mine, I should be very
+stupid, if I should not e|steeme
+them as matters of
+great importance, both
+for your benefit, true pie|ties
+sake, and Gods glory,
+which (the Lord is my
+witnesse) I onely aime at.
+These may seeme light
+<PB N="125" REF="70">
+matters, but the trees vi|gour
+consists in the root.
+The Scriptures and pro|fane
+writings are like <HI>Hip|pocrates</HI>
+twins, laughing
+together, weeping toge|ther,
+sicke together, and
+sound together. In those
+<HI>Vniversities where the
+Gospell doth flourish, the
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ooleries of</HI> Duns Scotists
+<HI>are banished thence, wit|nesse</HI>
+Geneva, Leiden, Ba|<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ill,
+Germany <HI>is witnesse.</HI>
+In those places, <HI>where</HI> A|ristotle
+<HI>beares sway, there
+all impiety rules and
+raignes;</HI> Witnesse <HI>Paris,
+Padua, Italy is witnesse.</HI>
+But yet let all impedi|ments
+<PB N="126" REF="71">
+to Pretie doe their
+worst, wee may defend
+Philosophy even to
+death, we may study pro|fane
+Arts, but so, as they
+bee referred to pious
+things. This was the
+minde of that good old
+man Master <HI>Richard Fox,</HI>
+whose Image is every day
+before our eys; This one|ly
+was his chiefest care.
+And howsoever hee fell
+into the error of the times,
+yet all his care was, that
+Religion, Piety, and god|ly
+Exercises should flou|rish
+and increase daily a|mongst
+us. Who, seeing
+hee hath left behind the
+<PB N="127" REF="71">
+expression of this his
+good desire rather in the
+Statutes of the house, than
+in our behaviour (which
+is to be lamented) there|fore
+hee seemes to speake
+to us all continually, as a
+father to his children in
+this manner.</P>
+<P>Wheras I did heartily
+desire you young men, my
+sonnes by adoption, and
+brethren in Christ, to be
+brought up in the know|ledge
+of God, which is
+true blessednesse; lest the
+thorny cares of the world
+should choake the spring|ing
+seeds of godlinesse in
+you, I built an house for
+<PB N="128" REF="72">
+you, that so you being
+freed from carking cares,
+might wholy apply your
+studies. I provided nou|rishment
+for your bodies,
+and soules. I admonished
+you to be mindfull, that
+your place assigned you
+on earth was not perma|nent,
+but transitory, and
+that you have here no a|biding
+City, but must
+look after one in Heaven.
+I have ordained for you
+Professors of the tongues,
+and Arts, that so you at|taining
+to the knowledge
+of them in your younger
+yeeres, might be enabled
+to underrgoe weighty af|faires
+<PB N="109" REF="72">
+hereafter. I besee<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ched
+you in the bowels of
+<HI>Iesus Christ,</HI> that you
+would devote all your
+studies to Gods glory. I
+have declared to the
+World, that this College
+of mine was founded for
+Divinitie sake. I have en|joyned
+the other Lectu|rers
+to designe all their
+labours, and studies to ac|commodate
+the Divine.
+I have earnestly exhorted,
+and enjoyned you all to
+strive, and contend with
+all possible diligence for
+the knowledge of Divi|nitie.
+I had good hope,
+that this Colledge would
+<PB N="130" REF="73">
+have sent forth many
+both excellently learned
+men, and sound Christi|ans,
+who being well sea|soned
+themselves with
+heavenly wisdom, would
+make the unsavory minds
+of others to relish pietie,
+bring the light of the
+Gospell to them that sit
+in darknesse, restore the
+sick to health, refresh the
+poore, strengthen the
+weak, direct them that go
+astray, and raise up the
+dead by the Gospell. But
+alasse my hopes are fru|strate;
+my labours are all
+in vaine; yea, so short of
+arriving at the desired ha|ven,
+<PB N="129" REF="73">
+that they are over|whelmed
+with a tempest
+in the very mid-way.
+That <HI>Origen,</HI> when he<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+taught profane learning to
+the Heathens at <HI>Alexan|dri<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">,</HI>
+had such good suc|cesse
+in teaching of Rhe|torique,
+by sometimes in|terlacing
+Examples and
+Sentences of Godlinesse,
+that many of them were
+converted to Christiani<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ty.
+I trust, Christians are
+not made impious by
+your Expositions of Mo|rall
+Philosophy in <HI>Ox|ford;</HI>
+but I am sure you
+corrupt weake Schollers
+with your <HI>Epicurean</HI> li|centiousnesse
+<PB N="130" REF="74">
+of life. Thus
+the streams, which should
+refresh the dry soules of
+poore wretches, that the
+plants of piety might
+spring apace, are quite
+dried up in the very foun|tain;
+so the fruit is perish|ed
+in the blossome, the
+Corne is crushed in the
+blade, before it can come
+to a true ripenesse, and be
+fit for food. For what o|ther
+thing, did that grace|lesse
+Apostate <HI>Iulian</HI> pra|ctise,
+when hee laboured
+to extirpate Christian Re|ligion
+out of the World,
+th<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">n command, <HI>that such
+opinions as opposed Chri|stian
+<PB N="131" REF="74">
+piety should be pub|liquely
+taught, and defen|ded
+in Schooles, that so the
+younger sort might loathe
+and distaste Christianitie
+quite.</HI> Impious likewise
+was the practice of that
+Heathenish Tyrant <HI>Ma|ximinus,</HI>
+who caused such
+points, <HI>as were contrarie
+to syncere godlinesse, to be
+expounded to the hearers,
+and to be learned without
+book,</HI> yee that professe the
+Name of Christ, do yee
+think, yee have done very
+well, when yee have by
+your Declamations op|posed
+the blasphemous
+errours of the <HI>Gentiles,</HI>
+<PB N="132" REF="75">
+(which <HI>Basil</HI> ab<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">orreth
+once to mention) and yet
+you still uphold the base
+opinions (as <HI>Chrysostome</HI>
+calls them) of <HI>Aristotle.</HI></P>
+<Q>O c<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">rva in terris animae,
+&amp; coelestium inanes.</Q>
+<Q><L>You groveling Souls on
+earth that take delight,</L>
+<L>Of heavenly matter
+void, &amp; empty quite.</L></Q>
+<P>What madnesse hath
+so infatuated your senses,
+that yee suck poyson out
+of the Philosophers, con|vert
+helps into hinderan|ces,
+em<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">race vanity for
+<PB N="133" REF="75">
+verity, take the dregs,
+when you may have the
+finer stuffe? Do yee pro|fesse
+Christ in the Church
+in words, and <HI>Aristotle</HI> in
+the Schools in good ear|nest,
+and <HI>Epicurus</HI> your
+lives and actions? What
+a shame is it, that may be
+verified of you, which
+<HI>Ambrose</HI> said of the <HI>Ar|rians,
+They have forsaken
+an Apostle, and followed
+Aristotle.</HI> Why doe yee
+waste good houres about
+trifles, divine wits about
+noxious things, and con|sume
+that precious time,
+which should be spent in
+History, Oratory, and
+<PB N="134" REF="76">
+Philosophy (but especi|ally
+in sacred matters,
+wherby Truth and God|linesse
+might be promo|ted)
+and lie <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">aking in the
+filthy puddles of doting
+silly men? Do yee thinke
+I was ever so sottish, as to
+forbid yee the imitation
+of <HI>Lyranus,</HI> and <HI>Hugo</HI>
+(patternes for Divines)
+in interpreting the Scrip|tures,
+or did the same I
+ever propose such Scums,
+as <HI>Stannihursts Logicke,
+Paulus Venetus</HI> his <HI>Ana|lyticks,
+Niphus</HI> his <HI>To|picks</HI>
+or <HI>Donatus</HI> his <HI>E|thicks</HI>
+to be once medled
+withall of young Stu|dents?
+<PB N="135" REF="76">
+Does not my Pi|cture
+put yee in minde to
+what end yee were cho|sen
+Schollars of this
+house, what yee ought to
+ayme at, and to what pur|pose
+ye should designe all
+your endevours? Are yee
+not d<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ily stirred and inci|ted
+(like so many Be<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">) to
+dispose all your hony ex|tracted
+out of the flowres
+of Truth to Gods glory?
+Are yee not convinced in
+the judgements of those
+holy men EUSEBIUS,
+Saint <HI>Augustine, Lactan|tius,
+Iustine Martyr,</HI> and
+the rest of the Fathers,
+who have with so great
+<PB N="136" REF="77">
+industry, and exquisite
+knowledge plucked up
+by the roots, and trodden
+under foot the false opini|ons
+of Philosophers, and
+<HI>Aristotle?</HI> Are yee not sa|tisfied
+with the authoritie
+of the <HI>Later<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">n Councell,</HI>
+of so many Bishops, so
+many learned men, and
+choice Cardinalls, who,
+(to the end, that Christi|ans
+might in their tender
+yeers be informed in true
+opinions) have most
+straightly charged, that
+the weaknesse of the light
+of Nature should be made
+knowne, laid open, and
+often pressed in Audito|ries?
+<PB N="137" REF="77">
+What is in you or
+any of you (young men)
+unlearned in comparison
+of so many aged men, and
+so many Fathers renow|ned
+both for Learning &amp;
+Pietie, that yee should
+account your selves wiser
+than they, either in trai|ning
+up such as yee&punc; in|struct,
+or sharper-witted
+in understanding what ye
+reade, and that those
+points, which they con|demned
+in <HI>Aristotle</HI> con|cerning
+Nature and Man|ners,
+as false and foolish,
+yee should censure to be
+unjustly condemned, and
+approve them by your
+<PB N="138" REF="78">
+absurde Distinctions?
+Have I therefore erected
+<HI>Corpus Christs</HI> Colledge
+for Divines that <HI>Aristotle</HI>
+might have moe follow|ers,
+and my Saviour no
+pious servants? Have I
+therefore con<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">erred so
+large benefits upon you&punc;
+that yee should in your
+speeches pre<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">erre ungod|ly
+and unprofitable be|fore
+good and wholsome
+matters, mans glory be|fore
+Gods glory, the in|fernall
+gods before the
+most mightie God? Have
+I therefore ordained that
+famous man <HI>Ludovicu<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+Vives</HI> to be your Lectu|<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">er,
+<PB N="139" REF="78">
+who taught you in
+his life time by admoni|tions,
+and after his death
+by his writings, how the
+corrupted Arts might be
+thoroughly purged and
+clensed? And are ye now
+so silly (young men) as to
+leave Viands for Acorns,
+Trees for Chips, and with
+the Dog return to his vo|mit,
+and with the Swine
+to wallowing in the mire?
+It was my desire, and I
+enjoyned you to observe
+it, that such as were sound
+should not be corrupted,
+but the bad should be di|rected,
+the ignorant shold
+be instructed, and not the
+<PB N="140" REF="79">
+capable made fools, nor
+to regard what doting
+Philosophers dreamed of,
+but what true things
+were comprised in the
+Arts. Is not the flesh of
+it self raging enough, for|ward
+enough to defecti|on,
+prone to naughtines,
+and flexible to every kind
+of vice, unlesse yee <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">o|ment,
+and feed it with <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">u|ell
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">etched from Philoso|phers,
+to inflame the
+sparks of impietie, and so
+adde fire to fire? ye think
+your selves not able e|nough
+to heare <HI>Aristotle,</HI>
+but yee are to heare
+Christ. Shake off this
+<PB N="141" REF="79">
+drowsines, trample upon
+prophane things, be wise
+in heavenly things, search
+out the truth, reverence
+godlinesse; and that not
+lazily, but earnestly, with
+all your industry, and
+with your whole heart,
+night and day, at home
+and abroad, privatly, and
+publikely. The violent <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ay
+hold of the kingdome of
+Heaven. Not the sloth|full,
+but the runners get
+the Crowne. Hee that
+knows not Christ knows
+nothing. True Religion is
+true Blessednesse. Let no
+man deceive himself; lear|ning
+without godlinesse
+<PB N="142" REF="80">
+is poyson. Whom it pos|ssesseth,
+it puffs up, who~ it
+puffs up it kils. The most
+glorious God enlighten
+your mindes with the
+brightnesse of his grace;
+that yee may alwaies be
+mindfull of that account
+yee are to give to the se|vere
+Iudge not onely of
+wicked works, but of idle
+words; and let go the tri|fling
+curiosities of worth|lesse
+men, the glittering
+s<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">btilties of <HI>Philosophers,</HI>
+the apish toyes of <HI>Sophi|sters,</HI>
+&amp; <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ooleries of <HI>Dun|sists;</HI>
+but lay hold on true
+and proficient Learning,
+wherewith yee being ex|quisitely
+<PB N="143" REF="80">
+furnished, and
+with <HI>Piety</HI> adorned may
+at length bring honour
+to God, salvation to your
+selves, and be helpfull to
+others. These things sure|ly
+that pious olde man
+(most respected young
+men) doth daily speake
+unto us, though not in
+words, yet to the same ef|fect
+in his desires&punc; Which
+if you carefully consider,
+I beseech you all in the
+presence of the Lord (be|fore
+whose dreadfull Ma|jestie,
+their consciences
+that reject saving know|ledge
+shall one day trem+ble
+and quake) that yee
+<PB N="144" REF="81">
+abuse not your own, and
+others excellent wits. Ye
+that teach, and yee that
+are taught, be diligent, the
+one in delivering, the o|ther
+in receiving conveni|ent,
+not impertinent; ne|cessary,
+not frivolous;
+profitable, not triviall
+things. <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ime posteth a|way;
+the arts are difficult;
+life is short; error is dan|gerous;
+trifles are hurtful,
+truth is precious. <HI>Christ
+is the Marke.</HI> Let them,
+that know not true wise|dome,
+enquire after it; and
+let them that know it, ex|presse
+it in their speeches;
+lest others contemne wis|dome
+<PB N="145" REF="81">
+before they know
+it; and they themselves
+never attaine to a true,
+but a false wisdome
+to no purpose.</P>
+<TRAILER>Dixi.</TRAILER>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+</BODY>
+<BACK>
+<DIV1 TYPE="imprimatur">
+<PB REF="82">
+<PB REF="82">
+<OPENER><DATELINE><DATE>Ian. 9. 163<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">.</DATE></DATELINE></OPENER>
+<P>Imprimatur</P>
+<CLOSER><SIGNED>Thomas Wykes.</SIGNED></CLOSER>
+</DIV1>
+</BACK>
+</TEXT>
+</EEBO>
+</ETS>

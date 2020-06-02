@@ -1,0 +1,74 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD EEBOPROOF 2.0//EN">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-08-20</DATE>
+<RESPSTMT>
+<NAME>Mona Logarbo</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>*Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate.
+*Ran capitalizations.
+*Checked for GROUP tags.
+*Proofed title page(s).
+*Checked for TYPE=book.
+*Checked I / J.
+*Checked ^s.
+*Checked oe for ae ligatures.
+*Reviewed structure.
+Added HEAD TYPE="illustration" with FIGURE / HEAD / FIGDESC.
+Changed position of SIGNED within CLOSER (to place it closer to the final line which rhymes with the one above it).
+Added DATE to DATELINE in CLOSER.
+*Checked placement and completeness of PBs.
+*Checked for damage GAPs, #s, @s, --s, &mdash;, q;s, <ABBR>Esq</ABBR>  and UNCLEARs.
+*Corrected $ by inserting the appropriate character.
+*Checked for duplicate pages.
+*Checked for missing pages.
+*Checked spacing of foreign GAPs.
+*Checked for &amp;cs with incorrect spacing.
+*Checked for LBs.
+*Checked for OPENERs, DATELINEs, DATEs, SIGNEDs, CLOSERs, TRAILERs, BYLINEs, etc.
+*Checked for TABLEs and LISTs.
+*Checked for startqs, endqs and Qs.
+*Checked proofsheets and made corrections.
+DONE 08-20-03.</ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="A65826">
+<STC T="W">W1877</STC>
+<BIBNO T="umi">99830100</BIBNO>
+<VID>34550</VID>
+</IDG>
+<TEXT LANG="eng">
+<BODY>
+<DIV1 TYPE="poem">
+<PB REF="1" MS="y">
+<HEAD TYPE="illustration"><FIGURE>
+<HEAD>HONI : SOIT : QVI : MAL : Y : PENSE</HEAD>
+<FIGDESC>blazon or coat of arms</FIGDESC>
+</FIGURE></HEAD>
+<HEAD>TO THE No less Vertuous than Ingenious M^r^i^s MARY MORE; Upon Her Sending Sir Thomas More's PICTURE (OF HER OWN DRAWING) TO THE LONG GALLERY AT THE PUBLIC SCHOOLS In OXON.</HEAD>
+<OPENER><SALUTE>MADAM,</SALUTE></OPENER>
+<L>YOur Benefaction has bin such,</L>
+<L>That few can think it is a Womans Touch:</L>
+<L>So to the Life was <HI>Issa</HI> drawn <NOTE N="*" PLACE="marg"><HI>Mart. Epigr. 110. Lib. I.</HI></NOTE> (the Bitch)</L>
+<L>That the Beholder doubted which was which.</L>
+<L>Seldom so Rare an Artist hath there bin;</L>
+<L>Yet every Lady Knows to Draw Man In.</L>
+<L>Since then Your Pencil far exceeds our Pen,</L>
+<L>Let it be said I was the First of Men</L>
+<L>Could stop in Scribling&mdash;Know we study Thrift,</L>
+<L>And fancy This a Richer <HI>New-Years-Gift.</HI></L>
+<L>When One in Shadows, T'other deals in Rime,</L>
+<L>Painters and Poets should knock off in Time.</L>
+<L><HI>Janus</HI> will knit both Brows too, if I trouble You</L>
+<L>Longer, or interrupt Him,</L>
+<CLOSER><SIGNED>Yours, <HI>R. W</HI></SIGNED> <DATELINE><DATE>X^b^r^i^s 26. 1674.</DATE></DATELINE></CLOSER>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

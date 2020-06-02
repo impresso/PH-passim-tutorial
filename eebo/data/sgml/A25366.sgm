@@ -1,0 +1,1775 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD EEBOPROOF 2.0//EN">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-08-12</DATE>
+<RESPSTMT>
+<NAME>Marika Ismail</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TYPEs to DIVs in order to validate. Proofed title page(s). Checked for N=""s. Checked for GROUP tags. Checked ^s. Reviewed structure. Checked division-marking material at heads and feet of divisions (HEADS,  CLOSER, OPENER, ARGUMENT, EPIGRAPH, SIGNED, BYLINE, etc.). Checked for signatures. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected ** $s and $word$s etc. of **. Converted __ $$s to GAP DESC="illegible" RESP="[vendor name]". Checked spacing of foreign GAPs.  Checked for LBs. Checked for startqs, endqs, oes, q;s, and Qs. Checked proofsheets and made corrections found there.  Checked for FIGUREs and decorated initials. Checked for missing-page GAPs. Revalidated. </ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="A25366">
+<STC T="W">A3105</STC>
+<BIBNO T="oclc">12306204</BIBNO>
+<VID>59261</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1">
+<PB REF="1" MS="y">
+<P>The Making of
+ROCKETS.</P>
+<P>In Two Parts.</P>
+<P>The First
+Containing the Making of <HI>Rockets</HI>
+for the meanest Capacity.</P>
+<P>The other
+To make <HI>Rockets</HI> by a Duplicate
+Proposition, to 1000 pound
+Weight or higher.</P>
+<Q>Experimentally and Mathematically
+Demonstrated, By</Q>
+<BIBL>ROBERT ANDERSON.</BIBL>
+<P><HI>LONDON:</HI>
+Printed for <HI>Robert Morden,</HI> at the <HI>Atlas</HI> in
+<HI>Cornhil.</HI> 1696.</P>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="2">
+<PB REF="2">
+<HEAD>To the Right Honourable
+HENRY
+Earl of Romney.</HEAD>
+<HEAD TYPE="sub">Vicount Sidney of Sheppy, Baron
+of Milton, Master General of his
+Majesty's Ordnance, Constable of
+Dover Castle, Lord Warden of the
+Cinque Ports, and one of the Lords
+of his Majesty's most Honourable
+Privy Council.</HEAD>
+<P>WELL knowing my
+most Noble Lord,
+that these things will easily receive
+Perfection in your Hands, which
+for many Reasons are beyond my
+reach.</P>
+<P>This Treatise (if it may de|serve
+that name) is the least in
+<PB REF="3">
+Bulk, and seemingly relating to
+the sleightest Subject I have met
+withal in <HI>Pyrotechnia.</HI> But in the
+many Volumns great and small
+that I have read relating to these
+Matters in our own and other
+Languages; I do not find the least
+Pretence or Thought of doing
+<HI>that</HI> which here is undertaken, <HI>viz.
+To raise so great a heap of Fire, and
+to confirm the Fact by the greatest
+Proofs that can be had or wish'd for,
+which are Experiments and Demon|strations
+Mathematical.</HI> Yet this a|lone
+is not the matter aim'd at,
+the Problem is universal, and ap|plicable
+to the Fortifications of all
+sorts of Guns and other Engines
+with their Carriages, <HI>&amp;c.</HI> and is
+<HI>to increase or decrease the strength of
+Materials according to the Effects
+and Services required.</HI> But the great|est
+Skill in this Undertaking being
+<PB REF="3">
+to adjust the Instrument and Means
+in a due and proper Proportion to
+the Effect sought for; I do with
+all Humility and profound Re|spect
+make offer of this small Es|say.</P>
+<P>It is your Lordships great Abi|lities
+and Merit, that has enabled
+you to tread the intricate and pain|ful
+steps of Greatness; and by
+the well discharging so many E|minent
+Employments, to add,
+(if any thing can be added) to
+the Great Name of your Renown|ed
+Ancestors. An ardent Zeal
+for the Welfare and Honour of
+your Country, has always been
+the inbred Vertue of your Family,
+and which is brought to its Per|fection
+in your self.</P>
+<P>The Name of <HI>Master General</HI>
+of the <HI>Ordnance,</HI> lays Claim to all
+my (more than 25 Years) Ex|perience
+<PB REF="4">
+and Studies about the Art
+of Shooting in all sorts of Great
+Artillery amounts to: But the ad|ding
+something (according to my
+poor Sphere and Capacity) to the
+Defence, Safety and Reputation
+of my Native Country, has at all
+times so intirely govern'd me,
+that upon this account also, and
+indeed chiefly, I am emboldned
+to lay this mean Attempt of mine
+before your Lordship; trusting
+that it may at some time or other
+undergo a Trial, and by your
+Lordships Favour receive a meet
+Incouragement, and procure your
+Lordships Pardon, <HI>&amp;c.</HI> to</P>
+<CLOSER><SALUTE>My Lord,</SALUTE>
+<SIGNED>Your Lordships most Obedient,
+Humble Servant,
+<HI>Robert Anderson.</HI></SIGNED></CLOSER>
+</DIV1>
+<DIV1 TYPE="address">
+<PB REF="4">
+<HEAD>TO THE
+Young PYROBOLISTES.</HEAD>
+<P>ROckets are the most Artificial
+piece of Fire-work yet used
+amongst the Pyrobolistes, and
+hath been more used of late
+Years than formerly, and that the Young
+Artists may not spend their Time and
+Money unnecessarily, I have given easie,
+plain, and ready Rules for making of
+Rockets to two Inches and half Diame|ter,
+which is sufficient for all private
+Occasion, <HI>viz.</HI> Of the Mould of a Rocket.
+Of the Rouler and Case. Of the Compo|sitions.
+Of the Receipts of Rockets. Of
+the Driver. Of the Boring of the
+Rocket. Of the Stars and other Matter
+to be put in the Head of a Rocket. To
+Head a Rocket. Of the Sticking of a
+Rocket. And lastly, to Fire the Rocket.
+And some Observations about the manage|ment
+<PB REF="5">
+of a Rocket in general; all which
+I hope will prove casie and beneficial to
+the Ingenious, and those that are willing
+to Learn: and what you do, endeavour
+to do it well, and do not be Conceited;
+which if so, I have my ends. And
+from these little beginnings greater Mat|ters
+may be obtained, and you may become
+serviceable to your Country; in which be
+sure to be Careful, Honest and Faith|ful.</P>
+</DIV1>
+<DIV1 TYPE="address">
+<PB REF="5">
+<HEAD>TO THE
+Other PYROBOLISTES.</HEAD>
+<P>ABout fifteen Years since I con|sidered
+of a method to increase
+or decrease the strength of the
+Metal of Guns, which is this
+that I intend to discourse of. And at the
+Close of a small Treatise to hit a Mark
+published in the Year 1691. I proposed
+that Problem in Print; since that time
+there has been more than Ordinary occasi|on
+for it, by Reason of the new Casting
+of the Mortar-pieces. About two Years
+since I put that Problem into a method,
+and made a Draught of the whole matter
+to increase or decrease the strength of the
+Metal of a Gun in any possible Proporti|on
+assigned. But when I saw the Mortar|pieces
+brought from Sea broke, it was
+thought to be a good time to shew it,
+<PB REF="6">
+which was done, and the whole matter
+discoursed of at large, but it signified
+00. But now I apply that Problem to
+the making of Rockets for the young
+Artist, as you see in its proper place.
+And it is manifest that the young Rocket-makers
+of this City are very Careful and
+Artificial in their Rockets of <HI>8d. 12d.</HI>
+or <HI>18d.</HI> value, otherwise they may break
+and so lose their Labour and Discredit
+themselves. Seeing these Mathematical
+Rules are so applicable to the greatest
+nicety of the Rising of all sizes of
+Rockets; is it not more valuable to be
+applied to those Chargeable Instruments
+of War, <HI>viz.</HI> Guns of all sorts, with
+their Carriages, and all other their Fur|niture?</P>
+<P>As to the Doctrine of shooting by the
+increase and decrease of Powder, this
+way of making of Rockets proves it to
+be absurd; for all Rocket makers to this
+time weaken the Composition of their
+Rockets, as their Rockets are in great|ness,
+or having greater quantities of
+<PB REF="6">
+Composition; and that by chance, and
+without any Mathematical Demonstra|tion.</P>
+<P>And also by Experience, in Table
+<HI>June</HI> 1. 1691. and in the first Column
+Experiment 4, against that in Column 2
+you will find 4 Ounces of Powder, and
+in Column 3, 3377. Again, in Co|lumn.
+1, against Experiment 1 in Co|lumn
+2, you find &frac12; an Ounce of Powder,
+and against that in Column 3, you find
+213; now because the Requisite of Pow|der
+are as 8 to 1, therefore I multiply 213
+by 8, and it makes 1704, much short of
+3377, which indeed should have been
+equal to the said 3377. that is the
+Ranges upon the plain of the Horizon
+are not as the Requisites of Powder which
+projected those Ranges; the like may be
+done in all the other Experiments. I.
+have made hundreds of Experiments in
+several sorts of Mortar-pieces, and am
+ready to make as many more, all which
+will manifestly confute the Doctrine of
+shooting by the increase and decrease
+<PB REF="7">
+of Powder, and have often invited the
+first promoter of that Doctrine to see his
+Invention confuted; and I do here in|vite
+all the Practitioners in that Science
+of shooting by the increase and decrease of
+Powder, to come and see their Doctrine
+confuted. I do hear assert it is impossible
+ever to bring that way of shooting to be
+so exact and ready for use, in all or any
+sorts of Guns, as the common or usual
+way is, by keeping the Requisites of Pow|der
+constant, and elevating the Piece. In
+the Complicating of Rockets, whose Dia|meters
+are at any great distance; we make
+use of Experiments of shooting made upon
+another Occasion, and those Experiments
+serves sufficiently well; but if we were
+to do them justly according to Art, there
+should be two even Chased Guns of the
+same Proportion as the Rockets are of,
+that is the Diameter of the exposed Rocket
+2&frac12; Inch multiplied by 6 is 15 Inches,
+and those should be the Diameter and
+length of one of the Guns: 4 Inches the
+Diameter of the other Rocket, multiplied
+by 6 is 24 Inches, which 4 Inches for
+<PB REF="7">
+the Diameter, and 24 Inches for the
+length should be the other Gun, or any
+two Guns in that Proportion. For the
+Requisite of Powder take the Cube of 4,
+which is 64, as also the Cube of 2&frac12;,
+which is 15.625, divide the greater
+Cube Number by the lesser, and the
+Quotient is 4, sufficiently near; so the
+Requisites of Powder of these two Pieces
+are as 4 to 1, then take any reasonable
+Requisite of Powder for the 4 Inch Gun,
+then take the fourth part of that Re|quisite
+for the Requisite of Powder for
+the lesser Gun, discharge them both at
+one degree of Elevation, and note their
+Ranges. Their Bullets are to be of the
+same Metal, and of the same likeness, and
+both exactly fit. In a Mathematical
+sence these Ranges should be equal;
+but by Combination the greater quan|tity
+of Powder aggitates more upon the
+great Bullet, than the lesser Requisites
+doth aggitate upon the lesser Bullet,
+and that causes those differences, the like
+when two quantities of Powder aggitate
+upon one Bullet; it is Experience only that
+<PB REF="8">
+determines the matter. Although strange
+things sometimes happens; yet this we
+will Assert, and endeavour to maintain
+that Mathematical Knowledg, join'd with
+faithful Experiments, will do greater
+matters than most Men commonly con|ceive.</P>
+<CLOSER><SIGNED>Rob. Anderson.</SIGNED></CLOSER>
+</DIV1>
+<DIV1 TYPE="note">
+<PB REF="8">
+<P>Rocket Moulds are
+made by Mr. <HI>Cuggley</HI> just
+without <HI>Cripplegate.</HI></P>
+<P>Taper Bits for Rockets,
+are made by Mr. <HI>Goode</HI>
+just within <HI>Cripplegate.</HI></P>
+<P>Rods for Rockets, are
+made by Mr. <HI>Stateham</HI> in
+<HI>Token-House-Yard, Lothbury.</HI>
+All three right good
+Workmen.</P>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 N="1" TYPE="part">
+<DIV2 N="1" TYPE="proposition">
+<PB REF="9">
+<PB N="1" REF="9">
+<HEAD>PROPOSITION I.</HEAD>
+<HEAD TYPE="sub">Of a Rocket-Mould.</HEAD>
+<P>LEt E M R
+D D H L E be a Rocket-Mould,
+A B
+the Diameter
+of it, <HI>viz.</HI> one
+Inch and half;
+Z K 4 Diame|ters,
+that is
+6 Inches the
+height to be
+filled with
+Composition,
+B E half a Di|ameter
+an o|verplus,
+Z C
+the height of
+the boring 4
+Inches and &frac12;,
+or &frac34; of the
+height of the
+Mould, G F
+the Orifice one
+third of the
+Diameter of
+the Rocket
+half an Inch,
+<FIGURE>
+</FIGURE>
+<PB N="2" REF="10">
+Z Y one sixth of the Diameter of the
+Rocket a quarter of an Inch, the thick|ness
+of the Case, D Y Z G C F Z Y D
+the bottom of the Rocket-Mould with
+the Needle to be put in and taken out;
+R H a Pin of Iron to fix the Mould and
+Bottom together.</P>
+</DIV2>
+<DIV2 N="2" TYPE="proposition">
+<HEAD>PROPOSITION. II.</HEAD>
+<HEAD TYPE="sub">Of the Rowler and Case of a
+Rocket.</HEAD>
+<P>MAke the Body of the Rowler nine
+Diameters in length, and in Dia|meter
+two thirds of the Diameter of the
+Rocket, and the Head of the Rowler of
+the Rocket the same Diameter; let the
+Diameter of the Neck of the Rowler be a
+little less than one third of the Diameter of
+the Rocket, because when opened with a
+Cone of Wood the Orifice of the Rocket
+may be just one third smooth and hard to
+endure the Fire. Then the thickness of the
+Case will be one sixth of the Diameter of
+the Rocket, which being well Rowled and
+Choaked, the Case may be finished.</P>
+</DIV2>
+<DIV2 N="3" TYPE="proposition">
+<PB N="3" REF="10">
+<HEAD>PROPOSITION III.</HEAD>
+<HEAD TYPE="sub">Of the Composition for Rockets.</HEAD>
+<P>THE Ingredients which Rockets are
+Composed of are Saltpetre, Sulphur,
+and Wood-Coal mealed, and passed
+through a fine Sieve. First, take the
+largest of Small-Coal made of Birch-Wood.
+Secondly, chuse the Yellowest
+Roch Sulphur. Thirdly, take Saltpetre
+put in a Brass Vessel, to which put so
+much fair Water as will dissolve it, put
+that Vessel upon the Fire, when it boils
+scum it clean; when the Water evaporates
+and consumes, stir it with a Spatula of
+Wood to meal it, what remains of the
+Saltpetre upon the Spatula, and sides of
+the Vessel, rub off with your Spatula of
+Wood; then meal it, and pass it through
+a fine Sieve. A second way to Clarifie
+Saltpetre; take a Crucible, set it in the
+Fire, put Saltpetre thereunto, increase the
+Fire till the Saltpetre be Reduced to a
+liquid quality like Water; when it boils
+take mealed Sulphur upon a Spatula of
+Iron, and put it into the boiling Saltpetre;
+so often repeated, the Flegmy quality of
+<PB N="4" REF="11">
+the Saltpetre will be burnt away, and the
+flame will remain as white as the Body of
+the Sun. Then pour it into some very
+smooth Vessel, which being cooled, you
+may reduce it into meal. These ways I
+have done for my Recreation; but I usu|ally
+take the cleanest Saltpetre to be found
+in Drugsters Shops, and it does as well.</P>
+</DIV2>
+<DIV2 N="4" TYPE="proposition">
+<HEAD>PROPOSITION IV.</HEAD>
+<HEAD TYPE="sub">The Receipts for Rockets.</HEAD>
+<P>FOR an Inch, an Inch and half, and
+two Inch Rocket, and for a White
+Fire, take 2 Drams of Antimony, 1
+Ounce of Sulphur 2&frac12; Ounces of Coal-dust,
+6 Ounces of Saltpetre, and 8 Ounces
+of powder dust, [<HI>Casimer du Grand Art d'
+Artillerie, Partie 1. Livre 3. pag.</HI> 145.] Fill
+4 Diameters and Bore 2&frac12;. For an Inch
+and half, and two Inch, and two Inch
+and half Rocket, and a Yellow Fire, take
+1 Ounce of Sulphur, 1 Ounce of Coal-dust,
+4 Ounces of Saltpetre; or take 1 Ounce
+of Sulphur, 1&frac12; Ounce of Coal-dust, and
+4 Ounces of Saltpetre. [<HI>Casimer du Grand
+Art d' Artillerie, Partie 1. Livre 2. pag.</HI> 99.]
+Fill 4 Diameters, and bore 3, or a little
+<PB N="5" REF="11">
+more. And <HI>Daniel Elrich Der grossen
+Kunst Artillerie Zweiter, Theil. pag. 54.
+at.</HI> 19. Advises to take 1 Ounce of Sul|phur,
+one Ounce of Coal dust, 4 Ounces
+of Saltpetre. Again, take 1 Ounce of
+Sulphur, 2 Ounces of Coal, and 6 Ounces
+of Saltpetre; also take 1 Ounce of Sul|phur
+2&frac12; of Coal, and 6 of Saltpetre.
+<HI>Johann. Sigmund. Buchner in Theoria 
+praxis Artilleria Andere Theil, pag.</HI> 28. Weigh
+the Ingredients single, put them into a
+wooden Bowl, mix them very well toge|ther,
+and pass them through the Sieve,
+then your Composition is fit for use. In
+filling Rockets of one or two Inches Dia|meter;
+let them be filled at 6, 8, or 10
+times Charging, and to every Charge 10,
+12, or 14 blows with a Mallet, and be|twixt
+every three blows turn the Dri|ver
+a little in your Hand, so the Com|position
+about the Needle will be pre|served.</P>
+<P>Some of our Rocket-Makers cry up
+the Compositions of <HI>Woolverman</HI> and
+<HI>Nelson,</HI> as though there was no Compo|sition
+to be found like theirs, and they
+are thus: that falsly called <HI>Woolverman</HI>'s
+is 1 of Sulphur, 1 of Coal, and 4 of
+Saltpetre: and that of <HI>Nelson,</HI> 1 of Sul|phur,
+1&frac12; of Coal, and 4 of Saltpetre,
+as they stand in the Remains of
+<PB N="6" REF="12">
+Mr. <HI>Francis Deane,</HI> sometime Gunner
+of the <HI>Tower.</HI> These Compositions are
+Old and Common, as you see, they
+are Good, Strong, and dull Compositi|ons,
+and easily mannaged. Those Com|positions
+where Powder is judiciously
+mixed are more lively, and so more diffi|cult
+to mannage.</P>
+</DIV2>
+<DIV2 N="5" TYPE="proposition">
+<PB N="7" REF="12">
+<HEAD>PROPOSITION V.</HEAD>
+<HEAD TYPE="sub">Of the Driver of a Rocket.</HEAD>
+<P>LEt y A F G H E B y
+be the Driver of
+the Rocket, A F E B
+a piece of a Gun Barrel,
+F G H E O L a piece of
+Box or hard Wood,
+R L O q a hole for the
+Needle to pass through,
+A C D B y a piece of
+Box to drive upon; this
+we call a hollow Dri|ver,
+it dispatches busi|ness
+quickly, and does
+right well. Or you
+may fasten a piece of
+Brass in the end of your
+Iron Driver with a hole
+in it to receive the
+Needle.</P>
+<P>If any will use a solid
+Driver, let them have
+the bottom of the
+Mould as D y Z Z Z y D
+with a hole passing
+through the bottom,
+as Z R, for a strait
+Piercer to pass through
+<FIGURE>
+</FIGURE>
+<PB N="8" REF="13">
+which bottom will be a Guide to the
+Piercer to be just in the middle of the
+Rocket, make a mark in your Piercer to
+be a guide to bore always an equal
+depth, then take your Rocket out of the
+Mould, open the hole with a Taper bit,
+and your Work is done, thus you may do
+for all sizes of Rockets.</P>
+</DIV2>
+<DIV2 N="6" TYPE="proposition">
+<HEAD>PROPOSITION VI.</HEAD>
+<HEAD TYPE="sub">Of the Boring of a Rocket.</HEAD>
+<P>MAke the Diameter of your Borer
+one third of the Diameter of your
+Rocket, not for any necessity, but for
+conformity to the other parts of the
+Rocket; from that Diameter let it be
+exactly Taper to a point. Further, there
+being an entrance made by the Needle,
+it is very easie to bore the Rocket very
+exactly, by holding the Rocket in the
+Left Hand, and the Borer in the Right,
+moving the Rocket in the Left Hand,
+keeping the Borer fast in the Right
+Hand.</P>
+<P>If you make the Diameter of the
+Needle one third of the Diameter of the
+Rocket, and so Taper, you need no
+<PB N="9" REF="13">
+Borer; here you shall find the Rocket
+will rise swifter than when bored, the
+Composition lying looser about the Needle
+than if it were bored, takes fire easier, and
+this is most necessary in large Rockets,
+<HI>viz.</HI> of 3, 4, or 6 Inches Diameter; for
+such will hang too long time upon the
+Nails before they rise. Those Rockets
+whose Compositions are Composed of
+mealed Powder, Saltpetre, Coal and Sul|phur,
+fill four Diameters, bore two and
+half. Those Composed of Saltpetre, Coal,
+and Sulphur fill four Diameters, bore three
+or a little more.</P>
+<P>This will hold in Rockets of 1 Inch, 1&frac12;
+and 2 Inches, but in larger Rockets there
+must be less solidity to the hollow Cone of
+Fire. I used for many years to drive my
+Rockets solid, and to bore them after, but
+that way did no better than these I now
+use and deliver; but this is most certain
+that any one may drive and bore 3 Rockets
+with those hollow Drivers which I now
+use, whilst one many finish the driving
+and boring of one Rocket with a solid
+Driver; when the Rocket is near filled,
+use a shorter Driver with a smaller hole.</P>
+</DIV2>
+<DIV2 N="7" TYPE="proposition">
+<PB N="10" REF="14">
+<HEAD>PROPOSITION VII.</HEAD>
+<HEAD TYPE="sub">Of Stars for Rockets.</HEAD>
+<P>1, 1, 2, 2. Sulphur.</P>
+<P>2, 3, 3, 2. Antimony.</P>
+<P>4, 6, 8, 6. Saltpetre.</P>
+<P>Meal these Ingredients fine, pass them
+through a Sieve, mix them with Water
+in which some Glue, or Gum Araback,
+or Gum Dragon hath been dissolved,
+make them of the bigness of a Hazle
+Nut, or small Wallnut; roul them in meal
+Powder, when dryed they are fit for
+use.</P>
+<P>Rockets are headed with small Ser|pents,
+their Orifices washed with meal|ed
+Powder and Brandy Wine, to take
+Fire.</P>
+<DIV3 TYPE="section">
+<PB N="11" REF="14">
+<HEAD>Of Rain and Hail.</HEAD>
+<P>TAke any of those Receipts for Stars,
+<HI>viz.</HI> 1 Sulphur, 2 Antimony, and 4
+Saltpetre; if you moisten that Composi|tion
+with Oil of Petre only made well
+into Paste, formed into little Globes, rowled
+into mealed Powder; such Stars will have
+Red Colour: the same Composition
+moistned with Linseed Oil will have a Red
+mixed with White: the same Compositi|on
+mixed with Oil of Petre and Linseed
+Oil mixed together, will make an Ame|thist
+Fi<GAP DESC="illegible" REASON="missing" EXTENT="1 letter">e. All these will require a long
+time a drying, the best time is to make
+them in the Summer.</P>
+<P>The same Composition mixed with
+Gum Araback Water, and Colophone,
+gives a Red Yellowish Fire. The former
+Composition moistned with Brandy and
+Oil of Petre, or Linseed Oil, mixed toge|ther,
+requires less drying Powder of
+Glass, Powder made of Sawdust mixed
+with the former Composition gives diffe|rent
+Fire; Coal dust instead of Antimony,
+all which you may govern by your own
+Reason. Take the Old Proverb, <HI>So many
+Men, so many Minds.</HI></P>
+</DIV3>
+</DIV2>
+<DIV2 N="8" TYPE="proposition">
+<PB N="12" REF="15">
+<HEAD>PROPOSITION VIII.</HEAD>
+<HEAD TYPE="sub">To Head a Rocket.</HEAD>
+<P>TUrn a piece of Wood just so big as
+your Rocket is, with a Cone at one
+end thereof, paste a piece of strong Paper
+about the Wood, then paste another piece
+of Paper about the Cone, and paste both
+Papers together; then put your Stars into
+this Paper Vessel, with some Rocket Com|position
+to break the Vessel, then put a
+little Paste a little within the sides of this
+Paper Vessel, then draw it upon your
+Rocket, and paste it to the Rocket, so
+your Work is done.</P>
+</DIV2>
+<DIV2 N="9" TYPE="proposition">
+<HEAD>PROPOSITION IX.</HEAD>
+<HEAD TYPE="sub">Of the Sticking of Rockets.</HEAD>
+<P>THE Stick of a Rocket ought to be
+seven times the length of the Rocket
+or more, <HI>viz.</HI> a Rocket of an Inch
+and half, six Diameters thereof, the length
+of the Rocket, is nine Inches, seven
+<PB N="13" REF="15">
+times nine is sixty three Inches, that is
+five Foot three Inches. The breadth of
+the Stick at the Head, three quarters of an
+Inch or less, the thickness half an Inch
+or less, the small end of the Stick three
+eighths of an Inch and square, and to be
+made of light Deal; such a Stick will do
+very well, and may be counted Custom
+without Demonstration. In the Winter
+1695. there were two sets of Fire works,
+in the first of which the Wind was North|ward,
+and the Rockets in their rising
+worked into the Wind. In the second the
+Wind was Westward, and had the same
+effect as the first; the Reason was because
+the Stick was to heavy at the upper end,
+and too light at the lower; and so the
+Center of Gravity of the Rocket and
+Stick was too near the Rocket: when in|deed
+the Center of Gravity should be in
+the middle, betwixt the lower end of the
+Stick and upper end of the Rocket; and
+to do which the bigger end of the Stick
+ought to be downward; by this means a
+lighter Stick would serve, and if the Wind
+did drive the Rocket, the Rocket would
+move less, and yet perpendicular to the
+Horizon. Nature it self has taught us the
+same; for all Birds, especially Birds of
+a swift flight, spread their Tails for their
+Guide. Sticks of Rockets ought to be one
+<PB N="14" REF="16">
+to another as the length and Diameters
+of the respective Rockets; that is, as the
+Diametre 1&frac12; Inch is to the thickness of
+its Stick, so is 4 Inches the Diameter of
+a 4 Inch Rocket to the thickness of its
+respective Stick. As the length of one
+Rocket is to its Stick; so is the length of
+any other Rocket to its Stick: and as the
+weight of one Rocket is to the weight of
+its Stick; so is the weight of any other
+Rocket to the weight of its respective Stick.</P>
+</DIV2>
+<DIV2 N="10" TYPE="proposition">
+<HEAD>PROPOSITION X.</HEAD>
+<HEAD TYPE="sub">To fire the Rocket.</HEAD>
+<P>PLace the Rocket perpendicular to the
+Horizon by four Nails, make a port-fire,
+about half an Inch in Diameter,
+with single Paper, <HI>viz.</HI> 1 Sulphur, 2 Saw-dust
+sifted fine, or rather Logwood
+beaten and sifted fine, 4 of mealed
+Powder, and 8 of Saltpetre; or make the
+port-fire with Rocket Composition: fire
+the port-fire, move it gently towards the
+Orifice of the Rocket till it takes fire.</P>
+<DIV3 TYPE="section">
+<PB N="15" REF="16">
+<HEAD>Observations concerning Rockets.</HEAD>
+<P>(1.) IF a Rocket be driven not hard e|nough
+it either consumes or breaks;
+if just hard enough it rises well; if two
+hard it turns a loft, and breaks not at the
+just turn.</P>
+<P>(2.) If a Rocket be bored not deep
+enough it will not rise well; if just deep
+enough it rises well; if too deep it often
+breaks.</P>
+<P>(3.) If a Rocket be bored with too
+great a Borer it will not rise well; if with
+a fit Borer it rises well; if with too small
+a Borer it breaks, or rises not well.</P>
+<P>(4.) If the Composition be too moist it
+will not rise well; if too dry it rises too
+fast or breaks.</P>
+<P>(5.) If a Rocket be made, and kept in
+too dry or too moist a place, it will have
+the same effect as at the (4.)</P>
+<P><PB N="16" REF="17">
+(6.) The Velocity of a Rocket is caused
+by the boring, or in the hollow Cone; the
+time of its flight is in the solid part a|bove
+the boring, which solid part ought
+to be less in a great Rocket than in a
+little one. From these Observations a
+Youth may take any Composition (in
+Reason) and make a good Rocket.</P>
+</DIV3>
+</DIV2>
+<DIV2 N="11" TYPE="proposition">
+<HEAD>PROPOSITION XI.</HEAD>
+<HEAD TYPE="sub">The weight of the Mallets for
+Rockets.</HEAD>
+<P>THE weight of the Mallets which
+Rockets are driven with, ought to
+be as the Cube of the Respective Diame|ters
+of their bores, <HI>viz.</HI> If the weight of
+the Mallet for an Inch Rocket be twelve
+Ounces, the weight of the Mallet for an
+Inch and half Rocket ought to be two
+Pounds and half, and for a two Inch
+Rocket six Pounds, <HI>&amp;c.</HI></P>
+</DIV2>
+<DIV2 N="12" TYPE="proposition">
+<PB N="17" REF="17">
+<HEAD>PROPOSITION XII.</HEAD>
+<HEAD TYPE="sub">How Rockets are estimated.</HEAD>
+<P>ROckets are estimated either by Mea|sure
+or by Weight; if by Measure,
+then by the Common Standard by Inches
+or by Feet; if by Weight, then they are
+estimated by Cast Iron, that is, by the
+Gunners Rule, <HI>viz.</HI> An Inch Rocket
+weigheth two Ounces and a quater: an
+Inch and half Rocket weigheth half a
+Pound: a two Inch Rocket weigheth a
+little above a Pound: a three Inch Rocket
+weigheth almost four Pounds: a four Inch
+Rocket weigheth nine Pounds: an eight
+Inch Rocket weigheth seventy two
+Pounds, which may be called a Rocket
+Royal.</P>
+</DIV2>
+<DIV2 N="13" TYPE="proposition">
+<PB N="18" REF="18">
+<HEAD>PROPOSITION XIII.</HEAD>
+<HEAD TYPE="sub">Of the cause of the Rockets rising.</HEAD>
+<P><FIGURE>
+</FIGURE>
+LET A C B be the
+hollow Cone for the
+the Fire, A y C Z B the
+Superficies of that Cone,
+all the Lines O Z at
+right Angles with B C,
+and all the Lines O y at
+Right Angle with A C;
+now all the Angles Z O y
+being towards R, whe|ther
+the Angles Z O y are
+Obtuse or Acute, but
+the more acuter the bet|ter.
+The Rays of fire
+Z O and y O issuing from the sides of
+the Cone B C and A C, and continually
+agitating with greater force one upon
+another at O, forcing the whole Cone
+B C A upward from the point R; (and
+the wider the bore is (in Reason) the
+Rocket will rise with the greater velo|city;
+if the Composition and deepness of
+boring be sutable.) By the Rays Z X,
+<PB N="19" REF="18">
+and y Z of fire, crossing, each other at
+the Center of the Cone R, and the point
+R, as it were, remains fixt; and here the
+similitude of Guns and Rockets appears
+plainly, a Gun remains fixt upon the
+Center of Motion of the Trunnions, and
+projects its burden forth; but a Rocket
+flys from its burden, leaving it at R, as it
+were fixt.</P>
+</DIV2>
+</DIV1>
+<DIV1 N="2" TYPE="part">
+<PB REF="19">
+<PB N="21" REF="19">
+<HEAD>PART II.
+TO OUR
+PYROBOLISTES.</HEAD>
+<HEAD TYPE="sub">A duplicate Proposition.</HEAD>
+<P>HAving one Rocket well proved
+in all its Parts, <HI>viz.</HI> a three
+Inch Rocket. Then,</P>
+<P>To decrease the Velocity of the Com|position
+of the aforesaid Rocket, to make
+it fit for a 4 Inch 4&frac12; and 5 Inch Rocket.</P>
+<P>And to increase the Velocity of the
+aforesaid Composition, to adapt it to a
+2 Inch 1&frac12; and 1 Inch Rocket, keeping
+the same kind of Boring.</P>
+<P><HI>Secondly,</HI> From the exposed Rocket of
+3 Inches, to increase the Diameter of
+the Orifice of the Rockets of 4: 4&frac12; and 5
+<PB N="22" REF="20">
+Inches Diameter; and to decrease the
+Diameter of the Orifice of the Rockets
+of 2: 1&frac12; and 1 Inch Diameter, to a|dapt
+them to the exposed Rocket, keeping
+the Composition of the same Velocity.</P>
+<DIV2 TYPE="section">
+<HEAD>From Experimental and Mathematical
+Demonstration.</HEAD>
+<P>The Resolution of this Problem will
+manifestly shew, the invalidity of the
+Doctrine of Shooting by the increase
+and decrease of Powder; and that weak
+and narrow Scantling it pinfolds in, <HI>too
+mean for this lofty Engine.</HI> It also tells the
+Gun-Founder how to give his Guns their
+due Fortification; otherwise they may be|come
+useless Instruments of War. It
+teacheth our <HI>Pyrobolistes</HI> to direct their
+Work so that it may rise well, and not
+break nor fall. It teacheth Artificers to
+increase and decrease the force or strength
+of their Materials in any possible Propor|tion
+assigned.</P>
+<P>This Proposition was publickly proposed
+three Months before the publication of
+this Book, but no Resolution given by
+any.</P>
+</DIV2>
+<DIV2 N="14" TYPE="proposition">
+<PB N="23" REF="20">
+<HEAD>PROPOSITION XIV.</HEAD>
+<HEAD TYPE="sub">The Complication of Rockets in Rela|tion
+to their Borers.</HEAD>
+<P>FRom a 2 Inch and half Rocket, we
+Complicate other Rockets, <HI>viz.</HI> a
+four Inch Rocket thus, we take the
+Cube of 4, which is 64, also we take
+the Cube of 2&frac12;, which is 15.625, with
+which we divide 64, the Quotient is 4&punc;
+and so many times the lesser Rocket is
+contained in the greater, that is as 4 is to 1.
+Then I look into the Tables of Ranges
+for the year 1691. <HI>Iune</HI> 1, and in the
+second Column I find the requisite of
+Powder 1 and 4, and against the 4 in
+the third Column I find the Range 3377;
+and in the third Column against 1 I find
+the Range 652, which I multiply by 4,
+the Ratio of the Rockets, and it is 2608:
+Now if this last Number had been equal
+to 3377, the Range with the Quadruple
+of Powder, it would have confirmed the
+shooting by the increase and decrease of
+<PB N="24" REF="21">
+Powder; but as it is short, it is a visible
+Demonstration of the error of that Do|ctrine:
+and if the Doctrine of shooting
+by the increase and decrease of Powder
+were true, there would be no need for
+our Pyrobolistes to give different Velo|cities
+of Compositions to different sizes
+of Rockets, but one Composition would
+have served all sizes; which every Youth
+knows the Contrary.</P>
+<P><FIGURE>
+</FIGURE></P>
+<P>In the Parabola A H Z let A G be
+2608, and A H 3377; then G Z and
+H Z are the Velocities of the equal and
+unequal Ranges. <HI>Toricellius 22. Prop. de
+motu projec. lib secund.</HI></P>
+<P>Then as G Z the Velocity of the e|qual
+Range; is to one third of the Dia|meter
+of the four Inch Rocket 1. 333;
+so is H Z the Velocity of the unequal
+<PB N="25" REF="21">
+Range, to a larger Diameter of the 4
+Inch Rocket, to keep the same Composi|tion.</P>
+<P>Or as the equal Range 2608, is to the
+unequal Range 3377; so is the square of
+the Diameter of the Orifice of the 4 Inch
+Rocket, to the square of the Diameter of
+the Orifice of the Rocket inlarged, keep|ing
+the same Composition.</P>
+<P>Or as the equal Range 2608, is to the
+unequal Range 3377; so is the Area of
+the Orifice of the Rocket of 4 Diameter,
+when taking &frac13; of the Diameter; to the
+Area of the Orifice of the same Rocket
+when enlarged, to bare the Composition
+that would serve a Rocket of two Inches
+and a half, taking &frac13; of the Diameter
+of the Rocket for the Diameter of its
+Orifice.</P>
+<DIV3 TYPE="example">
+<HEAD>Example.</HEAD>
+<LIST>
+<ITEM>2608 The equal Range 3.4&prime;6308</ITEM>
+<ITEM>3377 The unequal Range 3.028531</ITEM>
+<ITEM>The square of 1.333, &amp;c. the
+Diam. of the equal Oriffice .249660</ITEM>
+<ITEM>Take the half .361883</ITEM>
+<ITEM>The Diam. of the new Orifice
+1.516 one Inch and half .180941</ITEM>
+</LIST>
+</DIV3>
+<DIV3 TYPE="example">
+<PB N="26" REF="22">
+<HEAD>Take another Example.</HEAD>
+<P><HI>August</HI> 24. 1691. I look in Column 2,
+and find the Requisites of Powder half
+an Ounce, and 2 Ounces, and against
+those Requisites in Column 3 I find 1482
+the unequal Range, and 236 the equal
+Range; which I multiply by 4, and it
+makes 944.</P>
+<LIST>
+<ITEM>944 The equal Range 2.974972</ITEM>
+<ITEM>1482 The unequal Range 3.170848</ITEM>
+<ITEM>The Square of 1.333, &amp;c. the
+equal Orifice .249660</ITEM>
+<ITEM>.445536</ITEM>
+<ITEM>The Diameter of the new Ori|fice
+1.67 .222768</ITEM>
+</LIST>
+<P>Here may be seen the concurrence of
+Experiments made upon another account,
+not then thinking to apply it to the Com|plication
+of Rockets. I made 2 Rockets
+of 4 Inches Diameter, and a Taper bit ac|cording
+to this method, and bored three
+Diameters, and left 2 Inch<GAP DESC="illegible" REASON="over-inked" EXTENT="1 letter">s Solid, and
+they rose well.</P>
+<P>An example of a Rocket of 6 Inches
+Diameter, keeping the same Compositi|on.
+Take the Cube of 6, which is 216,
+<PB N="27" REF="22">
+divide that Cube by the Cube of 4, which
+is 64, the Quotient is 3, that is the Com|position
+in the Rocket of 4 Inches, is to
+the Composition in the Rocket of 6 Inches,
+is as 1 to 3; then I look in the Table of
+<HI>Aug.</HI> 24. and find in the second Column
+the Requisites of Powder half an Ounce,
+and an Ounce and a half; and against
+these Requisites in Column three 800, the
+unequal Range, and 236 the equal Range,
+which I multiply by 3, and it makes 708:
+then as 4 is to 6, so is twelve half quarters
+of an Inch, the Diameter of the new
+Orifice of the four Inch Rocket, to eigh|teen
+half quarters of Inches; that is 2
+Inches and 1 quarter: or as 4 is to 6, so is
+1&frac12;, that is 3 halfs, to 4&frac12; half Inches,
+that is 2&frac14;. Then I had no such Ranges,
+that their Requisites of Powder were in
+Proportion as the Cube of 6 is to the
+Cube of 2&frac12;; therefore was I forced to
+help my self by Proportion, which is the
+same in Substance.</P>
+<LIST>
+<ITEM>708 The equal Range 2.850033</ITEM>
+<ITEM>800 The unequal Range 2.903089</ITEM>
+<ITEM>The Square of 2&frac14;, or 18 half
+quarters 2.510544</ITEM>
+<ITEM>The half of this Logarithm 2.563600</ITEM>
+<ITEM>Half quarters of Inches 19.13
+that is 2.2 is 1.281800</ITEM>
+</LIST>
+</DIV3>
+<DIV3 TYPE="example">
+<PB N="28" REF="23">
+<HEAD>A second Example, <DATE>April 21&punc; 1692.</DATE></HEAD>
+<P>I look in Column 2, and find the Re|quisites
+of Powder 12 Drams, and 36
+Drams; and against these Requisites in
+the third Column I find 1176 the unequal
+Range, and 303 the equal Range, which
+I multiply by 3, and it makes 909.</P>
+<LIST>
+<ITEM>909 The equal Range 2.958564</ITEM>
+<ITEM>1176 The unequal Range 3.070407</ITEM>
+<ITEM>The Square of 18 half quarters 2.510544</ITEM>
+<ITEM>2.622387</ITEM>
+<ITEM>20.47, that is 2 Inches and a
+half, and 47/100 1.311193</ITEM>
+</LIST>
+<P>Here may be seen one Example
+makes the Diameter a little more than
+two Inches and a half, and in the other a
+little less, therefore we make the Taper
+Bores just two Inches and a half for a 6
+Inch Rocket. To work from a two Inch
+and a half Rocket to an Inch, put the
+unequal Range in the first place, and the
+Work is done. The Composition these
+4 and 6 Inch Rockets were made of, were
+1 Sulphur, 1&frac12; Coal, and 4 Saltpetre; but
+I believe 1 Sulphur, 1 Coal, and 4 Salt|petre
+would do better, there being no
+<PB N="29" REF="23">
+great danger of the Rocket breaking, by
+Reason of the large Diameter of the
+Bore, and Tapering to a point; and
+by the same Reason, a lesser solid Head
+is required, that is about 2 Inches in a 4
+Inch, and 1&frac14; in a 6 or 8 Inch Rocket,
+will suffice.</P>
+</DIV3>
+</DIV2>
+<DIV2 N="15" TYPE="proposition">
+<HEAD>PROPOSITION XV.</HEAD>
+<HEAD TYPE="sub">The Complication of Rockets in Rela|tion
+to their Composition, with some
+Cautions and Limitations.</HEAD>
+<P>TO decrease the Velocity of the Com|position
+of 1, 1&frac12;, and 4, which
+served to a 2&frac12; Inch Rocket, to make it fit
+for a 4 Inch Rocket: remember the Ratio
+of the Rockets are as 1 to 4. Look in the
+Table of Ranges, and find the Requisites
+of Powder in the second Column, as 1 to
+4, and against them in the third Column
+the Ranges, <HI>viz.</HI> 3377 and 652, then
+multiply the equal Range by 4, and it is
+2608, (in fig. 1.) In the Parabola Z A H,
+let A H be equal to 3377, and A G equal
+to 2608; then H Z, and G Z will be
+<PB N="30" REF="24">
+the Velocity of the Powder, which pro|jected
+those Ranges, and we increase or
+decrease the Velocity of the Salpetre by
+the Ratio of G Z to H Z: then let A C
+in fig. 2, be equal to H Z in fig. 1, and
+A B in fig. 2, be equal to G Z in fig 1;
+then draw the Ordinate C H and B G in
+fig. 2, and by these two Lines, <HI>viz.</HI> C H
+and B G we increase or decrease the Ve|locity
+of the Coal. Further, let D F in
+fig. 3, be equal to C H in fig. 2; and D E
+in fig. 3. be equal to B G in fig. 2: draw
+the Ordinates F K and E I, and by these
+3 Lines we increase or decrease the Ve|locity
+of the Sulphur.</P>
+<P>Then if we take the Logarit<GAP DESC="illegible" REASON="blotted" EXTENT="1 letter">m of
+(0) (1) (<GAP DESC="illegible" REASON="under-inked" EXTENT="1 letter">) (4) (8)
+3377 3.518531 1.759265 0.879632 0.439816</P>
+<P>And is
+26<GAP DESC="illegible" REASON="under-inked" EXTENT="1 letter">8 3.416308 1.708154 0.854077 0.427038
+that is, the Ranges under (0), their Lo|garithm
+under (1) the half of the Log.
+under (2), the numbers answering those
+Logarithms are the Lines H Z and G Z
+in fig. 1. The Logarithm under (4) is
+the fourth part of the Logarithm under
+(1): The Numbers answering these Lo|garithms,
+are the Lines C H, and B G in
+<PB N="31" REF="24">
+fig. 2. Further, the Logarithm under (8)
+is the eighth part of the Logarithm under
+(1); the Numbers answering those Lo|garithms,
+are the Ordinates F K and E I
+in the Parabola F D K.</P>
+<LIST>
+<ITEM>Or you may take the difference
+of the Logarithms under (1)
+<HI>viz.</HI> 102223</ITEM>
+<ITEM>Half 51111</ITEM>
+<ITEM>Quarter 25555</ITEM>
+<ITEM>Eighth 12777</ITEM>
+</LIST>
+<P>By Adding or Subtracting these Log.
+to or from the Logarithm of the Salt|petre,
+Coal, and Sulphur, you have your
+desire, <HI>viz.</HI> their Velocities either in|creased
+or decreased: or thus, take the
+difference of the Logarithm of the two
+Ranges 102223, and Subtract it from the
+Logarithm of the Square of the Number
+of Drams, Ounces, or Pounds of Salt|petre,
+or from the Logarithm of the fourth
+power of the Numbers of Drams, Ounces,
+or Pounds of Coal. And Lastly, that
+difference being Subtracted from the Lo|garithms
+of the eighth power of the Num|ber
+of the Drams, Ounces, or Pounds
+of Sulphur, there will remain three Lo|garithms,
+the first being divided by 2, the
+<PB N="32" REF="25">
+second by 4, and the third by 8; there
+will remain three Logarithms, the Num|bers
+answering to which, will be the Num|ber
+of Drams, and Tenths of the Salt|petre,
+Coal, and Sulphur desired.</P>
+<LIST>
+<ITEM>To Weaken the Velocity of the Com|position
+of 1, 1&frac12;, and 4.</ITEM>
+<ITEM>3377 The unequal Range 3.518531</ITEM>
+<ITEM>2608 The equal Range 3.416308</ITEM>
+<ITEM>The Square of 64 Drams of
+Saltpetre 3.612360</ITEM>
+<ITEM>Take the half 3.510137</ITEM>
+<ITEM>Drams 56.9 nine Tenths of
+Saltpetre 1.755068</ITEM>
+</LIST>
+<LIST>
+<ITEM>The fourth power of twenty
+four Drams of Coal 5.520844</ITEM>
+<ITEM>The difference of the Lo|garithm
+of unequal, and
+equal Ranges Subtract .102223</ITEM>
+<ITEM>Is the Logarithm of the fourth
+power, which being divided
+by fourth 5.418621</ITEM>
+<ITEM>22 Drams 63/100 of Coal 1.354655</ITEM>
+<ITEM><PB N="33" REF="25">
+The eighth power of fix<GAP DESC="illegible" REASON="blotted" EXTENT="1 span">
+Drams of Sulphur 9632960</ITEM>
+<ITEM>The difference of the Loga|rithm .102223
+Subtract .102223</ITEM>
+<ITEM>Is the Logarithm of the eighth
+power which being divi|ded
+by 8 9.530737</ITEM>
+<ITEM>15 Drams 54/100 of Sulphur 1.191342</ITEM>
+</LIST>
+<P>The Composition will be Sulphur 15&frac12;,
+Coal 22&frac12;, and Saltpetre 57; but if you
+quicken the Velocity, the equal Range
+will be in the first place of the Propor|tion.</P>
+</DIV2>
+<DIV2 N="16" TYPE="proposition">
+<PB N="34" REF="26">
+<HEAD>PROPOSITION XVI.</HEAD>
+<HEAD>Tables of Ranges made with
+Mortar-pieces.</HEAD>
+<P><HI>JUne</HI> 1. 1691. On <HI>Wimbleton-Heath</HI> at
+15 <HI>deg.</HI> of Elevation, with a four
+Inch Mortar-piece, and a turned Iron
+Ball.</P>
+<P><TABLE>
+<ROW>
+<CELL ROLE="label">1</CELL>
+<CELL ROLE="label">2</CELL>
+<CELL ROLE="label">3</CELL>
+</ROW>
+<ROW>
+<CELL ROLE="label">Experi|ments.</CELL>
+<CELL ROLE="label">Powder.</CELL>
+<CELL ROLE="label">Chain.</CELL>
+</ROW>
+<ROW>
+<CELL>1</CELL>
+<CELL>&frac12;</CELL>
+<CELL>213</CELL>
+</ROW>
+<ROW>
+<CELL>2</CELL>
+<CELL>1</CELL>
+<CELL>652</CELL>
+</ROW>
+<ROW>
+<CELL>3</CELL>
+<CELL>2</CELL>
+<CELL>1640</CELL>
+</ROW>
+<ROW>
+<CELL>4</CELL>
+<CELL>4</CELL>
+<CELL>3377</CELL>
+</ROW>
+</TABLE></P>
+<P><PB N="35" REF="26">
+<HI>August</HI> 24. 1691: At 15 <HI>deg.</HI> of Elevati|on,
+with a 3&frac12; Inches Mortar-piece, and a
+turn'd Iron Ball.</P>
+<P><TABLE>
+<ROW>
+<CELL ROLE="label">1</CELL>
+<CELL ROLE="label">2</CELL>
+<CELL ROLE="label">3</CELL>
+<CELL ROLE="label">4</CELL>
+<CELL ROLE="label">5</CELL>
+</ROW>
+<ROW>
+<CELL>&nbsp;</CELL>
+<CELL ROLE="label" COLS="2">The Chamber of this Mortar-piece a Frustum of a Cone.</CELL>
+<CELL ROLE="label" COLS="2">The Chamber of this Mortar piece a Frustum of a Sphere.</CELL>
+</ROW>
+<ROW>
+<CELL>&nbsp;</CELL>
+<CELL ROLE="label">Powder</CELL>
+<CELL ROLE="label">Chain.</CELL>
+<CELL ROLE="label">Powder</CELL>
+<CELL ROLE="label">Chain.</CELL>
+</ROW>
+<ROW>
+<CELL>1</CELL>
+<CELL>&frac12;</CELL>
+<CELL>236</CELL>
+<CELL>&frac12;</CELL>
+<CELL>144</CELL>
+</ROW>
+<ROW>
+<CELL>2</CELL>
+<CELL>1</CELL>
+<CELL>496</CELL>
+<CELL>1</CELL>
+<CELL>304</CELL>
+</ROW>
+<ROW>
+<CELL>3</CELL>
+<CELL>1&frac12;</CELL>
+<CELL>800</CELL>
+<CELL>1&frac12;</CELL>
+<CELL>1258</CELL>
+</ROW>
+<ROW>
+<CELL>4</CELL>
+<CELL>2</CELL>
+<CELL>1482</CELL>
+<CELL>2</CELL>
+<CELL>3394</CELL>
+</ROW>
+</TABLE></P>
+<P><PB N="36" REF="27"><GAP DESC="illegible" REASON="missing" EXTENT="1 letter">
+<HI>April</HI> 21. 162. At 15 <HI>deg.</HI> of Elevati|on,
+with a 3&frac12; Inch Mortar-piece, and
+a turn'd Iron Ball.</P>
+<P><TABLE>
+<ROW>
+<CELL ROLE="label">1</CELL>
+<CELL ROLE="label">2</CELL>
+<CELL ROLE="label">3</CELL>
+</ROW>
+<ROW>
+<CELL ROLE="label">Experiment.</CELL>
+<CELL ROLE="label">Powder.</CELL>
+<CELL ROLE="label">Chain.</CELL>
+</ROW>
+<ROW>
+<CELL>1</CELL>
+<CELL>12</CELL>
+<CELL>303</CELL>
+</ROW>
+<ROW>
+<CELL>2</CELL>
+<CELL>24</CELL>
+<CELL>746</CELL>
+</ROW>
+<ROW>
+<CELL>3</CELL>
+<CELL>36</CELL>
+<CELL>1176</CELL>
+</ROW>
+<ROW>
+<CELL>4</CELL>
+<CELL>48</CELL>
+<CELL>1820</CELL>
+</ROW>
+<ROW>
+<CELL>5</CELL>
+<CELL>60</CELL>
+<CELL>2698</CELL>
+</ROW>
+</TABLE></P>
+<P>Thus have I given plain and easie
+Rules to the Young Pyrobolistes for the
+making of small Rockets; and also for
+the making of great Rockets, to them of
+a greater Knowledge and Purse, even
+such as was reputed impossible; for a 4
+Inch Rocket was given in by our ablest
+Pyrobolistes to be out of size, and there|fore
+impossible to rise. Now, if that 4
+Inch Rocket was thought so, what will
+they say to them of 6, 8, 10 or 12 Inches
+Diameter; for certainly this Rule takes in
+all sizes to 500 or 1000 weight, or higher.</P>
+<P><PB REF="27">
+<TABLE>
+<HEAD>Necessary Tables for Rockets.</HEAD>
+<ROW>
+<CELL ROLE="label">Inches and half Inches.</CELL>
+<CELL ROLE="label">Pounds of Rockets. Ounces</CELL>
+<CELL ROLE="label">Ounces of Compos. for Rockets.</CELL>
+<CELL ROLE="label">Pounds of the Mall. Ounces</CELL>
+</ROW>
+<ROW>
+<CELL ROLE="label">1</CELL>
+<CELL ROLE="label">2 3</CELL>
+<CELL ROLE="label">4</CELL>
+<CELL ROLE="label">5 6</CELL>
+</ROW>
+<ROW>
+<CELL>1</CELL>
+<CELL>02</CELL>
+<CELL>0<GAP DESC="illegible" REASON="under-inked" EXTENT="1 letter">01</CELL>
+<CELL>12</CELL>
+</ROW>
+<ROW>
+<CELL>1&frac12;</CELL>
+<CELL>08</CELL>
+<CELL>0004</CELL>
+<CELL>0002 08</CELL>
+</ROW>
+<ROW>
+<CELL>2</CELL>
+<CELL>001 02</CELL>
+<CELL>0010</CELL>
+<CELL>0006 0<GAP DESC="illegible" REASON="under-inked" EXTENT="1 letter"></CELL>
+</ROW>
+<ROW>
+<CELL>2&frac12;</CELL>
+<CELL>002 04</CELL>
+<CELL>0018</CELL>
+<CELL>0011 11</CELL>
+</ROW>
+<ROW>
+<CELL>3</CELL>
+<CELL>003 12</CELL>
+<CELL>0032</CELL>
+<CELL>0020 04</CELL>
+</ROW>
+<ROW>
+<CELL>3&frac12;</CELL>
+<CELL>006 00</CELL>
+<CELL>0051</CELL>
+<CELL>0032 04</CELL>
+</ROW>
+<ROW>
+<CELL>4</CELL>
+<CELL>009 00</CELL>
+<CELL>0076</CELL>
+<CELL>0048 00</CELL>
+</ROW>
+<ROW>
+<CELL>4&frac12;</CELL>
+<CELL>012 13</CELL>
+<CELL>0108</CELL>
+<CELL>0068 08</CELL>
+</ROW>
+<ROW>
+<CELL>5</CELL>
+<CELL>017 09</CELL>
+<CELL>0148</CELL>
+<CELL>0093 12</CELL>
+</ROW>
+<ROW>
+<CELL>5&frac12;</CELL>
+<CELL>023 06</CELL>
+<CELL>0197</CELL>
+<CELL>0120 12</CELL>
+</ROW>
+<ROW>
+<CELL>6</CELL>
+<CELL>030 06</CELL>
+<CELL>0256</CELL>
+<CELL>0162 00</CELL>
+</ROW>
+<ROW>
+<CELL>6&frac12;</CELL>
+<CELL>038 10</CELL>
+<CELL>0326</CELL>
+<CELL>0206 06</CELL>
+</ROW>
+<ROW>
+<CELL>7</CELL>
+<CELL>048 04</CELL>
+<CELL>0407</CELL>
+<CELL>0251 00</CELL>
+</ROW>
+<ROW>
+<CELL>7&frac12;</CELL>
+<CELL>059 05</CELL>
+<CELL>0500</CELL>
+<CELL>0316 06</CELL>
+</ROW>
+<ROW>
+<CELL>8</CELL>
+<CELL>072 00</CELL>
+<CELL>0607</CELL>
+<CELL>0384 00</CELL>
+</ROW>
+<ROW>
+<CELL>8&frac12;</CELL>
+<CELL>086 06</CELL>
+<CELL>0728</CELL>
+<CELL>0460 09</CELL>
+</ROW>
+<ROW>
+<CELL>9</CELL>
+<CELL>102 08</CELL>
+<CELL>0864</CELL>
+<CELL>0546 12</CELL>
+</ROW>
+<ROW>
+<CELL>9&frac12;</CELL>
+<CELL>120 09</CELL>
+<CELL>1016</CELL>
+<CELL>0643 00</CELL>
+</ROW>
+<ROW>
+<CELL>10</CELL>
+<CELL>140 10</CELL>
+<CELL>1285</CELL>
+<CELL>0748 04</CELL>
+</ROW>
+<ROW>
+<CELL>10&frac12;</CELL>
+<CELL>162 13</CELL>
+<CELL>1372</CELL>
+<CELL>0868 03</CELL>
+</ROW>
+<ROW>
+<CELL>11</CELL>
+<CELL>187 02</CELL>
+<CELL>1578</CELL>
+<CELL>0998 04</CELL>
+</ROW>
+<ROW>
+<CELL>11&frac12;</CELL>
+<CELL>213 14</CELL>
+<CELL>1805</CELL>
+<CELL><GAP DESC="illegible" REASON="under-inked" EXTENT="1 letter">40 10</CELL>
+</ROW>
+<ROW>
+<CELL>12</CELL>
+<CELL>423 00</CELL>
+<CELL>2048</CELL>
+<CELL>1296 <GAP DESC="illegible" REASON="under-inked" EXTENT="1 letter">0</CELL>
+</ROW>
+</TABLE></P>
+<DIV3 TYPE="section">
+<PB N="38" REF="28">
+<HEAD>The Use of these Necessary Tables.</HEAD>
+<P>IN the first Column you have the Inches
+and half Inches, to 12 Inches. In the
+second and third Columns you have the
+weight of Pounds and Ounces of the
+Rockets, when six Diameters in length.
+In the fourth Column you have the
+Ounces of Composition to fill those
+Rockets 4 Diameters. In the fifth and
+sixth Columns you have the weight of
+the Mallets to drive those Rockets in
+Pounds and Ounces.</P>
+<P>An Example in the whole, for a three
+Inch Rocket. I find 3 in the first Co|lumn
+under Inches and half Inches; in
+the second and third Column, under
+Pounds and Ounces of Rockets. I find
+three Pounds and 12 Ounces the weight
+of the Rocket when finished, being 6
+Diameters. In the fourth Column I find
+32 Ounces of Composition to fill 4 Dia|meters.
+In the fifth and sixth Columns
+I find 20 Pounds 4 Ounces for the Mallet
+to drive that Rocket.</P>
+<P>When Rockets are of a great weight,
+the Mallet will be too heavy to manage,
+therefore do thus. The Mallet of a three
+Inch Rocket, <HI>viz.</HI> 20 Pounds weight is
+<PB N="39" REF="28">
+of a good size; and we will make an
+Example of a 3 Inch and 7&frac12; Rockets, and
+we will take it as useful that all Rockets
+to 3 Inches Diameter, may be filled with
+eight Charges, but further not, then a|gainst
+7&frac12; in the first Column. In Co|lum
+4 I find 500 Ounces of Composition
+for that Rocket, which I divide by 8, and
+the Quotient will be 62.5. In the Para|bola
+A H Z, let A H be the Number of
+Ounces 5062 5 in the Mallet for the 7&frac12;
+Rocket, and A G the Number of Ounces
+324 in the Mallet for a 3 Inch Rocket;
+then the Ordinates H Z and G Z will be
+the Forces of those Mallets; then as H Z
+is to G Z, so is 62.5 to 15.811, that is 15
+Ounces and ^<GAP DESC="illegible" REASON="under-inked" EXTENT="1 letter">^<GAP DESC="illegible" REASON="under-inked" EXTENT="1 letter">^<GAP DESC="illegible" REASON="under-inked" EXTENT="1 letter">^^1^^0^^0^^0 shall be your Charge of
+Composition. Further, divide 62.5 by
+15.811, the Quotient will be 3. ^2^<GAP DESC="illegible" REASON="under-inked" EXTENT="1 letter">22/10000 the
+Number of Charges in the eight part of
+the Composition; then multiply 39529
+by 8, there will be 31. ^<GAP DESC="illegible" REASON="blotted" EXTENT="1 letter">^<GAP DESC="illegible" REASON="blotted" EXTENT="1 letter">^3^^1^^0^^0^^0 Charges in
+that Rocket. Lastly, give about eighteen
+blows to every Charge, with that Mallet
+for the 3 Inch Rocket, so your Work will
+be done, by two Men, in two hours.</P>
+<LIST>
+<PB N="40" REF="29">
+<ITEM>324 2.510545</ITEM>
+<ITEM>62.5 Squared 3.591760</ITEM>
+<ITEM>5062.5 Sub. 6.102305</ITEM>
+<ITEM>3.704364</ITEM>
+<ITEM>&frac12; 2.397941</ITEM>
+<ITEM>15.811 is Sub. 1.198970</ITEM>
+<ITEM>62.5 is from 1.795880</ITEM>
+<ITEM>3.9529 Rest 0.596910</ITEM>
+<ITEM>8. Log. 0.903090</ITEM>
+<ITEM>31.623 Sum of 2 Logarithm 1.500000</ITEM>
+<ITEM>15811 Add 1.198970</ITEM>
+<ITEM>500. the Sum of Logarithm 2.698970</ITEM>
+</LIST>
+<P><HI>Iune</HI> 26. 1696. Then was fired a 4 and
+6 Inch Rocket, Mr. <HI>Ayres</HI> Junior fired
+them both off a hand, Mr. <HI>Dandridge,</HI>
+Mr. <HI>Rodway,</HI> my self, and several other
+being present: the 6 Inch Rocket had 3
+Inches solid Head, that is about the double
+of what it ought to have had, the Reason
+of that was to hold Fire; it moved off the
+Nails at about 78 <HI>deg.</HI> of Elevation, and
+the Horizontal Range was just 15 Chains,
+that is 330 Yards, by which we may find
+the Altitude of that Parabola it moved
+in, and the greatest Range, and Conse|quently
+the greatest Perpendicular Alti|tude
+it could have reached.</P>
+<P><PB N="41" REF="29">
+<FIGURE>
+</FIGURE></P>
+<P>In the Parabola A B C, Let A C be equal to 330
+Yards, A D equal to 165 the Angle D A E 78 degrees,
+then in the right Angled Triangle E D A.</P>
+<LIST>
+<PB N="42" REF="30">
+<ITEM>Radius 90 10.000000</ITEM>
+<ITEM>Tangent 78 10.672525</ITEM>
+<ITEM>A D 165 2.217484</ITEM>
+<ITEM>D E 776.22 2.889989</ITEM>
+<ITEM>D B 388.11</ITEM>
+<ITEM>As the Sine of the double of
+the Elevation 407 2.609594</ITEM>
+<ITEM>Is to Radius 1000 3.000000</ITEM>
+<ITEM>So is the Horizontal distance
+at 78 <HI>deg.</HI> 330 2.518514</ITEM>
+<ITEM>To the greatest Range in the
+Parabola 810.8 2.908920</ITEM>
+<ITEM>Half of the greatest Range is
+the Perpend&punc; hight desired 405.4</ITEM>
+</LIST>
+<P>So then the greatest height of that 6
+Inches Rocket in its flight was three
+hundred eighty and eight Yards, had it
+been put Perpendicular, its height would
+have been four hundred and five Yards.</P>
+<P>The flight of Rockets does sufficiently
+well agree with that of the Parabola at
+each end of the Quadrant; but towards
+45 degrees it differs more.</P>
+<P>A Rocket of an Inch and half Diame|ter,
+filled 5 Diameters, and bored two
+and a half, and a little more, with this
+Composition, <HI>viz.</HI> 8 Powder-dust, 6 Salt|petre,
+2&frac12; Coal, and 1 Sulphur, and layed
+to 30 degrees of Elevation; Ranged the
+Rocket 880 Yards, that is half a Mile.</P>
+</DIV3>
+</DIV2>
+<DIV2 TYPE="section">
+<PB N="43" REF="30">
+<HEAD>To make Rockets to Swim upon the
+Water, Dive into the Water, and
+keep above the Water.</HEAD>
+<DIV3 TYPE="instructions">
+<HEAD>An Example of an Inch Rocket.</HEAD>
+<P>MAke the Case 12 Diameters, which
+will be in this Example 12 Inches,
+fill it with two Compositions, <HI>viz</HI> a
+Weaker and a Stronger; fill 2 Inches with
+the Weaker Compsition, then 1&frac12; with the
+Strong, then 2 with the Weak, 1&frac12; with
+the Strong. Lastly, 2 Inches with the
+Weak, then there will remain 3 Inches
+for Corn Powder, for the Report.</P>
+<P>The Weak Composition to Swim above
+Water; take 3 of meal Powder, 1 of Coal.</P>
+<P>The Strong Composition to Dive under
+the Water, and leap above the Water;
+take 8 of mealed Powder, 1 of Saltpetre,
+and 1 of Coal.</P>
+</DIV3>
+<DIV3 TYPE="instructions">
+<PB N="44" REF="31">
+<HEAD>To divide the Driver.</HEAD>
+<P>FRom the lower end of your Driver set
+off 3 Inches, then 2 Inches, then
+1 <GAP DESC="illegible" REASON="missing" EXTENT="1 letter">, then 2 Inches, then 1&frac12;&punc; Lastly, 2
+Inches; make the Rockets of a just length,
+and so you may see the Divisions of the
+Driver appear above the Case as you fill.</P>
+</DIV3>
+<DIV3 TYPE="instructions">
+<HEAD>The Use.</HEAD>
+<P>FIre the Rocket in your Hand with
+with your Port-fire, through it into a
+deep Water, (otherwise it will stick in the
+Mud) it will Swim a little while; but
+when the Strong Composition takes fire it
+will Dive, and when the Strong Compo|sition
+is spent it will jump up, <HI>&amp;c.</HI> The
+Weak Composition being the last, the
+Rocket for some time will Swim upon the
+Water, and then give a Report. This
+Rocket is all Solid.</P>
+</DIV3>
+<DIV3 TYPE="instructions">
+<HEAD>To make a Rocket Charger.</HEAD>
+<P>LET the length of the Charger E G,
+be one Diameter and half, the
+breadth of the Charger H Z, one Dia|meter
+and one third, the length of the
+<PB N="45" REF="31">
+Neck of the Charger that slippeth upon
+the Handle B C, two Diameters; the
+breadth of that Ferril A B, one third of
+the Diameter of the Rocket: betwixt
+eight or nine of these Charges will fill a
+Rocket 4 Diameters.</P>
+<P><FIGURE>
+</FIGURE></P>
+<P>You may cut the Charger A B C D H
+G Z A in Paper, then it may be made in
+Copper, Close A to D, and B to C, Sod|der
+both ends together; bring H G Z into
+more than half a round, and A B and
+C D in a round, put it then upon a
+Handle, then it is fit for use.</P>
+</DIV3>
+<DIV3 TYPE="instructions">
+<PB N="46" REF="32">
+<HEAD>To make good Coal for Rockets.</HEAD>
+<P>TAke pieces of a light dry Deal Board
+about 12 Inches in length, and a|bout
+the thickness of 2 Fingers or less;
+put them into an Oven, put fire to the
+Wood; when they are burned enough
+take them out, and put them into an Iron,
+Brass, or Eathern Pot, close it well with
+a Cover, that it takes no Air, the Fire be|ing
+extinguished, beat it and pass it
+through a fine Sieve, then it is fit for use.
+If the Wood be not well burnt, put it in|to
+the Oven again, and so repeat your
+Work: such Coal will make a Rocket fly
+very lively, if not with two much Life.</P>
+</DIV3>
+<DIV3 TYPE="section">
+<HEAD>Compositions for Reports.</HEAD>
+<P><TABLE>
+<ROW>
+<CELL>&nbsp;</CELL>
+<CELL ROLE="label">A</CELL>
+<CELL ROLE="label">B</CELL>
+<CELL ROLE="label">C</CELL>
+<CELL ROLE="label">D</CELL>
+</ROW>
+<ROW>
+<CELL><GAP DESC="illegible" REASON="blotted" EXTENT="1 span"> Saltpetre</CELL>
+<CELL>9.</CELL>
+<CELL>4.</CELL>
+<CELL>3.</CELL>
+<CELL>2.</CELL>
+</ROW>
+<ROW>
+<CELL>Salt of Tartar</CELL>
+<CELL>3.</CELL>
+<CELL>3.</CELL>
+<CELL>2.</CELL>
+<CELL>1.</CELL>
+</ROW>
+<ROW>
+<CELL>Sulphur</CELL>
+<CELL>1.</CELL>
+<CELL>2.</CELL>
+<CELL>1.</CELL>
+<CELL>1.</CELL>
+</ROW>
+</TABLE></P>
+<P>Take Sulphur 1, Tartar 3, and Salt|petre
+9, grind these well together, and
+dry them. A few Grains of this Powder
+being fired, will give as great a Clap as a
+Musket when it is discharged. Dr. <HI>French,
+pag.</HI> 171. Take any of these Ingredients
+<PB N="47" REF="32">
+under A B C or D, mix them well toge|ther,
+put a little quantity of that mixture
+into a Fire-Pan, set it upon the Fire, and
+in a little time it will give a great Report.</P>
+</DIV3>
+<DIV3 TYPE="section">
+<HEAD>A further use of the Tables.</HEAD>
+<P>WHat is done in the 14 and 15 Pro|positions,
+by taking the Cubes of
+the Diameter of the Bores of the Rockets,
+may be done by the Tables in 2 and 3, or
+Tab 4. Thus, look in the first Column
+for the Diameters of the Rockets, <HI>viz.</HI>
+2&frac12; and 4, and against them, in Column
+2 and 3, I find 2 Pounds and 4 Ounces,
+and 9 Pounds, divide the greater Number
+by the lesser, the Quotient will be 4, near
+enough, so the Ratio of these two Rockets
+are as 4 to 1, and this is by the weight of
+the Rockets.</P>
+<P>In the other Example I find 4 and 6 in
+the first Column, and against them <GAP DESC="illegible" REASON="missing" EXTENT="1 span">
+Column 4, I find 76 and 256 Ounces of
+Composition for these two Rockets; then
+divide the greater by the lesser, the Quoti|ent
+will be 3 and more, which is the
+same thing as if you made use of the
+Cubes of their Diameters; for indeed
+these Tables are made by the Cubes of the
+respective Diameters.</P>
+</DIV3>
+</DIV2>
+</DIV1>
+<DIV1 TYPE="conclusion">
+<PB N="48" REF="33">
+<HEAD>A Conclusion.</HEAD>
+<P>IF any one presumes to say they have
+Resolved the 14. Proposition before the
+Publication of this, they might have been
+so kind as to put it into Practice for the
+Defence of the Nation. If any say they
+can do it, I desire them so to do, <HI>That I
+may see my desires accomplished,</HI> viz. Great
+Guns and their Carriages truly fortified
+and neatly made, <HI>which would be great
+satisfaction;</HI> however this may shew to the
+next Age what has been offered to this.</P>
+<CLOSER><DATE>Iuly 25.
+1696.</DATE></CLOSER>
+<TRAILER>FINIS.</TRAILER>
+<PB REF="33">
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

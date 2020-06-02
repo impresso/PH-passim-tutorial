@@ -1,0 +1,431 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD EEBOPROOF 2.0//EN">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-08-27</DATE>
+<RESPSTMT>
+<NAME>Emma Leeson Huber</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TYPEs to DIVs in order to validate. Proofed title page(s). Checked for N=""s. Checked for GROUP tags. Checked ^s. Reviewed structure. Checked division-marking material at heads and feet of divisions (HEADS, etc.). Checked for signatures. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected 24 $s and $$word$$s etc. of 37. Converted 13 $$s to GAP DESC="illegible" RESP="oxf". Checked spacing of foreign GAPs. Checked for EPIGRAPHs and ARGUMENTs. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs, endqs, oes, q;s, and Qs. Checked proofsheets and made corrections found there. Checked for CLOSERs, TRAILERs, and BYLINEs. Checked for missing page GAPs. DONE.</ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="OX" ID="A08991">
+<STC T="S">19286</STC>
+<BIBNO T="umi">99836682</BIBNO>
+<VID>966</VID>
+</IDG>
+<TEXT LANG="eng">
+<BODY>
+<DIV1 TYPE="text">
+<PB REF="1" MS="y">
+<HEAD>Cauete &agrave; crapula &amp; ebrietate. <HI>An Admonition. To all suche as shall intende hereafter to enter the state of Matrimony Godly, and agreably to Lawes.</HI></HEAD>
+<P>_FYRSTE, <HI>That they contract not w^t suche persons as be hereafter expressed, nor with any of like degree, against the lawe of God and the lawes of the Real<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter"></HI> SECONDLY, <HI>That they make no secrete contractes without consente and counsaile of theire Parentes or Elders, vnder whose authoritie they bee: con<GAP DESC="illegible" RESP="OXF" EXTENT="2 letters">ry to Gods Lawes and mans ordinaunces.</HI></P>
+<P>THIRDLY, <HI>That they contract not a new with any other vpon diuorse &amp; separation made by the Iudge for a time, the lawes yet standing to the contrary.</HI></P>
+<Q>_MAriage is honorable amonge all men, and the bed vndefiled. But whoremongers and adulterers God will iudge. <BIBL>Hebrae. 13.</BIBL></Q>
+<Q>To auoyde fornication, let euery man haue his wyfe, and let euery woman haue her housbande. He that can not conteine, let him marye: For better it is to mary, then to burne. <BIBL>1 Cor. 7.</BIBL></Q>
+<Q><GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">nto the maried I commaunde, not I, but the Lorde: Let not the Wife departe from her housbande. But if she departe, let her remaine vnmaried, or be reconciled vnto her housbande. And let not the housbande put away his wyfe. <BIBL>1 Cor. 7.</BIBL></Q>
+<Q><BIBL>LEVITICI XVIII. AND XX.</BIBL> <GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">one shal come neare to any of the kindred of his flesh to vncouer her shame: I am the Lord.</Q>
+<P><TABLE>
+<ROW>
+<CELL ROLE="label" COLS="4">&leaf;&rindx; <HI>A Man may not mary his</HI></CELL>
+<CELL ROLE="label" COLS="4">&rindx; <HI>A Woman may not mary with her</HI> &leaf;</CELL>
+</ROW>
+<ROW>
+<CELL>&nbsp;</CELL>
+<CELL><HI>Secundus gradus in linea recta ascendenae.</HI></CELL>
+<CELL>&nbsp;</CELL>
+<CELL>&nbsp;</CELL>
+<CELL>&nbsp;</CELL>
+<CELL>&nbsp;</CELL>
+<CELL>&nbsp;</CELL>
+<CELL><HI>Secundus gradus in recta linea ascendente.</HI></CELL>
+</ROW>
+<ROW>
+<CELL><HI>Con.</HI></CELL>
+<CELL>Auia.</CELL>
+<CELL>1</CELL>
+<CELL><HI>Grandmother.</HI></CELL>
+<CELL>1</CELL>
+<CELL><HI>Grandfather.</HI></CELL>
+<CELL><HI>Con.</HI></CELL>
+<CELL>Auus.</CELL>
+</ROW>
+<ROW>
+<CELL><HI>af.</HI></CELL>
+<CELL>Aui relicta.</CELL>
+<CELL>2</CELL>
+<CELL><HI>Grandfathers Wife.</HI></CELL>
+<CELL>2</CELL>
+<CELL><HI>Grandmothers Husbande.</HI></CELL>
+<CELL><HI>af.</HI></CELL>
+<CELL>Auiae relictus.</CELL>
+</ROW>
+<ROW>
+<CELL><HI>af.</HI></CELL>
+<CELL>Prosocrus, uel socrus magna.</CELL>
+<CELL>3</CELL>
+<CELL><HI>Wiues Grandmother.</HI></CELL>
+<CELL>3</CELL>
+<CELL><HI>Husbandes grandfather.</HI></CELL>
+<CELL><HI>af.</HI></CELL>
+<CELL>Prosocer, vel socer magnus.</CELL>
+</ROW>
+<ROW>
+<CELL>&nbsp;</CELL>
+<CELL><HI>Secundus gradus inaequalis, in l<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">nea transuer|sa ascendente.</HI></CELL>
+<CELL>&nbsp;</CELL>
+<CELL>&nbsp;</CELL>
+<CELL>&nbsp;</CELL>
+<CELL>&nbsp;</CELL>
+<CELL>&nbsp;</CELL>
+<CELL><HI>Secundus gradus inaequalis in linea transuersali (ascendente.</HI></CELL>
+</ROW>
+<ROW>
+<CELL><HI>Con.</HI></CELL>
+<CELL>Amita.</CELL>
+<CELL>4</CELL>
+<CELL><HI>Fathers Sister.</HI></CELL>
+<CELL>4</CELL>
+<CELL><HI>Fathers Brother.</HI></CELL>
+<CELL><HI>Con.</HI></CELL>
+<CELL>Patruus.</CELL>
+</ROW>
+<ROW>
+<CELL><HI>con.</HI></CELL>
+<CELL>Matertera.</CELL>
+<CELL>5</CELL>
+<CELL><HI>Mothers Sister.</HI></CELL>
+<CELL>5</CELL>
+<CELL><HI>Mothers Brother.</HI></CELL>
+<CELL><HI>con.</HI></CELL>
+<CELL>Auunculus.</CELL>
+</ROW>
+<ROW>
+<CELL><HI>af.</HI></CELL>
+<CELL>Patrui relicta.</CELL>
+<CELL>6</CELL>
+<CELL><HI>Fathers Brothers Wife.</HI></CELL>
+<CELL>6</CELL>
+<CELL><HI>Fathers Sisters Husbande.</HI></CELL>
+<CELL><HI>af.</HI></CELL>
+<CELL>Amitae relictus.</CELL>
+</ROW>
+<ROW>
+<CELL><HI>af.</HI></CELL>
+<CELL>Auunculi relicta.</CELL>
+<CELL>7</CELL>
+<CELL><HI>Mothers Brothers Wife.</HI></CELL>
+<CELL>7</CELL>
+<CELL><HI>Mothers Sisters Husbande.</HI></CELL>
+<CELL><HI>af.</HI></CELL>
+<CELL>Materterae relictus.</CELL>
+</ROW>
+<ROW>
+<CELL><HI>af.</HI></CELL>
+<CELL>Amita vxoris.</CELL>
+<CELL>8</CELL>
+<CELL><HI>Wiues Fathers Sister.</HI></CELL>
+<CELL>8</CELL>
+<CELL><HI>Husbandes Fathers Brother.</HI></CELL>
+<CELL><HI>af.</HI></CELL>
+<CELL>Patruus mariti.</CELL>
+</ROW>
+<ROW>
+<CELL><HI>af.</HI></CELL>
+<CELL>Matertera vxoris.</CELL>
+<CELL>9</CELL>
+<CELL><HI>Wiues Mothers Sister.</HI></CELL>
+<CELL>9</CELL>
+<CELL><HI>Husbandes Mothers brother.</HI></CELL>
+<CELL><HI>af.</HI></CELL>
+<CELL>Auunculus mariti.</CELL>
+</ROW>
+<ROW>
+<CELL>&nbsp;</CELL>
+<CELL><HI>Primus gradus in linea recta ascendente.</HI></CELL>
+<CELL>&nbsp;</CELL>
+<CELL>&nbsp;</CELL>
+<CELL>&nbsp;</CELL>
+<CELL>&nbsp;</CELL>
+<CELL>&nbsp;</CELL>
+<CELL><HI>Primus gradus in linea recta ascendente.</HI></CELL>
+</ROW>
+<ROW>
+<CELL><HI>Con.</HI></CELL>
+<CELL>Mater.</CELL>
+<CELL>10</CELL>
+<CELL><HI>Mother.</HI></CELL>
+<CELL>10</CELL>
+<CELL><HI>Father.</HI></CELL>
+<CELL><HI>Con.</HI></CELL>
+<CELL>Pater.</CELL>
+</ROW>
+<ROW>
+<CELL><HI>af.</HI></CELL>
+<CELL>Nouerca.</CELL>
+<CELL>11</CELL>
+<CELL><HI>Stepmother.</HI></CELL>
+<CELL>11</CELL>
+<CELL><HI>Stepfather.</HI></CELL>
+<CELL><HI>af.</HI></CELL>
+<CELL>Vitricus.</CELL>
+</ROW>
+<ROW>
+<CELL><HI>af.</HI></CELL>
+<CELL>Socrus.</CELL>
+<CELL>12</CELL>
+<CELL><HI>Wiues Mother.</HI></CELL>
+<CELL>12</CELL>
+<CELL><HI>Husbandes Father.</HI></CELL>
+<CELL><HI>af.</HI></CELL>
+<CELL>Socer.</CELL>
+</ROW>
+<ROW>
+<CELL>&nbsp;</CELL>
+<CELL><HI>Primus gradus in linea recta descendente.</HI></CELL>
+<CELL>&nbsp;</CELL>
+<CELL>&nbsp;</CELL>
+<CELL>&nbsp;</CELL>
+<CELL>&nbsp;</CELL>
+<CELL>&nbsp;</CELL>
+<CELL><HI>Primus gradus in linea recta descendente.</HI></CELL>
+</ROW>
+<ROW>
+<CELL><HI>Con.</HI></CELL>
+<CELL>Filia.</CELL>
+<CELL>13</CELL>
+<CELL><HI>Daughter.</HI></CELL>
+<CELL>13</CELL>
+<CELL><HI>Sonne.</HI></CELL>
+<CELL><HI>Con</HI></CELL>
+<CELL>Filius.</CELL>
+</ROW>
+<ROW>
+<CELL><HI>af.</HI></CELL>
+<CELL>Priuigna.</CELL>
+<CELL>14</CELL>
+<CELL><HI>Wiues daughter.</HI></CELL>
+<CELL>14</CELL>
+<CELL><HI>Husbandes sonne.</HI></CELL>
+<CELL><HI>af.</HI></CELL>
+<CELL>Priuignus.</CELL>
+</ROW>
+<ROW>
+<CELL><HI>af.</HI></CELL>
+<CELL>Nurus.</CELL>
+<CELL>15</CELL>
+<CELL><HI>Sonnes Wife.</HI></CELL>
+<CELL>15</CELL>
+<CELL><HI>Daughters Husbande.</HI></CELL>
+<CELL><HI>af.</HI></CELL>
+<CELL>Gener.</CELL>
+</ROW>
+<ROW>
+<CELL>&nbsp;</CELL>
+<CELL><HI>Primus gradus aequalis in linea transuersali.</HI></CELL>
+<CELL>&nbsp;</CELL>
+<CELL>&nbsp;</CELL>
+<CELL>&nbsp;</CELL>
+<CELL>&nbsp;</CELL>
+<CELL>&nbsp;</CELL>
+<CELL><HI>Primus gradus aequalis in linea transuersati.</HI></CELL>
+</ROW>
+<ROW>
+<CELL><HI>Con.</HI></CELL>
+<CELL>Soror.</CELL>
+<CELL>16</CELL>
+<CELL><HI>Sister.</HI></CELL>
+<CELL>16</CELL>
+<CELL><HI>Brother.</HI></CELL>
+<CELL><HI>Con.</HI></CELL>
+<CELL>Frater.</CELL>
+</ROW>
+<ROW>
+<CELL><HI>af.</HI></CELL>
+<CELL>Soror vxoris.</CELL>
+<CELL>17</CELL>
+<CELL><HI>Wiues Sister.</HI></CELL>
+<CELL>17</CELL>
+<CELL><HI>Husbandes Brother.</HI></CELL>
+<CELL><HI>af.</HI></CELL>
+<CELL>Leuir.</CELL>
+</ROW>
+<ROW>
+<CELL><HI>af.</HI></CELL>
+<CELL>Fratris relicta.</CELL>
+<CELL>18</CELL>
+<CELL><HI>Brothers Wife.</HI></CELL>
+<CELL>18</CELL>
+<CELL><HI>Sisters Husbande.</HI></CELL>
+<CELL><HI>af.</HI></CELL>
+<CELL>Sororis relictus.</CELL>
+</ROW>
+<ROW>
+<CELL>&nbsp;</CELL>
+<CELL><HI>Secundus gradus in linea recta descendente.</HI></CELL>
+<CELL>&nbsp;</CELL>
+<CELL>&nbsp;</CELL>
+<CELL>&nbsp;</CELL>
+<CELL>&nbsp;</CELL>
+<CELL>&nbsp;</CELL>
+<CELL><HI>Secundus gradus in linea recta descendente.</HI></CELL>
+</ROW>
+<ROW>
+<CELL><HI>Con.</HI></CELL>
+<CELL>Neptis ex filio.</CELL>
+<CELL>19</CELL>
+<CELL><HI>Sonnes Daughter.</HI></CELL>
+<CELL>19</CELL>
+<CELL><HI>Sonnes sonne.</HI></CELL>
+<CELL><HI>Con.</HI></CELL>
+<CELL>Nepos ex filio.</CELL>
+</ROW>
+<ROW>
+<CELL><HI>con.</HI></CELL>
+<CELL>Neptis ex filia.</CELL>
+<CELL>20</CELL>
+<CELL><HI>Daughters Daughter.</HI></CELL>
+<CELL>20</CELL>
+<CELL><HI>Daughters sonne.</HI></CELL>
+<CELL><HI>con.</HI></CELL>
+<CELL>Nepos ex filia.</CELL>
+</ROW>
+<ROW>
+<CELL><HI>af.</HI></CELL>
+<CELL>Pronurus. i. relicta nepotis ex filio.</CELL>
+<CELL>21</CELL>
+<CELL><HI>Sonnes Sonnes Wife.</HI></CELL>
+<CELL>21</CELL>
+<CELL><HI>Sonnes Daughters husband.</HI></CELL>
+<CELL><HI>a<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">.</HI></CELL>
+<CELL>Progener. i. relictus neptis ex filio.</CELL>
+</ROW>
+<ROW>
+<CELL><HI>af.</HI></CELL>
+<CELL>Pronurus. i. relicta nepotis ex filia.</CELL>
+<CELL>22</CELL>
+<CELL><HI>Daughters sonnes Wife.</HI></CELL>
+<CELL>22</CELL>
+<CELL><HI>Daughters daughters husba~d.</HI></CELL>
+<CELL><HI>af.</HI></CELL>
+<CELL>Progener. i. relictus neptis ex filia.</CELL>
+</ROW>
+<ROW>
+<CELL><HI>af.</HI></CELL>
+<CELL>Priuigni filia.</CELL>
+<CELL>23</CELL>
+<CELL><HI>Wiues sonnes Daughter.</HI></CELL>
+<CELL>23</CELL>
+<CELL><HI>Husbandes sonne sonne.</HI></CELL>
+<CELL><HI>af.</HI></CELL>
+<CELL>Priuigni filius.</CELL>
+</ROW>
+<ROW>
+<CELL><HI>af.</HI></CELL>
+<CELL>Priuignae filia.</CELL>
+<CELL>24</CELL>
+<CELL><HI>Wiues daughters daughter.</HI></CELL>
+<CELL>24</CELL>
+<CELL><HI>Husbandes daughters sonne.</HI></CELL>
+<CELL><HI>af.</HI></CELL>
+<CELL>Priuignae filius.</CELL>
+</ROW>
+<ROW>
+<CELL>&nbsp;</CELL>
+<CELL><HI>Secundus gradus in equalis, in linea transuer|sali descendente.</HI></CELL>
+<CELL>&nbsp;</CELL>
+<CELL>&nbsp;</CELL>
+<CELL>&nbsp;</CELL>
+<CELL>&nbsp;</CELL>
+<CELL>&nbsp;</CELL>
+<CELL><HI>Secundus gradus inaequalis, in linea transuersa|li descendente.</HI></CELL>
+</ROW>
+<ROW>
+<CELL><HI>Con.</HI></CELL>
+<CELL>Neptis ex fratre.</CELL>
+<CELL>25</CELL>
+<CELL><HI>Brothers Daughter.</HI></CELL>
+<CELL>25</CELL>
+<CELL><HI>Brothers sonne.</HI></CELL>
+<CELL><HI>Con.</HI></CELL>
+<CELL>Nepos ex fratre.</CELL>
+</ROW>
+<ROW>
+<CELL><HI>con.</HI></CELL>
+<CELL>Neptis ex sorore.</CELL>
+<CELL>26</CELL>
+<CELL><HI>Sisters Daughter.</HI></CELL>
+<CELL>26</CELL>
+<CELL><HI>Sisters sonne.</HI></CELL>
+<CELL><HI>con.</HI></CELL>
+<CELL>Nepos ex sorore.</CELL>
+</ROW>
+<ROW>
+<CELL><HI>af.</HI></CELL>
+<CELL>Nepotis ex fratre relicta.</CELL>
+<CELL>27</CELL>
+<CELL><HI>Brothers sonnes wife.</HI></CELL>
+<CELL>27</CELL>
+<CELL><HI>Brothers daughters husband.</HI></CELL>
+<CELL><HI>af.</HI></CELL>
+<CELL>Neptis ex fratre relictus.</CELL>
+</ROW>
+<ROW>
+<CELL><HI>af.</HI></CELL>
+<CELL>Nepotis ex sorore relicta.</CELL>
+<CELL>28</CELL>
+<CELL><HI>Sisters sonnes wife.</HI></CELL>
+<CELL>28</CELL>
+<CELL><HI>Sisters daughters husbande.</HI></CELL>
+<CELL><HI>af.</HI></CELL>
+<CELL>Neptis ex sorore relictus.</CELL>
+</ROW>
+<ROW>
+<CELL><HI>af.</HI></CELL>
+<CELL>Neptis vxoris ex fratre.</CELL>
+<CELL>29</CELL>
+<CELL><HI>Wiues brothers daughter.</HI></CELL>
+<CELL>29</CELL>
+<CELL><HI>Husbandes brothers sonne.</HI></CELL>
+<CELL><HI>af.</HI></CELL>
+<CELL>Leuiris filius. i. nepos mariti ex fratre&punc;</CELL>
+</ROW>
+<ROW>
+<CELL><HI>af.</HI></CELL>
+<CELL>Neptis vxoris ex sorore.</CELL>
+<CELL>30</CELL>
+<CELL><HI>Wiues sisters daughter.</HI></CELL>
+<CELL>30</CELL>
+<CELL><HI>Husbandes sisters sonne.</HI></CELL>
+<CELL><HI>af.</HI></CELL>
+<CELL>Gloris filius. i. nepos mariti ex sorore.</CELL>
+</ROW>
+</TABLE></P>
+<LIST>
+<ITEM>1 <HI>IT is to be noted, that those persons whiche be in the direct lyne ascendent and descendent, can not mary togither, although they bee neuer so farre a sonder in degree.</HI></ITEM>
+<ITEM>2 <HI>IT is also to be noted, that Consanguinitie and Affinitie lettinge and dissoluing Ma|<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">rimony is contracted as well in them and by them whiche be of kindred by the one side, as in <GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">nd by them whiche be of kyndred by bothe sides.</HI></ITEM>
+<ITEM>3 <HI>ITEM, that by the lawes, Consanguinity &amp; Affinity letting &amp; dissoluing Matrimony) is contracted as well by vnlawfull company of Man and Woman, as by lawful mariage.</HI></ITEM>
+<ITEM>4 <HI>ITEM, in contractinge betwixt persons doubtfull, which be not expressed in this table, It is moste sure, first to consulte with men learned in the lawes, to vnderstande what is law|ful, what is honest and expedient, before the finishinge of their contractes.</HI></ITEM>
+<ITEM>5 <HI>ITEM, that no Parson, Uicar, or Curate, shal solemnise Matrimony out of his or their Cure or parrishe Churche, or Chappell, and shall not solemnise the same in priuate houses nor lawlesse or exempt churches, vnder the paynes of the lawe, forbiddinge the same. And that the Curate haue the certificates when the parties dwell in diuers Parishes.</HI></ITEM>
+<ITEM>6 <HI>ITEM, the bandes of Matrimony ought to be openly denounced in the Churche by the Minister, three seuerall sondayes, or festiuall dayes, to the intent, that who will and ca~ alledge any Impediment, may be hearde, and that stay may be made til further tryall, if any exception be made there agaynste it vppon sufficient caution.</HI></ITEM>
+<ITEM>7 <HI>ITEM, who shall maliciously obiect a friuolous impediment agaynste a lawful Matri|mony, to disturbe the same, is subiecte to the paynes of the Lawe.</HI></ITEM>
+<ITEM>8 <HI>ITEM, who shall presume to contract in the degrees prohibited though he doe it igno|rantly) besides that the frute of suche copulation may be iudged vnlawfull, is also punishable at the Ordinaries discretion.</HI></ITEM>
+<ITEM>9 <HI>ITEM, if any Minister shall conioyne any suche, or shalbe presente at suche contract<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter"> making, he ought to be suspended from his ministery for three yeares: And otherwise to be pu|nished accordinge to the lawes.</HI></ITEM>
+<ITEM>10 <HI>ITEM, it is further ordeyned, that no Parson, Uicar, or Curate do preache, treate <GAP DESC="illegible" RESP="OXF" EXTENT="1 span"> pounde of his owne voluntary inuention, any matter of controuersy in y^e Scriptures, if he bee vnder the degree of a Mayster of Art, except he be licensed by his Ordinary thervnto, but only for y^e instructio~ of the people, reade the Homilies already set forthe, &amp; suche other forme of doc|trine as shalbe hereafter by aucthority published. And shall not Innouate or alter any thing<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter"> in y^e Churche, or vse any olde Rite or Ceremony, whiche be not set forth by publike authority</HI></ITEM>
+</LIST>
+</DIV1>
+</BODY>
+<BACK>
+<DIV1 TYPE="colophon">
+<P>Set forth first by the moste reuerende father in God, <HI>MATTHEW</HI> Archebyshop of Canterbury, Primate of all Englande, and Metropolitane.</P>
+<P>Imprinted at London by Reginalde Wolfe. Anno Domini. 1571.</P>
+<PB REF="2" MS="y">
+</DIV1>
+</BACK>
+</TEXT>
+</EEBO>
+</ETS>

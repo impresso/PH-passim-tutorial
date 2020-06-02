@@ -1,0 +1,154 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD EEBOPROOF 2.0//EN">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-08-20</DATE>
+<RESPSTMT>
+<NAME>Mona Logarbo</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>*Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate.
+*Ran capitalizations.
+*Checked for GROUP tags.
+*Proofed title page(s).
+*Checked for TYPE=book.
+*Checked I / J.
+*Checked ^s.
+*Checked oe for ae ligatures.
+*Reviewed structure.
+Added DATE to P on PB REF="1".
+*Checked placement and completeness of PBs.
+*Checked for damage GAPs, #s, @s, --s, &mdash;, q;s, <ABBR>Esq</ABBR>  and UNCLEARs.
+Replaced fractions "2/5," "1/5," and "3/5" with entities "&frac25;", "&frac15;", and "&frac35;", respectively.
+*Corrected $s by inserting the appropriate character(s).
+*Checked for duplicate pages.
+*Checked for missing pages.
+*Checked spacing of foreign GAPs.
+*Checked for &amp;cs with incorrect spacing.
+*Checked for LBs.
+*Checked for OPENERs, SALUTEs, DATELINEs, DATEs, SIGNEDs, CLOSERs, TRAILERs, BYLINEs, etc.
+*Checked for TABLEs and LISTs.
+*Checked for startqs, endqs and Qs.
+*Checked proofsheets and made corrections.
+DONE 08-20-03.</ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="A54629">
+<STC T="W">P1942</STC>
+<BIBNO T="oclc">12363809</BIBNO>
+<VID>60342</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="license">
+<PB REF="1">
+<OPENER><DATELINE>WHITE-HALL, <DATE><HI>Aug.</HI> 26th 1686.</DATE></DATELINE></OPENER>
+<P>Let this Paper be printed.</P>
+<CLOSER><SIGNED>Sunderland <HI>P.</HI></SIGNED></CLOSER>
+</DIV1>
+<DIV1 TYPE="title page">
+<PB REF="1">
+<P>TWO ESSAYS IN Political Arithmetick, Concerning the People, Housing, Hospitals, <HI>&amp;c.</HI> OF LONDON and PARIS.</P>
+<P>By Sir <HI>WILLIAM PETTY,</HI> Fellow of the Royal Society.</P>
+<Q><L>&mdash;Qui sciret Regibus uti</L>
+<L>Fastidiret olus&mdash;</L></Q>
+<P>LONDON, Printed for <HI>I. Lloyd</HI> in the Middle Exchange next <HI>Salisbury</HI>-House in the <HI>Strand.</HI> 1687.</P>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="2">
+<PB REF="2">
+<HEAD>TO THE KING'S Most Excellent MAJESTY.</HEAD>
+<P><HI>_I</HI> Do presume, in a very small Paper, to shew Your Majesty, that Your <HI>City</HI> of <HI>London</HI> seems more conside|rable than the Two best <HI>Cities</HI> of the <HI>French Monarchy,</HI> and for ought I can find, greater than any other of the <HI>Uni|verse,</HI> which because I can say
+<PB REF="3">
+without flattery, and by such Demonstration as Your Maje|sty can examine, I humbly pray Your Majesty to accept from</P>
+<CLOSER><SIGNED>Your Majesty's Most Humble, Loyal and Obedient Subject, <HI>William Petty.</HI></SIGNED></CLOSER>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="essay">
+<PB N="1" REF="3">
+<HEAD>AN ESSAY IN Political Arithmetick, BY <HI>Sir</HI> WILLIAM PETTY,</HEAD>
+<P>Tending to prove that <HI>London</HI> hath more People and Housing than the Cities of <HI>Paris</HI> and <HI>Rouen</HI> put toge|ther, and is also more considerable in several other respects.</P>
+<P N="1">1. THE Medium of the <HI>Bu|rials</HI> at <HI>London</HI> in the three last years, <HI>viz,</HI> 1683, 1684 and 1685, (wherein there was no extraordinary Sick|ness,
+<PB N="2" REF="4">
+and wherein the <HI>Christenings</HI> do correspond in their ordinary proportions with the <HI>Burials</HI> and <HI>Christenings</HI> of each year one with another) was 22337, and the like Medium of <HI>Burials</HI> for the three last <HI>Paris</HI> Bills we could pro|cure, <HI>viz.</HI> for the years 1682, 1683 and 1684 (whereof the last as appears by the <HI>Christen|ings</HI> to have been very sickly) is 19887.</P>
+<P N="2">2. The City of <HI>Bristol</HI> in <HI>En|gland</HI> appears to be by good e|stimate of its <HI>Trade</HI> and <HI>Customes</HI> as great as <HI>Rouen</HI> in <HI>France,</HI> and the City of <HI>Dublin</HI> in <HI>Ireland</HI> ap|pears to have more Chimnies than <HI>Bristol,</HI> and consequently more People, and the <HI>Burials</HI> in
+<PB N="3" REF="4">
+<HI>Dublin</HI> were <HI>Anno</HI> 1682 (being a sickly year) but 2263.</P>
+<P N="3">3. Now the <HI>Burials</HI> of <HI>Paris</HI> (being 19887) being added to the <HI>Burials</HI> of <HI>Dublin</HI> (supposed more than at <HI>Rouen</HI>) being 2263, makes but 22150, whereas the <HI>Burials</HI> of <HI>London</HI> were 187 more, or 22337, or as about 6 to 7.</P>
+<P N="4">4. If those who die unnecessa|rily, and by miscarriage in <HI>L'ho|stel Dieu</HI> in <HI>Paris</HI> (being above 3000) as hath been elsewhere shewn, or any part thereof, should be subtracted out of the <HI>Paris Burials</HI> aforementioned, then our assertion will be stronger, and more proportionable to what fol|lows
+<PB N="4" REF="5">
+concerning the Housing of those Cities, <HI>viz.</HI></P>
+<P N="5">5. There were burnt at <HI>Lon|don, Anno</HI> 1666, above 13000 houses, which being but a fifth part of the whole, the whole num|ber of houses in the said year, were above 65000; and whereas the ordinary <HI>Burials</HI> of <HI>London</HI> have increased between the years 1666 and 1686, above <HI>one third,</HI> the total of the houses at <HI>London Anno</HI> 1686, must be about 87000, which <HI>Anno</HI> 1682, appeared by accompt to have been 84000.</P>
+<P N="6">6. <HI>Monsieur Morery,</HI> the great French Author of the late <HI>Geogra|phical Dictionaries,</HI> who makes <HI>Pa|ris</HI> the greatest City in the <HI>World,</HI>
+<PB N="5" REF="5">
+doth reckon but 50000 houses in the same, and other Authors and knowing Men much less; nor are there full 7000 houses in the City of <HI>Dublin,</HI> so as if the 50000 houses of <HI>Paris</HI> and the 7000 houses in the City of <HI>Dublin</HI> were added toge|ther, the total is but 57000 hou|ses, whereas those of <HI>London</HI> are 87000 as aforesaid, or as 6 to 9.</P>
+<P N="7">7. As for the Shipping and fo|reign Commerce of <HI>London,</HI> the common sense of all Men doth judge it to be far greater than that of <HI>Paris</HI> and <HI>Rouen</HI> put together.</P>
+<P N="8">8. As to the Wealth and Gain accruing to the Inhabitants of <HI>Lon|don</HI> and <HI>Paris</HI> by Law-suits (or <HI>La chicane</HI>) lonely say that the Courts
+<PB N="6" REF="6">
+of <HI>London</HI> extend to all <HI>England</HI> and <HI>Wales,</HI> and affect seven Milli|ons of People, whereas those of <HI>Paris</HI> do not extend near so far: Moreover there is no palpable conspicuous argument at <HI>Paris</HI> for the Number and Wealth of Lawyers like the Buildings and Chambers in the <HI>Two Temples, Lincoln's Inn, Gray's Inn, Doctors Commons,</HI> and the seven other Inns in which are Chimnies, which are to be seen at <HI>London,</HI> besides many Lodgings, Halls and Offices relating to the same.</P>
+<P N="9">9. As to the plentifull and easie living of the People we say,
+<LIST>
+<ITEM>1. That the People of <HI>Paris</HI> to those of <HI>London,</HI> being as a|bout
+<PB N="7" REF="6">
+6 to 7, and the Housing of the same as about 6 to 9, we in|fer that the People do not live at <HI>London</HI> so close and crouded as at <HI>Paris,</HI> but can afford themselves more room and liberty.</ITEM>
+<ITEM>2. That at <HI>London</HI> the <HI>Hospi|tals</HI> are better and more desira|ble than those of <HI>Paris,</HI> for that in the best at <HI>Paris</HI> there die 2 out of 15, whereas at <HI>London</HI> there die out of the worst scarce 2 of 16, and yet but a fiftieth part of the whole die out of the <HI>Hospitals</HI> at <HI>London,</HI> and &frac25; or 20 times that proportion die out of the <HI>Paris Hospitals</HI> which are of the same kind; that is to say, the num|ber of those at <HI>London</HI> who chuse to lie sick in <HI>Hospitals</HI> rather than
+<PB N="8" REF="7">
+in their own Houses, are to the like People of <HI>Paris</HI> as one to twenty; which shews the greater Poverty or want of Means in the People of <HI>Paris</HI> than those of <HI>London.</HI></ITEM>
+<ITEM>3. We infer from the premis|ses, <HI>viz.</HI> the dying scarce 2 of 16 out of the <HI>London Hospitals,</HI> and about 2 of 15 in the best of <HI>Pa|ris,</HI> (to say nothing of <HI>L' hostel Dieu</HI>) That either the <HI>Physicians</HI> and <HI>Chirurgeons</HI> of <HI>London</HI> are better than those of <HI>Paris,</HI> or that the Air of <HI>London</HI> is more wholesome.</ITEM>
+</LIST></P>
+<P N="10">10. As for the other great Ci|ties of the <HI>World,</HI> if <HI>Paris</HI> were the greatest, we need say no more
+<PB N="9" REF="7">
+in behalf of <HI>London.</HI> As for <HI>Pe|quin</HI> in <HI>China,</HI> we have no account fit to reason upon; nor is there any thing in the Description of the two late Voyages of the <HI>Chi|nes's Emperour</HI> from that City into East and West <HI>Tartary,</HI> in the years 1682 and 1683, which can make us recant what we have said concerning <HI>London.</HI> As for <HI>Dely</HI> and <HI>Agra</HI> belonging to the <HI>Mo|gull</HI> we find nothing against our position, but much to shew the vast numbers which attend that <HI>Emperour</HI> in his business and plea|sures.</P>
+<P N="11">11. We shall conclude with <HI>Constantinople</HI> and <HI>Gran Cairo</HI>; as for <HI>Constantinople</HI> it hath been said by one who endeavour'd to shew
+<PB N="10" REF="8">
+the greatness of that City, and the greatness of the <HI>Plague</HI> which reigned in it, that there died 1500 <HI>per diem,</HI> without other circumstances: To which we an|swer, that in the year 1665 there died in <HI>London</HI> 1200 <HI>per diem,</HI> and it hath been well proved that the <HI>Plague</HI> of <HI>London</HI> never carried a|way above &frac15; of the People, where|as it is commonly believed that in <HI>Constantinople,</HI> and other <HI>Eastern Cities,</HI> and even in <HI>Italy</HI> and <HI>Spain,</HI> that the <HI>Plague</HI> takes away &frac25; one half or more; wherefore where 1200 is but &frac15; of the Peo|ple it is probable that the num|ber was greater, than where 1500 was &frac25; or one half, <HI>&amp;c.</HI></P>
+<P N="12"><PB N="11" REF="8">12. As for <HI>Gran Cairo</HI> it is re|ported, that 73000 died in 10 weeks or 1000 <HI>per diem,</HI> where note, that at <HI>Gran Cairo</HI> the <HI>Plague</HI> comes and goes away suddenly, and that the <HI>Plague</HI> takes away 2 or &frac35; parts of the People as a|foresaid; so as 73000 was pro|bably the number of those that died of the <HI>Plague</HI> in one whole year at <HI>Gran Cairo,</HI> whereas at <HI>London Anno</HI> 1665, 97000 were brought to account to have died in that year. Wherefore it is certain, that that City wherein 97000 was but &frac15; of the People, the number was greater than where 73000 was &frac25; or the half.</P>
+<P><PB N="12" REF="9">We therefore conclude, that <HI>London</HI> hath more <HI>People, Hou|sing, Shipping</HI> and <HI>Wealth,</HI> than <HI>Paris</HI> and <HI>Rouen</HI> put together; and for ought yet appears, is more considerable than any o|ther City in the <HI>Vniverse,</HI> which was propounded to be proved.</P>
+</DIV1>
+<DIV1 TYPE="essay">
+<PB N="13" REF="9">
+<HEAD>AN ESSAY IN Political Arithmetick, BY <HI>Sir</HI> WILLIAM PETTY,</HEAD>
+<P>Tending to prove that in the Hospital called <HI>L' hostel Dieu</HI> at <HI>Paris,</HI> there die above 3000 <HI>per Annum</HI> by reason of ill accommodation.</P>
+<P N="1">1. IT appears that <HI>Anno</HI> 1678 there entred into the Ho|spital of <HI>La Charit&eacute;</HI> 2647 Souls, of which there died there within the said year 338, which
+<PB N="14" REF="10">
+is above an <HI>eighth part</HI> of the said 2647, and that in the same year there entred into <HI>L' hostel Dieu</HI> 21491, and &punc;that&punc; there died out of that number 5630, which is above <HI>one quarter,</HI> so as about half the said 5630, being 2815, seem to have died for want of as good usage and accommoda|tion as might have been had at <HI>La Charit&eacute;.</HI></P>
+<P N="2">2. Moreover in the year 1679 there entred into <HI>La Charit&eacute;</HI> 3118, of which there died 452, which is above a <HI>seventh part,</HI> and in the same year there entred into <HI>L' ho|stel Dieu</HI> 28635, of which there died 8397, and in both the said years 1678 and 1679 (being ve|ry different in their degrees of
+<PB N="15" REF="10">
+Mortality) there entred into <HI>L' hostel Dieu</HI> 28635 and 21491, in all 50126, the Medium where|of is 25063, and there died out of the same in the said Two years 5630 &amp; 8397, in all 14027, the Medium whereof is 7013.</P>
+<P N="3">3. There entred in the said years into <HI>La Charit&eacute;</HI> 2647 and 3118, in all 5765, the Medium whereof is 2882, whereof there died 338 and 452, in all 790, the Medium whereof is 395.</P>
+<P N="4">4. Now if there died out of <HI>L' hostel Dieu</HI> 7013 <HI>per annum,</HI> and that the proportion of those that died out of <HI>L' hostel Dieu</HI> is double to those that died out of <HI>La Charit&eacute;</HI> (as by the above
+<PB N="16" REF="11">
+Numbers it appears to be near there abouts) then it follows that half the said Numbers of 7013 being 3506, did not die by <HI>na|tural necessity,</HI> but by the evil administration of that Hospital.</P>
+<P N="5">5. This Conclusion seem'd at the first sight very strange, and ra|ther to be some mistake or chance than a solid and real truth, but considering the same matter as it appeared at <HI>London,</HI> we were more reconciled to the belief of it, <HI>viz.</HI></P>
+<P N="1">1. In the Hospital of St. <HI>Bar|tholomew</HI> in <HI>London</HI> there was sent out and <HI>cured</HI> in the year 1685, 1764 Persons, and there <HI>died</HI> out of the said Hospital 252.
+<PB N="17" REF="11">
+Moreover there were sent out and <HI>cured</HI> out of St. <HI>Thomas</HI>'s Ho|spital 1523, and <HI>buried</HI> 209, that is to say, there were cur'd in both Hospitals 3287, and bu|ried out of both Hospitals 461, and consequently cured and bu|ried 3748, of which number the 461 buried is less than an <HI>eighth part,</HI> whereas at <HI>La Charit&eacute;</HI> the part that died was more than an <HI>eighth part</HI>; which shews that out of the most poor and wretched Hospitals of <HI>London</HI> there died fewer in proportion than out of the best in <HI>Paris.</HI></P>
+<P N="2">2. Farthermore, it hath been above shewn that there died out of <HI>La Charit&eacute;</HI> at a Medium 395 <HI>per annum,</HI> and 141 out of <HI>Les
+<PB N="18" REF="12">
+Incurables</HI> making in all 536; and that out of St. <HI>Bartholomew</HI>'s and St. <HI>Thomas</HI>'s Hospital, <HI>London,</HI> there died at a Medium but 461, of which <HI>Les Incurables</HI> are part; which shews that although there be more People in <HI>London</HI> than in <HI>Paris,</HI> yet there went at <HI>Lon|don</HI> not so many People to Ho|spitals as there did at <HI>Paris,</HI> al|though the poorest Hospitals at <HI>London,</HI> were better than the best at <HI>Paris</HI>; which shews that the poorest People at <HI>London</HI> have better accommodation in their own houses, than the best Hospi|tal of <HI>Paris</HI> affordeth.</P>
+<P N="6">6. Having proved that there die about 3506 Persons at <HI>Paris un|necessarily</HI> to the damage of <HI>France,</HI>
+<PB N="19" REF="12">
+we come next to compute the value of the said damage and of the Remedy thereof, as follows, <HI>viz.</HI> the value of the said 3506 at 60 <HI>li. Sterl. per</HI> head, being a|bout the value of <HI>Argier Slaves,</HI> (which is less than the intrinsick value of People at <HI>Paris</HI>) the whole loss of the Subjects of <HI>France</HI> in that Hospital seems to be 60 times 3506 <HI>li. Sterl. per Annum, viz.</HI> 210 thousand 360 <HI>li. Sterl.</HI> equivalent to about two Millions 524 Thous. 320 <HI>French Livers.</HI></P>
+<P N="7">7. It hath appeared that there came into <HI>L' hostel Dieu</HI> at a Me|dium 25063 <HI>per Annum,</HI> or 2089 <HI>per Mensem,</HI> and that the whole stock of what remain'd in the
+<PB N="20" REF="13">
+precedent Months is at a Medi|um about 2108 (as may ap|pear by the third Line of the Table N^o 5, which shall be short|ly published) <HI>viz.</HI> the Medium of Months is 2410 for the sickly year 1679, whereunto 1806, be|ing added as the Medium of Months for the year 1678 makes 4216, the Medium whereof is the 2108 above mentioned; which number being added to the 2089 which entred each Month, makes 4197 for the Number of Sick which are supposed to be always in <HI>L' hostel Dieu</HI> one time with another.</P>
+<P N="8">8. Now if 60 <HI>French Livers per Annum</HI> for each of the said 4197 sick Persons were added to
+<PB N="21" REF="13">
+the present ordinary Expence of that Hospital (amounting to an addition of 251 Thousand 820 <HI>Livers</HI>) it seems that so many lives might be saved as are worth above ten times that sum, and this by doing a manifest deed of Charity to Mankind.</P>
+</DIV1>
+</BODY>
+<BACK>
+<DIV1 TYPE="memorandum">
+<PB REF="14">
+<PB REF="14">
+<P><HI>Memorandum,</HI> That <HI>Anno 1685.</HI> the Burials of <HI>London</HI> were <HI>23222,</HI> and those of <HI>Amster|dam 6245</HI>; from whence, and the difference of Air, 'tis proba|ble that the People of <HI>London</HI> are quadruple to those of <HI>Am|sterdam.</HI></P>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+</BACK>
+</TEXT>
+</EEBO>
+</ETS>

@@ -1,0 +1,971 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD EEBOPROOF 2.0//EN">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-09-27</DATE>
+<RESPSTMT>
+<NAME>Mona Logarbo</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>*Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate.
+*Checked for GROUP tags.
+*Proofed title page(s).
+*Checked ^s.
+*Checked I / J.
+*Checked oe for ae ligatures.
+*Reviewed structure.
+On PB REF="14" N="22," changed DIV1 to DIV2.
+*Checked placement and completeness of PBs.
+*Checked for duplicate pages.
+*Checked for missing pages.
+*Checked spacing of foreign GAPs.
+*Checked for damage GAPs, #s, @s, &mdash;, --s, <ABBR>Esq</ABBR> and UNCLEARs.
+Replaced "Es&abque;" with ABBR Esq / ABBR.
+*Corrected $word$s, $span$s, and $s by inserting the appropriate  character(s) and / or GAP DESC(s).
+*Checked for &amp;cs with incorrect spacing.
+*Checked for OPENERs, SALUTEs, CLOSERs, DATEs, DATELINEs, SIGNEDs, BYLINEs, TRAILERs, etc.
+*Checked for TABLEs and LISTs.
+*Checked for LBs.
+*Checked for startqs, endqs and Qs.
+*Checked proofsheets and made corrections.
+DONE 09-27-03.</ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="A40095">
+<STC T="W">F1722</STC>
+<BIBNO T="oclc">12927403</BIBNO>
+<VID>95574</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="publisher's advertisement">
+<PB REF="1">
+<HEAD>Books lately Printed for Richard Chiswell.</HEAD>
+<P>DR. <HI>TENISON</HI> (now Lord Bishop of <HI>Lincoln</HI>) His Sermon of
+Doing good to Posterity.</P>
+<P>&mdash;His Sermon concerning Discretion in giving Alms.</P>
+<P>&mdash;His Sermon against Self-Love, before the House of Commons&punc;
+<HI>Iune</HI> 5. 1689.</P>
+<P>&mdash;His Conference about Religion with <HI>Pulton</HI> the Jesuite.</P>
+<P>&mdash;His Sermon before the Queen, concerning the Wandring of the
+Mind in God's Service, <HI>Feb.</HI> 15. 1690.</P>
+<P>&mdash;His Sermon before the Queen, of the Folly of <HI>Atheism. February</HI>
+22. 1690.</P>
+<P>Dr. <HI>FOWLER</HI> (now Lord Bishop of <HI>Gloucester)</HI> his Sermon before
+the Queen, <HI>March</HI> 22. 1690.</P>
+<P>The Bishop of <HI>Sarum</HI>'s Sermon, at the Funeral of the Lady Brook,
+<HI>Feb.</HI> 19. 1690.</P>
+<P>&mdash;His Fast Sermon before the King and Queen, <HI>April</HI> 29. 1691.</P>
+<P>Dr. <HI>FREEMAN</HI> (now Dean of <HI>Peterborough)</HI> his Sermon at the Assizes
+at <HI>Northampton,</HI> before the Lord Chief Justice <HI>Pollexfen, Aug.</HI> 26. 1690.</P>
+<P>&mdash;His Thanksgiving Sermon before the House of Commons, <HI>Novem|ber</HI>
+5. 1690.</P>
+<P>Some Remarks upon the Ecclesiastical History of the Ancient Churches
+of <HI>PIEDMONT.</HI> By <HI>PETER ALLIX,</HI> D. D.</P>
+<P>A Vindication of their Majesties Authority, to fill the Sees of the
+deprived Bishops, in a Letter out of the Country, occasioned by Dr.
+<HI>B</HI>&mdash;'s Refusal of the Bishoprick of <HI>Bath</HI> and <HI>Wells. 4to</HI></P>
+<P>V. CL. GVLIELMI CAMDENI, &amp; <HI>T<GAP DESC="illegible" EXTENT="2 letters">strium</HI> Virorum ad G.
+C<GAP DESC="illegible" EXTENT="2 letters">ndenum EPISTOLAE. Cum Appendice varii Argum<GAP DESC="illegible" REASON="missing" EXTENT="1 letter">nti Accesserunt
+Annalium Regni R&egrave;gis Iacobi I. Apparatus, &amp; Commentarius de An<GAP DESC="illegible" EXTENT="3 letters">ate,
+Dignitate, &amp; Officio Comitis Marescalli Angli<GAP DESC="illegible" EXTENT="2 letters">. Pramittitur G. Camdeni<GAP DESC="illegible" EXTENT="1 span">.
+Scriptore
+Thoma Smitho S. T. D. Ecclesiae Anglicanae Presbytero, 4to.</P>
+<P><HI>MEMOIRS</HI> of what past in <HI>Christendom</HI> from the War begun 1672.
+to the Peace concluded 1679. 80.</P>
+<P>Remarks upon the Ecclesiastical History of the Ancient Churches of
+the <HI>ALBIGENSES.</HI> By <HI>PETER ALLIX,</HI> D. D. Treasurer
+of the Church of <HI>Sarum. 4to.</HI> will be shortly published.</P>
+<P>A Sermon Preached at <HI>White-Hall,</HI> on the 26<HI>th.</HI> of <HI>November,</HI> 1691. be|ing
+the Thanksgiving-Day for the Preservation of the King, and the
+Reduction of <HI>Ireland.</HI> By <HI>GILBERT</HI> Lord Bishop of <HI>SARVM, 4to.</HI></P>
+<P>A Thanksgiving Sermon before the Lords, on the 26<HI>th.</HI> of <HI>November,</HI> 16<GAP DESC="illegible" EXTENT="1 letter">0.
+for the Preservation of their Majesties, the Reducing of <HI>Ireland,</HI>
+and the King's safe return. By <HI>SYMON</HI> Lord Bishop of <HI>ELY.</HI></P>
+</DIV1>
+<DIV1 TYPE="publisher's advertisement">
+<HEAD>ADVERTISEMENT.</HEAD>
+<P><HI>PROPOSALS will be shortly published by</HI> Richard Chiswell, <HI>for
+Subscription to a Book (now finished) Intituled,</HI> ANGLIAE, SACRAE
+PARS SECVNDA; sive Collectio Historiarum, antiquitus Scriptarum, de Archiepiscopis
+&amp; Episcopis Angliae, &agrave; prima Fidei Christiane Susceptione, ad
+annum MDXL. Plures antiquas de Vitis &amp; Rebus gestis Praesulum Angli|<GAP DESC="illegible" EXTENT="1 letter">orum
+Historias sine certo ordine congestas complexa.</P>
+</DIV1>
+<DIV1 TYPE="title page">
+<PB REF="1" MS="y">
+<P>A
+SERMON
+Preach'd at the Meeting
+OF THE
+<HI>Sons of the Clergy</HI>
+IN
+S. Mary-le-Bow Church,
+On <HI>Tuesday</HI> the Sixth of <HI>December,</HI> 1692.</P>
+<P>By <HI>EDWARD</HI> Lord Bishop of <HI>Gloucester.</HI></P>
+<P><HI>LONDON,</HI>
+Printed by <HI>T. M.</HI> for <HI>B. Aylmer</HI> at the Three Pidgeons
+over against the <HI>Royal Exchange,</HI> and <HI>A.</HI> and <HI>I. Churchil</HI>
+at the Black Swan in <HI>Pater-noster-row,</HI> 1692.</P>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="2" MS="y">
+<PB REF="2">
+<HEAD>To his Honoured Friends, the
+Stewards of the late Feast
+OF
+The SONS of the CLERGY, Viz.
+<LIST>
+<ITEM>Sir Salathiel Lovel, Recorder of London,</ITEM>
+<ITEM>Thomas Paske, <ABBR>Esq</ABBR></ITEM>
+<ITEM>Mr. Thomas South,</ITEM>
+<ITEM>Mr. Iohn Reeve,</ITEM>
+<ITEM>Mr. Samuel Knowles,</ITEM>
+<ITEM>Mr. Iohn Thresher,</ITEM>
+<ITEM>Capt. Iohn Willimott,</ITEM>
+<ITEM>Capt. Abraham Robarts,</ITEM>
+<ITEM>Mr. Robert French,</ITEM>
+<ITEM>Mr. Francis Sedgwick,</ITEM>
+<ITEM>Mr. Robert Sedgwick,</ITEM>
+<ITEM>Mr. Thomas Granger,</ITEM>
+<ITEM>Capt. Theoph. Blechynden,</ITEM>
+<ITEM>Alexander Duncomb, <ABBR>Esq</ABBR></ITEM>
+<ITEM>Mr. Iohn Dillingham.</ITEM>
+</LIST></HEAD>
+<OPENER><SALUTE>Gentlemen,</SALUTE></OPENER>
+<P>THo' I was not difficultly perswaded
+to comply with your Request,
+that I would be your Preacher,
+as little Time, as I <HI>truly</HI> foresaw I should
+be Master of, to prepare a Discourse
+proper for the Occasion; yet I could
+<PB REF="3">
+not consent to your desire of having
+<HI>this,</HI> which you heard, <HI>Printed</HI> (as re|ally
+not thinking it worthy to be made
+more publick) till you were pleased
+to back it with such Importunities, as
+I could not withstand, without the im|putation
+of Incivility. I therefore here
+Present you with it, most earnestly
+wishing, and humbly praying, it may
+do that Service, which your Zeal for
+the promoting of Love and Good
+Works induced you to think it fitted
+for, and remain,</P>
+<CLOSER><SALUTE>GENTLEMEN,</SALUTE>
+<SIGNED>Your Affectionate Brother, and
+Humble Servant,
+<HI>E. G.</HI></SIGNED></CLOSER>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="sermon">
+<PB N="1" REF="3">
+<EPIGRAPH>
+<BIBL>JOHN 13. 34.</BIBL>
+<Q>A New Commandment I give unto you,
+That ye love one another; as I have
+loved you, that ye also love one another.</Q>
+</EPIGRAPH>
+<P>THE Design of this Meeting of the <HI>Sons of
+the Clergy</HI> being to promote Love and
+Amity among our selves, and to exercise
+Christian Charity, I think <HI>these</HI> Words
+are no improper Subject to be discoursed on upon this
+Occasion.</P>
+<P><HI>A New Commandment I give unto you, That ye love
+one another.</HI> A <HI>New</HI> Commandment! Was Love to each
+other no Duty before the coming of our Blessed Sa|viour?
+Was it never injoyned under the Old Law?
+Our Lord himself assures us of the contrary, <HI>Mark</HI>
+12. 31. As in the foregoing Verse, he saith, that the
+Love of <HI>God</HI> comprehends the whole <HI>first</HI> Table, so in
+<HI>this,</HI> that the Love of our <HI>Neighbour</HI> is the Sum and
+Substance of the <HI>Second: The Second is like, namely
+this, Thou shalt love thy Neighbour as thy self.</HI> And
+we find the Duty of loving our Neighbour, often re|peated
+and inculcated in the Old Testament.</P>
+<P>The New Commandment therefore was not, that
+<PB N="2" REF="4">
+we should merely <HI>Love one another,</HI> but that we
+should <HI>Love one another, as Christ hath loved us. A
+New Commandment I give unto you, That ye love one
+another; as I have loved you, that ye also love one
+another.</HI> We have in the Words,</P>
+<P><HI>First,</HI> A Duty enjoyned, <HI>viz. Loving one another.</HI></P>
+<P><HI>Secondly,</HI> The Pattern we are to follow in so doing&punc;
+<HI>As I have loved you.</HI> And in the handling of them I
+shall observe <HI>this</HI> Method.</P>
+<LIST>
+<ITEM><HI>I.</HI> I shall shew, What it is to <HI>Love one another.</HI></ITEM>
+<ITEM><HI>II.</HI> The Necessity of so doing.</ITEM>
+<ITEM><HI>III.</HI> How far this Phrase <HI>One Another</HI> is to
+extend.</ITEM>
+<ITEM><HI>IV.</HI> What Qualifications our Love to each
+other ought to have.</ITEM>
+<ITEM><HI>V.</HI> In what Instances it ought to be expressed.</ITEM>
+</LIST>
+<P><HI>First,</HI> What it is to <HI>Love one another.</HI> The Word
+<HI>Love</HI> signifies either <HI>Complacency,</HI> or <HI>Benevolence</HI> and
+<HI>Good Will.</HI> And it is our Duty to <HI>Love one another,</HI>
+according to <HI>both</HI> these Acceptations of the Word,
+though not every individual Person, according to both
+<HI>Some</HI> we are obliged to Love Complacentially, to take
+<PB N="3" REF="4">
+Delight and Pleasure in them; but there are <HI>others,</HI>
+whom we are not bound so to Love; nay whom we
+are bound <HI>not</HI> so to Love.</P>
+<P><HI>Some</HI> we can not so Love though we <HI>would;</HI> and
+there are <HI>others</HI> whom we <HI>may</HI> not so Love, though
+we <HI>could.</HI> For instance, <HI>Churlish Nabals, People</HI> of
+<HI>Sour, Morose,</HI> or <HI>Captious</HI> Tempers, to whom scarce a
+free Word can be spoken, without danger of Offence:
+We <HI>cannot</HI> Love these with a Love of <HI>Delight,</HI> though
+we would never so fain. To whom may be added
+<HI>Narrow-soul'd</HI> People, who have no Concern for <HI>any</HI>
+but their own dear Selves; and much more such as
+make no Conscience of <HI>injuring</HI> others to serve them|selves.
+As Good natur'd People can take no satisfa|ction
+in such as <HI>these,</HI> so can hardly any of these, be
+pleased with the Society of <HI>one another:</HI> Especially,
+<HI>Proud,</HI> or <HI>Envious,</HI> or <HI>Churlish,</HI> or <HI>Testy</HI> and <HI>Waspish</HI>
+People, are no Company for <HI>one another;</HI> and much
+less for those, who are of <HI>contrary</HI> Qualities; Simili|tude
+being the Foundation of all Love of Complacen|cy.
+Tho' where there is Similitude there may be no such
+Love, <HI>viz.</HI> when it lyeth in unlovely and troublesome
+Qualities; yet wheresoever there is such a Love, there
+must be more or less Similitude: And according to
+the <HI>degree</HI> of Similitude, will be the degree of Com|placential
+Love.</P>
+<P>Again, if such a Person be sensible, that such a one
+<PB N="4" REF="5">
+<HI>Hates</HI> him, and watcheth all Occasions to do him
+Mischief, he cannot have this kind of Love for <HI>him.</HI></P>
+<P>Now when I say that <HI>some</HI> we <HI>can</HI> take no Com|placency
+in, I suppose that therefore we are not ob|liged
+to it. <HI>Nemo tenetur ad impossibile.</HI> Nor is it a|greeable
+to the Divine Goodness, to impose unnatu|ral
+things on Men.</P>
+<P>There are again <HI>Others,</HI> whom we <HI>may</HI> not Love
+with this Love of Delight, though we <HI>could:</HI> Name|ly,
+<HI>Prophane</HI> or <HI>Debauched</HI> People; those, who tho'
+they may have the <HI>Form</HI> of Godliness, deny in their
+Practice the <HI>Power</HI> thereof. The Apostle admonisheth
+his Son <HI>Timothy,</HI> to <HI>withdraw himself</HI> from such as
+<HI>these.</HI> To be pleased with the Conversations of such
+People, is to express a liking of their Ways; at least
+it argues a very Luke-warm Temper, and a great
+Unconcernedness for the Honour of God, and the In|terest
+of Religion.</P>
+<P>But no Man can be of so Unlovely a Temper, or
+so wicked a Wretch, as that it should not be our Du|ty
+to love him, in the <HI>Second</HI> Sense of the Word, <HI>viz.</HI>
+to <HI>wish well</HI> to him, and endeavour, as we have Op|portunity,
+his Welfare and Happiness. Which sup|poseth,
+I need not say, a Change of his Nature, with|out
+which he cannot be capable of Happiness. And
+therefore this Change of his Nature is in the first
+place to be desired and endeavoured.</P>
+<P><PB N="5" REF="5">
+<HI>Secondly,</HI> As to the <HI>Necessity</HI> of Loving each other;
+there is no Duty more plainly enjoyned, or more vi|gorously
+urged in the Holy Scriptures: Especially by
+our Blessed Saviour and his Holy Apostles. And there|fore
+those who are better acquainted with the Chri|stian
+Religion, than with the Spirits and Behaviour
+of those who profess it, may think it needless to spend
+any time, upon <HI>this</HI> Argument. But because the Re|ligion
+of too too many who are called Christians, and
+<HI>that</HI> Religion which our Saviour brought into the
+World, are very unlike, it will not be amiss to give
+a short Account what <HI>this</HI> is, in reference to the Point
+before us.</P>
+<P>As our Blessed Lord calls it His <HI>New Commandment,
+That we Love one another as He hath Loved us;</HI> so in
+the Words following, he makes <HI>this</HI> the <HI>distinguishing</HI>
+Character of his Disciples. <HI>By this,</HI> saith he, <HI>shall
+all men know that you are my Disciples, if ye have Love
+one to another.</HI> And so desirous was he that they should
+not be defective in Love, that above all the excellent
+Petitions he puts up for them <HI>Iohn</HI> 17. this of Love
+is the only Grace, he particularly prays for in their
+behalf, <HI>viz. ver. 21. That they all may be one as thou
+Father art in me and I in thee;</HI> that they may be u|nited
+in Love, have one Heart, and one Soul. And
+the Reason for which he thus prayeth, doth mightily
+Commend this Grace, <HI>viz. That the World may believe
+<PB N="6" REF="6">
+that thou hast sen<GAP DESC="illegible" EXTENT="1 letter"> me.</HI> Which is as much as to say,
+that Christian ex<GAP DESC="illegible" EXTENT="1 span">ing in the Grace of Love, will
+be a great Conviction to the World, of the Execllen|cy,
+and therefore of the <HI>Truth,</HI> of the Christian Re|ligion.
+And again Verse the last, <HI>I have declared,</HI> saith
+he, <HI>to them thy Name, and will declare it, that the
+Love wherewith thou hast Loved me, may be in them.</HI>
+And his Beloved Disciple S. <HI>Iohn</HI> thought, he could
+never enough extol this Grace. He makes Love the
+very Essence of the Deity, 1 <HI>Ep. 4. 16. God is Love;</HI>
+and adds, that <HI>he who dwelleth <GAP DESC="illegible" EXTENT="1 letter">n Love, dwelleth in
+God and God in him.</HI> And <HI>v.</HI> 7. he saith, that <HI>Love
+is of God, and every one that Loveth is born of God,
+and knoweth God.</HI> Knoweth him practically and ex|perimentally.
+And <HI>Ch. 3. 14. We know,</HI> saith he, that,
+<HI>we have passed from Death to Life, because we love the
+Brethren:</HI> We know that we are Regenerate Chri|stians
+by our Love and Charity. <HI>He that loveth not
+his Brother abideth in Death.</HI> He is certainly an Un|regenerate
+Man, a wicked Creature. And <HI>ver. 15.
+Whosoever hateth his Brother is a Murtherer, and ye
+know that no Murther hath Eternal Life abiding in him.</HI></P>
+<P>Nor is S. <HI>Paul</HI> wanting in Recommending and
+pressing <HI>this</HI> Duty. <HI>Owe,</HI> saith he, <HI>no man any thing
+but to love one another; for he that loveth another, hath ful|filled
+the Law.</HI> Or <HI>this</HI> is the Christian Perfection of the
+Law, as it relates to our Neighbour. And in what
+<PB N="7" REF="6">
+follows he sheweth, that the whole second Table is
+herein implyed. And in short, this great Apostle pre|ferreth
+Charity before all other Endowments and Ac|complishments:
+Before the <HI>speaking with the Tongues
+of Men or Angels,</HI> before <GAP DESC="illegible" EXTENT="1 span">
+<HI>all Mysteries,</HI> before  all Kn<GAP DESC="illegible" EXTENT="6 letters"> and <GAP DESC="illegible" EXTENT="1 word">
+<HI>all Faith</HI> too, even the <HI>Faith of Miracles;</HI> nay before
+the greatest <HI>Zeal,</HI> nay such a zeal as will make men
+<HI>give their Bodies to be burnt, 1 Cor. 13 chapter.</HI> He
+there tells us, that Charity is so much above all <HI>these,</HI>
+that they are none of them worth any thing without
+Charity. Much more may be said to sh<GAP DESC="illegible" EXTENT="1 letter">w, what a
+mighty Figure, this Duty of Loving each other makes,
+in the Religion of our Saviour.</P>
+<P><HI>Thirdly,</HI> I come to shew how <HI>far</HI> this duty of <HI>loving
+one another</HI> is to extend; or what we are to under|stand
+by <HI>one another</HI> in the Text. In a word, it takes
+<HI>in all Men whatsoever:</HI> Not only our Friends and Ac|quaintance:
+Not only our own Party, and those that
+say as <HI>we</HI> say, and think as <HI>we</HI> think: Not only those
+that oblige us and do us good turns; but all the World,
+all that partake of the same common Nature with our
+selves, be they <HI>who</HI> or <HI>what</HI> they will.</P>
+<P>1. This is apparent from the <HI>Text. A new Com|mandment
+I give unto you, That you love one another, as
+I have loved you.</HI> Now the Love of Christ was <HI>Vn|limited,</HI>
+He dyed for all mankind. S. <HI>Iohn</HI> saith, that
+<PB N="8" REF="7">
+<HI>He is the Propitiation for the Sins of the whole World.</HI>
+S. <HI>Paul</HI> calls him, <HI>The Saviour of all Men:</HI> That is,
+so their Saviour as to exclude none from Salvation,
+who will comply with the Terms on which He offer|eth
+it. He hath shut out none from having benefit,
+by what he did and suffered in the behalf of Sin|ners;
+nor ever <HI>will</HI> he any, who shall not <HI>reject the
+Counsel of God against themselves.</HI> And lest we should
+think that by the <HI>World,</HI> and the <HI>whole World,</HI> and
+<HI>all Men,</HI> we are only to understand <HI>some of all sorts,</HI>
+this same Apostle assures us, that this Phrase <HI>all
+Men</HI> is to be taken in the same Latitude, in refer|rence
+to the Remedy brought by <HI>Christ,</HI> that 'tis to
+be taken in, in reference to the Mischief done by <HI>Adam.
+Therefore as by the offence of one,</HI> saith he, <HI>judgment
+came upon all men to Condemnation, even so by the Righ|teousness
+of One, the free-gift came upon all men to Iusti|fication
+of Life; viz.</HI> the gift of the new Gracious Co|venant.
+And the Author to the <HI>Hebrews,</HI> chap. 2. 9.
+tells us, that Christ <HI>tasted death for every man.</HI> Now
+if our Saviour loved <HI>all men,</HI> loved <HI>all</HI> so as to put
+them into a Reconcilable state; so that it must be their
+own Personal fault, and long of their Wilfulness and
+Obstinacy, if the <HI>worst</HI> of Sinners be not actually <HI>re|conciled</HI>
+to God; then, since he hath commanded us
+to love <HI>others</HI> as <HI>He</HI> hath loved them, our Love is
+to extend to <HI>all</HI> without exception. And well might
+<PB N="9" REF="7">
+our Lord call this a <HI>New</HI> Commandment, for no such
+is to be found in the Law of <HI>Moses,</HI> or in the <HI>Pro|phets.</HI></P>
+<P>2. <HI>This farther appears from those</HI> other <HI>words of
+our Saviour,</HI> Mark. 12. 31. Thou shalt love thy Neigh|bour
+as thy self. <HI>You may say, the word</HI> Neighbour
+<HI>seems to be Limiting and Confining. But we must
+understand this word, as our Lord himself hath Ex|plained
+it,</HI> Luke 10. 29. <HI>Here is a Question put by a
+Lawyer to Him,</HI> Who is my Neighbour? <HI>Now see</HI>
+His <HI>Answer in the following words:</HI> A Certain man
+went down from <HI>Jerusalem</HI> to <HI>Jericho,</HI> and fell among
+thieves, who stripped him of his Rayment, and wound|ed
+him, leaving him half dead; and by chance there
+came a certain Priest that way, and when he saw him, he
+passed by on the other side; and likewise a Levite, when
+he was at the place, came, and looked on him, and passed
+by on the other side: But a certain Samaritan, as he
+journeyed, came where he was, and when he saw him, he had
+Compassion on him, <HI>&amp;c. Now saith our Saviour,</HI> v. 36.
+Which of these three, thinkest thou, was Neighbour to him
+that fell among thieves? <HI>And the Lawyer answering,</HI>
+He that shewed mercy on him; <HI>Our Lord replyed,</HI> Go
+thou and do likewise. <HI>Which is as if he had said, Thou
+hast now answered thy self; every Person that</HI> needs
+<HI>thy relief, tho' he be unto thee as</HI> Iews <HI>and</HI> Samaritans
+<HI>are to one another; tho' he be of a different Religion
+<PB N="10" REF="8">
+from thee, nay tho' he be thine</HI> Enemy, <HI>as the</HI> Iews
+<HI>and</HI> Samaritans <HI>were to each other, he is thy</HI> Neigh|bour;
+<HI>and therefore thou art obliged to</HI> love him as
+thy self; <HI>to do to</HI> him, <HI>when in an afflicted state, as</HI>
+thou <HI>wouldst be done unto in the like Condition.
+Again 'tis Evident,</HI></P>
+<P>3. <HI>That we are not to confine our Love and Cha|rity
+to some particular Persons, in that we are far|ther
+required by our Saviour, to imitate our</HI> Heaven|ly
+Fathers <HI>Love and Charity.</HI> Be Perfect, <HI>saith he,</HI>
+as your Heavenly Father is perfect, Mat. 5. 48. <HI>That
+is, as appears from what goes before, let the exercise
+of</HI> your <HI>Charity extend as far as</HI> God'<HI>s extendeth,
+For, as it follows</HI> v. 45. He maketh His Sun to rise
+on the Evil and on the Good, and sendeth Rain on the
+Iust and on the Vnjust: <HI>And, as the</HI> Psalmist <HI>declareth,</HI>
+His mereys are over all his works: The Lord is good
+to all, and His tender mercys are over all His works.
+<HI>But,</HI></P>
+<P>4. <HI>Express</HI> Texts enjoyn <HI>this.</HI> If any are to be
+excluded from our Love, they must be our Enemies;
+but what saith our Lord of <HI>these, Mat.</HI> 5. 44? But <HI>I
+say unto you Love your Enemies, bless them that curse
+you, and pray for them that despitefully use you and per|secute
+you, that you may be the Children of your Fa|ther
+which is in Heaven.</HI> And v. 46. <HI>If you love them
+which love you, what Reward have you? Do not even the
+<PB N="11" REF="8">
+Publicans the same? And if you Salute, <GAP DESC="foreign"> em|brace,
+your Bretheren only, what do you more than others?</HI>
+Or, what Excellent thing do you? <HI>Do not even the
+Publicans the same?</HI> And <HI>Gal.</HI> 6. 10. The Apostle
+saith, <HI>Let us do good unto all men;</HI> and the next
+words shew, that tho' we ought to love <HI>all</HI> without
+exception, as that word signifies <HI>Benevolence,</HI> yet we
+are not to shew neither <HI>this</HI> kind of love to all <HI>alike:</HI>
+For it follows, <HI>Especially to them who are of the House|hold
+of Faith. That</HI> which makes our Brother a
+Member of Christ's Church, doth give him a Title
+to our greater Affection in both the foresaid Senses.
+And here let me mind you, that we ought to have
+a higher degree of love, for all that own Christ for
+their Lord and Saviour, than for Infidels, and such
+as are Enemies to his Religion; and those that own
+him most in their <HI>Practice,</HI> we are obliged to have a
+greater love for, than for mere <HI>Professors</HI> of Christiani|ty;
+or such as whose lives are <HI>less</HI> Conformable there|unto.
+'Tis highly Reasonable, that the most Lovely
+Persons should have <HI>most</HI> of our love. There is no|thing
+so Amiable as true Goodness, and according
+to the <HI>degree</HI> thereof in any Person; should be the
+degree of our Love to him. <HI>God</HI> is to be the Object of
+our Highest Love, because <HI>He</HI> is Perfectly and O|riginally
+Good; and according as Men are more or
+less like to God, the greater or less Complacency
+<PB N="12" REF="9">
+ought we to take in them; and more or less ar|dently
+to Desire and Endeavour their Wellfare. The
+true Christian Love doth chiefly consist in loving <HI>His</HI>
+Image from whom we are call'd Christians: And
+where there is <HI>most</HI> of that, whether the Persons are
+in all things of our minds or no, we do not Love
+as becomes <HI>Christians,</HI> if <HI>there</HI> we do not <HI>most</HI> love.</P>
+<P>I speak now of <HI>Christian</HI> Love, as I said, such a
+love as is the effect of our own <HI>choice,</HI> directed and
+Governed by our Saviour's Laws. I speak not of a
+<HI>Natural</HI> Love, which is <HI>necessary,</HI> and not the effect
+of Choice. This love do we what we can, will ordi|narily
+flow most freely towards our <HI>Yoke-Fellows;
+Children, Brethren,</HI> and <HI>Sisters,</HI> as being parts of our
+selves. And so for those that are Naturalized to us
+by a long Acquaintance, we cannot in <HI>that</HI> respect
+but love them better, than such as are less known to
+us; and those that have greatly <HI>obliged</HI> us, we na|turally
+love with a greater Passion, than those to
+whom we are <HI>not at all,</HI> or <HI>less</HI> beholden.</P>
+<P>But tho' <HI>Scripture, Nature,</HI> and <HI>Reason</HI> do enjoyn
+us to love one another with a different kind and
+degree of love, yet it hath been fully made to appear,
+that 'tis our duty to extend our love to <HI>all;</HI> to wish
+well to, and desire and endeavour (as we are able
+and have opportunity) the happiness of every man.</P>
+<P><HI>Fourthly,</HI> I proceed to shew, what <HI>Qualifications</HI> our
+<PB N="13" REF="9">
+love to each other ought to have. Our Text tells us,
+that we ought <HI>to love one another as Christ hath loved
+us;</HI> and the other Text in S. <HI>Mark,</HI> that we are to
+<HI>love our Neighbour as our selves.</HI> And that is,</P>
+<P>1. Most <HI>Heartily</HI> and <HI>Sincerely. My little Chil|dren,</HI>
+saith S. <HI>Iohn, Let us not love in word, neither
+in tongue, but in Deed and in Truth. Let love be
+without dissimulation,</HI> saith S. <HI>Paul.</HI> I need not say
+that <HI>Christ</HI>'s love to us was most hearty, nor that
+our love to <HI>our selves</HI> is so. Indeed, if our Love be
+not hearty, as we love not like <HI>Christians,</HI> so we do
+not love <HI>at all.</HI> Love is seated in the Heart only,
+so that <HI>Professions</HI> of love, and <HI>love it self</HI> are no
+more the same thing, than are Shadows and Sub|stances,
+Realities and mere Appearances.</P>
+<P>2. We ought to love <HI>Ingenuously</HI> as well as Hearti|ly.
+To love Men Ingenuously, is to delight in them,
+or wish well to them, for their <HI>own</HI> sakes, without
+respect to our <HI>own</HI> Interest. So, you need not
+be told, our <HI>Saviour</HI> loved Mankind; next to the
+Glory of God, and the Advancement of Righteous|ness
+and Universal Goodness in the World, He was
+acted by a vehement desire of <HI>Our</HI> happiness. He
+did not <HI>Love Men,</HI> as men love their <HI>Horses,</HI> and too
+commonly their <HI>Servants,</HI> only or mostly for his own
+Advantage.</P>
+<P><HI>Now, as I said that to</HI> Pretend to love, is not to
+<PB N="14" REF="10">
+love, <HI>so to love others merely with respect to our</HI>
+own <HI>good, is rather mere</HI> self-<HI>love, than a love of</HI>
+them. <HI>And to love others</HI> principally <HI>for our</HI> own
+<HI>sakes, is</HI> more <HI>to love</HI> our selves <HI>than</HI> them. <HI>And that
+such a love is far from deserving to be called</HI> Christian
+<HI>Love, will appear by what a</HI> Pagan <HI>saith of it.</HI> Tully
+<HI>tells us in his</HI> Laelius, <HI>that</HI> Ipse se quisque deligit non
+ut aliquam a seipso mercedem exigat Charitatis suae, sed
+quod perse sibi quisque Charus est, <HI>&amp;c.</HI> Every man loves
+himself, not that be may obtain a reward from himself
+for so doing, but because he is, for his own sake, dear
+to himself: And except <HI>(as he proceeds)</HI> men so love
+one another, they cannot be true Friends. And this
+<HI>(saith he farther)</HI> is seen in the very Brutes, how much
+more then ought it to be found among Men. But many Im|pudently
+desire that others should be such Friends to them,
+as they will be to none; and expect that love from others,
+which they will not bestow on others. <HI>That is, they ex|pect
+that others should love them purely upon their</HI>
+own <HI>account, and not that their love to them, should
+Ultimately Terminate in</HI> themselves. <HI>And as the
+Example of our</HI> Saviour, <HI>so that of</HI> God the Father <HI>ob|ligeth
+us</HI> thus <HI>to love one another. For</HI> Man cannot be
+profitable to God, as he that is wise may be profitable
+to himself. Is it any Pleasure, <HI>or Courtesy,</HI> to the
+Almighty, that thou art Righteous? <HI>&amp;c.</HI> Iob 22. 2, 3.
+<HI>And therefore he cannot desire, that</HI> Sinners should turn
+<PB N="15" REF="10">
+from their Wickedness and live, <HI>for any gain to himself.
+If therefore we would be the Children of God, we must
+love each other not only sincerely, but generously and
+ingenuously.</HI></P>
+<P>And indeed, if we consider the Nature of Mankind,
+we shall find that <HI>this,</HI> as well as the Commands of
+God and our Saviour, doth oblige us to such a love of
+all Men. And this, indeed, is the reason why they
+have obliged us hereunto by their Commands. They
+Command it because it is fittest in it <HI>self</HI> and best. And
+therefore are we required to love and wish well to all
+for their <HI>own</HI> sakes, because every man is in himself
+considered, and as abstracted from Vicious Habits, and
+from what is Preternatural, an Excellent, and there|fore
+a Lovely Creature. Every man, as to his pure
+Naturals, bears God's Image; and consequently 'tis
+most reasonable to love every man, and desire his
+greatest happiness, for his <HI>own</HI> sake.</P>
+<P>Nay, we ought to bear such a sort of Good-will
+to God's whole Creation; thus to love Brutes as well as
+Men, tho' in a far lower degree, and to desire for them
+all that Happiness their Natures are Capable of, <HI>with|out</HI>
+as well as <HI>with</HI> respect to our own Advantage, and
+the service they may do <HI>us.</HI> I say we ought to desire
+the well-being of all Creatures whatsoever, for
+their <HI>own</HI> sakes (I mean so far as it is consistent with
+the Well-being of Men) because all God's Works
+<PB N="16" REF="11">
+are <HI>good,</HI> and whatsoever is <HI>so</HI> hath a <HI>Right</HI> to our
+Benevolence as <HI>such. A mercifull man,</HI> saith K. <HI>Solo|mon,
+Is merciful to his Beast:</HI> And not only is he
+so, because by his ill usage of his Beast, he will
+disable him from being <HI>serviceable</HI> (for <HI>this</HI>
+would not speak one a <HI>Merciful</HI> Man, but a
+Man that considers his own interest) but because
+the poor Creature has a <HI>Right</HI> to good Usage.
+And if such a Love as this be due to Beasts, much
+more is it so to Man-kind.</P>
+<P>By the way, what an ill-natured Principle is <HI>that</HI>
+of the <HI>Malmsbury</HI> Philosopher, <HI>viz. That our Need
+of each other, is the only Cause of our entring into
+Societys, and the Ground of all Friendship.</HI> He might
+judge so by <HI>himself,</HI> but every one whose Nature
+is not miserably <HI>depraved,</HI> knows by but reflecting
+on <HI>himself,</HI> that <HI>this</HI> is wretched Doctrine.</P>
+<P>3. We are obliged to have such a degree of Love
+for one another, as will make us most Prompt and
+Ready to the Performance of all Offices of <HI>Mercy</HI>
+and <HI>Kindness,</HI> as shall be shewn presently: And so
+to love the <HI>Souls</HI> of our Brethren, as to be willing
+even to lay down our <HI>Lives</HI> for the procuring of
+their Eternal Happiness, if it be <HI>necessary. Here|by,</HI>
+saith S. <HI>Iohn, Perceive we the Love of God, be|cause
+He laid down his Life for us, and we ought to
+lay down our lives for the Brethren.</HI> And thus <HI>to
+<PB N="17" REF="11">
+love one another as Christ hath loved us,</HI> is not only
+o love our Neighbour <HI>as</HI> our selves, but even <HI>better</HI>
+than our Selves, that is, than <HI>one</HI> part of our selves,
+our <HI>viler</HI> part. And as <HI>severe</HI> as this may seem,
+nothing is more highly Reasonable, than that we
+should prefer our Brethrens <HI>Souls</HI> before our own
+<HI>Bodies;</HI> than that we should be more solicitous for
+their <HI>Eternal,</HI> than for our own <HI>Temporal</HI> life. This
+appears <HI>so</HI> Reasonable at first sight, that such a
+Man as <HI>Tully,</HI> had it come into his Mind, would
+certainly have asserted it to be our duty. This Love
+I might shew, S. <HI>Paul</HI> professed to have for his Un|believing
+Country-Men, and he gave the greatest
+Demonstrations of the sincerity of that his Profession;
+and so did the <HI>other</HI> Apostles too of the <HI>like</HI> Love.
+And the <HI>same</HI> ought we <HI>all</HI> to aspire after.</P>
+<P><HI>Fifthly,</HI> I come, in the last place, to shew in what
+<HI>Instances</HI> our Love to one another ought to be ex|pressed.
+Many I might lay before you, but I can|not
+insist on above <HI>two</HI> or <HI>three.</HI></P>
+<P>1. It ought to be Exprest by Sympathizing with
+each other in Afflictions, and Rejoicing in each others
+Prosperity. <HI>Rejoice,</HI> saith the Apostle, <HI>with them that
+Rejoice, and Weep with them that Weep.</HI> And <HI>look
+not every man on his own things, but every man also
+on the things of others.</HI> Not that he would have
+us be Busy-bodies in other folks matters; <HI>this</HI> we
+<PB N="18" REF="12">
+are <HI>elsewhere</HI> Cautioned against by the <HI>same</HI> Apostle:
+But he would have us enquire after, and be affect|ed
+with, the State of others; if it be <HI>good</HI> not to
+Envy them, but to be Glad for their sakes; and if
+<HI>bad</HI> to Compassionate them. <HI>This</HI> was the Temper
+of our Blessed Lord, when on Earth. We again and
+again read, that upon the sight of People in Calamity
+<GAP DESC="foreign">, <HI>His Bowels yerned towards</HI> them.
+And <HI>this</HI> we must have a special care to be <HI>like</HI> Him
+in, as we profess to be His Followers. <HI>Love as Bre|thren</HI>
+(saith S. <HI>Peter) be pitiful.</HI> But then,</P>
+<P>2. To our Affecting Sense of the Condition of o|thers,
+we must add our Relief of all Objects of Pity,
+according to our Ability. And our Nature is indued
+with such a Passion as this of <HI>Pity,</HI> for this
+reason only, that we may be the more strongly
+thereby excited to <HI>Relieve</HI> our Afflicted Brethren;
+so that 'tis for <HI>this</HI> end that we ought to cherish this
+Affection. And to be affected with the sufferings
+of others, without administring what help we can,
+is so poor and low an expression of love, as to be of
+no Account <HI>at all</HI> with God. If a Brother or Sister
+(saith S. <HI>Iames) be Naked and destitute of daily Food,
+and one of you say unto them, Depart in Peace, be ye
+warmed or filled; notwithstanding ye give them not those
+things which are needful for the Body; what doth it
+profit?</HI> That is, if you be so little Affected with the
+<PB N="19" REF="12">
+Condition of your poor Indigent Brethren and Sisters,
+as only to bestow good <HI>Wishes</HI> on them, it will nei|ther
+profit <HI>them</HI> nor <HI>your selves.</HI></P>
+<P>I will present you with <HI>two</HI> or <HI>three</HI> Texts, which
+if we will Consider, we cannot think our selves
+sincere Christians, while we live in the neglect of
+this duty of Charity. The <HI>first</HI> shall be that of S.
+<HI>Iohn, Whoso hath this Worlds Goods, and seeth his Bro|ther
+hath need, and shutteth up his Bowels of Compassion
+from him, how dwelleth the love of God in him? 1 Iohn</HI>
+3. 17. He hath no more love for God, than he hath
+for his Brother. The <HI>second</HI> shall be that of S. <HI>Iames,
+Pure Religion and undefiled before God and the Father
+is this, to visit the Fatherless and Widows in their
+Affliction; and to keep ones self unspotted from the
+World, Iames,</HI> 1. 27. The <HI>third</HI> shall be that of
+the Prophet <HI>Micah, He hath shewed thee O man, what
+is Good; and what doth the Lord require of thee,
+but to do justly, to love Mercy, and to walk Humbly
+with thy God? Mich.</HI> 6. 8. And so great a number of
+Texts of the like nature, may be produced, as you
+must needs be satisfied are more than enough, to
+overthrow all the Hopes of a Covetous Hard-hearted
+Professour of Christianity, let him have built his
+hopes upon never so many-<HI>other</HI> Evidences.</P>
+<P>3. Another Expression of Love to each other,
+<PB N="20" REF="13">
+should be wholesome Advice and Counsel. <HI>As Oynt|ment
+and Perfume</HI> (says the Wise Man) <HI>rejoice
+the heart, so does the sweetness of a mans Friend by
+hearty Counsel.</HI> And if in our <HI>Temporal</HI> Concerns,
+the good Advice of a Friend is to be valued, How
+highly valuable is it in our <HI>Spiritual!</HI> And therefore,
+How much <HI>more</HI> should our Love prompt us to give
+it in <HI>such</HI> Concerns! <HI>Exhort one another daily,</HI> says
+the Apostle, <HI>While it is called to day, left any of you
+be hardned through the deceitfulness of sin.</HI> And <HI>let us
+consider one another, to provoke unto love and to good
+works.</HI> Can I be a Friend to any man, and not be so to
+his <HI>better</HI> Part, his <HI>Soul?</HI> And can I be Friend to
+his <HI>Soul,</HI> and decline giving him that <HI>Advice</HI> which
+I am sensible he <HI>needs,</HI> either for the Taking him
+off from some sinful Course, or prevention of his
+falling into some Sin, or of his Continuance in the
+neglect of some necessary duty? And to encourage us
+to this great Instance of Friendship, let us consider
+those words with which S. <HI>Iames</HI> concludeth his
+Epistle, <HI>Brethren, if any of you do Err from the truth,
+and one Convert him; let him know that he who Con|verteth
+a sinner from the Errour of his way, shall save a
+Soul from death, and shall hide a multitude of Sins.</HI>
+Or, this will be a prevailing Motive with God to
+pardon his <HI>own</HI> many sins.</P>
+<P>But yet, as Noble and necessary an instance of
+<PB N="21" REF="13">
+Charity as <HI>this</HI> is, and as great a Reward as is Pro|mised
+to it, there is no duty more neglected in this
+<HI>Luke-warm,</HI> nay most <HI>Prophane</HI> Age; in which <HI>such</HI>
+an Expression of Friendship, too generally passeth
+for a Piece of <HI>Fanaticism.</HI> But Honest <HI>Heathens</HI>
+have had a much more honourable Opinion of it.
+And I will conclude <HI>this</HI> Argument with <HI>this</HI> saying
+of <HI>Cicero: Consilia, Sermones, Cohortationes, Consolati|ones,
+interdum etiam Objurgationes, in Amicis vigent
+maxime. Good Counsel, wholesome Admonitions, In|structions
+and Consolations, and severe Reproofs too,
+when there is Occasion for them, do most take place
+in Friendship.</HI></P>
+<P><HI>I might proceed to</HI> other <HI>Instances of Love, to
+which we are necessarily obliged; As a</HI> Readiness
+to forgive offences: <HI>A</HI> Forwardness to make up diffe|rences.
+Putting the most Candid interpretations we
+reasonably can, upon each others Actions: Concealing
+each others Faults, except when it is necessary to make
+them Publick: And Condescention to each others infir|mities.
+<HI>But I may not do more than Mention</HI> these,
+<HI>lest I trespass too much upon your Patience.</HI></P>
+<DIV2 TYPE="part">
+<PB N="22" REF="14">
+<HEAD>The Application.</HEAD>
+<P>NOw what remaineth, but that we put in pra|ctice
+with all our might, this Great, this New
+Commandment of <HI>loving one another, as Christ hath
+loved us.</HI> And we of <HI>this Society,</HI> who are many of us
+<HI>Clergy-men,</HI> and all <HI>Sons</HI> of the Clergy, are in these
+respects under a special Obligation, of Excelling in
+<HI>this,</HI> with all <HI>other</HI> Christian Virtues.</P>
+<P>Those of us who are <HI>Clergy-men</HI> are strictly bound,
+as S. <HI>Paul</HI> tells us, in the Person of <HI>Timothy,</HI> to be
+<HI>Examples to the Flock;</HI> and so to demean our selves,
+in all respects, as to be able to say as <HI>that</HI> Apostle
+did, <HI>Walk as ye have us for an Example.</HI> As it is
+our great Business to Teach others their duty, and
+to press them thereto by the most persuasive Ar|guments,
+so must we make great Conscience of it
+our selves, as we would not <HI>lose</HI> our labour; nay as we
+would not do more <HI>hurt</HI> than <HI>good.</HI> And those ought
+to Expect, at <HI>least</HI> to have their labour lost upon
+their People, whose Examples do not back and inforce
+their Doctrine. If we are not such <HI>our selves,</HI> as
+we tell <HI>them,</HI> as they hope to be saved, <HI>they</HI> must
+be, each of them will be ready to make this shame|full
+Reflexion, upon our Sermons and good Admoni|tions,
+<HI>Cur verba audio, cum facta</HI> non <HI>videam?</HI></P>
+<P><PB N="23" REF="14">And particularly, as to this duty of <HI>loving one a|nother,</HI>
+it will be in vain to use Arguments with
+our Flocks to stir them up hereunto, while they
+perceive us wanting in any of the Necessary instances
+and Expressions of Love: I mean <HI>such</HI> as are within
+our own power.</P>
+<P>And I say <HI>this,</HI> because a Multitude of our Clergy are,
+God knows, in very sorry Circumstances to be Ex|emplary,
+in that great Expression of Love, <HI>Alms-giv|ing.</HI>
+I much doubt, that the far <HI>greater</HI> Part have
+not wherewith to be so. Nay 'twould pity any
+good Man to see, how many of them are reduced
+to such Streights (especially of late years) as to
+want a Competent Subsistence for themselves and
+Families. And 'tis very sad to Observe what Con|tempt
+is by this means brought upon their Holy,
+their Honourable Function. <HI>Necessitas cogit ad turpia.</HI></P>
+<P>And this puts me in mind to wish, that the Condi|tion
+of the Clergy were better Considered, in the
+<HI>Taxes</HI> and <HI>other</HI> impositions, than it lately hath
+been.</P>
+<P>What I have now suggested, I am too well Con|firmed
+in the belief of, by the sad Informations I
+have received, and Observations I have made, up
+and down in my own <HI>Diocese:</HI> Which yet, I think,
+is not the poorest in the Nation.</P>
+<P>In the next place, I would mind you, my Bre|thren,
+<PB N="24" REF="15">
+not only that the <HI>Clergy,</HI> as <HI>such,</HI> are most con|cerned
+of all Persons, to be Exemplary in the Vir|tue
+of the <HI>Text,</HI> and <HI>all other,</HI> but the <HI>Sons</HI> too of the
+Clergy are in an Especial manner obliged here to, upon
+the account of their coming out of the Loyns of
+<HI>such Parents,</HI> and their having generally had so Re|ligious
+Educations, as they are to be supposed to have.</P>
+<P>Next to the Faults of the <HI>Clergy,</HI> those of their
+<HI>Children</HI> are exceeding Scandalous; Nothing being
+more common, than for Prophane People, and such
+as catch at all Opportunities, to cast Dirt upon
+our Excellent Religion and Church, to charge the
+Sins of such upon their Parents <HI>loose</HI> Education of
+them. Nor is any thing more Ordinary, than for
+People to Encourage themselves to do Evil, by the
+bad Examples of the <HI>Children</HI> of their Teachers, as
+well as of their Teachers themselves. These <HI>two</HI>
+things, it is likely, the Apostle had a Special re|gard
+to, in making it a necessary Qualification of
+an Elder, to have <HI>faithful Children, not accused of
+Riot, or unruly,</HI> as well as to be <HI>blameless himself,</HI> and
+the <HI>Husband of one Wife;</HI> Titus 1. 6.</P>
+<P>But in reference to this duty of <HI>Love,</HI> I will repeat
+what I now said, <HI>viz.</HI> What remains, but that we
+Endeavour to practise it with all our might. That
+<HI>All bitterness, and wrath, and anger, and clamour, and
+evil-speaking, be put away from us, with all malice.</HI>
+<PB N="25" REF="15">
+And <HI>that we be kind one to another, tender-hearted,
+forgiving one another; Even as God for Christ</HI>'s <HI>sake
+hath forgiven us:</HI> According to the earnest Advice of
+the Apostle, <HI>Eph.</HI> 4. 31, 32. That <HI>we be kindly Af|fectioned
+one to another,</HI> notwithstanding any differen|ces
+of Opinion, <HI>with Brotherly love in Honour pre|ferring
+one another;</HI> As the same Apostle Exhorts,
+<HI>Rom.</HI> 12. 10. Oh how many pressing and powerful
+Motives to this duty of <HI>Love, Vniversal Love, Catho|lick
+Charity,</HI> doth the New Testament, and Natural
+Reason too, present us with!</P>
+<P>But I will <HI>now</HI> onely Observe to you, that
+what <HI>Nerves</HI> and <HI>Sinues,</HI> are to our <HI>Natural</HI> Bo|dies,
+that is <HI>Love</HI> in all Bodies <HI>Politick,</HI> 'Tis
+<HI>Love,</HI> above all things, which Cements and
+holds together Societies and Communities. And
+therefore <HI>another</HI> short and sad Digression is here too
+Seasonable, <HI>viz.</HI> 'Tis a Wonderfull thing, that this
+Church and Kingdom should not long since have
+been utterly Broken to pieces, as they hath <HI>both</HI> been
+miserably shattered, by means of our most <HI>Vnchri|stian,</HI>
+and indeed <HI>Inhumane</HI> Breaches; by means of
+our having so banished Love: Not onely <HI>Christian,</HI>
+but <HI>Natural</HI> Love, in a very great measure: Not one|ly
+<HI>Vniversal</HI> Love, but Love to <HI>one another,</HI> taking
+that Phrase in the most <HI>restrained</HI> Sense. We should
+<PB N="26" REF="16">
+before <HI>now</HI> have been Wofull Examples of the Truth
+of that observation of our Blessed Saviour, <HI>A City or
+Kingdom, divided against it self cannot stand, but is
+brought to Desolation,</HI> had it not been prevented by
+a <HI>Series,</HI> a long <HI>Train</HI> of such Providences, as have
+scarcely been <HI>much</HI> short of Miracles.</P>
+<P><HI>Desolation</HI> is the Natural Consequent of great Di|visions,
+of Divisions not <HI>greater</HI> than <HI>Ours</HI> have long
+been. If <HI>ye bite and devour each other, take heed ye
+be not Consumed one of another,</HI> said S. <HI>Paul</HI> to the
+divided <HI>Galatians,</HI> ch. 5. 15. But especially is it so,
+as Divisions give a mighty Advantage to a <HI>Common</HI>
+Enemy. And therefore nothing can hinder their pro|duceing
+this Effect, but a <GAP DESC="foreign">, signal inter|positions
+of the Divine Providence: Which I say, &amp; you
+need not be told it, <HI>we</HI> have from time to time had&punc;
+Oh what a History of <HI>such</HI> Interpositions have these
+<HI>five</HI> last years given us! And never had we a more
+Eminent one, than this <HI>last</HI> Spring. But what a
+Dangerous Condition are <HI>those</HI> People in, who have
+<HI>little</HI> to Encourage their hopes with, but the <HI>Con|tinuance</HI>
+of Extraordinary Providences! And especially
+when they have no other Reason still to Expect them,
+but because they have had so <HI>many</HI> of them.</P>
+<P>But, alass, <HI>we</HI> of <HI>all&punc;</HI> People have the <HI>least</HI> cause still
+to depend upon them, because no <HI>Visible</HI> good Effect
+upon us, hath been produced by them; We <HI>will</HI> not
+<PB N="27" REF="16">
+be Reformed in any <HI>One</HI> instance. And <HI>particularly,</HI>
+we <HI>will</HI> still Obstinately persevere in our Old <HI>Em|nity
+to one another,</HI> which daily <HI>Encreaseth</HI> too in|stead
+of <HI>abating,</HI> Let <HI>God Almighty</HI> do what He <HI>will,</HI>
+and a <HI>Formidable Enemy</HI> do what he <HI>can,</HI> to make us
+Friends. But I must not lengthen out any father so
+Melancholy a Digression, since we are now met up|on
+so Pleasant an Occasion.</P>
+<P><HI>And therefore I add, that</HI> Love <HI>is the main thing,
+that makes such</HI> Meetings as these, <HI>and our</HI> Eating
+and Drinking together, <HI>a true Pleasure.</HI> Better, <HI>saith
+King</HI> Solomon, <HI>is</HI> a Dinner of green Herbs, where love
+is, than a Stalled Ox, and Hatred therewith.</P>
+<P>And as Love makes Meetings of this nature, very
+pleasant Diversions, so the professed Design of them
+being to <HI>Encrease</HI> Friendship, and to Express Love by
+shewing <HI>Mercy,</HI> it makes them highly <HI>Commendable</HI>
+and <HI>Praise-worthy.</HI></P>
+<P>And of <HI>All</HI> Works of Mercy there is no one more
+Acceptable to our Heavenly Father and Blessed Savi|our,
+as is Evident from what hath been said, than that
+of Comforting <HI>distressed Widows,</HI> and <HI>making their
+Hearts to sing for joy;</HI> and Taking Care of poor <HI>Or|phans,</HI>
+and Enabling them to live Comfortably and
+usefully in the World.</P>
+<P><PB N="28" REF="17">And the Relief of the poor Widows of <HI>Clergy men;</HI>
+and providing for their helpless Children, being the
+onely Design of our being <HI>Incorporated,</HI> let <HI>their</HI>
+Names be had in <HI>Everlasting Remembrance,</HI> who first
+set on foot this Noble Project; and, next to <HI>them&punc;
+theirs,</HI> who have chiefly Contributed to the En|couragement
+of it&punc;</P>
+<P>And the <HI>Latter</HI> of these Charities, <HI>viz.</HI> That
+which relates to the poor <HI>Children</HI> of deceased Mi|nisters,
+being the Special Design of these Annual As|semblies,
+may <HI>This</HI> at least <HI>Equalize</HI> each of the <HI>for|mer</HI>
+ones, in this Excellent Work!</P>
+<P>Our <HI>Courts of Assistants,</HI> and <HI>Stewards of these
+Feasts,</HI> have ever been made too sensible of what I but
+now observ'd, of the miserably streight Circum|stances
+of Abundance of our Clergy, by the Vast
+Number of their Widows and Children, whose de|plorable
+Condition is, year after year, laid before
+them. And tho' the Bounty which Worthy persons
+have from time to time deposited in our <HI>Treasurers</HI>
+hands, be very Considerable, yet 'tis grievous to see
+how <HI>little</HI> falls to the Share of particular Suppli|cants,
+by reason of their Excessive Number.</P>
+<P>Nor is the <HI>Parade,</HI> which makes such a noble
+<PB N="29" REF="17">
+shew on <HI>these days,</HI> in our Streets, any Objection a|gainst
+what I have sadly observed to you; since it
+would be very strange, if so many Thousands of
+Ministers as our Church consists of, should not <HI>al|ways</HI>
+produce a very great Number, whose Natural
+parts, and Liberal Educations, have Enabled them,
+to improve the Advantages put into their hands by
+the Good providence of God, to the Arriving at ve|ry
+plentifull Fortunes. And, upon a just Computa|tion,
+I doubt not but it will be found, That there
+are Extremely Few of the Sons of the Clergy,
+whose large Circumstances in the World are owing
+to their <HI>Patrimony,</HI> in Comparison of <HI>those</HI> who are
+inriched, by the Blessing of God, upon their <HI>own</HI>
+Industry.</P>
+<P>I hope I need not tell <HI>such,</HI> how much they are
+Obliged in Gratitude to their Great Benefactor,
+for making such a difference between <HI>them,</HI> and
+<HI>most</HI> of their Brethren, To be Liberal in their Con|tributions
+towards the Relief of the <HI>Necessitous</HI> part of
+them.</P>
+<P>And this is the most Effectual Course you can
+possibly take, to secure Gods Blessing to <HI>your</HI> Poste|rity;
+and to prevent their Ever Coming into the
+Number of Petitioners for Charity.</P>
+<P><PB N="30" REF="18"><HI>And, which is a far greater Consideration, being
+Compassionate towards</HI> Widows <HI>and the</HI> Fatherless is
+<HI>such a sort of Charity, as will make those who are
+in love with it, the Happy Objects of Gods Special
+Love.</HI> Be as a Father to the Fatherless, saith the Son
+of <HI>Syrach,</HI> and instead of an Husband unto their Mo|ther;
+so shalt thou be as the Son of the most High,
+and He shall love thee more than thy Mother doth.</P>
+</DIV2>
+<TRAILER>THE END.</TRAILER>
+<PB REF="18">
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

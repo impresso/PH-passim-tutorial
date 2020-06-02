@@ -1,0 +1,174 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD EEBOPROOF 2.0//EN">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-09-09</DATE>
+<RESPSTMT>
+<NAME>Sara Gothard</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TYPEs to DIVs in order to validate. Proofed title page(s). Checked for TYPE="book". Checked ^s. Reviewed structure. Checked division-marking material at heads and feet of divisions (HEADS, etc.). Checked for signatures. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected 3 $s of 3. Converted _0_ $s to GAP DESC="illegible" RESP="pdcc". Checked spacing of foreign GAPs. Checked for EPIGRAPHs and ARGUMENTs. Checked for startqs, endqs, oes, q;s, and Qs. Checked proofsheets and made corrections found there. Checked for CLOSERs, TRAILERs, and BYLINEs. Sample: 10 minutes. Proofing: 20 minutes. Tag review and corrections: 30 minutes. Moved the Dedication from BODY into FRONT. Omitted 2 extra GAP DESC="music" at the end of pg5 on image 5. DONE.</ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="A55545">
+<STC T="W">P3054</STC>
+<BIBNO T="oclc">11951396</BIBNO>
+<VID>51430</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1">
+<PB REF="1">
+<P>THE SINGLE SONGS, With the DIALOGUE, Sung in the New OPERA, Call'd BRUTUS of ALBA: OR, Augusta's Triumph.</P>
+<P>Compos'd by Mr. <HI>Daniel Purcell.</HI></P>
+<P><HI>LONDON,</HI> Printed by <HI>I. Heptinstall,</HI> for <HI>Henry Playford</HI> at the <HI>Temple-Change, Fleetstreet,</HI> and <HI>Samuel Scott</HI> at the <HI>Middle-Temple Gate,</HI> where the first Vol. of <HI>De|liciae Musicae,</HI> and the first and second Books of the second Vol. also the New Scotch Song (numbered the first) is to be had; where all other sorts of Vocal and Instrumental Musick is sold. 1696.</P>
+<P>Price one Shilling.</P>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="2">
+<PB REF="2">
+<HEAD>TO Richard Norton, Esquires. AND Anthony Henley, Esquires.</HEAD>
+<OPENER><SALUTE>GENTLEMEN,</SALUTE></OPENER>
+<P>YOU having been pleas'd to be my first Encouragers at coming to Town, and since that to continue your Fa|vours to me; I thought it my Duty (as it is my Ambition) to present this part of the Per|formance to your Acceptance, as the best Re|commendation of it to the Town, and further Encouragement to the Endeavours of</P>
+<CLOSER><SIGNED>Your Most Obliged, and Humble Servant, Dan. Purcell.</SIGNED></CLOSER>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="song">
+<PB REF="3">
+<PB N="1" REF="3">
+<HEAD>A Song</HEAD> 
+<BYLINE>Sung by Mrs. <HI>Cross.</HI></BYLINE>
+<P><GAP DESC="music"> CEase <HI>Cynthia,</HI> cease, cease, cease your fruitless tears, cease, <HI>Cynthia,</HI> cease, cease, cease your   fruitless tears; in vain you do for Pi&spcDash;ty move; <HI>Strep<GAP DESC="illegible" EXTENT="1 letter">on</HI> regardless all your pas&spcDash;sion hears, and vows   he can no lon&spcDash;ger love; then learn of him Incon&spcDash;stancy,   no lon&spcDash;ger wait his be&spcDash;ing kind, but to some other Lo&spcDash;ver   fly, and banish, ba&spcDash;nish him your mind. </P>
+</DIV1>
+<DIV1 TYPE="song">
+<PB N="2" REF="4">
+<BYLINE>Sung by Mr. <HI>Church,</HI> the Words by Mr. <HI>Io. Hanes.</HI></BYLINE>
+<P><GAP DESC="music"> I Courted and Writt shew'd my Love and my Witt, and still pretty <HI>Flavia</HI> de&spcDash;ny'd;   'twas her Vertue I thought, made me prove such a sot, to a-dore her the more for her   Pride; till I happen'd to sit by her Mask'd in the Pitt, whilst a crow'd of gay   Bea&ucirc;s held her Play, when so wan-ton&spcDash;ly free, was her smart Re-par-tee, I was   Cur'd and went blushing, went blushing a&spcDash;way. </P>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>How Lovers mistake,</L>
+<L>The addresses they make,</L>
+<L>When they swear to be constant and true,</L>
+<L>For all the Nymphs hold,</L>
+<L>Tho' the sport be still old,</L>
+<L>That their Playmates must ever be new;</L>
+<L>Each pretty new toy,</L>
+<L>How they'l long to enjoy;</L>
+<L>And then for a newer will pine?</L>
+<L>But when they perceive,</L>
+<L>Others like what they leave,</L>
+<L>Then they cry for their Bauble agen.</L>
+</LG>
+</DIV1>
+<DIV1 TYPE="song">
+<PB N="3" REF="4">
+<BYLINE>Sung by Mr. <HI>Leverige,</HI> the Words by Mr. <HI>Io. Hanes.</HI></BYLINE>
+<P><GAP DESC="music"> HOw happy am I the fair Sex can de&spcDash;fy, and can ev'ry day say that my heart is   my own, I never saw yet that Beauty or Witt, but I'de love if I pleas'd or cou'd   let her a&spcDash;lone; I thought that my flame wou'd still be the same, for   Beau&spcDash;tifull <HI>Celia,</HI> if <HI>Ce&spcDash;lia</HI> was true; but Love is so blind when <HI>Ce&spcDash;lia</HI>   was kind, I chang'd her for <HI>Mop&spcDash;sa,</HI> for <HI>Mop&spcDash;sa</HI> was new. </P>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>Then <HI>Phillida</HI>'s Charms,</L>
+<L>Forc't her from my Arms;</L>
+<L>But when <HI>Phillida</HI> wou'd not grant my desire,</L>
+<L>I presently kneel'd,</L>
+<L>To the next that wou'd yeild,</L>
+<L>To quench my old flame I made a new fire.</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>Now is it not fair,</L>
+<L>That my faults I declare;</L>
+<L>Then Ladies be't known to all you I adore,</L>
+<L>Since I must deceive,</L>
+<L>Take you the same leave,</L>
+<L>The Devil's in't if you can ask any more.</L>
+</LG>
+</DIV1>
+<DIV1 TYPE="song">
+<PB N="4" REF="5">
+<HEAD>A Song</HEAD>
+<BYLINE>Sung by Mr. <HI>Freeman.</HI></BYLINE>
+<P><GAP DESC="music"> 'TIs vain to tell me I am de&spcDash;ceiv'd, for <HI>Ce&spcDash;lia</HI> seems so   kind, 'twere Sin she shou'd not be be&spcDash;liev'd, since I no cheat can find:   If flat&spcDash;te&spcDash;ry with false&spcDash;hood lye in her soft youth con&spcDash;ceal'd, a thousand times I'de ra&spcDash;ther dye than have the   truth, than have the truth re&spcDash;veal'd. </P>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>Let buisy fools in Libels raile,</L>
+<L>Their malice I'le out-brave;</L>
+<L>On me no scandal shall prevail,</L>
+<L>So she th' appearance save:</L>
+<L>For if I think I have her Heart,</L>
+<L>My own for hers is due;</L>
+<L>Let her but act the tender part,</L>
+<L>I'le think the joy is true.</L>
+</LG>
+</DIV1>
+<DIV1 TYPE="song">
+<PB N="5" REF="5">
+<BYLINE>Sung by Mrs. <HI>Willis</HI> in the 3<HI>d.</HI> Act.</BYLINE>
+<P><GAP DESC="music"> GReat Queen of <HI>Hymen</HI>'s hallowed fires, the sovereign of all Chast de&spcDash;   sires, that with true joy the genial Bed in&spcDash;spire;   See, see what bend&spcDash;ing Knees we pay thee, thus a&spcDash;dore thee, thus,   thus o&spcDash;bey thee; See what bending Knees we pay thee, thus, thus a&spcDash;&spcDash;dore thee, thus, thus o&spcDash;bey thee. </P>
+</DIV1>
+<DIV1 TYPE="song">
+<PB N="6" REF="6">
+<BYLINE>Sung by Mr. <HI>Church,</HI> Words by <HI>Iohn Robens,</HI> Esq.</BYLINE>
+<P><GAP DESC="music"> WHy <HI>Clo&spcDash;e,</HI> why, why will you not perceive, the woun&spcDash;ds you give, you   give my heart; why, why like a tyrant will you live, re&spcDash;gardless, re&spcDash;&spcDash;gard&spcDash;less of my smart: My si&spcDash;ghs have tyr'd the pi&spcDash;tying   Swains, my groans have fill'd, have fill'd the Grove; yet <HI>Clo&spcDash;e</HI> still unmov'd re&spcDash;   &spcDash;mains, and vows she'll never, and vows she'll never, she'll never, ne&spcDash;ver Love. </P>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>But <HI>Cloe,</HI> oh! at length be taught,</L>
+<L>Reserv'dness is a crime;</L>
+<L>And if you can commit a fault,</L>
+<L>'Tis one to fool with time:</L>
+<L>Old age may come, your Charms will wast,</L>
+<L>Your Beauties may decay;</L>
+<L>Then to Love's tenders't joys make hast,</L>
+<L>Be happy whilst you may.</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>Single the <HI>Phaenix</HI> lives alone,</L>
+<L>The reason for't is this;</L>
+<L>Nature at once permits but one,</L>
+<L>If two they'd taste the Bliss:</L>
+<L>With envious Eyes long she perceives,</L>
+<L>Joys other Creatures prove;</L>
+<L>For want of which the world she leaves,</L>
+<L>Expires in flames of Love.</L>
+</LG>
+<PB N="7" REF="6">
+<P><GAP DESC="music"> LEt others boast of li&spcDash;ber&spcDash;ty, I en&spcDash;vy   not their Bliss; <HI>A&spcDash;min&spcDash;tor</HI>'s Charmes have cap&spcDash;tiv'd me, and I   am on&spcDash;ly his: If Lo&spcDash;ving true be call'd a Chaine, 'tis   plea&spcDash;sing to en&spcDash;dure, for who can count that   thing a pain, they ne&spcDash;ver wish to cure?   </P>
+</DIV1>
+<DIV1 TYPE="song">
+<PB N="8" REF="7">
+<HEAD>Sung by Mr. <HI>Freeman</HI> in the 5<HI>th.</HI> Act.</HEAD>
+<P><GAP DESC="music">  IF Mortals lau&spcDash;gh and sing, 'tis time we Gods, we   Gods take wing; To mount, to mount and   send him down the guar&spcDash;di&spcDash;an of his Crown; <HI>As&spcDash;   &spcDash;tre&spcDash;a, As&spcDash;tre&spcDash;a,</HI> who from Earth was driv'n till <HI>Al&spcDash;bion</HI> call'd her   back, till <HI>Albion</HI> call'd her back from Heav'n, till <HI>Al&spcDash;bion</HI>   call'd her back from Heav'n. </P>
+</DIV1>
+<DIV1 TYPE="song">
+<PB N="9" REF="7">
+<HEAD>A Dialogue Sung between Mr. <HI>Edwards,</HI> and Mrs. <HI>Cross.</HI></HEAD>
+<P><GAP DESC="music">  WHY, Why dost thou fly me pretty, pretty, pretty Maid; tho' old, I feel, I   feel Loves fire, which cannot, which cannot be quench'd with&spcDash;out thy Aid, then   prethee, then pre&spcDash;thee fair one be not cold, for tho' 'tis true I'm   ve&spcDash;ry, ve&spcDash;ry old, I still have young, I sti&spcDash;ll have   young de&spcDash;sire, I still, I sti&spcDash;ll have young de&spcDash;sire.   Nay prethee dear <HI>Nestor</HI> cease, cease this discourse, for I've often, I've often been 
+<PB N="10" REF="8"><GAP DESC="music">  told, that for a young Virgin there is no&spcDash;thing worse, than to bed with a   Man, than to bed with a Man that is old. You much mi&spcDash;stake, my   pret&spcDash;ty fair, for old Men al&spcDash;ways constant are. I do not doubt your   constan&spcDash;cy, for age of course must constant be; your youthfull Vigour   be&spcDash;ing gone, you scarce can think, can think of more than one. Is there   nothing then can gain you? Yes, yes there is. Here's Gold, will that ob&spcDash;tain 
+<PB N="11" REF="8"><GAP DESC="music">  you? Oh! fye, fye, fye. See here, see here is store of Gold, oh!   fye, fye, fye, fye, oh! fye, you'r old. No matter Child, no mat&spcDash;ter   Child, here's Gold. Well I'le take it for once, but I must have more, for   this is too lit&spcDash;tle, too lit&spcDash;tle to win me: Nay ra&spcDash;ther than so thou shalt   have all my store, and if that fail, and if that fail, the   Devil, the Devil is in ye. I thank you, and now I must go. And 
+<PB N="12" REF="9"><GAP DESC="music">  I will go with yee, Oh! no, no, no, no, Why sure Child you   won't, you won't serve me so? In&spcDash;deed but I must, Then give me my   Gold, No, no I never make presents to Men that are old. </P>
+<DIV2 TYPE="chorus">
+<HEAD>CHORUS.</HEAD>
+<P><GAP DESC="music">  <HI>No, no I never make Presents to Men that are old.  Then give me, give, give me my Gold; give, give me my Gold.</HI> </P>
+</DIV2>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+</BODY>
+<BACK>
+<DIV1 TYPE="publisher's advertisement">
+<HEAD>Vocal and Instrumental <HI>Musick</HI> lately Printed and Reprinted with large Additions, for <HI>Henry Playford</HI> at his Shop in the <HI>Temple-Change, Fleetstreet.</HI></HEAD>
+<P><HI>HArmonia Sacra,</HI> in 2 Books, containing Divine <HI>Hymns</HI> and <HI>Dialogues</HI> lately set to Musick by Dr. <HI>Iohn Blow,</HI> and Mr. <HI>Henry Purcell,</HI> and other Eminent Masters. Price Bound of both Books 15 Shillings, the Second Book Sticht 4 <HI>s.</HI></P>
+<P><HI>Deliciae Musicae,</HI> in 4 Books, with Three <HI>Elegies</HI> on our late Queen, being the first Volume, Contains most of the Newest and Best Songs, by the late Famous Mr. <HI>Henry Purcell.</HI> The Price of the Volume Sticht, 5 <HI>s.</HI></P>
+<P>The whole Book of <HI>Psalms</HI> in 3 Parts, by <HI>Iohn Playford,</HI> as they are Sung in Churches: Printed for the use of several Masters in most Countries, who teach the same. The 2<HI>d.</HI> Edition in 8^0. Price Bound 5 <HI>s.</HI></P>
+<P>The <HI>Introduction to Musick,</HI> with Mr. <HI>Purcell</HI>'s Addition, being the best Rules for Composition, Price bound 2 <HI>s.</HI></P>
+<P>The New <HI>Treasury of Musick,</HI> in Fol. being the best Collection of Song-Books for this 20 Years last past. Price Bound 2<GAP DESC="illegible" EXTENT="1 letter"> <HI>s.</HI></P>
+<P>The 2<HI>d.</HI> Book of the <HI>Pleasant-Musical Companion,</HI> being a Choice Collection of <HI>Catches</HI> in 3 and 4 Parts, to which is added several Songs for Two Voices, by Mr. <HI>Henry Purcell,</HI> and other Eminent Masters. Price Stitcht 2 <HI>s.</HI></P>
+</DIV1>
+</BACK>
+</TEXT>
+</EEBO>
+</ETS>

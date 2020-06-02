@@ -1,0 +1,4944 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD EEBOPROOF 2.0//EN">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-08-04</DATE>
+<RESPSTMT>
+<NAME>Jonathan Blaney</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TYPEs to DIVs in order to validate. Proofed title page(s). Checked for N=""s. Checked for GROUP tags. Checked ^s. Reviewed structure. Checked division-marking material at heads and feet of divisions (HEADS, etc.). Checked for signatures. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected 32 $s and $$word$$s etc. of 56. Converted 24 $$s to GAP DESC="illegible" RESP="apex". Checked spacing of foreign GAPs. Checked for EPIGRAPHs and ARGUMENTs. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs, endqs, oes, q;s, and Qs. Checked proofsheets and made corrections found there. Checked for CLOSERs, TRAILERs, and BYLINEs. Checked for missing page GAPs. DONE.</ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="OX" ID="A17263">
+<STC T="S">4105</STC>
+<BIBNO T="umi">99854064</BIBNO>
+<VID>19471</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="dedication">
+<PB REF="1" MS="y">
+<PB REF="1" MS="y">
+<HEAD>TO THE RICHT HIGH, LODVVIK DVKE OF LENOX, <HI>Earl <GAP DESC="illegible" RESP="OXF" EXTENT="1 word">, Lord Tarbolton, Methwen and Aubig|ne,</HI> &amp;c. gret Chamberlaine of Scotland, IOHN BV|REL, wisheth lang life, with happy succes in all your attempts, and efter daith, the ioyes euerlasting.</HEAD>
+<LG>
+<L><HI>_I</HI> Will craue pardon of zour excellence,</L>
+<L>Incac<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter"> zesuld esteme this for offence:</L>
+<L>Into directing of this Treticie,</L>
+<L>Not coresponding to Zour prudencie:</L>
+<L>Quhois gud ingyne, &amp; pregnant spretit wit,</L>
+<L>Crauts hier warks, with arguments mair grit:</L>
+<L>Delyting ancient Histories to heir,</L>
+<L>Els of euents and stratagyms of weir:</L>
+<L>Zour Hienes Zit, I hope, sall not refuse,</L>
+<L>This Pamphilet, a litill to peruse:</L>
+<L>Quhilk is composd and maid especiallie,</L>
+<L>At sumtime, till expell malancolie:</L>
+<L>And not composd, vpon pretencis ill,</L>
+<L>To foster folks, into thair fleshly will:</L>
+<L>This is not for to nurish turpitud,</L>
+<L>Bot rather folks from sick things to seclud:</L>
+<L>For torepeit this taill, quhat neid is me,</L>
+<L>Se<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter"> <GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">eill zour wis<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">dome can the mater we:</L>
+<L>And promptly all the mater comprehend,</L>
+<L>To quhat effect and sens the <GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">me dois tend:</L>
+<L>Quhairin Zour honour plainly may persaue,</L>
+<L>The gud report, quhill honest lufers haue:</L>
+<L>The gret reproch al<GAP DESC="illegible" RESP="OXF" EXTENT="3 letters">e may espy,</L>
+<L>Of sick as in<GAP DESC="illegible" RESP="OXF" EXTENT="2 letters">cencious lust dois <GAP DESC="illegible" RESP="OXF" EXTENT="1 word"></L>
+<L>With syndrie mathings <GAP DESC="illegible" RESP="OXF" EXTENT="1 word"> <GAP DESC="illegible" RESP="OXF" EXTENT="1 word">aine,</L>
+<L>To m<GAP DESC="illegible" RESP="OXF" EXTENT="3 letters">this wark, <GAP DESC="illegible" RESP="OXF" EXTENT="1 word"> <GAP DESC="illegible" RESP="OXF" EXTENT="1 word"> <GAP DESC="illegible" RESP="OXF" EXTENT="1 word"> &amp; plaine</L>
+<L><PB REF="2">Quhilk to the purpois, pertinent I fand,</L>
+<L>And with the mater, weill aneuch may stand:</L>
+<L>Crauing maist humblie of zour clemencie,</L>
+<L>For to remit this my audacitie:</L>
+<L>Into presenting sick a wark prophane,</L>
+<L>Quhilk to the godly, will seeme sumpart vane:</L>
+<L>Bot I beleue, na persoun sall present,</L>
+<L>For to misconster, this my trew intent.</L>
+<L>And speciallie Zour Honour, quhome I craue,</L>
+<L>Maist willingly, this wark for to resaue&punc;</L>
+<L>Quhilk to Zour potencie, I haue propynd,</L>
+<L>In signe and takin of my willing mynd.</L>
+<L>And for the lufe, I to Zour honor bure,</L>
+<L>And not by ressoun of my litrature.</L>
+<L>Presenting it, with hart precordiall,</L>
+<L>Vnto zour selcitude in speciall.</L>
+<L>Quhois nobill persoun, will take in gud pairt,</L>
+<L>The trew affection, of ane faithfull hairt.</L>
+<L>Into this Regioun rings zour gret commend,</L>
+<L>Becaus, that students dewly ze defend.</L>
+<L>Menteining sick intill all touns and shiers,</L>
+<L>As to the art of Po&euml;trie espiers.</L>
+<L>Sen in zour persoun, sick gifts we persaue,</L>
+<L><HI>MECAENAS</HI> name, ze iustly may resaue.</L>
+<L>And sen ze are, the onely sonne and hair,</L>
+<L>Sprung from the synders, of that Phoenix rair.</L>
+<L>Quhois gud report, maks his renoun reu<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">iue,</L>
+<L>Into this land, perpetually to leiue.</L>
+<L>In seruing God, and syne zour soueraine King,</L>
+<L>Into this land, zour name lat lykwais ring.</L>
+</LG>
+<CLOSER><SIGNED>Your Hienes maist humble to be commandit. IOHN BVREL.</SIGNED></CLOSER>
+</DIV1>
+<DIV1 TYPE="preface">
+<PB REF="2">
+<HEAD>THE PREFACE.</HEAD>
+<LG>
+<L>IT come not only of my awin consait,</L>
+<L>In Inglish toung, this story to translait.</L>
+<L>Nor zit it was my selfe that did deuyse,</L>
+<L>For till attempt so peirt an enterpyse.</L>
+<L>Lat him that bad me, beir the haill rebuke,</L>
+<L>And me excuse, the enterpryse that tuke.</L>
+<L>Requeistit be ane Scollar as I say,</L>
+<L>I wes eschamed, his sute to dissobay.</L>
+<L>Not for na lairning quhilk he saw in me,</L>
+<L>Bot done expres, to proue my poetrie:</L>
+<L>Quhairin I grant, in coulers and degreis,</L>
+<L>Ar mone faults and gret absurdities.</L>
+<L>Howbeid so be my author hes na blame,</L>
+<L>Bot it is I, that dois resaue the schame.</L>
+<L>Yet haue I done, the thing that lyis in me,</L>
+<L>To keipe the coulour of his propertie.</L>
+<L>I can not tell, how thay the authour call,</L>
+<L>Quho of this buk, wes first originall.</L>
+<L>Na dout, bot it hes bene composd by Clarks,</L>
+<L>Els recollectit out of OVIDS warks.</L>
+<L>Mone thair be that dois this mening moue,</L>
+<L>Becaus this laureat Poet, wryts of loue.</L>
+<L>Quha euer it be, that hes the author bene,</L>
+<L>He hes na schame, the wark may weil be sene.</L>
+<L>Sumtyme it is als necessair as meit,</L>
+<L>To haue consaits to recreat the spreit.</L>
+<L>The Poet heir implois his hail pretence,</L>
+<L>To myrrie mowis, not tending to small sence,</L>
+<L>Quhairin thou planely, may persaue and see,</L>
+<L>As in ane specular before thine eie.</L>
+<L>Quhat skaith acurs ill company to hant,</L>
+<L>As GALATHEA dois confes and grant.</L>
+<L>Cursing the day of hir natiuitie,</L>
+<L>That sche had hantit in sic companie.</L>
+<L>Namely of ANVS, quho did her bechok,</L>
+<L>And brocht her blindlings, on this schameful blok.</L>
+<L>As efterward intill effect sche fand,</L>
+<L>Quhilk till all maids, may for example stand.</L>
+<L><PB REF="3">Sic peruers company, for till forbeir,</L>
+<L>And to thair&punc; counsall not to len thair eir.</L>
+<L>Be PAMPHILVS, he likwais dois present,</L>
+<L>The crukit cours, and fleschly full intent.</L>
+<L>And heir be VENVS, is demonstrat to,</L>
+<L>The fleschlie cours, quhilk nature bids vs do.</L>
+<L>Thairfore tak tent this mater to remeid,</L>
+<L>The peth of lufe is parralus indeid.</L>
+<L>And as the Poet in sum pairts dois say,</L>
+<L>Lufe is baith frost and snaw, in mids of May.</L>
+<L>It is a thing mens sensis for to moue,</L>
+<L>To enter in the laborinth of loue.</L>
+<L>Thairfore bewar with sicklik things to mell,</L>
+<L>Vnles thairin ye intricat your sell.</L>
+<L>The subtill schafts of CVPID ar maist kene,</L>
+<L>For be his counsall fail, hes blindit bene.</L>
+<L>Sum Poets pens of VENVS majestie,</L>
+<L>And cals hir medcin, of Malancolie.</L>
+<L>At the first face thocht it be sweit but dout,</L>
+<L>Into the end it bitternes brings out.</L>
+<L>It is worse then, ane laborynth I thinke,</L>
+<L>To fall in such a perrilous precinct.</L>
+<L>I think it not convenient for the cace,</L>
+<L>For to deduce exampils in this place.</L>
+<L>Sen I haue thame discriuid maist copiuslie,</L>
+<L>As into my adition ye sall sec.</L>
+<L>Quhairin, I say men may thame selfs resolue,</L>
+<L>This lytill volume, gif thay wald reuolue.</L>
+<L>Quhairby I think the reder sall get gane,</L>
+<L>And I sall not repent me of my pane.</L>
+<L>Out of zour breists dame VENVS pangs expel</L>
+<L>And se sche not insinuat hir sell.</L>
+<L>That is als mutch, as gif thou wald requier,</L>
+<L>To tak fat oyle for quenching of the fier.</L>
+<L>Ouer gret resort, sum time ingenders wo,</L>
+<L>With VENVS court, quho chancis for to go.</L>
+<L>For wantoun lukis, the messengers of loue,</L>
+<L>Temps mone men &amp; maks thair harts to moue.</L>
+<L><PB REF="3">Thocht femenin be fragrant and formose,</L>
+<L>Sum Poets be compairs thame to the rose.</L>
+<L>Thocht it be rid, and fellun fair of hew,</L>
+<L>Zit in the stalke, scharp pyks it hes anew.</L>
+<L>Thocht thay aboue be beutifull and fair,</L>
+<L>Perhaps beneth thair pyks may pik the fair.</L>
+<L>That this is trew, experience plain dois proue</L>
+<L>Quhair men I mene lyis in licencius loue.</L>
+<L>To mak remeid, and set thy mynd at eis,</L>
+<L>And for to suffocat thir flams that fleis.</L>
+<L>Conjoine thy selfe, in honest marage band,</L>
+<L>Acording as the Lord hes geuin command.</L>
+<L>Suspend your frendlie censure in this cace,</L>
+<L>And lufinglie this lytill book imbrace.</L>
+<L>Seing it is the first and formest fruits</L>
+<L>Of my small gairding, full of widerit ruits.</L>
+<L>The first crop of the ground, is not so gud,</L>
+<L>As the second quhilk ye may conclud.</L>
+<L>Thairfore redarguat not my dull ingyne,</L>
+<L>Sen with gud will my cair I doe inclyne.</L>
+<L>This mater to make manifest to the,</L>
+<L>Quhilk to thy eir delectabill sall be.</L>
+<L>Not for na facond terms, quhilk thou sall fynd,</L>
+<L>Nather before, nor in the pairt behynd.</L>
+<L>I pride me mair, the truth for to repeit,</L>
+<L>Nor into rethorik flours to flow and fleit.</L>
+<L>Better with simplll wourds to keepe the way,</L>
+<L>Nor with trim termes, to er and go astray.</L>
+<L>Althoch that I wald from my mater flie,</L>
+<L>The warke in latin extant is to se.</L>
+<L>Quhilk may correct me, quhen I mak offence</L>
+<L>Quhairfore I am compeld, to keepe the sens.</L>
+<L>And imitat my author lyne be lyne,</L>
+<L>Quhilk maks my vers, so darkly for to schyne.</L>
+<L>Perchance gif I had pend at libertie,</L>
+<L>My vers had bene mair elegant and hie.</L>
+<L>Out of the way I haue not gretlie swernid,</L>
+<L>His method I so <GAP DESC="illegible" RESP="OXF" EXTENT="2 letters">w he ha<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">e obseruid.</L>
+<L><PB REF="4">I haif omitit na thing be my brane,</L>
+<L>Bot rather amplifiet the mater plane.</L>
+<L>Esteme not that I of my selfe mak ruce,</L>
+<L>Bot in translation thair is sum abuce.</L>
+<L>Zit als subcinctlie, as I culd or micht,</L>
+<L>The sentence I haif prosecute aricht.</L>
+<L>And thocht my vers, be not poeticall,</L>
+<L>Nor sounding of the court rethoricall.</L>
+<L>Nor thocht I be not of Precoxel spreit,</L>
+<L>Nor into wit, ouer pregnant or pereit.</L>
+<L>Bot as ane scoller laikand lair and skill,</L>
+<L>I you beseik, to ponder my gud will.</L>
+<L>And luk not at my hands, quho this compils,</L>
+<L>For cureous frasis, or for ornat stils.</L>
+<L>Nor luk not, les thy selfe thou suld abuse,</L>
+<L>For polist terms, proceding from my muse.</L>
+<L>Vnles that my prolixnes suld you pane,</L>
+<L>Into reciting, one thing over agane.</L>
+<L>I will conclud and schortlie mak an end,</L>
+<L>Praying you not this warke to vilipend.</L>
+<L>Gif vertue be extold, or rusid I say,</L>
+<L>It flurish will, as flours in mids of May.</L>
+<L>Quhair be the contrair, vertew wants exces,</L>
+<L>It dois decay, and vtterlie decres.</L>
+<L>Euin so gif thou this wark disdainfull hauld,</L>
+<L>In time to come my courage will wax cauld.</L>
+<L>Bot thou esteming of my poesie,</L>
+<L>Farther to write it may incourage me.</L>
+<L>Quhilk vnto the mair comfort sal redound,</L>
+<L>And to the glore of God mair gretlie sound.</L>
+</LG>
+<EPIGRAPH>
+<Q>BE HONOR I LEVE.</Q>
+</EPIGRAPH>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="poem">
+<PB REF="4">
+<HEAD>PAMPHILVS SPEAKAND <HI>OF LVFE.</HI></HEAD>
+<LG>
+<L>VVOundit I am and in my breist expresse,</L>
+<L>Ane dart obscure lies lurken priuilie:</L>
+<L>Nocht onely lufe throuch my corps dois acres</L>
+<L>Bot dolour daily dois augment in me.</L>
+<L>Quho schot the schaft and strucke the straik trulie,</L>
+<L>The name na waies I dare expreme nor tell:</L>
+<L>For lufe, I say, may neuer thole nor see,</L>
+<L>The sight or contemplatioun of it sell.</L>
+</LG>
+<LG>
+<L>Quhairthrow the perrells greter are I say,</L>
+<L>Nor is the domage of my skaith indeid:</L>
+<L>No helpe of helth I thinke in ony way.</L>
+<L>May medecene giue, my pains for to remeid.</L>
+<L>Be what way than; can I cum ony speid,</L>
+<L>To plucke my selfe from yis cairfull consait,</L>
+<L>Alas, quhat sall I do now into neid,</L>
+<L>I may be countit in ane stackren stait.</L>
+</LG>
+<LG>
+<L>I murne, I plene in anguisch and in baill,</L>
+<L>And not but caus to cares I do incline,</L>
+<L>Seeing no helpe of counsall can awaill,</L>
+<L>Vnto my persoun quhilk remains in pine.</L>
+<L>Of mony things sin I suffer reuine,</L>
+<L>Of mony things I had gret mister to,</L>
+<L>For oft times craft with pleasour dois propine,</L>
+<L>The awin maister quhen he hes ado.</L>
+</LG>
+<LG>
+<L>Bot gif my lufe discouer and lat see,</L>
+<L>And in effect the face make sene and bair,</L>
+<L><PB REF="5">Quhairfra it come and quhat it selfe mot be,</L>
+<L>And quha the armour dewly did prepaire:</L>
+<L>Perchance the selfe sic esperance micht spaire,</L>
+<L>That it wald schortly make the awin remeid,</L>
+<L>Hope, oft times helps the Maister into cair,</L>
+<L>And oft times it dois him desaiue indeid.</L>
+</LG>
+<LG>
+<L>Or gif it couer the face in sic a sort,</L>
+<L>Throuch dolour and feir, that it may not be kend,</L>
+<L>Or gif that lufe, sal neuer seike support,</L>
+<L>Of helth, quhilk first that maladie man mend:</L>
+<L>Perchance war things, sall cum me til offend,</L>
+<L>Nor were the former, quhilk molestit me,</L>
+<L>So sall it cum to passe into the end,</L>
+<L>Into displesour for to duine and die.</L>
+</LG>
+<LG>
+<L>Better it is to let things cum to licht,</L>
+<L>For fire vnseene is vehement with reik,</L>
+<L>Bot as for fire that is put into sicht,</L>
+<L>Ye se it is mair moderate and meik:</L>
+<L>And thairfoir now to VENVS will I speik,</L>
+<L>Our life, our deid, and naturall nourishment,</L>
+<L>All things are led and gidit be hir eik,</L>
+<L>Sic is hir counsal and gouernement.</L>
+</LG>
+<DIV2 TYPE="part">
+<HEAD>Pamphilus speaks to Venus.</HEAD>
+<LG>
+<L>GOd saue you VENVS and your hail exces,</L>
+<L>Our hope of helth in quhome we do espier,</L>
+<L>That causis all things that are more and lesse,</L>
+<L>for to gif place and yeild to thine impier:</L>
+<L>The power of Captains quhen thou dois requier,</L>
+<L>And michty monarchs seruis quhen thou commands</L>
+<L>O godly VENVS spair Ithee desire,</L>
+<L>My simple vowis and supplicant demandis.</L>
+</LG>
+<LG>
+<L>Be thou nocht hard, O VENVS I besiek,</L>
+<L><PB REF="5">My humble praiers see thou not neglect,</L>
+<L>Bot graunt thou that quhilk I do sute and seike,</L>
+<L>Seing the mater is of small effect:</L>
+<L>Smal thing saide I, for so I did suspect,</L>
+<L>Bot to me caitife muche thai ar as zit,</L>
+<L>It is not harde to thee quha art elect,</L>
+<L>To grant thir thingis, thocht thay wer twise so grit.</L>
+</LG>
+<LG>
+<L>Gif thou wald grant and let my speich cum speid,</L>
+<L>I wald be blist, and turne away to rest,</L>
+<L>Sua suld all things weill prosper and succeid,</L>
+<L>And turne to me in all things for the best:</L>
+<L>Ane damisell neir hand me is adrest,</L>
+<L>Quhome I mislike, that scho suld heir remaine,</L>
+<L>Gif sche war absent, this I wald protest,</L>
+<L>Sche wald releiue me meikil of my paine.</L>
+</LG>
+<LG>
+<L>Nar fire ay vsis for to doe mair ill,</L>
+<L>Nor fire quhairfra, folke may flee far abak,</L>
+<L>Quhairfoir I seike your fauour and gud will,</L>
+<L>For to releiue and helpe me in this fact:</L>
+<L>Sche is estemit mair frolick fair and frack,</L>
+<L>Nor all hir nichbours and hir fallow feirs,</L>
+<L>I am desaiuit, and lufe is far to lake,</L>
+<L>Gif sche surmount not far aboue hir peirs.</L>
+</LG>
+<LG>
+<L>My inwert pains sche dois baith perse and prick,</L>
+<L>With dolent darts, quhilk in me dois abide,</L>
+<L>Thir dolent darts quhilk in my hart dois stick,</L>
+<L>Na force of mine may thame remoue aside:</L>
+<L>Quhairfoir al hours, ye euery time and tide,</L>
+<L>The dolorous wounds molests me mony wais,</L>
+<L>My colour and my strencth from me dois slide,</L>
+<L>My bewtie als, decressis and decais.</L>
+</LG>
+<LG>
+<L>This tale I keipit secreit and obscure,</L>
+<L>Nocht schawing, quho maid first my woundis to beil,</L>
+<L><PB REF="6">Iust cause there was the sooth I you assure,</L>
+<L>Quhilk me forbad the matter to reueill.</L>
+<L>She is esteemit of nobler race and quheill,</L>
+<L>Nor I, quhairto I schortly condiscend,</L>
+<L>Whairfoir my secreitis now I will conseill,</L>
+<L>Fering that sche my wourdis suld vilie pend.</L>
+</LG>
+<LG>
+<L>In geir and ritches sche surpassis me,</L>
+<L>Quhilk to be true richt weill I do consider,</L>
+<L>For ritches oftimes seikis as we may see</L>
+<L>Honour and tocher baith conioynit togither:</L>
+<L>Suppose my ritches simple be and slider,</L>
+<L>Yet honour and renoune with me remains,</L>
+<L>Bot that quilk I may get or conqueis hider,</L>
+<L>The same I get with diligence and pains.</L>
+</LG>
+<LG>
+<L>Sen sche the dochter is as I suspect,</L>
+<L>Of sum ritch berger quhilk inhabits heir,</L>
+<L>Amangis a thousand ane sche will elect,</L>
+<L>Quhome best sche lufes and greatest lufe dois beir,</L>
+<L>My trembling members in my flesch dois feir,</L>
+<L>To see hir forme quilk puts me in ane fyer,</L>
+<L>Bot mony causis euident and cleir,</L>
+<L>Forbids me plaine to tell of my desier.</L>
+</LG>
+<LG>
+<L>Pride quhilk procedis of forme and wauering wittis,</L>
+<L>Prouokis proud harts to follow furth that traine,</L>
+<L>For pride I say not suffers nor permittis:</L>
+<L>In modestie ye maistres to remaine:</L>
+<L>I sailzit oft from thir flammis to refraine,</L>
+<L>And from my hart with force thame till haife dung,</L>
+<L>Bot lufe me vrgit ay mair and mair againe,</L>
+<L>Quhen I begoud the same for to repung.</L>
+</LG>
+<LG>
+<L>My misery ye may behold and se,</L>
+<L>My dolour als is not to thee vnkend,</L>
+<L>Thairfoir I pray thee present for to be,</L>
+<L><PB REF="6">And on my praier let thy lufe extend,</L>
+<L>VENVS, to me na answer thou dois send,</L>
+<L>Nor to my wourdis thou not inclines thine eir,</L>
+<L>Thine christall eies on mine dois not discend,</L>
+<L>Naither to me thy fauour dois apeir.</L>
+</LG>
+<LG>
+<L>Take out the arrows that so swiftlie flies,</L>
+<L>Out of my hart quhilk dois it breke and bruse,</L>
+<L>Or els my woundis ze metigat and meis,</L>
+<L>Conforme vnto the fashioun quilk ye vse,</L>
+<L>Quha can susteine the care and great confuse,</L>
+<L>Of so grete labours and sic strange intents,</L>
+<L>Quhat care is it that walde rewardes refuse,</L>
+<L>Vnto the murning maister that laments.</L>
+</LG>
+<LG>
+<L>I schaw thir things so that ye may perceaue,</L>
+<L>Quhat carefull dolour all my courage clokes,</L>
+<L>The griefe and dolour quhilk I do conceiue,</L>
+<L>To ardent praiers daily me prouokes.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Now answers Venus to Pamphilus.</HEAD>
+<LG>
+<L>THan VENVS speikis vnto this lufer boy,</L>
+<L>Against grete labour nothing can resist,</L>
+<L>For ony maid or lasse ye may inioy,</L>
+<L>With warke and labour gif ye like or list,</L>
+<L>Eschame not then nor feir not till incist,</L>
+<L>To schaw thy mind to quhome thou wald apply,</L>
+<L>Scarce of a thousand ane I wald thou wist,</L>
+<L>Sall giue the na say with ane plaine denie.</L>
+</LG>
+<LG>
+<L>Sche quhome thou seikis with praier till intrait,</L>
+<L>Fra thy desire perchance will change hir eir,</L>
+<L>Bot not regard hir carlage rouch consait,</L>
+<L>Seeing the burding is bot light to beir,</L>
+<L>The wicked byer on his backe dois beir,</L>
+<L>That sorte of marchandrise to schange and sell,</L>
+<L><PB REF="7">Quhilk first the seller by ane aith did sweir,</L>
+<L>Nocht for to haife as he the truth did tell.</L>
+</LG>
+<LG>
+<L>To sail the Sea men wald not be content,</L>
+<L>Gif that thair harts, for feir suld faint and fail,</L>
+<L>Quhair raging wauis and waters turbilent,</L>
+<L>Gainestandis the schip, and dois the same assail:</L>
+<L>Than gif thou seest sche fauours not thy tail,</L>
+<L>Euin at the first vpoun ane suddentie,</L>
+<L>Be bissie than, to win hir fauour hail,</L>
+<L>With craftie art and great subtilitie.</L>
+</LG>
+<LG>
+<L>Craft breks mens minds thocht thay astray be boun,</L>
+<L>And touns destrois thocht thay be strang and wicht</L>
+<L>Castels throw craft are strucken and dung doun,</L>
+<L>Likewais by craft, the burding is maid licht:</L>
+<L>Fisches are tane by craft, and subtil slicht,</L>
+<L>Beneith the fludis and waters that dois fleit,</L>
+<L>Also by craft, men ryns baith day and nicht,</L>
+<L>Drie fute on Sea, but waknes or but weit.</L>
+</LG>
+<LG>
+<L>Ye craft and office, with ane subtill tred,</L>
+<L>Helpis mony things, that wald returne to wrack,</L>
+<L>Pure men oft times are nutrefeit and fed,</L>
+<L>Vpoun the simple schift quhilk they may make:</L>
+<L>Howbeit ane Prence despite and malice take,</L>
+<L>By craft his spite to pleasour may appeir,</L>
+<L>Ane giltie man by craft stands stout and fracke,</L>
+<L>Preseruing baith his body and his geir.</L>
+</LG>
+<LG>
+<L>The rich man now reioysis ye may se,</L>
+<L>Quho wont before to sing dame Purtethis sang,</L>
+<L>And now on horsebacke he is montit he,</L>
+<L>Quha on his fute befoire wes wont to gang:</L>
+<L>Things that by Parents na wais did belang,</L>
+<L>Bot be dame Fortune that maist noble dame,</L>
+<L>This craft and office hes giuin for ane fang,</L>
+<L><PB REF="7">Vnto the exerciser of the sam.</L>
+</LG>
+<LG>
+<L>Perchance gif that thou seis sche disobay,</L>
+<L>To do your dewty quhilk with pains ye wan,</L>
+<L>Zit not the les, see thou be ready ay,</L>
+<L>To serue and please hir so far as ye can:</L>
+<L>Be this remeid, I think ye may and man,</L>
+<L>Your lemens strife, and boste orecum the more,</L>
+<L>And so ane lufer ye obtaine sall than,</L>
+<L>Quho to you did profes ane foe before.</L>
+</LG>
+<LG>
+<L>Into those placis quhair sche hantis or bourdis,</L>
+<L>Or hes maist hanting so far as ye se,</L>
+<L>Pretend ye thair to feid thame with fair wourdis</L>
+<L>With merry mowis and sportis that plesant be:</L>
+<L>Youthe heid lufes blithnes, and sweit melody,</L>
+<L>With sporting wourdis best seruing thair behoofe,</L>
+<L>This drawis the harts of young men halilie,</L>
+<L>Fast for til enter in the snaris of lufe.</L>
+</LG>
+<LG>
+<L>Schaw thou thy selfe, so sal thou not be deimd,</L>
+<L>With visage blyth, quhilk wil content hir best,</L>
+<L>For ay ane man the lustier is esteimd,</L>
+<L>The mair with blythnes that he be possest:</L>
+<L>See thou be not ouer quiet or degest,</L>
+<L>Naither thy toung superfluously apply,</L>
+<L>For damisels are euer mair adrest,</L>
+<L>Thy countenance and gesture till espy.</L>
+</LG>
+<LG>
+<L>Sweit modestie and plesant talke procuris,</L>
+<L>And lufe dois nutrifie as all men seis,</L>
+<L>For plesant talke not onely harts alluris,</L>
+<L>Bot cruell minds dois metegat and meis:</L>
+<L>Gif place be grantit than quhair euer it beis,</L>
+<L>Proceid with courage baith to skeip and loup,</L>
+<L>Sche sall nocht onely thee propine and pleis,</L>
+<L>Bot gif thee that, of quhilk thou had na houp.</L>
+</LG>
+<LG>
+<PB REF="8">
+<L>Shamefastnes not permits hir till espire,</L>
+<L>To seike that thing quhiilk sche wald fainest bie,</L>
+<L>Bot that quhair of sche hes ane maist disire.</L>
+<L>That samin thing sche titest will denie.</L>
+<L>Sche thinkes it is mair honester say I,</L>
+<L>Be force and strength her maidinhead to tine,</L>
+<L>Nor for to say I plainely wil applie,</L>
+<L>Cum do your will and so the shame war mine.</L>
+</LG>
+<LG>
+<L>Beware my counsail heir I will thee len,</L>
+<L>Gif thou to litle domiscill succeid,</L>
+<L>Se thou conseale and na waies let her ken,</L>
+<L>Thy pouertie necessitie or neid,</L>
+<L>But diligence we see driues ouer indeid,</L>
+<L>Ane honest life thocht thair be litle geir,</L>
+<L>And can cloke ouer hir teares in time of steid,</L>
+<L>With cheirfull countenance for till appeir.</L>
+</LG>
+<LG>
+<L>By thy behauiour and thy wordis but dout,</L>
+<L>Thou maist esteeme thy selfe for to be fine,</L>
+<L>For hap and chance oftimes we se fall out,</L>
+<L>Vpon an small industrie and ingine,</L>
+<L>Men in the warld haue money things be line,</L>
+<L>Quhilk to their nichbours not the same recordis,</L>
+<L>Be this I say ye may consider sine,</L>
+<L>How mony to hir qualities accordis.</L>
+</LG>
+<LG>
+<L>Quhiles lesings helps as we may se our sell,</L>
+<L>And be that mene sum makes thair profit weill,</L>
+<L>Hurtful it is somtime the truth to tell,</L>
+<L>And in al things the veritie to reueile,</L>
+<L>Se that great gifts thou distribute and deale.</L>
+<L>To seruand men and handmaids of her house.</L>
+<L>Namely to sic as of her hes best feile,</L>
+<L>And can perswade her with sweete wordes and dous.</L>
+</LG>
+<LG>
+<L>Se so thou doe for this cause and behoofe,</L>
+<L><PB REF="8">That thay of thee may make report at hame,</L>
+<L>And feid thy lustie Lady and thy lufe,</L>
+<L>With lusing praises to thy laud and fame:</L>
+<L>Quhile sche excogitatis and weis the schame,</L>
+<L>And hes the ballance present in hir hand,</L>
+<L>Quhither sche mindis for til fulfill the same,</L>
+<L>Or quhither sche the samin will gainstand.</L>
+</LG>
+<LG>
+<L>Than bissie be to tire hir with assais,</L>
+<L>For so the bad, that blindit artchour boy,</L>
+<L>Thou being victor, be thir menis and wais,</L>
+<L>In schorter space, thy lufe thou sal inioy&punc;</L>
+<L>The mind of man, gets mony tost and toy,</L>
+<L>Quhiles heir, quhiles thair, bewrapit round about,</L>
+<L>In paine, perplexity, and gret anoy,</L>
+<L>Ay quhile he leuis and lies into this dout.</L>
+</LG>
+<LG>
+<L>Sum trinschman true, man in this mater mell,</L>
+<L>Quho wald content you baith, for litle hier,</L>
+<L>And in this mater, quietly culd tell,</L>
+<L>Quhat war the thing, that baith ye did desier:</L>
+<L>Inuious age, ay subject vntill Ier,</L>
+<L>The deids of young men, dois serch out and seik,</L>
+<L>And angry age, subiect to flite and flyer,</L>
+<L>Forbids young men, sic purposis to speik.</L>
+</LG>
+<LG>
+<L>Begin, for time hes giuin, and sall gif yit,</L>
+<L>Things, that by expectatioun sall appeir,</L>
+<L>No lufe sall be, in that place, I promit,</L>
+<L>Quhairin ye mister, for to dout or feir:</L>
+<L>I say na mair, and thairfoir gif gud eir,</L>
+<L>Tak tent to win your lufe, that disobais,</L>
+<L>The warke begun, sall schaw the selfe maist cleir,</L>
+<L>And sall proceid, ane thousand sindry wais.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<PB REF="9">
+<HEAD>Pamphilus speakis with himselfe.</HEAD>
+<LG>
+<L>ANe hail man makis small comfort to consaue,</L>
+<L>In him that lies desesid, into distres,</L>
+<L>Hereby, the Patient, na wais can persaue,</L>
+<L>His maladie, and sicknes maid the les:</L>
+<L>My dolorous tormentis, na wais dois decres,</L>
+<L>By VENVS counsail, thocht hir speich be plane,</L>
+<L>Bot pains of lufe, my persoun dois poces,</L>
+<L>Returning backward to my breist agane.</L>
+</LG>
+<LG>
+<L>For ay before, my hope affixt wes fast,</L>
+<L>Into dame VENVS, thinking to get gane,</L>
+<L>Fra me, my hope, and esperance, is past,</L>
+<L>Bot dolour still within me dois remaine:</L>
+<L>My marinell hes left me frustrat waine,</L>
+<L>In waters deipe, and fludis of all mischief,</L>
+<L>Ane heuening place and port I seik with paine,</L>
+<L>Yit can I find nane, for my schips relief.</L>
+</LG>
+<LG>
+<L>Quhat sall I do? for faine I wald eschew,</L>
+<L>My esperance, in hir remains no more,</L>
+<L>It me behouis, to gang againe of new,</L>
+<L>To speik with hit, with quhome I spack before.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Pamphilus seeing Galathea.</HEAD>
+<LG>
+<L>O God, gif sche cums with ane gudly grace,</L>
+<L>With nakit hair, and countenence so mile,</L>
+<L>This is ane maist conuenient proper place,</L>
+<L>vntill vs twa, for to confer ane quhile:</L>
+<L>I am in feir, as ane into exile,</L>
+<L>In dolorous torments, heir for to be left,</L>
+<L>And that my voice, and wourdis fall tine thair stile,</L>
+<L>As ane, that of thair sencis are bereft.</L>
+</LG>
+<LG>
+<L>My force and strength, away from me is went,</L>
+<L><PB REF="9">I ttymbil and schaik baith into handis and feit,</L>
+<L>To me pure catif in astonisment,</L>
+<L>Thair is no part that proper is or meit:</L>
+<L>I purposit oft my tail for to repeit,</L>
+<L>And of my mynd till maid my stomak tume,</L>
+<L>Bot feir and dreid hes so pocest my spreit,</L>
+<L>To speik my pleasour I durst not presume.</L>
+</LG>
+<LG>
+<L>Alterd I am with angueische greif and baill,</L>
+<L>Sua that I skars can ken my self throw cair,</L>
+<L>Houbeid ye se my voce dois faint and faill,</L>
+<L>Yit not the les to speik I wil not spair.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Pamphilus speikis to Galathea.</HEAD>
+<LG>
+<L>I haif ane nece, in kin to me richt neir,</L>
+<L>Quho dwellis into ane toun, not far abake,</L>
+<L>Sche me requeistit to cum to you heir,</L>
+<L>Ane thousand commendatiouns for to make:</L>
+<L>Sche knawis you not, nor neuer with you spake,</L>
+<L>Bot be report of folkis quhome ye frequent,</L>
+<L>To speik with you grit plesour s<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">he dois take,</L>
+<L>Quhen tyme or place occasioun sall present.</L>
+</LG>
+<LG>
+<L>My parentis maid me grit requeist thame sell,</L>
+<L>In my frendis toun till haif remaind ane space,</L>
+<L>Of the quhilk frendis, grit number dois induell,</L>
+<L>And hes thair habitatioun, in that place:</L>
+<L>Thir Parentis me contrackit in a cace,</L>
+<L>Vpoun ane maid, quhois tochergud wes grit,</L>
+<L>Schewes esteemd to be of nobill race,</L>
+<L>Yit, I that marage neuer wald permit.</L>
+</LG>
+<LG>
+<L>All kind of things, I plainly did postpone,</L>
+<L>Sen ye haif plesit me best for my behoue,</L>
+<L>I haife refusit for your sake alone,</L>
+<L>All warldly thingis, awating on your lufe:</L>
+<L><PB REF="10">With smiling scheir, I speik thir things forsooth,</L>
+<L>For sporting speich&punc; in youdeth ye may se,</L>
+<L>Few wourdis, with bourdis, to blithnes harts dois moue,</L>
+<L>Sua, be that menes, na stur or strife can be.</L>
+</LG>
+<LG>
+<L>Gif, thou thy secreit deids, to me will grant,</L>
+<L>And sua to the againe, my sacreits tels,</L>
+<L>I promeis, nane sall <GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">e participant,</L>
+<L>Quhat we twa speikis, except it be our sels:</L>
+<L>O fragrant flour, in bewtie that excels,</L>
+<L>Lat promeis heir, be made betwix vs plane,</L>
+<L>Howbeid to speik, I haue begun as els,</L>
+<L>Yit not the les, I sall begin agane.</L>
+</LG>
+<LG>
+<L>Sen we twa minds, na langer for to striue,</L>
+<L>The veritie, we plainly suld expreme,</L>
+<L>In all this warld, nane leuand is aliue,</L>
+<L>Quhome better I lufe, or mair of dois esteme:</L>
+<L>First sen I lufit you, feruent and extreme,</L>
+<L>Thre years are past, the sooth I you assure,</L>
+<L>Yit durst I neuer, sic things schaw or deme,</L>
+<L>Bot wes compellit, to keip the same obscure.</L>
+</LG>
+<LG>
+<L>Ane wise man will, from conference refraine,</L>
+<L>Gif his companioun deife, he do suspect,</L>
+<L>Swa, it becums vs not to speik in vaine,</L>
+<L>Except the mater turne to sum effect:</L>
+<L>My feruent lufe, nane abil is to breke,</L>
+<L>For farther talk, I speik na mair you to,</L>
+<L>Vnto the time, your answer ye derect,</L>
+<L>Quhat in this purpose, ye pretend to do.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Galathea, answers to Pamphilus.</HEAD>
+<LG>
+<L>SVm young men be, that all thair cairs inclins,</L>
+<L>For to deflore, pure damisels estaitis,</L>
+<L>For craftie luse, and curious hie ingins,</L>
+<L><PB REF="10">Begiles pure lassis, with thair licht consaitis:</L>
+<L>I set not by your wiles, and wrang debaitis,</L>
+<L>Your craft and art, I vilie pend in plaine,</L>
+<L>Quhome to begile, with flarry and defaitis,</L>
+<L>It sall surpas your hie politike braine.</L>
+</LG>
+<LG>
+<L>Seik siclike folkes, as feirs for your estait,</L>
+<L>And with your wickit plesours will comix,</L>
+<L>And sic as with your fraudulent desait,</L>
+<L>Will be begilit, with trumperie and triks.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Pamphilus speakis to Galathea.</HEAD>
+<LG>
+<L>OFt times, the falts of wickit bissie bois,</L>
+<L>Perturbis the iust, and dois thame back repell,</L>
+<L>It is my nichbours faut, quhilk me anois,</L>
+<L>And not the faut, quhilk I commit my sell:</L>
+<L>O burd bening, whois bewtie dois excell,</L>
+<L>Of thy gud grace, I thee beseik, til heir,</L>
+<L>And grant me grace, a few wourds for to tell,</L>
+<L>To you my maistres, and my darling deir.</L>
+</LG>
+<LG>
+<L>I take to witnes, God ouer euery quhair,</L>
+<L>With all the powers of this earthly sile,</L>
+<L>Gif ony thing to you, I do declair,</L>
+<L>Quhilk spoken is, for fraudfulnes or gile:</L>
+<L>In all this warld, nane can I spie or pile,</L>
+<L>Mair deir to me, or mair for my behoofe,</L>
+<L>My hart and mind seis nane, of na kin stile,</L>
+<L>Mair apt and wordie till auance in lufe.</L>
+</LG>
+<LG>
+<L>It is in vaine, the purpose quhilk I spak,</L>
+<L>Be resoun of my barnlie age so short,</L>
+<L>quhilk scarce yit kens, quhat domage it can mak,</L>
+<L>Or yit the profit, quhilk it may import:</L>
+<L>Suppose young age, be scharper in a sort,</L>
+<L>And prompter spreitit teddence for to try,</L>
+<L><PB REF="11">Quhen men of age, seis mony things athort,</L>
+<L>Young men I think, far mo things suld espy.</L>
+</LG>
+<LG>
+<L>Thocht thou be young, and barnely, I wald wis,</L>
+<L>That thou suld ken, and cairfully incist,</L>
+<L>First quhat I am, sine, quhat my calling is,</L>
+<L>And quhair my lufe and kindnes dois concist:</L>
+<L>Wisedome and craft, I wald thou kend and wist,</L>
+<L>By vse and custome, sall thair secreits schaw,</L>
+<L>All things be vse, hes lernit bene at list,</L>
+<L>Quhilk mortall men, dois vnderstand and knaw.</L>
+</LG>
+<LG>
+<L>To gang and cum, and towartis you resort,</L>
+<L>Our time about, for to confer anone,</L>
+<L>With ernest mind, maist humbly I exhort,</L>
+<L>That we together may be baith alone:</L>
+<L>The inwart of the hart, is knawn to none,</L>
+<L>Bot be the speich, it is cognossit and kend,</L>
+<L>And thairfore now, I pray thee to propone,</L>
+<L>Quhat is your will, and pleasour ye pretend.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Galathea, answers to Pamphilus.</HEAD>
+<LG>
+<L>YOu, nor na man, I sall forbid, I say,</L>
+<L>To cum or gang, or yit his speich to spair,</L>
+<L>Ilk traueller hes a richt gait and a way,</L>
+<L>In sic parts quhair, it happins him to repair:</L>
+<L>It is maist decent, for a maiden fair,</L>
+<L>Vnto the askers answer, to reply,</L>
+<L>A Damisell may do this meikill mair,</L>
+<L>On ony young man, till incall or cry,</L>
+</LG>
+<LG>
+<L>For to confes the truth, I thinke no schame,</L>
+<L>Of you, nor na mans cumming I take cure,</L>
+<L>Prouiding, that my honour and gud name,</L>
+<L>From spot and blot, may be preseruit sure:</L>
+<L>To heir and se, It settis I you assure,</L>
+<L><PB REF="11">And to make answer, quhen young men inquires,</L>
+<L>This wald be done, with countenance demure,</L>
+<L>And moderat maner, as the caus requires.</L>
+</LG>
+<LG>
+<L>With mocking wourdis, gif ye impeche my eir,</L>
+<L>Like speich again, to you I will present,</L>
+<L>In ony thing, gif I haue hurt you heir,</L>
+<L>To make ane mends&punc; I sall be weill content:</L>
+<L>To to alone, howheid, your will be bent,</L>
+<L>That I refuse, and thairfoir speik na mair,</L>
+<L>It is not decent, we twa suld frequent,</L>
+<L>In ony part, quhair na man makis repair.</L>
+</LG>
+<LG>
+<L>In secreit parts, my conference to seik,</L>
+<L>A sclanderous fame, sall rise from that effect,</L>
+<L>Bot in the peoples presence gif I speik,</L>
+<L>Ye knaw your selfe, I will be les suspect.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Pamphilus speakis to Galathea.</HEAD>
+<LG>
+<L>NOt small rewardis, on me thou dois imploy,</L>
+<L>Bot gifts maist gret, with fauour I do feil,</L>
+<L>Gret gladnes I consaiue, and inwart ioy,</L>
+<L>Your talking hes contentit me so weill:</L>
+<L>To rander thankis, I scantly can haif skeill,</L>
+<L>To you, quha did the benefits auance&punc;</L>
+<L>The constant talke, and wourds quhilk ye reueill,</L>
+<L>I am vnabill for to recompance.</L>
+</LG>
+<LG>
+<L>Perchance, the time sall schortly cum behind,</L>
+<L>Aud I beleife to see that happy day,</L>
+<L>That for your fauour, ye schall frendschip find,</L>
+<L>And to my power, sall the fame repay:</L>
+<L>I dar demaund, or seik na thing, I say,</L>
+<L>For feir I suld prouoke your wrath and ier,</L>
+<L>Bot vnto you, I man bow and obay,</L>
+<L>Albeid, I yit haue sum things to requier.</L>
+</LG>
+<LG>
+<PB REF="12">
+<L>Thy l<GAP DESC="illegible" RESP="OXF" EXTENT="2 letters">e and fauour, I wald ken and knaw,</L>
+<L>Gif kissis sweit, thou wald vouchsafe on me,</L>
+<L>That we mair kindnes, micht till vther schaw,</L>
+<L>Quhen time and place suld offerit till vs be.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Galathea answers to Pamphilus.</HEAD>
+<LG>
+<L>ALbeid, imbrasings nutrifies repas,</L>
+<L>To wilfull lufe, proceiding from dispair,</L>
+<L>By kissis sweit, oftimes it cums to pas,</L>
+<L>That women are tane captifs in the snair:</L>
+<L>To kis and clap, I will permit and spair,</L>
+<L>Prouiding, that ye do na mair nor this,</L>
+<L>Except your selfe, the suth I you declair,</L>
+<L>My mouth, nane suld get credit for to kis.</L>
+</LG>
+<LG>
+<L>Now I beleife, the Kirk be scaild amaist,</L>
+<L>And that my father and mother be remouit,</L>
+<L>Thairfoir I man pas to the house in haist,</L>
+<L>That be my Parents, I be not reprouit:</L>
+<L>The time sall cum thairfoir, be not commouit,</L>
+<L>Quhen of our purpose, we sall speik in plaine,</L>
+<L>Let euery one of vs twa weill belouit,</L>
+<L>Haue mind of vther, will we meit againe.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Pamphilus speakis to himselfe.</HEAD>
+<LG>
+<L>IN all this warld, thair is no persoun past,</L>
+<L>Mair blithe nor I, or better at mine eis,</L>
+<L>My hope and anker is affixit fast,</L>
+<L>Into the part quhilk maist my mind did pleis:</L>
+<L>The gods aboue, hes blessit my ha<GAP DESC="illegible" RESP="OXF" EXTENT="2 letters"> decreis,</L>
+<L>Dame nature als hes giuin me gifts in store,</L>
+<L>I am maid rich in mony gret degreis,</L>
+<L>Quha wes maist pure and miserable of before.</L>
+</LG>
+<LG>
+<L>She did desire with clament wourdis and kind,</L>
+<L><PB REF="12" MS="y">In my remembre, to be satlet sure,</L>
+<L>Na pane sal hir, expell out of my mind,</L>
+<L>So lang, as my remembrence may indure:</L>
+<L>Hir company, sche kens I doe procure,</L>
+<L>Yit skars sche kens, my feruent lufe so fre,</L>
+<L>Into my former stait I sal demure,</L>
+<L>Excep of me sche memorantif be.</L>
+</LG>
+<LG>
+<L>I am releu'd, out of the troublus den,</L>
+<L>Yit ma perplexiteis, dois me opres,</L>
+<L>The quhilk occaseouns, makeis me to misken,</L>
+<L>My counsal, quhilk suld comfort my distres:</L>
+<L>Gif I resort, or till hir haif exces,</L>
+<L>Sine sporting wourdis, with hir do gest and gek,</L>
+<L>The comoun sclander sall the same expres,</L>
+<L>And make our speitch, to turne to na effect.</L>
+</LG>
+<LG>
+<L>Excep be oft frequenting I tak cure,</L>
+<L>Our kindnes to conferme, and mak perfite,</L>
+<L>Perchance our lufe, quhilk yit is not maid sure,</L>
+<L>Betwix vs baith, sall sinder and acquite.</L>
+<L>That lufe acressis, custome hes the wyte,</L>
+<L>Bot rair resort, makis kindnes to decres,</L>
+<L>For lufe, that is not cherisd with delyte,</L>
+<L>Ay waxis cauld, and daylie growis the les.</L>
+</LG>
+<LG>
+<L>Ingill, will be als bauld as ye desier,</L>
+<L>Gif that with treis, ye bigit round about,</L>
+<L>Bot fra ye tak, the timmer fra the fier,</L>
+<L>From farther heit, it wil extingueische out:</L>
+<L>Now mone cairis, ganestandis my stomok stout,</L>
+<L>Gret perrellis als, my persoun dois preuene,</L>
+<L>My mind is cast, in mone cairful dout,</L>
+<L>Sic ar the troubillis, quhilk I do sustene.</L>
+</LG>
+<LG>
+<L>Prosperitie, agains me dois repell,</L>
+<L>My fortoun als, from me dois slip and slyd,</L>
+<L><PB REF="13" MS="y">My mind, hes na assurement in it sel,</L>
+<L>Nor constant purpos, quhair upoun to byd:</L>
+<L>Quhilis fortoun will gainstand, and set asid,</L>
+<L>The deidis of men, that lukis for to find grace,</L>
+<L>For sche permitis not, purpos til abid,</L>
+<L>Into the awin rowme, or apointit place.</L>
+</LG>
+<LG>
+<L>Albeid by fortoun sum hes hurt resaiued,</L>
+<L>Yit hes sche helpit mone, intil neid,</L>
+<L>Sua vnder fortoun, it may be persaiued,</L>
+<L>How in this warld, men present life dois leid:</L>
+<L>God, and gud trauell furnishis indeid,</L>
+<L>And vs prouidis in all thingis sound and hail,</L>
+<L>Without Godis help, na purpos can cum speid,</L>
+<L>Nor in the warld, na labour can awaill.</L>
+</LG>
+<LG>
+<L>Let God be than my strenthe and fortreis stark,</L>
+<L>And he quha suld, my sacreit turns espy,</L>
+<L>God mot be gouernator of my wark,</L>
+<L>And to my interprisis all aply:</L>
+<L>My brother nor my oye, thairfoir say I,</L>
+<L>Sal not be tainschman, as thay war beforne,</L>
+<L>For few or nane, findis faithfulnes thairby,</L>
+<L>Howbeid, he be his natif brother borne.</L>
+</LG>
+<LG>
+<L>Oye, vntil oye, howbeid thay be bot few,</L>
+<L>Can skars keip faith, quhilk by ane aith thay sweir,</L>
+<L>Brother to brother, wil be found vntrew,</L>
+<L>Quhen flammis of lufe thair courage makis to steir:</L>
+<L>Throw small occasiouns skaith will quhylis apeir,</L>
+<L>Bot wisemen will from siclik thingis apeill,</L>
+<L>Thairfoir it me becummis, for to reteir,</L>
+<L>Sum better way, quhilk makis mair for my weill.</L>
+</LG>
+<LG>
+<L>Heir neir, by duellis ane carling aulde and teuche</L>
+<L>Full of Ingine, and craft I you assure,</L>
+<L>Sche is ane seruant ape and meit anewche,</L>
+<L><PB REF="13">In VENVS craft, to exercise hir cure:</L>
+<L>Postponing cairs, quhilk present I indure,</L>
+<L>To pas away my feit, I will prepair,</L>
+<L>And to the auld wife, I will fordward fure,</L>
+<L>My mind and counsail that I may declair.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Pamphilus speikis to Anus.</HEAD>
+<LG>
+<L>YOur laud and praise, in all partis dois apeir,</L>
+<L>Ane gud commend, of all men ye resaue,</L>
+<L>Quhilk is the caus, that maid me to cum heir,</L>
+<L>Your gud consent, and counsall for to craue:</L>
+<L>I will beseik, your gud will to consaue,</L>
+<L>My wourds, quhilk I am mindit to fulfill,</L>
+<L>Let na man heir, quhat we twa spokin haue,</L>
+<L>Without it be, with my consent and will,</L>
+</LG>
+<LG>
+<L>My nichbour GALATHAE, that lustie maid,</L>
+<L>Quhome weill ye ken, and with hir oft hes bene,</L>
+<L>Sche sais hir selfe, hir lufe is on me laid,</L>
+<L>Gif so be nocht, I am begild I mene:</L>
+<L>I am compeld, my toung for to retene,</L>
+<L>So faine from troubils, I wald fle abak,</L>
+<L>I am in feir, sum perrill me preuene,</L>
+<L>For I feir all thing, that may danger mak.</L>
+</LG>
+<LG>
+<L>Ane bruit will cum, but of ane litle cace,</L>
+<L>Yit in mens mouthis lang time it will remaine,</L>
+<L>Howbeid, it lie and lurke ane litle space,</L>
+<L>Be oft report, it will spreid out againe:</L>
+<L>Small thing prouokis, pure caitife men to paine,</L>
+<L>A thousand ils fast fallows thame with speid,</L>
+<L>The wark and labour, quhilk hes vexit my braine,</L>
+<L>Is yit in danger, gif it sall succeid.</L>
+</LG>
+<LG>
+<L>Sen of my troublus stait, ye haise ane feil,</L>
+<L>By your auice, the same may be adrest,</L>
+<L><PB REF="14">Beseiking you, to couer and consceill,</L>
+<L>The falts and spots, quhairwith I am pocest.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Anus answers to Pamphilus.</HEAD>
+<LG>
+<L>ANe vther lufis, that quhilk thou lufis thy sell,</L>
+<L>And that thou seiks, ane vther seiks thairtill,</L>
+<L>Yit not the les, this meikill I the tell,</L>
+<L>Into the mater, he wantis my gudwill:</L>
+<L>The man is gud anewch, I say na ill,</L>
+<L>And seruis ane honest wife, I you assure,</L>
+<L>Bot yit, the gift he offerd to fulfill,</L>
+<L>Did me displeis, becaus it wes so pure.</L>
+</LG>
+<LG>
+<L>He promisd me till exercise my schift</L>
+<L>Auld clais, and clokis my mister till haife bet,</L>
+<L>Bot sic a small propine and nochty gift,</L>
+<L>Did make my dewty to be cleane foryet:</L>
+<L>Gif giftis be giuin in time, quhilk are to get,</L>
+<L>It makis ane vantage, for to follow sine,</L>
+<L>Richt law we see, peruertit is, and set,</L>
+<L>Be budis and bribis, aud be the awin ingine.</L>
+</LG>
+<LG>
+<L>Nane will her get, the truth I you declair,</L>
+<L>Bot be my moyen and gudwill, I mene,</L>
+<L>For sche wes my familiar euer mair,</L>
+<L>And at my biding, sche hes euer bene:</L>
+<L>I am hir gider, as it may be sene,</L>
+<L>Quha kens hir sacreitis baith in gud and ill,</L>
+<L>Na thing vnto hir persoun, dois pertene,</L>
+<L>That can be done by my awice and will.</L>
+</LG>
+<LG>
+<L>I speik na mair, how euer the mater beis,</L>
+<L>Sum vther caris, dois all my body bind,</L>
+<L>Let ilkane, gang thair awin gait as thay pleis,</L>
+<L>To seik support, quhair thay the same may find.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<PB REF="14">
+<HEAD>Pamphilus speakis to Anus.</HEAD>
+<LG>
+<L>HOw for till haif hir, it may cum to pas,</L>
+<L>My onely cair, and exercise is bent,</L>
+<L>Gif ye culd gar me, get this lustie las,</L>
+<L>My mind with all thingis, ye wald weill content:</L>
+<L>I thinke it neidfull and expedient,</L>
+<L>To by the warke, wrocht be an vncow man,</L>
+<L>So soone as he the samin sall present,</L>
+<L>Conforme to promeis, to reward him than.</L>
+</LG>
+<LG>
+<L>Ye sall not be begild, nor set aside,</L>
+<L>Bot for your pains, propines ye sall resaiue,</L>
+<L>Gif be your moyen, ye may me prouide,</L>
+<L>Thingis quhilk I want, and wischis faine to haue:</L>
+<L>I pray you tell me that I may persaiue,</L>
+<L>The name of that propine, quhilk ye procure,</L>
+<L>Quhat euer it be, that of me ye can craue,</L>
+<L>Thou sall it haue, the futh I ye assure.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Anus answers to Pamphilus.</HEAD>
+<LG>
+<L>AL sick I say as bears dame Purtethis bell,</L>
+<L>Seikis syndrie thingis, quhairof thame selfis ar scant,</L>
+<L>I am eschamd, for to declair or tel,</L>
+<L>All kind of thingis, quhilk mister garis me want:</L>
+<L>Quhen I wes young, and in my simmer plant,</L>
+<L>I wes richt ratche, and in gret substance set,</L>
+<L>Bot now my geir, is al decayd, I grant,</L>
+<L>Thairfore I mister money thingis to get.</L>
+</LG>
+<LG>
+<L>My febill corps quhilk daily dois decres,</L>
+<L>And als my age, makis purtethe me persew,</L>
+<L>The occupatioun, quhilk I do profes,</L>
+<L>Na proffite makis to me, I wald ye knew:</L>
+<L>In cace ye se your kindnes, I renew,</L>
+<L><PB REF="15" MS="y">Or may make profite intill ony way,</L>
+<L>In times to cum, I pray you to be trew,</L>
+<L>And lat your hous be patent to me ay.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Pamphilus speakis to Anus.</HEAD>
+<LG>
+<L>NOw baith my hous and all things sall be thine,</L>
+<L>It sall stand patent, quhen ye cum thairtill,</L>
+<L>The substance and the moyen quhilk is mine,</L>
+<L>Sall be your awin, do with thame as ye will:</L>
+<L>Frendschip and concord, quhilk sall ay stand still,</L>
+<L>Hes vs conioynd, quhairof, I am richt faine,</L>
+<L>The faith and promeis, quhilk I suld fulfill,</L>
+<L>Mot be maid sure, for euer to remaine.</L>
+</LG>
+<LG>
+<L>This ye man do, and thairfoir markit weill,</L>
+<L>With walkrife cair, heir I will you protest,</L>
+<L>This turne to do, with craftines and skeill,</L>
+<L>And with discretioun, as ye can do best:</L>
+<L>How things begins, out endis, and how thay lest,</L>
+<L>For to behold, it is ane wisemans will,</L>
+<L>The end of all things schaws amangis the rest,</L>
+<L>Quhat fruit cums furth, baith intill gud and ill.</L>
+</LG>
+<LG>
+<L>Lerne to begin, and how to end compleit,</L>
+<L>Thy speich and talke, your purpose to decore,</L>
+<L>That ye your wourdis, mair promptly may repeit,</L>
+<L>Quhilk ye in mind, premeditate before.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Anus speiking that Galathea micht heir her.</HEAD>
+<LG>
+<L>INto this toun thair dwellis, as all men seis,</L>
+<L>Ane trim young man, surpassing but compair,</L>
+<L>Exceding vthers, intill all degrees,</L>
+<L>For gud behauiour, and for bewtie fair:</L>
+<L>Nane neuer was, mair sweit or debonair,</L>
+<L>Intill our time, or age as I suspect,</L>
+<L><PB REF="15">My pouerty, with helpe he dois repair,</L>
+<L>Vnto my purtethe, he hes sic respect.</L>
+</LG>
+<LG>
+<L>All of his age, he far excellis in deids,</L>
+<L>And in gud manners, as it may be kend,</L>
+<L>For PAMPHILVS surpassis and exceids,</L>
+<L>His haill companiouns, into gud commend:</L>
+<L>To play the fule, with fules, he can pretend,</L>
+<L>And gentries schaw, quhen gentillis him requiers,</L>
+<L>Wise men fra daffing, can thame felfs defend,</L>
+<L>By richt and resoun, as the caus requiers.</L>
+</LG>
+<LG>
+<L>In all this toun, thair is nane borne or bred,</L>
+<L>Mair wise and honest, or in honour maist,</L>
+<L>His ritches, quhilk he hes obteind by tred,</L>
+<L>In wrang abuse, the same he will not waist:</L>
+<L>He is baith wise, and of ane gud behaist,</L>
+<L>For all his ofspring, wise folkis wont to be,</L>
+<L>Sweit fruit, neid force, man tak ane plesant taist,</L>
+<L>Quhilk dois proceid, out of ane plesant tre.</L>
+</LG>
+<LG>
+<L>The gud effects, quhilk children will consaiue,</L>
+<L>Into thair naturis, plainly will appeir,</L>
+<L>Oft times, the soun pretendis him we persaiue,</L>
+<L>His fathers futsteps, for to follow neir:</L>
+<L>Behauld, I se fair GALATHEA heir,</L>
+<L>Stand nar the port, not far fra me abak,</L>
+<L>Vnto my wourdis perchance, sche hes giuin eir,</L>
+<L>And hard the wourdis and praises quhilk I spak.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Anus speakis to Galathea.</HEAD>
+<LG>
+<L>O GALATHEA, nane I beleiued to be,</L>
+<L>So nar me heir, till harken at my hand,</L>
+<L>Yit not the les, I haife not maid ane lie,</L>
+<L>I spak the truth, as I occasioun fand:</L>
+<L>Of PAMPHILVS, this far I vnderstand,</L>
+<L><PB REF="16">All in this toun, he far excellis, I mene,</L>
+<L>Weill he forseis, how his estait may stand,</L>
+<L>And how he may an honest life sustene.</L>
+</LG>
+<LG>
+<L>His laud and praise, may planely be espyd,</L>
+<L>It daily growis, as we may weill persaue,</L>
+<L>With na man, he is hatit or inuyd,</L>
+<L>By iust occasioun hatrit to consaue:</L>
+<L>Howbeid of ritches, he aboundance haue,</L>
+<L>Yit pride into his persoun hes na place,</L>
+<L>For PAMPHILVS, surpassis all the laue,</L>
+<L>Baith for his ritches, and his reuerent grace.</L>
+</LG>
+<LG>
+<L>Now GALATHEA, I will tell to the,</L>
+<L>I wald he war your husband maist derect,</L>
+<L>Gif ye war wise, or culd your weill forse,</L>
+<L>Ye wald desire, the same to take effect:</L>
+<L>Howbeid my selfe, that marage wald erect,</L>
+<L>Yit he himselfe, the same dois not consider,</L>
+<L>Into my iudgement, surely I suspect,</L>
+<L>That ye and he, ane meit match war togither.</L>
+</LG>
+<LG>
+<L>Your kin, your clan, and clament naturis kind,</L>
+<L>Togither with your bewties quhilk I se,</L>
+<L>Makis me consent, and thinke into my mind,</L>
+<L>That ye war meit, togither baith to be:</L>
+<L>We baith driue ouer, and tins the tyme trewly,</L>
+<L>With idill wourdis, quhilk we may be without,</L>
+<L>Ane small occasioun, oftimes is the Kie,</L>
+<L>That opins mirth, and makis the same spring out.</L>
+</LG>
+<LG>
+<L>Ane ingill gret, with mekill fire and low,</L>
+<L>Will oft proceid, bot of ane litle spaill,</L>
+<L>Ane small beginning, engenders and gars grow,</L>
+<L>Maist waichtie maters, of a gret auaill:</L>
+<L>For to reuolfe in mind, I did not faill,</L>
+<L>The inwart mening of thir things prolix,</L>
+<L><PB REF="16">In tyme quhen we suld had our purpos haill,</L>
+<L>With wane consaitis the same we suld not mix.</L>
+</LG>
+<LG>
+<L>Gif in your mynd, na motioun yit be wrocht,</L>
+<L>Nor in your hart, to bring this blok till end,</L>
+<L>Quhidder It pleis you, or it pleis you nocht,</L>
+<L>Tell furth the truthe, and speik quhat ye pretend:</L>
+<L>And thairfoir tell, quhat purpos ye intend,</L>
+<L>For na man sall, your sacreitis vnderstand,</L>
+<L>I ether sall consceil, or mak it kend,</L>
+<L>As it sall pleis you, for to gif commaund.</L>
+</LG>
+<LG>
+<L>Stur not for till expel, this schame prophane,</L>
+<L>Out of thy hart and mynd, that it may be,</L>
+<L>Only this schame, proceidis I mak you plane,</L>
+<L>Of rurall vse, and rusticalitie.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Galathea speikis to Anus.</HEAD>
+<LG>
+<L>RVdnes is not the caus, and circumstance,</L>
+<L>Nor yit dast schame makis to stay indeid,</L>
+<L>Bot in my mynd, I maruel and I pance,</L>
+<L>Quhairfra, your talk and speiking suld proceid:</L>
+<L>I muse quhat caus, hes enterd in your heid,</L>
+<L>To cum to me&punc; sic prasis to proclame,</L>
+<L>Or gif that he hes promisid you gud deid,</L>
+<L>To speik so largely, in his laud and fame.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Anus speikis to Galathea</HEAD>
+<LG>
+<L>THe faltis quhilk wikit men dois interprise,</L>
+<L>Impedis the deids of just men this is sure,</L>
+<L>Oft tymes a man sustenes, and vnderlyis,</L>
+<L>That pane the quhilk, his falt did not procure:</L>
+<L>Albeid that I be indigent, and pure,</L>
+<L>I seik not sic rewardis, my pains to pleis,</L>
+<L>The present purtethe, quhilk I do indure,</L>
+<L><PB REF="17" MS="y">Contentis my mind, and sets the same at eis.</L>
+</LG>
+<LG>
+<L>Fra the beginning, sen this block hes bene,</L>
+<L>My mind consauid, how maters suld apeir,</L>
+<L>Thair na man knawis, quhat talk, is vs betwene,</L>
+<L>The giltie man, is not beside to heir:</L>
+<L>This is sufficient, thairfore tak na feir,</L>
+<L>Gif ye war baith, in wedlock bed at hame,</L>
+<L>Then of this block, ye micht the burding beir,</L>
+<L>Without reproch, ignominy, or schame.</L>
+</LG>
+<LG>
+<L>Honest is he, and nobill thair withall,</L>
+<L>Into that samin stait, ye are aricht,</L>
+<L>Your ofspring and your first originall,</L>
+<L>Is kend to me, for I can count thame richt:</L>
+<L>His nichbours he excellis in bewtie bricht,</L>
+<L>And likwais ye excell aboue the laue,</L>
+<L>Bewtie with bewtie, well agreis in sicht,</L>
+<L>And plesant to the parties to persaue,</L>
+</LG>
+<LG>
+<L>In age and geir alike, God hes you blist,</L>
+<L>Quhilk is ane caus, this mater to compleit,</L>
+<L>In cace the common brute, the samin wist,</L>
+<L>Thay wald esteeme the marage to be meit:</L>
+<L>Sen ye are like in properties contreit,</L>
+<L>With richt and law, ye may be ioynd togither,</L>
+<L>Betwixt you baith, thair na thing is forleit,</L>
+<L>Bot onely lufe, as we may weill consider.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Galathea answers to Anus.</HEAD>
+<LG>
+<L>COncerning the conditioun ye requier,</L>
+<L>First to my frends, it suld bene tauld indeid,</L>
+<L>By quhois consent and counsall I desier,</L>
+<L>That this my marage fordwart suld proceid:</L>
+<L>Then speik thy selfe, this mater to remeid,</L>
+<L>Or els, let PAMPHIL speik, thair mind to heir,</L>
+<L><PB REF="17">Swa, sall the purpose cum the better speid.</L>
+<L>And in the end, mair plesant sall apeir.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Anus speakis to Galathea.</HEAD>
+<LG>
+<L>TO haue your frends consent, it dois behoue,</L>
+<L>Before ye enter into that estait,</L>
+<L>Bot in the mene time, furious flams of lufe,</L>
+<L>Burns vp his breist, and haulds him at debait:</L>
+<L>Ingenious lufe, steirs vp ane new consait,</L>
+<L>Into the hartis of young adolescentis,</L>
+<L>Sic as delites to studie in that rait,</L>
+<L>May lessouns leir, concerning sic intentis.</L>
+</LG>
+<LG>
+<L>This steirs vp mindis, gret gifts to dele and skair,</L>
+<L>Bot greid and auarice, it dois plane displeis,</L>
+<L>It fallow is mirth and blithnes euer mair,</L>
+<L>Bot be the contrar, it from sadnes fleis:</L>
+<L>Na man can tell, pretend him as he pleis,</L>
+<L>How mutch the vse of VENVS dois thame gud,</L>
+<L>Ecept thou condiscend, to thir decreis,</L>
+<L>Thou sall be reput rusticall and rud.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Galathea answers to Anus.</HEAD>
+<LG>
+<L>ANe Damisell dois tine hir honour cleane,</L>
+<L>In VENVS gamis, fra time sche schance to mel,</L>
+<L>This ingent furie, and madnes as I mene,</L>
+<L>Can haif na rewl or resoun of it sell:</L>
+<L>The violent wapins, of king Cupid fell,</L>
+<L>Hes na licht burdene as your selfis may se,</L>
+<L>And damisellis ay, dreids the truth to tell,</L>
+<L>With thir strang wapins, vinqueist for to be,</L>
+</LG>
+<LG>
+<L>Brute quhiles, with accusatioun will inquire,</L>
+<L>Ane Damisell, quho dois deserfe na wite,</L>
+<L>Inuy and malice, eaten vp in Ire,</L>
+<L><PB REF="18">Takis neuer rest all staitis for to bakbite:</L>
+<L>Your awin petitioun, I suld sone acquite,</L>
+<L>War not the comoun sclander, quhilk I feir,</L>
+<L>Quhilk sclander oft procuris ane grit dispite,</L>
+<L>And makis the parteis objectis till apeir.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Anus speakis to Galathea.</HEAD>
+<LG>
+<L>THe richtuous brute takis mekil force and strenth,</L>
+<L>and the effects, maist viuely dois display,</L>
+<L>For veritie, sall ay preuail at lenth,</L>
+<L>Bot wrangous brute, sall peresch and decay:</L>
+<L>The comoun sclander, I sall stenche and stay,</L>
+<L>And all your cair, and feir I sall abstract,</L>
+<L>Ye and your spots, sall clokit be I say,</L>
+<L>Be craft and moyen, quhilk I sall you mak.</L>
+</LG>
+<LG>
+<L>Of VENVS vse, I vnderstand the cure,</L>
+<L>Hir craft I ken, and can the same define,</L>
+<L>Swa, sall the mater be maid saif and sure,</L>
+<L>Quhilk is deuisid and wrocht be my ingine:</L>
+<L>Counsall me how, my wourdis I suld incline,</L>
+<L>To speik to PAMPHIL, quhen I se him sell,</L>
+<L>That I may speik my wourdis the surer sine,</L>
+<L>Quhilk ye before, informd me for to tell.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Galathea speakis to Anus.</HEAD>
+<LG>
+<L>IFeir to you, for to confes my cace,</L>
+<L>Or yit, my secreit counsaill to declair,</L>
+<L>For falset so abidis in euery place,</L>
+<L>That folkis are oft tane captifis in the snair:</L>
+<L>Yit sall I say, postponing all dispair,</L>
+<L>Thy faith and toung, quhairwith thou dost procure,</L>
+<L>To quhat intent, thy crafty art and cair,</L>
+<L>Mot me seduce, with fair wourdis till allure.</L>
+</LG>
+<LG>
+<PB REF="18" MS="y">
+<L>Oft times I say, se thou him vrge and pres,</L>
+<L>With sic assalts, as he may not repell,</L>
+<L>Perchance himselfe, to the sal say no les,</L>
+<L>Nor I haif said, in presence of thy sell:</L>
+<L>Pas hence thy way, and in this mater mell,</L>
+<L>Discreit and warly, I will the beseik,</L>
+<L>That on the morne, thou may declair and tell,</L>
+<L>Sic wourds, as it sall schance him for to speik.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Anus speakis to Pamphilus.</HEAD>
+<LG>
+<L>LAbour and hope, we may persaue indeid,</L>
+<L>That mony men oft times it dois desaue,</L>
+<L>Now PAMPHILE, the mater cums not speid,</L>
+<L>Quhilk thou and I, baith wischis fain to haue:</L>
+<L>Ye war ouer slaw, my counsall for to craue,</L>
+<L>The time is tint, till make remeid to you,</L>
+<L>Becaus the craft and cunning quhilk I haue,</L>
+<L>Can profite nathing to support you now,</L>
+</LG>
+<LG>
+<L>As maters schaws, and plainly dois declair,</L>
+<L>Fair GALATHIS marage is aprotchen neir,</L>
+<L>I muse quhat clething can be makand thair,</L>
+<L>Hame in hir hous, agains that day to weir:</L>
+<L>Ane hundreth causis euident and cleir,</L>
+<L>Makis me suspect this mater to be sure,</L>
+<L>Yit nocht the les, thocht all thir things apeir,</L>
+<L>Hir Parents keipis it secreit and obscure.</L>
+</LG>
+<LG>
+<L>Marke weill my wourdis, se thou thame not foryet,</L>
+<L>And way thame wisely in thy mind I mene,</L>
+<L>Seik neuer that, the quhilk thou may not get,</L>
+<L>Bot seik thou that, the quhilk thou may obtene.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Pamphilus answers to Anus.</HEAD>
+<LG>
+<L>ALas, how faids my strenth and strang estait,</L>
+<L>That wont beforn vnto my corps aply,</L>
+<L><PB REF="19">My body now is brocht to sic estait,</L>
+<L>That mind and toung, thair seruice dois deny:</L>
+<L>I catif man, lichtly regardit by,</L>
+<L>Hes tint my strength, quhilk na man can restore,</L>
+<L>Eitch of my members, as ye may espy,</L>
+<L>Denies thair dewties, done to me before.</L>
+</LG>
+<LG>
+<L>My hope hes hurt me, far by mine intent,</L>
+<L>By hope, lufe to my bains hes stucken sure,</L>
+<L>Hope is decaid, and far away is went,</L>
+<L>Yit firie flamis, with me dois still indure,</L>
+<L>The sails quhairwith, my schip suld fordwart fure,</L>
+<L>Can find na port, quhairin to be reset,</L>
+<L>Nor yit my ancor, quhilk suld me assure,</L>
+<L>Into the awin ground, can na entres get.</L>
+</LG>
+<LG>
+<L>My cair is na wais certaine, quhat to do,</L>
+<L>Nor quhair to seik, the awin support or rest,</L>
+<L>For GALATHEA is the onely scho,</L>
+<L>That may remeid, my cair and dolour best:</L>
+<L>Sche is the caus, and wite, as ye may trest,</L>
+<L>Of helth and life, belanging vnto me,</L>
+<L>Quhome, gif I get not, plainely I protest,</L>
+<L>Into displeasour, I will duyne and die.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Anus answers Pamphilus.</HEAD>
+<LG>
+<L>DAft PAMPHILE, quhat madnes mouis thy heid?</L>
+<L>Or quhat the mouis, so sore for to complene,</L>
+<L>Thy murning teirs, can make the na remeid,</L>
+<L>Nor na rewardis, thairby thou can obtene:</L>
+<L>Lat modestie and wisedome the sustene,</L>
+<L>And gyde thy teirs, but farther brute or din,</L>
+<L>From farther teirs, I pray the purge thy ene,</L>
+<L>And wisely way, quhat thou may do thairin.</L>
+</LG>
+<LG>
+<L>Quhiles pouerty espiers vpon pretence,</L>
+<L><PB REF="19" MS="y">Ane michtie spreit, to make the awin remeid,</L>
+<L>For oftimes purteth, and gret indigence,</L>
+<L>Makis ane maist cunning craftsman, into neid:</L>
+<L>The cairfull craft of man, cums oftimes speid,</L>
+<L>Orecumming perrils, tending to gret tort,</L>
+<L>Perschance your cair, and deligent craft indeid,</L>
+<L>Into the mater, may you yit support.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Pamphilus speikis to Anus.</HEAD>
+<LG>
+<L>QVhat pain allas, now can orecum at last,</L>
+<L>This michty perrill, of it selfe so grand,</L>
+<L>My hope and esperance, perischis maist fast,</L>
+<L>Seing hir day of marage, is at hand:</L>
+<L>Sche will not marry me, thocht I command,</L>
+<L>So lang as hir gudman, with life is led,</L>
+<L>The crime is odious, as I vnderstand,</L>
+<L>For to polute or file the lawfull bed.</L>
+</LG>
+<LG>
+<L>The trauell, quhairinto I did confide,</L>
+<L>Is brocht to nocht, but ony finell end,</L>
+<L>My cair hes lost, the hail support and ayd,</L>
+<L>Of the awin cair, quhairon it did attend:</L>
+<L>No nicht nor day, sall succour to me send,</L>
+<L>Nor grant me rest, my helth for to restore,</L>
+<L>I catif man, am troublit to the end,</L>
+<L>With lufe innane, quhilk me molestis maist sore.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Anus speakis to Pamphilus.</HEAD>
+<LG>
+<L>OFt times, gret dolour cesis and grows les,</L>
+<L>Intill ane schort time, as apeirs maist plane,</L>
+<L>Gret blastis of wind, dois minisch and decres,</L>
+<L>Be vertew of ane sobur schour of rane:</L>
+<L>Ane fair day is excepit to remane,</L>
+<L>Efter scharp schours, and blaistis that be so rud,</L>
+<L>And helth is als, exceptabill agane,</L>
+<L><PB REF="20">Efter sore sicknes, and gret egritude.</L>
+</LG>
+<LG>
+<L>Ane wantoun curage, thou neidest now resaue,</L>
+<L>All dolour and anger, far fra you mot bide,</L>
+<L>Gret mirth and ioy, in mind thousall consaue,</L>
+<L>Quhilk mot remoue thy sadnes all aside:</L>
+<L>In GALATHAE, this mutch thou may confyd,</L>
+<L>Thy haill desire, sche na wais will gainstand,</L>
+<L>Sche hes giuin ouer hirselfe to me to gyd,</L>
+<L>Sche is so subiect vnto my command.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Pamphilus answers to Anus.</HEAD>
+<LG>
+<L>ASlouing mothers, with gret craft and skeill,</L>
+<L>Makis false promits, with flatring wourds &amp; fair</L>
+<L>Admonising thair children to be still,</L>
+<L>And not to greit, nor for to murne na mair:</L>
+<L>Perchance, the counterpane, ye wald prepair,</L>
+<L>With feinit comfort, me to feid and feist,</L>
+<L>That dolour micht remaine with me na mair,</L>
+<L>Bot suld depart out of my cairfull breist.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Anus answers Pamphilus.</HEAD>
+<LG>
+<L>ANe sillie foul, that hes escapit neir,</L>
+<L>From the halkis clukis, that gredy is but grace,</L>
+<L>This foul heirefter ay remainis in feir,</L>
+<L>Dreding, that he suld hant in euery place,</L>
+<L>Nocht hes me mouid, my tail for to disgrace,</L>
+<L>To lie to you, in ony kind of kew,</L>
+<L>That quhilk I haif declaird into this cace,</L>
+<L>Sall ay be found, baith vpright, trest and trew.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Pamphilus speakis to Anus.</HEAD>
+<LG>
+<L>GIf that ye tell, the veritie to me,</L>
+<L>And that sche likwais, sic things did confar,</L>
+<L><PB REF="20">The dolour quhilk I presently do drie,</L>
+<L>Out of my mynd sall be remouid rycht far:</L>
+<L>Oftimes the end of maters, stikis a star,</L>
+<L>And fallous not, the awin begining frake,</L>
+<L>Fortune I say, so kit till is and skar,</L>
+<L>The wark begun, sche hynders and putis bake.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Anus answers to Pamphilus</HEAD>
+<LG>
+<L>NA mynd of man, is abill to intent,</L>
+<L>The fatall cours of destaine to foreschaw,</L>
+<L>It proper is to God omnipotent,</L>
+<L>The future things, for till declair and schaw:</L>
+<L>For to dispair, gret hurt, it dois ondraw,</L>
+<L>Botident labor, gettis the haill desire,</L>
+<L>Ane walkrife craft, with diligence ye knaw,</L>
+<L>Prouidis mutch ritchis, with gret welth and hire.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Pamphilus speakis to Anus.</HEAD>
+<LG>
+<L>HOpe, vnder doutfull schance, dois fleit and flow,</L>
+<L>Vnder the same, all thingis we do resaue,</L>
+<L>Yit not the les, hope dois acres and grow,</L>
+<L>Vnder ane gud beginning, I persaue:</L>
+<L>Can ye not ken, nor na cognoscens haue,</L>
+<L>Quhither that sche dois lufe me ill or weill,</L>
+<L>Lufe, scarse can hide, or quietly behaue,</L>
+<L>The inwart hart, the quhilk it suld conseill.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Anus speakis to Pamphilus.</HEAD>
+<LG>
+<L>QVhen vnto hir, of you report I mak,</L>
+<L>Hir mynd and will, I find to be discreit,</L>
+<L>Vnto my talk, sche dois atter dence tak,</L>
+<L>In modrat maner, quhilk apeiris maist sweit:</L>
+<L>With tender wourds, sche dois me ay intreit,</L>
+<L>And me imbraces, round about the neck,</L>
+<L><PB REF="21">Requeisting me, for to tell and repeit,</L>
+<L>Those wourdis, the quhilk ye till hir did derect,</L>
+</LG>
+<LG>
+<L>Quhen that occasioun, can it self present,</L>
+<L>To nominat your name, in ony sort,</L>
+<L>Sche standis into ane gret astonisment,</L>
+<L>Quhen of the samyn, sche dois heir report:</L>
+<L>And quhen of you, we chance to speik or sport,</L>
+<L>Quhillis sche growis rid, quhilis pail, as sche wer seik,</L>
+<L>Quhen I keip silence, sche will me exort,</L>
+<L>And me command, that I againe suld speik.</L>
+</LG>
+<LG>
+<L>Be thir conditiouns, I consider best,</L>
+<L>And kens hir lufe, how that it is menteind,</L>
+<L>To me sche hes baith grantit, and confest,</L>
+<L>That sche to you, is ane maist faythful frend.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Pamphilus speikis to Anus.</HEAD>
+<LG>
+<L>MY hope and esperance, now persauis and seis,</L>
+<L>By you, that my gud fortoun did befall,</L>
+<L>My hapines growis vp, and fructifeis,</L>
+<L>By your assistance, and suport withall:</L>
+<L>Maist doutsum actis, that be both gret and tall,</L>
+<L>By labour gret, ar stop and stayd we se,</L>
+<L>Ane Idil craft, makis bot ane wantage small,</L>
+<L>And bringis bot in, ane clane commoditie.</L>
+</LG>
+<LG>
+<L>Haist and auance, in so far as thou may,</L>
+<L>The wark begun, quhilk yet in hasert stikis,</L>
+<L>That na sueir tarie, thy turne stop or stay,</L>
+<L>Quhilk may delay, or yet the same prolix.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Anus answers Pamphilus.</HEAD>
+<LG>
+<L>AS I beleiue, behauld before the strecht,</L>
+<L>Your hail desier, quhilk is prepard I mene,</L>
+<L>Bot yet the thing, quhilk ye vnto me hecht,</L>
+<L><PB REF="21">Remains in dout, gif it I sall obtene:</L>
+<L>Oft tymes our myndis, ganestands, &amp; contrairs clene,</L>
+<L>That quhilk we speik, and plainly dois expres,</L>
+<L>We fallow not our deids, as may be sene,</L>
+<L>Conforme vnto the promeis we profes.</L>
+</LG>
+<LG>
+<L>Fals promissis, begillis the gyft and hyer,</L>
+<L>Of work quhilk suld be sauld, and changit sine,</L>
+<L>Quhen ye grow ritche, and gettis your haill desier,</L>
+<L>Perchance with na thing, ye will me propyne.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Pamphilus answers to Anus</HEAD>
+<LG>
+<L>TO ane ritch man, it is ane falt maist vile,</L>
+<L>To trumpe ane pure man, of his gift and clame,</L>
+<L>Gif of your salire, I suld you begile,</L>
+<L>To be vnhonnest, I suld win ane name:</L>
+<L>The wourdis quhilk I, out of my mouth did frame,</L>
+<L>You nor na vther, na tyme hes disauid,</L>
+<L>Quhen that ye pleis, to speir my brute and fame,</L>
+<L>Into the same, na spote sall be persauid.</L>
+</LG>
+<LG>
+<L>My faith is constant, still for til indure,</L>
+<L>And als my promeis, vpricht and senceir,</L>
+<L>Quhilk faith anexis, and makis those thingis sure,</L>
+<L>Quhilk to be vnperformd, ye dreid and feir.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Anus speakis to Pamphilus.</HEAD>
+<LG>
+<L>THe common pepill feirs, be the ingins,</L>
+<L>Of michtie men, orecumid and tane to be,</L>
+<L>The pure mans richt, oftimes fallis doun and tins,</L>
+<L>Throw small support, and wanting of supplie:</L>
+<L>Faith in all pairts, is spoild as ye se,</L>
+<L>Of hir fair hew, and colour of pleasant price,</L>
+<L>Quhilk couert is, with mony craftis so slie,</L>
+<L>All subiect vnto wickidnes and vice.</L>
+</LG>
+<LG>
+<PB REF="22">
+<L>Na chance or fortoun, may gainstand or weir,</L>
+<L>Agains the fatall destain from aboue,</L>
+<L>Oft times the Sea, puts mony folkis in feir,</L>
+<L>Yit not the les, na danger will thame moue:</L>
+<L>I will commit, to fortunis awin behoue,</L>
+<L>That gift the quhilk, ye did vnto me grant,</L>
+<L>Gif I haife promisd ony gift, forsuth,</L>
+<L>Yit not the les, the same, ye sall not want.</L>
+</LG>
+<LG>
+<L>It me behouis, from hence for to reteir,</L>
+<L>For till intise the las vnto this fact,</L>
+<L>Gif that it be hir plesour to cum heir,</L>
+<L>Ane quhile with you, for to confer and crak:</L>
+<L>Gif that the paine and trauell, quhilk I tak,</L>
+<L>Assembill you togither, se that than,</L>
+<L>As time may serue, and ye may moyen mak,</L>
+<L>Luke that ye do the dewtie of a man.</L>
+</LG>
+<LG>
+<L>The mindis of lufers, are ay out of rime,</L>
+<L>And bydis vnconstant presen till espier,</L>
+<L>Ane schort hour, or occasioun at ane time,</L>
+<L>May giue the that, the quhilk thou dois desire.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Anus speakis to Galathea.</HEAD>
+<LG>
+<L>ANe michty fire, can not remoue aside,</L>
+<L>The licht, quhilk from the flamis dois gleme &amp; sprout,</L>
+<L>Nather can VENVS occultat or hide,</L>
+<L>The awin desire, bot it behouis brek out:</L>
+<L>The ordour of your maters round about,</L>
+<L>To me are patent, as thame selfes apeirs,</L>
+<L>Of quhilk things, quhen in mind I think or dout,</L>
+<L>I scarcely can contene my selfe from teirs.</L>
+</LG>
+<LG>
+<L>I knaw perfitly, as it war perqueir,</L>
+<L>That ye twa lufis, not wisely nor derect,</L>
+<L>The maters selfe, makis manifest and cleir,</L>
+<L><PB REF="22">The awin daft, and fulisch vaine effect:</L>
+<L>The visage pale, declairs as I collect,</L>
+<L>The quiet lufe, quhairwith the hart is greuid,</L>
+<L>Baith hyd and hew, will alter and infect,</L>
+<L>Without the same, with labour be releuid,</L>
+</LG>
+<LG>
+<L>Pure PAMPHILVS remains maist catif now,</L>
+<L>In that estait, all hours abidis he so,</L>
+<L>With ansers hard, his hart is persit throw,</L>
+<L>That he molestit is, with greif and wo:</L>
+<L>Baith nicht and day, vnwisely he dois go,</L>
+<L>Wirken in wane, with labour all forlorne,</L>
+<L>Hard manurid land, deliuers not it fro,</L>
+<L>Gret store of seid, efter the same be schorne.</L>
+</LG>
+<LG>
+<L>Quha bot a mad man, of a wode degre,</L>
+<L>Will seminat his seid, into the sand,</L>
+<L>Wark vsis, mair acceptabill to be,</L>
+<L>Quhilk bringis the gift, with the reward in hand:</L>
+<L>Your bewtie first desaiuid him, quhilk he fand,</L>
+<L>And secondly, your toung so smooth and ticht,</L>
+<L>Stark lufe, hes woundit him, with Cupids brand,</L>
+<L>To wit, your lufe bot, and your bewtie bricht.</L>
+</LG>
+<LG>
+<L>Your helpe on him, ye promisd to bestow,</L>
+<L>Bot yit his maladie, ye did not meis,</L>
+<L>Quhairof, oft times sensine, on him did flow,</L>
+<L>The greter dolor, and the mair diseis:</L>
+<L>His sicknes wantis support, as all men seis,</L>
+<L>And paine augmentis, without remorse or rufe,</L>
+<L>Thocht ye your selfe, keip silence with gret eis,</L>
+<L>Yit are ye hurt, with firie flamis of lufe.</L>
+</LG>
+<LG>
+<L>Lufe quhilk is keipit secreit, and conceild,</L>
+<L>Bringis dolent deith, and als ane deidly hort,</L>
+<L>And lufe I mene, quhilk na wais is reueild,</L>
+<L>To baith your perfouns, perrill dois import:</L>
+<L><PB REF="23">Consider than, with mind delibrat schort,</L>
+<L>Quhat is your will, your mind for to content,</L>
+<L>That this your speich, quhilk to me ye report,</L>
+<L>May be ane takin, of your haill intent.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Galathea answers to Anus.</HEAD>
+<LG>
+<L>OFtimes, dame VENVS, thristis my corps maist pure</L>
+<L>With firie wapins, quhilk are maist seueir,</L>
+<L>And sche with strenth, prouidis me euer sure,</L>
+<L>Commanding me in lufe, to perseueir:</L>
+<L>Bot be the contrair, schamfastnes and feir,</L>
+<L>Bids me behaife me honestlie and weill.</L>
+<L>I being mouid, with thir twa things inteir,</L>
+<L>Of my awin counsall, I can haife na feill.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Anus speakis to Galathea.</HEAD>
+<LG>
+<L>FAr from thy mind, lat all this feir be tane,</L>
+<L>Thair is na caus, of feir the till offend,</L>
+<L>Considring, that thair sall be neuer nane,</L>
+<L>This mater to make manifest and kend:</L>
+<L>Now PAMPHILVS, dois daily him pretend,</L>
+<L>To be your husband, gif ye wald proceid,</L>
+<L>His cair and labour, halily is tend,</L>
+<L>How to performe this purpose intill speid.</L>
+</LG>
+<LG>
+<L>A thousand wais, behauiour schaws me more,</L>
+<L>The ardent luse, quhilk in him dois acres,</L>
+<L>Quhen he lamentis, with murning teirs maist sore,</L>
+<L>Thir wourdis to me he plainly dois expres:</L>
+<L>Sche is to me, baith dolour and distres,</L>
+<L>And als sche is remeder of my paine,</L>
+<L>Onely sche may, me wound I will confes,</L>
+<L>And quhen sche pleis, sche may me pance againe.</L>
+</LG>
+<LG>
+<L>The pitie, quhilk on PAMPHILVS I had,</L>
+<L><PB REF="23">Compeld my eis with teirs to be oprest,</L>
+<L>Yit not the les, I was reioysd and glad,</L>
+<L>Into my mind, with quietnes and rest:</L>
+<L>To se all things proceiding for the best,</L>
+<L>And as I wischit, the mater for to strike,</L>
+<L>I knew that ye, brunt baith into wanrest,</L>
+<L>With equall fire, inflaming you alike.</L>
+</LG>
+<LG>
+<L>The flame ay vsis, hurtfull for to be,</L>
+<L>Thairfoir, forse your selfis, now hereintill,</L>
+<L>Wald God, lufe wald commit you baith to me,</L>
+<L>Els at the leist, at my consent and will.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Galathea answers to Anus.</HEAD>
+<LG>
+<L>THat quhilk ye seik, I wisch with full intent,</L>
+<L>For in the warld, nocht deirer is to me,</L>
+<L>Prouiding baith, my Parents wald consent,</L>
+<L>And to the samin, condiscend and gre:</L>
+<L>I dare not do thir things, as ye may se,</L>
+<L>Nor yit, thay lie not in my hands alace,</L>
+<L>Howbeid, we twa, togither wald agre,</L>
+<L>Thair is no part conuenient for this cace.</L>
+</LG>
+<LG>
+<L>My mother, quho consauid me in hir wame,</L>
+<L>My keiper is, so mutch of me sche makis,</L>
+<L>And likwais all our family at hame,</L>
+<L>Baith nicht and day, attendence on me takis.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Anus speakis to Galathea.</HEAD>
+<LG>
+<L>IN genious lufe, with sic a force dois cum,</L>
+<L>It oppins ports, and clausters with a swak,</L>
+<L>Swa ardent lufe, dois vinqueis and orecum,</L>
+<L>All quhilk may hinder, or impeichment mak:</L>
+<L>Lat your vaine feir, fra you be put abak,</L>
+<L>And mend your barnly maners, maist prophane,</L>
+<L><PB REF="24">Sweit lufe exhortis you, iornie for to tak,</L>
+<L>Hame to my hous, with me for to remaine.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Galathea speakis to Anus.</HEAD>
+<LG>
+<L>YE are maid priuie, of my inwart hart,</L>
+<L>And als my secreit thochts, ye do resaue,</L>
+<L>Ye are the portioun, and the gretest part,</L>
+<L>Of this my counsail, quhilk I do consaue:</L>
+<L>I the exhort, and als of the I craue,</L>
+<L>Thy faithfull counsail, for to giue so fre,</L>
+<L>So that heirefter, thou na schame may haue,</L>
+<L>In giuing consultatioun vnto me.</L>
+</LG>
+<LG>
+<L>Before the Lord, it is a greuous sin,</L>
+<L>For to disaue pure virgins with defame,</L>
+<L>For be thy counsail, thou may honour win,</L>
+<L>And be the same, thou may resaue gret schame.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Anus speakis to Galathea.</HEAD>
+<LG>
+<L>IShameles wife, sall couer and cast by,</L>
+<L>The sclandrous brute, that hereon may ensew,</L>
+<L>My doings sall auow, and not deny,</L>
+<L>The counsall quhilk, I to you gaue so trew:</L>
+<L>Gif ony man wald to me haue reskew,</L>
+<L>Or yit agains me argument sustene,</L>
+<L>Than lat him speik, and plainly me persew,</L>
+<L>Gif in this mater, I haue hurtfull bene.</L>
+</LG>
+<LG>
+<L>And lat him cum, with all his haill ingine,</L>
+<L>With all his force, to striue agains me strang,</L>
+<L>That being win, he may keip silence sine,</L>
+<L>Or els away with victorie to gang:</L>
+<L>Incontinent, gud resoun vs amang,</L>
+<L>Mot make him sone, to me to condiscend,</L>
+<L>Swa, that be resoun, he mot speik na wrang,</L>
+<L><PB REF="24">Nor in my contrair, na wais to contend.</L>
+</LG>
+<LG>
+<L>He is baith gud, and of gret clan I say,</L>
+<L>And very ritch, as ye may heir report,</L>
+<L>Sweit lufe I mene, and amitie for ay,</L>
+<L>Mot be ane part, of our helpe and support:</L>
+<L>The fame mot be maid still for to be schort,</L>
+<L>Togither with ill brute, quhilk bringis a blame,</L>
+<L>This mater hes, the awin way and resort,</L>
+<L>Without respect of oprobrie or schame.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Galathea answers to Anus.</HEAD>
+<LG>
+<L>IN how faill parts, O God that sits abufe,</L>
+<L>Are lufers mindis, transportit euer mair,</L>
+<L>Quhilk mindis with feir and firie flamis of lufe,</L>
+<L>Baith to and fro, are tostit heir and thair:</L>
+<L>Thir diuers troubils, driuis me to dispair,</L>
+<L>And nicht and day, dois put me out of tone,</L>
+<L>That thing, quhilk lufe likis best, with earnest cair,</L>
+<L>That thing, vaine feir, forbids for to be done.</L>
+</LG>
+<LG>
+<L>It na wais waits, quhat it suld titest do,</L>
+<L>Into the wrang way, wauering far agast,</L>
+<L>It ers and wauers, and throw wauering to,</L>
+<L>It nutrefies the wound of lufe at last:</L>
+<L>Lufe me subdews, vnto it selfe maist fast,</L>
+<L>Agains the same, albeid I striue and stray,</L>
+<L>Lufe burns me vp, with mony biter blast,</L>
+<L>The mair that I the samin disobay.</L>
+</LG>
+<LG>
+<L>I vexit am, and with wo wereit eik,</L>
+<L>With wark inane, quhilk dois my body greiue,</L>
+<L>All wobegone, this meikill I will speik,</L>
+<L>I rather die, nor in this stait to leiue:</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<PB REF="25">
+<HEAD>Anus speakis to Galathea.</HEAD>
+<LG>
+<L>LIke as the greter fier will adres,</L>
+<L>And be the motioun of it selfe arise,</L>
+<L>And as the greter anger will acres,</L>
+<L>VENVS gainstanding to thair interprise:</L>
+<L>Swa VENVS, hurtfull till hir awin asise,</L>
+<L>With hir awin weir, vprises to make tene,</L>
+<L>And nurischis the woundis, efter hir gise,</L>
+<L>Strife, being maid agains hir selfe I mene.</L>
+</LG>
+<LG>
+<L>Ye may not than, with weir as ye may se,</L>
+<L>Extingueis or put out the flamis that fleis,</L>
+<L>Your fier sall, the mutch mair meker be,</L>
+<L>Conioynd with pece, the samin for to meis:</L>
+<L>Obay dame VENVS, in hir haill decreis,</L>
+<L>Quhile as ye are hir weriour keipit clos,</L>
+<L>That all your strife and labour of waneis,</L>
+<L>Redound not to your domage, skaith and los.</L>
+</LG>
+<LG>
+<L>Daft woman, quhy do ye so rashly go,</L>
+<L>To tine your life, all plesours til expell,</L>
+<L>The hurtfull error, ocupeis you so,</L>
+<L>Destroying baith your bodie, and your sell:</L>
+<L>The visage of your frend ye spie and spell,</L>
+<L>Howbeid, that he be absent out of place,</L>
+<L>And he no les in mind, as I heir tell,</L>
+<L>Baith nicht and day, behaulds your fragrant face.</L>
+</LG>
+<LG>
+<L>Ilk ane of you, till vther makis a sing,</L>
+<L>Setting your eis, ane in the vthers face,</L>
+<L>Quhilk thing, sal deith, to baith your persouns bring</L>
+<L>Belang delay, prolonging time and space:</L>
+<L>I trow ye trauell lichtly, bot alace,</L>
+<L>This cairfull mater, for to meis and mend,</L>
+<L>Bot cruell deith, sall cum and cut this cace,</L>
+<L><PB REF="25">And to your strife, sall schortly put ane end.</L>
+</LG>
+<LG>
+<L>Into thy youth, tak vp ane wantoun tred,</L>
+<L>And all thy flechly pleasours, se thou feid,</L>
+<L>Blythe hairtis, with blythenes aucht for to be fed,</L>
+<L>For it becums, so for to do indeid:</L>
+<L>Cum you allone, and play with me in speid,</L>
+<L>Ane litill space, your spreit for to renewe,</L>
+<L>Hame in our hous, ye sall haif meikill meid,</L>
+<L>Quhair nutis, and apillis, ye sall get anewe.</L>
+</LG>
+<LG>
+<L>My hous wes neuer emptie, yet of meit,</L>
+<L>Nor yit of frute, for to gif folkis thair fill,</L>
+<L>Quhairof ye bauldly, may injoy or eit,</L>
+<L>At your awin plesour, apetite and will:</L>
+<L>Quhat man is yon, that knokis so stoutlie still,</L>
+<L>And mouis our duris, with duntis, and callis so kene,</L>
+<L>It wes a man or ellis the wind so schill,</L>
+<L>Bot I belief, that it sum man hes bene.</L>
+</LG>
+<LG>
+<L>Behauld it is a man, as I consaue,</L>
+<L>Out at ane hole, he spyis vs wondrous leil,</L>
+<L>Now PAMPHILVS, it is as I persaue,</L>
+<L>As be his visage, I ken wondrous weill:</L>
+<L>The lock he opins, with gret craft and skeill,</L>
+<L>And pece and pece the same, with force dois prime,</L>
+<L>Intill vs heir, he quyetlie can steill,</L>
+<L>I speik na mair, now at this present tyme.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Anus speakis to Pamphilus.</HEAD>
+<LG>
+<L>O Furious man, quhy ar ye bent and boun,</L>
+<L>To brek the zettis, of thir our houses heir,</L>
+<L>With violence, our duris quhy brek ye doun,</L>
+<L>Quhilk with my money, I haif coft so deir:</L>
+<L>Quhat wald ye, or quhois message do ye beir,</L>
+<L>Or quhat comissioun, bring ye, speik it plane,</L>
+<L><PB REF="26">Gif ye haife ony thing to speik or speir,</L>
+<L>Speik haistily, and you returne againe.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Pamphilus heir imbracis Galathea.</HEAD>
+<LG>
+<L>O GALATHAE, aboue all things I say,</L>
+<L>Thou art my helth, quhilk to me dois belang,</L>
+<L>Gif me ane thousand kisses, I the pray,</L>
+<L>Sen for thy lufe, I lukit haife so lang:</L>
+<L>My ardent lufe, sall not decay nor gang,</L>
+<L>Throuch kisses, that betwixt vs twa hes bene,</L>
+<L>B<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter"> sall grow, the starker and mair strang,</L>
+<L>Be plesant plais, and merry mowis, I mene.</L>
+</LG>
+<LG>
+<L>Behold I do imbrace, with stomack stout,</L>
+<L>My haill delite, and plesour maist compleit,</L>
+<L>And als I do complex, the corps about,</L>
+<L>Of my trew lufe, to me maist deir and sweit:</L>
+<L>Ane happie chance, maid me with you to meit,</L>
+<L>Gud fortoun als, my footsteps did adres,</L>
+<L>For quhy, this place, conteinis the thing contreit,</L>
+<L>Quhilk I lufe best, ouer all things mair or les,</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Anus speakis to Galathea.</HEAD>
+<LG>
+<L>MY nichbour me incallis, as you may heir,</L>
+<L>I will hir speik, and sine returne richt snell,</L>
+<L>For grittumlie forsoth, I dreid and feir,</L>
+<L>That to my hous, sche sall cum in hir sell:</L>
+<L>I do draw neir, quhat gars you cry so fell,</L>
+<L>I steik the dures, that I may fordwart fure,</L>
+<L>Nane heir remains, the truth to you I tell,</L>
+<L>Except the hous it selfe, I you assure.</L>
+</LG>
+<LG>
+<L>The turns me stops, quhilk I am subiect to,</L>
+<L>Tell quhat ye wald, thocht it be richt or wrang,</L>
+<L>Sic bissines and turns, I haife ado,</L>
+<L><PB REF="26">Far gait with you, indeid I may not gang.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Pamphilus speakis to Galathea.</HEAD>
+<LG>
+<L>BEhold how lufe so hiely dois exceid,</L>
+<L>Young plesant plant, maist prudent and perfite,</L>
+<L>Constraining vs to foster, and to feid,</L>
+<L>Our hairtis with sportis, and plais of gret delyte,</L>
+<L>Behold how wantoun VENVS, hes the wyte,</L>
+<L>Compelling vs, hir plesours till espier,</L>
+<L>And vs commandis, to tak our apetite,</L>
+<L>Into that thing, quhilk lufers dois desier.</L>
+</LG>
+<LG>
+<L>Quhy stay I now, and thairfore to be schort,</L>
+<L>My humble sute, gif gud atendence to,</L>
+<L>And I maist ernestlie, will you exhort,</L>
+<L>To tak in patience, that quhilk I will do.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Pamphilus warsling with Galathea, Galathea spake thir wourdis.</HEAD>
+<LG>
+<L>NOw PAMPHILE, hald vp your handis with speid,</L>
+<L>In vane ye baith, molest your self and me,</L>
+<L>For quhy, this labour, dow na thing indeid,</L>
+<L>That quhilk thou seikis, can na wayis grantit be:</L>
+<L>Hald vp your handis, or we wil disagre,</L>
+<L>Your Leman ye comoue, to wrath and ier,</L>
+<L>The auld wife will returne, I tell to the,</L>
+<L>Thairfore halde vp thy handis, I thee desier.</L>
+</LG>
+<LG>
+<L>Allace how litle force, now sall ye find,</L>
+<L>In wemenkind, quhois banis ar no wayis wicht,</L>
+<L>Behauld how lichtlie, ye do knit and bynd,</L>
+<L>My sillie handis, quhilk hes na strenth nor micht:</L>
+<L>Quhy trumpe ye me, with subtiltie and slicht,</L>
+<L>And with your breist, my tender breist dois hurt,</L>
+<L><PB REF="27">The crime is grit, gif it wer countit richt,</L>
+<L>That ye suld gyd, me intil sic a sort.</L>
+</LG>
+<LG>
+<L>Ceis, or I sall caus you to be persauid,</L>
+<L>And schaw, how ye haif drest me in this cace,</L>
+<L>The wikit auld wife, falsely hes desauid,</L>
+<L>Me wretchit woman, wobegone allace:</L>
+<L>Our nix nychbour, bot fra vs litill space,</L>
+<L>Heirs all our strife, and purpos maist prophane,</L>
+<L>The wikit wife, that pat me in this place,</L>
+<L>Hes me disauid, wo with her wikit trane.</L>
+</LG>
+<LG>
+<L>I in this place, na longer will repair,</L>
+<L>Nor yet it sal, our bodies bayth contene,</L>
+<L>The auld wife sal not, me disaue na mair,</L>
+<L>As sche hes done, by hir disaitful mene:</L>
+<L>Ye wil be victor, and your will obtene,</L>
+<L>Albeid agains you, I baith striue and stray,</L>
+<L>Yit not the les, our lufe decay sall clene,</L>
+<L>And broken be, betwixt vs twa for ay,</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Pamphilus speikis to Galathea.</HEAD>
+<LG>
+<L>IT vs behouis, from farder to decist,</L>
+<L>And to repose heir soliter alane,</L>
+<L>That we may draw our endis at lenth and list,</L>
+<L>Efter the renk and iorny we haue tane:</L>
+<L>Your angrie eis, and visage wobegane,</L>
+<L>Quhy schaw ye me, and will on na wais meis,</L>
+<L>Your face, quhy wesch ye, making sic a mane,</L>
+<L>With bitter teirs distelling from your eis.</L>
+</LG>
+<LG>
+<L>The wite and blame, of all this crime I beir,</L>
+<L>Correct me than, as ye your selfe desire,</L>
+<L>And lat my punishment, be mair seueir,</L>
+<L>Nor my deseruing, dewly dois require:</L>
+<L>I am content, for to sustene the hire,</L>
+<L><PB REF="27">Quhat punishment ye pleis on me to mak,</L>
+<L>And yit this deid, I na wais did conspire,</L>
+<L>For I wes witles of this crime and fact.</L>
+</LG>
+<LG>
+<L>And gif ye please, lat vs passe as we can,</L>
+<L>Before sum iudge, quhair we may iustice haue,</L>
+<L>That I may be maid clean, or giltie than,</L>
+<L>With richt and resoun, as the cause dois craue:</L>
+<L>Your cristall eis, surpassing all the laue,</L>
+<L>Your flesch so white, your fair and fragrant face,</L>
+<L>Your wourdis so sweit, the quhilk I did resaue,</L>
+<L>Your kisses, with the quiet priuie place.</L>
+</LG>
+<LG>
+<L>Thir forsaid things, did nurish me maist fresh,</L>
+<L>Vnto this fact, maist filthy and profane,</L>
+<L>And cruell lufe, inflaming all my flesh,</L>
+<L>Into thir things, intisd me with a traine:</L>
+<L>The rage of lufe, so enterd in my braine,</L>
+<L>That be thir things, I did baith burne and bruse,</L>
+<L>Thir things intisd me, I mon speik it plaine,</L>
+<L>Vnlesum deids, to follow and til vse.</L>
+</LG>
+<LG>
+<L>This wickit lufe, without respect or skill,</L>
+<L>My senses hes peruertit all inteir,</L>
+<L>Euin be the quhilk, my fauour and gudwill,</L>
+<L>Wes na wais hard nor enterd, in your eir:</L>
+<L>Of things quhairof, I am accusit heir,</L>
+<L>Vpon your selfe, the haill reproch suld fall,</L>
+<L>Because ye war the wall and water cleir,</L>
+<L>And of my ill, the first originall.</L>
+</LG>
+<LG>
+<L>Gret strife and anger, with ane ill intent,</L>
+<L>Betwixt twa lufers, aucht not to lie lang,</L>
+<L>Bot gif it cum be chance or accident,</L>
+<L>It suld remaine the schorter, thame amang:</L>
+<L>To lufers it dois properly belang,</L>
+<L>The lufers falt, for to thole willingle,</L>
+<L><PB REF="28">And sumtime, patiently to suffer wrang,</L>
+<L>Of sic a falt, I mene as common be.</L>
+</LG>
+<LG>
+<L>Quhen the auld wife, returnis bak fra hir feirs,</L>
+<L>Your sadnes I beseik you, to comport,</L>
+<L>That sche persaue, nor ken not be your teirs,</L>
+<L>That we are gilty, intill ony sort.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Anus returns, saying thir words.</HEAD>
+<LG>
+<L>A Ne nichbour wife, did stay me for to cum,</L>
+<L>With nochtie wourdis, not tending to na sens,</L>
+<L>Quha with hir wourdis, wald vinqueis and orecum,</L>
+<L>MARCVS, that orator of eloquens:</L>
+<L>To hurt your eis, now quhat is your pretence,</L>
+<L>With murning teirs, your body for to deir,</L>
+<L>How cums this colour, and gret rubigence,</L>
+<L>Quhilk in your visage, plainly dois apeir.</L>
+</LG>
+<LG>
+<L>Quhen I was absent, out of sicht my sell,</L>
+<L>Quhat PAMPHIL did, resolue me of that dout,</L>
+<L>Now GALATHAE, I pray the for to tell,</L>
+<L>All things in ourdour, as they are faln out.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Galathea answers to Anus.</HEAD>
+<LG>
+<L>YOu speir, how that my chance hes interprisd,</L>
+<L>As gif, you knew not of my gret reuyne,</L>
+<L>Seing this thing, is subtilly deuisd,</L>
+<L>By your consent, and counsail of ingyne:</L>
+<L>The tre is kend and knawin, gif it be fine,</L>
+<L>Be the awin fruit, quhilk of it selfe outspreids,</L>
+<L>I ken you likwais, quhilk hes done me pine,</L>
+<L>Be all your actions and your outward deids.</L>
+</LG>
+<LG>
+<L>Into your hous, ye ordaind me frahand,</L>
+<L>Apils and nuts, with vther cheir beside,</L>
+<L><PB REF="28">Into your house, ye ordanid me frahand,</L>
+<L>Apillis and nutis, with vther cheir besyd,</L>
+<L>Into the mene tyme, PAMPHILVS, did stand,</L>
+<L>Befoir the zet quhair as he did abyd:</L>
+<L>Ye fenzit that your nichbour on you cryd,</L>
+<L>That tyme micht serue the purpos for to speid,</L>
+<L>And that I micht be spoilzit, and depryd,</L>
+<L>Of my virginnitie, and maidinheid.</L>
+</LG>
+<LG>
+<L>Quhat maid you, for to tary furth with folk,</L>
+<L>And fra your hous, for to remane so lait,</L>
+<L>Behauld how weil, your craft can hyd and clok,</L>
+<L>The doubill deling, and the awin desait:</L>
+<L>Disait and craft, into their awin estait,</L>
+<L>Hes run thair race, quhilk I may rew richt sair</L>
+<L>I GALATHAE, am trapit and defait,</L>
+<L>Into the net, and crafty subtill snair.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Anus answeris to Galathea.</HEAD>
+<LG>
+<L>I Am vnjustly blamid, the treuth to tell,</L>
+<L>Bot sic offence, mot far be put fra me,</L>
+<L>For I sall purge and purifie my sell,</L>
+<L>By richt and resoun, as your selfe sall se:</L>
+<L>The name of that crime, far dois disagre,</L>
+<L>With my auld age, quhilk may mak na releif,</L>
+<L>My craft is not so curious, nor so he,</L>
+<L>In wikit maters, tending to mischief.</L>
+</LG>
+<LG>
+<L>Gif ony stryfe, or wauering wourdis of wind,</L>
+<L>To you hes chancit, concerning sic a cace,</L>
+<L>Quhat falt or cryme, in me than can ye find,</L>
+<L>Quho absent wes, and out of present place:</L>
+<L>Quhat euer it be, that dois you so disgrace,</L>
+<L>I for my awin pairt, will my self acquite,</L>
+<L>Your ardent lufe, with priuie tyme and space,</L>
+<L>Hes done the deid, quhairof I haif na wyte.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<PB REF="29">
+<HEAD>Anus speakis to Pamphilus.</HEAD>
+<LG>
+<L>TEll to me PAMPHIL, gif it be thy will,</L>
+<L>This mistik mater, quhilk I did not se,</L>
+<L>Bot as to the beginning of this ill,</L>
+<L>It is not neidfull to declair to me.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Pamphilus answers to Anus</HEAD>
+<LG>
+<L>GIf that ye knew, how for ane small commit,</L>
+<L>Gret occusatioun, now I do resaue,</L>
+<L>Hir anger is mair vehement and grit,</L>
+<L>Nor my deseruing, of it selfe can craue:</L>
+<L>Vs it behouis, maist quietly to behaue,</L>
+<L>And lufers secreits, trewly to consceill,</L>
+<L>Fra time that dolour pas, as we persaue,</L>
+<L>Gret schame it is, the secreits to reueill.</L>
+</LG>
+<LG>
+<L>It you becums, na vther gait to gang,</L>
+<L>Bot for to meis the matter, I considder,</L>
+<L>For it becums not, anger to last lang,</L>
+<L>Betwixt vs twa, trew lufers baith togidder:</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Galathea speakis to Pamphilus.</HEAD>
+<LG>
+<L>DEclair our doings to the auld wife now,</L>
+<L>As gif that sche, thame neuer knew nor kend,</L>
+<L>That sche may vnderstand the maner how,</L>
+<L>That all this matter, hes bene brocht till end:</L>
+<L>To speir that thing at you, sche dois pretend,</L>
+<L>Quhilk sche in counsall, did hir selfe decre,</L>
+<L>That sche micht seme, In that sche did offend,</L>
+<L>Into na wais, for to haue troublit me.</L>
+</LG>
+<LG>
+<L>Ye and the wife, ambiguously but feir,</L>
+<L>Hes trumpit me, as I the truth may tell,</L>
+<L><PB REF="29">The mater is maid euident and cleir,</L>
+<L>Be the effects, and takins of it sell:</L>
+<L>And as the fisch, efter the taking snell,</L>
+<L>Persauis the huke, quhen sche na mair may do,</L>
+<L>Swa seis the mind of man, the fraud so fell,</L>
+<L>And subtill snair, quhilk he is tane into.</L>
+</LG>
+<LG>
+<L>Quhat sall I do, to quhat part sall I ply,</L>
+<L>I wander man, throuch all the warld astray,</L>
+<L>My Parents iustly, may me now deny,</L>
+<L>And at thair dur, debar me out for ay,</L>
+<L>With wauering eis, I luke to euery way,</L>
+<L>Quhilis heir, quhilis thair, in euery airt athort,</L>
+<L>I se na comfort, quhairvpoun to stay,</L>
+<L>Maist caitif woman, void of all support.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Anus answers to Galathea.</HEAD>
+<LG>
+<L>IT sets not wise folkis, for so small a fact,</L>
+<L>For to lament so sore, for sick malingis,</L>
+<L>Seing that dolour, may na profite mak,</L>
+<L>Nor to the maister, na reward inbrings:</L>
+<L>Thole patiently, and als except those things,</L>
+<L>The quhilk by craft, can na wais mendit be,</L>
+<L>And that immodrate lufe, quhilk in the rings,</L>
+<L>The quhilk hes giuen, intisement vnto the.</L>
+</LG>
+<LG>
+<L>Wisedome I say, with gud discretioun eik,</L>
+<L>Thy murning teirs, suld temper into tone,</L>
+<L>And it becums the, counsall for to seik,</L>
+<L>Quhat in this mater, titest suld be done:</L>
+<L>The harts of lufers, quhilk suld be abone,</L>
+<L>By strife are hurt, with wapins maist seueir,</L>
+<L>For oft times, discord woundes dois nourisch sone,</L>
+<L>Be the awin battell, and vnhappy weir.</L>
+</LG>
+<LG>
+<PB REF="30">
+<L>Ilk ane with vther, leid ane quiet life,</L>
+<L>In pece and rest, lang time, for til abide,</L>
+<L>That ye to him, may be ane lufing wife,</L>
+<L>And he your husband on the vther side:</L>
+<L>Be menis and moyens, quhilk I did prouide,</L>
+<L>Ye haue obtenid your haill desier, I say,</L>
+<L>Be me, gud fortoun to you did betide,</L>
+<L>Thairfoir of me, haue gud remembrance ay.</L>
+</LG>
+</DIV2>
+<TRAILER>FINIS.</TRAILER>
+<TRAILER>Heir ends the Historie of Pamphilus.</TRAILER>
+<EPIGRAPH>
+<Q>BE HONOR I LEVE.</Q>
+</EPIGRAPH>
+</DIV1>
+<DIV1 TYPE="poem">
+<PB REF="30" MS="y">
+<HEAD>THE ADITION OF THE TRANSLATER, IN FORME OF APPLICATION, <HI>vpon the purpose going before.</HI></HEAD>
+<LG>
+<L>YE Damisels that are, baith trest and trew,</L>
+<L>With wanton VENVS, se ye not repair,</L>
+<L>The CIPRIAN dame, hes seruants ay anew,</L>
+<L>To take pure virgins, captifis in the snair,</L>
+<L>Be lang intisment, and by crafty cair:</L>
+<L>And be perswasion of ane wicket wife,</L>
+<L>Marke, how this maid, hath lost ane honestlife.</L>
+</LG>
+<LG>
+<L>Ye shame your selfis, and lossis all your seill,</L>
+<L>With wickit company, fra time ye vse,</L>
+<L>From CIRCES wisches, se ye keip you weill,</L>
+<L>Quha be thair fraud, all lufers dois abuse,</L>
+<L>Thair company, and fellowship refuse:</L>
+<L>And se your eiris, of na wais be inclind,</L>
+<L>To sick as be of the CANACES kind.</L>
+</LG>
+<LG>
+<L>First fra ye enter, in that wanton trine,</L>
+<L>It will appeir, for to be sum part dous,</L>
+<L>Marke quhat sche hes resauid, for hir propine,</L>
+<L>Debard and banist, from hir fathers hous,</L>
+<L>Sen sick things, may comoue you to corous:</L>
+<L>Exampill take by CRATANAMINOST,</L>
+<L>Quha for hir lufe, baith kin and country lost.</L>
+</LG>
+<LG>
+<L>Out of your mindis, expell this thocht profane,</L>
+<L>That CVPIDS hukis not enter in your heid,</L>
+<L><PB REF="31">Throw furious lufe, quhat number hes bene slane,</L>
+<L>Als weil of men, as wemen we may reid,</L>
+<L>Without suport, or any more remeid:</L>
+<L>Throw furious lufe, quhilk of it self is fell,</L>
+<L>Dispairdly DIDO, did put down hir sell.</L>
+</LG>
+<LG>
+<L>Sic michte motions, lufers hartis dois moue,</L>
+<L>That nicht and day, thay troublit ar and pynd,</L>
+<L>Siclik CHARINA, slew hir self throw loue,</L>
+<L>Sic wes the madnes enterd in her mynd,</L>
+<L>Lat not your eiris, to CVPID be inclynd:</L>
+<L>Considring quhat, he dailie dois subdew,</L>
+<L>Thay happie ar, that can his snarris eschew.</L>
+</LG>
+<LG>
+<L>For to behauld, the deidis of lufe ilk day,</L>
+<L>The mindis of men, it wald mak for to muse,</L>
+<L>And lykwais SAPHO, slew hir self I say,</L>
+<L>Becaus that PHAON, did hir lufe refuse,</L>
+<L>The flamis of lufe, so did hir hairt confuse:</L>
+<L>Sche hairtburne wes his bewteis til imbrace,</L>
+<L>Be ressoun of the fauour of his face.</L>
+</LG>
+<LG>
+<L>CVPID, by craft, can vinqueis and ouercum,</L>
+<L>The hairts of lufers, that ar euery quhair,</L>
+<L>With bestly lufe; he blindis the hairtis of sum,</L>
+<L>And makis thame for till fall into dispair,</L>
+<L>Howbeid Queene PASEPHE, lustie wes and fair:</L>
+<L>Sche left hir housband quhilk wes wonderful,</L>
+<L>For to conuers, with ane maist brutishe bull.</L>
+</LG>
+<LG>
+<L>For to repeit this tail, my stomok grous,</L>
+<L>Of CLITEMNESTRA, that vnhapie hure,</L>
+<L>Quho murdreist AGAMENON, hir awin spous,</L>
+<L>For fauour quhilk sche til EGESTVS bure,</L>
+<L>Grit punischment, sche dewlie did procure:</L>
+<L>Becaus sche did so filthilie offend,</L>
+<L>Maist miserabill wes hir wikit end.</L>
+</LG>
+<LG>
+<PB REF="31">
+<L>To CVPIDS counsall fra thou ans obay,</L>
+<L>Thy carnall frends, thou drilie, bidis adew,</L>
+<L>Fair CILLIA, hir father did betray,</L>
+<L>For MINOS lufe, sik fauour sche him schew,</L>
+<L>She wes not onely doubill and vntrew:</L>
+<L>Bot lang time sche consceild it in hir mind,</L>
+<L>Howbeid, it wes contrarius vnto kind.</L>
+</LG>
+<LG>
+<L>We neid not for to muse, nor wonder than,</L>
+<L>To se the hartis and mindis of lufers moue,</L>
+<L>EVROPA left Prence ATRIVS hir gudman,</L>
+<L>And with his brother THEAST, fell in loue,</L>
+<L>This Princes than, wes wordy of reproue:</L>
+<L>Behauld, how sche hes vsid sick villany,</L>
+<L>Without respect of consanguinity.</L>
+</LG>
+<LG>
+<L>PELLOPIA and MIRRA, I hard say,</L>
+<L>Committit incest, as ye may consider,</L>
+<L>Thir ladies fair, with thair awin fathers lay,</L>
+<L>And carnally conioynd thame selfis togider,</L>
+<L>To take the man, that maried had thair moder:</L>
+<L>With beistly lufe, thay haif mair blindit bene,</L>
+<L>Nor modiwardis, that wantis baith sicht and ene.</L>
+</LG>
+<LG>
+<L>I do regrait, thir stories are so rife,</L>
+<L>The quhilk I do so copiously declair,</L>
+<L>For SEMERAMVS, that wes NINVS wife,</L>
+<L>Incestuously lay with hir son and air,</L>
+<L>Of wemens staits, I will incist na mair:</L>
+<L>Except this wourd, quhilk present I expres,</L>
+<L>How CANACE, had hir brother MACARES.</L>
+</LG>
+<LG>
+<L>Wonder not of thir wemen, quhilk ye se,</L>
+<L>Descriuit heir, into thair awin degreis,</L>
+<L>Albeid, that men, the wichter veshels be,</L>
+<L>Yit are thay subiect, to the same diseis,</L>
+<L>This wanton dame, halds lufers at vaneis:</L>
+<L><PB REF="32">As be exampill, I sall plainly proue,</L>
+<L>Duchtie ACHILLES, deit throw feruent loue.</L>
+</LG>
+<LG>
+<L>To se the harts, of lufers so forlorne,</L>
+<L>It wald make men for feir, to grudge and greue,</L>
+<L>BERNARDO, quho wes ane Italian borne,</L>
+<L>For lufe of LACON, did his life bereue,</L>
+<L>To lie with hir, becaus he gat not leue:</L>
+<L>This furious fule, him slew incontinent,</L>
+<L>Becaus he culd not cum to his intent.</L>
+</LG>
+<LG>
+<L>Quhair raging lufe, intil a hart dois ring,</L>
+<L>It wantis respect of honour and renoun,</L>
+<L>We read, of ARTEMENIVS the King,</L>
+<L>RAVINAS husband, quho did murdres doun,</L>
+<L>Onely to lie with hir, and play the loun:</L>
+<L>This ARTEMENIVS sumtime king of Spaine,</L>
+<L>For his reward, wes with the wild bests slaine.</L>
+</LG>
+<LG>
+<L>Marke and behold, quhat blindnes hes bene heir,</L>
+<L>Concerning silly pure NARCISSVS cace,</L>
+<L>Quho past vnto ane spring of water cleir,</L>
+<L>Quhair he beheld, the shadow of his face,</L>
+<L>Faine he desird, that figure till imbrace:</L>
+<L>Beleuing na wais, that it was him sell,</L>
+<L>And so for lufe, he died beside the well.</L>
+</LG>
+<LG>
+<L>Mair blindnes, did this curious crafts man moue,</L>
+<L>Quhois laud and fame, liuis into mony lands,</L>
+<L>PIGMALION with the Pictur fell in loue,</L>
+<L>Quhilk he had portrait, with his awin twa hands,</L>
+<L>Howbeid this image, as ane Idole stands:</L>
+<L>With blindit lufe, this man so far wes led,</L>
+<L>That it lay nichtly with him in the bed.</L>
+</LG>
+<LG>
+<L>The duchtie, and maist manly DAMIOVN,</L>
+<L>Wes pynd with lufe, and sine deid in dispair,</L>
+<L><PB REF="32">And HERCVLES, quho maid escamioun,</L>
+<L>Of DEMERA, for YOLE so fair,</L>
+<L>Of campions stout, king CVPID takis na cair:</L>
+<L>Thocht SAMSON wes of fortitude maist frack,</L>
+<L>Yit VENVS, wes the wite of all his wrack.</L>
+</LG>
+<LG>
+<L>In na kyn stait, so far as I can ken,</L>
+<L>Bot VENVS is, ay reddie til intise,</L>
+<L>For sumtimes, sche bereues the wits of men,</L>
+<L>That are esteimd, to be maist sage and wise,</L>
+<L>Spy, how the harts of men, sche can surprise:</L>
+<L>For SOCRATES with flams of lufe aflocht,</L>
+<L>Maist ardently, SOSIAS lufe besocht.</L>
+</LG>
+<LG>
+<L>Sche gides the harts, of mene men and of grit,</L>
+<L>And be hir menes, sche mony brings to baill,</L>
+<L>AVRELIVS als, ane michtie man of wit,</L>
+<L>With lufe of ladies, wes inflamd alhail,</L>
+<L>And syndrie times, he did thair lufe assaill:</L>
+<L>Bot becaus, she wes fairest of thame all,</L>
+<L>MARTINAS lufe, he socht in speciall.</L>
+</LG>
+<LG>
+<L>Of caitife folks, how beid, thair be gret store,</L>
+<L>Ill with the gud, we aucht not for to deme,</L>
+<L>Of wickit wemen, as I writ before,</L>
+<L>So sall I now, the praise of sum expreme,</L>
+<L>Pudicitie, is meikill til esteme:</L>
+<L>AMELIA, that virgin pure and leill,</L>
+<L>From spot or blame, hir body keipit weill.</L>
+</LG>
+<LG>
+<L>Happy are thay, can modesty meintene,</L>
+<L>And ryn thair rink, into the richteous rait,</L>
+<L>LVCRECE sicklike, that constant Lady schene,</L>
+<L>Into hir time, liu'd in ane chaist estait,</L>
+<L>Agains king CVPID, sche maid sick debait:</L>
+<L>He culd not hir, perswade to villanie,</L>
+<PB REF="33">
+<GAP DESC="duplicate" EXTENT="1 page">
+<PB REF="33">
+<GAP DESC="duplicate" EXTENT="1 page">
+<PB REF="34">
+<L>And so schewan, the crown of chastitie.</L>
+</LG>
+<LG>
+<L>The fame sall leue, and for ane lang time lest,</L>
+<L>Of sick as dois, demerit gud commend,</L>
+<L>DANNAT, the stait of chastitie profest,</L>
+<L>And did obserue the samin to the end,</L>
+<L>For by the gifts, that in hir corps wes kend:</L>
+<L>She wes not onely chaist, as is indite,</L>
+<L>Bot intill all hir actions, maist perfite.</L>
+</LG>
+<LG>
+<L>THISBE, sick lufe into hir brest did beir,</L>
+<L>Without respect, quhat perrill wes to licht,</L>
+<L>She met with PRIAM, hir awin husband deir,</L>
+<L>At NINVS tombe, into the feirfull nicht,</L>
+<L>Behauld, gif that hir hart hes bene vpricht:</L>
+<L>Quhat skaith micht cum of it, sche tuke na cure,</L>
+<L>Sick wes the lufe, sche to hir husband bure.</L>
+</LG>
+<LG>
+<L>PENELOPE, of patience maist strang,</L>
+<L>VLISSIS wife, that lady of gret fame,</L>
+<L>Quho notwithstanding, of his absence lang,</L>
+<L>Remaind maist constant, to his cumming hame,</L>
+<L>Time to prolong, with sick as did hir clame:</L>
+<L>The web, quhilk sche in day licht wrocht with pane,</L>
+<L>Into the nicht, vndid it ay agane.</L>
+</LG>
+<LG>
+<L>Lat sick beir blame, as drinks in CVPIDS cap,</L>
+<L>And of the vertuous, lat renoun reueiue,</L>
+<L>Thocht sum be Crocadils in VENVS schap,</L>
+<L>Yit sum thair be, quhois fame for ay sall leiue,</L>
+<L>As did this dame, quho weill hir web culd weiue:</L>
+<L>The vertuous damis, sall liue ir. laud and fame,</L>
+<L>Bot the dishonest, sall resaue a schame.</L>
+</LG>
+<LG>
+<L>Thocht thair wes sum, that rashly zeid about,</L>
+<L>Throw furious lufe, thame selfis for to put doun,</L>
+<L><PB REF="34">Of gud men now, the prais I wil pent out,</L>
+<L>Quho for thair constant lufe, deserfis the croun,</L>
+<L>The richteous, sall still flurish in renoun:</L>
+<L>Albeid, that sum were whelps of Tygers kind,</L>
+<L>Yit sum thair be, that better were inclind.</L>
+</LG>
+<LG>
+<L>Marke gif this man, demerits gud commend,</L>
+<L>Quho being, bot ane young adolescent,</L>
+<L>Trew TROYELVS, wes constant to the end,</L>
+<L>And in his lufe, wes na wais varient,</L>
+<L>Bot still to ane, he keipit trew intent:</L>
+<L>In barnely age, and puerilitie,</L>
+<L>Ye may persaue, the spreit of constancie.</L>
+</LG>
+<LG>
+<L>Happie is he, that hes a lufing hart,</L>
+<L>To his halfe marrow, in an ernest sort,</L>
+<L>King PRIAM keipit ane maist kindly part,</L>
+<L>Vnto his spouse, as Poets maks report,</L>
+<L>This I man say, in few wourdis to be schort:</L>
+<L>Quhair discord dwels, quhilk lufe exiles alace,</L>
+<L>Na grace can grow, nor plesour can haue place.</L>
+</LG>
+<LG>
+<L>THE AMPHILVS, a natife borne Greik,</L>
+<L>Quhois deith, be wemen aucht to be deplord,</L>
+<L>Him cled in sack cleith, quhen his wife lay seik,</L>
+<L>Vntill the time, God had hir helth restord,</L>
+<L>His name and fame, aucht for to be decord,</L>
+<L>Because, to fast and pray, he did not fache,</L>
+<L>At euery time, quhen that sche tuke a brache.</L>
+</LG>
+<LG>
+<L>I schew of sic, as into lufe did burne,</L>
+<L>And of the patient, I haife spoken eik,</L>
+<L>Bot to my former sudiet to returne,</L>
+<L>Of PAMPHILVS, I will a few wourds speik,</L>
+<L>He is to lack, and scarcely with ane leik:</L>
+<L>Quho hes not wyn his lufe throw cheualrie,</L>
+<L><PB REF="35">Bot be the menes of Macrels as ye se.</L>
+</LG>
+<LG>
+<L>Gret prais pertenis, renoun and honour hie,</L>
+<L>And in all pairts, thair laud and fame proceids,</L>
+<L>That either wins thair lufis, ventoriouslie,</L>
+<L>Or els, be martiall, and maist duchty deids,</L>
+<L>Dispising sick, as out of bounds exceids:</L>
+<L>As did THESEVS, of quhom, VIRGIL dois tell,</L>
+<L>Quho for his lufe, descendit doun to hell.</L>
+</LG>
+<LG>
+<L>HERO that lady, quho did harts allure,</L>
+<L>And for hir fairnes, gat a gret renoun,</L>
+<L>For lufe the quhilk, LEANDER till hir bure,</L>
+<L>He venture tuke, to saill to Sectus toun,</L>
+<L>The storme wes gret, and so he chanst to droun:</L>
+<L>Thocht his pretence, wes for to win a fame,</L>
+<L>His rasch attempt, is in a part to blame.</L>
+</LG>
+<LG>
+<L>HECTOR, quho wes a magnanimious man,</L>
+<L>Faucht for his lufe, with Lords of Lauine land,</L>
+<L>And HANIBALL his lufe, and maistres wan,</L>
+<L>Throw martiall deids, I mene, be speir and brand,</L>
+<L>Thair honest acts, all men may vnderstand:</L>
+<L>Quhairfoir, thir Knights, still flurishis in fame,</L>
+<L>Bot PAMPHILVS, resauis reproch and schame.</L>
+</LG>
+<LG>
+<L>Stout TVRNVS, did na skaith, nor danger dout,</L>
+<L>To seik his lufe, amang the wild wood treis,</L>
+<L>And Prince ENAE, baith valiant, wise and stout,</L>
+<L>To Latin land, did nauigat the Seas,</L>
+<L>Quhair he ariuid, according to decreis:</L>
+<L>And for the mair performance of his vowis,</L>
+<L>King LATINS dochter, he did take to spowis.</L>
+</LG>
+<LG>
+<L>Sume takis delite, for to make sturt and strife,</L>
+<L>And godly interprises to preuent,</L>
+<L><PB REF="35">ALLECTO did seduce, king LATINS wife,</L>
+<L>That to that marage, sche suld not consent,</L>
+<L>King LATINS selfe, thairwith wes weill content:</L>
+<L>And brocht that block to end, maist honorablie,</L>
+<L>Albeid, ALLECTO thocht it suld not be.</L>
+</LG>
+<LG>
+<L>Sum for thair vertew, wins ane nobill name,</L>
+<L>And sum dishonor, for thair filthie factis,</L>
+<L>Thir valiant Knichts, deseruis a worthy fame,</L>
+<L>Be resoun of thair ventrous deids and actis,</L>
+<L>Thay bair ane gud report, behind thair backis:</L>
+<L>And specially, the Duke ANDROGION,</L>
+<L>Quho for his maistres, saild to Magilon.</L>
+</LG>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+<DIV1 TYPE="poem">
+<PB REF="36">
+<DIV2 TYPE="to the reader">
+<HEAD>TO THE READER.</HEAD>
+<LG>
+<L>MY willing mind, I pray the not refuse,</L>
+<L>Sen litle praise may recompence my paine.</L>
+<L>Bot I beseik the, that thou wald excuse,</L>
+<L>The vnripe seids of my maist barren braine:</L>
+<L>My rurall vers, I pray the not prophane,</L>
+<L>Thocht thay proceid, from ane maist ruslick spring,</L>
+<L>Nor my gud purpose, se thou not disdaine,</L>
+<L>Ane Prences praise, sen that I preis to sing:</L>
+<L>And sen I haue bene bauld, to write this thing,</L>
+<L>Quhilk pregnant Poets, iustly may dereid,</L>
+<L>First, I craue pardon of our soueraigne King,</L>
+<L>And sine of you, quho sall the samin reid,</L>
+<L>Not that I haue done you so gret offence,</L>
+<L>As to the persoun, of our nobill Prence.</L>
+</LG>
+<EPIGRAPH>
+<Q>BE HONOR I LEVE.</Q>
+</EPIGRAPH>
+</DIV2>
+<DIV2 TYPE="body of poem">
+<PB REF="36">
+<HEAD>AN APLICATION CONCERNING OVR KINGS MAIESTIES PERSOVN.</HEAD>
+<LG>
+<L>I Wil decist, ma notes for till imbring,</L>
+<L>Of sik as did, thair ventrous spreits imploy,</L>
+<L>Bot lat vs praise, our Prence and natife king,</L>
+<L>KING IAMES the sixt, that richt redouted Roy,</L>
+<L>Gif ye wald marke, his courage and conuoy:</L>
+<L>He dois deserue, far greter laud and glore,</L>
+<L>Nor all the rest, reherst herein before.</L>
+</LG>
+<LG>
+<L>I wisch at God, if it were not offence,</L>
+<L>And als I craue into thir present dais,</L>
+<L>For to haue sum of CICEROS eloquence,</L>
+<L>Togither with ane part of OVIDS frais,</L>
+<L>That I micht speik, into this Prences prais:</L>
+<L>Quha for his wisedome, and ventorious deids,</L>
+<L>All vther Monarchis, in the warld exceids.</L>
+</LG>
+<LG>
+<L>STRABO dois write, in his cosmographie,</L>
+<L>And TITVS LIVIVS, as I vnderstand,</L>
+<L>How PARIS past, and saild to Grece by Sie,</L>
+<L>To rauish HELENE, lady of that land,</L>
+<L>Quhair he fair HELENE, in hir palace fand:</L>
+<L>Thocht Poets of his duchtie deids declair,</L>
+<L>Yit PARIS to our Prence is na compair.</L>
+</LG>
+<LG>
+<L>PARIS performd ane maist vngodly gyse,</L>
+<L>Quhilk efter tendit, to gret sturt and stryfe,</L>
+<L>Bot our Prence, had ane honest interpryse,</L>
+<L><PB REF="37">He saild the sea, to fetch his nobill wife,</L>
+<L>His interprise, gart mone los thair life,<NOTE PLACE="marg">Paris</NOTE></L>
+<L>Bot blist be God, ours come to better end,</L>
+<L>Than Iudge quho dois demerit maist commend.</L>
+</LG>
+<LG>
+<L>IASON that valient knight, quho dwelt in Greice,</L>
+<L>To COLCHOS came, vnto ane dame maist fair,</L>
+<L>Bot fra tyme, that he gat the goldin fleice,</L>
+<L>He with MEDEA, wald remane na mair,</L>
+<L>Thoch he wes duchte, as thay do declair:</L>
+<L>Yet wes this Knight, maist wordie to dispyis,</L>
+<L>Quha past away, but pitie of hir cryis.</L>
+</LG>
+<LG>
+<L>This prence but peir, and lamp of God elect,</L>
+<L>Quhome to gret prais, dois dewly apertene,</L>
+<L>Vnto MEDEA, had far mair respect,</L>
+<L>Nor he had to the goldin fleis I mene,</L>
+<L>I mene our King respekit, mair our Queene:</L>
+<L>Sic gracis in hir persoun, did apeir,</L>
+<L>That he regardit, nether gold nor geir.</L>
+</LG>
+<LG>
+<L>Quhat Prence, this prences wald in mind omit,</L>
+<L>Considring quhat gret gifts, in hir apeirs,</L>
+<L>Sche is a second SABA, for hir wit,</L>
+<L>Lang mot sche leue, in NESTORS happy yeirs</L>
+<L>In lufe and fauour, as it best effeirs:</L>
+<L>And in gud stait, a lang time for to stand,</L>
+<L>To be ane gouernatrix of this land.</L>
+</LG>
+<LG>
+<L>Ane ill report, the persoun ay rejakis,</L>
+<L>Bot honnest fame, sall neuer faid nor faill,</L>
+<L>Of fair EVPHINIA sum men mentioun makis,</L>
+<L>Of Corynth land, the heritrix all haill,</L>
+<L>How mekil fier procedis, bot from a spaill:</L>
+<L>Althocht sche wes graue, constant and degest,</L>
+<L>One imperfectioun, stenzit all the rest.</L>
+</LG>
+<LG>
+<PB REF="37">
+<L>This imperfectioun, ye sall sone persaue,</L>
+<L>And as it stands, I fall the mater tell,</L>
+<L>Sche mariet ACHARIST, hir fathers slaue,</L>
+<L>Dishonoring, baith the cuntry and hir sell,</L>
+<L>Sum wemen be of ane complexioun fell:</L>
+<L>Quha dois resembill, the Basilik flour,</L>
+<L>Quhilk changis hewis, and coulours euery hour,</L>
+</LG>
+<LG>
+<L>To count thir thingis, occasions me compels,</L>
+<L>That Queens take Kings, and vilipend a Squire,</L>
+<L>Our souerane Queene, this prencis far excels,</L>
+<L>Thocht sche of Corynth, had the haill impire,</L>
+<L>Till ony prences, sche may weil espire:</L>
+<L>Becaus sche hes espousit, for hir feir,</L>
+<L>Ane nobill prence, quhois persoun hes na peir.</L>
+</LG>
+<LG>
+<L>Laud to thois Ladeis, that thair cuntries leuis,</L>
+<L>To be conjoynd, with wise and nobill Kingis,</L>
+<L>For to thair cuntry, it gret comfort geuis,</L>
+<L>Quhair be the contrair, it dishonour bringis,</L>
+<L>Concerning sic misgiding, and malingis:</L>
+<L>Luk how gret schame, the Corynthis did resaue,</L>
+<L>Als mekill honour, may the Densis haue.</L>
+</LG>
+<LG>
+<L>As wikit folkis, ar for thair vice abhord,</L>
+<L>So for thair gud, the godly gets commend,</L>
+<L>We suld giue praise, and laud vnto the Lord,</L>
+<L>That sik a vertuous dame is till vs send,</L>
+<L>Gud qualities, intill hir corps are kend:</L>
+<L>As precious stains, gifis glancing in the nicht,</L>
+<L>So schins hir gracis in the pepils sicht.</L>
+</LG>
+<LG>
+<L>Hir cumly fame, in sick a stait dois stand,</L>
+<L>That MOMVS selfe, na imperfectioun knawis,</L>
+<L>The pretious stains, that are in Persie land,</L>
+<L>Into thair naturs, not sick splendeur schawis,</L>
+<L>Hir fame and name, out throw this country blawis:</L>
+<PB REF="38">
+<GAP DESC="duplicate" EXTENT="1 page">
+<PB REF="38">
+<GAP DESC="duplicate" EXTENT="1 page">
+<PB REF="39">
+<L>In gudly gracis, so sche dois excell,</L>
+<L>For by hir gifts, sche beirs dame bewties bell.</L>
+</LG>
+<LG>
+<L>As heit from fire, can not be tane away,</L>
+<L>Quhair ingle is, with fierie flamis anew,</L>
+<L>Na mair can lufe, deminish or decay,</L>
+<L>Betwixt twa lufers, that are traist and trew,</L>
+<L>I neid not oft, thair namis for to renew:</L>
+<L>Quhat lufe hes bene, betwixt twa prences heir,</L>
+<L>The awin effect, haue maid the mater cleir.</L>
+</LG>
+<LG>
+<L>ANNA our Queene, of nobill royall blud,</L>
+<L>Quhom now our Soueraigne, hes chosin for his feir,</L>
+<L>Respectit sche, the Boriall blasts so rud,</L>
+<L>To take the hasert, till hir husband deir,</L>
+<L>Bot in the cumming to this cuntry heir:</L>
+<L>Hir selfe I say, and all hir companie,</L>
+<L>With stormie winds, were troublit on the Se.</L>
+</LG>
+<LG>
+<L>As PALINVRVS Pilot, till ENAE,</L>
+<L>Throw storme of wind, out of the way did mar,</L>
+<L>Euin so the tempest rais, amang thame swae,</L>
+<L>That scarce thay kend the pairt, quhairin thay war,</L>
+<L>Na wounder wes, howbeid thay went a scar:</L>
+<L>For THETIS wes, in sick a rage and ire,</L>
+<L>That all hir fluds appeird, like flams of fire.</L>
+</LG>
+<LG>
+<L>In nauigating, to our nobill Prence,</L>
+<L>Vpon the Sea, sche sufferd meikill paine,</L>
+<L>For ZEPHIRVS blew, with sick violence,</L>
+<L>Schewes constraind, for to turne back againe,</L>
+<L>Considring, how the storme did still remaine:</L>
+<L>And how the raging wadder, wes so rud,</L>
+<L>Hir gracis persoun, in gret perrill stud.</L>
+</LG>
+<LG>
+<L>To pas to hir, our Prence than tuke consart,</L>
+<L>Suppose the mater, syndrie did displeis,</L>
+<L><PB REF="39">Quho hering tell, of this hir troublous stait,</L>
+<L>And how sche wes, so tossit on the Seis,</L>
+<L>This duchtie Prence, deliberats and decreis:</L>
+<L>To sail to Denmarke, to his darling deir,</L>
+<L>Without respect, vnto the time of yeir.</L>
+</LG>
+<LG>
+<L>To sick a Prence, so pissant and so hie,</L>
+<L>The interpryse, wes ventrous for to tell,</L>
+<L>In winter seasoun, for to tak the Se,</L>
+<L>Quhen SATVRN did, his frostie teirs distell,</L>
+<L>Thy richteous fame, sen na man can repell:</L>
+<L>Maist hardy COCLES, lang time mot thou leiue,</L>
+<L>That thir thy deids, may thy renoun reueiue,</L>
+</LG>
+<LG>
+<L>Sen sick ventoriousnes, is in a King,</L>
+<L>I think it suld, make mene men to be frack,</L>
+<L>Think ye that this, wes ony litle thing,</L>
+<L>Himselfe to hasert, on NEPTVNVS bak,</L>
+<L>Quhair CAPHARVS, quhilk Schips &amp; botis dois wrak:</L>
+<L>Lies in the Sea, beside the sands so schald,</L>
+<L>With vther dangers, dreidfull to behald:</L>
+</LG>
+<LG>
+<L>Respectit he, the perrilous scapie rock,</L>
+<L>Quhair TRITON plais, that monstrous vglie page,</L>
+<L>Or caird he by CARIBDIS feirfull chok,</L>
+<L>Quhair SCILAS dogs, baith nicht and day dois rage,</L>
+<L>This valiant Prence, baith ventrous, wise and sage:</L>
+<L>Thir perrils gret, respekit not a Preine,</L>
+<L>So fast he langd, to se his lustie Queine.</L>
+</LG>
+<LG>
+<L>Respectit he, the furious raging Sie,</L>
+<L>Or of God AEOLVS, did he take cair,</L>
+<L>Or of the father of Malancolie,</L>
+<L>Quhilk rang into the regioun of the air,</L>
+<L>Thir perrils, na wais mou'd him to dispair:</L>
+<L>Sick courage did consist, into him sell,</L>
+<L>That his gud purpose, did all feir expell.</L>
+</LG>
+<LG>
+<PB REF="40">
+<L>He tuke na thocht, of CICLOPS cragie cleuch,</L>
+<L>Nor Sirtes sands, his courage did not moue,</L>
+<L>O APIVS, thy skeill wes scant aneuch,</L>
+<L>For till haue framd, ane schip for his behoue,</L>
+<L>Namely throw Sea, a Monarche to remoue:</L>
+<L>Abounding gretly, into gifts of grace,</L>
+<L>Proceiding baith, of MARS and PALLACE race.</L>
+</LG>
+<LG>
+<L>This valiant King, iustly deseruis the croun,</L>
+<L>Lang mot he liue, with sick a worthy name,</L>
+<L>His ventrous acts, and royall hie renoun,</L>
+<L>Ingrauit is, within the house of fame,</L>
+<L>But ony spot, infirmitie or blame:</L>
+<L>O God, gif it, a gret reioysing be,</L>
+<L>Sick properties, intill a Prence to se.</L>
+</LG>
+<LG>
+<L>Vnto the crafty Crocadils false teirs,</L>
+<L>With confidence, thou neuer did confide,</L>
+<L>O wise VLISSES, with thy waxit eirs,</L>
+<L>That did eschew, the CYREN songs aside,</L>
+<L>So weill thy selfe, thou did gouerne and gide:</L>
+<L>Howbeid, occasioun oft times did procure,</L>
+<L>From CVPIDS schots, thy corps wes keipit sure.</L>
+</LG>
+<LG>
+<L>Ye furious lufers, but respect or cair,</L>
+<L>That for ane seasoun, liuis in lufe profane,</L>
+<L>Vnto the stra, your persons I compair,</L>
+<L>Quhilk kendils sone, and sone slakis out agane,</L>
+<L>Thay lufe a space, to pacifie thair pane:</L>
+<L>Thocht it from feruensie, dois na wais flow,</L>
+<L>And so thay woundit are, with CVPIDS bow.</L>
+</LG>
+<LG>
+<L>Ane parabill maist apt, I will repeit,</L>
+<L>Quhilk to trew lufers, iustly dois belang,</L>
+<L>Albeid, that iroun be slow to take a heit,</L>
+<L>Yit being het, it halds the samin lang,</L>
+<L>Seing the stra, is na materiall strang:</L>
+<L><PB REF="40">Full water sone, sick fierie flamis may stell,</L>
+<L>Bot ardent heit, is ill for till expell.</L>
+</LG>
+<LG>
+<L>How far are lufers, for to lake alace,</L>
+<L>That for ane schort time, onely lufe menteens,</L>
+<L>His highnes, I compair into this cace,</L>
+<L>Vnto the iroun, as properly perteens,</L>
+<L>In honour we may speik, of Kings and Queens:</L>
+<L>Thocht heit was slaw, to enter in his vains,</L>
+<L>Maist ardently with him, it now remains.</L>
+</LG>
+<LG>
+<L>He being sick a abill plesant plant,</L>
+<L>As in our natioun, neuer rang before,</L>
+<L>This wes na small gift, as our selfis may grant,</L>
+<L>For by gret gifts, the quhilk he hes in store,</L>
+<L>We haue gud cause, his honour to decore:</L>
+<L>And to reioyse, vpon ane gud pretence,</L>
+<L>That God hes send vs sick a prudent Prence.</L>
+</LG>
+<LG>
+<L>His laud and fame, is widely blawn abrod,</L>
+<L>Because himselfe, so weill he hes behauid,</L>
+<L>Na dout, bot he, is welbelou'd of God,</L>
+<L>Quha at his hands, sick gracis hes resauid,</L>
+<L>Gud properties, may plainly be persauid:</L>
+<L>Into this Prence, and monarche of gret micht,</L>
+<L>God grant that he, may vse his gracis richt.</L>
+</LG>
+<LG>
+<L>Concerning his departure, from this land,</L>
+<L>Vnto ane cuntry vncow, and vnkend,</L>
+<L>His haill attempts, quhilk he hes tane in hand,</L>
+<L>God hes thame blist, and brocht thame to gud end,</L>
+<L>With all the actions, quhilk he did intend:</L>
+<L>Gif that his grace, wald with himselfe confar,</L>
+<L>Vnto his God, he is addettit far.</L>
+</LG>
+<LG>
+<L>This God hes bene, maist mercifull I mene,</L>
+<L>In doing and performing his decreis,</L>
+<L><PB REF="41">Quha of his Schip, hes prenspall pilat bene,</L>
+<L>And him conductit saifly throw the Seis,</L>
+<L>The Lord will luke, with kind and louing eis:</L>
+<L>On sic as dois thair faith, vpon him found,</L>
+<L>And from all dangers, keip thame saife and sound.</L>
+</LG>
+<LG>
+<L>From perrils, he his persoun did preuent,</L>
+<L>So cairfully, from skaith he did him keipe,</L>
+<L>Quhair raging wauis, and waters turbilent,</L>
+<L>Did flow and fleet, into the dangerous deipe,</L>
+<L>His wakrife eis, dois walk and neuer sleipe:</L>
+<L>Ouer Heuin, earth, hell, and euery liuing thing,</L>
+<L>And he of Sea and land, is Lord and king.</L>
+</LG>
+<LG>
+<L>From Heuin so hie, he seis all things belaw,</L>
+<L>And of his awin, he hes gret cair and cure,</L>
+<L>From storms of wind, and tempests that did blaw,</L>
+<L>His michtie power, preseru'd him saife and sure,</L>
+<L>His deuine power, quhilk euer sall indure:</L>
+<L>Can calme gret storms, and make thame to be still,</L>
+<L>All creaturs, obais his blessit will.</L>
+</LG>
+<LG>
+<L>Our nobill Prence, maist pregnant into wit,</L>
+<L>Now with his Queene, conioynd in marage band,</L>
+<L>This gracious God, quhois mercies ar maist grit,</L>
+<L>Hes brocht thame baith, in saifty to this land,</L>
+<L>I pray the Lord, lang that thair stait may stand:</L>
+<L>That God thairby, may glore and honour haue,</L>
+<L>And that the cuntry comfort may resaue.</L>
+</LG>
+<LG>
+<L>Sen God aboue, be his hie power deuine,</L>
+<L>Hes the conductit, at thy harts desire,</L>
+<L>It the becums, this Pilot to propine,</L>
+<L>With rich rewards, in recompence of hire,</L>
+<L>Because he wes, thy gide and onely squire,</L>
+<L>With doubill thanks, for by his Pilot fe,</L>
+<L>Weill he deseruis, rewardit for to be.</L>
+</LG>
+<LG>
+<PB REF="41">
+<L>He wes thy ankour, and thy onely chance,</L>
+<L>Togither with thy cabill tow so teuch,</L>
+<L>This Pilot, thou can neuer recompance,</L>
+<L>Nor zit, with thanks, reward him weill aneuch,</L>
+<L>He can preserue thy Schip, from craig and cleuch:</L>
+<L>O gif that kippage blist, and happie be,</L>
+<L>Hes sick a Pilot in thair compane.</L>
+</LG>
+<LG>
+<L>Wardly rewards, this Pilot will not haife,</L>
+<L>For gold nor geir, he dois not seik nor clame,</L>
+<L>Bot the reward and wage, quhilk he dois craife,</L>
+<L>Is praise and honour, to his holy name,</L>
+<L>Maist valiant Prence, of nobill brute and fame:</L>
+<L>Sen that his mercy, did thy Schip mentene,</L>
+<L>Gif praise to God, quho hes thy Pilot bene.</L>
+</LG>
+<LG>
+<L>Forzet not for to thank him day and nicht,</L>
+<L>Quho did thy interprise, so weill aply,</L>
+<L>And in this land, his name caus reuerence richt,</L>
+<L>So far as it into thy handis dois ly,</L>
+<L>Trators to God, seik out and warly try:</L>
+<L>Gud men mentene, and punish that opres,</L>
+<L>So sall thy actions, haif ane gud succes.</L>
+</LG>
+<LG>
+<L>Sen God hes geuin, the swourd into thy hand,</L>
+<L>And the promotit, to ane Kingly place,</L>
+<L>Lat justice likwais, flurish in this land,</L>
+<L>So sall the Lord bestow, his giftis of grace,</L>
+<L>In doing this, he sall mentene thy race:</L>
+<L>And thou of all men, sall receiue commend,</L>
+<L>With praise immortall, to the warlds end.</L>
+</LG>
+<LG>
+<L>As CLIOMINVS, King of Cret, be God,</L>
+<L>Wes for his justice, estemat maist sure,</L>
+<L>So let thy fame, be likwais blawin abrod,</L>
+<L>In doing justice, baith to ritch and pure,</L>
+<L><PB REF="42">Like to the Laurell leife, thy fau<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">e sall flure,</L>
+<L>And thou not onely, sall in honour leiue,</L>
+<L>Bot thy renoun, sall mair and mair reveiue.</L>
+</LG>
+<LG>
+<L>I pray the Lord, thy nobill stait mentene,</L>
+<L>In pece and rest, lang time for to proceid,</L>
+<L>Lang for to liue, with thy maist lusty Quene,</L>
+<L>That we may se, sum of thy nobill seid,</L>
+<L>Like to the vinetre, that the same may spreid:</L>
+<L>And like a frutfull tre, for to acres,</L>
+<L>God of his grace, to send the gud succes.</L>
+</LG>
+<LG>
+<L>Thou CALIOP, that wryts of ventrous acts,</L>
+<L>Thy ornat pen, I pray the to prepair,</L>
+<L>And THALIDA, that wryts of famous facts,</L>
+<L>Into thy Chronikils, his deids declair,</L>
+<L>To pen his praise, ze Poets do not spair:</L>
+<L>And I beseik, you Musis euery one,</L>
+<L>To praise this Prence, with mouthis of Helicone.</L>
+</LG>
+<TRAILER>FINIS.</TRAILER>
+<EPIGRAPH>
+<Q>BE HONOR I LEVE.</Q>
+</EPIGRAPH>
+</DIV2>
+</DIV1>
+<DIV1 TYPE="poem">
+<PB REF="42">
+<HEAD>THE DISCRIPTI|ON OF THE QVEENS MAIE|STIES MAIST HONORABLE EN|TRY INTO THE TOVN OF EDIN|BVRGH, VPON THE 19. DAY OF MAII. 1590.</HEAD>
+<LG>
+<L>_AT Edinburgh, as micht be seene,</L>
+<L>Vpon the nintene day of Maj,</L>
+<L>Our Prences spous, and soueraigne queen</L>
+<L>Hir nobil entry maid that day,</L>
+<L>Maist honorable, wes hir conuoy,</L>
+<L>With gladnes gret, triumph and ioy.</L>
+</LG>
+<LG>
+<L>To recreat, hir hie renoun,</L>
+<L>Of curious things, thair wes all sort,</L>
+<L>The stairs and houses of the toun,</L>
+<L>With Tapestries, were spred athort:</L>
+<L>Quhair Histories, men micht behauld,</L>
+<L>With Imagis, and antiks auld.</L>
+</LG>
+<LG>
+<L>No man in mind, culd weill consaue,</L>
+<L>The curious warks, before his eis,</L>
+<L>In Tapestries, ye micht persaue,</L>
+<L>Young Ramel, wrocht like lawrell treis:</L>
+<L>With syndrie sorts of Chalandrie,</L>
+<L>In curious forme of Carpentrie.</L>
+</LG>
+<LG>
+<L>It written wes, with stories mae,</L>
+<L><PB REF="43">How VENVS, with a thundring thud,</L>
+<L>Inclosd ACHATES and ENAE,</L>
+<L>Within a mekill mistie clud:</L>
+<L>And how fair ANNA wondrous wraith,</L>
+<L>Deplors hir sister DIDOS daith.</L>
+</LG>
+<LG>
+<L>Thair wes the blindit artchour boy,</L>
+<L>Schuting crafty INTICLOTES,</L>
+<L>Thair wes discriu'd, the wrack of Troy,</L>
+<L>And how the proud PHILOCLITES:</L>
+<L>Schot prudent PARIS throw the thie,</L>
+<L>With poisond dart, quhilk gart him die.</L>
+</LG>
+<LG>
+<L>I&ocirc;, with hir goldin glitring hair,</L>
+<L>Wes portret wondrous properlie,</L>
+<L>And POLIPHEME, wes pentit thair,</L>
+<L>Quha in his foreheid had ane eie:</L>
+<L>Beneth him bot ane litill space,</L>
+<L>Wes IANVS, with the doubill face.</L>
+</LG>
+<LG>
+<L>Of ROMOLVS, I saw the wonder,</L>
+<L>How for his interprise prophane,</L>
+<L>In counterfeting of the thunder,</L>
+<L>For his reward, thairwith wes slane:</L>
+<L>And thair wes wrocht, with goldin threid,</L>
+<L>MEDVSA, with the monstrus heid.</L>
+</LG>
+<LG>
+<L>Of historeis, I saw anew,</L>
+<L>That fragill wer, and friuolus,</L>
+<L>How TRITON, at the Sea side slew,</L>
+<L>MISENVS, sonne to AEOLVS:</L>
+<L>Beside that historie thair stands,</L>
+<L>BRIARIVS, with his hundreth hands.</L>
+</LG>
+<LG>
+<L>The story of ACHILLES stout,</L>
+<L>With gold wes browderd thair abreid,</L>
+<L>And how wise PALLACE, did spring out,</L>
+<L><PB REF="43">At michtie IVPITERS foreheid:</L>
+<L>And ICARVS, throw fleing hie,</L>
+<L>With waxit wingis fel in these.</L>
+</LG>
+<LG>
+<L>How IAON, SESRA did persew,</L>
+<L>And draue ane naill into his brow,</L>
+<L>And IEPHTE, quho his dochter slew,</L>
+<L>For till obserue his oath and vowe:</L>
+<L>And how that all gret NILVS flud,</L>
+<L>Wes turnd and alterd into blud.</L>
+</LG>
+<LG>
+<L>How IOVE did with the Giants do,</L>
+<L>And how of thame he vaslage wan,</L>
+<L>Thair PHOCOMES, wes portrait to,</L>
+<L>Quho beirs baith schap of hors and man:</L>
+<L>And how that he gat throw the hairt,</L>
+<L>Throw schot of MOPSIS deidlie dairt.</L>
+</LG>
+<LG>
+<L>IXION, that the quheill dois turne,</L>
+<L>In Hell, that vgly hole so mirk,</L>
+<L>And EROSTRATVS, quha did burne,</L>
+<L>The costly fair EPHESIEN Kirk:</L>
+<L>And BLIADES, quho fals in soun,</L>
+<L>With drawing buckets vp and down.</L>
+</LG>
+<LG>
+<L>As MERCVRIE, with charmit rods,</L>
+<L>The hundreth eis of ARGVS traps,</L>
+<L>And how that TIPHON chast the gods,</L>
+<L>Compelling thame to change thair schaps:</L>
+<L>For PHEBVS, wes turnd in a cat,</L>
+<L>And VENVS, in a fiche maist flat.</L>
+</LG>
+<LG>
+<L>Thir things wer patent to the eis,</L>
+<L>Of sindry as ye knaw your sell,</L>
+<L>For thay wer into tapestreis,</L>
+<L>Better descriu'd nor I can tell:</L>
+<L>Thir I beheld quhair I did go,</L>
+<L><PB REF="44">With mony hundreth thousand mo.</L>
+</LG>
+<LG>
+<L>Braue nobill men, of all kin sorts,</L>
+<L>Triumphantly, beside hir raid,</L>
+<L>First at hir entry, at the ports,</L>
+<L>Trim Harangs, till hir grace wes maid,</L>
+<L>Hir salutatioun, thair wes sung,</L>
+<L>In ornat stile, of Latine toung.</L>
+</LG>
+<LG>
+<L>Gif ILIONVS, had bene thair,</L>
+<L>That oratour of eloquence,</L>
+<L>I doubt, gif he could haue done mair,</L>
+<L>For all his gret intelligence:</L>
+<L>Declaring with a gret renown,</L>
+<L>How sche wes welcome to the town.</L>
+</LG>
+<LG>
+<L>Nor DEMADES, quhois prais is pend,</L>
+<L>In euerie part as we persaue,</L>
+<L>Quho for his ornat style wes send,</L>
+<L>Till ANTIPATER pece to craue:</L>
+<L>Thocht he wes eloquent and wise,</L>
+<L>Na finer frais, he culd deuise.</L>
+</LG>
+<LG>
+<L>All curious pastimes and consaits,</L>
+<L>Culd be imaginat be man,</L>
+<L>Wes to be sene on Edinburgh gaits:</L>
+<L>Fra time that brauitie began:</L>
+<L>Ye micht haif hard on euerie streit,</L>
+<L>Trym melody, and musick sweit.</L>
+</LG>
+<LG>
+<L>Thocht PHILAMON, his braith had blawin,</L>
+<L>For musick, quho wes countit king,</L>
+<L>His trumpal tune, had not ben knawin,</L>
+<L>Sic sugrit voycis, thair did sing,</L>
+<L>For thair the dascant did abound,</L>
+<L>With the sweit diapason sound.</L>
+</LG>
+<LG>
+<PB REF="44">
+<L>Tennour, and trebill with sweit sence,</L>
+<L>Ilkane with pairts, gaif nots agane,</L>
+<L>Fabourdoun fell, with decadence,</L>
+<L>With priksang, and the singing plane:</L>
+<L>Thair enfants sang, and barnely brudis,</L>
+<L>Quho had bot new begun the mudis.</L>
+</LG>
+<LG>
+<L>Musiciners, thair pairts expond,</L>
+<L>And als for joy, the bellis wer rung,</L>
+<L>The instruments, did corospond,</L>
+<L>Vnto the musick, quhilk wes sung:</L>
+<L>All sort of instruments, wer thair,</L>
+<L>As sindry can, the same declair.</L>
+</LG>
+<LG>
+<L>Organs and Regals, thair did carpe,</L>
+<L>With thair gay goldin glittring strings,</L>
+<L>Thair wes the Hautbois and the Harpe,</L>
+<L>Playing maist sweit and pleasant springs:</L>
+<L>And sum on Lutis, did play and sing,</L>
+<L>Of instruments, the onely King.</L>
+</LG>
+<LG>
+<L>Viols and Virginals were heir,</L>
+<L>With Girthorns, maist iucundious,</L>
+<L>Trumpets and Tymbrels, maid gret beir,</L>
+<L>With instruments melodious:</L>
+<L>The Seistar and the Sumphion,</L>
+<L>With Clarche pipe and Clarion.</L>
+</LG>
+<LG>
+<L>Thir notes seemd heuinly sweit and hie,</L>
+<L>And not like tunes terrestriall,</L>
+<L>APOLLO thair, appeird to be,</L>
+<L>Thair sound, wes so celestiall:</L>
+<L>O PAN, amang sick pleasant plais,</L>
+<L>Thy rustik pipe, can haue na prais.</L>
+</LG>
+<LG>
+<L>Thocht ORPHEVS, gat gret commend,</L>
+<L>For melodie, and gud ingine,</L>
+<L><PB REF="45">His cumly springs, had not bene kend,</L>
+<L>Howbeid, that thay were maist deuine:</L>
+<L>Nor AMPHION, quho did begyn,</L>
+<L>Na honour heir, he culd haue wyn.</L>
+</LG>
+<LG>
+<L>ANNA, our welbelouit Queene,</L>
+<L>Sat in hir goldin Coche so bricht,</L>
+<L>And efter sche, thir things had seene,</L>
+<L>Syne she beheld, ane heuinly sicht:</L>
+<L>Of Nymphs, quho supit NECTAR cauld,</L>
+<L>Quhois brauities, can scarce be tauld.</L>
+</LG>
+<LG>
+<L>Thir Nymphs, were plantit in this place,</L>
+<L>As mony thousands, micht persaue,</L>
+<L>Quho for thair bewties and gud grace,</L>
+<L>Were chosin out amangst the laue:</L>
+<L>DIANAS Nymphs, thay may be namd,</L>
+<L>Beressoun, thay were vndefamd.</L>
+</LG>
+<LG>
+<L>The circumstance can not be told,</L>
+<L>So strange, the mater dois apeir,</L>
+<L>Sum were cled into claith of gold,</L>
+<L>And sum in siluer, schining cleir:</L>
+<L>Thair gouns, gaue glancing in the marke,</L>
+<L>Thay were so wrocht, with goldsmith warke.</L>
+</LG>
+<LG>
+<L>Mair brauer robes, were neuer bocht,</L>
+<L>Queene SEMERAMVS, til aray,</L>
+<L>With brodrie warke, thair bords wer wrocht,</L>
+<L>O God, gif that that thair gouns wes gay:</L>
+<L>With gubert warke, wrocht wondrous sure,</L>
+<L>Purfild with gold and siluer pure.</L>
+</LG>
+<LG>
+<L>This far I may, thir Nymphs aduance,</L>
+<L>Not speking rashly, by the richt,</L>
+<L>Thair goldin robes, gaue not sick glance,</L>
+<L>As did thair heuinly bewties bricht:</L>
+<L><PB REF="45">Nor zit, thair iewels in sic greis,</L>
+<L>As did thair cumly cristall eis.</L>
+</LG>
+<LG>
+<L>Thair properties, for to repeit,</L>
+<L>My dull ingine, can not disclose,</L>
+<L>Thair hair, like threids of gold did gleit,</L>
+<L>Thair facis, fragrant and formose:</L>
+<L>White was thair hyd, thocht it wes hid,</L>
+<L>Thair corall lips, like rosis rid.</L>
+</LG>
+<LG>
+<L>Sick Parragons, but peir or maik,</L>
+<L>I wart, wes neuer seene before,</L>
+<L>Na properties, thir Nymphs did laik,</L>
+<L>Quhilk micht, thair cumly corps decore:</L>
+<L>All gifts, quhilk creaturs can clame,</L>
+<L>Dame nature, in thair corps did frame.</L>
+</LG>
+<LG>
+<L>O DIONER, that hes the place,</L>
+<L>And beirs Dame bewties bell, I say,</L>
+<L>And thou O DAPHNE, fair of face,</L>
+<L>Quha wes the God APOLLOS pray:</L>
+<L>Gif that, thir virgens had bene thair,</L>
+<L>He had esteemd thame meikill mair.</L>
+</LG>
+<LG>
+<L>O EVROPA, as Poets schaws,</L>
+<L>Quhome IVPITER did lufe indeid,</L>
+<L>He had acquite the, for thair caus,</L>
+<L>Gif thay had bene, into thy steid:</L>
+<L>He had not faild, this for to do,</L>
+<L>And PARIS likwais, HELEN to.</L>
+</LG>
+<LG>
+<L>Had thay bene set, in PARIS sight,</L>
+<L>As wes the Goddessis, I mene,</L>
+<L>He scarce culd haue, discernit richt,</L>
+<L>Quhome to the Apill did pertene:</L>
+<L>Sick equall gifts, were in thame ludgt,</L>
+<L>That thay culd skantlie weill be iudgt.</L>
+</LG>
+<LG>
+<PB REF="46">
+<L>Thir nobill Nymphis, maid reuerence,</L>
+<L>With gesture liuely and allairt,</L>
+<L>And efter thair obedience,</L>
+<L>Hir Grace past to ane vther pairt:</L>
+<L>Quhair sche, beheld sum to be schort,</L>
+<L>A coutert, in ane sauadge sort.</L>
+</LG>
+<LG>
+<L>Into the seruice of our Queene,</L>
+<L>Thay offert thair maist willing mynds,</L>
+<L>Thir are the MOIRS, of quhom I mene,</L>
+<L>Quha dois inhabit in the ynds:</L>
+<L>Leuing thair land and dwelling place,</L>
+<L>For to do honour to hir Grace.</L>
+</LG>
+<LG>
+<L>Thay haue na scant, nor indigence,</L>
+<L>Quhair thay do dwell, and haue exces,</L>
+<L>Nor zit thay haue na residence,</L>
+<L>With PHAVNVS, God of wildernes:</L>
+<L>Bot thay do dwell, quhair thay were wont,</L>
+<L>Beside SYNERDAS goldin mont.</L>
+</LG>
+<LG>
+<L>Thair precious Iewels till expreme,</L>
+<L>And costly clethings to discriue,</L>
+<L>My simple wit cannot esteme,</L>
+<L>Agains the streme, quhy suld I striue:</L>
+<L>Thocht I want language, wit and lair,</L>
+<L>Yet as I can, I sall declair.</L>
+</LG>
+<LG>
+<L>Thir sauagis, I you assure,</L>
+<L>Wer weil decord, as ye may knaw,</L>
+<L>For sum wer cled in siluer pure,</L>
+<L>And sum in Taffatie, white like snaw&punc;</L>
+<L>Ay twa and twa, in ordour stands,</L>
+<L>With battons blank, into thair hands.</L>
+</LG>
+<LG>
+<L>The pretious stains, can not be pend,</L>
+<L>With goldsmithis wark, wes thame amang,</L>
+<L><PB REF="46">Thair bodies skantly culd be kend,</L>
+<L>For cheins, quhilk ouer thair shoulders hang:</L>
+<L>Gold bracelets, on thair chakils hings,</L>
+<L>Thair fingers full, of costly rings.</L>
+</LG>
+<LG>
+<L>That sicht, wes pleasant for to se,</L>
+<L>And woundrous nobill, to behold,</L>
+<L>Thair heids were garnisht gallandlie,</L>
+<L>With costly crancis, maid of gold:</L>
+<L>Braid blancis, hang aboue thair eis,</L>
+<L>With iewels of all Histories.</L>
+</LG>
+<LG>
+<L>Vpon thair forebrows, thay did beir,</L>
+<L>Targats and Tablets, of trim warks,</L>
+<L>Pendants and Carcants, shining cleir,</L>
+<L>With Plumagis of gitie sparks:</L>
+<L>Vpon thair hyndheids, set wes syne,</L>
+<L>Buttons and brotchis, braue and fyne.</L>
+</LG>
+<LG>
+<L>And Mairatour, I call to mynd,</L>
+<L>How euerie ane, had on thair front,</L>
+<L>Ane Charbuncle of rubie kynd,</L>
+<L>Togither with ane Diamont:</L>
+<L>And doun thair Haffats hang anew,</L>
+<L>Of Rubeis red, and Saphirs blew.</L>
+</LG>
+<LG>
+<L>Into thair mouthis, as micht be seene,</L>
+<L>Quha had bene tentife to behold,</L>
+<L>Ane Emerauld, of colour greene,</L>
+<L>Set in ane pretie ring of gold:</L>
+<L>Syne thair wes hung, at thair hals bane,</L>
+<L>The Espinell, a precious stane.</L>
+</LG>
+<LG>
+<L>Vpon thair brest, brauest of all,</L>
+<L>Were precious pearls of the Eist,</L>
+<L>The Rubie pallet and Th'opall,</L>
+<L>Togither with the Amatist:</L>
+<L><PB REF="47">Thair micht ye se mangs moue mo,</L>
+<L>The Topas and the Percudo.</L>
+</LG>
+<LG>
+<L>Vpoun thair richt pape maist perfite,</L>
+<L>Thair I saw sindry stains beset,</L>
+<L>The Garned and the Agat quhyte,</L>
+<L>With mone mo, quhilk I forzet:</L>
+<L>Besid thir twa did hing alone,</L>
+<L>The Turcas and the Triapone.</L>
+</LG>
+<LG>
+<L>Vpoun the left wer likwais knit,</L>
+<L>Twa proper stains of valure hie,</L>
+<L>The Iasynth, and the Chessolit,</L>
+<L>Iewels maist excellent to se:</L>
+<L>Amangs the rest I saw athort,</L>
+<L>The Rubie of the rarest sort.</L>
+</LG>
+<LG>
+<L>Fornents thair Nauillis euery one,</L>
+<L>Bure precius Iewels braue and deir,</L>
+<L>The Cornalene and Calcedon,</L>
+<L>Quhilk of it self is quhyte and cleir:</L>
+<L>Thay bure the Orphir on thair back,</L>
+<L>Bot and the Onix gray and black.</L>
+</LG>
+<LG>
+<L>All precius stains micht thair be fene,</L>
+<L>Quhilk in the world had ony name,</L>
+<L>Saue that quhilk CEFOPATRA Queene,</L>
+<L>Did swallow ore into hir wame:</L>
+<L>The veritie for till expres,</L>
+<L>That wes not thair I mon confes.</L>
+</LG>
+<LG>
+<L>In Indea that goldin ground,</L>
+<L>Mair brauitie culd neuer be,</L>
+<L>The belts quhairwith thair waists wer bound</L>
+<L>Wer goldin cheins as ye micht se:</L>
+<L>Also with cheins both in and out,</L>
+<L>Thair arms wer womplit round about.</L>
+</LG>
+<LG>
+<PB REF="47">
+<L>Let no man me esteme to raill,</L>
+<L>Nor think that raschelie I report,</L>
+<L>Thair theis wer likewais garnist haill,</L>
+<L>With gold cheins of that saming sort:</L>
+<L>Thair girtens wer of gold bestreik,</L>
+<L>Thair Legs thairwith wer furneist eik,</L>
+</LG>
+<LG>
+<L>Fra top to tae I you assure,</L>
+<L>Thair corps with gold wes birnist bricht,</L>
+<L>Thay on thair feit, white buskins wure,</L>
+<L>Of costly skins, baith trim and ticht:</L>
+<L>To tell the treuth, and not to lie,</L>
+<L>That sicht wes plesant for to se.</L>
+</LG>
+<LG>
+<L>Ilk ane in ordour keipit place,</L>
+<L>Als weill the formest as the last,</L>
+<L>Thir MOIRS, did mertch befoir hir grace,</L>
+<L>Quhile sche intill hir Pallace past:</L>
+<L>Far better bakit, nor ane Laird,</L>
+<L>With Burgisses to be thair gaird.</L>
+</LG>
+<LG>
+<L>I haue forzet, how in a Robe,</L>
+<L>Of clenely crispe, side to his kneis,</L>
+<L>A bony boy out of the Globe,</L>
+<L>Gaue to hir grace, the siluer Keis:</L>
+<L>And how that he his harang maid,</L>
+<L>With countenance, quhilk did not faid,</L>
+</LG>
+<LG>
+<L>Als I forzet, how wes declaird,</L>
+<L>Our nobill Kings genalogie,</L>
+<L>And now the folks, quha were in ward,</L>
+<L>Wer frely set at libertie:</L>
+<L>For to be schort, thay spent that day,</L>
+<L>In pastime, daliance and deray.</L>
+</LG>
+<LG>
+<L>Forzetting als, the Burgis tryne,</L>
+<L>Without discriptioun of thair cace,</L>
+<L><PB REF="48">Not speiking of the riche propine,</L>
+<L>Quhilk thay did giue vnto hir grace:</L>
+<L>Nor how thay bure the vaill abreid,</L>
+<L>Quhilk hang aboue hir gracis heid.</L>
+</LG>
+<LG>
+<L>Gif I in mind, suld nocht omit,</L>
+<L>Bot intill ordour, all resolue,</L>
+<L>The vollume, wald be woundrous grit,</L>
+<L>And very tedious to reuolue:</L>
+<L>Leuing the rest for to declair,</L>
+<L>Vnto thair memors, quho wer thair.</L>
+</LG>
+<LG>
+<L>The Burgessis maist honorablie,</L>
+<L>Vpoun hir grace, did still atend,</L>
+<L>To tyme the haill solemnitie,</L>
+<L>And trim triumphe wes put to end:</L>
+<L>Sum speciall men, that wer imployd,</L>
+<L>Into hir palace hir conuoyd.</L>
+</LG>
+<LG>
+<L>The nomber of them that wer thair,</L>
+<L>I sall discriue them as I can,</L>
+<L>My Lord I mene the maister Mair,</L>
+<L>The Prouest ane maist prudent man:</L>
+<L>With the haill counsall of the toun</L>
+<L>Ilkane cled in a veluet goun.</L>
+</LG>
+<LG>
+<L>That company, quha did espy,</L>
+<L>The mater wes magnificall,</L>
+<L>The vther Burgissis forby,</L>
+<L>Wer cled in thair pontificall:</L>
+<L>Presenting them before hir face,</L>
+<L>Offring thair seruice to hir grace.</L>
+</LG>
+<LG>
+<L>Dout my dull sensis dois desaue,</L>
+<L>With mair magnificence I mene,</L>
+<L>Gif that the Persians did resaue,</L>
+<L>King DARIVS wife that nobill Queene:</L>
+<L><PB REF="48">Quhen sche did enter with renown,</L>
+<L>In Tipatra that nobill town.</L>
+</LG>
+<LG>
+<L>O Edinburghe now will I sing,</L>
+<L>Thy prais quhilk the perteins of richt,</L>
+<L>Thou hes bene ay trewe to thy King,</L>
+<L>In doing seruice day and nicht:</L>
+<L>Quhen that his grace did haif ado,</L>
+<L>And in the fields ay formest to.</L>
+</LG>
+<LG>
+<L>Not sparing for to spend thair blud,</L>
+<L>Into thair breists thay bure sic loue,</L>
+<L>I say no more, so I conclud,</L>
+<L>Bot I beseik the God aboue:</L>
+<L>Gif that it be his godly will,</L>
+<L>That thy estait may fluris still.</L>
+</LG>
+<TRAILER>FINIS.</TRAILER>
+<EPIGRAPH>
+<Q>BE HONOR I LEVE.</Q>
+</EPIGRAPH>
+</DIV1>
+<DIV1 TYPE="poem">
+<DIV2 N="1" TYPE="part">
+<PB REF="49">
+<HEAD>THE PASSAGE OF THE PILGREMER, DE|VIDIT INTO TVVA PAIRTS.</HEAD>
+<LG>
+<L>AS I went throw ane wood sauage,</L>
+<L>As did AENEAS to Carthage,</L>
+<L>Compast with clouds about,</L>
+<L>I wanderd, and I wist not quhair,</L>
+<L>As ane mad man, into dispair:</L>
+<L>astonisht to wyn out.</L>
+<L>The wode wes gret, and wondrous lang,</L>
+<L>Of lenth and largitude,</L>
+<L>The treis thairof, war stark and strang,</L>
+<L>And full of fortitude:</L>
+<L>Amasing, and gasing,</L>
+<L>Thir treis for to behald,</L>
+<L>So schenlie, and menelie,</L>
+<L>Thair tops thay did dounfald.</L>
+</LG>
+<LG>
+<L>I saw the Ashtre and the Aik,</L>
+<L>That AEOLVS gart yeild and zaik,</L>
+<L>By his maist bitter blast,</L>
+<L>Thocht thay were strang, he gart thame stoup</L>
+<L>And all the trees into that troup,</L>
+<L>That war affixit fast:</L>
+<L>The storme so bitterlie brake out,</L>
+<L>as wonder wes to se,</L>
+<L>The boriall blasts, with mony schout,</L>
+<L>In that forrest did fle:</L>
+<L>Not caldly, bot baldlie,</L>
+<L>Thay thudit throw the treis,</L>
+<L>With rairding, and fairding,</L>
+<L><PB REF="49">On hie the fier fleis.</L>
+</LG>
+<LG>
+<L>The air, wes than vntemperat,</L>
+<L>And with rubies skies, ranculat,</L>
+<L>Mixit with weit and wind,</L>
+<L>And euery fleing foul that fed,</L>
+<L>Ran bissilie hame to thair bed,</L>
+<L>Rest and repose to find,</L>
+<L>Not onely fleing fouls I say,</L>
+<L>Bot beists of diuers kynds,</L>
+<L>Laich on the ground, richt lawly lay,</L>
+<L>Amasit in thair mynds:</L>
+<L>Sum shaking, and quaking,</L>
+<L>For feir, as I esteeme,</L>
+<L>Oretowting, and rowting,</L>
+<L>Into that storme extreme.</L>
+</LG>
+<LG>
+<L>The Lyon and the Leopard,</L>
+<L>From louping, and scouping war skard,</L>
+<L>And faine for to fall doun,</L>
+<L>And als, the awfull Vnicorne,</L>
+<L>For all his bost, wes not forborne,</L>
+<L>Thocht he wes nixt the croun:</L>
+<L>Likwais the Beir, that bitter beist,</L>
+<L>Wes fellonlie afraid,</L>
+<L>And all the Wolfis, ran west and eist,</L>
+<L>Trowing to be betraid:</L>
+<L>Deploring, and roring,</L>
+<L>Wes in that wildernes,</L>
+<L>Sum lying, sum trying,</L>
+<L>The cours of cairfulnes.</L>
+</LG>
+<LG>
+<L>The Drummadrareis left thair feists,</L>
+<L>With Tygers and tyrannius beists,</L>
+<L>Thay war so faine to flit,</L>
+<L>Thair wes the fals Camelion,</L>
+<L>With the big Eliphant anon,</L>
+<L>A beist of bodie grit,</L>
+<L><PB REF="50">Howbeid, he be maist corpolent,</L>
+<L>Zit durst he not repose,</L>
+<L>Quhair he wes wont for to frequent,</L>
+<L>The storme so strangely rose:</L>
+<L>Thir two now, did go now,</L>
+<L>Sum solit pairt to find,</L>
+<L>To waird thame, and gaird thame,</L>
+<L>From bitter blaists of wind.</L>
+</LG>
+<LG>
+<L>The Hart, with his fair forked horns,</L>
+<L>Quhois pikes is sharpe, as ony thorns:</L>
+<L>Richt lawly did doun ly,</L>
+<L>So fast the Deir ran to his den,</L>
+<L>His coulour, I culd skantlie ken,</L>
+<L>Or portrature espy.</L>
+<L>The wilie Tod came by me to,</L>
+<L>With violence and speid,</L>
+<L>For feir the he Fox, left the scho,</L>
+<L>He wes in sick a dreid:</L>
+<L>Quhiles louping, and scowping,</L>
+<L>Ouer bushis, banks, and brais,</L>
+<L>Quhiles wandring, quhiles dandring,</L>
+<L>Like royd and wilzart rais.</L>
+</LG>
+<LG>
+<L>The Wildbair, that wanhappie beist,</L>
+<L>Quhois tusks of lenth, war at the leist,</L>
+<L>Ane quarter lang and mair,</L>
+<L>Into ane furie, he ran fast,</L>
+<L>Throw all the placis quhair he past,</L>
+<L>With mony rout and rair:</L>
+<L>Also the Wood Dog, did sicklike,</L>
+<L>The storme for till eschew,</L>
+<L>This cruell and tyrannius tyke,</L>
+<L>Vpon the hard treis knew:</L>
+<L>No swaging, his raging,</L>
+<L>Micht mittigat or meis,</L>
+<L>Sick badnes, and madnes,</L>
+<L><PB REF="50">Throw kind he did aqueis.</L>
+</LG>
+<LG>
+<L>The Wildcat worst of all the laue,</L>
+<L>Into that pairt I did persaue,</L>
+<L>Fleing for his refuge,</L>
+<L>The storme was so outragius,</L>
+<L>And with rumlings oragius,</L>
+<L>That I for feare did gruge:</L>
+<L>Than out that come the akquair Aip,</L>
+<L>That Murgens wont to mak,</L>
+<L>Richt narowly I saw him scaip,</L>
+<L>Vnbreking of his bak:</L>
+<L>He hang so, and flang so,</L>
+<L>Fast felterd be the feit&punc;</L>
+<L>His haist than, had maist than,</L>
+<L>Cost him ane winding sheit.</L>
+</LG>
+<LG>
+<L>Out come the gyrnen Gennet syne,</L>
+<L>With vther twas<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">m in a tryne,</L>
+<L>All of ane quantitie,</L>
+<L>For faircenes, sum fell on thair face,</L>
+<L>So raschely thay ran out thair race,</L>
+<L>To keip gud companie:</L>
+<L>Thair wes na bus, culd hald them bak,</L>
+<L>So trimly thay culd scoup,</L>
+<L>Nor yet no Tike, culd them oretak,</L>
+<L>So lichtlly thay did loup:</L>
+<L>Not playing, but braying,</L>
+<L>To se that tempest than,</L>
+<L>Amaisdlie, and baisdlie,</L>
+<L>Richt bissilie thay ran.</L>
+</LG>
+<LG>
+<L>Thair wes the Pikit Porcapie,</L>
+<L>The Cunning, and the Con all thrie,</L>
+<L>Merchen amangs the rest,</L>
+<L>I wat thay wantit na gud will,</L>
+<L>To ryn with all speid possibill,</L>
+<L><PB REF="51">Quhill thay wan to thair nest:</L>
+<L>Also the Hare I haue forzet,</L>
+<L>The spediest of all,</L>
+<L>His hasty rinning maid him het,</L>
+<L>Nane neidit him to call:</L>
+<L>Not tyring, nor myring,</L>
+<L>Among the mossis deipe,</L>
+<L>Bot tichtly, and richtly,</L>
+<L>His awin cours he did keipe.</L>
+</LG>
+<LG>
+<L>Out come the Edder at the last,</L>
+<L>Vpon his wamb crieping ful fast,</L>
+<L>Seikand ane hole to hyde him,</L>
+<L>Bot becaus he was venimus,</L>
+<L>And for to touch contagius,</L>
+<L>No beist wald byde beside him:</L>
+<L>Vpon his wamb thus wayis he went,</L>
+<L>Maist miserablie thair,</L>
+<L>For na beist with him wald frequent,</L>
+<L>Nor cum vndir his snair:</L>
+<L>Thay dred so, and fled so,</L>
+<L>From his societie,</L>
+<L>That nane thair, his wane thair</L>
+<L>Wald support or supplie.</L>
+</LG>
+<LG>
+<L>The Basilique that beist maling,</L>
+<L>Of Serpents quhilk is countit King,</L>
+<L>Ran quhill he wes the war,</L>
+<L>Thair was the Viper, and th'aspect,</L>
+<L>With the serpent Cheliderect,</L>
+<L>Quhois stink is felt a far:</L>
+<L>Thair was the serpent Cencrastus,</L>
+<L>A beist of filthy braith,</L>
+<L>And als the Serpent Cerastus,</L>
+<L>Quhois byte brings sudden deith:</L>
+<L>Thir Vipers, and cripers,<NOTE PLACE="marg">Latet anguis in herba.</NOTE></L>
+<L>amang the grene gars lay,</L>
+<L>Doun louring, and couring,</L>
+<L><PB REF="51">Quhill storme wes went away.</L>
+</LG>
+<LG>
+<L>The Fumart and the Fittret straue,</L>
+<L>The deip and howest hole to haue,</L>
+<L>That wes in all the wood,</L>
+<L>About the trie ruts thir twa ran,</L>
+<L>Zit all in vaine na thing thay wan,</L>
+<L>Bot did thole mony thud&punc;</L>
+<L>For cauld they war discomfeist clene,</L>
+<L>The schowrs wer sa seueir,</L>
+<L>Bot I who was ane pure Pilgren</L>
+<L>And half ane stronimeir:</L>
+<L>Forschew thair, and knew thair,</L>
+<L>Sic tempest suld betyde,</L>
+<L>Than ran I, and wan I,</L>
+<L>In ane hole me to hyde.</L>
+</LG>
+<LG>
+<L>Out come the Quhitteret furthwith,</L>
+<L>Ane littill beist of lim and lith,</L>
+<L>And of ane sober schaip,</L>
+<L>To haue ane hole he had grit hast,</L>
+<L>Zit in the wood thair was nane wast,</L>
+<L>To harberie that iaip:</L>
+<L>Than out that come the Modiwart,</L>
+<L>Ane beist throw nature blind,</L>
+<L>Quho fast the eirth culd scraip and scart,</L>
+<L>Rest and refuge to finde:</L>
+<L>Quhiles dodling, and todling,</L>
+<L>Vpon fowr prettie feit,</L>
+<L>Quhiles scrubbing, quhiles rubbing,</L>
+<L>The ground quhair it was weit.</L>
+</LG>
+<LG>
+<L>Thir beists heir befoir nominat,</L>
+<L>May esilie be numerat,</L>
+<L>The calcull is bot small,</L>
+<L>For by thir beists I saw anew,</L>
+<L>Quhois nams befoir I neuir knew,</L>
+<L><PB REF="52">Nor how men did thame call:</L>
+<L>Sick beists as I had seene before,</L>
+<L>Thair names I did reteene,</L>
+<L>Bot thair wes mony in that store,</L>
+<L>That I had neuer seene:</L>
+<L>Sum mikill, sum littill,</L>
+<L>Of mony syndrie sort,</L>
+<L>That hantit, and plantit,</L>
+<L>That place to be thair port.</L>
+</LG>
+<LG>
+<L>Sum proper were of portrature,</L>
+<L>Of lith and lim, pretie and pure,</L>
+<L>and hantsum to behald,</L>
+<L>Quhois nams, I na wais culd expreme,</L>
+<L>Nor to my iudgement weill esteme,</L>
+<L>The flox into that fald:</L>
+<L>It wes ane wonder for to se,</L>
+<L>So gret ane multitude,</L>
+<L>Without all mediocritie,</L>
+<L>Amangst the treis that stud:</L>
+<L>Eschewing, the dewing,</L>
+<L>Of ranie Orion,</L>
+<L>That dropit, and knopit,</L>
+<L>Baith vpon tre and stone.</L>
+</LG>
+<LG>
+<L>Quhat farlie than thocht fouls that fleis,</L>
+<L>With gret pains and perplexiteis,</L>
+<L>War greuously tormentit,</L>
+<L>Quhen gret wild beists, of lim and lith,</L>
+<L>Imployd with pissance strenth and pith,</L>
+<L>For feir, thame selfis absentit&punc;</L>
+<L>And into hols and bors thame hyd,</L>
+<L>The storme for till eschew,</L>
+<L>For quhy, the wind, with mony quhyd,</L>
+<L>Maist bitterly thair blew:</L>
+<L>With quhirling, and dirling,</L>
+<L>The fudder fell so thick,</L>
+<L><PB REF="52">Doun dryuing, and ryuing,</L>
+<L>The leiues that thay did lick.</L>
+</LG>
+<LG>
+<L>First IOVIS foule, the Eagill fair,</L>
+<L>I saw discend down from the air,</L>
+<L>Syne to the wood went he,</L>
+<L>The Hiron and the fleing Hairt,</L>
+<L>Come fleing from ane vther pairt,</L>
+<L>beside him for to be:</L>
+<L>Ane fellon tryne, com at his taill,</L>
+<L>Fast flichtren throw the skise,</L>
+<L>Bot suddenly, that scull did skaill,</L>
+<L>Thairfore thay war mair wise:</L>
+<L>Than fled thay, and sched thay,</L>
+<L>Euery ane from ane vdder,</L>
+<L>Doun louching, and coutching,</L>
+<L>To fle the flichts of fudder.</L>
+</LG>
+<LG>
+<L>The fierie Dragon, flew on hie,</L>
+<L>Out throw the skies, richt cuttetlie,</L>
+<L>Syne to the ground come doun,</L>
+<L>Into ane furie fast he flew,</L>
+<L>To haue an hald, him to reskew,</L>
+<L>As strangers to ane toun:</L>
+<L>Nixt come the Gorgoull and the Graip,</L>
+<L>Twa feirfull fouls indeid,</L>
+<L>Quho vsis oft to like and laip,</L>
+<L>The blud of bodies deid:</L>
+<L>Thame druging, and ruging,</L>
+<L>With thair maist cruell clukis,</L>
+<L>Sik hashing, and knashing,</L>
+<L>Cums not of clenlie cukis.</L>
+</LG>
+<LG>
+<L>The Airne and the Goshalk syne,</L>
+<L>That dentely had wont to dyne,</L>
+<L>On Pairtrik and on Pliuer,</L>
+<L>With feir, thair famin wes forzet,</L>
+<L><PB REF="53">With blasts of wind thay war so bet,</L>
+<L>And lancit throw the liuer:</L>
+<L>With the schairp speir of apetyte,</L>
+<L>Howbeid, thair harts was perst</L>
+<L>Yit thay for meit, caird not ane myte,</L>
+<L>Nor zit no succour cerst:</L>
+<L>So fain than, vnslain than,</L>
+<L>Thameselfs they wald haue keipit,</L>
+<L>That surelie, maist purelie,</L>
+<L>Vpon the ground thay creipit.</L>
+</LG>
+<LG>
+<L>Quhat suld I say, the Gok, the Gled,</L>
+<L>With speidie flycht, richt fast thay fled,</L>
+<L>From feding on the plaine,</L>
+<L>And thair I saw the milke quhyte Swan,</L>
+<L>Conuoy the Wodcock and the Cran,</L>
+<L>Of quhome thay war richt faine:</L>
+<L>The Bisset and the Corbe baith,</L>
+<L>Flew fast befoir the laue,</L>
+<L>Laith war thay to kep ony skaith,</L>
+<L>Or ony harme to haue:</L>
+<L>So slelie, and frelie,</L>
+<L>From dangers thay thame fred,</L>
+<L>In speiding, exceiding,</L>
+<L>All vthers into tred.</L>
+</LG>
+<LG>
+<L>The Houlet and the Herison,</L>
+<L>Out of the airt Septentrion,</L>
+<L>Come with ane feirfull voce,</L>
+<L>The Houlet had sick awfull cryis,</L>
+<L>Thay corrospondit in the skyis,</L>
+<L>As wind within a boce:</L>
+<L>Quhois cryis and clamours terius,</L>
+<L>I compair to the zell,</L>
+<L>Of that gret tike Cyberius,</L>
+<L>The cruell hound of hell:</L>
+<L>Quhois zouling, and gouling,</L>
+<L><PB REF="53">I haue na will to heir,</L>
+<L>Sick singing, and springing,</L>
+<L>Is irksum to the eir.</L>
+</LG>
+<LG>
+<L>The Arrondell so swift of flicht,</L>
+<L>Doun on the land richt law did licht,</L>
+<L>So sore he wes oprest,</L>
+<L>The Alcions lykwais left the See,</L>
+<L>And to the schore richt fast culd flee,</L>
+<L>For to recouer rest:</L>
+<L>The Calicrat, that lytle thing,</L>
+<L>Bot, and the hony Bie,</L>
+<L>That wont before, to skip and spring,</L>
+<L>Into the air so hie:</L>
+<L>With mumming, and bumming,</L>
+<L>The Bee now seiks his byke,</L>
+<L>Quhils stinging, quhils flinging,</L>
+<L>From hole to hole did fyke.</L>
+</LG>
+<LG>
+<L>The Cygonie, that foul so whyte,</L>
+<L>Quhilk at the Serpents hes despyte,</L>
+<L>Come granen to the ground,</L>
+<L>And Mamuks, that byds euer mair,</L>
+<L>And feids into the cristall air,</L>
+<L>Deid on the feilds wer found:</L>
+<L>The Gru, before me thair apeirs,</L>
+<L>Quhois legs wer lang and syde,</L>
+<L>From the Septentrion quhilk reteirs,</L>
+<L>Into the winter tyde:</L>
+<L>This foul now, did zoull now,</L>
+<L>As it had bene ane beist,</L>
+<L>Quhyls quhinging, quhyls cringing,</L>
+<L>With paine it wes so preist.</L>
+</LG>
+<LG>
+<L>The Tuquheit and the Sterling than,</L>
+<L>To gidder with the Pelican,</L>
+<L>Flew in ane randell richt,</L>
+<PB REF="54">
+<GAP DESC="duplicate" EXTENT="1 page">
+<PB REF="54">
+<GAP DESC="duplicate" EXTENT="1 page">
+<PB REF="55">
+<L>The Piet and the Papingo,</L>
+<L>With the Goldspink I saw thame go,</L>
+<L>Syne laich thay did doun licht:</L>
+<L>Behaulding thir horrible things,</L>
+<L>Almaist, my eis grew blind,</L>
+<L>To se thair pretie spirtlet wings,</L>
+<L>So felterd with the wind:</L>
+<L>Dispairit, I stairit,</L>
+<L>Vp to the element,</L>
+<L>Behalding, thair walding,</L>
+<L>How thay in ordour went.</L>
+</LG>
+<LG>
+<L>The Merle and the Mauice trig,</L>
+<L>Flew from the bush quher thay did big,</L>
+<L>Syne tuke thame to the flicht,</L>
+<L>The Osill and the Rosignell,</L>
+<L>The Phoenix and the Nichtingell,</L>
+<L>Twa fouls baith fair and bricht:</L>
+<L>Quhois pretie wings I did persaue,</L>
+<L>So spurtlit and so spred,</L>
+<L>Thir fouls, I couit faine to haue,</L>
+<L>So clerlie thay war cled:</L>
+<L>Thair hew so, furth schew so,</L>
+<L>To my twa mortall eis,</L>
+<L>That I thair, stud by thair,</L>
+<L>Contempling to the treis.</L>
+</LG>
+<LG>
+<L>The Stainzell, and the Schakerstane,</L>
+<L>Behind the laue, war left alane,</L>
+<L>With waiting on thair marows,</L>
+<L>The snype, with sundry vther fouls,</L>
+<L>With cairfull cries, laments and youls,</L>
+<L>And specially pure Sparrows:</L>
+<L>The meikill fouls war not to mene,</L>
+<L>So meikill as the small,</L>
+<L>Zit thay did meikill to mentene,</L>
+<L>Thair bodies out of thrall:</L>
+<L><PB REF="55">Fast fallowing, with wallowing,</L>
+<L>And mony cairfull cry,</L>
+<L>Intransit, I pansit,</L>
+<L>Thair panis for till espy.</L>
+</LG>
+<LG>
+<L>The Hobbie and the Hedder bluter,</L>
+<L>Aloud the Gaeto be thair tuter,</L>
+<L>Thame to conduct and gyde,</L>
+<L>The Cucko and the Couchet can,</L>
+<L>The Lawrok and the littill wran,</L>
+<L>Had sikker be thair syde:</L>
+<L>And mairatour I tell to zow,</L>
+<L>The Pown I did persaue,</L>
+<L>Togidder with the turtill Dow,</L>
+<L>The last of all the laue:</L>
+<L>This fidder, togidder,</L>
+<L>Vnto the wood ar went:</L>
+<L>Sum murning, and turning,</L>
+<L>Into the firmament.</L>
+</LG>
+<LG>
+<L>Of ilk perticuler fowle to treit,</L>
+<L>It war ouir tedious to repeit,</L>
+<L>Quhair fore I thocht it best,</L>
+<L>In this cathaloge to conuene</L>
+<L>Ane bonie nomber, bot I mene,</L>
+<L>Renouncing all the rest:</L>
+<L>Bot as I spak to zow before,</L>
+<L>Tuitching the multitude,</L>
+<L>I wat thair was ten thousand score</L>
+<L>Of birds and beists maist brude:</L>
+<L>To ken tham, or pen tham,</L>
+<L>My wit it wes to waik,</L>
+<L>Or zit thair, to sit thair,</L>
+<L>On sik consaits to glaik.</L>
+</LG>
+<LG>
+<L>I was afflixit in my mynde,</L>
+<L>And als with caris I was inclynd,</L>
+<L><PB REF="56">To be in sick a stait,</L>
+<L>I hapnit in ane wildernes,</L>
+<L>Quhair I chanst to gang in beges,</L>
+<L>Be ganging out the gait:</L>
+<L>Vainly and temerariuslie,</L>
+<L>Into that pairt I past,</L>
+<L>Bot he that wald faine fairles sie,</L>
+<L>Sall find thame at the last:</L>
+<L>Belyue syne, aryue syne,</L>
+<L>Within the wood did I,</L>
+<L>Quhair I ay, did spy ay,</L>
+<L>Wyld beists fast rynning by.</L>
+</LG>
+<LG>
+<L>Fra time I enterd in that pairt,</L>
+<L>I saw na passage to depairt,</L>
+<L>Nor entrie to win out,</L>
+<L>To heir the Wildbeists bray and beir,</L>
+<L>My febill flesh, did faint for feir,</L>
+<L>Na takin I was stout:</L>
+<L>God wat, gif I wes in gret paine,</L>
+<L>I wist not quhair to ryn,</L>
+<L>Nor zit culd find the gait againe,</L>
+<L>First, quhair I enterd in:</L>
+<L>Bot tauren, and dauren,</L>
+<L>Like ane daft doitit fule,</L>
+<L>Afflikit, and prickit,</L>
+<L>With dairts of cair and dule.</L>
+</LG>
+<LG>
+<L>How culd I be, bot full of cair,</L>
+<L>And halflings put into dispair,</L>
+<L>So to be left alone,</L>
+<L>Quhair I with na man micht confar,</L>
+<L>Nor zit within ten myls we nar,</L>
+<L>Till ony toune or waine</L>
+<L>The tempest did continew still,</L>
+<L>Thair wes baith weit and wynd,</L>
+<L>And EVRVS with loud schouts and schill,</L>
+<L><PB REF="56">His braith begoud to fynd:</L>
+<L>With quhewing, renewing,</L>
+<L>His bitter blaists againe,</L>
+<L>Seueirly, not sneirly,</L>
+<L>To you, I make it plaine.</L>
+</LG>
+<LG>
+<L>The wadder wes not lyke to mend,</L>
+<L>Nor zit, to draw to ony end,</L>
+<L>Quhair throw it micht be fair,</L>
+<L>Bot ay the Tempest did acres,</L>
+<L>And na waies lykin to grow les,</L>
+<L>Bot rather to be mair.</L>
+<L>The Wyldbeists crap doun quietlie,</L>
+<L>The wedder was so rud,</L>
+<L>For thay micht haue no facultie,</L>
+<L>To pas and seik thair fud:</L>
+<L>The tall beists, the small beists,</L>
+<L>Did eit and slae thairfore,</L>
+<L>The meikill fouls, the litill fouls,</L>
+<L>In lykwais did deuore.</L>
+</LG>
+<LG>
+<L>The ritch, the pureons ay oprest,</L>
+<L>I mene the meikillest, ay the lest,</L>
+<L>Dulfullie did doun thring,</L>
+<L>Without all pitie or respect,</L>
+<L>Of the inferiours threw the nek,</L>
+<L>Quhilk wes ane cruell thing:</L>
+<L>Gif ony persoun maist prophane,</L>
+<L>Wald call sick slauchter syne,</L>
+<L>It may be answert heir agane,</L>
+<L>Neid nakit man gars ryne:</L>
+<L>Gret neid than, indeid than,</L>
+<L>Compeld thame so to do,</L>
+<L>Or els thair, thame selfs thair,</L>
+<L>For till haue perisht to.</L>
+</LG>
+<LG>
+<L>Thay culd nat do na les indeid,</L>
+<L><PB REF="57">Seing that thair was na remeid,</L>
+<L>Bot ether do or die:</L>
+<L>Gif vtherwayis thay micht haue done,</L>
+<L>Thay had run furth and socht it sone,</L>
+<L>Bot so it micht not bie:</L>
+<L>Thair harts with hunger was so peirst,</L>
+<L>That thay behou'd haue fude,</L>
+<L>For this caus thay baith socht and serst,</L>
+<L>How thay micht haue thair blude:</L>
+<L>Begyling, and syling,</L>
+<L>The eies of sillie beists,</L>
+<L>Thame taking, and making,</L>
+<L>Prouision for thair feists.</L>
+</LG>
+<LG>
+<L>The litill beists maid hauie mane,</L>
+<L>With the grit beists to be oretane,</L>
+<L>And so to be destroyed,</L>
+<L>Thair murning micht thame na thing mend</L>
+<L>Bot only thair to mak ane end,</L>
+<L>Of that quhilk thay enioyed:</L>
+<L>Within that Wildernes desart,</L>
+<L>thair was grit nomber slane,</L>
+<L>The wyld foulis on the vther part,</L>
+<L>Did play the counterpane:</L>
+<L>Abusing, and vsing,</L>
+<L>The small fouls at thair will,</L>
+<L>But treitie, or pitie,</L>
+<L>Not sparing it to spill.</L>
+</LG>
+<LG>
+<L>Sum fled for feir to saue them sels,</L>
+<L>And vther sum with zouts and zels,</L>
+<L>Maist cairfully did cry,</L>
+<L>Gif thay had caus our selfis may iuge,</L>
+<L>Seing that thair was na refuge,</L>
+<L>How that thay micht win by:</L>
+<L>Bot as the foular casts his cair,</L>
+<L>His catch for to preuent,</L>
+<L><PB REF="57">So thay war trapit in the snair,</L>
+<L>Into ane accident:</L>
+<L>Still wating, and gating,</L>
+<L>Quhyll thay war all oretane,</L>
+<L>Dispaching, and knashing,</L>
+<L>In ordour, ane and ane.</L>
+</LG>
+<LG>
+<L>Than struke ane terror in my mynd,</L>
+<L>For to persaue, thir pure beists pynd,</L>
+<L>Quhilk micht make na debait,</L>
+<L>Gret broucherie and bludshed maid,</L>
+<L>About the pairt, quhair I abaid,</L>
+<L>Sick wes thair wofull stait:</L>
+<L>Astonisht I stud, trymbling thair,</L>
+<L>Forfant, for verie feir,</L>
+<L>And as the sillie huntit hair,</L>
+<L>From ratchis maks reteir:</L>
+<L>Quhylis rysing, quhylis vysing,</L>
+<L>Quhylis saying to my sell,</L>
+<L>My stait now, and gait now,</L>
+<L>apeirs to pas to hell.</L>
+</LG>
+<LG>
+<L>I thocht I ay descendit doun,</L>
+<L>And so for feir, I fell a soun,</L>
+<L>But mouing sens or sicht,</L>
+<L>For feir, and quhat for laik of fude,</L>
+<L>My body empty wes of blude:</L>
+<L>In me thair wes na micht:</L>
+<L>My spreit perturbit wes so fair,</L>
+<L>With vysions and with dreims,</L>
+<L>That I lay comfortles in cair,</L>
+<L>In troubils and extreims:</L>
+<L>Quhylis demyng, quylis dremyng,</L>
+<L>I lay into ane trance,</L>
+<L>Quhylis panyng. quhylis vanyng,</L>
+<L>So sudden wes my chance.</L>
+</LG>
+<LG>
+<PB REF="58">
+<L>My febill corps, did faint richt soune,</L>
+<L>For I saw neither sun nor moune,</L>
+<L>No planets did apeir,</L>
+<L>Quhat stakren stait, was this to me,</L>
+<L>To be in sick obscuritie,</L>
+<L>Gif this wes paine I speir:</L>
+<L>Than softlie did I suoufe and sleipe,</L>
+<L>Howbeid my bed wes hard,</L>
+<L>Into ane den profound and deipe,</L>
+<L>Quhair I with nane wes scard:</L>
+<L>Radoting, starnoting,</L>
+<L>As wearie men will do,</L>
+<L>Supyring, quhiles wyring,</L>
+<L>My tender bodie to.</L>
+</LG>
+<TRAILER>FINIS.</TRAILER>
+<TRAILER>Heir endeth the first Passage of the Pilgrimer.</TRAILER>
+<EPIGRAPH>
+<Q>BE HONOR I LEVE.</Q>
+</EPIGRAPH>
+</DIV2>
+<DIV2 N="2" TYPE="part">
+<PB REF="58">
+<HEAD>THE SECOVND PASSAGE OF THE PIL|GRIMER.</HEAD>
+<LG>
+<L>FIrst in my visioun I saw,</L>
+<L>Montains and Muris, orecled with snaw,</L>
+<L>And all the bewis maid bair,</L>
+<L>And fyne I thocht, I saw gret Seis,</L>
+<L>Quhois michtie force, NEPTVN dois meis,</L>
+<L>As Dominator thair:</L>
+<L>The Iland EGEOS, I did se,</L>
+<L>NEPTVNVS hallowit hill,</L>
+<L>Quhilk stands into the Grecian Se,</L>
+<L>Quhair sluds dois flow and fill:</L>
+<L>Besyde thair, maist wyde thair,</L>
+<L>Mount Locas micht be seene,</L>
+<L>With SCILLIA, and DOSINA,</L>
+<L>Quhair grows the marbell greene.</L>
+</LG>
+<LG>
+<L>Erix that monstrus mountaine hie,</L>
+<L>Quhois hauture hes na quantitie,</L>
+<L>As Poets dois report,</L>
+<L>This michtie mountaine, micht be seene,</L>
+<L>Quhairon thair stands, ane Temple scheene,</L>
+<L>Weill buildit thair athort:</L>
+<L>This Tempill did the Troians found,</L>
+<L>To VENVS, as we read,</L>
+<L>The stains thairof war marbell sound,</L>
+<L>Lyke to the Lamer bead:</L>
+<L><PB REF="59">This muldrie, and buldrie,</L>
+<L>Was maist magnificall,</L>
+<L>Maist royall, and ioyall,</L>
+<L>Trim and pontificall.</L>
+</LG>
+<LG>
+<L>Quhair I sat musing mine alone,</L>
+<L>OLympus mont of Macedone,</L>
+<L>I thocht stud me before,</L>
+<L>Mont Emus, thair apeird to me,</L>
+<L>Quhair ORPHEVS leird his harmonie,</L>
+<L>And melodiuell lore:</L>
+<L>I saw the riuer Tagus to,</L>
+<L>Quhair goldin sands did schyne,</L>
+<L>Quhair that the Nymphs hes ay ado,</L>
+<L>With all the Musis nyne:</L>
+<L>As NERIDES, and DRIADES,</L>
+<L>Twa Nymphs, of gret renoun,</L>
+<L>With CLEO, and CRATO,</L>
+<L>Till Helicone wer boun.</L>
+</LG>
+<LG>
+<L>The Rochis repercust and rang,</L>
+<L>Quhair that the Tritons plaid and sang,</L>
+<L>On trumpis tresexcellent,</L>
+<L>Thair PAN plaid on his pleasant pype,</L>
+<L>And ORPHEVS on his Harpe sicklike,</L>
+<L>Ane pretty instrument:</L>
+<L>That sound wes so celestiall,</L>
+<L>And so melodius,</L>
+<L>Aboue all things terrestriall,</L>
+<L>The maist iucundius:</L>
+<L>Maist sweitest, and meitest,</L>
+<L>For wearie men like me,</L>
+<L>Quhois noying to ioying,</L>
+<L>Wes changit suddenlie.</L>
+</LG>
+<LG>
+<L>Sick mirthfull menstrellie wes thair,</L>
+<L>I wait that neuer man saw mair,</L>
+<L><PB REF="59">Into so schort a space,</L>
+<L>I musit, and I merueld syne,</L>
+<L>To se that hie triumphant tryne,</L>
+<L>Of peopill in that place:</L>
+<L>Than curiously I did inquire,</L>
+<L>At ane quho stud me by,</L>
+<L>Quho Prences was, or had impire,</L>
+<L>Of that maist fralik f<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">y:</L>
+<L>A maid than, me said than,</L>
+<L>I sall you tell bedeene,</L>
+<L>Our maistres, and goddes,</L>
+<L>VENVS that lustie Queene.</L>
+</LG>
+<LG>
+<L>Quhair boun ye to my frend, sche sais,</L>
+<L>Astonishtly me thinke ye gais,</L>
+<L>Tell me quhat mouis your mynd,</L>
+<L>Gif ze gang wrang, I sall you gyde,</L>
+<L>Apearandly thou wanderst wyde,</L>
+<L>I se weill be your synd:</L>
+<L>For this place is maist perrillus,</L>
+<L>And dangerous indeid,</L>
+<L>And thir mountains are maruellus,</L>
+<L>Quhair all Wyldbeists dois breid:</L>
+<L>Maist terribill, and horribill,</L>
+<L>Is this wanhappy gait,</L>
+<L>Sick dangers, puts strangers,</L>
+<L>Into ane stakren stait.</L>
+</LG>
+<LG>
+<L>Gif thou go fordward, thou sall se,</L>
+<L>Neritos with his rochis hie,</L>
+<L>Quhair Gyants hes thair hyuis</L>
+<L>Thair rochis thou sall se anew,</L>
+<L>Quhair HERCVLES the lyon slew,</L>
+<L>As VIRGIL weill descryuis:</L>
+<L>Into thir pairts, thair nane repairs,</L>
+<L>Except it be our sels,</L>
+<L>For heir belangs, our haill affairs,</L>
+<PB REF="60">
+<GAP DESC="duplicate" EXTENT="1 page">
+<PB REF="60">
+<GAP DESC="duplicate" EXTENT="1 page">
+<PB REF="61">
+<L>As I haue tauld the els:</L>
+<L>Bot we than, ye se than,</L>
+<L>Nane may mak hanting heir,</L>
+<L>Vnles now, expres now,</L>
+<L>To daith thay wald apeir.</L>
+</LG>
+<LG>
+<L>Heir is the pairt thou may espy,</L>
+<L>Quhair CACVS, in his caue dois ly,</L>
+<L>That monster maist seueir,</L>
+<L>Vpoun his zet deid heidis ar hung,</L>
+<L>Of agit folke, and children young,</L>
+<L>Quho had bene walken heir:</L>
+<L>This CACVS, lyis not heir alon,</L>
+<L>Bot mony Gyants mea,</L>
+<L>The ofspring zit of GERION</L>
+<L>Quhome HERCVLES did flea,</L>
+<L>Pocessis, and dressis,</L>
+<L>Thir placis as thay pleis,</L>
+<L>Tormenting, and shenting,</L>
+<L>Mens blud of all degreis,</L>
+</LG>
+<LG>
+<L>I can not tell quhat thou sall do,</L>
+<L>Bot take gud tent, quhair thou gangs to,</L>
+<L>The danger dois draw neir,</L>
+<L>The Gyants heir are conuocat,</L>
+<L>Agains pure pepill to combat,</L>
+<L>Quho hapins to cum heir:</L>
+<L>Euin as the blyndman gangs beges,</L>
+<L>In houering far behynd,</L>
+<L>So dois thou dandill in distres,</L>
+<L>Quhilk I feir thou sall fynd:</L>
+<L>Bewar now, ore far now,</L>
+<L>To pas into this place,</L>
+<L>Consydring, quhat fydring,</L>
+<L>Lyis in your gait alace.</L>
+</LG>
+<LG>
+<L>As hils humectat are with dew,</L>
+<L><PB REF="61">AVRORAS teirs for to renew,</L>
+<L>Quhilk TYTAN dois distell,</L>
+<L>With sackles blud, quhilk heir is shed,</L>
+<L>So are thir placis haill orespred,</L>
+<L>Lamentabill to tell:</L>
+<L>Ane pepill maist hyronius,</L>
+<L>Rustik, ignare&punc; and rud,</L>
+<L>And na ways Elimosmus,</L>
+<L>Bot buriours in blud:</L>
+<L>All hours ay, in bours ay,</L>
+<L>Exspecting for thait pray,</L>
+<L>With gredur, but dredur,</L>
+<L>Awaiting in the way.</L>
+</LG>
+<LG>
+<L>I wish to God, gif thou wer than,</L>
+<L>Transformd in portrait of a Swan,</L>
+<L>As IOVE did quhen he dred,</L>
+<L>With fedret wings to fle on hie,</L>
+<L>So that thou micht in safetie be,</L>
+<L>And from all dangers fred:</L>
+<L>Gif that thou culd discryue the cairt,</L>
+<L>The way thou wald go richt,</L>
+<L>Or siluer DIAN, do depairt,</L>
+<L>The regent of the nicht,</L>
+<L>To fle syne, on he syne,</L>
+<L>Out throw the cluddie air,</L>
+<L>As bounting, vp mounting,</L>
+<L>Aboue the feilds so fair.</L>
+</LG>
+<LG>
+<L>Thir catif miscreants, I mene,</L>
+<L>As buriours hes euer bene,</L>
+<L>Wordie to vilipend,</L>
+<L>The practise of thair pariceid,</L>
+<L>And barbrus cruell homiceid,</L>
+<L>Is not till vs vnkend:</L>
+<L>Quhairfore my frend, it is my will,</L>
+<L>Sum vtherway ye wynd,</L>
+<L><PB REF="62">For execrabill curst and ill,</L>
+<L>Thir catifs are of kynd:</L>
+<L>Surprysing, and vysing,</L>
+<L>Pure Pilgrims how to trap,</L>
+<L>Still lurking, in wurking,</L>
+<L>Sum mater of mishap.</L>
+</LG>
+<LG>
+<L>At lenth, this Pilgrim spake againe,</L>
+<L>Except with me, that ye remaine,</L>
+<L>For feir my corps will cule,</L>
+<L>Swa feiring, thair for to be left,</L>
+<L>He of his senses was bereft,</L>
+<L>Besottit like ane fule:</L>
+<L>MACROBIVS QYNTVS of Corinth,</L>
+<L>Quho did descend to hell,</L>
+<L>In ane mair troublus Laborinth,</L>
+<L>Not intricat him sell:</L>
+<L>Nor I now, quhair by now,</L>
+<L>Experience teichis plaine,</L>
+<L>Intrusit, and vsit,</L>
+<L>With pepill maist prophane.</L>
+</LG>
+<LG>
+<L>Before I come into this cair,</L>
+<L>Perplexitie and gret dispair,</L>
+<L>With troubill; stryfe and tene,</L>
+<L>Wald I had bene deuord with daith,</L>
+<L>Els in the entrels of the earth,</L>
+<L>Intombit till haue bene:</L>
+<L>Och ATRAPVS, quhair is thy knyfe,</L>
+<L>Quhy hes thou me misusd,</L>
+<L>Into relenting of my life,</L>
+<L>Quhilk hes bene so abusd:</L>
+<L>Wald God now, the rod now,</L>
+<L>Of daith, wald me deuore,</L>
+<L>That deing, my being,</L>
+<L>Micht heir remaine no more.</L>
+</LG>
+<LG>
+<PB REF="62">
+<L>Better I neuer had bene borne,</L>
+<L>Nor liue in sic a life forlorne,</L>
+<L>Byrning in flams of fier,</L>
+<L>My dolor daylie aggrauats.</L>
+<L>And cairs so me inuironats,</L>
+<L>That deith I do desire:</L>
+<L>Quhen I relat my lyfe alace,</L>
+<L>My watrie eies distels,</L>
+<L>Considdring my maist cairfull cace,</L>
+<L>All plesours that expels:</L>
+<L>O deid now, with speid now,</L>
+<L>Cum peirs me with thy dairt,</L>
+<L>I griue heir, to liue heir,</L>
+<L>Sen ans I must depairt.</L>
+</LG>
+<LG>
+<L>Seing na ischew till eschew,</L>
+<L>My dolour daylie did renew,</L>
+<L>Sic madnes did me moue,</L>
+<L>Euin as ane persoun in dispair,</L>
+<L>My greif aggregis mair and mair,</L>
+<L>Without remorse or roue.</L>
+<L>Then I begoud to exclamat,</L>
+<L>The Gods into my greif,</L>
+<L>And quhyls APOLLO imprecat,</L>
+<L>To send me sum releif:</L>
+<L>Howbeid than, in neid than,</L>
+<L>I at thir Gods socht grace,</L>
+<L>In vaine zit, my paine zit,</L>
+<L>Gat na relief alace.</L>
+</LG>
+<LG>
+<L>APOLLO had compleit his cure,</L>
+<L>And so the clouds wer all obscure,</L>
+<L>For PHAEBVS cast no licht,</L>
+<L>AVRORA raise with sanguine hew,</L>
+<L>And so DIANA bad adew,</L>
+<L>The Regent of the nicht:</L>
+<L>With this begoud to cleir the skyse,</L>
+<L><PB REF="63">Amangs the mountains, gret and grim,</L>
+<L>I socht this Goddes gay:</L>
+<L>Quhair I mont Caucasis did clym,</L>
+<L>Quhair snaw remains for ay:</L>
+<L>Dispairdly, vncairdly,</L>
+<L>I hasert ouer the hill,</L>
+<L>Allowing, and trowing,</L>
+<L>To haue obteind my will.</L>
+</LG>
+<LG>
+<L>Gret wes the hasert, quhilk I tuke,</L>
+<L>Gif to the voyage, ye wald luke,</L>
+<L>And all the perils pen,</L>
+<L>Amang sick monstrous animals,</L>
+<L>I mene the cruell canibals,</L>
+<L>Quha feids on flesch of men:</L>
+<L>Thir barbrus pepill, war nor Moirs,</L>
+<L>Thair IOVE, dois not extoll,</L>
+<L>Bot sum the Daelphin torche adoirs,</L>
+<L>And sum the artik poll:</L>
+<L>Securely, vnsurely,</L>
+<L>Still sleping into syn,</L>
+<L>Offending, but mending,</L>
+<L>Sick is the race thay ryn.</L>
+</LG>
+<LG>
+<L>Than did I dascan with my sell,</L>
+<L>Quhidder to heuin or vnto hell,</L>
+<L>Thir persouns suld pertene,</L>
+<L>Quho na wais hes regard of God,</L>
+<L>Bot as wyld beists, dois ryn abrod,</L>
+<L>Delyting into tene:</L>
+<L>I in my mynd againe did pance,</L>
+<L>How all wes done in sleuth,</L>
+<L>In blindnes and in ignorance,</L>
+<L>But knawledge of the truth:</L>
+<L>Deploring, and soring,</L>
+<L>Thair ignorant estaits,</L>
+<L>Quhilk marknes, and darknes,</L>
+<L><PB REF="63">Pairtlie thair deids debaits.</L>
+</LG>
+<LG>
+<L>Than iudge, quhat dois to sick belang,</L>
+<L>As knawis the richt way be the wrang,</L>
+<L>And zit the same forbeirs,</L>
+<L>Or can we call thame christians richt,</L>
+<L>That seis the glorious glancing licht,</L>
+<L>Syne to the mirke reteirs:</L>
+<L>Sum are like lyons in effect,</L>
+<L>Baith barbarus and rud,</L>
+<L>And sum like woluis, without respect,</L>
+<L>Seking thair nichbours blud:</L>
+<L>Sick men than, ye ken than,</L>
+<L>Amangs our selfs we se,</L>
+<L>As bregers, and tygers,</L>
+<L>Delyts in blud to be.</L>
+</LG>
+<LG>
+<L>Ze that your lands delapidats,</L>
+<L>And all your actions agitats,</L>
+<L>In sick prophane affairs,</L>
+<L>Ze Bludsheders and buriours all,<NOTE PLACE="marg">homo homi|ni Lupus</NOTE></L>
+<L>Iust Canibals, men may you call,</L>
+<L>As weill your deids declairs:</L>
+<L>Thou bluddy man that dois abuse,</L>
+<L>Thy glore bot, and thy grace,</L>
+<L>Quhat can thou find for thy excuse,</L>
+<L>At the tribunall place:</L>
+<L>Thy scusis, and rusis,</L>
+<L>Sall serue for na effect,</L>
+<L>Bot rather, sall further,</L>
+<L>Thy knaifre to detect.</L>
+</LG>
+<LG>
+<L>Into that terribill conflict,</L>
+<L>Sick ferifull pains my hart did prick,</L>
+<L>As na man micht abyde,</L>
+<L>Thair wandring in the corners cauld,</L>
+<L>My Nymph, I na wais culd behauld,</L>
+<L><PB REF="64">Amangs the mountains wyd:</L>
+<L>Feir pat my hart in sick a flocht,</L>
+<L>It did me mutch mischeif,</L>
+<L>And ay the mair of hir I thocht,</L>
+<L>The greter grew my greif:</L>
+<L>Quhyls wissing, hir missing,</L>
+<L>Out of my mynd to go,</L>
+<L>Yit sadnes, and madnes,</L>
+<L>Did agrauat my wo.</L>
+</LG>
+<LG>
+<L>The mair ye stop the streame within,</L>
+<L>With gretter force the flud will ryn,</L>
+<L>As I may weill compair,</L>
+<L>Sick fantasie on hir I set,</L>
+<L>The fainer I wald hir forzet,</L>
+<L>Remembrie grew the mair:</L>
+<L>O Nymph, quod I, now to me tell,</L>
+<L>Quhy hes thou done this deid,</L>
+<L>Into absenting of thy sell,</L>
+<L>Fra me in gretest neid:</L>
+<L>Draw neir me, and heir me,</L>
+<L>Pure catife quhair I cry,</L>
+<L>Beseiking, with speiking,</L>
+<L>Sum answer to reply.</L>
+</LG>
+<LG>
+<L>Euin as the fish dois take delyte,</L>
+<L>Vpon the fishers bait to byte,</L>
+<L>Put thairupon expres,</L>
+<L>Euin so perchance, I seik the thing,</L>
+<L>Quhilk may redound to my maling,</L>
+<L>Distruction and distres:</L>
+<L>Quhyls luking comfort to resaue,</L>
+<L>Quhyls luking for a skelp,</L>
+<L>Quhyls dreiding sche suld me disaue,</L>
+<L>Quhyls houping for hir help:</L>
+<L>Perplexit, and vexit,</L>
+<L>Betwixt hope and dispair,</L>
+<L>Quhyls transing, quhyls pansing,</L>
+<L><PB REF="64">How till eschew the snair.</L>
+</LG>
+<LG>
+<L>My spreit supirs and sichs maist sair,</L>
+<L>Quhen I rement me euer mair,</L>
+<L>How godles men begins,</L>
+<L>For till associat thame fels,</L>
+<L>With sick as pietie repels,</L>
+<L>And dois delyte in sins:</L>
+<L>Gif in your counsals, ye conclud,</L>
+<L>Far placis for to se,</L>
+<L>Ken weill, your company be gud,</L>
+<L>So sall ye happy be:</L>
+<L>Gret sorrows, and thorrows,</L>
+<L>Ill company procuris,</L>
+<L>Forese than, with me than,</L>
+<L>This troubill that induris.</L>
+</LG>
+<LG>
+<L>Incace men wald record in mynd,</L>
+<L>Quhat hes bene wrackit and reuynd,</L>
+<L>By siclike menis alace,</L>
+<L>Or gif thay wald in mynd incall,</L>
+<L>The saying Salamonicall,</L>
+<L>Concerning sick a cace:</L>
+<L>Or zit the danger vnderstud,</L>
+<L>Or culd the perrils ken,</L>
+<L>Ill company thay wald seclud,</L>
+<L>And hant with honest men:</L>
+<L>Atend ye, and mend ye,</L>
+<L>That loups before ye luke,</L>
+<L>In venter, ye enter,</L>
+<L>Quhair ye resaue rebuke.</L>
+</LG>
+<LG>
+<L>Intill astonishment I stud,</L>
+<L>For I na outgait vnderstud,</L>
+<L>My mynd wes so resolued,</L>
+<L>And in my mynd oftimes did think,</L>
+<L>How till elaps, from this precink,</L>
+<L><PB REF="65">Quhairin I wes inuolued:</L>
+<L>Quhyls lipning comfort to consaue,</L>
+<L>Quhyls lipning ill alace,</L>
+<L>In hart and mynd, ye may persaue,</L>
+<L>No sympathy hes place:</L>
+<L>Quhylis dowting, quhylis showting,</L>
+<L>That sche my voce micht heir,</L>
+<L>In haist now, this gaist now,</L>
+<L>Before me did apeir.</L>
+</LG>
+<LG>
+<L>In monstrus maner, sche come thair,</L>
+<L>As CRVSA did, that dame so fair,</L>
+<L>Efter sche wes deceist,</L>
+<L>The gifts quhilk did hir corps decore,</L>
+<L>And forme, quhairin sche wes before,</L>
+<L>Is alterd in a beist:</L>
+<L>Can this be thou, that stands me by,</L>
+<L>Into ane beists estait,</L>
+<L>Sche answers me, this same is I,</L>
+<L>That gydit thee the gait:</L>
+<L>Perhap now, my chap now,</L>
+<L>Will make the for to feir,</L>
+<L>Bot dreid not, thou neid not,</L>
+<L>Na danger sall the deir.</L>
+</LG>
+<LG>
+<L>Than did I cry with loud alace,</L>
+<L>Quhair is thy fair and fragrant face,</L>
+<L>With thy gold glitring hair,</L>
+<L>Quhair are thy cumly christall eis,</L>
+<L>And corall lips, beneth thy breis,</L>
+<L>With bodie debonair:</L>
+<L>Thy cumly corps, from end to end,</L>
+<L>So clenly wes inclosd,</L>
+<L>That MOMVS nocht culd discommend,</L>
+<L>So weill thou wes composd:</L>
+<L>Thy trymnes, and nymnes,</L>
+<L>Is turnd to vyld estait,</L>
+<L><PB REF="65">Thy grace to&punc; and face to,</L>
+<L>Is alterd of the lait.</L>
+</LG>
+<LG>
+<L>I at this spreit, begoud to speir,</L>
+<L>Quhilk in my presence did apeir,</L>
+<L>Desiring it to tell,</L>
+<L>Gif it that power, had of God,</L>
+<L>Quho in his richt hand halds the rod,</L>
+<L>Or of the deuill in hell:</L>
+<L>The pairt of PROTHEVS, thou dois play,</L>
+<L>Quho quhyli wes changst in myst,</L>
+<L>And culd transforme him selfe I say,</L>
+<L>In ony schape he list:</L>
+<L>Are ye than, as he than,</L>
+<L>Declair the truth to me,</L>
+<L>Or TYSEPHON, or MAGERON,</L>
+<L>Ane of the furies thre.</L>
+</LG>
+<LG>
+<L>Or art thou cumd of Phocames,</L>
+<L>Or of the monster Odites,</L>
+<L>By MOPSIS, schot to deid&punc;</L>
+<L>Or art thou of Euriplis toun,</L>
+<L>Quhair wyfis wairs horns vpon thair croun,</L>
+<L>As Oxin on thair heid:</L>
+<L>Or dwels thou in the Horison,</L>
+<L>Aboue all earthly bounds,</L>
+<L>Or in the mount of Cocheron,</L>
+<L>Quhair echo ay resounds:</L>
+<L>In Achyron, or Flagiton,</L>
+<L>Thois twa infernall fluds,</L>
+<L>Repairs thou, or fairs thou,</L>
+<L>With Diabolyk bruds.</L>
+</LG>
+<LG>
+<L>Or come thou from dame THETIS lap,</L>
+<L>Quhair stout ACHIL resau'd his schap,</L>
+<L>As ancient Poets pens,</L>
+<L>Or com thou from NEPTVNS feild,</L>
+<L><PB REF="66">Quhair TITAN nichtlie hes his beild,</L>
+<L>As common pepill kens:</L>
+<L>Quhair PHALEMON repairs expres,</L>
+<L>The sonne of IVNO Queene,</L>
+<L>With auld COLANTVS hes exces,</L>
+<L>NEPTVNVS courtiours kene:</L>
+<L>Remane ye, or trane ye,</L>
+<L>On see so far of schore,</L>
+<L>Or vse ye, or muse ye,</L>
+<L>With them reherst before.</L>
+</LG>
+<LG>
+<L>Thocht strange this purpos will apeir,</L>
+<L>That mortal men demand or speir,</L>
+<L>At spreits that be vnclene,</L>
+<L>Lat na man maruell in his mynd,</L>
+<L>For God that al things hes inclynd,</L>
+<L>Permits thir things I mene:</L>
+<L>He is the Lord of Sea, and land,</L>
+<L>Quha dantons all indeid,</L>
+<L>And hes the bridle in his hand,</L>
+<L>Quhilk halds them by the heid:</L>
+<L>Comanding, thair standing,</L>
+<L>Thair actions, and exces,</L>
+<L>His richt now, and micht now,</L>
+<L>Comands thame more and les.</L>
+</LG>
+<LG>
+<L>Nor maruel not, thocht I demand,</L>
+<L>The veritie til vnderstand,</L>
+<L>Concerning spreits that be,</L>
+<L>How sum are hingand in the air,</L>
+<L>Sum in the earth and fields so fair,</L>
+<L>And sum into the See:</L>
+<L>This Royall King of all renoun,</L>
+<L>Knawis quhat he hes ado,</L>
+<L>For quhen that LVCIFER fell doun,</L>
+<L>Thir spreits descendit to:</L>
+<L>Thy glore now, the more now,</L>
+<L><PB REF="66">Is kend &ocirc; potent God,</L>
+<L>In schawing, and blawing,</L>
+<L>Thy potent power abrod.</L>
+</LG>
+<LG>
+<L>Concerning spreits, quhair of I spake,</L>
+<L>Sum lyis into the Limbo lake,</L>
+<L>Perplexit with wo and pane,</L>
+<L>Sum lyis belaw, and sum aboue,</L>
+<L>This is na paradox I proue,</L>
+<L>The mater is maist plane:</L>
+<L>O thou gret God, our onlie scheild,</L>
+<L>In quhome we do rejose,</L>
+<L>Conduct vs to ELISIAN feild,</L>
+<L>Quhair gud spreits dois repose:</L>
+<L>That we ay, may be ay,</L>
+<L>Conductit be thy grace,</L>
+<L>In purenes, and surenes,</L>
+<L>In Heuin to haue our place.</L>
+</LG>
+<TRAILER>FINIS.</TRAILER>
+<EPIGRAPH>
+<Q>BE HONOR I LEVE.</Q>
+</EPIGRAPH>
+</DIV2>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

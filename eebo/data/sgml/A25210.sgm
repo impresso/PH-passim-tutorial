@@ -1,0 +1,57 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD EEBOPROOF 2.0//EN">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-08-22</DATE>
+<RESPSTMT>
+<NAME>Jonathan Blaney</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TYPEs to DIVs in order to validate. Proofed title page(s). Checked for TYPE="book". Checked ^s. Reviewed structure. Checked division-marking material at heads and feet of divisions (HEADS, etc.). Checked for signatures. Checked placement and completeness of PBs. Checked for GAPs, #s, @s. Checked spacing of foreign GAPs. Corrected 3 $s of 5 (and added 1). Converted 3 $s to GAP DESC="illegible" RESP="OXF". Checked for EPIGRAPHs and ARGUMENTs. Checked for startqs, endqs, oes, q;s, and Qs. Checked proofsheets and made corrections found there. Checked for CLOSERs, TRAILERs, and BYLINEs. DONE.</ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="OX" ID="A25210">
+<STC T="W">A2912</STC>
+<BIBNO T="oclc">11639216</BIBNO>
+<VID>47960</VID>
+</IDG>
+<TEXT LANG="eng">
+<BODY>
+<DIV1 TYPE="title page">
+<PB REF="1">
+<HEAD>The Humble ADDRESS OF THE Presbyterians, Presented to the KING</HEAD>
+<BYLINE>BY Mr. HVRST, Mr. CHESTER, Mr. SLATER, Mr. COX, Mr. ROSWELL, Mr. TVRNER, Mr. FRANKLIN, Mr. DEAL, and Mr. REYNOLDS.</BYLINE>
+<P>With His Majesties GRACIOUS ANSWER.</P>
+<P>Printed for <HI>I W.</HI> in the Year 16<GAP DESC="illegible" RESP="OXF" EXTENT="2 letters">.</P>
+</DIV1>
+<DIV1 TYPE="address">
+<PB N="3" REF="2">
+<HEAD>The Humble Address of the Presbyterians, Presented to the KING.</HEAD>
+<OPENER><HI>May it please Your most Sacred Maj<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">sty,</HI></OPENER>
+<P>TO believe the Thankfulness of our Hearts, beyond any Expres|sions of our Lips or Pens, for Your most Gracious <HI>Declaration</HI> for <HI>Liberty</HI> for us, in the Worship of <HI>God,</HI> which we trust we shall ever value above our <HI>Property,</HI> as that without which we could enjoy nothing which we could call our own, without the greatest un|easiness imaginable: But Your Maje|sty having in the same <HI>Declaration</HI> also secured that unto us, both by Your
+<PB N="4" REF="3">
+Royal <HI>Word</HI> and <HI>Act:</HI> What could Your Majesty have done more for us? Or what is left for us further to ask of the King? <HI>And</HI> forasmuch as it hath pleased Your most Excellent Majesty, to give this safe <HI>Port</HI> to Your poor Subjects, so long tossed with Tem|pests, and justly to believe, that <HI>Loy|alty</HI> is not intailed to a Party, as we hope we shall ever justifie the Credit, which Your Majesties Charity in that point hath given us; So we shall not cease to bow our Knees to the God whom we serve, and by whom Kings Reign, beseech<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">ng him to recompense this Royal Favour to Your Majesty, with length of days, uninterrupted Health, Felicity in Your Royal Rela|tions, Success in Your Great Councils
+<PB N="5" REF="3">
+and Affairs, and finally, with the most Glorious Liberty of the Sons of God, heartily crying, as with one Voice, <HI>Let the King live for ever.</HI></P>
+<P><HI>Subscribed on the Behalf of our selves, and the rest of our Persuasion.</HI></P>
+<PB REF="4">
+</DIV1>
+<DIV1 TYPE="answer">
+<PB N="7" REF="4">
+<HEAD>THE Kings Answer.</HEAD>
+<OPENER><SALUTE>Gentlemen,</SALUTE></OPENER>
+<P><HI>I</HI> Have already found two good Effects of my <HI>Declaration</HI>; the Easing and, Pleasing My Subjects You spake of, and My restoring to God the Empire over <HI>Conscience</HI>: It has been my Iudgment a long time, that none Has or ought to Have any power over the <HI>Conscience</HI> but God. I understand there are some Iealousies a+mong my Subjects, That I have done this in a Design: But you look like Gentle|men
+<PB N="8" REF="5">
+of too great Ingenuity to entertain any such Suspition.</P>
+<P><HI>Gentlemen,</HI> I protest before God, and I desire you to tell all manner of People of all Persuasions, as you have opportunity to Converse with them, that I have no other Design than that I have spoke of.</P>
+<P>And <HI>Gentlemen,</HI> I hope to live to see the Day when you shall as well have <HI>Magna Charta</HI> for the <HI>Liberty of Con|science,</HI> as you have had for your Pro|perties.</P>
+<P>And now <HI>Gentlemen,</HI> do You so Preach to Your Hearers as they may be good Christians, and then I do not question but they will be good Subjects.</P>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

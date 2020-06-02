@@ -1,0 +1,3072 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD EEBOPROOF 2.0//EN">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-08-11</DATE>
+<RESPSTMT>
+<NAME>Judith Siefring</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TYPEs to DIVs in order to validate. Proofed title page(s). Checked for TYPE="book". Checked ^s. Reviewed structure. Checked division-marking material at heads and feet of divisions (HEADS, etc.). Checked for signatures. Checked placement and completeness of PBs. Checked for GAPs, #s, @s. Checked spacing of foreign GAPs. Corrected 33 $s of 36. Converted 3 $s to GAP DESC="illegible" RESP="pdcc". Checked for EPIGRAPHs and ARGUMENTs. Checked for startqs, endqs, oes, q;s, and Qs. Checked proofsheets and made corrections found there. Checked for CLOSERs, TRAILERs, and BYLINEs. DONE.</ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="OX" ID="A35680">
+<STC T="W">D1042</STC>
+<BIBNO T="oclc">11771622</BIBNO>
+<VID>48880</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="half title">
+<PB REF="1">
+<PB REF="1" MS="y">
+<P><HI>RINALDO</HI> and <HI>ARMIDA</HI>: A TRAGEDY, <HI>&amp;c.</HI></P>
+</DIV1>
+<DIV1 TYPE="title page">
+<PB REF="2">
+<PB REF="2">
+<P>Rinaldo and Armida: A TRAGEDY: As it is ACTED AT THE THEATRE IN Little-Lincoln's-Inn-Fields.</P>
+<P>Written by Mr. <HI>Dennis.</HI></P>
+<Q><P>Falsis Terroribus implet. Vt Magus.</P> <BIBL><HI>Horace Ep.</HI></BIBL></Q>
+<P>LONDON, Printed for <HI>Iacob Tonson</HI> at <HI>Graye's-Inn-Gate</HI> in <HI>Graye's-Inn-Lane.</HI> M CD XC IX.</P>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="3">
+<PB REF="3">
+<HEAD>TO HIS GRACE THE Duke of Ormond.</HEAD>
+<OPENER><SALUTE>My LORD,</SALUTE></OPENER>
+<P>THE World has not been displeas'd to see in <HI>Rinaldo</HI> a Character Resembling Your Grace's, a Character of a Heroe who neither Rants nor Whines, but is great with a solid and real Greatness, very Valiant without Extravagance, and very Human with|out Weakness, and deserting Pleasure for Glory. And that Character naturally claims your Protection, which resembling yours has pleas'd all sorts of People: For your Grace
+<PB REF="4">
+at the same time that you have been the Darling of the Fair, has been the Passion of the Brave, and the Esteem of the Wife. The University of <HI>Oxford</HI> is proud of such a Chancellour, and the Armies of the King of such a Lieutenant General. All who are engag'd in the Cause of Truth, whether they defend her by Force or Argument, are animated and excited by having your Grace at the Head of them. But at the same time that you have been the Darling of the Fair, and the Esteem of the Wise, the Largeness of your Soul, and the Height of your Cou|rage, the Love of your Country and the Love of Glory, have made you almost the Adoration of the Armies. Whenever you were Encamp'd, the old Officers beheld with Wonder in you a double Portion of the greatness of Soul of the Noble Duke of <HI>Or|mond,</HI> your Grandfather. And whenever you were engag'd in the Field, the old Ani|mated Soldiers Review'd with Ravishment the Heroick Courage of your Father, the Brave Earl of <HI>Ossory.</HI> I must confess, My
+<PB REF="4">
+Lord, the commendation of any Man's Ancestors, is for the most part a Superfi|cial and a Foreign Praise; But to shew the High Esteem that we have of yours, is to shew the Value that we have for your Grace. I admire indeed the old Noble Duke of <HI>Ormond,</HI> and the Brave Earl of <HI>Ossory,</HI> but I admire them most in your Grace. For the Blood of your Illustrious Family, like the Flood of a noble River, becomes more great and more august the farther it descends from its Source.</P>
+<P>The Earl of <HI>Ossory</HI> did as much as Man could do at <HI>Mons,</HI> and Success attended his Actions. Your Grace deserv'd to be Victo|rious at <HI>Landen,</HI> but Fortune would not have it so. But 'tis easie, my Lord, to look great in Prosperity; To be great in Adversity that is the Work. Your Grace in yours appear'd so exalted to your Enemies, that they al|most condemn'd that Fortune which had de|clar'd for them, and blush'd in their Captive to behold their Superior. I am afraid that I have gone too far, while I have ende|vour'd
+<PB REF="5">
+to please; For to shew that I am sen|sible of your extraordinary Merit, cannot but be pleasing to all the World but your Grace. But to shew that I had rather have your Approbation than that of the World, I here restrain the Passion which I have to proceed, and subscribe my self,</P>
+<CLOSER><SALUTE>My LORD, </SALUTE> <SIGNED>Your Grace's most Obedient Ser|vant, and most Humble Admirer, <HI>JOHN DENNIS.</HI></SIGNED></CLOSER>
+</DIV1>
+<DIV1 TYPE="preface">
+<PB REF="5">
+<HEAD>THE PREFACE.</HEAD>
+<P>THE Prologue to this Play is a sort of Preface to it; yet because Prose seems to be more Adapted to Criticism than Verse, I desire the Reader's leave to say something more largely of things which were men|tioned there. I had only the Hint of <HI>Rinaldo</HI>'s Character from <HI>Tasso,</HI> but the Character is my own. And if any one objects that by differing from <HI>Tasso,</HI> I offend in this Cha|racter against the Resemblance of the Manners, to him I answer; That the Manners of <HI>Rinaldo</HI> in <HI>Tasso</HI> being un|equal, they are Consequently not well mark'd, and that by Consequence there can be no Character. I was therefore at Liberty to form a Character from <HI>Tasso</HI>'s Hint the most agreeable to my Subject that I could.</P>
+<P>I design'd <HI>Rinaldo</HI> then neither a Languishing nor a Brutal <HI>Heroe</HI>; He is Fond of <HI>Armida</HI> to the last de|gree, and yet resolves to leave her; but ow's that Resolu|tion to the Strength of his Reason, and not the weakness of his Passion. And as he resolves to leave her out of a sense of his Duty and Honour, and not any Levity or Bar|barity
+<PB REF="6">
+of Nature; so upon their meeting in the fourth Act, he demurrs upon executing that Resolution, neither thro' Fear, nor any tender Infirmity, but something that happen'd which seem'd to Require it from his Goodness, and his Humanity.</P>
+<P>For <HI>Armida,</HI> some Gentlemen who have read <HI>Tasso,</HI> may expect to see that wanton alluring delicious Creature who appears in the fourth Canto of the <HI>Gierusalemme,</HI> with all that's tempting in Art; but I desire those Gentlemen to consider that in that Canto she only appears in Masquerade, and Acts a part at the Request of her Vnckle.</P>
+<P><HI>Fa manto del vero ala Menzogna,</HI> making use of Arti|fices that were contrary to her Nature, in order to the Se|ducing the Heroes of Godfrey's Army. The Poet gives her true Character in the <HI>38th</HI> Stanza of the <HI>16th</HI> Canto of that Poem.</P>
+<Q><L>E cosi pari al fasto hebbe lo sdegno</L>
+<L>Ch' amo d esser Amata, odi&ocirc; gli amanti.</L></Q>
+<P>She is by Nature a Proud and a disdainful Beauty, Proud of her Triumphs, yet disdaining the Slaves which adorn'd them, and so much the more violent in the Love she bore to <HI>Rinaldo,</HI> because he was the only Person who had touch'd her Soul with tenderness. And therefore I was oblig'd to shew her, as the Nature of her Character and of my Subject requir'd. I say not this to Arraign <HI>Tasso,</HI> who is certainly one of the greatest of Modern Poets; but to defend my self: for I leave it to any Man of Sense to Iudge, whether affectation be becoming of a Poem which
+<PB REF="6">
+ought only to express Nature; or the little Arts of a Iilt, of the Gravity, and Severity, and Majesty of the Tragick Muse.</P>
+<P>But now 'tis time to answer an Objection. There is, say some Gentlemen, a Softness that is Natural to Love, and only that Softness, say they, should be capable of Engaging <HI>Rinaldo</HI>'s Heart; for 'tis hard to conceive, say they, how such a Heroe should be passionately fond of a Woman, who appears always either in a furious disorder, or using of horrible Incantations.</P>
+<P>To this I answer, that the Action of the Play begins, but between three and four Hours before the Death of <HI>Ar|mida</HI>; That before that, the Lovers had been three Months together in the Enchanted Island, where she had enter|tain'd him with all that is Soft and Engaging in Art and Nature; That the fury of her disorder began but an hour be|fore the Beginning of the Action of the Play, from a Hint which one of her Spirits had given her of the approaching Danger. All this will appear to the discerning Reader from the Play it self, who then may perhaps be in|clin'd to believe that I have had a little Discretion in my Conduct, and that I have taken up the Story in that very part of it which alone is proper for Tragedy.</P>
+<P>The Action is very Great and Important; upon the last Event of it depends the Success of the most Happy, and most Glorious Croisade, in which ever the Christians engaged a|gainst the Infidels. <HI>Godfrey</HI>'s Army had Beleaguer'd <HI>Jeru|salem,</HI> which, according to the Fable, could not possibly be taken till <HI>Rinaldo</HI> was return'd, and had cut down the
+<PB REF="7">
+Enchanted <HI>Grove.</HI> As the Action is Great, the Characters are Illustrious, and the Scene is extraordinary. All the Objects that appear to the Agents are almost intirely new; ev'ry thing they see in Nature, being wonderful, and sur|prising; ev'ry thing that they see in Art, being Terrible, and Astonishing.</P>
+<P>I resolv'd therefore to do my Endeavour to treat this Sub|ject with something at least of that Sublime at once and Pathetick Air, which reigns in the renown'd <HI>Sophocles.</HI> I resolv'd to use some Effort to make the Greatness of the Sentiments and of the Images answer to the Height of the Subject, and the Dignity of the Expression to the Great|ness of the Sentiments. I design'd in this Poem to make Terror the prevailing Passion, which is likewise the predominant Passion in that admirable <HI>Grecian.</HI></P>
+<P>The Action is not only Regular in the Mechanism, (the Incidents falling without any restraint into the narrow com|pass of the Representation) but Decent too, I hope, in the Conduct of it; and (to the Reserve of the Machines to which the necessity of the Subject oblig'd me) reasonable.</P>
+<P>I have endeavour'd to shew as much Address as I could in the management of it. The first Act but just opens the Design, and just shews <HI>Armida</HI> in such a Light as was likeliest to prepossess an Audience in her Favour, and make them Espouse her Interests. As soon as I had done that by the mouth of <HI>Urania,</HI> I thought fit to oblige her to kreak off the Narration, according to that Important precept of <HI>Horace.</HI></P>
+<Q><PB REF="7">
+<L>Ordinis haec virtus erit et Venus aut ego fallor,</L>
+<L>Ut Jam nunc dicat, Jam nunc debentia dici,</L>
+<L>Pleraque differat, &amp; praesens in Tempus omittat.</L></Q>
+<P><HI>Armida</HI> resumes and continues the Narration in the second Act, and by displaying the grounds of her Iealousie, shews the fundamental qualities of <HI>Rinaldo</HI>'s Character, and her own; the greatness of her Mind, the Pride of her Soul, the Violence of her Temper, and the Height of her Passion; and prepares what she says and does in the fourth Act, as <HI>Phenissa</HI> by endeavouring in this second Act to bring <HI>Armida</HI> off from her Passion, lays the Foundation of, and prepares the <HI>Catastrophe.</HI></P>
+<P>It may now perhaps be expected that I should say some|thing in the defence of the Catastrophe. But the Objection against that being almost Vniversal, I should be unpar|donably Presumptuous, if I should Imagine that I could be in the Right, against the Consent of so many Illustrious As|semblies as Composed the Audiences of this Tragedy. All that I shall say in my Defence is this, that perhaps I may one Day Retrench that which displeas'd them, and that I shall be a little more Cautious the next time I am to en|tertain them.</P>
+</DIV1>
+<DIV1 TYPE="prologue">
+<PB REF="8">
+<HEAD>PROLOGUE.</HEAD>
+<L>SInce what is new, will likeliest Entertain you,</L>
+<L>With a new <HI>Prologue</HI> first, we'll strive to gain you.</L>
+<L>The <HI>Prologue</HI>'s so entirely new to Day,</L>
+<L>It nere can serve for any other Play.</L>
+<L>Th<GAP DESC="illegible" EXTENT="1 letter">n all you Sparks who have to <HI>Paris</HI> Rid,</L>
+<L>And there heard <HI>Lullys</HI> Musical <HI>Armide;</HI></L>
+<L>And Ye too, who at home have <HI>Tasso</HI> read,</L>
+<L>This in precaution to you must be said;</L>
+<L><HI>Armida's</HI> Picture we from Tasso Drew,</L>
+<L>And yet it may Resembling seem to few;</L>
+<L>For here you' see no soft bewitching Dame,</L>
+<L>Vsing Incentives to the Amorous Game,</L>
+<L>And with affected, Meretricious. Arts,</L>
+<L>Secretly Sliding into Hero's Hearts.</L>
+<L>That was an Errour in the <HI>Italian</HI> Muse,</L>
+<L>If the great <HI>Tasso</HI> were allow'd t' accuse;</L>
+<L>And to Descend to such enervate Strains,</L>
+<L>The Tragick-Muse with Majesty disdains.</L>
+<L>The great <HI>Torquato's</HI> Heroine shall appear,</L>
+<L>But Proud, Fierce, Stormy, terribly severe,</L>
+<L>Such as the <HI>Italian</HI> has <HI>Armida</HI> shown,</L>
+<L>When by the Worlds disorder, she'd revenge her own.</L>
+<L>To change <HI>Rinaldo</HI>'s manners, we had ground,</L>
+<L>Who in the <HI>Italian</HI> is unequal found.</L>
+<L><PB REF="8">At first he Burns with fierce ambition's fire,</L>
+<L>Anon he Dotes like any feeble Squire,</L>
+<L>The meer Reverse of all that's noble in Desire.</L>
+<L>Then in a Moment leaves the Lovesick Dame,</L>
+<L>And only Burns, and only Bleeds for everlasting Fame.</L>
+<L>In a Iust Play such Heroes nere have part,</L>
+<L>For all that offends Nature, offends Art.</L>
+<L>What we have Chang'd, we leave to you to Scan,</L>
+<L>Yet Iudge with all the Candor that you can;</L>
+<L>So shall your pleasure be the Writers Care,</L>
+<L>Who for it neither Time nor Thought will spare;</L>
+<L>Which were not wanting now, to give this Play its due,</L>
+<L>To make it truly great, and truly worthy you.</L>
+</DIV1>
+<DIV1 TYPE="dramatis personae">
+<PB REF="9">
+<HEAD>Dramatis Personae.</HEAD>
+<LIST>
+<LABEL>RInaldo.</LABEL>
+<ITEM>Mr. <HI>Betterton.</HI></ITEM>
+<LABEL>Vbaldo.</LABEL>
+<ITEM>Mr. <HI>Thurman.</HI></ITEM>
+<LABEL>Carlo.</LABEL>
+<ITEM>Mr. <HI>Scudamore.</HI></ITEM>
+<LABEL>Armida.</LABEL>
+<ITEM>Mrs. <HI>Barry.</HI></ITEM>
+<LABEL>Vrania.</LABEL>
+<ITEM>Mrs. <HI>Boman.</HI></ITEM>
+<LABEL>Phenissa.</LABEL>
+<ITEM>Mrs. <HI>Lee.</HI></ITEM>
+</LIST>
+<P>Aerial, Terrestrial, and Infernal Spirits.</P>
+<P><HI>SCENE,</HI> The Top of a Mountain in the <HI>CANARIES.</HI></P>
+</DIV1>
+<DIV1 TYPE="errata">
+<HEAD>ERRATA.</HEAD>
+<P>PAge 5. l. 13. for <HI>scarce Twenty,</HI> read <HI>just Twenty.</HI> P. 15. l. 25. for <HI>immerst in the Air,</HI> read <HI>immerst in Matter.</HI> P. 35. l. 7. put the Comma after <HI>Is gone.</HI> P. 40. l. 7. for <HI>Ra|ging Friends,</HI> r. <HI>Raging Fiends.</HI> Ibid. l. 27. for <HI>your selves,</HI> r. <HI>your self.</HI> P. 47. for <HI>and yet,</HI> r. <HI>yet.</HI> P. 53. l. 4. for <HI>dreadful,</HI> r. <HI>dread.</HI></P>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 N="1" TYPE="act">
+<PB N="1" REF="9">
+<HEAD><HI>RINALDO</HI> and <HI>ARMIDA.</HI></HEAD>
+<HEAD>ACT I.</HEAD>
+<STAGE><HI>SCENE,</HI> A Delightful Wilderness on the top of a Mountain in the <HI>Canaries.</HI> Overture with Trumpets.</STAGE>
+<STAGE>Enter <HI>Urania, Ubaldo,</HI> and <HI>Carlo.</HI></STAGE>
+<SP>
+<SPEAKER>Ubald.</SPEAKER>
+<L>THus Heav'n declares th' Importance of our Enterprise,</L>
+<L>While Angels their Aetherial Trumpets sound,</L>
+<L>To animate us in our glorious March.</L>
+</SP>
+<SP>
+<SPEAKER>Uran.</SPEAKER>
+<L>At length the Labours of that March are o're,</L>
+<L>At length the sharpness of th' Ascent is conquer'd;</L>
+<L>And we thro ways untractably abrupt</L>
+<L>Have reach'd this Towring Sommet of the Mountain,</L>
+<L>Where never Mortal yet, by Mortal Force,</L>
+<L>Was known t' ascend, from whose commanding Height</L>
+<L>At once Two Worlds lie subject to our view.</L>
+</SP>
+<SP>
+<SPEAKER>Ubald.</SPEAKER>
+<L>By its transcendent Beauty and its Height,</L>
+<L>This sure must be the Paradise of Nature.</L>
+<L>O Blest Retreat! O Fields belov'd by Heav'n!</L>
+<L>O Island justly call'd the Fortunate,</L>
+<L>And with High Reason by the Ancients thought</L>
+<L>Th' Elysian Seat of Happy Heroes Souls!</L>
+</SP>
+<SP>
+<SPEAKER>Carl.</SPEAKER>
+<L>But, O Amazing Height!</L>
+<L>At what Remote, and what Stupendous Distance,</L>
+<L>Yon Tyrannizing Main below,</L>
+<L>Insults the foaming Shore!</L>
+<L><PB N="2" REF="10"><HI>Ubaldo,</HI> see how very far beneath us</L>
+<L>With flagging Wings the Painted Meteors fly</L>
+<L>Thro all th' Infernal Regions of the Air!</L>
+<L>How far below, Illustrious in its flight,</L>
+<L>The nimble Lightning scowres along the Skye!</L>
+<L>And hark how far, how very far beneath us,</L>
+<L>Th' exasperated Thunder roars!</L>
+<L>To plague the guilty World!</L>
+</SP>
+<SP>
+<SPEAKER>Ur.</SPEAKER>
+<L>But never Storm disturbs this Happy place,</L>
+<L>The very pride and pomp of Wanton Nature,</L>
+<L>The very Darling of Indulgent Heaven;</L>
+<L>Which still the Sun, the Worlds great Eye, contemplates,</L>
+<L>And never suffers Interposing Cloud</L>
+<L>To bar th' Eternal prospect; 'Tis a Scene</L>
+<L>Not unbecoming of the glorious Action,</L>
+<L>Which Heaven's Almighty Will has chosen you</L>
+<L>Its Ministers t' Accomplish; To this place</L>
+<L><HI>Armida</HI>'s Magick pow'r conveyed <HI>Rinaldo.</HI></L>
+<L>Here the great Champion of the Christian Faith</L>
+<L>Lies Languishing, and half dissolv'd in Love.</L>
+<L>The Terrour of the Unbelieving World,</L>
+<L>And of thy proud Oppressours, O <HI>Ierusalem</HI>;</L>
+<L>Is here become an Impious Woman's Slave!</L>
+<L>A Woman, who, like Lucifer of old,</L>
+<L>Of all the Angels of her Sex created,</L>
+<L>The Brightest and the nearest to Divinity,</L>
+<L>Is faln, and lost by her excessive Pride:</L>
+<L>And not contented with her Native Charms,</L>
+<L>Holds guilty commerce with Infernal Spirits.</L>
+<L>Here in th' Embraces of his young Enchantress</L>
+<L>The Blooming Heroe passes all his days,</L>
+<L>And his Luxurious Nights in Wanton Joys,</L>
+<L>As wanton as the Wings of Western Winds,</L>
+<L>Whose spicy breaths throughout these slowry Plains</L>
+<L>Maintain Eternal spring. Him you must free,</L>
+<L>Or thou must still be enthral'd, O Sacred City;</L>
+<L>For on <HI>Rinaldo</HI>'s Conquering Sword</L>
+<L>Thy Destiny depends.</L>
+</SP>
+<SP>
+<PB N="3" REF="10">
+<SPEAKER>Carl.</SPEAKER>
+<L>The very Place assists us in the Action,</L>
+<L>The very Place inspires magnanimous Thoughts,</L>
+<L>As by the help of so sublime a Station</L>
+<L>Here on the Frontiers of the rowling Skies,</L>
+<L>We stand and breath, the Borderers of Heaven;</L>
+<L>So it exalts our very Souls, and lists them</L>
+<L>As far above the Level of Mankind</L>
+<L>As here we walk above th' Inferiour World.</L>
+</SP>
+<SP>
+<SPEAKER>Ur.</SPEAKER>
+<L>So had it need, for Dangers are t' ensue,</L>
+<L>Enough to shake the Constancy of Martyrs&punc;</L>
+<L>And move the Blest Inhabitants of Heav'n.</L>
+</SP>
+<SP>
+<SPEAKER>Carl.</SPEAKER>
+<L>What greater Dangers can Enfue,</L>
+<L>Than what in reaching hither we Surmounted?</L>
+<L>For, have we not by Heaven's supreme Decree</L>
+<L>Transgrest the Bounds establish'd by <HI>Alcides?</HI></L>
+<L>Have we not insolently dar'd to Plow</L>
+<L>The Worlds uncultivated waste, the Ocean,</L>
+<L>And dauntlesly explor'd its dreadful Wonders?</L>
+<L>And in Ascending this Aetherial Mountain</L>
+<L>Stood firm against the fierce Assaults of Hell.</L>
+<L>Repell'd more Monsters than <HI>Alcides</HI> vanquish'd,</L>
+<L>And baffled Futies, who in hortid Shapes</L>
+<L>With stormy Rage oppos'd our Steep Ascent?</L>
+<L>And can we now be capable of Fear,</L>
+<L>In the Great Cause of Heaven! And in a place</L>
+<L>Intended for Delight, and not for Terror?</L>
+</SP>
+<SP>
+<SPEAKER>Ur.</SPEAKER>
+<L>But yet remember, <HI>Carlo,</HI> that <HI>Alcides</HI></L>
+<L>Who subdu'd Monsters, triumph'd over Hell,</L>
+<L>Nay, and suppored Heaven, became a Slave</L>
+<L>To Pleasure.</L>
+</SP>
+<SP>
+<SPEAKER>Ubal.</SPEAKER>
+<L>Things terrible are Enemies to Nature, <HI>Carlo,</HI></L>
+<L>Declar'd and open Eenemies,</L>
+<L>And all that's Great and Noble in that Nature,</L>
+<L>At their approach still Rouses to Resist them.</L>
+<L>But Pleasure, tho' its secret Foe,</L>
+<L>At least appears its Friend.</L>
+</SP>
+<SP>
+<SPEAKER>Carl.</SPEAKER>
+<P>Hark! What enchanting Sound salutes my Ear?<STAGE>Musick</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Uran.</SPEAKER>
+<L>Ay, now the dangerous Conflict must begin,</L>
+<L><PB N="4" REF="11">For in this Moment Hell begins th' Attack,</L>
+<L>For know thou hear'st no Human Sounds, the skill</L>
+<L>Of all that's exquisite in mortal Man,</L>
+<L>Could nere produce such Harmony, the Work</L>
+<L>Of Spirits which Usurp th' Aetherial Air,</L>
+<L>Who formerly enjoy'd sublimer Stations,</L>
+<L>And so Divinely touch'd Empyreall Lyres</L>
+<L>As pleas'd, ev'n him who turns th' harmonious Spheres,</L>
+<L>And sweetly Tunes the Universe. But see</L>
+<L>How yonder Fabrick like a Meteor rises, <STAGE>The Enchanted Palace rises to Musick.</STAGE></L>
+<L>Advancing thro' the Skies its pompous Front,</L>
+<L>To this Enchanting Symphony.</L>
+</SP>
+<SP>
+<SPEAKER>Carl.</SPEAKER>
+<P>Hark! Voices in the Air.</P>
+</SP>
+<STAGE>Lofty Musick.</STAGE>
+<LG>
+<HEAD>A Song by the Spirits in the Air.</HEAD>
+<L>YE mighty Powers who Rule the Air,</L>
+<L>Ye Gods who in the Ocean dwell,</L>
+<L>And ye who at the Center govern Hell,</L>
+<L>Hither at great <HI>Armida</HI>'s Call repair;</L>
+<L>And while by your Command these Tow'rs arise,</L>
+<L>Till with unequal'd Pomp and State,</L>
+<L>Their soaring Heads salute the Skies,</L>
+<L>Shew those above that Hell can too create.</L>
+</LG>
+<SP>
+<SPEAKER>Ubald.</SPEAKER>
+<L>But why, O sacred Minister of Heaven,</L>
+<L>Just at this Juncture does this Fabrick rise?</L>
+</SP>
+<SP>
+<SPEAKER>Ur.</SPEAKER>
+<L>Know to this Hour <HI>Rinaldo</HI> and <HI>Armida</HI></L>
+<L>Have loosely Revell'd in Enchanted Wilds,</L>
+<L>And Wanton'd in the open Face of Heav'n.</L>
+<L>But now the Enchantress who suspects his Constancy,</L>
+<L>Has to Secure him, by th' advice of Hell</L>
+<L>Rais'd this Majestick Structure.</L>
+</SP>
+<SP>
+<SPEAKER>Ubald.</SPEAKER>
+<L>But can the Heroe of our Age <HI>Rinaldo</HI></L>
+<L>The Champion of the Christian Cause, <HI>Rinaldo</HI></L>
+<L>Descend to love a Sorceress?</L>
+</SP>
+<SP>
+<PB N="5" REF="11">
+<SPEAKER>Ur.</SPEAKER>
+<L>No, not a Sorceress, <HI>Rinaldo</HI> Loves</L>
+<L>The Beauty, not th' Enchantress, He <GAP DESC="illegible" EXTENT="1 letter">oves</L>
+<L>The Master-piece of Heav'n, not that of Hell,</L>
+<L>The most Accomplish'd Work of the Creator;</L>
+<L>One who both Speaks and Looks above a Woman,</L>
+<L>Whom Heaven design'd with more peculiar care,</L>
+<L>A whole vast Species in one single Person;</L>
+<L>And an Idea of Sublimer Beauty</L>
+<L>Than that with which the Loveliest of our Sex</L>
+<L>Ensnare and Captivat the Souls of Men,</L>
+</SP>
+<SP>
+<SPEAKER>Carl.</SPEAKER>
+<P>She is indeed a wonder.</P>
+</SP>
+<SP>
+<SPEAKER>Ur.</SPEAKER>
+<L>A Beauty, in the prime of her perfection,</L>
+<L>On whom scarce Twenty blooming Eastern springs</L>
+<L>Have shed their sweetest Influence;</L>
+<L>Not an Asiatick Monarch but Adores her,</L>
+<L>But Eastern Kings are soft as is their Climate.</L>
+<L>Have you forgot the time when this <HI>Armida,</HI></L>
+<L>Leaving her Unckles Kingdom of <HI>Damascus,</HI></L>
+<L>With a dissembled Discontent, approached the Christian Camp</L>
+<L>On the Pretence of asking Aid</L>
+<L>Against the Oppression of a Tyrants power?</L>
+</SP>
+<SP>
+<SPEAKER>Ubel.</SPEAKER>
+<L>That curst design we never shall forget,</L>
+<L>Which was to weaken and destroy the Army,</L>
+<L>By drawing all our bravest Warriours after her.</L>
+</SP>
+<SP>
+<SPEAKER>Ur.</SPEAKER>
+<L>Tell me, one Heroe of you all, whose Virtue</L>
+<L>And whose Religion did not melt at sight</L>
+<L>Of this Triumphant Beauty? nay and melt,</L>
+<L>Even as you stood upon the Sacred ground.</L>
+<L>Where for your Lusts a God Expir'd in Torments:</L>
+<L>Have you so soon forgot this?</L>
+</SP>
+<SP>
+<SPEAKER>Ubel.</SPEAKER>
+<P>Our blushes say we have not.</P>
+</SP>
+<SP>
+<SPEAKER>Ur.</SPEAKER>
+<L>The very rude Plebeians of the Camp</L>
+<L>By Habitual hardship mortify'd to Pleasure,</L>
+<L>By Sanguinary deeds inur'd to Cruelty,</L>
+<L>Gazd all the fierceness of their Souls away,</L>
+<L>And at that sight dissolv'd in soft desire;</L>
+<L>Those brave Adventurers whom their fervent Zeal,</L>
+<L>The flaming Love of Everlasting Glory,</L>
+<L><PB N="6" REF="12">Engag'd the noble Voluntary Champions</L>
+<L>Of this Renown'd Croisade Heavens darling cause,</L>
+<L>Disbanded all with shamefull stealth by Night</L>
+<L>And left the Field, their Glory and their God,</L>
+<L>To follow this Enchanting fair, of all</L>
+<L>Only <HI>Rinaldo</HI> still remain'd Invincible,</L>
+<L>But I want time to say the rest&mdash;</L>
+<L>E're yet approaching Night usurps the World,</L>
+<L>Both thou and <HI>Carlo</HI> must once more behold Her,</L>
+<L>And in a Cloud with me Converse before Her,</L>
+<L>Unmov'd, unseen, unheard, unthought of by Her.</L>
+<L>Such is the Will of the Most High, but Hark!</L>
+<L>More Harmony, and this way it approaches.</L>
+</SP>
+<SP>
+<SPEAKER>Carl.</SPEAKER>
+<P>And see the Happy Natives of the place.</P>
+</SP>
+<SP>
+<SPEAKER>Ur.</SPEAKER>
+<L>These are by Heav'ns permission come to try you,</L>
+<L>And with soft Sounds seduce your Souls to Pleasure,</L>
+<L>Now stand upon your strongest Guards.</L>
+</SP>
+<STAGE>Spirits in the Shapes of Shepherds and Nymphs.</STAGE>
+<SP>
+<SPEAKER>Shep.</SPEAKER>
+<L>Welcome to these Lovely Plains,</L>
+<L>The happy Seats of Blissful Swains.</L>
+</SP>
+<SP>
+<SPEAKER>Nym.</SPEAKER>
+<L>Welcome to these blissful Shades,</L>
+<L>The soft Retreats of Happy Maids.</L>
+</SP>
+<SP>
+<SPEAKER>Shep.</SPEAKER>
+<L>Here we feel no want nor Care,</L>
+<L>And no inclemency of Air,</L>
+<L>And Lovers never here Despair.</L>
+</SP>
+<SP>
+<SPEAKER>Shep.</SPEAKER>
+<L>Sorrow ever from us flies,</L>
+<L>Pleasure revels in our Eyes.</L>
+<L>If we pass an Hour in Courting</L>
+<L>'Tis for more Delicious sporting,</L>
+<L>Never cruel Nymph denies.</L>
+</SP>
+<SP>
+<SPEAKER>Nym.</SPEAKER>
+<L>If any thing like Sorrow's seen</L>
+<L>In our Voice, or in our Meen,</L>
+<L><PB N="7" REF="12">'Tis not Grief that gives the Anguish,</L>
+<L>'Tis with Pleasure that we languish;</L>
+<L>And if ever Nymph denies,</L>
+<L>'Tis like one in Love who's Wise;</L>
+<L>'Tis like one who would invite</L>
+<L>To more delicate Delight,</L>
+<L>'Tis with wishing, dying Eyes.</L>
+</SP>
+<SP>
+<SPEAKER>Cho.</SPEAKER>
+<L>All about us and above</L>
+<L>Gaiety and Love inspires;</L>
+<L>All about us and above</L>
+<L>Infuses Tenderness and Love,</L>
+<L>And wanton fine Desires.</L>
+</SP>
+<SP>
+<SPEAKER>Shep.</SPEAKER>
+<L>The Iolly Breeze,</L>
+<L>That comes whistling through the Trees,</L>
+<L>From all the blissful Region brings</L>
+<L>Perfumes upon its spicy Wings,</L>
+<L>With its wanton motion curling.</L>
+<L>The Crystal Rills,</L>
+<L>Which down the Hills</L>
+<L>Run o'er golden Gravel purling.</L>
+</SP>
+<SP>
+<SPEAKER>Nym.</SPEAKER>
+<L>All around Venereal Turtles</L>
+<L>Cooing, Billing, on the Myrtles;</L>
+<L>The more they shew their Amorous trouble,</L>
+<L>More fiercely dart their piercing Kisses,</L>
+<L>And more eagerly redouble</L>
+<L>The Raptures of their murmuring Blisses.</L>
+</SP>
+<SP>
+<PB N="8" REF="13">
+<SPEAKER>Ur.</SPEAKER>
+<L>Enough, ye Ministers of Hell be gone,</L>
+<L>Behold the waving of this potent Wand,</L>
+<L>Whose sight can make the fiercest of you tremble,</L>
+<L>And whose least touch can with Ten thousand plagues</L>
+<L>Transfix your Howling Furies; Hence, take hence</L>
+<L>Your Lying Forms, the Mimick Shapes of Men.</L>
+<L>Or, by the unutterable Name&mdash;they vanish.</L>
+<L>Now, Heroes, I observ'd you well, and find,</L>
+<L>That you unmov'd have past a dangerous tryal,</L>
+<L>And gain'd a glorious Conquest o're your selves.</L>
+</SP>
+<SP>
+<SPEAKER>Ub.</SPEAKER>
+<L>Let us Advancing, our success pursue,</L>
+<L>They who themselves o'recome can Hell subdue.</L>
+</SP>
+<SP>
+<SPEAKER>Ur.</SPEAKER>
+<L>Then as we move tow'rds yonder Magick Tow'rs,</L>
+<L>Protect us in our March ye Guardian Powers;</L>
+<L>Y' Immortal Ministers to whom by Heav'n</L>
+<L>The Care and Charge of this great Action's giv'n,</L>
+<L>Defend us from Hell's Terrible Alarms,</L>
+<L>And guard our Hearts from Pleasure's fatal Charms;</L>
+<L>Ye Angels strike your everlasting Lyres,</L>
+<L>Sound, sound the Lofty Trumpet, which inspires</L>
+<L>Th' exalted Soul with your Celestial Fires.</L>
+</SP>
+<TRAILER>The End of the First Act.</TRAILER>
+</DIV1>
+<DIV1 N="2" TYPE="act">
+<PB N="9" REF="13">
+<HEAD>ACT II.</HEAD>
+<STAGE><HI>SCENE,</HI> The Inside of the Enchanted <HI>Palace.</HI></STAGE>
+<STAGE>Enter <HI>Phenissa, Nisroe, Rinaldo Sleeping on a Couch.</HI></STAGE>
+<SP>
+<SPEAKER>Phen.</SPEAKER>
+<L>SSleeps he Secure? And is the Queen Obey'd?</L>
+<L>Tho' here's a Magick Symphony might Lull,</L>
+<L>The raving Furies into soft Repose,</L>
+</SP>
+<SP>
+<SPEAKER>Nis.</SPEAKER>
+<L>There he lies Buried in eternal Sleep,</L>
+<L>Unless my self or some more pow'rful Spirit</L>
+<L>Unbind and Rowze him from his Iron Slumber.</L>
+<L>Thrice while I mutter'd Mystick Sounds I sprinkled</L>
+<L>His Temples with the Drowsie Deadly Dew,</L>
+<L>Brush'd by th' Infernal Ravens Baleful Wing</L>
+<L>From the Black Poppies which on <HI>Lethe</HI> grow.</L>
+<L>How Fares <HI>Armida</HI>?</L>
+</SP>
+<SP>
+<SPEAKER>Phen.</SPEAKER>
+<L>She dotes, alas, she dotes on this <HI>Rinaldo,</HI></L>
+<L>Her Love, and Fear of losing what she Loves</L>
+<L>Disquiet her sometimes almost to Madness,</L>
+<L>Thow know'st the greatness of her Soul; from whence</L>
+<L>Conclude how this Tempestuous Flame must Shake her;</L>
+<L>Alas, I pitty her.</L>
+</SP>
+<SP>
+<SPEAKER>Nis.</SPEAKER>
+<L>I cannot blame thee.</L>
+<L>Ev'n I, who for these long Six thousand Years</L>
+<L>Have never felt one motion like Remorse,</L>
+<L>I, were I not a Devil, I should Pitty her;</L>
+<L>The Fairest Creature which on this side Heav'n</L>
+<L>My Eyes have ere beheld.</L>
+</SP>
+<SP>
+<SPEAKER>Phen.</SPEAKER>
+<P>Say, what Success attends this desperate Love?</P>
+</SP>
+<SP>
+<SPEAKER>Nis.</SPEAKER>
+<L>Alas, I dare not; for Remember <HI>Ramiel,</HI></L>
+<L>Who but for barely Hinting at her Fare,</L>
+<L>Lyes Howling at the Bottom of th' Abyss,</L>
+<L>Under the Vengeance of that Dreadful God,</L>
+<L><PB N="10" REF="14">Who makes ev'n Furies tremble;</L>
+<L>Scourg'd till at each resounding Stroke</L>
+<L>He Bellows to the Blow:</L>
+<L>While all around, the poor tormented Ghosts,</L>
+<L>Gastfully staring with their Balefull Eyes,</L>
+<L>Cease their shrill Cryes, and their lamenting Wails;</L>
+<L>All with Amazement hush'd, and as they Listen,</L>
+<L>Shuddring with Horrour at his Hideous roar,</L>
+<L>Yet what I dare I'll tell thee.</L>
+<L>Fame, that with Indefatigable Wings</L>
+<L>Born thro' the boundless Regions of the Air,</L>
+<L>Incessantly Surveys this Globe of Earth,</L>
+<L>Once in the Course of the revolving Year,</L>
+<L>Stoops at these Isles of Fortune, the Abodes</L>
+<L>Of happy Heroes, separated Souls,</L>
+<L>To visit her Adopted Sons, all Demy-Gods,</L>
+<L>Who undisturb'd in these Elysian Shades,</L>
+<L>Pursue Immortal Pleasures. If he shrinks not</L>
+<L>When next the Goddess comes, He's ours for ever.</L>
+</SP>
+<SP>
+<SPEAKER>Phen.</SPEAKER>
+<P>When arrives she?</P>
+</SP>
+<SP>
+<SPEAKER>Nis.</SPEAKER>
+<L>I dare no more, but tis thy part to try</L>
+<L>To Cure <HI>Armida</HI> of this raging Passion.</L>
+</SP>
+<SP>
+<SPEAKER>Phen.</SPEAKER>
+<L>Nay, then thou sayst Enough; Alas I have,</L>
+<L>Thou know'st it is my Interest more than Hers;</L>
+<L><HI>Rinaldo</HI> is a Christian,</L>
+<L>And wins each Moment on <HI>Armida's</HI> Soul,</L>
+<L>Who knows how far at last He may prevail?</L>
+<L>If he should once Seduce her from her Faith,</L>
+<L>What could be so Abandon'd as <HI>Phenissa.</HI></L>
+<L>It is my daily Study to Reclaim her,</L>
+<L>A Thousand times in vain I have attempted it.</L>
+</SP>
+<SP>
+<SPEAKER>Nis.</SPEAKER>
+<L>Once more attempt it, then if thou Succeed'st not,</L>
+<L>Lull her with Hope, true Woes are to Succeed,</L>
+<L>Let her enjoy false Pleasures while she may.</L>
+<L>But she appears, I vanish. <STAGE>sinks.</STAGE></L>
+<STAGE><PB N="11" REF="14">Enter <HI>Armida.</HI></STAGE>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<P><HI>Phenessa,</HI> sleeps <HI>Rinaldo</HI>?</P>
+</SP>
+<SP>
+<SPEAKER>Phen.</SPEAKER>
+<L>He does.</L>
+<L>Why were you absent at the Magick Rites?</L>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<L>I hate this cursed Art since first it show'd me</L>
+<L>That, that to which the hardest things are possible,</L>
+<L>Yet wants the pow'r to calm my rageing Grief;</L>
+<L>All Nature lies subjected to my Charms,</L>
+<L>I give her Rest, and Rowze her with Alarms,</L>
+<L>My Arbitrary voice she hears with awe,</L>
+<L>And standing fix'd suspends th' eternal Law.</L>
+<L>I to the Tempest make the Poles Resound,</L>
+<L>And the conflicting Elements Confound;</L>
+<L>At my Command</L>
+<L>The Thunder rushes out on flaming Wings,</L>
+<L>And all the hollow deep of Hell</L>
+<L>With hideous Uproar Rings;</L>
+<L>Fierce Spirits who great Heaven's command disdain'd,</L>
+<L>Submit themselves and are by mine restrain'd.</L>
+<L>The Wildest things are by my pow'r Confin'd:</L>
+<L>All but my Wild ungovernable Mind.</L>
+<L>But I have home-bred Furies which Rebel,</L>
+<L>While I subdue the fiercest Pow'rs of Hell.</L>
+<L>Oh, my foreboding Soul!</L>
+</SP>
+<SP>
+<SPEAKER>Phen.</SPEAKER>
+<P>Compose your self, Consider you'r a Queen.</P>
+</SP>
+<SP>
+<SPEAKER>Arm,</SPEAKER>
+<P>Consider I'm a Slave, Consider I'm a Lover.</P>
+</SP>
+<SP>
+<SPEAKER>Phen.</SPEAKER>
+<L>No Common Queen, they Rule but Common Slaves;</L>
+<L>You Govern with a Nod all <HI>Asia</HI>'s Monarchs.</L>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<L>Effeminate, Slothful, Lukewarm Creatures all,</L>
+<L>Whose Souls were but half kindled by their Maker.</L>
+</SP>
+<SP>
+<SPEAKER>Phen.</SPEAKER>
+<L>Then what they want from Heav'n they have from you;</L>
+<L>Your Eyes have Blown those Suols into a Flame.</L>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<L>Those Kings I scorn'd before, I knew my Heroe;</L>
+<L>What are those Royal Pageants? Thou hast seen them,</L>
+<L>And what is my <HI>Rinaldo</HI>? Thou hast gaz'd on him.</L>
+</SP>
+<SP>
+<PB N="12" REF="15">
+<SPEAKER>Phen.</SPEAKER>
+<L>The greatest of Mankind, since to this Height</L>
+<L>The great <HI>Armida</HI> by her Favours Rais'd him;</L>
+<L>Before, the last of the <HI>Italian</HI> Princes.</L>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<P>But the first of Conquerours.</P>
+</SP>
+<SP>
+<SPEAKER>Phen.</SPEAKER>
+<P>A private Man, without Command in th' Army.</P>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<L>Fortune, and Fame, and Victory obey'd him,</L>
+<L>Him, the Sole pow'r of that Victorious Army.</L>
+<L>Who was the Terrour of the East, but He!</L>
+<L>This private Man made all your Monarchs Tremble,</L>
+<L>Ev'n in the midst of their own shivering Slaves,</L>
+<L>To whom they ow'd their Pow'r and their Security.</L>
+<L>His Pow'r was in himself, His dauntless Soul,</L>
+<L>And his unconquered own Right Hand his Safety.</L>
+<L>What? tho' he Rules no Empire, he deserves One,</L>
+<L>And has both Conquered and Rejected Crowns:</L>
+<L>He in his Inborn Worth is more Exalted.</L>
+<L>No drowsie Monarch by a Dull Descent,</L>
+<L>But for his High Desert preferr'd by Heav'n,</L>
+<L>And singled from the rest of Human kind,</L>
+<L>To Execute the vast Designs of Fate.</L>
+</SP>
+<SP>
+<SPEAKER>Phen.</SPEAKER>
+<P>The Theme transports you.</P>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<P>Tis my Love Transports me.</P>
+</SP>
+<SP>
+<SPEAKER>Phen.</SPEAKER>
+<L>Tis frankly own'd,</L>
+<L>For such a Proud, Severe, disdainful Beauty.</L>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<L>Yes, I am Proud that I my self have Excellence,</L>
+<L>To Know and Love such Merit; Surely Love</L>
+<L>In this Excess has something that's Divine;</L>
+<L>Women who Dote on Monsters ev'n to Madness,</L>
+<L>Are proud of their own Fury. What must I be,</L>
+<L>When the consenting World admires my Choice!</L>
+<L>Thou, whose cold Mass runs Curdling thro thy Veins,</L>
+<L>Thou gazest on <HI>Rinaldo</HI> with Desire;</L>
+<L>Yet thou hast only seen the God of Love,</L>
+<L>In the fresh Beauries of my Blooming Heroe:</L>
+<L>Oh, even in thee, what Raptures had he Raised!</L>
+<L>Hadst thou once seen him like the God of War,</L>
+<L>While Grizly Terrour perch'd upon his plume;</L>
+<L>Severely shining in his dreadful Helmet,</L>
+<L>And Thundring through the Tempest of the Field.</L>
+</SP>
+<SP>
+<PB N="13" REF="15">
+<SPEAKER>Phen.</SPEAKER>
+<L>Well! tho you Love with fury, you possess;</L>
+<L>Since then the God of Love has made you Blest,</L>
+<L>Why should you toil to make your self unhappy?</L>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<P>Once more, I tell thee, Love has taught me fear.</P>
+</SP>
+<SP>
+<SPEAKER>Phen.</SPEAKER>
+<P>Fear! Fear of what?</P>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<L>The Torments which the Souls in Hell endure;</L>
+<L>Nay worse, those Souls have only miss'd of Heaven,</L>
+<L>But to have lost it, that's the Plague of Divels.</L>
+</SP>
+<SP>
+<SPEAKER>Phen.</SPEAKER>
+<P>You seek those groundless fears.</P>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<L>Ah no!</L>
+<L>Hell threatned me with fate by <HI>Ramiel's</HI> voice,</L>
+<L>And Heaven by these Foreboding thoughts fortells it;</L>
+<L>And, what is more than Heav'n or Hell to me,</L>
+<L><HI>Rinaldo</HI> has confirm'd it.</L>
+</SP>
+<SP>
+<SPEAKER>Phen.</SPEAKER>
+<P>'Tis but an Hour since he declared He Lov'd you.</P>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<L>But with such Accents and such Eyes declar'd it,</L>
+<L>His very Anger had been less provoking;</L>
+<L>Can one who Loves with such a Soul as mine,</L>
+<L>Be Tortur'd worse than with endearing Words,</L>
+<L>Spoke with the Coldness of that cruel Air?</L>
+</SP>
+<SP>
+<SPEAKER>Phen.</SPEAKER>
+<L>But how should Natute bear perpetual Rapture,</L>
+<L>When she quite sinks in Momentary transports?</L>
+<L>Sometimes He meets your Love with equal Fury.</L>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<L>If he did not, he would be less then Man,</L>
+<L>This Desart Isle divides us from the World,</L>
+<L>Where He, and I, and Thou, are Human kind:</L>
+<L>He lov'd me not in <HI>Palestine,</HI> where I</L>
+<L>Seduc'd the very Flower of <HI>Godfrey</HI>'s Army,</L>
+<L>Subdued their inmost Souls by my soft Arts;</L>
+<L>And led them from the Army thro the East</L>
+<L>In Amorous Pomp, the common Foes of <HI>Asia,</HI></L>
+<L>And Victims to my Unkles great Revenge,</L>
+<L>Only <HI>Rinaldo</HI>'s Soul remain'd Impregnable;</L>
+<L>A fiercer Flame than that of Love had seis'd it,</L>
+<L>And his Eyes sparkled with severer fires;</L>
+<L>The Love of Glory reign'd sole Tyrant there,</L>
+<L>Which in great Souls still rages to a fault,</L>
+<L>The Crime of Angels, and of Men like Angels;</L>
+<L><PB N="14" REF="16">Who conscious to their own surpassing Excellence,</L>
+<L>Would by great Actions force the Envious World</L>
+<L>T' acknowledge their Transcendency of Nature.</L>
+</SP>
+<SP>
+<SPEAKER>Phen.</SPEAKER>
+<L>But still the Ambitious love, as well as others:</L>
+<L>Nature makes use of Love in Mighty Minds,</L>
+<L>Who else would be aspiring to be Gods,</L>
+<L>To shew them they are Men.</L>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<L>Yes, they can Love, but think that Love their Frailty,</L>
+<L>And not their Virtue;</L>
+<L>And when that Love comes once t' obstruct Ambition,</L>
+<L>With all their might they make a vast Effort,</L>
+<L>And tear it from their Souls.</L>
+</SP>
+<SP>
+<SPEAKER>Phen.</SPEAKER>
+<L>The knowing this,</L>
+<L>One would have thought, might have secur'd your Heart.</L>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<L>This made me Doat on him, and as he slept</L>
+<L>Transport him on a Storm's sonorous Wings,</L>
+<L>Far from the War, and the shrill Trumpet's sound,</L>
+<L>To this sweet Place design'd for Love and Joy.</L>
+<L>Yet ev'n here, where Earth and Heav'n, nay Hell</L>
+<L>Conspires t' Indulge the sweetest of all Passions;</L>
+<L>Where ev'n I, for whom a Thousand Lovers</L>
+<L>Have sigh'd, and sigh'd in vain, with all that's soft</L>
+<L>And delicate in Love descend t' incite Him,</L>
+<L>Ev'n here he has but Intervals of Passion;</L>
+<L>'Tis true those Intervals are Furious All,</L>
+<L>For He in ev'ry thing is more than Mortal:</L>
+<L>But then anon, ev'n in my very Arms,</L>
+<L>My Eager Arms, he languishes for Glory:</L>
+<L>He meditates profound, and fetches sighs,</L>
+<L>Which, while He vainly struggles to repress,</L>
+<L>With terrible Revulsions shake his Soul:</L>
+<L>With Eyes upon me fix'd He sees me not,</L>
+<L>And gazing upon his, I find him absent.</L>
+<L>Oft in his Sleep he takes Convulsive Starts,</L>
+<L>And cryes, to Arms, Hark, Hark, the Trumpet sounds,</L>
+<L>And Glory calls to Arms; I come, I fly,</L>
+<L>Thou Darling of my Soul, thou Mistress ev'n of Gods!</L>
+<L>Then with the fury of the Transport Waking,</L>
+<L>He fetches sighs that shake his Inmost Soul.</L>
+</SP>
+<SP>
+<PB N="15" REF="16">
+<SPEAKER>Phen.</SPEAKER>
+<L>Well, since Ambition Rules in all great Souls,</L>
+<L>Shake off this softer Rage.</L>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<L>I want the very Will to shake it off,</L>
+<L>Ambition rules in Men, but Love prevails in Women;</L>
+<L>Had Heav'n, that gave us such attractive Grace,</L>
+<L>Not Temper'd our unruly Souls with Love,</L>
+<L>We had been more dangerous to Men than Devils:</L>
+<L><HI>Phenissa,</HI> I am a Woman.</L>
+</SP>
+<SP>
+<SPEAKER>Phen.</SPEAKER>
+<P>But no Vulgar Woman.</P>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<L>No, nor is mine a Vulgar Passion,</L>
+<L>I bear a Mind no Stranger to Ambition,</L>
+<L>But still my Love prevails above my Pride.</L>
+<L>Oh, let me never know Indifference more;</L>
+<L>I never can, nor will be calm again;</L>
+<L>For who could live indifferent as to Heav'n,</L>
+<L>That had but known the vast delight of Gods,</L>
+<L>And had a taste of Immortality?</L>
+</SP>
+<SP>
+<SPEAKER>Phen.</SPEAKER>
+<L>'Tis the meer Feaver of your mind that talks thus,</L>
+<L>For Love is nothing else.</L>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<L>Thou rail'st at Love as Fiends blaspheme their God,</L>
+<L>Because He has abandon'd thee for ever.</L>
+</SP>
+<SP>
+<SPEAKER>Phen.</SPEAKER>
+<P>My Years will bring my Sentiments to you.</P>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<L>Oh never, never let me see those years,</L>
+<L>The Soul, that sparkle of Celestial Fire,</L>
+<L>The longer it has lain immerst in th' Air,</L>
+<L>The colder feels its sense of Heav'n and Love,</L>
+<L>The great Originals from which it sprung.</L>
+</SP>
+<SP>
+<SPEAKER>Phen.</SPEAKER>
+<P>Reason requires that you should rule this Passion.</P>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<L>Talk not of Reason, what, but Love, is Reason?</L>
+<L>For, what, but Love, is Happiness?</L>
+<L>Love first appears with Reason in the Soul,</L>
+<L>And by degrees with Reason it decays.</L>
+<L>But cease, forbear thy foolish ill-tim'd Counsel,</L>
+<L>With silent awe attend my Potent Charm.</L>
+<L>And thou, O Air, that murmur'st on the Mountain,</L>
+<L>Be hush'd at my Command, Silence ye Winds,</L>
+<L>That make outrageous War upon the Ocean;</L>
+<L>And thou, old Ocean, lull thy wond'ring Waves;</L>
+<L>Ye Warring Elements be hush'd as Death,</L>
+<L><PB N="16" REF="17">While I impose my Dread Commands on Hell;</L>
+<L>And thou profoundest Hell, whose dreadful sway</L>
+<L>Is given to me, by Fate and <HI>Demogorgon,</HI></L>
+<L>Hear, hear, my powerful Voice thro all thy Regions!</L>
+<L>By <HI>Demogorgon,</HI> I Command thee, Hear!</L>
+<L>And from thy gloomy Caverns thunder thy Reply. <STAGE>Subterranean Thunder.</STAGE></L>
+<L>I am obey'd&mdash;</L>
+<L>Now send up Dreams that may be fittest found</L>
+<L>T'impose upon <HI>Rinaldo</HI>'s slumbring thoughts,</L>
+<L>And to enslave his Soul.</L>
+</SP>
+<STAGE><HI>Spirits or Dreams arise in the shapes of</HI> Bertoldo <HI>and</HI> Sophia, <HI>Parents to</HI> Rinaldo; <HI>and of some that</HI> Rinaldo <HI>had slain in Battel.</HI></STAGE>
+<SP>
+<SPEAKER>Bert.</SPEAKER>
+<P>Rinaldo!</P>
+</SP>
+<SP>
+<SPEAKER>Soph.</SPEAKER>
+<P>Rinaldo!</P>
+</SP>
+<SP>
+<SPEAKER>Bert.</SPEAKER>
+<L>Look up, Behold the Mournfull Shade</L>
+<L>Of him who gave thee Breath,</L>
+<L>Who steps to see thee, while thou'rt laid</L>
+<L>Vpon the Confines here of Death;</L>
+<L>T'inform thee of thy future State,</L>
+<L>And, e're yet it be too late,</L>
+<L>To prevent thy wretched Fate.</L>
+</SP>
+<SP>
+<SPEAKER>Soph.</SPEAKER>
+<L>Look up my Son, Look up on me,</L>
+<L>In me th' Aflicted <HI>Sophia</HI> see.</L>
+<L>Ah Son! not all the grinding throws,</L>
+<L>With which, when thou wert born,</L>
+<L>My Tortur'd Nerves were torn,</L>
+<L>Equall'd half the wracking woes,</L>
+<L>Which now thy Mother undergoes,</L>
+<L>Thou Darling of my Soul, for thee.</L>
+</SP>
+<SP>
+<PB N="17" REF="17">
+<SPEAKER>Bert.</SPEAKER>
+<L>Last night I cast a Look</L>
+<L>Vpon Fates dreadful Book,</L>
+<L>And read a Lesson which no Brain</L>
+<L>That is Mortal can Sustain,</L>
+<L>While all my Soul with Horrour shook.</L>
+</SP>
+<SP>
+<SPEAKER>Soph.</SPEAKER>
+<L>Oh! the distraction of the sight</L>
+<L>And Oh! the Torments of the fright</L>
+<L>I never, never shall forget that Night.</L>
+</SP>
+<SP>
+<SPEAKER>Bert.</SPEAKER>
+<L>Rowze all thy Faculties my Son,</L>
+<L>And to my Fatal words give ear,</L>
+<L>For know that they concern thee near;</L>
+<L>No longer let thy Fancy run</L>
+<L>After that Aiery Fantom Fame;</L>
+<L>But Love <HI>Armida</HI> with a constant Flame:</L>
+<L>Or Destiny decrees,</L>
+<L>Thou shalt feel woes, which but to hear</L>
+<L>Would distract thy Soul with fear,</L>
+<L>And all thy Blood with Horrour freeze,</L>
+</SP>
+<SP>
+<SPEAKER>Soph.</SPEAKER>
+<L>Ah! see around the Raving Hosts</L>
+<L>Of purple Ghosts;</L>
+<L>Whose Blood thou hast in Battle spilt,</L>
+<L>With fearful Guilt.</L>
+<L>Who, unless aw'd by her Commanding Pow'r,</L>
+<L>Would, ah, this Moment, tear thee and devour!</L>
+</SP>
+<SP>
+<PB N="18" REF="18">
+<SPEAKER>Bert.</SPEAKER>
+<L>How they advance with whirling Brands, <STAGE>Dance be|gins.</STAGE></L>
+<L>All flaming in their threatning Hands!</L>
+<L>And as they go their dreadful Round,</L>
+<L>Revenge, Revenge Resound!</L>
+<L><STAGE>Chorus of Spirits.</STAGE> For Revenge, for Revenge, to <HI>Armida</HI> we call,</L>
+<L>That we terribly may on our Murderer fall;</L>
+<L>That as now we with Sulphurous Torches surround him,</L>
+<L>We with our Screams and our Scorpions may wound him;</L>
+<L>And with astonishing Horrors confound him.</L>
+</SP>
+<STAGE>During the Chorus a Dance of Spirits.</STAGE>
+<SP>
+<SPEAKER>Armida.</SPEAKER>
+<L>By Heav'n <HI>Rinaldo</HI> smiles at all their Threats,</L>
+<L>And slumb'ring scorns this terrible appearance.</L>
+<L>Confusion and Amazement! What do I hear?<STAGE>Fame's Trumpet.</STAGE></L>
+<L>What Trumpets, this whose great and Martial sound</L>
+<L>Makes the World Eccho to its Musick?</L>
+<L>Ha! Disappear'd! All vanish'd on the sudden!<STAGE>Spirits vanish.</STAGE></L>
+<L>Gone undismiss'd! The Charm not yet unbound!</L>
+<L>Ho! <HI>Ariec!</HI> Hear, and know my awful Voice,</L>
+<L>At my Command appear again I Charge thee,</L>
+<L>Or else be Banish'd from my sight for ever.</L>
+<STAGE><HI>Ariec</HI> half rising.</STAGE>
+<L>O Queen, to whom thy Excellence of Nature,</L>
+<L>And thy Transcendent Beauty gives Command</L>
+<L>O're all th' Infernal Powers, for in thy Brightness</L>
+<L>We see what once we were in our High Stations,</L>
+<L>And some Reflected Beams enjoy</L>
+<L><PB N="19" REF="18" MS="y">Of that supreamly Blissful Vision,</L>
+<L>From whose Enjoyment our aspiring Minds</L>
+<L>Have banish'd us for ever.</L>
+<L>Excuse thy Slaves unable to obey thee,</L>
+<L>For know a greater Power now drives us hence,</L>
+<L>One of the Brightest of th' Empyreal Mansions</L>
+<L>Expels us with a Stream of Light</L>
+<L>That sets this Atmosphere on fire,</L>
+<L>And with its Blaze insufferably Bright</L>
+<L>Confounds Hell's Gloomy Powers;</L>
+<L>Summmon th' Aerial Spirits to thy Aid,</L>
+<L>For they who pois'd upon expanded Wings,</L>
+<L>Like Basking in the Sun's Meridian Glory.</L>
+<L>Are fitter to sustain Heav'ns flaming Ministers</L>
+<L>Than we who sojourn in the Dusky Deep;</L>
+<L>And they, perhaps too, with Enchanting Voices,</L>
+<L>To Pleasure may seduce <HI>Rinaldo</HI>'s Soul.</L>
+<L>Pleasure thou know'st can tame that Dauntless Soul,</L>
+<L>Which thou no more by Terrours can'st subdue,</L>
+<L>Than fright the Dreadful God who darts the Thunder.</L>
+<L>But, Oh, dismiss me, for I can no more,</L>
+<L>A Deluge of Empyreal Light o'rewhelms me.</L>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<L>Begone then, and for Ease to Hell repair. <STAGE>Vanisher.</STAGE></L>
+<L>But see <HI>Rinaldo</HI> wakens, Oh! Astonishment,</L>
+<L>How ev'ry thing I see and hear confounds me,</L>
+<L>And shews a Power above my own controuls me,</L>
+<L>Let us retire, and then unseen observe him,</L>
+<L>I from himself my Destiny would learn.</L>
+</SP>
+<STAGE>Rinaldo <HI>rises from the Couch,</HI> Armida <HI>and</HI> Phenissa <HI>retire to the side of the Stage.</HI></STAGE>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<L>Me-thought the Trumpet's noble Sound</L>
+<L>Alarm'd me to the Combat,</L>
+<L>Was it Illusion that, or was it real?</L>
+<L>Let it be what it will, it gives thee Cause</L>
+<L>To ask thy self this Question, what thou wert,</L>
+<L>And what thou art at Present? O <HI>Rinaldo,</HI></L>
+<L>Heav'n gave thee Reason for thy Guide of action,</L>
+<L><PB N="20" REF="19">But that's a Lamp set up in ev'ry Breast.</L>
+<L>Heav'n gave thee yet a more exalted Spirit</L>
+<L>Which reach'd above the frail Efforts of Reason;</L>
+<L>For Reason only teaches Man his Duty:</L>
+<L>That raised thy free-born Soul to nobler Heights,</L>
+<L>To things Superlatively Great and Good,</L>
+<L>Beyond what Reason or what Heav'n Requir'd.</L>
+<L>But wher's that Spirit now? That Towring Faculty,</L>
+<L>Which mounting Soar'd above Humanity?</L>
+<L>Tis now half Quencht by an Ignobler Fire.</L>
+<L>Oh base Desertion from my self and glory.</L>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<P>Hear this <HI>Phen ssa,</HI> now are my Fears groundless?</P>
+</SP>
+<SP>
+<SPEAKER>Rin.,</SPEAKER>
+<L>Nay, thou hast stifled too the very Dictates</L>
+<L>Of Common Reason which Mankind Obeys,</L>
+<L>And while Ten thousand Slaves before <HI>Ierusalem,</HI></L>
+<L>Urg'd by their Duty in this very Moment,</L>
+<L>To Danger and to Death bid loud Defiance,</L>
+<L>Thou Loyter'st here in soft Inglorious Ease.</L>
+<L>Perhaps the Fable of the Army, Ha!</L>
+<L>Canst thou bear that? Canst thou so much as Think</L>
+<L>That thou deserv'st to be Contemn'd and Live?</L>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<P>Oh, I am lost, beyond all Hope, Undone?</P>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<L>Nay, canst thou bear ev'n this? That thou no more</L>
+<L>Deserv'st to be preferr'd above the Rest,</L>
+<L>Above the Rest, admir'd? That in this Moment</L>
+<L>The Brave <HI>Tan<GAP DESC="illegible" EXTENT="1 letter">redi</HI> like Celestial <HI>Iove</HI></L>
+<L>With Thunder in his Hand distributes Fate,</L>
+<L>While Thou&mdash; By Heav'n I'd rather be a Dog,</L>
+<L>And lead a Brutal Life, without Reflection</L>
+<L>Than to be stung with the tormenting Thought</L>
+<L>That one who is my fellow Creature</L>
+<L>Merits to Command me.</L>
+<L>Oh, what's what's become of that aspiring-greatness</L>
+<L>That once disdain'd to yield to less then Infinite!</L>
+<L>Tis lost, tis to a Womans will Abandon'd.</L>
+</SP>
+<SP>
+<SPEAKER>Phen.</SPEAKER>
+<P>Madam contain your self.</P>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<L>Tis true thou lov'st her with that height of Fury,</L>
+<L>Which none but her Inimitable Beauties</L>
+<L>Cold ever have Inspir'd.</L>
+</SP>
+<SP>
+<PB N="21" REF="19">
+<SPEAKER>Phen.</SPEAKER>
+<P>Observe him now.</P>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<L>But what? The Vulgar can Command small Passions;</L>
+<L>Tis for <HI>Rinaldo</HI> to Controul the Fiercest.</L>
+<L>VVhy art thou by Fames Hundred Tongues extoll'd?</L>
+<L>Why by her Golden Trump proclaim'd a Heroe,</L>
+<L>If thou hast only Brutal force to boast of?</L>
+<L>Tis chiefly force of Mind that makes a Heroe.</L>
+<L>Then, O thou loveliest of thy Sex, <HI>Armida,</HI></L>
+<L>Thou only one of all created Beings,</L>
+<L>That ere had pow'r to Fire <HI>Rinaldo</HI>'s Heart</L>
+<L>Be satisfied with this, that only thou</L>
+<L>Had'st pow'r to move his Soul, which for a time</L>
+<L>Admir'd thee Equal to eternal Glory.</L>
+</SP>
+<STAGE><HI>Fame's</HI> Trumpet <HI>and Voices.</HI></STAGE>
+<LG>
+<L><HI>Rinaldo,</HI> in the Enchanted Grove</L>
+<L>Prepare to meet immortal Love;</L>
+<L>Straight to the Bow'r of Bliss repair,</L>
+<L><HI>Fortune</HI> nd <HI>Fame</HI> attend thee there.</L>
+</LG>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<L>Again that noble Clangor, and with Voices!</L>
+<L>Nay then tis Evident 'tis no Illusion.</L>
+<L>Who ere thou art that with those God-like Sounds</L>
+<L>Thus raisest all that's pow'rful in my Nature,</L>
+<L>This moment in th' enchanted Grove Ile meet thee.</L>
+<L>But O <HI>Rinaldo</HI> whither wert thou fal'n?</L>
+<L>Who want'st a call to rouze thee from thy Lethargy,</L>
+<L>That might Awake the Dead and make them Start</L>
+<L>From their Eternal Slumbers <STAGE>Exit.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<L>Patience ye Heav'ns, or thou Hell Revenge!</L>
+<L>But let us to th' Enchanted Grove Repair,</L>
+<L>And thither call the Powr's that Rule the Air;</L>
+<L>Yet least the Charms of Pleasure too, should fail,</L>
+<L>Hell, let thy gloomy gods their last Efforts prepare,</L>
+<L>If Destiny Decrees that after all,</L>
+<L>I needs must perish, like my self Ile fall;</L>
+<L><PB N="22" REF="20">I'le fall like one whose Arbitrary Sway,</L>
+<L>Th' Aerial and th' Infernal gods obey:</L>
+<L>With me the Traytor shall not only Die,</L>
+<L>But groaning Nature in Convulsions lie.</L>
+</SP>
+<LG>
+<L>Now to the Bow'r of Bliss let's fly</L>
+<L>And all the Way we go,</L>
+<L>Hell, by thy Musick show</L>
+<L>Thou art enrag'd as well as I. <STAGE>Exeunt.</STAGE></L>
+</LG>
+<TRAILER>The End of the Second Act.</TRAILER>
+</DIV1>
+<DIV1 N="3" TYPE="act">
+<PB N="23" REF="20">
+<HEAD>ACT III.</HEAD>
+<STAGE><HI>SCENE,</HI> The Enchanted Wilderness.</STAGE>
+<STAGE><HI>Soft Musick,</HI> Rinaldo solu.</STAGE>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<L>WEre then those glorious Voices but Delusions,</L>
+<L>That call'd me with that Pomp of noble Harmony?</L>
+<L>Fortune they cried, and Fame attended here,</L>
+<L>But all things here as soft as Lovers VVishes,</L>
+<L>This Magick Symphony with sweetness sooths me,</L>
+<L>And ev'ry thing around me Breaths Desire,</L>
+<L>Which passes thro my Senses to my Soul,</L>
+<L>And to <HI>Armida</HI>'s Beauteous Image there</L>
+<L>Imparts fresh force and new Divinity.</L>
+<L>That Image to perpetually torments me,</L>
+<L>Reflecting on th' Exstatick Joys,</L>
+<L>Which I must loose for ever.</L>
+</SP>
+<STAGE><HI>Enter</HI> Armida <HI>and</HI> Phenissa.</STAGE>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<L>See where he walks in gloomy Contemplation!</L>
+<L>Summon th' Aerial Spirits to their Duty,</L>
+<L>While I unseen observe him.</L>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<L>Could'st thou resolve, then should Heav'n send th' occasion</L>
+<L>To leave this lovely Master-piece of Nature;</L>
+<L>To leave her in this fulness of Desire,</L>
+<L>This height of all thy Furious Wishes;</L>
+<L>When each succeeding Hour</L>
+<L>Adds to her Graces, and sublimes thy Pleasure.</L>
+<L>Can'st thou resolve to see that Face no more;</L>
+<L>And never more to hear that Voice,</L>
+<L>Whose Musick Charms above the Magick Songs</L>
+<L><PB N="24" REF="21">Ev'n of th' Immortal Ministers who serve her.</L>
+<L>Can'st thou Resolve? Ay, There's the Dreadful Question!</L>
+<L>For what can be so terrible to Nature</L>
+<L>As to fall all at once from blissful Rapture</L>
+<L>To the Curst State of Wishing without Hope?</L>
+<L>Can'st thou make this Effort and live? No matter,</L>
+<L>Life's not the thing in Question now, 'tis Glory.</L>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<L>See how the Tempest of his Passion tears him!</L>
+<L>But can'st thou hear him thus contrive thy Ruine,</L>
+<L>And yet stand tamely by?</L>
+<L>Thou who can'st crush him in a moment!</L>
+<L>Since thou hast cloy'd him with thy softness,</L>
+<L>What if he heard thee thunder in his Ears,</L>
+<L>With that terrible Voice that untunes Nature,</L>
+<L>And makes th' Inverted Sphears fall into discord?</L>
+<L>But something tender in my Soul restrains me,</L>
+<L>Is it Compassion? No, 'tis something softer,</L>
+<L>Thou lov'st the Traytor still; Lov'st him to madness.</L>
+<L>I do, I will, I must. Can ever Woman</L>
+<L>Behold that Form without a bleeding Heart?</L>
+<L>That Meen that claims the Empire of the Universe?</L>
+<L>With which he may give Laws to Human Kind.</L>
+<L>May the High place with Dignity maintain</L>
+<L>Of Heav'n's great Viceroy for this Under-World,</L>
+<L>And Represent Immortal Majesty.</L>
+<L>Once more I'le try Endearments. <STAGE>She comes forward.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<L>Ha! The Queen!<STAGE>Perceiving her.</STAGE></L>
+<L>Now, where are all thy feeble Resolutions?</L>
+<L>One Glance has humbled thy Aspiring Thoughts,</L>
+<L>Pleasure flows streaming from those Lovely Eyes,</L>
+<L>And with it's sweetness overcomes my Soul.</L>
+<L>If 'tis a Crime to look and be Transported,</L>
+<L>Why was I made thus sensible to Pleasure?</L>
+<L>Why was she form'd with that surpassing Beauty,</L>
+<L>That might transport an Angel from his Sphear,</L>
+<L>And fix him by Divine Resemblance here?</L>
+<L><HI>Armida!</HI> My Queen! My Mistress!</L>
+</SP>
+<SP>
+<PB N="25" REF="21" MS="y">
+<SPEAKER>Arm.</SPEAKER>
+<L>Yes, she is here, and still the same she has been,</L>
+<L>Unless that to her self she's alter'd;</L>
+<L>That I must see, <STAGE>Pulls out a Glass, and looks in it.</STAGE></L>
+<L>At least I'm sure she is the same to thee;</L>
+<L>But thou art alter'd to thy self and me,</L>
+<L>And thou art lost to both.</L>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<L>So lost indeed I was, while I</L>
+<L>From thee, the dearer part of me, was absent;</L>
+<L>But I shall find my self again in thee. <STAGE>To her looking in the Glass.</STAGE></L>
+<L>Why dost thou vainly seek thy likeness there?</L>
+<L>Can the frail Crystal represent Divinity?</L>
+<L>Would'st thou behold these Eyes in all their Glories?</L>
+<L>To see the force of their Celestial Fire,</L>
+<L>Turn them on mine all flaming with desire;</L>
+<L>Or look upon the Crystal of the Skies,</L>
+<L>And view thy own in the World's flaming Eyes;</L>
+<L>Those Eyes which vast Intelligences move</L>
+<L>Minds made like thine, all Knowledge and all Love.</L>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<L>By all my Hopes of Happiness and Him,</L>
+<L>His Heart's once more my own. <HI>Rinaldo</HI> sit,</L>
+<L>To drive away all Sorrow from thy Soul</L>
+<L>I'le give thee Musick that may lull Despair,</L>
+<L>And tempt the Dire Tormentours of the Damn'd,</L>
+<L>With listed Brands to listen to its Air.</L>
+<L>Aerial Spirits who attend me, Hear,</L>
+<L>And shap'd like Gods whom <HI>Greece</HI> Ador'd, appear.</L>
+</SP>
+<STAGE><HI>Symphony of Flutes,</HI> Venus, Cupid, <HI>and a Chorus of Loves
+and Graces.</HI></STAGE>
+<SP>
+<SPEAKER>Ven.</SPEAKER>
+<L><HI>Cupid,</HI> come to the Relief</L>
+<L>Of thy Mother's piercing Grief;</L>
+<L>Hither quickly, <HI>Cupid,</HI> fly;</L>
+<L>With thee bring thy keenest Dart,</L>
+<L>To subdue a Rebel Heart,</L>
+<L>Thou art Scorn'd as well as I.</L>
+</SP>
+<STAGE><PB N="26" REF="22"><HI>Ritornelle.</HI></STAGE>
+<SP>
+<SPEAKER>Cho.</SPEAKER>
+<L>Come <HI>Cupid,</HI> on thy Golden Wing,</L>
+<L>And in thy sounding Quiver bring</L>
+<L>Pernicious Arrows, wing'd with Fire,</L>
+<L>T'inflict incurable Desire.</L>
+<STAGE>Symphony.</STAGE>
+<L><STAGE><HI>Cupid</HI> fly|ing down</STAGE> Thus flying thro' the Balmy Air,</L>
+<L>To my great Parent I repair;</L>
+<L>And tho' the World's maintain'd by me,</L>
+<L>Yet, Mother, to attend on thee,</L>
+<L>I leave the mighty Care.</L>
+</SP>
+<SP>
+<SPEAKER>Ven.</SPEAKER>
+<L>A Mortal in this Fragrant Bow'r,</L>
+<L>Presumes that he's above our Pow'r.</L>
+</SP>
+<SP>
+<SPEAKER>Cup.</SPEAKER>
+<L>I'll make that Mortal know,</L>
+<L>That none too Great for Love can grow:</L>
+<L>I tame the mighty Pow'rs above,</L>
+<L>And cruel Gods below.</L>
+<STAGE>Ritornelle.</STAGE>
+<L>Great <HI>Jove,</HI> whose Arms the Lightning, sling,</L>
+<L>Has felt my fiercer Fire,</L>
+<L>And Hell's Inexorable King</L>
+<L>Has yielded to Desire.</L>
+</SP>
+<SP>
+<PB N="27" REF="22">
+<SPEAKER>Cho.</SPEAKER>
+<L>Great <HI>Jove,</HI> whose Arms the Lightning sling,</L>
+<L>Has felt thy fiercer Fire, <HI>&amp;c.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Cup.</SPEAKER>
+<L>Now quickly thro' th' Enchanted Grove,</L>
+<L>Let all my nimble Brethren Rove.</L>
+</SP>
+<STAGE>Dance</STAGE>
+<SP>
+<SPEAKER>Ven.</SPEAKER>
+<L>Let Earth, and Air, and Flood, and Fire,</L>
+<L>And ev'ry thing around conspire</L>
+<L>To breath forth soft and sweet Desire.</L>
+</SP>
+<SP>
+<SPEAKER>Cho.</SPEAKER>
+<P><HI>Let Earth, and Air,</HI> &amp;c.</P>
+</SP>
+<STAGE><HI>Enter</HI> Urania, Ubaldo, Carlo.</STAGE>
+<SP>
+<SPEAKER>Ur.</SPEAKER>
+<L>Thus we unseen have past the winding Mazes</L>
+<L>Of this Enchanted Labyrinth, and now</L>
+<L>Stand here invisible to Mortal sight,</L>
+<L>To all unless <HI>Rinaldo</HI>'s</L>
+<L>See where the wanton Lovers lie reclin'd</L>
+<L>In all the soft and pleasing Pomp of Luxury.</L>
+<L>But now tis Heav'ns High will that I Retire,</L>
+<L>And the remaining Task consign to you:<STAGE><HI>To</HI> Carlo.</STAGE></L>
+<L>To you, I Delegate this Sacred wand,</L>
+<L>This wand whose pow'rful touch no Impious Spirit,</L>
+<L>Whether of Earth, or Air, or Fire can Bear,</L>
+<L>With which thou shalt expel these shining Fantoms.</L>
+<L>Then waiting the Departure of the Enchantress,</L>
+<L><HI>Ubaldo,</HI> thou shalt first approach <HI>Rinaldo,</HI></L>
+<L><PB N="28" REF="23">And to his Eyes presenting that bright Orb,</L>
+<L>Shew him himself, the only form can shake him. <STAGE>Exit.</STAGE></L>
+</SP>
+<STAGE>Carlo <HI>goes round waving his Wand and the Spirits Vanish.</HI></STAGE>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<L>What? All upon the Wing? And undismiss'd too!</L>
+<L>All Starting with amazement from their Stations,</L>
+<L>Like watchful Fowl, that spring upon descrying</L>
+<L>The Fowler's sly approach.</L>
+<L>What can this mean, that neither is in Nature,</L>
+<L>Nor in the Compass of my pow'rful Art;</L>
+<L>That Hell or cannot, or else dare not Speak!</L>
+<L><HI>Rinaldo</HI> too, seems strangely discomposed;</L>
+<L>What ails my Love? What means that furious Start?</L>
+<L>Why do thy lovely Eyes appear thus Terrible?</L>
+<L>And threatning shoot their fiery glances that Way?</L>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<P>VVhy have you done this?</P>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<P>What have I done? Thou art not well my Love.</P>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<L>Why have you rais'd these Fantoms to delude me,</L>
+<L>In that provoking Posture?</L>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<L>These Fantoms are within thee, I see nothing;</L>
+<L>I who a hundred times a Day view Beings,</L>
+<L>That are to thee Invisible.</L>
+<L>Sure, 'tis th' effect of his distempred Mind;</L>
+<L>But then my Spirits who are fled unlicens'd:</L>
+<L>The more I think, the more I grow Confounded.</L>
+<L>My Genius seems to whisper me within,</L>
+<L><HI>Armida!</HI> Fate approaches.</L>
+<L>An iey Horrour strikes thro' all my Veins,</L>
+<L>And Freezes as it runs; not far from hence,</L>
+<L>There is a dismal Cave, the Mouth of Hell,</L>
+<L>Out of the which, the old ugly Beldame Night,</L>
+<L>With Twenty thousand fiends, her fearful Equipage,</L>
+<L>Each Evening Rushes to usurp the Sky,</L>
+<L>And in her hideous flight Deform</L>
+<L><PB N="29" REF="23">Th' afflicted face of Nature; Straight, <HI>Phenissa,</HI></L>
+<L>Into its monstrous Caverns shall Descend</L>
+<L>And thither Summoning Hell's blackest Furies,</L>
+<L>Fiends too abominable to behold</L>
+<L>The face of Heav'n or mine,</L>
+<L>Shall there Compel them to unfold my Destiny&punc;</L>
+</SP>
+<STAGE>Ubaldo <HI>and</HI> Carlo <HI>go up to</HI> Rinaldo, <HI>who had been all this while observing them.</HI></STAGE>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<L>Ha! What are you,</L>
+<L>That in this posture of Defiance,</L>
+<L>Thus dare t' explore the Secrets of a Solitude,</L>
+<L>That's Sacred to th' Immortal Pow'rs and me?</L>
+<L>What are you? Speak or&mdash;</L>
+</SP>
+<SP>
+<SPEAKER>Carlo.</SPEAKER>
+<P>Men.</P>
+</SP>
+<SP>
+<SPEAKER>Ub.</SPEAKER>
+<P>Soldiers.</P>
+</SP>
+<SP>
+<SPEAKER>Carl.</SPEAKER>
+<P>Friends.</P>
+</SP>
+<SP>
+<SPEAKER>Ub.</SPEAKER>
+<P>Ubaldo,</P>
+</SP>
+<SP>
+<SPEAKER>Carl.</SPEAKER>
+<P>Carlo.</P>
+</SP>
+<SP>
+<SPEAKER>Ub.</SPEAKER>
+<P>Now, what art thou? Look there and satisfie thy self. <STAGE>Presents the Adomantine shield to him</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<L>Damnation, what indeed? For 'tis Impossible</L>
+<L>That thou canst be <HI>Rinaldo.</HI> Oh, Dishonour!</L>
+<L>Earth open quick, and take me to the Centre!</L>
+<L>Ye Cedars fall and Crush me to Conceal me!</L>
+<L>But what Retreat can hide me from my thoughts?</L>
+<L>For I have seen my shame, and that's to me</L>
+<L>As much as if the assembled VVorld beheld it.</L>
+<L>What Godlike Forms are those, compar'd to mine?</L>
+<L>Off ye vile Trappings of soft <HI>Syrian</HI> Slaves, <STAGE>Tears of his Ghirlands.</STAGE></L>
+<L>The Pride of little base Esseminate wretches,</L>
+<L>That want the very outside of Humanity.</L>
+</SP>
+<SP>
+<SPEAKER>Carl.</SPEAKER>
+<L>Now He begins to be once more <HI>Rinaldo,</HI></L>
+<L>Throws off the Captive, and resumes the Demy-god,</L>
+<L><PB N="30" REF="24">We come to free thee from inglorious Thraldom,</L>
+<L>Follow us.</L>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<P>Whither.</P>
+</SP>
+<SP>
+<SPEAKER>Ub.</SPEAKER>
+<P>To <HI>Ierusalem.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<P>Ha!</P>
+</SP>
+<SP>
+<SPEAKER>Ub.</SPEAKER>
+<P><HI>Godfrey</HI> Invites thee.</P>
+</SP>
+<SP>
+<SPEAKER>Carl.</SPEAKER>
+<L>The universal Camp demands thee,</L>
+<L>Victory on her Eagles Wings attends thee.</L>
+</SP>
+<SP>
+<SPEAKER>Ubal.</SPEAKER>
+<L>Fortune, and everlasting Fame expect thee.</L>
+<L>Art thou not Fir'd? When <HI>Europe</HI> and when <HI>Asia</HI></L>
+<L>Contending for the Empire of the World,</L>
+<L>In dreadful Conflict meet, Is this a place;</L>
+<L>This soft Retreat for that aspiring Soul,</L>
+<L>That once was foremost in the Race of Glory?</L>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<P>Great Deeds are oft in Solitude perform'd.</P>
+</SP>
+<SP>
+<SPEAKER>Ubal.</SPEAKER>
+<L>Of all created Spirits, is there one</L>
+<L>So Covetous of Deathless Fame as thine?</L>
+<L>Then where are thy Applauders here?</L>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<L>The Brave can never be without Applauders,</L>
+<L>The Gods, and I my self approve my Actions.</L>
+</SP>
+<SP>
+<SPEAKER>Ubald.</SPEAKER>
+<L>Canst thou Desert the darling Cause of Heav'n,</L>
+<L>And yet affirm that Heav'n approves thy Actions?</L>
+<L>What wants there but thy Sword, O Fatal Warriour,</L>
+<L>To finish this Croisade with glorious Victory?</L>
+<L>T' extinguish that abominable Sect,</L>
+<L>And put an end to all their Impious Rites?</L>
+<L>Break forth, and be thy God-like self once more,</L>
+<L>The matchless Champion of the Christian Cause,</L>
+<L>Who art now th' Egregious Champion of a VVoman;</L>
+<L>Break from her Influence, whose malignant Aspect</L>
+<L>Eclipses all thy glory.</L>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<L>Have neither of you seen this VVoman,</L>
+<L>Whom thus disdainfully you mention?</L>
+</SP>
+<SP>
+<SPEAKER>Ubald.</SPEAKER>
+<P>Thou know'st we have&punc;</P>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<L>Did you unmov'd behold her? No, you Lov'd her,</L>
+<L>Ev'n to the loss of Reason, both you lov'd her,</L>
+<L><PB N="31" REF="24">Contemn'd and us'd like Slaves, you Doted on her;</L>
+<L>I met you led in Triumph both, and Bound,</L>
+<L>Bound in Ignobler Bonds than those of Love;</L>
+<L>I met you, and deliver'd you, unmann'd</L>
+<L>To that degree, you grumbl'd at your Freedom,</L>
+<L>Because your Baseness had excuse no longer.</L>
+<L>Have I a Soul so little Sensible,</L>
+<L>That I should leave the soft, the kind <HI>Armida,</HI></L>
+<L>When her Disdain and her Imperious fierceness</L>
+<L>Could so engageing prove to you?</L>
+<L>Me she yet never gave just cause to leave her,</L>
+<L>Unless because for me She left an Empire.</L>
+<L>And the Addresses of all <HI>Asia</HI>'s Monarchs.</L>
+</SP>
+<SP>
+<SPEAKER>Ub.</SPEAKER>
+<L>Our Actions ought not to be Rules for yours,</L>
+<L>You have a Soul of a Superiour Order.</L>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<L>Could you perswade my Vanity to that,</L>
+<L>Great Souls by Mighty'st Passions are tormented,</L>
+<L>Besides, <HI>Armida</HI> has Ten thousand Charms,</L>
+<L>Of which you never can have any Notion.</L>
+<L>Could Cruelty have binding force for you,</L>
+<L>And am I urg'd to leave the last Endearments?</L>
+<L>That only by their sweet Remembrance pierce</L>
+<L>My Inmost Soul, and Rowze up sleeping Raptures.</L>
+</SP>
+<SP>
+<SPEAKER>Ub.</SPEAKER>
+<P>A Heroe nere can want a worthier Mistress.</P>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<L>Thou talk'st, but Ah! thou do'st not think, <HI>Ubaldo.</HI></L>
+<L>For him who has Enjoy'd <HI>Armida,</HI></L>
+<L>There is no other Mistress.</L>
+<L>Thou hast beheld her Angel Form,</L>
+<L>And Frowning, it has Ravish'd thee.</L>
+<L>Thou know'st her Science, and her wondrous Wit too,</L>
+<L>But Ah, thou nere can'st know with how much Art,</L>
+<L>She makes that Wit subservient to her Happiness,</L>
+<L>When she designs to bless the Man she Loves,</L>
+<L>And raise him to a God, with height of Rapture</L>
+<L>Were you that happy Man, would you forsake her?</L>
+<L>At least, thou should'st not <HI>Carlo.</HI></L>
+<L><PB N="32" REF="25">Thy languid Eyes, that glow with humid Fires,</L>
+<L>Declare too well thy Soul.</L>
+</SP>
+<SP>
+<SPEAKER>Carl.</SPEAKER>
+<P>I must confess, I should not.</P>
+</SP>
+<SP>
+<SPEAKER>Vb.</SPEAKER>
+<P>Nay, then all's lost. Heaven's darling Cause is lost,</P>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<L><HI>Ubaldo,</HI> No,</L>
+<L>What I have said, has been design'd to show,</L>
+<L>That the great thing I now shall do is owing,</L>
+<L>Not to the Influence of your frail perswasion,</L>
+<L>Who stand Convicted both, and both Confounded;</L>
+<L>But the full Force of my own Reasoning Virtue.</L>
+<L>Tho Dearer than my Life I Love <HI>Armida</HI>;</L>
+<L>I Love my Duty and my Honour more.</L>
+<L>And since they call, <HI>Rinaldo</HI> will obey.</L>
+<L>But Oh, thou Tyrant, Glory, How much gentler,</L>
+<L>And how much Lovelier in the Field I found thee,</L>
+<L>When stain'd with Human Gore, from far thou beckon'st,</L>
+<L>And I while Death and Horror stalk'd before me,</L>
+<L>Broke thro' the whole <HI>Arabian</HI> Horse to joyn thee,</L>
+<L>And Mow'd my passage thro' the <HI>Syrian</HI> Infantry.</L>
+</SP>
+<SP>
+<SPEAKER>Ub.</SPEAKER>
+<P>There spoke the very first, and best of Heroe's <STAGE>Entring</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Ur.</SPEAKER>
+<P>Nay, then Appear <HI>Urania.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<P>The blest <HI>Urania</HI> here!</P>
+</SP>
+<SP>
+<SPEAKER>Ur.</SPEAKER>
+<L>Yes, now you purge your stains by such Contrition,</L>
+<L><HI>Urania</HI> dares appear,</L>
+<L>She has with transport, and with wonder heard thee.</L>
+<L>Thou hast assum'd a god-like Resolution.</L>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<L>Yes, I will leave my very Life, my Soul.</L>
+<L>Farewell thou Dearer part of me, and with thee,</L>
+<L>Pleasure farewel, a long farewel ye Raptures,</L>
+<L>That have so often in this blissful Bow'r,</L>
+<L>Rais&punc;d me above the height of mortal Happiness.</L>
+</SP>
+<STAGE><HI>Enter</HI> Phenissa.</STAGE>
+<SP>
+<SPEAKER>Phen.</SPEAKER>
+<L>My Lord, the Queen your Mistress, Ha!</L>
+<L>Bless me, what shapes are those?</L>
+</SP>
+<SP>
+<PB N="33" REF="25">
+<SPEAKER>Ur.</SPEAKER>
+<L>Tell her, she is no more <HI>Rinaldo</HI>'s Mistress,</L>
+<L>And he no more a Slave.</L>
+</SP>
+<SP>
+<SPEAKER>Phen.</SPEAKER>
+<L>What's this I hear? Nay then assist me Hell;</L>
+<L>Flie <HI>Nisroe,</HI> flie, and on the Wings of Lightning,</L>
+<L>Convey this News I charge thee.</L>
+<L>This certainly must turn her Love to Hate,</L>
+<L>To mortal Hate; and force her to destroy him. <STAGE>Exit.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<L>Now all ye separated Souls of Heroes,</L>
+<L>Who in this happy Isle, enjoy Immortal Pleasures;</L>
+<L>Who hovering in the Balmy Air around me.</L>
+<L>Beheld the dreadful Conflict in my Breast,</L>
+<L>And saw me with a bleeding Heart, a Victor;</L>
+<L>Say all, if I deserve a place</L>
+<L>In your Illustrious Roll?</L>
+</SP>
+<SP>
+<SPEAKER>Ur.</SPEAKER>
+<L>No <HI>Roman</HI> ere did half so much for Glory.</L>
+<L>True, they resign'd their Lives for Glory,</L>
+<L>But soon their pangs were over.</L>
+<L>Thou art contented to Live greatly miserable,</L>
+<L>But quickly let us fly, thou know'st <HI>Armida,</HI></L>
+<L>And know'st how far her dreadful pow'r Extends;</L>
+<L>That pow'r that sets Earth, Hell, and Heav'n in uproar,</L>
+<L>While Chaos Hush'd, stands listning to the noise,</L>
+<L>And wondring at Confusion, not his own;</L>
+<L>And tho' she should not hurt us, she may shake us.</L>
+<L>But hark, already she begins, already,</L>
+<L>Hells grizly Tyrant takes the dire Alarm <STAGE>The Serpent and Bases softly un|der the Stage.</STAGE></L>
+<L>In Frantick haste ev'n now the Furies Arm,</L>
+<L>Th' Infernal Trumpet thro' the Abiss profound,</L>
+<L>Horribly Rumbles with its dreary Sound.</L>
+<L>Hark!<STAGE>Here the Musick plays out.</STAGE></L>
+<L>In that Roar Hells dreadful Mounds ir past.</L>
+<L>Hark!<STAGE>Here the Alarm plays out again.</STAGE></L>
+<L>Now the vaulted Heaven's restore the dismal Blast.</L>
+</SP>
+<SP>
+<SPEAKER>Ub.</SPEAKER>
+<P>I stiffen with Astonishment,</P>
+</SP>
+<SP>
+<SPEAKER>Carl.</SPEAKER>
+<L>And I grow Chill with Horrour.</L>
+<L>Bless me, what hideous Forms are those,</L>
+<L><PB N="34" REF="26">That threatning Nod their ghastly skulls,</L>
+<L>And Stalk t' oppose our passage,</L>
+<L><HI>Rin.</HI> Why? those are Creatures whom their Crimes have thrown</L>
+<L>So far below us, we to them are Gods</L>
+<L>In Scorn of all their empty threats I'll on.</L>
+<L>Are we not Spirits too? Immortal Beings,</L>
+<L>Whom only we our selves have pow'r to hurt?<STAGE>Alarm again.</STAGE></L>
+<L>I fear the fair <HI>Armida's</HI> softness more</L>
+<L>Than all these ghastly shapes, and all this dreadful Roar.</L>
+</SP>
+<TRAILER>The End of the Third Act.</TRAILER>
+<CLOSER>The foresaid Alarm is repeated for the Act Tune.</CLOSER>
+</DIV1>
+<DIV1 N="4" TYPE="act">
+<PB N="35" REF="26">
+<HEAD>ACT IV.</HEAD>
+<STAGE><HI>SCENE,</HI> The Country before the Enchanted Palaces.</STAGE>
+<STAGE>Enter <HI>Phenissa,</HI> and <HI>Nisroe.</HI></STAGE>
+<SP>
+<SPEAKER>Nis.</SPEAKER>
+<P>Why am I call'd with so much eager haste?</P>
+</SP>
+<SP>
+<SPEAKER>Phen.</SPEAKER>
+<L>Oh, I want time to tell thee, Haste, Be gone,</L>
+<L>Fly, fly, this very moment,</L>
+<L>Swift as a Storm, Impetuous as the Lightning,</L>
+<L>To execute <HI>Armida</HI>'s Dreadful Will.</L>
+</SP>
+<SP>
+<SPEAKER>Nis.</SPEAKER>
+<P><HI>Rinaldo</HI>&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Phen.</SPEAKER>
+<L>Is gone with Vengeance, and with Death o'retake him;</L>
+<L>Go, bid th' avenging Ministers of Fate</L>
+<L>Rush thro the inmost Chambers of the Earth,</L>
+<L>And shake the World's Foundations.</L>
+<L>Bid the Tempestuous Powers that rule the Air</L>
+<L>Let loose th' unbridled Fury of the Winds,</L>
+<L>To overthrow their Empire.</L>
+<L>And let the Furies with Infernal Horrours</L>
+<L>Affright, astonish and confound the Traytour.</L>
+<L>What! stand'st thou pausing now the Queen's betray'd?</L>
+</SP>
+<SP>
+<SPEAKER>Nis.</SPEAKER>
+<L>I do not pause, this moment thou'rt obey'd.</L>
+<L>Behold that grisly Form which there ascends, <STAGE>Spirits ascends.</STAGE></L>
+<L>The Dire forerunner of Confusion;</L>
+<L>As in this Western Main a small black Cloud</L>
+<L>Lifting its threatning Head above the Horizon.</L>
+<L>The Signal of the Warring Winds</L>
+<L>Foreruns the Dreadful Hurricane&mdash;</L>
+<L>This Rising Fantome by its black appearance</L>
+<L>Alarms Millions of Immortal Spirits,</L>
+<L>To raise up Tumults that will shake all Nature.</L>
+</SP>
+<SP>
+<PB N="36" REF="27">
+<SPEAKER>Phen.</SPEAKER>
+<L>Let us be gone then, Thou to Hell,</L>
+<L>And to the Queen, my Mistress, I,</L>
+<L>To tell her what thou hast done. <STAGE>Exeunt.</STAGE></L>
+</SP>
+<STAGE>Thunder and Lightning; Spirit comes forward and sings.</STAGE>
+<SP>
+<SPEAKER>Spir.</SPEAKER>
+<L>Ye Spirits that dwell in Earth, Fire, and Air,</L>
+<L>Hither, Hither, Hither, Hither, hurrying repair:</L>
+<L>Behold your great Mistress, <HI>Armida</HI>'s betray'd,</L>
+<L>Hither, hither, hither, Hurry all to her Aid.</L>
+</SP>
+<SP>
+<SPEAKER>Cho.</SPEAKER>
+<L>Lo, from Earth, from Hell, and from Sky,</L>
+<L>With Vengeance laden we fly.</L>
+</SP>
+<SP>
+<SPEAKER>Spir.</SPEAKER>
+<L>Ye Fiends that are lurking in Graves,</L>
+<L>Or gliding in Vaulted Caves,</L>
+<L>All working amain in your Holes,</L>
+<L>Heave, Heave up the Crumbling Earth like Moles.</L>
+<L>Till the Mountain shakes,</L>
+<L>And the Rock its Basis forsakes,</L>
+<L>And the Heart of the Traytor quakes.</L>
+</SP>
+<SP>
+<SPEAKER>Cho.</SPEAKER>
+<L>'Tis done, see the Mountain shakes,</L>
+<L>And the Rock its Basis forsakes.</L>
+</SP>
+<SP>
+<SPEAKER>Spir.</SPEAKER>
+<L>Ye Pow'rs who govern the Air,</L>
+<L>Let nought but Confusion be there;</L>
+<L>Haste to send forth</L>
+<L>The stormy North,</L>
+<L>And unbind the Deep Mouth</L>
+<L>Of the Blustring South:</L>
+<L><PB N="37" REF="27">Let them blow, let them blow, till with Fury they Roar,</L>
+<L>And ambitious old Ocean disdains the Shore.</L>
+</SP>
+<SP>
+<SPEAKER>Cho.</SPEAKER>
+<L>Hark how they blow! Hark how they blow!</L>
+<L>If they go on, thro' the Void they will sweep</L>
+<L>The Heav'ns, the Earth, and the Deep,</L>
+<L>And the World into Chaos will throw!</L>
+</SP>
+<SP>
+<SPEAKER>Spir.</SPEAKER>
+<L>Now flying in Crowds,</L>
+<L>Charge, Charge all your Clouds,</L>
+<L>Charge them all with Destructive Thunder,</L>
+<L>Let it roar, till it rends the Vast all asunder.</L>
+<L>Let the Lightning fearfully blaze,</L>
+<L>Till Mortals who gaze,</L>
+<L>Fall Dead at the terrible Wonder.</L>
+</SP>
+<SP>
+<SPEAKER>Cho.</SPEAKER>
+<L>'Tis done, 'tis done, and we shake</L>
+<L>At the dire Confusion we make.</L>
+</SP>
+<SP>
+<SPEAKER>Spir.</SPEAKER>
+<L>Ye Furies who Reign in Vnquenchable Fires,</L>
+<L>To the sound of your Yells tune your Horrible Lyres;</L>
+<L>And give us that Musick by which you Redouble</L>
+<L>The Horrors of Hell, and unspeakable Trouble.</L>
+</SP>
+<SP>
+<SPEAKER>Cho.</SPEAKER>
+<P>'Tis done.</P>
+</SP>
+<SP>
+<SPEAKER>Spir.</SPEAKER>
+<L>Now add to the Symphony clinking of Chains.</L>
+<L><PB N="38" REF="28"><HI>Cho.</HI> 'Tis done.</L>
+</SP>
+<SP>
+<SPEAKER>Spir.</SPEAKER>
+<P>Add the Howls of the Damn'd, in the height of their Pains;</P>
+</SP>
+<SP>
+<SPEAKER>Cho.</SPEAKER>
+<P>'Tis done.</P>
+</SP>
+<SP>
+<SPEAKER>Spir.</SPEAKER>
+<P>Add their Scream and their Roar, and their Serpentine Hiss;</P>
+</SP>
+<SP>
+<SPEAKER>Cho.</SPEAKER>
+<P>'Tis done.</P>
+</SP>
+<SP>
+<SPEAKER>Spir.</SPEAKER>
+<L>Let <HI>Lucifer</HI>'s Thunder now answer to this,</L>
+<L>And Bellow alternately thro' the Abyss.</L>
+</SP>
+<SP>
+<SPEAKER>Cho.</SPEAKER>
+<L>'Tis done, and 'tis past our pow'r to know,</L>
+<L>Whither this be <HI>Chaos</HI> or no?</L>
+</SP>
+<STAGE><HI>Enter</HI> Armida <HI>and</HI> Phenissa.</STAGE>
+<SP>
+<SPEAKER>Phen.</SPEAKER>
+<P>At length you have mov'd his mighty Soul.</P>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<L>But 'tis with Anger not with Fear, he's mov'd,</L>
+<L>See where transported with a Noble Fury,</L>
+<L>Lovelily dreadful as a Warring Angel,</L>
+<L>He drives the Infernal Fantomes all before him.</L>
+</SP>
+<SP>
+<SPEAKER>Phen.</SPEAKER>
+<P>Redouble your Efforts.</P>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<P>That certainly destroys him.</P>
+</SP>
+<SP>
+<SPEAKER>Phen.</SPEAKER>
+<P>No matter, since you cannot shake him, crush him.</P>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<P>Thus Godlike! Thus insensible of Fear!</P>
+</SP>
+<SP>
+<SPEAKER>Phen.</SPEAKER>
+<P>Think He's insensible of Love too.</P>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<L>Perhaps He may relent. He comes this way,</L>
+<L>And I will make the Tryal.</L>
+</SP>
+<SP>
+<SPEAKER>Phen.</SPEAKER>
+<L>Relent! What can you hope? What can you do?</L>
+<L>When Furies can't prevail?</L>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<P>Shew him a greater.</P>
+</SP>
+<SP>
+<SPEAKER>Phen.</SPEAKER>
+<P>A greater? What greater?</P>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<L>A Woman,</L>
+<L><PB N="39" REF="28">An injur'd VVoman!</L>
+<L>VVrong'd in her Love, and Raging for Revenge.</L>
+</SP>
+<SP>
+<SPEAKER>Phen.</SPEAKER>
+<P>Be VVise, and let him perish.</P>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<L>Yes, he shall perish if he dares persist;</L>
+<L>But thou the giver of bold fatal Counsels,</L>
+<L>Assure thy self that thou shalt perish with him.</L>
+<L>But see, he comes, and to my VVish alone,</L>
+<L>Divided by the Tempest from his Friends,</L>
+<L>VVithout Reply, be gone. <STAGE><HI>Exit.</HI> Phem.</STAGE></L>
+</SP>
+<STAGE><HI>Enter</HI> Rinaldo; <HI>Thunder and Lightning, and Horrid Musick alter|nately.</HI></STAGE>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<L>Be still, at my Command be still, ye Furies,</L>
+<L>And ye, Restrain your Roaring Mouths, ye Thunders,</L>
+<L>For I am to be heard.</L>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<L>Ha! The Queen!</L>
+<L>The only Object which I would avoid!</L>
+<L>Ay, here's the sight at which my Genius shrinks.</L>
+<L>Now, all ye Motives to my great Proceeding,</L>
+<L>Thou the Remembrance of my former Triumphs,</L>
+<L>And Thou the Hope of Future, Thou, O Glory,</L>
+<L>That Day and Night in my aspiring Mind</L>
+<L>Ragest with inextinguishable Fire;</L>
+<L>United aid me in this Dreadful Conflict.</L>
+<L>And thou, too conscious of thy great Original,</L>
+<L>Rowze, Rowze each nobler Faculty, my Soul,</L>
+<L>Exert thy utmost force in thy Defence,</L>
+<L>For dreadful is the Danger.</L>
+<L><HI>Armida!</HI></L>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<P>Traytour!</P>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<L>Traytour!</L>
+<L><HI>Armida</HI> has had kinder thoughts of me.</L>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<L>Ungrateful VVretch! Am I at last reproach'd with it?</L>
+<L>I have, and therefore doubly thou'rt a Traytour.</L>
+<L>Have I selected thee from all Mankind,</L>
+<L>To heap upon thee Obligations!&mdash;</L>
+<L>And basely after all to steal away!</L>
+</SP>
+<SP>
+<PB N="40" REF="29">
+<SPEAKER>Rin.</SPEAKER>
+<L>You wrong me.</L>
+<L>Are not your Centinels in ev'ry Corner?</L>
+<L>Have not your Airy Scouts or'e spread the Island?</L>
+<L>How could I hope then to depart unknown?</L>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<L>Confusion? Am I then defy'd? Hark!</L>
+<L>Th' Impatient Thunder grumbles to be at thee;</L>
+<L>Ten thousand Raging Friends around thee wait,</L>
+<L>Watching the sign to spring and to devour thee,</L>
+<L>At my least Nod most certain Death attends thee.</L>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<L>I go to seek him in the search of Glory,</L>
+<L>And if I find him here,</L>
+<L>There's a long Voyage sav'd.</L>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<P>Then you will go?</P>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<P>Will! Have you not urg'd it?</P>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<L>Oh, Confusion! What do I hear?</L>
+<L>Audacious Fool to tempt thy certain Ruine,</L>
+<L>And basely to presume to that degree</L>
+<L>Upon the poor Remains of Tenderness,</L>
+<L>Which to this moment have preserv'd thee,</L>
+<L>I urg'd it?</L>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<L>Yes, Urg'd it by your Impotent Attempts,</L>
+<L>To fright me from departure.</L>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<P>Oh, Patience yet a Moment!</P>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<L>The greatness of my Mind is now concern'd,</L>
+<L>And tho I had no other Call then that,</L>
+<L>I would be gone. Gods! that you should descend</L>
+<L>So far beneath your selves,</L>
+<L>To think that you could love a Man so base,</L>
+<L>As to be sway'd by Fear.</L>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<L>By my Remaining Hopes of great Revenge,</L>
+<L>I ne're design'd to fright thee, but destroy thee;</L>
+<L>I know thy Soul incapable of Fear,</L>
+<L>Ev'n of the Fear of doing basest Wrongs.</L>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<P>Whom have I wrong'd?</P>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<P>Whom hast thou sworn Eternally to Love?</P>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<L><HI>Armida!</HI> And that Hour I cease to Love her,</L>
+<L>Hear me, ye Gods! pierce me with all your Bolts;</L>
+<L>But from this Hour I will ne're see her more.</L>
+</SP>
+<SP>
+<PB N="41" REF="29">
+<SPEAKER>Arm.</SPEAKER>
+<P>Hell and Confusion! Dar'st thou mock my misery?</P>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<L>I dare not do a thing so much beneath</L>
+<L>The Greatness of my Soul.</L>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<P>Didst thou not say that thou Resolv'st to Love me?</P>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<P>Eternally.</P>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<P>And yet resolv'st to Leave me?</P>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<P>By Heav'ns for ever.</P>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<P>O vile Dissembler!</P>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<L>Madam I must be gone, for I am call'd</L>
+<L>With such a Voice as Man dares not resist.</L>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<P>By whom?</P>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<P>By Victory, by Fame, by Heav'n.</P>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<P>To do a Barbarous thing? Impossible!</P>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<L>'Twas but this moment that th' Immortal Pow'rs,</L>
+<L>Call'd loudly from above Begone <HI>Rinaldo,</HI></L>
+<L>Without delay Begone, 'tis We command Thee;</L>
+<L>Fortune, and Victory, and Fame attend Thee;</L>
+<L>This very night Begone or stay for ever.</L>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<P>Meer Vapour! and Deluding vision all!</P>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<L>'Tis reall all by Heav'n, this very moment</L>
+<L>I heard th' Aetherial Trump upon the Mountain,</L>
+<L>While the Hill trembled with th' eternal clangour;</L>
+<L><HI>Vrania</HI> too, and <HI>Carlo</HI> and <HI>Vbaldo</HI></L>
+<L>With Messages from <HI>Godfrey</HI> are arriv'd.</L>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<P>They must return.</P>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<P>Without me?</P>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<P>Fate has by me pronounc'd it.</P>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<P>What will th' Army? what will all <HI>Asia</HI> think?</P>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<L>The greatest and most glorious of them all,</L>
+<L>Will envy thy Transcendent Happiness.</L>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<L>But envy always stirs up Base born minds,</L>
+<L>To blacken whom they Envy.</L>
+<L>I shall become the common talk of Slaves.</L>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<P>They can but talk, while in Revenge wee'l live.</P>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<P>Nay, then I leave you as my Mortal Enemy.</P>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<L>Your Mortal Enemy! Provoking wretch!</L>
+<L>On ev'ry side avoidless Fate surrounds thee.</L>
+<L>To whom then doest thou owe the very Breath,</L>
+<L><PB N="42" REF="30">That thus pronounces this audacious Insolence?</L>
+<L>Is it thy Mortal Enemy preserves thee?</L>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<L>Yes, 'Tis my Mortal Enemy who e're</L>
+<L>Preserves me from a glorious Death,</L>
+<L>To see me live a cursed Life with Infamy.</L>
+<L>Think of my purple Rivals of the <HI>East.</HI></L>
+<L>What will they say? That they were all disdain'd for&mdash;</L>
+<L>Gods! I want patience to support the Thoughts of it.</L>
+<L>But if no sense of my dishonour moves thee,</L>
+<L>Think of thy own; what will they say of thee?</L>
+<L>That you so far beneath your self descended,</L>
+<L>To give a wretch possession of your Soul,</L>
+<L>Who vilely could renounce eternal Fame,</L>
+<L>To squander an Inglorious Life away</L>
+<L>In a fond Woman's Arms.</L>
+<L>If thou so little art concern'd for me,</L>
+<L>I who Love thee beyond all bounds, must leave thee,</L>
+<L>To vindicate thy Fame from bold Blasphemers;</L>
+<L>And carrying Terrour to the very Courts</L>
+<L>Of my Imperial Rivals, make them know</L>
+<L>That he alone was worthy of thy choice,</L>
+<L>Who had the pow'r when Duty call'd to Leave thee.</L>
+<L>Oh! wouldst but thou <HI>Armida</HI> do thy part,</L>
+<L>And shew by bearing this Departure greatly,</L>
+<L>That she of all her Sex was worthy me;</L>
+<L>Who in the Furious Height of all her Love,</L>
+<L>To glory could resign me.</L>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<L>Ay, Here's another cause for my detaining thee,</L>
+<L>My Fame as well as Love requires thy stay;</L>
+<L>What would those Monarchs say shouldst thou Desert me?</L>
+<L>How would they Scorn the weakness of my choice,</L>
+<L>Or meanness of my Beauty?</L>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<L>Then to secure that Fame loe here I Swear,</L>
+<L>The memory of what has past between us</L>
+<L>Shall in this corner of the World lie Buried:</L>
+<L>In <HI>Europe</HI> and in <HI>Asia</HI> unrecorded:</L>
+<L>And that of all the Actions of my life,</L>
+<L>Alone shall be forgotten.</L>
+</SP>
+<SP>
+<PB N="43" REF="30">
+<SPEAKER>Arm.</SPEAKER>
+<L>Me wouldst thou have give faith to thy False Oaths?</L>
+<L>The very Breath that swears, declares thee perjur'd?</L>
+<L>Am I to be forgot, as well as left?</L>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<P>You mistake me.</P>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<P>Fate ne're mistakes, and Traitour is at Hand. <STAGE>Thunder and Spirits approach.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<L>I thank thee; since for glorious death I leave thee,</L>
+<L>How could I ever hope to fall more greatly,</L>
+<L>Than dauntless, in this dreadful wrack of Nature?</L>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<L>So brave! His greatness shakes my Soul, He frowns.</L>
+<L>With congregated clouds about his brows,</L>
+<L>As if he were the God who threw these Thunders;</L>
+<L>And he commanded Nature.</L>
+<L>Yes, thou shalt die, but not with so much pleasure</L>
+<L>As fondly thou believ'st, for thou shalt die</L>
+<L>Convicted, and Remorse shall plague that soul</L>
+<L>Which fear of danger never could disturb.</L>
+<L>Canst thou thy self believe thou art not Perjur'd?</L>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<P>Perjur'd!</P>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<L>Yes Perjur'd!</L>
+<L>Hast thou not sworn eternally to Love me?</L>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<P>Well!</P>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<P>And yet hast sworn to leave me too for ever?</P>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<L>That is to say, I Love thee with a Passion</L>
+<L>That Hopeless and in absence will endure.</L>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<L>But thou art call'd alas! and by whom call'd?</L>
+<L>By Victory, by Fame, by Heav'n; fine Visions!</L>
+<L>By thy Satiety thour't call'd, false man,</L>
+<L>By the base lightness of thy changing temper.</L>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<P>You wrong me.</P>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<L>I do not; Had Heav'n enjoyn'd thee to Depart,</L>
+<L>Wou'd it command thee to appear Inhuman;</L>
+<L>Sprung from a Rock and by a Tygress Nurst?</L>
+<L>For hast thou, say, fetch'd one Reluctant groan?</L>
+<L>Have not thy unrelenting Eyes been dry,</L>
+<L>Yet seen my poor Distracted Heart weep Blood?</L>
+<L>Hast thou so much as cast one Pitying glance,</L>
+<L>On my Hard Fortune? On my Fortune said I?</L>
+<L>My dreadful Fate, my Everlasting ruine,</L>
+<L><PB N="44" REF="31">And canst thou falsly then affirm thou Lovest?</L>
+<L>Doest thou not now Convicted fall a Traytor?</L>
+<L>Be gone, and meet the Fate which there attends thee.</L>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<P>Farewell.</P>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<L>What I have done? He goes to certain Death.</L>
+<L>Stay; Hast thou not one word t' excuse thy crime?</L>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<L>Yes, yes, 'tis in my power to justifie my self,</L>
+<L>To your confusion too, of that be certain.</L>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<P>Do it then.</P>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<P>No.</P>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<P>You must.</P>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<P>I'll die a thousand Deaths first.</P>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<L>By Heav'ns I feel I am a very Woman. <STAGE>Aside.</STAGE></L>
+<L><HI>Rinaldo,</HI> if ever I was Dear to thee;</L>
+<L>If e're I gave thee high and Perfect pleasure,</L>
+<L>Here by its dear Remembrance I conjure thee,</L>
+<L>That thou wouldst satisfie this last request,</L>
+<L>Let me but know thou art not false,</L>
+<L>And I shall die with pleasure.</L>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<L>O urge it not, if e're thou Lov'st <HI>Rinaldo,</HI></L>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<P>Why?</P>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<P>In pitty to us Both.</P>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<P>Ha! now by Heav'n I long, I die to know it.</P>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<L>Yet, if tho lov'st <HI>Rinaldo,</HI> let it die with me,</L>
+<L>Thou hast alas! endur'd too much already,</L>
+<L>Why shouldst thou strive to know a thing which known,</L>
+<L>Will break thy wretched Heart?</L>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<L>To break my heart you must continue silent,</L>
+<L>If I persist to think thee false I die;</L>
+<L>Then speak and let me live.</L>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<L>Thou hast o'recome, but dread the fatal consequence,</L>
+<L>Here I relax the Violent effort;</L>
+<L>Which has thus far supprest the strugling Passion,</L>
+<L>That tore my very Vitals to get free,</L>
+<L>I told thee That I Lov'd thee my <HI>Armida,</HI></L>
+<L>I told thee not how far, that thou shalt see;</L>
+<L>Then with those Eyes that thro' the Stars see Fate,</L>
+<L>Look upon mine and thro' them view my Soul;</L>
+<L><PB N="45" REF="31">Say, do I Love thee now, art thou yet satisfied?</L>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<L>Prodigious alteration in a moment!</L>
+<L>Thou doest not only Love, but thou art Love;</L>
+<L>Come to my Heart, and feel it leap to meet thee.</L>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<L>Why wouldst thou urge me to this fatal Weakness</L>
+<L>That has undone us both? and why return it</L>
+<L>With that bewitching softness, which afresh</L>
+<L>Must plunge me in the Torments of the Damn'd?</L>
+<L>Why wouldst thou sharpen thus the cruel Sting</L>
+<L>Of that severe necessity, which now <STAGE>Breaks from her.</STAGE></L>
+<L>O cursed Hour! Eternally devides us?</L>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<L>Ah Gods! Ah wretch! Ah Curst perfidious wretch!</L>
+<L>Blast him ye Lightnings, and ye Furies tear him;</L>
+<L>The Traytor has dissembled Tenderness,</L>
+<L>To torture me the more.</L>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<L>Now, now O all ye Heavenly Pow'rs defend me.</L>
+<L>In this first dreadful moment of my Life,</L>
+<L>Not from the Danger of her potent art,</L>
+<L>But from my self, y' Eternal Powers defend me!</L>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<L>Now, now Tartarean Deities Revenge me,</L>
+<L>But hold, what Fury want I but my own;</L>
+<L>Mine is the wrong, the Vengeance shall be mine:</L>
+<L>Die Traytor. <STAGE>Holds up her Dagger.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<L>Do strike and pierce thy Image here, so fix'd, <STAGE>Presenting his Breast.</STAGE></L>
+<L>That nothing but a Dagger can Remove it.</L>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<L>What has he said? And canst thou pierce him now?</L>
+<L>I can for his is a persidious Tongue,</L>
+<L>But then his Eyes, his Lovesick Eyes speak Truth;</L>
+<L>I cannot hurt him with that melting Look:</L>
+<L>Love in his Eyes defends him. Curse on thy Tenderness</L>
+<L>Then pierce thy self, then Stab him here. <STAGE>Stabs her self.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<L>Oh Heaven's!</L>
+<L>What has thou done? The Dagger's in thy Bosom.</L>
+</SP>
+<SP>
+<SPEAKER>Arm</SPEAKER>
+<L>Could I oblige thee more?</L>
+<L>Now I prevent thy Barbarous design;</L>
+<L>This was the only way, I had to abandon thee.</L>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<L>I have a Soul that Loves and Dares like yours,</L>
+<L>And thus.</L>
+</SP>
+<SP>
+<PB N="46" REF="32">
+<SPEAKER>Arm.</SPEAKER>
+<L>Ah Hold, <HI>Rinaldo</HI> Hold, if I am Dear to thee,</L>
+<L>By that Dear Love I here conjure thee Hold!</L>
+<L>Throw down that Cursed Instrument of Death,</L>
+<L>I can with constancy support my Wound;</L>
+<L>I die to think of thine.</L>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<P>Ho, there, <HI>Phaenissa,</HI> Help <HI>Vbaldo, Carlo</HI>?</P>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<P>Alas! thou call'st in vain, I die <HI>Rinaldo.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<L>What will become of me, thou bleedst to Death,</L>
+<L>And yet no succours nigh.</L>
+<L>Let me support thy Lovely Fainting Limbs,</L>
+<L>Back to the Palace where <HI>Phaenissa</HI> waits thee;</L>
+<L>Now where's Ambition.</L>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<L>If I wou'd Live, I want no mortal aid;</L>
+<L>A Thousand powerful Spirits round me wait,</L>
+<L>Hark! how they groaning all deplore my Fate!</L>
+<L>Hark! how their Lyres resound a Rueful Strain,</L>
+<L>Which shews them sensible of all my pain.</L>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<L>O Grief! O Infinite excess of woe!</L>
+<L>That makes the very Damn'd with Piercing moan</L>
+<L>Lament our Sorrows, and forget their own.</L>
+</SP>
+<TRAILER>The End of the Fourth Act.</TRAILER>
+</DIV1>
+<DIV1 N="5" TYPE="act">
+<PB N="47" REF="32">
+<HEAD>ACT V.</HEAD>
+<STAGE>Enter <HI>Rinaldo, Armida, Phaenissa.</HI></STAGE>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<L>NOw you and Heav'n have perfected my Joy,</L>
+<L>And all I wou'd have ask'd prevented:</L>
+<L>Thou hast renounc'd thy Faith, renounc'd thy Art,</L>
+<L>And thy Wound is not Mortal; my Friends too,</L>
+<L>My Friends will all be ravish'd, I'll but seek them,</L>
+<L>And with them in a moment I'll return.</L>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<P>Wilt thou begone then?</P>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<P>I must, it is in order to our Happiness.</P>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<P>I know it, and yet methinks 'tis Death to part with thee?</P>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<P>It is but for a moment.</P>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<L>But yet that moment sure will break my Heart.</L>
+<L>How Dolefully it beats with Dying Blows?</L>
+<L>As if with thee my very Soul departed.</L>
+<L>How would Eternal seperation plague me?</L>
+<L>But see, <HI>Rinaldo</HI> there, look here <HI>Phaenissa</HI>!</L>
+<L>What mean these wing'd ill Omens of the Air</L>
+<L>That passing brush me with their deadly Pinions,</L>
+<L>And seem the forlorne Hope of Fate?</L>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<P>I see nothing.</P>
+</SP>
+<SP>
+<SPEAKER>Phaen.</SPEAKER>
+<P>Nor I.</P>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<P>Is it possible? nor hear you any Voice?</P>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<P>None but that Voice whose Musick Charms my Soul.</P>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<P>Nor you?</P>
+</SP>
+<SP>
+<SPEAKER>Phaen.</SPEAKER>
+<P>Nor I.</P>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<L>Hark! how it cries again, prepare <HI>Armida,</HI></L>
+<L>Dispatch, we're grown Impotent of Delay:</L>
+<L>See, where we all stand ready to Receive thee,</L>
+<L>Assembled in the Air, we hov'ring stand,</L>
+<L><PB N="48" REF="33">And Instantly expect thee.</L>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<L>What do I hear? Her mind is much disturb'd,</L>
+<L>And Danger's Imminent, I must be swift,</L>
+<L>On wings of Fear which thou hast lent I'll fly,</L>
+<L>And in a moment with my Friends return.</L>
+</SP>
+<SP>
+<SPEAKER>Phaen.</SPEAKER>
+<P>My Lord. <STAGE>Iust as he goes out.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<P>What want you?</P>
+</SP>
+<SP>
+<SPEAKER>Phaen.</SPEAKER>
+<P>Madam, I thought my Lord <HI>Rinaldo</HI> call'd.</P>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<L>Sure so he did, for see he turns this way,</L>
+<L>And seems to Beckon to you.</L>
+<L>Fly, to know what he wants. <STAGE>She goes after him to the Door.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<P>Wants the Queen any thing <HI>Phaenissa</HI>?</P>
+</SP>
+<SP>
+<SPEAKER>Phaen.</SPEAKER>
+<P>No my Lord!</P>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<P>Why am I call'd then?</P>
+</SP>
+<SP>
+<SPEAKER>Phaen.</SPEAKER>
+<L>My Lord,</L>
+<L>I have something of Importance to Impart to you,</L>
+<L>Which the Queen must not hear.</L>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<L>I am now in haste, my Impatient Friends expect me,</L>
+<L>I'll instantly return. <STAGE>Exit.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Phaen.</SPEAKER>
+<L>You will! why then the Sun, that all things sees,</L>
+<L>Sees not a wretch that's so forlorn, as I am:</L>
+<L>Return! for what! To bear the Queen to <HI>Palestine</HI>?</L>
+<L>Whither must I transport my self? to <HI>Syria</HI>?</L>
+<L>Without <HI>Armida</HI>! or to <HI>Godfrey</HI>'s Army?</L>
+<L>Thou! thou the mortal Foe to their Religion!</L>
+<L>But such <HI>Armida</HI> was! Renounce thy Faith!</L>
+<L>Thou hast a Queens Example!</L>
+<L>Suppose I should? alas! I have an art,</L>
+<L>An Art, which Christians utterly abhor,</L>
+<L>And that, I never, never can renounce:</L>
+<L>Her, all th' Infernal powers obey'd, attracted</L>
+<L>By Supream knowledge and by Soveraign Beauty!</L>
+<L>For in her face, they saw the bright Reflection</L>
+<L>of that refulgent place, from which they fell,</L>
+<L>But I, alas! O dire Remembrance! I</L>
+<L>Am by indissoluble contract bound.</L>
+<L>This Voyage I must then obstruct or Perish!</L>
+<L>Then his return I must obstruct or Perish.</L>
+<L><PB N="49" REF="33">But the black stratagem that Fate suggests,</L>
+<L>Perhaps may touch <HI>Armida</HI>'s precious Life:</L>
+<L>No, by discovery of the Truth at last</L>
+<L>I can prevent that dire Calamity.&mdash;</L>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<P>What says <HI>Rinaldo</HI>?</P>
+</SP>
+<SP>
+<SPEAKER>Phaen.</SPEAKER>
+<L>What said your doleful heart at his departure?</L>
+<L>What said the Wing'd ill Omens of the Air?</L>
+<L>And what the Voices of the Eternal Beings?</L>
+<L>Hear them once more! Ye Spirits now assist me. <STAGE>Waves her wand.</STAGE></L>
+</SP>
+<STAGE>Spirit <HI>rises and Sings.</HI></STAGE>
+<SP>
+<SPEAKER>Spirit.</SPEAKER>
+<L>Ah Queen! ah wretched Queen give o're,</L>
+<L>Cease, cease with hopeless Fire to burn,</L>
+<L>Ah cease his absence to deplore:</L>
+<L>Who now, even now forsakes the Shoar,</L>
+<L>And never, never will return,</L>
+<L>No never see thee more. <STAGE>Sinks.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Phaen.</SPEAKER>
+<P>What say they now?</P>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<L>Gods I am tortur'd, I am stung to madness!<STAGE>aside.</STAGE></L>
+<L>Let 'em say what they will: I'll not believe 'em.</L>
+</SP>
+<SP>
+<SPEAKER>Phaen.</SPEAKER>
+<L>Will you give Credit to <HI>Rinaldo</HI> then?</L>
+<L>Since you must know what he himself has said.</L>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<P>Ah Gods, and was it that?</P>
+</SP>
+<SP>
+<SPEAKER>Phaen.</SPEAKER>
+<L>And was it that? what cou'd it be but that?</L>
+<L>Or what could he declare but that?</L>
+<L>Which you were not to hear:</L>
+<L>He coldly bad me Comfort you.</L>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<L>Ah! Comfort from a Devil! but be hush'd!<STAGE>aside.</STAGE></L>
+<L>Be hush'd my Soul but only for this moment:</L>
+<L>And be as mad as all the Winds the next,</L>
+<L>And ye, ye Tyrant Gods, unless y' are pleas'd</L>
+<L>To see perfidiousness pass unreveng'd:</L>
+<L>While thus you plague the Creature of your hands,</L>
+<L><PB N="50" REF="34">Only for too much truth; for too much Love;</L>
+<L>Assist my enseebled Arm this once, and then</L>
+<L>Hurl all your Thunders at my wretched head,</L>
+<L>And take your willing Victim.</L>
+</SP>
+<SP>
+<SPEAKER>Phaen.</SPEAKER>
+<L>So, she resents it greatly.</L>
+<L>I see a noble Fury in her Eyes.</L>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<P>Why then <HI>Rinaldo</HI>'s gone?</P>
+</SP>
+<SP>
+<SPEAKER>Phaen.</SPEAKER>
+<P>Most certainly.</P>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<L>Confusion! I must now make haste:</L>
+<L>I shall be mad too soon else.</L>
+<L>But how durst you, my Slave! conceal his Treason:</L>
+<L>How did you dare t' abett his damn'd design?</L>
+</SP>
+<SP>
+<SPEAKER>Phaen.</SPEAKER>
+<P>To abett it.</P>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<P>Ay, how did you dare t' abett it?</P>
+</SP>
+<SP>
+<SPEAKER>Phaen.</SPEAKER>
+<P>Hell had suggested&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<P>What?</P>
+</SP>
+<SP>
+<SPEAKER>Phaen.</SPEAKER>
+<P>Why, that you&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<L>Die, and consult it better. <STAGE><HI>Stabs</HI> Phaen. <HI>she dies.</HI></STAGE></L>
+<L>So: 'twas exactly levell'd at thy Heart:</L>
+<L>Would I had always taken aim as justly.</L>
+<L>And hast thou then forsaken me! what me!</L>
+<L>Me, couldst thou then forsake! is't possible!</L>
+<L>Me, that had laid out all my Soul upon thee!</L>
+<L>That willingly, that gladly would have dy'd for thee!</L>
+<L>And couldst thou not be satisfy'd, unless</L>
+<L>Thou murderst me thy self! O wretched man!</L>
+<L>Can you see this! you Gods! and not Revenge it!</L>
+<L>Revenge it then, Revenge it then ye Devils!</L>
+<L>Who with Abhorrency and Detestation</L>
+<L>Foretold this more than Devilsh Act!</L>
+<L>They hear thee not! my Spirits too have left me.</L>
+<L>But behold!</L>
+<L><HI>Phaenissa</HI> there lies dead! <HI>Rinaldo</HI>'s gone.</L>
+<L>Whither must I go! ha! where am I left!</L>
+<L>Thrice has yon Planet wayn'd and thrice encreas'd,</L>
+<L>Since I came flying to these Isles of Fortune:</L>
+<L>In all which time no Footstep has appear'd</L>
+<L>Of any humane Creature here inhabiting:</L>
+<L><PB N="51" REF="34">Nor has one Sail bin seen to dare the winds!</L>
+<L>Upon this unknown Ocean! But this morning</L>
+<L>I seem'd to be the darling care of Heav'n!</L>
+<L>The pow'rfull'st Queen of all the Eastern World!</L>
+<L>The adoration of Mankind: O dreadful change!</L>
+<L>But have I not one Friend in Heav'n or Hell?</L>
+<L>Yes: one I have: then let him come! Come death!</L>
+<L>Come thou most Generous of th' Immortal Pow'rs!</L>
+<L>The only God, that's true to th' Unhappy:</L>
+<L>Thus let me guide thee to my faithful Heart:</L>
+<L>Take heed; how thou a second time mistak'st!</L>
+<L>Ah Gods! thou hast a second time mistaken!</L>
+<L>And I have now not strength enough t' assist thee!</L>
+<L>Yet hast thou done thy work! and tho' thy hand</L>
+<L>Is slow; I find 'tis sure. <STAGE>A noise without.</STAGE></L>
+<L>What's that a Noise!</L>
+<L>The trampling sure of Feet! which this way tend.</L>
+<L>Oh all ye pow'rs the Christians are returning!</L>
+<L>Is it my weakness that deludes my Eyes,</L>
+<L>Or has the barb'rous man relented? ha!</L>
+<L>He has, he has! Oh all ye Eternal Pow'rs!</L>
+<L>What have I done! now death forbear a Moment!</L>
+<L>That with my dying breath I may upbraid him:</L>
+<L>That with my dying breath I may forgive him,</L>
+<L>And that my Soul may blessing him, expire.</L>
+</SP>
+<STAGE>Enter <HI>Rinaldo, Vrania, Vbaldo, Carlo.</HI></STAGE>
+<SP>
+<SPEAKER>Vran.</SPEAKER>
+<P>Not farr from hence you know you left <HI>Armida</HI>!</P>
+</SP>
+<STAGE>The Stage is darkn'd.</STAGE>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<L>A very little further on the right:</L>
+<L>Upon a sudden 'tis exceeding Dark.</L>
+</SP>
+<SP>
+<SPEAKER>Vran.</SPEAKER>
+<L>Yes, with a Darkness foreign to the place:</L>
+<L>A Fog, that steaming from the Mouth of Hell,</L>
+<L>Doubles the Native Horrors of the Night:</L>
+<L>Be cautious! Cautious, how thou treadst, <HI>Rinaldo</HI>;</L>
+<L><PB N="52" REF="35">Lest blindly guided by thy head-strong Love</L>
+<L>Thou stumblest on despair!</L>
+<L>Whom lest you with <HI>Armida</HI>?</L>
+</SP>
+<SP>
+<SPEAKER>Rinal.</SPEAKER>
+<P><HI>Phaenissa.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Vran.</SPEAKER>
+<L><HI>Armida</HI>'s evil Genius bore that name,</L>
+<L>The Sourse of all her woes.</L>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<L>Oh Curs'd <HI>Phaenissa</HI>! hast thou then betray'd me!</L>
+<L>Is't Possible?</L>
+</SP>
+<SP>
+<SPEAKER>Carl.</SPEAKER>
+<L>Angels, and all ye Host of Heaven defend me,</L>
+<L>What dismal Shape is this. <STAGE>Stumbling on Phaenissa.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Vran.</SPEAKER>
+<P>The Remnant of the wretch that was <HI>Phaenissa.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<L>Look down upon me ye eternal Pow'rs!</L>
+<L><HI>Phaenissa</HI>! where! Oh where!</L>
+</SP>
+<SP>
+<SPEAKER>Vran.</SPEAKER>
+<L>Where! here! Look here <HI>Rinaldo,</HI></L>
+<L>Now see thou show'st thy self a man! a Man!</L>
+<L>That's not enough. Be what thou art, a Hero!</L>
+<L>And then with stedfast Eyes, and heart unshaken,</L>
+<L>Behold ill Fate lie their.</L>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<L>Oh! Oh!</L>
+<L>Nor Man nor Hero can ill fate resist,</L>
+<L>And thus it tears me down: all Conquering Death</L>
+<L>Thou art indeed the Greizly King of terrors!</L>
+</SP>
+<SP>
+<SPEAKER>Vbald.</SPEAKER>
+<P>Son of <HI>Bertoldo</HI>! be thy self this moment.</P>
+</SP>
+<SP>
+<SPEAKER>Carl.</SPEAKER>
+<P>Think of thy Glory!</P>
+</SP>
+<SP>
+<SPEAKER>Vbal.</SPEAKER>
+<P>Think of past Trophies and of future Triumphs!</P>
+</SP>
+<SP>
+<SPEAKER>Carl.</SPEAKER>
+<P>Think that the Army of the East Survey's thee!</P>
+</SP>
+<SP>
+<SPEAKER>Vran.</SPEAKER>
+<P>Think that a Thousand Demi-Gods Surround thee.</P>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<P>O my <HI>Armida.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Armid.</SPEAKER>
+<L>And art thou come my Hero! art thou mine!</L>
+<L>Take, take my fleeting life! ye Envious powr's!</L>
+<L>For life with thee, exceeded Mortal happiness.</L>
+</SP>
+<SP>
+<SPEAKER>Rinal.</SPEAKER>
+<P>What wrought this dreadful work of Fate!</P>
+</SP>
+<SP>
+<SPEAKER>Vran.</SPEAKER>
+<L>Leave that Discovery to me, <HI>Rinaldo</HI>!</L>
+<L>For know that in three Minutes she Expires.</L>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<L>Heart rending sound! has Heav'n expresly form'd</L>
+<L>My Soul, for her alone! and will it part us.</L>
+<L>For ever part us! wee'll not part a moment:</L>
+<L>Behold her with my Eyes! ye Heavens! and spare her.</L>
+</SP>
+<SP>
+<PB N="53" REF="35">
+<SPEAKER>Vran.</SPEAKER>
+<L>Thy prayr's are all deliver'd to the winds,</L>
+<L>Heav'n hears not: and she dies.</L>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<P>Oh sad reward of Constancy divine!</P>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<P>'Tis the dreadful punishment, of Lawless Love!</P>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<L>Oh Faith! Oh matchless Truth opprest by Fate;</L>
+<L>For Truth it self embody'd lies in thee:</L>
+<L>And with its Beauty charms the admiring World.</L>
+</SP>
+<SP>
+<SPEAKER>Vran.</SPEAKER>
+<L>'Tis not for Man to censures Heav'ns decrees;</L>
+<L>As it knows how to Punish, it can recompence?</L>
+<L>By Impious Arts, she drew thee to her Arms!</L>
+<L>No sacred rites prepar'd; th' unlicens'd way:</L>
+<L>For which, by Heav'ns severe decree, she dies</L>
+<L>A Terrible Example.</L>
+<L>But yet because her Faith, her Truth, her Constancy;</L>
+<L>Seem'd to have more then humane Virtue in them,</L>
+<L>And she Expires repentant.</L>
+<L>Heav'n, that in all its sacred dispensations,</L>
+<L>Makes the perfection of its Justice shine;</L>
+<L>A more then mortal Recompence ordains for them:</L>
+<L>For after both your mortal Dates are past,</L>
+<L>Here in this blissful Region of the Air;</L>
+<L>Thou shalt for ever Live, with thy <HI>Armida.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<L>Nay, then you Pow'rs! you make amends for all:</L>
+<L>These, these are Sounds, which can make Death delightful.</L>
+</SP>
+<SP>
+<SPEAKER>Vran.</SPEAKER>
+<L>Thus with the motion of this sacred Wand,</L>
+<L>I in a moment drive away the Mists;</L>
+<L>That Cloud your mortal Eyes.</L>
+<STAGE>Scene <HI>opens, and discovers</HI> Fame, Heros <HI>and</HI> Heroines
+<HI>in the Clouds.</HI></STAGE>
+<L>And now behold!</L>
+<L>If that your Eyes can bear Immortal Splendor;</L>
+<L>Behold where hovering on her Golden Wings:</L>
+<L>Bright Fame illuminates her Godlike Equipage.</L>
+<L>Heros, and Heroines? in the Air assembled,</L>
+<L>A Thousand Glorious forms that live in pleasures;</L>
+<L>To mortals inconceivable;</L>
+<L><PB N="54" REF="36">With these you shall for ever live;</L>
+<L>O're these you shall for ever reign,</L>
+<L>For ever reign united.</L>
+</SP>
+<SP>
+<SPEAKER>Arm.</SPEAKER>
+<L>Thou Kindest, Dearest, Best of Men, farewell?</L>
+<L>I come ye Pow'rs!</L>
+<L><HI>Rinaldo</HI>! let no grief come near thy Soul:</L>
+<L>In insupportable delight I die. <STAGE>Dies.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Rin.</SPEAKER>
+<L>Break Heart; this very Moment! Cruel Pow'rs!</L>
+<L>Why am I such a Wretch, that Death avoids me:</L>
+<L>Faith, Beauty, Truth, and Constancy farewell;</L>
+<L>For a short time farewell; farewell, ye Hero's,</L>
+<L>Who in your Mansions of the Air expect me.</L>
+<L>Death! who shou'd joyn me to you here, avoids me?</L>
+<L>Then to <HI>Ierusalem</HI> I'll fly, and there</L>
+<L>Provoke him, and compell him, to unite me;</L>
+<L>Eternally to you and my <HI>Armida.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Vran.</SPEAKER>
+<L>There I'll Proclaim, how he who rules above!</L>
+<L>Takes severe Vengeance of unlawful Love. <STAGE>Exeunt. Omnes.</STAGE></L>
+</SP>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+</BODY>
+<BACK>
+<DIV1 TYPE="epilogue">
+<PB REF="36">
+<HEAD>EPILOGUE.</HEAD>
+<L>TO some fine Sparks methinks in yonder Rows,</L>
+<L>The Brave <HI>Rinaldo,</HI> a Barbarian shows:</L>
+<L>His leaving for a Camp his Amorous Care,</L>
+<L>Is a rude thing they'l ne're Forgive they swear:</L>
+<L>They ne're could think so barb'rously they say,</L>
+<L>No, that Young Hero's meer Reverse are they:</L>
+<L>On his young Cheeks Love's Charming power abides,</L>
+<L>While in his Manly Breast the God of War resides:</L>
+<L>In their soft Hearts, Ten Thousand Loves have places;</L>
+<L>But Wars stern God dwells on their dreadful Faces:</L>
+<L>While the late War in all it's fury Rag'd,</L>
+<L>They ne're with <HI>Gauls</HI> in <HI>Belgian</HI> Plains Engag'd:</L>
+<L>Nor Towring Fame on <HI>Alpine</HI> Mountains sought,</L>
+<L>But here with Frightful looks, while others Fought,</L>
+<L>They guarded the weak places they had Bought.</L>
+<L>But you, who to your Country and your Fame,</L>
+<L>Great Souls, still sacrific'd your Amorous Flame:</L>
+<L>Who in each Spring, the season of Desire,</L>
+<L>Left the Bright Dames, that set your Souls on Fire;</L>
+<L>To follow <HI>William,</HI> forcing <HI>France</HI> to yeild,</L>
+<L>And hunting Glory thro' the Dusty Field:</L>
+<L>You sure with Pleasure should <HI>Rinaldo</HI> view,</L>
+<L>Who less deserves Immortal Fame than you:</L>
+<L>He flew from a polluted Beauties Arms,</L>
+<L>And from the Influence of malignant Charms.</L>
+<L>You from such Beauty and such Vertue flew,</L>
+<L>As might enamour Gods as well as you.</L>
+<L>And you Bright Nymphs&mdash;</L>
+<L>Whom for a time the Noble Youths forsook,</L>
+<L>With Pleasure may on Lost <HI>Armida</HI> Look:</L>
+<L>Since by her weakness, your High merit shines;</L>
+<L>And to your praise, the rudest Hearts inclines.</L>
+<L>She to retain her Hero in her Arms,</L>
+<L>The utmost force exerted of her Charms:</L>
+<L><PB REF="37">You when their Glory Summon'd yours away,</L>
+<L>Your Looks rebated and relax'd your sway,</L>
+<L>By which you force ev'n Savages t' obey.</L>
+<L>Your Countrey's happiness you first design'd,</L>
+<L>To that the Darlings of your Souls resign'd,</L>
+<L>And sent them Death, or Victory to find.</L>
+<L>O Roman Virtue! which it's tryal past,</L>
+<L>Well merits the Reward it meets at last:</L>
+<L>For since with Peace the Noble Youths return'd,</L>
+<L>They for such worth with Double fires have burn'd.</L>
+<L>May long Fruition but foment the Flames,</L>
+<L>And be your Loves Immortal as your Fames.</L>
+<PB REF="37">
+</DIV1>
+</BACK>
+</TEXT>
+</EEBO>
+</ETS>

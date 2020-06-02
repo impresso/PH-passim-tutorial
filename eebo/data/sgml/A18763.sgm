@@ -1,0 +1,162 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD EEBOPROOF 2.0//EN">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-08-21</DATE>
+<RESPSTMT>
+<NAME>Jonathan Blaney</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TYPEs to DIVs in order to validate. Proofed title page(s). Checked for TYPE="book". Checked ^s. Reviewed structure. Checked division-marking material at heads and feet of divisions (HEADS, etc.). Checked for signatures. Checked placement and completeness of PBs. Checked for GAPs, #s, @s. Checked spacing of foreign GAPs. Corrected 5 $s of 16. Converted 11 $s to GAP DESC="illegible" RESP="OXF". Checked for EPIGRAPHs and ARGUMENTs. Checked for startqs, endqs, oes, q;s, and Qs. Checked proofsheets and made corrections found there. Checked for CLOSERs, TRAILERs, and BYLINEs. DONE.</ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="OX" ID="A18763">
+<STC T="S">5254</STC>
+<BIBNO T="umi">99840789</BIBNO>
+<VID>5321</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1">
+<PB REF="1" MS="y">
+<P>A sad and solemne FVNE|RALL, of the right Honorable sir <HI>FRANCIS KNOWLES</HI> knight, treasorer of the Queenes Maiesties houshold, one of hir pri|uie councell, and knight of the most honorable order of the Garter.</P>
+<P>Written by Thomas Churchyard Esquier.</P>
+<P>Imprinted at London, by Ar. Hatfield, for William Holme. 1596.</P>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="2">
+<HEAD>To the right honorable my very good Lord, the Lord DELAWARE, Thomas Churchyard wisheth much worldly honor and happines, with heauenly grace, and great desired felicitie.</HEAD>
+<P>_MY good Lord, I looked for better motions to write off, but mooued with worse causes than either I thought to treate on or see, fol|lowes matter presently ministred, of heaui|nes, sorrow, &amp; mourning fit for my aged yeers to thinke on, but vnapt for your honorable eares to heare of: notwithsta~ding the strange euents that time produceth (and all ages do offer) with the woonderfull workes of the Lord, my muse and pen is compelled to write that I wish not, and follow the course of hard destinies that often comes without welcome, and are to be obeyed because they bring no remedie with them. The liues of good men are gladsome to heare of, but the death of euery one in generall, is heauy to behold: first for the losse of friends, (for the affection we beare them,) &amp; for the want of those we can not call againe (whatsoeuer neede requireth their presence) nor beare eeuenly the losse of such as we are bounde to fauor when death takes them hence, and life denies them any longer continuance on earth: my good Lord your noble father who fauored me much, and my Lord Chamberlaine that loued me not a little, (whose troth and woorthines I am too meane to write of) sturs vp my spirits (that in a maner drowpeth to honor the names of those that were woorthies in our age, and shew in verse that men
+<PB REF="2">
+of value and laudation should be alwaies honored in the best sort we can deuise. Thus waying the sudden departures of diuers woorthie men (in their calling and vocation) some famous and learned Bishops, some renowmed Captaines and couragious Leaders, and some most honorable Personages, Gouernours of our state, taken all away together in one yeere. I not onely la|ment soe great a losse, but in the number rehersed haue founde out one among the cheife an honorable Knight, I knew for many parts well abled in goodnes to be written of to the vttermost of my inuentions and skill, thinking my selfe fortunate to set foorth the vnstained life of so happie a Councellor: but my great loue to him, presumsion and forwardnes to enrowle his name among a multitude, makes me passe the bonds of ordinary duty, and free|ly vtter the opinion conceiued of his vertues, which neither pen can amplely pronounce, nor writer may easily set out: God grant the curious wits of the world stand as well pleased with my pains, as your L. I dout not is glad to heare your worthy father in law praised, then I account my labor well bestowed, and so take leaue, wishing your Lordship long life and blessednes, with double increase of vertue and honor.</P>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="poem">
+<PB REF="3">
+<LG>
+<L>COld grue the yeere, dym waxt both clouds and Sun<NOTE PLACE="marg"><P><GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">n the com|<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">asse of one <GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">eere there <GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">ied of the <GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">leargy, of the <GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">ars, and ho|norable coun|cellers, so ma|ny Byshops, Captaines, and Gouer|nours whose names fol|low heeraf|ter.</P>
+<P>Bishop of London <HI>D. Fletcher.</HI> Bishop of Winchester. Bishop of Chichester <HI>D. Bycklie.</HI> Bishop of Chester <HI>D. Bylly<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">. D. Whittakers</HI> Master of <HI>S. Iohns</HI> in Cam|bridge. Captaines, Sir <HI>Martyn Furbyshar.</HI> Sir <HI>Roger Williams.</HI> Sir <HI>T. M<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">rgan.</HI> Sir <HI>Fr. Drake.</HI> Sir <HI>I. Hawkins.</HI> Sir <HI>N. Clifford.</HI></P></NOTE></L>
+<L>The somers pride, shronke vp with showers of rain</L>
+<L>The birds flue home, the sheepe to fold did run</L>
+<L>Men tooke the house, and beasts forsooke the plain</L>
+<L>Ech thing fled fast, from fearfull thunder crack</L>
+<L>Doems day was come, yong baebs and maydens thoght</L>
+<L>Gods threatning wrath, said all should go to wrack</L>
+<L>None should be sau'd, saue those that Christ hath boght</L>
+<L>When I stept vp, and peeping out apace</L>
+<L>Hard rufull newes, and many a heauy cace.</L>
+</LG>
+<LG>
+<L>In one yeers course, died many men of marke</L>
+<L>Some of the Church, both learned wise and graue</L>
+<L>Whose books may not, be buryd in the darke</L>
+<L>Because their liues, a crowne of glory craue:</L>
+<L>Some MARS his sons, whose saruice witnes beares</L>
+<L>Their minds were great, and brought great things to pas</L>
+<L>For whose great want, wise world may shed some teares</L>
+<L>When need coms on, to trie good gold from glas</L>
+<L>Some sat to iudge, like Senats in their seat</L>
+<L>Now lyes full lowe, the losse of whom is great.</L>
+</LG>
+<PB REF="3">
+<LG>
+<L>If one yeers wrack,<NOTE PLACE="marg"><P>The Earle Huntingto The Lord <HI>Delaware.</HI> Honorable Councelle Sir <HI>T. Henn+age.</HI></P>
+<P>Sir <HI>I. Woll<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter"></HI> Sir <HI>I. Puck+ring L. Kee<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter"></HI> Sir <HI>Francis Knowles.</HI></P>
+<P>The <HI>L. Ch<GAP DESC="illegible" RESP="OXF" EXTENT="2 letters">berlaine.</HI></P></NOTE> makes all these sorrowes ries,</L>
+<L>As one sore plaeg, makes thousands waile and weepe</L>
+<L>Then must we all, stand pleasd with angry skies</L>
+<L>And kis the earth, wherein our Fathers sleepe</L>
+<L>Three sorts of men, are quickly crept away</L>
+<L>Like twinkling stars, that shoot from clouds in haest</L>
+<L>Seemd fresh and faire, like flowrs loe heer to day</L>
+<L>To morrow dead, woorth noght like weeds lies waest</L>
+<L>Wisdom and woorth, that wold aspire and clyme</L>
+<L>Are but a puffe, and bubble for a time.</L>
+</LG>
+<LG>
+<L>But yet good knight, the lamp and torch of troeth</L>
+<L>Sir FRANCIS KNOWLES, I can not so forget</L>
+<L>Thogh corse to church, and soule to heauen goeth</L>
+<L>And body needs, must pay the earth his det</L>
+<L>Good will of men, shall wait vpon thy toem</L>
+<L>And Fame hir selfe, thy funerall shall make</L>
+<L>And register, thy name till day of doem</L>
+<L>In booke of life, for thy great vertues sake</L>
+<L>Thy friends shall mourne, not with long clokes of black</L>
+<L>But with sad looks, of doell behinde thy back.</L>
+</LG>
+<PB REF="4">
+<LG>
+<L>The Prince and court, shall mys thee many wayes</L>
+<L>Thy honest life, shall lead vs all the dance</L>
+<L>Thy faithfull men, whose fortune thou didst rayes</L>
+<L>Shall daily bles, thy bones for their good chance</L>
+<L>Thy sons shall learn, the fathers steps to tread</L>
+<L>Thy kyn shall ioy, that they are of thy blood</L>
+<L>The learned sort, in Cronikels shall read</L>
+<L>Of thy great race, great things shall do them good</L>
+<L>Thy neighbors now, in court, in feeld, and towne,</L>
+<L>VVith trumpet shrill, shall sound thy true renowne.</L>
+</LG>
+<LG>
+<L>The Lords and Knights, that at thy table fed</L>
+<L>And all good ghests, that thither did repaire</L>
+<L>Shall honor thee, and thine, thogh thou be dead</L>
+<L>Make of thy praise, an ecco in the aire</L>
+<L>Yea drom and fyfe, and all the marshall crue</L>
+<L>In warlyke gyes, shall wait vpon thy hers</L>
+<L>Fine wryters too, and lawreat poets nue</L>
+<L>On thy farewell, shall pen out many a vers</L>
+<L>And garlands gaie, shall vestall virgins fling</L>
+<L>On thy cold graue, whiles clampring bels do ring.</L>
+</LG>
+<PB REF="4">
+<LG>
+<L>Chaest life wins lawd, clean thoghts throw clouds doth mount</L>
+<L>True hart gains friends, and makes proud enimies blush</L>
+<L>Plain dealing still, coms quickly to account</L>
+<L>In shocking world, good minde abides the push</L>
+<L>VVho stands vpright, feares neither foile nor fall</L>
+<L>VVho fears God well, and Princes lawe obaies</L>
+<L>Is happy heer, and hence most blest of all</L>
+<L>Liues like a saint, and gains immortall praies</L>
+<L>These vertues rare, did blaze like star in thee</L>
+<L>VVith greater gifts, in best and highest degree.</L>
+</LG>
+<LG>
+<L>The day of death, shoes what the life hath byn</L>
+<L>As apples sweet, tels what the tree is woorth</L>
+<L>The last adue, doth greatest credit wyn</L>
+<L>If it be good, and brings good matter foorth,</L>
+<L>The knitting vp, of all things prooueth best,</L>
+<L>The date of man, in ballance so is waid</L>
+<L>Life, death and all, on good report doth rest</L>
+<L>VVhere safely from, all storms, good name is staid</L>
+<L>Possesse with grace, that place and ancker hold</L>
+<L>More woorth in price, than precious pearle or gold.</L>
+</LG>
+<PB REF="5">
+<LG>
+<L>Thus now I hope, in blessed Abrams brest</L>
+<L>(VVhere angels sing, sweet hyms and neuer cease</L>
+<L>Before Gods throne, sir FRANCIS KNOWLS doth rest</L>
+<L>From labors all, and liues in endles peace,</L>
+<L>And all the soules, that heer before I name</L>
+<L>Both great deuines, and captaines in this land</L>
+<L>And counsellors, of highest place and fame</L>
+<L>In presence now, of great IEHOVA stand</L>
+<L>My hope is such, and so will follow fast</L>
+<L>The steps to death, and path that they haue past.</L>
+</LG>
+<TRAILER>FINIS.</TRAILER>
+<PB REF="5">
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

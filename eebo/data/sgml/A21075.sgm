@@ -1,0 +1,4452 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD EEBOPROOF 2.0//EN">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-09-30</DATE>
+<RESPSTMT>
+<NAME>Rina Kor</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TYPEs to DIVs in order to validate. Proofed title page(s). Checked for TYPE="book". Checked ^s. Reviewed structure. Checked division-marking material at heads and feet of divisions (HEADS, etc.). Checked for signatures. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected ** $s of **. Converted __ $s to GAP DESC="illegible" RESP="tech". Checked spacing of foreign GAPs. Checked for EPIGRAPHs and ARGUMENTs. Checked for startqs, endqs, oes, q;s, and Qs. Checked proofsheets and made corrections found there. Checked for CLOSERs, TRAILERs, and BYLINEs. Sample: ** minutes. Proofing: ** minutes. Tag review and corrections: ** minutes. DONE.</ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="A21075">
+<STC T="S">7440.2</STC>
+<BIBNO T="oclc">20051603</BIBNO>
+<VID>23627</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1" MS="y">
+<PB REF="1">
+<P><HI>Micro-cosmographie.</HI>
+OR,
+A PEECE OF
+THE WORLD
+DISCOVERED;
+<HI>IN ESSAYES AND</HI>
+CHARACTERS.</P>
+<P>LONDON,
+<HI>Printed by</HI> William Stansby <HI>for</HI>
+Edward Blount. 1628.</P>
+</DIV1>
+<DIV1 TYPE="to the reader">
+<PB REF="2" MS="y">
+<PB REF="2">
+<HEAD>TO
+THE READER
+GENTILE OR
+GENTLE.</HEAD>
+<P>_I Haue (for
+once) ad|uentur'd
+to
+playe the
+Mid-wifes
+part, helping to bring
+forth these Infants in|to
+the World, which
+the Father would haue
+<PB REF="3">
+<GAP DESC="duplicate" EXTENT="1 page">
+<PB REF="3">
+<GAP DESC="duplicate" EXTENT="1 page">
+<PB REF="4">
+smoothered: who ha|uing
+left them lapt vp
+in loose Sheets, as soon
+as his Fancy was deli|uered
+of them; written
+especially for his pri|uate
+Recreation, to
+passe away the time in
+the Country, and by
+the forcible request of
+Friends drawne from
+him; Yet passing se|uerally
+from hand to
+hand in written Co|pies,
+grew at length
+to be a prety number
+in a little Volume: and
+<PB REF="4">
+among so many sun|dry
+dispersed Trans|<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">cripts,
+some very im|perfect
+and surreptiti|ous
+had like to haue
+past the Presse, if the
+Author had not vsed
+speedy meanes of pre|uention:
+When, per|ceiuing
+the hazard
+hee ran to be wrong'd,
+was vnwillingly wil|ling
+to let them passe
+as now they appeare
+to the World. If any
+faults haue escap'd the
+Presse, (as few Bookes
+<PB REF="5">
+can bee printed with|out)
+impose them not
+on the Author I intreat
+Thee; but rather im|pute
+them to mine and
+the Printers ouersight,
+who seriously promise
+on the re-impression
+hereof by greater care
+and diligence, for this
+our former default, to
+make Thee ample sa|tisfaction.
+In the mean
+while, I remaine</P>
+<CLOSER><SIGNED><HI>Thine,</HI>
+ED: BLOVNT.</SIGNED></CLOSER>
+</DIV1>
+<DIV1 TYPE="table of contents">
+<PB REF="5">
+<HEAD>A
+TABLE OF
+CONTENTS.</HEAD>
+<LIST>
+<ITEM><HI>A</HI> Childe. 1.</ITEM>
+<ITEM>A young raw Prea|cher.
+2.</ITEM>
+<ITEM>A graue Diuine. 3.</ITEM>
+<ITEM>A meere dull Physi|tian.
+4.</ITEM>
+<ITEM>An Alderman. 5.</ITEM>
+<ITEM>A discontented Man. 6.</ITEM>
+<ITEM>An Antiquary. 7.</ITEM>
+<ITEM>A younger Brother. 9.</ITEM>
+<ITEM>A formall Man. 10.</ITEM>
+<ITEM><PB REF="6">
+A Church-Papist. 11</ITEM>
+<ITEM>A selfe-conceied man. 12&punc;</ITEM>
+<ITEM>A Tauerne. 13&punc;</ITEM>
+<ITEM>A reseru'd Man. 14&punc;</ITEM>
+<ITEM>A Sharke. 15&punc;</ITEM>
+<ITEM>A Carier. 16&punc;</ITEM>
+<ITEM>An old Colledge Pu<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">+ler. 17&punc;</ITEM>
+<ITEM>An Vpstart Knight. 18&punc;</ITEM>
+<ITEM>An idle Gallant. 19&punc;</ITEM>
+<ITEM>A Constable. 20&punc;</ITEM>
+<ITEM>A downe-right Scholler 21&punc;</ITEM>
+<ITEM>A Player. 22&punc;</ITEM>
+<ITEM>A Detractor. 23&punc;</ITEM>
+<ITEM>A young Gentleman o<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+the Vniuersity. 24&punc;</ITEM>
+<ITEM><PB REF="6">
+A Pot-Poet. 25.</ITEM>
+<ITEM>A Cooke. 26.</ITEM>
+<ITEM>A forward Man. 27.</ITEM>
+<ITEM>A Baker. 28.</ITEM>
+<ITEM>A plaine Country Fel|low.
+30.</ITEM>
+<ITEM>A Young-Man. 31.</ITEM>
+<ITEM>The common Singing-Men. 32.</ITEM>
+<ITEM>A Pretender to Lear|ning.
+33.</ITEM>
+<ITEM>A Shop-keeper. 34.</ITEM>
+<ITEM>A Handsome Hostesse. 35.</ITEM>
+<ITEM>A Blunt Man. 36.</ITEM>
+<ITEM>A Criticke. 37.</ITEM>
+<ITEM>A Sergeant. 38.</ITEM>
+<ITEM><PB REF="7">
+A weake Man. 39&punc;</ITEM>
+<ITEM>A Tobacco seller. 40&punc;</ITEM>
+<ITEM>A plausible Man. 41&punc;</ITEM>
+<ITEM>The Worlds wise Man 42&punc;</ITEM>
+<ITEM>A Bowle-Alley. 43&punc;</ITEM>
+<ITEM>A Surgeon. 44&punc;</ITEM>
+<ITEM>A Shee-precise Hypo|crite.
+45&punc;</ITEM>
+<ITEM>A Contemplatiue Man 46&punc;</ITEM>
+<ITEM>An Aturney. 47&punc;</ITEM>
+<ITEM>A Sceptick in religion. 48&punc;</ITEM>
+<ITEM>A Partiall man. 49&punc;</ITEM>
+<ITEM>A Trumpeter. 50&punc;</ITEM>
+<ITEM>A vulgar-spirited Man 51&punc;</ITEM>
+<ITEM><PB REF="7">
+A ploddding Student. 52.</ITEM>
+<ITEM>Pauls Walke. 53.</ITEM>
+<ITEM>An Vniuersity Dun. 54.</ITEM>
+<ITEM>A stayed Man. 55.</ITEM>
+</LIST>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="text">
+<PB REF="8">
+<PB REF="8">
+<HEAD>Micro-cosmographic.
+OR,
+A piece of the World
+Characteriz'd.</HEAD>
+<DIV2 N="1" TYPE="part">
+<HEAD>1. A Childe.</HEAD>
+<P>_IS a Man in a
+small Letter,
+yet the best
+Copie of <HI>A|dam</HI>
+before
+hee tasted of <HI>Eue,</HI> or the
+Apple; and hee is happy
+whose small practice in the
+World can only write this
+<PB REF="9">
+Character. Hee is nature<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+fresh picture newly drawne
+in Oyle, which time, and
+much handling, dimmes
+and defaces. His Soule is
+yet a white paper vnscrib|led
+with obseruations of
+the world, wherewith at
+length it becomes a blurr'd
+Note-booke. He is purely
+happy, because he knowes
+no euill, nor hath made
+meanes by sinne to be ac|quainted
+with misery. Hee
+arriues not at the mischiefe
+of being wise, nor endures
+euils to come by fore seeing
+them. He kisses and loues
+all, and when the smart of
+the rod is past, smiles on his
+beater. Nature and his Pa|rents
+<PB REF="9">
+alike dandle him,
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">nd tice him on with a bait
+of sugar, to a draught of
+worme-wood. Hee playes
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">et, like a young Prentice
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">he first day, and is not
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ome to his taske of me|lancholly.
+His hardest la|bour
+is his tongue, as if he
+were loath to vse so deceit|full
+an Organ; and hee
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">s best company with it
+when he can but prattle.
+Wee laugh at his foolish
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ports, but his game is our
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">arnest: and his drums,
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">attles and hobby-horses,
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ut the Emblems, &amp; mock|<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ng
+of mans businesse. His
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ther hath writ him as his
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">wne little story, wherein
+<PB REF="10">
+hee reades those day e<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">
+his life that hee cannot <GAP DESC="illegible" RESP="tech" EXTENT="3 letters">member;
+and sighes to <GAP DESC="illegible" RESP="tech" EXTENT="1 word">
+what innocence he has <GAP DESC="illegible" RESP="tech" EXTENT="1 word">
+liu'd. The elder he growe<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+hee is a stayer lower fro<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+God; and like his first f<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">ther
+mnch worse in <GAP DESC="illegible" RESP="tech" EXTENT="1 word">
+<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">eeches. He is the Chr<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">stians
+example, and the o<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">mans
+relapse: The o<GAP DESC="illegible" RESP="tech" EXTENT="3 letters">mitates
+his purenesse, an<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+the other fals into his si<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">plicitie.
+Could he put <GAP DESC="illegible" RESP="tech" EXTENT="1 word">
+his body with his litt<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">
+Coate, he had got eternit<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+without a burthen, and <GAP DESC="illegible" RESP="tech" EXTENT="1 word">
+chang'd but one Heaue<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+for another.</P>
+</DIV2>
+<DIV2 N="2" TYPE="part">
+<PB REF="10">
+<HEAD>2. A young rawe.
+Preacher.</HEAD>
+<P><GAP DESC="illegible" RESP="tech" EXTENT="1 letter">S a Bird not yet fledg'd,
+<GAP DESC="illegible" RESP="tech" EXTENT="1 word"> that hath hopt out of his
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">est to bee Chirping on a
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">edge, and will bee strag|<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ng
+abroad at what perill
+<GAP DESC="illegible" RESP="tech" EXTENT="1 word"> euer. His backwardnesse
+<GAP DESC="illegible" RESP="tech" EXTENT="1 word"> the Vniuersitie hath set
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">im thus forward; for had
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">e not truanted there, hee
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ad not beene so hastie a
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">iuine. His small standing
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">nd time hath made him a
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">roficient onely in bold|<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">esse,
+out of which and his
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">able-booke he is furnisht
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">or a Preacher. His Col|<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ections
+of Studie are the
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">otes of Sermons, which
+<PB REF="11">
+taken vp at S. <HI>Maries,</HI> <GAP DESC="illegible" RESP="tech" EXTENT="1 word">
+vtters in the Country. A <GAP DESC="illegible" RESP="tech" EXTENT="1 word">
+if he write Brachigraphy <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+his stocke is so much th<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+better. His writing is mor<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+then his reading; for he<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+reads onely what hee get<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+without booke. Thus ac+complisht
+he comes dow<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+to his friends, and his fir<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">
+salutation is grace &amp; peac<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+out of the Pulpit. His pray+er
+is conceited, and no ma<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+remembers his Colledg<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+more at large. The pace o<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+his Sermon is a ful career<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+and he runnes wildly <GAP DESC="illegible" RESP="tech" EXTENT="1 word">
+hill and dale till the clock<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+stop him. The labour of i<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+is chiefly in his lungs. An<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+the onely thing hee ha<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">
+<PB REF="11">
+made of it himselfe, is the
+faces. He takes on against
+the Pope without mercy,
+and ha's a iest still in lauen|der
+for <HI>Bellarmine.</HI> His acti|on
+is all passion, and his
+speech interiections: Hee
+ha's an excellent faculty in
+bemoaning the people, and
+spits with a very good
+grace. Hee will not draw
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">his handkercher out of his
+place, nor blow his nose
+without discretion. His
+commendation is, that hee
+neuer looks vpon booke,
+and indeed, he was neuer
+vs'd to it. Hee preaches
+but once a yeare, though
+twice on Sunday: for the
+stuffe is still the same, only
+<PB REF="12">
+dressing a little alter'd. H<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+has more trickes with an<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+Sermon, then a Tailer with
+an old Cloake, to turn<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+it, and piece it, and at las<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+quite disguise it with a new
+Preface. If he haue wade<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+further in his profession
+and would shew Reading
+of his own, his Authors a<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">
+Postils, and his Schoole
+diuinitie a Ca<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">echisme. Hi<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+fashion and demure Ha<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">bit
+gets him in with som<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+Town-precisian, and mak<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+him a Guest on Fryda<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+nights. You shall know
+him by his narrow Velue
+cape, and Serge facing, an<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+his ruffe, next his Haire, th<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+shortest thing about hi<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+<PB REF="12">
+The co~panion of his walke
+is some zealous tradesman,
+whom he astonisheth with
+strange points, which they
+both vnderstand alike. His
+friends and much paine|fulnesse
+may preferre him
+to thirtie pounds a yeare,
+and this means, to a Cham|ber-maide:
+with whom
+wee leaue him now in the
+bonds of Wedlocke. Next
+Sunday you shal haue him
+againe.</P>
+</DIV2>
+<DIV2 N="3" TYPE="part">
+<HEAD>3. A Graue Diuine.</HEAD>
+<P>IS one that knowes the
+burden of his calling, and
+<PB REF="13">
+hath studied to make his
+shoulders sufficient: for
+which he hath not beene
+hasty to launch forth of
+his port the Vniuersity,
+hut expected the ballast of
+learning, and the winde of
+opportunity. Diuinity is
+not the beginning but the
+end of his studies, to which
+hee takes the ordinary
+stayre, and makes the Arts
+his way. He counts it not
+profanenesse to bee polisht
+with humane reading, or
+to smooth his way by <HI>Ari|stotle</HI>
+to schoole-diuinity.
+He ha's sounded both Re|ligions
+and anchord in the
+best, and is a Protestant
+out of iudgement, not fa|ction,
+<PB REF="13">
+not because his
+Country, but his Reason is
+on this side. The ministry is
+his choyce, not refuge,
+and yet the Pulpit not his
+itch, but feare. His dis|course
+there is substance,
+not all Rhetorique, and he
+vtters more things then
+words. His speech is not
+help't with enforc'd acti|on,
+but the matter acts it
+selfe. Hee shoots all his
+meditations at one Butt:
+and beats vpon his text,
+not the Cushion, making
+his hearers not the Pulpit
+groane. In citing of Popish
+errors, he cuts them with
+Arguments, not cudgels
+them with barren inu<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">|ctiues:
+<PB REF="14">
+and labours more
+to shew the truth of his
+cause then the spleene. His
+Sermon is limited by the
+method, not the houre-glasse;
+and his Deuotion
+goes along with him out of
+the Pulpit. Hee comes not
+vp thrice a weeke because
+he would not bee idle, nor
+talkes three houres toge|ther,
+because hee would
+not talke nothing: but
+his tongue Preaches at fit
+times; and his conuersati|on
+is the euery dayes exer|cise.
+In matters of cere|monie
+hee is not ceremo|nious,
+but thinkes hee
+owes that reuerence to the
+Church to bow his iudge|ment
+<PB REF="14">
+to it, and make more
+conscience of schisme, then
+a Surplesse. Hee esteemes
+the Churches Hirarchie,
+as the Churches glory, and
+how-euer wee iarre with
+Rome, would not haue our
+confusion distinguish vs.
+In Symoniacall purchases
+he thinks his Soule goes in
+the bargaine, and is loath
+to come by promition so
+deare. Yet his worth at
+the length aduances him,
+and the price of his owne
+merit buyes him a Liuing.
+He is no base Grater of his
+Tythes, and will not wran|gle
+for the odde Egge. The
+Lawyer is the onely man
+he hinders, he is spited for
+<PB REF="15">
+taking vp quarrels. Hee
+is a maine pillar of our
+Church, though not yet
+Deane nor Canon, and
+his life our Religions best
+Apologie: His death is his
+last Sermon, where in the
+Pulpit of his Bed hee in|structs
+men to dye by his
+example.</P>
+</DIV2>
+<DIV2 N="4" TYPE="part">
+<HEAD>4. A meere dull
+Physitian.</HEAD>
+<P>HIs practice is some bu|sinesse
+at bed-sides,
+and his speculation an V|rinall.
+Hee is distinguish<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+from an Empericke by a
+<PB REF="15">
+round veluet cap, and Do|ctors
+gowne, yet no man
+takes degrees more super|fluously,
+for he is Doctor
+howsoeuer. He is sworne
+to <HI>Gale<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"></HI> and <HI>Hypocrates,</HI> as
+Vniuersity men to their sta|tutes,
+though they neuer
+saw them, and his discourse
+is all Aphorismes, though
+his reading be onely <HI>A|lexis</HI>
+of Piemont, or the
+Regiment of Health. The
+best Cure hee ha's done is
+vpon his own purse, which
+from a leane sicklinesse he
+hath made lusty, and in
+flesh. His learning consists
+much in reckoning vp the
+hard names of diseases,
+and the superscriptions of
+<PB REF="16">
+Gally-pots in his Apothe|caries
+Shoppe, which are
+rank't in his Shelues, and
+the Doctors memory. If he
+haue been but a by-stander
+at some desperate recoue|rie,
+hee is slander'd with it,
+though hee be guiltlesse;
+and this breeds his reputa|tion,
+and that his Practice;
+for his skill is meerely opi|nion.
+Of all odors he likes
+best the smell of Vrine, and
+holds <HI>Vespatians</HI> rule, that
+no gaine is vnsauorie. If
+you send this once to him,
+you must resolue to be sick
+howsoeuer, for he will ne|uer
+leaue examining your
+Water till he haue shak<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> it
+into a Disease. Then fol|lowes
+<PB REF="16">
+a writ to his drugger
+in a strange tongue, which
+hee vnderstands though
+he cannot conster. If he see
+you himselfe, his presence
+is the worst visitation: for
+if hee cannot heale your
+sicknesse, he will be sure to
+helpe it. He translates his
+Apothecaries Shop into
+your Chamber, and the
+verie Windowes and Ben|ches
+must take Physicke.
+He tels you your Maladie
+in Greeke, though it be but
+a cold, or head-ach: which
+by good endeauor and di|ligence
+hee may bring to
+some moment indeed; his
+most vnfaithfull act is, that
+hee leaues a man gasping,
+<PB REF="17">
+and his pretence is, death
+and he haue a quarrell, and
+must not meete; but his
+feare is, least the Carcasse
+should bleed. Anatomies
+and other spectacles of
+Mortality haue hardened
+him, and hee's no more
+struck with a Funerall then
+a Graue-maker. Noble|men
+vse him for a director
+of their stomacks, and La|dies
+for wantonnesse, espe|cially
+if hee bee a proper
+man. If he be single, he is
+in league with his Shee-Apothecary,
+and because
+it is the Physitian, the hus|band
+is Patient. If he haue
+leasure to be idle (that is to
+study) he ha's a smatch at
+<PB REF="17">
+Alcumy, and is sicke of
+the Pilosophers stone, a
+disease vncurable, but by
+an abundant Phlebotomy
+of the purse. His two main
+opposites are a Mounte|banke,
+and a good Wo|man,
+and he neuer shewes
+his learning so much as in
+an inuectiue against them,
+and their boxes. In con|clusion
+he is a sucking con|sumption,
+and a very bro|ther
+to the wormes, for
+they are both ingendred
+out of mans corruption.</P>
+</DIV2>
+<DIV2 N="5" TYPE="part">
+<PB REF="18">
+<HEAD>5. An Alderman.</HEAD>
+<P>HEe is Venerable in his
+Gowne, more in his
+Beard, wherewith hee sets
+not foorth so much his
+owne, as the face of a Citie.
+You must looke on him as
+one of the Towne-Gates,
+and consider him not as a
+Body, but a Corporation.
+His eminencie aboue o|thers
+hath made him a
+man of Worship, for hee
+had neuer beene prefer'd,
+but that hee was worth
+thousands. Hee ouer-sees
+the Common-wealth, as
+his Shop, and it is an ar|gument
+of his Policie, that
+he has thriuen by his craft.
+<PB REF="18">
+Hee is a rigorous Magi|strate
+in his Ward: yet his
+scale of Iustice is suspected,
+least it bee like the Ballan|ces
+in his Ware-house. A
+ponderous man he is, and
+substantial: for his weight
+is commonly extraordina|rie,
+and in his preferment
+nothing Rises so much as
+his Bellie. His Head is of
+no great depth, yet well
+furnisht, when it is in
+coniunction with his Bre|thren,
+may bring foorth a
+Citie Apothegme, or some
+such sage matter. Hee is
+one that will not hastily
+runne into error, for hee
+treds with great deliberati|on,
+&amp; his iudgment consists
+<PB REF="19">
+much in his pace. His dis|course
+is commonly the
+Annals of his Maioralty,
+and what good gouerment
+there was in the dayes of
+his gold Chaine: though
+his doore-posts were the
+onely things that suffered
+reformation: Hee seemes
+not sincerely religious, e|specially
+on solemne daies;
+for he comes oft to Church
+to make a shew. He is the
+highest stayre of his pro|fession
+and an example to
+his Trade, what in time
+they may come to. Hee
+makes very much of his
+authority; but more of
+his Sattin Doublet; which,
+though of good yeares,
+<PB REF="19">
+bears its age very well, and
+looks fresh euery Sunday;
+But his Scarlet gowne is a
+Monument, and lasts from
+generation to generation.</P>
+</DIV2>
+<DIV2 N="6" TYPE="part">
+<HEAD>6. A discontented
+Man.</HEAD>
+<P>IS one that is falne out
+with the world, and will
+bee reuengd' on himselfe.
+Fortune ha's deny'd him in
+something, and hee now
+takes pet, and will be mi|serable
+in spite. The roote
+of his disease is a selfe-hu|mouring
+pride, and an ac|custom'd
+tendernesse, not
+<PB REF="20">
+to bee cro<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">t in his fancy&punc;
+and the occasions com<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">monly
+one of these three&punc;
+a hard father, a peeuish
+wench, or his ambition
+thwarted. Hee considered
+not the nature of the world
+till he felt it, and all blowes
+fall on him heauier, because
+they light not first on his
+expectation. He has now
+forgone all but his pride,
+and is yet vaine glorious in
+the ostentation of his me|lancholy.
+His composure
+of himselfe is a studied
+carelesnesse with his armes
+a crosse, and a neglected
+hanging of his head and
+cloake, and he is as great
+an enemie to an hat-band,
+<PB REF="20">
+as Fortune. He quarrels at
+the time, and vp-starts, and
+sighs at the neglect of men
+of Parts, that is, such as
+himselfe. His life is a per|petuall
+Satyre, and hee is
+still girding the ages vani|ty;
+when this very an|ger
+shewes he too much e|steemes
+it. Hee is much
+displeas'd to see men mer|ry,
+and wonders what they
+can find to laugh at. Hee
+neuer drawes his own lips
+higher then a smile, and
+frownes wrinckle him be|fore
+fortie. Hee at the last
+fals into that deadly melan|choly
+to bee a bitter hater
+of men, and is the most apt
+Companion for any mis|chiefe.
+<PB REF="21">
+Hee is the sparke
+that kindles the Common-wealth,
+and the bellowes
+himselfe to blow it: and if
+he turn any thing, it is com|monly
+one of these, either
+Friar, traitor, or mad-man.</P>
+</DIV2>
+<DIV2 N="7" TYPE="part">
+<HEAD>7. An Antiquary.</HEAD>
+<P>HE is a man strangely
+thrifty of Time past,
+&amp; an enemy indeed to his
+Maw, whence hee fetche<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+out many things when they
+are now all rotten and
+stinking. Hee is one tha<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+hath that vnnaturall dis|ease
+to bee enamour'd o<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+<PB REF="21">
+old age, and wrinckles, and
+loues all things (as Dutch|men
+doe Cheese) the bet|ter
+for being mouldy and
+worme-eaten. He is of our
+Religion, because we say
+it is most ancient; and yet
+a broken Statue would al|most
+make him an Idola|ter.
+A great admirer he is
+of the rust of old Monu|ments,
+and reades onely
+those Charactars, where
+time hath eaten out the
+letters. Hee will goe you
+forty miles to see a Saints
+Well, or ruin'd Abbey:
+and if there be but a Crosse
+or stone foot-stoole in the
+way, hee'l be considering
+it so long, till he forget his
+<PB REF="22">
+iourney. His estate consists
+much in shekels, and Ro|man
+Coynes, and he hath
+more Pictures of Caesar,
+then <HI>Iames</HI> or <HI>Elizabeth&punc;</HI>
+Beggers coozen him with
+musty things which they
+haue rak't from dunghils,
+and he preserues their rags
+for precious Reliques. He
+loues no Library, but
+where there are more Spi|ders
+volums then Authors,
+and lookes with great ad|miration
+on the Antique
+worke of Cob-webs. Prin|ted
+bookes he contemnes,
+as a nouetly of this latter
+age; but a Manu-script the
+pores on euerlastingly, es|pecially
+if the couer be all
+<PB REF="22">
+Moth-eaten, and the dust
+make a Parenthesis be|tweene
+euerie Sillable. He
+would giue all the Bookes
+in his Studie (which are ra|rities
+all) for one of the old
+Romane binding, or sixe
+lines of <HI>Tully</HI> in his owne
+hand. His chamber is hung
+commonly with strange
+Beasts skins, and is a kind
+of Charnel-house of bones
+extraordinarie, and his dis|course
+vpon them, if you
+will heare him shall last
+longer. His verie atyre is
+that which is the eldest out
+of fashion, and you may
+picke a Criticism out of his
+Breeches. He neuer lookes
+vpon him self til he is gray-hair'd,
+<PB REF="23">
+and then he is plea|sed
+with his owne Anti|quity.
+His Graue do<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">s not
+fright him, for he ha's been
+vs'd to Sepulchers, and hee
+likes Death the better, be|cause
+it gathers him to his
+Fathers.</P>
+</DIV2>
+<DIV2 N="8" TYPE="part">
+<HEAD>9. Younger Brother.</HEAD>
+<P>HIs elder Brother was
+the <HI>Esau,</HI> that came
+out first and left him like
+<HI>Iacob</HI> at his heeles. His fa|ther
+ha's done with him, as
+<HI>Phararh</HI> to the children of
+Israel, that would haue
+them make brick, and giue
+<PB REF="23">
+them no straw, so he taskes
+him to bee a Gentleman,
+and leaues him nothing to
+maintaine it. The pride of
+his house has vndone him,
+which the elder Knight|hood
+must sustaine, and his
+beggery that Knighthood.
+His birth and bringing vp
+will not suffer him to de|scend
+to the meanes to get
+wealth: but he stands at
+the mercy of the world,
+and which is worse of his
+brother. He is something
+better then the Seruing-men;
+yet they more saucy
+with him, then hee bold
+with the master, who be|holds
+him with a counte|nance
+of sterne awe, and
+<PB REF="24">
+checks him oftner then his
+Liueries. His brothers old
+suites and hee are much a|like
+in request, and cast off
+now and then one to the
+other. Nature hath fur|nisht
+him with a little
+more wit vpon compassi|on;
+for it is like to be his
+best reuenew. If his An|nuity
+stretch so farre he is
+sent to the Vniuersity, and
+with great heart-burning
+takes vpon him the Mini|stry;
+as a profession hee is
+condemn'd, to by his ill
+fortune. Other take a more
+crooked path, yet the
+Kings high-way, where
+at length their vizzard is
+pluck't off, and they strike
+<PB REF="24">
+faire for Tiburne: but their
+Brothers pride, not loue,
+gets them a pardon. His
+last refuge is the Low-countries,
+where rags and
+lice are no scandall, where
+hee liues a poore Gentle|man
+of a Company, and
+dies without a shirt. The
+onely thing that may bet|ter
+his fortunes, is an art
+hee ha's to make a Gentle|woman,
+wherewith hee
+baits now and then some
+rich widow, that is hun|gry
+after his blood. He is
+commonly discontented,
+and desperate, and the
+forme of his exclamation
+is, that Churle my Brother.
+He loues not his country
+<PB REF="25">
+for this vnnatural custome,
+and would haue long since
+reuolted to the Spaniard,
+but for Kent onely which
+he holds in admiration.</P>
+</DIV2>
+<DIV2 N="9" TYPE="part">
+<HEAD>10. A meere for|mall
+Man.</HEAD>
+<P>IS somewhat more then
+the shape of a man; for
+he has his length, breadth,
+and colour. When you
+haue seene his outside, you
+haue lookt through him,
+and need imploy your dis|couery
+no farther. His rea|son
+is meerly example, and
+his action is not guided by
+<PB REF="25">
+his vnderstanding, but he
+sees other men doe thus,
+and he followes them. He
+is a Negatiue, for we can|not
+call him a wise man,
+but not a foole; nor an ho|nest
+man, but not a knaue;
+nor a Protestant, but not a
+Papist. The chiefe burden
+of his brain is the carriage
+of his body, and the setting
+of his face in a good frame:
+which hee performes the
+better, because hee is not
+disiointed with other Me|ditations.
+His Religion is
+a good quiet subiect, and
+he prayes, as he sweares, in
+the Phrase of the Land. He
+is a faire guest, and a faire
+inuiter, and can excuse his
+<PB REF="26">
+good cheere in the accusto|med
+Apologie. Hee ha's
+some faculty in mangling
+of a Rabbet, and the distri|bution
+of his morsell to a
+neighbour trencher. Hee
+apprehends a iest by seeing
+men smile, and laughes or|derly
+himselfe, when it
+comes to his turne. His
+discourse is the newes that
+hee hath gathered in his
+walke, and for other mat|ters
+his discretion is, that
+he will only what hee can,
+that is, say nothing. His
+life is like one that runnes
+to the Minster-walke, to
+take a turne, or two, and
+so passes. He hath staid in
+the world to fill a number;
+<PB REF="26">
+and when he is gone, there
+wants one, and there's an
+end.</P>
+</DIV2>
+<DIV2 N="10" TYPE="part">
+<HEAD>11. A Church-Papist.</HEAD>
+<P>IS one that parts his Re|ligion
+betwixt his con|science
+and his purse, and
+comes to Church not to
+serue God, but the King.
+The face of the Law makes
+him weare the maske of
+the Gospel, which he vses
+not as a meanes to saue his
+soule, but charges. He loues
+Popery well, but is loath to
+lose by it, and though he be
+somthing scar'd with the
+<PB REF="27">
+Buls of Rome, yet they are
+farre off, and he is strucke
+with more terror at the
+Apparitor. Once a moneth
+he presents himselfe at the
+Church, to keepe off the
+Church warden, &amp; brings
+in his body to saue his
+bayle. He kneels with the
+Congregation, but prayes
+by himselfe, and asks God
+forgiuenesse for comming
+thither. If he be forc'd to
+stay out a Sermon, he puts
+his hat ouer his eyes, and
+frowns out the houre, and
+when hee comes home,
+thinkes to make amends
+for this fault by abusing
+the Preacher. His maine
+policy is to shift off the
+<PB REF="27">
+Communion, for which
+he is neuer vnfurnish't of a
+quarrell, and will be sure
+to be out of Charity at Ea|ster;
+and indeed lies not,
+for hee ha's a quarrell to
+the Sacrament. He would
+make a bad Martyr, and
+good trauellor, for his con|science
+is so large, he could
+neuer wander out of it, and
+in Constantinople would
+be circumcis'd with a re|seruation.
+His wife is more
+zealous, and therfore more
+costly, and he bates her in
+tyres, what she stands him
+in Religion. But we leaue
+him hatching plots against
+the State, and expecting
+<HI>Spinola.</HI></P>
+</DIV2>
+<DIV2 N="11" TYPE="part">
+<PB REF="28">
+<HEAD>12. A selfe conceited
+Man.</HEAD>
+<P>IS one that knowes him|selfe
+so well that he does
+not know himselfe. Two
+excellent well-dones haue
+vndone him; and hee is
+guilty, that first commen|ded
+him to madnesse. He
+is now become to his owne
+booke, which he poares on
+continually, yet like a tru|ant-reader
+skips ouer the
+harsh places and surueyes
+onely that which is plea|sant.
+In the speculation of
+his owne good parts, his
+eyes like a drunkards see
+all double, and his fancy
+<PB REF="28">
+like an old mans specta|cles,
+make a great letter in
+a small print. He imagines
+euery place where hee
+comes his Theater, and
+not a looke stirring, but his
+spectator; and conceiues
+mens thoughts to be very
+idle, that is, busie about
+him. His walke is still in
+the fashion of a March, and
+like his opinion vnaccom|panyed,
+with his eyes most
+fixt vpon his owne person,
+or on others with reflecti|on
+to himselfe. If he haue
+done any thing that ha's
+past with applause, he is
+alwayes re-acting it alone,
+and conceits the extasie his
+hearers were in at euery
+<PB REF="29">
+period. His discourse is all
+positions, and definitiue
+decrees, with thus it must
+be, and thus it is, and hee
+will not humble his autho|rity
+to proue it. His tenent
+is alwayes singular, and
+aloofe from the vulgar as
+he can, from which you
+must not hope to wrest
+him. Hee ha's an excellent
+humor, for an heretique,
+and in these dayes made
+the first Arminian. He pre|fers
+<HI>Ramus</HI> before <HI>Aristotle,</HI>
+&amp; <HI>Paracelsus</HI> before <HI>Galen,</HI>
+and whosoeuer with most
+Paradox is commended, &amp;
+<HI>Lipsius</HI> his hopping stile,
+before either <HI>Tully</HI> or <HI>Quin|tilian.</HI>
+He much pities the
+<PB REF="29">
+World, that ha's no more
+in sight in his Parts, when
+he is too well discouered,
+euen to this very thoght. A
+flatterer is a dunce to him,
+for he can tell him nothing
+but what hee knowes be|fore,
+and yet he loues him
+to, because he is like him|selfe.
+Men are mercifull to
+him, and let him alone, for
+if he be once driuen from
+his humor, he is like two
+inward friends fallen out;
+His own bitter enemy, and
+discontent presently makes
+a murther. In summe, he
+is a bladder blown vp with
+wind, which the least flaw
+crushes to nothing.</P>
+</DIV2>
+<DIV2 N="12" TYPE="part">
+<PB REF="30">
+<HEAD>13. A Tauerne.</HEAD>
+<P>IS a degree, or (if you
+will) a paire of stayres
+aboue an Alehouse, where
+men are drunke with more
+credit and Apologie. If the
+Vintners nose be at dore,
+it is a signe sufficient, but
+the absence of this is sup|plyed
+by the Iuie-bush.
+The rooms are ill breath'd,
+like the drinkers that haue
+been washt wel ouer night,
+and are smelt too fasting
+next morning; not furnisht
+with Beds apt to be defil'd,
+but more necessary imple|ments,
+Stooles, Table, and
+a Chamber-pot. It is a
+<PB REF="30">
+broacher of more newes
+then hogs-heads, &amp; more
+iests then newes, which are
+sukt vp heere by some
+spungie braine, and from
+thence squeazed into a Co|medy.
+Men come here to
+make merry, but indeed
+make a noise, and this mu|sicke
+aboue is answered
+with the clinking below.
+The Drawers are the ci|uilest
+people in it, men of
+good bringing vp, and
+howsoeuer we esteeme of
+them, none can boast more
+iustly of their high calling.
+Tis the best Theater of na|tures,
+where they are true|ly
+acted, not plaid, and the
+busines as in the rest of the
+<PB REF="31">
+world vp and downe, to
+wit, from the bottome of
+the Seller to the great
+Chamber. A melancholy
+man would finde heere
+matter to worke vpon,
+to see Heads as brittle as
+Glasses, and ofter bro|ken.
+Men come hither to
+quarrell, and come hither
+to be made friends, and if
+<HI>Plutarch</HI> will lend me his
+Simile, it is euen <HI>Tele|phus</HI>
+his sword that makes
+wounds, and cures them.
+It is the common co~sump|tion
+of the Afternoone,
+and the murderer, or ma|ker
+away of a rainy day. It
+is the Torrid Zone that
+scorches the face, and To|bacco
+<PB REF="31">
+the gun-powder that
+blowes it vp. Much harme
+would be done, if the cha|ritable
+Vintener had not
+Water readie for these
+flames. A house of sinne
+you may call it but not a
+house of darknesse for the
+Candles are neuer out, and
+it is like those Countries
+farre in the North, where
+it is as cleare at mid-night
+as at mid-day. After a long
+sitting, it becomes like a
+street in a dashing showre,
+where the spouts are flush|ing
+aboue, and the Con|duits
+running below, while
+the Iordans like swel|ling
+riuers ouerflow their
+bankes. To giue you the
+<PB REF="32">
+totall reckoning of it. It is
+the busie mans recreation,
+the idle mans businesse, the
+melancholy mans Sanctu|ary,
+the strangers welcome,
+the Innes a Court mans
+entertainment, the schol|lers
+kindnesse, and the Ci|tizens
+curtesie. It is the stu|die
+of sparkling wits, and a
+cup of Canary their book,
+where we leaue them.</P>
+</DIV2>
+<DIV2 N="13" TYPE="part">
+<HEAD>14. A too idly reseru'd
+Man.</HEAD>
+<P>IS one that is a foole with
+discretion: or a strange
+piece of Politician, that
+manages the state of him|selfe,
+<PB REF="32">
+His Actions are his
+Priuie Counsell, wherein
+no man must partake be|side.
+He speakes vnder rule
+and prescription, and dare
+not shew his teeth without
+<HI>Machiauell.</HI> He conuerses
+with his neighbours as he
+would in Spaine, and feares
+an inquisitiue man as much
+as the inquisition. Hee sus|pects
+all questions for exa|minations,
+and thinks you
+would pick something out
+of him, and auoids you: His
+brest is lik a gentlewomans
+closet, which locks vp eue|rie
+toye and trifle, or some
+bragging Mounte-banke,
+that makes euerie stinking
+thing a secret. He deliuers
+<PB REF="33">
+you common matters with
+great coniuration. of si|lence,
+and whispers you
+in the eare Acts of Parlia|ment.
+You may as soone
+wrest a tooth from him as
+a paper, and whatsoeuer he
+reads is letters. He dares
+not talke of great men for
+feare of bad Comments,
+and he knowes not how
+his words may bee misap|plyed.
+Aske his opinion
+and he tels you his doubt:
+and hee neuer heares a|ny
+thing more astonishtly
+then what he knowes be|fore.
+His words are like the
+Cards at Primiuiste, where
+6. is 18. and 7. 21. for they
+neuer signifie what they
+<PB REF="33">
+sound; but if he tell you he
+wil do a thing, it is as much
+as if hee swore he would
+not. He is one indeed that
+takes all men to be craftier
+then they are, and puts
+himselfe to a great deale of
+affliction to hinder their
+plots, and designes where
+they meane freely. Hee
+ha's beene long a riddle
+himselfe, but at last finds
+<HI>Oedipusses;</HI> for his ouer-a|cted
+dissimulation disco|uers
+him, and men doe
+with him as they would
+with Hebrew letters, spell
+him backwards, and read
+him.</P>
+</DIV2>
+<DIV2 N="14" TYPE="part">
+<PB REF="34">
+<HEAD>15. A Sharke.</HEAD>
+<P>IS one whome all other
+meanes haue fayl'd, and
+hee now liues of himselfe.
+He is some needy casheir'd
+fellow, whom the World
+has oft flung off, yet still
+claspes againe, and is like
+one a drowning, fastens
+vpon any thing that's next
+at hand, amongst other of
+his Shipwrackes hee has
+happyly lost shame, and
+this want supplies him. No
+man puts his Braine to
+more vse then hee, for his
+life is a dayly inuention,
+and each meale a new stra|tagem.
+Hee has an excel|lent
+<PB REF="34">
+memorie for his ac|quaintance,
+though there
+past but how doe you be|twixt
+them seuen yeeres
+agoe, it shall suffice for an
+Imbrace, and that for mo|ney.
+He offers you a Pottle
+of Sacke out of his ioy to
+see you, and in requitall of
+this courtesie, you can doe
+no lesse then pay for it. He
+is fumbling with his purse-strings,
+as a Schoole-boy
+with his points, when hee
+is going to bee Whipt, till
+the Master wearie with
+long Stay, forgiues him.
+When the reckoning is
+payd, he sayes it must not
+bee so, it is strait pacified,
+and cryes what remedie.
+<PB REF="35">
+His borrowings are like
+Subsidies, each man a shil|ling
+or two, as he can well
+dispend, which they lend
+him&punc; not with the hope to
+be repayd, but that he will
+come no more. He holds a
+strange tyranny ouer men,
+for he is their debtor, and
+they feare him as a credi|tor.
+He is proud of any im|ployment,
+though it bee
+but to carry commendati|ons,
+which he will be sure
+to deliuer at eleuen of the
+clocke. They in curtesie
+bid him stay, &amp; he in man|ners
+cannot deny them. If
+he find but a good looke
+to assure his welcom, he be|comes
+their halfe boord|er,
+<PB REF="35">
+and haunts the thresh|hold
+so long, till he forces
+good natures to the necessi|ty
+of a quarrell. Publique
+iuuitations hee will not
+wrong with his absence,
+and is the best witnesse of
+the Sheriffes Hospitality.
+Men shun him at length as
+they would doe an infecti|on,
+and he is neuer crost in
+his way, if there be but a
+lane to escape him. He ha's
+done with the Age as his
+clothes to him, hung on as
+long as he could, and at
+last drops off.</P>
+</DIV2>
+<DIV2 N="15" TYPE="part">
+<PB REF="36">
+<HEAD>16. A Carrier.</HEAD>
+<P>IS his own Hackneyman
+for hee lets himselfe out
+to trauel as well as his hor|ses.
+Hee is the ordina|rie
+Embassadour betweene
+Friend and Friend, and
+brings rich Presents to the
+one, but neuer returnes any
+backe againe. He is no vn|letter'd
+man, though in
+shew simple, for question|lesse,
+hee has much in his
+Budget, which hee can
+vtter too in fit time and
+place; He is the Vault in
+Gloster Church, that con|ueyes
+Whispers at a di|stance;
+for hee takes the
+<PB REF="36">
+sound out of your mouth
+at Yorke, and makes it bee
+heard as farre as London.
+Hee is the young Students
+ioy and expectation, and
+their most accepted guest,
+to whom they lend a wil|ling
+hand to discharge him
+of his burthen. His first
+greeting is, Your Friends
+are well; then in a piece of
+Gold deliuers their Bles|si<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">g.
+You would thinke
+him a Churlish blunt fel|low,
+but they find in him
+many tokens of humani|tie.
+He is a great afflicter of
+the High-way, and beates
+them out of mesure, which
+iniury is somtimes reuengd
+by the Purse-taker; &amp; then
+<PB REF="37">
+the Voyage miscaries. No
+mandomineers more in his
+Inne, nor cals his Host vn|reuerently
+with more pre|sumption,
+and this arro|gance
+proceeds out of the
+strength of his Horses. He
+forgets not his load where
+he takes his ease, for he is
+drunke commonly before
+he goes to bed. He is like
+the Prodigall Child, still
+packing away, and still re|turning
+againe. But let him
+passe.</P>
+</DIV2>
+<DIV2 N="16" TYPE="part">
+<PB REF="37">
+<HEAD>17. An old Colledge
+Butler.</HEAD>
+<P>IS none of the worst Stu|dents
+in the house, for he
+keeps the set houres at his
+booke more duly then any.
+His authority is great ouer
+mens good names, which
+hee charges many times
+with shrewd aspersions,
+which they hardly wipe
+off without payment. His
+Boxe and Counters proue
+him to bee a man of reck|oning;
+yet he is stricter in
+his accounts then a Vsu|rer,
+and deliuers not a far|thing
+without writing. He
+doubles the pains of <HI>Gallo|belgicus,</HI>
+<PB REF="38">
+for his bookes
+goe out once a quarter, and
+they are much in the same
+nature, briefe notes and
+summes of affaires, and are
+out of request as soone. His
+commings in are like a
+Taylors from the shreds of
+bread, the chippings, and
+remnants of the broken
+crust: excepting his vailes
+from the barrell, which
+poore folkes buy for their
+hogs, but drinke them|selues.
+He diuides a halfe-peny
+loafe with more
+subtilty then <HI>Kekerman,</HI>
+and sub-diuides the <HI>a pri|mo
+ortum</HI> so nicely, that
+a stomacke of great ca|pacity
+can hardly appre|hend
+<PB REF="38">
+it. Hee is a very so|ber
+man considering his
+manifold temptations of
+drinke and strangers, and
+if hee be ouer-seene, tis
+within his owne liber|ties,
+and no man ought
+to take exceptions. He is
+neuer so well pleas'd with
+his place, as when a Gen|tleman
+is beholding to him
+for shewing him the Butte|ry,
+whom hee greets with
+a cup of single beere and
+slyst manchet, and tels him
+tis the fashion of the Col|ledge.
+Hee domineers o|uer
+Fresh-men when they
+first come to the Hatch,
+and puzzles them with
+strange language of Cues,
+<PB REF="39">
+and Cees, and some bro|ken
+Latine which he ha's
+learnt at his Bin. His fa|culties
+extraordinary, is
+the warming of a paire of
+Cards, and telling out a
+doozen of Counters for
+Post and Paire, and no
+man is more methodicall
+in these businesses. Thus
+hee spends his age, till
+the <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">appe of it is runne
+out, and then a fresh one
+is set abroach.</P>
+</DIV2>
+<DIV2 N="17" TYPE="part">
+<PB REF="39">
+<HEAD>18. An vp-start Coun|trey
+Knight.</HEAD>
+<P>HIs honour was some|what
+preposterous,
+for hee bare the Kings
+sword before he had armes
+to wield it; yet being once
+laid ore the shoulder with
+a Knighthood, he finds the
+Herauld his friend. His
+father was a man of good
+stocke, though but a Tan|ner,
+or Vsurer; hee pur|chast
+the Land, and his son
+the Title. He ha's do<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">t off
+the name of a Clowne, but
+the looke not so easie, and
+his face beares still a relish
+of Churne-milke. Hee is
+<PB REF="40">
+garded with more gold
+lace then all the Gentle|men
+o'th Country, yet his
+body makes his clothes stil
+out of fashion. His house-keeping
+is seene much in
+the distinct families of
+Dogges, and Seruing-men
+attendant on their kennels,
+and the deepenesse of their
+throats is the depth of his
+discourse. A Hauke he e|steemes
+the true burthen
+of Nobility, and is excee|ding
+ambitious to seeme
+delighted in the sport, and
+haue his fist glou'd with
+his Iesses. A Iustice of
+peace hee is to domineere
+in his Parish, and doe his
+neighbour wrong with
+<PB REF="40">
+more right. And very scan|dalous
+he is in his autho|rity,
+for no sinne almost
+which hee will not com|mit.
+Hee will be drunke
+with his hunters for com|pany,
+and staine his Gen|tility
+with droppings of
+Ale. He is fearfull of being
+Sheriffe of the Shire by in|stinct,
+and dreads the Size-weeeke
+as much as the Pri|soner.
+In summe, he is but
+a clod of his owne earth,
+or his Land is the Dung+hill,
+and he the Cocke that
+crowes ouer it. And com|monly
+his race is quickly
+runne, and his Childrens
+Children, though they
+scape hanging, returne to
+<PB REF="41">
+the place from whence
+they came.</P>
+</DIV2>
+<DIV2 N="18" TYPE="part">
+<HEAD>19. A Gallant.</HEAD>
+<P>IS one that was born and
+shapt for his cloathes:
+and if <HI>Adam</HI> had not falne,
+had liu'd to no purpose.
+Hee gratulates therefore
+the first sinne, and fig|leaues
+that were an occa|sion
+of brauery. His first
+care is his dresse, the nex<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+his bodie, and in the vni|ting
+of these two lies his
+soule and its faculties. He
+obserues London trulier
+then the Termers, and his
+<PB REF="41">
+businesse is the street: the
+Stage, the Court, and
+those places where a pro|per
+man is best showne.
+If hee be qualified in ga|ming
+extraordinary, he is
+so much the more gentile
+and compleate, and hee
+learnes the best oathes for
+the purpose. These are a
+great part of his discourse,
+&amp; he is as curious in their
+newnesse as the fashion.
+His other talke is Ladies
+and such pretty things, or
+some iest at a Play. His
+Pick-tooth beares a great
+part in his discourse, so
+does his body; the vpper
+parts whereof are as starcht
+as his linnen, and per|chance
+<PB REF="42">
+vse the same Laun|dresse.
+Hee has learnt to
+ruffle his face from his
+Boote, and takes great de|light
+in his walke to heare
+his Spurs gingle. Though
+his life passe somewhat sli|dingly,
+yet he seemes very
+carefull of the time, for
+hee is still drawing his
+Watch out of his Poket,
+and spends part of his
+houres in numbring them.
+He is one neuer serious but
+with his Taylor, when hee
+is in conspiracie for the
+next deuice. He is furnisht
+his Iests, as some wande|rer
+with Sermons, some
+three for all Congregati|ons,
+one especially against
+<PB REF="42">
+the Scholler, a man to him
+much ridiculous, whome
+hee knowes by no other
+definition, but a silly fel|low
+in blacke. He is a kind
+of walking Mercers Shop,
+and shewes you one Stuffe
+to day, and another to+morrow;
+an ornament to
+the roomes he comes in, as
+the faire Bed and Hang|ings
+be; and is meerely ra|table
+accordingly, fiftie or
+an hundred Pound as his
+suit is. His maine ambition
+is to get a Knight-hood,
+and then an olde Ladie,
+which if he be happy in, he
+fils the Stage and a Coach
+so much longer. Other|wise,
+himselfe and his
+<PB REF="43">
+Cloathes grow stale toge|ther,
+and he is buried com|monly
+ere hee dies in the
+Gaole, or the Country.</P>
+</DIV2>
+<DIV2 N="19" TYPE="part">
+<HEAD>20. A Constable.</HEAD>
+<P>IS a Vice-roy in the street,
+and no man stands more
+vpon't that he is the Kings
+Officer. His iurisdiction
+extends to the next stocks,
+where he ha's Commissi|on
+for the heeles onely, and
+sets the rest of the body at
+liberty. Hee is a scar-crow
+to that Alehouse, where he
+drinkes not his mornings
+draught, and apprehends
+<PB REF="43">
+a Drunkard for not stan|ding
+in the Kings name.
+Beggers feare him more
+then the Iustice, and as
+much as the Whip-stocke,
+whom hee deliuers ouer
+to his subordinate Magi|strates,
+the Bride-wel-man,
+and the Beadle. Hee is a
+great stickler in the tu|mults
+of double Iugges,
+and venters his head by
+his Place, which is broke
+many times to keep whole
+the peace. He is neuer so
+much in his Maiesty as in
+his Night-watch, where
+hee sits in his Chayre of
+State, a Shop-stall, and in|uiron'd
+with a guard of
+Halberts, examines all pas|sengers.
+<PB REF="44">
+He is a very care|full
+man in his Office, but
+if hee stay vp after mid|night,
+you shall take him
+napping.</P>
+</DIV2>
+<DIV2 N="20" TYPE="part">
+<HEAD>21. A downe right
+Sholler.</HEAD>
+<P>IS one that has much
+learning in the Ore, vn|wrought
+and vntryde,
+which time and experience
+fashions and refines. He is
+good mettall in the inside,
+though rough &amp; vnscour'd
+without, and therefore ha|ted
+of the Courtier, that is
+quite contrarie. The time
+<PB REF="44">
+has got a veine of making
+him ridiculous, and men
+laugh at him by tradition,
+and no vnluckie absurdity,
+but is put vpon his profes|sion,
+and done like a Schol|ler.
+But his fault is onely
+this, that his mind is some|what
+much taken vp with
+his mind, and his thoughts
+not loaden with any car|riage
+besides. Hee has not
+put on the quaint Garbe
+of the Age, which is now
+become a mans Totall. He
+has not humbled his Me|ditations
+to the industrie of
+Complement, not afflicted
+his braine in an elaborate
+legge. His body is not set
+vpon nice Pinnes, to bee
+<PB REF="45">
+turning and flexible for e|uery
+motion, but his scrape
+is homely, and his nod
+worse. He cannot kisse his
+hand and cry Madame,
+nor talke idly enough to
+beare her company. His
+smacking of a Gentle-wo|man
+is somewhat too sa|uory,
+and he mistakes her
+nose for her lippe. A very
+Woodcock would puzzle
+him in caruing, and hee
+wants the logicke of a Ca|pon.
+He has not the glib fa|culty
+of sliding ouer a tale,
+but his words come squea|mishly
+out of his mouth,
+and the laughter common|ly
+before the iest. He names
+this word Colledge too of|ten,
+<PB REF="45">
+and his discourse beats
+too much on the Vniuersi|ty.
+The perplexity of man|nerlinesse
+will not let him
+feed, and he is sharpe set at
+an Argument when hee
+should cut his meate. He is
+discarded for a gamester at
+all games but one and thir|ty,
+and at tables he reaches
+not beyond doublets. His
+fingers are not long and
+drawn out to handle a Fid|dle,
+but his fist is clunch't
+with the habite of dispu|ting.
+He ascends a Horse
+somwhat sinisterly, though
+not on the left side, and
+they both goe iogging in
+griefe together. He is ex|ceedingly
+censur'd by the
+<PB REF="46">
+Innes a Court men, for
+that hainous Vice being
+out of fashion. Hee cannot
+speake to a Dogge in his
+owne Dialect, and vnder|stands
+Greeke better then
+the language of a Falconer.
+Hee has beene vsed to a
+darke roome, and darke
+Clothes, and his eyes daz|zle
+at a Sattin Doublet.
+The Hermitage of his Stu|dy,
+has made him somwhat
+vncouth in the world, and
+men make him worse by
+staring on him. Thus is he
+silly and ridiculous, and it
+continues with him for
+some quarter of a yeare,
+out of the Vniuersitie. But
+practise him a little in men,
+<PB REF="46">
+and brush him ore with
+good companie, and hee
+shall out-ballance those
+glisterers as much as a so|lid
+substance do's a feather,
+or Gold Gold-lace.</P>
+</DIV2>
+<DIV2 N="21" TYPE="part">
+<HEAD>22. A Player.</HEAD>
+<P>HE knows the right vse
+of the World, where
+in he comes to play a part
+and so away. His life is not
+idle for it is all Action, and
+no man need be more wary
+in his doings, for the eyes
+of all men are vpon him.
+His Profession ha's in it a
+kind of contradiction, for
+none is more dislik'd, and
+<PB REF="47">
+yet none more applauded;
+and he ha's this misfor|tude
+of some Scholler, too
+much wit makes him a
+foole. He is like our pain|ting
+Gentle-women, sel|dome
+in his owne face, sel|domer
+in his cloathes, and
+he pleases, the better hee
+counterfeits, except onely
+when he is disguis'd with
+straw for gold lace. Hee
+do's not only personate on
+the Stage, but sometime in
+the Street, for he is mask'd
+still in the habit of a Gen|tleman.
+His Parts find him
+oathes and good words,
+which he keeps for his vse
+and Discourse, and makes
+shew with them of a fashi|onable
+<PB REF="47">
+Companion. He is
+tragicall on the Stage, but
+rampant in the Tyring-house,
+and sweares oathes
+there which he neuer con'd.
+The waiting women Spe|ctators
+are ouer-eares in
+loue with him, and Ladies
+send for him to act in their
+Chambers. Your Innes of
+Court men were vndone
+but for him, hee is their
+chiefe guest and imploy|ment,
+and the sole busines
+that makes them After|noones
+men; The Poet on|ly
+is his Tyrant, and he is
+bound to make his friends
+friend drunk at his charges.
+Shroue-tuesday hee feares
+as much as the Baudes, and
+<PB REF="48">
+Lent is more damage to
+him then the Butcher. He
+was neuer so much discre|dited
+as in one Act, &amp; that
+was of Parliament, which
+giues Hostlers Priuiledge
+before him, for which hee
+abhors it more then a cor|rupt
+Iudge. But to giue him
+his due, one wel-furnisht
+Actor has enough in him
+for fiue common Gentle|men,
+and if he haue a good
+body for sixe, and for reso|lution,
+hee shall Challenge
+any <HI>Cato,</HI> for it has beene
+his practise to die brauely.</P>
+</DIV2>
+<DIV2 N="22" TYPE="part">
+<PB REF="48">
+<HEAD>23. A Detractor.</HEAD>
+<P>IS one of a more cunning
+and actiue enuy, where|with
+he gnaws not foolish|ly
+himselfe, but throwes
+it abroad and would haue
+it blister others. He is com|monly
+some weake parted
+fellow, and worse minded,
+yet is strangely ambitious
+to match others, not by
+mounting their worth, but
+bringing them down with
+his Tongue to his owne
+poorenesse. Hee is indeed
+like the red Dragon that
+pursued the woman, for
+when hee cannot ouer|reach
+another, hee opens
+<PB REF="49">
+his mouth and throwes a
+flood after to drowne him.
+You cannot anger him
+worse then to do well, and
+hee hates you more bitter|ly
+for this, then if you had
+cheated him of his patri|mony
+with your owne dis|credit.
+He is alwayes sligh|ting
+the generall opinion,
+and wondring why such
+and such men should bee
+applauded. Commend a
+good Diuine, hee cryes
+Postilling, a Philologer
+Pedantrie, a Poet Ry|ming,
+a Schoole man dull
+wrangling, a sharpe con|ceite,
+Boy-ishnesse; an
+honest Man pla<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">sibilitie.
+Hee comes to Publique
+<PB REF="49">
+things not to learne, but to
+catch, and if there bee but
+one soloecisme, that's all he
+carries away. Hee lookes
+on all things with a pre|pared
+sowrenesse, and is
+still furnisht with a Pish
+before hand, or some musty
+Prouerbe that dis-relishes
+all things whatsoeuer. If
+feare of the company make
+him second a commendati|on,
+it is like a Law-writ, al|waies
+with a clause and ex|ception,
+or to smooth his
+way to some greater scan|dall.
+Hee will grant you
+somthing, and bate more;
+and this bating shal in con|clusion
+take away all hee
+granted. His speech con|cludes
+<PB REF="50">
+still with an Oh but,
+and I coud wish one thing
+amended; and this one
+thing shal be enough to de|face
+all his former com|mendations.
+Hee will bee
+very inward with a man to
+fish some bad out of him,
+and make his slanders here|after
+more authenticke,
+when it is said a friend re|ported
+it. He will inueigle
+you to naughtinesse to get
+your good name into his
+clutches, and make you
+drunk to shew you reeling.
+He passes the more plausi|bly
+because all men haue a
+smatch of his humour, and
+it is thought freenes which
+is malice. If he can say no|thing
+<PB REF="50">
+of a man, hee will
+seeme to speak riddles, as if
+he could tell strange stories
+if he would: and when he
+has rackt his inuention to
+the vttermost, hee ends:
+But I wish him well, and
+therfore must hold my
+peace. He is alwayes list|ning
+and enquiring after
+men, and suffers not a
+cloake to passe by him vn|examin'd.
+In briefe, hee is
+one that has lost all good
+himselfe, and is loth to find
+it in another.</P>
+</DIV2>
+<DIV2 N="23" TYPE="part">
+<PB REF="51">
+<HEAD>24. A meere young Gen|man
+of the Vni|uersitie.</HEAD>
+<P>IS one that comes there
+to weare a gown, and to
+say hereafter, he has beene
+at the Vniuersitie. His Fa|ther
+sent him thither, be|cause
+hee heard there were
+the best Fencing and Dan|cing-Schooles,
+from these
+he has his Education, from
+his Tutor the ouer-sight.
+The first Element of his
+knowledge is to be shewne
+the Colledges, and initia|ted
+in a Tauerne by the
+way, which hereafter hee
+wil learne of himselfe. The
+two markes of his Seniori|tie,
+<PB REF="51">
+is the bare Veluet of his
+gowne, and his proficien|cie
+at Tennis, where when
+hee can once play a Set,
+he is a Fresh-man no more.
+His Studie has common|ly
+handsome Shelues, his
+Bookes near Silke strings,
+which he shewes to his Fa|thers
+man, and is loth to
+vntye or take downe for
+feare of misplacing. Vpon
+foule dayes for recreation
+hee retyres thither, and
+looks ouer the prety booke
+his Tutor Reades to him,
+which is commonly some
+short Historie, or a piece of
+<HI>Euphormio;</HI> for which his
+Tutor giues him Money
+to spend next day. His
+<PB REF="52">
+maine loytering is at the
+Library, where he studies
+Armes and bookes of Ho|nour,
+and turnes a Gentle|man-Critick
+in Pedigrees.
+Of all things he endures
+not to bee mistaken for a
+Scholler, and hates a black
+suit though it be of Sattin.
+His companion is ordina|rily
+some stale fellow, that
+ha's beene notorious for
+an Ingle to gold hatbands,
+whom he admires at first,
+afterward scornes. If hee
+haue spirit or wit, he may
+light of better company,
+and may learne some fla|shes
+of wit, which may
+doe him Knights seruice in
+the Country hereafter. But
+<PB REF="52">
+hee is now gon to the Inns
+of Court, where he studies
+to forget what hee learn'd
+before, his acquaintance
+and the fashion.</P>
+</DIV2>
+<DIV2 N="24" TYPE="part">
+<HEAD>25. A Pot-Poet.</HEAD>
+<P>IS the dreggs of wit; yet
+mingled with good drink
+mae haue some relish. His
+Inspirations are more reall
+then others; for they doe
+but faine a God, but he has
+his by him. His Verses run
+like the Tap, and his in|uention
+as the Barrell, ebs
+and flowes at the mercy of
+the spiggot. In thin drinke
+<PB REF="53">
+hee aspires not aboue a
+Ballad, but a cup of Sacke
+inflames him, and sets his
+Muse and Nose a fire to|gether.
+The Presse is his
+Mint, and stamps him now
+and then a sixe pence or
+two in reward of the ba|ser
+coyne his Pamphlet.
+His Workes woul<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> <GAP DESC="illegible" RESP="tech" EXTENT="1 word">
+sell for three halfe-pence,
+though they are giuen oft
+for three Shillings, but for
+the prety Title that allures
+the Country Gentleman:
+and for which the Printer
+maintaines him in Ale a
+fortnight. His Verses are
+like his clothes, miserable
+Cento's and patches, yet
+their pace is not altogether
+<PB REF="53">
+so hobbling as an Alma|nacks.
+The death of a great
+man or the burning of a
+house furnish him with
+an Argument, and the
+nine Muses are out strait
+in mourning gownes, and
+<HI>Melpomine cryes</HI> Fire, Fire.
+His other Poems are but
+Briefs in Rime, and like the
+poore Greekes collections
+to redeeme from captiuity.
+He is a man now much im|ploy'd
+in commendations
+of our Nauy, and a bit|ter
+inueigher against the
+Spaniard. His frequent'st
+Workes goe out in single
+sheets, and are chanted
+from market to market, to
+a vile tune, and a worse
+<PB REF="54">
+throat, whilst the poore
+Country wench melts like
+her butter to heare them.
+And these are the Stories
+of some men of Tyburne,
+or a strange Monster out
+of Germany: or sitting in
+a Baudy-house; hee writes
+Gods Iudgements. Hee
+ends at last in some ob|scure
+painted Cloth, to
+which himselfe made the
+Verses, and his life like a
+Canne too full spils vpon
+the bench. He leaues twen|ty
+shillings on the score,
+which my Hostesse looses.</P>
+</DIV2>
+<DIV2 N="25" TYPE="part">
+<PB REF="54">
+<HEAD>26. A Cooke.</HEAD>
+<P>THe Kitchin is his Hel,
+and hee the Diuell in
+it, where his meate aud he
+frye together. His Reuen|nues
+are showr'd downe
+from the fat of the Land,
+and he enter-lards his own
+grease among to helpe the
+drippings. Colericke hee
+is, not by nature so much
+as his Art, &amp; it is a shrewd
+temptation that the chop|ping
+knife is so neare. His
+weapons ofter offensiue,
+are a messe of hot broth,
+and scalding water, and
+woe be to him that comes
+in his way. In the Kitchin
+<PB REF="55">
+he wil domineere, and rule
+the roste, in spight of his
+Master, and Curses is the
+very Dialect of his Cal|ling.
+His labour is meere
+blustring and furie, and his
+Speech like that of Sailors
+in a storme, a thousand bu|sinesses
+at once, yet in all
+this tumult hee do's not
+loue cumbustion, but will
+be the first man that shall
+goe and quench it. Hee is
+neuer good Christian till a
+hizzing Pot of Ale has
+slak't him, like Water cast
+on a fire-brand, &amp; for that
+time he is tame and dispo|sest.
+His cunning is not
+small in Architecture, for
+he builds strange Fabricks
+<PB REF="55">
+in Paste, Towres and Ca|stles,
+which are offered to
+the assault of valiant teeth,
+and like <HI>Darius</HI> his Pal|lace,
+in one Banquet de|molisht.
+Hee is a pittilesse
+murderer of Innocents,
+and hee mangles poore
+foules with vnheard of tor|tures,
+and it is thought the
+Martyrs persecutions were
+deuised from hence, sure
+we are S^t. <HI>Lawrence</HI> his
+Gridiron came out of his
+Kitchin. His best facultie
+is at the Dresser, where he
+seemes to haue great skill
+in the Tactickes, ranging
+his Dishes in order Milita|rie,
+and placing with great
+discretion in the fore-front
+<PB REF="56">
+meates more strong and
+hardy and the more cold
+and cowardly in the reare,
+as quaking Tarts, and qui|ueri<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">g
+Custards, and such
+milke-sop Dishes which
+scape many times the fu|ry
+of the encounter. But
+now the second Course is
+gone vp, and hee downe
+into the Sellar, where
+hee drinkes and sleepes
+till foure a clocke in the
+afternoone, and then re|turnes
+againe to his Re|giment.</P>
+</DIV2>
+<DIV2 N="26" TYPE="part">
+<PB REF="56">
+<HEAD>27. A forward bold
+Man.</HEAD>
+<P>IS a lusty fellow in a
+crowd, that's beholding
+more to his elbow then his
+legges, for he do's not goe
+but thrusts well. Hee is a
+good shuffler in the world,
+wherin he is so oft putting
+forth, that at length he puts
+on. He can doe something,
+but dare doe much more,
+and is like a desperate sol|dier,
+who will assault any
+thing where he is sure not
+to enter. He is not so well-opinion'd
+of himselfe, as
+industrious to make other;
+and thinks no vice so pre|iudiciall
+<PB REF="57">
+as blushing. Hee
+is still citing for himselfe,
+that a candle should not
+be hid vnder a bushell, and
+for his part, he will be sure
+not to hide his, thogh his
+candle be but a snuffe or
+Rush-candle. These few
+good parts hee has, he is
+no niggard in displaying,
+and is like some needy
+flanting gold-smith, no
+thing in the inner roome,
+but all on the <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">np-boord:
+If he be a scholler, he ha's
+commonly stept into the
+Pulpit before a degree;
+yet into that too before he
+deseru'd it. He neuer de|ferres
+S. <HI>Maries</HI> beyond
+his regencie, and his next
+<PB REF="57">
+Sermon is at <HI>Pruls</HI> Crosse,
+and that printed. He loues
+publike things alife: and
+for any solemne entertain|ment
+he will find a mouth,
+find a speech who will.
+Hee is greedy of great ac|quaintance
+and many,
+and thinkes it no small ad|uancement
+to rise to bee
+knowne. His talke at the ta|ble
+is like <HI>Beniamins</HI> messe,
+fiue times to his part, and
+no argument shuts him out
+for a quarrellour. Of all
+disgraces he indures not to
+be <HI>Non-plust,</HI> and had ra|ther
+flye for Sanctuary to
+<HI>Non-sense,</HI> which few can
+descry, then to nothing
+which all. His boldnesse is
+<PB REF="58">
+beholding to other mens
+modestie, which rescues
+him many times from a
+Bafflle; yet his face is good
+Armour, and hee is dasht
+out of any thing sooner
+then Countenance. Gros|ser
+conceites are puzzel'd
+in him for a rare man, and
+wiser men, though they
+know him, take him for
+their pleasure, or as they
+would doe a Sculler for be|ing
+next at hand. Thus
+preferment at last stum|bles
+on him because hee is
+still in the way. His Com|panions
+that flouted him
+before, now enuie him,
+when they see him come
+readie for Scarlet, whilst
+<PB REF="58">
+themselues lye Mustie in
+their old Clothes and Col|ledges.</P>
+</DIV2>
+<DIV2 N="27" TYPE="part">
+<HEAD>28. A Baker.</HEAD>
+<P>NO man verifies the
+Prouerbe more, that
+it is an Almes-deed to pu|nish
+him: for his penalty is
+a Dole, and do's the Beg|gers
+as much good as their
+Dinner. He abhors there|fore
+workes of Charitie,
+and thinkes his Bread cast
+away when it is giuen to
+the poore. He loues not Iu|stice
+neither, for the weigh-scales
+sake, and hates the
+<PB REF="59">
+Clarke of the Market as
+his Executioner: yet hee
+findes mercy in his offen|ces,
+and his Basket onely
+is sent to Prison. Marry
+a Pillory is his deadly ene|my,
+and he neuer heares
+well after.</P>
+</DIV2>
+<DIV2 N="28" TYPE="part">
+<HEAD>30. A plaine Country
+Fellow.</HEAD>
+<P>IS one that manures his
+ground wel, but lets him|selfe
+lie fallow and vntil'd.
+Hee has reason enough to
+doe his businesse, and not
+enough to be idle or me|lancholy.
+Hee seemes to
+<PB REF="59">
+haue the iudgement of <HI>Na|buchadnezar</HI>
+for his con|uersation
+is among beasts,
+and his tallons none of the
+shortest, only he eates not
+grasse, because he loues not
+sallets. His hand guids the
+Plough, and the Plough
+his thoughts, and his ditch
+and land<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">marke is the ve|ry
+mound of his meditati|ons.
+He expostulates with
+his Oxen very vnderstan|dingly,
+and speakes Gee
+and Ree better then En|glish.
+His mind is not much
+distracted with obiects,
+but if a good fat Cowe
+come in his way, he stands
+dumbe and astonisht, and
+though his haste be ne|uer
+<PB REF="60">
+so great, will fixe here
+halfe an houres contem|plation.
+His habitation is
+some poore Thatcht roofe,
+distinguisht from his Barn,
+by the loope-holes that let
+out smoak, which the raine
+had long since Washt tho|row,
+but for the double see|ling
+of Bacon on the inside,
+which has hung ther from
+his Grandsires time, and is
+yet to make rashers for po|sterity.
+His Dinner is his o|ther
+worke, for he sweats at
+it as much as at his labour;
+he is a terrible fastner on a
+piece of Beefe, and you may
+hope to staue the Guard
+off sooner. His Religion is
+a part of his Copy-hold,
+<PB REF="60">
+which hee takes from his
+Land-lord, and referres it
+wholly to his discretion.
+Yet if hee giue him leaue,
+he is a good Christian to
+his power (that is) comes
+to Church in his best
+clothes, and sits there with
+his Neighbours, where he
+is capable onely of two
+Praiers, for raine, and faire
+weather. Hee apprehends
+Gods blessings onely in a
+Good Yeere, or a Fat pa|sture,
+and neuer praises
+him bu<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> on good ground.
+Sunday he esteemes a day
+to make merrie in, and
+thinkes a Bag-pipe as es|sentiall
+to it, as Euening
+Prayer, where hee walkes
+<PB REF="61">
+very solemnly after seruice
+with his hands coupled
+behind him, and censures
+the dauncing of his parish.
+His complement with his
+Neighbour is a good
+thumpe on the backe; and
+his salutation commonly
+some blunt Curse. Hee
+thinkes nothing to bee vi|ces
+but Pride and ill-hus|bandrie,
+from which hee
+wil grauely disswade youth
+and has some thriftie Hob|nayle
+Prouerbes to Clout
+his discourse. Hee is a nig|gard
+all the Weeke except
+onely Market-day, where
+if his Corne sell well, hee
+thinkes he may be drunke
+with a good Conscience.
+<PB REF="61">
+His feete neuer stinke so
+vnbecommingly as when
+hee trots after a Lawyer
+in West-minster<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">hall, and
+euen cleaues the ground
+with hard scraping, in be|seeching
+his Worship to
+take his money. Hee is
+sensible of no calamitie but
+the burning of a Stacke of
+Corne, or the ouer-flowing
+of a Medow, and thinkes
+<HI>Noahs</HI> Flood the greatest
+Plague that euer was, not
+because it Drowned the
+World, but spoyl'd the
+grasse. For Death hee is
+neuer troubled, and if hee
+get in but his Haruest be|fore,
+let it come when it wil
+he cares not.</P>
+</DIV2>
+<DIV2 N="29" TYPE="part">
+<PB REF="62">
+<HEAD>31. A Young-man.</HEAD>
+<P>HEe is now out of
+Natures protection,
+though not yet able to
+guide himselfe. But left
+loose to the World, and
+Fortune, from which the
+weaknesse of his Child|hood
+preseru'd him: and
+now his strength exposes
+him. Hee is indeed iust of
+age to be miserable, yet in
+his owne conceit first be|gins
+to be happy; and hee
+is happier in this imagina|tion,
+and his misery not
+felt is lesse. He sees yet but
+the outside of the World
+and Men, and conceiues
+<PB REF="62">
+them according to their
+appearing glister, and out
+of this ignorance beleeues
+them. He pursues all vani|ties
+for happinesse, and
+enioyes them best in this
+fancy. His reason serues
+not to curbe but vnder|stand
+his appetite, and
+prosecute the motions
+thereof with a more ea|ger
+earnestnes. Himselfe is
+his owne temptation, and
+needs not Satan; and the
+World will come hereaf|ter.
+Hee leaues repentance
+for gray hayres, and per|formes
+it in being coue|tous.
+Hee is mingled with
+the vices of the age as the
+fashion and custome, <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ith
+<PB REF="63">
+which hee longs to bee ac|quainted;
+and Sinnes to
+better his vnderstanding.
+He conceiues his Youth as
+the season of his Lust, and
+the Houre wherein hee
+ought to bee bad: and be|cause
+he would not lose his
+time, spends it. He distasts
+Religion as a sad thing, and
+is sixe yeeres elder for a
+thought of Heauen. Hee
+scornes and feares, and yet
+hopes for old age, but dare
+not imagine it with wrin|cles.
+Hee loues and hates
+with the same inflamation:
+and when the heate is ouer
+is coole alike to friends and
+enemies. His friendship is
+seldome so stedfast but that
+<PB REF="63">
+lust, drinke, or anger may
+ouerturne it. He offers you
+his blood to day in kind|nesse,
+and is readie to take
+yours to morrow. He do's
+seldome any thing which
+hee wishes not to doe a|gaine,
+and is onely wise af|ter
+a misfortune. Hee suf|fers
+much for his know|ledge,
+and a great deale of
+folly it is makes him a wise
+man. Hee is free from ma|nie
+Vices, by being not
+grown to the performance,
+and is onely more vertu|ous
+out of weaknesse. E|uerie
+action is his danger,
+and euery man his ambush.
+Hee is a Shippe without
+Pilot or Tackling, and on|ly
+<PB REF="64">
+good fortune may steere
+him. If he scape this age,
+hee ha's scap't a Tempest,
+and may liue to be a Man.</P>
+</DIV2>
+<DIV2 N="30" TYPE="part">
+<HEAD>32. The common singing-men
+in Cathedrall
+Churches.</HEAD>
+<P>ARe a bad Society, and
+yet a Company of
+good Fellowes, that roare
+deep in the Quire, deeper
+in the Tauerne. They are
+the eight parts of speech
+which goe to the Syntaxis
+of Seruice, and are distin|guish't
+by their noyses
+much like Bels, for they
+<PB REF="64">
+make not a Consort but a
+Peale. Their pastime or
+recreation is prayers, their
+exrecise drinking, yet here|in
+so religiously addicted
+that they serue God oft|est
+when they are drunke.
+Their humanity is a legge
+to the Residencer, their
+learning a Chapter, for
+they learne it commonly
+before they read it, yet the
+old Hebrew names are lit|tle
+beholding to them, for
+they mis-call them worse
+then one another. Though
+they neuer expound the
+Scripture, they handle it
+much, and pollute the Gos|pel
+with two things, their
+Conuersation, and their
+<PB REF="65">
+thumbes. Vpon Worky-dayes
+they behaue them|selues
+at Prayers as at their
+Pots, for they swallow
+them downe in an instant.
+Their Gownes are lac'd
+co~monly with streamings
+of Ale, the superfluites of
+cups, or throat aboue mea|sure.
+Their skill in melo|dy
+makes them the better
+companions abroad, and
+their Anthemes abler to
+sing Catches. Long-liu'd
+for the most part they are
+not, especially the base,
+they ouer-flow their banke
+so oft to drowne the Or|gans.
+Briefly, if they escape
+arresting, they dye con|stantly
+in Gods Seruice;
+<PB REF="65">
+and to take their death
+with more patience, they
+haue Wine and Cakes at
+their Funerall: and now
+they keepe the Church a
+great deale better, and
+helpe to fill it with their
+bones as before with their
+noise.</P>
+</DIV2>
+<DIV2 N="31" TYPE="part">
+<HEAD>33. A Pretender to
+Learning.</HEAD>
+<P>IS one that would make
+others more fooles then
+himselfe; for though hee
+know nothing, he would
+not haue the world know
+so much. He conceits no|thing
+<PB REF="66">
+in Learning but the
+opinion, which he seekes
+to purchase without it,
+though hee might with
+lesse labour cure is igno|rance,
+then hide it. He is
+indeed a kind of Scholler-Mountebank,
+and his Art,
+our delusion. He is trickt
+out in all the accoutre|ments
+of Learning, and at
+the first encounter none
+passes better. He is oftner
+in his study, then at his
+Booke, and you cannot
+pleasure him better, then
+to deprehend him. Yet he
+heares you not til the third
+knocke, and then comes
+out very angry, as inter|rupted.
+You find him in
+<PB REF="66">
+his Slippers, and a Pen in
+his eare, in which formali|ty
+he was asleep. His Table
+is spred wide with some
+Classicke Folio, which is as
+constant to it as the carpet,
+and hath laid open in the
+same Page this halfe yeare.
+His Candle is alwayes a
+longer sitter vp then him|selfe,
+and the boast of
+his Window at Midnight.
+He walkes much alone in
+the Posture of Meditati|on,
+and ha's a Booke
+still before his face in the
+fields. His pocket is sel|dome
+without a Greeke
+Testament, or Hebrew Bi|ble,
+which hee opens on|ly
+in the Church, and that
+<PB REF="67">
+when some stander by
+lookes ouer. He has his sen|tences
+for Company, some
+scatterings of <HI>Seneca</HI> and
+<HI>Tacitus,</HI> which are good
+vpon all occasions. If hee
+read any thing in the mor|ning,
+it comes vp all at
+dinner: and as long as that
+lasts, the discourse is his.
+He is a great <HI>Plagiarie</HI> of
+Tauerne-wit: and comes
+to Sermons onely that he
+may talke of <HI>Austin.</HI> His
+Parcels are the meere scra|pings
+fro~ Company, yet he
+complains at parting what
+time he has lost. He is won|drously
+capricious to seem
+a iudgement, and listens
+with a soure attention, to
+<PB REF="67">
+what he vnderstands not:
+He talkes much of <HI>Scali|ger</HI>
+and <HI>Causabone,</HI> and the
+Iesuites, and prefers some
+vnheard-of Dutch name
+before them all. He has ver|ses
+to bring in vpon these
+and these hints, and it shall
+goe hard but he will wind
+in his opportunity. He is
+criticall in a language hee
+cannot conster, and speaks
+seldome vnder <HI>Armini|us</HI>
+in Diuinity. His busi|nesse
+and retirement and
+caller away is his Study,
+and he protests no delight
+to it comparable. Hee is
+a great Nomen-clator of
+Authors, which hee has
+read in generall in the Ca|talogue,
+<PB REF="68">
+and in particular
+in the Title, and goes sel|dome
+so farre as the De|dication.
+Hee neuer talkes
+of any thing, but learning,
+and learnes all from tal|king.
+Three incounters
+with the same men pumpe
+him, and then hee onely
+puts in, or grauely sayes no
+thing. He has taken paines
+to be an Asse, though not
+to be a Scholler, and is
+at length discouered and
+laught at.</P>
+</DIV2>
+<DIV2 N="32" TYPE="part">
+<HEAD>34. A Shop-keeper.</HEAD>
+<P>HIs Shop is his wel stuft
+Booke, and himselfe
+<PB REF="68">
+the Title-page of it, or In|dex.
+Hee vtters much to
+all men, though he sels but
+to a few, and intreates for
+his owne necessities by
+asking others what they
+lacke. No man speakes
+more and no more, for his
+words are like his Wares,
+twentie of one sort, and he
+goes ouer them alike to all
+commers. He is an arro|gant
+commender of his
+owne things; for what|soeuer
+hee shewes you, is
+the best in the Towne,
+though the worst in his
+Shop. His Conscience was
+a thing, that would haue
+layde vpon his hands, and
+he was forc't to put it off:
+<PB REF="69">
+and makes great vse of
+honestie to professe vpon.
+Hee tels you lyes by rote,
+and not minding, as the
+Phrase to sell in, and the
+Language hee spent most
+of his yeeres to learne. He
+neuer speakes so truely, as
+when hee sayes hee would
+vse you as his Brother, for
+hee would abuse his Bro|ther;
+&amp; in his Shop, thinkes
+it lawfull. His Religion is
+much in the nature of his
+Customers, and indeed the
+Pander to it: and by a mis|interpreted
+sense of Scrip|ture
+makes a gaine of his
+Godlinesse. Hee is your
+slaue while you pay him
+ready Money, but if hee
+<PB REF="69">
+once be-friend you, your
+Tyrant, and you had bet|ter
+deserue his hate then
+his trust.</P>
+</DIV2>
+<DIV2 N="33" TYPE="part">
+<HEAD>35. A handsome
+Hostesse.</HEAD>
+<P>IS the fairer commenda|tion
+of an Inne, aboue
+the faire Signe or faire
+Lodgings. She is the Load|stone
+that attracts men of
+Iron, Gallants and Roa|rers,
+where they cleaue
+sometimes long, and are
+not easily got off. Her
+Lips are your wel-come,
+and your entertainement
+<PB REF="70">
+her companie, which is put
+into the reckoning too, and
+is the dearest parcell in it&punc;
+No Citizens wife is demu|rer
+then shee at the first
+greeting, nor drawes in her
+mouth with a chaster sim|per,
+but you may be more
+familiar without distaste,
+and shee do's not startle
+at Baudrie. She is the con|fusion
+of a Pottle of Sacke
+more then would haue
+beene spent els-where, and
+her little Iugs are accepted,
+to haue her Kisse excuse
+them. Shee may be an ho|nest
+woman, but is not be|leeu'd
+so in her Parish, and
+no man is a greater In fidel
+in it then her Husband.</P>
+</DIV2>
+<DIV2 N="34" TYPE="part">
+<PB REF="70">
+<HEAD>36. A Blunt Man.</HEAD>
+<P>IS one whose wit is bet|ter
+pointed then his be|hauiour,
+and that course,
+and Impollisht not out of
+ignorance so much as hu|mour.
+He is a great enemy
+to the fine Gentleman, and
+these things of Comple|ment,
+and hates ceremonie
+in conuersation, as the Pu|ritan
+in Religion. Hee di|stinguishes
+not betwixt
+faire and double-dealing,
+and suspects all smooth|nesse
+for the dresse of kna|uerie.
+Hee starts at the en|counter
+of a Salutation, as
+an assault, and beseeches
+<PB REF="71">
+you in choller to forbeare
+your courtesie. Hee loues
+not any thing in Discourse
+that comes before the pur|pose,
+and is alwaies suspici|ous
+of a Preface. Himselfe
+fals rudely still on his mat|ter
+without any circum|stance,
+except hee vse an
+old Prouerbe for an Intro|duction.
+He sweares olde
+out of date innocent othes,
+as by the Masse, by our
+Ladie, and such like; and
+though there bee Lords
+present, hee cryes my Ma|sters.
+Hee is exceedingly
+in loue with his Humour,
+which makes him alwayes
+professe and proclaime it,
+and you must take what he
+<PB REF="71">
+sayes patiently, because he
+is a plaine man. His nature
+is his excuse still and other
+mens Tyrant for hee must
+speake his mind, and that
+is his worst, and craues
+your perdon most iniuri|ously
+for not Pardoning
+you. His Iests best become
+him, because they come
+from him rudely and vnaf|fected:
+and hee has the
+lucke commonly to haue
+them famous. Hee is one
+that will doe more then he
+will speake, and yet speake
+more then hee will heare:
+for though hee loue to
+touch others, hee is teachy
+himselfe, and seldome to
+his own abuses replyes but
+<PB REF="72">
+with his Fists. Hee is as
+squeazie of his commenda|tions
+as his courtesie, and
+his good word is like an E|logie
+in a Satyre. Hee is
+generally better fauour'd
+then hee fauours, as be|ing
+commonly well ex|pounded
+in his bitternesse,
+and no man speaks treason
+more securely. Hee chides
+great men with most bold|nesse,
+and is counted for it
+an honest fellow. Hee is
+grumbling much in the
+behalfe of the Common-wealth,
+and is in Prison
+oft for it with credit. Hee
+is generally honest, but
+more generally thought
+so, and his downe-right|nesse
+<PB REF="72">
+credits him, as a man
+not wel bended and crook|ned
+to the times. In con|clusion,
+hee is not easily
+bad, in whom this quali|tie
+is Nature, but the coun|terfeit
+is most dangerous
+since he is disguis'd in a hu|mour,
+that professes not
+to disguise.</P>
+</DIV2>
+<DIV2 N="35" TYPE="part">
+<HEAD>37. A Criticke.</HEAD>
+<P>IS one that has speld o|uer
+a great many of
+Bookes, and his obserua|tion
+is the Orthographie.
+Hee is the Surgeon of old
+Authors, and heales the
+<PB REF="73">
+wounds of dust and igno|rance.
+He conuerses much
+in fragments and <HI>Desunt
+multa's,</HI> and if he piece it vp
+with two Lines, he is more
+proud of that Booke then
+the Authour. Hee runnes
+ouer all Sciences to peruse
+their Syntaxis, and thinkes
+all Learning compris'd in
+writing Latine. Hee tastes
+Styles, as some discreeter
+Palats doe Wine; and tels
+you which is Genuine,
+which Sophisticate and ba|stard.
+His owne Phrase is
+a Miscellanie of old words,
+deceas'd long before the
+<HI>Caesars,</HI> and entoomb'd by
+<HI>Varro,</HI> and the modern'st
+man hee followes is <HI>Plau|tus.</HI>
+<PB REF="73">
+Hee writes <HI>Omneis</HI> at
+length, and <HI>quidquid,</HI> and
+his Gerund is most incon|formable.
+Hee is a trou|ble
+troublesome vexer of
+the dead, which after so
+long sparing must rise vp
+to the Iudgement of his
+castigations. He is one that
+makes all Bookes sell dea|rer,
+whilst he swels them
+into Folio's with his Com|ments.</P>
+</DIV2>
+<DIV2 N="36" TYPE="part">
+<PB REF="74">
+<HEAD>38. A Sergeant or
+Catch-pole.</HEAD>
+<P>IS one of Gods Iudge|ment;
+and which our
+Roarers doe onely con|ceiue
+terrible. Hee is the
+properest shape wherein
+they fancie Satan; for hee
+is at most but an Arrester,
+and Hell a Dungeon. Hee
+is the Creditors Hawke,
+wherewith they seaze vp|on
+flying Birds, and fetch
+them againe in his Tallons.
+He is the Period of young
+Gentlemen, or their full
+stop, for when hee meetes
+with them they can goe no
+farther. His Ambush is a
+<PB REF="74">
+Shop-Stall, or close Lane,
+and his Assault is coward|ly
+at your backe. Hee re|spites
+you in no place but
+a Tauerne, where hee sels
+his Minutes dearer then a
+Clocke-maker. The com|mon
+way to runne from
+him, is through him,
+which is often attempted
+and atchieued, and no man
+is ofter beaten out of Cha|titie.
+Hee is one makes the
+streete more dangerous
+then the High-wayes, and
+men goe better prouided
+in their walkes then their
+Iourney. Hee is the first
+handsell of the young Ra|piers
+of the Templers, and
+they are as proud of his
+<PB REF="75">
+repulse, as an Hungarian
+of killing a Turke. He is a
+moueable Prison, and his
+hands two Manacles hard
+to be fil'd off. He is an occa|sioner
+of di<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">loyal thoughts
+in the Common-wealth,
+for he makes men hate the
+Kings Name worse then
+the Deuils.</P>
+</DIV2>
+<DIV2 N="37" TYPE="part">
+<HEAD>37. A weake Man.</HEAD>
+<P>IS one whom Nature
+huddled vp in hast, and
+left his best part vnfinish't.
+The rest of him is growne
+to bee a man, onely his
+braine stayes behind. Hee
+<PB REF="75">
+is a man that ha's not im|proou'd
+his first rudi|ments,
+nor attain'd any
+proficiencie by his stay in
+the world: but wee may
+speake of him yet as when
+hee was in the budde a
+good harmelesse nature, a
+well meaning mind, if hee
+could order his intentions.
+It is his misery that hee
+now most wants a Tutor,
+and is too old to haue one.
+Hee is two steps aboue a
+foole, and a great many mo
+below a wise-man: yet the
+foole is oft giuen him, and
+by those whom he esteems
+most. Some tokens of him
+are. He loues men better
+vpon relation then experi|ence:
+<PB REF="76">
+for he is exceeding|ly
+enamour'd of Strangers,
+and none quicklier a weary
+of his friend. Hee charges
+you at first meeting with
+all his secrets, and on bet|ter
+acquaintance growes
+more reseru'd. Indeed he
+is one that mistakes much
+his abusers for friends, and
+his friends for enemies,
+and hee apprehends your
+hate in nothing so much,
+as in good counsell. One
+that is flexible with any
+thing but reason, and then
+only peruerse; &amp; you may
+better intice then perswade
+him. A seruant to euery tale
+and flatterer, &amp; whom the
+last man still works ouer. A
+<PB REF="76">
+great affecter of wits and
+such pretinesses; and his
+company is costly to him,
+for he seldom ha's it but in|uited.
+His friendship com|monly
+is begun in a supper
+and lost in lending money.
+The Tanerne is a dange|rous
+place to him, for to
+drinke and to be drunke, is
+with him all one, and his
+braine is sooner quenchd
+then his thirst. He is drawn
+into naughtines with com|pany,
+but suffers alone,
+and the Bastard common|ly
+laid to his charge. One
+that will bee patiently a|bus'd,
+and take excepti|ons
+a Moneth after when
+he vnderstands it, and then
+<PB REF="77">
+not endeare him more
+then by coozening him,
+and it is a temptation to
+those that would not. One
+discouerable in all sillines|ses
+to all men but himselfe,
+&amp; you may take any mans
+knowledge of him better
+then his owne. Hee will
+promise the same thing to
+twentie, and rather then
+denie one breake with all.
+One that ha's no power
+o're himselfe, o're his busi|nesse,
+o're his friends: but
+a prey and pitie to all: and
+if his fortunes once sinke,
+men quickly crie alas, and
+forget him.</P>
+</DIV2>
+<DIV2 N="38" TYPE="part">
+<PB REF="77">
+<HEAD>40. A Tobacco-seller.</HEAD>
+<P>IS the onely man that
+finds good in it which o|thers
+brag of, but doe not;
+for it is meate, drinke, and
+clothes to him. No man o|pens
+his ware with greater
+seriousnesse, or challenges
+your iudgement more in
+the approbation. His Shop
+is the Randeuous of spit|ting,
+where men dialogue
+with their noses, and their
+communication is smoke.
+It is the place onely where
+Spaine is commended and
+prefer'd before England it
+selfe. He should be well ex|perienc'd
+in the world: for
+<PB REF="78">
+he ha's daily tryall of mens
+nostrils, and none is bet|ter
+acquainted with hu|mors.
+Hee is the piecing
+commonly of some other
+trade, which is bawd to
+his Tobacco, and that to
+his wife, which is the flame
+that followes this smoke.</P>
+</DIV2>
+<DIV2 N="39" TYPE="part">
+<HEAD>41. A plausible Man.</HEAD>
+<P>IS one that would faine
+run an eeuen path in the
+world, and iutt against no
+man. His endeuour is not
+to offend, and his ayme the
+generall opinion. His con|uersation
+is a kind of con|tinued
+<PB REF="78">
+Complement, and
+his life a practise of man|ners.
+The relation hee
+beares to others, a kind of
+fashionable respect, not
+friendship, but friendlines,
+which is equall to all and
+<GAP DESC="illegible" RESP="tech" EXTENT="1 span"> and his kindnes|ses
+seldome exceed courte|sies.
+Hee loues not deep|er
+mutualities, because hee
+would not take sides, nor
+hazard himselfe on dis|pleasures,
+which he prin|cipally
+auoids. At your
+first acquaintance with him
+he is exceeding kind and
+friendly, and at your twen|tieth
+meeting after but
+friendly still. He has an ex|cellent
+command ouer his
+<PB REF="79">
+patience and tongue, espe|cially
+the last, which hee
+accommodates alwayes to
+the times and persons, and
+speakes seldome what is
+sincere, but what is ciuill.
+He is one that vses al com|panies,
+drinkes all healths,
+and is reasonable coole in
+all Religions. He can listen
+to a foolish discourse with
+an applausiue attention,
+and conceale his Laughter
+at Non-sense. Silly men
+much honour and esteeme
+him, because by his faire
+reasoning with them as
+with men of vnderstan|ding,
+he puts them into an
+erroneous opinion of them
+selues, and makes them
+<PB REF="79">
+forwarder heereafter to
+their owne discouerie. He
+is one rather well thought
+on then belou'd, and that
+loue hee ha's is more of
+whole companies together
+then any one in particular.
+Men gratifie him notwith|standing
+with a good re|port,
+and what euer vi|ces
+he ha's besides, yet ha|uing
+no enemies, he is sure
+to be an honest fellow.</P>
+</DIV2>
+<DIV2 N="40" TYPE="part">
+<PB REF="80">
+<HEAD>42. The Worlds wise
+Man.</HEAD>
+<P>IS an able and suffici|ent
+wicked man, it is a
+proofe of his sufficiency
+that hee is not called wic|ked,
+but wise. A man wholy
+determin'd in himselfe and
+his owne ends, and his in|struments
+herein any thing
+that will doe it. His friends
+are a part of his engines,
+and as they serue this
+worke, vs'd or laid by. In|deed
+hee knowes not this
+thing of friend, but if hee
+giue you the name, it is a
+signe he ha's a plot on you.
+Neuer more actiue in his
+<PB REF="80">
+businesses, then when they
+are mixt with some harme
+to others: and tis his best
+play in this Game to strike
+off and lie in the place. Suc|sessfull
+commonly in these
+vndertakings, because he
+passes smoothly those rubs
+which others stumble at,
+as Conscience and the
+like: and gratulates him|selfe
+much in this aduan|tage:
+Oathes and falshood
+he counts the neerest way,
+and loues not by any
+meanes to goe about. Hee
+has many fine quips at this
+folly of plaine dealing, but
+his tush is greatest at Reli|gion,
+yet hee vses this
+too, and Vertue, and good
+<PB REF="81">
+Words, but is lesse dange|rously
+a Diuel then a Saint.
+He ascribes all honestie to
+an vnpractis'dnesse in the
+World: and Conscience a
+thing meerely for Chil|dren.
+Hee scornes all that
+are so silly to trust him, and
+onely not scornes his ene|mie;
+especially if as bad as
+himselfe: He feares him as
+a man well arm'd, and pro|uided,
+but sets boldly on
+good natures, as the most
+vanquishable. One that se|riously
+admires those worst
+Princes, as <HI>Sforza, Borgia,</HI>
+and <HI>Richard</HI> the Third: and
+cals matters of deepe villa|ny
+things of difficultie. To
+whom murders are but re|solute
+<PB REF="81">
+Acts, and Treason a
+businesse of great conse|quence.
+One whom two
+or three Countries make
+vp to this compleatnesse,
+and he ha's traueld for the
+purpose. His deepest in|dearment
+is a communica|tion
+of mischiefe, and then
+onely you haue him fast.
+His conclusion is com|monly
+one of these two,
+either a Great Man, or
+hang'd.</P>
+</DIV2>
+<DIV2 N="41" TYPE="part">
+<PB REF="82">
+<HEAD>43. A Bowle Alley.</HEAD>
+<P>IS the place where there
+are three things throwne
+away beside Bowls, to wit,
+time, money and curses,
+and the last ten for one.
+The best Sport in it is the
+Gamesters, and he enioyes
+it that lookes on and bets
+not. It is the Schoole of
+wrangling, and worse then
+the Schooles, for men will
+cauill heere for an haires
+breadth, and make a stirre
+where a straw would end
+the controuersie. No An|ticke,
+screwes mens bodies
+into such strange flexures,
+and you would think them
+<PB REF="82">
+senslesse, to speak sense to
+to their Bowle, and put
+their trust in intreaties for a
+good cast. The Betters are
+the factious noise of the Al|ley,
+or the gamesters beads|men
+that pray for them.
+They are somewhat like
+those that are cheated by
+great Men, for they lose
+their mony &amp; must say no|thing.
+It is the best discoue|ry
+of humors, especially in
+the losers, where you haue
+fine variety of impatience,
+whilst some fret, some raile,
+some sweare, and others
+more ridiculously comfort
+themselues with Philoso|phy.
+To giue you the Mo|rall
+of it; It is the Em<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">leme
+<PB REF="83">
+of the world, or the worlds
+ambition: where most are
+short, or ouer, or wide or
+wrong-Byas'r, and some
+few iustle in to the Mistris
+Fortune. And it is here as
+in the Court, where the
+nearest are most spighted,
+and all blowes aym'd at
+the Toucher.</P>
+</DIV2>
+<DIV2 N="42" TYPE="part">
+<HEAD>44. A Surgeon.</HEAD>
+<P>IS one that has some bu|sinesse
+about his Buil|ding
+or little house of man,
+whereof Nature is as it
+were the Tyler, and hee
+the Playsterer. It is ofter
+<PB REF="83">
+out of reparations, then an
+old Parsonage, and then
+he is set on worke to patch
+it againe. Hee deales most
+with broken Commodi|ties,
+as a broken Head, or
+a mangled face, and his
+gaines are very ill got, for
+he liues by the hurts of the
+Common-wealth. He dif|fers
+from a Physitian as a
+sore do's from a disease, or
+the sicke from those that
+are not whole, the one dis|tempers
+you within, the
+other blisters you without.
+He complaines of the de|cay
+of Valour in these
+daies, and sighes for that
+slashing Age of Sword and
+Buckler; and thinkes the
+<PB REF="84">
+Law against Duels, was
+made meerly to wound his
+Vocation. Hee had beene
+long since vndone, if the
+charitie of the Stewes had
+not relieued him, from
+whom he ha's his Tribute
+as duely as the Pope, or a
+wind-fall sometimes from
+a Tauerne, if a quart Pot
+hit right. The rarenesse of
+his custome maks him pit|tilesse
+when it comes: and
+he holds a Patient longer
+then our Courts a Cause.
+Hee tels you what danger
+you had beene in if he had
+staide but a minute longer,
+and though it bee but a
+prickt finger, hee makes of
+it much matter. He is a rea|reasonable
+<PB REF="84">
+cleanely man,
+considering the Scabs hee
+ha's to deale with, &amp; your
+finest Ladies now and then
+are beholding to him for
+their best dressings. Hee
+curses old Gentlewomen,
+and their charity that maks
+his Trade their Almes: but
+his enuie is neuer stir'd so
+much as when Gentlemen
+goe ouer to sight vpon Ca|lice
+Sands, whome hee
+wishes drown'd ere they
+come there, rather then the
+French shall get his Cu|stome.</P>
+</DIV2>
+<DIV2 N="43" TYPE="part">
+<PB REF="85">
+<HEAD>45. A Shee-precise.
+Hypocrite.</HEAD>
+<P>IS one in whom good
+Women suffer, and haue
+their truth mis-interpreted
+by her folly.</P>
+<P>She is one, she knows not
+what her selfe if you aske
+her, but shee is indeed one
+that ha's taken a toy at the
+fashion of Religion, and is
+enamour'd of the New|fangle.
+See is a Non|conformist
+in a close Sto|macher
+and Ruffe of Ge|neua
+Print, and her puritie
+consists much in her Lin|nen.
+Shee ha's heard of the
+Rag of Rome, and thinkes
+<PB REF="85">
+it a very sluttish Religion,
+and rayles at the Whore
+of Babylon for a very
+naughty Woman. Shee
+ha's left her Virginity as a
+Relique of Popery, and
+marries in her Tribe with|out
+a Ring. Her deuotion
+at the Church is much in
+the turning vp of her eye,
+and turning downe the
+lease in her Booke when
+shee heares nam'd Chap|ter
+and Verse. When she
+comes home, shee com|mends
+the Sermon for the
+Scripture, and two houres.
+She loues Preaching bet|ter
+then Praying, and of
+Preachers Lecturers, and
+thinkes the Weeke-dayes
+<PB REF="86">
+Exercise farre more edify|ing
+then the Sundaies. Her
+oftest Gossippings are Sa|baoth-dayes
+iourneyes,
+where (though an ene|my
+to Superstition) shee
+will goe in Pilgrimage fiue
+mile to a silenc'd Mini|ster,
+when there is a bet|ter
+Sermon in her owne
+Parish. Shee doubts of
+the Virgin Marie's Salua|tion,
+and dare not Saint
+her, but knowes her own
+place in heauen as per|fectly,
+as the Pew shee
+ha's a key to. Shee is so
+taken vp with Faith, shee
+ha's no roome for Chari|ty,
+and vnderstands no
+good Workes, but what
+<PB REF="86">
+are wrought on the Sam|pler.
+She accounts no|thing
+Vices but Supersti|tion,
+and an Oath, and
+thinkes Adultery a lesse
+sinne, then to sweare by
+my Truely. Shee rayles
+at other Women by the
+names of <HI>Iezabel</HI> and <HI>Da|lilah:</HI>
+and calls her owne
+daughters <HI>Rebecka</HI> and <HI>A|bigail,</HI>
+and not <HI>Anne</HI> but
+<HI>Hannah.</HI> She suffers them
+not to learne on the Virgi|nalls,
+because of their affi|nity
+with the Organs, but
+is reconcil'd to the Bells
+for the Chymes sake, since
+they were reform'd to the
+tune of a Psalme. She ouer
+flowes so with the Bible,
+<PB REF="87">
+that she spils it vpon euery
+occasion, and wil not Cud|gell
+her Maides without
+Scripture. It is a question
+whether shee is more trou|bled
+with the Diuell or the
+Diuell with her: shee is al|wayes
+challenging and da|ring
+him, and her weapons
+are Spels no lesse potent
+then different, as being the
+sage Sentences of some of
+her owne Sectaries. No
+thing angers her so much
+as that Woemen cannot
+Preach, and in this point
+onely thinkes the Brownist
+erroneous: but what shee
+cannot at the Church, shee
+do's at the Table, where
+she prattles more then any
+<PB REF="87">
+against sense, and Anti|christ,
+till a Capon wing
+silence her. Shee expounds
+the Priests of <HI>Baal</HI> Reading
+Ministers, and thinkes the
+Saluation of that Parish as
+desperate as the Turkes.
+Shee is a maine derider to
+her capacitie of those that
+are not her Preachers, and
+censures all Sermons but
+bad ones. If her Husband
+be a Tradsman, shee helpes
+him to Customers, how so|euer
+to good cheere, and
+they are a most faithfull
+couple at these meetings,
+for they neuer faile. Her
+Conscience is like others
+Lust neuer satisfied, and
+you might better answere
+<PB REF="88">
+<HI>Scotus</HI> then her Scruples.
+Shee is one that thinkes
+shee performes all her du|ty
+to God in hearing, and
+shewes the fruits of it in
+talking. Shee is more fiery
+against the May-pole then
+her Husband, and thinkes
+he might doe a Phinehas
+his act to break the pate of
+the Fiddler. She is an euer|lasting
+Argument; but I
+am weary of her.</P>
+</DIV2>
+<DIV2 N="44" TYPE="part">
+<PB REF="88">
+<HEAD>46. A Contemplatiue
+Man.</HEAD>
+<P>IS a Scholler in this great
+Vniuersity the World;
+and the same his Booke
+and Study. Hee cloysters
+not his Meditations in
+the narrow darknesse of a
+Roome, but sends them
+abroad with his Eyes, and
+his Braine trauels with his
+Feete. He looks vpon Man
+from a high Tower, and
+sees him trulyer at this
+distance in his Infirmities
+and poorenesse. He scornes
+to mixe himselfe in mens a|ctions;
+as he would to act
+vpon a Stage; but sits a|loft
+<PB REF="89">
+on the Scaffold a cen|suring
+Spectator. Nature
+admits him as a partaker
+of her Sports, and asks his
+approbation as it were of
+her owne Workes, and va|riety.
+Hee comes not in
+Company, because hee
+would not be solitary, but
+findes Discourse enough
+with himselfe, and his
+owne thoughts are his ex|cellent
+play-fellowes. He
+lookes not vpon a thing as
+a yawning Stranger at no|uelties;
+but his search is
+more mysterious and in|ward,
+and hee spels Hea|uen
+out of earth. He knits
+his obseruations together,
+and makes a Ladder of
+<PB REF="89">
+them all to climbe to
+God. He is free from vice,
+because he has no occasion
+to imploy it, and is aboue
+those ends that make men
+wicked. He ha's learnt all
+can heere be taught him,
+and comes now to Hea|uen
+to see more.</P>
+</DIV2>
+<DIV2 N="45" TYPE="part">
+<HEAD>47. An Aturney.</HEAD>
+<P>HIs Ancient beginning
+was a blue coat, since
+a liuery, and his hatching
+vnder a Lawer; whence
+though but pen-feather'd,
+hee hath now nested for
+himselfe, and with his hor|ded
+<PB REF="90">
+pence purchast an Of|fice.
+Two Deskes, and a
+quire of Pader set him vp,
+where he now sits in state
+for all commers. We can-call
+him no great Anthor,
+yet he writes very much,
+and with the infamy of
+the Court is maintain'd in
+his libels. Hee ha's some
+smatch of a Scholler, and
+yet vses Latine very hard|ly,
+and le<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">t it should accuse
+him, cuts it off in the midst,
+and will not let it speake,
+out. He is contrary to great
+men, maintained by his
+followers, that is his poore
+country Clients, that wor|ship
+him more then their
+Landlord, and be there ne|uer
+<PB REF="90">
+such churles, he lookes
+for their curtesie. He first
+racks them soundly him|selfe,
+and then deliuers
+them to the Lawier for ex|ecution.
+His looks are very
+solicitous importing much
+hast and dispatch, he is ne|uer
+without his hanfull
+of businesse, that is, of pa|per.
+His skin becomes at
+last as dry as his parch|ment
+and his face as intri|cate
+as the most winding
+cause. He talkes Statutes as
+fiercely, as if he had moo|ted
+seuen yeers in the Inns
+of Court; when all his skill
+is stucke in his girdle, or
+in his office window. Strife
+and wrangling haue made
+<PB REF="91">
+him rich, and he is thank|full
+to his benefactor, and
+nourishes it. If he liue in a
+Country village, he makes
+all his neighbours good
+Subiects; for there shall
+be nothing done but what
+there is law for. His bu|sinesse
+giues him not leaue
+to thinke of his consci|ence,
+and when the time,
+or terme of his life is go|ing
+out, for Doomes-day
+he is secure; for he hopes
+he has a tricke to reuerse
+iudgement.</P>
+</DIV2>
+<DIV2 N="46" TYPE="part">
+<PB REF="91">
+<HEAD>48. A Scepticke in
+Religion.</HEAD>
+<P>IS one that hangs in the
+ballance with all sorts of
+opinions, whereof not one
+but stirres him and none
+swayes him. A man guilti|er
+of credulity then he is ta|ken
+to bee; for it is out
+of his beleefe of euery
+thing, that hee fully be|leeues
+nothing. Each Re|ligion
+scarres him from
+it's contrary: none per|swades
+him to it selfe. Hee
+would be wholy a Chri|stian,
+but that he is some|thing
+of an Atheist, and
+wholy an Atheist, but that
+<PB REF="92">
+hee is partly a Christian;
+and a perfect Heretick, but
+that there are so many to
+distract him. He finds rea|son
+in all opinions, truth in
+none: indeed the least rea|son
+perplexes him, and the
+best will not satisfie him.
+He is at most a confus'd
+and wild Christian, not
+specializ'd, by any forme,
+but capable of all. He vses
+the Lands Religion, be|cause
+it is next him, yet he
+sees not why hee may not
+take the other, but he chu|ses
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">his, not as better, but
+because there is not a pin
+to choose. He finds doubts
+and sernples better then
+resolues them, and is al|wayes
+<PB REF="92">
+too hard for him|selfe.
+His Learning is too
+much for his brayne; and
+his iudgment too little for
+his learning, and his ouer|opinion
+of both spoyls all
+Pity it was his mischance
+of being a Scholler; for it
+do's only distract and irre|gulate
+him &amp; the world by
+him. He hammers much in
+generall vpon our opini|ons
+vncertainety, and the
+possibility of erring makes
+him not venture on what is
+true. He is troubled at this
+naturalnesse of Religion to
+Countries, that Protestan|tisme
+should bee borne so
+in England and Popery a|broad,
+and that fortune
+<PB REF="93">
+and the Starres should so
+much share in it. He likes
+not this connexion of the
+Common-weale, and Di|uinity,
+and feares it may be
+an Arch-practice of State.
+In our differences with
+Rome he is strangely vn|fix't,
+and a new man euery
+new day, as his last dis|course-books
+Meditations
+transport him. Hee could
+like the gray haires of Po|perie,
+did not some dota|ges
+there stagger him; hee
+would come to vs sooner,
+but our new name affrights
+him. He is taken with their
+Miracles but doubts an im|posture;
+hee conceiues of
+our Doctrine better; but it
+<PB REF="93">
+seemes too empty and na|ked.
+He cannot driue into
+his fancy the circumscrip|tion
+of Truth to our cor|ner,
+and is as hardly per|swaded
+to thinke their old
+Legends true. He approues
+wel of our Faith, and more
+of their workes, and is
+sometimes much affected
+at the zeale of Amsterdam.
+His conscience interposes
+it selfe betwixt Duellers,
+and whillst it would part
+both, is by both wounded.
+He will somtimes propend
+much to vs vpon the rea|ding
+a good Writer, and
+at <HI>Bellarmine</HI> recoyles as
+farre backe againe; and
+the Fathers iustle him
+<PB REF="94">
+from one side to another
+Now <HI>Sosinaas</HI> and <HI>Vorstius</HI>
+afr<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">sh torture him, and he
+agrees with none worse
+then himselfe. He puts his
+foot into Heresies tenderly
+as a Cat in the water, and
+pulls it out againe, and
+still something vnanswer'd
+delayes him yet he beares
+away some parcell of each,
+and you may sooner picke
+all Religions out of him
+then one, He cannot thinke
+so many wise men should
+be in error, nor so many
+honest men out of the way
+and his wounder is du|bled,
+when he sees these
+oppose one annother. He
+hates authority as the Ty|rant
+<PB REF="94">
+of reason, and you
+cannot anger him worse
+then with a Fathers <HI>dixit,</HI>
+and yet that many are not
+perswaded with reason,
+shall authorize his doubt.
+In summe, his whole life is
+a question, and his saluati|on
+a greater, which death
+onely concludes, and then
+he is resolu'd.</P>
+</DIV2>
+<DIV2 N="47" TYPE="part">
+<HEAD>47. A Partiall Man.</HEAD>
+<P>IS the opposite extreame
+to a Defamer, for the
+one speakes ill falsly, and
+the other well, and both
+slander the Truth. He is
+<PB REF="95">
+one that is still weighing
+men in the Scale of Com|parisons,
+and puts his af|fection
+in the one ballance,
+and that swayes. His friend
+alwayes shall doe best, and
+you shall rarely heare good
+of his enemy. Hee con|siders
+first the man, and
+then the thing, and re|straines
+all merit to what
+they deserue of him. Com|mendations
+hee esteemes
+not the debt of Worth,
+but the requitall of kind|nesse:
+and if you aske his
+reason, shewes his Interest,
+and tels you how much he
+is beholding to that Man.
+Hee is one that ties his
+iudgement to the Wheele
+<PB REF="95">
+of Fortune, and they de|termine
+giddily both a|like.
+He preferres England
+before other Countries, be|cause
+he was borne there,
+and Oxford before other
+Vniuersities, because hee
+was brought vp there, and
+the best Scholler there, is
+one of his owne Colledge
+and the best Schooler there
+is one of his friends. Hee
+is a great fauourer of great
+persons, and his argument
+is still that which should
+bee Antecedent, as he is in
+high place, therefore ver|tuous,
+he is prefer'd, there|fore
+worthy. Neuer aske
+his opinion, for you shall
+heare but his faction, and
+<PB REF="96">
+he is indifferent in nothing
+but Conscience. Men e|steeme
+him for this a zea|lous
+affectionate, but they
+mistake him many times,
+for hee does it but to bee e|steemed
+so. Of all men hee
+is worst to write an Histo|rie,
+for hee will praise a
+<HI>Seianus</HI> or <HI>Tiberius,</HI> and
+for some pettie respect of
+his all posteritie shall bee
+cosen'd.</P>
+</DIV2>
+<DIV2 N="48" TYPE="part">
+<PB REF="96">
+<HEAD>50. A Trumpeter.</HEAD>
+<P>IS the Elephant with the
+great Trunke, for hee
+eates nothing but what
+comes through this way.
+His Profession is not so
+worthy as to occasion in|solence,
+and yet no man so
+much puft vp. His face is as
+Brazen as his Trumpet,
+and (which is worse) as a
+Fidlers, from whom hee
+differeth onely in this, that
+his impudence is dearer.
+The Sea of Drinke, and
+much wind make a Storme
+perpetually in his Cheeks,
+and his looke is like his
+noyse, blustering and tem|pestuous.
+<PB REF="97">
+Hee wa's whi|lome
+the sound of Warre,
+but now of Peace; yet as
+terrible as euer, for where|soere
+hee comes they are
+sure to pay for't. He is the
+common attendant of glit|tering
+folkes, whether in
+the Court or Stage, where
+he is alwaies the Prologues
+Prologue. He is somewhat
+in the nature of a Hogshed
+shrillest when he is empty;
+when his belly is full hee
+is quiet enough. No man
+proues life more to bee a
+blast, or himselfe a bubble,
+and he is like a counter|feit
+Bankrupt, thriues best
+when he is blowne vp.</P>
+</DIV2>
+<DIV2 N="49" TYPE="part">
+<PB REF="97">
+<HEAD>50. A vulgar-spirited
+Man.</HEAD>
+<P>IS one of the heard of
+World. One that fol|lowes
+meerely the com|mon
+crye, and makes it
+louder by one. A man that
+loues none but who are
+publikely affected, and he
+will not be wiser then the
+rest of the Towne. That
+neuer ownes a friend after
+an ill name, or some gene|rall
+imputation though he
+knowes it most vnworthy.
+That opposes to reason,
+Thus men say, and thus
+most doe, and thus the
+world goes, and thinkes
+<PB REF="98">
+this enough to poyse the
+other. That worships men
+in place, and those onely,
+and thinkes all a great man
+speakes Oracles. Much ta|ken
+with my Lords I<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">st,
+and repeats you it all to a
+sillable. One that iustifies
+nothing out of fashion, nor
+any opinion out of the ap|plauded
+way. That thinkes
+certainly all Spaniards and
+Iesuites very villaines, and
+is still cursing the Pope
+and <HI>Spynola.</HI> One that
+thinkes the grauest Cas|socke
+the best Scholler:
+and the best Clothes the fi|nest
+man. That is taken
+onely with broad and ob|scoene
+wit, and hisses any
+<PB REF="98">
+thing too deepe for him.
+That cries <HI>Chaucer</HI> for his
+Money aboue all our En|glish
+Poets, because the
+voice ha's gone so, and hee
+ha's read none. That is
+much rauisht with such
+a Noble-mans courtesie,
+and would venture his life
+for him, because he put off
+his Hat. One that is for|most
+still to kisse the Kings
+hand, and cries God <HI>blesse
+his Maiestie</HI> loudest. That
+rayles on all men con|demn'd
+and out of fa|uour,
+and the first that
+sayes away with the Tray|tors:
+yet struck with much
+ruth at Executions, and
+for pittie to see a man die,
+<PB REF="99">
+could kill the Hang-man.
+That comes to London
+to see it, and the pret|ty
+things in it, and the
+chiefe cause of his iour|ney
+the Beares: That
+measures the happinesse
+of the Kingdome, by the
+cheapnesse of corne; and
+conceiues no harme of
+State, but il trading. With|in
+this compasse too, come
+those that are too much
+wedg'd into the world, and
+haue no lifting thoughts
+aboue those things that
+call to thriue, to doe well,
+and Preferment onely the
+grace of God. That ayme
+all Studies at this marke,
+&amp; shew you poore Schol|lers
+<PB REF="99">
+as an example to take
+heed by. That thinke the
+Prison and want, a Iudge|ment
+for some sin, and ne|uer
+like well hereafter of
+a Iayle-bird. That know
+no other Content but
+wealth, brauery, and the
+Towne-Pleasures; that
+thinke all else but idle spe|culation,
+and the Philoso|phers,
+mad-men: In short,
+men that are carried a|way
+with all outwardnes|ses,
+shews, appearances, the
+streame, the people; for
+there is no man of worth
+but has a piece of singu|larity,
+and scornes some|thing.</P>
+</DIV2>
+<DIV2 N="50" TYPE="part">
+<PB REF="100">
+<HEAD>32. A Herald.</HEAD>
+<P>IS the spawne, or in|deed
+but the resultancie
+of Nobility, and to the
+making of him went not a
+Generation, but a Genea|logie.
+His Trade is Ho|nour,
+and hee sells it,
+and giues Armes himselfe,
+though hee be no Gen|tleman.
+His bribes are
+like those of a corrupt
+Iudge, for they are the
+prices of blood. He seemes
+very rich in discourse, for
+he tels you of whole fields
+of gold and siluer, Or
+&amp; Argent, worth much in
+French, but in English no|thing.
+<PB REF="100">
+He is a great diuer
+in the streames or issues of
+Gentrie, and not a by-Channell
+of bastard es|capes
+him, yet he dos with
+them like some shamelesse
+Queane, fathers more chil|dren
+on them, then euer
+they begot. His Trafficks
+is a kind of Pedlery ware,
+Scutchions, and Pennons
+and little Daggers, and Ly|ons,
+such as Children e|steeme
+and Gentlemen:
+but his peni-worths are
+rampant, for you may buy
+three whole Brawns chea|per,
+then three Boars heads
+of him painted. Hee was
+somtimes the terrible Coat
+of <HI>Mars,</HI> but is now for
+<PB REF="101">
+more mercifull Battels in
+the Tilt-yard, where who|soeuer
+is victorious, the
+spoiles are his. Hee is an
+Art in England, but in
+Wales Nature, where they
+are borne with Heraldry
+in their mouthes, and each
+Name is a Pedegree.</P>
+</DIV2>
+<DIV2 N="51" TYPE="part">
+<HEAD>52. A Plodding
+Student.</HEAD>
+<P>IS a kind of Alchymist or,
+Persecurer of Nature,
+that would change the dull
+lead of his Brain into finer
+mettle with successe, many
+times as vnprosperous, or
+<PB REF="101">
+at least not quitting the
+cost, to wit, of his owne
+Oyle and Candles. He ha's
+a strange forc't appetite to
+Learning, and to atchieue
+it brings nothing but pa|tience
+and a body. His Stu|die
+is not great but conti|nuall,
+and consists much in
+the sitting vp till after Mid|night
+in a Rug-gowne, and
+a Night-cap to the vanqui|shing
+perhaps of some sixe
+lines: yet what hee ha's, he
+ha's perfect, for he reads it
+so long to vnderstand it, till
+he gets it without Booke.
+Hee may with much indu|stry
+make a breach into
+Logicke, and ariue at some
+ability in an Argument:
+<PB REF="102">
+but for politer Studies hee
+dare not skirmish with
+them, and for Poetry ac|counts
+it impregnable. His
+Inuention is no more then
+the finding out of his Pa|pers,
+and his few gleanings
+there, and his disposition of
+them is as iust as the Book-binders,
+a setting or glew|ing
+of them together. Hee
+is a great discomforter of
+young Students, by telling
+them what trauell it ha's
+cost him, and how often
+his braine turn'd at Philo|sophy,
+and makes others
+feare Studying as a cause of
+Duncery. Hee is a man
+much giuen to Apothegms
+which serue him for wit,
+<PB REF="102">
+and seldome breakes any
+Iest, but which belong'd
+to some Lacedemonian or
+Romane in <HI>Lycosthenes.</HI> He
+is like a dull Cariers horse,
+that will go a whole weeke
+together but neuer out of
+a foot-pace: and hee that
+sets forth on the Saturday
+shall ouertake him.</P>
+</DIV2>
+<DIV2 N="52" TYPE="part">
+<HEAD>53. Pauls Walke.</HEAD>
+<P>IS the Lands Epitome,
+or you may call it the les|ser
+Ile of Great Brittaine.
+It is more then this, the
+whole worlds Map, which
+you may here discerne in
+<PB REF="103">
+it's perfect'st motion iust|ling
+and turning. It is a
+heape of stones and men,
+with a vast confusion of
+Languages, and were the
+Steeple not sanctifyed no|thing
+liker Babel. The
+noyse in it is like that of
+Bees, a strange humming
+or buzze, mixt of walking,
+tongues, and feet: It is a
+kind of still roare or loud
+whisper. It is the great Ex|change
+of all discourse, &amp;
+no busines whatsoeuer but
+is here stirring and a foot.
+It is the Synod of all pates
+politicke, ioynted and laid
+together in most serious
+posture, and they are not
+halfe so busie at the Par|liament.
+<PB REF="103">
+It is the Anticke
+of tailes to tailes, and
+backes to backes, and for
+vizards you need goe no
+further then faces. It is the
+Market of young Lectu|rers,
+whom you may chea|pen
+here at all rates and si|zes.
+It is the generall Mint
+of all famous lies, which are
+here like the legends of Po|pery,
+first coyn'd &amp; stampt
+in the Church. All inuen|tions
+are emptyed here,
+and not few pockets. The
+best signe of a Temple in
+it is, that it is the Theeues
+Sanctuary, which robbe
+more safely in the Croud,
+then a wildernesse, whilst
+euery searcher is a bush to
+<PB REF="104">
+hide them. It is the other
+expence of the day, after
+Playes, Tauerne, and a
+Baudy-House, and men
+haue still some Oathes left
+to sweare here. It is the
+eares Brothell, and satis|fies
+their lust, and ytch.
+The Visitants are all men
+without exceptions, but
+the principall Inhabitants
+and possessors, are stale
+Knights, and Captaines
+out of Seruice, men of
+long Rapiers, and Bree|ches,
+which after all turne
+Merchants here, and traf|ficke
+for Newes. Some
+make it a Preface to their
+Dinner, and Trauell for a
+Stomacke: but thriftier
+<PB REF="104">
+men make it their Ordina|rie:
+and Boord here verie
+cheape. Of all such places
+it is least haunted with
+Hobgoblins, for if a Ghost
+would walke more, hee
+could not.</P>
+</DIV2>
+<DIV2 N="53" TYPE="part">
+<HEAD>54. A Vniuersitie
+Dunne.</HEAD>
+<P>IS a Gentlemans follow|er
+cheaply purchas'd, for
+his own money ha's hyred
+him. Hee is an inferiour
+Creditour of some ten shil|lings
+or downwards, con|tracted
+for Horse-hire, or
+perchance for drinke, to
+<PB REF="105">
+weake to bee put in Suite.
+and he arrests your mode|sty.
+Hee is now very ex|pensiue
+of his time, for
+hee will waite vpon your
+Staires a whole After|noone,
+and dance atten|dance
+with more patience
+then a Gentleman-Vsher.
+Hee is a sore beleaguerer
+of Chambers, and assaults
+them sometimes with fu|rious
+knockes: yet finds
+strong resistance common|ly,
+and is kept out. Hee
+is a great complayner of
+Schollers loytering, for
+hee is sure neuer to find
+them within, and yet hee
+is the chiefe cause many
+times that makes them
+<PB REF="105">
+studie. He Grumbles at the
+in Gratitude of men, that
+shunne him for his kind|nesse,
+but indeed it is his
+owne fault, for hee is too
+great an vpbrayder. No
+man put them more to
+their braine then hee: and
+by shifting him off they
+learne to shift in the world.
+Some choose their roomes
+a purpose to auoide his sur|prizals,
+and thinke the best
+commoditie in them his
+Prospect. Hee is like a reie|cted
+acquaintance, hunts
+those that care not for
+his company, and hee
+knowes it well enough;
+and yet will not keepe a|way.
+The sole place to
+<PB REF="106">
+supply him is the But|terie,
+where hee takes
+grieuous vse vpon your
+Name, and hee is one
+much wrought with good
+Beere and Rhetoricke. He
+is a man of most vnfor|tunate
+voyages, and no
+Gallant walkes the streets
+to lesse purpose.</P>
+</DIV2>
+<DIV2 N="54" TYPE="part">
+<HEAD>55. A stayed Man.</HEAD>
+<P>IS a man. One that ha's
+taken order with him|selfe,
+and set a rule to those
+lawlesnesses within him.
+Whose life is distinct and
+in Method, and his Acti|ons
+<PB REF="106">
+as it were cast vp be|fore.
+Not loos'd into the
+Worlds vanities, but ga|thered
+vp and contracted
+in his station. Not scatter'd
+into many pieces of busi|nesses,
+but that one course
+he takes, goes thorough
+with. A man firme and
+standing in his purposes,
+nor heau'd off with each
+wind and passion. That
+squares his expence to his
+Coffers, and makes the
+Totall first, and then the
+Items. One that thinkes
+what hee does, and does
+what he sayes, and forsees
+what he may doe, before
+he purposes. One whose
+(if I can) is more then
+<PB REF="107">
+anothers assurance, and
+his doubtfull tale before
+some mens protestations.
+That is confident of no|thing
+in futurity, yet his
+coniectures oft true Pro|phecies.
+That makes a
+pause still betwixt his <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">are
+and beleefe, and is not too
+hasty to say after others:
+One whose Tongue is
+strung vp like a Clocke till
+the time, and then strikes,
+and sayes much when hee
+talkes little. That can see
+the Truth betwixt two
+wranglers, and sees them
+agree euen in that they fall
+out vpon. That speakes no
+Rebellion in a brauery, or
+talkes bigge from the spi|rit
+<PB REF="107">
+of Sacke. A man coole
+and temperate in his passi|ons,
+not easily betraid by
+his choller: That vies not
+oath with oath, nor heat
+with heat: but replies calm|ly
+to an angry man, and is
+too hard for him too. That
+can come fairely off from
+Captaines companies, and
+neither drink nor quarrell.
+One whom no ill hunting
+fends home discontented,
+and makes him sweare at
+his dogs and family. One
+not hasty to pursue the
+new Fashion, nor yet affe|ctedly
+true to his old round
+Breeches. But grauely
+handsome, &amp; to his place,
+which suites him better
+<PB REF="108">
+then his Tailor. Actiue in
+the world without disqui|et,
+and carefull without
+miserie: yet neither ingu<GAP DESC="illegible" RESP="tech" EXTENT="3 letters">
+in his pleasures, nor a see|ker
+of businesse, but ha's
+his houres for both. A man
+that seldome laughes vio|lently,
+but his mirth is a
+cheerefull looke. Of a com|pos'd
+end setled counte|nance,
+not set, nor much
+alterable with sadnesse or
+ioy. He affects nothing so
+wholy, that hee must bee a
+miserable man when he lo|ses
+it: but forethinks what
+will come hereafter, and
+spares Fortune his thanks
+and curses. One that loues
+his Credit, not this word
+<PB REF="108">
+Reputation; yet can saue
+both without a Duell:
+whose entertainments to
+greater men are respectfull
+not complementary, and
+to his friends plaine not
+rude. A good Husband,
+Father, Master: that is
+without doting, pampring,
+familiarity. A man well
+poys'd in all humours, in
+whom Nature shwed most
+Geometry, and hee ha's
+not spoyl'd the worke. A
+man of more wisedome
+then wittinesse, and braine
+then fancy; and abler to
+any thing then to make
+Verses.</P>
+<TRAILER>FINIS.</TRAILER>
+</DIV2>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

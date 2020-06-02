@@ -1,0 +1,387 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD EEBOPROOF 2.0//EN">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-08-27</DATE>
+<RESPSTMT>
+<NAME>Emma Leeson Huber</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TYPEs to DIVs in order to validate. Proofed title page(s). Checked for TYPE="book". Checked ^s. Reviewed structure. Checked division-marking material at heads and feet of divisions (HEADS, etc.). Checked for signatures. Checked placement and completeness of PBs. Checked for GAPs, #s, @s. Checked spacing of foreign GAPs. Corrected 3 $s of 4. Converted 1 $s to GAP DESC="illegible" RESP="oxf". Checked for EPIGRAPHs and ARGUMENTs. Checked for startqs, endqs, oes, q;s, and Qs. Checked proofsheets and made corrections found there. Checked for CLOSERs, TRAILERs, and BYLINEs. DONE.</ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="OX" ID="A44430">
+<STC T="W">H2727</STC>
+<BIBNO T="oclc">10741172</BIBNO>
+<VID>45598</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1">
+<PB REF="1">
+<P>White-hall: OR, THE COURT OF ENGLAND: A POEM. By Mr. <HI>Charles Hopkins.</HI></P>
+<P><HI>DVBLIN:</HI> Printed by <HI>Andrew Crook,</HI> Printer to the King's Most Excellent Majesty, for <HI>William Norman</HI> in <HI>Dames-Street,</HI> Stationer and Book-binder to His Grace, <HI>Iames</HI> late Duke of <HI>Ormonde,</HI> M. DC. XCVIII.</P>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="2" MS="y">
+<PB REF="2">
+<HEAD>To Her Grace THE DUTCHESS OF ORMONDE.</HEAD>
+<OPENER><SALUTE>Madam,</SALUTE></OPENER>
+<P>THAT Your Grace has been pleased to speak favourably of what I have already Writ, is Encouragement suf|ficient for a Poet to Boast of to the World, and to Embolden him to Dedicate to Your Grace. But I have more particular, both Ob|ligations and Excuses, Your Illustrious Consorts
+<PB REF="3">
+Family having been the constant Patrons of ours; which being now depressed by the late Wars, and the chief Pillar of it fall'n, must depend for Support on the first Founders.</P>
+<P>Thus the Thanks for past Favours, are only Petitions for more, as Men pay off old Debts in hopes to run deeper in for new. I dare not hope the ensuing Essay can merit Your Graces approbation, let it (if possible) please others, if it meets with Your Pardon, it will better satisfie the Ambition, of</P>
+<CLOSER><SIGNED><HI>Your Graces Most devoted most Humble Servant,</HI> Charles Hopkins.</SIGNED></CLOSER>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="text">
+<PB N="1" REF="3">
+<HEAD>White-hall; OR, THE Court of England: A POEM.</HEAD>
+<LG>
+<L>ABove that Bridge, which lofty Turrets Crown,</L>
+<L>Joyning two Cities; of it self a Town,</L>
+<L>As far as fair <HI>Augusta</HI>'s Buildings reach,</L>
+<L>Bent like a Bow, along a peaceful beach.</L>
+<L>Her guilded Spires the Royal Palace show,</L>
+<L>Towring to Clouds, and fix'd in Floods below.</L>
+<L>Her Silver <HI>Thames</HI> washes her sacred sides,</L>
+<L>And pays her Prince her Tributary Tides:</L>
+<L>Thither all Nations of the Earth resort,</L>
+<L>Not only <HI>England</HI>'s now, but <HI>Europe</HI>'s Court.</L>
+<L>Blest in the Warriors, which it's Walls contain,</L>
+<L>Blest most in <HI>William</HI>'s Residence and Reign.</L>
+<L>Where in his Royal Robes and Regal State,</L>
+<L>He meditates and dictates <HI>Europe</HI>'s fate.</L>
+<L><PB N="2" REF="4">His Heroes, and His Nobles standing round,</L>
+<L>Better by them, than His Gold Circle, Crown'd.</L>
+<L>O! could I represent that glorious show,</L>
+<L>You whose great Deeds form Poets, tell me how.</L>
+<L>But least my Muse (which much I fear) should faint,</L>
+<L>What <HI>Dryden</HI> will not Write, let <HI>Dauly</HI> Paint.</L>
+<L>Haste then, and spread abroad thy Canvass sheet,</L>
+<L>Wide as the full blown Sails, that wing our Fleet:</L>
+<L>Paint <HI>William</HI> first, on an Imperial Throne,</L>
+<L>Large share of Earth, and all the Seas His own.</L>
+<L>O're Land and Ocean, let His Realms extend,</L>
+<L>And like His Fame, His Empire never end.</L>
+<L>Give Him that look, which Monarchs ought to have:</L>
+<L>Give Him that awful look which Nature gave.</L>
+<L>Make His great Spirit sparkle in His Eyes,</L>
+<L>And in each glance the Royal Genius rise.</L>
+<L>Mix Majesty with Mildness, while he shows</L>
+<L>Dear to His Friends, and dreadful to His Foes.</L>
+<L>Seat him surrounded by the British Peers,</L>
+<L>And let them seem His strength, as He is theirs.</L>
+<L>No Poet here dare's sing the noble Tribe,</L>
+<L>Which you can draw, better then he describe:</L>
+<L>You can plant each in his peculiar place,</L>
+<L>Give each the noblest Features in their Face;</L>
+<L>Each have their Charms, and all some certain Grace.</L>
+</LG>
+<LG>
+<L>Let <HI>England</HI>'s Chancellor the foremost stand,</L>
+<L>That is his due, whose Laws support the Land.</L>
+<L>Give the good <HI>Shrewsbury</HI> the second Seat,</L>
+<L>In Trust, in Secrecy and Council great.</L>
+<L>Great as the best, will the great <HI>ORMONDE</HI> seem,</L>
+<L>But in the Field thou must delineate him:</L>
+<L>Born with auspicious Stars, and happy Fate,</L>
+<L>But more in Merit than in Fortune great.</L>
+<L><PB N="3" REF="4">On higher things he bends his nobler aim,</L>
+<L>And in fierce Wars, has sought and purchas'd Fame.</L>
+<L>Here could my grateful willing Muse have sung,</L>
+<L>Sweet as <HI>Cham</HI> flows, where first her Harp was strung.</L>
+<L>Here <HI>Summerset,</HI> should she thy praise Proclaim,</L>
+<L>And give thee, what thou giv'st our <HI>Cambridge,</HI> Fame.</L>
+<L>A manly Beauty is in <HI>Devonshire</HI> seen,</L>
+<L>And something noble shines thr&ocirc; <HI>Dorsets</HI> mien.</L>
+<L>But here great Artist, is thy Skill confin'd,</L>
+<L>Thou can'st not Paint his nobler Muse and Mind.</L>
+<L>Next let young <HI>Burlington</HI> receive his place,</L>
+<L>Adorn'd with every Beauty, every Grace.</L>
+<L>Happy in Fortune, Person, and in Parts,</L>
+<L>Himself not wanting them, promoting Arts.</L>
+<L>With him let <HI>Kingston</HI> be for ever joyn'd,</L>
+<L>Alike in Quality, alike in Mind;</L>
+<L>For Court or Camp, for Love or Glory fit,</L>
+<L>Possessing both, both patronizing Wit.</L>
+<L>Hither let <HI>Mountague</HI> the Treasures bring,</L>
+<L>Which while he offers, let his Muses Sing:</L>
+<L>The Patron of the rest, so justly grown,</L>
+<L>Who serv'd so well, a Nation with his own.</L>
+<L>Draw <HI>Russell</HI> yonder, order'd to maintain</L>
+<L>The Power, and Honour of the British Main.</L>
+<L>Wrap him in curling Smoak, and circling Flames;</L>
+<L>Yet unconcern'd, as on his Soveraign's <HI>Thames.</HI></L>
+<L>While his loud Thunder rattles thr&ocirc; the deep,</L>
+<L>Make Seas attention give, and silence keep.</L>
+<L>Then as he coasts the Mauritanian Shores,</L>
+<L>Paint pail the Faces of th' astonish'd Moor's.</L>
+<L>Whence <HI>England</HI> gives surrounding Nations Law,</L>
+<L>And from the centre keeps the World in awe.</L>
+<L>No more let Poets name inconstant Seas,</L>
+<L>For <HI>Neptune</HI> knows his Soveraign, and obeys</L>
+<L><PB N="4" REF="5">Fled from that fatal Field, the watry Plain,</L>
+<L>No Foe dares venture there our Force again.</L>
+<L>Fierce <HI>Gallia</HI> Challenges to <HI>Belgian</HI> Fields,</L>
+<L>But still their chosen Plain small Harvest yields.</L>
+<L>The Warlike <HI>Cuts,</HI> the welcom tidings brings,</L>
+<L>The true brave Servant of the best of Kings.</L>
+<L><HI>Cuts</HI> whose known worth no Herald need Proclaim</L>
+<L>His Wounds; and his own Verse can speak his Fame.</L>
+<L>The dreadful News, move <HI>William</HI> with delight,</L>
+<L>Gladly He hears, and gladly hast's to Fight:</L>
+<L>Leaving His faithful Substitutes behind,</L>
+<L>He trusts Himself to His own Seas and Wind.</L>
+<L>The Royal Fleet a Thousand Heroes grace,</L>
+<L>And <HI>Mars</HI> in Triumph rides o're <HI>Neptune</HI>'s Face.</L>
+<L>Now out of view of Land, they Plow the Main,</L>
+<L>And in some rolling Tides make Land again.</L>
+<L>Now sight of hostile Tents their valour warms,</L>
+<L>And each encourages his Mate to Arms.</L>
+<L>Fancy can scarce so swift and eager run,</L>
+<L>Their Lines are drawn, and the Camp work is done,</L>
+<L>The Word is giv'n, and Battle is begun.</L>
+</LG>
+<DIV2 TYPE="part">
+<HEAD>Description of a Battle.</HEAD>
+<L>They who have seen an Ocean lash it's shore,</L>
+<L>When Billows tumble, and begin to roar:</L>
+<L>When from all Quarters, Clouds and Tempests fly,</L>
+<L>And from despairing Saylors hide the Sky.</L>
+<L>Such as have seen those Elements at War,</L>
+<L>May guess, what well-disputed Battles are.</L>
+<L>Hark! 'tis at hand, Drums beat and Trumpets sound,</L>
+<L>The Horsemen mount, the mounted Horses bound,</L>
+<L>The Soldiers leap transported from the ground.</L>
+<L><PB N="5" REF="5">When such harmonious sounds invite to Arms,</L>
+<L>'Tis sure, that valiant men feel secret Charms.</L>
+<L>Such <HI>William's</HI> is, when from His foaming Horse,</L>
+<L>He views the Foe, rejoyceing at their force.</L>
+<L>Never so full of Spirit and delight,</L>
+<L>Never so pleas'd as when prepar'd to fight.</L>
+<L>Paint Him then yonder spurring from afar,</L>
+<L>Giving the charge, guiding the raging War.</L>
+<L>Paint to the Field, Party on Party sent,</L>
+<L>Himself not waiting for the vast event.</L>
+<L>Now mingled in the War, engage the whole,</L>
+<L>And of His Martial Troops make Him the Soul.</L>
+<L>Now from all parts, Death and Destruction fly,</L>
+<L>The cries of grapling Squadrons rend the Sky,</L>
+<L><HI>Mars</HI> rages, and the rolling War runs high.</L>
+<L>Here Horses rare at Horses, Chest to Chest,</L>
+<L>There desp'rate men encounters Breast to Breast.</L>
+<L>Here trampled under foot fal'n Soldiers groan,</L>
+<L>For help they call, but with unpityed moan,</L>
+<L>For every one now minds himself alone.</L>
+<L>The Cannons roar, and flaming Balls fly round,</L>
+<L>Men fall and dye, and hardly feel the wound:</L>
+<L>Stones, from the ground that nourish'd them, are toss'd,</L>
+<L>And all the fashion of the Field is lost.</L>
+<L>Mortars shoot flameing Meteors thr&ocirc; the Air,</L>
+<L>And such as have not seen them fly, would fear</L>
+<L>The Stars disolv'd, and the last Judgment near.</L>
+<L>Death thr&ocirc; the broken Battle makes a Lane,</L>
+<L>And horrour and confusion fill the Plain.</L>
+<L>Horses in troops without their riders run,</L>
+<L>Wild, as were those of old that drew the Sun:</L>
+<L>Madly they drag their reins, and champ their Bit,</L>
+<L>And bear down all before them whom they meet.</L>
+<L><PB N="6" REF="6"><HI>Sol</HI>'s Off-spring's, and their Master's fate's the same,</L>
+<L>All lost like him, in Thunder, Smoak and Flame.</L>
+<L>As Seamen fear, yet struggle with a Storm,</L>
+<L>The Soldiers start at what themselves perform.</L>
+<L>Paint then a fear on every Face; and make</L>
+<L>Ev'n <HI>WILLIAM</HI> fear, &mdash; but fear for <HI>ORMONDE</HI>'s sake.</L>
+<L><HI>ORMONDE,</HI> who spur'd amidst the thundring War,</L>
+<L>But to his Soveraign's sorrow spur'd too far:</L>
+<L>Dismounted, make him in his falling great,</L>
+<L>Wounded, half dying, yet despiseing Fate.</L>
+<L>Make <HI>WILLIAM</HI> view him with excess of grief,</L>
+<L>And strive, but strive in vain to send relief;</L>
+<L>Till Heaven inspires his very Foes, to save</L>
+<L>A Life, as strangely fortunate as brave.</L>
+<L>Who for that Life may to more praise aspire,</L>
+<L>Than if the day had been their own intire.</L>
+<L>Proud of their Prize, more furious than before,</L>
+<L>Make them press on, make <HI>England</HI>'s fury more:</L>
+<L>Make shatter'd Squadrons rally on the Plain,</L>
+<L>And make enrag'd Battallions charge again.</L>
+<L>Again make Horses beat the suffering ground,</L>
+<L>And toss with restless Hoofs the dust around.</L>
+<L>Again the Rider couch his ready Lance&punc;</L>
+<L>And spurring them to warmth, and foam, advance,</L>
+<L>Foam, which your Pencil need not owe to chance.</L>
+<L>Make sheets of flame from smoaking Culverins fly,</L>
+<L>And Clouds of mounting smoak obscure the Sky.</L>
+<L>Now paint beneath the dying and the dead,</L>
+<L>And deluges of Blood in Battle shed,</L>
+<L>O'reflowing <HI>Flanders</HI> in her Waters stead.</L>
+<L>And now, let Clouds like Sable Curtains fall,</L>
+<L>Protecting those that live, and hideing all.</L>
+<L><PB N="7" REF="6">Cast, the black vail of night above the Slain,</L>
+<L>Covering the purple horrour of the plain,</L>
+<L>And now, with solid darkness shut the Scene.</L>
+<L>As thunder makes the Skies serene and clear,</L>
+<L>As Tempests serve to purifie the Air.</L>
+<L>On Rain, as Sun-shine, Calms on Storms, attend,</L>
+<L>Peace is War's necessary certain end.</L>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Description of the Goddess of Peace, and Her Palace.</HEAD>
+<LG>
+<L>Pardon the Muse, if here she cannot hold,</L>
+<L>The sight of her own Goddess makes her bold.</L>
+<L>She comes; o're Fields of standing Corn she walks,</L>
+<L>Not crush'd the tender Ears, nor bent the stalks.</L>
+<L>Her march attended with a numerous Train,</L>
+<L>Yet with such Discipline that none complain.</L>
+<L>Grass springs where e're she goes, the flow'ry Mead</L>
+<L>Receives new Flowers, where she vouchsafes to tread.</L>
+<L>Her blooming Beauties teeming Earth displays,</L>
+<L>The Lover's Mirtle, and the Poet's Bays.</L>
+<L>From every touch of her a perfume flows,</L>
+<L>The lovely Hyacinth, the blushing Rose,</L>
+<L>And spreading Jessamin fresh sweets disclose.</L>
+<L>Thick Palaces, as she approaches rise,</L>
+<L>And Royal piles amaze beholders eyes;</L>
+<L>Built on a sudden, they the sight confound,</L>
+<L>And seem to start as from Enchanted ground.</L>
+<L>None; this or that, can her apartment call,</L>
+<L>For she promiscuously resides in all.</L>
+<L>At home in every one, and all she keeps</L>
+<L>Silent, but splendider than that of sleeps.</L>
+<L><PB N="8" REF="7">Her spacious Halls with useless Arms, are hung</L>
+<L>With Arrows broken, and with Bows unstrung:</L>
+<L>No murmurs thr&ocirc; her numerous Train are heard,</L>
+<L>She knows no danger, and her Court no Guard.</L>
+<L>Secure as shades, as Skies unclouded bright,</L>
+<L>As active, yet as noiseless as the light.</L>
+<L>No Widows here, their Husband's deaths deplore,</L>
+<L>None hears the Drum, or thundring Cannons roar,</L>
+<L>Only Love-sighs, which serve to lull her more.</L>
+<L>Plenty, her best lov'd Favourite duly waits,</L>
+<L>And Pleasure enters at her Palace Gates:</L>
+<L>Roses and Myrtles mingl'd, make her bed,</L>
+<L>And heaps of Flowers support her sacred head.</L>
+<L>Inspir'd by her, the Muse around her sings,</L>
+<L>And <HI>Cupids</HI> fan her with expanded wings:</L>
+<L>No grief or anxious cares, her peace molest,</L>
+<L>She folds her Arms above her quiet Breast,</L>
+<L>Delightful are her Dreams, and soft her rest.</L>
+<L>All at her rise their adoration pay,</L>
+<L>The <HI>Persians</HI> worship less the springing day.</L>
+<L>Sweet is her temper, easie is her mien,</L>
+<L>Not the least frown in all her aspect seen,</L>
+<L>But gracious as our late lamented Queen.</L>
+<L>Nor are her blessings to her Court confin'd,</L>
+<L>But flow thr&ocirc; Nobles to the Lab'ring kind.</L>
+<L>All they can wish her own Domesticks share,</L>
+<L>Bestowing still, yet has she still to spare.</L>
+<L>The grateful Soyl, the jocund Peasants Plow,</L>
+<L>And with a certainty of Reaping, Sow:</L>
+<L>Not now, as heretofore with fears perplex't,</L>
+<L>Tilling these Fields, and Armies in the next.</L>
+<L>Now Spring comes on &mdash;</L>
+<L>And night and day in equal measures run,</L>
+<L>And mounting Larks salute the morning Sun.</L>
+<L><PB N="9" REF="7">Then ripening Fruits the load'ned Trees adorn,</L>
+<L>And laughing Fields are Crown'd with lofty Corn.</L>
+<L>The Summer so accustom'd to alarms,</L>
+<L>Wonders, she hears no more the sound of Arms.</L>
+<L>No Trumpets eccho thr&ocirc; the spacious Plain,</L>
+<L>Nor Earth-born Brethren by themselves are slain.</L>
+<L>The Sun shines freely thr&ocirc; the flow'ry Field,</L>
+<L>And suffers no reflection from the Shield.</L>
+<L>Men to the date of Nature draw their breath,</L>
+<L>For nothing now but Sickness causes death.</L>
+<L>Secure the Merchants trade abroad for gain,</L>
+<L>And Sailors unmolested sweep the Main.</L>
+<L>Unrowling waves steal softly to the shore,</L>
+<L>They know their Soveraign, and they fear to roar.</L>
+<L>The conscious Winds within their caverns keep,</L>
+<L>Like them the Seas are hush'd, and seem asleep,</L>
+<L>And <HI>Halcyon</HI> peace broods o're the boundless deep.</L>
+</LG>
+<LG>
+<L>How are these Blessings thus dispenc'd, and giv'n</L>
+<L>To us from <HI>WILLIAM,</HI> and to him from Heav'n.</L>
+<L>Delight in blood, let other Hero's bo<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">st,</L>
+<L>Our ease and safety please our Monarch most:</L>
+<L>For that he fought, for that was all his care,</L>
+<L>He places all his Pomp and Glory there.</L>
+<L>Hail! peace of all things in confusion hurl'd,</L>
+<L>Hail! thou restorer of the Christian World:</L>
+<L>Thou to the World art Heav'ns chief Blessing giv'n,</L>
+<L>And thou hast rendred back the World to Heav'n.</L>
+<L>Thus in old times, at our blest Saviour's Birth,</L>
+<L>An universal calm was known on Earth:</L>
+<L>God to his Son, did the first Gift assign,</L>
+<L>And let's the second Miracle be thine.</L>
+<L>How shall we thank thee for thy Royal toyl,</L>
+<L>Thou strength and glory of the British Isle?</L>
+<L><PB N="10" REF="8">What Trophies shall thy grateful Subjects raise?</L>
+<L>And what ambitious Poets sing thy praise?</L>
+<L>Thy greatness surely is the Stars design,</L>
+<L>Thy hands our noblest Palaces refine,</L>
+<L>On all our Metals, all the stamp is thine.</L>
+<L>Draw his Triumphant entry, <HI>Dauly,</HI> draw</L>
+<L>Him, and his Allies free&mdash;</L>
+<L>And all the rest of the whole world in awe.</L>
+<L>But see, all peaceable our Hero comes,</L>
+<L>No sound of Trumpet, nor alarm of Drums:</L>
+<L>Long kept from rest, by no inglorious Foes,</L>
+<L>He goes to take what he has brought, repose.</L>
+<L>His softer Triumph then prepare to grace,</L>
+<L>Prepare a train fit to attend on Peace:</L>
+<L>Choose them from all that breath the British air,</L>
+<L>And like the Goddess whom they wait on, fair.</L>
+<L>Make beautious <HI>GRAFTON,</HI> with the first advance,</L>
+<L>Charming at every step, with every glance;</L>
+<L>Sweet as her temper, paint her heavenly Face,</L>
+<L>Draw her but like, you give your piece a grace:</L>
+<L>Blend for her all the Beauties e're you knew,</L>
+<L>For so his <HI>Venus</HI> fam'd <HI>Appelles</HI> drew.</L>
+<L>But hold: to make her most divinely fair,</L>
+<L>Consult her self, you'l find all Beauty there.</L>
+<L>Whom shall we think on now? There's scarce beside</L>
+<L>Any, that should be seen with her, but <HI>HIDE.</HI></L>
+<L><HI>HIDE,</HI> who like her has Beauties without blame;</L>
+<L><HI>HIDE,</HI> who like her is every Poets Theme.</L>
+<L><HI>HIDE,</HI> by all eyes admir'd, all hearts ador'd,</L>
+<L>Courteous to all, kind only to her Lord.</L>
+<L><HI>HIDE,</HI> who so many powerful charms commands,</L>
+<L>As will not shame the piece where <HI>GRAFTON</HI> stands.</L>
+<L>And now, to make thy lasting fame renown'd,</L>
+<L>Let all be with Illustrious <HI>ORMONDE</HI> Crown'd&punc;</L>
+<L><PB N="11" REF="8">Summ all in her that's fair, and good and great,</L>
+<L>Place her in Beauties, and in Vertues Seat.</L>
+<L>Print sweetness in her Eyes, at once and aw,</L>
+<L>And make her looks give Languishing and Law.</L>
+<L>O! if my Muse to her wish'd height and climb,</L>
+<L>Sweet as her Subject, as her Theme, sublime.</L>
+<L>The noble <HI>ORMONDE</HI> should engross her praise,</L>
+<L>Great <HI>ORMONDE</HI>'s name should sanctifie her layes.</L>
+<L>Her's and her most Illustrious Hero's Blood,</L>
+<L>Take pleasure still, like Heav'n in doing good.</L>
+<L><HI>ORMONDE,</HI> to whom fair Lots on Earth are giv'n;</L>
+<L><HI>ORMONDE,</HI> who has her Seat reserv'd in Heav'n.</L>
+</LG>
+<LG>
+<L>Stop here; th&ocirc; others may attract the Eye,</L>
+<L>They will but seem as shades, while these are by.</L>
+<L>And now you've finish'd so renown'd a piece,</L>
+<L>Boast safely; challenge either <HI>Rome,</HI> or <HI>Greece.</HI></L>
+</LG>
+</DIV2>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

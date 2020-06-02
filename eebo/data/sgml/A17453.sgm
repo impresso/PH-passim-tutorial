@@ -1,0 +1,756 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD EEBOPROOF 2.0//EN">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-08-20</DATE>
+<RESPSTMT>
+<NAME>Judith Siefring</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TYPEs to DIVs in order to validate. Proofed title page(s). Checked for TYPE="book". Checked ^s. Reviewed structure. Checked division-marking material at heads and feet of divisions (HEADS, etc.). Checked for signatures. Checked placement and completeness of PBs. Checked for GAPs, #s, @s. Checked spacing of foreign GAPs. Corrected 9 $s of 162. Converted 153 $s to GAP DESC="illegible" RESP="pdcc". Checked for EPIGRAPHs and ARGUMENTs. Checked for startqs, endqs, oes, q;s, and Qs. Checked proofsheets and made corrections found there. Checked for CLOSERs, TRAILERs, and BYLINEs. DONE.</ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="OX" ID="A17453">
+<STC T="S">4274</STC>
+<BIBNO T="umi">99852285</BIBNO>
+<VID>17601</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1" MS="y">
+<PB REF="1">
+<P>Londons Vacation, And The Countries Tearme. OR, A lamentable relation of severall remarkable passages which it hath pleased the Lord to shew on severall persons, both in <HI>London,</HI> and the Country in this present Visitation, 1636. with the number of those that dyed at <HI>London</HI> and <HI>Newcastle,</HI> this present yeare. With new Additions.</P>
+<P>By <HI>H. C.</HI></P>
+<P><FIGURE>
+<P>Lord Iesus receive my soule.</P>
+</FIGURE></P>
+<P><HI>LONDON,</HI> Printed for <HI>Richard Harper,</HI> and are to be sold at his shop in Smithfield, at the Hospitall Gate. 1637.</P>
+</DIV1>
+<DIV1 TYPE="to the reader">
+<PB REF="2">
+<PB REF="2">
+<HEAD>To the Reader.</HEAD>
+<P><HI>_COurteous</HI> Reader, I here present to th<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"> view a brief collection of seuerall passa+ges, brought forth in this yeare of sor+row: yet as God is alwayes more wonder+full in his mercies, then in his judgements terribl<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"> to a repenting and sorrowfull nation; so in his cha+stisements and correction he alwayes shews some remarkable passages to those surviving, that they may speak and tell of his wondrous works to their childrens children That great and terrible year<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"> 1625. when thousands upon thousands were piled up in our mother earth, was for te<GAP DESC="illegible" RESP="pdcc" EXTENT="3 letters"> and number the very next and immediate unto this now present, and that 1625. was the greatest that our Chronicles can afford, and yet then <HI>England</HI> was not halfe so much pestered with the violence of the Pestilence in severall places as now it is: as witnesse now that famous and fruitfull place that hath beene to many of our Merchants: <HI>Newcastle</HI> I meane; how many
+<PB REF="3">
+there have dyed this yeare, which in comparison to <HI>London</HI> is but an handfull of people, and there by <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">ust account from the <HI>21</HI> of May, 1636. to the <HI>8.</HI> of Octob. of all, and in <HI>Garthead</HI> of the Plague. And moreover to many severall townes in the Countrey distant from <HI>London</HI> and about <HI>London,</HI> so that <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">he wrath of the Lord is kindled; then like <HI>Nini|<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">ch,</HI> let us blesse God for the preservation of our good and pious King, who hath called a Fast; now <GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters">t our hearts be but truly repentant, deserving this <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">odly direction, and then we shall see this famous City <HI>London</HI> not like a place neare <HI>Ierusalem,</HI> cal|led <HI>Golgotha,</HI> but like <HI>Niniveh,</HI> which the Lord was pleased to spare by repentance and true humili|ation This time affords small trading or none at all, and those that have the trading at this season are Sextons, Coffin makers, Grave-makers, and Bea|<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">e<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">s; all these have so much doings, that almost all <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">th<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">r trades have none at all: the whole kingdome <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"> under this heavy burden; Lord sheath the lest <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"> Angels sword, and do th<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters"> go on in mer|<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters"> as thou hast begun to cause the destroying Angel <GAP DESC="illegible" RESP="pdcc" EXTENT="1 span"> his hard, that we may live to glorifie thy <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"> Name. Lord <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"> thy divine comfort and assi|<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">ance remaine with us day and night in this most <GAP DESC="illegible" RESP="pdcc" EXTENT="1 span"> and dangerous time.</P>
+<CLOSER>Amen.</CLOSER>
+</DIV1>
+<DIV1 TYPE="table of deaths">
+<PB REF="3">
+<HEAD>The number of those that dyed at New-castle in this present yeare.</HEAD>
+<P><TABLE>
+<ROW>
+<CELL ROLE="label" COLS="3">1636</CELL>
+</ROW>
+<ROW>
+<CELL ROLE="label" COLS="3">Buried of all diseases in Newcastle, as follow|eth.</CELL>
+</ROW>
+<ROW>
+<CELL>May</CELL>
+<CELL>21</CELL>
+<CELL>59</CELL>
+</ROW>
+<ROW>
+<CELL>May</CELL>
+<CELL>28</CELL>
+<CELL>55</CELL>
+</ROW>
+<ROW>
+<CELL>Iune</CELL>
+<CELL>4</CELL>
+<CELL>91</CELL>
+</ROW>
+<ROW>
+<CELL>Iune</CELL>
+<CELL>11</CELL>
+<CELL>122</CELL>
+</ROW>
+<ROW>
+<CELL>Iune</CELL>
+<CELL>18</CELL>
+<CELL>99</CELL>
+</ROW>
+<ROW>
+<CELL>Iune</CELL>
+<CELL>25</CELL>
+<CELL>162</CELL>
+</ROW>
+<ROW>
+<CELL>Iuly</CELL>
+<CELL>2</CELL>
+<CELL>133</CELL>
+</ROW>
+<ROW>
+<CELL>Iuly</CELL>
+<CELL>9</CELL>
+<CELL>172</CELL>
+</ROW>
+<ROW>
+<CELL>Iuly</CELL>
+<CELL>16</CELL>
+<CELL>1<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">4</CELL>
+</ROW>
+<ROW>
+<CELL>Iuly</CELL>
+<CELL>23</CELL>
+<CELL>212</CELL>
+</ROW>
+<ROW>
+<CELL>Iuly</CELL>
+<CELL>30</CELL>
+<CELL>27<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"></CELL>
+</ROW>
+<ROW>
+<CELL>August</CELL>
+<CELL>6</CELL>
+<CELL>366</CELL>
+</ROW>
+<ROW>
+<CELL>Aug.</CELL>
+<CELL>13</CELL>
+<CELL>334</CELL>
+</ROW>
+<ROW>
+<CELL>Aug.</CELL>
+<CELL>10</CELL>
+<CELL>402</CELL>
+</ROW>
+<ROW>
+<CELL>Aug.</CELL>
+<CELL>27</CELL>
+<CELL>430</CELL>
+</ROW>
+<ROW>
+<CELL>Septem.</CELL>
+<CELL>3</CELL>
+<CELL>460</CELL>
+</ROW>
+<ROW>
+<CELL>Septem.</CELL>
+<CELL>10</CELL>
+<CELL>314</CELL>
+</ROW>
+<ROW>
+<CELL>Septem.</CELL>
+<CELL>17</CELL>
+<CELL>120</CELL>
+</ROW>
+<ROW>
+<CELL>Septem.</CELL>
+<CELL>24</CELL>
+<CELL>136</CELL>
+</ROW>
+<ROW>
+<CELL>Octob.</CELL>
+<CELL>1</CELL>
+<CELL>80</CELL>
+</ROW>
+<ROW>
+<CELL>Octob.</CELL>
+<CELL>8</CELL>
+<CELL>83</CELL>
+</ROW>
+<ROW>
+<CELL COLS="3">The totall is 4764.</CELL>
+</ROW>
+</TABLE></P>
+<P><TABLE>
+<ROW>
+<CELL ROLE="label" COLS="3">1636</CELL>
+</ROW>
+<ROW>
+<CELL ROLE="label" COLS="3">Buried in Ga<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">th|head in Newcastle as followeth.</CELL>
+</ROW>
+<ROW>
+<CELL>May</CELL>
+<CELL>30</CELL>
+<CELL>10</CELL>
+</ROW>
+<ROW>
+<CELL>Iune</CELL>
+<CELL>6</CELL>
+<CELL>24</CELL>
+</ROW>
+<ROW>
+<CELL>Iune</CELL>
+<CELL>13</CELL>
+<CELL>19</CELL>
+</ROW>
+<ROW>
+<CELL>Iune</CELL>
+<CELL>20</CELL>
+<CELL>3<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters"></CELL>
+</ROW>
+<ROW>
+<CELL>Iune</CELL>
+<CELL>27</CELL>
+<CELL>40</CELL>
+</ROW>
+<ROW>
+<CELL>Iuly</CELL>
+<CELL>4</CELL>
+<CELL>75</CELL>
+</ROW>
+<ROW>
+<CELL>Iuly</CELL>
+<CELL>11</CELL>
+<CELL>66</CELL>
+</ROW>
+<ROW>
+<CELL>Iuly</CELL>
+<CELL>18</CELL>
+<CELL>60</CELL>
+</ROW>
+<ROW>
+<CELL>Iuly</CELL>
+<CELL>25</CELL>
+<CELL>60</CELL>
+</ROW>
+<ROW>
+<CELL>August</CELL>
+<CELL>1</CELL>
+<CELL>29</CELL>
+</ROW>
+<ROW>
+<CELL>August</CELL>
+<CELL>8</CELL>
+<CELL>17</CELL>
+</ROW>
+<ROW>
+<CELL>August</CELL>
+<CELL>15</CELL>
+<CELL>18</CELL>
+</ROW>
+<ROW>
+<CELL>August</CELL>
+<CELL>22</CELL>
+<CELL><GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">3</CELL>
+</ROW>
+<ROW>
+<CELL>August</CELL>
+<CELL>29</CELL>
+<CELL>14</CELL>
+</ROW>
+<ROW>
+<CELL>Septem.</CELL>
+<CELL>5</CELL>
+<CELL>11</CELL>
+</ROW>
+<ROW>
+<CELL>Septem.</CELL>
+<CELL>12</CELL>
+<CELL>7</CELL>
+</ROW>
+<ROW>
+<CELL>Septem.</CELL>
+<CELL>19</CELL>
+<CELL>4</CELL>
+</ROW>
+<ROW>
+<CELL>Septem.</CELL>
+<CELL>26</CELL>
+<CELL>6</CELL>
+</ROW>
+<ROW>
+<CELL>Octob.</CELL>
+<CELL>3</CELL>
+<CELL>2</CELL>
+</ROW>
+<ROW>
+<CELL>Octob.</CELL>
+<CELL>10</CELL>
+<CELL>2</CELL>
+</ROW>
+<ROW>
+<CELL>Octob.</CELL>
+<CELL>17</CELL>
+<CELL>4</CELL>
+</ROW>
+<ROW>
+<CELL COLS="3">The totall is 515.</CELL>
+</ROW>
+</TABLE></P>
+<P>The totall of all the burials in London of all diseases this present Visitation, 1636. is 27415.</P>
+<P>Of the Plague 12102.</P>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="poem">
+<PB REF="4">
+<HEAD>The relation of the man buried in <HI>S. Sepul|chres</HI> new Church-yard, on Munday, be|ing the 29. of August, 1636.</HEAD>
+<L>MOrtals behold here prostrate to your sight,</L>
+<L>The Cities terrour, and the Countries fright.</L>
+<L>The Lord hath drawn his sword, many are slain,</L>
+<L>And who can tell when 'twill be sheath'd again?</L>
+<L>For sinne the Plague is now among us sent,</L>
+<L>Many have sinn'd, and yet but few repent.</L>
+<L>The City to the Countrey now are runne,</L>
+<L>Although the Countrey them so much do shun,</L>
+<L>And to speak truth some Citizens poore elves,</L>
+<L>By flying thither, have undone themselves.</L>
+<L>Yet some have said, 'ith Countrey they are free,</L>
+<L>Blind fools are they which think God cannot see</L>
+<L><GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">n every place his power it self doth shew,</L>
+<L>Strange things he doth, his wisedome willeth so:</L>
+<L>His sword is drawn among us, yet we spend</L>
+<L>Our time in sinne, not thinking of our end:</L>
+<L><PB REF="4">So that the Lord to us may rightly say,</L>
+<L>The people eat, and drink, and rise to play.</L>
+<L>Mortals here note, and once your sinnes despise,</L>
+<L>See here a mans grave digd, fore his own eyes,</L>
+<L>In S. <HI>Sepulchers</HI> new Church-yard 'tis said,</L>
+<L>I'th interim that his grave t'his mind was made,</L>
+<L>He took his book and pray'd, oh blest be God</L>
+<L>That chastis'd him with his paternall rod,</L>
+<L>Which did not take his sence from him away,</L>
+<L>But gave him time and sence to reade and pray:</L>
+<L>And when of's prayers he an end had made,</L>
+<L>Death ends his life, so he in's grave was laid.</L>
+<L>Oh then remember this you that have health.</L>
+<L>Death playes the theese, takes many a one by stealth,</L>
+<L>Before of him they think, this I may say</L>
+<L>He hardly will allow them time to pray.</L>
+<L>Then we that live had need to pray apace,</L>
+<L>That sees death and the grave before our face.</L>
+<L>Let's humbly pray, and <HI>Ninive</HI> cloath-like,</L>
+<L>Then God in mercy will forbeare to strike.</L>
+</DIV1>
+<DIV1 TYPE="poem">
+<PB REF="5">
+<HEAD>Of the man that revived again in S. <HI>Georges</HI> Church-yard.</HEAD>
+<L>A Countrey man, as 'twas to me reported,</L>
+<L>About some businesse to this town resorted,</L>
+<L>Finding himself not well, strait way he went</L>
+<L>Into S. <HI>Georges</HI> fields in discontent,</L>
+<L>He drunk a penny-worth of milk 'tis said,</L>
+<L>And down upon the ground himself he laid;</L>
+<L>The milk-woman of whom the milk he bought,</L>
+<L>Told him to lie upon the ground 'twas naught,</L>
+<L>And wisht him then to rise, but he replide,</L>
+<L>That he would there but little time reside</L>
+<L>Vpon the ground, onely to rest his head,</L>
+<L>And sleep a little on that earthy bed;</L>
+<L>She seeing him so resolutely bent,</L>
+<L>Took up her milk pail, and away she went.</L>
+<L>And for a certain truth to me twas told,</L>
+<L>That after she in town her milk had sold,</L>
+<L>She came the same way home, and found him dead</L>
+<L>As she poor woman then imagined,</L>
+<L>But twas not so, for in a trance lay he,</L>
+<L>Yet others were deceiv'd as well as she;</L>
+<L>For all that saw him did conclude and say,</L>
+<L>The man is dead, let us make haste away,</L>
+<L><PB REF="5">And to the Sexton of the Parish go,</L>
+<L>Telling him how it is, then let him do</L>
+<L>As he sees fit, then unto him they told,</L>
+<L>And did the matter unto him unfold.</L>
+<L>And to the Masters of the Parish then,</L>
+<L>The Sexton went with other honest men,</L>
+<L>And told them how the matter then did stand,</L>
+<L>The Masters of the Parish gave command</L>
+<L>To bring the man that was supposed dead,</L>
+<L>Into the Church-yard, which they quickly did,</L>
+<L>And then the searchers they were fetcht with speed,</L>
+<L>So all concluded he was dead indeed;</L>
+<L>And when the corps the Searchers had survaid,</L>
+<L>They saw no cause why they should be afraid;</L>
+<L>For of the Plague they found the man was free</L>
+<L>As cleare a corps as ever they did see:</L>
+<L>So then to bury him they all conclude,</L>
+<L>But mark I pray what afterward ensude.</L>
+<L>It being neare night, the Sexton did agree</L>
+<L>To bury him when he could better see.</L>
+<L>The first worke in the morning that he did,</L>
+<L>Should be to bury him: meane while he hid</L>
+<L>The man under a Coffin, as some say,</L>
+<L>Not that he fear'd that he would runne away,</L>
+<L>But that no ravenous thing should him offend,</L>
+<L>So that in this he was the dead mans friend.</L>
+<L><PB REF="6"><GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">e that lay na'<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"> <GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters"> long upon the world,</L>
+<L><GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">urely he could not chuse but be a col<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">.</L>
+<L>Next morning he did rise as from the dead,</L>
+<L>And finding that himself was covered</L>
+<L>Vnder a Coffin, he did wonder much,</L>
+<L>He threw the Coffin off him with a touch:</L>
+<L><GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">o up he gets, then up and down did walk,</L>
+<L>And at the length he heard some people <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">alk;</L>
+<L>Over a brick-wall th<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">n this man did clime,</L>
+<L>And cald for help, to call for help 'twas time.</L>
+<L><GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">nto the Ax yard then this man was carried,</L>
+<L>And cherishe well till dead indeed and buried.</L>
+<L>Before much people came him for to view,</L>
+<L>Almagining that some of them him knew.</L>
+<L>Five dayes after he liv'd, retaining breath,</L>
+<L>And then he chang'd his mortall life for death.</L>
+<L>Now in the same Church-yard his bones remain</L>
+<L>Vntill the Trumpet raise them up again.</L>
+</DIV1>
+<DIV1 TYPE="poem">
+<PB REF="6">
+<HEAD>A true relation of certain <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"> that robd a Hosiers shop in the new Towne, neare S. <HI>Martins</HI> lane, putting the mans goods into a Coffin.</HEAD>
+<L>GOd spares the wicked somtimes for this end,</L>
+<L>That they might see his judgme~ts &amp; amend.</L>
+<L>But they contrariwise grow worse and worse,</L>
+<L>And so pull down upon their heads a curse:</L>
+<L>Neither Gods judgements nor his mercies can</L>
+<L>Effectually work in a wicked man,</L>
+<L>Witnesse the villanies that now are done,</L>
+<L>Some to rob Orchards hastily will runne;</L>
+<L>Others to break up houses will not spare,</L>
+<L>From drunkennesse &amp; whoredome not for beare.</L>
+<L>Among the rest of helhounds some there were</L>
+<L>That without touch of conscience, grace or fear,</L>
+<L>Most impudently with a Coffin went</L>
+<L>To rob a Hosiers shop was their intent;</L>
+<L>And late at night the man being forth 'tis said,</L>
+<L>To rob his shop these knaves were not afraid,</L>
+<L>But boldly took the stockings from the shelves,</L>
+<L>And put them in the Coffin, wicked Elves.</L>
+<L>The Coffin being full, they nayl'd it down,</L>
+<L>And on their shoulders did go through the town</L>
+<L>And with a link before away they passe,</L>
+<L>And all that saw it thought no lesse but 'twas</L>
+<L><PB REF="7">A Coarse, and he that ow'd the goods likewise,</L>
+<L>Did see it bore away before his eyes.</L>
+<L>He met them and did shun them, but at last past</L>
+<L>When he came home, and they from him were</L>
+<L>He found himself robd, and almost undone.</L>
+<L>And pitied was by every mothers sonne,</L>
+<L>But he no news of them could ever heare,</L>
+<L>What is become of them, or where they are?</L>
+<L>Deaths house a coffin of mortality,</L>
+<L>They made a cloke to hide their villany.</L>
+<L>They cannot mock death long, for in the end</L>
+<L>The hang-man with a rope will them befriend.</L>
+</DIV1>
+<DIV1 TYPE="poem">
+<HEAD>Of 3. yongsters that presumed to rob an Orchard, and fain'd themselves sick when the master of it came to them.</HEAD>
+<L>NOw what say you to three mad knaves that went</L>
+<L>To rob an Orchard all with one consent;</L>
+<L>Muffled, they say, with clouts about their heads,</L>
+<L>Like sick men newly crept from out their beds,</L>
+<L>With each of them a bag under his arme,</L>
+<L>As if they went on purpose to do harme;</L>
+<L>And so into an Orchard these three comes,</L>
+<L>And fild their bags with apples, peares, &amp; plums.</L>
+<L><PB REF="7">The good man of the house hearing a noyse,</L>
+<L>And thinking them to be unhappy boyes,</L>
+<L>Did take a cudgell, and to them he goes,</L>
+<L>Minding for to bestow on them some blows:</L>
+<L>But seeing that all their 3. heads were clouted,</L>
+<L>Of them he was afraid, and him they flouted.</L>
+<L>Can you not be content bold knaves, quoth he,</L>
+<L>To rob mine Orchard, but indanger me</L>
+<L>With your infectious breath? depart I say,</L>
+<L>With bag and baggage, longer do not stay.</L>
+<L>For if you do, the town Ile raise anon:</L>
+<L>So fild their bags, I'm glad quoth he yo'r gone.</L>
+</DIV1>
+<DIV1 TYPE="poem">
+<HEAD>Instruction.</HEAD>
+<L>He that of Gods just judgement makes a sport,</L>
+<L>Like these three men, one day shall suffer for 't.</L>
+<L>He that shall fain himself sick in this kinde,</L>
+<L>To feare another, he perhaps may finde</L>
+<L>A booty as these men did, and withall</L>
+<L>A curse will follow to bring such to thrall.</L>
+<L>Good God in midst of all our misery,</L>
+<L>Shall we consent to plot a villany,</L>
+<L>So great, so foule, so impudent and vilde!</L>
+<L>Houses infected, and mens mindes defilde</L>
+<L>With such impurity! can we expect</L>
+<L>The plague should cease, when we our selves infect</L>
+<L><PB REF="8">With sinne, that is the cause of all infection?</L>
+<L>Can we do this and look for thy protection?</L>
+<L>Lord of thy judgements let's not make a sport,</L>
+<L>For if we do, thou'lt surely plague us for't.</L>
+</DIV1>
+<DIV1 TYPE="poem">
+<HEAD>A strange and true report of a Gentleman riding into the Countrey, finding himself not well, and what chanced to him on the way.</HEAD>
+<L>A Gentleman as true report doth tell,</L>
+<L>Into the Countrey rode, a while to dwell:</L>
+<L>Finding himself saint, he began to grieve,</L>
+<L>And stripping up at last his doublet sleeve,</L>
+<L>He found upon his arme some blew spots there,</L>
+<L>Which like unto Gods tokens did appeare.</L>
+<L>So spurs his horse, and speedily he rides</L>
+<L>To the next town, and there all night abides.</L>
+<L>But yet before he went to bed 'tis said,</L>
+<L>In's chamber he a good fire causde be made:</L>
+<L>So when the Chamberlain had made a fire,</L>
+<L>A payle of water he did then desire.</L>
+<L>Then cal'd he for the best sheet in the Inne,</L>
+<L>The which he wet, and wrapt himself therein.</L>
+<L>The sheet being wet, and he starke naked in it,</L>
+<L>About his body he did strait way pinne it;</L>
+<L>Which being done, away to bed he went.</L>
+<L>The morning being come, and the night spent,</L>
+<L><PB REF="8">He found himself well, and his body cleare</L>
+<L>From all those spots which before did appeare.</L>
+<L>Strange physick this may seem to many a one,</L>
+<L>And yet he prov'd himself a good physitian.</L>
+<L>But y<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters"> my Doctor he shall never be,</L>
+<L>Such physick sure would be the death of me.</L>
+<L>And to conclude, he paid most liberally</L>
+<L>For all he called for, especially</L>
+<L>For his wet winding sheet, and gave command</L>
+<L>To bury that some wet s<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">eet out of hand,</L>
+<L>A yard deep in the ground, or somewhat more,</L>
+<L>Which was an honest care of him therefore.</L>
+<L>And so <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">or all things he gave them content,</L>
+<L>Then takes his leave, and so away he went.</L>
+<L>The sheet was buried too immediately,</L>
+<L>But covetousnesse would not let it long lye</L>
+<L>Vnder the ground, then buried as it were,</L>
+<L>But took this sheet up without wit or feare.</L>
+<L>And all of them that were so fool-hardy,</L>
+<L>That sheet to take up, of the plague did dye:</L>
+<L>And all the rest that had no hand in it,</L>
+<L>Escapt the plague, who had more grace and wit.</L>
+<L>Thus covetousnesse, that ne're did good to any,</L>
+<L>Was here you see the enemy of a many.</L>
+<L>Lord keep our hearts from filthy avarice,</L>
+<L>Let's live content, and make us truly wise.</L>
+</DIV1>
+<DIV1 TYPE="poem">
+<PB REF="9">
+<HEAD>Of one that lost in his travell two <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">ands wrapt in a napkin.</HEAD>
+<L>ONe lost two bands wrapt in a napkin faire,</L>
+<L>A woman passed by as I do heare;</L>
+<L>Her sonne and daughter as I understand</L>
+<L>Was with her, unto whom she gave command</L>
+<L>By any meanes not to take up those bands,</L>
+<L>Lest with those things they should infect their hands:</L>
+<L>Her son obey'd her voyce, but yet her daughter</L>
+<L>Willing to have those things, came slowly after,</L>
+<L>And with her foot did spurn along these bands,</L>
+<L>As being afraid to touch them with her hands;</L>
+<L>Vntill she came unto a poole of water,</L>
+<L>And then she washt them cleane, and followed after.</L>
+</DIV1>
+<DIV1 TYPE="poem">
+<HEAD>Of one that lay unburied foure dayes after he was dead, being of the sicknesse.</HEAD>
+<L>A Certain man lay dead as it is said,</L>
+<L>Few miles from <HI>London,</HI> that made the towne afraid.</L>
+<L>Foure dayes above the ground this man did lye</L>
+<L>Vnburied, tis reported certainly:</L>
+<L><PB REF="9">To bury him no man durst be so bold,</L>
+<L>Or lay his carkasse in an earthly mould,</L>
+<L>Till with the sight of him they were opprest,</L>
+<L>And then one being wiser then the rest,</L>
+<L>Did tell the Masters of the Parish this,</L>
+<L>To send to <HI>London</HI> it were not amisse</L>
+<L>For foure stout bearers, and we shall be rid</L>
+<L>Of this annoyance: so it seemes they did,</L>
+<L>So he was buried, and the men well paid</L>
+<L>For burying him that made them all afraid.</L>
+<L>Thus in the Countrey, City, great and small,</L>
+<L>Time, death, and sicknes makes the stoutest fall.</L>
+</DIV1>
+<DIV1 TYPE="poem">
+<HEAD>The Belmans call on Thursday morning.</HEAD>
+<L>THis day the weekly Bils come out</L>
+<L>To put the people out of doubt</L>
+<L>How many of the Plague do dye,</L>
+<L>We summe them up most carefully.</L>
+<L>But oh if our transgressions all,</L>
+<L>Both how we sinne, and how we fall,</L>
+<L>God should take notice what they are,</L>
+<L>Where should we sinfull men appear<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">!</L>
+<L>We look upon the punishment,</L>
+<L>But not upon the cause 'tis sent.</L>
+<L>Remove the cause, and you shall see</L>
+<L>The Plague shall soon removed be.</L>
+</DIV1>
+<DIV1 TYPE="poem">
+<PB REF="10">
+<HEAD>Vpon a Gentleman full of the Tokens in Woods-Close, that lay there two days, and after|wards dyed.</HEAD>
+<L>A Gentleman finding himself not well,</L>
+<L>Walk't into th'fields neer unto <HI>Clerkenwell:</HI></L>
+<L>Finding himself diseas'd, he him betook</L>
+<L>Into the fields, and company forsook,</L>
+<L>And in Woods-close he lay, with wofull heart,</L>
+<L>Grieving for sin (which is the cause of smart.)</L>
+<L>He there upon the straw did humbly pray,</L>
+<L>Having the Tokens on him as some say,</L>
+<L>Most ardently unto the King of heaven,</L>
+<L>That he of all his sinnes might be forgiven.</L>
+<L>He marked was for death, God shew'd him he</L>
+<L>Within this world had not long time to be.</L>
+<L>Lord we are not worthy that same time to know,</L>
+<L>When death shall summon us from hence to go.</L>
+<L>Good God inable us to dye well then,</L>
+<L>That we may live in heaven with perfect men.</L>
+</DIV1>
+<DIV1 TYPE="poem">
+<PB REF="10">
+<HEAD>Vpon a man and his wife going into the Country, to visit their friends in this Visitation, and their entertainment on the way.</HEAD>
+<L>AN honest Citizen with's loving wife,</L>
+<L>Into the Countrey went to save their life,</L>
+<L>As they late fear'd, in <HI>London</HI> should be lost,</L>
+<L>But note how they for't on the way were crost.</L>
+<L>They came at night unto their journies end,</L>
+<L>And for their money did expect a friend,</L>
+<L>To finde 'ith Countrey, but it prov'd not so,</L>
+<L>For they i'th cage to lodge were forc't to go,</L>
+<L>Or lye i'th street; this choice was put to them</L>
+<L>They must be rul'd by law, or law contemn,</L>
+<L>They lay i'th Cage, and glad to have fresh straw,</L>
+<L>And when as morning came that light they saw,</L>
+<L>The Constable dischar'd their lodgings hire,</L>
+<L>With these same words, I'le set your beds on fire.</L>
+</DIV1>
+<DIV1 TYPE="poem">
+<PB REF="11">
+<HEAD>Londons Lord have mercy upon us.</HEAD>
+<LG>
+<L>Let all men consider both old men and yong,</L>
+<L>They c<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">nnot live ever, although they live long:</L>
+<L>Then sit down in sorrow, sigh, sob and relent,</L>
+<L>Stay n<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">t till to morrow, before ye repent.</L>
+</LG>
+<LG>
+<L>LOok on thy soul defilde with sinne,</L>
+<L>Faire <HI>London</HI> look what thou hast done:</L>
+<L>Gods high displeasure thou dost winne</L>
+<L>For thy offences every one.</L>
+<L>If <HI>Ninevie</HI> like thou pray and fast,</L>
+<L>And to the Lord dost cry and call,</L>
+<L>Hele blesse thee, though thy doores be crost</L>
+<L>With <HI>Lord have mercy upon us all.</HI></L>
+</LG>
+<LG>
+<L>The plague, alas, awo is me</L>
+<L>Like fiery Serpents bites us sore:</L>
+<L>The brasen Serpent must we see,</L>
+<L>I meane our Christ whom we adore.</L>
+<L>Our Saviour deare, whose <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">i<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">e was lost,</L>
+<L>To <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">ree us from eternall thr<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">ll,</L>
+<L>Will blesse us though our doores be crost</L>
+<L>With <HI>Lord have mercy on us all.</HI></L>
+</LG>
+<LG>
+<PB REF="11">
+<L>Pride now doth overwhelme the land,</L>
+<L>And wickednesse doth much abound,</L>
+<L>Which makes the Lord stretch forth his hand,</L>
+<L>Our strange inventions to confound.</L>
+<L><GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">or now we see unto our cost,</L>
+<L>Our great transgressions are not small,</L>
+<L>Whe<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">efore, alas, our doores are crost</L>
+<L>With <HI>Lord have mercie on us all.</HI></L>
+</LG>
+<LG>
+<L>Let drunkards now their cups forsake,</L>
+<L>That swallow down the dregs of sinne,</L>
+<L>Let soule blasphemers stand and quake,</L>
+<L>For their misdeeds that they have done.</L>
+<L>For we are with afflictions tost,</L>
+<L>And sorrow doth to us befall,</L>
+<L>And now behold our doores are crost</L>
+<L>With <HI>Lord have mercy on us all.</HI></L>
+</LG>
+<LG>
+<L>You that luscivious lives have led,</L>
+<L>Imbracing fornication still,</L>
+<L>That sleep upon a sinfull bed,</L>
+<L>Your wicked fancies to fulfill.</L>
+<L>Those vaniti<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"> that you love most,</L>
+<L>Bring horror, death, and deadly thrall,</L>
+<L>And now, alas, our doores are crost</L>
+<L>With <HI>Lord have mercy on us all:</HI></L>
+</LG>
+<LG>
+<PB REF="12">
+<L>Let him that doth his brother hate,</L>
+<L>Like <HI>Cain</HI> that kild his mothers sonne,</L>
+<L>Repent before it be too late,</L>
+<L>For his misdeeds that he ha<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">h done.</L>
+<L>For sorrow is landed on our c<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters">st,</L>
+<L>Our honey is turn'd to bitter gall,</L>
+<L>And through <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"> sin <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"> d<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">res <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">re crost</L>
+<L>With <HI>Lord have mercy on us all.</HI></L>
+</LG>
+<LG>
+<L><GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"> f<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">ll d<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">w<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"> <GAP DESC="illegible" RESP="pdcc" EXTENT="1 span"> <HI>London</HI> <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word">.</L>
+<L><GAP DESC="illegible" RESP="pdcc" EXTENT="1 line"></L>
+<L><GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"> aud con<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters">si<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"> <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"> you shames,</L>
+<L><GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"> our pri<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">de, you<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"> <GAP DESC="illegible" RESP="pdcc" EXTENT="1 span"></L>
+<L><GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"> ye in sinne are almost <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word">,</L>
+<L>Th<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"> <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"> on our knees down fall,</L>
+<L><GAP DESC="illegible" RESP="pdcc" EXTENT="1 span"> our doores <GAP DESC="illegible" RESP="pdcc" EXTENT="1 span"></L>
+<L>With <HI>Lord have mercy on us all.</HI></L>
+</LG>
+<LG>
+<L>Y<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">u <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"> lots and you st<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">umpe<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">s <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word">,</L>
+<L>V<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">in glorious in your strange attire,</L>
+<L>Whose hearts in sin are much imbrewd,</L>
+<L>Repent with speed I you desire,</L>
+<L>For sinne brings sadnesse to our coast,</L>
+<L>Sinne c<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">used <HI>I<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">sabell</HI> to fall,</L>
+<L>And for our sinnes our doores are crost</L>
+<L>With <HI>Lord have mercy on us all.</HI></L>
+</LG>
+<LG>
+<PB REF="12">
+<L>We <GAP DESC="illegible" RESP="pdcc" EXTENT="1 span"> every street,</L>
+<L>But <GAP DESC="illegible" RESP="pdcc" EXTENT="1 span"> us we have <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"> slain,</L>
+<L><GAP DESC="illegible" RESP="pdcc" EXTENT="1 span"> shall with destruction meet,</L>
+<L><GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"> <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">ednesse in us doth <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">aign<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">.</L>
+<L><GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"> in sinne our selves do boast,</L>
+<L>O<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters"> joying at anothers fall:</L>
+<L><GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"> herefore <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">ow our doores are cr<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">st</L>
+<L><GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"> <HI>Lord have mercy on us all.</HI></L>
+</LG>
+<LG>
+<L>We clean<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"> <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"> place from noy some smell,</L>
+<L>We strive <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">o put <GAP DESC="illegible" RESP="pdcc" EXTENT="1 span">,</L>
+<L>We <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"> our <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"> where we do dwell.</L>
+<L>We <GAP DESC="illegible" RESP="pdcc" EXTENT="3 letters">p our <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"> s<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">weet and faire,</L>
+<L>The while our souls in sinne are lost,</L>
+<L><GAP DESC="illegible" RESP="pdcc" EXTENT="1 line"></L>
+<L>Whi<GAP DESC="illegible" RESP="pdcc" EXTENT="3 letters"> the <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"> our doores are crost</L>
+<L><GAP DESC="illegible" RESP="pdcc" EXTENT="1 line"></L>
+</LG>
+<LG>
+<L>In stead of musk and sweet perfumes</L>
+<L>We smel <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"> Wormwood and to Rue,</L>
+<L>For to <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">ecure us from our <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">ombes,</L>
+<L>Yet de<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">th will claime <GAP DESC="illegible" RESP="pdcc" EXTENT="1 span"></L>
+<L>We are diss<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters">'d like W<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters">te <GAP DESC="illegible" RESP="pdcc" EXTENT="1 span"></L>
+<L>When <HI>Phoebus</HI> sunshine bea<GAP DESC="illegible" RESP="pdcc" EXTENT="3 letters"> <GAP DESC="illegible" RESP="pdcc" EXTENT="1 span"> <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">all</L>
+<L>And death we see our doores hath crost</L>
+<L>With <HI>Lord have mercy on us all.</HI></L>
+</LG>
+<LG>
+<PB REF="13">
+<L>Runne through the <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"> with sighs &amp; groanes,</L>
+<L>In Golgotha sit and <GAP DESC="illegible" RESP="pdcc" EXTENT="1 span">,</L>
+<L>The great destroy <GAP DESC="illegible" RESP="pdcc" EXTENT="1 span"> bones,</L>
+<L>Pale death <GAP DESC="illegible" RESP="pdcc" EXTENT="1 span"> like doth raigne.</L>
+<L>He can destroy a mighty <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word">&punc;</L>
+<L>Yea crowned Kings he <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"> to fall,</L>
+<L>And by his hand our doo<GAP DESC="illegible" RESP="pdcc" EXTENT="3 letters"> are crost</L>
+<L>With <HI>Lord have mercy on us all.</HI></L>
+</LG>
+<LG>
+<L>Have mercy Lord, to thee we cry,</L>
+<L>We for our sinnes are grieved sore,</L>
+<L>Great God of all eternity,</L>
+<L>Our former follies we deplore.</L>
+<L>Though we through sinne offend thee most,</L>
+<L>Our God thou art, and ever shall,</L>
+<L>Oh blesse us though our doores be crost</L>
+<L>With <HI>Lord have mercy on us all.</HI></L>
+</LG>
+<TRAILER>FINIS.</TRAILER>
+<PB REF="13">
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

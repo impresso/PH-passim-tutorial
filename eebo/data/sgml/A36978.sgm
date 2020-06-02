@@ -1,0 +1,4046 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD EEBOPROOF 2.0//EN">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-09-27</DATE>
+<RESPSTMT>
+<NAME>John Latta</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate. Checked for N=""s. Checked for GROUP tags. Proofed title page. Checked ^s. Reviewed structure; added LETTER SIGNED and CLOSER tags (image 16, p. 26); removed DIV4s and DIV5s throughout; made songs into Q TEXT BODY DIV1s and made Ps in songs into Ls; removed unneeded LGs throughout. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, oes, --s, and UNCLEARs. Corrected $s and $Word$s. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs and endqs, q;s, abq's, Ae's, and Qs. Checked for missing page GAPs. Checked for EPIGRAPHs and ARGUMENTS. Checked proofsheets and made corrections. Checked CLOSERs, TRAILERs, SIGNEDs, OPENERs, SALUTEs, BYLINEs. Sample: 5 minutes. Proofing: 25 minutes. Tag review and corrections: 125 minutes. DONE.</ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="A36978">
+<STC T="W">D2728</STC>
+<BIBNO T="oclc">12266022</BIBNO>
+<VID>58075</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1">
+<PB REF="1">
+<P>THE FOOL Turn'd Critick: A COMEDY:</P>
+<P>As it was Acted at the Theatre-Royall. <HI>By His Majesties Servants.</HI></P>
+<P>By <HI>T. D.</HI> Gent.</P>
+<P><HI>LONDON,</HI> Printed for <HI>Iames Magnes</HI> and <HI>Richard Bentley,</HI> at the <HI>Post-Office</HI> in <HI>Russel-Street</HI> in <HI>Covent-Garden,</HI> 1678.</P>
+</DIV1>
+<DIV1 TYPE="prologue">
+<PB REF="2">
+<PB REF="2">
+<HEAD>PROLOGUE.</HEAD>
+<L>HE who comes hither with design to hiss,</L>
+<L>And with a bum revers'd, to whisper Miss,</L>
+<L>To comb a Perriwig, or to shew gay cloathes,</L>
+<L>Or to vent Antique non-sence with new oaths,</L>
+<L>Our Poet welcomes as the Muses friend;</L>
+<L>For hee'l by irony each Play commend.</L>
+<L>Next these we welcome such as briskly dine,</L>
+<L>At <HI>Locket's,</HI> at <HI>Gissord's,</HI> or with <HI>Shataline.</HI></L>
+<L>Swell'd with Pottage, and the <HI>Burgundian</HI> Grape,</L>
+<L>They hither come to take a kindly nap.</L>
+<L>In these our Poet don't conceive much harm;</L>
+<L>For they pay well, and keep our benches warm.</L>
+<L>And though scarce half awake, some Playes they dam,</L>
+<L>They do't by Whole-sail; not by Ounce, and Dram.</L>
+<L>But when fierce Criticks get them in their clutch,</L>
+<L>They're crueller then the Tirannick Dutch.</L>
+<L>And with more Art, do dislocate each Scene,</L>
+<L>Then in <HI>Amboyna</HI> they the limbs of men.</L>
+<L>They wrack each line, and every word unknit,</L>
+<L>As if they'd find away to cramp all Wit.</L>
+<L>They are the terror of all adventurers here,</L>
+<L>The very objects of their hate and fear,</L>
+<L>And like rude Common-wealths they still are knit</L>
+<L>'Gainst English Plays, the Monarchyes of wit,</L>
+<L>They invade Poetique Lisence, and still rail</L>
+<L>At Plays, to which in duty they should vail.</L>
+<L>Yet still the' infest this Coast to fish for jests,</L>
+<L>To supplement their Wits at City feasts.</L>
+<L>Thus much for Criticks: to the more generous Wit,</L>
+<L>Our Poet Frankly, does each Scene submit;</L>
+<L>And begs your kind Allience to ingage</L>
+<L>Those Hogen interlopers of the Stage.</L>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="play">
+<PB REF="3">
+<PB N="1" REF="3">
+<HEAD>The Fool turn'd CRITICK.</HEAD>
+<DIV2 N="1" TYPE="act">
+<HEAD>ACT. I.</HEAD>
+<DIV3 N="1" TYPE="scene">
+<HEAD><HI>Scene I.</HI> Covent-Garden.</HEAD>
+<STAGE>Enter <HI>Frank Amorous,</HI> and <HI>Bernard.</HI></STAGE>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<L>PIsh, never doubt it man, thou shalt enjoy her;</L>
+<L>Give me thy hand, I say thou shalt: a man of thy</L>
+<L>Perfections, and despair of gaining a slight woman?</L>
+<L>Come, come, no more, Thou shalt possess her <HI>Bernard.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Ber.</SPEAKER>
+<L>Prithee <HI>Frank,</HI></L>
+<L>Leave off thy Railery, thy mirth's unseasonable;</L>
+<L>I am not pleas'd to hear thee flatter me</L>
+<L>With hopes of what thou never canst perform,</L>
+<L>Especially this way.</L>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<L>I last thou a Faith?</L>
+<L>Canst thou believe the thing thou feest atchiev'd?</L>
+<L>Give credit to an act is done and finish'd before thy <HI>Eyes?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Ber.</SPEAKER>
+<P>Yes sure, I could do that.</P>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<L>Why then I say once more aloud to thee,</L>
+<L>Thou shalt enjoy this woman&punc; I will, to do thee</L>
+<L>A kindness, be an honourable Procurer.</L>
+</SP>
+<SP>
+<SPEAKER>Ber.</SPEAKER>
+<P>Ha! Procurer!</P>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<L>Nay, nay, mistake me not, I mean I'le get her for thee.</L>
+<L>Procurer, or Match-maker, its all one,</L>
+<L>The word has several meanings.</L>
+</SP>
+<SP>
+<SPEAKER>Ber.</SPEAKER>
+<L>Though I know thy vanity to be such, that in</L>
+<L><PB N="2" REF="4">Thy thoughts thou couldst do wonders, but</L>
+<L>Thy power, barren as Earth on Rocks of</L>
+<L>Unknown height; yet in thy words lies something</L>
+<L>that is pleasing, though far from my belief,</L>
+<L>Thou canst perform it.</L>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<P>Try me, and if I do not.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Ber.</SPEAKER>
+<L>How canst thou think to do't, Thou know'st her not,</L>
+<L>Art unacquainted with her Family, Friends and Relations.</L>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<L>I grant I am Sir&mdash;But Heaven be prais'd I'm</L>
+<L>Owner of a certain confidence, that never fails</L>
+<L>To usher my acquaintance with any of that Sex.</L>
+<L>The least thing that of a thousand.</L>
+</SP>
+<SP>
+<SPEAKER>Ber.</SPEAKER>
+<L>But thou art wild, and wavering in thy Temper,</L>
+<L>Apt to run out into Extravagancies, unfit for her</L>
+<L>To hear, much less commend. Canst thou be serious <HI>Frank.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<L>Canst thou be wise&mdash;serious&mdash;</L>
+<L>Ud's death, dost take her for an Abbess?</L>
+<L>Or one o'th Zealots at <HI>Amsterdam?</HI></L>
+<L>That thou dost School me thus&mdash;hark, hark,</L>
+<L><HI>Bernard,</HI> Were she a Widdow zealously devout,</L>
+<L>One doting on some brawny suburb Parson,</L>
+<L>That preaches, following him the way to Heaven;</L>
+<L>A mess of phrases, serious, loud and chiming, might</L>
+<L>Work upon her Spirit: But a Girl who is as</L>
+<L>Thou describ'st her, free and airy, sanguine of her</L>
+<L>Complexion, young and healthy, a serious speech</L>
+<L>To her, is like a long Grace to one of an eager</L>
+<L>Appetite, fruitless, as 'tis distastful.</L>
+</SP>
+<SP>
+<SPEAKER>Ber.</SPEAKER>
+<P>But prithee how&mdash;what wilt thou say to her?</P>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<L>I know not yet&mdash;but do not doubt me, I'le do</L>
+<L>Thy business; never fear it <HI>Bernard:</HI> Thou hast,</L>
+<L>I thank thee, supply'd me with money, and thereby crost</L>
+<L>My miserable Fathers purpose of marrying me</L>
+<L>To an old Widow here i'th City.&mdash;And to gratifie</L>
+<L>Thee, this Woman shall be thine&mdash;and by my means.</L>
+</SP>
+<SP>
+<SPEAKER>Ber.</SPEAKER>
+<L>A strange confidence!</L>
+<L>But perhaps&mdash;he knows something of her&mdash;That</L>
+<L>Makes him thus presume&mdash;I am resolv'd to try&mdash;</L>
+<L>Well <HI>Frank,</HI> this once I'le trust Thee&mdash;I am to</L>
+<L>Night invited by her Father to Supper; Thou shalt</L>
+<L>Go with me; and if thou canst perform this,</L>
+<L>Thou art my Friend indeed.</L>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<P>And thou shalt find me so, Come lets away.</P>
+</SP>
+<STAGE>Exeunt.</STAGE>
+</DIV3>
+<DIV3 N="2" TYPE="scene">
+<PB N="3" REF="4">
+<HEAD>SCENE II.</HEAD>
+<STAGE>Enter <HI>Old Winelove, Tim, Smallwit.</HI></STAGE>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<P>Is your name <HI>Smallwit?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Small.</SPEAKER>
+<L><HI>Iervas Smallwit,</HI> Sir. the meanest of your Worships</L>
+<L>Humble Servants, One that shall prouder be to kiss</L>
+<L>Your hand, then to be crown'd with Laurel by <HI>Apollo.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<L>Good Mr. <HI>Smallwit!</HI></L>
+<L>No Flowers of Rhetorick to me, your stock I fear</L>
+<L>Will be exhausted soon enough,&mdash;by him there,</L>
+<L>Without <GAP DESC="illegible" REASON="missing" EXTENT="1 letter">is loss on me, you are commended to me</L>
+<L>By a good Friend of mine, Old Sir <HI>Formal Ancient.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Small.</SPEAKER>
+<P>He is my Patron Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<L>He sends me word, you have your Tropes and Figures,</L>
+<L>Your Syllogisms, Epithetes and Phrases, I could</L>
+<L>Have nam'd e'm right in my young days, ready by heart,</L>
+<L>And that you can accost, Repartee, come on, draw off,</L>
+<L>Retreat, and hold discourse even with the best of</L>
+<L>Our Tongue Combatants.</L>
+</SP>
+<SP>
+<SPEAKER>Small.</SPEAKER>
+<P>I should do something Sir, I've studied long for't.</P>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<L>And that you can with fair becoming Grace,</L>
+<L>And modish cringes vouch your gallantry</L>
+<L>'Gainst any Squire of the Pantofle</L>
+<L>Within the Kings Dominion.</L>
+</SP>
+<SP>
+<SPEAKER>Small.</SPEAKER>
+<P>I hope I can Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<L>Very well&mdash;I'm glad on't.</L>
+<L>I'm very glad your skill is so unquestion'd,</L>
+<L>There's one will want it all&mdash;and more I doubt not.</L>
+<L>Come hither Sir.</L>
+</SP>
+<SP>
+<SPEAKER>Small.</SPEAKER>
+<P>Is this the Gentleman?</P>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<L>The same Sir,&mdash;'tis my Heir, the only he</L>
+<L>That ever call'd me Father;</L>
+<L>And though he seems to have but a course outside,</L>
+<L>He has a cunning Headpiece&mdash;a shrewd pate;</L>
+<L>His inner Rooms are furnisht well Sir,</L>
+<L>Take my word; besides, he keeps good Company</L>
+<L>That edifie him much, good Singing, Dancing, Swearing,</L>
+<L>Jovial Company; Then has seen all the new Plays;</L>
+<L>And you'l find him a Proficient.</L>
+</SP>
+<SP>
+<SPEAKER>Small.</SPEAKER>
+<P>It were a sin to doubt it Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<L>Yet though he be well furnisht thus by nature,</L>
+<L>He has not the Town virtues, Talk and Impudence;</L>
+<L>No modish Gallantry to gloss his parts, and make e'm shine,</L>
+</SP>
+<SP>
+<PB N="4" REF="5">
+<SPEAKER>Small.</SPEAKER>
+<P>Sir fear not, hee'l soon learn.</P>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<L>I should be griev'd else, troth I should Sir.</L>
+<L>Now I would have you Sir as you are stil'd</L>
+<L>The <HI>Mercury,</HI> nay the <HI>Apollo</HI> of this age</L>
+<L>To teach him these indowments&mdash;I would have him</L>
+<L>Learn how to Court his Mistress, huff a Rival</L>
+<L>That crosses his designs, quarrel with Bullies,</L>
+<L>And pick a Wench up with alacrity.</L>
+<L>Then to see Plays, and how to firut i'th Pit,</L>
+<L>Manage his Combe, swear modishly Gad damme;</L>
+<L>Talk aloud, to make his parts be noted.</L>
+</SP>
+<SP>
+<SPEAKER>Small.</SPEAKER>
+<L>Never doubt Sir,</L>
+<L>He shall be soon instructed with these Rules.</L>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<L>And when the Play's begun, I'de have him sit</L>
+<L>In the Wits Corner, play the Critick, hiss</L>
+<L>At any thing he do's not understand:</L>
+<L>Be the Scene ne're so witty&mdash;That's no matter,</L>
+<L>'Tis Modish and Gentile.</L>
+</SP>
+<SP>
+<SPEAKER>Small.</SPEAKER>
+<L>He shall not fail Sir:</L>
+<L>Nay he shall hold a parley with the Wits:</L>
+<L>Propound and answer things beyond his knowledge,</L>
+<L>And yet come off with credit.</L>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<L>Shall he faith?</L>
+<L>Shall he come off with credit?&mdash;do but that Sir,</L>
+<L>Bring him but off with credit, and you bless me;</L>
+<L>And I'le not be ungrateful&mdash;see here's 50 Guineys;</L>
+<L>This as an Earnest of my future Bounty:</L>
+<L>And if he come off, and as thou sayst, with credit,</L>
+<L>A hundred more shall pay obeysance to Thee!</L>
+<L><HI>Tim,</HI> come hither <HI>Tim,</HI> how dost Thou like this Gentleman?</L>
+<L>Ha, prithee tell me,&mdash;Come be not so bashful.</L>
+<L>You two must be acquainted.</L>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>Faith Sir,&mdash;I like him very well&mdash;But&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<P>But&mdash;pish no Buts&mdash;hee'l make a Courtier <HI>Tim.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Small.</SPEAKER>
+<L>Ah, do not fear it Sir, The Squire and I</L>
+<L>Shall soon be intimate, wee'l be Chamber-fellows,</L>
+<L>Be Drunk together, Sing and Roar together,</L>
+<L>Ramble till two i'th Morning, and then Slip</L>
+<L>Into some private Lodging in the Parke,</L>
+<L>And get a Wench or two.</L>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<L>Withall my heart:</L>
+<L>A very pleasant fellow; I like him Sir extreamly.</L>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<L>Nay, doubt him not Sir, he is cock oth' game,</L>
+<L>I told you, you should find him a true <HI>Winelove:</HI></L>
+<L>He had it from his Father,&mdash;ay in my capring days:</L>
+<L><PB N="5" REF="5" MS="y">I would have Wrestled, Leapt, Run, pitch'd the Bar;</L>
+<L>And kist a sound Wench in a frosty morning,</L>
+<L>With any Squire in <HI>Northampton-shire:</HI></L>
+<L>But now, I must consess my Ages Autumn,</L>
+<L>Bafflles my weak endeavours.</L>
+</SP>
+<SP>
+<SPEAKER>Small.</SPEAKER>
+<P>Oh, not so Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<L>Faith 'tis very true&mdash;but 'tis no matter,</L>
+<L>Be you but careful to instruct my Son;</L>
+<L>'Tis all I wish&mdash;in him my youth shall flourish:</L>
+<L>And be you sure <HI>Tim,</HI> to observe his Doctrine,</L>
+<L>Follow his Precepts with a greedy Eare;</L>
+<L>And let me see you strut it in the Streets,</L>
+<L>Display thy Garniture, Hat, Curl'd Shaddrew</L>
+<L>With my bully Gamester, in <HI>White-Fryers.</HI></L>
+<L>Ne're doubt the means, Thou shalt have Money store,</L>
+<L>I have been scraping it this 50 year:</L>
+<L>And thou shalt never want that my Boy.</L>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>I will do what you please Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<L>Why, I would have you <HI>Tim,</HI> to be a Fine Courtier,</L>
+<L>A Jauntee, Modish follower of the times,</L>
+<L>Hah wilt thou strive?</L>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<L>Yes Sir, I will strive;</L>
+<L>I'le be as Impudent as you please to have me.</L>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<P>Wilt thou?&mdash;why, well said - ha, what think you now Sir&punc;</P>
+</SP>
+<SP>
+<SPEAKER>Small.</SPEAKER>
+<P>A pregnant Wit, believe me Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<L>And Sir, to show my duty more&mdash;I will be drunk</L>
+<L>Very often, lye a Bed all day, and rise at midnight;</L>
+<L>I'le get a Wench Sir, and if you think good a Clap,</L>
+<L>And then I shall be sure to be o'th fashion.</L>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<L>Now by Honour rarely thought upon,</L>
+<L>A Clap indeed is Modish.</L>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>I Sir, 'tis so,</P>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<L>Wee'l talk further of this point within:</L>
+<L>I must entreat you Sir to dine with me,</L>
+<L>Pray let us be Familiar.</L>
+</SP>
+<SP>
+<SPEAKER>Small.</SPEAKER>
+<P>I am in troth too bold Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<P>Fye not a jot&mdash;come lets in&mdash;<HI>Tim</HI> follow your T<GAP DESC="illegible" REASON="faint" EXTENT="4 letters">.</P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>Yes Sir.</P>
+</SP>
+<STAGE>Exeunt.</STAGE>
+</DIV3>
+<DIV3 N="3" TYPE="scene">
+<HEAD><HI>SCENE III.</HI> Hall.</HEAD>
+<STAGE>Enter Sir <HI>Formal Ancient,</HI> and <HI>Penelope.</HI></STAGE>
+<SP>
+<SPEAKER>Sir <HI>For.</HI></SPEAKER>
+<L>Daughter I say, be wise; these are ill times,</L>
+<L>And we should therefore be more provident:</L>
+<L><PB N="6" REF="6">I do not like this <HI>Bernard,</HI> that frequents</L>
+<L>My house, and your company; Daughter I say,</L>
+<L>I do not like him.</L>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<P>Why Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>For.</HI></SPEAKER>
+<L>Nay, nay, I know not that; yet to satisfie you,</L>
+<L>His Father was a roaring Cavalier,</L>
+<L>Apeaching Raskal, that betray'd our Faction:</L>
+<L>H' had like to hang'd my Uncle; and for that trick</L>
+<L>I hate the generation: Yet to say truth,</L>
+<L>It is a Courteous Varlet, and a my conscience,</L>
+<L>Would stake his Life for his Friend: but what then,</L>
+<L>His Lineage all were Knaves, conforming Rogue's;</L>
+<L>Fellowes that strain'd their throats for a free state,</L>
+<L>And for that cause I hate 'em.</L>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<L>You are my&punc; Father Sir, and 'twould be thought</L>
+<L>Great folly in me to question your Commands,</L>
+<L>Much less deny 'em.</L>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>For.</HI></SPEAKER>
+<L>How, deny 'em!</L>
+<L>Dare you deny my commmands.</L>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<L>Sir, you mistake, I alwayes meant to obey</L>
+<L>What you and Heaven should impose upon me.</L>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>For.</HI></SPEAKER>
+<L>Didst thou not say at first,</L>
+<L>Thou would'st deny my just Commands.</L>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<P>No Sir, I said 'twas folly in me to deny 'em.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>For.</HI></SPEAKER>
+<P>And dost no doubt dissemble with me,</P>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<L>Believe me Sir, I do not, I am now</L>
+<L>As I was ever, ready to obey you,</L>
+<L>In any just Command.</L>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>For.</HI></SPEAKER>
+<L>Thou art my Daughter, and should'st practise duty;</L>
+<L>Therefore I say once more, and with a parent like authority,</L>
+<L>I do not like this <HI>Bernard,</HI> therefore Discard him;</L>
+<L>See that my doors close lockt oppose his entrance:</L>
+<L>I have no house-room for him, tell him so,</L>
+<L>How now!</L>
+</SP>
+<STAGE>Enter a <HI>Servant.</HI></STAGE>
+<SP>
+<SPEAKER>Serv.</SPEAKER>
+<P>Sir, there's one Sir <HI>Peter Winelove</HI> at the three <HI>Crane Tavern,</HI> desires your Company about Earnest Business.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>For.</HI></SPEAKER>
+<L>Go tell him I come&mdash;I guess his Business, <STAGE>Exit Servant</STAGE></L>
+<L>He has a Son lately come out 'oth Country;</L>
+<L>And wants a Wife&mdash;Daughter go you to your Closet,</L>
+<L>Fall on your knees, and pray my hopes may be successful:</L>
+<L>There is a Blessing coming, and I'le work for't</L>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<L>Such Blessings I expect not, nor desire:</L>
+<L>&mdash;when 'ere I marry, or intend it, my Father</L>
+<L><PB N="7" REF="6">I see, by this Carriage to <HI>Bernard,</HI> will oppose it,</L>
+<L>If it suites not with his liking, I'me vext;</L>
+<L>Extreamly vext at my ill Fortune, and though</L>
+<L>I have no passion for this <HI>Bernard,</HI> he do's</L>
+<L>Deserve it: And it might have been my Fate, as</L>
+<L>Well as now 'tis his: Well&mdash;I'le leave all to</L>
+<L>Time; the Dice may turn, and I may yet be happy.</L>
+</SP>
+<STAGE>Enter a <HI>Servant.</HI></STAGE>
+<SP>
+<SPEAKER>Serv.</SPEAKER>
+<L>Madam, there's a Lady, accompanied with a Gentleman</L>
+<L>Below is come to visit you.</L>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<L>Wait on 'em in. <STAGE>Exit <HI>Servant.</HI></STAGE> <STAGE>Enter <HI>Franck Amorous</HI> and <HI>Lucia</HI></STAGE></L>
+<L>Dearest Madam, a thousand, thousand Welcomes;</L>
+<L>To what happy accident am I obliged,</L>
+<L>That obliged me with your presence.</L>
+</SP>
+<SP>
+<SPEAKER>Lue.</SPEAKER>
+<L>To no accident; I came to Sit and talk with you:</L>
+<L>Or if thou like the Weather, lets take a turn in</L>
+<L>The Parke: I have been so melancholly since</L>
+<L>My Brother went out of the Town.</L>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<L>Is not that <HI>Franck Amorous?</HI> Heavens! 'tis he,</L>
+<L>&mdash;how came he with her <STAGE>Aside.</STAGE></L>
+<L>Madam, what Gentleman is that?</L>
+</SP>
+<SP>
+<SPEAKER>Lue.</SPEAKER>
+<P>Why, don't you know him?</P>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<P>Not I.</P>
+</SP>
+<SP>
+<SPEAKER>Luc.</SPEAKER>
+<L>No, that's strange, I met him at the door&punc;</L>
+<L>And hearing me ask for you, pretended business,</L>
+<L>And desir'd the favour to conduct me to you.</L>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<P>Business with me? What this should mean I know not.</P>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>Madam, although 'its my unhappiness to be a stranger</L>
+<L>To you, and consequently to be destitute of what</L>
+<L>Would make me blest, could I obtain it&mdash;your</L>
+<L>Acquaintance, yet emboldned by the Cause, I</L>
+<L>Presume to tell you that I have Business.</L>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<P>With me?</P>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<P>Madam, with you.</P>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<L>Heaven grant it be to'th purpose: Madam I beg&punc;</L>
+<L>Your excuse for a Minutes Conference&mdash;pray</L>
+<L>Declare it Sir.</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<P>I have a Friend that Loves you&punc;</P>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<P>Well Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<P>That dyes for you.</P>
+</SP>
+<SP>
+<PB N="8" REF="7">
+<SPEAKER>Pen.</SPEAKER>
+<P>Not unlikely.</P>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>And to this Friend, have I engaged my honour,</L>
+<L>That you shall.</L>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<P>What I</P>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>Receive his Love&mdash;permit him to enjoy you,</L>
+<L>The only Cure I know.</L>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<L>But whence Sir springs your Confidence in my consent,</L>
+<L>That you durst promise this?</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>Why, Faith no Confidence in you, but in my own</L>
+<L>Ability, made me do't: Besides, the knowledge</L>
+<L>I have that a woman of honour, as you are, or</L>
+<L>Would at least be thought, could not refuse so</L>
+<L>Fervent an address, when offered by so brave</L>
+<L>A Gentleman; especially when urged by perswasions.</L>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<L>I will not trouble my self with reproving your vanity;</L>
+<L>That were a fruitless work, but I desire to know,</L>
+<L>Who 'tis that is thus pain'd&mdash;pray Sir, what is he?</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>Why, Faith a man, that were a Non Parelio,</L>
+<L>But that he doats on women&mdash;a general fault.</L>
+<L>Ye have the Ascendant over us.</L>
+<L>This Paper will make all plain;</L>
+<L>There you may read his name.</L>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<L>Well I am strangely taken with this Fellow; <STAGE>Aside.</STAGE></L>
+<L>How many <HI>Bernards</HI> live in him.</L>
+</SP>
+<STAGE>Reads.</STAGE>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>I cannot much blame <HI>Bernard</HI> for his choice;</L>
+<L>This is no ordinary woman, and therefore not</L>
+<L>To be dispis'd: But yonders a Lady, through whose</L>
+<L>Vizard&mdash;I met an eye that darted fire into me&mdash;</L>
+<L>What a presence she has: Now would I give a</L>
+<L>Million for an invisible hand to snatch away that Mask.</L>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<L>Well Sir, I've read the Letter&mdash;and to let you</L>
+<L>See, I neither flight the message nor the Bearer:</L>
+<L>I'le Write an Answer to it; he may hope</L>
+<L>Still, assure him I will do't: In the mean time</L>
+<L>I will not fail to commend your fidelity.</L>
+<L>Madam, I'le wait upon you instantly, please you to</L>
+<L>Permit this Gentleman to keep you Company; I know</L>
+<L>Him now, and can assure the general voice of</L>
+<L>Fame denotes him Noble.</L>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>So, this has introduced me, and I'le forward:</L>
+<L>This must be a rare woman: <STAGE>Bowes to her.</STAGE> <STAGE>She lets fall her Mask, he snatches it up:</STAGE></L>
+<L>How great a reason have I to bliss</L>
+<L>Fortune, that by an accident permits my eye,</L>
+<L>The view of so much Excellence.</L>
+</SP>
+<SP>
+<PB N="9" REF="7">
+<SPEAKER>Luc.</SPEAKER>
+<P>No Excellence Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>'I faith it is&mdash;O cast away that cloud,</L>
+<L>That shuts up so much Beauty.</L>
+</SP>
+<SP>
+<SPEAKER>Luc.</SPEAKER>
+<L>Pray spare your Rhetorick, and let me tell you Sir,</L>
+<L>I hate a flatterer,</L>
+<L>As I hate the Devil, and would as soon avoid him.</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>A flatterer Madam, damn him&mdash;I hope</L>
+<L>You have heard nothing in my words,</L>
+<L>That you should take me for flatterer;</L>
+<L>I know too much of honour to dissemble.</L>
+</SP>
+<SP>
+<SPEAKER>Luc.</SPEAKER>
+<L>Pardon me Sir, If I make doubt of that,</L>
+<L>You are a man I hope.</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<P>I was this morning.</P>
+</SP>
+<SP>
+<SPEAKER>Luc.</SPEAKER>
+<L>And are yet, doubt not,&mdash;if so you may dissemble</L>
+<L>By th' charter of your Sex.</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>But your known beauty, by all so much admir'd,</L>
+<L>Deserves, nor needs no flattery, besides I</L>
+<L>Applaud a truth, and that is still allow'd.</L>
+</SP>
+<SP>
+<SPEAKER>Luc.</SPEAKER>
+<L>By some I grant it is&mdash;and since your searching wit</L>
+<L>Has thrust me on Discourse against my will;</L>
+<L>I'le let you know my temper.</L>
+<L>I hate a man that flatters worse then death;</L>
+<L>He that should fawn, and sooth me in my Errour;</L>
+<L>I'de shun him, as I would the Pestilence&mdash;</L>
+<L>I am not made perhaps of the same mould,</L>
+<L>That other women are; I do not love to hear</L>
+<L>A Fop cry Madam, I vow to gad that smile</L>
+<L>Became you sweetly.</L>
+<L>No'tis a careless, blunt, and</L>
+<L>Manly Carriage that likes me best&mdash;Besides</L>
+<L>Sir, I think 'tis newer, and more modish.</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>'Tis a witty Wanton&mdash;</L>
+<L>There's no way but to wheel about; and begin with</L>
+<L>Her in her own Stile&mdash;Madam I must confess,</L>
+<L>I did mistake your temper; but from henceforth,</L>
+<L>You shall perceive I am more given to satyrise,</L>
+<L>Then flatter or dissemble.</L>
+</SP>
+<SP>
+<SPEAKER>Luc.</SPEAKER>
+<P>I am glad on't.</P>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>Fortune in this hath been most kind to me, to make</L>
+<L>Me worthy of your joy.</L>
+</SP>
+<SP>
+<SPEAKER>Luc.</SPEAKER>
+<P>Still in that vein&mdash;take heed.</P>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>I have done Madam&mdash;the Divels in me;</L>
+<L>I cannot out of my road, though I am punish'd for't.</L>
+</SP>
+<SP>
+<SPEAKER>Luc.</SPEAKER>
+<L>I doubt not but I am meanly priz'd in your thoughts,</L>
+<L>For being thus free.</L>
+</SP>
+<SP>
+<PB N="10" REF="8">
+<SPEAKER>Fran.</SPEAKER>
+<P>No, no, not much for that;&mdash;I know your Sexes frailty.</P>
+</SP>
+<SP>
+<SPEAKER>Luc.</SPEAKER>
+<P>Our frailty.</P>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<P>I your ambition, or call it worse, your pride.</P>
+</SP>
+<SP>
+<SPEAKER>Luc.</SPEAKER>
+<L>But pray refresh your memory Sir,</L>
+<L>Did not you first accost me, did not you long</L>
+<L>To break the Ice, and speak to me? come confess.</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>I long to speak to you, ha, ha, ha, that's fine;</L>
+<L>Pray Madam, recollect, peruse your self,</L>
+<L>What is there in that face that I should long for?</L>
+<L>I think I fit her now. <STAGE>Aside.</STAGE></L>
+<L>&mdash;long to speak to you.&mdash;That's a good jest i'faith.</L>
+</SP>
+<SP>
+<SPEAKER>Luc.</SPEAKER>
+<L>If I mistake, and am indeed so indifferent in your eye,</L>
+<L>As you declare I am; you will oblidge your self</L>
+<L>To remove from me to some more taking object.</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<P>No Madam, you may do what you please&mdash;I have business.</P>
+</SP>
+<SP>
+<SPEAKER>Luc.</SPEAKER>
+<P>I shall not want intreaty.</P>
+</SP>
+<STAGE>Is going away&punc;</STAGE>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>'Ds death she's going indeed&mdash;Madam, sweet Madam,</L>
+<L>What do you mean? Now have I like a Puppy,</L>
+<L>Overdone my part, and made her angry&mdash;you</L>
+<L>Will not go in earnest?</L>
+</SP>
+<SP>
+<SPEAKER>Luc</SPEAKER>
+<P>I use not Sir to jest with strangers.</P>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>You know I did this but in obedience to your</L>
+<L>Command, far from my own good Temper, Heaven</L>
+<L>Knows, and if your mind be changed, and you affect</L>
+<L>Another Courtship better&mdash;'tis but wheeling a little</L>
+<L>Way about again&punc; Madam, I'le be with you presently.</L>
+</SP>
+<SP>
+<SPEAKER>Luc.</SPEAKER>
+<L>No Sir, 'tis needless, I am very well satisfied in</L>
+<L>The knowledge of your Temper, as I hope you are</L>
+<L>Of mine, and am at present very unwilling to</L>
+<L>Urge a further tryal.</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>Then make me so happy to know your Lodging,</L>
+<L>That I may have liberty to pay my duty to you,</L>
+<L>In requital of this favour.</L>
+</SP>
+<SP>
+<SPEAKER>Luc.</SPEAKER>
+<L>That I cannot neither, he that Loves me must seek me;</L>
+<L>Perhaps the reward will not be worth the search:</L>
+<L>But 'tis my humour Sir.</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>Nay, now you are cruel Madam&mdash;&punc;dsdeath do</L>
+<L>You make a Beagle of me, and think I can</L>
+<L>Hunt you out, upon the scent? I'faith you</L>
+<L>Are too rigorous.</L>
+</SP>
+<SP>
+<SPEAKER>Luc.</SPEAKER>
+<L>My words are irrevocable, and 'twill be discretion</L>
+<L>In you not to urge me further.</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>I've done, and will be patient&mdash;but if I do</L>
+<L>Meet you again, as it shall go very hard if I</L>
+<L><GAP DESC="illegible" EXTENT="2 words"> I will&mdash;but no matter, let this suffice</L>
+<L><PB N="11" REF="8">At present, I love you beyond thought, and will</L>
+<L>Find a time to let you know't at large.</L>
+</SP>
+<STAGE>Enter <HI>Penelope</HI> with a Letter written.</STAGE>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<L>Here Sir, 'tis done; I have in this discover'd</L>
+<L>My mind to him: And besides, have given him to</L>
+<L>Understand how much he is engaged to you:</L>
+<L>But let him for a time forbear our house,</L>
+<L>It is my fathers pleasure; his mind may alter</L>
+<L>And set all right again. Pray tell him so.</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>Madam, you have oblidg'd us both, and I shall be</L>
+<L>Most happy in an imployment to gratifie</L>
+<L>This favour; in the mean time, all I can do is to</L>
+<L>Acknowledge it, and live your humble servant.</L>
+<L>Fair Madam yours&mdash;'dsdeath she'l perceive my</L>
+<L>Extafie&mdash;Ladies&mdash;your servant&mdash;</L>
+</SP>
+<STAGE>Exit.</STAGE>
+<STAGE>Turns back and sighs.</STAGE>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<L>Well I do love this Fellow, and will</L>
+<L>Devise some means that he shall know it;</L>
+<L>Come Madam lets abroad.</L>
+</SP>
+<SP>
+<SPEAKER>Luc.</SPEAKER>
+<P>I am ready to wait on you.</P>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<L>He has a cunning Tongue, but that I value little: No,</L>
+<L>The choice of prudent Judgments I approve;</L>
+<L>Honour and virtue, must obtain my Love.</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+</DIV3>
+<TRAILER>The End of the first Act.</TRAILER>
+</DIV2>
+<DIV2 N="2" TYPE="act">
+<PB N="12" REF="9">
+<HEAD>ACT. II.</HEAD>
+<DIV3 N="1" TYPE="scene">
+<HEAD><HI>Scene I.</HI> Covent-Garden.</HEAD>
+<STAGE>Enter <HI>Bernard.</HI></STAGE>
+<SP>
+<SPEAKER>Ber.</SPEAKER>
+<L>TO be in Love, is to be mad, and live a phrase,</L>
+<L>That rarely sits my present disposition; for</L>
+<L>Certainly if I had sense; or any reason left,</L>
+<L>I should have kept my self free, at least from Love,</L>
+<L>The plague of all mankind.</L>
+<L>Sure the Devil, when Providence first</L>
+<L>Quicken'd men with life, mingled this amorous</L>
+<L>Poyson with their blood, as a continual torment.</L>
+</SP>
+<STAGE>Enter <HI>Frank Amorous.</HI></STAGE>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<L>Dear <HI>Frank!</HI>&mdash;what return'd already?</L>
+<L>Well! and how go matters? ha! didst speak to her?</L>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<L>Yes, I did speak to her, and thanks to my good Tongue,</L>
+<L>And fluent Rhetorick, a great deal, a great deal</L>
+<L>To the purpose&mdash;hark,&mdash;thy business is done,&mdash;</L>
+<L>She's thine, she's thine Rogue.</L>
+</SP>
+<SP>
+<SPEAKER>Ber.</SPEAKER>
+<L>But art thou in earnest? prithee do not flatter me&punc;</L>
+<L>For to fall from these hopes to which thou hast rais'd me,</L>
+<L>Would be a horrid Torture.</L>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<L>Peruse this Paper, and then credit me; 'tis her own</L>
+<L>Handy-work: Sir, I assure you I could have had</L>
+<L>A Token for you, a Ring, or a slight Bracelet</L>
+<L>From her Arm; but that I thought 't was needless.</L>
+</SP>
+<SP>
+<SPEAKER>Ber.</SPEAKER>
+<L>A Letter, and from her? I am transported!</L>
+<L>My best of Friends! how am I bound to thee?</L>
+<L>I almost fear to read what's Writ within, least</L>
+<L>The Excess of my delight should kill me.</L>
+<L>But I must venture.</L>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<P>I prithee come, let's hear it.</P>
+</SP>
+<SP>
+<SPEAKER>Ber.</SPEAKER>
+<STAGE>reads,</STAGE>
+<P>I have such a sensible knowledge of your sufferings, That I would willingly, if it could be without prejudice of my Honour, redress e'm; But Mr. <HI>Amorous</HI> can certifie you; to whom you are infinitely oblig'd for his fidelity.</P>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<P>D'e mark that <HI>Bernard?</HI></P>
+</SP>
+<SP>
+<PB N="13" REF="9">
+<SPEAKER>Ber.</SPEAKER>
+<STAGE>reads,</STAGE>
+<P>That 'tis not mine, but my Fathers will, that debars your coming; which also can be affirmed by your worthy Friend, sweet Mr. <HI>Amorous.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<L>Ha! this is more then I expected, well go thy</L>
+<L>Ways, thou art a kind hearted little Rogue,</L>
+<L>I'le say that for thee.</L>
+</SP>
+<SP>
+<SPEAKER>Ber.</SPEAKER>
+<STAGE>reads.</STAGE>
+<P>But from henceforth I desire you to have patience, and pray for an alteration, and forget not to be grateful to the deserving and noble Mr. <HI>Amorous.</HI> Your Friend <HI>Penelope.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<L>Very well! do'st hear</L>
+<L>What a commendable Character she gives me?</L>
+</SP>
+<SP>
+<SPEAKER>Ber.</SPEAKER>
+<L>I do Sir,&mdash;a thousand suspicions gnaw my heart. <STAGE>reads agen.</STAGE></L>
+<L><HI>Can be affirm'd by your worthy Friend sweet Mr.</HI> Amorous,&mdash;</L>
+<L>'dsdeath, she loves him, 'tis plain&mdash; <STAGE>reads still.</STAGE></L>
+<L>(Still more!) her phrase is passionate, oh dull!</L>
+<L>Dull Fool! to trust him with a secret to undo thee.</L>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<L>Come, prithee what art thou musing on?</L>
+<L>Methinks this should make thee leap for joy;</L>
+<L>Sing Catches, Frisk, and know no Earth to tread on:</L>
+<L>What a Devil ayl'st thou?</L>
+</SP>
+<SP>
+<SPEAKER>Ber.</SPEAKER>
+<P>Nothing Sir, nothing, only a sudden Melancholly.</P>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<L>Melancholly, Apox upon't, laugh it away man;</L>
+<L>Think on thy Mistriss; thou seest I've done thy business.</L>
+</SP>
+<SP>
+<SPEAKER>Ber.</SPEAKER>
+<P>Ha!&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<P>Ha! why dost thou stare on me?</P>
+</SP>
+<SP>
+<SPEAKER>Ber.</SPEAKER>
+<P>The business!</P>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<P>I the next visit shall finish it.</P>
+</SP>
+<SP>
+<SPEAKER>Ber.</SPEAKER>
+<P>Dares he upbraid me? Sir, you shall answer this.</P>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<P>Answer that&mdash;d'slight he's jealous; I find it now, and now I consider on my past proceedings, it may be he has cause; he<GAP DESC="illegible" REASON="blotted" EXTENT="1 letter"> commendations in her Letter were somewhat more then Ordinary: She addrest her self to him, but her praises were for me. ('Tis so) what a damn'd dull Rogue was I not to receive it? I'le go visit her straight, and if I find her true, Friend I shall not fear to answer your demand, though with the hazard of my Life and Fortune.</P>
+</SP>
+<STAGE>Exeunt.</STAGE>
+</DIV3>
+<DIV3 N="2" TYPE="scene">
+<HEAD><HI>Scene II.</HI> A Tavern.</HEAD>
+<STAGE>Enter <HI>Old Winelove, Tim, Formall, Smallwit, Drawer.</HI></STAGE>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<P>Well done <HI>Tim,</HI> bravely done Boy&mdash;Drawer, Sirrah give him t'other glass of Sack for that last action, and my little Minion of the Muses bring him but to't; let me but hear him talkt of in the Play-house, fear'd by the Bullies, and renown'd in Taverns, and I will be a Friend to thee for ever.</P>
+</SP>
+<SP>
+<PB N="14" REF="10">
+<SPEAKER>Small.</SPEAKER>
+<P>Your bounty Sir, has seal'd me yours: believe he shall with|in a little space of time be famous, and such a one as you could wish he was; he has already profited extreamly.</P>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<P>But prithee let me see that Congie over again, and your posture; i'faith 't was very modish: Come <HI>Tim,</HI> prithee once again.</P>
+</SP>
+<SP>
+<SPEAKER>Small.</SPEAKER>
+<P>Look Sir in Company, take notice your Garniture, fit adjustee, and advantagiously as you can, especially if you are among Ladies; and let your Comb be ready thus for your Perriwig; whether it want or no 'tis a good posture: if you are saluted, make your Congie thus, with a start, your head bowing to your left Shoulder, as if it meant to kiss it. Very well! what think you of that Sir? did he not do that better then the last?</P>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<P>i'Faith 't was very well, Sir <HI>Formall</HI> did you see it?</P>
+</SP>
+<SP>
+<SPEAKER>Sir For.</SPEAKER>
+<P>Yes, but to tell you the truth, I am not for this new Fan|tastick way I like your ancient custom, the old way of saluting grave|ly, 'tis more manly; these cringing Tumblers postures I like not. Give me your method of fair salutation, a rule to grace behaviour. These new ways approv'd by being o'th' fashion, meet not my appro|bation.</P>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<P>Old <HI>Formall,</HI> still i'faith&mdash;but mind him not Boy: I'me pleased to see thee exercise thy parts with Judgement and Discre|tion, Persevere Boy, Thou hast thy Fathers word for't, go on and prosper.</P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>And so I have Sir, never doubt, I have designs here budding in this pate of mine, that cannot chuse but prosper, but methinks my Father in Law there, that must be, gives me small encouragement.</P>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<P>Oh! 'tis no matter, do not mind what he says: He! alas poor Dotard, only understood the way to purchase wealth, and make his Daughter a Fortune fit to embrace thee, that's his Master|piece.</P>
+</SP>
+<SP>
+<SPEAKER>Sir For.</SPEAKER>
+<P>Mr. <HI>Winelove,</HI> I hold it prudence in you first to deck his mind with internal Endowments, before you proceed to external Or|naments; for the Body, mark me Sir, is but as a Tenement, bare and unfurnisht, till the mind adorns it with her Houshold-stuff.</P>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<P>Sir, he shall be adorn'd both ways; his mind shall be the business of his Tutor; his body of his Taylor; he shall be perfect, do not doubt Sir <HI>Formall.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>I Sir, never doubt me, I have a spirit I assure you, perhaps a Wit too adorn'd with Endowments, such as you mention; and by my Tutors help I may in time be able to discourse with&mdash;I'le say no more&mdash;your Daughter&mdash;but let that pass.</P>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<P>Why well said <HI>Tim</HI>&mdash;thy Fathers temper just.</P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>Now I have a great mind to carp at some of his words, if I had but confidence enough to pretend to be a Critick.</P>
+</SP>
+<SP>
+<PB N="15" REF="10">
+<SPEAKER>Old Wine.</SPEAKER>
+<P>Well said again i'faith, why now I like thee; this shows thy ready Wit to apprehend; I'me pleased with this extremely.</P>
+</SP>
+<SP>
+<SPEAKER>Small.</SPEAKER>
+<P>Sir, you shall find great alteration in him within these two days; for take it from me, he has a ripening Genius, a Wit that will be poynant, and Satyrical; and some perhaps will find it.</P>
+</SP>
+<STAGE>Enter Fidlers.</STAGE>
+<SP>
+<SPEAKER>1st. Fid.</SPEAKER>
+<P>Will it please you Gentlemen to hear a new Lesson, or a Song A-la-mode.</P>
+</SP>
+<SP>
+<SPEAKER>Sir For.</SPEAKER>
+<L>S'bud you impertinent Raskal get you gone,</L>
+<L>Or I'le so batter that Musical sconce of yours.</L>
+<L><STAGE>Song A-la-mode</STAGE> Quotha, I had as lieve hear a</L>
+<L>Gibb Catt howl, and as much pleasure I take in't.</L>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<P>Fie Sir <HI>Formall,</HI> this is plain rashness, beat a poor fellow for offering to divert you.</P>
+</SP>
+<SP>
+<SPEAKER>Sir For.</SPEAKER>
+<P>Divert me with a Pox.&mdash;Sirrah do not provoke me, but go.</P>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<L>Stay friend, stay, this is only a little peevish</L>
+<L>Blood he has within him&mdash;'twill be allay'd presently.</L>
+<L>Sir <HI>Andrew,</HI> for my sake have a little patience; why,</L>
+<L>We came hither to be merry; 'tis a day of Jubilee,</L>
+<L>I'faith he shall Sing.</L>
+</SP>
+<SP>
+<SPEAKER>Sir For.</SPEAKER>
+<P>Sir, were his Songs moral and edifying, I should dispence with the noise; but this is a lewd Rogue, that gleans up all the frag|ments of cast Bawdy to make Songs A-la-mode, as he calls 'um: Sirrah can you sing the battle of <HI>Mardike?</HI></P>
+</SP>
+<SP>
+<SPEAKER>1st. Fid.</SPEAKER>
+<P>No indeed Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Sir For.</SPEAKER>
+<L>I told you so&mdash;not sing the Battel of <HI>Mardike?</HI></L>
+<L>Why thou ignorant Rogue, where hast thou bin bred?</L>
+<STAGE>Sings</STAGE>
+<L>And hussing, And puffing,</L>
+<L>And Snuffing, And Cuffing the <HI>Spaniard;</HI></L>
+<L>Whose Brows have bin dy'd in a Tan-yard,</L>
+<L>Well got Fame, a Warriours Wife.</L>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<P>O brave Sir <HI>Formal.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>For.</HI></SPEAKER>
+<L>Ah Sir, there's some matter in this now, an ill bred</L>
+<L>Raskal, not sing the Battle of <HI>Mardike.</HI> Here's</L>
+<L>Near a child in <HI>Banbury</HI> of 7 years old, but can</L>
+<L>Sing the Battle of <HI>Mardike,</HI> and has it readier then</L>
+<L>His Horn-book.</L>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<L>Now have I a jest for my Father in Law there, if I</L>
+<L>Durst speak it.</L>
+</SP>
+<SP>
+<SPEAKER>Small.</SPEAKER>
+<P>What is it Sir,</P>
+</SP>
+<SP>
+<PB N="16" REF="11">
+<SPEAKER>Tim.</SPEAKER>
+<L>To have told him, that no body would wonder at his</L>
+<L>Mettle and testy humour, knowing he was born at <HI>Banbury.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Small.</SPEAKER>
+<P>Amongst the Tinkers.</P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>Ay i'gad, was not that a good one.</P>
+</SP>
+<SP>
+<SPEAKER>Small.</SPEAKER>
+<P>Ha, ha, ha, ha.</P>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<P>How now my little Mercury, what's the matter.</P>
+</SP>
+<STAGE><HI>Small.</HI> (Whispers <HI>Old Winelove.</HI>)</STAGE>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<P>Ha, ha, ha, 'tis a witty Varlet&mdash;but come my friend.</P>
+</SP>
+<SP>
+<SPEAKER>Small.</SPEAKER>
+<L>One of thy best Songs now, thy Newest&mdash;a Song A-la-mode&mdash;</L>
+<L>No matter what he sayes, I'le reward thee.</L>
+</SP>
+<Q><TEXT LANG="eng">
+<BODY>
+<DIV1 TYPE="song">
+<HEAD>Song.</HEAD>
+<LG>
+<L><GAP DESC="music"> THe Age is refin'd, and the Vulgar no more are despis'd for their <GAP DESC="music"> Talent of sense.</L>
+<L>Good Wit, at the best is esteem'd but a jest,</L>
+<L>A <GAP DESC="music"> <GAP DESC="illegible" REASON="faint" EXTENT="1 word"> is encourag'd, Desert is supprest:</L>
+<L><HI>That</HI> will flourish a <GAP DESC="music"> hundred years hence. <GAP DESC="music"></L>
+</LG>
+<LG N="2">
+<PB N="17" REF="11">
+<HEAD>2.</HEAD>
+<L>Fierce Criticks like Kings, rule over this Isle;</L>
+<L>As the insolent Iudges of Wit:</L>
+<L>And though they have none, but what is deer bought,</L>
+<L>Yet to be judicious, they fain would be thought:</L>
+<L>By the gleanings they get in the Pit.</L>
+</LG>
+<LG N="3">
+<HEAD>3.</HEAD>
+<L>Then let the precise, despair to be wise,</L>
+<L>Let wisedom forsake his abode.</L>
+<L>Since Wit is made none, by the Fops of the Town,</L>
+<L>Debauches increas'd, and good fancies o'rethrown.</L>
+<L><HI>Chorus,</HI> By a pleasant Vice Alamode.</L>
+</LG>
+</DIV1>
+</BODY>
+</TEXT></Q>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<L>Very well 'ifaith&mdash;hold there's an Angel for thy</L>
+<L>Pains; now Sir <HI>Awdrew,</HI> what think of this?</L>
+<L>Is not this better then your Doggril damn'd</L>
+<L>Rhime, all sound, no sense. This is new, and made</L>
+<L>By a Wit on Wit, on Critick, ah these Critick</L>
+<L>Wits are rare Fellows.</L>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>For.</HI></SPEAKER>
+<L>To practise Surgery upon: To flout at the Decrees</L>
+<L>Of Law, or Justice, to burlesque on Religion;</L>
+<L>To make a Ballad out of <HI>Davids</HI> Psalms, and</L>
+<L>Turn old <HI>Hopkins</HI> Meeter into Nonsense.</L>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<P>Pish, you mistake me clearly.</P>
+</SP>
+<SP>
+<SPEAKER>Sir. <HI>For.</HI></SPEAKER>
+<L>Not a jot Sir,&mdash;I've known him carp upon the</L>
+<L>Canticles, and call 'em Canting Lectures; Laugh at</L>
+<L>A Pious Pastor that was blind, because he told 'em,</L>
+<L>He could show a path to lead to happiness: Ah they</L>
+<L>Are lewd Raskals; Lord, Lord, what will this</L>
+<L>World come to?</L>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<L>To dust as it 'twas of old, but believe me Sir, your</L>
+<L>Judgment gives too harsh a sensure of 'em.</L>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>For.</HI></SPEAKER>
+<L>It may be so Sir, but pardon me Sir, I speak</L>
+<L>My thoughts; I use not to dissemble, I love</L>
+<L>Plain dealing&mdash;Drawer bring to pay.</L>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<L>There's nothing Sir, Fye Sir <HI>Formall</HI>&mdash;put not</L>
+<L>That forc'd expression on your Friend&mdash;so small</L>
+<L>A thing as this should not be spoke of.</L>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>For.</HI></SPEAKER>
+<L>Well Sir, I know your temper, and will urge it no</L>
+<L>Further; I'le go home and prepare my Wife and</L>
+<L>Daughter for your Entertainment, pray be no</L>
+<L>Stranger to my house, and let your Son come</L>
+<L>Often, I shall expect him an hour hence, according</L>
+<L>To your promise.</L>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<L>Sir, he shall only go home and change his habit,</L>
+<L><PB N="18" REF="12">And wait on you immediatly&mdash;</L>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<L>a Complement</L>
+<L>At parting&mdash;de'e hear&mdash;</L>
+</SP>
+<SP>
+<SPEAKER>Small.</SPEAKER>
+<P>Go Sir&mdash;the last I taught you.</P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>Sir, when I have imbellish'd my self with external accoutre|ments, fit to be seen, and received by a person of your merit and gran|deur, I shall not fail to imploy my internal endowments to deserve the honour to kiss the hand of your fair Daughter.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>For.</HI></SPEAKER>
+<P>Very well Sir&mdash;I apprehend your meaning, though your phrase be somewhat odd&mdash;my welcom shall return my answer to you&punc; In the mean time I take my leave.&mdash;</P>
+</SP>
+<STAGE>Exit Sir <HI>Form.</HI></STAGE>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<P>So now lets home&punc; I have commanded my Taylor to make thee a Rich Suit <HI>Tim.</HI> Nay, thou shalt want for nothing Boy, be but industrious. And Mr. <HI>Smallwit,</HI> set him but forward in what he is begun; let me but hear that he is thought a Wit, and playes the Cri|tick handsomly; the Critick, methinks the very word is modish.</P>
+</SP>
+<SP>
+<SPEAKER>Small.</SPEAKER>
+<P>He shall do this, and more I'le warrant you Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<P>Rail at a Poets lines, and sift the meaning, especially if he be but a dabbler, a novice in the art; then let him raign tyrannically, 'twill procure Fame, whether he's right or no.</P>
+</SP>
+<SP>
+<SPEAKER>Small</SPEAKER>
+<P>He has that knack already Sir, and fear not hee'l persevere.</P>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<P>Be sure thou dost Boy&mdash;but we waste the time, thou wilt be long a dressing: Come let's in.</P>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE>Enter Lady <HI>Ancient,</HI> Mrs. <HI>Penelope.</HI></STAGE>
+<SP>
+<SPEAKER>Lady <HI>A.</HI></SPEAKER>
+<P>Sir <HI>Formal</HI> told you right Daughter, you know not the tricks, nor the debauches of the Town: What Plots, what secret Jugglings are abroad, therefore I say take heed: I have, I thank my stars, been ever ac|counted of an immaculate Life and Conversation, and I would have that Fame descend on you, which with such great discretion I have purchast&punc; but then you must deserve it.</P>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<P>Madam, I hope I shall, I think you yet ne're saw me guilty of any vice, could give you cause to doubt my future virtue.</P>
+</SP>
+<SP>
+<SPEAKER>Lady <HI>A.</HI></SPEAKER>
+<P>Your Virtue&mdash;no, I fear not that, 'twere a sin to ima|gine my blood could e're rebel, Sir <HI>Formall</HI> too, though I mislike his starcht behaviour and opinion, was once a Virtuoso, and therefore think not I doubt your virtue; no, 'tis your destiny I fear.</P>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<P>Your fears are fruitless Madam; I ne're was yet so wedded to my will, to chuse before a tryal had made proof whether he did deserve it: Were I not sure she knows nothing of my Love to <HI>Franck Amorous,</HI> this would a little startle me&punc;</P>
+</SP>
+<STAGE>Aside.</STAGE>
+<SP>
+<SPEAKER>Lady <HI>A.</HI></SPEAKER>
+<L>I do believe thee, yet give me leave to fear:</L>
+<L>Is it not seen, a Lady whose fame for breeding</L>
+<L>And descent, is loudly spoken of; gets a toy in her head,</L>
+<L>Marries her Footman, and gives the Flambeau for her Crest&punc;</L>
+<L><PB N="19" REF="12">Another, charm'd with the flatteries of some smooth tongu'd seducer,</L>
+<L>Sells her honour, and whole race, to infamy,</L>
+<L>Ruines her self; and lastly dies a Beggar.</L>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<P>These are sad Moralls Madam.</P>
+</SP>
+<SP>
+<SPEAKER>Lady <HI>A.</HI></SPEAKER>
+<L>But most true; when I was young, adorn'd with blooming</L>
+<L>Beauty, for without vanity I could so term it, I</L>
+<L>Was admir'd, su'd to oft by many&mdash;many</L>
+<L>With Presents woo'd me, many with Poetry, some</L>
+<L>Would urge their merits, some their Fortunes:</L>
+<L>Others would fight; and happy then was he that</L>
+<L>Could procure a smile to grace his enterprize:</L>
+<L>For I well knowing the power of my attractions,</L>
+<L>Kept such a mean of favour 'twixt 'em all,</L>
+<L>That none could boast his Fortune or dispair:</L>
+<L>'Tis true, I sometimes long'd for what they offer'd,</L>
+<L>But with a trick I had, a cunning trick,</L>
+<L>I kept it from their knowing; at last your Father,</L>
+<L>Who then was held a man of rare endowments,</L>
+<L>Though now they are abused by his Customs:</L>
+<L>So took me with his 'haviour and good parts,</L>
+<L>For he had excellent parts&mdash;so that for his sake</L>
+<L>I quitted all the rest.</L>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<P>And left them Willowes.</P>
+</SP>
+<SP>
+<SPEAKER>Lady <HI>A.</HI></SPEAKER>
+<L>Every man of 'em&mdash;Therefore I say look through</L>
+<L>The man you love: Observe his parts well,</L>
+<L>Then view his Estate; for some there are have neither.</L>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<L>Neither Parts nor Estate, goodness defend me</L>
+<L>From such a one! by your instructions Madam, I</L>
+<L>Shall not doubt to guard my self from such</L>
+<L>Imminent danger: Bless me, neither Parts nor Estate!</L>
+</SP>
+<SP>
+<SPEAKER>Lady <HI>A.</HI></SPEAKER>
+<P>Hush, here's your Father.</P>
+</SP>
+<STAGE>Enter Sir <HI>Formall.</HI></STAGE>
+<SP>
+<SPEAKER>Sir. <HI>For.</HI></SPEAKER>
+<L>Sweet heart and Daughter, are you there?</L>
+<L>That's well, go presently to your Chamber and dress</L>
+<L>Your self, here's a Gentleman coming to see you,</L>
+<L>Go I say.</L>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<P>Shall I not know his name?</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>For.</HI></SPEAKER>
+<L>No marry shall you not, let it suffice 'tis a good</L>
+<L>Catholick name, and I approve of it,</L>
+<L>No more questions, but obey me.</L>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<L>I shall Sir!&mdash;this is certainly the new Suiter</L>
+<L>He talkt of, and heaven knows I am ill provided</L>
+<L>For an Amour.</L>
+</SP>
+<SP>
+<PB N="20" REF="13">
+<SPEAKER>Sir <HI>For.</HI></SPEAKER>
+<L>Come sweet heart lets go in, for I have</L>
+<L>A world of news to tell thee.</L>
+</SP>
+<SP>
+<SPEAKER>Lady <HI>A.</HI></SPEAKER>
+<P>But little good I fear, If there be a world on't</P>
+</SP>
+<SP>
+<SPEAKER>Sir. <HI>For.</HI></SPEAKER>
+<L>Thou'lt find there's a great deal of good in't,</L>
+<L>I seldom fail to miss of my designes,</L>
+<L>Come in, and be partaker.</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+</DIV3>
+<DIV3 N="3" TYPE="scene">
+<HEAD><HI>SCENE III.</HI> Chamber-back.</HEAD>
+<STAGE>Enter <HI>Frank Amorous,</HI> and <HI>Betty.</HI></STAGE>
+<SP>
+<SPEAKER>Bett.</SPEAKER>
+<L>By ventring to bring you hither, I hope Sir, you</L>
+<L>Perceive that I am not unwilling to be ungratefull,</L>
+<L>Especially having tasted your bounty in so liberal a manner.</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>You over-rate&punc; the triste I have given you: Pray do</L>
+<L>Not speak of it;&mdash;Is this the Chamber?</L>
+</SP>
+<SP>
+<SPEAKER>Bett.</SPEAKER>
+<L>This leads to hers&mdash;have but a little patience,</L>
+<L>With which I know Sir, I you are still provided.</L>
+<L>I'le go and prepare her for your visit, In a more</L>
+<L>Especial manner, because I would appear</L>
+<L>Grateful to a person I have been so sensibly oblig'd to.</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>You speak what I should say, and make me blush,</L>
+<L>I am so poor in thanks. <STAGE>Exit Betty.</STAGE></L>
+<L>This will in time make an excellent Bawd,</L>
+<L>I find by her pall'd Rhetorick.</L>
+<L>This profit is a powerful charm,</L>
+<L>It turns and winds e'm into any form:</L>
+<L>She's coming up with the Lady, who if I find</L>
+<L>But loves me, I have a blessing past all recompence.</L>
+</SP>
+<STAGE>Enter <HI>Penelope</HI> and <HI>Betty.</HI></STAGE>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<P>This is the height of impudence, to bring a man, a young man too into my Chamber without my knowledge.</P>
+</SP>
+<SP>
+<SPEAKER>Bett.</SPEAKER>
+<L>Madam, he told me he must needs speak with you</L>
+<L>About an important concerne, and knowing your</L>
+<L>Fathers hasty temper, was afraid to let him see him&punc;</L>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<L>And was there no where to bring him to, but</L>
+<L>My Chamber? No hole, or by Corner to make</L>
+<L>Him do pennance in for his insolence, but my</L>
+<L>Apartment; you had best some other time</L>
+<L>Shut him up into my Closet, till i'm a Bed.</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<P>Well thought on i'gad Madam if my rude entrance.</P>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<P>Sir, I need no Apologies and excuses, and indeed considering it rightly, although my behaviour has been such, as not to give any one
+<PB N="21" REF="13">
+cause, or licence to intrude into my privacies; you are not so much to be blam'd as she is.</P>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<P>Oh, nay it is well enough&mdash;</P>
+</SP>
+<STAGE>Aside.</STAGE>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<P>For you perhaps but followed your own inclination, and pur|suance of the affair you say you have, but that he shou'd dare to do this.</P>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<P>Madam it was at my request.</P>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<P>At your request! it seems then she's your acquaintance.</P>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<P>No, 'faith Madam, not my acquaintance; for though there are some certain seasons when all women are alike to me, yet for the most part my ambition soars above the fruition of a Chambermaid.</P>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<P>Sir, the Character you give your self, I was sufficiently ac|quainted with in the last visit you made me; I hope you come about the old affair, some love Embassy from <HI>Bernard?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<P>From <HI>Bernard</HI> Madam? ha, ha, ha, though once to do him a Curtesie, and as a Friend I sollicited his cause, I am not ty'd to do that Office: I take no fees Madam, besides at present, Heaven be prais'd, I have other business; business of my own, would you but be pleas'd to give me a hearing.</P>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<L>I'me glad of that: <STAGE>aside.</STAGE></L>
+<L>Now if it hit but right&mdash;Sir you'l oblige me</L>
+<L>To impart it quickly, for I'me a little in hast.</L>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<L><HI>Venus</HI> for me then, now the Tale begins;</L>
+<L>I saw the Letter you wrote to <HI>Bernard.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<P>It may be so.</P>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<P>I saw also the Commendations you gave me there.</P>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<P>Suppose all this.</P>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<P>And thereby gather that.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<P>That, what?</P>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<P>Command your Woman hence, and I'le declare it.</P>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<P>Sure 'tis no secret.</P>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<P>Faith but it is&mdash;a great one too.</P>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<L>Wait in the next room till I call for you. <STAGE>Exit Betty.</STAGE></L>
+<L>Now Sir be free in your Relation.</L>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<P>Why Madam, as I was saying before, I gather by your kind Character of me to <HI>Bernard,</HI> that you are&mdash;most desperately in love with me.</P>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<P>I, in love?&mdash;what shall I do?&mdash;my Blushes will betray me.</P>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<L>Yes Madam, and with me. Nay, do not mince the matter.</L>
+<L>I find it by your Eyes, it must be so; y'are deeply</L>
+<L>Ingag'd that's certain; but have a good heart</L>
+<L>Madam, I am not cruel, I'm of a melting nature;</L>
+<L>You may new mould, and work me even as you please;</L>
+<L>An easie yielding temper, I, Heaven knows.</L>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<P>'Tis very likely Sir,&mdash;yet sure 'twill hardly be
+<PB N="22" REF="14">
+my fate to put you to the Test&mdash;I'm in Love&mdash;and with you.</P>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<P>Yes Madam with me, 'dsdeath is that so strange?</P>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<P>You had best perswade me to't.</P>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<P>Faith I am endeavouring it as fast as I can.</P>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<P>Now I perceive the vanity of your Sex; because a Lady per|haps accidentally smiles upon you, or grants you an occasional Salute, you presently think shee's in love.</P>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<P>No; but when a Lady writes to a man she do's not; and sends it by a Gentleman; and in her Letter terms the said Gentleman with the terms of sweet Mr. such a one, Dear Mr. such a one, Worthy Mr. <HI>A.</HI> and the like; what should a man think, is not this Love? 'Gad 'tis extasie, meer extasie.</P>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<P>Common Civility will allow of praises, especially if we think our selves oblig'd.</P>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<P>But praises with such attributes Madam, There's the point. Praise is the Friend of Love: And that Woman that praises a mans parts, undoubtedly covets what she commends; as we extol that Beau|ty most we desire to enjoy.</P>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<P>And can you think, if I did ever love you, which assure your self I do not, I could ever be brought to confess it, when you upbraid me thus; no, I look upon you as a man unworthy&mdash;base, and ill|natur'd&mdash;and perhaps unmanly&mdash;I'le curb him in a little, though my heart akes for't.</P>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<P>So, I lookt for this&mdash;this fretting has confirm'd my Opi|nion&mdash;'tis certain she loves me above measure; poor Soul! how her heart swells&mdash;But Madam:</P>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<P>I'le hear nothing&mdash;tax me with a light Love Sir&mdash;'twas a word that I must tell you ill becomes a stranger, nor can our small acquaintance.</P>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<P>Do but hear me.</P>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<L>'Tis an affront, almost past all forgiveness;</L>
+<L>With another 'twould be counted an Insolence,</L>
+<L>Past hopes of reconciling&mdash;but my too easie nature.&mdash;</L>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<L>So now she melts agen, (this is the very</L>
+<L>Quintessence of passion)&mdash; <STAGE>aside.</STAGE></L>
+<L>I know your nature Excellent as your self;</L>
+<L>And Madam, make me not unhappy in your</L>
+<L>Displeasure, by a few flashy words; Heaven</L>
+<L>Knows only the Overflows of a glad Tongue,</L>
+<L>Proud to declare your virtues.</L>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<P>Yes by upbraiding me.</P>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<L>I upbraid thee! by Heaven I do not, and now,</L>
+<L>(Since it must out) know that I love you, doat</L>
+<L>On you, and dye till I enjoy you. Now</L>
+<L>Have mercy upon me I beseech thee.</L>
+</SP>
+<SP>
+<PB N="23" REF="14">
+<SPEAKER>Pen.</SPEAKER>
+<L>This passion you pretend to, is so short liv'd, that</L>
+<L>The next fair object, I doubt not, will</L>
+<L>Reduce it to somewhat newer, and more easie to your temper.</L>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<L>With other men perhaps it might&mdash;but Madam,</L>
+<L>I am the Eternal'st Lover, the most transported</L>
+<L>Thing, I am like Chaff before a burning Glass, and</L>
+<L>Every glance from your eye converts me into flame.</L>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<L>Your comfort will be, that you have but a short time</L>
+<L>To be tormented.</L>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<L>Oh, to Eternity Madam;&mdash;when I am absent from you, in</L>
+<L>My Dreams, I shall hover over your Idea, and beget</L>
+<L>Such an innumerable Quantity of Conceipts and Fancies,</L>
+<L>'Twould distract another.</L>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<L>No, not a Man that flies like a Hawk, at all Games,</L>
+<L>As you do.</L>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<P>I Madam&mdash;well, a lye must help me out.</P>
+</SP>
+<STAGE>aside.</STAGE>
+<STAGE>Enter <HI>Betty.</HI></STAGE>
+<SP>
+<SPEAKER>Betty.</SPEAKER>
+<P>O Madam! what shall we do? we are undone.</P>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<P>Why! what's the matter.</P>
+</SP>
+<SP>
+<SPEAKER>Betty.</SPEAKER>
+<L>Slipping down Stairs to see what your Father was doing,</L>
+<L>I saw him at the door receiving from a Foot-man a Letter.</L>
+<L>Directed Sir, to you.</L>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<P>To me!</P>
+</SP>
+<SP>
+<SPEAKER>Betty.</SPEAKER>
+<P>To you Sir; for hearing the Foot man affirm he saw you come in here, and seeing your Father about to open it, I run and snatcht it from him; and came up, leaving him pursuing me with as much hast as his Age or Gout would permit him: but for Heavens sake use some means to hide this Gentleman; for hee'l be here immediately.</P>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<P>What shall I do! I'me at my Wits end.</P>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<P>And so am I, pox on't how unluckie's this?</P>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<L>Stay, I've hit of a device will certainly do,</L>
+<L>If <HI>Betty,</HI> you play your part but well.</L>
+</SP>
+<SP>
+<SPEAKER>Betty.</SPEAKER>
+<L>I Madam&mdash;doubt not me, I'le do any thing to appear&punc;</L>
+<L>Serviceable to this worthy and bountiful Gentleman.</L>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<L>'Gad I will be bountiful to thee indeed, if</L>
+<L>Thou canst but bring me well off now.</L>
+</SP>
+<SP>
+<SPEAKER>Betty.</SPEAKER>
+<P>What is't good Madam?</P>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<L>Why this Sir, you must pretend to be her Brother,</L>
+<L>Newly come from Travel; to which purpose talk of</L>
+<L>The Customs of some forreign Countries,</L>
+<L>And your excuse for snatching the Letter away,</L>
+<L>Being for your Brother, will be more plausible.</L>
+<L>I le to my Glass, and seem to be dressing my Head&mdash;</L>
+<L><PB N="24" REF="15">Hark, he's coming, be sure you do it handsomly.</L>
+</SP>
+<SP>
+<SPEAKER>Betty.</SPEAKER>
+<P>I'le warrant you Madam; come Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<P>This will certainly do; well, thou art a witty Devil, I'le say that for thee: I wonder whence this Letter should come, from some of my Mistresses doubtless that want company: I'le not read it till I have more leisure,&mdash;he comes.</P>
+</SP>
+<SP>
+<SPEAKER>Sir For. within.</SPEAKER>
+<P>Why Huswife, where are you? ha, are you crept into some Corner, I'le fetch you out with a vengeance, a young baggage to dare to do this.</P>
+<STAGE>Enter Sir <HI>Formall.</HI></STAGE>
+<P>Ha, what's here? a Man! and in my Daughters Chamber?</P>
+</SP>
+<SP>
+<SPEAKER>Betty.</SPEAKER>
+<L>My Brother Sir, newly return'd from Travel;</L>
+<L>Well, and are there such rare things in <HI>Rome,</HI> say you?</L>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<L>Beyond expression rare&mdash;wou'd I were there</L>
+<L>For an hour.</L>
+</SP>
+<STAGE>aside.</STAGE>
+<SP>
+<SPEAKER>Sir For.</SPEAKER>
+<P>But where's the Letter Mistress you snatcht from me? did your Brother bid you do that? hah!</P>
+</SP>
+<SP>
+<SPEAKER>Betty.</SPEAKER>
+<P>No indeed Sir; but fearing you would look into the secrets of our Family, which you conceive is dear to me, I took it of my own accord.</P>
+</SP>
+<SP>
+<SPEAKER>Sir For.</SPEAKER>
+<P>Was the Letter yours Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<P>I must presume to own it.</P>
+</SP>
+<SP>
+<SPEAKER>Sir For.</SPEAKER>
+<P>No presumption Sir, but pray from whence came it?</P>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<P>From <HI>Italy</HI> Sir, from a good Friend of mine; and intending to visit my Sister, I bid the Porter bring it to me here.</P>
+</SP>
+<SP>
+<SPEAKER>Sir For.</SPEAKER>
+<P>The Porter Sir, why I had it from a Foot-man.</P>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<P>'dsdeath I shall spoil all.</P>
+</SP>
+<SP>
+<SPEAKER>Betty.</SPEAKER>
+<P>But Sir he has formerly bin a Porter, though now he is pre|ferr'd.</P>
+</SP>
+<SP>
+<SPEAKER>Sir For.</SPEAKER>
+<P>Umph&mdash;like enough.</P>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<P>Well said i'Faith&mdash;a Guiney more for that.</P>
+</SP>
+<SP>
+<SPEAKER>Betty.</SPEAKER>
+<P>But Brother, you han't told me half enough of the rarities you have seen in your Travels.</P>
+</SP>
+<SP>
+<SPEAKER>Sir For.</SPEAKER>
+<P>I, come Sir, pray let's hear some of the wonders at <HI>Rome,</HI> and other places, the story must needs be pleasing; pray make a brief description.</P>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<P>'Zounds what shall I do now? for I know nothing of <HI>Rome</HI> but the name; but 'tmay be he's as ignorant as I, and then I am warm enough&mdash;Why Sir, as to the Climate, 'tis much about the temper 'twas of old, hottish and dry, the Houses largely built, and uniform; the people o<GAP DESC="illegible" REASON="missing" EXTENT="1 letter"> divers Complexions, and much given to Ease, more indeed then to Devotion; a pleasant Country Sir, and for the most part fruitful.</P>
+</SP>
+<SP>
+<PB N="25" REF="15">
+<SPEAKER>Sir For.</SPEAKER>
+<P>It was when I was there; but 'tis so long since, that by my Faith I have almost forgot it; well Sir, and how looks the <HI>Vatican?</HI> does he stand stoutly still? and do's he still triumph in his Age and Ex|cellence?</P>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<P>The <HI>Vatican!</HI> what a Devil's that?</P>
+</SP>
+<SP>
+<SPEAKER>Betty.</SPEAKER>
+<P>Now is he a pumping: Madam, 'tis a damn'd hard word, that I cannot help him for my life.</P>
+</SP>
+<SP>
+<SPEAKER>Sir For.</SPEAKER>
+<L>Do's he still hold his Head above the rest?</L>
+<L>And want no Succour, nor no Aid to help him;</L>
+<L>He has bin an old Standard, but a brave one.</L>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<L>This must certainly be the Pope he means, and calls by some</L>
+<L>Nick-name.</L>
+</SP>
+<STAGE>aside.</STAGE>
+<SP>
+<SPEAKER>Sir For.</SPEAKER>
+<P>Come pray Sir tell me, you're too slow in answer.</P>
+</SP>
+<SP>
+<SPEAKER>Betty.</SPEAKER>
+<P>Now do I sweat for him.</P>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<P>I'gad I'le venture on't: why faith he do's very bravely still, and is very much renown'd in <HI>Italy;</HI> but there has lately happen'd a disaster.</P>
+</SP>
+<SP>
+<SPEAKER>Sir For.</SPEAKER>
+<P>What's that good Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<P>Why Sir he has within these few Months bin troubled with a violent&mdash;and very damnable Fit of the Stone.</P>
+</SP>
+<SP>
+<SPEAKER>Sir For.</SPEAKER>
+<P>What say you Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<P>And hardly scap'd with life Sir, I assure you.</P>
+</SP>
+<SP>
+<SPEAKER>Sir For.</SPEAKER>
+<P>Ha, ha, ha, the <HI>Vatican</HI> troubled with the Stone: madness i'th height; but hark you Sir, perhaps you mean, there ha's bin a Hur|ricane of late that has damag'd some of her Turret, and overthrown some superfluous Stones, whose strength, age had decay'd: mean you not so Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<P>So Sir, yes Sir, what a Devil should I mean else: well I'le make hast away, least he should ask any more questions. Sir, Your humble Servant: Dear Sister, adieu; I'le wait on you again at my next leisure, <HI>Vatican</HI> with a Pox, a Curse of my dull pate.</P>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>Sir For.</SPEAKER>
+<P>A witty understanding man I'le warrant him; how wittily he Joak'd upon me. Come Daughter lets go down, by this the Gen|tleman is ready to come, who, I'le assure you, is first, accomplish'd with parts to your desire, and not mine; Secondly, with wealth to my de|sire, though not yours, and I command you to use him well, for believe,</P>
+<L>No blessing, but a discontent she owns,</L>
+<L>Whose want of duty reaps her Fathers frowns.</L>
+</SP>
+</DIV3>
+</DIV2>
+<DIV2 N="3" TYPE="act">
+<PB N="26" REF="16">
+<HEAD>ACT. III.</HEAD>
+<DIV3 N="1" TYPE="scene">
+<HEAD><HI>Scene I.</HI> Covent-Garden.</HEAD>
+<STAGE>Enter <HI>Frank Amorous.</HI></STAGE>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<P>SO, I have got away with much ado; Impudence was, I must needs confess, my great Friend, or else I had never bin able to hold out against that Eternal old Fellow, who would have ply'd me with new questions; but now to my Letter, I hope 'tis from some new rare Creature in Love with me, and sent this to point an assignation.
+<STAGE>reads.</STAGE>
+<LETTER>
+<P><HI>Since you have bin base and treacherous, you ought in reason to expect the reward of baseness and falshood; know therefore, that being betray'd, me and my injury's insupportable, till reveng'd: I desire you to meet me in the plain Field below</HI> Lambs-Conduit, <HI>about 6 this Afternoon, without a se|cond, to render satisfaction; and assure your self, though your treachery has made me miserable, my action shall speak me brave and generous,</HI></P>
+<CLOSER><SIGNED>Bernard.</SIGNED></CLOSER>
+</LETTER></P>
+<P>Was ever hopes so frustrated? this is a Challenge, and o' my Con|science if I should survey my self throughly, I am not provided for't. This damn'd Custom of Wenching has made me as damn'd a Coward, as a Bully that fights for hire, (<HI>meet me in the plain Field below Lambs-Conduit</HI>) and 'gad I will meet thee there, come what will, since I am invited. I had Courage once, and have yet I hope some grains: if I am kill'd I have the fewer sins to answer for; and if I live, I've the longer time to repent; at 6 a Clock, and now it wants of 5, well, I'le first go dispatch a small affair, and then have at him.</P>
+<L>Men only live to further fate's design,</L>
+<L>'Twas <HI>Plato's</HI> moral once, but now 'tis mine.</L>
+</SP>
+<STAGE>Exit</STAGE>
+</DIV3>
+<DIV3 N="2" TYPE="scene">
+<HEAD>Scene II.</HEAD>
+<STAGE>Enter <HI>Sir Formall, Lady Ancient, Tim, Smallwit, Betty, Mrs. Penelope</HI></STAGE>
+<SP>
+<SPEAKER>Sir For.</SPEAKER>
+<P>Once more y'are welcome Sir; and pray excuse me if I am not altogether Ceremonious as some, that love the mode, and cherish vanity: my humour is my Law Sir, therefore pray excuse me. But where's your Father?</P>
+</SP>
+<SP>
+<PB N="27" REF="16">
+<SPEAKER>Tim.</SPEAKER>
+<P>Sir, he's gone to walk in the Fields, the old Gentleman loves Air.</P>
+</SP>
+<SP>
+<SPEAKER>Lady An.</SPEAKER>
+<P>Sir, though Sir <HI>Formall</HI> hold it unnecessary to express the welcom of a person of merit in descent, and modish phrases; yet there are some who understand the behaviour fit to be us'd on such Occasions: Sir! your presence is an honour to our House.</P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>Madam, Sir <HI>Formall</HI> knows that I desire to appear no stranger; I have, I thank my Fortune, so much knowledge of the Town, not to let modesty obscure good meaning; I know what's Courtly Madam, and approve it.</P>
+</SP>
+<STAGE>Enter a Lawyer with a Deed.</STAGE>
+<SP>
+<SPEAKER>Law.</SPEAKER>
+<P>Sir, here's the Deed: wilt please you to peruse it?</P>
+</SP>
+<SP>
+<SPEAKER>Sir For.</SPEAKER>
+<P>I come, Sweet-heart, prithee thy Ear a little.</P>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<P>Indeed Sir I think it very fine.</P>
+</SP>
+<STAGE>They read.</STAGE>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>Madam, it would have bin so, had it bin well order'd; but this damn'd Son of a Whore Taylor had made it too narrow in the Breast; the Buttons are not half big enough neither.</P>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<P>Methinks they're very well Sir; however, your grateful person, were they ill made, would make e'm Comely.</P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>Why 'faith Madam as you say, a graceful person do's much, very much, the well spreading of the Shoulders, and straightness, adds much to the shape; and yet without the posture, the modish August Garb, and Courtly mean, the shape is nothing.</P>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<P>What an Idol do's this fellow make of himself?</P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>Madam take it from me, 'tis a hard matter to see a man de|mean himself with Judgement, the Town's a strenger to't&mdash;how do I do this? ha&mdash;</P>
+</SP>
+<STAGE>aside.</STAGE>
+<SP>
+<SPEAKER>Small.</SPEAKER>
+<P>Exceeding well Sir, but forward.</P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>There are indeed a sort of empty fellows, that have pretences that would seem to know the Essence of good Carriage&punc; but search e'm throughly,&mdash;far, far short on't.</P>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<P>Some such there are indeed Sir, but others that though they have not that Modish mean you speak of, may have Wit which may sup|ply the others want.</P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>Wit, Madam,&mdash;why there's a famine on't; but now alas the times are Metamorphos'd, there's no wit stirring.</P>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<P>Sir, methinks there has been a great many very witty Playes come out lately.</P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>Ah,&mdash;dull, dull, Madam,&mdash;dull to the tenth degree, no|thing but prolix phrases, and bombast, hardly a word of sense, or fancy in 'em; our Poets now take it from me Madam, have nothing of conceit: One writes of Rural Wit bubbled by Carmen, another of Inchantments, Bears and Monsters, and such a coil they keep with their new fancies,
+<PB N="28" REF="17">
+that wit and sense are lost, quite lost, abolish't; nothing remains but the meer dregs of fancy; you may believe me Madam.</P>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<P>Sir, I'le not presume to question it, or doubt the truth of what you say, though I confess it seems a little strange.</P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>I grant it may Madam, and by the way let me tell you, another would not have found it out; I have I thank my stars, some certain guifts which others want; 'tis as Providence decree's, every one has his Talent.</P>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<P>But not alike, I hope Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>No Madam, I hope to see that: the truth is, I love to be free, and perhaps sityrical in my opinion, and I doubt not but you are acquainted with the mode, and know what becomes a Gentleman; for faith should we not sometimes dive into the secrets of Wit, and reprove mistakes, these Rascally Poets would grow insolent, there would be no living for 'em, we should be so perpetually tormented with Lampoons; but 'gad I cramp the Rascals.</P>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<P>Would thou wert crampt and gag'd, so I were rid of thee.</P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>You'd laugh to see how afraid they are of me, to'ther day Ma|dam, I went to see a Play, and sitting 'mongst the rest in the Wits Corner; I know not what, but somewhat I mislik't, and raised a hiss, which presently was seconded by all the Wits: But to see the poor fellow the Poet, peep out between the Scenes, and shake his empty head, to see his Ten Months labour so rewarded, would have made you die with Laughter, ha, ha, ha.</P>
+</SP>
+<SP>
+<SPEAKER>Small.</SPEAKER>
+<P>In this Madam, you rather condemn my Judgment, then ex|cuse your want of merit. But give me leave to tell you, if I have any Wit, you are a woman of great parts. Do you see that Gentleman?</P>
+</SP>
+<SP>
+<SPEAKER>Bett.</SPEAKER>
+<P>Yes Sir, methinks a man of Excellent good Parts.</P>
+</SP>
+<SP>
+<SPEAKER>Small.</SPEAKER>
+<P>He is so, yet this&mdash;this Modish Gallant that's now so brisk and ayrie, did I within these three dayes draw out of a lump of igno|rance, a wretched lump, a thing of nothing mould, stampt and fram'd him as you see, and of a Coxcomb, changd'd him to a Courtier, a Mo|dish fellow, and the Son of Fortune&mdash;Sir, your Verses, you forget that&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>Hush, I warrant thee&mdash;Madam, to let you see, that what I speak is Reason, you shall your self be judge; I have a Copy of Verses here, given me by one of the Poets, who desir'd my opinion of 'em&mdash;ah, here they are Madam&mdash;I'le read 'em to you&mdash;hum, 'tis an Encomi|um on his Mistress.
+<Q><L>Best of thy Sex, and brighter then the Moon</L>
+<L>At her full Glory, or the Sun at Noon:</L>
+<L>Sweet as a bed of Roses, far above&punc;</L>
+<L>All th<GAP DESC="illegible" REASON="missing" EXTENT="1 letter">t ever yet pretend to Love.</L>
+<L>For thou appear'st, as if thou would perswade</L>
+<L>Men to believe, for thee, Love first was made.</L>
+<L><PB N="29" REF="17">Or that the bliss of nature should contest</L>
+<L>With the delightful Lodging of thy breast.</L>
+<L>Zealots release the blessings heapt above</L>
+<L>Of lasting Raptures, and immortal Love.</L>
+<L>But <HI>Iove,</HI> and all his Crowd of joyes should be</L>
+<L>Dispis'd and slighted for a tast of thee.</L></Q></P>
+<P>This and a great deal more such stuffe is here, such&mdash;much&mdash;'gad I am e'en sick to read it.</P>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<P>Methinks they are very well Sir, only a little too full of rap|ture, and flattery&mdash;but that may be born withall.</P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>Well Madam, I see your design, ha, ha, ha, to bantor the poor fellow:&mdash;but&mdash;'twon't do, what answer do you think I made,&mdash;what de'e think I did with'em?</P>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<P>Why, I suppose Sir, you spoke indifferently, and the less criti|cally because you intended to encourage him.</P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>Encourage him? 'dsdeath encourage a Poet, I'de sooner do't to a Cutpurse, and more good I shall get by him&mdash;no Madam, I damn'd it&mdash;damn'd it to the Center.</P>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<P>But Sir, you had no reason for't, the verses did not deserve it.</P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>Pish&mdash;that's no matter, it quell'd the Rascalls hopes, why should I have encouraged him, and prais'd what he had writ, 'tis ten to one within this twelve months, he would have writ a Play, and made a Character of me, but 'gad I dash't his hopes, his Muse, and he will hardly be reconcil'd this month through the fright I put him in.</P>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<P>Well, this is the most intollerable Fop, that ever I saw, there's no enduring him.</P>
+</SP>
+<STAGE>Aside.</STAGE>
+<SP>
+<SPEAKER>Sir <HI>For.</HI></SPEAKER>
+<P>And let me have that Mannor too incerted as a Covenant for repairs, and fail not on't tomorrow.</P>
+<STAGE>Exit Lawyer:</STAGE>
+<P>Pray Sir, give your excuse, 'tis only a little parcel of Land which I de|termine for my Daughters Joynture&mdash;but come lets in to Dinner, by this time 'tis ready&mdash;and once more welcome to my house.</P>
+</SP>
+<SP>
+<SPEAKER>Small.</SPEAKER>
+<P>I am too poor in thanks.</P>
+</SP>
+<STAGE>Whispers <HI>Tim.</HI></STAGE>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>I am too poor in thanks Sir; softly you Rogue&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>For.</HI></SPEAKER>
+<P>Ah not poor in any thing, good Mr. <HI>Winelove,</HI> 'faith I do not like it&mdash;but come, no Ceremony I beseech you, but to Dinner.</P>
+</SP>
+<STAGE>Exeunt.</STAGE>
+</DIV3>
+<DIV3 N="3" TYPE="scene">
+<HEAD><HI>SCENE III.</HI> Landskip.</HEAD>
+<STAGE>Enter <HI>Bernard</HI> and <HI>Frank</HI> to Fight.</STAGE>
+<SP>
+<SPEAKER>Ber.</SPEAKER>
+<P>The cause of my quarrel Sir, you cannot be ignorant of, know|ing who I am, and how you have betrayed me.</P>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<P>My answer lyes in this, not in my words, come, come, you are too tedious.</P>
+</SP>
+<SP>
+<PB N="30" REF="18">
+<SPEAKER>Ber.</SPEAKER>
+<P>O this shews your courage Sir, but believe you shall have sighting work enough e're I kill yee, as certainly I shall before we part.</P>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<P>Why, then the Surgeon's paid Sir, come we lose time; then once more at you Sir.</P>
+</SP>
+<STAGE>Enter <HI>Winelove</HI> Senior.</STAGE>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<P>How now what's here, Swords drawn and Fighting; ah, that my <HI>Tim.</HI> were here now, to put in for a third man, but I'le try what I can do to part 'em&mdash;Gentlemen hold, hold, you've fought en|ough, hold, hold, I say.</P>
+</SP>
+<STAGE>Draws and goes to part 'em.</STAGE>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<P>Hark Reverend Sir, 'twill become your gravity to retire a while, and not disturb us, least that portly shape of yours be discommo|ded&mdash;pox on him, h'as given me another thinking while.</P>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<P>Faith he sayes true, I was too rash, well Gentlemen, since you will have it so, fight it out bravely, and I'le stand by, and see fair play on both sides.</P>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<P>You see your fortune Sir.</P>
+</SP>
+<STAGE><HI>Ber.</HI> is disarmed.</STAGE>
+<SP>
+<SPEAKER>Ber.</SPEAKER>
+<P>Yes, and contemn'd it, and my life too, seeing 'tis at thy mercy.</P>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<P>You will do well to cherish it, for all that Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<P>A brave fellow this, and I'le warrant a right Courtier, he has the true way on't, now would I give twenty pound my <HI>Tim.</HI> were here.</P>
+</SP>
+<SP>
+<SPEAKER>Ber.</SPEAKER>
+<P>Ah Sir, to insult I know, is Customary.</P>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<P>To insult?&mdash;to let thee see how far I am from it, there, there's thy Sword again, and give me thy hand, I could wish I could as easily give back thy Mistress; but our Stars would have it otherwise; thou knowest we can't appoint our own destinies; besides thou hast another Mistress, and two at once is too much in reason for any one man.</P>
+</SP>
+<SP>
+<SPEAKER>Ber.</SPEAKER>
+<P>'Tis true, I have another Mistress perhaps fairer then 'tother, whom I intend to visit as soon as this hurt Arm is drest; but what ex|cuses can you bring from that?</P>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<P>Why, 'faith not many&mdash;but dost hear, shall I carry commen|dations from thee to her too, hah?&mdash;Prithee let me.</P>
+</SP>
+<SP>
+<SPEAKER>Ber.</SPEAKER>
+<P>No, no, Sir, my own Rhetorick henceforth shall serve, but to let you see I have a sense of generosity, as well as baseness, I'le quit the place, and henceforth do as my honour shall direct me, and not passion, and if there be a way for friendship left, I'le find it, if not, 'tis but ad|ventring another skirmish, and then perhaps I shall be as loath to take a <GAP DESC="illegible" REASON="faint" EXTENT="1 letter">ife, as you to give it.</P>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<P>By <HI>Iuno,</HI> that's a brave fellow too&mdash;ah, he's gone Sir, you have sent him packing&mdash;'faith you fought it bravely, I never saw a Duel fought with better Judgement; are you not hurt Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<P>I think not, I feel nothing.</P>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<P>Your Antagonist, believe me, was a shrewd fellow, and
+<PB N="31" REF="18">
+saith once I thought would have damag'd you, your point being born too low, but you recovered it.</P>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<P>I Sir, I did so.</P>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<P>And bravely Sir, you did in doing so; when I was of your years I had some fame myself for Duelling&mdash;ah, I have seen the time when I have come into the field with Courage, travers'd my ground, fought and passado'd briskly, and as simply as I now stand here, been victor.</P>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<P>'Tis very likely Sir, this is the most impertinent old fellow I ever saw, he will enter into discourse whether I will or no&mdash;Sir, your Servant, I am a little in haste.</P>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<P>Pray Sir, a word more, I have a little business with you.</P>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<P>Umph&mdash;I am of late grown a man of more business then ever I design'd myself. Pray Sir, what is it quickly? for some present Occasions call me hence.</P>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<P>Shall I then Sir, desire the favour of you.</P>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<P>Sir, Any favour, be but brief, and tell it.</P>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<P>I shall Sir, 'tis a small matter, a very small matter, only to know whether you are indebted to any one, or to be more plain, whether you owe any money?</P>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<P>Money Sir? Sir, that's a strange question, nor know I at pre|sent how to resolve it.</P>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<P>Doubt not my meaning good, nor conceit I question this to draw you into danger, 'faith I do not.</P>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<P>Why then Sir, know I am a Gentleman, and have means large enough to pay my debts if they were ten times doubled, methinks you might have guess'd that by my outside without questioning. What is't.</P>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<P>Now I come to you Sir&mdash;I have a Son my Heir, for whom I have these 5 and 50 years been scraping an Estate, he now is grown up to maturity, and 'faith to speak freely of him, is a youth of rare endowments, and pregnant Wit Sir, and admired Fancy.</P>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<P>Sir, being your Son, it were a sin to doubt it.</P>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<P>Now Sir, I see you are a man of parts, one that the Town takes notice of; you can talk well, fight well, sing well, Court your Miss in Rhime, with any Modish Bully of 'em all.</P>
+</SP>
+<SP>
+<SPEAKER>Franck.</SPEAKER>
+<P>Ah, your servant Sir, not I 'faith.</P>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<P>Sir, I have heard you fam'd&mdash;talkt of, and wondred at, Constables fear you, Bayliffs creep into Corners, and our witty dabbling Poets of the time, cry, yonder's <HI>Amorous,</HI> plague of his Criticisms.</P>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<P>You are pleas'd to lay this on me Sir,&mdash;what a devil will this come to?</P>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<P>All this confess'd, then he that has the honour to keep you company, must needs be very happy; and Sir, as my Son is the hap|piness of my Life, and his well doing my chief comfort, it is my earnest request to you.</P>
+</SP>
+<SP>
+<PB N="32" REF="19">
+<SPEAKER>Frank.</SPEAKER>
+<P>To be his Tutor, and teach him the Town Virtues.</P>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<P>No Sir, not his Tutor, far be that dishonour from you, besides, he has a Tutor already, a pretty quibbling Fellow that has taught him very well: But Sir, to be of your acquaintance, would make him for ever&mdash;and Sir, to gratifie you, command my Estate. You are a young-man, and perhaps by extraordinary Expences, are some|times out of Money, I have some Bags to spare Sir, pray make use of 'em: My Money, Houses, Land, Estate is at your Service, be but ac|quainted with my Son Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<P>This is unlookt for Fortune&mdash;But 'tis such a good natur'd old Fool, that methinks 'tis pitty to bubble him. Sir, for your proffers, I return you thanks, and assure your self what lyes in me to serve you, or your Son, shall be done without further Ceremony.</P>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<P>Why, I thank you&mdash;heartily thank you.&mdash;<HI>Tim.</HI> thou art made for ever. Sir, he is hard by at a Friends house of mine, whose Daughter he is to marry.</P>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<P>Hard by, say you Sir? pray who is't.</P>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<P>An old acquaintance Sir, one Sir <HI>Formall Ancient.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<P>Sir <HI>Formall Ancient.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<P>Ay Sir, and his Daughter my Strippling is to marry, 'tis already concluded on.</P>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<P>My Mistress by Heaven, and I consider on't, this must needs be the Sutor she told me of: This was a happy discovery, for I question not but I shall go near to forbid the banes. Sir, I'le wait on you thither.</P>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<P>With all my heart Sir, I was just going to request it of you. So I shall work him rarely.</P>
+<STAGE>Exit <HI>Frank.</HI></STAGE>
+<P>He is certainly the fit'st Companionin the world for <HI>Tim;</HI> he knows the Town tricks, all the humours, fashions, has all new Songs by heart, knows with a grace how to accost a Wench, Strut and talk Bawdy, and then he looks with so compos'd a shape, as he were only made to be a Wencher.&mdash;Old <HI>Peter</HI> rest contented, all's now finish'd, thy Son shall be aspark, and thou be happy, happy as thou couldst wish: well, I'le follow him, and once more refresh his memory, repeat his promise.</P>
+<L>Then triumph in my Fate; this being done,</L>
+<L>And boast the best of Criticks was my Son.</L>
+</SP>
+</DIV3>
+</DIV2>
+<DIV2 N="4" TYPE="act">
+<PB N="33" REF="19">
+<HEAD>ACT. IV.</HEAD>
+<DIV3 N="1" TYPE="scene">
+<HEAD><HI>Scene I.</HI> Another Chamber.</HEAD>
+<STAGE>Enter <HI>Bernard, Lucretia.</HI></STAGE>
+<SP>
+<SPEAKER>Luc.</SPEAKER>
+<P>WIll you not tell me who you fought with; methinks if you had any Love for me, you should not let me ask so often, prithee tell.</P>
+</SP>
+<SP>
+<SPEAKER>Ber.</SPEAKER>
+<P>Why, I tell thee I do not know him, he's one that belongs to the Town; a wretched Fellow that hardly knows himself, and I suppose was one hir'd to challenge me.</P>
+</SP>
+<SP>
+<SPEAKER>Luc.</SPEAKER>
+<P>In some Ladies Quarrel, I'le lay my life.</P>
+</SP>
+<SP>
+<SPEAKER>Ber.</SPEAKER>
+<P>Pish, What Lady? I know no Lady, nor like none but thee; Come, Come, this fruitless Jealousie's still to be avoided, assure thy self I Love thee, only thee.</P>
+</SP>
+<SP>
+<SPEAKER>Luc.</SPEAKER>
+<P>Why, are you then so hasty to be gone? You never come to Visit me, but as if your minutes came too fast upon you.</P>
+</SP>
+<SP>
+<SPEAKER>Ber.</SPEAKER>
+<P>You rack your self with doubts, and think I slight you, when 'tis my chief endeavour how to please you; but for my absence at presen<GAP DESC="illegible" REASON="missing" EXTENT="1 letter">, 'tis requir'd on earnest business, and believe nothing but earnest business, great and profitable could take me from thee; but have a little Patience, and I'le be with thee instantly.</P>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>Luc.</SPEAKER>
+<P>Well, there must be something more in the wind then he is wil|ling to acknowledge; but at leisure I will wheedle the secret from him, and then provide for my self as occasion serves.</P>
+</SP>
+<STAGE>Exit.</STAGE>
+</DIV3>
+<DIV3 N="2" TYPE="scene">
+<HEAD><HI>Scene II.</HI> Hall.</HEAD>
+<STAGE>Enter <HI>Tim,</HI> Lady <HI>Ancient, Penelope, Betty.</HI></STAGE>
+<SP>
+<SPEAKER>Lady <HI>A.</HI></SPEAKER>
+<P>Sir, though I see in your Phrases a great deal of Wit and Gallantry; yet if I may presume, you are too poynant, your fancy flowes to so extream a deluge, as 'twould o'rewhelm the Age: You look Sir, too sharply into the nature of things, and are, I doubt not, a great Philosopher; but Sir&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>A Philosopher&mdash;what a pox is that?&mdash;Now this Rogue my Tutor hath left me alone, and I shall be mir'd immediatly&mdash;but what Madam?</P>
+</SP>
+<SP>
+<PB N="34" REF="20">
+<SPEAKER>Lady <HI>A.</HI></SPEAKER>
+<P>But in truth Sir I think you are a little too Satyrical in your Opinion, and though 'tis probable you have read <HI>Alexander Ross:</HI> Who let me tell you was a great Wit, as any in his time, according to my simple Judgement, a very Excellent Fellow,&mdash;What think you of him Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>Of who Madam?</P>
+</SP>
+<SP>
+<SPEAKER>Lady <HI>A.</HI></SPEAKER>
+<P>Alexander Ross.</P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P><HI>Alexander Ross,</HI> the Devil <HI>Ross</HI> him, I'm sure he broke my head once at School&mdash;a very Shrewd Fellow indeed, and to my knowledge a great Scholar, I have try'd him often.</P>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<P>The Fool has come off a great deal better then I expected.</P>
+</SP>
+<SP>
+<SPEAKER>Lady <HI>A.</HI></SPEAKER>
+<P>Yet though he was a Critick, and a Scholar, he gave all publick notice, Printed his Books <HI>Cum Privilegio,</HI> and gave convincing Reasons for what he did: And Sir, would you do so?</P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>Reasons Madam, alas you wroung your Judgment; you talk at the old rate of fifty three, when the World flourisht in its ignorance, when Wealthy Blades with Velvet Cloakes through lin'd, Booted and Spurr'd, and almost hid in Ruff; would Argue out whole hours with Sense and Reasons, and in Discourse pretend to expound it too: But now the Worlds grown wise, its grown out of fashion, few men give Reasons for what they do, at least few Witty men.</P>
+</SP>
+<SP>
+<SPEAKER>Lady <HI>A.</HI></SPEAKER>
+<P>Then Sir, since you have no Reasons for your Criticisms, good Nature should oblige you to be favourable.</P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>Who I!&mdash;'faith Madam, I am,&mdash;for were I not favourable, many a poor Fellow about Town would be undone.</P>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<P>'Tis well Impudence is Modish, thou wert else to my know|ledge a very miserable Fellow. Prithee <HI>Betty,</HI> what think'st thou of him.</P>
+</SP>
+<SP>
+<SPEAKER>Bett.</SPEAKER>
+<P>Truly Madam, he suffers in my Censure equal with your Lady|ships, and I think him to be a bundle of Vanity; otherwise called a Fop in Extraordinary.</P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>Do's your Ladiship delight in Songs? I'le sing you one or two of mine own Penning.</P>
+</SP>
+<SP>
+<SPEAKER>Lady <HI>A.</HI></SPEAKER>
+<P>Oh! extreamly Sir, and now I think on't, I had a Song given me yesterday of a Kinsman of mine's Penning, <HI>Betty</HI> can sing it; you shall hear it Sir, and I pray you give me your Opinion of it.</P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>With all my heart Madam, and afterwards you shall hear mine.</P>
+</SP>
+<SP>
+<SPEAKER>Lady <HI>A.</HI></SPEAKER>
+<P>The Tune was Set Sir, by a very good Friend of his, one Mr. <HI>Smith,</HI> and late Composer to the Kings Play-house.</P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>Who <HI>Bob!</HI> a very Excellent Fellow Madam, believe me, and one the Town Misses very much to my knowledge; for now a dayes what ever is the matter with 'em, I know not, but we have such Tunes, such lowsy lamentable Tunes, that 'twould make one forswear all Musick, <HI>Maiden Fair,</HI> or the the <HI>Kings Delight,</HI> are incomparable to some of
+<PB N="35" REF="20">
+these we have now. 'Tis true the Theater Musick is something tollerable, because 'tis for their Credit; but otherwise&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Lady <HI>A.</HI></SPEAKER>
+<P>Sir, I see you are a great Judge;&mdash;Come <HI>Betty</HI> the Song: Pray observe Sir, 'tis a little wanton, that's all the fault I know in it.</P>
+</SP>
+<Q><TEXT LANG="eng">
+<BODY>
+<DIV1 TYPE="song">
+<HEAD>SONG.</HEAD>
+<LG>
+<L><GAP DESC="music"> I found my <HI>Caelia</HI> one night undrest,</L>
+<L>a precious Banquet for languish|ing <GAP DESC="music"> Love,</L>
+<L>the charming object a flame increast,</L>
+<L>which never, ah never, till <GAP DESC="music"> then I prov'd;</L>
+<L>her delicate skin, and starry eye,</L>
+<L>made me a secret bliss <GAP DESC="music"> pursue,</L>
+<L>but with her soft hand she still put it by, and cry'd,</L>
+<L>Fie <HI>Amintor</HI> <GAP DESC="music"> what would you do?</L>
+</LG>
+<LG N="2">
+<HEAD>2.</HEAD>
+<L>Her words and blushes so fir'd my heart,</L>
+<L>I pull'd her to me and clasp'd her around,</L>
+<L>And though with Cunning she play'd her part:</L>
+<L>Yet fainter, and fainter, her threats I found.</L>
+<L>But when I least thought on her, least I desir'd,</L>
+<L>My Love a forbearance should allow,</L>
+<L>A touch of her hand, my heart so inspir'd:</L>
+<L>My Passion was melted I know not how.</L>
+</LG>
+<LG N="3">
+<PB N="36" REF="21">
+<HEAD>3.</HEAD>
+<L>Which when fair <HI>Caelia's</HI> quick eye perceiv'd,</L>
+<L>And found by my calmness my passions decay,</L>
+<L>Her Fate she inwardly seem'd to grieve:</L>
+<L>That Fool'd her, and Cool'd her so base away.</L>
+<L>She sigh'd and look'd pale to see me dull,</L>
+<L>And in her heart, this oath she swore,</L>
+<L>She never again would slight an address:</L>
+<L>Nor the Critical minute refuse no more.</L>
+</LG>
+</DIV1>
+</BODY>
+</TEXT></Q>
+<SP>
+<SPEAKER>Lady <HI>A.</HI></SPEAKER>
+<P>Now Sir, how de'e like it?</P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>'Ifaith a pretty Song, and a great deal of Wit in't, but I am confident it won't take.</P>
+</SP>
+<SP>
+<SPEAKER>Lady <HI>A.</HI></SPEAKER>
+<P>Why Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>It wants a little more of that same in it: Those wrappings in Clean Linnen, it should have appeared naked as 'twas meant; To be plain with you Madam, nothing but Bawdy&mdash;down-right,&mdash;rank Bawdy will do now, nor hardly that neither, if it have not some new meaning.</P>
+</SP>
+<SP>
+<SPEAKER>Lady <HI>A.</HI></SPEAKER>
+<P>Fye Sir, this is too Satyrical.</P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>Not at all Madam&mdash;'tis a lewd Age, a very Pocky, Pitiful, Age, and must be abus'd, or know no Reformation.</P>
+</SP>
+<STAGE>Enter Sir <HI>Formal, Old Wine, Frank.</HI></STAGE>
+<SP>
+<SPEAKER>Sir <HI>For.</HI></SPEAKER>
+<P>Here he is Sir, my Wife and Daughter with him, close at the business Sir you see he looses no time.</P>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<P>This Sir is he,&mdash;<HI>Tim,</HI> pray know this Gentleman, a worthy person, and one has done me great Honour.</P>
+</SP>
+<STAGE>The Congee.</STAGE>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<P>'Dsheart this is the Fool I bubbled one day at <HI>Spearings,</HI> I must smooth him with a Complement for fear of discovery.</P>
+</SP>
+<STAGE>Aside.</STAGE>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>Sir, if I mistake not, I had the honour to see you once before, but now am proud that Fortune has been so kind as to grace me with this second interview.</P>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<P>Sir, 'twas a Happiness I confess unexpected that brought me into your Company, and this second chance has confirmed the Obliga|tion, and made me infinitely a debtor.</P>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<P><HI>Franck Amorous!</HI> and in the Company of my Father! this amazes me: <HI>Betty,</HI> you must follow still the old humour, and call him Brother, Last my Father should discover our last Plot.</P>
+</SP>
+<SP>
+<SPEAKER>Bett.</SPEAKER>
+<P>O Madam never fear his discovery, I'le warrant you I'le secure him&mdash;dear Brother&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<P>Sister, how dost thou? I ha' not seen thee a good while,&mdash;but business must excuse all.</P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>Is she your Sister Sir?</P>
+</SP>
+<SP>
+<PB N="37" REF="21">
+<SPEAKER>Frank.</SPEAKER>
+<P>Yes Sir, and the best of 'em I'le assure you&mdash;but mum, more of that hereafter.</P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>Well Sir, I come indifferent near you, for this Lady here is to be my Wife.</P>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<P>Say you so Sir? nay then on your account I may presume to Salute her, without further Ceremony;</P>
+<STAGE>Kisses her.</STAGE>
+<P>Your Wife say you Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>Faith even so Sir, the Sisters have decreed it.</P>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<P>You're happy Sir, but pray, how many Months Courtship was your purchase?</P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>Though this seems to be a Modish Fellow, yet by his Discourse, he seems to know little of the Town Courtship. Sir,&mdash;Why I never Courted her in my life, Damme, methinks a mans Parts and Perfections may do it without Courtship: But Sir, I see you are ignorant of the new way of address.</P>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<P>I am in troth Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<P><HI>Tim,</HI> come hither.</P>
+</SP>
+<STAGE>They Whisper.</STAGE>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<P>Did I not know your Judgement, and this Fellows Vanity&punc; I should fear him as a Rival, but so much Foppery has clear'd my doubts, and given me cause, rather to pity then hate him.</P>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<P>I know not what it is to pity him, but I am sure I hate him; his Impertinence has made me sick,&mdash;these two hours have I been in Purgatory.</P>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<P>Nay, 'tis the verriest Puppy&mdash;Madam, shall I?&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<P>No, no, hang him, he's below a beating.</P>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<P>See, he points at thee.</P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>Who, pox, he's entring into Commendation of me, or one mis|chief or other, now 'tis ten to one but I shall suffer by his Bed-rid Genius.</P>
+</SP>
+<SP>
+<SPEAKER>Small.</SPEAKER>
+<P>Oh! oh! oh!</P>
+</SP>
+<STAGE>Within.</STAGE>
+<SP>
+<SPEAKER>Sir <HI>For.</HI></SPEAKER>
+<P>How now! what voice is that?</P>
+</SP>
+<STAGE>Enter <HI>Smallwit,</HI> his head bound&mdash;<HI>Oh, oh.</HI></STAGE>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>Hah&mdash;my Tutor&mdash;abus'd thus&mdash;'Zounds, who has done this? I'le be the death of him, a Dog, Rascal, Villain, Son of a Whore, I'le murder him, he shall not live, abuse my Tutor thus, a Rogue, a Dog; 'dsdeath I'le cut him to Pieces; let me go.</P>
+</SP>
+<SP>
+<SPEAKER>Lady <HI>A,</HI></SPEAKER>
+<P>Good Sir, be patient till we know the Accident.</P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>Father, hold me fast, for by Heaven your ignorance had like to have dishonour'd me.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>For.</HI></SPEAKER>
+<P>The Pericranium's safe, there's no great harm done; but by what Accident came it? pray be brief.</P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>No matter how Sir, 'dsdeath let me find the Rogue.</P>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<P>Nay Son, Son&mdash;good Son&mdash;</P>
+</SP>
+<SP>
+<PB N="36" REF="22">
+<SPEAKER>Small.</SPEAKER>
+<P>Why Sir, coming through <HI>Long-Acre,</HI> I chanc'd to see a very hansom Lady stand in a Bellcony, at which object my Faculties being alarm'd, I stood an indifferent while to view her; when presently comes out of the house a Gentleman, and ask'd me what I star'd at&mdash;I told him at the Lady: Sirrah sayes he, (and swore) who are you&mdash;I think|ing that would be pleasing, told who I was; and further, inform'd him I belong'd to you, <GAP DESC="illegible" REASON="missing" EXTENT="1 letter">nd what Office I was imploy'd in: when he heard this, he call'd me Son of a Whore, drew upon me, and with the Hilt of his Sword, broke my head a cross, and so surrounded by a crowd of people left me.</P>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<P>A very barbarous thing 'ifaith, broke thy head a Cross, 'twas too much a Conscience.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>For.</HI></SPEAKER>
+<P>I'le warrant some Papish, or other that ow'd him a Spight: Do'st thou not know his name?</P>
+</SP>
+<SP>
+<SPEAKER>Small.</SPEAKER>
+<P>Yes, I understood by some that stood by, that his name was <HI>Bernard.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>For.</HI></SPEAKER>
+<P><HI>Bernard,</HI> was't he? I know him Sir, a Rascal, a Cavalier|ing Vagabond that hates our party: he was once a Suitor to my Daugh|ter, but I casheer'd him quickly; alas a broken head, 'tis nothing with him, 'tis a wonder he had not kill'd thee; had I been there he had pepperd me; o' my conscience 'h<GAP DESC="illegible" REASON="faint" EXTENT="1 letter">s maim'd a Regiment of Roundheads.</P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>No one to affront thus, but my Tutor&mdash;talke no more on't, he shall not live&mdash;I'le instantly go and challenge him.</P>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<P>And so thou shalt Boy, and I'le be thy second rather then faile: Let this Pass!</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>For.</HI></SPEAKER>
+<P>Fie, fie, consider better first.</P>
+</SP>
+<SP>
+<SPEAKER>Lady <HI>A.</HI></SPEAKER>
+<P>Come Sir, go in with me, I've an excellent Balsome of my own making, which I'm sure in few hours will heal up the Orisice.</P>
+</SP>
+<STAGE>Exit <HI>Small.</HI> Lady <HI>A.</HI></STAGE>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<P>Yonder has <HI>Amorous</HI> been this quarter of an hour musing and muttering to himself&mdash;Prithee get behind him, and listen what he sayes.</P>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<P><HI>Bernard</HI> did he say! The Lady he talkt of in the Balcony, is undoubtedly <HI>Bernards</HI> Mistress, whom with such care he conceal'd over against the <HI>Rose.</HI> I'gad the hopes of beguiling him of this second Mistress is so sweet, that I am not able to resist it, I must see her.</P>
+</SP>
+<SP>
+<SPEAKER>Bett.</SPEAKER>
+<P>Oh happy discovery&mdash;who would ha thought this had been in him&mdash;well, the whole race of men are deceivers, exemplary in this inconstant wretch: But my Lady shall know it instantly.</P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>You may let me go now; I begin to cool&mdash;Pox on't, I've considered now, 'tis beneath me to fight him on this quarrel; had it been my own quarrel, and about a Wench, though 'twere an Orange Wench, I would ha' pinckt the Rascal, but seeing 'tis as 'tis, my Tu|tor shall Lampoon him, and there's an end on't.</P>
+</SP>
+<SP>
+<PB N="37" REF="22">
+<SPEAKER>Frank.</SPEAKER>
+<P>Sir, leave the sequel of this affair to me, I know the man better then you imagine; and assure your self he shall render satisfacti|on as shall countervail the Affront, for the pursuance of which, I take my leave. And hark a word more, forbear addresses to that Lady till I see you next. There's Plots, Jugglings abroad; I'le tell you more anon: My Sister neither is not as she seems, but time will discover all, six thousand pound is Money Sir: See they observe us; I'le take my leave, the humblest of your Servants&mdash;So this I see has so amaz'd him, that hee'l be fearful to proceed further, till he speak with me: but now to my new adventure&mdash;I'm almost mad to see her.</P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>Umh&mdash;there's something more in this then I well under|stand, but at night I shall know all.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>For.</HI></SPEAKER>
+<P>Come Mr. <HI>Winelove,</HI> pray walk in with me, accept a Glass of my March-Beer, old hearty Liqour Sir, and good to nourish, pray walk in.</P>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<P>With all my heart Sir <HI>Formal, Tim,</HI> come follow me.</P>
+</SP>
+<STAGE>Exeunt Omnes praeter <HI>Penelope</HI> and <HI>Betty.</HI></STAGE>
+<SP>
+<SPEAKER>Bett.</SPEAKER>
+<P>No Madam, 'tis infallibly so; you may see by his hasty going away how constant he is.</P>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<P>This Action of his has vext me extreamly, for if he ramble thus already, what would he do if I should ever happen to marry him.</P>
+</SP>
+<SP>
+<SPEAKER>Bett.</SPEAKER>
+<P>Ay Madam, when as they say he is the Husband of your bosom, the firm supplier of your Necessities, when you are bone of his bone, and for ever one flesh, then&mdash;to have what so deeply you lov'd snatch'd from you by a Suburb sinner that sues for hire, in truth Madam is in|tollerable, and were it my self I could never endure it.</P>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<P>Did'st thou hear him distinctly? Methinks I am very loath to believe it, I alwayes thought him constant, and <HI>Betty</HI> thou had'st a good opinion of him once too.</P>
+</SP>
+<SP>
+<SPEAKER>Bett.</SPEAKER>
+<P>In truth I had Madam, I thought him exquisite, and a man of good Parts; but since I find him false, I assure you I hate an incon|stant Fellow: O fye, indeed he's very odious to me.</P>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<P>But Prithee tell me, what said he?</P>
+</SP>
+<SP>
+<SPEAKER>Bett.</SPEAKER>
+<P>Why Madam, amongst a Crowd of words, which muttringly ex|prest his Joy, I heard him say aloud, that the hopes of beguiling <HI>Bernard</HI> of this second Mistress was so sweet, that he was not able to re|sist it.</P>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<P>'Tis so&mdash;he is false, nay what is worse, he triumphs in his falshood, but I am resolved to <GAP DESC="illegible" REASON="faint" EXTENT="1 letter">it him, though my poor heart suffers for it: 'Tis well my love is not so passionate, as some who six their thoughts on such base wretches. If it were, I see my destiny&mdash;incon|stant <HI>Frank</HI> adieu&mdash;I'm now my self again&mdash;<HI>Betty,</HI> get me Ink and Paper in my Closet.</P>
+<STAGE>Exit <HI>Betty.</HI></STAGE>
+<P>I'le presently write to <HI>Bernard,</HI> who perhaps dispaires of regaining my affection, but the kind expressions in my Letter shall thaw his frozen
+<PB N="40" REF="23">
+hopes, and make him once more mine,&mdash;appoint him to meet me in the Park, whither <HI>Amorous</HI> I'me sure will bring <HI>Lucia,</HI> if he designes an assignation: If I find him false, my choice is <HI>Bernard;</HI> if not, my doubt will augment my future Love, and make my Fate more happy&mdash;</P>
+</SP>
+<STAGE>Exit.</STAGE>
+<STAGE>Enter <HI>Betty.</HI></STAGE>
+<SP>
+<SPEAKER>Bett.</SPEAKER>
+<P>She's gone to Write, and now I am alone, let me consider a little of my own affaires: <HI>Franck Amorous</HI>'s last words, if well under|stood, and quaintly managed, may prove greatly to my advantage; for I heard him tell the young Squire, I was his Sister, and the best of of 'um; talkt of 6000 <HI>l</HI> and the Lord knows what, as if I were some vast unbounded Fortune, that liv'd disguis'd for my security: This Plot followed closely, must needs prove advantagious: For as I past by the door, I saw the Fop Leer at me, and make a Congee, as if he had al|ready markt me out for his Addresses: Well, if I am by the Nick name of Sister&punc; cheated into fifteen hundred a year, 'tis the only way to make me a Lady, that I know; and Heaven knows how agreeable that Title is to me, here he comes&mdash;he has followed me hither to speak in pri|vate,&mdash;and I am resolved to be prepared for him.</P>
+</SP>
+<STAGE>Enter <HI>Tim.</HI></STAGE>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>Yonder she is, it must be as he told me&mdash;her very look's too stately for a Chambermaid&mdash;ha, have they tricks? I find I shall out trick um&mdash;I'le accost her, and try if shee'l discover.</P>
+</SP>
+<SP>
+<SPEAKER>Bett.</SPEAKER>
+<P>He's coming, now for a studied speech&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Fim.</SPEAKER>
+<P>A very pretty Room this Madam&mdash;good Hangings, and well contriv'd.</P>
+</SP>
+<SP>
+<SPEAKER>Bett.</SPEAKER>
+<P>Madam, that very word is comfortable, it is indeed Sir, now very happy in Lustre, receiving from your presence its greatest Orna|ment, but else a very poor appartment, and far unworthy your no|tice.</P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>Ah Madam, you do me too much honour,&mdash;Lustre from me, alas no&mdash;I'm clouded, I make no show in the World, blemitht, dis|guised, I love no noise nor tumult, and some there are, who shall be nameless, that follow my example. &punc;This touches her.</P>
+</SP>
+<SP>
+<SPEAKER>Bett.</SPEAKER>
+<P>What, walk disguis'd? pray who are they?</P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>Persons of Quality, who think it sit to shade their Birth and Fortunes, but let that pass&mdash;your Brother Madam, by Heaven is a very brave Fellow, and one that has done me many signal favours, and whoso'er defames him, lyes in's throat, is a Son of a Whore, a Dog, and Poultroon, and shall be Carbonado'd for your sake; next for his own.</P>
+</SP>
+<SP>
+<SPEAKER>Bett.</SPEAKER>
+<P>For mine, alas Sir, indeed you degrade your self.</P>
+</SP>
+<SP>
+<PB N="41" REF="23">
+<SPEAKER>Tim.</SPEAKER>
+<P>Secrets will out at last Madam, the Sun cannot be long clouded.</P>
+</SP>
+<SP>
+<SPEAKER>Bett.</SPEAKER>
+<P>Sir, this is too mistical for so barren an apprehension as mine is.</P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>Madam, you may conceal it how you please; but your Bro|ther has done me the honour to impart a Secret to me.</P>
+</SP>
+<SP>
+<SPEAKER>Bett.</SPEAKER>
+<P>A Secret Sir!&mdash;for Heavens sake, of me, or my Lady?</P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>Your Lady&mdash;ha, ha, ha,&mdash;who's that&mdash;no, no, that won't pass: I have a piercing eye, it may be a foreseeing one.</P>
+</SP>
+<SP>
+<SPEAKER>Bett.</SPEAKER>
+<P>What do ye foresee Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>Where a great Fortune lyes: Nay I can tell too whether 5000 <HI>l.</HI> or 15 Groats&mdash;your Lady&mdash;ha, ha, ha, harke Madam, deal freely with me&mdash;is she not your Chambermaid? I suppose 'twill come to that at last.</P>
+</SP>
+<SP>
+<SPEAKER>Bett.</SPEAKER>
+<P>O sye, no indeed Sir, but I see my Brother has been too talkative of my concerns: Yet this committing it to the bosom of a person of so much merit and worth, as your actions sufficiently de|monstrate you to be, has in some measure released my doubt, I well know|ing the extraordinary Perfections Heaven has bestowed on you, espe|cially in concealing the secret of a person extreamly sensible of For|tunes bounty, in permitting the honour to be enroll'd among the the number of your admirers.</P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>Madam, your commands can make me dumb, if this had come from a man now: what a rare speech was here to have criticis'd upon, but I am glad I have discovered her Quality.</P>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<P>within, <HI>Betty,</HI> where are you?</P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>Who's that?</P>
+</SP>
+<SP>
+<SPEAKER>Bett</SPEAKER>
+<P>Sir <HI>Formalls</HI> Daughter Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>Methinks Sir <HI>Formalls</HI> Daughter's a little too familiar, though with one of your Quality.</P>
+</SP>
+<SP>
+<SPEAKER>Bett.</SPEAKER>
+<P>'Tis as I please to have it Sir, for a time: Hark she's coming, and 'tis not fit she sees this Interview; therefore&punc; Sir&punc; I must beg you to retire, and leave the pursuance of this affair to a fitter opportunity, alwayes re|membring that your secresy will oblige me; for were my Qualities pub|lisht, I could never rest free from the impertinent Addresses of the Town Fops, and that was indeed the reason.</P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>Of your disguising your self into a Chambermaid, nay never blush, it must be so.</P>
+</SP>
+<SP>
+<SPEAKER>Bett.</SPEAKER>
+<P>Well indeed Sir, you have the winningst way with you.</P>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<P>Within, Why <HI>Betty,</HI> what are you doing of?</P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>Again, a very impudent woman, this Madam, as ever I saw; but the truth is, I ever thought her a woman of slender Discretion, but least as you say, she should come and disturb us, I'le take my leave, and be only happy in contemplating your perfection, being deprived of the Blessing of your Society.</P>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<PB N="42" REF="24">
+<SPEAKER>Bett.</SPEAKER>
+<P>The Blessing of my Society&mdash;ha, ha, ha, was ever such a Fop seen, he runs faster into the snare then I would have him; I play'd my partrarely well, there's but a step more between me and my wishes, if I can get that my race is finisht, if not, 'tis but so many hopes lost, and the odd Complements: I'le go and disclose all to my Lady, she I am sure will further it; the next is, to appoint an Assignation, get a Par|son and Marry, and the next, to take State upon me as befits my For|tune.</P>
+</SP>
+<STAGE>Exit.</STAGE>
+</DIV3>
+<DIV3 N="3" TYPE="scene">
+<HEAD><HI>SCENE III.</HI> Second Chamber.</HEAD>
+<STAGE>Enter <HI>Bernard</HI> and <HI>Lucia.</HI> A Letter.</STAGE>
+<SP>
+<SPEAKER>Ber.</SPEAKER>
+<P>Nay, prithee trouble not thy self about this, 'tis a concern of a friends of mine ith' Country; but to our own affair, I saw <HI>Frank Amo|rous</HI> coming in the Street, I know he's coming hither: Put your self in|to a fit posture, it may be a Husband, and a 1000 <HI>l.</HI> a year in your way, if well manag'd.</P>
+</SP>
+<SP>
+<SPEAKER>Luc.</SPEAKER>
+<P>Pray let me alone to manage it.</P>
+</SP>
+<SP>
+<SPEAKER>Ber.</SPEAKER>
+<P>I'le go into my Closet, and over-hear and in the middle of his Courtship surprize him, hark he's coming&mdash;you know your part,&mdash;I'le obscure myself.</P>
+</SP>
+<STAGE>Enter <HI>Franck Amorous,</HI> She offers to run away, he Catches and holds her.</STAGE>
+<SP>
+<SPEAKER>Franck.</SPEAKER>
+<P>Nay, do not fly me Madam, you are found, I thank my Stars they have lighted me the way, the right way now&mdash;I have rambled long enough.</P>
+</SP>
+<SP>
+<SPEAKER>Luc.</SPEAKER>
+<P>And now you have found me, what are you the better? what Propositions can you make your self?</P>
+</SP>
+<SP>
+<SPEAKER>Franck.</SPEAKER>
+<P>Why all Madam, all that man could wish for; I have youth enough, strength enough, Love enough, and Money enough, and what a Pox should bauk my Propositions: I do propound to my self that I am the man that must&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Luc.</SPEAKER>
+<P>&mdash;What?</P>
+</SP>
+<SP>
+<SPEAKER>Franck.</SPEAKER>
+<P>Why do a certain affair for you which shall be namless. But before I proceed any further in Discourse, oblige me so far, as to tell me in what manner of Phrase I shall accost you? whether in your old way of Raillery and Affront, or my old of Love and Insinuation?</P>
+</SP>
+<SP>
+<SPEAKER>Luc.</SPEAKER>
+<P>Neither Sir, I am not prepared for an Address.</P>
+</SP>
+<SP>
+<SPEAKER>Franck.</SPEAKER>
+<P>But I am&mdash;do but try me&mdash;I'le warrant I'le fit your humour.</P>
+</SP>
+<SP>
+<SPEAKER>Luc.</SPEAKER>
+<P>You'l find it somewhat troublesome&mdash;mine's a continued Temper.</P>
+</SP>
+<SP>
+<SPEAKER>Fronck.</SPEAKER>
+<P>So that's my Cue, it must be the old way&mdash;'Tis the
+<PB N="43" REF="24">
+strangest humour I ever met with, nothing will win her but flat abuses.</P>
+</SP>
+<SP>
+<SPEAKER>Luc.</SPEAKER>
+<P>Sir, you will oblige me to be brief in declaring your business.</P>
+</SP>
+<SP>
+<SPEAKER>Franck.</SPEAKER>
+<P>Why, then to be plain with you Madam, the world takes notice of your retir'd life, and has been bold to pass ungrounded Censures upon your reputation: There is a Gentleman is seen to Visit you often, one I could name, if occasion were, and to my knowledge&mdash;ha's above three and twenty Wives, besides some thirteen Mistresses, conveniently Lodged for each particular Ramble.</P>
+</SP>
+<SP>
+<SPEAKER>Ber.</SPEAKER>
+<P>Impudent Raskal.</P>
+</SP>
+<STAGE>Behind.</STAGE>
+<SP>
+<SPEAKER>Luc.</SPEAKER>
+<P>Certainly not so many as you mention, but if he had, I could forgive him: Besides Sir, methinks you have little reason to speak of this, having your self by this Character of you been sixteen times under the Surgeons hands, and as often Cited into the Court for getting of Bastards.</P>
+</SP>
+<SP>
+<SPEAKER>Franck.</SPEAKER>
+<P>Pugh&mdash;a lye&mdash;a notorious lye&mdash;I Cited to the Court Madam, he only told you this, for fear of being too much interested in your favour.</P>
+</SP>
+<SP>
+<SPEAKER>Luc.</SPEAKER>
+<P>Sir, he needs not fear that, for both he and all others are alike to me, I seldom fawn on any one.</P>
+</SP>
+<SP>
+<SPEAKER>Franck.</SPEAKER>
+<P>That fawns on you, you mean, one that will Court you, Serve you, Sing to you, Play with you, Love ye, Kiss ye, Marry you, Lye with you, Honour you, and keep you to the end of the Chapter.</P>
+</SP>
+<SP>
+<SPEAKER>Luc.</SPEAKER>
+<P>The truth is, 'tis a great deal better then 'tother, and I'm pleased to see your endeavours.</P>
+</SP>
+<SP>
+<SPEAKER>Franck.</SPEAKER>
+<P>Art thou pretty sweet Creature? and 'igad I will endeavour most extreamly&mdash;most vehemently, but I will please thee at last.</P>
+</SP>
+<SP>
+<SPEAKER>Ber.</SPEAKER>
+<P>So now I'le upon him, he's ripe now for the Plot.</P>
+</SP>
+<SP>
+<SPEAKER>Luc.</SPEAKER>
+<P>I'me sure now you insult over my weakness, if I should be kind.</P>
+</SP>
+<SP>
+<SPEAKER>Franck.</SPEAKER>
+<P>Insult, banish me for ever thy presence, which is the great|est Curse I can think of, if I do not adore every inch of thee, and think this the happiest minute I ever saw, my deer, sweet, pretty excel|lent.</P>
+</SP>
+<STAGE>Kisses her hand, <HI>Ber|nard</HI> pulls him.</STAGE>
+<SP>
+<SPEAKER>Ber.</SPEAKER>
+<P>Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Luc.</SPEAKER>
+<P>Oh Heavens! <HI>Bernard</HI> here!</P>
+</SP>
+<SP>
+<SPEAKER>Franck.</SPEAKER>
+<P>Ay, I knew the Devil would send him&mdash;well, since it is so, I will be impudent, and get out as well as I can. Your pleasure Sir&mdash;you see 'tis I, make your best on't.</P>
+</SP>
+<SP>
+<SPEAKER>Ber.</SPEAKER>
+<P>Then Sir, let me tell you&mdash;you are a Villain.</P>
+</SP>
+<SP>
+<SPEAKER>Franck.</SPEAKER>
+<P>And Sir, let me tell you, you lye, there's a <HI>Rowland</HI> for your <HI>Oliver.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Ber.</SPEAKER>
+<P>'Dsdeath can I be patient?</P>
+</SP>
+<STAGE>He offers to draw.</STAGE>
+<SP>
+<SPEAKER>Luc.</SPEAKER>
+<P>Hold Sir, do you know where you are, and what I am, that you dare do this; must I be affronted with your unseasonable Quarrels? And must my Chamber be your field to tilt in: call you this Love to me? I grow enraged at the Affront.</P>
+</SP>
+<SP>
+<PB N="44" REF="25">
+<SPEAKER>Ber.</SPEAKER>
+<P>Madam, can you then take part with my enemy, the Ravisher of my delights, and continued fo to virtue.</P>
+</SP>
+<SP>
+<SPEAKER>Franck.</SPEAKER>
+<P>And fools&mdash;pray put that in too.</P>
+</SP>
+<SP>
+<SPEAKER>Ber.</SPEAKER>
+<P>Had'st thou not Impudence beyond example, and wert a lyer on record, how couldst thou say I had three and twenty Wives, and so many Mistresses, alwayes knowing the sincerity of my Life and Con|versation.</P>
+</SP>
+<SP>
+<SPEAKER>Franck.</SPEAKER>
+<P>And wert thou not immediate contriver of falshood under <HI>Luciser,</HI> and owner of an impudence surpassing his, how couldst thou say I had been sixteen times under the Surgeons hands, and as often Cited for getting Bastards? knowing my immaculate temper and strange aversion to Unchastity.</P>
+</SP>
+<SP>
+<SPEAKER>Ber.</SPEAKER>
+<P>Ha&mdash;thy aversion&mdash;'dsheart do not I know.</P>
+</SP>
+<SP>
+<SPEAKER>Luc.</SPEAKER>
+<P>Sir, what you please, but this is no fit place for you to declare your knowledge in; and since your nature is so turbulent, think it not strange if I desire your absence: Pray leave us.</P>
+</SP>
+<SP>
+<SPEAKER>Ber.</SPEAKER>
+<P>Madam, I know too much of duty to dispute your commands. But Sir&mdash;you shall dearly pay for this&mdash;believe't you shall, an Heiress, and ten thousand Pounds is not so easily won as you imagine: but we shall meet again.</P>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>Franck.</SPEAKER>
+<P>An Heiress, and ten thousand pound, I am ravisht at my Fortune&mdash;meet again ah&mdash;i'gad&mdash;I would meet thee in the Quarrel, were it in Hell, and our Weapons were to be Firebrands&mdash;'tis a rare Creature, and I am certain Loves him intirely&mdash;Ma|dam, he's gone, ha, ha, ha, the poor Fellow is retir'd; and now since you have half blest me already, take pitty and compleat it, I am a Gentleman, my Estate a thousand <HI>per annum,</HI> raise me from death and take me for your Husband: I love you above life, and 'twill be Cha|rity in you to keep him from despair, that lives but to adore you.</P>
+</SP>
+<SP>
+<SPEAKER>Luc.</SPEAKER>
+<P>You are too hasty Sir, let me consider a while, the cause re|quires it; however meet me in <HI>Grays-Inn-Walks</HI> this Evening, and my answer shall be as satisfactory, as my honour will permit, or decency al|low of.</P>
+</SP>
+<SP>
+<SPEAKER>Franck.</SPEAKER>
+<P>I'le be as punctual as the hour, till when, adieu sweet stealer of my heart; thou precious, melting, charming, snairing&mdash;'dsdeath I am transported.</P>
+</SP>
+<STAGE>Exit.</STAGE>
+<STAGE>Enter <HI>Bernard.</HI></STAGE>
+<SP>
+<SPEAKER>Ber.</SPEAKER>
+<P>Ha, ha, ha, rarely performed, thou hast fir'd him so, that he'l certainly marry thee, though it were only in hopes to beguile me, and when 'tis done, no matter for his frown; I'le be at hand to see thou art not wronged, go, go in, prepare for the assignation, so it works rare. Now my young Roving Gallant, I think I've met we'e, 'tis the  <GAP DESC="illegible" REASON="faint" EXTENT="1 span">.
+<STAGE>Exit.</STAGE>
+<PB N="45" REF="25">
+For he's so heedless, that he certainly marries her. But now for ano|ther affair, Sir <HI>Formalls</HI> Daughter I find by this Letter, has cast him off, and re-establisht me, I'le instantly to her; if occasion serve get a Priest and Marry her, and by that time I suppose, his business will be done: This once compleated, I am sufficiently reveng'd on his infidelity, and shall have no cause to complain on my own ill Fortune.</P>
+<L>Friendship and Love, a lofty Fabrick raise,</L>
+<L>Which when once crack't, immediatly decayes.</L>
+</SP>
+</DIV3>
+</DIV2>
+<DIV2 N="5" TYPE="act">
+<HEAD>ACT. V.</HEAD>
+<DIV3 N="1" TYPE="scene">
+<HEAD><HI>Scene I.</HI> Covent-Garden.</HEAD>
+<STAGE>Enter <HI>Bernard</HI> and <HI>Penelope.</HI></STAGE>
+<SP>
+<SPEAKER>Ber.</SPEAKER>
+<P>MAdam, this assurance of your affection has banisht my former doubts, your past displeasure looks but as a Dream, that now I am awake troubles my Bliss to find the contrary.</P>
+</SP>
+<SP>
+<SPEAKER>Pen</SPEAKER>
+<P>Take heed the Dream Sir, is not seconded with one to fright you more, you have small reason to hope otherwise, if I should look se|verely into your Life.</P>
+</SP>
+<SP>
+<SPEAKER>Ber.</SPEAKER>
+<P>My Life! I warrant you think me Inconstant; Fye Madam; discard such mean suppositions: But if I were false, how can you com|plaine, knowing how you have tortured me, by your favouring <HI>Franck Amorous.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<P>I'le not dispute it now, though I know something, something perhaps you did intend to hide; your <HI>Lucia</HI>'s discovered Sir&mdash;Lord how you men are deceived, when imagining to hide your Mistresses, you most disclose 'em.</P>
+</SP>
+<SP>
+<SPEAKER>Ber.</SPEAKER>
+<P>Well, I do confess. But consider Madam, it was your severity was the Cause, together with my Constitution, which cannot subsist without a Helper.</P>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<P>I have consider'd on't, and because you shall not say I am too rigorous, I am content to take that for an excuse, more especially because you say you have laid a Plot to ensnare that inconstant Fellow; but are you sure he will marry her?</P>
+</SP>
+<SP>
+<SPEAKER>Ber.</SPEAKER>
+<P>I am sure the Plot is well laid, and he is of that rashy heedless nature, that 'tis a thousand to one he scapes it not.</P>
+</SP>
+<SP>
+<PB N="46" REF="26">
+<SPEAKER>Pen.</SPEAKER>
+<P>As for the other Fop, the <HI>Fool turn'd Critick,</HI> his Game lyes ano|ther way, and perhaps at last neither of 'em will have cause to boast of too good Fortune. But let us go in, and be sure you seek to please my Father, who is now at a great difference with old <HI>Winelove,</HI> about the Estate he means to give his Son; loose no time, it may be this minute was ordained to make us happy.</P>
+</SP>
+<SP>
+<SPEAKER>Ber.</SPEAKER>
+<P>Madam, you have turtor'd me.</P>
+</SP>
+<STAGE>Exeunt.</STAGE>
+</DIV3>
+<DIV3 N="2" TYPE="scene">
+<HEAD>Scene II.</HEAD>
+<STAGE>Enter <HI>Smallwit</HI> Solus.</STAGE>
+<SP>
+<SPEAKER>Small.</SPEAKER>
+<P>I am scarce recovered of my Bruises yet, this Iron-Fisted Rascal has so maul'd me. If I but think of a Battoon, I tremble, and a Sword is more dreadful to me then an Execution to a Banckrupt: 'Tis very hard yet each man has his destiny,; why may not a beating be as natural to me as to another Man, I was once a Servitor in a Colledge, and was beaten through my office very often. But that <HI>Bernard;</HI> now I stand on the brinck of preferment, should do this to me is insufferable, and I will be revenged: I heard of an appointment betwixt him and <HI>Penelope,</HI> which I will streight disclose to her Father, and by that means frustrate his designes, this is one way to plague him, and I'le about it presently.</P>
+</SP>
+<STAGE>Exit.</STAGE>
+</DIV3>
+<DIV3 N="3" TYPE="scene">
+<HEAD><HI>Scene III.</HI> Hall.</HEAD>
+<STAGE>Enter <HI>Old Wine</HI> and Sir <HI>Formall.</HI></STAGE>
+<SP>
+<SPEAKER>Sir <HI>For.</HI></SPEAKER>
+<P>Not a Cross more Sir, I have told you the utmost, you know my way, and how fixt my resolves are, my Daughters my Daughter but my Mony's my Wife Sir, two thousand Pounds I'le give her, if you expect more, you are deceived, I never did intend it.</P>
+</SP>
+<SP>
+<SPEAKER>Old Win.</SPEAKER>
+<P>Then let me tell you Sir, I scorn your offer, two thousand Pounds, a Portion for a Pedlar; my Son Sir, shall be Landed 500 Pound a year, it may be more, besides his Breeding, which put into Ballance makes a thousand, a Fortune not to be bestowed upon so Mean a per|son as your Daughter, but only my good nature.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>For.</HI></SPEAKER>
+<P>How Sir? Mean?</P>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<P>I said it Sir, and once propound, that if it be a Match, you shall bestow three thousand Pounds at the day of Marriage, and your Mannor of <HI>Broughton</HI> in <HI>Essex</HI> at the Birth of her first Child.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>For.</HI></SPEAKER>
+<P>But suppose Sir, she has no Children?</P>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<P>How Sir! no Children! ha, ha, ha, my <HI>Tim</HI> no Children! was ever such a doubt made? why Sir, he has stockt all the Parishes about us with his off-spring already, there's never a Mumper in <HI>Essex</HI> but has one of 'em at her back, nay, they are so numerous, that you
+<PB N="47" REF="26">
+may 'em at four pence half-penny a piece, and a good penny worth too: No Children quoth he, alas Sir, he has been tryed in that long ago.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>For.</HI></SPEAKER>
+<P>I, I Sir, so has my Daughter been tryed too Sir, but you'l find it not so easie to propagate here, as in the Country.</P>
+</SP>
+<SP>
+<SPEAKER>Old Win.</SPEAKER>
+<P>No, your reason Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>For.</HI></SPEAKER>
+<P>Why Sir, our Air is not so nourishing: Besides, take this from me, one that has known the City Complexions as well as the Country; you spoiled your Son when you permitted him to be a man of the Town.</P>
+</SP>
+<SP>
+<SPEAKER>Old Win.</SPEAKER>
+<P>Pish.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>For.</HI></SPEAKER>
+<P>Believe me you did; pray tell me when did you ever know a Critick, a man of Mode as they call 'em, get Children, never, Ods Bobs Sir, they cannot do't; why all the Spirit they have is infused with Pottag, Langoone and Lobsters, no natural Causes to produce Effects, a sort of dry, unsound wretched Fellows, that can get nothing but Claps, nor that neither, but that 'tis hereditary, and entayled from one Ge|neration to another.</P>
+</SP>
+<SP>
+<SPEAKER>Old Win.</SPEAKER>
+<P>Sir <HI>Formall,</HI> think not by this Ribble Rabble, this discourse of nothing, to put me out of conceit with my Son; I know Sir, he is Young, Airy and Lusty, and as I said before Sir, a true <HI>Winelove,</HI> one that can choose a Doxy with Discretion: what doubt my own Flesh and Blood, not I 'igad, when I was a young man, I durst have lookt a woman in the Face my self, as well as some that were fatter; but let that pass, my <HI>Tim</HI> get no Children! ha, ha, ha!</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>For.</HI></SPEAKER>
+<P>I'le stand to what I've said Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Old Win.</SPEAKER>
+<P>Sir, you must not Sir, I shall grow angry then, troth I shall, very angry, and 'twill be dangerous to urge it farther.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>For.</HI></SPEAKER>
+<P>I slight your anger Sir, and to persevere, I tell you once more, what I said is true.</P>
+</SP>
+<SP>
+<SPEAKER>Old Win.</SPEAKER>
+<P>What, that my Son can get no Children!</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>For.</HI></SPEAKER>
+<P>No Sir, that deserves that name, since you provoke me, he,&mdash;a thing made up of Froth and Vanity.</P>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<P>Old man, do not provoke me&mdash;I say do not&mdash;for by the Reverend Beard of <HI>Iohn</HI> a <HI>Gaunt,</HI> I have knockt down as tall a Fellow in my time&mdash;but no more, I say do not provoke me.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>For.</HI></SPEAKER>
+<P>Provoke thee Dotard, I defy thee and thy Son too; his Cringes and his Tricks, let him from henceforth forbear my house, a Critick, a Fool.</P>
+</SP>
+<SP>
+<SPEAKER>Old Win.</SPEAKER>
+<P>Fool in your Face Sir, Coxcomb, s'bud were it in ano|ther place, I'd cramb that notion down your throat again, call the great|est Wit ith' Nation Fool, ha, ha, ha.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>For.</HI></SPEAKER>
+<P>A Wit, why did'st ever know a right Critick a Wit, no they are Fools originally, and usurp the name of Critick, only to get re|putation among some few pretenders; this is in brief my opinion of 'em.</P>
+</SP>
+<SP>
+<PB N="48" REF="27">
+<SPEAKER>Old Win.</SPEAKER>
+<P>I shall refine your opinion presently, for I can forbear no longer, take that Sir, and the Lye.</P>
+</SP>
+<STAGE>Strikes him.</STAGE>
+<SP>
+<SPEAKER>Sir <HI>For.</HI></SPEAKER>
+<P>That Sir, 'twas home I confess, but I'le not be behind hand with you.</P>
+</SP>
+<STAGE>They Cuff one another, and pull off both Hats and Perewigs.</STAGE>
+<STAGE>Enter <HI>Smallwit.</HI></STAGE>
+<SP>
+<SPEAKER>Small.</SPEAKER>
+<P>Hey day! what work's here? Sir <HI>Formall,</HI> Mr. <HI>Winelove;</HI> for Heavens sake, what do you mean, old Friends and quarrel thus, come, come, forbear.</P>
+</SP>
+<STAGE>parts'em.</STAGE>
+<SP>
+<SPEAKER>Sir <HI>For.</HI></SPEAKER>
+<P>A Drunken Dotard.</P>
+</SP>
+<SP>
+<SPEAKER>Old Win.</SPEAKER>
+<P>A Testy Cuckold.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>For.</HI></SPEAKER>
+<P>Hah!</P>
+</SP>
+<SP>
+<SPEAKER>Old Win.</SPEAKER>
+<P>'Tis true Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Small.</SPEAKER>
+<P>Nay Mr. <HI>Winelove,</HI> for Heavens sake be pacified, I have a World of News to tell you. News that concerns you too, good Sir be reconciled.</P>
+</SP>
+<SP>
+<SPEAKER>Old Win.</SPEAKER>
+<P>Keep him but off, I have done&mdash;I am for peace.</P>
+</SP>
+<SP>
+<SPEAKER>Small.</SPEAKER>
+<P>Sir <HI>Formall,</HI> come forget petty Differences, you little think what News I have to tell you.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>For.</HI></SPEAKER>
+<P>What is't prithee? Sir, I shall think on you another time.</P>
+</SP>
+<SP>
+<SPEAKER>Old Win.</SPEAKER>
+<P>At your leisure Sir, I seldom walk disguised, my <HI>Jim</HI> get no Children; ha, ha, ha,: But come my little Mercury, what News is this thou hast to tell me?</P>
+</SP>
+<SP>
+<SPEAKER>Small.</SPEAKER>
+<P>Give your Attention, for it equally concerns you both.</P>
+</SP>
+<SP>
+<SPEAKER>Ambo.</SPEAKER>
+<P>Say on.</P>
+</SP>
+<SP>
+<SPEAKER>Small.</SPEAKER>
+<P>Why then Sir&mdash;your Daughter has to my knowledge, this afternoon made an Assignation with <HI>Bernard</HI> to meet him in the <HI>Mul|bery-Garden,</HI> and if you make not great haste, will be married e're you can get thither, for I saw a little Black man like one of the Clergy in the Coach with 'em.</P>
+</SP>
+<SP>
+<SPEAKER>Sir. <HI>For.</HI></SPEAKER>
+<P>Ha! with <HI>Bernard?</HI> If this be true I am undone.</P>
+</SP>
+<SP>
+<SPEAKER>Small.</SPEAKER>
+<P>'Tis Certainly true Sir, for I knew him very well, though she pretended he was her Kinsman.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>For.</HI></SPEAKER>
+<P>Kinsman! ah cunning Jilt, but I'le take a Coach, and forbid the Banes immediatly.</P>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>Small.</SPEAKER>
+<P>And Sir, your Son my Pupil, has instead of <HI>Penelope,</HI> married as I hear a vast Fortune, a near Kinsman of <HI>Franck Amorous,</HI> one that fell in Love with him, and he taking time by the forelock this morning married her.</P>
+</SP>
+<SP>
+<SPEAKER>Old Win.</SPEAKER>
+<P>A Fortune say you?</P>
+</SP>
+<SP>
+<SPEAKER>Small.</SPEAKER>
+<P>Some six or ten thousand Sir, 'tis reported diversly, but for certain a vast Fortune.</P>
+</SP>
+<SP>
+<SPEAKER>Old Win.</SPEAKER>
+<P>There's for thy News, I'm o'rjoyed at this: But where are they? dost thou know that?</P>
+</SP>
+<SP>
+<PB N="49" REF="27">
+<SPEAKER>Small.</SPEAKER>
+<P>Gone to the <HI>Mulbery-Garden,</HI> to keep their Wedding Dinner.</P>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<P>I'le make one amongst 'em instantly, six thousand Pounds, and got so handsomely: This News has made me young again, I could Dance: Methinks I am so Jocund! Ah 'tis a Witty Rascal, how cunningly has he carried his business!</P>
+</SP>
+<SP>
+<SPEAKER>Small.</SPEAKER>
+<P>He has indeed been very private in it.</P>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<P>Nay he has a Politick Pate on my word; he's as I told Sir <HI>Formall,</HI> a true <HI>Winelove</HI>&mdash;run Mr. <HI>Smallwit</HI> and call the next Coach, I'le thither presently; he has outwitted me; but I rejoyce at his Fortune; and now a fig for Sir <HI>Formall</HI> and his Proposalls, I'me re|solved to be extreamly Merry, and Crown this Marriage with my Love and Approbation.</P>
+</SP>
+<STAGE>Exeunt.</STAGE>
+</DIV3>
+<DIV3 N="3" TYPE="scene">
+<HEAD><HI>SCENE III.</HI> Mulbery Garden.</HEAD>
+<STAGE>Enter <HI>Franck Amorous</HI> and <HI>Lucia.</HI> A Letter</STAGE>
+<SP>
+<SPEAKER>Franck.</SPEAKER>
+<P>Madam, till this moment I ne're was happy, but in your Company lies such Crowds of Joyes, that my soul's too narrow to receive 'em.</P>
+</SP>
+<SP>
+<SPEAKER>Luc.</SPEAKER>
+<P>I'm afraid you do but mock, and you men are such Deceivers that it imposes a general scandall upon the Sex. Sure you cannot be so, can you?</P>
+</SP>
+<SP>
+<SPEAKER>Franck.</SPEAKER>
+<P>No by Heavens, I can sooner be false to my own soul, then think of deceiving thee; I love thee with so much Zeal, and my Passion is so violent, that I fear I shall never have Patience till the Par|son have Married us.</P>
+</SP>
+<SP>
+<SPEAKER>Luc.</SPEAKER>
+<P>Indeed you must, Lord what will become of me if you want Patience, I shall never be able to endure a man that wants patience.</P>
+</SP>
+<SP>
+<SPEAKER>Franck.</SPEAKER>
+<P>Well I'le endeavour, but defer my Bliss as little as you can.</P>
+</SP>
+<SP>
+<SPEAKER>Luc.</SPEAKER>
+<P>You are as eager as if you were going to take possession of a Happiness conducing to your Life.</P>
+</SP>
+<SP>
+<SPEAKER>Franck.</SPEAKER>
+<P>My life, ay Gad, my dearest life; my soul is at stake if I miss thee, for I will certainly hang my self, and wilfully lose a second Heaven, being deprived of my first: Come, prithee let's go.</P>
+</SP>
+<SP>
+<SPEAKER>Luc.</SPEAKER>
+<P>What man's this that's come to us?</P>
+</SP>
+<SP>
+<SPEAKER>Franck.</SPEAKER>
+<P>'Sheart 'tis young <HI>Winelove,</HI> I promised to meet him here, and now he has seen me, 'tis but vain to avoid him. Dear Madam&punc; step but into the next Arbour whilst I exchange a word or two with him, and I'l be with you instantly.</P>
+</SP>
+<SP>
+<SPEAKER>Luc.</SPEAKER>
+<P>So I think I have him fast enough,, would the Parson were come, that I might be out of pain. Lord what fools these men are!</P>
+</SP>
+<STAGE>Exit, and going out drops a Paper.</STAGE>
+<SP>
+<PB N="50" REF="28">
+<SPEAKER>Franck.</SPEAKER>
+<P>What's this she has dropt?</P>
+<STAGE>Reads.</STAGE>
+<P><HI>To my dear</HI> Lucia&mdash;from he Guardian I'le warrant about her Estate; when <HI>Winelove</HI>'s gone I'le read it.</P>
+</SP>
+<STAGE>Enter <HI>Tim.</HI></STAGE>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<STAGE>sings.</STAGE>
+<L>How happy is he that is free</L>
+<L>From the Troubles and Cares of the Wise:</L>
+<L>That Banquets his sense</L>
+<L>With a world of expence,</L>
+<L>And hates the dull life of the sordid precise.</L>
+<P>Hah! Brother.</P>
+</SP>
+<SP>
+<SPEAKER>Franck.</SPEAKER>
+<P>Sir&punc; I see you are a man of your word, but more Merry and Jocund then usual.</P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>Why faith I am Sir; the Stars have been kind, and I have been kind, and I have cause to be so; for I have Married a Lady this morning that is a <HI>non parelio:</HI> And I that formerly Criticised upon the whole Sex, now confess my self foiled in my own Argument.</P>
+</SP>
+<SP>
+<SPEAKER>Franck.</SPEAKER>
+<P>Married Sir! may I not beg the favour to know whom?</P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>Faith I must desire your pardon at present, time will discover all, but assure your self 'tis not to <HI>Penelope;</HI> Fate I thank it, has seated me a little higher. In the mean time I have Brotherly affection for thee, which shall continue in spite of Death and Destiny.</P>
+<STAGE>Sings.</STAGE>
+<P><HI>How Happy is he that is free,</HI> &amp;c.</P>
+<P>I am so Airie I could fly methinks.</P>
+</SP>
+<SP>
+<SPEAKER>Franck.</SPEAKER>
+<P>You are the spark of our Age Sir,&mdash;but prethee forward with the, methinks it begins well.</P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>Ah Pox no, there's nothing in't, 'twas writ by a Fellow that writes your Elegies, your News from <HI>Rumford,</HI> your Murders, Cha|racters of Baleys, and the like. A damned Tune too, set by a Novice in the Science; but if thou wilt hear a Song, I le sing thee one of my own, a new thing; and I think you'le say a good one; that has had the honour to be stiled so by some persons of Honour, that love such things, and sometimes love to write 'em.</P>
+</SP>
+<SP>
+<SPEAKER>Franck.</SPEAKER>
+<P>Come prethee lets hear it.</P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<L>Stay I'le go call three of my Friends here Drinking in the next</L>
+<L>Arbour to bear the Chorus, and I'le be with you instantly.</L>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>Franck.</SPEAKER>
+<P>I wonder who the Devil he has Married, but I am glad 'tis not <HI>Penelope;</HI> for though I have her not my self; I should be sorry to have her enjoyed by such a Fop as this.</P>
+</SP>
+<STAGE><PB N="51" REF="28">Enter <HI>Tim</HI> and Musicians.</STAGE>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>Come Friends, keep your Time, pray observe Sir.</P>
+</SP>
+<Q><TEXT LANG="eng">
+<BODY>
+<DIV1 TYPE="song">
+<HEAD>SONG.</HEAD>
+<LG>
+<L>No more dull Reason, seek no more</L>
+<L>To feed me to thy slender food:</L>
+<L>Thy sober precepts have no power,</L>
+<L>To keep me from my chiefest good.</L>
+<L>In Love and Wine my Bliss relyes,</L>
+<L>And he that e're would happy be,</L>
+<L>His growing Appetite must prize&punc;</L>
+<L>Desie all Cares, and live like me.</L>
+</LG>
+<LG>
+<L><GAP DESC="music"> To ramble from Taverns is nightly our task,</L>
+<L>To roar through <GAP DESC="music"> the streets, and debateh the next Mask;</L>
+<L>to baffle the Watch, <GAP DESC="music"> in despight of their Bills,</L>
+<L>get home; and next morning to <GAP DESC="music"> Breakfast with P<GAP DESC="illegible" REASON="faint" EXTENT="1 letter">ls;</L>
+<L>Till crampt with the Pox, we aspire to re|nown,</L>
+<L><GAP DESC="music"> take State, and are call'd brisk Men of the Town.</L>
+</LG>
+<LG N="2">
+<PB N="52" REF="29">
+<HEAD>2.</HEAD>
+<L>We know no Rapture, own no Wit,</L>
+<L>But what Impertinence is known;</L>
+<L>At Playes we range our selves ith' Pit.</L>
+<L>And hate all Fancies but our own.</L>
+<L>We rail and hiss, that men may see</L>
+<L>We men of Sense and Iudgment are;</L>
+<L>But if examined seriously:</L>
+<L>The Devil a grain we have to spare.</L>
+</LG>
+<LG>
+<HEAD>Chorus</HEAD>
+<L>To Ramble, <HI>&amp;c.</HI></L>
+</LG>
+</DIV1>
+</BODY>
+</TEXT></Q>
+<P>Well what thinkest thou, is it not Modish?</P>
+<SP>
+<SPEAKER>Franck.</SPEAKER>
+<P>Faith 'tis extreamly modish, and more Wit then I expected. But you may thank a Friend for't to my knowledge.</P>
+</SP>
+<STAGE>aside&punc;</STAGE>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>The truth is, the world is somewhat ignorant of my Guifts; but Modesty you know is a Vertue; Besides Wit in a Song is now worth nothing, your Fighting Songs, your Bawdy Songs, your Drunken Songs, and your Mock Songs, are the things that take now; and faith I must confess, my Genius has been so Capricious, that I could never yet allow of 'em, though composed by persons of Quality.</P>
+</SP>
+<SP>
+<SPEAKER>Franck.</SPEAKER>
+<P>Sir, I am so little a Judge in it, that my defence will be worse then you say the Songs are.</P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>You may say of your self what you please, but give me leave to think otherwise; but come pass this Discourse, and now to the Business that you are to disclose to me, prethee what is't? hah!</P>
+</SP>
+<SP>
+<SPEAKER>Franck.</SPEAKER>
+<P>Why something that I know concerns you, but at present I have no time to declare it; for I have a Friend within waits my presence with impatience, but by that time you have Dined, I shall be ready for you.</P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>Well Sir, I will not hinder business, being a man that naturally loves it, especially the affair I suppose you are engaged in. Sir, your most Humble Servant, I shall wait with patience, and think it an honour to enjoy your Company at your own Leisure.</P>
+</SP>
+<SP>
+<SPEAKER>Franck.</SPEAKER>
+<P>Sir, I am no stranger to your Rhetorick.</P>
+<STAGE>Exit <HI>Tim.</HI></STAGE>
+<STAGE>Opens the Letter.</STAGE>
+<STAGE>Reads.</STAGE>
+<P><HI>Dear heart, though I was so unfortunate to miss your Company last night, and thereby was destitute of that Elizium in your embraces, which Iused to enjoy</HI>&mdash;</P>
+<P>Hell and the Devil! what's here?</P>
+<P><HI>Yet assure your self to night, no Business shall keep me from you: I hope to see you Married, and then my Revenge will be Compleated. Be sure you
+<PB N="53" REF="29">
+carry it cunningly, that he may not perceive our designe, when the business is done, we'l meet at the old place, and Laugh; till then I must be a stranger.</HI></P>
+<P>Your assured Friend <HI>Bernard.</HI></P>
+<P>I had rather it had been from the Devil, and less fright 'twould have put me in: what a dreadful Precipice have I escaped&punc; Certainly there's some great Blessing Providence has in store, it takes such care of me. For this Plot had certainly took with another; this woman I find now is <HI>Bernards</HI> Hireling; a thing that's his, or any mans for half a Guiny, 'sdeath I sweat to think how modishly we too should have lived to|gether; well 'twas I confess, very well contrived, and had it took I had sufficiently paid for my Infidelity. But now for a Counter-plot to work backward on them, that would be rare. Ha! who's this? 'tis Certainly <HI>Bernard;</HI> 'tis the same disguise he used to wear upon an Intrigue.</P>
+</SP>
+<STAGE>Enter <HI>Smallwit</HI> in a Cloak and Disguise.</STAGE>
+<SP>
+<SPEAKER>Small.</SPEAKER>
+<P>'Tis he, this was lucky to meet him so opportunely; Sir a word with you.</P>
+</SP>
+<SP>
+<SPEAKER>Franck.</SPEAKER>
+<P>With me Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Small.</SPEAKER>
+<P>I Sir, do not start, d'ye know me.</P>
+</SP>
+<SP>
+<SPEAKER>Franck.</SPEAKER>
+<P>Smallwit?</P>
+</SP>
+<SP>
+<SPEAKER>Small.</SPEAKER>
+<P>The same Sir, one that to compleat his revenge, for the ill usage he received of <HI>Bernard,</HI> and to do you a favour will shew you the broad path to your content; you did love <HI>Penelope.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Franck.</SPEAKER>
+<P>And do still by Heaven, above all other women Breathing.</P>
+</SP>
+<SP>
+<SPEAKER>Small.</SPEAKER>
+<P>Then follow but my Directions, and she's yours; this is his Cloak and false Beard, the Disguise he came hither in to obscure him|self from knowledge of her Father, who by my appointment intends to come and frustrate his designe, he will be here within half an hour: <HI>Bernard</HI> now is gone to buy a Ring; now Sir, follow but your Fortunes and make use of this Disguise, and you may Marry her before either of 'em come.</P>
+</SP>
+<SP>
+<SPEAKER>Franck.</SPEAKER>
+<P>This is the utmost extent of Fortunes Bounty: Dear Rogue let me Kiss thee, thou art my <HI>Esculapius,</HI> my Preserver; my every thing, come, come, the Cloak, if this hit right I will adore the In|vention.</P>
+</SP>
+<SP>
+<SPEAKER>Small.</SPEAKER>
+<P>Sir, it must certainly hit, if you make hast, for she can never distinguish through that disguise one from t'other.</P>
+</SP>
+<SP>
+<SPEAKER>Franck.</SPEAKER>
+<P>'Sdeath I am rapt with the thought on't; but hark Dear <HI>Smallwit,</HI> I have one thing more to tell thee; which if thou canst but bring about, thy name shall flourish in our Chronicle: In the next Alley is walking one of <HI>Bernards</HI> Wenches: If thou canst now but instead of <HI>Penelope</HI> get him to marry her in a disguise, 'twill be thy Master-piece;
+<PB N="54" REF="30">
+some thing has past betwixt her and me, but tell her, my eyes are now open; to convince her, show her this Letter, and then lay your Plot as you find her Humour.</P>
+</SP>
+<SP>
+<SPEAKER>Small.</SPEAKER>
+<P>Well Sir, perfect your design, and let me alone with this; away you lose time.</P>
+<STAGE>Exit <HI>Franck.</HI></STAGE>
+<P>This will be an excellnt revenge if it but take, yonder she walks; I'm confident that must be she, and I'le accost her instantly</P>
+</SP>
+<STAGE>Exit.</STAGE>
+<STAGE>Enter <HI>Penelope.</HI></STAGE>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<P>I wonder he stayes so long, being to finish so weighty an Affair as Matrimony, for I am resolved to marry him in spite of all Opposers; I have had sufficient proofs of <HI>Franck Amorous</HI>'s falsehood and of <HI>Ber|nards</HI> fidelity, and therefore think it but Justice to chuse the most de|serving, 'twas basely done of him at first to betray his Friend, and to persevere in it, is worse, but I hope he will pay for all, for I saw him come along the to her Walk with <HI>Lucia,</HI> whose Company, now I know her, I shall shun, though heretofore I ignorantly thinking she had been <HI>Bernards</HI> Kinswoman&punc; gave her place in my Affections. But see here he comes, I knew he would not stay long.</P>
+<STAGE>Enter <HI>Franck Amorous.</HI></STAGE>
+<P>Oh are you come, you frighted me sufficiently with your stay, you know I am nothing without your Company.</P>
+</SP>
+<SP>
+<SPEAKER>Franck.</SPEAKER>
+<P>Let's in then, lest we are discover'd&mdash;it takes rarely</P>
+</SP>
+<STAGE>Aside.</STAGE>
+<STAGE>Exit.</STAGE>
+<STAGE>Enter <HI>Bernard</HI> and <HI>Ralph.</HI></STAGE>
+<SP>
+<SPEAKER>Dra.</SPEAKER>
+<P>Upon my word I saw neither of 'em.</P>
+</SP>
+<SP>
+<SPEAKER>Ber.</SPEAKER>
+<P>Very strange, I left her above in the Balcony Room, and the Parson with my Cloak below in the Kitchin Drinking with the Water|man, and now I can find neither my Mistress, the Parson, nor my Cloak.</P>
+</SP>
+<SP>
+<SPEAKER>Dra.</SPEAKER>
+<P>Perhaps Sir, my Master has laid it up, and the Lady no doubt is somewhere walking in the Garden; but as to the Parson, I suppose he's otherwise engaged&punc; for here's another Company in the house, that to my knowledge have occasion to make use of him.</P>
+</SP>
+<SP>
+<SPEAKER>Ber.</SPEAKER>
+<P>'Sdeath how unlucky's this, the Canonical hour will be past if I stay half an hour longer, and my design's frustrate for this day, hark you Friend; will you do me a favour.</P>
+</SP>
+<SP>
+<SPEAKER>Dra.</SPEAKER>
+<P>Any thing Sir, in my power.</P>
+</SP>
+<SP>
+<SPEAKER>Ber.</SPEAKER>
+<P>Well said, and there's a Guiney for thy willingness; run then and get the Mourning Cloak thy Master wore last Sunday and a High-Crown'd
+<PB N="55" REF="30">
+Hat, I'le procure a false Beard and a little black Perriwig, and thou shalt Act the Parson, and Marry us instead of t'other.</P>
+</SP>
+<SP>
+<SPEAKER>Dra.</SPEAKER>
+<P>Shall I, with all my heart Sir, you may command what you please.</P>
+</SP>
+<SP>
+<SPEAKER>Ber.</SPEAKER>
+<P>Thou canst Read, canst not?</P>
+</SP>
+<SP>
+<SPEAKER>Dra.</SPEAKER>
+<P>Yes Sir, we have a large Common-Prayer. Book within that I can read perfectly; and let me alone to act Sir <HI>Domine,</HI> I have their Starcht Grimace, the Hum, their Ha, and twirling of the Band strings as right Sir, as if I were Bred to it.</P>
+</SP>
+<SP>
+<SPEAKER>Ber.</SPEAKER>
+<P>Canst thou? pretious Rogue; come then let's make haste: Do it but well, and I have another broad Piece to Crown thy Service, read but perfectly, and 'tis well enough; for that's as much as the best of 'em can do.</P>
+</SP>
+<SP>
+<SPEAKER>Dra.</SPEAKER>
+<P>Do not doubt me Sir, I'le warrant you I'le Mimick a Parson rarely.</P>
+</SP>
+<SP>
+<SPEAKER>Ber.</SPEAKER>
+<P>Away then, we loose time, I'le get a Witness or two, and we'l about it instantly.</P>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE>Enter <HI>Smallwit</HI> and <HI>Lucia</HI> with the Letter.</STAGE>
+<SP>
+<SPEAKER>Small.</SPEAKER>
+<P>Madam, you see your Intrigue's discovered, therefore I think it to be a great deal of prudence, to make the best use of your Fortune: Mr. <HI>Amorous</HI> is irrevocably lost, but if you'l take my Councel, <HI>Bernard</HI> shall be yours, which I suppose in some part will make amends, consider on't, and think, to fret now will little avail you.</P>
+</SP>
+<SP>
+<SPEAKER>Luc.</SPEAKER>
+<P>The Devil was in't that I should drop that Letter so unfor|tunately; But are you sure you can contrive that <HI>Bernard</HI> may Marry me? for so I have one of 'em I care not much which it is and to deal freely with you, I stand at present in great necessity of Marriage, for some private Reasons best known to my self.</P>
+</SP>
+<SP>
+<SPEAKER>Small.</SPEAKER>
+<P>It will infallibly be as I told you, so you take Care but to Counterfeit <HI>Penelope</HI>'s Voice a little: For look here's the Gown she wore this morning, which Mr. <HI>Amorous</HI> has got from her by Wile, and 'tis the Garment <HI>Bernard</HI> knows her by, and then your Mask for your Face will disguse you absolutely like her.</P>
+</SP>
+<SP>
+<SPEAKER>Luc.</SPEAKER>
+<P>Well this may do, if Fortune do but aid a little.</P>
+</SP>
+<SP>
+<SPEAKER>Small.</SPEAKER>
+<P>Doubt not that Fortune alwayes favours the afflicted: come on with it.</P>
+<STAGE>puts on the Gown.</STAGE>
+<P>So now carry the Plot but handsomely and be happy.</P>
+</SP>
+<STAGE>Exeunt.</STAGE>
+</DIV3>
+<DIV3 TYPE="scene">
+<HEAD>Scena Ultima.</HEAD>
+<STAGE>Enter <HI>Old winelove</HI> and <HI>Tim</HI> and <HI>Betty.</HI></STAGE>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>Hey Sirrah, Drawer, bring some more Wine, and d'ye hear;
+<PB N="56" REF="31">
+bid the Musick Strike up: 'tis a day of Triumph, and shall be so ac|counted.</P>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<P>And so it shall Boy, hey Boyes, strike us there, toll, loll, loll; a day of Jubilee <HI>Tim,</HI> give me thy hand, thou art an Arch Wagge, a dad thou art, and I did not think it had been in thee&mdash;toll, loll, loll, thou hast made me young again; methinks I could dance a Jig. Madam, I faith you are too melancholly. <HI>Tim,</HI> to her <HI>Tim,</HI> to her I say, 'tis a rare plump Girle: prithee sweet-heart be Merry, toll, loll, loll.</P>
+</SP>
+<SP>
+<SPEAKER>Bett.</SPEAKER>
+<P>In truth Sir, I'm exceeding Merry. Oh Dear how is't possible for me to be otherwise in such excellent Company; but shall I have a Coach my Dear?</P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>A Coach, ay that thou shalt; and six <HI>Flanders</HI> Mares too, and a Coach-man, and six Footmen, and three Postillions, doubt that? why thou shalt have any thing, thou shalt have me: A Pox on't, how came that damned old end of a Song into my head.</P>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<P>And Madam, if you like not these Proposals, I'le go and purchase the Elephant yonder in <HI>Fleet street</HI> for you, I suppose a man may have him now at a reasonable rate, and thou shalt ride in state like the <HI>Mogull</HI> in the <HI>Indies,</HI> and be seen by the wondring Spectators <HI>Gratis</HI> toll, loll, loll.</P>
+</SP>
+<SP>
+<SPEAKER>Bett.</SPEAKER>
+<P>The Elephant! ha, ha, ha, Sir; your Father's a very merry man, and the best company I ever met with.</P>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<P>Who I, I faith no, I have lost my merry humour, Age has outworn it, how old Madam do'e think I am, pray guess.</P>
+</SP>
+<SP>
+<SPEAKER>Bett.</SPEAKER>
+<P>Sir, I guess you to be about five and forty.</P>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<P>Ha, ha, ha, five and forty, I faith you are out, though I am above threescore and ten, by this good light, and yet I have my Health sweet Lady, and I can Talk sweet Lady, and I can Sing and Dance sweet Lady, and Drink with the best Roarer of 'em all sweet Lady, and by the help of a good Estate do intend to do so above this 20 years sweet Lady, hem&mdash;I'm found at heart, and as Brisk as another man, no disparagement to my <HI>Tim</HI> there.</P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>Madam, you must excuse, the Old Gentleman's a little given to vanity, a Vice I could not suffer in 'em were he not my Father.</P>
+</SP>
+<STAGE>Enter a <HI>Vintner.</HI></STAGE>
+<SP>
+<SPEAKER>Vin.</SPEAKER>
+<P>Sir, a Gentleman and a Lady hearing your Musick, desire to be of your Company, if it may be without prejudice.</P>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<P>If they come to be merry with us, they are welcome, and so let 'em understand.</P>
+</SP>
+<STAGE>Exit <HI>Vintner.</HI></STAGE>
+<STAGE><PB N="57" REF="31">Enter <HI>Franck, Penelope,</HI> Sir <HI>Formall</HI> like a Parson.</STAGE>
+<SP>
+<SPEAKER>Franck.</SPEAKER>
+<P>Gentlemen pray let us not appear rude to desire this Favour.</P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>Sir, assure your self, we know so well good Manners, as not to deny a Gentleman of so worthy a presence, so small a Courtesie, you're welcome&mdash;Dam him, that I should loose such an Expression on such a Scrub: Methinks he looks like a Baillss.</P>
+</SP>
+<STAGE>Aside.</STAGE>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<P>Well said <HI>Tim.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Franck.</SPEAKER>
+<P>I'm glad they know me not, but I'le stay here as little as I can, ha.</P>
+</SP>
+<STAGE>Aside.</STAGE>
+<STAGE>Enter <HI>Vintner, Bernard, Smallwitt, Lucia</HI> and <HI>Ralph</HI> like a Parson.</STAGE>
+<SP>
+<SPEAKER>Vin.</SPEAKER>
+<P>There Sir, that Gentleman wears the Cloak you brought; I suppose he's of your Acquaintance.</P>
+</SP>
+<SP>
+<SPEAKER>Franck.</SPEAKER>
+<P>'Tis <HI>Bernard,</HI> but since the Business is done, I value not his threats.</P>
+</SP>
+<SP>
+<SPEAKER>Bern.</SPEAKER>
+<P>Sir, I did not expect such an Action from a Gentleman, this Cloak's mine.</P>
+</SP>
+<SP>
+<SPEAKER>Franck.</SPEAKER>
+<P>It is so Sir, at your Service, the Beard likewise; be pleased to pardon the Borrower.</P>
+</SP>
+<SP>
+<SPEAKER>Ber.</SPEAKER>
+<P><HI>Amorous!</HI> I am amazed.</P>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<P>Heavens! I am betrayed?</P>
+</SP>
+<STAGE>Pulls off her Mask.</STAGE>
+<SP>
+<SPEAKER>Franck.</SPEAKER>
+<P>But this Lady Sir, is mine now, my Friend here can af|firm it.</P>
+</SP>
+<STAGE>pointing to Sir <HI>Formall.</HI></STAGE>
+<SP>
+<SPEAKER>Bern.</SPEAKER>
+<P>'Sdeath <HI>Penelope!</HI> and he married to her: who the Devil have I got then?</P>
+</SP>
+<SP>
+<SPEAKER>Luc.</SPEAKER>
+<P>A good Friend of yours, assure your self.</P>
+</SP>
+<STAGE><HI>Luc.</HI> discovers her self.</STAGE>
+<SP>
+<SPEAKER>Small.</SPEAKER>
+<P>So, so, now it works.</P>
+</SP>
+<SP>
+<SPEAKER>Ber.</SPEAKER>
+<P>Why sure we all dream, Are you awake old Gentleman?</P>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<P>By my faith I think so.</P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>Ha, ha, ha, Plots, Plots, by Gad I love Plots dearly, as I am a sinner.</P>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<P>You see my good Fortune in spite of all oppositions has made you mine; love me for your own sake, as you expect me to be here|after kind to you.</P>
+</SP>
+<SP>
+<SPEAKER>Bern.</SPEAKER>
+<P>Base Treacherous wretch!</P>
+</SP>
+<STAGE>Offers to Draw.</STAGE>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<P>Hold, hold, Gentlemen, we must have no Fighting.</P>
+</SP>
+<SP>
+<SPEAKER>Franck.</SPEAKER>
+<P>I understand you not Sir, you see your Plots have faild you.</P>
+</SP>
+<SP>
+<SPEAKER>Bern.</SPEAKER>
+<P>You shall understand Sir, when next I meet with you: As|sure your self, though you have married her, you shall not long enjoy your happiness; you sha'not Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Frank.</SPEAKER>
+<P>No Sir? why who shall hinder it?</P>
+</SP>
+<SP>
+<PB N="58" REF="32">
+<SPEAKER>Sir For.</SPEAKER>
+<P>That will I.</P>
+</SP>
+<SP>
+<SPEAKER>Ber.</SPEAKER>
+<P>Who are you?</P>
+</SP>
+<SP>
+<SPEAKER>Sir For.</SPEAKER>
+<P>One that will cut your Matrimonial knot Sir; look de'e know me yet?</P>
+</SP>
+<SP>
+<SPEAKER>Om.</SPEAKER>
+<P>Sir Formal!</P>
+</SP>
+<SP>
+<SPEAKER>Pen.</SPEAKER>
+<P>Dear Father&mdash;</P>
+</SP>
+<STAGE>kneels.</STAGE>
+<SP>
+<SPEAKER>Sir For.</SPEAKER>
+<P>Go too, you Baggage&mdash;but no matter, wipe your eyes, I'll talk with you hereafter.</P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>Ha, ha, ha, more Plots, more Plots? by Gad I like this ex|treamly.</P>
+</SP>
+<SP>
+<SPEAKER>Small.</SPEAKER>
+<P>'Sheart here's a great deal more Plot in this then I designed: the old Fox was Cunninger then I imagined.</P>
+</SP>
+<SP>
+<SPEAKER>Sir For.</SPEAKER>
+<P>Sir, I am no Priest de'e see, I hired my Habit of the man of God that I suppose you designed for the business, nor shall my Daugh|ter be married without my approbation.</P>
+</SP>
+<SP>
+<SPEAKER>Franck.</SPEAKER>
+<P>Why then Sir, your Humble Servant; pox on't 'tis but a designe lost, and I'le content my self that he's tyed to his good behavi|our with his <HI>Lucia</HI> there.</P>
+</SP>
+<SP>
+<SPEAKER>Bern.</SPEAKER>
+<P>Sir, I am not so fast bound as you imagine, and to let you see&punc; I have sometimes as good luck as others, Know that I am no more married then you are; witness honest <HI>Ralph</HI> here.</P>
+</SP>
+<SP>
+<SPEAKER>Ralph.</SPEAKER>
+<P>Even so, I can assure you Gentlemen.</P>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<P>Heyday! what more Miracles?</P>
+</SP>
+<SP>
+<SPEAKER>Small.</SPEAKER>
+<P>Here has been damnable Counterplots I see, a Devil on't, who would thought to have found so much Wit in the Spring-Garden.</P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>A Clergy man&punc; turned Drawer! a Pox on me if ever I saw the like of this.</P>
+</SP>
+<SP>
+<SPEAKER>Luc.</SPEAKER>
+<P>Will you not Marry me? the Devil take you if you don't; you know how matters stand, prethee my dear do.</P>
+</SP>
+<SP>
+<SPEAKER>Ber.</SPEAKER>
+<P>Fy, in Faith you must excuse me, how unreasonable's that?</P>
+</SP>
+<SP>
+<SPEAKER>Luc.</SPEAKER>
+<P>Well, if ever I believe a Parson more?&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>So will I, I faith, for I am sure he did me right: Come hither Sweetheart&punc; Gentlemen this Lady is my Wife&punc; and one to my know|ledge not unknown to you; and I desire before she show her Face, my good Fortune may purchase no mans Envy; she's a great Fortune, and shall when the King comes from <HI>Newmarket,</HI> and I am a Knight, be a Lady: But pray let me offend none.</P>
+</SP>
+<SP>
+<SPEAKER>Om.</SPEAKER>
+<P>None, none, Sir.</P>
+</SP>
+<STAGE>pulls off <HI>Bett.</HI> Mask&punc;</STAGE>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>Why then behold a wonder; dear Brother, I kiss your Feet&punc;</P>
+</SP>
+<SP>
+<SPEAKER>Om.</SPEAKER>
+<P>Betty!</P>
+</SP>
+<SP>
+<SPEAKER>Bett.</SPEAKER>
+<P>The very same, one shuffled into a Fortune by very strange means in truth.</P>
+</SP>
+<SP>
+<SPEAKER>Sir For.</SPEAKER>
+<P>Married to my Daughters Chambermaid! ha, ha, ha, this makes amends for all; I thought what would become of this Modis<GAP DESC="illegible" REASON="in gutter" EXTENT="1 letter"> Gallant, this Fool turn'd Critick; ha, ha, ha.</P>
+</SP>
+<SP>
+<PB N="59" REF="32">
+<SPEAKER>Old Wine.</SPEAKER>
+<P>Hah&mdash;what's all this? no more Plots I hope.</P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>Now are all they such Fools they don't understand me yet; well 'tis the dullest Age this.</P>
+</SP>
+<SP>
+<SPEAKER>Franck.</SPEAKER>
+<P>Hark you Sir, this Wench is not my Sister: But as I hope to be saved I don't envy you at all, I know not what they do&punc;</P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>Come prethee Sweethearo, undeceive 'em, undeceive 'em, tell em what thou art.</P>
+</SP>
+<SP>
+<SPEAKER>Bett.</SPEAKER>
+<P>Why then really Sir, I am a necessary Implement to that Lady there.</P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>Well, suppose this, the ten thousand Pound I hope is yours; what Portion have you?</P>
+</SP>
+<SP>
+<SPEAKER>Bett.</SPEAKER>
+<P>Not a Groat in truth, as I hope to be a Lady Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<P>A Lady Sir! O the Devil! what luck's this <HI>Tim?</HI> thou art cheated <HI>Tim,</HI> thou art, I would give a hundred Pounds to prevent the infamy will follow a Critick.</P>
+</SP>
+<SP>
+<SPEAKER>Bett.</SPEAKER>
+<P>But shall I have a Gilt Coach my Dear?</P>
+</SP>
+<SP>
+<SPEAKER>Sir For.</SPEAKER>
+<P>Faith this is better then I thought of; now Sir, what think you of two thousand Pounds with my Daughter, ha, ha, ha.</P>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<P>Oh pray spare your Jibes. Come <HI>Tim,</HI> be not disheartned, this has been many a Gallants Fortune, and I'le get a Divorce for thee, if five hundred Pounds will fetch one; be merry I say. A pox on't, all that vexes me is, that it has put me out of my good humour.</P>
+</SP>
+<SP>
+<SPEAKER>Franck</SPEAKER>
+<P>Oh sye by no means Sir, Wee'l have a Song and a Dance a mans ill Fortune is not to be avoided sometimes, pray let's be merry there.</P>
+</SP>
+<SP>
+<SPEAKER>Old Wine.</SPEAKER>
+<P>So now I begin to feel my former Temper, <HI>Tim</HI> cheer up.</P>
+</SP>
+<SP>
+<SPEAKER>Tim.</SPEAKER>
+<P>Had she been a degree above a Chambermaid, I had been pati|ent; but since 'tis as 'tis, I Gad I will Lampoon the whole world, Criticise upon all sorts of Persons and Things; be very envyous&punc; proud, foolish, and ill natured, and then I shall be sure to outwear my dis|graces and be famous.</P>
+</SP>
+<SP>
+<SPEAKER>Fra.</SPEAKER>
+<P><HI>Bernard,</HI> give me thy hand, since our Fortunes have been much alike, let's now forget past Injuries, and unite a firmer Friend|ship then ever: I have done thee wrong I confess, but my amends shall be equally to it. For both Sword and Heart shall henceforth be de|voted to thy service.</P>
+</SP>
+<SP>
+<SPEAKER>Bern.</SPEAKER>
+<P>This Cancells all distasts, and therefore know as I desire not to be thought Treacherous, so I have a perfect value for the generous, which your Action in this demonstrates you to be. Be but my Friend, I shall ne'r wish other, nor shall a Mistress make us Jarre again: Thy Temper made thee false, and I well know</P>
+<L>As too much Zeal can oft distract the Wise,</L>
+<L>So Love has power to break what Friendship tyes,</L>
+</SP>
+</DIV3>
+</DIV2>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+</BODY>
+<BACK>
+<DIV1 TYPE="epilogue">
+<PB REF="33">
+<HEAD>EPILOGUE.</HEAD>
+<L>OLd Plays, like Mistresses long since enjoy'd,</L>
+<L>Long after please whom they before had cloy'd;</L>
+<L>For Fancy chews the Cud on past Delight,</L>
+<L>And cheats it self to a new Appetiet.</L>
+<L>But then the Second Fit comes not so strong,</L>
+<L>Like second Agues, neither fierce nor long:</L>
+<L>What you have known before, grows sooner stale,</L>
+<L>And less provokes you, then an untold tale.</L>
+<L>That but refreshes what before you knew,</L>
+<L>But this discovers something that is new;</L>
+<L>Hence'tis, that at new Plays you come so soon,</L>
+<L>Like Bride-grooms, hot, to go to Bed e're noon!</L>
+<L>Or, if you are detain'd some little space,</L>
+<L>The stinking Footman's sent to keep your place.</L>
+<L>But, when a Play's reviv'd, you stay and dine,</L>
+<L>And drink till three, and then come dropping in;</L>
+<L>As Husband after absence, wait all day,</L>
+<L>And decently for Spouse till bed time stay,</L>
+<L>So, e're the Brethren's liberal fit was spent,</L>
+<L>The first wise <HI>Nonconformists</HI> under-went</L>
+<L>With ease, and batten'd in imprisonment.</L>
+<L>For greater gains, his zeal refus'd the less;</L>
+<L>Each day to him was worth a Diocess.</L>
+<L>But he who now, in hopes of equal gain,</L>
+<L>Will needs be Pris'ner, tryes the trick in vain;</L>
+<L>He melts in durance half his Grease away,</L>
+<L>To get, like us, poor thirteen Pounds a day.</L>
+</DIV1>
+</BACK>
+</TEXT>
+</EEBO>
+</ETS>

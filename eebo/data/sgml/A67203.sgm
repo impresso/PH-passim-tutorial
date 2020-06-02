@@ -1,0 +1,281 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD EEBOPROOF 2.0//EN">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-09-22</DATE>
+<RESPSTMT>
+<NAME>Jonathan Blaney</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TYPEs to DIVs in order to validate. Proofed title page(s). Checked for N=""s. Checked for GROUP tags. Checked ^s. Reviewed structure. Checked division-marking material at heads and feet of divisions (HEADS, etc.). Checked for signatures. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected 3 $s and $$word$$s etc. of 140 (and added 37). Converted __ $$s to GAP DESC="illegible" RESP="apex". Checked spacing of foreign GAPs. Checked for EPIGRAPHs and ARGUMENTs. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs, endqs, oes, q;s, and Qs. Checked proofsheets and made corrections found there. Checked for CLOSERs, TRAILERs, and BYLINEs. Checked for missing page GAPs. DONE.</ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="OX" ID="A67203">
+<STC T="W">W374A</STC>
+<BIBNO T="oclc">12369005</BIBNO>
+<VID>60502</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="illustration">
+<PB REF="1">
+<P><FIGURE>
+</FIGURE></P>
+<LG>
+<L>Look not without on Votes alone</L>
+<L>But see whats hid in Flesh and Bone.</L>
+</LG>
+</DIV1>
+<DIV1 TYPE="title page">
+<PB REF="1" MS="y">
+<P><HI>Ecce Homo;</HI> THE Little PARLIAMENT unbowelled: WITH, The substance, quality, and disposition of the outward Mem|bers; and inward faculties, vertues, and properties.</P>
+<P>The glory of the good ones, and sad condition of rotten <HI>Back-sliders.</HI></P>
+<BIBL>1 COR. 10. 15.</BIBL>
+<Q>I speak as to wise men: judge Yee what I say.</Q>
+<P><HI>LONDON.</HI> Printed by JANE COE, and are to be sould at her house without <HI>Creeple-Gate:</HI> 1644.</P>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="2">
+<PB REF="2">
+<HEAD>TO The Honourable and truely Pious, WILLIAM LENTHALL Esquire&punc; Speaker of the Honou|rable House of Commons, in <HI>Parliament assembled.</HI></HEAD>
+<OPENER><SALUTE>Renowned Patriot;</SALUTE></OPENER>
+<P>_WHen I consider those admired gifts wher|with your honor is so excellently qua|lified: I censure it too much abrupt|nesse to present such worth with so meane a tallent; yet having had the happinesse to be an eye-witnesse of your love and countenance to Reli|gion and piety: And knowing how
+<PB REF="3">
+ignorant many are, not only of God, but themselves too; who may be bettered (if God please to give a blessing to this my labour) by the use hereof; I humbly crave leave to beg this favour to patronize my poore endeavours, published for the meditation of those who know better, and instruction of those that know lesse: That all who use it, may savingly know God, and themselves; which for you and all Gods people, is the prayers of</P>
+<CLOSER><SIGNED>Your humble Servant,
+Henry VValker.</SIGNED></CLOSER>
+</DIV1>
+<DIV1 TYPE="table of contents">
+<PB REF="3">
+<HEAD>The Contents of the Chap|ters contained in this Booke.</HEAD>
+<LIST>
+<ITEM><HI>CHAP. I.</HI> Seweth what the soul is.</ITEM>
+<ITEM><HI>Chap. 2.</HI> Sheweth whence the souls come&punc; when and how they enter into the bodies.</ITEM>
+<ITEM><HI>Chap. 3.</HI> Sheweth the purity of the soul.</ITEM>
+<ITEM><HI>Cha. 4.</HI> Sheweth how the soul is defiled with <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">|ginall sin.</ITEM>
+<ITEM><HI>Chap. 5.</HI> Sheweth how the Sensative part of the soule.</ITEM>
+<ITEM><HI>Chap. 6.</HI> The powers of the souls essence.</ITEM>
+<ITEM><HI>Chap. 7.</HI> The fuclties of the soul.</ITEM>
+<ITEM><HI>Chap. 8.</HI> That when the body dieth, the soul neither sleepeth nor perisheth, but goeth immediate|ly, either to joy or torment.</ITEM>
+<ITEM><PB REF="4"><HI>Chap. 9.</HI> Souls remain where they are sent till the Resurrection.</ITEM>
+<ITEM><HI>Chap. 10.</HI> The inward faculties, and vertues of the body.</ITEM>
+<ITEM><HI>Chap. 11.</HI> Of the vitall spirits.</ITEM>
+<ITEM><HI>Chap. 12.</HI> Of the periurbations, and passions of the minde.</ITEM>
+<ITEM><HI>Chap. 13.</HI> Of the particular faculties of the mind<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">.</ITEM>
+<ITEM><HI>Chap. 14.</HI> The distinction of the faculties of the soul, from the faculties of the minde.</ITEM>
+<ITEM><HI>Chap. 15.</HI> The leading of the flesh, or spirit one by the other.</ITEM>
+<ITEM><HI>Chap. 16.</HI> Of the resurrection,</ITEM>
+<ITEM><HI>Chap. 17.</HI> Of Hell.</ITEM>
+<ITEM><HI>Chap. 18.</HI> Of Heaven.</ITEM>
+</LIST>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="text">
+<PB N="1" REF="4">
+<HEAD>A SECRET Disclosed.</HEAD>
+<DIV2 N="1" TYPE="chapter">
+<HEAD><HI>CHAP. I.</HI> Sheweth what the soul of man is.</HEAD>
+<P>I. SOme <NOTE N="a" PLACE="marg">Pithago|ras.</NOTE> define the soul to be the Spirit of life, created after the Image of God, and inspired into the body of man. II. Others say it is an under|standing spirit, the second part of the substance of man, which doth not perish, when it departeth from the body, but is immortall. III. But the true description of the soul (ac|cording to the diffinition of great
+<PB N="2" REF="5">
+learned men) is this; Namely, that the soule of man is a spirituall sub|stance,<NOTE PLACE="marg"><GAP DESC="illegible" RESP="apex" EXTENT="1 word"> Alley. <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">s. 13. <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">aelec. 2<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"></NOTE> infused of God into the body of man, that being joyned thereto, may give it life, direct, and rule it, and being separated from the body, doth not perish, but live immortally, and eternally.</P>
+<P><GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">. The soul is a very substantiall<NOTE PLACE="marg"><GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">actanti. opifi<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">ia <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">ei.</NOTE> essence, and not a qualitie.</P>
+<P>A qualitie without a substance, is<NOTE PLACE="marg">Argu.</NOTE> not sensible of joy or torment. But the soul of man is in it self sensible of joy or sorrow.</P>
+<P><HI>Ergo.</HI> The soul of man is a very<NOTE PLACE="marg">Example.</NOTE> substantiall essence. The soul of the<NOTE PLACE="marg">Luk. 16. Luke. 23. Apo. 6.</NOTE> rich glutton was tormented in Hell. The soul of the theef was with Christ in Paradice. The souls under the Altar did cry aloud.</P>
+<P>2. This substance of the soul is<NOTE PLACE="marg">Augustin. de quanti|<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">at. animae. cap. 1.</NOTE> not of these usuall and known natures, which we touch, and perceive, with these senses of the body, which are corporall, but a spirituall substance.</P>
+<P>That substance which consisteth<NOTE PLACE="marg">Argu.</NOTE> neither of earth, water, ayr, nor fire, neither of any of them severally, of part of them, or of them all joyned
+<PB N="3" REF="5">
+together, doth consist, not of a cor|porall, but of a spirituall substance. But the substance of the soul doth<NOTE PLACE="marg">Cassiod<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> Austine&punc;</NOTE> consist, neither of earth, air, fire, nor water; of any of them, nor of all of them.</P>
+<P><HI>Ergo:</HI> The soul of man is not a cor|porall,<NOTE PLACE="marg">Exampl<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"></NOTE> but a spirituall substance.</P>
+<P>God breathed the soul of <HI>Adam</HI> in|to<NOTE PLACE="marg">Gen. 2. 7 1 Cor. 1<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> 4<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"></NOTE> his body. First, God made <HI>Adam</HI> a naturall body; then gave him a spi|rituall soul. The body was a type of <HI>Adam,</HI> the soul a type of Christ: therefore, when the body, the earthly part of man dyeth: the soul which is spirituall, dieth not, but departeth<NOTE PLACE="marg">Gen. 35. <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"></NOTE> pointeth it.</P>
+<P>3. The soul of man, is of God in|fused into the body, and not received by generation from the parents.</P>
+<P>That which we received from our<NOTE PLACE="marg">Argume<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"></NOTE> parents, we received by generation from them; but we received not our<NOTE PLACE="marg">D. Wille<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> Synops.</NOTE> souls by generation from our paretns, but from God who gave them.</P>
+<P><HI>Ergo.</HI> We received not our souls from our parents, but from God.</P>
+<P>God <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> saith <HI>Zechariah</HI>) formed
+<PB N="4" REF="6">
+the spirit of man within him: Our<NOTE PLACE="marg"><GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">b. 12&punc; 9. <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">l. 12. 17.</NOTE> parents are the fathers of our bodies, but God is himself, the father of our souls; therefore, when we die, the<NOTE PLACE="marg"><GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">le. 12&punc; 7.</NOTE> soul perisheth not with the body in death, but returneth to God that gave it.</P>
+</DIV2>
+<DIV2 N="2" TYPE="chapter">
+<HEAD><HI>CHAP. II.</HI> Sheweth whence the souls come, when, and how, they enter into the bodies.</HEAD>
+<P>I. SOme have thought, that the soul<NOTE PLACE="marg"><GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">lato. <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">rigen.</NOTE> doth slide from Heaven. II. O|thers have thought, that the soul hath<NOTE PLACE="marg"><GAP DESC="illegible" RESP="apex" EXTENT="1 word">, <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">anichies, riscilians.</NOTE> its originall from the proper substance of God. III. Some do beleeve, that all the souls being once made toge|ther, are reserved in the treasure-house of God, and so sent into the bodies after the perfection thereof. IIII. O|thers do suppose, that as the body<NOTE PLACE="marg"><GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">ertullian, <GAP DESC="illegible" RESP="apex" EXTENT="1 word">&punc; West-Church. H<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">erome&punc;</NOTE> cometh of the body, so the soul (also) springeth of the soul. V. Others have declared, that the souls of men, are daily made of God, and so sent into the bodies. VI. Lastly, others of bet|ter
+<PB N="5" REF="6">
+approved judgements in this par|ticular: affirm, the soul to be made<NOTE PLACE="marg">B&punc; Alley, Prael. 2. <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> the soul. Resp. 3.</NOTE> by God of nothing, and to be powred of God into the body, when that the fruit is made perfect in the mothers womb, with shape, and all other<NOTE PLACE="marg">Psal. 33. 1 Iob 10.</NOTE> parts. It is the Lord that fashioneth the soul of man in him, and preser|veth man by it.</P>
+</DIV2>
+<DIV2 N="3" TYPE="chapter">
+<HEAD><HI>CHAP. III.</HI> Sheweth the puritie of the soul.</HEAD>
+<P>THe soul is created of God, pure, and holy; as God createth it, in its own simple nature, in respect of God.</P>
+<P>What God createth to praise his<NOTE PLACE="marg">Argu|ment.</NOTE> name, he createth pure, and holy, <HI>Isai.</HI> 43. 7.</P>
+<P>But God createth the soul of man to praise his name, <HI>Psal.</HI> 119. 175.</P>
+<P><HI>Ergo.</HI> God createth the soul of man<NOTE PLACE="marg">Conclus<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">on.</NOTE> pure, and holy: Therefore, saith <HI>Au|stine, Anima recens creata, ab omni</HI><NOTE PLACE="marg">De natur<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> grat. co<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> pelag. l<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> 3. c. 10.</NOTE> <HI>delicto immunis:</HI> The soul newly crea|ted, is void of all offence; that is, in respect of God.</P>
+</DIV2>
+<DIV2 N="4" TYPE="chapter">
+<PB N="6" REF="7">
+<HEAD><HI>CHAP. IV.</HI> Sheweth how the soul is defiled by originall sin.</HEAD>
+<P>THe soul of man, beingr ceated in the<NOTE PLACE="marg"><GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">. Wille<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">. <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">nops. <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">l. 864.</NOTE> middest of the body, in an unclean and polluted place doth forthwith (being coopled to the body) begin to be uncleane, because the body in which it is created, is defiled by propogation from our parents throug originall sin.</P>
+<P>Though the body bee defiled by propogation from our parents, through sin, yet doth not sin spring|from the body, but from the soul; <HI>Matth.</HI> 15. <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">8. so that the soul is pro|perly<NOTE PLACE="marg"><GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">lat. 15. 18. <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">. VVillet, <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">l. 1107.</NOTE> the principall agent in sin, and the body the instrument of the soul.</P>
+<P>The purest rain water that comes<NOTE PLACE="marg"><GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">imile.</NOTE> from heaven, no sooner falls upon the earth (on a durty place) but it becomes forthwith, the moisture of that durt, and with it polluted. So doth the soul of man, which God from heaven places in the body, a durty defiled place, it is no sooner
+<PB N="7" REF="7">
+coopled therewith, but becomes forthwith to be unclean.</P>
+<P><HI>The reward of sin is death.</HI><NOTE PLACE="marg">Rom. 6. 2&punc;</NOTE></P>
+<P>But sin is not in the body till the<NOTE PLACE="marg">Argum</NOTE> soul come.</P>
+<P><HI>Ergo,</HI> The soul that sinneth with<NOTE PLACE="marg">Ephes. 1<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"></NOTE> the body is guilty of death.</P>
+<P><HI>Object.</HI> If sin be an adjunct of the<NOTE PLACE="marg">Objctio</NOTE> soul, not of the body, so that it is not in the body before the soul come, and that the soul is created of God, pure and <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">nspotted, and so placed in the body, where shall we place originall sin.</P>
+<P><HI>Answer.</HI> Originall&punc; sin, is neither<NOTE PLACE="marg">Answer</NOTE> proper to the body, nor to the soul,<NOTE PLACE="marg">D. Will<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> originall sin quest.</NOTE> but is, <HI>Hominis peccatum,</HI> a sin of the whole man, neither the body must be respected alone, nor the soul alone, but as they do joyntly make one man, and so enter into one condi|tion, and are partakers each of others woe, or welfare.</P>
+</DIV2>
+<DIV2 N="5" TYPE="chapter">
+<PB N="8" REF="8">
+<HEAD><HI>CHAP. V.</HI> Sheweth the sensative part of the soule.</HEAD>
+<P>THe sensative part of the soule is that which is touched with the sence, either of Joy, or grriefe.</P>
+<P>This joy of the soul cannot be hin|dred by man, where it is, it is not in<NOTE PLACE="marg"><GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">ohn 29. 22. <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">sal. 73. 21.</NOTE> mans power to take it away. <HI>Ioh.</HI> 26. 22. So also, neither can all the com|forts in the world; ease a soule that is grieved, except the soul it self be touched with the sence of joy.</P>
+<P>This joy or grief, doth arise in the<NOTE PLACE="marg"><GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">he cause <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">f ioy <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">r Griefe.</NOTE> soul: First, from the sence of its pre|sent condition: Secondly, In respect of its future expectation.</P>
+<P>1. From the sense of the present condition of the soul, doth arise either joy or griefe; Thus:</P>
+<P>The soul of man doth either rejoyce<NOTE PLACE="marg">Pet. 1. 1. 10. 26. 15.</NOTE> (in the sensative part thereof) under some present concived good; or else grieveth under some present conceived evill, &amp; that may be, when the Imagi|nation
+<PB N="9" REF="8">
+of the soul, being fixed on<NOTE PLACE="marg">Deut. 31. 12 Ro<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">. 2. 15.</NOTE> something which it hath or want|eth, the judgement doth either like or detest it, and so accordingly, doth rejoyce or grieve in the enjoying, or want thereof. As for example.</P>
+<P>A man that is Rich, imagineth<NOTE PLACE="marg">1 Exam|ple.</NOTE> with himselfe what good is in Rich|es, if the judgement liketh that estate which he enjoyes? then is his soul joyful in the enjoying thereof, for the present.</P>
+<P>Again, A man whose minde is on<NOTE PLACE="marg">2 Exam|ple.</NOTE> pleasure: the judgement liketh it, and therefore rejoyseth in enjoying it, and grieveth, in being abridged from it&punc;</P>
+<P>Again, A man whose imaginations<NOTE PLACE="marg">3 Exam|ple.</NOTE> are towards God, the judgement be|ing cleere, and seeing the good that is in God, the soul doth rejoyce to worship him and is grieved because of sin: but if the imaginations deceive the heart: and the judgement be cor|rupted, so that he cannot see any sweetnesse therein, then doth Gods worship become a burthen to the soule.</P>
+<P>2. This joy or grief doth arise in<NOTE PLACE="marg">Psal. 32. 10.</NOTE> the soul from the sence of its future
+<PB N="10" REF="9">
+expectation. When the mind is set on<NOTE PLACE="marg">1 Tim. 6. 19.</NOTE> something that shall befall man, the Imagination conciveth it either to be good or evill and thereupon doth ei|ther fear it, or with hope desire it, which breedeth either joy, or grie<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> in the soul.</P>
+<P>As when the minde is set on Jesus<NOTE PLACE="marg">1 Exam|ple.</NOTE> Christ, desiring salvation through him, the Imagination conceiveth it to be good or evil, so to do and accordingly as we minde created comforts, or <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> ourselves on Christ as our chiefest good, so fear doth greive, or hope re|joyce our soules.</P>
+<P>A man that seeketh felicity from the<NOTE PLACE="marg">2 Exam|ple.</NOTE> creature, if the judgement conceive it to be evil, then though the heart of man be delighted therewith, yet doth not the soul desire it, but is grieved thereat, but if the Imagination con|ceive it to be good then doth the soul desire it, hope for it, and rejoyce in the thought thereof. When the soul<NOTE PLACE="marg">3 Exam|ple.</NOTE> desires Christ, apprehending the glory that is in him, here is rejoycing. Hen<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> is the soul, (even in this life) delight<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> in the hope of its glory in heaven, <GAP DESC="illegible" RESP="apex" EXTENT="1 word"><NOTE PLACE="marg">Conclusi|on.</NOTE> tormented with fear of its horror i<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> hell.</P>
+</DIV2>
+<DIV2 N="6" TYPE="chapter">
+<PB N="11" REF="9">
+<HEAD><HI>CHAP. VI.</HI>
+
+Of the powers of the souls essence.</HEAD>
+<P>THe soul of man, being really one<NOTE PLACE="marg">B. Alley on the Tri|aity. praecel. 3.</NOTE> thing, hath three powers, <HI>Memo|riam, Int<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">llectum, &amp; Voluntatem:</HI> Me|morie, understanding, and will, which three make one essent all soul, but in property, they are distinct: For the propertie of the memorie, as to re|member; the understrnding to per|ceive, and understand: The will to chuse; out of the memory springeth intelligence, and out of both, the will. Herein the soul may appear to be cre|ated after the Image of God, because the <HI>Deity</HI> hath three persons: the Fa|ther, the Son, and the Holy Ghost, which three constitute one essenciall God, yet every person hath this pro|perty. From the Father, cometh the Son, and from both the Holy Ghost.</P>
+</DIV2>
+<DIV2 N="7" TYPE="chapter">
+<HEAD><HI>CHAP. VII.</HI> Treateth of the faculties of the soul.</HEAD>
+<P>THe faculties of the soul are those inward gifts, which God hath framed in it, for the helpe of it self? As the Lord hath given the body members; so hath he given the soul faculties. With the Judement we al|low or disallow; With the under|standing<NOTE PLACE="marg">Acts. 8. 33. Iob. 23. 2 Cor. 7. 15. Isa. 26. 8.</NOTE> we perceive and apprehend. With the Affection we love and de|light in things. The desire seeketh
+<PB N="12" REF="10">
+and waiteth for what it doth effect&punc;<NOTE PLACE="marg">Math. 18. 14. 2 Cor. 7. 7.</NOTE> with the Will we chuse to follow what we desire: With the minde we are servent in seeking what we chuse. By the memory we retain in mind, &amp;c<NOTE PLACE="marg">1 Cor. 1 5 2 Isa. 59. 8.</NOTE></P>
+<P>The Iudgement being rightly in|formed we walk in peace, and serve God with comfort, but when the Iudgement is corrupted: all joy is gone.</P>
+<P>The understanding being inlighte|ned,<NOTE PLACE="marg">2 Pet 2. 12, 13, 14.</NOTE> we abhor sin, but when the un|derstanding is darkned, wee are be|guiled with sin.</P>
+<P>The Affection being set upon a good<NOTE PLACE="marg">Collo. 3. 2, 3, 6.</NOTE> object, bringeth life; but being set on earthly things makes us in danger of the wrath of God, &amp;c.</P>
+<P>Thus as the mouth receiving poi|son;<NOTE PLACE="marg">Ephes. 2. 3.</NOTE> The hand receiving a vveapon; The feet leading into the sea, &amp;c. Is the way to destroy the body, So to have the Desire, Minde, Affection, &amp;c. set on worldly things is the way to destroy<NOTE PLACE="marg">Psal. 37. 4 11. 2 Chron. 29. 3. Isa 11 10. 1 Cor. 3. 16 Gal 4. 7.</NOTE> both soul and dody. But being set on God, on heavenly things: they make the soul glorious; The body the tem|ple of the glorious Spirit, and both soul and body, Heir of eternall glory, through Christ Jesus.</P>
+</DIV2>
+<DIV2 N="8" TYPE="chapter">
+<PB N="13" REF="10">
+<HEAD><HI>CHAP. VIII.</HI> Sheweth, that when the body dy+eth, the soul neither sleepeth, nor perisheth, but immediately is re|ceived either to ioy or torment.</HEAD>
+<P>1 SOme say, that it is the doctrine<NOTE PLACE="marg">Iren<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"></NOTE> of Heretickes, to perswade themselves, that they shall <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">scend in|to Heaven, and to be inhanced to the sight of Father, before the generall resurrection of the dead.<NOTE PLACE="marg">Sad.</NOTE></P>
+<P>2. Others do imagine that the soul perisheth, when the body dies.</P>
+<P>3. But the Sripture proveth plain|ly<NOTE PLACE="marg">1 Cor. 13. Luke 23. 43 1 Cor. 15. Eccle. 12. 7. Luke. 16. Policarpus. Eclesia<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">&punc; hist. l. 4.</NOTE> that the soul being loosed from ihe body, doth forthwith, either ascend to glory, or descend to tormment, not that the soul receiveth the perfection of its estate till the Resurrection, yet doth the soul enjoy either reall blisse, or miserie, when the bodie dies, in part, which after the day of resurecti|on, shall be absolute, both of soul and body. The bodie indeed dieth, as <HI>Paul</HI> saith, because of sin, but the soul<NOTE PLACE="marg">Rom. 8. 10.</NOTE> dieth not. <HI>Rom.</HI> 8.</P>
+</DIV2>
+<DIV2 N="9" TYPE="chapter">
+<PB N="14" REF="11">
+<HEAD><HI>CHAP. IX.</HI> Sheweth that the soules remain<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> where they are sent till the Re|surrection.</HEAD>
+<P>1 SOme beleeve that the souls of persons deceased have often times apeared.</P>
+<P>2 Others have declared, that Sa|crifices,<NOTE PLACE="marg">Raba<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">s. Ar. Bis. of Magun. Bellarmin.</NOTE> and prayers of the living have much profited the soules of men th<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> were dead.</P>
+<P>3. The Lord doth forbid to aske, or to seek any truth of the Spirits <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> the dead. The Prophets do send <GAP DESC="illegible" RESP="apex" EXTENT="1 word"><NOTE PLACE="marg">Deut. 18. Esay 8.</NOTE> from such Oracles, to the Law and Te|stimony of Gods Word. The Evan|gelists<NOTE PLACE="marg">Luk. 16.</NOTE> teach us in the Gospel, th<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> those that are dead rise not again i<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> apparitions.</P>
+<P><HI>Obeict.</HI> But many, partly by A<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"><NOTE PLACE="marg">Objection</NOTE> Magicke, have been raised, as <HI>Samuel</HI><NOTE PLACE="marg">1 Sam. 28.</NOTE> 1 Sam. 28.</P>
+<P><HI>Answ. Chrisostome</HI> answereth thi<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"><NOTE PLACE="marg">Answer.</NOTE> objection very fully. The questio<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"><NOTE PLACE="marg">On Matth.</NOTE> being asked? What shall we say <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> those voyces which say, I am such <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> soul: He answers. That voice (sait<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> he which speaketh these things) is no<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">
+<PB N="15" REF="11">
+the soul of any parson departed, but it is the Devill, which doth faine these things to deceive the hearers; Such<NOTE PLACE="marg">B. Alle|mi<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">el. on apparition.</NOTE> words are to be Counted Old wives tales, and foolish fables of Children, for the soul separate from the body, faith B. <HI>Alley,</HI> doth not wander in this world, for the souls of the righteous are in the hands of God; and the souls of sinners after their departure are presently carried to their place of torment.</P>
+<P><HI>Obiect.</HI> But the souls of some have<NOTE PLACE="marg">Obiection</NOTE> returned again into their bodies; after departure, and they have lived on earth again, As <HI>Lasarus,</HI> Iohn. 11.<NOTE PLACE="marg">Iohn 11.</NOTE></P>
+<P>To this objection, <HI>Tertul:</HI> makes<NOTE PLACE="marg">Answer.</NOTE> answer (saying) Although the power<NOTE PLACE="marg">Lib&punc; de anima.</NOTE> of God, hath called again certain souls into their bodies: in token of his might and right; This was done in example of the Resurrection, when the power of God, whether by the Prophets, or by Christ, or else by the Apostles, did render soules, then into their bodies: it is declared by the sensible, and sufficient truth, that this is the very form of the truth, that thou maist iudg every incorporat apparition of the dead to be deceits, &amp; delusions.</P>
+</DIV2>
+<DIV2 N="10" TYPE="chapter">
+<PB N="16" REF="12">
+<HEAD><HI>CHAP. X.</HI> Treateth of the inward vertues and faculties of the bodie.</HEAD>
+<P>THe inward vertues; and faculties of<NOTE PLACE="marg">Galen l. de facultat natural.</NOTE> the body are such which stirre up the powers to action: Which are of three sorts.</P>
+<P>The first, cometh from the brain,<NOTE PLACE="marg">p. Lowe. discourse.</NOTE> and sedeth the sence and moving into all the body through the muscles, and nerves, by motion, which feed|eth all the senses, outwardly, and the imagination reason and memory, in|wardly.</P>
+<P>The second carrieth life through all the body; which either dilateth the hart, and arteries, from whence mirt<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> and love ariseth, or else doth constrain and binde the arteries, and heart, from whence ariseth, melancholy sadnesse, and revenge.</P>
+<P>The third cometh from the liver, and sendeth the nourishment through all the body; which doth 1. attract tha<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> which is proper. 2. retain that which is d<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">awn. 3. digest that which is retaine<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> expell that which is hurtfull, (as <HI>Low</HI> saith.)</P>
+</DIV2>
+<DIV2 N="11" TYPE="chapter">
+<PB REF="12">
+<HEAD><HI>CHAP. XI.</HI> Treateth of the vitall spiritg of the body.</HEAD>
+<P>THe substance of the spirits in mans<NOTE PLACE="marg">Lowe p. 2<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"></NOTE> body, is the most pure; and thin|nest of the blood, which passeth through all the body, to the effect, the members may do their proper actions, abounding most in the heart, arteries, braines, and nerves, which<NOTE PLACE="marg">Andreas d<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> lortaine.</NOTE> are of three sorts.</P>
+<P>The first rem<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">ineth in the braine, which passeth from thence to the ears &amp; other parts, but chiefly to the eyes: Therefore these who are <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">linde have their other vertues more strong.<NOTE PLACE="marg">Democri|tus, and o|ther philo|sephers have pu<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> out their eyes, to the end their un|derstrnding might be more cleer.</NOTE></P>
+<P>The second is that which is in the heart, and Arteries; and is made of the evaporations of the blood, and of the aire, laboured in the lig<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">s, by the force of vitall heat, and thereafter is diffused through the members, for the Conservation of the naturall heate.</P>
+<P>The third is that which is ingen|dred
+<PB N="18" REF="13">
+in the liver, and vaines, and there remaineth, while theliver maketh the blood; and other naturall opera|tions.</P>
+<P>The use of it is, to helpe the con|concoction; As saith <HI>Lowe.</HI></P>
+</DIV2>
+<DIV2 N="12" TYPE="chapter">
+<HEAD><HI>CHAP. XII.</HI> Treateth of the perturbations, and passions of the minds.</HEAD>
+<P>THe minde being governed by rea|son,<NOTE PLACE="marg">Aristole.</NOTE> is preserved from extremity in passion. But being without reason, such passions, and perturbations, do<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> arise, which bringeth great mutations, into the naturall heate, in so much that (as some have written) ma|ny<NOTE PLACE="marg">Hipocrates. Epist. 6. Galen. 2. de sum. caus. c. 5. method. <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">. H<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">nricus Ranzaurus, de cons. Va|le<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">ud.</NOTE> dye by the passions, and per|turbations of the minde.</P>
+<P>This is caused when the passions of the midne, doth either dilate, or com|primce the heart, for the vitall spi|rits, and cast forth, by the great dila|tion of the heart, as also retained by the great Compression thereof.</P>
+<P><PB N="19" REF="13">As for example: Joy, Hope, Love,<NOTE PLACE="marg">Example.</NOTE> &amp;c. These being out of reason, do (through the passion of the minde) so dilate the heart: that they cast forth the spirits. And sadnesse, fear, envie, &amp;c. do recall the vitall spirits in|wardly, to the center of the body, whence many times ensueth death.</P>
+</DIV2>
+<DIV2 N="12" TYPE="chapter">
+<HEAD><HI>CHAP. XII.</HI> Treateth of the particular passions of the minde.</HEAD>
+<P>THe particular passions of the minde are many: but chiefly these, Mirth, Sadnesse, Fear, anger, Shame|fastnesse, Envy, Hatred, Hope, Love, &amp;c.</P>
+<P>I. Mirth, or Joy, is an affection of the minde, of a thing good, and plea|sant, by the which the blood, and spi|rits are pleasantly spread, for the pre|sent, by the dilation of the heart, but if it be great, and last any long space, death often ensueth, because the heart is altogether destitute of blood.</P>
+<P><PB N="20" REF="14">As <NOTE N="a" PLACE="marg">Aristole reporteth such a vvo|man so died.</NOTE> <HI>Pollicritia</HI> <NOTE N="b" PLACE="marg">A writer of playes, who because he overcame one in dis|pute fell in to such an extratordinary ioy, that he died vvith the passion thereof! V<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">lerius Maximus, VVriteth of two women, Chilon, and Diogora, vvho died for ioy, for th<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> the happy returne of their sons from the VVarres, who had overcome their enemies, lib. 9. chap. 12. Gallius re|porteth of one Diogoras, vvho vvhen he did see his 3. som crowned at Olimpus, for their vertue, died for ioy, em|bracing them in the presence of the whole people.</NOTE> <HI>Phillipedes,</HI> and many others, who have died through extremity of joy.</P>
+<P>2. Sadnesse is an affection, that doth<NOTE PLACE="marg">Hen. Ram. de cons|ualetud.</NOTE> revoke the naturall heate inwardly, to the Center of the body; which in time presseth the heart, and drieth up the body: hindreth the government of the spirit vitall: which is sometimes so weakne<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">, that it is not able to go with the blood, through the rest of the body, so wasteth the body, in such sort, that it becommeth attrified, and<NOTE PLACE="marg">We have many exam|ples, hereof daily. Cornelius Agrippa de <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">accul. philosilius c. 63.</NOTE> leane, wherupon death often in|sueth.</P>
+<P>3. Feare, is a motion which revo|keth the spirits to the heart the Cen|ter of the body; whereby the naturall heat, is suffocated, causing trembling, which sometimes causeth many
+<PB N="21" REF="14">
+women to that are with childe fall in labour: somtimes <NOTE N="*" PLACE="marg">Divers learned men do affitme, that men have growen white in 25. yeers, only by the aprehension, and fear of death. Antonius Beneven. writeth, of a body that dyeth for feare, by seeing a vision, as he thought, of two men, clad in black, when he was going to Schole, the which boy, through the extreame passion of fear, died eight dayes after about the same time, <HI>De</HI> abdi|tis mor. causis.</NOTE> through feare, death ensueth to men, or wo|men.</P>
+<P>4. Anger is a sudden revocation or<NOTE PLACE="marg">Or an ar|dent heate, or ebulla|tion of blood, in the heart, with desire of of revenge.</NOTE> calling backe of the spirits, to the ex|ternall parts, with an appetite of re|venge. It inflameth the whole habi|tude of the body, the spirits and blood are troubled, as also the braines, it bindeth the heart, and lights. Where|of Dangerous siknesses are often cau|sed, and sometimes death ensueth.</P>
+<P>5. Shamefastnesse is a motion whereby one knoweth, or suspecteth some notise to bee taken of one for the same fault; for which he would be be angry with himselfe.</P>
+<P><PB N="22" REF="15">In this passion, the blood first re|turneth<NOTE PLACE="marg">Plinie tel|leth that one Diodo|rus, Profe|sor of Dia|lectick<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">, having <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">uestion propounded unto him, and not answering as he should, died for shame. Valer<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">us Maximus reporteth, that Homer died for <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">ame because he could not answer a question propounded to him by ce<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">ain Fishers.</NOTE> in (saith <HI>Haly Abbas</HI>) and sodainly cometh out again, which maketh the Cheeks often very redde lib. 5. Of this passion some dy<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">: As <HI>Diod<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">; Homer,</HI> and others.</P>
+<P>6. Envy is a heavy oppression of the heart, angry at some conceived good thing an other doth enjoy.</P>
+<P>7. Hatred is an old malicious habi|tude, bred of anger, by the which the heart would revenge the injurie.</P>
+<P>8. Hope is a motion by the which the heart desireth the good <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">ure, it openeth and dilateth the heart</P>
+<P>9. Love is a fervent motion, by the which the heart desireth <GAP DESC="illegible" RESP="apex" EXTENT="1 word">, and endeavoureth to draw unto it, a con|ceived good, assuredly, and apparantly (as <HI>Lowe</HI> saith.)<NOTE PLACE="marg">Lovve.</NOTE></P>
+</DIV2>
+<DIV2 N="14" TYPE="chapter">
+<PB N="23" REF="15">
+<HEAD><HI>CHAP XIV.</HI> Sheweth how the faculties of the soul, are distinguished from the facul|ties of the minde.</HEAD>
+<P>THe soul is not of any corporall<NOTE PLACE="marg">Rom. 8.</NOTE> substance, but spirituall, as hath beene shewed before; therefore the pure faculties of the soule must needs be spirituall also.</P>
+<P>The faculties of the minde of the<NOTE PLACE="marg">Not the mind which is of the fa|culty of the soul, but that which is of the bo|die.</NOTE> internall part of the body of man, is of a naturall disposition, as the body it self is; whole greatest &amp; chiefest guide is at the highest, but reason.</P>
+<P>Therefore as God that is spirituall, is infinitely more glorious in his di|vine essence, then can be conceived in<NOTE PLACE="marg">Luke 5. 21. 1. Cor. 2. <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">. Vers. 9.</NOTE> mans reason; so is the faculties of the soul of a farre higher nature then the faculties of the minde can reach.</P>
+<P>That of the soul is spirituall, that of the minde is carnall.<NOTE PLACE="marg">Rom 8. <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">.</NOTE></P>
+</DIV2>
+<DIV2 N="15" TYPE="chapter">
+<PB N="24" REF="16">
+<HEAD><HI>CHAP. XV.</HI> Sheweth, how the flesh is led by the spirit, or the spirit by the flesh.</HEAD>
+<P>VVHen all the faculties of the soul,<NOTE PLACE="marg">Rom. 8. 5.</NOTE> and all the powers of the body, do minde fleshly things; then is the soulled by the flesh; but when all the faculties of the minde are set on spiri|tuall things, then are the powers of the flesh led by the spirit. As for example;<NOTE PLACE="marg">Example.</NOTE> If the divell present a man with some object of sin, as Lust, Covetousnesse, Pride, Envie, Murther, <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">tc. If the love hereof be so great and earnest that this man runs headlong to the act hereof without consideration; then doth he so bind the faculties of the soul, that he ca|ptivates them under the bondage of the flesh; but if he resist these sins to which he is entised, by advising and deeply considering in his soul the evill there|of, then is the flesh overcome, and led by the spirit.</P>
+<P>These combates between the flesh<NOTE PLACE="marg">Gal. 5. 17. 2 Cor. 10.</NOTE> and the spirit are dive as; but according to the love or hatred we <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">ear to the
+<PB N="25" REF="16">
+thing about which we strive, so will the minde be affected or disaffected therewith, and advance the prosecu|tion thereof accordingly, whither it be <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">les aly or spirituall.</P>
+<P>When a man doth apprehend some|thing<NOTE PLACE="marg">Example.</NOTE> in his thoughts, being moved thereto either by outward sence, or in|ward motion, when the will is ready presently either to chuse or refuse it; this ariseth from the flesh; but when the understanding brings it first to the judgement, and comparing it with the role of Gods word, without any af|fection <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">o the thing, other then the Word doth approve, or disapprove thereof; and so doth will, desire, and seek after it; this is of the spirit.</P>
+</DIV2>
+<DIV2 N="16" TYPE="chapter">
+<HEAD><HI>CHAP. XVI.</HI> Treateth of the Resurrection of the Body.</HEAD>
+<P>IT is to be understood, that there is<NOTE PLACE="marg">1 Cor. 15. 44</NOTE> a naturall body, and there is a spi|rituall body, as <HI>Paul</HI> saith: The natu|rall body is the first, which we have<PB N="26" REF="17">by generation from our parents; The <NOTE PLACE="marg"><GAP DESC="illegible" RESP="apex" EXTENT="1 span"></NOTE>spirituall body, is that which is la<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> so by Christ&punc; <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> when we are first estated in grace in this world; but the bodies of the e<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">ect shall be ma<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">e <NOTE PLACE="marg"><GAP DESC="illegible" RESP="apex" EXTENT="1 span"></NOTE>so when they <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">scend into heaven; for this corruptible body of flesh and bloud, cannot inherit the Kingdome of heaven.</P>
+<P>When <NOTE PLACE="marg"><GAP DESC="illegible" RESP="apex" EXTENT="1 span"></NOTE>the elect dye, their naturall bodies are as seed <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">wn in the ground, but at the resurrection they shall be raised in their spirituall bo<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">es, with|out <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> imperfections or any deformity&punc; they shall hav<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> their sen|<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> made pure, and be rais<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">d with an heavenly and spirituall bod<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">; c<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">pable of inheriting heaven, and <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">ith Christ shall as<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">d to i<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">mortal joy to all Eternity.</P>
+<P>Every <NOTE PLACE="marg">De civitate Dei, lib <GAP DESC="illegible" RESP="apex" EXTENT="1 span"></NOTE>part that is in <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> bodie o<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> Gods Elect, shall r<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">se without all de|formity <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> superfluity wha<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">soever, as <HI>Augustine</HI> saith; That the <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> so of|ten <GAP DESC="illegible" RESP="apex" EXTENT="1 word">, and the <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> so often paired, shall not with deformity come again <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">o their places, when the body riseth at the day of judgement; and where the Lord saith<NOTE PLACE="marg">Luk. 21.18</NOTE>, one haire of our head</P>
+<P><PB N="27" REF="17">shall not p<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">sh, <NOTE PLACE="marg">Math. 10.3<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"></NOTE>it is not s<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">oken of the length of our hairs, but of the number of them; for all the hairs of our head are numbred.</P>
+<P>The age and quantity of the bodies, when they shall rise again, saith <NOTE PLACE="marg"><GAP DESC="illegible" RESP="apex" EXTENT="1 span"></NOTE><HI>Au|stine,</HI> shall be in that measure, in the measure of perfect state of youth, even in the measure of the age of the ful|<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">sse of Christ; that is, the age to which Christ came; All shall rise a|gain (as the <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> have written)<NOTE PLACE="marg">Master of <GAP DESC="illegible" RESP="apex" EXTENT="1 word"></NOTE> in the age in which Christ dyed and rose again, in <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">oever they die.</P>
+</DIV2>
+<DIV2 N="17" TYPE="chapter">
+<HEAD><HI>CHAP. XVII.</HI> <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> of Hell.</HEAD>
+<P>HEll signifieth a Pit, a grave,<NOTE PLACE="marg">B. Alle<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> on Hell</NOTE> death it se<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">, the sta<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">e of the dead, hell, and the place of the damned spirits.</P>
+<P>1. Hell signifieth a grave,<NOTE PLACE="marg">Ionah. 3</NOTE> having relation to the body.</P>
+<P>2. Hell signifieth
+ the horrible<NOTE PLACE="marg">Psal. 11<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> Iames 3.<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"></NOTE> dis|maying of the minde, and feeling of the wrath of God; with a taste (as it were) of the feeling of the infernall<PB N="28" REF="18">
+paines for sin, having relation to the minde.</P>
+<P>3. Hell signifieth the place of the<NOTE PLACE="marg">Psal. 4. 17. Math. 10. 28</NOTE> damned spirits, having relation to soul and body.</P>
+<P>Concerning the locall place of the<NOTE PLACE="marg">Luk. 10. 15. Pro&punc; 27. 20&punc; Mark. 8. 12.</NOTE> damned, it is farre from heaven; a place where is nothing but horrour and misery, but whether it be on the earth, in the earth, in the ayre, or any<NOTE PLACE="marg">Objction.</NOTE> other place, it is not revealed; there|fore I shall answer with <HI>Socrates,</HI> who<NOTE PLACE="marg">Socrates.</NOTE> being demanded of a certain person&punc; what was done in hell? deri<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">ing the curiositie of the question, he answered, that he never went thither, nor com|muned with any that returned from thence.</P>
+</DIV2>
+<DIV2 N="18" TYPE="chapter">
+<HEAD><HI>CHAP. XVIII.</HI> Treateth of Heaven.</HEAD>
+<P>THe Scholasticall Divines do say, that Heaven is taken three manner<NOTE PLACE="marg">B. Alle&punc; Misc. coeli.</NOTE> of wayes;</P>
+<LIST>
+<ITEM>1. It signifieth those things that be under the soul.</ITEM>
+<ITEM>2. Those things that be in the soul.</ITEM>
+<ITEM>3. Those things that be above the soul.</ITEM>
+</LIST>
+<P><PB N="29" REF="18">1. Those things that be under the soul, are such things as the corporall eyes behold beyond, or above the fa|culty of nature; that is to be aliena|ted from the corporall sences: As <HI><GAP DESC="illegible" RESP="apex" EXTENT="1 word"></HI> was when he saw the<NOTE PLACE="marg">Dan&punc; 5&punc;</NOTE> <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">and writing upon the wall. This is the first Heaven.</P>
+<P>2. Those things that be in the soul, are such things as cause the soul to be list up, and taken by imagination or spirit, to know or see any thing su|pernaturally; As <HI>Peter</HI> was wrapt<NOTE PLACE="marg">Act. 10.</NOTE> and taken, when he saw the sheet sent sent down from heaven. This is to be wrapt and taken unto the second Heaven.</P>
+<P>3 Those things that be above the soul, are such things as are intelligible; and the nature of them not to be under|stod, by any sence or phantasie, when they are, or have been seen, and thus <HI>Paul</HI> was rapt, and taken unto the<NOTE PLACE="marg">2 Cor. <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">2. 2.</NOTE> third heaven, because he was so alie|nated from his sences, and so inhansed above all Corporall th<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">ngs and visions, that he saw things Intelligible, simply, purely and plainly, even after that manner as the Angels, and the souls
+<PB N="30" REF="19">
+separated from the bodie do see, <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> (that which is more) did see God by Essence, as <HI>Austin</HI> doth expressely<NOTE PLACE="marg"><GAP DESC="illegible" RESP="apex" EXTENT="1 word"> <GAP DESC="illegible" RESP="apex" EXTENT="1 word">. 1<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"></NOTE> write: to avoide curiosity. In a word (and so to conclude) Christ saith to<NOTE PLACE="marg"><GAP DESC="illegible" RESP="apex" EXTENT="1 word">. 14.</NOTE> his Disciples; Let not your hearts be troubled: ye beleeve in God, beleeve, also in <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">e, in my Fathers house are many dwelling places, if it were not so, I would have told you I go to pre|pare a place for you; and though I go to prepare a place for you I will come again, &amp; receive you unto my self, that where I am there may ye be also. Ther|fore instead of curios<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">y, let us rather labour to be Christs Disciples, that these promises may belong to us, that so we may not bee too curious to search for the shadow, but may finde Christ Jesus the Life, the Truth, and the Way: and by him salvation. To whom with the Father, and the holy Ghost, be all honour, and glory fo<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> ever, Amen.</P>
+</DIV2>
+<TRAILER>FINIS&punc;</TRAILER>
+<PB REF="19">
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

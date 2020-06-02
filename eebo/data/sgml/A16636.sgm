@@ -1,0 +1,4397 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD EEBOPROOF 2.0//EN">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-09-09</DATE>
+<RESPSTMT>
+<NAME>Rina Kor</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TYPEs to DIVs in order to validate. Proofed title page(s). Checked for TYPE="book". Checked ^s. Reviewed structure. Checked division-marking material at heads and feet of divisions (HEADS, etc.). Checked for signatures. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected ** $s of **. Converted __ $s to GAP DESC="illegible" RESP="apex". Checked spacing of foreign GAPs. Checked for EPIGRAPHs and ARGUMENTs. Checked for startqs, endqs, oes, q;s, and Qs. Checked proofsheets and made corrections found there. Checked for CLOSERs, TRAILERs, and BYLINEs. Sample: ** minutes. Proofing: ** minutes. Tag review and corrections: ** minutes. DONE.</ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="A16636">
+<STC T="S">3544</STC>
+<BIBNO T="umi">99840368</BIBNO>
+<VID>4868</VID>
+</IDG>
+<GROUP>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1">
+<PB REF="1">
+<P>THE <HI>TRA|GICOMOEDI</HI> of the vertuous <HI>Octauia.</HI></P>
+<P>Done by SAMVEL BRANDON. 1598.</P>
+<P><HI>C<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">rmen amat, quisquis carmine digna gerit.</HI></P>
+<P><FIGURE>
+</FIGURE></P>
+<P>LONDON Printed for William Ponsonbye, and are to be soulde at his shop in S. Paules Church|yarde.</P>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="2" MS="y">
+<PB REF="2">
+<HEAD>To the right honorable, and truly vertuous Ladie, the Ladie LVCIA AVDELAY: health, honor, happinesse and heauen.</HEAD>
+<LG>
+<L>RAre Phoenix, which your life do sacrifice,</L>
+<L>In vertues flame, to finde a life diuine:</L>
+<L>Rich treasurer, of heauens best treasuries,</L>
+<L>In whom worth wisdome honor vertues shine.</L>
+<L>Sdaine not, these art lesse humble <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">ines to view,</L>
+<L>With honors eyes let vertues plaints be scan'd,</L>
+<L>That she whose vertues doubled are in you,</L>
+<L>By you may scape from <HI>Lybitinas</HI> hand.</L>
+<L>Hir dying fame, by you may be preserued,</L>
+<L>Whiles time, and men, and memory endure:</L>
+<L>Your liuing name by hirs mought be reserued,</L>
+<L>Did not these lines, too much hir worth obscure.</L>
+<L>These lines, wherein, if ought be free from blame,</L>
+<L>Your noble <HI>Genius</HI> taught my Pen the same.</L>
+</LG>
+</DIV1>
+<DIV1 TYPE="encomium">
+<PB REF="3">
+<HEAD>All' autore.</HEAD>
+<LG>
+<L>THe <HI>Thracian</HI> Poet, that reuiu'd his wife,</L>
+<L>Breeding in <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">urtes, pitty, and delight;</L>
+<L>Whose fame do<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">th yet sur<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">iue his shortned life,</L>
+<L>Must honor yeeld to what thou doost indite.</L>
+<L>For he, who oftentime<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> by Musickes force,</L>
+<L>Did serpents charme, streames stay, and trees remoue:</L>
+<L>In womens mindes, could neuer mooue remorse,</L>
+<L>As his vnhappy end doth plainly prooue.</L>
+<L>Wherefore most praisd be thy praise worthy muse,</L>
+<L>Which farre surmounts the might of antique age:</L>
+<L>Winning that sexes grace, which did refuse</L>
+<L>By hearing <HI>Orpheus,</HI> to relent their rage.</L>
+<L>Because no musick with their minde accordes:</L>
+<L>But that which vertues harmonie affordes.</L>
+</LG>
+<CLOSER><SIGNED>MIA.</SIGNED></CLOSER>
+</DIV1>
+<DIV1 TYPE="encomium">
+<PB REF="3">
+<HEAD>Prosopopeia al libro.</HEAD>
+<LG>
+<L>WHen barking enuie saw thy birth,</L>
+<L>it straight contemnd the same:</L>
+<L>And arm'd his tongue, to giue a charge,</L>
+<L>thy weakenesse to disfame.</L>
+<L>But seeing honors golden hooke,</L>
+<L>so linckt to vertues lyne:</L>
+<L>He fled away as halfe afraid,</L>
+<L>yet ceast not to repine.</L>
+<L>But feare not <HI>Momus,</HI> make returne,</L>
+<L>and haply for thy paine</L>
+<L>Thou ma<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">st <HI>Antonius</HI> coullors beare</L>
+<L>when he reuiues againe.</L>
+</LG>
+<CLOSER><SIGNED>S. B.</SIGNED></CLOSER>
+</DIV1>
+<DIV1 TYPE="argument">
+<PB REF="4">
+<HEAD>The Argument.</HEAD>
+<P>_AFter the death of <HI>Iulius Caesar,</HI> &amp; the ouerthrow of <HI>Brutus</HI> and <HI>Cassius</HI> the chiefe conspirators: the gouernment of the Romain Empire, remained vnto <HI>Octauius Caesar, Marke Antony,</HI> and (at that time) <HI>Sextus Pompeius. Marke Antony,</HI> to confirme an inuiolable league of amitie, betweene <HI>Caesar</HI> and himselfe: tooke to wife <HI>Octauia,</HI> the sister of <HI>Caesar. Antony</HI> and <HI>Caesar</HI> falling at debate, met at <HI>Tarentum</HI> with their armies, and had bin the cause of much bloudshed: but that they were appeased, by the wis|dome of <HI>Octauia.</HI> Not long after, <HI>Antony</HI> going to make warre with the <HI>Parthians,</HI> and comming into <HI>Syria:</HI> the place renew|ed the memory, and the memory reuiued
+<PB REF="4">
+the long intermitted loue, he once bare to <HI>Cleopatra</HI> the Queene of <HI>Aegipt:</HI> he there|fore wholy subiecting himselfe to the desire of this <HI>Cleopatra:</HI> forsaketh his vertuous wife <HI>Octauia.</HI> Wherevpon, hir brother <HI>Caesar</HI> disdaining that she should suffer so great an indignitie: maketh warre vpon <HI>Antony,</HI> and ouercometh him, first at <HI>Actium,</HI> and then at <HI>Pelusium,</HI> to the vtter ruine and de|struction, both of <HI>Antony</HI> and <HI>Cleopatra.</HI></P>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="text">
+<PB REF="5">
+<HEAD>Octauiae tragicomoedia.</HEAD>
+<DIV2 TYPE="dramatis personae">
+<STAGE>The stage supposed Rome.</STAGE>
+<LIST>
+<HEAD>The Actors.</HEAD>
+<ITEM><HI>Octauius Caesar</HI> who was afterwards called <HI>Augustus.</HI></ITEM>
+<ITEM><HI>Octauia</HI> the sister of <HI>Caesar</HI> &amp; wife of <HI>Antony.</HI>
+<LIST>
+<HEAD>Two of the nobles of <HI>Octauius Caesar.</HI></HEAD>
+<ITEM>Maecenas.</ITEM>
+<ITEM>Agrippa</ITEM>
+</LIST>
+<LIST>
+<HEAD>Romaine Ladies.</HEAD>
+<ITEM>Camilla.</ITEM>
+<ITEM>Iulia.</ITEM>
+</LIST></ITEM>
+<ITEM><HI>Antonies</HI> children.</ITEM>
+<ITEM><HI>Syluia,</HI> a licentious woman.
+<LIST>
+<HEAD>Consuls.</HEAD>
+<ITEM>Titius.</ITEM>
+<ITEM>Plancus.</ITEM>
+</LIST></ITEM>
+<ITEM><HI>Geminus</HI> a Captaine.</ITEM>
+<ITEM><HI>Byllius</HI> nuntius.</ITEM>
+<ITEM><HI>Chorus. Romano.</HI></ITEM>
+</LIST>
+</DIV2>
+<DIV2 N="1" TYPE="act">
+<PB REF="5">
+<HEAD>Actus primus.</HEAD>
+<LIST>
+<ITEM>Octauia.</ITEM>
+<ITEM>Camilla.</ITEM>
+<ITEM>Iulia.</ITEM>
+</LIST>
+<LG>
+<L><HI>CAmilla,</HI> now me thinkes this golden time,</L>
+<L>Inuites our mindes to bathe in streames of ioy:</L>
+<L>See how the earth doth flourish in his prime,</L>
+<L>Whose liuery shewes the absence of annoye.</L>
+<L>These woods, how they bedeckt with natures pride,</L>
+<L>Shew inwarde touche of new conceiued myrthe.</L>
+<L>The pretty byrdes, that in their couerts hide,</L>
+<L>(Free Cittizens, euen happy from their birthe)</L>
+<L>How they reioyce! and euery sencelesse thing,</L>
+<L>Euen smiles with ioy: the earth perfumes the ayre,</L>
+<L>The ayre, sweete Nectar to the earth doth bring,</L>
+<L>And both with ioye, beget these children fayre.</L>
+<L>How richly nature dooth her wealth enrobe:</L>
+<L>Giuing each thing his beautie, forme and grace.</L>
+<L>Eye-pleasing greene, circle of this our globe,</L>
+<L>Great myrrour of <HI>Apollos</HI> youthfull face&punc;</L>
+<L>Coulor of life, youthes liuerie, how delight</L>
+<L>Dwels still with thee, whiles we, whom reason named</L>
+<L>(But falsly namde and if I iudge aright)</L>
+<L>Princes of all the rest that nature framed:</L>
+<L>Still subiect are to sorrowes tyranny;</L>
+<L>Slaues to mischance, vassals of fortunes power;</L>
+<L><PB REF="6">Bearing the yoake of endlesse miserie:</L>
+<L>Faire baites of time which dooth vs all deuoure.</L>
+<L>Now raisde aloft in honors highest seate,</L>
+<L>Yet in that height farre short of sweete content,</L>
+<L>Now, throwne downe headlong, be we nere so great,</L>
+<L>In gulfe of greefe, which we may not preuent.</L>
+<L>Our pleasures, (posting guests,) make but small stay,</L>
+<L>And neuer once looke backe when they are gone:</L>
+<L>Where greefes bide long, and leaue such scores to pay;</L>
+<L>As make vs banckerout ere we thinke thereon.</L>
+<L>Yet this same earth with new-borne beauties grac'd,</L>
+<L>Doth say me thinkes in his dumbe eloquence:</L>
+<L>Thus shall you spring, mongst heauenly angels plac'd,</L>
+<L>Whe~ deaths cold winter once hath snatcht you hence.</L>
+<L>These flowers, do bid vs in their language, read</L>
+<L>In beauties bookes, how beautie is most fraile:</L>
+<L>Whose youthfull pride, th'vntimely steps doth tread,</L>
+<L>To deaths black kingdome, darke obliuions vaile.</L>
+<L>These natures quiristers, do plainely say,</L>
+<L>Waste thus your time, in setting forth his praise:</L>
+<L>Who feedes, who clothes, who fils our harts with ioye:</L>
+<L>And from this dead earth, dooth our bodies raise&punc;</L>
+<L>Thus all their mirthe, are accents of our moane:</L>
+<L>Their blis full state, of our vnhappinesse,</L>
+<L>A perfect map, where onely we alone,</L>
+<L>May see our good, but neuer it possesse.</L>
+</LG>
+<SP>
+<SPEAKER>Cam.</SPEAKER>
+<LG>
+<L>Madam, as nature more then perfect is,</L>
+<L>And farre more faire, then that we fairest call:</L>
+<L>So you as heyre apparant to hir blisse,</L>
+<L><PB REF="6">Chiefe treasurer of hir perfections all;</L>
+<L>Will shew you<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> selfe most wise, and most diuine,</L>
+<L>In curious search of her most hidden will;</L>
+<L>And following but hir footesteps, yet refine:</L>
+<L>The vniuersall secrets of hir skill.</L>
+<L>Yet I admire, your Eagle-sighted eye,</L>
+<L>Which hath truthes sun-bright cyrcle so well knowne:</L>
+<L>In others worthe, discernes each Attomie,</L>
+<L>Forgetfull most, of what is most your owne.</L>
+<L>These other creatures, haue their properties,</L>
+<L>Which shew, their <HI>Syre</HI> no niggard of his store,</L>
+<L>But such great guiftes our mindes immortalize,</L>
+<L>As proude ambitious selfe, can wish no more.</L>
+<L>And you, great Ladie, whose high honor flyes,</L>
+<L>With vertues winges, in admirations ayre:</L>
+<L>Towring, an Eagles pyche, aboue the skies,</L>
+<L>Where vulgar thoughts, are setled in despaire;</L>
+<L>You, whose designes, haue put out enuies eyes,</L>
+<L>Whose lampe of vertue giues the purest light;</L>
+<L>You, that enforce weake fame to royallize,</L>
+<L>Such high reuolues, as farre surpasse her might,</L>
+<L>You, whose large praise, makes naked vertue lowre,</L>
+<L>And tyres report, in painting out your storie;</L>
+<L>You, in whose lappe doth streame the golden shower,</L>
+<L>Of all good fortune, gracing highest glorie.</L>
+<L>O how can you, once entertaine a thought,</L>
+<L>That these high ioyes should stoupe to sorrowes lure?</L>
+<L>Or how can true felicitie be brought,</L>
+<L>The smallest touche of passion to endure?</L>
+<L><PB REF="7">Let those complaine, which suck misfortunes paps:</L>
+<L>Who know nought els of vertue but the name,</L>
+<L>Who seeming wise, are snar'd in follyes traps,</L>
+<L>Whose rash attempts, breed swift ensuing shame,</L>
+<L>But you heauens day-starre, piller of our blisse,</L>
+<L>O want you euer, cloudes of discontent:</L>
+<L>You are our ioy, we all ioyes, all should misse,</L>
+<L>Did not your sunne beames guild our firmament.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Oct.</SPEAKER>
+<LG>
+<L>Did not thy true loue seale this president,</L>
+<L>I should suspect a serpent mongst the flowers:</L>
+<L>And hardly iudge faire wordes from false intent,</L>
+<L>Pore niggard truth, rich flattry, powres down showrs.</L>
+<L>But loyall Ladies, doo you thinke in faith,</L>
+<L>That highest honor, ioyes most sweet content?</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Cam.</SPEAKER>
+<LG>
+<L>It doth no doubt, for high, and heauenly saith</L>
+<L>The prouerbe olde, to which I giue consent.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Oct.</SPEAKER>
+<LG>
+<L>The~ heare me speake, what I shal say by proofe,</L>
+<L>And what experience printed in my hart?</L>
+<L>Perhaps a story for your owne behoofe,</L>
+<L>Where I my selfe, haue played an actors part.</L>
+<L>In youthe, I thought though falsly thought) that best</L>
+<L>Which fairest seemde, and my aspyring minde</L>
+<L>Disdaind (though not with pride) that there should rest</L>
+<L>Amean borne thought, within my thoughts confin'd.</L>
+<L>Treading this path, I was at last desired,</L>
+<L>By Lord <HI>Marcellus,</HI> for his spouse, and wife.</L>
+<L><HI>Marcellus,</HI> he whose worthie fame aspyred,</L>
+<L>To th'highest toppe of honor, during life.</L>
+<L>If wealth, (nurse of delight) mought breed content:</L>
+<L><PB REF="7">I had no want of store to make me glad:</L>
+<L>My greatnesse did ambitious thoughts preuent:</L>
+<L>Such high successe <HI>Marcellus</HI> honours had.</L>
+<L>Proude <HI>Carthage</HI> knowes, his youthfull sword did pay</L>
+<L>Large tribute of their soules to stygian lake:</L>
+<L>His middle age, the stoutest <HI>Gaules</HI> did fraye,</L>
+<L><HI>Marcellus</HI> name made their huge armies quake.</L>
+<L>His ancient yeares, made craftie <HI>Hanniball</HI></L>
+<L>Admire the proues, and vallour of his foe:</L>
+<L>Thrice bitter name, that cursed <HI>Canniball,</HI></L>
+<L>By bloudie treason, made him life forgoe.</L>
+<L>Fiue times this cittie grac'd my worthy Lord,</L>
+<L>Or rather he them grac'd, with <HI>Consuls</HI> name.</L>
+<L>What they to others suites would scarce afforde,</L>
+<L>They ioyde to see my Lord accept the same.</L>
+<L>Now Ladies to forget my present state,</L>
+<L>Did ioy thinke you this while orecharge my minde?</L>
+<L>I ioyde I must confesse, to see how fate</L>
+<L>With boundes of honor, had my life confin'de.</L>
+<L>But when I found, how monster enuie, feedes</L>
+<L>On highest honor, as his daintiest pray:</L>
+<L>How brightest fier, great store of fuell needes,</L>
+<L>To keepe his light, and beautie from decay.</L>
+<L>When that I found the musicke of my minde,</L>
+<L>Tunde to the concorde, of <HI>Marcellus</HI> blisse:</L>
+<L>And sawe, true vallour had his life assignde,</L>
+<L>To haughtie <HI>Mars,</HI> whose course most dangerous is.</L>
+<L>I liu'd in him, he spent his royall dayes,</L>
+<L>In bloudie bosome of life scorning warres.</L>
+<L><PB REF="8">Safetie may breede delight, not nourish praise;</L>
+<L>Harde is the way, from th'earth vnto the starres.</L>
+<L>Whiles thus our state, depended on his sworde,</L>
+<L>And thousand thousands sought his finall end:</L>
+<L>Could my true loue, in all this time, afforde</L>
+<L>One quiet thought in perfect mirthe to spend?</L>
+<L>So many perils as on earth are found,</L>
+<L>So many dangers as on raging seas,</L>
+<L>So many terrours all my ioyes confound,</L>
+<L>For true loue passions are no weake disease.</L>
+<L>But is this all? no, more if more may be,</L>
+<L>Tis greater care, to keepe, then get, a crowne.</L>
+<L>Vertue dooth raise by small degrees we see:</L>
+<L>Where in a moment Fortune casts vs downe.</L>
+<L>And surely those that liue in greatest place,</L>
+<L>Must take great care, to be such as they seeme:</L>
+<L>They are not princes, whom sole tytles grace,</L>
+<L>Our princelie vertues, we should most esteeme.</L>
+<L>The sandes on <HI>Neptunes</HI> shores, and beamy starres,</L>
+<L>Do not exceede the number of those cares</L>
+<L>Which in our mindes, do stirre vp ciuill warres,</L>
+<L>And crosse delights accountes, at vnawares.</L>
+<L>Let this suffice, the tempest soonest teares</L>
+<L>The highest towers, and who will mount alofte,</L>
+<L>The more he climes, the more his footing feares:</L>
+<L>Often he slides, but sildome falleth softe.</L>
+<L>What words, can paint the infinite of woes?</L>
+<L>What tongue, can halfe those miseries relate?</L>
+<L>Which thundring fortune, threatned to impose</L>
+<L><PB REF="8">Vpon my head, at <HI>Tarent,</HI> but of late.</L>
+<L>When as mine eyes mought see (though loth to see)</L>
+<L>The sunnes, with whose eclipse, my fortune changed:</L>
+<L>Mine owne deare Lord, and brother, both to be</L>
+<L>In mortall armes, against each other ranged.</L>
+<L>Which tempest calm'd, the storme begins againe,</L>
+<L>On mischiefes maine, full sayles mishap doth beare:</L>
+<L>I know not now what doth my Lord detaine,</L>
+<L>But for I know not, I know cause to feare.</L>
+<L>To visit him, at last I was contented,</L>
+<L>And in those forraine coastes to make appeale:</L>
+<L>But my accesse, at <HI>Athens</HI> he preuented,</L>
+<L>Which makes me thinke, more then I will reueale.</L>
+<L>And can I then with sorrowes waight oppressed,</L>
+<L>Thinke to enamell my conceit with ioy?</L>
+<L>Can I, that am with fortunes wracke distressed,</L>
+<L>Hope to escape the Ocean of annoy?</L>
+<L>Why, this is ioye, to taste no scence of death,</L>
+<L>Till dying hower, haue stopt our vitall breath.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Iulia.</SPEAKER>
+<LG>
+<L>Ti's true delight, to know no cause of greese,</L>
+<L>Although the outward signes of ioye be small:</L>
+<L>Who most reioycing, feeles that inward theefe,</L>
+<L>A stayned conscience findes no ioy at all.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Cam.</SPEAKER>
+<LG>
+<L>Indeede I thinke, true ioy, a thing seuere,</L>
+<L>Springing from fountaine of a vertuous minde:</L>
+<L>From spotlesse faith, and conscience pure and cleare,</L>
+<L>The chiefest good, the heauens haue vs assignde.</L>
+<L>For as some weepe, that are not passing sad:</L>
+<L>So many laugh that are not rightly glad.</L>
+</LG>
+</SP>
+<LIST>
+<PB REF="9">
+<ITEM>Geminus.</ITEM>
+<ITEM>Titius.</ITEM>
+</LIST>
+<LG>
+<L>Say worthie <HI>Titius,</HI> what rare accident,</L>
+<L>In so short time, did bring to happie end,</L>
+<L>The cruell warres; which <HI>Caesars</HI> discontent,</L>
+<L>Gainst Lord <HI>Antonius,</HI> lately did intend;</L>
+<L>How could so many weapons thirsting bloud,</L>
+<L>Be satisfied with vnexpected peace?</L>
+<L>What powerfull starres importun'd vs such good?</L>
+<L>And did their angers tyrranny suppresse?</L>
+</LG>
+<SP>
+<SPEAKER>Titi.</SPEAKER>
+<LG>
+<L>That will I doo, my good friend <HI>Geminus.</HI></L>
+<L>And much the sooner, for that you may know,</L>
+<L>No force, or weapons, hath procured vs,</L>
+<L>The happy truce, wherein we glory now.</L>
+<L>It was the time, when the declining sunne</L>
+<L>Made greatest shew of least performed light:</L>
+<L>And by his swift departure had begun,</L>
+<L>To yeelde his interest, to th'encroching night.</L>
+<L>When as the seas, euen burthened with our waight,</L>
+<L>Deliuered vs vnto the perfect view</L>
+<L>Of dreadfull <HI>Tarent:</HI> where for vs did waight,</L>
+<L><HI>Antonius</HI> fleete, with all their martiall crew.</L>
+<L>There did our drowned anchors make vs stay,</L>
+<L>Within the iawes of dangers tyrranny:</L>
+<L>There, we discouered by the flying daye,</L>
+<L>The agents of our threatned misery.</L>
+<L>Who can expresse the horror of that night,</L>
+<L>When darkenesse lent hir robes to monster feare?</L>
+<L>And heauens black mantle banishing the light,</L>
+<L><PB REF="9">Made euery thing in ougly forme appeare.</L>
+<L>Vntill <HI>Aurora,</HI> with faire purple flowres,</L>
+<L>Like louing spouse, had strawed <HI>Tytans</HI> waye:</L>
+<L>Whose glorious beames, began to guilde the towres,</L>
+<L>As ioyfull post, of pleasure-bringing day.</L>
+<L>Then did loude Martiall musicke charme a sleepe,</L>
+<L>Each languishing conceipt, in doubtfull brest:</L>
+<L>And new borne comfort, now began to creepe,</L>
+<L>In euery minde, with causelesse feare opprest.</L>
+<L>Then, pride of honor, made vs scorne our foes:</L>
+<L>And courage added winges to our desire.</L>
+<L>To present fight, we all our selues dispose:</L>
+<L>With bloudie showers, to quenche incensed ire.</L>
+<L>But ere our armies, had their charge fulfild,</L>
+<L>Ere weapons, had our inward rage exprest:</L>
+<L>Loe where <HI>Octauia,</HI> comes into the field,</L>
+<L>Twixt both our armies, she hir selfe addrest.</L>
+<L>Where with the Nectar of hir eloquence,</L>
+<L>With words that mought relent indurate frost:</L>
+<L>With maiestie, and beauties influence,</L>
+<L>She stayes our Captaines, and affronts each hoast.</L>
+<L>O how I see that wonder-breeding face!</L>
+<L>O how I heare those hart-enchaining wordes!</L>
+<L>O face! o wordes! that merite highest grace!</L>
+<L>Immortall sure, base earth none such affords,</L>
+<L>No womans weapon blindes her princely eye;</L>
+<L>No womans weakenesse, hir tongues passage stayes:</L>
+<L>Like one, that did both death, and fate defie,</L>
+<L><HI>Minerua-like</HI> she stands, and thus she sayes.</L>
+<L><PB REF="10">Heere will I bide, and this same brest oppose</L>
+<L>To all your weapons, and whose wicked hand,</L>
+<L>Shall first beginne t'assaile or strike his foes,</L>
+<L>Shall strike this hart, and breake this vitall band.</L>
+<L>No bloudie deed, <HI>Octauiaes</HI> eyes shall gaine,</L>
+<L>A witnesse of your loathed crueltie:</L>
+<L>But through this body shall the first be slaine,</L>
+<L>That in this battle, is compell'd to dye.</L>
+<L>If honor, vertue, worthe, or pietie,</L>
+<L>Liue in your mindes, which beare such loftie names:</L>
+<L>Returne your weapons, and heere quietly,</L>
+<L>With reason, quench the force, of angry flames.</L>
+<L>Els, let some bloudie executioner,</L>
+<L>First robbe this i<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">alious tombe, of loathed life:</L>
+<L>And then, no longer neede you to deferre,</L>
+<L>The issue, of your more then mortall strife.</L>
+<L>Much more she said, which none but she can say,</L>
+<L>And with her sugered speech, so much preuaild,</L>
+<L>That like <HI>Medusaes</HI> marbled creatures, they</L>
+<L>Amazed stood, so was their furie quaild.</L>
+<L>Looke how that <HI>trydent</HI> scepter bearing king,</L>
+<L>His ofte rebelling subiects, dooth suppresse,</L>
+<L>And with a sodaine becke in order bring,</L>
+<L>Their disproportion, with a quiet peace;</L>
+<L>When that the pride, of some truce-wanting storme,</L>
+<L>Doth summon vp their treason-working power;</L>
+<L>Now gracing terror, with huge mountaines forme,</L>
+<L>Now with steepe whirlepoole, seeking to deuoure:</L>
+<L>So stood the Emperors, with hir wordes amazed,</L>
+<L><PB REF="10">Hir words, which seemde the myrrour of hi<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> deed<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">.</L>
+<L>As men inchanted so on hir they gazed,</L>
+<L>And in hir face, new lectures ganne to reede.</L>
+<L>But when she saw, hi<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> words did take effect,</L>
+<L>Then powrde she forth the quintessence of witte:</L>
+<L>And neuer did hir enterprice neglect,</L>
+<L>Till both the Emperours bewitcht with it;</L>
+<L>Not onely, did forget all former hate,</L>
+<L>But euen there, before <HI>Octauiaes</HI> face,</L>
+<L>A league of friendship they did consumate,</L>
+<L>And louingly each other did imbrace.</L>
+<L>O what a ioyfull sight, 'twas to behoulde</L>
+<L>A dangerous fight, turn'd to a daintie feast.</L>
+<L>To see how <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">riends salute each other could,</L>
+<L>That but euen now, each other did detest.</L>
+<L>There did both armies sport in great delight,</L>
+<L>And enterchangeably their loues express&egrave;:</L>
+<L>As captiues, foild without bloud, wound or fight;</L>
+<L>They praise the conquest, and the victor blesse</L>
+<L>Then did <HI>Antoniu<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">,</HI> for <HI><GAP DESC="illegible" RESP="apex" EXTENT="1 word"></HI> sake,</L>
+<L>Giue vnto <HI>Caesar</HI> twentie Brygantines:</L>
+<L>Which <HI>Caesar</HI> did in courteous maner take,</L>
+<L>And in requitall of his kinde designes,</L>
+<L>Did twice fiue hundred armed soldiers, giue</L>
+<L>To <HI>Anthony:</HI> and quickly one mought finde,</L>
+<L>The sparkes of emulation made them striue,</L>
+<L>Who mought doe most, to please <HI>Octauiaes</HI> minde.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Gem.</SPEAKER>
+<LG>
+<L>O noble deed, deseruing highest praise,</L>
+<L>Well worthye <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">o out-liue all memorye:</L>
+<L><PB REF="11">Life sauing Empresse, how thy wisdome staies,</L>
+<L>Euen swarmes of soules, from <HI>Plu<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">oes</HI> tyranny,</L>
+<L>But why did not <HI>Antonius,</HI> in like sorte</L>
+<L>Returne to <HI>Roome,</HI> to pay delight her due.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>T<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">t.</SPEAKER>
+<LG>
+<L>He presently to'ards <HI>Parthia</HI> did resort,</L>
+<L>Against their King the warres for to renue.</L>
+<L>And recommending all his owne affaires,</L>
+<L>His wife, his children, and what els was deare,</L>
+<L>To <HI>Caesars</HI> best disposing: he repayres,</L>
+<L>To <HI>Syria,</HI> and entends to winter there.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Gem.</SPEAKER>
+<LG>
+<L><HI>Roome</HI> thou that keepst, the pearle that doth enclude,</L>
+<L>Heauens dearest treasure, in earths finest frame:</L>
+<L>Be neuer so vngratefull, to obtrude</L>
+<L>Night-blacke obliuion, to her noble name.</L>
+</LG>
+</SP>
+<LIST>
+<ITEM>Camilla.</ITEM>
+<ITEM>Geminus.</ITEM>
+</LIST>
+<LG>
+<L>Come <HI>Geminus,</HI> and vnto me relate,</L>
+<L>What made the Empresse, alter her entent:</L>
+<L>What did your voyage thus abbreuiate,</L>
+<L>And all your expectations preuent.</L>
+<L>Fame (bad concealer of our close entents)</L>
+<L>Said, that the Empresse would to <HI>Syria</HI> goe:</L>
+<L>To see <HI>Antonius,</HI> who himselfe abscentes,</L>
+<L>But your returne, doth shew it was not so.</L>
+</LG>
+<SP>
+<SPEAKER>Gem.</SPEAKER>
+<LG>
+<L>Madame, when <HI>Aeolus</HI> had once conuai'd</L>
+<L>Our moouing houses, vnto that same place,</L>
+<L>Where noble <HI>Cecrops,</HI> the foundations lay'd,</L>
+<L>Which are the <HI>Grecian</HI> confines chiefest grace:</L>
+<L>There, long before we could approach the gates</L>
+<L><PB REF="11">Of that faire Citty, we encounter'd were,</L>
+<L>With people of all ages, and estates,</L>
+<L>Who in their handes, did boughes of Lawrell beare.</L>
+<L>Some on their knees, with ioy, and wonder fil'd,</L>
+<L>Salute the Empresse: some rich giftes present.</L>
+<L>Some straw'd the way with flowers, and some distil'd</L>
+<L>Their sweet perfumes, along the fields we went.</L>
+<L>Thus to the Citty were we guarded straight,</L>
+<L>Where for our comming, all the states awaite.</L>
+<L>There were our eyes, inuited to beholde</L>
+<L>Most sumptuous shewes, with many pleasing sights:</L>
+<L>There did we heare, their learned tongues vnfolde.</L>
+<L>The muses skill, with rauishing delightes,</L>
+<L>Their lowd applause, which peirc'd the very skies,</L>
+<L>Extolde <HI>Octauia</HI> past the reach of fame:</L>
+<L>And silent <HI>Eccho,</HI> wakened with their cries,</L>
+<L>Taught all the neighbour hylles, to blesse her name.</L>
+<L>Thus frankly did two daies themselues bestow,</L>
+<L>To gratifie our entertainement there:</L>
+<L>Whiles <HI>Antonie,</HI> who as it seem'd did know</L>
+<L>Of our approach, and thereof stood in feare:</L>
+<L>Sent <HI>Niger,</HI> vnto <HI>Athens,</HI> with all speed,</L>
+<L>Who to <HI>Octauia</HI> letters did conuay:</L>
+<L>Requiring her no further to proceede,</L>
+<L>But for his comming in that place to stay.</L>
+<L>For thither meant he shortly to repayre,</L>
+<L>And therefore would not, she should vndertake</L>
+<L>So long a iorney, which mought much impayre</L>
+<L>Her health, and quiet, bootlesse for his sake.</L>
+<L><PB REF="12">She, halfe suspecting (as there was good cause)</L>
+<L>That this was but a practise of delay:</L>
+<L>Although vnwilling, yet she made a pause,</L>
+<L>As one that knew not how to disobay.</L>
+<L>But finding all his words to want effect,</L>
+<L>And seeing nothing mought his minde recall:</L>
+<L>Such things, she doth vnto him straight direct,</L>
+<L>As she had brought, to pleasure him withall.</L>
+<L>Which was, two thousand chosen men at armes:</L>
+<L>Great store of horses, wonte to winne their price;</L>
+<L>Much armour, to defend themselues from harmes,</L>
+<L>As richely wrought, as cunning could deuize;</L>
+<L>Guiftes, to reward his best|deseruing friends;</L>
+<L>A summe of money for his souldiers paye;</L>
+<L>And briefly all hir care, and studie bends,</L>
+<L>To saue his wayning honor, from decaye.</L>
+<L>But whe~ she saw, nought mought his thoughts recline</L>
+<L>Vnkinde, saith she, seno<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">lesse of thine owne shame,</L>
+<L>Ile be my selfe, since thou wilt not be mine:</L>
+<L>Thus she concluded, and away we came.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Cam.</SPEAKER>
+<LG>
+<L>O peerelesse paragon! O natures pride!</L>
+<L>Faire Cabinet, where wisdomes treasure lies,</L>
+<L>Earths glory, and the heauens beloued bride,</L>
+<L>Rich seate of honor, vertues paradize.</L>
+<L>Most noble Empresse, praise of women kinde,</L>
+<L>Whose faith endures the rage of fortunes flame:</L>
+<L>Whose constant truthe, and truly vertuous minde,</L>
+<L>Scornes smallest touche of iust-deserued blame.</L>
+<L>How naturall, and vndeuided, <GAP DESC="illegible" RESP="apex" EXTENT="1 word"></L>
+<L><PB REF="12">The sparkes of honor, in a noble harte:</L>
+<L>How industrie, and wit, may not compare,</L>
+<L>With that true touche, our birthright doth imparte.</L>
+<L>Liue vertuous Empresse, myrrour of our age,</L>
+<L>Though chance discharge whole vollyes of reproach;</L>
+<L>With fortitude withstand proud fortunes rage,</L>
+<L>Let not despaire, neare thy sweete thoughts encroache.</L>
+<L>Time must needs turne thy mourning vnto ioye,</L>
+<L>For true delight from hence his spring doth take:</L>
+<L>When we with patience suffer sharpe annoye,</L>
+<L>Not for our merits, but for vertues sake.</L>
+</LG>
+</SP>
+<DIV3 TYPE="chorus">
+<HEAD>Chorus.</HEAD>
+<LG>
+<L>HEauens, heare poore earth complaine,</L>
+<L>How wee, your frownes doe beare:</L>
+<L>When all things els reioyce,</L>
+<L>Ioye scornes with vs to dwell.</L>
+<L>And reasons selfe can tell,</L>
+<L>Each mirthe discouering voice,</L>
+<L>Assures our iudging eare,</L>
+<L>How all things els want paine:</L>
+<L>Scence-following creatures knowe</L>
+<L>No cause, why to lament,</L>
+<L>In them, remorse dooth sowe,</L>
+<L>No seedes of discontent.</L>
+<L>We see, and know, but wante our bl<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">sse:</L>
+<L>Vnperfect nature causeth this.</L>
+<L><PB REF="13">Yea nature most vnkinde,</L>
+<L>Contriuer of our fall:</L>
+<L>Begins our life with teares,</L>
+<L>And ends the same with woe.</L>
+<L>Greese (pleasures mortall foe)</L>
+<L>Confounds our hope with feares:</L>
+<L>And sowers our sweete with gall.</L>
+<L>This Tyrant of the minde:</L>
+<L>By reason, w<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">t, or skill,</L>
+<L>Can neuer be withstood:</L>
+<L>These aggrauate our ill,</L>
+<L>By shewing what was good.</L>
+<L>And wante of that torments vs most:</L>
+<L>Whose worthe appeares in being lost.</L>
+</LG>
+<LG>
+<L>Were nature falsely nam'd</L>
+<L>A stepdame to mankinde,</L>
+<L>That sexe, which we account</L>
+<L>Vnperfect, weake, and fraile,</L>
+<L>Could not in worthe preuaile:</L>
+<L>And men so farre surmount.</L>
+<L>We should <HI>Octauia</HI> finde,</L>
+<L>In some sorte to be blam'd.</L>
+<L>She winnes immortall fame,</L>
+<L>Whiles he who should excell:</L>
+<L>Dishonour'd hath his name,</L>
+<L>And by his weaknesse fell.</L>
+<L>For double shame he dooth deserue,</L>
+<L>Who being guide dooth soonest swarue.</L>
+</LG>
+<LG>
+<PB REF="13">
+<L>And Lorde <HI>Antonius,</HI> thou</L>
+<L>Thrice woman conquered man:</L>
+<L>Shall not thy hart repine,</L>
+<L>Their triumphs to adorne?</L>
+<L><HI>Octauiaes</HI> vertues scorne,</L>
+<L>That wanton life of thine:</L>
+<L>And <HI>Cleopatra</HI> can,</L>
+<L>Commaund thy ghost euen now.</L>
+<L>And faine would I refraine,</L>
+<L>From <HI>Fuluiaes</HI> stately name:</L>
+<L>Which dooth thy manhood flaine,</L>
+<L>And makes thee blush for shame.</L>
+<L>In this one thing, yet happie maist thou bee:</L>
+<L>They Princesse are, that triumph ouer thee.</L>
+</LG>
+<LG>
+<L>Dwell in fames liuing breath,</L>
+<L>T'eternitie resign'de,</L>
+<L>Yee faire Mars-conquering wights:</L>
+<L>And feare not <HI>Lethes</HI> floud,</L>
+<L>Your vertues alwayes bud,</L>
+<L>Your storie, honour wrights,</L>
+<L>And Phoenix-like you finde,</L>
+<L>A new life in your death.</L>
+<L>Arme but your Angel-soules,</L>
+<L>With perfect vertues shield,</L>
+<L>That <HI>Thanatos</HI> controules,</L>
+<L>And makes <HI>Erynnis</HI> yeelde,</L>
+<L>Then shall the heauens your worthe descrye:</L>
+<L>Earth, sing your praise, and so will I.</L>
+</LG>
+</DIV3>
+</DIV2>
+<DIV2 N="2" TYPE="act">
+<PB REF="14">
+<HEAD>Actus secundus.</HEAD>
+<LIST>
+<ITEM>Octauia.</ITEM>
+<ITEM>Byllius.</ITEM>
+</LIST>
+<LG>
+<L>OThrice, and foure times, happie messenger,</L>
+<L>Hast thou from <HI>Parthia</HI> made returne of late?</L>
+<L>Canst thou declare the issue of the warre,</L>
+<L>And make me knowe, <HI>Antonius</HI> happie state?</L>
+<L>What causd my Lorde in <HI>Syria</HI> make such staye,</L>
+<L>Since he gainst <HI>Parthia</HI> did his forces bende?</L>
+<L>When doth he meane, to'ards <HI>Roome</HI> to take his way<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"></L>
+<L>And to those warres, impose a finall end?</L>
+<L>Vnkinde he is: not so, but distant farre,</L>
+<L>And his great trouble, much my good impayres:</L>
+<L>Els would he not mine eares so long time barre,</L>
+<L>From much expected newes of his affayres.</L>
+</LG>
+<SP>
+<SPEAKER>Byl.</SPEAKER>
+<LG>
+<L>Madame, these eyes haue seene what hath bin done</L>
+<L>In <HI>Syria, Parthia,</HI> and each other place;</L>
+<L>I present was, when Lord <HI>Antonius,</HI> wonne</L>
+<L>Eighteene great battles, in a little space.</L>
+<L>I often sawe, when mischiefe, in the fielde</L>
+<L>Had all hir force against my Lorde brought forthe:</L>
+<L>How he with vallor, made euen fortune yeelde,</L>
+<L>And chance, awaight on well approued worthe.</L>
+<L>I was in <HI>Media,</HI> when <HI>Phraortes</HI> slue</L>
+<L>Great <HI>Tatianus,</HI> fighting for my Lorde:</L>
+<L>I sawe when he our engins from vs drew,</L>
+<L><PB REF="14">And put ten thousand <HI>Romaines,</HI> to the swoord.</L>
+<L>I was in presence, when a sodaine feare.</L>
+<L>In blackest horrour of the darkest night,</L>
+<L>So much astonisht all that present were,</L>
+<L>With shriking cries that mought euen stones affright:</L>
+<L>That <HI>Antony,</HI> with feare of treason mooued,</L>
+<L>Made <HI>Ramnus</HI> humbly sweare vpon his knee,</L>
+<L>To strike that head, that head so much beloued,</L>
+<L>From of his shoulders, when he once should see,</L>
+<L>Vneuitable danger, to lay holde,</L>
+<L>Vpon himselfe; yet could not all this, quaile</L>
+<L>His haughty courage, but as vncontroulde,</L>
+<L>He still proceedes, his stoutest foes t'assaile.</L>
+<L>And hauing now, sum'd with the <HI>Parthian</HI> blood,</L>
+<L>The largest scores, of wrongs we did sustaine,</L>
+<L>Thence to retyre, he now hath thought it good:</L>
+<L>And for a time at <HI>Blanckbourg</HI> to remaine.</L>
+<L><HI>Blanckbourg</HI> a Citty neere to <HI>Sydon</HI> plac'd,</L>
+<L>Vnto the which our whole Campe did resorte,</L>
+<L>There he entends to stay, and not in haste</L>
+<L>To visite <HI>Roome,</HI> as most of them report.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Oct.</SPEAKER>
+<P>O what should moue my Lord thus long to stay?</P>
+</SP>
+<SP>
+<SPEAKER>Byl.</SPEAKER>
+<P>An others tung mought better y^t bewray.</P>
+</SP>
+<SP>
+<SPEAKER>Octa.</SPEAKER>
+<P>What dost thou know more the thou hast ye<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> said?</P>
+</SP>
+<SP>
+<SPEAKER>Byl.</SPEAKER>
+<P>Madame no more.</P>
+</SP>
+<SP>
+<SPEAKER>Oct.</SPEAKER>
+<LG>
+<L>Why the~ am I dismaide?</L>
+<L>Why doe I see thy sorrow-clowded brow,</L>
+<L>Seeme to conceale I know not what annoy?</L>
+<L>Say <HI>Byllius</HI> whence those troubled lookes may grow&punc;</L>
+<L>Is my <HI>Antonius</HI> safe? doth he enioy</L>
+<L><PB REF="15">That body free from hurt, wound or disease?</L>
+<L>Doth he yet liue and draw his vitall breath?</L>
+<L>Speake, quickly speake, truth cannot me displease,</L>
+<L>Where now suspition wounds as deepe as death.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Byl.</SPEAKER>
+<LG>
+<L>It cannot be but that your grace doth know,</L>
+<L>For what can be conceal'd from Princes eare?</L>
+<L>And further speech mought seedes of discord sow,</L>
+<L>Betweene your highe~ss and my Lord I feare.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Octa.</SPEAKER>
+<LG>
+<L>O how delay torments a doubtfull minde.</L>
+<L>I know, no, <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">e procures I may not heare</L>
+<L>Of any thing from thence, whereby I finde,</L>
+<L>Although vnknowne yet double cause of feare.</L>
+<L>Then banish doubt, and see thou plainely tell,</L>
+<L>What strange occasion doth enforce his stay?</L>
+<L>What can <HI>Antonius</HI> princely minde compell,</L>
+<L>In forraine coastes to make so long delay?</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Byl.</SPEAKER>
+<LG>
+<L>Madame, the cause that made him to remaine</L>
+<L>In <HI>Syria,</HI> so long time when as we went</L>
+<L>To'ards <HI>Parthia,</HI> is the same that doth detaine,</L>
+<L>His highnesse now and thus your grace preuent.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Octa.</SPEAKER>
+<LG>
+<L>Am I an Empresse still thus disobay'd?</L>
+<L>And dost thou dare to dally with me still?</L>
+<L>I first enquir'd, what him in <HI>Syria</HI> staide.</L>
+<L>Why dost thou feare to tell the worst of ill.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Byl.</SPEAKER>
+<LG>
+<L>If this likewise be hidden from your grace,</L>
+<L>In humble sort a pardon I beseech:</L>
+<L>That high displeasure gainst me take not place,</L>
+<L>For what shall be disclosed by my speech.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Octa.</SPEAKER>
+<P>I pardon all, so long as all be true.</P>
+</SP>
+<SP>
+<PB REF="15">
+<SPEAKER>Byl.</SPEAKER>
+<LG>
+<L>Who doth delude let sharp death be his due.</L>
+<L>Then if you list the truth to vnderstand,</L>
+<L>The truth is this: that fond <HI>Aegiptian</HI> Queene,</L>
+<L>Queene <HI>Cleopatra</HI> doth your will withstand,</L>
+<L>And him detaines, who els had present been.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Octa.</SPEAKER>
+<P>By force?</P>
+</SP>
+<SP>
+<SPEAKER>Byl.</SPEAKER>
+<LG>
+<L>O no, worlds could not him con|straine</L>
+<L>To stay this long in any place by force:</L>
+<L>But his affection is the louing chayne,</L>
+<L>That from your highnesse dooth his minde diuorce.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Octa.</SPEAKER>
+<LG>
+<L>What chilling feare doth streame along these</L>
+<L>What frozen terror makes me thus to quake?</L>
+<L>What monstrous greefe, what horror, thus constrains vains?</L>
+<L>My stiuing hart, his lodging to forsake?</L>
+<L>Tell me, from what conceipt may this be guest?</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Byl.</SPEAKER>
+<P>They liue together, who knowes not the rest.</P>
+</SP>
+<SP>
+<SPEAKER>Octa.</SPEAKER>
+<P>I must beleeue it sore against my will.</P>
+</SP>
+<SP>
+<SPEAKER>Byl.</SPEAKER>
+<P>Hardly we credit what imports our ill.</P>
+</SP>
+<SP>
+<SPEAKER>Octa.</SPEAKER>
+<P>But slow beleefe from wisdome doth proceed.</P>
+</SP>
+<SP>
+<SPEAKER>Byl.</SPEAKER>
+<P>But mortall wounds of present cure haue need.</P>
+</SP>
+<SP>
+<SPEAKER>Oct.</SPEAKER>
+<P>Some fond report hath made thee falsly deeme.</P>
+</SP>
+<SP>
+<SPEAKER>Byl.</SPEAKER>
+<LG>
+<L>I shunne report, and lightly it esteeme,</L>
+<L>But this I sawe, when we to <HI>Syria</HI> came,</L>
+<L><HI>Antonius</HI> straight to <HI>Cleopatra</HI> sent,</L>
+<L>A messenger <HI>Fonteius</HI> was his name:</L>
+<L>Whose swiftnes did euen hast it selfe preuent.</L>
+<L>More, then we knew not, but within short space</L>
+<L>Came <HI>Cleopatra</HI> royally attended,</L>
+<L>And met directly at th'appointed place,</L>
+<L>Which for their stay they had before pretended.</L>
+<L><PB REF="16">There did they sporte a time in great excesse</L>
+<L>Of all delights which any eye hath seene,</L>
+<L>And there <HI>Antonius</HI> his great loue t'expresse</L>
+<L>Did frankely giue to this Aegyptian queene,</L>
+<L><HI>Phoenicia, Cyprus</HI> and <HI>Cylicia,</HI></L>
+<L>Part of <HI>Arabia</HI> where those people dwell</L>
+<L>Cald <HI>Nabatheians,</HI> part of <HI>Syria:</HI></L>
+<L>And finding that she could preuaile so well</L>
+<L>With <HI>Antony,</HI> she further <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> proceed,</L>
+<L>And begd part of that land we <HI>Iewry</HI> call.</L>
+<L>From whence mought be transported at hir neede,</L>
+<L>True balme, for to preserue hir grace withall.</L>
+<L>This don<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">, my Lord, to'ards <HI>Parthia</HI> tooke his way,</L>
+<L>Which we with fier and sworde did waste and burne,</L>
+<L>But in those confines did not long time stay,</L>
+<L>But backe againe to <HI>Blanckbourge</HI> we returne.</L>
+<L>From whence, a poste was speedily addrest,</L>
+<L>For to conduct this <HI>Cleopatra</HI> thither:</L>
+<L>She kindly condiscends to his request,</L>
+<L>Thus there they met, and there they liue togither.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Octa.</SPEAKER>
+<LG>
+<L>O what hart-piercing greefe doth the~ torme~<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">,</L>
+<L>That are thus countercheckt with riualles loue?</L>
+<L>What worlds of horror do themselues present,</L>
+<L>Vnto their mindes that do like passions proue?</L>
+<L>O Ielous<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">e, when truthe once takes thy part,</L>
+<L>What mercy-wanting tyrant so seuere?</L>
+<L>What <HI>Syl<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">a,</HI> what <HI>Charibdi<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">,</HI> can impart</L>
+<L>But halfe those horrors which in thee appeare?</L>
+<L>Poore <HI>Pluto,</HI> why do we thy rigour dread?</L>
+<L><PB REF="16">All torments are containde within my brest:</L>
+<L><HI>Alecto</HI> doth whole troupes of furie<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> leade</L>
+<L>Within my soule, with endlesse greefe opprest.</L>
+<L>O deserts, now you deserts are indeed:</L>
+<L>Your common-wealths are coucht within my hart,</L>
+<L>Within my hart, all rauening beasts do feede:</L>
+<L>And with mad furie, still encrease my smart.</L>
+<L>O greefe, I feele the worst that thou canst doe.</L>
+<L>I taste the powerfull force of mischieses pride.</L>
+<L>I proue the worst that chance can put me to.</L>
+<L>The deepest wound of fortune I abide.</L>
+<L>But staye <HI>Octauia,</HI> if this be a lye:</L>
+<L>If thy deare Lord do constant yet remaine,</L>
+<L>Whom doost thou wrong, is it not <HI>Antony?</HI></L>
+<L>O fault too great, recall it back againe.</L>
+<L>Canst thou be so vnkinde, nay so vniust,</L>
+<L>To censure, iudge, condemne without a cause?</L>
+<L>Shall flying tales make thee so much mistrust,</L>
+<L>Him bound to thee by Gods, and natures lawes?</L>
+<L>O traytor passion, if thou couldst subdue</L>
+<L>Thy soueraigne reason, what ill tragedies</L>
+<L>Wouldst thou soone acte, but Ielousie adieu,</L>
+<L>My Lord is constant, and these are but lyes.</L>
+<L>Did not he sweare on that our nuptiall day,</L>
+<L>By all the sacred rights we holy deeme,</L>
+<L>By those immortall powers which we obaye,</L>
+<L>By all things els which dearly we esteeme,</L>
+<L>By his right hand, by this our wedding ring,</L>
+<L>By all that mought a perfect truthe entend:</L>
+<L><PB REF="17">One time, one day, one houre; should surely bring,</L>
+<L>His life, and loue vnto a finall end.</L>
+<L>Did not he say, the starres from heauen should fall,</L>
+<L>The fishes should vpon the mountaines range,</L>
+<L>And <HI>Tyber</HI> should his flowing streames recall:</L>
+<L>Before his loue should euer thinke on change.</L>
+<L>But what of this? these are but onely words,</L>
+<L>And so are those which do his faith impeache.</L>
+<L>O poore <HI>Octauta,</HI> how thy state affordes,</L>
+<L>Nought but despaire to stand within thy reache.</L>
+<L>The seate of truthe is in our secret harts,</L>
+<L>Not in the tongue, which falsehood oft imparts.</L>
+<L>Hast back then <HI>Tyber</HI> to thy fountaines head,</L>
+<L>Descend ye starres, and this base earth adorne,</L>
+<L>Let <HI>Neptunes</HI> people on these hilles be fed,</L>
+<L>For <HI>Antony</HI> is fled, false, and forsworne.</L>
+<L>But tis not so, my <HI>Antony</HI> is true:</L>
+<L>His honor will not let him basely fall,</L>
+<L><HI>Octauies</HI> name will faithfull loue renew.</L>
+<L>His In<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">ate vertue will his minde recall.</L>
+<L>As feare of torment houlds the wicked in:</L>
+<L>So vertues loue makes good men loath their sinne.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Byl.</SPEAKER>
+<LG>
+<L>Madam, I cannot force you to beleeue</L>
+<L>That which I speake, but that I speake is true,</L>
+<L>I knew too well it would your highnesse greeue,</L>
+<L>And would be lothe your sorrowes to tenew;</L>
+<L>But would to God that all my words were lyes,</L>
+<L>So my disgrace mought worke your sweete content;</L>
+<L>Would this my soule mought be the sacrifice,</L>
+<L><PB REF="17">To reconcile his loue thus fondly bent.</L>
+<L>O vertue, thou that didst my good assure,</L>
+<L>Arme now my soule against proude fortunes might:</L>
+<L>Without thy succour I may not endure,</L>
+<L>But this strong tempest will destroy me quite.</L>
+<L>O sacred lampe, pure vertues liuing flame,</L>
+<L>That neuer failes sweet comfort to impart:</L>
+<L>I feele thy power and glory in the same,</L>
+<L>I heare thee say in closset of my heart,</L>
+<L><HI>Octauta,</HI> liue, and shew thy selfe a Queene,</L>
+<L>Tread thou my path, make constancy thy guide;</L>
+<L>Let no base feare within thy minde be seene,</L>
+<L>Let thine owne foote into no errour slide;</L>
+<L>Make thine owne thoughts no witnes of thy misse;</L>
+<L>Let thine owne conscience know no cause of blame;</L>
+<L>A bulwarke stronge, a brazen wall this is,</L>
+<L>That will resist, both sorrow, griefe and shame.</L>
+<L><HI>Antonius</HI> fall, his owne disgrace procures,</L>
+<L>His is the fault, and on his head shall fall,</L>
+<L>The storme of mischiefes deep-reuenging showers:</L>
+<L>When thine own worth, in heauen shal thee enstall.</L>
+<L>His is the fault, but what? mine is the wronge.</L>
+<L>The errour his, but I endure the smart;</L>
+<L>O vertue, if thou be so passing stronge,</L>
+<L>Yet once againe remooue this from my heart.</L>
+<L>Why, vertue grieues but at his owne disgrace,</L>
+<L>And mindes distrest, with patience doth relieue:</L>
+<L>With wisedomes light it stil directs his pace,</L>
+<L>And cannot fall and therefore cannot grieue.</L>
+<L><PB REF="18">Well griefe, I feele that thou art griefe indeed,</L>
+<L>But patience is a prince and must not yeeld:</L>
+<L>O sacred vertue help me at my need;</L>
+<L>Repulse my foes with thy all mastering shield.</L>
+<L>But what, I must not heere stand and lament,</L>
+<L>Thy deeds <HI>Octauta,</HI> must approoue thy worth:</L>
+<L>Tis wisedome, must these iniuries preuent,</L>
+<L>I will no more excuse thy wrongs hencefoorth.</L>
+<L>Ile seeke by all meanes thee to reconcile,</L>
+<L>And in my thoughts reuenge shall finde no place,</L>
+<L>But if thou needes wilt worke a thing so vile,</L>
+<L>To seeke my ruine and thine owne disgrace,</L>
+<L>If nothing can preuaile, Ile make it seene,</L>
+<L>Thou wrongst an Empresse, and a <HI>Romaine</HI> queene.</L>
+</LG>
+</SP>
+<LIST>
+<ITEM>Iulia.</ITEM>
+<ITEM>Camilla.</ITEM>
+<ITEM>Syluia.</ITEM>
+</LIST>
+<LG>
+<L>O deare <HI>Camilla,</HI> what a wofull sight,</L>
+<L>Ti's to beholde the Empresse dolefull state?</L>
+<L>Though others burthens in our eyes seeme light:</L>
+<L>Death in my heart, her griefe doth intimate.</L>
+<L>O what exceeding pitty t'is to see,</L>
+<L>Such noble vertues nurst in wisedomes brest:</L>
+<L>Snar'd in the trap of humaine misery,</L>
+<L>By others basenes thus to be distrest.</L>
+</LG>
+<SP>
+<SPEAKER>Cam.</SPEAKER>
+<LG>
+<L>Madame, the case is pittifull indeed,</L>
+<L>And such as may relent a flinty heart:</L>
+<L>A patient minde, must stand her grace insteed,</L>
+<L>Till time and wisedome, may his loue conuert.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Iul.</SPEAKER>
+<P>But who dares tell a Prince he goes aside?</P>
+</SP>
+<SP>
+<PB REF="18">
+<SPEAKER>Cam.</SPEAKER>
+<P>His conscience best, if wisdome were his guide.</P>
+</SP>
+<SP>
+<SPEAKER>Iul.</SPEAKER>
+<P>But they are great and may do what they will.</P>
+</SP>
+<SP>
+<SPEAKER>Cam.</SPEAKER>
+<P>Great if much good: not great if they do ill.</P>
+</SP>
+<SP>
+<SPEAKER>Iul.</SPEAKER>
+<P>But we must yeeld to what the Prince will haue.</P>
+</SP>
+<SP>
+<SPEAKER>Cam.</SPEAKER>
+<P>He is no Prince, that is affections slaue.</P>
+</SP>
+<SP>
+<SPEAKER>Iul.</SPEAKER>
+<P>Be what he will his power is ouer-stronge.</P>
+</SP>
+<SP>
+<SPEAKER>Cam.</SPEAKER>
+<LG>
+<L>Heauens will not suffer sin to florish long.</L>
+<L>And sure who list but to beholde the end,</L>
+<L>Shall see <HI>Antonius</HI> dearely buy his lust:</L>
+<L>They neuer prosper long that leawdly spend</L>
+<L>Their granted time, for God is not vniust.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Syl.</SPEAKER>
+<LG>
+<L>Well, let them talke of vertue, those that list,</L>
+<L>Of patience, iustice and of constancie;</L>
+<L>For me, I thinke the Empresse sure hath mist,</L>
+<L>The onely way to cure this maladie.</L>
+<L>Buy liuing fame that list, with pinching paine,</L>
+<L>And starue themselues with feeding fond conceipt:</L>
+<L>Were I <HI>Octauta</HI> I would entertaine</L>
+<L>His double dealing, with as fine a sleight.</L>
+<L>I would nor weep, nor waile, but soone returne</L>
+<L>Vpon his head the wrongs he doth pretend:</L>
+<L>I would compel him spite of him to learne,</L>
+<L>It were no iest a woman to offend.</L>
+<L>He <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> not now the grie<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">e that makes her smart:</L>
+<L>But I know what would touch him to the heart.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Iul.</SPEAKER>
+<LG>
+<L>What force, what wit, can <HI>Antony</HI> compell,</L>
+<L>Now to forgoe his late ill-placed loue?</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Syl.</SPEAKER>
+<LG>
+<L>One nayle you see another will expel,</L>
+<L>When nothing els can force the same to mooue.</L>
+<L><PB REF="19">Should lie that swims in streames of sweet content,</L>
+<L>Make his delight the agent of my paine?</L>
+<L>No, no, <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">e rather were a president,</L>
+<L>How to <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> him with the like againe.</L>
+<L>Had I bin toucht with <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> of inward greefe,</L>
+<L>When such like chances had be-fallen me,</L>
+<L>Or at their leisure hoped for reliefe,</L>
+<L>When I my selfe, mought best my selfe set free:</L>
+<L>I had bin dead for many yeares agoe,</L>
+<L>Or must haue liued in endlesse misery,</L>
+<L>But I take order not to perish so,</L>
+<L>He shall c<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">re little, that cares lesse then I.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Cam.</SPEAKER>
+<LG>
+<L>But doth not <HI>Syluia</HI> blush to disanull,</L>
+<L>Hir owne good name, hir faith, and constancie:</L>
+<L>Doth not she feare, the wrath of heauen to pull</L>
+<L>Vpon hir head, for such impietie?</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Syl.</SPEAKER>
+<LG>
+<L>The wrath of heauen, why no, the heauens are iust,</L>
+<L>And Iustice yeeldes a man his due desert:</L>
+<L>Then sithe I do no iniurie, I trust</L>
+<L>Not I, but he, for both our faults shall smart.</L>
+<L>And for my faithe and constancie, no doubt</L>
+<L>Ile deale for that as well as others shall:</L>
+<L>But tis most strange to see you go about,</L>
+<L>To praise the thing that workes all womens fall.</L>
+<L>Why constancie is that which marreth all.</L>
+<L>A weake conceipt which cannot wrongs resist,</L>
+<L>A chaine it is which bindes our selues in t<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">rall,</L>
+<L>And giues men scope to vse vs as they list,</L>
+<L>For when they know that you will constant bide,</L>
+<L><PB REF="19">Small is their care, how often they do slide.</L>
+<L>O if you would but marke the little mappe</L>
+<L>Of my poore world, how in times swift careere</L>
+<L>I manage fortune, and with wit entrap</L>
+<L>A thousand such as hould these courses deare;</L>
+<L>Then would you say you want the arte of loue,</L>
+<L>For I feare nothing lesse then such relaps,</L>
+<L>The frowardnesse which I in men approoue,</L>
+<L>Most troubles me for feare of after claps.</L>
+<L>And Lord, you cannot gouerne one alone,</L>
+<L>When I haue many subiect to my beck:</L>
+<L>I alwayes pleasant, you still making mone,</L>
+<L>You full of feare, they dread my frowning check.</L>
+<L>Nor do I maruaile, for this vnion breedes</L>
+<L>A loathing sure, by nature vnto things:</L>
+<L>And constancie the minde with quiet feedes,</L>
+<L>And setled quiet soone corruption brings.</L>
+<L>Thus first we loathe, and then we straight waies hate,</L>
+<L>When to one obiect we entend our minde:</L>
+<L>But I with choice do still renew the state,</L>
+<L>Of fainting loue, and still new pleasures finde.</L>
+<L>Looke how a Bee amongst the verdant fields,</L>
+<L>From diuers flowers extracts the pleasant thyme,</L>
+<L>Which well compounded, one sweet matter yeelds:</L>
+<L>So do I spend my pleasure-tasting time.</L>
+<L>I seeke not graines of gould in barraine ground,</L>
+<L>Nor hope for fruite, when haruest is once past:</L>
+<L>I like not where affection is not found,</L>
+<L>If any fall, I flye from him as fast.</L>
+<L><PB REF="20">And surely who will taste the sweet of loue,</L>
+<L>Must not be tyed vnto one poore conceipt:</L>
+<L>One cannot worke or halfe his practise prooue,</L>
+<L>Vpon one minde which will be dulled straight.</L>
+<L>But there must be an emulation plac'd,</L>
+<L>Mongst fauourites as spur of swift desire:</L>
+<L>By letting one still see another grac'd,</L>
+<L>As though the on's deserts did so require.</L>
+<L>Two at a time I seldome entertaine,</L>
+<L>Nor one alone, but alwaies if I might,</L>
+<L>Whiles any one to court me I detaine,</L>
+<L>Some other of the crew should be in sight:</L>
+<L>Who mought behold, how frankly I bestow,</L>
+<L>Both smiles; and fauours, where it pleased me;</L>
+<L>They thinking this from his deserts to grow,</L>
+<L>Will striue for to deserue as well as he.</L>
+<L>Thus I abound with store of proferred loue,</L>
+<L>With vowed faith, with presents and what not:</L>
+<L>When in the end one fortune all must prooue,</L>
+<L>And all these fauours must be cleane forgot.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Cam.</SPEAKER>
+<LG>
+<L>But will not all thy seruants thee forsake,</L>
+<L>To see a ryuall such high fauour gaine?</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Syl.</SPEAKER>
+<LG>
+<L>If any iealious foole a surfe<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">te take,</L>
+<L>Then thus with arte I bring him on amaine.</L>
+<L>Some extraordinary fauour falles</L>
+<L>On him vnwares, which may new fire his minde:</L>
+<L>Or els some trusty agent him recalles,</L>
+<L>In secret manner thereunto assign'd;</L>
+<L>Who tels him (as of friendship) I admire</L>
+<L><PB REF="20">His discontent, and my vnkindnesse blame;</L>
+<L>How I doe oftentimes of him enquire,</L>
+<L>And still a sigh awaites vpon his name.</L>
+<L>This way I seldon faile, till at the last,</L>
+<L>In follies lap affection hath him lull'd.</L>
+<L>From whence with fresh desire he flyes as fast,</L>
+<L>As if (poore foole) his wings had nere been pull'd.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Iul.</SPEAKER>
+<LG>
+<L>But sith thy minde can neuer be so free,</L>
+<L>But that affection will on thee lay holde:</L>
+<L>That being partiall, me thinkes should be</L>
+<L>A cause, that others loue would soone waxe cold.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Syl.</SPEAKER>
+<LG>
+<L>Affection, no, I know not such a thought,</L>
+<L>That were a way to make my selfe a slaue;</L>
+<L>I hate subiection and will ne<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">e be brought,</L>
+<L>What now I giue, at others hands to craue.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Iul,</SPEAKER>
+<LG>
+<L>But yet I know some one aboue the rest</L>
+<L>Is most belou'd, but that you list to iest.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Syl.</SPEAKER>
+<LG>
+<L>I loue one most? I fauour, loue, and grace,</L>
+<L>Most euery one, whiles he in presence is:</L>
+<L>But being gone, looke who comes next in place,</L>
+<L>He's next my heart, my course is alwaies this.</L>
+<L>And if that any chance to fall away,</L>
+<L>Shall losse of him thus vexe me at the heart?</L>
+<L>No griefe, I neuer meane to be thy pray,</L>
+<L>My care and he together shall depart.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Cam.</SPEAKER>
+<LG>
+<L>Of straying, falling, and I wot not what,</L>
+<L>So many words hath <HI>Syluia</HI> spent in vaine:</L>
+<L>That time, and truth, and purpose are forgot,</L>
+<L>To <HI>Antony</HI> let vs returne againe.</L>
+<L><PB REF="21">We speake not of thy sutors, we complaine</L>
+<L>Of his vntruth, that second vnto none,</L>
+<L>In faithlesnes: of duety should remaine,</L>
+<L>For euer constant vnto one alone.</L>
+<L>Of his vntruth, who hath his honor stain'd,</L>
+<L>By base defiling of his mariage bed:</L>
+<L>Who being vowed, and by oath detain'd,</L>
+<L>Is false for sworne, seduc'd and fondly fled.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Syl.</SPEAKER>
+<LG>
+<L>Why all is one, no wedlocke can compell,</L>
+<L>No law, no feare, no reason can constraine</L>
+<L>Our mindes, whiles we in natures castels dwell,</L>
+<L>The pleasing course of nature to refraine.</L>
+<L>Nature it selfe dooth most delight in change,</L>
+<L>The heauens, by motion do their musicke make:</L>
+<L>Their lights by diuers waies and courses raunge;</L>
+<L>And some of them new formes doe alwaies take.</L>
+<L>Their working power is neuer alwaies one,</L>
+<L>And <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> it selfe least constant is of all:</L>
+<L>This earth we see and all that liues thereon,</L>
+<L>Without new change, into destruction fall.</L>
+<L>Nay what is more, the life of all these things,</L>
+<L>Their essence, and perfection, doth consist</L>
+<L>In this same change, which to all creatures brings</L>
+<L>That pleasure, which in life may not be mist.</L>
+<L>Sith then all creatures are so highly blest,</L>
+<L>To taste the sweet of life in often change:</L>
+<L>If we which are the princes of the rest,</L>
+<L>Should want the same me thinks t'were very strange.</L>
+<L>For proofe heereof, I need not to vn<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">old:</L>
+<L><PB REF="21">Such farre fetcht secrets, scence will make it plaine.</L>
+<L>What pleasure hath the eye, when you beholde</L>
+<L>One onely obiect: is't not rather paine?</L>
+<L>What sweet delight doth charme the listning eare,</L>
+<L>When onely one tune it doth apprehend?</L>
+<L>In taste and smell, like loathing doth appeare,</L>
+<L>Whose euidence, no wit can reprehend.</L>
+<L>Since nature then hath framed for the eye,</L>
+<L>Such sundrie coulors to delight the same;</L>
+<L>And for the eare such strange variety,</L>
+<L>Of sweetest tunes, which doe our musicke frame;</L>
+<L>Such diuers meates, to please the dainty taste;</L>
+<L>So many sauours to delight that sence;</L>
+<L>Each other part, with diuers pleasures grac'd;</L>
+<L>Least want of change mought haply breed offence.</L>
+<L>What, shall the heart the master of the rest,</L>
+<L>Be more restrain'd then any sauage beast?</L>
+<L>Shall not the heart, on whom all those depend,</L>
+<L>Haue greater scope then any of them all,</L>
+<L>To taste the pleasure of each pleasing friend?</L>
+<L>Faith mine hath had, and so it euer shall.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Cam.</SPEAKER>
+<LG>
+<L>Peace wicked woman, nay foule monster peace</L>
+<L>Whose very steps defile the guiltlesse earth:</L>
+<L>Staine of thy sexe, thy poisoned speech surcease,</L>
+<L>That hath from sinne, and wickednes, his birth.</L>
+<L>Is't not too much to glory in thy sinne,</L>
+<L>Leawd creature, that hast ouer-liu'd all shame?</L>
+<L>Imbouldning others to persist therein,</L>
+<L>When thou thy selfe shouldst shun and fly the same;</L>
+<L><PB REF="22">But thou must make the heauens a president,</L>
+<L>For thy misdeedes, which on thy head will power,</L>
+<L>Eternall vengeance, vnlesse thou repent,</L>
+<L>And stay the force of mischiefes dreadfull shower.</L>
+<L>These moouing thinges are constant in their kinde,</L>
+<L>Vnto the end for which they were ordain'd:</L>
+<L>Not mutable like thy vngodly minde,</L>
+<L>Whose very thoughts with wickednes are stain'd.</L>
+<L>Our scences their peculiar obiects haue,</L>
+<L>Whose store, and number, doth vnto vs shew,</L>
+<L>How reuerently we should our selues behaue,</L>
+<L>To'ards him whose bounty did the same bestow.</L>
+<L>O Chastity bright vertues sacred flame,</L>
+<L>Be neuer woman louely wanting thee.</L>
+<L>Be neuer woman wrong'd adorn'd with thee.</L>
+<L>Be all disgrac'd that merit not thy name.</L>
+<L>Come <HI>Iulia,</HI> we haue taried heere too long.</L>
+<L><HI>Sy<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">uia</HI> adiew in faith I wish thee well,</L>
+<L>No honest minde I thinke will doe thee wrong.</L>
+<L>T'is punishment enough to hang in hell.</L>
+</LG>
+</SP>
+<DIV3 TYPE="chorus">
+<HEAD>Chorus.</HEAD>
+<LG>
+<L>GReat guide of this same golden flame,</L>
+<L>Which daies and times deutdeth.</L>
+<L>Whose beauty euer is the same,</L>
+<L>And alwaies one abideth.</L>
+<L>Why hast thou such a monster made&punc;</L>
+<L>which alwaies thus rebelleth:</L>
+<L><PB REF="22">And with new torments doth inuade,</L>
+<L>The heart wherein it dwelleth.</L>
+<L>Affection is the sauage beast,</L>
+<L>Which alwaies vs annoyeth:</L>
+<L>And neuer lets vs liue in rest,</L>
+<L>But still our good destroyeth.</L>
+</LG>
+<LG>
+<L>Affections power who can suppresse</L>
+<L>And master when it sinneth:</L>
+<L>Of worthy praise deserues no lesse,</L>
+<L>Then he that kingdomes winneth.</L>
+<L>Were <HI>Antony</HI> a Prince indeede,</L>
+<L>That base affection scorned:</L>
+<L>Him to bemone we should not need,</L>
+<L>With vitious life deformed.</L>
+<L>But this seducing vertues foe,</L>
+<L>In whom all pleasure shineth:</L>
+<L>Doth all our scences ouerthrow,</L>
+<L>and reason vndermineth.</L>
+</LG>
+<LG>
+<L>Who doth not ioy, when from his necke,</L>
+<L>The yoake of bondage slideth:</L>
+<L>And wish to liue without the check,</L>
+<L>Of him that others guideth?</L>
+<L>Yet what more hard, then to obserue,</L>
+<L>In such licentious pleasure:</L>
+<L>The golden meane, which doth not swarue,</L>
+<L>From sacred vertues measure:</L>
+<L>Who know, and see, the way of sinne</L>
+<L><PB REF="23">Beset with dangers many:</L>
+<L>Yet still persist and walke therein,</L>
+<L>As negligent as any.</L>
+</LG>
+<LG>
+<L>The minde with deepest wisedome fraught,</L>
+<L>That mischiefes hand escheweth:</L>
+<L>And enuies craft doth bring to naught,</L>
+<L>Affections force subdueth.</L>
+<L>The haughty heart with courage bolde,</L>
+<L>That deaths pale face despiseth:</L>
+<L>The Prince which scornes to be contrould;</L>
+<L>Affections power surprizeth.</L>
+<L>And hauing made it selfe a king,</L>
+<L>Our minde with errour feedeth:</L>
+<L>Till we our selues effect the thing,</L>
+<L>Which our destruction breedeth.</L>
+</LG>
+<LG>
+<L>The path of errour, is so grac'd,</L>
+<L>With sweetest seeming pleasures:</L>
+<L>As if delight had therein plac'd,</L>
+<L>The store house of her treasures.</L>
+<L>But who to prooue the same are bent,</L>
+<L>In sinfull maze encluded:</L>
+<L>In vaine at last will sure repent,</L>
+<L>with shamefull end deluded.</L>
+<L>Where vertues little beaten wayes,</L>
+<L>with diuers troubles cumbred:</L>
+<L>Direct our steps, vnto true <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">oyes,</L>
+<L>Amongst the Ange<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">s numb<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">ed.</L>
+</LG>
+</DIV3>
+</DIV2>
+<DIV2 N="3" TYPE="act">
+<PB REF="23">
+<HEAD>Actus tertius.</HEAD>
+<LIST>
+<ITEM>Octauia.</ITEM>
+<ITEM>Caesar.</ITEM>
+</LIST>
+<LG>
+<L>OFearce desire, the spring of sighes and teares,</L>
+<L>Relieu'd with want, impouerisht with store,</L>
+<L>Nurst with vaine hopes, and sed with doubtful feares,</L>
+<L>Whose force withstood, encreaseth more and more.</L>
+<L>How doth thy pride thus torture my poore heart,</L>
+<L>Whiles I for bodies shadowes entertaine:</L>
+<L>And in the haruest of most high desert,</L>
+<L>Do reape no fruite, but scorne and deep disdaine.</L>
+<L>No fearce <HI>Hyrcanian</HI> forrest doth possesse,</L>
+<L>So wilde a <HI>Tyger,</HI> nor no <HI>Libian</HI> coaste,</L>
+<L>Hath euer knowne a greedy Lyonesse,</L>
+<L>Rob'd of the pray which she affected most,</L>
+<L>So beyond measure full of furious Ire,</L>
+<L>As is the minde rob'd of his chiefe desire.</L>
+<L>O destinies, that draw the golden twine,</L>
+<L>Which doth conduct the neuer-tyred poste,</L>
+<L>Why haue you lest vnclos'd these eyes of mine,</L>
+<L>To see the field of all mine honor lost?</L>
+<L>In vaine I sought a whyle, to cure the wound</L>
+<L>With balme of hope, drawne from a constant minde,</L>
+<L>But now the truth is manyfestly found:</L>
+<L>I heare, I see, I know, I feele, I finde,</L>
+<L>The shamefull wronge, the scorne and high disdaine</L>
+<L><PB REF="24">Which faithlesse he most falsly dooth pretend,</L>
+<L>To power on me whiles from dispaire in vaine,</L>
+<L>With constant hope, my weaknesse I defend,</L>
+<L>O torment, worse then deaths most bitter gall:</L>
+<L>Worse then is found in that infernall place;</L>
+<L>To see another glory in my fall;</L>
+<L>To see another proud with my disgrace.</L>
+<L>Why doost thou stay, distrest <HI>Octau<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">a</HI> dye.</L>
+<L>Dead to all ioyes let death thy torments end,</L>
+<L>Who gaue thee life, the same doth now deny:</L>
+<L>And to another his affection bend.</L>
+<L>Another dooth thy interest enioy:</L>
+<L>And yet thou liuest, and yet thou doost delay,</L>
+<L>To calme with death the tempest of annoye,</L>
+<L>When to disgrace <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> dooth thee betray.</L>
+<L>Dye dead <HI>Octauia.</HI> What? and basely dye?</L>
+<L>Shall I sit downe and ye<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">ld my selfe to shame?</L>
+<L>Shall I content my selfe with wronges? not<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">.</L>
+<L>Reuenge <HI>Octauia,</HI> or thou art too blame.</L>
+<L>Dye neuer vnreueng'd of such a wrong.</L>
+<L>My power is such that I may well preuaile.</L>
+<L>And rather then I will endure it long,</L>
+<L>With fier and sword I will you both assaile.</L>
+<L>My nature doth abhorre to be thus vsed,</L>
+<L>My heart doth scorne such monstrous iniurie:</L>
+<L>My birth, my state, disdaine to be abused,</L>
+<L>And I will deeply score thy periurie.</L>
+<L>Then greefe giue place a <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> vnto disdaine.</L>
+<L>Mylde pittie, make thee wings and flye away:</L>
+<L><PB REF="24">And death, withdraw thy hastie hand againe,</L>
+<L>Whiles with aduantage I their debts repay.</L>
+<L>How now <HI>Octauia,</HI> whither wilt thou flye?</L>
+<L>Not what thou maist, but do thou what is iust:</L>
+<L>Shall these same hands attempt impietie?</L>
+<L>I may, I can, I will, I ought, I must,</L>
+<L>Reuenge this high disgrace, this <HI>Caesar</HI> will,</L>
+<L>Byrthe, nature, reason, all require the same.</L>
+<L>Yet vertue will not haue me to do ill.</L>
+<L>Yeeld, all things yeeld, to vertues sacred name.</L>
+<L>Howthen? euen thus, with patience make thee strong,</L>
+<L>The heauens are iust, let them reuenge thy wrong.</L>
+<L>Cruell to me, selfe-wronging <HI>Antony,</HI></L>
+<L>Thy follie shall not make <HI>Octauia</HI> sinne:</L>
+<L>Ile be as true in vertuous constancie,</L>
+<L>As thou art false and infamous therein.</L>
+<L>Ile be as famous for a vertuous wife,</L>
+<L>As thou notorious for so leawd a life.</L>
+</LG>
+<SP>
+<SPEAKER>Caesar.</SPEAKER>
+<LG>
+<L>As is a sweet pearle dropping siluer showre,</L>
+<L>Which some milde cloud down from the shadie skies</L>
+<L>Vpon the parched flowrie fields dooth power:</L>
+<L>Such is <HI>Octauiaes</HI> sight to <HI>Caesars</HI> eyes.</L>
+<L>Hath <HI><GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">asons</HI> trauaile gaind the goulden fleece,</L>
+<L>Or hath <HI>Octauia</HI> faild of hir entent?</L>
+<L>Is <HI>Antony</HI> within the bounds of <HI>Greece,</HI></L>
+<L>Or dooth he stay at <HI>Blanckbourg</HI> malecontent?</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Oct.</SPEAKER>
+<LG>
+<L>O <HI>Caesar,</HI> how my now distracted minde</L>
+<L>Vnites it selfe to render worthy thanks:</L>
+<L>But woe is me, no way, no meanes I finde,</L>
+<L><PB REF="25">No hope to hide <HI>Antonius</HI> lustful prankes.</L>
+<L>I him besought, by all that words might say,</L>
+<L>By this same ring that knit the <HI>Gord a<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"></HI> knot:</L>
+<L>By all the rights past on our wedding day,</L>
+<L>But all in vaine, for all is now forgot.</L>
+<L>Looke how some proude hard harted mighty rocke,</L>
+<L>Which makes the sea a mirrour for his face,</L>
+<L>Repell's the waters with a churlish stroake,</L>
+<L>Which mildely striue his body to imbrace:</L>
+<L>So his indurate minde reiects my words,</L>
+<L>And rudely makes me and my hopes forlorne,</L>
+<L>His flinty heart naught but repulse affoords,</L>
+<L>And my deserts returne me naught but scorne.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Caesar.</SPEAKER>
+<LG>
+<L>Were not <HI>Octauia</HI> precious in my sight,</L>
+<L>Whose will withstood what I did most desire:</L>
+<L>The bloudy lynes had not been now to wrighte,</L>
+<L>Of such reuenge as his leawd deeds require.</L>
+<L>But worthy branch of braue <HI>Octauius</HI> lyne,</L>
+<L>In <HI>Caesars</HI> thoughts liue and predominate:</L>
+<L>Yours is my kingdome and what els is mine,</L>
+<L>My selfe&punc; my scepter and my royal state.</L>
+<L>Then sith I euer graunted your request,</L>
+<L>And let you prooue al meanes his loue to winne:</L>
+<L>Since you and we in vaine haue done our best,</L>
+<L>To stay his foote out of the sincke of sinne;</L>
+<L>Now for my sake, if I may ought preuaile,</L>
+<L>For dead <HI>Octauius</HI> neuer stained worth:</L>
+<L>For deare <HI>Anchariaes</HI> loue, and your auaile,</L>
+<L>Excuse no more his faithlesnesse hencefoorth,</L>
+<L><PB REF="25">Yeeld but to this, liue heere and banish care,</L>
+<L>Forget his name that traytor-like is fled:</L>
+<L>Liue like a Queene, remember who you are,</L>
+<L>And let me rouse him from his Lemmans bed.</L>
+<L>Leaue you this house of his, and what is his,</L>
+<L>Stand of your selfe since he entends your fall:</L>
+<L>Dishonor not your name with others misse,</L>
+<L>If loue cannot recall him terror shall.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Oct.</SPEAKER>
+<LG>
+<L>Dishonor not my name! O <HI>Caesar</HI> no,</L>
+<L>My miserie is not of that degree:</L>
+<L>Wrought by my follie or forc'd by my foe,</L>
+<L>Which mought attribute that disgrace to me.</L>
+<L>Tis paine, and greefe, to beare and suffer wrong,</L>
+<L>But shame and sinne to him that dooth the same:</L>
+<L>True patience can mildly suffer long,</L>
+<L>Where rage and furie do our liues defame.</L>
+<L>Tis fortitude which scornes the force of wrong,</L>
+<L>And temperance not to be moou'd withall:</L>
+<L>Tis constancie makes vs continue strong,</L>
+<L>And wisdoms worke to free our selues from thrall.</L>
+<L>But I am wrong'd you say, and tis base feare.</L>
+<L>Without reuenge to suffer iniurie:</L>
+<L>Its cowardize vnworthy wrongs to beare,</L>
+<L>And madnesse to giue way to trecherie,</L>
+<L>Well then, reuenge, but what? <HI>Octauiaes</HI> wrong,</L>
+<L>Of whom? of <HI>Antony.</HI> And who is he?</L>
+<L>Ah my deere Lord, that will returne ere long,</L>
+<L>And hate his fall, and be most true to me.</L>
+<L>If not, Ile then reuenge, but how? with death?</L>
+<L><PB REF="26">He is my selfe, his greefe procures my paine.</L>
+<L>With spoile and losse? O no that were not good,</L>
+<L>By certaine losse to hope for doubtfull gaine.</L>
+<L>How then <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> be false as he is most vntrue.</L>
+<L>One wound doth not an others balme procure.</L>
+<L>Flame is not quencht with flame, but both renue,</L>
+<L>A double force not easie to endure.</L>
+<L>Whence springs reuenge? from malice and disdaine:</L>
+<L>Then speake not of it, for it is in vaine.</L>
+<L>Earth'open first thine vndeuided Iawes,</L>
+<L>And swallow me in thine infernall wombe:</L>
+<L>Eare willingly I swarue from vertues lawes,</L>
+<L>Truthe my loues childbed was, truthe be his tombe.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Caef.</SPEAKER>
+<LG>
+<L>Were <HI>Antony</HI> as loyall in his loue,</L>
+<L>As he is false forsworne, and fondly bent:</L>
+<L>Then would I thinke it reason to approoue,</L>
+<L>And highly praise your vertuous entent.</L>
+<L>But sith he willingly doth you forsake,</L>
+<L>And wilfully persistes to do vs wrong:</L>
+<L>High honor dooth require our swords to take,</L>
+<L>Most iust reuenge, which we may not prolong.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Oct.</SPEAKER>
+<LG>
+<L>His falshood dooth not malice raise in me,</L>
+<L>But rather shewes how fraile mans nature is:</L>
+<L>An argument which bids me carefull be,</L>
+<L>Least I my selfe should like wise do amisse.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Caes.</SPEAKER>
+<LG>
+<L>Can my perswasions then no wh<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">t preuaile?</L>
+<L>Can my request no thought of yeelding finde?</L>
+<L>Can you esteeme of him whose truth dooth faile?</L>
+<L>There are few women of <HI>Octauiaes</HI> minde.</L>
+</LG>
+</SP>
+<SP>
+<PB REF="26">
+<SPEAKER>Octa.</SPEAKER>
+<LG>
+<L>Too few I grant, and therefore am I such,</L>
+<L>And though alone, yet will perseuer still:</L>
+<L>We imitate the multitude too much,</L>
+<L>Most do, as do the most, and most do ill.</L>
+<L>The number of the vertuous is so small,</L>
+<L>That few delight to tread that loanely way:</L>
+<L>But wisdomes heires are iealious of their fall;</L>
+<L>And thinke it shamefull all should goe astray.</L>
+<L>A vertuous act seemes strange in some mens sight,</L>
+<L>Because they seldome saw the like before,</L>
+<L>But noble mindes are carefull of the right,</L>
+<L>And others errors make them feare the more.</L>
+<L>How sencelesly we sleepe in follies bedde,</L>
+<L>How few there are indeed, how all would seeme</L>
+<L>Wife, honest, iust, how fondly are we led,</L>
+<L>To vse that least which we do most esteeme?</L>
+<L>Then ought a prince to feare much more then any:</L>
+<L>Least his fault be a president to many.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Caes.</SPEAKER>
+<P>And is it vertue then to be misused?</P>
+</SP>
+<SP>
+<SPEAKER>Octa.</SPEAKER>
+<P>To giue no cause why we should be abused.</P>
+</SP>
+<SP>
+<SPEAKER>Caes.</SPEAKER>
+<P>Do but consent, Ile act and beare the blame.</P>
+</SP>
+<SP>
+<SPEAKER>Octa.</SPEAKER>
+<P>To giue consent to sinne, is sinne &amp; shame.</P>
+</SP>
+<SP>
+<SPEAKER>Caes.</SPEAKER>
+<P>And is it sinne to punish leawdnesse then?</P>
+</SP>
+<SP>
+<SPEAKER>Octa.</SPEAKER>
+<P>Sinne to exulte vpon repentant men.</P>
+</SP>
+<SP>
+<SPEAKER>Caes.</SPEAKER>
+<P>But he persists in hatefull trecherie.</P>
+</SP>
+<SP>
+<SPEAKER>Oct.</SPEAKER>
+<P>True loue may spring from pardoned iniurie.</P>
+</SP>
+<SP>
+<SPEAKER>Cae.</SPEAKER>
+<P>How may they loue, who~ worlds of distance part?</P>
+</SP>
+<SP>
+<SPEAKER>Octa.</SPEAKER>
+<P>He is not far thats lodg'd within the heart.</P>
+</SP>
+<SP>
+<SPEAKER>Cae.</SPEAKER>
+<P>But time, and absence, will consume all loue.</P>
+</SP>
+<SP>
+<PB REF="27">
+<SPEAKER>Oct.</SPEAKER>
+<P>Soner the hart, which doth those passions proue.</P>
+</SP>
+<SP>
+<SPEAKER>Caes.</SPEAKER>
+<P>Not so, no mortall darte neare loue is found.</P>
+</SP>
+<SP>
+<SPEAKER>Oct.</SPEAKER>
+<P>But we are mortall which endure the wound.</P>
+</SP>
+<SP>
+<SPEAKER>Caes.</SPEAKER>
+<P>Yet leaue this house, if not his loue deny.</P>
+</SP>
+<SP>
+<SPEAKER>Oct.</SPEAKER>
+<P>First let this soule out of his lodging flye.</P>
+</SP>
+<SP>
+<SPEAKER>Caes.</SPEAKER>
+<LG>
+<L>Can nature then no priuiledge obtaine?</L>
+<L>Are his deserts in such aboundant store?</L>
+<L>Must all I do be fruitlesse and in vaine?</L>
+<L><HI>Antonius</HI> be your guide, I say no more.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Oct.</SPEAKER>
+<LG>
+<L>If that my words so much offend your minde,</L>
+<L>O silent death, thou my best refuge art:</L>
+<L>O breake my heart, for <HI>Caesar</HI> is vnkinde,</L>
+<L>In silent greefe, O breake my wounded heart.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Caes.</SPEAKER>
+<LG>
+<L>What in a traunce? O sister, sister deare,</L>
+<L>Light of my life, deare modell of my soule:</L>
+<L>Hurt not your selfe, O banish needlesse feare,</L>
+<L>Woe, woe, to me, that did you thus controule:</L>
+<L>O deare <HI>Octauia,</HI> I spake but to prooue,</L>
+<L>How farre your thoughts were bent with iealousie;</L>
+<L>To see if malice had exilde your loue,</L>
+<L>To finde how you esteemed of <HI>Antony.</HI></L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Oct.</SPEAKER>
+<LG>
+<L>O <HI>Caesar</HI> more belou'd then these same eyes,</L>
+<L>More then the light which glads my tired life:</L>
+<L>Do not my truly louing minde despise,</L>
+<L>Kill not my heart with this your factious strife.</L>
+<L>Alasse tis not his house that I respect,</L>
+<L>His wealth, or trypartite high regiment:</L>
+<L>I would the worlds great treasurie neglect,</L>
+<L>Rather then hazard <HI>Caesars</HI> discontent.</L>
+<L><PB REF="27">Tis not affection that enchaines my minde,</L>
+<L>Or partiall loue that makes my faith so strong:</L>
+<L>Too well alasse my selfe abusde I finde,</L>
+<L>And this my hart too sensible of wrong.</L>
+<L>And what is worse, this wrong so full of scorne,</L>
+<L>As mought incense the mildest minde aliue:</L>
+<L>To see my Lord a gracelesse Queene suborne;</L>
+<L>And my dishonour carelesly contriue.</L>
+<L>Nay worse then that, if worse then that may be,</L>
+<L>No creature euer felt the like disgrace:</L>
+<L>Each wronged wight may hope for remedie,</L>
+<L>My shamefull storie nothing may deface.</L>
+<L>For if my Lord would cure this wound againe:</L>
+<L>Yet woe is me, the scarre will still remaine.</L>
+<L>In these respects, perhaps I could be brought,</L>
+<L>To strike reuenge as deepe as any could:</L>
+<L>I want no meanes whereby it mought be wrought,</L>
+<L>For many thousands wish it if I would.</L>
+<L>And what is more, my selfe can scarcely let:</L>
+<L>But <HI>Caesars</HI> sworde for me would pay the debt.</L>
+<L>But when I finde in closet of my heart,</L>
+<L>How I haue paun'd my faith to <HI>Antony,</HI></L>
+<L>How I haue vow'd that nought but death should part</L>
+<L>From him my loue, and my fidelitie.</L>
+<L>When that I see the vulgar peoples eyes,</L>
+<L>Make my designes the patterne of their deeds:</L>
+<L>How with my thoughts they striue to simpathize,</L>
+<L>And how my misse their certaine errour breedes.</L>
+<L>When that I finde how my departure were,</L>
+<L><PB REF="28">The opening of a gate to cruill warres:</L>
+<L>Then <HI>Atlas</HI>-like I am constrain'd to beare,</L>
+<L>A hated hell though not the happie starres.</L>
+<L>Ile rather dye then witnesse with these eyes,</L>
+<L>In mortall wounds and bloudie lines enrowled,</L>
+<L>The argument of my calamities,</L>
+<L>Whom proud mischance, vniustly thus controwled.</L>
+<L>Shall neuer two such noble Emperours,</L>
+<L>Their dearest liues aduenture for my sake:</L>
+<L>Shall neuer for my sake such mightie powers,</L>
+<L>The doubtfull chaunce of battle vndertake.</L>
+<L>Shall neuer tongue recount <HI>Octauiaes</HI> errour,</L>
+<L>An instance of his faithlesse periurie</L>
+<L>Ile rather dye the world vnspotted myrrour,</L>
+<L>And with my faith surmount his iniurie.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Caes.</SPEAKER>
+<LG>
+<L>Well sister, then I see that constancie</L>
+<L>Is sometimes seated in a womans brest:</L>
+<L>Your strange designes euen from your infancie,</L>
+<L>Can neuer without wonder be exprest.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Oct.</SPEAKER>
+<LG>
+<L>I know not what you thinke of woman kinde,</L>
+<L>That they are faithlesse and vnconstant euer:</L>
+<L>For me, I thinke all women striue to finde</L>
+<L>The perfect good, and therein to perseuer.</L>
+<L>Euen as a Torche, or Sulphure poudered light,</L>
+<L>Whiles any nourishment maintaines his flame,</L>
+<L>Fayles not to burne, and burning shineth bright,</L>
+<L>Till a<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">te obscure, or force put out the same:</L>
+<L>Such is the minde in womans brest contained,</L>
+<L>With the true zeale of vertues loue enflam'd,</L>
+<L><PB REF="28">We may be dead, but liuing neuer stained,</L>
+<L>We may be wrongd, but neuer rightly blam'd.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Caes.</SPEAKER>
+<LG>
+<L>Wel, for your selfe proceed as you thinke best:</L>
+<L>Time and the heauens, must see these wrongs redrest.</L>
+</LG>
+</SP>
+<LIST>
+<ITEM>Caesar.</ITEM>
+<ITEM>Titius.</ITEM>
+<ITEM>Plancus.</ITEM>
+</LIST>
+<LG>
+<L>Great peeres that striue with wisdoms sacred fame,</L>
+<L>To ouer liue all humaine memory:</L>
+<L>Shew me, for what entent you hither came,</L>
+<L>What causde you to reuoult from <HI>Antony?</HI></L>
+</LG>
+<SP>
+<SPEAKER>Tit.</SPEAKER>
+<LG>
+<L>By our accesse we nothing else entend,</L>
+<L>But humbly to beseech your maiestie:</L>
+<L>Vnder your gracious fauour to defend,</L>
+<L>Our wronged selues from hatefull iniurie.</L>
+<L>Proud <HI>Cleopatrae,</HI> Aegypts craftie Queene,</L>
+<L>Rules <HI>Antony,</HI> and wrongs she cares not where:</L>
+<L>So insolent hir late attempts haue been,</L>
+<L>As no pride-scorning <HI>Romaine</HI> heart can beare.</L>
+<L>She is become our Queene and gouernour,</L>
+<L>And we whose courage feares the force of no man:</L>
+<L>By seruile basenesse of our Emperour,</L>
+<L>Must be content to stoope vnto a woman.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Caes.</SPEAKER>
+<LG>
+<L>What Angel Queen rules those <HI>Nyleian</HI> coasts,</L>
+<L>Whose beautie can so ouer-rule mens mindes:</L>
+<L>What goddesse can command the man that boasts</L>
+<L>To equall <HI>Iu<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">ius,</HI> in his high designes.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Plan.</SPEAKER>
+<LG>
+<L>If in those guifts, by nature we enioy,</L>
+<L>Vnto <HI>Octauiaes</HI> sacred maiestie,</L>
+<L>Shee be but comparable any way:</L>
+<L><PB REF="29">Be neuer <HI>Romaines</HI> so disgrac'd as we.</L>
+<L>But for hir artificiall ornaments,</L>
+<L>For pompe, for pride, for superfluitie,</L>
+<L>For all excesse that folly represents:</L>
+<L>She doth exceed the height of vanitie.</L>
+<L>Hir sunne-burnt beautie cannot please his sight,</L>
+<L>That hath a minde with any reason fraught:</L>
+<L>But tis hir <HI>Syren</HI> tongue that dooth delight,</L>
+<L>Hir craftie <HI>Cyrces</HI> wit which hath him caught.</L>
+<L>As when from <HI>Athens, Niger</HI> made returne,</L>
+<L>And did relate the Emperesse entent,</L>
+<L>Which he of purpose had in charge to learne:</L>
+<L>And did hir princely guifts to him present.</L>
+<L>And further did with truth discouering words,</L>
+<L><HI>Octauiaes</HI> well deserued praises frame:</L>
+<L>An argument which to that Queene affords,</L>
+<L>A furious blast to raise a Iealious flame.</L>
+<L>Then did she nothing vnattempted leaue,</L>
+<L>That art mought frame, or wit mought well deuiz<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"></L>
+<L>Which mought his minde, of reason quite bereaue:</L>
+<L>And thus she straight began to <HI>Syrenize.</HI></L>
+<L>Shee pines hir body with the want of food,</L>
+<L>That she mought seeme to languish for his sake:</L>
+<L>And by hir gestures would be vnderstood,</L>
+<L>How from his absence she hir death should take.</L>
+<L>Hir deepe lamenting lookes fixt in his face,</L>
+<L>In silent termes present an earnest sute:</L>
+<L>As who should say, O pitty my hard case,</L>
+<L>Whom violence of passion maketh mute.</L>
+<L><PB REF="29">Then would she stand of purpose in his way,</L>
+<L>In any place where he should passage make:</L>
+<L>And there as though vnwilling to bewray,</L>
+<L>What bitter griefe she inwardly did take:</L>
+<L>Downe from her eyes distils a Christall tyde,</L>
+<L>Which at his comming she would dry againe,</L>
+<L>And sodainly would turne her head a side,</L>
+<L>As though vnwilling to reueale her paine,</L>
+<L>Thus in his presence rauished with ioy,</L>
+<L>She smiles, and shewes, what mirth she can deuize&punc;</L>
+<L>But in his absence drowned with annoy,</L>
+<L>She seemes to take her life from those his eyes.</L>
+<L>Then Meeremaid-like his scences she inuades,</L>
+<L>With sweetest nectar of a sugered tongue:</L>
+<L>Vnto her will, she euer him perswades,</L>
+<L>The force of her words witch-craft is so strong.</L>
+<L>Then came the kenell of her flattering crew,</L>
+<L>Who largely paint the story of her death,</L>
+<L>Like feede Atturneys they her sute renue,</L>
+<L>And hunt <HI>Antonius</HI> spirits out of breath.</L>
+<L>Wherewith assayl'd, he like a man enchaunted,</L>
+<L>To make her know she need not to misdoubt him:</L>
+<L>Or like to one with some mad fury haunted,</L>
+<L>Assembleth all the people round about him.</L>
+<L>In that fayre Citty royalliz'd by fame,</L>
+<L>By that great <HI>Macedonian</HI> monarke builded:</L>
+<L>Of whom it tooke beginning, birth and name;</L>
+<L>Where on a high <HI>Tribunall</HI> seate which yeelded,</L>
+<L>A large prospect, were plac'd too chayres of golde;</L>
+<L><PB REF="30">One for himselfe, another for her grace,</L>
+<L>And humbler seates which mought her childre~ hold,</L>
+<L>Of such like mettall, in the selfe same place.</L>
+<L>There he establisht <HI>Cleopatra,</HI> Queene</L>
+<L>Of <HI>Aegipt, Cyprus,</HI> and of <HI>Lidia:</HI></L>
+<L>And that his bounty mought the more beseene,</L>
+<L>He ioyn'd thereto the lower <HI>Syria.</HI></L>
+<L><HI>Caesarion,</HI> heyre apparant to her grace</L>
+<L>Was constituted King of those same lands.</L>
+<L>His owne two sonnes by her were there in place,</L>
+<L>Attended with great troopes of martiall bands.</L>
+<L>These two, the mighty Kings of Kings he called,</L>
+<L>And to the eldest gaue <HI>Armenia,</HI></L>
+<L>The country <HI>Media,</HI> and forthwith enstalled</L>
+<L>Him regent of the Kingdome <HI>Parthia.</HI></L>
+<L>To <HI>Ptol<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">my</HI> he gaue <HI>Phoenicia,</HI></L>
+<L>And all the terrytories there adioyning:</L>
+<L>The vpper <HI>Syria,</HI> and <HI>Cilicia,</HI></L>
+<L>Vnto them both peculiar guards assigning.</L>
+<L>A <HI>Median</HI> gowne the elder of them ware,</L>
+<L>And all th' <HI>Armenian</HI> souldiers so instructed:</L>
+<L>Accomplishing the charge they had before,</L>
+<L>About him came and thence they him conducted.</L>
+<L>In <HI>Macedonian</HI> robes the other stands,</L>
+<L>In distance from his brother little space:</L>
+<L>About him came the <HI>Macedonian</HI> bands,</L>
+<L>And guarded safe his person from the place.</L>
+<L>These things proclaim'd, the trumpets lowdest voice,</L>
+<L>Vnto all peoples eares foorthwith imparted,</L>
+<L><PB REF="30">Whereat some frowne, some murmure, some reioyce,</L>
+<L>Whiles he, with his immortall queene departed.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Caes.</SPEAKER>
+<P>Immortall? why you said she was not such.</P>
+</SP>
+<SP>
+<SPEAKER>Pla.</SPEAKER>
+<P>Not she, but her attyre did claime thus much.</P>
+</SP>
+<SP>
+<SPEAKER>Cae.</SPEAKER>
+<P>Was her attyre so admirable then?</P>
+</SP>
+<SP>
+<SPEAKER>Pla.</SPEAKER>
+<LG>
+<L>Scorning the basenes of vs mortall men.</L>
+<L>Clad like the Goddesse <HI>Isis</HI> she did goe:</L>
+<L>Then what hard heart wold not haue thought her so</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Caes.</SPEAKER>
+<LG>
+<L>When that <HI>Appollodorus</HI> on his backe,</L>
+<L>A flockbed did to <HI>Iulius Caesar</HI> bring:</L>
+<L>With thongs of leather trust vp like a sacke;</L>
+<L>As though there had been need of such a thing,</L>
+<L>Where was the Goddesse when this came to passe?</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Pla.</SPEAKER>
+<P>Shee, noble she, was ryding on her Asse.</P>
+</SP>
+<SP>
+<SPEAKER>Caes.</SPEAKER>
+<LG>
+<L>When <HI>Antony</HI> about the streetes doth runne,</L>
+<L>Listning at each mans window in the night:</L>
+<L>To heare what in the house is said or done,</L>
+<L>And with strainge noyses passengers affright.</L>
+<L>Where is this Goddesse then so highly blest?</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Pla.</SPEAKER>
+<P>She ambles after to laugh at the iest.</P>
+</SP>
+<SP>
+<SPEAKER>Cae</SPEAKER>
+<LG>
+<L>And shal our state maintaine their hateful pride?</L>
+<L>Shall bleeding <HI>Roome</HI> procure their wanton peace?</L>
+<L>Tis time we stould a remedy prouide,</L>
+<L>And their ambition speedily suppresse.</L>
+</LG>
+</SP>
+<DIV3 TYPE="chorus">
+<PB REF="31">
+<HEAD>Chorus.</HEAD>
+<LG>
+<L>WHat guilded baites of sinne,</L>
+<L>Doe still procure our misse:</L>
+<L>And seeke our soules to winne,</L>
+<L>From theyr entended blisse?</L>
+<L>Euen natures selfe doth draw,</L>
+<L>And force vs still to slide:</L>
+<L>And violate the law,</L>
+<L>Which reason makes our guide.</L>
+<L>Of pleasures we alowe,</L>
+<L>Which doe our thraldom bring:</L>
+<L>When starueling vertue now,</L>
+<L>Is scarcely iudg'd a thing;</L>
+<L>The one a poore conceipt, the other proou'd a King.</L>
+</LG>
+<LG>
+<L>If that it be so sweete,</L>
+<L>To tread the path of sinne:</L>
+<L>And so exceeding meete,</L>
+<L>We should not walke therein;</L>
+<L>O nature most vnkinde,</L>
+<L>That prooues weake reasons foe:</L>
+<L>O reason too too blinde,</L>
+<L>That crosseth nature so.</L>
+<L>Three mal-seducing foes,</L>
+<L>Conduct false errours traine:</L>
+<L>Misleading most of those,</L>
+<L><PB REF="31">Which vertues praise would gaine.</L>
+<L>Whose force vnlesse we foyle, we labour all in vaine.</L>
+</LG>
+<LG>
+<L>Th'examples of the most,</L>
+<L>Which most doe take least care,</L>
+<L>To anchore on the coaste,</L>
+<L>Where sacred vertues are.</L>
+<L>Sweete Syrenyzing tongues,</L>
+<L>In flattery most expert:</L>
+<L>Whose ill perswading songes,</L>
+<L>Our scences doe peruert.</L>
+<L>And mens iniurious deeds,</L>
+<L>Doe cause vs to digresse:</L>
+<L>Our errour fury breedes,</L>
+<L>When wronges our mindes oppresse.</L>
+<L>These treason working mates, still worke our great distresse.</L>
+</LG>
+<LG>
+<L>Examples make vs bolde.</L>
+<L>To tread the doubtfull way,</L>
+<L>Which we before were tolde,</L>
+<L>Would lead vs quite a stray.</L>
+<L>Perswations kindly mooue,</L>
+<L>And winne vs to dpe ill:</L>
+<L>Whose poyson when we prooue,</L>
+<L>We poysoned, loue it still.</L>
+<L>But iniury more strong,</L>
+<L>Doth fiercely vs incite:</L>
+<L>By suffring to doe wronge,</L>
+<L>Forgetfull of the right,</L>
+<L><PB REF="32">All these thrice vertuous Queene, assaile thee with their might.</L>
+</LG>
+<LG>
+<L>Who can vile deedes despise,</L>
+<L>And flattering tongues neclect:</L>
+<L>With malice temporize,</L>
+<L>As wisedome doth direct.</L>
+<L>Giue him the lawrell crowne,</L>
+<L>Triumphant victors weare:</L>
+<L>The tytles of renowne,</L>
+<L>Which vertues monarkes beare.</L>
+<L>And thou most glorious queene,</L>
+<L>These traytor foes repell:</L>
+<L>That vertue may be seene,</L>
+<L>In that your sexe to dwell.</L>
+<L>And brauely vaunt thy worth where he most basely fel.</L>
+</LG>
+</DIV3>
+</DIV2>
+<DIV2 N="4" TYPE="act">
+<HEAD>Actus quartus.</HEAD>
+<LIST>
+<ITEM>Octauia.</ITEM>
+<ITEM>Mecoenas.</ITEM>
+<ITEM>Agrippa.</ITEM>
+<ITEM>Caesar.</ITEM>
+</LIST>
+<LG>
+<L>YOu haughty Lords, that bury death and fate,</L>
+<L>In liuing monuments of lo<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">ty fame:</L>
+<L>Whose worthy praise doth claime the boundles date,</L>
+<L>wherewith eternity doth blaze her name.</L>
+<L>Gainst whom raise y<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">u these forces in such haste?</L>
+<L>Gainst whom lead you this danger threatning power?</L>
+<L>Doth hatefull <HI>Hanniball</HI> your confines waste?</L>
+<L><PB REF="32">Or <HI>Brennus</HI> sword your liues seeke to deuoure:</L>
+<L>No no my Lords, this your concea'ld designe,</L>
+<L>Resounding <HI>Echoes</HI> of most strange debate:</L>
+<L>With tragike tydinges fill'd these ears of mine,</L>
+<L>That powr'd on me the storme of all your hate.</L>
+<L>Neuer since princelie hande of <HI>Syluias</HI> sonne,</L>
+<L>Laide the foundations of these stately towers:</L>
+<L>Did sharpe mischaunce so much eclyps the sunne,</L>
+<L>Of our good fortune, with such fatall lowers.</L>
+<L>But if that wisedome euer found a place,</L>
+<L>Within your soules, which beautifies your praise:</L>
+<L>Now shew the same, and saue from high disgrace,</L>
+<L>Our bleeding honor, and death breathing ioyes.</L>
+<L>You know how bloud maintaines the life of warres,</L>
+<L>As doubtfull as deare bought the victory:</L>
+<L>Mans destiny is chain'd by vnknowne starres,</L>
+<L>To happy ioyes or mournfull misery.</L>
+<L>If you triumph, you conquer not your foes,</L>
+<L>But neighbors, kinsefolkes and your dearest friendes:</L>
+<L>Whose wounds bleed shame, and deep hart-peircing woes,</L>
+<L>Insteed of conquest this is your amendes.</L>
+<L>But if my Lord obtaine the lawrell wreath,</L>
+<L>And fortune smile on him with like successe:</L>
+<L>What fatall tempests, furious rage will breath,</L>
+<L>From his hearts caue, your selues may easily guesse.</L>
+<L>You know when touch of honor wings his minde,</L>
+<L>What lyon thoughts tyre on his haughty soule.</L>
+<L>Where wronged valour raignes tis hard to finde,</L>
+<L>Such pitty as may honors pride coutroule.</L>
+<L><PB REF="33">Then sith your course to loose your selues is bent,</L>
+<L>To loose your liues or purchase liuing shame:</L>
+<L>Let wisedomes eyes, blinde errours faults preuent.</L>
+<L>With ease a sparke, with paine is quencht a flame.</L>
+<L>Be aduocates for me to <HI>Caesars</HI> grace,</L>
+<L>And stop in time the current of his hate:</L>
+<L>Let gentle pittie in your mindes finde place,</L>
+<L>When swords haue pleaded, words wil come too late.</L>
+<L>You know my fortune euer hath been such,</L>
+<L>As dazeled <HI>Enuies</HI> eies with honors shine:</L>
+<L>But since <HI>Antonius</HI> hath augmented much,</L>
+<L>This soueraignty, and great estate of mine;</L>
+<L>Since nature, fortune, birth and maiesty,</L>
+<L>In fields of glory stirre vp ciuill warres,</L>
+<L>Which of them most should raise my dignity,</L>
+<L>And lift mine honor neerest to the starres;</L>
+<L>Since these two Emperours whose princely hands,</L>
+<L>Doe sway the scepter of the <HI>Romaine</HI> state:</L>
+<L>The one my brother, linkt in natures bands,</L>
+<L>The other is my spouse and louing mate;</L>
+<L>Since heauens themselues did in my life prouide,</L>
+<L>To shew the map of their felicityes:</L>
+<L>This <HI>Roome</HI> my Lords and all the world beside,</L>
+<L>Make me the obiect of their wondring eyes.</L>
+<L>Thus I that was more happy then the rest,</L>
+<L>And did excell in glory and renoune:</L>
+<L>With more then most disgrace shall be supprest,</L>
+<L>No fall like his that falleth from a crowne.</L>
+<L>And that which nature grantes the meanest wight,</L>
+<L><PB REF="33">They cannot loose which haue the conquest wonne:</L>
+<L>Yet with this strange <HI>Dylemma</HI> workes my spight,</L>
+<L>Who s'euer winne <HI>Octauia</HI> is vndone.</L>
+<L>Great Empresse, this bright sunne can witnes well,</L>
+<L>So can these heauens before whose powers I stand:</L>
+<L>That gainst our mindes <HI>Caesar</HI> doth vs compell,</L>
+<L>This enterprize you see, to take in hand.</L>
+<L>But for my selfe, and if the case be such,</L>
+<L>That but report is auctor of this iarre:</L>
+<L>If <HI>Caesars</HI> honor may be free from touch</L>
+<L>Of any staine, relinquishing the warre.</L>
+<L>Ile doe my best, and what I may perswade,</L>
+<L>To lay downe armes, wherein if I preuaile:</L>
+<L>A perfect league of friendship shall be made,</L>
+<L>That may the fury of this tempest quaile.</L>
+<L>And pardon me (deare soueraigne) though my speech</L>
+<L>Include exceptions in this doubtfull wise:</L>
+<L>I may not <HI>Caesar</HI> mooue, nor him beseech,</L>
+<L>What may his maiestie disroyallize.</L>
+<L>This said, behold my hand, my sword, my soule,</L>
+<L>Heere humbly prostrate at your princely feete:</L>
+<L>What you commaund let none dare to controule,</L>
+<L>This <HI>Caesar</HI> will and this we thinke most meete,</L>
+</LG>
+<SP>
+<SPEAKER>Arg.</SPEAKER>
+<LG>
+<L>Madam; your speech I thinke doth not extend,</L>
+<L>To the disparagement of your owne bloud:</L>
+<L>And sooner shall my life haue finall end,</L>
+<L>Then I refuse to doe your highnes good.</L>
+<L>Though last my speech, yet second vnto none</L>
+<L>Is my desire, t'effectuate your will:</L>
+<L><PB REF="34">But loe where <HI>Caesar</HI> comes himselfe alone,</L>
+<L>Arme we our tongues with words, our words with skil.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Caes.</SPEAKER>
+<LG>
+<L>Fayer issue of renoun'd <HI>Octauius</HI> race,</L>
+<L>My second selfe, <HI>Roomes</HI> glorious Empresse:</L>
+<L>Behold vs all assembled heere in place,</L>
+<L>To worke your safety and your wrongs redresse.</L>
+<L>Your Lord <HI>Antonius</HI> (as we heare) doth threate,</L>
+<L>To power sharpe stormes of deep reuenging Ire,</L>
+<L>Vpon our heads: and make th' imperiall seate</L>
+<L>His sole possession, ere he hence retyre.</L>
+<L>But let him know, though finely he pretend,</L>
+<L>To guilde iniustice with a Princes name:</L>
+<L>Though he triumph in words, yet ere I end,</L>
+<L>What he begins, he may repent the same.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Oct</SPEAKER>
+<LG>
+<L>My gracious Lord, high words doe but encrease</L>
+<L>The flame of vallour in incensed mindes:</L>
+<L>Leaue armes my Lord, and let vs treate of peace:</L>
+<L>Who best doth speed in war, smal safety findes,</L>
+<L>Ful wel the world your noble worth hath knowne,</L>
+<L>Let not new dangers needlesse tropheies raise.</L>
+<L>Let not th'effect of hateful deeds be showne,</L>
+<L>Against my Lord who may deserue your praise.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Caes.</SPEAKER>
+<LG>
+<L>Shal he be prais'd that is become our foe,</L>
+<L>Staine of our name, foile of the <HI>Romaine</HI> state:</L>
+<L>A seruile man, contriuer of our woe,</L>
+<L>And from all honor doth degenerate?</L>
+<L>Nay what is more, tis said he doth pretend,</L>
+<L>To worke our ruine, and our fatal end.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Octa.</SPEAKER>
+<LG>
+<L>Can foule suspition then, and false report,</L>
+<L><PB REF="34">In wisedomes confines holde so large a place:</L>
+<L>That it can foyle our reason in such sort,</L>
+<L>To fly the good, and worke his owne disgrace?</L>
+<L>The auncient <HI>Romaines</HI> wont to draw their swordes,</L>
+<L>To purchase honor, of their stoutest foes:</L>
+<L>But you whose groundes are vaine surmized words,</L>
+<L>By seeking honor, shall your honors loose.</L>
+<L>Fame hath two wings, the one of false report:</L>
+<L>The other hath some plumes of veritie;</L>
+<L>Why then should doubtful rumour, raise a forte</L>
+<L>Of mortall hate, against my Lord and me.</L>
+<L>Suppose he rais'd as you haue done, a power:</L>
+<L>He to defend, not to offend his friend,</L>
+<L>The heauens forbid that any fatall hower,</L>
+<L>Should your proceedings turne t'vnhappy end.</L>
+<L>Vnhappy no, he neuer falles amisse,</L>
+<L>That foiles his foe before his final ende:</L>
+<L>High honor, not long life, the treasure is,</L>
+<L>Which noble mindes without respect defend.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Oct.</SPEAKER>
+<P>The prize of honor is not alwaies bloud.</P>
+</SP>
+<SP>
+<SPEAKER>Cae.</SPEAKER>
+<P>Tis honor all whose end imports our good.</P>
+</SP>
+<SP>
+<SPEAKER>Oct.</SPEAKER>
+<P>O wretched state where men make haste to dye.</P>
+</SP>
+<SP>
+<SPEAKER>Cae.</SPEAKER>
+<P>True valour feeles nor griefe nor misery.</P>
+</SP>
+<SP>
+<SPEAKER>Oct.</SPEAKER>
+<P>He is your brother, be not then vnkinde.</P>
+</SP>
+<SP>
+<SPEAKER>Cae.</SPEAKER>
+<P>Iustice, not pitty, fits a Princes minde.</P>
+</SP>
+<SP>
+<SPEAKER>Oct.</SPEAKER>
+<P>He hath done nothing, spare an innocent.</P>
+</SP>
+<SP>
+<SPEAKER>Cae.</SPEAKER>
+<P>He doth too much that beares a false entent.</P>
+</SP>
+<SP>
+<SPEAKER>Oct.</SPEAKER>
+<P>You both are stronge and both will buy it deare.</P>
+</SP>
+<SP>
+<SPEAKER>Cae.</SPEAKER>
+<P>I arm'd with iustice, know not how to feare.</P>
+</SP>
+<SP>
+<PB REF="35">
+<SPEAKER>Oct.</SPEAKER>
+<LG>
+<L>O <HI>Caesar</HI> shall my heart be made a stage,</L>
+<L>For you to play a bloudie tragedie?</L>
+<L>Shall fearce misfortune, breathing spitefull rage,</L>
+<L>Make me vicegerent of all misery?</L>
+<L>If both of you misled in <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">rrours maze,</L>
+<L>Doe seeke reuenge of misconceiued wrongs,</L>
+<L>For your owne sakes out of your fancies raze,</L>
+<L>The spots of mallice grafted with your tongues.</L>
+<L>But if mischance haue offered disgrace,</L>
+<L>To eyther party: O let me entreate,</L>
+<L>That for my sake, kinde pardon may deface,</L>
+<L>A fault so small, with breath of words made great.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Caes</SPEAKER>
+<LG>
+<L>Bright lamp of vertue, honors liuing flame,</L>
+<L>Whosoeuer winne, you can no losse sustaine:</L>
+<L>Whom partiall fortune list to crowne with fame,</L>
+<L>His be the day, the triumph and the gaine.</L>
+<L>The victor must be eyther your owne Lord,</L>
+<L>Or els your brother, who will both consent,</L>
+<L>To trie their fortunes with the dinte of sword.</L>
+<L>But shield you as the worlds chiefe ornament.</L>
+<L>If both we fall, (which hap the heauens forbid)</L>
+<L>All that suruiue, are subiect to your will.</L>
+<L>Your birth, your state, your vertues are not hid:</L>
+<L>But knowne, and lo<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">'d, and will be honored still.</L>
+<L>no ear so deaf which hath not heard your name;</L>
+<L>Whose eares haue heard, their mindes your worth admire</L>
+<L>Whose minds admire, their harts loue doth enflame,</L>
+<L>And winnes them subiect to your owne desire.</L>
+<L>No perils threaten you, you need not feare.</L>
+</LG>
+</SP>
+<SP>
+<PB REF="35">
+<SPEAKER>Octa.</SPEAKER>
+<P>But many you, and I their burthen beare.</P>
+</SP>
+<SP>
+<SPEAKER>Caes.</SPEAKER>
+<P>Tis reason I, none els my griefes sustaine.</P>
+</SP>
+<SP>
+<SPEAKER>Octa.</SPEAKER>
+<LG>
+<L>Where nature forceth, reason is but vaine.</L>
+<L>And therefore <HI>Caesar</HI> heere I thee beseech,</L>
+<L>By these same scepter-bearing hands of mine:</L>
+<L>By these same teares, true witnes of my speech;</L>
+<L>By that same princely port and grace of thine;</L>
+<L>By all the loue thou bearest to <HI>Acciaes</HI> ghost,</L>
+<L>By all the rightes that louing mindes hold deare;</L>
+<L>Lay armes aside dismisse this puisant hoast,</L>
+<L>Let friendly truce release my minde of feare.</L>
+<L>If not, ile drowne my life in these same teares,</L>
+<L>And tyre with plaints the <HI>Pandionian</HI> birdes:</L>
+<L>Tyre th' <HI>Halciones,</HI> with griefe that beares</L>
+<L>To high a straine, for highest clyming words.</L>
+<L>Ile make the sunne for pitty cloath his steedes</L>
+<L>In sorrows liuery, and disdaine your sight:</L>
+<L>Force niggard <HI>Pluto</HI> with my wofull deeds,</L>
+<L>To entertaine my soules disgraced flight.</L>
+<L>Else will I flie and shrowde my face from shame,</L>
+<L>Where <HI>Pyndus</HI> hides his head amongst the starres:</L>
+<L>Or where ambitious <HI>Othris,</HI> wanting flame</L>
+<L>Of heauenly lamps, the cloudes swift motion barres.</L>
+<L>Ought will I doe, before these eies behold</L>
+<L>Death's vissage painted in that princelie face:</L>
+<L>Before ile see captiuitie, lay holde</L>
+<L>On those faire lims, which merit highest grace.</L>
+<L>Before ile see their bloudie weapons drinke,</L>
+<L>The nectar of thy life, or Iuorie stain'd,</L>
+<L><PB REF="36">With vgly gore: O let me neuer thinke,</L>
+<L>Or hope till then, to haue this life maintain'd.</L>
+<L>Before that time, death is a welco~me guest</L>
+<L>To my liues lodging: and O sisters deare,</L>
+<L>If euer pitty dwelt in dyrefull brest,</L>
+<L>Draw not my threed till that newes peirce mine eare.</L>
+<L>How oft when sleep inuites my drowsie eye,</L>
+<L>With natures curtaine to repell the light:</L>
+<L>And hide my minde from sorrows tyranny,</L>
+<L>Vnder the darknes of the silent night?</L>
+<L>Shal thy pale ghost defil'd with deaths foule hand,</L>
+<L>Stand in my sight, as in the cleerest day:</L>
+<L>And fury-like arm'd with blacke fiery brand;</L>
+<L>Affright my minde and chase dead sleep away?</L>
+<L>Which being gone, fierce sorrows cruell clawes,</L>
+<L>Seaze on my waking thoughts like tygers fell:</L>
+<L>And gripe my heart with sharpe tormenting pawes,</L>
+<L>That thousand times deaths rygour doth excell.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Caes.</SPEAKER>
+<LG>
+<L>O perfect vertue gracing woman kinde,</L>
+<L>Inuincible <HI>Octauia</HI> cease to plaine:</L>
+<L>O had <HI>Antonius</HI> halfe so good a minde,</L>
+<L>No discord could betwixt vs two remaine.</L>
+<L>My Lords what thinke you, how may we proceed?</L>
+<L>High honor cries reuenge vpon our foes:</L>
+<L>And yet <HI>Octauia</HI> crossing this our deed.</L>
+<L>Cannot resolue which of vs she would loose.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Agr.</SPEAKER>
+<LG>
+<L>I thinke it is a braue and Princely thing,</L>
+<L>With fire and sword to ruinate our foes:</L>
+<L>But greater glory is it for a King,</L>
+<L><PB REF="36">To saue his subiects from wars common woes.</L>
+<L>Tis wisedome noble <HI>Caesar,</HI> must aduance</L>
+<L>Our state beyond the reach of fortunes arme:</L>
+<L>Not fierce reuenge which workes effectes by chance,</L>
+<L>And glories most when most it worketh harme.</L>
+<L>And valour, such as doth contemne all feare,</L>
+<L>And guild our actes with honor and renowne:</L>
+<L>With gentle clemencie, our deeds endeare,</L>
+<L>And mount with vertue where chance throwes vs downe.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Mecoe.</SPEAKER>
+<LG>
+<L>The rarest thing a Princes fame to raise,</L>
+<L>Is to excell those that are excellent:</L>
+<L>All other to surmount in vertues praise,</L>
+<L>And be his kingdomes chiefest ornament.</L>
+<L>Make quiet peace within his coastes remaine,</L>
+<L>And succour those that liue in great distresse:</L>
+<L>From bloudy slaughter euer to refraine,</L>
+<L>With time, and wisedome, passions rage suppresse.</L>
+<L>These are the wings directing vertues flight.</L>
+<L>This is the fuell feeding honors flame.</L>
+<L>This is the path that leades to heauen aright.</L>
+<L>and sun-bright beames that guild braue <HI>Caesars</HI> name.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Caes.</SPEAKER>
+<LG>
+<L>Pitty my Lords, is often like a maske,</L>
+<L>That hides our eyes from seeing what is iust:</L>
+<L>Inuiting any t'vndertake the taske,</L>
+<L>To worke our woes and execute their lust.</L>
+<L>For to neclect the course we haue begun,</L>
+<L>Were to betray our selues vnto our foes:</L>
+<L>Where keeping stronge though no exploite be done,</L>
+<L>Yet gaining nothing, nothing shall we loose.</L>
+<L><PB REF="37">Why you'are ill inform'd of <HI>Antony,</HI></L>
+<L>And his attempts exceed your knowledge farre:</L>
+<L>I feare me when you know as much as I,</L>
+<L>You'll pleade as fast to prosecute the warre.</L>
+<L>But see a stranger hasts into our sight,</L>
+<L>With further newes, and if I iudge a right.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Byl.</SPEAKER>
+<LG>
+<L>Thrice noble <HI>Caesar,</HI> hither am I sent,</L>
+<L>Hauing in charge from great <HI>Mark Antony:</HI></L>
+<L>Th'ambassage of his pleasure to present,</L>
+<L>Before <HI>Octauia</HI> and thy maiesty.</L>
+<L>First he commaunds <HI>Octauia</HI> to depart,</L>
+<L>Out of his house, and leaue all that is his:</L>
+<L>The reason why, he list not to impart,</L>
+<L>It must suffice that such his pleasure is.</L>
+<L>He likewise will, thy highnesse knowledge take,</L>
+<L>How much he scornes thou shouldst his wil withsta~<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"></L>
+<L>And thereof meanes with fire and sword to make,</L>
+<L>A perfect demonstration out of hand.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Caes.</SPEAKER>
+<LG>
+<L>Will <HI>Antony</HI> our confines then inuade,</L>
+<L>With Ciuill warres, contriuer of our woe?</L>
+<L>Great reason preparation should be made,</L>
+<L>For to withstand so puisant a foe.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Byl.</SPEAKER>
+<LG>
+<L>Fiue hundreth saile of warlike ships he brings,</L>
+<L>Wherewith the froathing Ocean he scoures:</L>
+<L>And in his army are eight forraigne Kings,</L>
+<L>Eight Kings in person with their mighty powers.</L>
+<L>A hundred thousand well arm'd foote, are led</L>
+<L>Vnder <HI>Canidius</HI> their chiefe generall:</L>
+<L>Twelue thousand horse most strongly furnished,</L>
+<L><PB REF="37">All these are knowne, and knowne these are not all.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Caes.</SPEAKER>
+<LG>
+<L>How now my Lords, is this thinke you a time,</L>
+<L>To talke of clemencie? or of delay?</L>
+<L>Is not this mischiefe in his chiefest prime,</L>
+<L>Before we could the speedie spring bewray?</L>
+<L>What saith <HI>Octauia</HI> to these tidings strange,</L>
+<L>Are our coniectures vpon falshood grounded?</L>
+<L>Can this suffice your setled thoughts to change?</L>
+<L>Are not our liues with mischiefes Ocean bounded?</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Octa.</SPEAKER>
+<LG>
+<L>Had I so many tongues to paint my woes,</L>
+<L>As euer silent night had shining eyes:</L>
+<L>Yet could not all their eloquence disclose,</L>
+<L>The throwes of greefe which do my minde surprize.</L>
+<L>But would to God, this world of misery,</L>
+<L>Mought presently be trebled vnto me:</L>
+<L>So that from imminent calamitie,</L>
+<L>My deerest brother <HI>Caesar</HI> mought be free.</L>
+<L>For me, long since I wel discern'd the storme,</L>
+<L>And sought by all meanes how I mought preuent it:</L>
+<L>But sith no wit can <HI>Antony</HI> reforme,</L>
+<L>O 'tis not I, but he, that wil repent it.</L>
+<L>I fear'd the stroke before I felt the wound,</L>
+<L>But now resolu'd the worst of chance to bide:</L>
+<L>True fortitude doth in my soule abound,</L>
+<L>My honor scornes the height of fortunes pride.</L>
+<L>The worst that can befall me is but death:</L>
+<L>And O how sweete is his liues sacrifize,</L>
+<L>On vertues altar that expires his breath,</L>
+<L>And in the armes of innocencie dyes.</L>
+<L><PB REF="38">They onely feare, and onely wretched are,</L>
+<L>From whose bad liues staind with impietie:</L>
+<L>Their dying fame doth to the world declare,</L>
+<L>Most shamefull stories of foule infamie.</L>
+<L>But those that know not, let them learne in me:</L>
+<L>That vertuous minds can neuer wretched be.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Caes.</SPEAKER>
+<LG>
+<L>My Lords, I wil yee presently proclaime</L>
+<L>Marke <HI>Antony,</HI> a foe vnto our state:</L>
+<L>That all his soueraignties yee straight reclaime,</L>
+<L>And all his dignities annihillate.</L>
+<L>We will not see the <HI>Romaine</HI> Empires shine,</L>
+<L>By any seruile minde to be defamed:</L>
+<L>To manage steele our nature dooth encline,</L>
+<L>Of womens wanton toyes we are ashamed.</L>
+<L>And therefore with such hast, as may be-fit,</L>
+<L>A matter that imports our dearest bloud:</L>
+<L>Weele meet <HI>Antonius,</HI> if the heauens permit,</L>
+<L>And what we say, there will we make it good.</L>
+<L>Adiew <HI>Octauia,</HI> and your selfe prepare</L>
+<L>To runne what course of fortune I approue:</L>
+<L>I<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> happie starres to vs alotted are,</L>
+<L>Ile neuer be forgetfull of your loue.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Oct.</SPEAKER>
+<LG>
+<L>Honour attend thy steps, and till I see,</L>
+<L>The period of my worlds declining state:</L>
+<L>Ile neuer to my selfe a traytor bee,</L>
+<L>But seeke the meanes to stay your mortall hate.</L>
+</LG>
+</SP>
+<DIV3 TYPE="chorus">
+<PB REF="38">
+<HEAD>Chorus.</HEAD>
+<LG>
+<L>EArth-ruling heauenly powers,</L>
+<L>Great Ioues immortall mates:</L>
+<L>That from your Chrystall bowers,</L>
+<L>Dyrect all mortall states,</L>
+<L>And vs like <HI>Actors</HI> do dispose:</L>
+<L>To play what parts you list t'impose.</L>
+<L>Must we&punc; poore we, consent</L>
+<L>To call you euer iust?</L>
+<L>Though you our harts torment,</L>
+<L>Euen after your owne lust?</L>
+<L>And for each drop of hoped ioy:</L>
+<L>Powre downe whole tempests of annoy.</L>
+</LG>
+<LG>
+<L>And that which is much more,</L>
+<L>Looke what we best do deeme:</L>
+<L>Doth vex our mindes more sore,</L>
+<L>Then that wee least esteeme.</L>
+<L>And that which nature saith is best:</L>
+<L>By tryall yeelds vs smallest rest.</L>
+<L>Who dooth not wish, to weare</L>
+<L>The terrour breeding crowne:</L>
+<L>And direfull scepter beare,</L>
+<L>As badge of high renoune?</L>
+<L>Yet who more iustly do complaine:</L>
+<L>That they the brunt of woes sustaine.</L>
+</LG>
+<LG>
+<PB REF="39">
+<L>Stand who so list for me,</L>
+<L>In highest slipperie place:</L>
+<L>Though great their glorie be,</L>
+<L>Yet greater their disgrace.</L>
+<L>And who so subiect to mischance:</L>
+<L>As those whom fortune doth aduance.</L>
+<L>These base earth-creeping mates,</L>
+<L>Proud enuie neuer spyes:</L>
+<L>When at the greatest states,</L>
+<L>Hir poysoned quiuer flyes.</L>
+<L>Each tempest doth turmoyle the seas:</L>
+<L>When little lakes haue quiet ease.</L>
+</LG>
+<LG>
+<L>Not those that are bedight,</L>
+<L>With burnisht glistering gould,</L>
+<L>Whose pompe doth steale our sight,</L>
+<L>With wonder to behoulde:</L>
+<L>Tast smallest sweet without much ga<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">le:</L>
+<L>Nor finde true ioyes within their call.</L>
+<L>This did the heauens impose,</L>
+<L>Not that they are vniust:</L>
+<L>But for to punish those,</L>
+<L>Who glory in their lust.</L>
+<L>And our misdeeds procure vs still:</L>
+<L>To seeke our good amongst much ill.</L>
+</LG>
+<LG>
+<L>A monster honour is,</L>
+<L>Whose eyes are vertues flame:</L>
+<L>His face contempt of this,</L>
+<L><PB REF="39">Which we pale death do name.</L>
+<L>His Lyon heart nought else dooth feare:</L>
+<L>But crowing cock of shame to heare.</L>
+<L>His wings are high desires,</L>
+<L>His feete of Iustice frame:</L>
+<L>Food dangerous aspires,</L>
+<L>His seate immortall fame.</L>
+<L>Onely the traine of Enuies plumes,</L>
+<L>With others growthe it selfe consumes.</L>
+</LG>
+</DIV3>
+</DIV2>
+<DIV2 N="5" TYPE="act">
+<HEAD>Actus Quintus.</HEAD>
+<LIST>
+<ITEM>Iulia.</ITEM>
+<ITEM>Geminus.</ITEM>
+<ITEM>Camilla.</ITEM>
+</LIST>
+<LG>
+<L>HAth <HI>Geminus</HI> beheld th'Aegyptian Queene,</L>
+<L>The auctor of the troubled worlds distresse?</L>
+<L>Hast thou hir guifts and rare perfections seene,</L>
+<L>That makes <HI>Antonius</HI> scences thus digresse?</L>
+<L>Tell vs, is she so admirable faire,</L>
+<L>That Italy hath none which may come nigh hir?</L>
+<L>Doth she all beauties else so much impaire,</L>
+<L>Or els indeed, dooth partiall fame be lye hir?</L>
+<L>Haue those hir eyes so rare an influence,</L>
+<L>To houlde and captiuate mens sences so,</L>
+<L>That foyling wit, and reasons best defence,</L>
+<L>They rauished, must needs themselues forgoe?</L>
+</LG>
+<SP>
+<SPEAKER>Gem.</SPEAKER>
+<LG>
+<L>I know not what may seem faire in your sight,</L>
+<L>Because some like what others discommend:</L>
+<L><PB REF="40">But for my selfe, and if I iudge aright,</L>
+<L>Speaking of <HI>Cleopatra</HI> as a frend.</L>
+<L>The fairest thing that in her may be seene:</L>
+<L>Is, that she is a Ladie and a Queene.</L>
+<L>Madame, that sun-burnt coast, yeelds not a face</L>
+<L>Which with the <HI>Romain</HI> beauties may compare:</L>
+<L>There mought be found a thousand in this place;</L>
+<L>Whose naturall perfections are more rare.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Iul.</SPEAKER>
+<LG>
+<L>How passing strange it seemes that <HI>Antony,</HI></L>
+<L>Should leaue the paragon of natures pride:</L>
+<L>And follow hir whose shamefull luxurie,</L>
+<L>Dooth make the world his folly to deride.</L>
+<L>Whence should it spring that such a thing should be?</L>
+<L>Is this his folly, or the heauens decree?</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Cam.</SPEAKER>
+<P>His fault no doubt, &amp; crosseth natures lawes.</P>
+</SP>
+<SP>
+<SPEAKER>Iul.</SPEAKER>
+<LG>
+<L>And I thinke not, for nature is the cause.</L>
+<L>By nature we are moou'd, nay forst to loue:</L>
+<L>And being forst, can we resist the same?</L>
+<L>The powerfull hand of heauen we wretches prooue:</L>
+<L>Who strike the stroke, and poore we, beare the blame.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Cam.</SPEAKER>
+<LG>
+<L>Loue sure, fro~ nature tooke his birth by right,</L>
+<L>But loue of what?</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Iul.</SPEAKER>
+<P>Of beautie loues delight.</P>
+</SP>
+<SP>
+<SPEAKER>Cam.</SPEAKER>
+<P>And what is beautie?</P>
+</SP>
+<SP>
+<SPEAKER>Iul.</SPEAKER>
+<P>first say what is loue?</P>
+</SP>
+<SP>
+<SPEAKER>Cam.</SPEAKER>
+<P>Loue's a desire of what doth liking moue.</P>
+</SP>
+<SP>
+<SPEAKER>Iul.</SPEAKER>
+<LG>
+<L>Desire doth spring, fro~ what we wish, and want,</L>
+<L>Dooth loose himselfe in winning of his saint:</L>
+<L>Enioying dooth that humor quite supplant,</L>
+<L>And therefore cannot this loues nature paint.</L>
+<L>If loue were a desire, as you do guesse,</L>
+<L><PB REF="40">Sith none desires that which he doth enioy,</L>
+<L>We could not loue the thing we do possesse:</L>
+<L>For why, enioying, would our loue destroy.</L>
+<L>But this is false, and you haue iudg'd amisse.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Cam.</SPEAKER>
+<P>Speak you the truth, whose iudgment better is.</P>
+</SP>
+<SP>
+<SPEAKER>Iul.</SPEAKER>
+<LG>
+<L>I thinke this loue a deepe affection sure,</L>
+<L>Wrought by th'instinct of natures hidden might,</L>
+<L>Which in our hearts an vnion doth procure,</L>
+<L>With that which perfect seemes vnto our sight.</L>
+<L>Such is that loue which in vs doth arise,</L>
+<L>When such a beautie we do chaunce to see:</L>
+<L>As with our nature best doth simpathize,</L>
+<L>Which nature, faultie is, and not poore we.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Cam.</SPEAKER>
+<P>Wel, what is beauty?</P>
+</SP>
+<SP>
+<SPEAKER>Iu.</SPEAKER>
+<P>that which liketh best.</P>
+</SP>
+<SP>
+<SPEAKER>Cam.</SPEAKER>
+<P>Which liketh who~?</P>
+</SP>
+<SP>
+<SPEAKER>Iul.</SPEAKER>
+<P>Some one aboue y^e rest.</P>
+</SP>
+<SP>
+<SPEAKER>Cam.</SPEAKER>
+<LG>
+<L>Why? some do like what others disalowe.</L>
+<L>Some loue, what others hate: and few there are</L>
+<L>In whom a like affection doth growe,</L>
+<L>Of any one thing, though the same be rare.</L>
+<L>Were beautie then such as you heere do name,</L>
+<L>One thing should be, and not be beautifull,</L>
+<L>One thing should be, and yet not be the same:</L>
+<L>And that me thinkes were strange and wonderfull.</L>
+<L>I rather thinke these outward beauties growe,</L>
+<L>From iust proportion and right symmetrie:</L>
+<L>Of these same guifts which nature doth bestow,</L>
+<L>Vpon vs all in our natiuitie.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Iul.</SPEAKER>
+<LG>
+<L>Indeed we see a mixture farre more fine</L>
+<L>In some, then others, wrought by natures frame:</L>
+<L><PB REF="41">To whom the praise of beautie we ascribe,</L>
+<L>Yet do not all alike affect the same.</L>
+<L>Now, if this were the obiect of our loue,</L>
+<L>We all should like some one that were most faire:</L>
+<L>Who should alone most deepe affection mooue,</L>
+<L>Whil's vulgar minds mought drown in deep despaire.</L>
+<L>But as no woman easily can endure,</L>
+<L>To be depriu'd of beauties louely praise:</L>
+<L>So is there none so much deformed sure,</L>
+<L>That in some minds, affection doth not raise.</L>
+<L>Ther's none so faire whose beautie all respect,</L>
+<L>Although we were enforst it should be so:</L>
+<L>Some nothing faire, whom we must needs affect,</L>
+<L>Though reason, wit, and all the world say no.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Cam.</SPEAKER>
+<P>And what should be the cause of all this same?</P>
+</SP>
+<SP>
+<SPEAKER>Iul.</SPEAKER>
+<LG>
+<L>I thinke because we lodge in natures frame.</L>
+<L>Look how the Loadstone draws nought els but steele</L>
+<L>Though mettals far more pretious are about it:</L>
+<L>Yet this as his fit subiect seemes to feele</L>
+<L>His power attractiue, and mooues not without it,</L>
+<L>Or as in diuerse instruments we see,</L>
+<L>When any one doth strike a tuned string:</L>
+<L>The rest which with the same in concord be,</L>
+<L>Will shew a motion to that sencelesse thing;</L>
+<L>VVhen all the other neither stirre nor playe,</L>
+<L>Although perhaps more musicall then they:</L>
+<L>So are our minds, in spight of reasons nay,</L>
+<L>Strain'd with the bent of natures sympathie:</L>
+<L>VVhose powerfull force, no wit, no arte, can stay.</L>
+<L><PB REF="41">And if you aske a farther reason why:</L>
+<L>In these two things, but shew the cause of both:</L>
+<L>And then ile tell you why we loue, and loathe.</L>
+<L>Now, if the power of nature be so strong</L>
+<L>That euen sencelesse things yeeld therevnto:</L>
+<L>O why should we endure so great a wrong,</L>
+<L>To beare the blame of that which others doe.</L>
+<L>What liuing man can ceasse himselfe to be,</L>
+<L>And yet as possible as to refraine,</L>
+<L>From that whereto our nature dooth agree:</L>
+<L>And spight of vs, doth vs thereto constraine.</L>
+<L>Who can be angry with the scencelesse steele,</L>
+<L>For cleauing vnto this hard-harted thing?</L>
+<L>Or blame that which can neither heare, nor feele,</L>
+<L>For moouing to the other sounding string.</L>
+<L>If these may be excusd by natures lawes:</L>
+<L>O how much more should we be free from blame,</L>
+<L>Within whose tender hearts affection drawes&punc;</L>
+<L>Such deepe caractars leading to the same.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Cam.</SPEAKER>
+<P>Is beautie then, sole obiect of our loue?</P>
+</SP>
+<SP>
+<SPEAKER>Iul.</SPEAKER>
+<P>That which seems so, doth our affection moue.</P>
+</SP>
+<SP>
+<SPEAKER>Cam.</SPEAKER>
+<P>I euer thought that vertue had been best.</P>
+</SP>
+<SP>
+<SPEAKER>Iul.</SPEAKER>
+<P>We praise that most, but yet esteeme it least.</P>
+</SP>
+<SP>
+<SPEAKER>Ca.</SPEAKER>
+<P>Why disestemd, whose worth is so wel knowne.</P>
+</SP>
+<SP>
+<SPEAKER>Iul.</SPEAKER>
+<P>To shew that vice the world hath ouergrowne.</P>
+</SP>
+<SP>
+<SPEAKER>Ca.</SPEAKER>
+<P>The name is often hard in each mans mouth.</P>
+</SP>
+<SP>
+<SPEAKER>Iul.</SPEAKER>
+<P>The thing more rare then Eagles in the south.</P>
+</SP>
+<SP>
+<SPEAKER>Ca.</SPEAKER>
+<P>The thing contemnd can we the name esteeme?</P>
+</SP>
+<SP>
+<SPEAKER>Iul.</SPEAKER>
+<LG>
+<L>Yes all that are not such as all would seeme.</L>
+<L><PB REF="42">But sith this is the beautie of the minde,</L>
+<L>And nothing fits our naturall discourse:</L>
+<L>Let vs excuses for <HI>Antonius</HI> finde,</L>
+<L>And to our former purpose haue recourse.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Cam.</SPEAKER>
+<LG>
+<L>No <HI>Iulta,</HI> no, your haruest is too long,</L>
+<L>For such a simple croppe as you receiue:</L>
+<L>You may not thus persist the truth to wrong,</L>
+<L>And with your wit, the world seeke to deceiue.</L>
+<L>But Lord how willing are we to inuent,</L>
+<L>And finde out couerts to obscure our sinne:</L>
+<L>As though to hide the same, and not repent,</L>
+<L>Could vs preserue from being drownd therein.</L>
+<L>Tis true, that nature did these buildings frame.</L>
+<L>And true, that they to natures power are thrall.</L>
+<L>And true, that imperfections foyle the same.</L>
+<L>And true, that we by natures weaknesse fall.</L>
+<L>And this is true, that God vnnatured all,</L>
+<L>And gaue vs wisdome to suppresse our will:</L>
+<L>He gaue vs perfect reason to recall,</L>
+<L>Affections scoutes from following what is ill.</L>
+<L>Why we are men: and this same sparke diuine,</L>
+<L>Our trouping thoughts should marshall in such wise,</L>
+<L>That no affect from reason should decline,</L>
+<L>Nor rebell passion in our hearts arise.</L>
+<L>Th'instinct of nature, which doth all things moue,</L>
+<L>Bids loue whereas you like without regarde:</L>
+<L>But pietie saith, where tis lawfull loue,</L>
+<L>Or els hell torments shall be your rewarde.</L>
+</LG>
+</SP>
+<LIST>
+<PB REF="42">
+<ITEM>Octauia.</ITEM>
+<ITEM>Antonyes children.</ITEM>
+</LIST>
+<LG>
+<L>And is it true, is <HI>Antony</HI> vnkinde?</L>
+<L>Hath this new loue, of faith and troath bereft him?</L>
+<L>Can fonde affection so obscure his minde,</L>
+<L>That not one sparke of honor should be left him?</L>
+<L>Can he so far forget his owne good name,</L>
+<L>As to dishonor all that are about him?</L>
+<L>Ah can he not without a further blame,</L>
+<L>Permit them dye that cannot liue without him?</L>
+<L>Come poore companions of my misery,</L>
+<L>The issue of the faithlest man aliue:</L>
+<L>Support the burthen of his trecherie,</L>
+<L>Whose base reuoult, our ruine doth contriue.</L>
+<L>Come poore beholders of your mothers fall,</L>
+<L>Whose innocence mought greater pittie moue:</L>
+<L>Your impious father doth despise vs all,</L>
+<L>Forsaken we, must other fortunes proue.</L>
+<L>Come poore attendants of a falling state,</L>
+<L>Whose silent sadnesse doth my greefe renue:</L>
+<L>Yet be you all much more vnfortunate,</L>
+<L>Ere any seedes of leawdnesse rest in you.</L>
+<L>Come let vs goe, and leaue this loanly place,</L>
+<L>Your fathers dying loue bequeaths you hence:</L>
+<L>O <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> this house, as from your owne disgrace,</L>
+<L>Tis his commaund you should be banishtt hence&punc;</L>
+<L>Dead <HI>Fuluia,</HI> how can thy imperious ghoast</L>
+<L>Endure to see thine <HI>Orphants</HI> thus oppressed?</L>
+<L>Yet of mine honor though his loue be lost,</L>
+<L><PB REF="43">Whiles I suruiue, they shall not be distressed.</L>
+<L>O <HI>Antony,</HI> borne of no gentle Syre,</L>
+<L>Some cruell <HI>Caucasus</HI> did thee beget:</L>
+<L>Euen scencelesse things thy scencelesnesse admire,</L>
+<L>And seeme to feele, what thou seemst to forget.</L>
+<L>Oft haue I seene. these stones with pitty moued,</L>
+<L>Sheed dropping teares, lamenting my disgrace:</L>
+<L>When in thy heart where most it most behoued,</L>
+<L>No kinde remorse could euer finde a place.</L>
+<L>More milde then thee, I finde each cruell beast,</L>
+<L>For they but giue a smale-time lasting death:</L>
+<L>With endlesse greefe, my soule thou dost molest,</L>
+<L>Which euer killing, neuer steps my breath.</L>
+<L>O failing piller of my falling state!</L>
+<L>O fading flower of vertues fairest field!</L>
+<L>O why shouldst thou so much degenerate,</L>
+<L>And honors byrth-right to dishonor yeeld.</L>
+<L>Yeeld to dishonour all that deare bought wealth,</L>
+<L>Which earthly kings doth in heauens kingdom place.</L>
+<L>Let thy mindes treasure fall away by stealth.</L>
+<L>By stealth contriue and worke thine owne disgrace.</L>
+<L>O <HI>Erecina</HI> that my Lord did know,</L>
+<L>As thy fonde boye shootes shaftes of swist desire:</L>
+<L>So mightie <HI>Ioue,</HI> sharpe thunder-boults doth throwe,</L>
+<L>Confounding such as from his lawes retyre.</L>
+<L>He nurst in sinne, sees not his owne disgrace,</L>
+<L>Augmenting still, our sorrow and his shame:</L>
+<L>That greatnesse hides the danger from his face,</L>
+<L>But yet my care is doubled with the same.</L>
+<L><PB REF="43">The greedie Wolfe, and cruell rauening beare,</L>
+<L>Toucht with th'extremitie of hungrie paine,</L>
+<L>The guiltlesse cattle furiously do teare:</L>
+<L>And being fed, from crueltie resraine.</L>
+<L>But tyranizing greefe prayes on the heart,</L>
+<L>And cloyed with sighes and teares doth stil perseuer:</L>
+<L>His raging furie nothing may diuert,</L>
+<L>But still, still fed, is satisfied neuer.</L>
+<L>O happie he, a thousand times and more,</L>
+<L>Whose quiet thoughts so milde a calme do gaine:</L>
+<L>That neither hope can force from safeties shore,</L>
+<L>Nor deepe despaire can sincke on mischiefes main<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">.</L>
+<L>But maiestie, and honour, for these too,</L>
+<L>Shalbe the onely obiects of mine eye:</L>
+<L>What vertue faith is iust, that will I doe,</L>
+<L>Thus I resolue to liue, thus will I dye.</L>
+</LG>
+<LIST>
+<ITEM>Geminus.</ITEM>
+<ITEM><GAP DESC="illegible" RESP="apex" EXTENT="1 word">.</ITEM>
+<ITEM>Octauia.</ITEM>
+</LIST>
+<LG>
+<L>And are you sure that <HI>Antony</HI> is slaine?</L>
+<L>May we beleeue that this report is true?</L>
+</LG>
+<SP>
+<SPEAKER>Byl.</SPEAKER>
+<LG>
+<L>Why should you wish me to recount againe,</L>
+<L>The story that doth double greefe renue?</L>
+<L>O had you but discouered with your eyes,</L>
+<L>The face of woe in all that pre<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">ent were:</L>
+<L>Or heard their dolefull noy<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">e and shriking cryes,</L>
+<L>You would haue cause to greeue and not to feare.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Oct.</SPEAKER>
+<LG>
+<L>What tragick tidings bring these wo<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">ull wights,</L>
+<L>That ring such peales of horror in mine eares?</L>
+<L>What vnknowne cause your martiall hearts <GAP DESC="illegible" RESP="apex" EXTENT="1 word">?</L>
+<L><PB REF="44">What silent greefe in your sadde lookes appeares?</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Byl.</SPEAKER>
+<LG>
+<L>Did but our words import the sound of woe,</L>
+<L>To wound your eares withall were double sinne:</L>
+<L>But sithe your highnesse will, it should be so,</L>
+<L>And that your safetie is contain'd therein;</L>
+<L>We will not from your grace conceale the same;</L>
+<L>And though we should, yet time will open all.</L>
+<L>From Aegipts common woes I lately came,</L>
+<L>And did bewaile <HI>Antonius</HI> wilfull fall.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Oct.</SPEAKER>
+<P>Is <HI>Antony</HI> ore'throwne?</P>
+</SP>
+<SP>
+<SPEAKER>Byl.</SPEAKER>
+<LG>
+<L>Yes all is lost.</L>
+<L>His power and forces wholy are decayed:</L>
+<L>He is deceiued by hir he loued most,</L>
+<L>By <HI>Cleopatra</HI> shamefully betrayed.</L>
+<L>And she that taught him first to swim in sinne:</L>
+<L>Was euen the first that drown'd his life therein.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Oct.</SPEAKER>
+<P>Ah, by what meanes did she my Lord abuse?</P>
+</SP>
+<SP>
+<SPEAKER>Byl.</SPEAKER>
+<LG>
+<L>By such a meanes as leawd offenders vse.</L>
+<L>For when the warres at first pretended were,</L>
+<L>And that <HI>Antonius</HI> with him would not take hir:</L>
+<L>Shee fearing least hir selfe not being there,</L>
+<L>He haply mought be moued to forsake hir.</L>
+<L>Shee <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">ees <HI>Canidius</HI> our cheefe Generall,</L>
+<L>Him to perswade, that she mought present be:</L>
+<L>He sues, obtaines, and we embarked all,</L>
+<L>Make ioyfull hast our wofull end to see.</L>
+<L>For whiles our powers of equall <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">orces were,</L>
+<L>And neither side could disaduantage spye:</L>
+<L>Like one that knew a secret cause of feare,</L>
+<L>Out of the armie she began to flye.</L>
+<L><PB REF="44">Loe, how no greatnesse can our conscience free,</L>
+<L>From inward horror of our wicked deeds:</L>
+<L>For that same better part of vs doth see,</L>
+<L>A greater power whose Iustice terrour breeds.</L>
+<L>But he, whose thoughts were to hir lookes enchained,</L>
+<L>Although the armie did not losse sustaine,</L>
+<L>As though for hir he had the world disdayned:</L>
+<L>Forsakes them all, and after flyes amaine.</L>
+<L>Whose causelesse feare so much dismaid the hoast,</L>
+<L>Who scorn'd to fight for him which runne away:</L>
+<L>That with small hurt, the battle there was lost,</L>
+<L>And <HI>Caesar</HI> had the honor of the day.</L>
+<L>The Legions, thus depriued of a guide,</L>
+<L>Themselues to <HI>Caesars</HI> clemencie submit:</L>
+<L><HI>Antonius</HI> basenesse they do all deride,</L>
+<L>And thinke a chamber were for him more fit.</L>
+<L>But Lyon&punc;harted <HI>Caesar</HI> still proceeds,</L>
+<L>His strength is doubled, weakened is his foe:</L>
+<L>Vnto <HI>Pelusium</HI> hastely he speedes,</L>
+<L>These fugitiues may not escape him so.</L>
+<L>There lay <HI>Antonius</HI> nauie in the rode,</L>
+<L>Who yeelded when <HI>Augustus</HI> fleet was seene:</L>
+<L>And likewise shewed how <HI>Antony</HI> abode,</L>
+<L>At <HI>Alexandria</HI> with this fearfull Queene,</L>
+<L>Who seeing thus himselfe depriued of ayde,</L>
+<L>Cryes out that <HI>Cleopatra</HI> hath betrayed him:</L>
+<L>She whether guiltie, or perhaps affraid,</L>
+<L>That fro~ hir slaughter nothing could haue staid him;</L>
+<L>Flies from his sight, and falsely sends him word,</L>
+<L><PB REF="45">That she (drownd in despaire) hir selfe had slaine:</L>
+<L>Wherwith enrag'd, he takes a bloudie sword,</L>
+<L>And breathing out these speeches all in vaine;</L>
+<L>O <HI>Cleopatra</HI> princesse of my heart;</L>
+<L>And art thou dead? lo dying I adore thee:</L>
+<L>This more then death, doth now procure my smart,</L>
+<L>That wanting courage&punc; I went not before thee;</L>
+<L>With that, yet warme death-couloured instrument,</L>
+<L>In his faire brest he did the gate set ope,</L>
+<L>Which to the earth, his bloudlesse lims hath sent:</L>
+<L>His dying soule vp to the heauens I hope.</L>
+<L>And is he dead?</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Byl.</SPEAKER>
+<LG>
+<L>His better part yet liueth,</L>
+<L>But to his corps a tombe sweet qui<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">t giueth</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Octa.</SPEAKER>
+<LG>
+<L>O poore <HI><GAP DESC="illegible" RESP="apex" EXTENT="1 word">,</HI> now I feele thy paines,</L>
+<L>Greefes greedie vulture feedes vpon my heart:</L>
+<L>Vpon my head a shower of mischiefe raines,</L>
+<L>And all the heauens conclude to worke my smart.</L>
+<L>O my <HI>Antonius,</HI> O my Lord, my Lord:</L>
+<L>O that <HI>Octauia</HI> had been slaine for thee;</L>
+<L>O that the heauens would vnto me afford,</L>
+<L>That this my bloud mought thy liues ransome be.</L>
+<L>Mine was the wound thou gauest that noble brest,</L>
+<L>That purple streame extracted from my heart:</L>
+<L>In my deepe passions is thy death exprest,</L>
+<L>Thou feltst the stroke, but I endure the smart,</L>
+<L>And O that greefe did not thus stop my breath,</L>
+<L>And all my words dissolue in showers of teares,</L>
+<L>That I mought worthily lament thy death:</L>
+<L>And <HI>Catadupa</HI>-like, dull all mens eares.</L>
+<L><PB REF="45">Vnhappy world, the pilgrimage of paine,</L>
+<L>The stage where mischiefe actes a dyreful part:</L>
+<L>What hast thou had, what dost thou now containe,</L>
+<L>Which but a thought of pleasures mought impart.</L>
+<L>Not one care-wanting houre my life hath tasted:</L>
+<L>But from the very instant of my birth,</L>
+<L>Vncessant woes my tyred heart haue wasted,</L>
+<L>And my poore thoughts are ignorant of mirth.</L>
+<L>Looke how one waue, another still pursueth,</L>
+<L>When some great tempest holds their troups in chase:</L>
+<L>Or as one houre an others losse reneweth;</L>
+<L>Or posting day supplyes anothers place;</L>
+<L>So do the billows of affliction beate me,</L>
+<L>And hand in hand the stormes of mischiefe goe;</L>
+<L>Successiue cares with vtter ruine threate me;</L>
+<L>Griefe is enchain'd with griefe, and woe with woe,</L>
+<L>Yet must I beare it with a patient minde:</L>
+<L>For why the heauens haue this to me assign'd.</L>
+</LG>
+</SP>
+<DIV3 TYPE="chorus">
+<HEAD>Chorus.</HEAD>
+<LG>
+<L>IN exorable fates,</L>
+<L>That on both high and low,</L>
+<L>Your equall rigour shew:</L>
+<L>Correcting all estates,</L>
+<L>and stately mindes suppressing.</L>
+<L>Your fauour none <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> winne,</L>
+<L><PB REF="46">No cloake or faults can hide:</L>
+<L>But needs we must abide,</L>
+<L>The punishment of sinne,</L>
+<L>And hope for no releasing.</L>
+<L>No greatnes may withstand,</L>
+<L>No words can pitty mooue:</L>
+<L>But we must all approoue,</L>
+<L>The vigour of your hand:</L>
+<L>Great <HI>Ioues</HI> decrees expressing.</L>
+</LG>
+<LG>
+<L>Great <HI>Ioues</HI> decrees, which some,</L>
+<L>Fate, fortune, chance, doe name:</L>
+<L>Are not indeed the same,</L>
+<L>But heauens eternall doome,</L>
+<L>Our witlesse steps directing&punc;</L>
+<L>Their speech exceedes our skill,</L>
+<L>Their words pierce not our eares:</L>
+<L>But in our life appeares,</L>
+<L>The legent of their will:</L>
+<L>Our errours misse correcting.</L>
+<L>Then let the greatest know,</L>
+<L>Dole on their ruine feedes:</L>
+<L>Whiles they obscure vile deedes,</L>
+<L>Vnder a glorious shew;</L>
+<L>The vulgar sort infecting.</L>
+</LG>
+<LG>
+<L><HI>Octauia</HI> still distrest,</L>
+<L>Doth not to vs declare,</L>
+<L>How they most wretched are,</L>
+<L><PB REF="46">Who are with griese opprest:</L>
+<L>But shewes what heauen requireth.</L>
+<L>How through affliction great,</L>
+<L>Great troubles and annoy:</L>
+<L>We finde the doubtfull way,</L>
+<L>That leades to vertues seate:</L>
+<L>Which wisedomes selfe desireth.</L>
+<L>In fairest christall stone,</L>
+<L>Let men her tropheys shew:</L>
+<L>That all the world may know,</L>
+<L>Heere liueth such a one,</L>
+<L>As vertues height asspireth.</L>
+</LG>
+<LG>
+<L>Sharpe griefe and sweet delight,</L>
+<L>Are Gyants to approoue:</L>
+<L>If ought may vs remoue,</L>
+<L>And turne vs from the right,</L>
+<L>Thence double errour springeth.</L>
+<L>The weakest wrought his fall,</L>
+<L>Whiles that <HI>Octauia</HI> true:</L>
+<L>The other did subdue.</L>
+<L>And purchast therewithall:</L>
+<L>That fame her honor singeth.</L>
+<L>A monument most rare,</L>
+<L>Of pure <HI>Arabian</HI> gold,</L>
+<L>The highest worth t'vnfold,</L>
+<L>Let arte for her prepare:</L>
+<L>Who time in tryumph bringeth.</L>
+</LG>
+<LG>
+<PB REF="47">
+<L>Time shall endeare thy name,</L>
+<L>With honors breath make sweet:</L>
+<L>The garland is most meete,</L>
+<L>For such as winne the same;</L>
+<L>Thy vertue best deserued.</L>
+<L>Whiles any sparke of worth,</L>
+<L>Doth lodge in womans brest:</L>
+<L>Thy praise among the rest,</L>
+<L>Be euermore hencefoorth,</L>
+<L>In noblest mindes preserued:</L>
+<L>Of Diamonds most pure,</L>
+<L>A tombe let Angels frame:</L>
+<L>And there engraue her name,</L>
+<L>For euermore t'endure,</L>
+<L>T'eternity reserued.</L>
+</LG>
+<CLOSER>L'aqua non temo del'eterno oblio.</CLOSER>
+</DIV3>
+</DIV2>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+</BODY>
+</TEXT>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="dedication">
+<PB REF="47">
+<HEAD>To the honorable, ver|tuous, and excellent: Mistresse <HI>Mary Thinne.</HI></HEAD>
+<P>_WOrthy of all the titles of ho|nor, y^t nature, vertue, wise|dome and worth, may be|stow on their worthyest, &amp; most fauoured possessors: hauing lately extracted the memory of <HI>Octauia</HI> out of the ashes of ob|liuion: my thoughts continuing (perhaps longer then was fitte) the current of that streame, haue made some idle houres con|uert themselues into the missiue Epistles betweene the vertuous <HI>Octauia</HI> and the li|centious <HI>Antony,</HI> wherein although my slender skill, hath no way bin answerable to the height of your noble conceipt, that the sight of them mought breed you the least content: yet since they are done (pre|suming vpon your accustomed Clemency) I humbly submit them to your fauourable censure. If you therefore who are the mo|ther,
+<PB REF="48">
+or (vnder your correction, to say bet|ter, the murtherer) if concealing may bee called a murther,) of such excellent, &amp; ver|tuous knowledges and perfections, as are able to register a vulgar minde in the fa|mous roules of neuer-ending eternity, will alow the meane and humble conceiptes of others: your honor shalbe aduanced to the highest pitch of their possibility. If you will esteeme the small portion of iudgement in other men, the excellency whereof you will not acknowledge in your selfe: theyr industry shall neuer cease, to wing your fame, till it haue towred beyond the reach of death, and obliuion. Accept therefore I beseech you the memorials of this vertu|ous Empresse: that your worthines may in|deare these worthlesse lynes; these lynes record her memory, her memory aduance your glory; your glory purchase all wished felicitie, and your high felicities, euer en|crease till time giue place vnto eternity.</P>
+<CLOSER><SIGNED>Humbly yours, S. B.</SIGNED></CLOSER>
+</DIV1>
+<DIV1 TYPE="argument">
+<PB REF="48">
+<HEAD>The Argument.</HEAD>
+<P><HI>_OCtauia</HI> seeing the long stay of her husband <HI>Marke Antony</HI> with <HI>Cleopatra</HI> the <HI>Aegiptian</HI> queene: And finding by often tryall, that nothing mought preuaile to recall his obstinate minde from her vnlawfull loue: Intended a voyage to visite him her selfe in person. But in in the way she receiued letters from him, re|quiring her not to approach or come neere him, but to make her stay at <HI>Athens</HI> (where she was at that time) for that he meant with|out longer delay there to come vnto her. She expecting his promise (as at all other times) in vaine: and finding her selfe frustrate of all hope to attaine her desire: writeth vnto him (as it may be supposed) to this effect.</P>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="poem">
+<PB REF="49">
+<HEAD>Octauia to Antonius.</HEAD>
+<LG>
+<L>NOw when these lines (mine owne deare Lord)</L>
+<L>Shall first approach thy sight,</L>
+<L>(These lines which sorrow, feare and loue</L>
+<L>Compel'd my hand to write)</L>
+<L>First but behold the writers name,</L>
+<L>Which doth thine eyes awaite,</L>
+<L>(Her name as full of constant truth,</L>
+<L>As thou of false deceipt)</L>
+<L>And see if any memory,</L>
+<L>Of her doe yet remaine,</L>
+<L>If not, reiect it from thine eyes,</L>
+<L>To read it were but vaine.</L>
+<L>From thence (if shame will thee permit)</L>
+<L>Proceed vnto the rest:</L>
+<L>It is not much to view my deed,</L>
+<L>Tough thou doe me detest.</L>
+<L>When true relation (woe is me</L>
+<L>That I must call it true)</L>
+<L>Of thy most odious faithlesnesse,</L>
+<L>First came vnto my view:</L>
+<L>Euen as a man with sodaine stroke,</L>
+<L>Of thunders mighty force,</L>
+<L>Which for a time both life and scence,</L>
+<L>From body doth diuorce,</L>
+<L>Bereft of motion, stands amaz'd</L>
+<L>With terror of the blow;</L>
+<L>And though aliue, yet cannot tell</L>
+<L><PB REF="49">Where he doe liue or no:</L>
+<L>So stood I sencelesly appal'd,</L>
+<L>With horror of the thing&punc;</L>
+<L>Which now alasse, too well I finde,</L>
+<L>Doth my destruction bring.</L>
+<L>How faine I would not haue beleeu'd,</L>
+<L>That thou shouldst faithlesse be:</L>
+<L>How faine I would haue made my selfe,</L>
+<L>A lyar false for thee.</L>
+<L>But thou art gone, fled and forsworne,</L>
+<L>And naught may thee recall:</L>
+<L>Thou liuest secure and tak'st no care,</L>
+<L>What may poore me befall.</L>
+<L>O deep dissembling faithlesse man,</L>
+<L>That dost me thus beguile:</L>
+<L>S'daine not of her thou louedst once,</L>
+<L>To heare the truth a while.</L>
+<L>Was it for this thou shedst those teares,</L>
+<L>O Crocodile vn kinde,</L>
+<L>When lastly thou didst part from me,</L>
+<L>With shew of constant minde?</L>
+<L>Did not those showring eyes assure</L>
+<L>A neuer-changing loue?</L>
+<L>Did not that periur'd lying tongue,</L>
+<L>Their euidence approoue?</L>
+<L>Did not those foulded armes, embrace</L>
+<L>This body now despis'd?</L>
+<L>And that dissembling heart relent,</L>
+<L>With too much loue surpriz'd?</L>
+<L>O deare <HI>Octauta</HI> (didst thou say)</L>
+<L><PB REF="50">Though we must parted be:</L>
+<L>But for a time, yet that small time</L>
+<L>Seemes thousand yeere to me.</L>
+<L>When I from thee shalbe remou'd,</L>
+<L>From all ioyes I shall part:</L>
+<L>Yet farthest when I am remou'd,</L>
+<L>With thee shall rest my heart.</L>
+<L>Then sweet take thou no care for me,</L>
+<L>But sighes and teares neclect:</L>
+<L>And shortly if the heauen permit,</L>
+<L>My safe returne expect.</L>
+<L>Heere would I haue replyed faine,</L>
+<L>When griefe me tongue did stay:</L>
+<L>And al my words disolu'd to teares,</L>
+<L>Whiles thou didst part away.</L>
+<L>Shall I expect him that entends,</L>
+<L>To see me neuer&punc; then?</L>
+<L>O deep deceipt! &ocirc; fraude! &ocirc; guile!</L>
+<L>O vaine dissembling men!</L>
+<L>What honor, worth, or honesty,</L>
+<L>In him what pitty were,</L>
+<L>That being mine without remorse,</L>
+<L>Could these abuses heare?</L>
+<L>But thou thy selfe, my Lord, to be</L>
+<L>The agent of my paine:</L>
+<L>O how can words but make thee know,</L>
+<L>The griefe that I sustaine?</L>
+<L>The golden pyllers of thy youth,</L>
+<L>Did promise vnto me:</L>
+<L>The building of ensuing age,</L>
+<L><PB REF="50">Should better furnisht be.</L>
+<L>How mought I but conceiue, what cause</L>
+<L>Mought thee heereto compell:</L>
+<L>Vnlesse my selfe haue been the same,</L>
+<L>In louing thee too well.</L>
+<L>What beauty, pleasure, wealth or wit,</L>
+<L>So rare doth <HI>Nilus</HI> breed?</L>
+<L>But <HI>Tyber</HI> may therewith compare,</L>
+<L>If not the same exceed</L>
+<L>Some fond affection hath bewitcht,</L>
+<L>Thy Princely minde I feare:</L>
+<L>O&punc; that I could my doubtful thoughts,</L>
+<L>From such suspition cleare.</L>
+<L>What is there no more power, or force,</L>
+<L>In vertues sacred shield:</L>
+<L>But noble mindes must basely fall,</L>
+<L>And to affection yeeld?</L>
+<L>Or was this sweet eare-pleasing word,</L>
+<L>But placed on thy tongue?</L>
+<L>And neuer planted in t<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">y heart,</L>
+<L>Still nurst with poison stronge.</L>
+<L>No such inordinate affectes,</L>
+<L>In vertuous mindes haue place:</L>
+<L>True noble hearts can not indure,</L>
+<L>So mighty a disgrace.</L>
+<L>He is no prince that subiect is,</L>
+<L>And subiect vnto sinne:</L>
+<L>But slaue-borne witches, they are call'd,</L>
+<L>Which do delight therein.</L>
+<L>Vaine, foolish, blinde, vnpure,</L>
+<L><PB REF="51">Dishonest, idle mindes,</L>
+<L>Vnlawfull loue, to vile desires,</L>
+<L>With fonde affection bindes.</L>
+<L>This is the hand, which doth the raynes</L>
+<L>Of modesty vndoe:</L>
+<L>And nothing is so base or vile,</L>
+<L>Which it perswades not to.</L>
+<L>The mortall foe of reasons good,</L>
+<L>Th'inuenter of deceipt:</L>
+<L>The plague infecter of the minde,</L>
+<L>The deadly poysoned bayte.</L>
+<L>The furious-tempsst-breathing breath,</L>
+<L>To euery quiet minde:</L>
+<L>The map of mischiefe, where the world</L>
+<L>Naught els but greefe can finde.</L>
+<L>The noble <HI><GAP DESC="illegible" RESP="apex" EXTENT="1 word">,</HI> whom the world</L>
+<L>So highly doth adore:</L>
+<L>Could not be conquered by this foe,</L>
+<L>And honored was therefore.</L>
+<L>Tis greater shame, to him that should</L>
+<L>Correct anothers misse:</L>
+<L>To merite well deserued blame,</L>
+<L>Then to him that subiect is.</L>
+<L>Tis greater glory to defend,</L>
+<L>Or selues from errours great:</L>
+<L>Then by supplanting other men,</L>
+<L>To gaine a Princely seate.</L>
+<L>Then suffer not thy selfe aliue,</L>
+<L>To be entomb'd in shame:</L>
+<L>Remember how thy former deeds,</L>
+<L><PB REF="51">Deserue immortall fame:</L>
+<L>Procure not to thy golden day</L>
+<L>Of life, an euening darke.</L>
+<L>Within the hauen of repose.</L>
+<L>Drowne not thy conquering barke.</L>
+<L>Though this licentious life of thine,</L>
+<L>Sweet pleasures seeme to bring:</L>
+<L>A bitter sweet thou shalt it finde,</L>
+<L>Which flowes from such a spring.</L>
+<L>But Aegyptes fertle soile, perhaps</L>
+<L>Thy greedy thoughts doth holde:</L>
+<L>Allured with th'aboundant store,</L>
+<L>Of minde-bewitching gold.</L>
+<L>If vertue, honor and renowne,</L>
+<L>Be of a smaller prize:</L>
+<L>Then misers foode which thou esteem'st&punc;</L>
+<L>Thou maist vs well despise,</L>
+<L>But if more worth remaine in them,</L>
+<L>Then thou couldst euer see:</L>
+<L>Then <HI>Antony</HI> thou art not him,</L>
+<L>I tooke thee for to be.</L>
+<L>O basest minde that euer liued,</L>
+<L>And bare so braue a name:</L>
+<L>To fly the siluer streames of worth,</L>
+<L>And base in filthy shame.</L>
+<L>O that thou couldst so leaue thy selfe</L>
+<L>A while that thou mought'st finde:</L>
+<L>How hatefully the world doth scorne,</L>
+<L>The basenes of thy minde.</L>
+<L>How faine I would not now beleeue,</L>
+<L><PB REF="52">That thou so obiect art:</L>
+<L>To sell thy selfe for store of earth,</L>
+<L>Which can no worth impart.</L>
+<L>The basest thought that any minde,</L>
+<L>Vpon the earth may haue:</L>
+<L>Is seruilly to make it selfe,</L>
+<L>To any thing a slaue.</L>
+<L>And by how much the thing more vile,</L>
+<L>Which doth our liking mooue:</L>
+<L>By so much more, more obiect he,</L>
+<L>Which there with is in loue.</L>
+<L>Then base earth creeping minde adue,</L>
+<L>Since this is thy delight:</L>
+<L>I blame thee not though thou do blush,</L>
+<L>At noble honors sight.</L>
+<L>Had <HI>Iulius Caesar</HI> loued gold,</L>
+<L>More then a noble name<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"></L>
+<L>He neuer had been royalliz'd,</L>
+<L>By such immortall fame.</L>
+<L>The <HI>Macedonian</HI> monarke, whom</L>
+<L>Aeternity shall praise:</L>
+<L>Disdain&punc;d that any golden steps,</L>
+<L>His glorious name should raise.</L>
+<L>But <HI>Mydas</HI> purchast endlesse shame,</L>
+<L>By being as thou art:</L>
+<L>And <HI>Cressus</HI> for his store of gold,</L>
+<L>Had store of bitter smart.</L>
+<L>The gods for this doe plague vs men,</L>
+<L>We men each other hate:</L>
+<L>From hence, as from a fountaine, spring&punc;</L>
+<L><PB REF="52">Strife, murthers, and debate.</L>
+<L>O scencelesse minde of foolish man,</L>
+<L>Which sees not what it hath:</L>
+<L>But wanting in excessiue store,</L>
+<L>Continues errours path.</L>
+<L>Thou shalt not need such store of wealth,</L>
+<L>Thy waftage for to pay:</L>
+<L>When thy offending soule to hell,</L>
+<L>Olde <HI>Charon</HI> shall conuay.</L>
+<L>O seeke thy wealth in vertues mines,</L>
+<L>If thou true ioyes wilt finde:</L>
+<L>All other things vuconstant are,</L>
+<L>And lighter then the winde.</L>
+<L>But wanton lust procures thy fall,</L>
+<L>And workes my world of woe:</L>
+<L>An enemy of honest mindes,</L>
+<L>Rare vertues common foe.</L>
+<L>What plague infernall worse then this,</L>
+<L>Whose poysoned baite doth gaine:</L>
+<L>Both to the body and the soule,</L>
+<L>An euerlasting paine.</L>
+<L>What multitudes of soules are lost?</L>
+<L>What Citties ouerthrowne?</L>
+<L>What Kingdomes by licentious lust,</L>
+<L>With ruine ouergrowne?</L>
+<L>Let deep lamenting <HI>Greece,</HI> declare</L>
+<L>Th'effect of hatefull lust:</L>
+<L>Or that which once was called <HI>Troy,</HI></L>
+<L>Now nothing els but dust.</L>
+<L>And had not women had the wit,</L>
+<L><PB REF="53">The danger to repell:</L>
+<L>The <HI>Sabines</HI> swords had made vs feele,</L>
+<L>The smart thereof too well.</L>
+<L>O let the bleeding memories,</L>
+<L>Of many in like case,</L>
+<L>Be dreadfull motiues to thy minde,</L>
+<L>To leaue this wicked race.</L>
+<L>How canst thou censure others misse,</L>
+<L>And yet not see thine owne:</L>
+<L>Can wisedome ioy at others ioyes,</L>
+<L>And see it selfe ore'throwne&punc;</L>
+<L>O since the cause of this effect,</L>
+<L>Is so exceeding ill:</L>
+<L>The horrour of the thing it selfe,</L>
+<L>With terrour mought thee fill.</L>
+<L>Who soeuer with the like offence,</L>
+<L>His body hath defil'd:</L>
+<L>Of vertues dearest ornaments,</L>
+<L>His soule was first despoil'd.</L>
+<L>Of honor, worth, and fortitude,</L>
+<L>He lost the sacred name:</L>
+<L>And like a coward&punc; did subiect</L>
+<L>Himselfe to sinne and shame.</L>
+<L>He da<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">es, and nights, hath wholly spent</L>
+<L>In dronkennes and play:</L>
+<L>By folly, and by necligence,</L>
+<L>Hath wrought his whole decay.</L>
+<L>Or els these cousin-germaine sinnes,</L>
+<L>He haply did connect:</L>
+<L>Base slouthfulnes, and luxury,</L>
+<L><PB REF="53">Which worke the same effect.</L>
+<L>O fly inordinate delights,</L>
+<L>Each pleasure hath his paine:</L>
+<L>And he that stained is with sinne,</L>
+<L>Cannot be cleane againe.</L>
+<L>Let <HI>Deniz</HI> torne vntombed corps,</L>
+<L>Sufficiently declare,</L>
+<L>How this same loathsome vice doth make</L>
+<L>Hir best attendants fare.</L>
+<L>Dost thou not know, the sages teach,</L>
+<L>A man should neuer doe:</L>
+<L>The thing that wicked is and vile,</L>
+<L>Nor yet consent thereto?</L>
+<L>Though warely he did foresee,</L>
+<L>It mought escape the light:</L>
+<L>And be most secretly conceald,</L>
+<L>And hid from all mens sight?</L>
+<L>How far thou art (which shouldst excell)</L>
+<L>From being excellent:</L>
+<L>Do but behold and view thy selfe,</L>
+<L>By this their president.</L>
+<L>Who publikly hast sould thy selfe</L>
+<L>Vnto eternall shame:</L>
+<L>And like a scencelesse blinded man,</L>
+<L>Perseuer'st in the same.</L>
+<L>Or haue some other pleasures strange,</L>
+<L>Estrang'd thy minde from me?</L>
+<L>For (as men say) in that same court,</L>
+<L>Great store of pleasures be,</L>
+<L>We want not heere our true delights,</L>
+<L><PB REF="54">But if we had lesse store,</L>
+<L>Of wanton sports: thou oughtest no<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"></L>
+<L>To shame thy selfe therefore.</L>
+<L>Our pleasures heere, may satisfie</L>
+<L>And please each vertuous minde:</L>
+<L>And he no sparke of vertue hath,</L>
+<L>Which other seekes to finde&punc;</L>
+<L>Alluring pleasure, staine of life,</L>
+<L>Sower mischiefs sweetest roote:</L>
+<L>By it, all noble thoughts and deeds,</L>
+<L>Are troden vnder foote,</L>
+<L>A minde corrupting monster vile,</L>
+<L>A mal-seducing guest,</L>
+<L>Nurse of repentance, paine, and gree<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">e,</L>
+<L>Depriuer of sweete rest;</L>
+<L>Prince-haunting fiend, sweete poysoned bayte,</L>
+<L>False theefe of happy blisse;</L>
+<L>Who seemes a guide to hoped ioyes&punc;</L>
+<L>But leades vs still amisse.</L>
+<L>Do but recount with wisdoms eyes,</L>
+<L>Those pleasures which are past,</L>
+<L>And see what pleasure, profit, gaine,</L>
+<L>They yeeld thee now at last&punc;</L>
+<L>So when thy ill spent granted time,</L>
+<L>His course hath fully runne:</L>
+<L>Then shalt thou finde thy pleasures fled,</L>
+<L>Hopes vaine, thy selfe vndone.</L>
+<L>Learne to take pleasure in such things,</L>
+<L>Whence true ioyes may arise:</L>
+<L>Thou ca<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">st not do more like a prince,</L>
+<L><PB REF="54">Then vaine things to despise.</L>
+<L>Bring not thy selfe, thy house, thy queene,</L>
+<L>Vnto eternall shame:</L>
+<L>In being much more then thy selfe,</L>
+<L>And farre lesse then thy name.</L>
+<L>Let no delight, make thee forget,</L>
+<L>What best befits thy state:</L>
+<L>He is no Prince, which his affects</L>
+<L>Cannot predominate.</L>
+<L>VVho for his pleasure poyson drinkes,</L>
+<L>Though mixt with things most sweete&punc;</L>
+<L>Should haue a name by my consent,</L>
+<L>For such a man more meete.</L>
+<L>Or doost thou heere dislike perhaps,</L>
+<L>That <HI>Delta</HI> beares such swaye:</L>
+<L>And sacred vertues holy rights,</L>
+<L>Haue made thee flye away.</L>
+<L>Is chastitie so loathsome then</L>
+<L>Vnto a wanton eare:</L>
+<L>That beautie is no beautie, where</L>
+<L>Such chaste desires appeare?</L>
+<L>Can loosenesse, which the wise dispraise,</L>
+<L>So please a noble minde:</L>
+<L>That true nobility contem'nd,</L>
+<L>Sole pleasures there they finde?</L>
+<L>Then must I needs displease indeed,</L>
+<L>And know not what to say:</L>
+<L>For why the swine do most delight,</L>
+<L>The most defiled pray.</L>
+<L>The siluer fish, by nature doe</L>
+<L><PB REF="55">The purest streames delight:</L>
+<L>The stately Faulcon, midst the cloudes,</L>
+<L>Directs hir towring flight.</L>
+<L>The Eagles seldom sit in dales,</L>
+<L>But pearch on highest hils;</L>
+<L>And euery thing delights his like,</L>
+<L>And natures course fulfils.</L>
+<L>But thou lesse constant then all these,</L>
+<L>Though farre more base then they:</L>
+<L>Insteed of Christall streames, dost loue</L>
+<L>In puddles vile to play.</L>
+<L>Thou borne by nature to aduance</L>
+<L>Thy thoughts to honors height;</L>
+<L>Dost carelesly stoope vnto shame,</L>
+<L>And fall with thine owne waight.</L>
+<L>Then neuer thinke, I thinke it strange</L>
+<L>That thou art fled from mee:</L>
+<L>The heauens forbid my lowest thoughts,</L>
+<L>Should simpathize with thee.</L>
+<L>But heerein thou art wise indeed,</L>
+<L>To hide thy selfe away:</L>
+<L>And such as neuer haue thee knowne</L>
+<L>By falshood to betray.</L>
+<L>For why, assure thy selfe, all those</L>
+<L>That do thy basenesse know:</L>
+<L>Thy faithlesnesse, and periurie,</L>
+<L>Do much detest thee now.</L>
+<L>The heauens will sharply punish sinne,</L>
+<L>And flye where so thou can:</L>
+<L>Thongh for a time they do deferre,</L>
+<L><PB REF="55">They'l plague the periurde man.</L>
+<L>Then view thy selfe in glasse of truthe,</L>
+<L>And be not thus abusd:</L>
+<L>No honor euer crownd the man,</L>
+<L>That honesty refusd'.</L>
+<L>The nobler is the birth and place,</L>
+<L>From whence thine honor came:</L>
+<L>The more notorious is thy fault,</L>
+<L>If thou debase the same.</L>
+<L>No, tis hir wit hath thee bewitcht,</L>
+<L>Hir sweet delighting tongue:</L>
+<L>Which doth enchant thy wondring mind,</L>
+<L>And makes thee stay this long.</L>
+<L>This wit, indeed, were something worth,</L>
+<L>Were wisdome ioyn'd thereto:</L>
+<L>Yet not so much, that it should serue</L>
+<L>So many to vndoe.</L>
+<L>The earth hath not a thing so rare,</L>
+<L>Which wisdome would not flye:</L>
+<L>Yea rather hate and much detest,</L>
+<L>Then purchase shame thereby.</L>
+<L>Who can so loue a sporting wit,</L>
+<L>That it procure his fall:</L>
+<L>His kindnesse may be iudged great,</L>
+<L>But sure his wit is small.</L>
+<L>Then let vs loue base <HI>Catiline,</HI></L>
+<L>For wit and noble bloud:</L>
+<L>No, loathe him rather, for his wit</L>
+<L>Knew neuer what was good.</L>
+<L>And let vs <HI>Varro</HI> likewise praise,</L>
+<L><PB REF="56">For he was witty sure:</L>
+<L>But wicked too, and therefore <HI>Rome</HI></L>
+<L>Could not his wit endure.</L>
+<L>The more a man excels in wit,</L>
+<L>And ill imployes the same:</L>
+<L>The more do all men him detest,</L>
+<L>That loue a vertuous name.</L>
+<L>Though sweetly did the <HI>Syrens</HI> sing,</L>
+<L>Yet who to them gaue eare?</L>
+<L>Their message to th' <HI>Ionian</HI> deepes,</L>
+<L>He presently did beare.</L>
+<L>Or is it beauty, that doth set</L>
+<L>Thy heart so much on fi<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">r:</L>
+<L>And captiuate thy sences so,</L>
+<L>That thou canst not retire?</L>
+<L>The rarest beauty of the face,</L>
+<L>Cannot enforce the wise:</L>
+<L>With paine to purchase liuing shame,</L>
+<L>And better things despise.</L>
+<L>Nor are the fayrest alwayes found,</L>
+<L>The best, (as I suppose)</L>
+<L>Some noysome flowers, do seeme as faire,</L>
+<L>As doth the fragrant Rose.</L>
+<L>That wonder breeding beauty sure,</L>
+<L>Which thou dost so esteeme:</L>
+<L>Shall come to nothing at the last,</L>
+<L>As first it was I deeme.</L>
+<L>The Rose and Lyllie cannot long</L>
+<L>Content and please, the sight:</L>
+<L>No goulden day could euerscape,</L>
+<L><PB REF="56">The darke ensuing night.</L>
+<L>Proude time will burie beauties youth,</L>
+<L>In furrowes of decaye:</L>
+<L>Wert thou ten thousand times a prince,</L>
+<L>Thou canst not force it stay.</L>
+<L>All these fond pleasures (if fond things</L>
+<L>Deserue so good a name)</L>
+<L>Should not seduce a noble minde,</L>
+<L>To staine it selfe with shame.</L>
+<L>The time shall come, when all these same,</L>
+<L>Which seeme so riche with ioy:</L>
+<L>Like tyrants shall torment thy minde,</L>
+<L>And vex thee with annoy.</L>
+<L>When all those honye-tongued mates,</L>
+<L>Can but weepe and lament:</L>
+<L>That they by force, must part from thee,</L>
+<L>Whose vitall course is spent.</L>
+<L>When all thy greatnesse must be left,</L>
+<L>To such as shall succeed:</L>
+<L>When sweetest pleasures memory,</L>
+<L>Most dreadfull thoughts shall breede;</L>
+<L>When this so much desired Sunne,</L>
+<L>Shall but displease thy sight;</L>
+<L>And all things else shall seeme to want,</L>
+<L>The taste of sweete delight.</L>
+<L>When all the creatures of the earth,</L>
+<L>Cannot procur<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> thine ease:</L>
+<L>And friends, with showres of vaine-shed teares,</L>
+<L>Cannot thy greefe appease.</L>
+<L>When tyranizing paine, shall stop</L>
+<L><PB REF="57">The passage of thy breath:</L>
+<L>And thee compell to sweare thy selfe,</L>
+<L>True seruant vnto death.</L>
+<L>Then shall one vertuous deed impart</L>
+<L>More pleasure to thy minde:</L>
+<L>Then all the treasures that on earth,</L>
+<L>Ambitious thoughts can finde.</L>
+<L>The well-spent time of one short day,</L>
+<L>One hower, one moment then:</L>
+<L>Shall be more sweet, then all the ioyes</L>
+<L>Amongst vs mortall men.</L>
+<L>Then shalt thou finde but one refuge,</L>
+<L>Which comfort can retaine:</L>
+<L>A guiltlesse conscience pure and cleare,</L>
+<L>From touch of sinfull staine.</L>
+<L>Then shall thine inward eyes, behoulde</L>
+<L>The loathsome path of sinne:</L>
+<L>And thy proud heart repine in vaine,</L>
+<L>That thou hast walkt therein.</L>
+<L>Then shall <HI>Octauiaes</HI> wrongs appeare,</L>
+<L>Like monsters to thine eyes:</L>
+<L>And thou shalt curse the time, and day,</L>
+<L>That thou didst me despise.</L>
+<L>Then shall my sighes, and teares, enflame</L>
+<L>A bonefire in thy minde:</L>
+<L>And thou thy selfe, thy selfe shalt loathe,</L>
+<L>For being thus vnkinde.</L>
+<L>At thy right hand, my wronged ghoast,</L>
+<L>Shall iust complaints renue:</L>
+<L>And on thy left, that queene shall shew</L>
+<L><PB REF="57">What hath been wrought by you.</L>
+<L>Aboue thy head, thine eyes shall see</L>
+<L>The heauens to iustice bent:</L>
+<L>Below thy <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">eete, the pit of hell,</L>
+<L>Ordain'd for punishment.</L>
+<L>Ah poore <HI>Antonius</HI> how wilt thou,</L>
+<L>Abhorre thy wretched state:</L>
+<L>And most entirely then repent,</L>
+<L>But then t'will be too late.</L>
+<L>But thou great Emp<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">rour dost disdaine</L>
+<L>Such sharpe rebukes to finde:</L>
+<L>For pietie, and pittie both,</L>
+<L>Are strangers to thy minde&punc;</L>
+<L>Thy braue heroick thoughts do scorne</L>
+<L>To stoope to these conceipts:</L>
+<L>To humble for such high <GAP DESC="illegible" RESP="apex" EXTENT="1 word">,</L>
+<L>As honors praise awaight<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">.</L>
+<L>Then great <HI><GAP DESC="illegible" RESP="apex" EXTENT="1 word">,</HI> worthy prince,</L>
+<L>What Trophyes may we r<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">ise,</L>
+<L>To equall these thy <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> designes</L>
+<L>And manifest thy <GAP DESC="illegible" RESP="apex" EXTENT="1 word">&punc;</L>
+<L>Who may inough augment thy <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">ame,</L>
+<L>To answere thy desert:</L>
+<L>Who doost attempt with <GAP DESC="illegible" RESP="apex" EXTENT="1 word">,</L>
+<L>To breake a womans <GAP DESC="illegible" RESP="apex" EXTENT="1 word">.</L>
+<L>A glory great, a <GAP DESC="illegible" RESP="apex" EXTENT="2 words">,</L>
+<L>For such as faithlesse be:</L>
+<L>Form thy deeds, the world may view,</L>
+<L>The worthe that is in the<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"></L>
+<L>More then a man thou wouldst be thought,</L>
+<L><PB REF="58">And shouldst indeed be so:</L>
+<L>But let thy deeds more manly bee,</L>
+<L>Or els that name forgoe.</L>
+<L>That man which seemes a man in shew,</L>
+<L>And is not such a one:</L>
+<L>Deserues another name by right,</L>
+<L>For he by right is none.</L>
+<L>O do not thinke a womans death,</L>
+<L>Can much endeare thy name:</L>
+<L>But thinke how this vnmanly deed,</L>
+<L>Will worke thine endlesse shame.</L>
+<L>What man, that were a man indeed,</L>
+<L>(Much lesse a Prince) would see,</L>
+<L>His wife, and Queene, a spectacle,</L>
+<L>Of greefe and miserie?</L>
+<L>Would to the pittie of the world,</L>
+<L>And to all wondring eyes,</L>
+<L>My constant louing minde reiect:</L>
+<L>And guiltlesse me despise.</L>
+<L>Would such vncessant streames of teares,</L>
+<L>Draw from these restlesse springs:</L>
+<L>And loade my <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">eart with endlesse greefe,</L>
+<L>Which vtter ruine brings.</L>
+<L>But hide thy head and all is well,</L>
+<L>Thy faults cannot be spied:</L>
+<L>No, thou must know the <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">eauens are iust,</L>
+<L>And must their sentence bide.</L>
+<L>When all those powers which thou hast wrongd,</L>
+<L>Shall punishment require:</L>
+<L>How <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> wretch be halfe inough,</L>
+<L><PB REF="58">To satisfie their ire?</L>
+<L>How canst thou euer hope to pay</L>
+<L>The forfait of thy misse&punc;</L>
+<L>VVhen powerfull Iustice shall impose,</L>
+<L>The iust reuenge o<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> this.</L>
+<L>VVhich makes me pittie more thy state,</L>
+<L>Then greeue at mine owne wrong:</L>
+<L>To thinke how he whom I haue lou'd,</L>
+<L>Shall plagued be <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> long.</L>
+<L>Yet know, though I detest thy fault,</L>
+<L>I beare thee no ill will:</L>
+<L>For if <HI>Antonius</HI> will returne,</L>
+<L>He shall be loued still.</L>
+</LG>
+<Q>To which shee receiued this answere following.</Q>
+</DIV1>
+<DIV1 TYPE="poem">
+<HEAD>Antonius to Octauia.</HEAD>
+<LG>
+<L>AMongst the monstrous stormes of woe,</L>
+<L>Which do my soule surprize:</L>
+<L>Thy direfull <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> <HI><GAP DESC="illegible" RESP="apex" EXTENT="1 word">,</HI> were</L>
+<L>Presented to mine <GAP DESC="illegible" RESP="apex" EXTENT="1 word">,</L>
+<L>O heauens! how erosly haue you set,</L>
+<L>Your still repugnant starres?</L>
+<L>Which crosly, crosse my tyred life,</L>
+<L>With mortall ciuill warres.</L>
+<L>I see, and know, that to be true,</L>
+<L>Which thou dost heere obiect:</L>
+<L>I see thou rightly callest that wrong,</L>
+<L>Which I may not correct.</L>
+<L><PB REF="59">I finde my selfe engulft in greefe,</L>
+<L>Entrapt in mischiefes power:</L>
+<L>Yet cannot I auoide the storme,</L>
+<L>Though it my life deuoure.</L>
+<L>Of force my heart must condiscend,</L>
+<L>To what thou dost require:</L>
+<L>Yet cannot I performe the thing,</L>
+<L>Which is thy chiefe desire.</L>
+<L>I know the safe, and perfect way,</L>
+<L>Which reason saith is best:</L>
+<L>Yet willingly I follow that,</L>
+<L>Which wisdom liketh least.</L>
+<L>What reason will, that same would I,</L>
+<L>And wisdom would so too:</L>
+<L>But some thing greater then vs all,</L>
+<L>Will not consent thereto.</L>
+<L>That time, that day, those lookes, those words,</L>
+<L>Are yet fresh in my minde:</L>
+<L>When my <GAP DESC="illegible" RESP="apex" EXTENT="2 words"> greefe,</L>
+<L>Vnto vs both assign'd.</L>
+<L>Those teares, I yet remember well,</L>
+<L>Whiles I did thee imbr<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">ce:</L>
+<L>Those setled silent <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> lookes,</L>
+<L>Plac'd in each others face.</L>
+<L>My words which true loue did endite,</L>
+<L>And faith confirme the same:</L>
+<L>(For constant truth did at that time,</L>
+<L>Secure my thoughts from blame.)</L>
+<L>My heart was free from thought of <GAP DESC="illegible" RESP="apex" EXTENT="1 word">,</L>
+<L>My minde from false entent:</L>
+<L><PB REF="59">I scornd a false dissembling worde,</L>
+<L>And nought but truthe I meant.</L>
+<L>But since mine eyes enricht their sight,</L>
+<L>With <HI>Cleopatraes</HI> face:</L>
+<L>My thoughts another obiect found,</L>
+<L>My heart another place.</L>
+<L>Which obiect so allur'd my minde,</L>
+<L>With rauishing delight:</L>
+<L>That wanting hir, I thought each day,</L>
+<L>An endlesse tedious night.</L>
+<L>My very thoughts fram'd all my wordes,</L>
+<L>To <HI>Cleopatraes</HI> name:</L>
+<L>Yea, when most great affaires withdrew,</L>
+<L>My fancie from the same:</L>
+<L>Mine eyes were blinde, mine eares were deaffe,</L>
+<L>My minde did scencelesse proue:</L>
+<L>But when they saw, heard, or perceiu'd,</L>
+<L>Hir face, hir name, hir loue:</L>
+<L>No pleasures could my fancie please,</L>
+<L>No mirth it selfe endeare:</L>
+<L>Wherein th'Idea of hir face,</L>
+<L>Did not to me appeare.</L>
+<L>What reasons left I vnapprou'd,</L>
+<L>What counsailes force? to breake</L>
+<L>The sweete captiuing band of loue,</L>
+<L>But all I found too weake.</L>
+<L>He is deceiued, that thinks to finde,</L>
+<L>A countermine in loue:</L>
+<L>And woe is me, that speaking this,</L>
+<L>I speake but what I proue.</L>
+<L><PB REF="60">Thus I my selfe the agent m<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">de,</L>
+<L>And traytor of my <GAP DESC="illegible" RESP="apex" EXTENT="1 word">:</L>
+<L>Can neuer hope to contradict,</L>
+<L>Or to encounter this.</L>
+<L>But though my yeelding heart as then,</L>
+<L>Thy true loue did detaine:</L>
+<L>That deed of <GAP DESC="illegible" RESP="apex" EXTENT="1 word">, a greater power,</L>
+<L>By force reuokes againe.</L>
+<L>And those truth-telling sages teach,</L>
+<L>That euery motion small:</L>
+<L>Is by a greater ouercome,</L>
+<L>Or hindred therewithall.</L>
+<L>O then, though reason, reason be,</L>
+<L>Yet must it condiscend:</L>
+<L>And yeeld to that, against whose force</L>
+<L>It cannot vs defend.</L>
+<L>And neuer me so sharply blame,</L>
+<L>As actor of this ill:</L>
+<L>Tis not <HI>Antonius,</HI> but the heauens,</L>
+<L>Which do withstand thy will.</L>
+<L>And what the heauens do force vs to,</L>
+<L>We may not disobay:</L>
+<L>When their decrees are once enrould,</L>
+<L>O who may then say nay?</L>
+<L>These mouing stars which we behould,</L>
+<L>Our mindes do rule and guide:</L>
+<L>And looke what course they set vs in,</L>
+<L>Therein must we abide.</L>
+<L>This sparke of reason is not ours,</L>
+<L>But lent vs from aboue.</L>
+<L><PB REF="60">The Gods do giue and take the same,</L>
+<L>They make vs loathe and loue.</L>
+<L>Then deare, why shouldst thou so vpbraid</L>
+<L>And sharply reprehend:</L>
+<L>Thy <HI>Antony:</HI> for such a fault</L>
+<L>As he may not amend.</L>
+<L>If in my heart I did thee hate,</L>
+<L>Then were I worthy blame:</L>
+<L>But I haue euer lou'd thee well,</L>
+<L>Who well deseruedst the same.</L>
+<L>And though I cannot thee afford,</L>
+<L>The dearest of my heart:</L>
+<L>Yet needst thou not thus to complaine,</L>
+<L>Who hast so large a part.</L>
+<L>No day, no night, their posting course,</L>
+<L>So speedily could frame:</L>
+<L>But they beheld, my thoughts, returne</L>
+<L>Due homage to thy name.</L>
+<L>When bloudy terror, danger, death,</L>
+<L>Vpon me did lay houlde:</L>
+<L>Thy memory reuiu'd my minde,</L>
+<L>And made my courage bolde.</L>
+<L>No not a thousand fierce assaults,</L>
+<L>And perils many moe:</L>
+<L>Could euer force my louing heart,</L>
+<L><HI>Octauia</HI> to forgoe.</L>
+<L>But tyrant loue, me from my selfe,</L>
+<L>And from my Queene doth steale:</L>
+<L>And pardon me though I perhaps,</L>
+<L>Too great a fault reueale.</L>
+<L><PB REF="61">And pardon needs, I must obtaine,</L>
+<L>If this so much offend:</L>
+<L>For heere my loue did first begin,</L>
+<L>And heere my li<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">e must end.</L>
+<L>Heere will I shew, I neither am</L>
+<L>Vnconstant, nor vnkinde:</L>
+<L>For <HI>Cleopatra</HI> whiles I liue,</L>
+<L>Shall me most constant finde.</L>
+<L>Why am I call'd an Emperour,</L>
+<L>If I should subiect be:</L>
+<L>And be compeld to leaue the thing,</L>
+<L>VVhich most delighteth me?</L>
+<L>No deare <HI>Octauia,</HI> thy request</L>
+<L>Can neuer be fulfild:</L>
+<L>Let Gods be Gods, and Kings be Kings,</L>
+<L>For none but cowards yeeld.</L>
+<L>VVere she as <HI>Baucis,</HI> when she lodg'd</L>
+<L>Hir vnknowne greatest guest:</L>
+<L>VVere she a Lyon, Lybert, VVolfe,</L>
+<L>Or some worse sauadge beast;</L>
+<L>VVere she a furie, or what else,</L>
+<L>VVhose presence glads my heart,</L>
+<L>And to my rauisht captiue soule,</L>
+<L>Such sweetnesse doth impart;</L>
+<L>I would exceede <HI>Ioues</HI> simple guiftes,</L>
+<L>And giue the machine round,</L>
+<L>And all the treasures, wealth, and store,</L>
+<L>Which therein may be found.</L>
+<L>I would from parents, children, friends,</L>
+<L>My dearest thoughts remoue.</L>
+<L><PB REF="61">Surrender scepter, kingdome, crowne,</L>
+<L>For to enioy my loue.</L>
+<L>And by my bounty, truth and zeale,</L>
+<L>The erring world should see:</L>
+<L>No base, or seruile, scorned thought,</L>
+<L>Had euer place in me.</L>
+<L>I would disdaine a monark should,</L>
+<L>But equall my desire:</L>
+<L>My constant faith should farre exceed,</L>
+<L>The height of all aspire.</L>
+<L>They do but blow the coales of hate,</L>
+<L>Which my designes improue:</L>
+<L>If euer fault may pardon get,</L>
+<L>O pardon faulty loue.</L>
+<L>I grant, I were a monster vile,</L>
+<L>Vnworthy of my life:</L>
+<L>If I should hate, or thee disdaine,</L>
+<L>Who wast my spouse and wife.</L>
+<L>But <HI>Cleopatraes</HI> dearest loue,</L>
+<L>In me doth beare such sway:</L>
+<L>That I enuy or mallice none,</L>
+<L>So I may her enioy.</L>
+<L>And say not, tis a shamefull thing</L>
+<L>To loue a stranger so:</L>
+<L>For loue I must, and loue I will,</L>
+<L>Though all the world say no.</L>
+<L>The gods I hope wil not be moou'd,</L>
+<L>Such sharp reuenge to take&punc;</L>
+<L>On those which er<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">e, but in such faults,</L>
+<L>As they themselues did make.</L>
+<L><PB REF="62">Were it dishonor to be kinde,</L>
+<L>To those we best esteeme:</L>
+<L>Great <HI>Ioue</HI> himselfe could not be free,</L>
+<L>From such disgrace (I deeme).</L>
+<L>That monster quelling <HI>Hercules,</HI></L>
+<L>Should haue been called base:</L>
+<L>When his victorious conquering arme&punc;</L>
+<L>Did <HI>Omphale</HI> imbrace.</L>
+<L>No, I disdaine, the brauest minde</L>
+<L>That drawes this vitall breath,</L>
+<L>Should thinke me base, who haue contemn'd,</L>
+<L>The very face of death.</L>
+<L>Tis rather base, to be compel'd</L>
+<L>To that we fancy least:</L>
+<L>O why am I a Prince, if not</L>
+<L>To doe as likes me best?</L>
+<L>Suppose within my setled minde,</L>
+<L>There could be such a thought:</L>
+<L>That to consent to thy request,</L>
+<L>I haply mought be brought.</L>
+<L>Would not the Princesse of my soule,</L>
+<L>My <HI>Cleopatra,</HI> pay</L>
+<L>The largest tribute of her life,</L>
+<L>Her <HI>Antony</HI> to stay?</L>
+<L>Are not her words, her sighes, her teares,</L>
+<L>Most precious to my heart?</L>
+<L>Doth not her face, her tongue, her wit,</L>
+<L>My soules delight impart?</L>
+<L>How then can I (vnhappy man)</L>
+<L>My selfe so well dispose:</L>
+<L><PB REF="62">As mought content and please you both,</L>
+<L>Who both your selues oppose.</L>
+<L>No <HI>Hercules</HI> can this performe,</L>
+<L>No <HI>Sphynx</HI> this doubt exclude&punc;</L>
+<L>Yet thus I fully am resolu'd,</L>
+<L>And thus I doe conclude;</L>
+<L>The knot which cannot be vndone,</L>
+<L>In sunder thus I strike:</L>
+<L>Heere will I liue, heere will I bide,</L>
+<L>And loue you both alike.</L>
+<L>Let <HI>Caesar</HI> fight, <HI>Octauia</HI> frowne,</L>
+<L>Let children waile and weep:</L>
+<L>Thus I resolue, and thus I vow,</L>
+<L>Which vow ile firmely keep.</L>
+<L>And if your mallice, and perhaps</L>
+<L>My fortune, doe procure:</L>
+<L>That all my words and deeds, the worst</L>
+<L>Construction must endure:</L>
+<L>My constant truth and minde resolu'd,</L>
+<L>That worst must needs abide:</L>
+<L>For why from this well grounded loue,</L>
+<L>My heart shall neuer slide.</L>
+<L>Thou all things truely seest indeed,</L>
+<L>But neuer spyest the wound:</L>
+<L>By which my sweet affecting thoughts,</L>
+<L>Their endlesse thraldome found.</L>
+<L>By which my prayer-scorning heart,</L>
+<L>Is brought to condiscend:</L>
+<L>To which that this my chiefe desire,</L>
+<L>Mought not too much offend.</L>
+<L><PB REF="63">Aske, take, assume all that you list,</L>
+<L>Performe your hearts desire:</L>
+<L>So that you neither h<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">r from me.</L>
+<L>Nor me from her require.</L>
+<L>While I my <HI>Cle<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">patra</HI> may,</L>
+<L>Betweene these armes ensold:</L>
+<L>I enuy not great <HI>Cresus</HI> wealth,</L>
+<L>Nor <HI>Midas</HI> store of gold.</L>
+<L>But if vneuitable fate,</L>
+<L>Her presence should deny:</L>
+<L>Though all the world were mine besides,</L>
+<L>With penury I dye.</L>
+<L>Nor let it seeme so passing strange,</L>
+<L>That I cannot be moued:</L>
+<L>By thy entreaty to forgoe,</L>
+<L>The thing so much beloued.</L>
+<L>Through thine owne heart, do but behold</L>
+<L>And see how small auaile:</L>
+<L>Perswations, reasons, words, and wit,</L>
+<L>Affections force to quaile.</L>
+<L>If none of those can take effect,</L>
+<L>To winne thy loue from me:</L>
+<L>Why shouldst thou think that frome this Queene,</L>
+<L>I can diuorced be?</L>
+<L>Sith wisedome then can neuer shew,</L>
+<L>It selfe more wisely sure:</L>
+<L>Then to forgoe that thing with <GAP DESC="illegible" RESP="apex" EXTENT="1 word">.</L>
+<L>Which paine cannot procure.</L>
+<L>Ah striue not thus against the streame,</L>
+<L>But dry thy teares againe;</L>
+<L><PB REF="63">For to perswade me booteles is,</L>
+<L>To force me is more vaine.</L>
+<L>Though al the world should me withstand</L>
+<L>I will not be withheld,</L>
+<L>A Prince dislikes to be gaine-said,</L>
+<L>But scornes to be compel'd.</L>
+<L>And it may be (for who can tel,</L>
+<L>What abscence may procure)</L>
+<L>That <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">aire <HI>Octauia</HI> neuer could,</L>
+<L>So long time chaste endure.</L>
+<L>Ah, can I thinke in such excesse,</L>
+<L>Of liberty and store,</L>
+<L>Of <HI>Ceres, Bacchus,</HI> and what els,</L>
+<L>May be desired more.</L>
+<L>Amongst so many tedious daies,</L>
+<L>And nights, of great disport;</L>
+<L>Amongst such braue heroicke Lords,</L>
+<L>As to that Court resort;</L>
+<L>That thy vnmoued minde, can be</L>
+<L>So tyed to <HI>Vestaes</HI> rightes,</L>
+<L>But that sometimes it will consent,</L>
+<L>To <HI>Venus</HI> sweet delights?</L>
+<L>Can that faire face, which in all hearts</L>
+<L>Doth high affection moue:</L>
+<L>Resist so many strong attempts,</L>
+<L>As will assault thy loue?</L>
+<L>No, no, they are not alwaies true&punc;</L>
+<L>Which doe most truely speake:</L>
+<L>If it were so, how then am I,</L>
+<L>More then a woman weake?</L>
+<L><PB REF="64">And yet my conscience doth discent,</L>
+<L>And plainely this deny:</L>
+<L>And yet suspition doth maintaine,</L>
+<L>It cannot be a lye.</L>
+<L>O how can he be euer brought,</L>
+<L>To thinke another true:</L>
+<L>Who through the guilt of his owne minde,</L>
+<L>The others life doth view?</L>
+<L>And should I then returne to <HI>Roome,</HI></L>
+<L>Mine honor thus to foile?</L>
+<L>No, rather let me finde a tombe,</L>
+<L>In any forraigne soyle.</L>
+<L>And since thou knowest (O too too well)</L>
+<L><HI>Antonius</HI> high disgrace:</L>
+<L>He must prouide of all the world,</L>
+<L>Not to beholde thy face.</L>
+<L>Thy face the lecture of his misse,</L>
+<L>The mirrour of his shame:</L>
+<L>The euer wounding rod, and spur</L>
+<L>Of my eclipsed fame.</L>
+<L>The disproportion of our thoughts,</L>
+<L>Could neuer well agree:</L>
+<L>Thou still shouldst hate my faithlesnesse,</L>
+<L>I blush thy truth to see.</L>
+<L>A fault doth neuer with remorse,</L>
+<L>Our mindes so deeply moue:</L>
+<L>As when anothers guiltlesse life,</L>
+<L>Our errour doth reproue.</L>
+<L>But be it, that from all those doubtes,</L>
+<L>I could my minde set free:</L>
+<L><PB REF="64">Yet whiles ambitious <HI>Caesar</HI> liues,</L>
+<L>I may not come to thee.</L>
+<L>Let all the world perswations vse,</L>
+<L>And their best counsell giue:</L>
+<L>For me, I neuer will be drawne,</L>
+<L>In dangers mouth to liue.</L>
+<L>I cannot brooke, another should,</L>
+<L>Be mightier then I:</L>
+<L>An equall in th'imperiall seate,</L>
+<L>My heart doth much enuy.</L>
+<L>And who so simple, that will looke</L>
+<L>For faith or truth in those:</L>
+<L>Whose faithlesnes may hap to gaine,</L>
+<L>Whose truth a crowne must loose.</L>
+<L>There is no truth in such, whose hearts,</L>
+<L>An Empire doe affect:</L>
+<L>Competitors may talke of truth.</L>
+<L>But doe all truth neclect.</L>
+<L>And be it, that we could agree</L>
+<L>Which hath been seldome knowne:</L>
+<L>Yet still in time, from priuate grudge,</L>
+<L>Such quarrels great haue growne.</L>
+<L>Such bloudy deeds, such strife, debate,</L>
+<L>Such outrage, murther, death:</L>
+<L>That words, and oathes and al, haue prou'd</L>
+<L>But vaine dissembling breath.</L>
+<L>No nature, reason, counsell, wit,</L>
+<L>Ambition can constraine,</L>
+<L>To hold vnuiolable truth:</L>
+<L>Or conscience to detaine.</L>
+<L><PB REF="65">Pale feare, mistrust, vnlook'd for chance,</L>
+<L>And fortunes dyreful frownes:</L>
+<L>Most deep suspect, and swift reuenge,</L>
+<L>Attendant are on crownes.</L>
+<L>Not that I dread or stand in feare,</L>
+<L>What <HI>Caesar</HI> can procure,</L>
+<L>But that this absence better mought,</L>
+<L>My safety assecure.</L>
+<L>And it may hap (for none can tel)</L>
+<L>In time what may be wrought:</L>
+<L>Since vn expected chauce, my loue</L>
+<L>To <HI>Cleopatra</HI> brought.</L>
+<L>So happy time; so good an howe<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">,</L>
+<L>For thee may hap to fall:</L>
+<L>Which may my loue and fancy, backe</L>
+<L>From her againe recall.</L>
+<L>In hope whereof, <HI><GAP DESC="illegible" RESP="apex" EXTENT="1 word"></HI> must</L>
+<L>Her sighes and teares suppresse:</L>
+<L>Vntill <HI>Antonius</HI> finde the meanes,</L>
+<L>These errours to redresse.</L>
+</LG>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+<DIV1 TYPE="errata">
+<HEAD>Errata.</HEAD>
+<P>Act. 2. pag. 3. line 8. for highest read highnes.</P>
+<P>Act. 2. pag. 22. line 8. for frowardnes <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">ead forwardnes.</P>
+<P>Act. 5. pag. 4. line 1. for ascribe read assigne.</P>
+<P>Epist. 1. pag. 1. line 16. for Tough read Though.</P>
+</DIV1>
+<DIV1 TYPE="epilogue">
+<PB REF="65">
+<HEAD>THE EPILOGVE.</HEAD>
+<LG>
+<L>OUr Play is done, now what your censures a<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">e,</L>
+<L>If with, or against Arts i<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">dustrie, the care</L>
+<L>Tooke by the Author (and our paines to pease)</L>
+<L>We know not yet, 'till judgement give us ease.</L>
+<L>Why should we do<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">bt? this Theater do's appeare</L>
+<L>The Musicke Rome of concord; you being here.</L>
+<L>Let no harsh jarring <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">ound of discord then,</L>
+<L>Echo dislike; claps crowne the Tragicke Pen.</L>
+</LG>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+</BODY>
+</TEXT>
+</GROUP>
+</EEBO>
+</ETS>

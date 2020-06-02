@@ -1,0 +1,4368 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD EEBOPROOF 2.0//EN">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-09-29</DATE>
+<RESPSTMT>
+<NAME>John Latta</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate. Checked for N=""s. Checked for GROUP tags. Proofed title page; removed P FIGUREs. Checked ^s. Reviewed structure; changed Ps in license to CLOSER DATE SIGNEDs; added DIV1 for image 47 half-title; removed ARGUMENT P to song and added sub HEAD; added LETTERs for Filena's Letter and CLOSER to the SIGNED there; changed several "Chorus sings" in SPEAKER to in SPEAKER and STAGE; removed all unneeded LGs throughout; added Q TEXT BODY DIV1 for poem / charm and song. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, oes, --s, and UNCLEARs. Corrected $s and $Word$s. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs and endqs, q;s, abq's, Ae's, and Qs. Checked for missing page GAPs. Checked for EPIGRAPHs and ARGUMENTS. Checked proofsheets and made corrections. Checked CLOSERs, TRAILERs, SIGNEDs, OPENERs, SALUTEs, BYLINEs. Sample: 10 minutes. Proofing: 20 minutes. Tag review and corrections: 35 minutes. DONE.</ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="A39719">
+<STC T="W">F1229</STC>
+<BIBNO T="oclc">12207439</BIBNO>
+<VID>56202</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1" MS="y">
+<PB REF="1" MS="y">
+<P>Love's Kingdom.</P>
+<P>A Pastoral Trage-Comedy.</P>
+<P>Not as it was Acted at the Theatre near <HI>Lincolns-Inn,</HI> but as it was written, and since corrected</P>
+<P>BY <HI>Richard Flecknoe.</HI></P>
+<P>With a short Treatise of the <HI>English Stage, &amp;c,</HI> by the same Author.</P>
+<P>LONDON, Printed by <HI>R. Wood</HI> for the Author, 1664.</P>
+</DIV1>
+<DIV1 TYPE="license">
+<PB REF="2">
+<P>Licensed,</P>
+<CLOSER><DATELINE><DATE>April 22, 1664.</DATE></DATELINE>
+<SIGNED>Roger L' Estrange.</SIGNED></CLOSER>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="2">
+<HEAD>To his Excellence, <HI>William,</HI> Lord Marquess of <HI>Newcastle.</HI></HEAD>
+<OPENER><SALUTE>My Noble Lord,</SALUTE></OPENER>
+<P>THe People, who (as one sayes well) are Iudges without Iudgement, and Authors without Authority, had condemn'd this Play on the Stage, for want of being right|ly represented unto them; at which, many noble Persons were so much of|fended, as I could not in any one Act do it more right, or give them more satisfaction, then by Printing it, to shew its Innocence. As it is, it has had the honour to have been approv'd by most of the better and wiser Sort;
+<PB REF="3">
+and if your Excellence but adde unto it your Approbation, I desire no more. It wants much of the Ornament of the Stage, but th&acirc;t by a lively imaginati|on may easily be supplyed: For my part, unless it may be presented as I writ it, and as I intended it, I had rather it shu'd be read then acted, and have the World for Theatre, rather then the Stage.</P>
+<P>Having said thus much by way of Prologue, I leave you to the Play, re|maining alwayes,</P>
+<CLOSER><SIGNED>Your Excellencies Most humble, and most devoted Servant,
+<HI>Richard Flecknoe.</HI></SIGNED></CLOSER>
+</DIV1>
+<DIV1 TYPE="to the reader">
+<PB REF="3">
+<HEAD>To the noble Readers.</HEAD>
+<P>TO think to write without faults, is to think to peel a <HI>Bulbus</HI> Root to the last Rinde, or sweep an earthen Floor to the last grain of dust; and 'tis h&ecirc;re, as in the Mint, where if the Dross exceed not the pure <HI>Or,</HI> it passes for currant Coin. The greatest fault in this kinde of writing, is to erre ag&acirc;inst Art and <HI>Decorum,</HI> of which I hope this Play is free; who findes fault with the mirth in it, never consider how here with us, mirth in Playes of this kinde is like Alloy in Coin, which though it abases it, yet makes it more passible. For the Rhyme, 'tis more excusable in Pastorals, then in other Playes; and where I leave the Rhyme or numbers, I imagin'd, that as a good Actor was like a good Singer, so a good Play was like a good Song; where 'tis not necessary all notes shu'd be of an equal length. For the Plot 'tis neat and handsome, and the Language soft and gentle, suitable to the persons who speak, nei|ther on the Ground, nor in the Clouds; but just like the Stage, somewhat elevated above the common. In neither, no stifness, and (I hope) no impertinence nor extravagance; into which,
+<PB REF="4">
+your young writers are apt to run; who whilst they know not well what to do, and are anxious to do enough, most commonly overdo. Those who think it so easie now to make a good Play, will tell me some twenty years hence how hard it is; when they will finde that 'tis not a good Hu|mor or two in a Comedy will do it, (which are good supports 'tis true; but to think they will make a Play, is to think a Pillar or two sufficient to make a House) nor the writing a fine Copy of Verses or two, sufficient to make a Tragedy, or Trage-Comedy; but there must go a <HI>Genius</HI> as well as <HI>Ingenium</HI> to't, with long exercise and ex|perience. But to leave their Playes, and return to ours; if you like it for whom I writ it, I have my end, which was onely in an innocent and harm|less way, to divert my self and you.</P>
+</DIV1>
+<DIV1 TYPE="dramatis personae">
+<PB REF="4">
+<HEAD>The Persons represented.</HEAD>
+<LIST>
+<ITEM>THe Prologue spoken by <HI>Venus</HI> from the Clouds <HI>Theotimus,</HI> Loves Arch-Flamin, and Gover|nour of <HI>Cyprus.</HI></ITEM>
+<ITEM><HI>Polydor,</HI> Loves Inquisitor.</ITEM>
+<ITEM><HI>Diophantes,</HI> one of the Advocates of Loves Court.</ITEM>
+<ITEM><HI>Palemon,</HI> A noble Cypriot in Love with <HI>Bellinda,</HI> and lov'd by <HI>Filena.</HI></ITEM>
+<ITEM><HI>Evander,</HI> A stranger come to Loves Kingdom on devotion.</ITEM>
+<ITEM><HI>Pamphilus.</HI> A vicious young fellow, stranger to Love's Kingdom, and imagining all as vicious as himself.</ITEM>
+<ITEM><HI>Philander,</HI> a noble Cretian, &amp; <HI>Bellinda's</HI> betroth'd</ITEM>
+<ITEM><HI>Bellinda,</HI> a noble Cretian Nymph, stranger in Love's Kingdom.</ITEM>
+<ITEM><HI>Filena,</HI> a noble Cyprian Nymph.</ITEM>
+<ITEM><HI>Amaranthe,</HI> Governess of the Nymphs.</ITEM>
+<ITEM><HI>Cloria, Mellissa, Lydia,</HI> with others. Nymphs of Cyprus.</ITEM>
+<ITEM><HI>Chorus</HI>&mdash;of Musicians, and young Virgins.</ITEM>
+<ITEM>2 <HI>Aruspices.</HI></ITEM>
+<ITEM>Love's Sacrificators.</ITEM>
+<ITEM>The <HI>Popa,</HI> or sacred Executioner.</ITEM>
+<ITEM>Guards, &amp;c.</ITEM>
+<ITEM>The Scene, <HI>Cyprus,</HI> with all the Rules of Time and Place so exactly observ'd, as whilst for Time 'tis all compriz'd in as few hours as there are Acts; for Place, it never goes out of the view or prospect of Loves Temple.</ITEM>
+</LIST>
+</DIV1>
+<DIV1 TYPE="prologue">
+<PB REF="5">
+<HEAD>The Prologue.</HEAD>
+<STAGE>Spoken by <HI>Venus</HI> from the Clouds.</STAGE>
+<L>IF ever you have heard of <HI>Venus</HI> name,</L>
+<L>Goddess of Beauty, I that <HI>Venus</HI> am;</L>
+<L>Who have to day descended from my sphere,</L>
+<L>To welcome you unto <HI>Love's Kingdom</HI> here;</L>
+<L>Or rather to my Sphere am come, since I</L>
+<L>Am present no where more, nor in the Sky;</L>
+<L>Nor any Island in the world, then this,</L>
+<L>That wholly from the world divided is:</L>
+<L>For <HI>Cupid,</HI> you behold him here in me,</L>
+<L>(For there where <HI>Beauty</HI> is, <HI>Love</HI> needs must be)</L>
+<L>Or you may yet more easily descry</L>
+<L>Him 'mong the Ladies in each beauteous eye;</L>
+<L>And 'mongst the Gallants, may as easily trace</L>
+<L>Him to their bosoms, from each beauteous face.</L>
+<L>May then fair Ladies you,</L>
+<L>Finde all your Servants true;</L>
+<L>And Gallants, may you finde</L>
+<L>The Ladies all as kinde,</L>
+<L>As by your noble favours you declare</L>
+<L>How much you friends unto <HI>Love's Kingdom</HI> are;</L>
+<L>Of which your selves compose so great a part</L>
+<L>In your fair Eyes, and in your loving heart.</L>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="play">
+<PB N="1" REF="5">
+<HEAD>Love's Kingdom.</HEAD>
+<DIV2 N="1" TYPE="act">
+<HEAD>Actus primus.</HEAD>
+<STAGE>Enter Evander and Pamphilus.</STAGE>
+<STAGE>The Scene, a delightful Landskip or Paisage.</STAGE>
+<SP>
+<SPEAKER>Evander.</SPEAKER>
+<P>IS't not a pleasant place?</P>
+</SP>
+<SP>
+<SPEAKER>Pamph.</SPEAKER>
+<L>As e're I saw;</L>
+<L>but I can see no Wenches yet, and that</L>
+<L>I long for.</L>
+</SP>
+<SP>
+<SPEAKER>Ev.</SPEAKER>
+<P>Why?</P>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>What a question's that? why do</L>
+<L>the hungry long for meat I pray?</L>
+</SP>
+<SP>
+<SPEAKER>Ev.</SPEAKER>
+<L>Then I</L>
+<L>perceive you are an Epicure in Love,</L>
+<L>and onely wo'd feed your body.</L>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>I am no Platonick Philosopher,</L>
+<L>who while they feed their mindes,</L>
+<L><PB N="2" REF="6">do starve themselves; give me a Love that ha's</L>
+<L>some substance in it.</L>
+</SP>
+<SP>
+<SPEAKER>Ev.</SPEAKER>
+<L>Well, this is no time</L>
+<L>for to convert you; behold some coming here.</L>
+</SP>
+<STAGE>Enter a Troop of Nymphs and Shepherds, singing and dancing hand in hand.</STAGE>
+<Q><TEXT LANG="eng">
+<BODY>
+<DIV1 TYPE="song">
+<HEAD>The Song.</HEAD>
+<L>Come, and in this pleasant Grove,</L>
+<L>Sacred to the Queen of Love,</L>
+<L>Let our Voices and our Feet</L>
+<L>In harmonious number meet;</L>
+<L>Thus we sing the year throughout,</L>
+<L>And merrily, merrily dance about.</L>
+</DIV1>
+</BODY>
+</TEXT></Q>
+<STAGE><GAP DESC="illegible" REASON="indecipherable" EXTENT="1 letter">xeunt.</STAGE>
+<SP>
+<SPEAKER>Ev.</SPEAKER>
+<L>O happy Land! of all the sun surveys,</L>
+<L>where thus perpetually they pass their dayes;</L>
+<L>and if onely a living death it be,</L>
+<L>or dying life to live in misery;</L>
+<L>seeing their joyful lives, we well may say,</L>
+<L>in all the world there are none live but they.</L>
+</SP>
+<SP>
+<SPEAKER>Pa.</SPEAKER>
+<L>They're dainty wenches Ile say that for them,</L>
+<L>and I must needs follow them.</L>
+</SP>
+<SP>
+<SPEAKER>Ev.</SPEAKER>
+<P>Nay prethee.</P>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>Never talk of it, I can hold no more</L>
+<L>then a good Greyhound when he sees the Hare,</L>
+<L>or Hawk the Quarry; it is all my sport</L>
+<L>and inclination, and by their mirth and jollity</L>
+<L>I know they're right, and of the Game.</L>
+</SP>
+<SP>
+<SPEAKER>Ev.</SPEAKER>
+<L>There's your</L>
+<L><PB N="3" REF="6">errour and ignorance now, who do not know,</L>
+<L>how true vertue is a chearful thing,</L>
+<L>rendring its favourites and followers far</L>
+<L>more chearful too, more vertuous they are.</L>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>Hang Vertue! I know no chearfulness</L>
+<L>but laughing, and I'me sure all the Nymphs here</L>
+<L>are as supple and pliant as Kids-leather gloves,</L>
+<L>a gentle pluck or two will easily draw them on.</L>
+</SP>
+<SP>
+<SPEAKER>Ev.</SPEAKER>
+<L>How know you that? who came</L>
+<L>but yesternight a stranger hither.</L>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>And how know you the contrary? who came</L>
+<L>but hither yesternight along with me? let it suffice</L>
+<L>I know all women by instinct; and</L>
+<L>is not this <HI>Love's Kingdom?</HI> answer me to that.</L>
+</SP>
+<SP>
+<SPEAKER>Ev.</SPEAKER>
+<P>Well, what then?</P>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>Why then I am in mine,</L>
+<L>for I'me the loving'st creature</L>
+<L>(thou doest not know me yet)</L>
+<L>I tell thee I was such a forward Childe,</L>
+<L>I fell in Love with my Nurse in the very Cradle;</L>
+<L>and they were forc't to wean me,</L>
+<L>for fear of spoiling her milk.</L>
+</SP>
+<SP>
+<SPEAKER>Ev.</SPEAKER>
+<L>A great deflowrer of nurses it seems you are</L>
+<L>but had you not better tarry till <HI>Diophantes</HI> comes,</L>
+<L>who ha's promis'd to be our guide, and instruct us</L>
+<L>in their manners and customs here?</L>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>Tarry you for him if</L>
+<L>you please, my busines can best be dispatcht alone,</L>
+<L>and I need no tutors nor conductors for't.</L>
+<L><PB N="4" REF="7">I thank you.</L>
+</SP>
+<SP>
+<SPEAKER>Ev.</SPEAKER>
+<L>Well, thank your self if any harm</L>
+<L>come of it.</L>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>No harm I'le warrant you,</L>
+<L>but rather good, the good of posterity,</L>
+<L>whose business I am going about; and methinks</L>
+<L>I hear the Children yet unborn, crying out</L>
+<L>unto me to make haste, and so I will</L>
+<L>my little pretty sweet Babes.</L>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>Ev.</SPEAKER>
+<L>what a wild fellow's this? I'm sorry &amp; asham'd</L>
+<L>(now I know him better)</L>
+<L>that I came along with him to <HI>Cyprus</HI> here;</L>
+<L>who knows no more of Love then beasts do&punc; and's</L>
+<L>so bravely impudent and vicious,</L>
+<L>he puts vice &amp; impudence to the extreamest proof</L>
+<L>and shames not to be impudent enough:</L>
+<L>but here comes <HI>Diophantes.</HI></L>
+</SP>
+<STAGE>Enter Diophantes.</STAGE>
+<SP>
+<SPEAKER>Dio.</SPEAKER>
+<L>Noble <HI>Evander,</HI> I must demand your pardon</L>
+<L>if I instead of waiting on you, have made</L>
+<L>you wait for me; but I am Advocate in</L>
+<L><HI>Love's</HI> Court you know, where so many petty</L>
+<L>quarrels of Lovers are daily to be reconcil'd.</L>
+<L>W&punc;ave scarcely any vacancy at all,</L>
+<L>nor had we dispatcht so soon to day, but for</L>
+<L>the grand Solemnity i'th' Temple.</L>
+</SP>
+<SP>
+<SPEAKER>Ev.</SPEAKER>
+<P>What's that I pray?</P>
+</SP>
+<SP>
+<SPEAKER>Dio.</SPEAKER>
+<L>Why, 'tis the anniversary Feast of <HI>Venus,</HI></L>
+<L>our Sea-born Goddesses first arrival here</L>
+<L>upon the <HI>Cyprian</HI> shore.</L>
+</SP>
+<SP>
+<PB N="5" REF="7">
+<SPEAKER>Ev.</SPEAKER>
+<L>And with good reason</L>
+<L>you Celebrate that with all Solemnity,</L>
+<L>that renders you so famous through all the world.</L>
+</SP>
+<SP>
+<SPEAKER>Di.</SPEAKER>
+<L>And to add to th' general Solemnity oth' day</L>
+<L>there's a particular Ceremony too</L>
+<L>renders it more solemn.</L>
+</SP>
+<SP>
+<SPEAKER>Ev.</SPEAKER>
+<P>What?</P>
+</SP>
+<SP>
+<SPEAKER>Dio.</SPEAKER>
+<L>Why, you must know</L>
+<L>that all strangers by th' Laws of <HI>Cyprus</HI> here</L>
+<L>are after three moneths residence to swear</L>
+<L>they love some one ith' Isle, or else be banisht;</L>
+<L>now Sir, three moneths to day are just expir'd,</L>
+<L>since there arriv'd a Nymph the most admir'd,</L>
+<L>and most deserving admiration,</L>
+<L>as ever in Love's Kingdom yet was known;</L>
+<L>and whether she'l take the solemn Oath or no,</L>
+<L>onely her self and the Deity do know;</L>
+<L>for to all else 'tis doubtful.</L>
+</SP>
+<SP>
+<SPEAKER>Ev.</SPEAKER>
+<L>Can it be doubted that any here sho'd love,</L>
+<L>where they are all born and bred Lovers; the very</L>
+<L>air inspires it, and 'tis as natural</L>
+<L>for them to love, as 'tis to live and breath.</L>
+</SP>
+<SP>
+<SPEAKER>Dio.</SPEAKER>
+<L>True Sir, but for our admiration</L>
+<L>the gods work miracles sometimes, and she is one;</L>
+<L>but where's your friend <HI>Pamphilus?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Ev.</SPEAKER>
+<L>Rambled somewhere abroad,</L>
+<L>I know not whither.</L>
+</SP>
+<SP>
+<SPEAKER>Dio.</SPEAKER>
+<L>Of what humour, I pray,</L>
+<L>and disposition is he?</L>
+</SP>
+<SP>
+<PB N="6" REF="8">
+<SPEAKER>Ev.</SPEAKER>
+<P>Why, harmless and merry, only a little wilde</P>
+</SP>
+<SP>
+<SPEAKER>Dio.</SPEAKER>
+<L>He thinks perhaps our Nymphs are wan|ton here;</L>
+<L>but Sir, I can assure you they are all</L>
+<L>so chaste and pure, as Christal you wo'd say</L>
+<L>is not more pure, nor Ice more clear then they;</L>
+<L>And for the Land, know Sir, in all the spacious</L>
+<L>world there's not a more religious place,</L>
+<L>where Love with greater purity is profest,</L>
+<L>nor serv'd and honour'd with more pious breast.</L>
+</SP>
+<SP>
+<SPEAKER>Ev.</SPEAKER>
+<L>I've understood so much, and therefore come</L>
+<L>expresly hither on devotion,</L>
+<L>to render my vows &amp; off'rings at his sacred shrine</L>
+</SP>
+<SP>
+<SPEAKER>Dio.</SPEAKER>
+<L>I applaud you for't, and may the powers divine</L>
+<L>for every prayer that you send up to them,</L>
+<L>send you as many blessings down agen.</L>
+</SP>
+<SP>
+<SPEAKER>Ev.</SPEAKER>
+<P>Soft! who are those come here?</P>
+</SP>
+<SP>
+<SPEAKER>Dio.</SPEAKER>
+<L>Oh now you'l see</L>
+<L>A noble Ceremony and Solemnity.</L>
+</SP>
+<STAGE>Enter Theotimus with Assistants of Loves Sacrifi|<GAP DESC="illegible" REASON="blotted" EXTENT="1 letter">ators, with Asperges and Thuribles besprinkling and incensing the place.</STAGE>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>Far hence be all profane, whilst here</L>
+<L>With Solemn Rites thus every year,</L>
+<L>To render all our Lovers true,</L>
+<L>We element Love's Kingdom new;</L>
+<L>That no heart may too strongly beat,</L>
+<L>We give its fires a temperate heat;</L>
+<L><PB N="7" REF="8">We give its waters vertuous force,</L>
+<L>To swage them (taken in their Source)</L>
+<L>Fogs of perjur'd vows and oaths,</L>
+<L>Which spotless truth and candour loaths,</L>
+<L>We purge the Air from, and the Earth</L>
+<L>From every strange and monstrous birth:</L>
+<L>For as some Lands their monsters fear,</L>
+<L>Lust onely is our monster here;</L>
+<L>As others pois'nous beasts molest,</L>
+<L>So avarice is our pois'nous beast:</L>
+<L>From which when once a Land is freed,</L>
+<L>Then, th&ecirc;n Love's Kingdom 'tis indeed.</L>
+</SP>
+<STAGE>Exeunt</STAGE>
+<STAGE>Manent Evander &amp; Diophontes.</STAGE>
+<SP>
+<SPEAKER>Ev.</SPEAKER>
+<P>A Ceremony as religious as great!</P>
+</SP>
+<SP>
+<SPEAKER>Di.</SPEAKER>
+<L>Y'admire too soon, &amp; have seen nothing yet,</L>
+<L>if but compar'd to what you'l see anon,</L>
+<L>worthy your sight and admiration.</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE>Enter Palemon in desperate action, withheld by Polydor.</STAGE>
+<SP>
+<SPEAKER>Pol.</SPEAKER>
+<P>You wo'nt be mad?</P>
+</SP>
+<SP>
+<SPEAKER>Pal.</SPEAKER>
+<L>I will be nothing but for Love,</L>
+<L>and for Love I will be any thing;&mdash;</L>
+<L>pray unhand me:&mdash;Shall <HI>Bellinda,</HI> the</L>
+<L>divine <HI>Bellinda</HI> be banisht hence to day,</L>
+<L>and shall <HI>Palemon</HI> see it, and shall he live?</L>
+</SP>
+<SP>
+<SPEAKER>Pol.</SPEAKER>
+<L>And shall the gallant and the brave</L>
+<L><HI>Palemon</HI> dye onely for fear of death?</L>
+<L>how low&mdash;and poorly wo'd it shew!</L>
+<L>and that's the worst; but I hope better still:</L>
+<L><PB N="8" REF="9"><HI>Venus</HI> the Goddess of this Isle</L>
+<L>has oft done greater miracles then this,</L>
+<L>to make one young and fair to love.</L>
+</SP>
+<SP>
+<SPEAKER>Pal.</SPEAKER>
+<L>O <HI>Polydor!</HI> who has</L>
+<L>miracles for hopes, has hopes too nigh despair.</L>
+</SP>
+<SP>
+<SPEAKER>Pol.</SPEAKER>
+<L>I grant you,</L>
+<L>but yours are far</L>
+<L>from that;&mdash;for ha's she not promis'd,</L>
+<L>if any i'th' Isle she loves, it shall be you:</L>
+<L>And is this no hope? no comfort?</L>
+</SP>
+<SP>
+<SPEAKER>Pal.</SPEAKER>
+<L>Just as much</L>
+<L>as 'mong the numerous and unhappy throng</L>
+<L>of her excluded Lovers to stand next the door,</L>
+<L>first expos'd to the affront, and nighest concern'd</L>
+<L>in the disgrace.</L>
+</SP>
+<SP>
+<SPEAKER>Pol.</SPEAKER>
+<L>Nay, if you give your self despair,</L>
+<L>'tis in vain to give you hope; suppose the worst:</L>
+<L>If you love fair <HI>Bellinda,</HI> as you say,</L>
+<L>and she perchance be banisht hence today,</L>
+<L>what hinders you from following her? vainly and</L>
+<L>ridiculously does he complain of Winter,</L>
+<L>who by following the sun might still enjoy the Spring&punc;</L>
+</SP>
+<SP>
+<SPEAKER>Pal.</SPEAKER>
+<L>I,&mdash;but following an ecclipsed Sun,</L>
+<L>what shu'd he gain by it, but onely by</L>
+<L>that fatal light to have every thing appear</L>
+<L>more sad and dismal then if it absent were?</L>
+</SP>
+<SP>
+<SPEAKER>Pol.</SPEAKER>
+<L>Well, though it seem more to be wisht then hop'd,</L>
+<L><PB N="9" REF="9">that she shu'd love you; yet take this from me,</L>
+<L>your Nymphs are bashful, and so cautious too,</L>
+<L>they will not seem to love, although they do:</L>
+<L>and 'twod appear a miracle to me,</L>
+<L>she shu'd not feel love who makes so many feel it;</L>
+<L>or that her heart shu'd resist that alone,</L>
+<L>was never yet resisted by any one:&mdash;</L>
+<L>But there's I fear some farther misery</L>
+<L>in't, and the gods are highly offended w'ye,</L>
+<L>or they'd ne're inflict on you as they do</L>
+<L>so heavy a punishment to love one, who</L>
+<L>neglects you; and the while, to neglect one</L>
+<L>so dearly loves ye, and see where she does come.</L>
+</SP>
+<STAGE>Enter Filena.</STAGE>
+<SP>
+<SPEAKER>Fi.</SPEAKER>
+<L>Where shu'd this Nymph be? she's not at home,</L>
+<L>nor in the sacred Grove; and 'tis too soon</L>
+<L>to go to th' Temple yet.</L>
+</SP>
+<SP>
+<SPEAKER>Pol.</SPEAKER>
+<P>Well, I'le leave you.</P>
+</SP>
+<SP>
+<SPEAKER>Pal.</SPEAKER>
+<L>What, will you go</L>
+<L>and leave me alone then?</L>
+</SP>
+<SP>
+<SPEAKER>Pol.</SPEAKER>
+<P>How can I leave you better accompanied?</P>
+</SP>
+<SP>
+<SPEAKER>Pal.</SPEAKER>
+<P>In company of one I hate!</P>
+</SP>
+<SP>
+<SPEAKER>Pol.</SPEAKER>
+<L>In company of one</L>
+<L>who dearly loves you, and for your hate to her</L>
+<L>in these pretty skirmishes, there is no fear</L>
+<L>of danger; for now y'are foes, and then</L>
+<L>the peace is made, and you are friends agen,</L>
+<L>and so I leave you.</L>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>Pal.</SPEAKER>
+<L>What shall I do? she has</L>
+<L><PB N="10" REF="10">spy'd me, and there's no avoiding her; I'de best</L>
+<L>dissemble then, and by one importunity</L>
+<L>avoid another:&mdash;Gentle <HI>Filena,</HI> well met.</L>
+</SP>
+<SP>
+<SPEAKER>Fi.</SPEAKER>
+<L>Kinde looks <STAGE>aside.</STAGE></L>
+<L>that guild the sun-shine, as that guilds the day:</L>
+<L>Kinde words,</L>
+<L>whose ravishing sweetness melts into my heart</L>
+<L>at sun-shine of those looks of his; how I'me</L>
+<L>o'rejoyed with them!</L>
+</SP>
+<SP>
+<SPEAKER>Pal.</SPEAKER>
+<P>I have a suit unto you.</P>
+</SP>
+<SP>
+<SPEAKER>Fi.</SPEAKER>
+<P>And I another to you.</P>
+</SP>
+<SP>
+<SPEAKER>Pal.</SPEAKER>
+<L>To me! fye, fye,</L>
+<L>Nymphs sue to men!</L>
+</SP>
+<SP>
+<SPEAKER>Fi.</SPEAKER>
+<L>Why, not <HI>Palemon</HI> here,</L>
+<L>where Love's not onely Love, but Vertue too;</L>
+<L>it no wayes misbeseems a Nymph to wooe:&mdash;</L>
+<L>But what's your suit? you may be sure that I am too much yours (<HI>Palemon</HI>) to deny</L>
+<L>you any thing.</L>
+</SP>
+<SP>
+<SPEAKER>Pal.</SPEAKER>
+<L>You know <HI>Filena,</HI> how much</L>
+<L>I love <HI>Bellinda,</HI> and how much I long to know</L>
+<L>if she loves me, which you can tell me best,</L>
+<L>are confident of all the secrets of her breast.</L>
+</SP>
+<SP>
+<SPEAKER>Fi.</SPEAKER>
+<L>Some secrets she confides to me 'tis true,</L>
+<L>but of her Love I know no more then you;</L>
+<L>for that's a warfare where each one's a spy,</L>
+<L>and every rival is an enemy:</L>
+<L>She'd ne're trust me with't then, whom she does know</L>
+<L>am both a Lover, and her Rival too.</L>
+</SP>
+<SP>
+<PB N="11" REF="10">
+<SPEAKER>Pal.</SPEAKER>
+<L>Howe're <HI>Filena,</HI> you do know at least</L>
+<L>those softer minuts, when Nymphs minds are best</L>
+<L>dispos'd for the impressions of Love;</L>
+<L>in one of those then prethee do but move</L>
+<L>my Suit unto her, especially before she goes</L>
+<L>to th' Temple, when she must needs be more</L>
+<L>dispos'd then ever, and thou shu'dst infinitely</L>
+<L>oblige me by so dear a courtesie.</L>
+<L>D'ye hear?</L>
+</SP>
+<SP>
+<SPEAKER>Fi.</SPEAKER>
+<P>I do, and will you hear me now?</P>
+</SP>
+<SP>
+<SPEAKER>Pal.</SPEAKER>
+<L>If y'ave any new thing to say I will,</L>
+<L>but of old businesses I pray no more.</L>
+</SP>
+<SP>
+<SPEAKER>Fi.</SPEAKER>
+<P>That can't be old that's every day renew'd.</P>
+</SP>
+<SP>
+<SPEAKER>Pal.</SPEAKER>
+<L>And how can that be new I pray,</L>
+<L>that needs renovation every day?</L>
+<L>But of this enough:&mdash;prethee <HI>Filena</HI> go,</L>
+<L>and if you love me as you say you do;</L>
+<L>know now's best time to shew't, for Love's best shown,</L>
+<L>by doing their wills we love before our own.</L>
+</SP>
+<SP>
+<SPEAKER>Fi.</SPEAKER>
+<L>Well then, to shew</L>
+<L>how much, how dearly I love you, I will go;</L>
+<L>and though Love a burthen be,</L>
+<L>which two hearts equally</L>
+<L>shu'd bear, and then 'tis sweet and light:</L>
+<L>But when once all the weight</L>
+<L>lyes upon one alone,</L>
+<L>a grievous and intollerable one:</L>
+<L>my heart shall bear it yet, and ne're repine,</L>
+<L>or else I'le not acknowledge it to be mine.</L>
+</SP>
+<SP>
+<PB N="12" REF="11">
+<SPEAKER>Pal.</SPEAKER>
+<P>That's bravely and nobly resolv'd.</P>
+</SP>
+<SP>
+<SPEAKER>Fi.</SPEAKER>
+<P>But is there no hope, no pitty for <HI>Filena?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Pal.</SPEAKER>
+<L>To deal ingeniously w'ye,</L>
+<L>and not abuse you with civility,</L>
+<L>There's pitty, but no hope; for <HI>Bellinda</HI> has all</L>
+<L>my stock of Love, and consequently</L>
+<L>for loving any other has rendred me so poor,</L>
+<L>as I can dye, but I can love no more.</L>
+</SP>
+<SP>
+<SPEAKER>Fi.</SPEAKER>
+<L>Since you are so resolv'd, <HI>Palemon</HI> know,</L>
+<L><HI>Filena</HI> too can dye as well as you;</L>
+<L>and be assur'd that the same messenger</L>
+<L>brings news <HI>Palemon</HI> does <HI>Bellinda</HI> wed,</L>
+<L>shall carry back the news, <HI>Filena</HI>'s dead.</L>
+</SP>
+<SP>
+<SPEAKER>Pal.</SPEAKER>
+<L>Soft, soft <HI>Filena,</HI> for I'de have you know,</L>
+<L>to th' thing call'd dying there goes more then so;</L>
+<L>and every Coward is valiant enough</L>
+<L>to talk of death, but when it comes to th' proof,</L>
+<L>their hearts do fail, as yours no doubt will too,</L>
+<L>wherefore dear <HI>Filena</HI> I'le be gone,</L>
+<L>and shall not fear to leave you here alone.</L>
+</SP>
+<STAGE>spoken scornfully. <GAP DESC="illegible" REASON="blotted" EXTENT="1 letter">xit.</STAGE>
+<SP>
+<SPEAKER>Fi.</SPEAKER>
+<L>Cruel <HI>Palemon!</HI> is't not enough, that thou</L>
+<L>refusest me, but thou must scorn me too?</L>
+<L>This is not to be endur'd! one nobly born</L>
+<L>can better suffer injury then scorn;</L>
+<L>but what do I say wretch as I am, or how</L>
+<L>com these high thoughts in one that's faln so low:</L>
+<L>I'me now engag'd, what ever does befall,&mdash;</L>
+<L>and those who are slaves to Love must suffer all.</L>
+</SP>
+<STAGE>Exit.</STAGE>
+<STAGE><PB N="13" REF="11">Enter Pamphilus, looking after her.</STAGE>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>Hey! whurr! there boults another wench,</L>
+<L>the Warren's all full of them,</L>
+<L>and I, like a good Tumbler,</L>
+<L>am ready to throw my self after every one:&mdash;</L>
+<L>and see here coms another! &amp; alone too? <STAGE>Enter A|marantha.</STAGE></L>
+<L>this opportunity is the shell that Love</L>
+<L>is hatched of, and the Nymphs here just like</L>
+<L>young Lapwings run away with't on their heads;</L>
+<L>you shall see how I'le accoast her now.&mdash;</L>
+<L>Fair Nymph, might I be so bold I pray,</L>
+<L>to request the time o'th' day of you?</L>
+</SP>
+<SP>
+<SPEAKER>Am.</SPEAKER>
+<L>Oh Sir, with all my heart,</L>
+<L>it shall be any time oth' day you please for me,</L>
+<L>I'le not stick w'ye for half an hour or so.</L>
+</SP>
+<SP>
+<SPEAKER>Pa.</SPEAKER>
+<L>Lo ye there now! there's ne're a sextons wife</L>
+<L>in all <HI>Cyprus</HI> co'd answer ye more courteously:</L>
+<L>a kinde Wench I'le warrant her;&mdash;</L>
+<L>Let's see what's next now?</L>
+<L>Pox on't, I better know what to do with wenches</L>
+<L>then what to say to them; and we Complementers</L>
+<L>of the first head, when w'are past our legs &amp; faces</L>
+<L>are past the greatest part of our discourse:&mdash;</L>
+<L>It shall be so, and how have you done I faith,</L>
+<L>since I saw you last?</L>
+</SP>
+<SP>
+<SPEAKER>Am.</SPEAKER>
+<L>Right and methodical!</L>
+<L>how d'ye? and what's a clock? I'le wager now</L>
+<L>next is, what news? or somewhat about the weather</L>
+<L>the ordinary discourse of those who can</L>
+<L><PB N="14" REF="12">discourse of nothing,&mdash;and when was't I pray</L>
+<L>you saw me last?</L>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>Why, in <HI>Plato's</HI> great year,</L>
+<L>don't you remember it? I do as perfectly</L>
+<L>as if 'twere but to day; by the same token,</L>
+<L>meeting you just as I do now, I took you by</L>
+<L>the hand, and kissing it, led you just</L>
+<L>into such another Grove as this.</L>
+</SP>
+<SP>
+<SPEAKER>Am.</SPEAKER>
+<L>Just no such matter:</L>
+<L>pray stay a little, sure you don't remember well.</L>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>Most perfectly, by the same token I</L>
+<L>saluted you too.</L>
+</SP>
+<STAGE>She puts him by.</STAGE>
+<SP>
+<SPEAKER>Am.</SPEAKER>
+<L>I knew you were quite wide,</L>
+<L>not me I'le assure you.</L>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<P>You can't deny't I'me sure.</P>
+</SP>
+<SP>
+<SPEAKER>Am.</SPEAKER>
+<P>Indeed Sir but I can.</P>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>And thereupon</L>
+<L>I told you, that having so fair opportunity;</L>
+<L>but lose it, you'd never have the like agen.</L>
+</SP>
+<SP>
+<SPEAKER>Am.</SPEAKER>
+<P>Opportunity for what?</P>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>Nay, if you know not that,</L>
+<L>we shal never have done;&mdash;com leave dissembling</L>
+<L>I know you Nymphs here are all so learned, as</L>
+<L>your husbands can teach you nothing on the</L>
+<L>marriage-night, but what you knew before.</L>
+</SP>
+<SP>
+<SPEAKER>Am.</SPEAKER>
+<L>Bless me! I never heard</L>
+<L>man talk thus wildely!</L>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>And how first time you went abroad</L>
+<L>after fifteen, when you return'd agen,</L>
+<L><PB N="15" REF="12">you found y'ad left your gloves, handkercher,</L>
+<L>and maidenhead, with some such odd toyes</L>
+<L>behinde you.</L>
+</SP>
+<SP>
+<SPEAKER>Am.</SPEAKER>
+<L>Wilder and wilder still! I begin to be,</L>
+<L>afraid of him, pray let me go; is this</L>
+<L>discourse for Maids?</L>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>I, as good a Milkmaid as my Nurse I'le</L>
+<L>warrant you;&mdash;but stay, she may be one perhaps,</L>
+<L>and that 'tis makes her so shie and timerous,</L>
+<L>for maids apprehend the loss of a maidenhead</L>
+<L>as fearfully, as the loss of an arm or leg,</L>
+<L>and imagine they shall be maim'd forever after.&mdash;</L>
+<L>Come, come, ne're fear, I perswade you to nothing</L>
+<L>but what I will do w'ye my self for company.</L>
+</SP>
+<SP>
+<SPEAKER>Am.</SPEAKER>
+<L>I'me more and more afeard of him, I wo'd</L>
+<L>some body wo'd come to rid me of him, and see</L>
+<L>in happy time here's some, and yonder's more:</L>
+<L>now I may be <STAGE>Some pass over the Stage.</STAGE></L>
+<L>as merry with him,</L>
+<L>as he ha's been with me:&mdash;Cry mercy Sir,</L>
+<L>now I remember this <HI>Plato</HI>'s great year you talk of</L>
+<L>as perfectly</L>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>Oh do you so! I knew</L>
+<L>you could not forget it.</L>
+</SP>
+<SP>
+<SPEAKER>Am.</SPEAKER>
+<L>By the same token</L>
+<L><HI>Theotimus</HI> chief Governour of the Isle</L>
+<L>past by with a numerous train just as we were</L>
+<L>alone together.</L>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<P>Yonder I think he comes indeed.</P>
+</SP>
+<SP>
+<PB N="16" REF="13">
+<SPEAKER>Am.</SPEAKER>
+<P>When I made bold to ask you one questi|on Sir,</P>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<P>What was that?</P>
+</SP>
+<SP>
+<SPEAKER>Am.</SPEAKER>
+<P>Why, whether you lov'd dancing or no?</P>
+</SP>
+<SP>
+<SPEAKER>Ham.</SPEAKER>
+<P>Oh exceedingly.</P>
+</SP>
+<SP>
+<SPEAKER>Am.</SPEAKER>
+<L>Right, so you told me; and thereupon I said</L>
+<L>he'd help you then to a certain spritely instrument</L>
+<L>to dance after call'd a whip, a whip;</L>
+<L>d'ye hear Sir, worth a hundred of</L>
+<L>your Kits and Violins, to make such gallants as</L>
+<L>your self to frisk and caper.</L>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>Umh! I remember nothing of all this now,</L>
+<L>but be shrew me next <HI>Plato</HI>'s great year I fear&punc;</L>
+<L>I shall indeed, 'less I get me gone the sooner.</L>
+</SP>
+<SP>
+<SPEAKER>Am.</SPEAKER>
+<L>Nay, hark ye, hark ye Sir,</L>
+<L>Pray don't go yet; now I remember me</L>
+<L>I can tell ye what time o'th' day 'tis too.</L>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>As for that,</L>
+<L>I know it now I thank you, it is time</L>
+<L>for me to get me gone, as I take it.</L>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>Am.</SPEAKER>
+<L>Why then farewel my Platonick Philosopher,</L>
+<L>and Anteplatonick Lover.</L>
+</SP>
+<STAGE>Enter Theotimus, Chorus of Musicians, and young Virgins, Polydor, Evander, Diophantes, Palemon, &amp;c.</STAGE>
+<STAGE>The Song sung by a Bass, Tenor, and Treble.</STAGE>
+<SP>
+<SPEAKER>Chorus</SPEAKER>
+<STAGE>sings.</STAGE>
+<P>Prais'd be the Deities above!</P>
+</SP>
+<SP>
+<SPEAKER>Ten.</SPEAKER>
+<P>We love.</P>
+</SP>
+<SP>
+<SPEAKER>Bass.</SPEAKER>
+<P>We lov'd.</P>
+</SP>
+<SP>
+<SPEAKER>Treb.</SPEAKER>
+<P>And we shall love.</P>
+</SP>
+<SP>
+<PB N="17" REF="13">
+<SPEAKER>Cho.</SPEAKER>
+<L>O ye blest immortal Powers!</L>
+<L>Grant this happy Land of ours</L>
+<P><LIST>
+<ITEM>1. Pure fires,</ITEM>
+<ITEM>2. Pure fewel,</ITEM>
+</LIST></P>
+</SP>
+<SP>
+<SPEAKER>Cho.</SPEAKER>
+<L>All things pure,</L>
+<L>And that our flames may ever dure.</L>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>Now Children, in a word to tell,</L>
+<L>what noble Love is, (mark me well)</L>
+<L>it is the counterpoise that mindes</L>
+<L>to fair and vertuous things inclines;</L>
+<L>it is the gust we have, and sence,</L>
+<L>of every noble excellence;</L>
+<L>it is the pulse, by which we know</L>
+<L>whether our souls have life or no;</L>
+<L>and such a soft and gentle fire,</L>
+<L>as kindles and inflames desire,</L>
+<L>until it all like Incense burns,</L>
+<L>and unto melting sweetness turns.</L>
+</SP>
+<SP>
+<SPEAKER>Ev.</SPEAKER>
+<L>Whose heart</L>
+<L>melts not within his breast at hearing this?</L>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<P>Who's that?</P>
+</SP>
+<SP>
+<SPEAKER>Dio.</SPEAKER>
+<L>A noble stranger come hither on</L>
+<L>devotion unto Love's sacred Shrine.</L>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<P>He's welcome.</P>
+</SP>
+<STAGE>Evan. kisses his hands.</STAGE>
+<SP>
+<SPEAKER>Pal.</SPEAKER>
+<L>Somewhat more then this to boo't,</L>
+<L>by experience I can adde unto't;</L>
+<L>Love is a union of all</L>
+<L>we happy and unhappy call;</L>
+<L>a mixture where together meet</L>
+<L><PB N="18" REF="14">both pleasing pain, and bitter sweet;</L>
+<L>the greatest joy and greatest woe</L>
+<L>a mortal breast can ever know,</L>
+<L>to shew its great disparity</L>
+<L>in fair <HI>Bellinda</HI> and in me;</L>
+<L>in her face 'tis a paradice,</L>
+<L>where all delicious pleasure lies,</L>
+<L>and in my heart it is a hell,</L>
+<L>where all your worst of torments dwell.</L>
+</SP>
+<SP>
+<SPEAKER>Th.</SPEAKER>
+<L>Once more y'are welcom&mdash;now set forwards</L>
+<L>and with all the pomp and ceremony you may</L>
+<L>proceed to Celebration of the day.</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE>Manent Theotimus and Polydor.</STAGE>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L><HI>Polydor,</HI> stay you, you're Loves Inquisitor;</L>
+<L>look well unto your charge, we hear there are</L>
+<L>(besides Atheists, who impious deny</L>
+<L>Love's sacred Power and Authority;</L>
+<L>and Libertines, whose vicious lives are such,</L>
+<L>as they profane the Deity as much)</L>
+<L>new Heresies in Love sprung up of late,</L>
+<L><HI>Platonicks, Scepticks,</HI> dangerous to the State;</L>
+<L>e're they take deeper root, and farther spread,</L>
+<L>be it your care to see 'um extirpated.</L>
+</SP>
+<SP>
+<SPEAKER>Pol.</SPEAKER>
+<P>It shall, most reverend Sir.</P>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>Other abuses there are beside,</L>
+<L>'gainst which we must most carefully provide;</L>
+<L>as talking of <HI>Cupid</HI> so familiarly,</L>
+<L>as if he were some vulgar Deity;</L>
+<L><PB N="19" REF="14">and making Love the business and employ</L>
+<L>of every idle Girle, and wanton Boy;</L>
+<L>taking of every fond desire for it,</L>
+<L>whilst difference 'twixt them is as infinite,</L>
+<L>as 'twixt folly and wisdom, vertue and vice,</L>
+<L>or deep abyss, and highest Paradice.&mdash;</L>
+<L>This must be lookt unto.</L>
+</SP>
+<SP>
+<SPEAKER>Pol.</SPEAKER>
+<P>As 'tis most fit.</P>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<P>Is the Nymph summon'd to the temple yet?</P>
+</SP>
+<SP>
+<SPEAKER>Pol.</SPEAKER>
+<P>'Tis not time yet till the sixth hour be past</P>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>When 'tis,</L>
+<L>be it your care to summon her, and see</L>
+<L>that all be ready for the Solemnity:&mdash;</L>
+<L>This day peculiarly Love is thine,</L>
+<L>work miracles, and shew thy self divine.</L>
+</SP>
+<TRAILER>Finis Actus primi.</TRAILER>
+</DIV2>
+<DIV2 N="2" TYPE="act">
+<HEAD>ACTUS 2.</HEAD>
+<STAGE>Bellinda sola.</STAGE>
+<STAGE>The Scene, a Wood or Boscage.</STAGE>
+<SP>
+<SPEAKER>Bellinda.</SPEAKER>
+<L>YE aged Oaks, the semi-gods abodes,</L>
+<L>and who your selves in ancient times were Gods&punc;</L>
+<L>and solitary Woods, whose walks and shade</L>
+<L>Lovers so oft their confidents have made,</L>
+<L>whilst never did your walks nor shades disclose</L>
+<L>either a Lovers joyes, or Lovers woes:</L>
+<L><PB N="20" REF="15">You I dare trust with secrets, which I ne're</L>
+<L>durst trust with any since my coming here:</L>
+<L><HI>I love,</HI>&mdash;but Oh! if any list'ning ear</L>
+<L>shu'd have o'reheard me now, as 'tis my fear!</L>
+<L>And see where this inquisitive Nymph do's come?</L>
+<L>Wo'd she were deaf, or else that I'de been dumb.</L>
+</SP>
+<STAGE>Enter Filena.</STAGE>
+<SP>
+<SPEAKER>Fi.</SPEAKER>
+<L>I faith, I faith.</L>
+<L>I'me glad I've found you.</L>
+</SP>
+<SP>
+<SPEAKER>Bell.</SPEAKER>
+<P>Why?</P>
+</SP>
+<SP>
+<SPEAKER>Fi.</SPEAKER>
+<P>For now 'tis clear you love.</P>
+</SP>
+<SP>
+<SPEAKER>Bell.</SPEAKER>
+<L>How so?&mdash;'tis as I fear'd,</L>
+<L>she has o'reheard me.</L>
+</SP>
+<STAGE>Aside.</STAGE>
+<SP>
+<SPEAKER>Fi.</SPEAKER>
+<P>These very trees and woods declare it.</P>
+</SP>
+<STAGE>aside.</STAGE>
+<SP>
+<SPEAKER>Bel.</SPEAKER>
+<L>Ay me! this 'tis to trust ones minde</L>
+<L>with trees, whose leaves whisper with every wind;</L>
+<L>with woods, whose very walks &amp; shades have ears,</L>
+<L>and babbling Eccho that tells all it hears.</L>
+</SP>
+<SP>
+<SPEAKER>Fi.</SPEAKER>
+<L>She fears, 'tis a good sign, Ile urge her further&mdash;</L>
+<L>your solitude and retirement too confirms it;</L>
+<L>for no Nymph here</L>
+<L>retir'd from company ever walks alone;</L>
+<L>but Love is still gentle companion of</L>
+<L>her solitary thoughts.</L>
+</SP>
+<SP>
+<SPEAKER>Bell.</SPEAKER>
+<P>If that be all, 'tis well.</P>
+</SP>
+<STAGE>Aside.</STAGE>
+<SP>
+<SPEAKER>Fi.</SPEAKER>
+<L>And why shu'd you with so much caution now</L>
+<L>conceal this from me? as I did not know</L>
+<L>how Love did all things out of chaos make,</L>
+<L>and all to chaos wo'd agen turn back:</L>
+<L>If all things did not love, from Gods and men</L>
+<L><PB N="21" REF="15">to senseless and inanimate things agen;</L>
+<L>and what a monster shu'd <HI>Bellinda</HI> prove,</L>
+<L>if onely she of all things did not love?</L>
+</SP>
+<SP>
+<SPEAKER>Bel.</SPEAKER>
+<L>Of all the Nymphs that ever spoke with tongue,</L>
+<L>this Nymph has Magick I must bless me from!</L>
+</SP>
+<SP>
+<SPEAKER>Fi.</SPEAKER>
+<L>Where is the friendship y've so long profest</L>
+<L>to make me such a stranger to your breast?</L>
+</SP>
+<SP>
+<SPEAKER>Bel.</SPEAKER>
+<L>Trust me dear friend, if what you say be true,</L>
+<L>I am more stranger to my breast then you.</L>
+</SP>
+<SP>
+<SPEAKER>Fi.</SPEAKER>
+<P>See how you blush now when you tell me so!</P>
+</SP>
+<SP>
+<SPEAKER>Bel.</SPEAKER>
+<L>Ay me! mine own blushes betray me too!</L>
+<L>What is it can be secret in a Lover,</L>
+<L>when even their blushes do their Loves discover?</L>
+</SP>
+<SP>
+<SPEAKER>Fi.</SPEAKER>
+<L>What and sigh too! nay then you love, 'tis clear;</L>
+<L>for, but for Love, none ever sighed here.</L>
+</SP>
+<SP>
+<SPEAKER>Bel.</SPEAKER>
+<L>my sighs betray me too! how many traytors</L>
+<L>have Lovers about them?</L>
+</SP>
+<STAGE>Aside.</STAGE>
+<SP>
+<SPEAKER>Fi.</SPEAKER>
+<L>But why shu'd y&ocirc;u sigh! you live happily;</L>
+<L>and sighs are for the miserable, such as I:&mdash;</L>
+<L><HI>Palemon</HI> loves y&ocirc;u, and so loves you too,</L>
+<L>as he even pines away for Love of you;</L>
+<L>consumes with grief, languishes with despair,</L>
+<L>melts into tears, and sighs himself to air;</L>
+<L>faith, give him some comfort e're you go</L>
+<L>unto the Temple, sweet <HI>Bellinda</HI> do;</L>
+<L>poor Youth, he's in so desperate estate,</L>
+<L>I fear, lest after it may come too late.</L>
+</SP>
+<SP>
+<SPEAKER>Bel.</SPEAKER>
+<L>What greater comfort can he expect of me,</L>
+<L>then that, if any i'th' Isle I love, 'tis he?</L>
+</SP>
+<SP>
+<PB N="22" REF="16">
+<SPEAKER>Fi.</SPEAKER>
+<L>Poor comfort, that it shall be him alone,</L>
+<L>if any i'th' Isle you love, if you love none;</L>
+<L>this is to mock his hopes; and they deny</L>
+<L>rather then grant, who promise doubtfully.</L>
+</SP>
+<SP>
+<SPEAKER>Bell.</SPEAKER>
+<L>More (<HI>Filena</HI>) I neither will nor can</L>
+<L>give him, until I go to th' Temple anon,</L>
+<L>and there consult the Gods what I shu'd do.</L>
+</SP>
+<SP>
+<SPEAKER>Fi.</SPEAKER>
+<L>Consult your own thoughts rather,</L>
+<L>and your minde.</L>
+</SP>
+<SP>
+<SPEAKER>Bell.</SPEAKER>
+<L>'Tis not easie as you think to finde</L>
+<L>the source and origin of our thoughts and minde;</L>
+<L>of which t'one is so deep, t'other so high,</L>
+<L>as there are Opticks made to pierce the sky,</L>
+<L>plummets to sound the bottom o'th' ocean;</L>
+<L>but for to pierce and sound a heart there's none.</L>
+</SP>
+<STAGE>Within. Bellinda, Bellinda.</STAGE>
+<STAGE>Enter Polydor.</STAGE>
+<SP>
+<SPEAKER>Bell.</SPEAKER>
+<P>Here! who calls?</P>
+</SP>
+<SP>
+<SPEAKER>Pol.</SPEAKER>
+<P>'Tis I.</P>
+</SP>
+<SP>
+<SPEAKER>Fi.</SPEAKER>
+<L>Gentle <HI>Polydor,</HI></L>
+<L>what news from th' Temple w'ye?</L>
+</SP>
+<SP>
+<SPEAKER>Pol.</SPEAKER>
+<L>Nothing, but onely all's prepared there</L>
+<L>for th' grand solemnity, and onely fair</L>
+<L><HI>Bellinda</HI>'s presence expected.</L>
+</SP>
+<SP>
+<SPEAKER>Bell.</SPEAKER>
+<L>If't be so,</L>
+<L>let us away.</L>
+</SP>
+<SP>
+<SPEAKER>Pol.</SPEAKER>
+<P>Soft, 'tis not time to go this hour yet.</P>
+</SP>
+<SP>
+<SPEAKER>Bell.</SPEAKER>
+<L>And that a day will seem to be</L>
+<L>a moneth, a year, a very age to me.</L>
+</SP>
+<STAGE>Exit joyfully.</STAGE>
+<SP>
+<SPEAKER>Pol.</SPEAKER>
+<P>D'ye think she knows?</P>
+</SP>
+<SP>
+<PB N="23" REF="16">
+<SPEAKER>Fi.</SPEAKER>
+<L>I know not, let's divine,</L>
+<L>and joyn your observations to mine:&mdash;</L>
+<L>D'ye mark with how great joy away she went?</L>
+<L>none goes so chearfully to banishment.</L>
+</SP>
+<SP>
+<SPEAKER>Pol.</SPEAKER>
+<L>But if her body's here, and mind elsewhere,</L>
+<L>'tis she does banish us, and not we her.</L>
+</SP>
+<SP>
+<SPEAKER>Fi.</SPEAKER>
+<L>Well, if she love, I wonder at her art</L>
+<L>can carry fire so smother'd in her heart,</L>
+<L>as none nor by the flame nor smoak can know</L>
+<L>whether sh'ave any in her breast or no.</L>
+</SP>
+<SP>
+<SPEAKER>Pol.</SPEAKER>
+<L>And if she do not love agen, then she</L>
+<L>of all the Nymphs I yet did ever see,</L>
+<L>the most my admiration does move,</L>
+<L>t' have so much beauty, and so little love.</L>
+</SP>
+<SP>
+<SPEAKER>Fi.</SPEAKER>
+<P>I'le follow and observe her better.</P>
+</SP>
+<SP>
+<SPEAKER>Pol.</SPEAKER>
+<L>Do,</L>
+<L>and I'le but stay awhile and follow you.</L>
+</SP>
+<STAGE>Exit Filena. Enter Pamphilus.</STAGE>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>That Wench!</L>
+<L>that wench wo'd I give a limb for now,</L>
+<L>though I halted to an Hospital for it, (and there</L>
+<L>are many have ventur'd as far for wenches as that</L>
+<L>comes to) I must needs have her, and h&ecirc; here</L>
+<L>shall be my Agent in the business.&mdash;</L>
+<L>D'ye hear, d'ye hear Sir, a word with you I pray.</L>
+</SP>
+<SP>
+<SPEAKER>Pol.</SPEAKER>
+<P>With me! your pleasure Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<P>D'ye know that Nymph there?</P>
+</SP>
+<SP>
+<SPEAKER>Pol.</SPEAKER>
+<P>Very well, what then?</P>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>Why then I shu'd desire</L>
+<L><PB N="24" REF="17">your better acquaintance;</L>
+<L>for look ye, suppose a man</L>
+<L>shu'd have a minde unto her.</L>
+</SP>
+<SP>
+<SPEAKER>Pol.</SPEAKER>
+<P>A minde, what minde?</P>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<P>Why, a moneths minde or so.</P>
+</SP>
+<SP>
+<SPEAKER>Pol.</SPEAKER>
+<P>Why then, after a moneth you may be rid of't</P>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<P>I hope Sir you do not mock me?</P>
+</SP>
+<SP>
+<SPEAKER>Pol.</SPEAKER>
+<L>Indeed Sir, but I do,&mdash;</L>
+<L>you must pardon me.</L>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>'Tis well you confess it, and ask my pardon,</L>
+<L>I shu'd be very angry else, I can tell you</L>
+</SP>
+<SP>
+<SPEAKER>Pol.</SPEAKER>
+<L>This is some simple stranger, ignorant of</L>
+<L>our manners and customs, rather meriting</L>
+<L>pitty then anger.</L>
+</SP>
+<STAGE>Aside.</STAGE>
+<STAGE>aside.</STAGE>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>He understands nothing but plain</L>
+<L>down-right language I see, that calls every thing</L>
+<L>by its right name:&mdash;Well Sir, since I perceive</L>
+<L>you are a little dull, in plainer terms</L>
+<L>I'de fain&mdash;&mdash;you understood me.</L>
+</SP>
+<STAGE>Whispers.</STAGE>
+<SP>
+<SPEAKER>Pol.</SPEAKER>
+<P>How Sir!</P>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<P>Even so Sir,</P>
+</SP>
+<SP>
+<SPEAKER>Pol.</SPEAKER>
+<P>D'ye know where you are?</P>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<P>Why, in <HI>Love's Kingdom,</HI> where shu'd I be?</P>
+</SP>
+<SP>
+<SPEAKER>Pol.</SPEAKER>
+<L>But not</L>
+<L>in <HI>Lusts</HI>&mdash;remember that.</L>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>Pox a these nice</L>
+<L>distinctions! that onely serve to break</L>
+<L>Dunces heads, and keep Maidenheads so long,</L>
+<L>till they are quite marr'd:&mdash;Come, come, I know</L>
+<L><PB N="25" REF="17">no other love but what I've told you.</L>
+</SP>
+<SP>
+<SPEAKER>Pol.</SPEAKER>
+<L>Then you must be taught,</L>
+<L>and learn other language too, or else this Isle</L>
+<L>(I can tell you) will prove too hot for you.</L>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>Wo'd the Nymphs were not so cold,</L>
+<L>and let the Isle be what it will.</L>
+</SP>
+<STAGE>Aside.</STAGE>
+<SP>
+<SPEAKER>Pol.</SPEAKER>
+<L>And now to instruct you a little better, know</L>
+<L>that for all lewd and lascivious speeches we</L>
+<L>have a gentle punishment here, called whipping.</L>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<P>Gentle d'ye call it?</P>
+</SP>
+<SP>
+<SPEAKER>Pol.</SPEAKER>
+<L>And for fowl libidinousness,</L>
+<L>an other excellent remedy call'd castrating</L>
+<L>that takes it clear away.</L>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>Clear with a witness,</L>
+<L>bless me and all mine from it:</L>
+<L>why this is cruel sir&mdash;</L>
+<L>have you no regard then to peoples infirmities?</L>
+</SP>
+<SP>
+<SPEAKER>Pol.</SPEAKER>
+<L>O yes, a special one, for your wild and unruly</L>
+<L>heats of youth, w'ave an admirable way</L>
+<L>of cooling 'um, by marrying 'um unto</L>
+<L>old women of fourscore, there's a cooler for you.</L>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>A cooler with a vengeance! ah ha!</L>
+<L>it makes my teeth chatter in my head to think of it</L>
+<L>but sure sir y'are not in earnest all this while?</L>
+</SP>
+<SP>
+<SPEAKER>Pol.</SPEAKER>
+<L>It seems sir you love to jest, but look to't, and</L>
+<L>say y'ad fair warning;&mdash;and so farewel.</L>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>Pa<GAP DESC="illegible" REASON="indecipherable" EXTENT="1 letter">.</SPEAKER>
+<L>Farewel quoth ye?</L>
+<L>marry 'tis time to bid farewel indeed</L>
+<L>if this be so, whipping, castrating, and</L>
+<L><PB N="26" REF="18">marrying to old women of fourscore!</L>
+<L>a great consolation for a man that loves</L>
+<L>a wench; but he said all this sure</L>
+<L>onely to fright me;</L>
+<L>yet let him say what he will,</L>
+<L>woo'd I had that wench say I.</L>
+<STAGE>Enter Amaranthe, Cloria, Lydia, Melissa, &amp;c.</STAGE>
+<L>Whow? here comes a whole ocean of them!</L>
+<L>now am I in my element, and I shall wallow</L>
+<L>like a Porposs amongst them.</L>
+</SP>
+<SP>
+<SPEAKER>Am.</SPEAKER>
+<L>What my Platonick Philosopher,</L>
+<L>and Anteplatonick Lover agen?</L>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>'Slid is she there? I'd best be gon then, I'm</L>
+<L>as feard of her as a dog is of a whip.</L>
+</SP>
+<SP>
+<SPEAKER>Am.</SPEAKER>
+<L>What is he going? I must needs have</L>
+<L>some sport with him before he goes.&mdash;</L>
+<L>Hark ye, hark ye sir, pray stay a little.</L>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>Now will she trappan me</L>
+<L>into a whipping, I'm sure;</L>
+<L>yet I am such a fool I must needs tarry.</L>
+</SP>
+<SP>
+<SPEAKER>Am.</SPEAKER>
+<L>These nymphs here wo'd be glad</L>
+<L>of your better acquaintance:</L>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<P>With all my heart.</P>
+</SP>
+<SP>
+<SPEAKER>Lyd.</SPEAKER>
+<P>What means <HI>Amarinthe?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Am.</SPEAKER>
+<L>Come nearer, nearer yet; now nymphs</L>
+<L>look on him (I pray) and mark him well.</L>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>This goes well hitherto&mdash;</L>
+<L>I must prepare my self to court um now.</L>
+</SP>
+<SP>
+<PB N="27" REF="18">
+<SPEAKER>Am.</SPEAKER>
+<L>And now be't known unto you all,</L>
+<L>he's one whom y'are to bless your selves from, as</L>
+<L>from some ghost or goblin.&mdash;</L>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<P>How's this?</P>
+</SP>
+<SP>
+<SPEAKER>Am.</SPEAKER>
+<L>For he'l haunt you,</L>
+<L>haunt you worse then they,</L>
+<L>and stick t'ye faster then burrs, or rather pitch</L>
+<L>that defiles all it touches: there is no</L>
+<L>purifying your selvs a month after h'as once been</L>
+<L>in your company.</L>
+</SP>
+<SP>
+<SPEAKER>Mel.</SPEAKER>
+<P>Bless us from him!</P>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>The devil's in her:</L>
+<L>in what a fair way of courtship was I, and how</L>
+<L>sh'as put me out of it?</L>
+</SP>
+<SP>
+<SPEAKER>Am.</SPEAKER>
+<L>Yet (wo'd ye think it?)</L>
+<L>he imagins all the nymphs are in love with him,</L>
+<L>nay will swear it, if they look but on him once,</L>
+<L>and then talk so lewdly, as shews him all</L>
+<L>groom and foot-boy within,</L>
+<L>however without he appears a Gentleman.</L>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>She'l make me all groom</L>
+<L>and foot-boy presently, she'as half</L>
+<L>transformed me already.</L>
+</SP>
+<SP>
+<SPEAKER>Am.</SPEAKER>
+<L>Nay, hold up your head sir,</L>
+<L>and ben't asham'd of your commendations.</L>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>Commendations d'ye call it? I wonder what</L>
+<L>are your reproaches, if these be your commenda|tions.</L>
+</SP>
+<STAGE>Aside.</STAGE>
+<SP>
+<SPEAKER>Lyd.</SPEAKER>
+<P>Sure <HI>Amaranthe</HI> you wrong him.</P>
+</SP>
+<SP>
+<PB N="28" REF="19">
+<SPEAKER>Pam.</SPEAKER>
+<L>I indeed,</L>
+<L>does she sweet heart,</L>
+</SP>
+<SP>
+<SPEAKER>Lyd.</SPEAKER>
+<P>Forbear, and know your distance Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Am.</SPEAKER>
+<L>Nay he's like</L>
+<L>a Spannel, hold him at arms end, or he'l</L>
+<L>be in your bosom presently.</L>
+</SP>
+<SP>
+<SPEAKER>Mel.</SPEAKER>
+<P>Nay, now y'are too cruel.</P>
+</SP>
+<SP>
+<SPEAKER>Am.</SPEAKER>
+<L>If he wo'd either spare</L>
+<L>his own or others modesty, I wo'd be</L>
+<L>content to spare him yet?</L>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<P>I must suffer I see.</P>
+</SP>
+<SP>
+<SPEAKER>Am.</SPEAKER>
+<L>But see <HI>Theotimus</HI> coming,&mdash;cultivating</L>
+<L>our youth, and sowing in their tender mindes</L>
+<L>the seeds of all our future happiness, for</L>
+<L>'tis not the culter o'th' Land, but of the minde</L>
+<L>makes people happy;</L>
+<L>and as that's done well or ill,</L>
+<L>so they are happy or unhappy still.</L>
+</SP>
+<STAGE>Enter <HI>Theotimus,</HI> Chorus of Musicians, and young Virgins, <HI>Diophantes, Evander,</HI> &amp;c.</STAGE>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>Now tender Virgins all draw near,</L>
+<L>And Loves diviner doctrine hear;</L>
+<L>First, Nymphs be modest as you go,</L>
+<L>For just as by the pulse we know</L>
+<L>The bodies state, so we as well</L>
+<L>By th' eyes, the state o'th' minde may tell;</L>
+<L>And rowling eyes do but betray</L>
+<L>A heart that rowls as well as they.</L>
+</SP>
+<SP>
+<PB N="29" REF="19">
+<SPEAKER>Chor. sings.</SPEAKER>
+<L>O fly then far</L>
+<L>Glances that are</L>
+<L>But outward signs, by which we finde</L>
+<L>The inward temper of the minde;</L>
+<L>And rowling eyes do but betray</L>
+<L>A heart that rowls as well as they.</L>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>Hei day, now will these wenches wear</L>
+<L>their eyes like spectacles on their noses, and</L>
+<L>look as demurely as Cows in bon-graces.</L>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>Then for your kisses, oh, be sure</L>
+<L>No Virgins ever those endure;</L>
+<L>For you are flowers and blooming Trees,</L>
+<L>And men are such deflowring Bees:</L>
+<L>Let once their kisses light upon ye,</L>
+<L>They soon will suck all sweetness from ye,</L>
+<L>And womens lips with kissing us'd</L>
+<L>Will look but just like Cherries bruis'd.</L>
+</SP>
+<SP>
+<SPEAKER>Chor. sings.</SPEAKER>
+<L>O fly then far</L>
+<L>Kisses that are</L>
+<L>Like Bees that suck all sweetness from ye;</L>
+<L>Let 'um once but light upon you:</L>
+<L>And womens lips with kissing us'd,</L>
+<L>Will look but just like Cherries bruis'd.</L>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>Now will these wenches lips grow</L>
+<L>as cold as dogs noses, if they leave off kissing once.</L>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>But above all take heed agen</L>
+<L>You fly and shun the touch of men;</L>
+<L>For there's no canker more devours,</L>
+<L>Nor mildew more blasts tender flowers,</L>
+<L><PB N="30" REF="20">Then men will you, whose lightest touch</L>
+<L>Will soon your fresher beauties smutch;</L>
+<L>And once but tainted in your hue,</L>
+<L>You well may bid the world adieu.</L>
+</SP>
+<SP>
+<SPEAKER>Chor. sings.</SPEAKER>
+<L>O fly then far</L>
+<L>Touches that are</L>
+<L>So blasting, as the lightest touch</L>
+<L>Will soon your fresher beauties smutch;</L>
+<L>And once but tainted in your hue,</L>
+<L>You well may bid the world adieu.</L>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>'Tis time to bid the world adieu indeed,</L>
+<L>if there be no touching 'um.</L>
+</SP>
+<SP>
+<SPEAKER>Th.</SPEAKER>
+<L>Now that we ben't expected there,</L>
+<L>'tis time to th' Temple to repair:&mdash;</L>
+<L>set forwards there before.</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE>Manent Diophantes, Evander, Pamphilus, Ama|ranthe, Cloria, Lydia, Melissa.</STAGE>
+<SP>
+<SPEAKER>Ev.</SPEAKER>
+<L>Oh! <HI>Pamphilus</HI> well met;</L>
+<L>and how d'ye finde the nymphs here, ha?</L>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>As I co'd wish, the kindest lovingst souls</L>
+<L>as e're I met withal.</L>
+</SP>
+<SP>
+<SPEAKER>Am.</SPEAKER>
+<L>How's this! let's stand close,</L>
+<L>and over hear him.</L>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>You need not multiply the Phenix to sum up</L>
+<L>the number of all the maidenheads I shall leave</L>
+<L>in <HI>Cyprus</HI> here, before I've done with'um.</L>
+</SP>
+<SP>
+<SPEAKER>Am.</SPEAKER>
+<P>D'ye hear?</P>
+</SP>
+<SP>
+<SPEAKER>Ev.</SPEAKER>
+<P>Is't possible!</P>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>No, no, I knew not the humor</L>
+<L><PB N="31" REF="20">and disposition of the nymps here, I.</L>
+</SP>
+<SP>
+<SPEAKER>Em.</SPEAKER>
+<P>Troth, and so I think still.</P>
+</SP>
+<STAGE>Aside.</STAGE>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<P>I hope now you'l believe me another time?</P>
+</SP>
+<SP>
+<SPEAKER>Ev.</SPEAKER>
+<P>It may be so, but now I swear I do not.</P>
+</SP>
+<STAGE>Aside.</STAGE>
+<SP>
+<SPEAKER>Dio.</SPEAKER>
+<L>Yet let us sooth and humour him to have</L>
+<L>some sport with him;&mdash;</L>
+<L>you know all the Nimphs here then?</L>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<P>O most intimately.</P>
+</SP>
+<SP>
+<SPEAKER>Diop.</SPEAKER>
+<P>Amaranthe, Cloria, Lydia, Melissa?</P>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>All, all&mdash;</L>
+<L>and have had favours from every one of them,</L>
+<L>this Ring from one, this Ribband from a second,</L>
+<L>this Jewel from a third.</L>
+</SP>
+<SP>
+<SPEAKER>Mel.</SPEAKER>
+<P>What a lying fellow's this!</P>
+</SP>
+<SP>
+<SPEAKER>Dio.</SPEAKER>
+<P>And what think you of <HI>Cloria?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>She kisses well,</L>
+<L>I've gone no farther with her yet, but there</L>
+<L>is hope I may in time.</L>
+</SP>
+<SP>
+<SPEAKER>Clo.</SPEAKER>
+<P>Shall I indure this?</P>
+</SP>
+<SP>
+<SPEAKER>Am.</SPEAKER>
+<P>Nay prethee,</P>
+</SP>
+<SP>
+<SPEAKER>Dio.</SPEAKER>
+<P>And <HI>Lydia?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>With her I must confess</L>
+<L>I've had a little more samiliarity.</L>
+</SP>
+<SP>
+<SPEAKER>Lyd.</SPEAKER>
+<P>There's no induring this!</P>
+</SP>
+<SP>
+<SPEAKER>Am.</SPEAKER>
+<L>Yet this was he</L>
+<L>you thought I wrong'd.</L>
+</SP>
+<SP>
+<SPEAKER>Lyd.</SPEAKER>
+<L>Hang him, none can, but onely</L>
+<L>by reporting too well of him.</L>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<P>For <HI>Amarinthe</HI> she's the coyest of 'um all&punc;</P>
+</SP>
+<SP>
+<PB N="32" REF="21">
+<SPEAKER>Am.</SPEAKER>
+<P>I thank you.</P>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>And was so angry with me for</L>
+<L>a kiss I stole from her, but I soon pacified her:</L>
+</SP>
+<SP>
+<SPEAKER>Dio.</SPEAKER>
+<P>As how?</P>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>Why, I told her that rather</L>
+<L>then that shud make a war betwixt us,</L>
+<L>which was wont to be the signe of peace with others,</L>
+<L>I'd make her double satisfaction;</L>
+<L>and for one kiss I took from her, wo'd give</L>
+<L>her two.</L>
+</SP>
+<SP>
+<SPEAKER>Ev.</SPEAKER>
+<L>So then (as you imagin'd 'um) you finde</L>
+<L>all the Nymphs here as supple and plyant as</L>
+<L>kids leather Gloves, a gentle pluck or two</L>
+<L>will easily draw 'um om.</L>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>Draw 'um on! wou'd some body wou'd draw 'um off for me:</L>
+<L>I fear I shall be ravisht by 'um.</L>
+</SP>
+<SP>
+<SPEAKER>Am.</SPEAKER>
+<L>Out upon him, I'le hear no more,</L>
+<L>let's go, and as we pass, shew him all</L>
+<L>the neglect and scorn we can possible.</L>
+</SP>
+<STAGE>They pass by him frowningly and Exeunt.</STAGE>
+<SP>
+<SPEAKER>Dio.</SPEAKER>
+<P>D'ye mark how they frown upon him?</P>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>Favours, meer favours, believe it Gentlemen,</L>
+<L>and onely invitations to follow 'um;</L>
+<L>you see how I am courted, and must pardon me.</L>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>Dio.</SPEAKER>
+<L>The man's as impudent as vain I see,</L>
+<L>and though this hitherto be but in jest</L>
+<L><PB N="33" REF="21">you whom he counts his friend may tell him best,</L>
+<L>If he imagines with injurious lyes</L>
+<L>To get him honour by their injuries:</L>
+<L>Our Nymphs are all of such unquestion'd Fame,</L>
+<L>He'l sooner punishment, then credit gain.</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE>Enter Palemon.</STAGE>
+<SP>
+<SPEAKER>Pal.</SPEAKER>
+<L>This way the fair <HI>Bellinda</HI> is to pass</L>
+<L>Unto the Temple, and although she has</L>
+<L>Forbid me speaking to her on pain of her</L>
+<L>Displeasure, I may see her howsoe're;</L>
+<L>And as she goes to th' Temple, feast mine eyes,</L>
+<L>Which happiness she to my tongue denyes.&mdash;</L>
+<STAGE>Enter Bellinda, Filena, Polydor.</STAGE>
+<L>See where she comes, and now it fares with me</L>
+<L>As with those sick, who whilst they long to see</L>
+<L>The cup they may not taste, become but more</L>
+<L>Thirsty with sight of't then they were before.</L>
+</SP>
+<SP>
+<SPEAKER>Fi.</SPEAKER>
+<L>Behold <HI>Palemon,</HI> as I've appointed him</L>
+<L>ith way, can we invent no stratagem</L>
+<L>to make her now with favourable eye</L>
+<L>regard him? think, I'le second you.</L>
+</SP>
+<SP>
+<SPEAKER>Pol.</SPEAKER>
+<L>I'le try:</L>
+<L>whose that <HI>Palemon?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Fi.</SPEAKER>
+<L>Think it be,</L>
+<L>but let's go on and think not on him.</L>
+</SP>
+<STAGE>Exeunt Bellinda and Polyder.</STAGE>
+<SP>
+<SPEAKER>Pal.</SPEAKER>
+<P>She my enemy!</P>
+</SP>
+<SP>
+<SPEAKER>Pol.</SPEAKER>
+<L>Ben't deceiv'd <HI>Palemon,</HI> for</L>
+<L>'twas said to make her think of you the more&punc;</L>
+<L><PB N="34" REF="22">For just as winde or fanning does the fire</L>
+<L>So prohibition more inflames desire.</L>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>Pal.</SPEAKER>
+<L>I fain wo'd follow her, but I know that she</L>
+<L>Wo'd be offended with it; and for me</L>
+<L>To offend her now, were to undo my self,</L>
+<L>And in the Haven shipwrack all my wealth.</L>
+</SP>
+<STAGE>Exit.</STAGE>
+<TRAILER>Finis Actus Secundi.</TRAILER>
+</DIV2>
+<DIV2 N="3" TYPE="act">
+<HEAD>ACTUS 3.</HEAD>
+<STAGE>Enter Diophantes and Evander.</STAGE>
+<STAGE>The Scene, Loves Temple surrounded with Pillars of the Dorick Order, with a Dome or Cupilo o'th' top, and the Statues or Simulachrums of Venus and Cupid on an Altar in the midst of the Temple, all transparent.</STAGE>
+<SP>
+<SPEAKER>Diophantes.</SPEAKER>
+<L>THis is Loves Temple, here who e're repairs,</L>
+<L>Findes Love propitious to their vows and Prayers:</L>
+<L>Regard not then the proud materials,</L>
+<L>Or outward structure of the Vaults and Walls;</L>
+<L>But mark the Altar, and the sacred Shrine,</L>
+<L>Then which the world has nothing more divine.</L>
+</SP>
+<SP>
+<SPEAKER>Ev.</SPEAKER>
+<L>Methinks there's somewhat more then hu|mane here</L>
+<L>Fills me with reverence and holy fear!</L>
+</SP>
+<SP>
+<PB N="35" REF="22">
+<SPEAKER>Dio.</SPEAKER>
+<P>Peace, the Ceremony begins.</P>
+</SP>
+<SP>
+<SPEAKER>Ev.</SPEAKER>
+<L>And do</L>
+<L>the Nymphs begin it?</L>
+</SP>
+<STAGE>Enter all the Nymphs in solemn manner, addressing themselves unto the Altar.</STAGE>
+<SP>
+<SPEAKER>Dio.</SPEAKER>
+<L>Yes,</L>
+<L>For of that Sex, Vertues and Graces are</L>
+<L>Of th&acirc;t, all that is beautiful and fair;</L>
+<L>And as the care of <HI>Cupids</HI> is to men,</L>
+<L>So that of <HI>Venus's</HI> rites is due to them.</L>
+</SP>
+<SP>
+<SPEAKER>Ev.</SPEAKER>
+<L>I understand, and every thing I see</L>
+<L>Is ordered here with rare oeconomy.</L>
+</SP>
+<SP>
+<SPEAKER>Fi.</SPEAKER>
+<L>Thou fairest, brightest Star in heaven,</L>
+<L>And most benigne of all the seven;</L>
+<L>If on this day (when every year</L>
+<L>We celebrate thy coming here:)</L>
+<L>Thou dost not hear our prayers; 'tis we</L>
+<L>Are rather wanting unto thee</L>
+<L>Then thou to us; for thou wod'st grant</L>
+<L>(We know) what ever we do want,</L>
+<L>If we (on our parts) did but crave</L>
+<L>What e're is fit for us to have;</L>
+<L>Grant then to celebrate thy feast</L>
+<L>A holy and religious Breast,</L>
+<L>Vertue, high honour, beauty, health,</L>
+<L>And minde above all other wealth;</L>
+<L>Let others ask what boon they please,</L>
+<L>All that we crave of thee are these:</L>
+</SP>
+<SP>
+<PB N="36" REF="23">
+<SPEAKER>All.</SPEAKER>
+<L>Oh hear our vows and prayers as we</L>
+<L>do purely love and honour thee.</L>
+</SP>
+<STAGE>Soft Musick.</STAGE>
+<SP>
+<SPEAKER>Fi.</SPEAKER>
+<L>Thou doest confirm us by this Harmony,</L>
+<L>O Love our Vows are pleasing unto thee.</L>
+</SP>
+<SP>
+<SPEAKER>Ev.</SPEAKER>
+<L>Now I perceive it is our faults, not theirs,</L>
+<L>If when we pray, the gods don't hear our prayers.</L>
+</SP>
+<SP>
+<SPEAKER>Dio.</SPEAKER>
+<P>Peace now, the other Ceremony begins.</P>
+</SP>
+<SP>
+<SPEAKER>Fi.</SPEAKER>
+<P>Let us retire then, and give place to them.</P>
+</SP>
+<STAGE>Enter Theotimus, Chorus of Musicians one way, Bel|linda the other, brought in by Polydor, Pamphilus, <HI>&amp;c.</HI></STAGE>
+<SP>
+<SPEAKER>Chorus</SPEAKER>
+<STAGE>sings.</STAGE>
+<L>Divinest Love does all command,</L>
+<L>In fire and water, air and land;</L>
+<L>And all with his commands inspire</L>
+<L>In land and water, air and fire.</L>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<P>Where is the Nymph?</P>
+</SP>
+<SP>
+<SPEAKER>Pol.</SPEAKER>
+<L>Great Sir, behold her here;&mdash;</L>
+<L>bear back, bear back, room for the Nymph there.</L>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>Now will he break my head,</L>
+<L>onely to shew his authority, (you'l see)</L>
+<L>'less I get me out of the way the sooner.</L>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>Then fair and gentle Nymph draw near,</L>
+<L>And all our Ceremonies hear,</L>
+<L>Which to Religion do dispence</L>
+<L>Both Mystery and Reverence:</L>
+<L>We first must charm you silent, then</L>
+<L>Must vail and blinde your eyes agen;</L>
+<L><PB N="37" REF="23">That you may see and speak with none,</L>
+<L>Untill the Ceremony's done:</L>
+<L>Then y'are to go to th' sacred Cell,</L>
+<L>Where a full hour you are to dwell,</L>
+<L>Before you are produc't to swear,</L>
+<L>You love some one in <HI>Cyprus</HI> here;</L>
+<L>Or else (refusing it) be sent</L>
+<L>Into perpetual banishment.&mdash;</L>
+<L>If then y'ave any thing to say,</L>
+<L>Now speak it freely whilst you may.</L>
+</SP>
+<SP>
+<SPEAKER>Bel.</SPEAKER>
+<L>Prudence assist me, thou that best canst tell, <STAGE>Aside.</STAGE></L>
+<L>What I shu'd say, and what I shu'd conceal;&mdash;</L>
+<L>Knowing great sir, how w'ar the gods chief care,</L>
+<L>More dear to them, then to our selves we are:</L>
+<L>Behold <HI>Bellinda</HI> here resigned stands</L>
+<L>To obey your Laws, and their divine commands.</L>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>A wise and pious Resignation!</L>
+<L>Most pleasing unto Heaven, and such an one</L>
+<L>As even necessitates the Gods to grant</L>
+<L>All that we mortals crave, and all we want.&mdash;</L>
+<L>Reach us the sacred Wand</L>
+<L>to charm her silent then.</L>
+<Q><TEXT LANG="eng">
+<BODY>
+<DIV1 TYPE="poem">
+<HEAD>The Charm.</HEAD>
+<L>Still-born Silence, thou that art</L>
+<L>Flood-gate of the deeper heart,</L>
+<L>Off-spring of a heavenly kinde,</L>
+<L>Frost o'th' mouth, and thaw oth' minde;</L>
+<L><PB N="38" REF="24">Admirations chiefest tongue,</L>
+<L>Leave thy desart Shades, among</L>
+<L>Ancient Hermits hallowed Cells,</L>
+<L>Where retyr'd Devotion dwells,</L>
+<L>With thy Enthusiasmes come</L>
+<L>Ceize this Maid, and strike her dumb.</L>
+</DIV1>
+</BODY>
+</TEXT></Q>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>If every man that's troubled with</L>
+<L>a shrew'd wife had but this Charm,</L>
+<L>how happy shud he be?</L>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>Now, reach us the sacred veil&mdash;</L>
+<L>Where such a cloud of mysteries lyes,</L>
+<L>As whilst we with it blinde your eyes,</L>
+<L>If onely you convert your sight,</L>
+<L>From th' outward to the inward light,</L>
+<L>Illuminates your soul and minde</L>
+<L>Sent from above, you soon will finde</L>
+<L>The Sun here in its brightest Sphere,</L>
+<L>Will darker then a shade appear.</L>
+</SP>
+<STAGE>he vails her.</STAGE>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>Now were she and I</L>
+<L>to play at blinde-man-buff together, ah!</L>
+<L>what dainty sport shu'd we two make? she shu'd</L>
+<L>catch me, or I'de catch her, 'tshu'd cost</L>
+<L>one of us a fall else.</L>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>Now to the sacred Cell set on,</L>
+<L>Where w're to leave her all alone,</L>
+<L>Until the hour's expir'd, and then</L>
+<L>To th' Temple all repair agen.</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE>Manet Pamphilus.</STAGE>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>Wo'd I were in the sacred Cell</L>
+<L><PB N="39" REF="24">with her now,</L>
+<L>what holy work shu'd she and I make together?</L>
+<L>if these holy whorsons did not hinder us;</L>
+<L>as most commonly they hinder all good sport.&mdash;</L>
+<L>Well, here will I spread my nets to catch</L>
+<L>some of the Nymphs in their return;</L>
+<L>'tis hard if they all 'scape me: <STAGE>Enter 1 Nymph.</STAGE></L>
+<L>And see here's one already.&mdash;Fair Nymph,</L>
+<L>might I desire the honor to wait upon you home?</L>
+</SP>
+<SP>
+<SPEAKER>1</SPEAKER>
+<P>No indeed Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<P>And why so?</P>
+</SP>
+<SP>
+<SPEAKER>1</SPEAKER>
+<L>Because 'tis not the custom</L>
+<L>for Nimphs in this Country to go alone with men</L>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>But 'tis the custom for men in our Country</L>
+<L>when they're alone with women, to offer them</L>
+<L>the courtesie of&mdash;you know what.</L>
+</SP>
+<SP>
+<SPEAKER>1</SPEAKER>
+<P>I know not what you mean!</P>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>The more's the pitty</L>
+<L>you shu'd live to these years, and be so ignorant;</L>
+<L>the Nymphs in our Countrey</L>
+<L>wo'd have understood me presently:</L>
+</SP>
+<SP>
+<SPEAKER>1</SPEAKER>
+<L>They better understand</L>
+<L>what belongs to men perhaps; but we Sir, better</L>
+<L>what belongs to women.</L>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>Goodly, goodly! how say ye by that?</L>
+<L>I was deceiv'd in her; but here comes another,</L>
+<L>if I understand any thing in women,</L>
+<L>will be more kinde.&mdash;Fair Nymph,</L>
+</SP>
+<STAGE>Enter 2 Nymph.</STAGE>
+<SP>
+<SPEAKER>2</SPEAKER>
+<P>Pray keep your way Sir, and trouble me not.</P>
+</SP>
+<SP>
+<PB N="40" REF="25">
+<SPEAKER>Pam.</SPEAKER>
+<L>This is worse then to'ther!</L>
+<L>Did you but know how much I love you,</L>
+<L>you'd never refuse my courtesie.</L>
+</SP>
+<SP>
+<SPEAKER>2</SPEAKER>
+<L>And did you but know how little I care for it,</L>
+<L>you'd never offer it.</L>
+</SP>
+<SP>
+<SPEAKER>Ham.</SPEAKER>
+<L>Hei ho! have ye the heart to hear me</L>
+<L>sigh thus, and never pitty me?</L>
+</SP>
+<SP>
+<SPEAKER>2</SPEAKER>
+<L>Yes indeed, and to laugh at you for it too,</L>
+<L>to hear you sigh thus</L>
+<L>like a broken-winded bellows,</L>
+<L>or a dry pump and spend so much breath in vain,</L>
+<L>as we shall never wonder hereafter</L>
+<L>at <HI>Lapland</HI> Witches selling winde so cheap.</L>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>But I shall alwayes wonder,</L>
+<L>that h&ecirc;re in <HI>Venus</HI> School the Nymphs shu'd learn</L>
+<L>no more compassion.</L>
+</SP>
+<SP>
+<SPEAKER>2</SPEAKER>
+<L>Now ye talk of Schools,</L>
+<L>I must to the Graces Grove,</L>
+<L>where all the Nymphs are gone</L>
+<L>to learn their lessons.</L>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>And I will follow them;</L>
+<L>strange that all shu'd be honest!</L>
+<L>I have heard of one or two in a Countrey, or so,</L>
+<L>but all, &acirc;ll, was never heard of before!</L>
+<L>I don't despair yet.</L>
+<L>Well.</L>
+</SP>
+<STAGE>Exit.</STAGE>
+<STAGE><PB N="41" REF="25">Enter Amaranthe, Filena, Cloria, Lydia, Melissa.</STAGE>
+<STAGE>The Scene, the Graces Grove, the Statues of the three Graces in the midst, all hand in hand embrac'd.</STAGE>
+<SP>
+<SPEAKER>Am.</SPEAKER>
+<L>Now Nymphs, here in the Graces Grove,</L>
+<L>A place which Beauty most does love,</L>
+<L>And gentle Love most highly prize,</L>
+<L>Let's fall unto our exercise</L>
+<L>Of studying all those gracious parts,</L>
+<L>Which most do take and conquer hearts.</L>
+</SP>
+<STAGE>Enter Pamphilus.</STAGE>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>Now will I stand here conceal'd,</L>
+<L>and observe them; they say, all women when</L>
+<L>they are alone, put off their modesties;</L>
+<L>I shu'd be glad to see it.</L>
+</SP>
+<SP>
+<SPEAKER>Am.</SPEAKER>
+<L>First Nymphs, in honour of the Graces</L>
+<L>Let us compose our looks and faces</L>
+<L>To gentle smiles, for no frowns here</L>
+<L>In any face shu'd e're appear.</L>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>If I thought they would not frown,</L>
+<L>I shu'd soon be amongst them.</L>
+</SP>
+<SP>
+<SPEAKER>Am.</SPEAKER>
+<L>And next, as we our faces do,</L>
+<L>We must compose our garments too</L>
+<L>With such a decency, as best</L>
+<L>Becomes the modest to be drest.</L>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>Wo'd they'd put off their garments once,</L>
+<L>that's it I look for.</L>
+</SP>
+<SP>
+<PB N="42" REF="26">
+<SPEAKER>Am.</SPEAKER>
+<L>But since the graces of the minde</L>
+<L>Are those which most adorn our kinde,</L>
+<L>It ought to be our chiefest care</L>
+<L>To render our interiours fair;</L>
+<L>Counting th' exterior nothing else,</L>
+<L>But outward garments of our selves.</L>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>Give me the out-side,</L>
+<L>and take the inside who's list.</L>
+</SP>
+<SP>
+<SPEAKER>Am.</SPEAKER>
+<L>Other Graces there are beside,</L>
+<L>Which Nymphs shu'd carefully provide,</L>
+<L>As dancing, singing, and such arts,</L>
+<L>Which through the Sences strike their hearts;</L>
+<L>And give (where ever they are found)</L>
+<L>That dangerous yet gentle wound,</L>
+<L>Which never can be cur'd again,</L>
+<L>Till <HI>Hymen</HI> ease their amorous pain.</L>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>I co'd ease and cure it a great deal better,</L>
+<L>if they would but let me alone with them.</L>
+</SP>
+<SP>
+<SPEAKER>Am.</SPEAKER>
+<L>Then let us sing, that Eccho may</L>
+<L>The sound unto the Woods conveigh;</L>
+<L>And after raising it more high,</L>
+<L>The Woods conveigh it to the Sky;</L>
+<L>That heaven and earth may both partake</L>
+<L>The Harmony your Voices make.</L>
+</SP>
+<STAGE>Here the Nymphs sing.</STAGE>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>I co'd make othergess musick with them,</L>
+<L>if I were but master of the Quire amongst them.</L>
+</SP>
+<SP>
+<SPEAKER>Am.</SPEAKER>
+<L>Now let's have a dance, to shew,</L>
+<L>How that which does enchant men so,</L>
+<L><PB N="43" REF="26">Is not the Magick of the face,</L>
+<L>The red and white, nor bodies grace;</L>
+<L>But 'tis the Magick of the feet,</L>
+<L>Where all harmonious numbers meet.</L>
+</SP>
+<STAGE>Here the Nymphs dance.</STAGE>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>I think there's witchcraft in't indeed,</L>
+<L>for I can as well be hang'd as hold now,</L>
+<L>but I must have a frisk amongst them;</L>
+<L>Hei for our Town!</L>
+</SP>
+<STAGE>He comes out dancing.</STAGE>
+<SP>
+<SPEAKER>Fi.</SPEAKER>
+<L>A man amongst us!</L>
+<L>what insolence is this?</L>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>Nay, never look so strange on it,&mdash;</L>
+<L>there are those can dance too, you</L>
+<L>shall see else.</L>
+</SP>
+<STAGE>he dances 'em about one after another.</STAGE>
+<SP>
+<SPEAKER>Mel.</SPEAKER>
+<P>Was ever seen the like?</P>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<P>Yes twenty times,&mdash;How say you?</P>
+</SP>
+<SP>
+<SPEAKER>Lyd.</SPEAKER>
+<P>Away, are you not asham'd?</P>
+</SP>
+<SP>
+<SPEAKER>Pa.</SPEAKER>
+<L>No indeed, I was never asham'd in my life&mdash;</L>
+<L>nay, you must have your turn too.</L>
+</SP>
+<SP>
+<SPEAKER>Clo.</SPEAKER>
+<P>Let me go,&mdash;or I'le cry out else.</P>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>'Tis yet too soon,</L>
+<L>I'le give you more cause presently.</L>
+</SP>
+<SP>
+<SPEAKER>Lyd.</SPEAKER>
+<P>Away <HI>Melissa.</HI></P>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>Mel.</SPEAKER>
+<P>Away <HI>Cloria.</HI></P>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>Clo.</SPEAKER>
+<P>Away <HI>Lydia.</HI></P>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>Am.</SPEAKER>
+<L>Away all of you,</L>
+<L>this is a rudeness must be complained of.</L>
+</SP>
+<STAGE>Exeunt omnes, manet Pamphilus.</STAGE>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>Look ye! is not this a lamentable case?</L>
+<L><PB N="44" REF="27">that all the Nymphs shu'd flye me as chickens do</L>
+<L>a Kite, or birds some strange Owl; yet I protest,</L>
+<L>I mean them no more harm, then their fathers did</L>
+<L>their mothers, as they shu'd soon perceive, if they</L>
+<L>wo'd but try me once; I fear I shall never do</L>
+<L>any good on them, yet I must follow them still:</L>
+<L>For the devil's in't, when once we begin</L>
+<L>to follow wenches, we can never give over.</L>
+</SP>
+<STAGE>Exit</STAGE>
+<STAGE>Enter Philander solus.</STAGE>
+<STAGE>The Scene, the Cyprian Shore, a waving Sea afar off discovered, &amp;c.</STAGE>
+<SP>
+<SPEAKER>Phi.</SPEAKER>
+<L>Hail happy Island! Natures chiefest care,</L>
+<L>Where all things love, and all things fruitful are;</L>
+<L>Where Spring-tide makes perpetual Residence,</L>
+<L>And rigid Winter's ever banisht hence;</L>
+<L>In you, (O blest and happy Land) in you</L>
+<L>I shall finde her, (if the Oracle be true)</L>
+<L>Through all the Islands of th' <HI>Egean</HI> Main,</L>
+<L>These three moneths I have sought, and sought in vain;</L>
+<L>Till here arriving now at last, I see</L>
+<L>So vaste a solitude, as amazes me!</L>
+<L>Nor on the barren Mauritanean Shore,</L>
+<L>Or <HI>Lybian</HI> Desart, scarcely co'd be more!</L>
+</SP>
+<STAGE>Enter Palemon.</STAGE>
+<SP>
+<SPEAKER>Pal.</SPEAKER>
+<L>I'le hide me no longer from my fears, nor fly</L>
+<L>The danger, 'tis childish and cowardly,</L>
+<L>And (well considered) rather does increase</L>
+<L>Our dangers and our fears, then make them less;</L>
+<L><PB N="45" REF="27">For looking through that false optick fear,</L>
+<L>Danger does still more terrible appear,</L>
+<L>And terrors in the dark far more afright</L>
+<L>(Th' imagination of't) then in the light:</L>
+<L>I'le then to the Temple, and whate're befal</L>
+<L>By help of this, I am prepar'd for all.</L>
+</SP>
+<STAGE>Pointing to his Sword.</STAGE>
+<SP>
+<SPEAKER>Phi.</SPEAKER>
+<L>Sir, might a stranger here desire to know</L>
+<L>Why all your houses are deserted so,</L>
+<L>As if some plague had swept 'um; and the Land</L>
+<L>Depopulated, as if some enemies hand</L>
+<L>Had mow'd it with the sword! to me it does</L>
+<L>Appear to wonder strange, that love shu'd thus</L>
+<L>Leave his own Land unpeopled, whilst he</L>
+<L>Peoples all others so abundantly!</L>
+</SP>
+<SP>
+<SPEAKER>Pal.</SPEAKER>
+<L>Know Sir, 'tis not for want of people here,</L>
+<L><HI>Loves Kingdom</HI> does so desolate appear,</L>
+<L>But just as we perceive from every part,</L>
+<L>The blood does all retire unto the heart,</L>
+<L>In any great commotion or dismay;</L>
+<L>So all the people, in no less, to day</L>
+<L>Are gone to th' Temple, in expectancy</L>
+<L>O'th' issue of our great solemnity.</L>
+</SP>
+<SP>
+<SPEAKER>Phi.</SPEAKER>
+<P>What's that?</P>
+</SP>
+<SP>
+<SPEAKER>Pal.</SPEAKER>
+<L>Why, by the Laws of <HI>Cyprus,</HI> here</L>
+<L>All strangers after three moneths are to swear</L>
+<L>They love some one i'th Island, or be sent</L>
+<L>Away into perpetual banishment:</L>
+<L>Now Sir, this oath a Nymph to day must take,</L>
+</SP>
+<SP>
+<PB N="46" REF="28">
+<SPEAKER>Phi.</SPEAKER>
+<L>And why shu'd that</L>
+<L>so great commotion make?</L>
+</SP>
+<SP>
+<SPEAKER>Pal.</SPEAKER>
+<L>'Cause she's the joy or grief of every one;</L>
+<L>Joy if she stay, and grief if she be gone.</L>
+</SP>
+<SP>
+<SPEAKER>Phi.</SPEAKER>
+<P>What is this Nymph so much exacts your care,</P>
+</SP>
+<SP>
+<SPEAKER>Pal.</SPEAKER>
+<L>One who some three moneths since arri|ved here,</L>
+<L>Wrack't on the Coast, (the rest all drown'd but she)</L>
+<L>In whom appear'd so great divinity;</L>
+<L>It was another <HI>Venus</HI> you'd have swore,</L>
+<L>Born of the Sea, and landing on the shore.</L>
+</SP>
+<SP>
+<SPEAKER>Phi.</SPEAKER>
+<L>Just so long 'tis since she was stoln away</L>
+<L>from <HI>Crete,</HI> to barbarous pyrates made a prey;</L>
+<L>and her name, Sir,</L>
+</SP>
+<SP>
+<SPEAKER>Pal.</SPEAKER>
+<L><HI>Bellinda,</HI> Sir, they call</L>
+<L>this admirable Nymph:</L>
+</SP>
+<SP>
+<SPEAKER>Phi.</SPEAKER>
+<L>Her name and all?</L>
+<L>and where is she?</L>
+</SP>
+<SP>
+<SPEAKER>Pal.</SPEAKER>
+<L>I'th sacred Cell inclos'd,</L>
+<L>ready to take the oath.</L>
+</SP>
+<SP>
+<SPEAKER>Phi.</SPEAKER>
+<L>And is't suppos'd</L>
+<L>she'l take it?</L>
+</SP>
+<SP>
+<SPEAKER>Pal.</SPEAKER>
+<L>That as yet, there's none can tell</L>
+<L>But this (unto my grief) I can full well,</L>
+<L>That less she does, you here behold in me</L>
+<L>The wretchedst Lover ever eye did see,</L>
+<L>Or ever liv'd in memory of men;</L>
+</SP>
+<SP>
+<PB N="47" REF="28">
+<SPEAKER>Phi.</SPEAKER>
+<P>Heavens! what do I hear?&mdash;are you her Lover then?</P>
+</SP>
+<SP>
+<SPEAKER>Pal.</SPEAKER>
+<L>Shu'd I deny it, these Trees wou'd tell you I am,</L>
+<L>Upon whose Barks so oft I've carv'd her name;</L>
+<L>This shore so oft my lamentations hears&mdash;</L>
+<L>And Sea that I've augmented with my tears;</L>
+<L>As with my sighs the air; these Sir, all these</L>
+<L>Will tell you I am, though I shu'd hold my peace.</L>
+</SP>
+<SP>
+<SPEAKER>Phi.</SPEAKER>
+<L>O Heaven! in vain why did you valor give,</L>
+<L>If I can hear this now, and let him live?</L>
+<L>But stay, if seeing and loving her be a crime,</L>
+<L>I must kill all mankinde as well as him;</L>
+<L>For all wo'd guilty be, and you shou'd finde</L>
+<L>None innocent, but the senseless, and the blinde:</L>
+<L>I'le then suspend my anger, till I know</L>
+<L>Whether <HI>Bellinda</HI> does love him or no;</L>
+<L>For there, th&ecirc;re onely the offence does lie,</L>
+<L>Else h&ecirc;'s the person offended, and not I;</L>
+<L>For never Tyrant invented greater pain,</L>
+<L>Then 'tis to love, and not be lov'd again.&mdash;</L>
+<L>It shall be so&mdash;and pray Sir, mayn't one see</L>
+<L>This Nymph you speak of?</L>
+</SP>
+<SP>
+<SPEAKER>Pal.</SPEAKER>
+<L>Please you go with me</L>
+<L>Unto the Temple Sir, there you may both</L>
+<L>See her, and hear her take the sacred Oath.</L>
+</SP>
+<SP>
+<SPEAKER>Phi.</SPEAKER>
+<P>So confident!</P>
+</SP>
+<SP>
+<SPEAKER>Pal.</SPEAKER>
+<L>I've a promise Sir from her</L>
+<L>makes me hope so.</L>
+</SP>
+<SP>
+<PB N="48" REF="29">
+<SPEAKER>Phi.</SPEAKER>
+<L>Then I may well despair&mdash; <STAGE>Aside.</STAGE></L>
+<L>yet will I not be jealous, for that,</L>
+<L>Though it begins in love, does end in hate,</L>
+<L>And I h&ecirc;r love to mine so far prefer,</L>
+<L>As I may hate my self, but never her&mdash;</L>
+<L>Yet it is strange, if what he sayes be true!</L>
+</SP>
+<SP>
+<SPEAKER>Pal.</SPEAKER>
+<L>But has she any relation unto you,</L>
+<L>you seem so much concern'd for her, Sir?</L>
+</SP>
+<SP>
+<SPEAKER>Phi.</SPEAKER>
+<L>No other</L>
+<L>But what a Sister has unto a Brother;</L>
+<L>If she be th' same as I imagine her:</L>
+</SP>
+<SP>
+<SPEAKER>Pal.</SPEAKER>
+<L>Then I beseech you Sir,</L>
+<L>till some more near</L>
+<L>relation and bond may binde me t'ye,</L>
+<L>you wo'd be pleas'd for to accept of me</L>
+<L>for your most humble Servant.</L>
+</SP>
+<SP>
+<SPEAKER>Phi.</SPEAKER>
+<L>That Sir, I</L>
+<L>may not; but please you do me the courtesie</L>
+<L>to shew me th' way unto the Temple, and you</L>
+<L>shou'd much oblige me.</L>
+</SP>
+<SP>
+<SPEAKER>Pal.</SPEAKER>
+<L>That Sir I shall do</L>
+<L>to shew my obedience, or any thing I may.</L>
+</SP>
+<STAGE>Exit. Pal.</STAGE>
+<SP>
+<SPEAKER>Phi.</SPEAKER>
+<L>I'le follow you then,</L>
+<L>please you to lead the way.&mdash;</L>
+<L>Now dearest Love, in this thy kingdom be</L>
+<L>As kinde and as propitious unto me.</L>
+<L>As through thy grace and favour I hope to finde</L>
+<L>Ease for my wearied limbs and troubled minde;</L>
+<L><PB N="49" REF="29">And a calm port and sure retreat at last</L>
+<L>After so many storms and dangers past.</L>
+</SP>
+<STAGE>Ex. Phil.</STAGE>
+<TRAILER>Finis Actus tertii.</TRAILER>
+</DIV2>
+<DIV2 N="4" TYPE="act">
+<HEAD>ACTUS 4.</HEAD>
+<STAGE>Enter Palemon and Philander.</STAGE>
+<STAGE>The Scene, Loves Temple, as before, two Aruspiece with burning Censors, <HI>&amp;c.</HI></STAGE>
+<SP>
+<SPEAKER>Palemon.</SPEAKER>
+<L>NOw h&ecirc;re Love at thy sacred shine</L>
+<L>I offer up these vows of mine,&mdash;</L>
+<L>Father of dear and tender thoughts,</L>
+<L>Thou who the hardest bosom softs;</L>
+<L>Soften <HI>Bellinda's</HI> heart, and make</L>
+<L>Her but thy dear impressions take;</L>
+<L>So shall I burn Arabian Gums,</L>
+<L>And offer up whole Hecatombs</L>
+<L>Upon thy Altar, whilst thy fires</L>
+<L>Shall shine as bright as my desires.</L>
+</SP>
+<SP>
+<SPEAKER>1. Arus.</SPEAKER>
+<L>Whilst he the Deity does invoke</L>
+<L>The flame ascends in troubled smoke:</L>
+</SP>
+<SP>
+<SPEAKER>Phi.</SPEAKER>
+<L>What sort of offering mine shall be,</L>
+<L>Divinest Love's best known to thee;</L>
+<L>Nor spices, nor Arabian Gums,</L>
+<L>Nor yet of beasts whole Hecatombs:</L>
+<L><PB N="50" REF="30">These are too low and earthly, mine</L>
+<L>Are far more heavenly and divine;</L>
+<L>An Adamantine faith, and such</L>
+<L>As jealousie can never touch:</L>
+<L>A constant heart, and loyal breast,</L>
+<L>These are the offerings thou lov'st best.</L>
+</SP>
+<SP>
+<SPEAKER>2. Arus.</SPEAKER>
+<L>Loves fires ne're brighter yet appear'd,</L>
+<L>Who e're thou art, thy vows are heard.</L>
+</SP>
+<STAGE>Enter <HI>Theotimus,</HI> Chorus of Musicians one way, <HI>Bel|linda</HI> 'tother, with all the Nymphs, <HI>Polydor, Evander, Diophantes, Pamphilus,</HI> &amp;c.</STAGE>
+<SP>
+<SPEAKER>Pal.</SPEAKER>
+<P>Now see here where she comes.</P>
+</SP>
+<SP>
+<SPEAKER>Phi.</SPEAKER>
+<L>Her noble frame,</L>
+<L>habit, and stature tells me 'tis the same?</L>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<P>Why comes she not away?</P>
+</SP>
+<SP>
+<SPEAKER>Pol.</SPEAKER>
+<P>What ails she there?</P>
+</SP>
+<SP>
+<SPEAKER>Am.</SPEAKER>
+<P>Help, help, she swounds:</P>
+</SP>
+<SP>
+<SPEAKER>Lyd.</SPEAKER>
+<P>Give her, give her more air?</P>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>Hold, hold, I charge you, and let none</L>
+<L>presume to touch the consecrated veil.</L>
+</SP>
+<SP>
+<SPEAKER>Pol.</SPEAKER>
+<L>Behold she's come</L>
+<L>to her self again;</L>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>Let the Solemnity</L>
+<L>go on then.</L>
+</SP>
+<SP>
+<SPEAKER>Phi.</SPEAKER>
+<P>Now I clearly see 'tis she.</P>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>Now on this Book here lay your hands,</L>
+<L>Cover'd with skins of Doves and Swans;</L>
+<L>And <HI>Love</HI> so help you as you swear,</L>
+<L>Unfeignedly you love one here.</L>
+</SP>
+<SP>
+<PB N="51" REF="30">
+<SPEAKER>Phi.</SPEAKER>
+<L>Now <HI>Philander</HI> thou shalt know</L>
+<L>whether she be true or no:</L>
+</SP>
+<SP>
+<SPEAKER>Pal;</SPEAKER>
+<L>And I know my destiny,</L>
+<L>Whether I'me to live or dye.</L>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>Thus I uncharm your tongue, now speak</L>
+<L>And to our joyes your silence break.</L>
+</SP>
+<SP>
+<SPEAKER>Bel.</SPEAKER>
+<L>Then by Loves sacred deity I swear,</L>
+<L>I love one in the Isle.</L>
+</SP>
+<SP>
+<SPEAKER>Phi.</SPEAKER>
+<P>What do I hear!</P>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<P>Enough,&mdash;the charm agen, I thus apply.</P>
+</SP>
+<SP>
+<SPEAKER>Pal.</SPEAKER>
+<P>O me, most happy!</P>
+</SP>
+<SP>
+<SPEAKER>Phi.</SPEAKER>
+<P>And most unhappy I!</P>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>Now bear her to the Cell again,</L>
+<L>Where yet an hour she's to remain;</L>
+<L>Suffer'd to see nor speak with none</L>
+<L>Untill the hour be past and gone.</L>
+</SP>
+<SP>
+<SPEAKER>Chor. sings.</SPEAKER>
+<L>Praised be Love does all command</L>
+<L>In fire and water, air, and land,</L>
+<L>And all with his commands inspire</L>
+<L>In land and water, air and fire.</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE>Manet Filena.</STAGE>
+<SP>
+<SPEAKER>Fi.</SPEAKER>
+<L><HI>Bellinda</HI> Love! nay then my fears I see</L>
+<L>Were not in vain, and nothing's left for me,</L>
+<L>But onely death; when nothing else prevails,</L>
+<L>That's the last remedy, and never fails.</L>
+<STAGE>Enter Palemon, and seeing her, returns.</STAGE>
+<L>Stay, stay <HI>Palemon;</HI></L>
+<L><PB N="52" REF="31">This is the last time we shall ever meet;</L>
+<L>Stay then and hear me, it is nobler yet</L>
+<L>To kill me like the basilisk with your sight,</L>
+<L>Then like the Parthians, kill me with your flight&mdash;</L>
+<L>But he is gone (alas) and does deny</L>
+<L>Me the last office of humanity</L>
+<L>Of closing of my dying eyes in death,</L>
+<L>And when I expire, receive my latest breath.&mdash;</L>
+<L>The many wayes that lead to death do make</L>
+<L>Me yet irresolute which way to take;</L>
+<L>But some way I must take, and speedily</L>
+<L>Resolve upon it too, what e're it be.</L>
+</SP>
+<STAGE>Exit.</STAGE>
+<STAGE>Enter Pamphilus.</STAGE>
+<STAGE>The Scene, The precints of the Temple.</STAGE>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>Strange! that I can finde no way</L>
+<L>to fasten on these Nymphs?</L>
+<L>here comes one now, <STAGE>Enter first Nymph.</STAGE></L>
+<L>and I'le try a way with her</L>
+<L>that seldom fails they say.&mdash;Fair Nymph</L>
+<L>please you to accept these Jewels here?</L>
+</SP>
+<SP>
+<SPEAKER>1, Nym.</SPEAKER>
+<P>Wherefore Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<P>Onely to buy your love, nothing else</P>
+</SP>
+<SP>
+<SPEAKER>1. Nym.</SPEAKER>
+<L>Bless me! <STAGE>Throws them away and exit.</STAGE></L>
+<L>Simony in love!</L>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>This is the first wench</L>
+<L>as ever I met withal,</L>
+<L>that refus'd presents when they were offer'd her,</L>
+<L>and I think will be the last.&mdash;</L>
+<L><PB N="53" REF="31">This is a strange Countrey,</L>
+<L>where a man can't get a wench</L>
+<L>neither for love nor money? well, I perceive</L>
+<L>this handling 'um with so much ceremony</L>
+<L>is that which spoils 'um,</L>
+<L>and makes 'um so nice and ticklish</L>
+<L>there is no touching 'um:</L>
+<L>women shu'd be handled like nettles,</L>
+<L>but press them hard</L>
+<L>and you may do any thing with them,</L>
+<L>and I'le try that way with the next I meet.</L>
+</SP>
+<STAGE>Enter Filena.</STAGE>
+<SP>
+<SPEAKER>Fil.</SPEAKER>
+<L>I have bethought me of a way to dye</L>
+<L>and must go seek out <HI>Amaranthe's</HI> help.</L>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>Stay Lady, a word with you I pray</L>
+<L>before you go.</L>
+</SP>
+<STAGE>Layes hold on her.</STAGE>
+<SP>
+<SPEAKER>Fil.</SPEAKER>
+<L>Was ever such a rudeness? unhand me sir,</L>
+<L>and know that Virgins are like sacred Reliques</L>
+<L>beheld with reverence; but let men come</L>
+<L>to touch 'um once, their reverence is gone,&mdash;</L>
+<L>what wou'd you with me?</L>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>What a question's that?</L>
+<L>when a man's alone with a woman, you</L>
+<L>may easily guess what he wou'd have with her.</L>
+</SP>
+<SP>
+<SPEAKER>Fil.</SPEAKER>
+<L>Hence and avoid my sight, for now I see,</L>
+<L>How all that we call vicious is in thee;</L>
+<L>Foul corrupter of honour, as cankers of fairest flowers,</L>
+<L>Shame of thy Sex, dishonourer of ours&punc;</L>
+</SP>
+<SP>
+<PB N="54" REF="32">
+<SPEAKER>Pam.</SPEAKER>
+<P>Whow, whow! is the woman mad?</P>
+</SP>
+<SP>
+<SPEAKER>Fi.</SPEAKER>
+<L>Avoid my sight I say, thy glowing eyes</L>
+<L>like Basilisks will kill me else; go and repent</L>
+<L>thee of thy crying sins.</L>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>What are those?</L>
+<L>I know no crying sins I have,</L>
+<L>but mine own Bastards:&mdash;Well, go thy wayes,</L>
+<L>if e're thou marriest, I'le give thy husband this</L>
+<L>com~fort, he shall have no other issue of thee</L>
+<L>but nails and teeth, if thou be'st such a Vixen.</L>
+</SP>
+<STAGE>Enter Evander and Diophantes.</STAGE>
+<SP>
+<SPEAKER>Ev.</SPEAKER>
+<L>Now <HI>Pamphilus,</HI> what's the matter,</L>
+<L>that the Nymph is gone in such a rage away?</L>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>Nothing, nothing, onely I offer'd her</L>
+<L>the courtesie oth' Countrey, and she refus'd it,</L>
+<L>that is all.</L>
+</SP>
+<SP>
+<SPEAKER>Ev.</SPEAKER>
+<L>Why then, I see you need not multiply</L>
+<L>the Phenix, to sum up all the Maidenheads</L>
+<L>you'l leave in <HI>Cyprus,</HI></L>
+<L>before you have done with them.</L>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<P>Well, well, you do not know yet.</P>
+</SP>
+<SP>
+<SPEAKER>Ev.</SPEAKER>
+<L>Yes, but we do Sir, more then you imagine&mdash;</L>
+<L>of a certain Nymph, you met in <HI>Plato</HI>'s great year,</L>
+<L>and how she entertain'd you.</L>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<P>'Slid! how comes he to know of that?</P>
+</SP>
+<SP>
+<SPEAKER>Ev.</SPEAKER>
+<L>And of divers other encounters</L>
+<L>with them since, when you could not desire to be</L>
+<L>better mockt and laught at then you were.</L>
+</SP>
+<SP>
+<SPEAKER>Dio.</SPEAKER>
+<L>And now Sir, pray</L>
+<L><PB N="55" REF="32">as you finde our Nymphs here, so report of them;</L>
+<L>and know 'tis not the way</L>
+<L>for men to gain them reputation here,</L>
+<L>to make themselves more vicious then they are.</L>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<P>Nay, if he chide once I'me gone.</P>
+</SP>
+<SP>
+<SPEAKER>Ev.</SPEAKER>
+<L>Y'are deceiv'd, he chides you not,</L>
+<L>but rather gives you good counsel.</L>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>That is as 'tis taken,&mdash;'tis good councel</L>
+<L>to those who mean to follow it;&mdash;</L>
+<L>but to me 'tis flat chiding,</L>
+<L>and I'le hear no more of it.</L>
+</SP>
+<SP>
+<SPEAKER>Ev.</SPEAKER>
+<P>Nay pray.</P>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>Not I I swear,&mdash;</L>
+<L>Chide me! who have liv'd like a Saint here, and</L>
+<L>not toucht a Wench to day!</L>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>Ev.</SPEAKER>
+<P>But tarry a little.</P>
+</SP>
+<SP>
+<SPEAKER>Dio.</SPEAKER>
+<L>No, let him go, I see</L>
+<L>he's forfeited to vice and debauchery</L>
+<L>beyond redemption; and such as he,</L>
+<L>when vice is once turn'd nature, ne're repent,</L>
+<L>till they find their shame, or feel their punishment</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE>Enter Filena and Amaranthe meeting.</STAGE>
+<STAGE>The Scene, a Landskip or Paisage.</STAGE>
+<SP>
+<SPEAKER>Fi.</SPEAKER>
+<L><HI>Amaranthe,</HI>&mdash;well met,</L>
+<L>I've sought you all about,</L>
+<L>And co'd not rest until I'de found you out;</L>
+<L>You know, whilst you and I the other day</L>
+<L><PB N="56" REF="33">In yonder Mead, beheld our young Lambs play,</L>
+<L>One of them stragling from the rest) we spy'd</L>
+<L>Fell down, stretcht forth its tender limbs, and dy'd</L>
+<L>In as short time as I've been telling t'ye,</L>
+<L>And wondring what the reason of't shu'd be,</L>
+<L>You said 'twas with eating</L>
+<L>a venomous herb grew there.</L>
+</SP>
+<SP>
+<SPEAKER>Am.</SPEAKER>
+<P>'Tis true,&mdash;what then?</P>
+</SP>
+<SP>
+<SPEAKER>Fi.</SPEAKER>
+<L>You know besides how here,</L>
+<L>where Love is even the vital air we breath,</L>
+<L>and its privation consequently death;</L>
+<L>depriv'd once of our Love, 'tis lawful for us to</L>
+<L>despair and dye.</L>
+</SP>
+<SP>
+<SPEAKER>Am.</SPEAKER>
+<P>Whither tends this discourse I wonder?</P>
+</SP>
+<SP>
+<SPEAKER>Fi.</SPEAKER>
+<L>Now <HI>Amaranthe,</HI></L>
+<L>I must entreat of thee one courtesie.</L>
+</SP>
+<SP>
+<SPEAKER>Am.</SPEAKER>
+<L>What need you with so many circumstances</L>
+<L>intreat her whom you may command?</L>
+<L>What is't?</L>
+</SP>
+<SP>
+<SPEAKER>Fi.</SPEAKER>
+<L>'Tis, that thou'dst shew me this same slye</L>
+<L>And subtle Thief, that so insensibly</L>
+<L>Does steal us from our selves, the lookers on</L>
+<L>Do scarce perceive w'are going, till w'are gone.</L>
+</SP>
+<SP>
+<SPEAKER>Am.</SPEAKER>
+<L>And why</L>
+<L>wo'd you know this?</L>
+</SP>
+<SP>
+<SPEAKER>Fi.</SPEAKER>
+<P>Onely for curiosity.</P>
+</SP>
+<SP>
+<SPEAKER>Am.</SPEAKER>
+<L>Take heed, take heed <HI>Filena,</HI> it is no</L>
+<L>Good curiosity to desire to know</L>
+<L>Such dangerous secrets, as we well may say,</L>
+<L><PB N="57" REF="33">Their ignorance does no harm, their knowledge may.</L>
+</SP>
+<SP>
+<SPEAKER>Fi.</SPEAKER>
+<L>See <HI>Amaranthe</HI> how unkinde th'art grown!</L>
+<L>Wo'dst all my secrets know, but tell me none:</L>
+<L>But now to satisfie your curiosity,</L>
+<L>In plainer terms, know I'm resolv'd to dye;</L>
+<L>And having heard how death's a bitter cup,</L>
+<L>To tell thee true, before I drink it up,</L>
+<L>I'de sweeten it so, as though the Fates do please,</L>
+<L>That I shu'd live in pain, I'de dye with ease.</L>
+</SP>
+<SP>
+<SPEAKER>Am.</SPEAKER>
+<P>How, you dye! now the Gods forbid!</P>
+</SP>
+<SP>
+<SPEAKER>Fi.</SPEAKER>
+<L>No, no,</L>
+<L>Thou art deceiv'd; for <HI>Amaranthe</HI> know,</L>
+<L>They are so good, as when 'tis misery</L>
+<L>For us to live, I'me sure they'd have us dye.</L>
+</SP>
+<SP>
+<SPEAKER>Am.</SPEAKER>
+<P>But think, think what death is.</P>
+</SP>
+<SP>
+<SPEAKER>Fi.</SPEAKER>
+<L>What is it more,</L>
+<L>then going to rest when we are weary, or</L>
+<L>sleep when we'd rest.</L>
+</SP>
+<SP>
+<SPEAKER>Am.</SPEAKER>
+<L>I grant you, when w'are dead</L>
+<L>Death is like rest, and th' grave but like our bed;</L>
+<L>But if we chance to finde unrest there, th&ecirc;n</L>
+<L>As we lye down, can we rise up agen?</L>
+</SP>
+<SP>
+<SPEAKER>Fi.</SPEAKER>
+<L>What is in t'other life, I cannot tell;</L>
+<L>But what there is in this, I know so well,</L>
+<L>As I'me resolv'd to dye; spare then your pain</L>
+<L>To seek to hinder me, for 'tis in vain:&mdash;</L>
+<L>There's but one way to live, but nature ha's</L>
+<L>Provided us to dye a thousand wayes;</L>
+<L><PB N="58" REF="34">And hinder us from living every one</L>
+<L>Can do, but hinder us from dying none.</L>
+</SP>
+<SP>
+<SPEAKER>Am.</SPEAKER>
+<L>I must take some other way to hinder her, <STAGE>Aside&punc;</STAGE></L>
+<L>For this but makes her long for death the more.</L>
+<L>And for the way that she ha's chose to dye,</L>
+<L>Unknown to her, I know a remedy:&mdash;</L>
+<L>Well then, since you are so resolv'd, I'le shew</L>
+<L>You this venomous herb, upon condition you</L>
+<L>Let me ha'th' tempering it, to make't so sweet,</L>
+<L>You even shall be enamour'd with taste of it.</L>
+</SP>
+<SP>
+<SPEAKER>Fi.</SPEAKER>
+<L>On any condition <HI>Amaranthe</HI> I'le dye,</L>
+<L>But on no condition live in misery;</L>
+<L>Life is not worth it, and</L>
+<L>For noble spirits 'tis brave necessity,</L>
+<L>When they can't honourably live, to dye;</L>
+<L>Whilst to ignoble ones the Gods do give</L>
+<L>For punishment, dishonourably to live.</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE>Enter Philander.</STAGE>
+<SP>
+<SPEAKER>Phi.</SPEAKER>
+<L>Since no where we a constant woman finde,</L>
+<L>But all light and wavering as the winde;</L>
+<L>And there is no woman in all this wide</L>
+<L>Circumference true, but she was never try'd!</L>
+<L>Why shu'd I grieve as 'twere my fate alone,</L>
+<L>What's common I perceive to every one?</L>
+<L>But these are thoughts unworthy her and me,</L>
+<L>For 'tis not hers, but my inconstancy;</L>
+<L>If I can think her false, when I do know</L>
+<L>Falshood wo'd even be truth, if she were so:</L>
+<L><PB N="59" REF="34">And nature of things quite change, rather then she</L>
+<L>What she has been, shu'd ever cease to be.</L>
+</SP>
+<STAGE>Enter Palemon.</STAGE>
+<SP>
+<SPEAKER>Pal.</SPEAKER>
+<L>Oh fortunate <HI>Palemon!</HI> and the more,</L>
+<L>The more unfortunate thou wert before!</L>
+<L>And happy pains, happy affliction!</L>
+<L>From which such pleasure and such joys do come!</L>
+<L>Now I perceive there's none can better tell</L>
+<L>What heaven is, then who first have past through hell.&mdash;</L>
+<L>Methinks great conquerors who in triumph come</L>
+<L>charg'd with the spoils of conquerd nations home</L>
+<L>Are but the Types of me, who in triumph go</L>
+<L>To th' Temple to enjoy <HI>Bellinda</HI> now.</L>
+</SP>
+<STAGE>Exiturus</STAGE>
+<SP>
+<SPEAKER>Phi.</SPEAKER>
+<L>Death! If I can suffer this,</L>
+<L>I shall deserve it:&mdash;Pray stay Sir,</L>
+<L>for you have another victory to gain,</L>
+<L>and enemy (I'de have you know)</L>
+<L>to overcome, before you triumph so!</L>
+</SP>
+<SP>
+<SPEAKER>Pal.</SPEAKER>
+<P>What victory d'ye mean, what enemy?</P>
+</SP>
+<SP>
+<SPEAKER>Phi.</SPEAKER>
+<L>Why, I my self and the victory over me;</L>
+<L>for know, <HI>Bellinda</HI>'s mine, and I her Lover.</L>
+</SP>
+<SP>
+<SPEAKER>Pal.</SPEAKER>
+<P>You! did you not say you were her brother?</P>
+</SP>
+<SP>
+<SPEAKER>Phi.</SPEAKER>
+<L>I, but that was onely a disguise put on,</L>
+<L>to hide what th&ecirc;n was fit shu'd not be known.</L>
+</SP>
+<SP>
+<SPEAKER>Pal.</SPEAKER>
+<L>Why this does take all faith away from you;</L>
+<L>For eith'r 'twas true or false you said before;</L>
+<L>If true, why then 'tis false you tell me now;</L>
+<L>If false, there's no believing of you more.</L>
+</SP>
+<SP>
+<PB N="60" REF="35">
+<SPEAKER>Phi.</SPEAKER>
+<L>This fine Dilemma wo'd serve prettily</L>
+<L>Ith' School, but not ith' Field; where it must be</L>
+<L>Somewhat of finer temper then your words</L>
+<L>Must make <HI>Bellinda</HI> yours, I mean our Swords.</L>
+</SP>
+<STAGE>Layes hand on's Sword.</STAGE>
+<SP>
+<SPEAKER>Pal.</SPEAKER>
+<L>I pray Sir hold, and e're you go so far,</L>
+<L>consider but a little where we are,</L>
+<L>here in <HI>Love's Kingdom,</HI> in a peaceful place,</L>
+<L>where never any strife or quarrel was,</L>
+<L>but onely loving ones.</L>
+</SP>
+<SP>
+<SPEAKER>Phi.</SPEAKER>
+<P>And is not ours for Love too?</P>
+</SP>
+<SP>
+<SPEAKER>Pal.</SPEAKER>
+<L>If it be, let Love decide it, are you content</L>
+<L>to put it to his Tribunal and Arbitrement?</L>
+</SP>
+<SP>
+<SPEAKER>Phi.</SPEAKER>
+<L>That's a way poor, and low spirits findes,</L>
+<L>This is the Tribunal and Arbitrement of mighty mindes; <STAGE>Draws.</STAGE></L>
+<L>'Twere folly in me to refer my Cause</L>
+<L>Unto my enemies Tribunal and Laws.</L>
+</SP>
+<SP>
+<SPEAKER>Pal.</SPEAKER>
+<L>Fortune as well as Love's your enemy,</L>
+<L>Of her as well as Love you fear'd shu'd be.</L>
+</SP>
+<SP>
+<SPEAKER>Phi.</SPEAKER>
+<L>For Love already he's declar'd my foe,</L>
+<L>What Fortune yet may do, I do not know;</L>
+<L>I'le try at least, my comfort is I can</L>
+<L>Not be in worse condition then I am;</L>
+<L>Cast down so low, it is not in the power</L>
+<L>Of Love, or Fortune, e're to cast me lower.</L>
+</SP>
+<STAGE>Enter Polydor.</STAGE>
+<SP>
+<SPEAKER>Pol.</SPEAKER>
+<L>What's here?&mdash;a quarrel tow'rds!</L>
+<L>Our peace disturb'd, and their offensive Swords</L>
+<L><PB N="61" REF="35">Th' uncivil Arbitrers of civil strife,</L>
+<L>Already drawn, threatning each others life:</L>
+<L>Our guards,&mdash;where are they there?</L>
+</SP>
+<STAGE>Exit hastily.</STAGE>
+<SP>
+<SPEAKER>Phi.</SPEAKER>
+<L>We are discry'd,</L>
+<L>Before they come, our quarrel let's decide.</L>
+</SP>
+<SP>
+<SPEAKER>Pal.</SPEAKER>
+<L>Do, and you'l see how they but bluntly fight,</L>
+<L>Who first consider not their Causes right;</L>
+<L>Whilst those who well consider it before,</L>
+<L>Have but their courages whetted by't the more,</L>
+</SP>
+<SP>
+<SPEAKER>Phi.</SPEAKER>
+<L>And unto me considering is but like</L>
+<L>The weak opposing of some bank or dike</L>
+<L>Unto some torrents rage, which more y'oppose,</L>
+<L>more raging and impetuous it grows.</L>
+</SP>
+<STAGE>They fight</STAGE>
+<STAGE>Enter Polydor with Guards, and parts them.</STAGE>
+<SP>
+<SPEAKER>Pol.</SPEAKER>
+<L>Hold, hold, I charge you in Loves name, or else</L>
+<L>We are to seize your weapons and your selves.</L>
+</SP>
+<SP>
+<SPEAKER>Phi.</SPEAKER>
+<P>What violence is this?</P>
+</SP>
+<SP>
+<SPEAKER>Pol.</SPEAKER>
+<L>Your self's the cause,</L>
+<L>who first have violate Loves peaceful Laws.</L>
+</SP>
+<SP>
+<SPEAKER>Phi.</SPEAKER>
+<L>Then in Loves Kingdom here shall Lo|vers be</L>
+<L>Depriv'd both of their Loves and Liberty?</L>
+</SP>
+<SP>
+<SPEAKER>Pol.</SPEAKER>
+<P>What Love d'ye mean?</P>
+</SP>
+<SP>
+<SPEAKER>Phi.</SPEAKER>
+<P><HI>Bellinda,</HI> who is my betroathed.</P>
+</SP>
+<SP>
+<SPEAKER>Pol.</SPEAKER>
+<P>How! she your betroathed!</P>
+</SP>
+<SP>
+<SPEAKER>Phi.</SPEAKER>
+<P>I, all <HI>Crete</HI> can witness it.</P>
+</SP>
+<SP>
+<SPEAKER>Pol.</SPEAKER>
+<L>If this be so,</L>
+<L><PB N="62" REF="36">y'ave too much witness here already, and you</L>
+<L>'ve discovered a secret, which now 'tis known,</L>
+<L>May prove <HI>Bellinda</HI>'s ruine and your own.</L>
+</SP>
+<SP>
+<SPEAKER>Pal.</SPEAKER>
+<L>O heavens!&mdash;now I remember me</L>
+<L>by another Law; who e're doth falsifie</L>
+<L>the sacred Oath; are instantly to dye,</L>
+<L>sacrific'd to th' offended Deity:</L>
+<L>But e're it comes to that, my life shall pay</L>
+<L>the forfeiture of hers.</L>
+</SP>
+<SP>
+<SPEAKER>Pol.</SPEAKER>
+<L>Come let's away,</L>
+<L><HI>Palemon,</HI> you've your cli&acirc;mber for prison;</L>
+<L>you Sir, must along with me unto</L>
+<L><HI>Theotimus</HI> to be examin'd.</L>
+</SP>
+<SP>
+<SPEAKER>Pal.</SPEAKER>
+<P>I obey you.</P>
+</SP>
+<SP>
+<SPEAKER>Phi.</SPEAKER>
+<P>And I obey necessity.</P>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE>Manet Palemon:</STAGE>
+<SP>
+<SPEAKER>Pal.</SPEAKER>
+<L>VVell Fortune, thou giddy Goddess,</L>
+<L>if <HI>Bellinda</HI> be to dye,</L>
+<L>And thou hast onely rais'd me up so high,</L>
+<L>To cast me down with greater force, I'le fall</L>
+<L>So gallantly and bravely, yet as all</L>
+<L>Shall say at least, how e're unfortunate</L>
+<L><HI>Palemon</HI> yet deserv'd a better fate.</L>
+</SP>
+<STAGE>Enter Amaranthe in haste with other Nymphs&punc;</STAGE>
+<SP>
+<SPEAKER>Am.</SPEAKER>
+<L>Run,&mdash;run, and seek her all about,</L>
+<L>or she's but dead; and when y'ave found her out,</L>
+<L>bring me word presently, as you love her life.&mdash;</L>
+<L>VVas never a more unfortunate maid and wife?</L>
+</SP>
+<STAGE>Exeunt Nymphs several wayes.</STAGE>
+<SP>
+<PB N="63" REF="36">
+<SPEAKER>Pal.</SPEAKER>
+<P>What busie haste is this.</P>
+</SP>
+<SP>
+<SPEAKER>Am.</SPEAKER>
+<L>What are you there?</L>
+<L>flye, flye <HI>Palemon,</HI> or the Nymphs will tear</L>
+<L>you in pieces.</L>
+</SP>
+<SP>
+<SPEAKER>Pal.</SPEAKER>
+<P>Why?</P>
+</SP>
+<SP>
+<SPEAKER>Am.</SPEAKER>
+<L>For killing the gentlest maid</L>
+<L>eye ever saw, or <HI>Cyprus</HI> ever had;</L>
+</SP>
+<SP>
+<SPEAKER>Pal.</SPEAKER>
+<P>What maid d'ye mean?</P>
+</SP>
+<SP>
+<SPEAKER>Am.</SPEAKER>
+<P>Filena.</P>
+</SP>
+<SP>
+<SPEAKER>Pal.</SPEAKER>
+<P>Why! is she dead?</P>
+</SP>
+<SP>
+<SPEAKER>Am.</SPEAKER>
+<L>Dead, dead, kill'd by your cruelty</L>
+<L>And see poor soul what she does write to me,</L>
+<STAGE>She reads.</STAGE>
+<LETTER>
+<HEAD>Filena's Letter.</HEAD>
+<L>Pardon me <HI>Amaranthe,</HI></L>
+<L>for having taken the poison unknown unto you,</L>
+<L>and deceiv'd you once in my life,</L>
+<L>rather then you shu'd deceive me in my death.</L>
+<L>Commend me to <HI>Palemon,</HI> and tell him,</L>
+<L>that as I liv'd in hope of his love,</L>
+<L>so now I dye for despair of it:</L>
+<L>and let him aster I am dead but wish me rest,</L>
+<L>and I shall rest in peace.&mdash;</L>
+<CLOSER><SIGNED>FILENA.</SIGNED></CLOSER>
+</LETTER>
+</SP>
+<SP>
+<SPEAKER>Am.</SPEAKER>
+<L>And so I hope thou do'st</L>
+<L>fair gentle maid, or th' Gods shu'd else be most</L>
+<L>unkinde and cruel, shu'd they not to thee grant</L>
+<L>that rest in death, which thou in life didst want.&mdash;</L>
+<L>Now you who for cruelty surpass</L>
+<L><PB N="64" REF="37">The cruel'st savage Beast that ever was;</L>
+<L>Some Tyger bore thee sure, or thou wert bred</L>
+<L>With Tygers milk at least, and nourished:</L>
+<L>If thou who art the cause of all canst hear</L>
+<L>This, and not vent a sigh, nor shed a tear.</L>
+</SP>
+<SP>
+<SPEAKER>Pal.</SPEAKER>
+<L>As for my sighing and my weeping, that</L>
+<L>Is an expression too effeminate;</L>
+<L>Onely for single losses: such as mine</L>
+<L>Requires expressions far more masculine:</L>
+<L>Where grief and sorrows are redoubled,</L>
+<L>For dying <HI>Bellinda,</HI> and <HI>Filena</HI> dead.</L>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>Am.</SPEAKER>
+<L>What's that? <HI>Bellinda</HI> dying does he say?</L>
+<L>Sure Love and death have chang'd their darts to day,</L>
+<L>and there's some Planet reigns will kill us all,</L>
+<L>but I forget <HI>Filena.</HI></L>
+<STAGE>Enter a Nymph.</STAGE>
+<L>Oh now I shall</L>
+<L>hear news of her&mdash;well have you found her?</L>
+</SP>
+<SP>
+<SPEAKER>Mel.</SPEAKER>
+<L>No,</L>
+<L>but <HI>Lydia</HI> sayes sh'ave trac't her footsteps to</L>
+<L>the sacred Grove.</L>
+</SP>
+<SP>
+<SPEAKER>Am.</SPEAKER>
+<L>Take a cruise presently</L>
+<L>Of purest water then, and follow me;</L>
+<L>Yet there is hope I may retard her fate,</L>
+<L>And save her life, which Love does make her hate.</L>
+</SP>
+<TRAILER>Finis Actus quarti.</TRAILER>
+</DIV2>
+<DIV2 N="5" TYPE="act">
+<PB N="65" REF="37">
+<HEAD>ACTUS 5.</HEAD>
+<STAGE>Filena Sola.</STAGE>
+<STAGE>The Scene, a Wood or Boscage.</STAGE>
+<SP>
+<SPEAKER>Filena.</SPEAKER>
+<L>THe poison now's arriv'd unto my heart,</L>
+<L>The place assign'd where life and I must part;</L>
+<L>And where I must resign my latest breath,</L>
+<L>Then farewel life, and welcome sweetest death;</L>
+<L>To prisoners freedom, to the weary rest,</L>
+<L>Comfort to th' sad, and ease to the opprest:</L>
+<L>Who'd then indure such worlds of miseries,</L>
+<L>When life's but pain, and death no more but this!</L>
+<L>Now, now I dye, yet Love lives in me still, <STAGE>Falls:</STAGE></L>
+<L>As if what Love does wound, Death durst not kill.</L>
+<L>Who doubt then whether thou immortal art,</L>
+<L>(O mighty Love) could they but see my heart,</L>
+<L>And bosom here, where thou canst never dye,</L>
+<L>It would assert thy immortality.</L>
+</SP>
+<STAGE>Enter Pamphilus.</STAGE>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>Bless me!</L>
+<L>amongst what a generation of Nymphs</L>
+<L>am I fallen here, who are all so precise and pure;</L>
+<L>as when they come but where men are, they take</L>
+<L>the wind of 'um, for fear of being got with child;</L>
+<L>as Spanish Ginnets are, and when they go away</L>
+<L><PB N="66" REF="38">brush themselves carefully from the dust, for fear</L>
+<L>of a spice of fornication, ever since</L>
+<L>they understood that man's but made of dust.</L>
+<L>Ha! what have we here? a Nymph a sleep:</L>
+<L>ah pretty rogue, have I caught you napping?</L>
+<L>she sleeps as snug and soundly</L>
+<L>as a young sucking pig,</L>
+<L>you can scarce perceive her breath;</L>
+<L>what a great blessing is a sleeping woman?</L>
+<L>for they'l lie quietly yet&mdash;</L>
+<L>methinks I shud know her.</L>
+</SP>
+<STAGE>Enter Lydia.</STAGE>
+<SP>
+<SPEAKER>Lyd.</SPEAKER>
+<L>No news of her yet? 'tis strange?</L>
+<L>but who is here? my goblin agen?</L>
+<L>what's that he looks so wistly at</L>
+<L>I wonder? a Nymph asleep?</L>
+<L>for modesties sake I'le wake her&mdash;out alas</L>
+<L>'tis she? and dead? help, help the glory of</L>
+<L>Our Hamlets here, the pride of all our plains,</L>
+<L>Grace of the Nymphs, delight of, all the Swains,</L>
+<L>Our Isles chief ornament; <HI>Filena's</HI> dead!</L>
+<L>The gentlest Nymph as <HI>Cyprus</HI> ever bread.</L>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>How, is she dead? what a beast was I then</L>
+<L>to let her go, for I'me sure she was alive.</L>
+</SP>
+<STAGE>Enter Lydia agen with <HI>Polydor</HI> and Guards.</STAGE>
+<SP>
+<SPEAKER>Pol.</SPEAKER>
+<L>A Nymph dead in our wood! it cannot be,</L>
+<L>here are no Savage Beasts, and much less men</L>
+<L>so barbarous and savage to kill and murther 'um&mdash;</L>
+<L>where is she?</L>
+</SP>
+<SP>
+<SPEAKER>Lyd.</SPEAKER>
+<P>There.</P>
+</SP>
+<SP>
+<PB N="67" REF="38">
+<SPEAKER>Pol.</SPEAKER>
+<L>Alas, 'tis she indeed,</L>
+<L>how came she dead, d'ye know?</L>
+</SP>
+<SP>
+<SPEAKER>Lyd.</SPEAKER>
+<L>Not I, onely in this</L>
+<L>posture I found her, and that stranger by her there.</L>
+</SP>
+<SP>
+<SPEAKER>Pol.</SPEAKER>
+<L>Oh, I know him,</L>
+<L>and have cause to suspect,</L>
+<L>considering his former misdemeanors here;</L>
+<L>that he's the likeliest man to have murther'd her,</L>
+<L>seize on him, and let him be examined.</L>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>So, now am I finely serv'd</L>
+<L>for hunting after wenches, to be catcht</L>
+<L>my self, instead of catching them, and like</L>
+<L>to be hang'd for it, for ought I see:</L>
+<L>well, if I be, my comfort is</L>
+<L>I'm not the first man that wenching has brought</L>
+<L>unto the Gallows, nor am like to be the last.</L>
+</SP>
+<STAGE>Enter Amaranthe, with the other Nymphs.</STAGE>
+<SP>
+<SPEAKER>Am,</SPEAKER>
+<L>Where is she? where is she?</L>
+<L>stand from about her there.&mdash;</L>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>So wou'd I with all my heart,</L>
+<L>if I cu'd get away.</L>
+</SP>
+<SP>
+<SPEAKER>Am.</SPEAKER>
+<P>She is not dead, but onely intranc't.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<P>Marry and I'm but little better.</P>
+</SP>
+<SP>
+<SPEAKER>Am.</SPEAKER>
+<L>You'l see</L>
+<L>with this cool water she'l strait revive again.</L>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>And hot water will scarce</L>
+<L>bring me to my self again.</L>
+</SP>
+<SP>
+<SPEAKER>Mel.</SPEAKER>
+<P>Take my tears too if water can only do't,</P>
+</SP>
+<SP>
+<SPEAKER>Lyd.</SPEAKER>
+<P>And mine,</P>
+</SP>
+<SP>
+<PB N="68" REF="39">
+<SPEAKER>Clo.</SPEAKER>
+<P>And mine,</P>
+</SP>
+<SP>
+<SPEAKER>Mel.</SPEAKER>
+<P>And all of ours to boot.</P>
+</SP>
+<STAGE>Enter Palemon.</STAGE>
+<SP>
+<SPEAKER>Pol.</SPEAKER>
+<L>O <HI>Palemon</HI> welcome, I sent for you</L>
+<L>by order of <HI>Theotimus,</HI> to let you know</L>
+<L>strange news of <HI>Bellinda.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Pal.</SPEAKER>
+<L>I fear I am but too</L>
+<L>familiar with it already.</L>
+</SP>
+<STAGE>they whisper.</STAGE>
+<SP>
+<SPEAKER>Am.</SPEAKER>
+<L>See, she begins to stir,</L>
+<L>And opens her eyes; I told you their fair light</L>
+<L>Was but ecclipst and not extinguisht quite.</L>
+</SP>
+<SP>
+<SPEAKER>Pol.</SPEAKER>
+<P>Then you may let him go;</P>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>Marry,</L>
+<L>and I'le be gone then as fast as I can,</L>
+<L>and flye the land too, before I'le be put in such</L>
+<L>a fright again.</L>
+</SP>
+<STAGE>Exit:</STAGE>
+<SP>
+<SPEAKER>Fil.</SPEAKER>
+<L>Where am I? in what Region of the dead!</L>
+<L>not in hell sure, for there</L>
+<L>are far more horrid visions then are here;</L>
+<L>nor yet in heaven, for there agen</L>
+<L>are far more glorious ones; where am I then?</L>
+</SP>
+<SP>
+<SPEAKER>An.</SPEAKER>
+<P>She thinks she's dead still.</P>
+</SP>
+<SP>
+<SPEAKER>Fil.</SPEAKER>
+<L>Ha, <HI>Palemon</HI> here! nay then I see</L>
+<L>Love takes delight still in tormenting me,</L>
+<L>And there's some middle place 'twixt Heaven and Hell,</L>
+<L>Where wretched Lovers, such as I, do dwell;</L>
+<L>Where sh'ud I go to flye the sight of men,</L>
+<L>And where to flye Loves fires and arrows, when</L>
+<L>Where e're I go, just like the wounded Dear,</L>
+<L>I flye in vain, that which I carry here.</L>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<PB N="69" REF="39">
+<SPEAKER>Am.</SPEAKER>
+<L>Go follow her,</L>
+<L>and look carefully unto her,</L>
+<L>Her wandring minde you'l see will come anon</L>
+<L>unto its self, when her amazement's gone.</L>
+</SP>
+<SP>
+<SPEAKER>Pal.</SPEAKER>
+<L>Whate're it be, methinks there's some|what here</L>
+<L>Whispers remorse, and chides me (as it were)</L>
+<L>For my unkindness, and stern cruelty</L>
+<L>Unto this Nymph, who thus wo'd dye for me;</L>
+<L>But as loud windes won't let us hear the soft</L>
+<L>And gentle voice of others; so the thought</L>
+<L>Of dying for <HI>Bellinda,</HI> will not let</L>
+<L>Me hear its voice nor hearken to it yet.</L>
+</SP>
+<STAGE>Enter Diophantes.</STAGE>
+<SP>
+<SPEAKER>Dio.</SPEAKER>
+<L>O noble youth! whose famous memory</L>
+<L>Shall never be forgot, or ever be</L>
+<L>remembred without praise.</L>
+</SP>
+<SP>
+<SPEAKER>Pal.</SPEAKER>
+<L>What news brings <HI>Diophantes,</HI></L>
+<L>he's so transported with it?</L>
+</SP>
+<SP>
+<SPEAKER>Dio.</SPEAKER>
+<L>Th&acirc;t, which had I a thousand tongues to tell,</L>
+<L>Or you a thousand ears to hear, wou'd well</L>
+<L>Deserve them all.&mdash;Soon as 'twas rumored,</L>
+<L><HI>Bellinda</HI> must dye for having falsified</L>
+<L>The sacred Oath: but this stranger instantly</L>
+<L>Offered himself with such alacrity</L>
+<L>to dye for her; as Love</L>
+<L>ne're gain'd so glorious a victory, nor</L>
+<L>ever so triumpht over death before.</L>
+</SP>
+<SP>
+<PB N="70" REF="40">
+<SPEAKER>Pal.</SPEAKER>
+<L>Oh me! if this be so, I shall become</L>
+<L>th' derision and the scorn of every one;</L>
+<L>and was his offer accepted?</L>
+</SP>
+<SP>
+<SPEAKER>Dio.</SPEAKER>
+<L>That you know</L>
+<L>by th' Laws here co'd not be refus'd him.</L>
+</SP>
+<SP>
+<SPEAKER>Pal.</SPEAKER>
+<L>How!</L>
+<L>Ha's he prevented me? but do I stand</L>
+<L>Senseless and stupid, as I were dead here,&mdash;and</L>
+<L>Had not a life to lose as well as he?</L>
+<L>No generous stranger whosoe're thou be,</L>
+<L>Since thou wert born my Rival, thou shalt prove</L>
+<L>I'le rival thee in Death as well as Love.</L>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>Pol.</SPEAKER>
+<P>I fear the event of this!</P>
+</SP>
+<SP>
+<SPEAKER>Am.</SPEAKER>
+<L>And so do I;</L>
+<L>But wherefore is <HI>Bellinda</HI> doom'd to dye?</L>
+</SP>
+<SP>
+<SPEAKER>Pol.</SPEAKER>
+<L>For perjury and falshood, whilst she swore,</L>
+<L>She lov'd one here, being betroath'd before</L>
+<L>unto that stranger there.</L>
+</SP>
+<SP>
+<SPEAKER>Am.</SPEAKER>
+<L>All th&acirc;t may be</L>
+<L>Without forswearing yet and perjury;</L>
+<L>For what if he she swore she lov'd be he</L>
+<L>she was betroath'd unto?</L>
+</SP>
+<SP>
+<SPEAKER>Pol.</SPEAKER>
+<L>That cannot be,</L>
+<L>For she was in the sacred Cell 'tis clear,</L>
+<L>Long time before he e're arrived here;</L>
+<L>In Sequestration, separated from</L>
+<L>Society of all, mean time her tongue</L>
+<L>Charm'd silent, and eyes blinded as they were,</L>
+<L>How co'd she see or know that he was here?</L>
+</SP>
+<SP>
+<PB N="71" REF="40">
+<SPEAKER>Dio.</SPEAKER>
+<P>Are you convinced yet?</P>
+</SP>
+<SP>
+<SPEAKER>Am.</SPEAKER>
+<L>No, not alwayes they</L>
+<L>Convinced are, who know not what to say;</L>
+<L>For my part until farther proof shall shew</L>
+<L>Her guilty, I shall ne're believe her so:</L>
+<L>For just as Images in Tapestry</L>
+<L>Do all appear distorted and awry,</L>
+<L>Until they're fully explicate, and then</L>
+<L>We see they appear all right and streight agen;</L>
+<L>So sh&ecirc; we now think guilty, we may finde</L>
+<L>Innocent perhaps, when she explains her minde.</L>
+</SP>
+<SP>
+<SPEAKER>Pol.</SPEAKER>
+<L>Pray heaven she may! mean time let us go see</L>
+<L>This stranger, who shall ever honour'd be</L>
+<L>Alive and dead; and be all Lovers boast,</L>
+<L>and honour to Love's Kingdom.</L>
+</SP>
+<SP>
+<SPEAKER>Am.</SPEAKER>
+<L>And that most</L>
+<L>deservedly, for never any yet</L>
+<L>For truly loving did more honour get;</L>
+<L>Nor ever any whilst the world lasts, or</L>
+<L>There's Lovers in the world shall e're get more.</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE>Enter Theotimus, Chorus of Musicians, Philander led to Sacrifice crown'd Victim-wise, Youths and Virgins with baskets of flowers strewing the way, &amp;c. Evander.</STAGE>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>Go noble youth, who does in dying prove</L>
+<L>Death, who has power o're all, has none o're Love</L>
+<L>And shews to th' world, that who refuse to give</L>
+<L><PB N="72" REF="41">Their lives for honour ne're deserv'd to live&punc;</L>
+<L>Go take with thee this consolation,</L>
+<L>You lose a life that easily wo'd be gone;</L>
+<L>But gain one by't, when thousand years are past,</L>
+<L>And thousand other lives, shall alwayes last;</L>
+<L>And though you might have longer liv'd, yet know,</L>
+<L>You ne're could dye more gloriously then now;</L>
+<L>To have all our Youths and Virgins strew</L>
+<L>With flowers all the way you go,</L>
+<L>With Roses and with Mirtle Boughs</L>
+<L>Adorning your victorious browes;</L>
+<L>And singing with triumphant Song</L>
+<L>Your praises as you go along.</L>
+</SP>
+<SP>
+<SPEAKER>Chorus</SPEAKER>
+<STAGE>sings.</STAGE>
+<L>Thus shall he ever honour'd be,</L>
+<L>Who dyes for Love and Constancy;</L>
+<L>And thus be ever prais'd, who dyes</L>
+<L>Love's Martyr, and his Sacrifice.</L>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>And if alive you thus are honoured,</L>
+<L>Much more you shall be after you are dead;</L>
+<L>If such as you can e're be said to dye,</L>
+<L>By whose noble example and memory,</L>
+<L>A thousand Lovers when y'are dead and gone,</L>
+<L>Shall spring up in the world instead of one;</L>
+<L>Who every year on pilgrimage shall come</L>
+<L>To honour your dead ashes in their tomb;</L>
+<L>Seeing whose votive gifts and offerings,</L>
+<L>The greatest and the mightiest of Kings,</L>
+<L><PB N="73" REF="41">In envying you, and wishing them their own,</L>
+<L>Shall for your tomb gladly exchange their throne</L>
+</SP>
+<SP>
+<SPEAKER>Chorus</SPEAKER>
+<STAGE>sings.</STAGE>
+<L>Thus shall he ever honour'd be,</L>
+<L>Who dyes for Love and Constancy;</L>
+<L>And thus be ever prais'd, who dyes</L>
+<L>Love's Martyr, and his Sacrifice.</L>
+</SP>
+<STAGE>Enter Palemon, Diophantes, Polydor, Amaranthe, &amp;c. following.</STAGE>
+<SP>
+<SPEAKER>Pal.</SPEAKER>
+<P>Justice, Justice, Sir.</P>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<P>For what? or against whom?</P>
+</SP>
+<SP>
+<SPEAKER>Pal.</SPEAKER>
+<L>Against that stranger there,</L>
+<L>who'd rob me of the honour and happiness</L>
+<L>of dying for <HI>Bellinda.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Phi.</SPEAKER>
+<L>He's more unjust then I,</L>
+<L>who 'as rob'd me of the honour and happiness</L>
+<L>of living for her, and now won't let me dye.</L>
+</SP>
+<SP>
+<SPEAKER>Pal.</SPEAKER>
+<L>As if no rocks nor seas, nor flames there were</L>
+<L>Nor other wayes of dying, but for her?</L>
+<L>Chuse any of them you please, your choice is free,</L>
+<L>Onely dying for her belongs to me.</L>
+</SP>
+<SP>
+<SPEAKER>Phi.</SPEAKER>
+<L>You may live for her, what wo'd you more? were I</L>
+<L>So happy as you, who's list for me shu'd dye.</L>
+</SP>
+<SP>
+<SPEAKER>Pal.</SPEAKER>
+<L>You talk as if there were no life to come,</L>
+<L>No blessed Shades nor no <HI>Elizium;</HI></L>
+<L>Where those who have been Lovers here possess</L>
+<L>Eternity of joyes and happiness.</L>
+</SP>
+<SP>
+<PB N="74" REF="42">
+<SPEAKER>Phi.</SPEAKER>
+<L>Heaven is my witness I ne're think upon</L>
+<L>The joyes and pleasures of <HI>Elizium,</HI></L>
+<L>Nor any joyes or pleasures whatsoe're</L>
+<L>But that of dying and suffering for her.</L>
+</SP>
+<SP>
+<SPEAKER>Ev.</SPEAKER>
+<L>How like two towering Hawks they mount and soar,</L>
+<L>Love never flew so high a flight before!</L>
+</SP>
+<SP>
+<SPEAKER>Dio.</SPEAKER>
+<P>There'l be no end of this.</P>
+</SP>
+<SP>
+<SPEAKER>Pol.</SPEAKER>
+<L>Peace, let them alone,</L>
+<L>Greater example of Love was never shown!</L>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>Then let <HI>Bellinda</HI> come, and sentence give</L>
+<L>Whether of them shu'd dye, and whether live;</L>
+<L>Are you content?</L>
+</SP>
+<SP>
+<SPEAKER>Pal.</SPEAKER>
+<P>I am.</P>
+</SP>
+<SP>
+<SPEAKER>Phi.</SPEAKER>
+<L>And so am I</L>
+<L>ready for her either to live or dye.</L>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>Bring her forth th&ecirc;n, with all the ceremonies</L>
+<L>requisite in so dire a Sacrifice,</L>
+<L>All the Nymphs in mourning accompaning her,</L>
+<L>The fatal Axe and Executioner</L>
+<L>Before her, and (the whilst they go along)</L>
+<L>The <HI>Chorus</HI> singing of her Funeral Song.</L>
+</SP>
+<STAGE>The Song, sung whilst the Nymphs put on their mourning Veils.</STAGE>
+<L>Oh! Oh! Oh! Oh!</L>
+<L>Never was there greater woe,</L>
+<L>Let us all the habits borrow,</L>
+<L>And the face of grief and sorrow;</L>
+<L><PB N="75" REF="42">Who'd not spare a sigh nor tear</L>
+<L>From all mishaps to spend it here!</L>
+<STAGE>Enter Bellinda veil'd, brought in by Polydor, the Popa, or sacred Executioner before her, all the Nymphs weeping, &amp;c.</STAGE>
+<SP>
+<SPEAKER>Ev.</SPEAKER>
+<P>Wherefore this ceremony, since she's not to dye?</P>
+</SP>
+<SP>
+<SPEAKER>Di.</SPEAKER>
+<P>Onely for terrour and formality.</P>
+</SP>
+<SP>
+<SPEAKER>Th.</SPEAKER>
+<L>Come,&mdash;thus I unveil thy eyes, that thou mayest see</L>
+<L>Unto what misery and calamity</L>
+<L>T'hast brought thy self and us, and thus uncharm</L>
+<L>Thy tongue, the fatal cause of all this harm.</L>
+</SP>
+<SP>
+<SPEAKER>Bel.</SPEAKER>
+<L>What means these sable weeds and mourn|ing chear?</L>
+<L>Whilst not a face but wears death's Livery here!</L>
+</SP>
+<SP>
+<SPEAKER>Th.</SPEAKER>
+<L>'Tis all for thee, (unhappy Nymph) put on,</L>
+<L>That thou shud'st dye so untimely, and so young.</L>
+</SP>
+<SP>
+<SPEAKER>Bel.</SPEAKER>
+<L>I understand you not, nor can I fear</L>
+<L>Death, whilst my dearest life, <HI>Philander's</HI> here.</L>
+</SP>
+<SP>
+<SPEAKER>Pal.</SPEAKER>
+<P>How's this?</P>
+</SP>
+<STAGE>She goes to embrace Philander, and he turns away</STAGE>
+<SP>
+<SPEAKER>Ev.</SPEAKER>
+<P>This is more strange then t'other!</P>
+</SP>
+<SP>
+<SPEAKER>Bel.</SPEAKER>
+<L>Ha!</L>
+<L><HI>Philander</HI> prove unkinde! nay, then away</L>
+<L>With the fatal Axe and Executioner,</L>
+<L>And all these deadly preparations here,</L>
+<L>They need not now; one unkinde look or two</L>
+<L>Of his, can kill me sooner then they can do.</L>
+</SP>
+<SP>
+<PB N="76" REF="43">
+<SPEAKER>The.</SPEAKER>
+<L>It is thy falshood and perfidity,</L>
+<L>(Unfortunate Nymph) that kills thee, and not he;</L>
+<L>Whilst falsly and perfidiously you swore,</L>
+<L>You lov'd one here, being betroath'd before</L>
+<L>unto another.</L>
+</SP>
+<SP>
+<SPEAKER>Bel.</SPEAKER>
+<L>How! I ne're did swear,</L>
+<L>That I lov'd any but <HI>Philander</HI> here!</L>
+</SP>
+<SP>
+<SPEAKER>Pal.</SPEAKER>
+<P>Oh killing declaration!</P>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>That cant't be.</L>
+<L>For as for him, all <HI>Cyprus</HI> knows that he</L>
+<L>Arriv'd not here, till after you were inclos'd</L>
+<L>Ith' facred Cell, and separated from</L>
+<L>All conversation; ith' mean time your tongue</L>
+<L>Charm'd silent, and Eyes blinded as they were,</L>
+<L>How could you see or know that he was here?</L>
+</SP>
+<SP>
+<SPEAKER>Bel.</SPEAKER>
+<L>Love is a fire, and there needs no eye,</L>
+<L>But onely heat to tell when fire is nigh;</L>
+<L>And Lovers by their glowing bosoms know</L>
+<L>When those are near they love: but lest this now</L>
+<L>Might seem too mystical, to make't more clear,</L>
+<L>As in the Temple I came forth to swear,</L>
+<L>I heard his voice, and swounding instantly</L>
+<L>For joy to hear it, whilst officiously</L>
+<L>They lifted up my Veil to give me air,</L>
+<L>I glanc'd my eyes aside, and saw him there,</L>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<P>Can any thing be more clear?</P>
+</SP>
+<SP>
+<SPEAKER>Pol.</SPEAKER>
+<L>Or any more</L>
+<L>Deceiv'd in judgement, then we were before?</L>
+</SP>
+<SP>
+<SPEAKER>Am.</SPEAKER>
+<P>Did I not tell you she was innocent, I?</P>
+</SP>
+<SP>
+<PB N="77" REF="43">
+<SPEAKER>Bel.</SPEAKER>
+<P>Yet can you doubt my faith and constancy?</P>
+</SP>
+<SP>
+<SPEAKER>Phi.</SPEAKER>
+<L>No, but I doubt whet'r yet I wake or dream,</L>
+<L>My extasie and joy is so extream.</L>
+</SP>
+<STAGE>They embrace.</STAGE>
+<SP>
+<SPEAKER>Ev.</SPEAKER>
+<L>See how they stand so ravisht with delight,</L>
+<L>And so transported each in t'others sight,</L>
+<L>'T can scarcely be conceiv'd by humane breast,</L>
+<L>Much less by humane tongue can be exprest.</L>
+</SP>
+<SP>
+<SPEAKER>Th.</SPEAKER>
+<L>Disturb them not,&mdash;&amp; now a word with you</L>
+<L><HI>Palemon.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Fi.</SPEAKER>
+<P>Now Love grant my hopes be true.</P>
+</SP>
+<SP>
+<SPEAKER>Bel.</SPEAKER>
+<P>Co'd you be jealous of me?</P>
+</SP>
+<SP>
+<SPEAKER>Phi.</SPEAKER>
+<L>Dearest know,</L>
+<L>I shu'd not love so dearly as I do,</L>
+<L>Were I not jealous; for jealousie</L>
+<L>'S but scorching of Loves fire, and he shu'd be</L>
+<L>But a cold Lover, who sometimes at least</L>
+<L>Felt not a little of it in his breast.</L>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>Come, come, I here command you to restore</L>
+<L>That heart unto her, you took from her before;</L>
+<L>For all the Isle knows 'twas <HI>Filena,</HI> who</L>
+<L>Enkindled the first sparks of Love in you;</L>
+<L>Till (haplesly for both) <HI>Bellinda</HI> came,</L>
+<L>And after rais'd those sparks unto a flame,</L>
+<L>And holy Vestals ne're with greater care</L>
+<L>Preserve their fires, then we Loves fire's air,</L>
+<L>Enkindling one straight in anothers room.</L>
+</SP>
+<SP>
+<SPEAKER>Pal.</SPEAKER>
+<P>In tepid hearths fires kindle not so soon.</P>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>Call not that tepid, where late such a fire</L>
+<L>Did burn, ne're any in <HI>Cyprus</HI> flamed higher.</L>
+</SP>
+<SP>
+<PB N="78" REF="44">
+<SPEAKER>Pal.</SPEAKER>
+<L>But Loves fires once extinguisht, leave hearts more</L>
+<L>Tepid, and cold then e're they were before.</L>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>Come, don't dispute, for I'm to be obey'd,</L>
+<L>And now but look upon this gentle maid,</L>
+<L>And tell me truly, did you ever see</L>
+<L>A fairer, or a sweeter Nymph then she!</L>
+<L>One for whose love there's not a gentle Swain</L>
+<L>In all the Land, but sighs, and sighs in vain;</L>
+<L>And she to love you, and to love you so,</L>
+<L>She willingly would dye for love of you:</L>
+<L>What cleansing water, or what purging flame</L>
+<L>Can expiate your not loving her again?</L>
+</SP>
+<SP>
+<SPEAKER>Fi.</SPEAKER>
+<L>Fall all the fault on this devoted head,</L>
+<L>Rather then blame him for't, wou'd I were dead;</L>
+<L>'Tis my unworthiness, and no fault of his,</L>
+<L>He does not love, if any fault there is.</L>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>Yet (obstinate as you are) are you not mov'd</L>
+<L>To love again where y'are so dearly lov'd?</L>
+</SP>
+<SP>
+<SPEAKER>Pal.</SPEAKER>
+<L>These vaults and walls built for eternity,</L>
+<L>Love's Temple shall be sooner mov'd then I:</L>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>Nay then 'tis needful we apply I see</L>
+<L>Our utmost and extreamest remedy,</L>
+<L>Lest the contagion o'th' example shu'd</L>
+<L>Nourish bad humors, and corrupt the good:)</L>
+<L>Let him to th' desart Island straight be led</L>
+<L>Whither all Loves Rebels are banished.</L>
+</SP>
+<SP>
+<SPEAKER>Pal.</SPEAKER>
+<L>Unto what place so e're I am confin'd,</L>
+<L>I may change place, but cannot change my mind:</L>
+<L><PB N="79" REF="44">But stay! what sudden earthquakes this I feel,</L>
+<L>Makes the walls totter, and foundations reel</L>
+<L>o'th' Temple here!</L>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>'Tis well, 'tis a good sign,</L>
+<L>Love who moves stones will move that heart of thine,</L>
+<L>More hard then they&mdash;and see O wondrous sight!</L>
+<L>The Temples fill'd with unaccustom'd light;</L>
+<L>And love with flaming brand amidst it flyes,</L>
+<L>Illuminating with it all the skies:</L>
+<L>Now (rebel as thou art) thou soon shalt know</L>
+<L>Whether Love's God have any power or no.</L>
+</SP>
+<SP>
+<SPEAKER>Pal.</SPEAKER>
+<L>Just as some gentle gale does fan the fire,</L>
+<L>There's somewhat here within that does inspire</L>
+<L>My breast, and now't increases more and more,</L>
+<L>Till that which onely was a spark before</L>
+<L>Does by degrees so mighty a flame become,</L>
+<L>As I am all but one incendium!</L>
+<L>O Love, to whom all bosoms must submit,</L>
+<L>I feel thy mighty hand, and reverence it!</L>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>Just so <HI>Phaebus,</HI> the Delphick God inspires,</L>
+<L>The <HI>Pythonesses</HI> breast with sacred fires,</L>
+<L>Onely the God of Love more mildly burns,</L>
+<L>And 'stead of raging unto sweetness turns.</L>
+</SP>
+<SP>
+<SPEAKER>Chorus</SPEAKER>
+<STAGE>sings.</STAGE>
+<L>So gentle Love does all command</L>
+<L>In fire and water, air and land,</L>
+<L>And all with his commands inspire</L>
+<L>In Land and water, aire and fire.</L>
+</SP>
+<SP>
+<PB N="80" REF="45">
+<SPEAKER>Pal.</SPEAKER>
+<P>And can you pardon me?</P>
+</SP>
+<SP>
+<SPEAKER>Fi.</SPEAKER>
+<L>I can pardon any thing</L>
+<L>in my <HI>Palemon,</HI> but onely his doubting</L>
+<L>whether I can or no. And for the rest,</L>
+<L>Account my self by <HI>Love</HI> most highly blest,</L>
+<L>(Who payes debts best the longer he forbears)</L>
+<L>T'have all my morning sighs and evening tears,</L>
+<L>My daily griefs and nightly sorrows past,</L>
+<L>Rewarded thus abundantly at last.</L>
+</SP>
+<STAGE>They embrace.</STAGE>
+<SP>
+<SPEAKER>Pal.</SPEAKER>
+<P>My dear <HI>Filena.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Fi.</SPEAKER>
+<P>My dearest, dearest <HI>Palemon.</HI></P>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>Enough, enough, leave your embraces till</L>
+<L>At fitter season you may take your fill</L>
+<L>Of such delicious pleasures and contents,</L>
+<L>Such sweet delights, such joyes and ravishments,</L>
+<L>No heart can e're conceive, no tongue express</L>
+<L>The thousandth part of their deliciousness.&mdash;</L>
+<STAGE>To Phi. and Bel.</STAGE>
+<L>Now see and wonder, these are Lovers too,</L>
+<L>This is the least of miracles Love can do.</L>
+</SP>
+<SP>
+<SPEAKER>Phi.</SPEAKER>
+<L>Noble <HI>Palemon,</HI> I congratulate</L>
+<L>Your and the fair <HI>Filena</HI>'s happy fate:</L>
+</SP>
+<SP>
+<SPEAKER>Pal.</SPEAKER>
+<L>And I, noble <HI>Philander,</HI> rejoyce no less</L>
+<L>At your and fair <HI>Bellinda's</HI> happiness.</L>
+</SP>
+<SP>
+<SPEAKER>The.</SPEAKER>
+<L>Never was more abundant joy, and now</L>
+<L>To th' paradice of happy Lovers go,</L>
+<L>Where with redoubled flames Love's God does prove</L>
+<L>Whose hearts are most capacious of love:</L>
+<L>And then with all becoming rites and state,</L>
+<L><PB N="81" REF="45">When once your marriages are celebrate;</L>
+<L><HI>Philander</HI> you, and fair <HI>Bellinda</HI> may</L>
+<L>At your best pleasure either go or stay.</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE>Manet Evander, to whom <HI>Pamphilus</HI> enters:</STAGE>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<P>And what shall we do?</P>
+</SP>
+<SP>
+<SPEAKER>Evan.</SPEAKER>
+<L>I for my part, since</L>
+<L>there's so much joy and happiness</L>
+<L>in marriage, resolve first to go home</L>
+<L>and dispose of all I have, and after come</L>
+<L>and marry here.</L>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>Promise you so won't I,</L>
+<L>if there be no wenches</L>
+<L>nor wenching businesses here,</L>
+<L>it is no place for me; wherefore my word is,</L>
+<L><HI>Come here no more.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Ev.</SPEAKER>
+<P>And mine is, <HI>Come agen.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Pam.</SPEAKER>
+<L>I'm sure I shall have the greatest part</L>
+<L>of my opinion.</L>
+</SP>
+<SP>
+<SPEAKER>Ev.</SPEAKER>
+<L>And I all the nobler and the better&mdash;</L>
+<L>And now let's see which number is the greater.</L>
+</SP>
+</DIV2>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+<DIV1 TYPE="songs">
+<DIV2 TYPE="song">
+<PB REF="46">
+<HEAD><HI>Filena</HI>'s Song, of the commutation of <HI>Love</HI>'s and <HI>Death</HI>'s Darts.</HEAD>
+<HEAD TYPE="sub">In the narrative Style.</HEAD>
+<L>LOve and Death o'th' way once meeting,</L>
+<L>Having past a friendly greeting:</L>
+<L>Sleep their weary Eye-lids closing,</L>
+<L>Lay them down themselves reposing.</L>
+<L>Love whom divers cares molested,</L>
+<L>Could not sleep, but while Death rested,</L>
+<L>All in haste away he postes him,</L>
+<L>But his haste full dearly costs him:</L>
+<L>For it chanc't that going to sleeping</L>
+<L>Both did give their darts in keeping</L>
+<L>Unto Night, who Errors mother,</L>
+<L>Blindly knowing not one from t'other,</L>
+<L>Gave Love Death's, and ne're perceiv'd it,</L>
+<L>Whilst as blindely Love receiv'd it;</L>
+<L>Since which time their Darts confounding,</L>
+<L>Love now kills instead of wounding:</L>
+<L>Death our hearts with sweetness filling,</L>
+<L>Gently wounds instead of killing.</L>
+</DIV2>
+<DIV2 TYPE="song">
+<PB REF="46">
+<HEAD>Another Song.</HEAD>
+<LG>
+<L><HI>CElia</HI> weeps, and those fair eyes</L>
+<L>Which sparkling Diamonds were before,</L>
+<L>Whose precious brightness none could prize,</L>
+<L>Dissolves into a pearly showre.</L>
+</LG>
+<LG>
+<L><HI>Celia</HI> smiles, and straight does render</L>
+<L>Her fair Eyes Diamonds again,</L>
+<L>Which after shine with greater splendor,</L>
+<L>As the Sun does after rain.</L>
+</LG>
+<LG>
+<L>Now if the reason you would know,</L>
+<L>Why Pearls and Diamonds fall and rise;</L>
+<L>Their prices just go high or low,</L>
+<L>As they are worn in <HI>Celia's</HI> Eyes.</L>
+</LG>
+</DIV2>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+<DIV1 TYPE="half title">
+<PB REF="47">
+<PB REF="47">
+<P>A Short DISCOURSE OF THE English Stage.</P>
+</DIV1>
+<DIV1 TYPE="discourse">
+<PB REF="48">
+<PB REF="48">
+<HEAD>A SHORT DISCOURSE OF THE English Stage.</HEAD>
+<HEAD TYPE="sub">To his Excellency, the Lord Marquess of NEW CASTLE.</HEAD>
+<OPENER><SALUTE>My Noble Lord,</SALUTE></OPENER>
+<P>I Send your Excellency here a short Discourse of the <HI>English Stage,</HI> (which if you pleas'd you could far better treat of then my self) but before I begin it, I will speak a word or two of th&ocirc;se of other Countreys.</P>
+<P>About the midst of the last Century, Playes, after a long discontinuance, and civil death in a manner, began to be reviv'd again, first in <HI>Italy</HI> by <HI>Guarino, Tasso, de Porta,</HI> and others; and after|wards in <HI>Spain</HI> by <HI>Lopes de Vega;</HI> the French be|ginning later by reason of their Civil Wars, Car|dinal
+<PB REF="49" MS="y">
+<HI>Richlieu</HI> being the first that brought them into that Vouge and Esteem as now they are; well knowing how much the Acting noble and heroick Playes, conferr'd to the instilling a no|ble and heroick Spirit into the Nation. For &ucirc;s, we began before them, and if since they seem to have out-stript us, 'tis because our Stage ha's stood at a stand this many years; nor may we doubt, but now we shall soon out-strip them again, if we hold on but as we begin. Of the Dutch I speak nothing, because they are but slow, and follow other Nations onely afar off: But to return unto our present subject.</P>
+<P><HI>Playes</HI> (which so flourisht amongst the Greeks, and afterwards amongst the Romans) were al|most wholly abolished when their Empire was first converted to Christianity, and their Thea|ters, together with their Temples, for the most part, demolished as Reliques of Paganisme, some few onely reserved and dedicate to the service of the True God, as they had been to their false gods before; from which time to the last Age, they Acted nothing here, but Playes of the holy Scripture, or Saints Lives; and that without any certain Theaters or set Companies, till about the beginning of Queen <HI>Elizabeths</HI> Reign, they began here to assemble into Companies, and set up Theaters, first in the City, (as in the Inn|yards of the <HI>Cross-Keyes,</HI> and <HI>Bull</HI> in <HI>Grace</HI>
+<PB REF="49">
+and <HI>Bishops-Gate Street</HI> at this day is to be seen) till that Fanatick Spirit which then began with the Stage, and after ended with the Throne, banisht them thence into the Suburbs, as after they did the Kingdom, in the beginning of our Civil Wars. In which time, Playes were so lit|tle incompatible with Religion, and the Thea|ter with the Church, as on Week-dayes after Vespers, both the Children of the Chappel and St. <HI>Pauls,</HI> Acted Playes, the one in <HI>White-Friers,</HI> the other behinde the Convocation-house in <HI>Pauls,</HI> till people growing more precise, and Playes more licentious, the Theatre of <HI>Pauls</HI> was quite supprest, and that of the Children of the Chappel, converted to the use of the Children of the Revels.</P>
+<P>In this time were Poets and Actors in their greatest flourish, <HI>Iohnson, Shakespear,</HI> with <HI>Beaumont</HI> and <HI>Fletcher</HI> their Poets, and <HI>Field</HI> and <HI>Burbidge</HI> their Actors.</P>
+<P>For Playes, <HI>Shakespear</HI> was one of the first, who inverted the Dramatick Stile, from dull Hi|story to quick Comedy, upon whom <HI>Iohnson</HI> re|fin'd; as <HI>Beaumont</HI> and <HI>Fletcher</HI> first writ in the Heroick way, upon whom <HI>Suckling</HI> and others endeavoured to refine agen&punc; one saying wittily of his <HI>Aglaura,</HI> that 'twas full of fine flowers, but they seem'd rather stuck, then growing there; as another of <HI>Shakespear's</HI> writings, that 'twas
+<PB REF="50">
+a fine Garden, but it wanted weeding.</P>
+<P>There are few of our English Playes (except|ing onely some few of <HI>Iohnsons</HI>) without some faults or other; and if the French have fewer then our English, 'tis because they confine them|selves to narrower limits, and consequently have less liberty to erre.</P>
+<P>The chief faults of ours, are our huddling too much matter together, and making them too long and intricate; we imagining we never have intrigue enough, till we lose our selves and Auditors, who shu'd be led in a Maze, but not a Mist; and through turning and winding wayes, but s&ocirc; still, as they may finde their way at last.</P>
+<P>A good Play shu'd be like a good stuff, closely and evenly wrought, without any breakes, thrums, or loose ends in 'um, or like a good Pi|cture well painted and designed; the Plot or Con|trivement, the Design, the Writing, the Coloris, and Counterplot, the Shaddowings, with other Embellishments: or finally, it shu'd be like a well contriv'd Garden, cast into its Walks and Coun|terwalks, betwixt an Alley and a Wilderness, nei|ther too plain, nor too confus'd. Of all Arts, that of the Dramatick Poet is the most difficult and most subject to censure; for in all others, they write onely of some particular subject, as the Ma|thematician of Mathematicks, or Philosopher of
+<PB REF="50">
+Philosophy; but in that, the Poet must write of every thing, and every one undertakes to judge of it.</P>
+<P>A Dramatick Poet is to the Stage as a Pilot to the Ship; and to the Actors, as an Architect to the Builders, or Master to his Schollars: he is to be a good moral Philosopher, but yet more learned in Men then Books. He is to be a wise, as well as a witty Man, and a good man, as well as a good Po|et; and I'de allow him to be so far a good fellow too, to take a chearful cup to whet his wits, so he take not so much to dull 'um, and whet 'um quite away.</P>
+<P>To compare our English Dramatick Poets to|gether (without taxing them) <HI>Shakespear</HI> excelled in a natural Vein, <HI>Fletcher</HI> in Wit, and <HI>Iohnson</HI> in Gravity and ponderousness of Style; whose one|ly fault was, he was too elaborate; and had he mixt less erudition with his Playes, they had been more pleasant and delightful then they are. Com|paring him with <HI>Shakespear,</HI> you shall see the diffe|rence betwixt Nature and Art; and with <HI>Fletcher,</HI> the difference betwixt Wit and Judgement: Wit being an exuberant thing, like <HI>Nilus,</HI> never more commendable then when it overflowes; but Judgement a stayed and reposed thing, alwayes containing it self within its bounds and limits.</P>
+<P><HI>Beaumont</HI> and <HI>Fletcher</HI> were excellent in their kinde, but they often err'd against <HI>Decorum,</HI> sel|dom
+<PB REF="51" MS="y">
+representing a valiant man without some|what of the <HI>Braggadoccio,</HI> nor an honourable wo|man without somewhat of <HI>Dol Common</HI> in her: to say nothing of their irreverent representing Kings persons on the Stage, who shu'd never be represented, but with Rev&ecirc;rence: Besides, <HI>Fletcher</HI> was the first who introduc't that witty obscenity in his Playes, which like poison infused in plea|sant liquor, is alwayes the more dangerous the more delightful. And here to speak a word or two of Wit, it is the spirit and quintessence of speech, extracted out of the substance of the thing we speak of, having nothing of the superfice, or dross of words (as clenches, quibbles, gingles, and such like trifles have) it is that, in pleasant and facetious discourse, as Eloquence is in grave and serious; not learnt by Art and Precept, but Nature and Company. 'Tis in vain to say any more of it; for if I could tell you what it were, it would not be what it is; being somewhat above expression, and such a volatil thing, as 'tis alto|gether as volatil to describe.</P>
+<P>It was the happiness of the Actors of those Times to have such Poets as these to instruct them, and write for them; and no less of those Poets to have such docile and excellent Actors to Act their Playes, as a <HI>Field</HI> and <HI>Burbidge;</HI> of whom we may say, that he was a delightful <HI>Pro|teus,</HI> so wholly transforming himself into his Part,
+<PB REF="51">
+and putting off himself with his Cloathes, as he never (not so much as in the Tyring-house) as|sum'd himself again until the Play was done: there being as much difference betwixt him and one of our common Actors, as between a Ballad|singer who onely mouths it, and an excellent sin|ger, who knows all his Graces, and can artfully vary and modulate his Voice, even to know how much breath he is to give to every syllable. He had all the parts of an excellent Orator, (anima|ting his words with speaking, and Speech with Action) his Auditors being never more delight|ed then when he spake, nor more sorry then when he held his peace; yet even th&ecirc;n, he was an excellent Actor still, never falling in his Part when he had done speaking; but with his looks and gesture, maintaining it still unto the heighth, he imagining <HI>Age quod agis,</HI> onely spoke to him: so as those who call him a Player do him wrong, no man being less idle then he, whose whole life is no|thing else but action; with only this difference from other mens, that as what is but a Play to them, is his Business; so their business is but a play to him.</P>
+<P>Now, for the difference betwixt our Thea|ters and those of former times, they were but plain and simple, with no other Scenes, nor Decorations of the Stage, but onely old Tape|stry, and the Stage strew'd with Rushes, (with their Habits accordingly) whereas ours now for
+<PB REF="52">
+cost and ornament are arriv'd to the heighth of Magnificence; but that which makes our Stage the better, makes our Playes the worse perhaps, they striving now to make them more for sight, then hearing; whence that solid joy of the interior is lost, and that benefit which men formerly receiv'd from Playes, from which they seldom or never went away, but far better and wiser then they came.</P>
+<P>The Stage being a harmless and innocent Re|creation; where the minde is recreated and de|lighted, and that <HI>Ludus Literarum,</HI> or School of good Language and Behaviour, that makes Youth soonest Man, and man soonest good and vertuous, by joyning example to precept, and the pleasure of seeing to that of hearing. Its chiefest end is, to render Folly ridiculous, Vice odious, and Vertue and Noblenesse so amiable and lovely, as, every one shu'd be delighted and enamoured with it; from which when it de|flects; as, <HI>corruptio optimi pessima:</HI> of the best it becomes the worst of Recreations. And this his Majesty well understood, when after his happy Restauration, he took such care to purge it from all vice and obscenity; and would to God he had found all bodies and humours as apt and easie to be purg'd and reform'd as th&acirc;t.</P>
+<P>For Scenes and Machines they are no new in|vention, our Masks and some of our Playes in
+<PB REF="52">
+former times (though not so ordinary) having had as good or rather better then any we have now.</P>
+<P>They are excellent helps of imagination, most grateful deceptions of the sight, and grace|ful and becoming Ornaments of the Stage, transporting you easily without lassitude from one place to another; or rather by a kinde of de|lightful Magick, whilst you sit still, does bring the place to you. Of this curious Art the <HI>Itali|ans</HI> (this latter age) are the greatest masters, the <HI>French</HI> good proficients, and we in <HI>England</HI> one|ly Schollars and Learners yet, having proceeded no further then to bare painting, and not arriv'd to the stupendious wonders of your great Ingeni|ers, especially not knowing yet how to place our Lights, for the more advantage and illuminating of the Scenes.</P>
+<P>And thus much suffices it briefly to have said of all that concerns our Modern Stage, onely to give others occasion to say more.</P>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

@@ -1,0 +1,1349 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD EEBOPROOF 2.0//EN">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-09-19</DATE>
+<RESPSTMT>
+<NAME>Judith Siefring</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TYPEs to DIVs in order to validate. Proofed title page(s).  Checked ^s. Reviewed structure. Checked division-marking material at heads and feet of divisions (HEADS, etc.). Checked for signatures. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected 9 $s of 10. Converted 1 $s to GAP DESC="illegible" RESP="tech". Checked spacing of foreign GAPs. Checked for EPIGRAPHs and ARGUMENTs. Checked for startqs, endqs, oes, q;s, and Qs. Checked proofsheets and made corrections found there. Checked for CLOSERs, TRAILERs, and BYLINEs. DONE.</ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="OX" ID="A36993">
+<STC T="W">D2748</STC>
+<BIBNO T="oclc">11791114</BIBNO>
+<VID>49200</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1">
+<PB REF="1" MS="y">
+<P>The Malecontent; A
+SATYR: Being the Sequel of the
+<HI>Progress of Honesty,</HI>
+OR A VIEW
+Of Court and City.</P>
+<P><HI>LONDON,</HI>
+Printed for <HI>Ioseph Hindmarsh,</HI> Bookseller to his Royal
+Highness, at the Black <HI>Bull</HI> in <HI>Cornhill,</HI> 1684.</P>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="2">
+<PB REF="2">
+<HEAD>EPISTLE.
+TO
+His Royal Highness
+THE
+DUKE.</HEAD>
+<L>WHen <HI>Rome</HI> had aw'd the World with her Alarms,</L>
+<L>And peacefull Arts succeeded dreadfull Arms;</L>
+<L><HI>Virgil</HI> and <HI>Horace</HI> did the Empire treat,</L>
+<L>And laid inspiring Verse at <HI>Caesar</HI>'s feet:</L>
+<L>Imperial justice Crown'd their heads with Bayes,</L>
+<L>As they his Conquests with Immortal praise.</L>
+<L>With their Ambition, though not equal Art,</L>
+<L>Oblig'd by Duty, and a Loyal heart,</L>
+<L>Your gratefull Poet, (Sacred Sir) presumes</L>
+<L>To Court great <HI>Britain</HI>'s Genius, as they <HI>Rome</HI>'s;</L>
+<L>Belov'd of Heaven, great Authour of our bliss,</L>
+<L>Rebellion's scourge, defender of our Peace;</L>
+<L><PB REF="3">That the Rude Nation Godlike didst inspire,</L>
+<L>Kindle the Clod with influencing fire;</L>
+<L>Till Reason, like th' eternal Soul did move</L>
+<L>O'er confus'd <HI>Chaos,</HI> and like awfull <HI>Jove,</HI></L>
+<L>Form'd the dull Lump to Order and to Love:</L>
+<L>You, like the Monarch of this Factious Isle,</L>
+<L>Did on your Foes enervate Malice smile;</L>
+<L>Grasping the Brand, even then you could forgive,</L>
+<L>Stop the revenging Bolt, and let 'em live:</L>
+<L>But judgment still is sure; what you neglect,</L>
+<L>Their own despair will Brutishly effect.</L>
+<L>Witness He late who by Rack'd Conscience sway'd;</L>
+<L>Murth'ring himself, his horrid Cause displaid.</L>
+<L>So when mysterious God and Man was led</L>
+<L>To death, by <HI>Judas</HI> Impiously betraid;</L>
+<L>He, knowing that the Plot by him design'd</L>
+<L>Had doom'd the mighty saviour of Mankind,</L>
+<L>Return'd the Bribe, and with Hell's rage possest,</L>
+<L>Discharg'd a Soul, that knew no place of rest.</L>
+<L>Degrees of Crimes will have degrees of Woe,</L>
+<L>But Rebels are all doubly damn'd below.</L>
+<L>Had the poor Felon, that was Crucify'd,</L>
+<L>Been found a Rebel, or a Regicide,</L>
+<L>The great <HI>Redeemer</HI> trembling at his vice,</L>
+<L>Had soon revok'd his Grant of Paradise.</L>
+<L>Mercy is Heaven's chiefest Attribute;</L>
+<L>And greatest Crimes make it most absolute;</L>
+<L>But stubborn Reprobates will never mend,</L>
+<L>The more you pardon, they the more offend.</L>
+<L><PB REF="3">For <HI>Pharaoh</HI>'s Court obey'd divine Command</L>
+<L>No longer than the Locusts plagu'd his Land;</L>
+<L>The Curse remov'd, they the Wise Prophet scorn,</L>
+<L>And beastlike to their Excrement return.</L>
+<L>Your vertue (Sir) unshockt by fear, or harm,</L>
+<L>Knows the weak malice of the Suakes you warm;</L>
+<L>Blest with your Beams, they wriggle till they're hot;</L>
+<L>Then seeded venom spreads into a Plot.</L>
+<L>The Nations Ague, every Plot has been,</L>
+<L>Or Hell's dire Engine late with terrour seen;</L>
+<L>When Brutish Rabble turn'd the vast Machine.</L>
+<L>But you to heal the Kingdom's frenzy come,</L>
+<L>And now again the <HI>Olive</HI> branches bloom:</L>
+<L>The peacefull Dove may o'er the Deluge fly,</L>
+<L>Pearch on high Trees, and murmur Songs of Ioy;</L>
+<L>You are in <HI>Caesar</HI> safe, and he in you;</L>
+<L>The best of Subjects, and of Brothers too:</L>
+<L>Fixt to his Int'rest with Religious Care,</L>
+<L>Patron of Peace, and Father of the War:</L>
+<L>To whose known judgment, Arts and Arms belong,</L>
+<L><HI>Bellona</HI>'s Buckler, and <HI>Apollo</HI>'s song.</L>
+<L>Whoever su'd with Tears or bended knee&punc;</L>
+<L>That was not succour'd by your Clemency?</L>
+<L>The Warriour has for noble Scars reward,</L>
+<L>The Widows and the Orphans Crys are heard;</L>
+<L>Afflicted Merit is no more distrest;</L>
+<L>So much of Pity fills your sacred Breast:</L>
+<L>Yet chatt'ring <HI>Momus</HI> will your Fame assail,</L>
+<L>The foolish <HI>Momus</HI> is allow'd to rail,</L>
+<L><PB REF="4">Cant without wit, and without Satyr write;</L>
+<L>He onely Snarls and Grins, but dares no bite.</L>
+<L>Envy, like Trophies, decks a General:</L>
+<L>The cackling Geese once sav'd <HI>Rome</HI>'s Capitol.</L>
+<L>Vnder the Crowds reproach the more you lye,</L>
+<L>The more discerning judgment mounts you high.</L>
+<L>So into bliss those best deserve to come,</L>
+<L>That for the Truth dare suffer Martyrdom.</L>
+<CLOSER><SALUTE>Great Sir,</SALUTE>
+<SIGNED>Your Highness's
+most devoted and
+most obedient Servant,
+<HI>T. D'vrfey.</HI></SIGNED></CLOSER>
+</DIV1>
+<DIV1 TYPE="preface">
+<PB REF="4">
+<HEAD>PREFACE
+TO THE
+READER.</HEAD>
+<P><HI>I</HI> am in some sort oblig'd to declare, that no particular resentment of my own,
+farther than the sense I had of the general vices of the times, and for the
+Information of the publick, induced me to write this Satyr, or give it this Title;
+but I confess I now do, and always did think it both my duty, and every ones else
+that is Capacitated, to lash and expose Enormities of so damnable a quality as the
+characters in the following Stanza's stand tainted with: And therefore if some
+severe observers, that may perhaps in this Mirrour see the shadow of an in|timate
+Friend or Acquaintance, should think the Reflexions too gross, and open,
+let such be pleas'd to consider on the subject matter, the substances, and horrid
+Theme that inspires the satyrick Pen, and then doubtless (if they are not well-willers
+to the Mathematicks themselves) they will generously allow, that Crimes
+of this dreadfull Nature ought not to be Complemented, nor Guilded o'er with
+Rhetorick in such a manner, as if the Authour rather design'd to shew the vir|tue
+of his own Poetry, than the vice he was writing on. 'Tis true there may be
+offences which no Poet is so much a Cynick always to treat at this blunt Rate;
+the surly Muse may be strok'd into good nature when the sin comes within the list
+of Venial, as for example, Pride may be gloss'd over and call'd Presence of mind,
+or Courtly breeding; Fornication may be poetically styl'd the Errour of Licen|tious
+bloud, the Imperfection of irregular Youth, not guided by reason or reli|gious
+Iudgment; The railing Whig, or what's worse, the <HI>Trimmer</HI> (provided
+he speak no Treason) by the obliging Satyrist may be tenderly us'd, because he
+has a way with him, and expresses nothing but according to his Conscience; The
+sordid Miser may be rendred a wise and provident Person, nay, even the crying
+sin Adultery, by the vernish and illustration of Poetry may be guilded o'er with
+Moral justice, provided the Wife be Old and Bedrid, and the young Husband
+wants an heir for his Estate: But <HI>Paricide,</HI> privy Conspiracy, Rebellion, Incest,
+Murther, and such like, must never expect such favour; the Satyr there should
+lash to the bloud, and make each stroke so terrible, and the shame so obvious,
+that the weakest judgment may comprehend, and feel the meaning: Neither am
+I of an opinion with them that affirm, that Satyr should tickle till it Smarts;
+<PB REF="5">
+I rather, like a good Surgeon, would have it smart soundly at first, the wound
+will tickle enough when it is healing: and I am very apt to believe the un|daunted
+<HI>Juvenal</HI> was in this mind, for I never read in any of his Satyrs, where
+he was daubing any vice, with intent to lessen it, but, encouraged by his perfect
+honesty, and man-like bravery of soul, always painted it in its natural Sables;
+a Fool was by him drawn like a Fool, inspite of his guilt Coach, gaudy Trappings,
+and numberless Acres of dirt, and a Traitour, like a Traitour, though his fortune made
+him a Senatour; this I hold as a good example for every just Authour, and which I
+am resolv'd to follow, let the Consequence happen as it pleases. Those that have not
+read the first Part of this Poem, <HI>viz. (The Progress of honesty,</HI> written in the
+beginning of <HI>Oates</HI>'s Plot) will be the less satisfied with these Sheets, not that
+I doubt but the Reflexions will be easily understood, for I have always observ'd
+that Rhubarb is more pleasing to our Nation than Honey, which, though I am
+sorry to know, yet I cannot remedy; and, had I less Zeal for my Country, I should
+be less diligent in exposing its faults; but, living under the Government of so
+good and gracious a Sovereign, I should think my self unworthy of a smile from
+him, or the least blessing of his Royal favour, if I should not, with my utmost
+vigour and severest Genius, expose and render odious to futurity, the unnatural
+<HI>Agents and Associatours in so horrible a Conspiracy.</HI></P>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="poem">
+<PB N="1" REF="5">
+<HEAD>The Malecontent.
+A
+POEM.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>AVRORA now had blusht upon the Day,</L>
+<L>And driven Night's shades away,</L>
+<L>Giving the glorious Monarch of the Morn</L>
+<L>A Summons to return,</L>
+<L>And bless the World with his propitious Rays,</L>
+<L>The early Lark sung Anthems in the Skies,</L>
+<L>The watchfull Cock with shrill and Echoing voice</L>
+<L>Had told the Husbandman 'twas time to rise,</L>
+<L>The welcome Fruit of his past Toil to reap,</L>
+<L>Nor longer give his pretious hours to sleep;</L>
+<L>The chattering Rooks, wak'd by disturbing light,</L>
+<L>From lofty Trees where they had slept that Night,</L>
+<L>Flew to each others Nests, to kiss and play,</L>
+<L>Telling their sable Loves the business of the day,</L>
+<L>And on what Farmer's Stubble they should prey:</L>
+<L>The Air was cool, the weather was serene,</L>
+<L>No envious Cloud did the Sun's Luster screen,</L>
+<L>But gentle Calms o'erspread the Seas;</L>
+<L>The Heavens and Earth seem'd full of Joy, and gay and green the Trees</L>
+</LG>
+<LG N="2">
+<PB N="2" REF="6">
+<HEAD>II</HEAD>
+<L>When<NOTE N="*" PLACE="marg"><HI>Vide</HI> The Progress of Honesty, <HI>the third Page.</HI></NOTE> <HI>Errour,</HI> our late wild ungovern'd Youth,</L>
+<L>Newly converted to the Truth,</L>
+<L>And by his Father's sage advice brought in</L>
+<L>From the wide, pleasant, but destructive, paths of Sin,</L>
+<L>Rose from the humble Couch whereon he lay,</L>
+<L>And where with watry Eyes he past the Night's fatigue away:</L>
+<L>For fatal visions had disturb'd his breast,</L>
+<L>And Rob'd him of his darling Rest;</L>
+<L>Visions of Beauties snares, and Love in vain</L>
+<L>Of souls despairing, and Eternal Pain,</L>
+<L>Of hellish Traitours that were damn'd for gain,</L>
+<L>Of Wealth and honours promist, but forgot,</L>
+<L>And of a horrid Plot,</L>
+<L>That Devils in the shape of Saints devise</L>
+<L>To murther Kings and root up Monarchies.</L>
+<L>His constitution and complexion were</L>
+<L>True Omens of his future care;</L>
+<L>A Sable melancholy clog'd his bloud,</L>
+<L>Which seldom e'er presages good,</L>
+<L>And deadly Paleness fill'd his cheeks, which show'd</L>
+<L>As if he thought his life did vainly Waste,</L>
+<L>Or had reflected on the Ills his Youth had past.</L>
+<L>Oft would he Start, and heavens bright Mansionsview,</L>
+<L>Oft Sigh and Cry, vain foolish World Adieu;</L>
+<L>Thou Trifle which the fond and wanton prize,</L>
+<L>But Inconvenience to the Good and Wise;</L>
+<L>How with thy Pride, thy Pomp and State,</L>
+<L>Performance nothing, though thy promise great,</L>
+<L>Have I too often been betray'd,</L>
+<L>And caught in the strong Snares, thy Arts have laid?</L>
+<L>Why was I born to be deceiv'd?</L>
+<L>And why, alas, wert thou beleiv'd?</L>
+<L>Thus vext by Love, and some preferments loss,</L>
+<L>Which he from Court, and Great ones promis'd was,</L>
+<L>The wretched Youth from his A partment went,</L>
+<L>Which weeping and destructive Cares have Spent,</L>
+<L>And on his brow was painted large the scene of discontent.</L>
+</LG>
+<LG N="3">
+<PB N="3" REF="6">
+<HEAD>III</HEAD>
+<L>Through verdant Meads, and flow'ry Vales he goes,</L>
+<L>Where many a Beauteous Rose</L>
+<L>Delightfull Odours did dispense</L>
+<L>To his too Stupid and Neglectfull Sense,</L>
+<L>Blushing as if they thought it were a Crime,</L>
+<L>Not to be Ravisht in the prime:</L>
+<L>Each Gentle Rivulet and Purling Brook</L>
+<L>Mourns his dejected look,</L>
+<L>Seeming to Murmur Pity, and relate</L>
+<L>The story of his Melancholy fate;</L>
+<L>And every pretty Warbler of the Wood,</L>
+<L>As if his Woes they understood,</L>
+<L>Kept time with his Complaints, and wept, and sung</L>
+<L>Sad Notes of Woe, taught by his mournfull tongue.</L>
+<L>Thus Plung'd and hurried by his restless thought</L>
+<L>At last to a high mount he got,</L>
+<L>Barren as Nature, e'er she God obey'd,</L>
+<L>Or <HI>Chaos</HI> e'er the great creating Word was said.</L>
+<L>The sleecy sheep that sed thereon were lean,</L>
+<L>As a long seven Years famine there had bin,</L>
+<L>Their wretched Bones peept through their Skin,</L>
+<L>Like Fairie land shew'd the forgotten place.</L>
+<L>Blest with no wholsome Plant nor virdant blade of Grass.</L>
+<L>A Lofty Cliff there stood that did Survey</L>
+<L>Some forty fathom down the Sea,</L>
+<L>Whose Billows envying such Aspiring height,</L>
+<L>Seem'd with Impetuous might</L>
+<L>To undermine its Root, and make it bow</L>
+<L>Its Towering front to the salt Deeps below;</L>
+<L>There looking down upon the foaming Beach,</L>
+<L>Sate a forlorn uncomfortable Wretch,</L>
+<L>Grizled with hair, by Sorrow, and by Years,</L>
+<L>His Sullen face bedew'd with Tears,</L>
+<L>Lookt like the Figure of Mortality,</L>
+<L>Or Man in his first State of misery;</L>
+<L>Savage his Mein, and wretched his Attire,</L>
+<L>Yet lofty thoughts did in his breast Conspire,</L>
+<L><PB N="4" REF="7">Which gave this utterance to his Tongue,</L>
+<L>How long, base World, he cry'd, how long</L>
+<L>Like a poor shackl'd Prisoner must I be</L>
+<L>Passive Spectatour of thy Villany?</L>
+<L>Why, more than crawling Insects of the Earth,</L>
+<L>Must I have Cause to Curse my Birth?</L>
+<L>The Birds, and Beasts, and Fish in Seas</L>
+<L>Are with the Order of their living pleas'd,</L>
+<L>Nay Fools, and the unthinking live in peace;</L>
+<L>But I, a wretch that heaven design'd to Cross,</L>
+<L>For Vertue am despis'd, am honest to my loss.</L>
+<L>Thus spoke the Satyrist, A man that had,</L>
+<L>Through all the Sciences Inspection made;</L>
+<L>Profound in Knowledge, and in Judgment bold,</L>
+<L>Wise as the fam'd Philosophers of Old,</L>
+<L>Austere in Life, and one that could</L>
+<L>In highest Schools dispute with each degree</L>
+<L>From sacred Reason down to pedant Sophistry.</L>
+</LG>
+<LG N="4">
+<HEAD>IV</HEAD>
+<L>His name was <HI>Malecontent,</HI> whom with a gracefull bow</L>
+<L><HI>Errour</HI> accosted, and Saluting low</L>
+<L>His Ruthfull discontents desir'd to know,</L>
+<L>And why upon the Sterile uncouth plains he wandred so:</L>
+<L>A secret Joy his visage did express</L>
+<L>To find a Sociate in that lonely place,</L>
+<L>And therefore beg'd to know the tenour of his Case;</L>
+<L>To whom the Satyrist reply'd,</L>
+<L>In what obscure place do'st thou reside?</L>
+<L>What secret Den, or Cave, that do'st not know</L>
+<L>The Curse of humane kind and General Cause of Woe?</L>
+<L>My private Sorrows in particular,</L>
+<L>Alas, not worth description are:</L>
+<L>Condemn'd to my ill Stars, twas my fixt lot,</L>
+<L>To be a prey to a rich Potent Sot;</L>
+<L>That Nature made an Ass, and so preferment got:</L>
+<L>For be it known to all the men of Wit,</L>
+<L>'Tis still the Fool that has the best Estate;</L>
+<L><PB N="5" REF="7"><HI>Wisedom</HI> is mild and modest, free from pride,</L>
+<L>And with an humble portion satisfy'd;</L>
+<L>And though he nothing gets, he has the sense,</L>
+<L>To practise patience, and not wrong his Prince;</L>
+<L>But the bold Fool will to preferment rise,</L>
+<L>For none e'er knew her Court the Good and Wise:</L>
+<L>Kings, like the World's great Influencing light,</L>
+<L>Spread round their glories to the Peoples sight;</L>
+<L>But still some Tall Oak gets between,</L>
+<L>And humble Shrubs are never seen.</L>
+<L>The flattering, pushing, cringing Knave</L>
+<L>The foremost Post will have,</L>
+<L>Whilst bashfull Worth is waiting like a Slave;</L>
+<L>Who though he Covets little, much deserves,</L>
+<L>The Sordid World neglects him, and he Starves.</L>
+<L>Who therefore would a Tenant be,</L>
+<L>To this vast ill built Frame of Villany,</L>
+<L>That has a generous Soul,</L>
+<L>And can by one bold stroke ill fate controul?</L>
+<L>Who would be bit by ill bred Dogs?</L>
+<L>See his fair Love condemn'd to senseless Rogues;</L>
+<L>Cause th' one has greater stock to buy,</L>
+<L>And't other best can fawn and lye?</L>
+<L>Who would the Nauseous Rabbles flouts receive,</L>
+<L>Though brave be slighted, and yet live?</L>
+<L>Did not an awfull and Religious fear</L>
+<L>Of something after Death we know not where,</L>
+<L>Controll the noble Lust of dissolution,</L>
+<L>And hinder our resolv'd Confusion;</L>
+<L>Shewing we better had with painfull ills dispence,</L>
+<L>Than forfeit heaven by Stubborn disobedience:</L>
+<L>This well I know, and though my own</L>
+<L>Distracting Cares do give me Cause to moan,</L>
+<L>And spend my wretched days in discontent alone;</L>
+<L>Though I have bin too much abus'd,</L>
+<L>Of Place and wealth by hounds in office chous'd,</L>
+<L>Lost the Rewards for which in fields I bled,</L>
+<L>And seen tame Villains cherisht o'er my head:</L>
+<L><PB N="6" REF="8">Yet deeper griefs oppress me now,</L>
+<L>My Princes danger, and my Countries woe;</L>
+<L>By black Conspiracies that plainly snew,</L>
+<L>The Lust of <HI>English</HI> Rebels, that still strike</L>
+<L>At a Crown'd head, and would be kings alike:</L>
+<L>This rends my throbbing heart, for this I howl,</L>
+<L>'Tis this disturbs the peacefull Order of my Soul,</L>
+<L>And makes me rather wish for death</L>
+<L>Than live in the Envenom'd Air, where loathsome Villains breath.</L>
+</LG>
+<LG N="5">
+<HEAD>V</HEAD>
+<L>Once was the fair <HI>Britania</HI> Crown'd with power,</L>
+<L>The Garden of the World, the pleasant bower</L>
+<L>Of favourite Princes, that were happy made</L>
+<L>To vail their Crowns, and Sleep in her refreshing Shade.</L>
+<L>The bounteous hand of Plenty open'd here,</L>
+<L>Whose <HI>Cornucopia</HI> blest each coming year,</L>
+<L>And on her fragrant bosome Nature lay,</L>
+<L>And Crown'd each silent night and every happy day;</L>
+<L>Then bright <HI>Augusta</HI> flourisht, whose fame ran</L>
+<L>To both the Poles through the wide Ocean,</L>
+<L>Chief Metropolitan.</L>
+<L>Imperial <HI>Caesar</HI> lov'd her, but too fond,</L>
+<L>Gave her such bounties from his Royal hand</L>
+<L>She was at last Aspiring to Command;</L>
+<L>Shockt her great Master, and for War prepar'd,</L>
+<L>Chusing the monster <HI>Hydra</HI> for her Guard;</L>
+<L>And as the Adder, which a harmless Swain,</L>
+<L>Gasping for life found on the frozen plain,</L>
+<L>By him through pity nourisht near a fire,</L>
+<L>Feeling new warmth his vains inspire,</L>
+<L>Flew at his Courteous Host, and with black venom griev'd,</L>
+<L>The man that him from death retriev'd:</L>
+<L>So she with hissing Rage attaqu'd her King;</L>
+<L>But heaven decree'd the Drone should have no Sting,</L>
+<L>Unedg'd her Mischiefs, and the Creature left;</L>
+<L>Like a poor Lunatick, of friends bereft,</L>
+<L>To sham Elections with Phanatick Votes,</L>
+<L>Bribe perjur'd Rogues, and Nurse up <HI>Titus O.</HI></L>
+<L><PB N="7" REF="8">Till like a Jilt that trades for half a Crown,</L>
+<L>Debaucht by sneaking Presbyterian <HI>Iohn,</HI></L>
+<L>She is degraded, and no more th' Imperial Town;</L>
+<L>But losing th' Charter and each Royal Grant,</L>
+<L><HI>Bedlam</HI> shall now be call'd instead of <HI>Troynovant&punc;</HI></L>
+</LG>
+<LG N="6">
+<HEAD>VI</HEAD>
+<L>Within the Chanels of whose putrid Womb,</L>
+<L>Plagu'd with Infectious stench, and Noysome fume,</L>
+<L>Which from the fatning dregs of Plenty springs;</L>
+<L>Plenty that gives her Pamper'd vipers wings,</L>
+<L>And hissing tongues, and dreadfull teeth and stings;</L>
+<L>In a dark Cave of horrour, choakt with weeds,</L>
+<L>Of poysonous vice, and horrid deeds,</L>
+<L>A Dreadfull and Gigantick Monster breeds,</L>
+<L>More bloudy than the one-Ey'd <HI>Cyclops</HI> brood,</L>
+<L>Or th' Savage Sons of Earth before the Flood:</L>
+<L>Not the Olympick Race, that against heaven made War,</L>
+<L>Hurling vast Mountains through the Air,</L>
+<L>With this can equal or compare;</L>
+<L>A thousand Teeth it has, as many Claws,</L>
+<L>To tear in peices Monarchy, and Laws;</L>
+<L>The Loyal, and the brave, ne'er Scape its paws,</L>
+<L>All Kings it hates, and Regal power</L>
+<L>It never could endure,</L>
+<L>But Anarchy inspires, whose Brutish Pugs,</L>
+<L>In slimy genders breed a Tribe of Rogues;</L>
+<L>With these it herds, for these will fight,</L>
+<L>These still supports, with curst Tyrannick might;</L>
+<L>For strength it has, beyond Imagination,</L>
+<L>And easily could make Invasion,</L>
+<L>Rove every where unconquer'd, though withstood,</L>
+<L>Bathing its Native Land in bloud,</L>
+<L>Rapes, Murthers, Roberies, Treasons, Blasphemies,</L>
+<L>That seem to dare the Skies,</L>
+<L>And even God himself, with insolent Impieties.</L>
+<L>No Crime, with which Mankind was ever Curst,</L>
+<L>Since <HI>Adam</HI>'s Sin at first,</L>
+<L>But it had done, or else resolv'd to doe,</L>
+<L>And still most pleas'd with Mischiefs strange and new;</L>
+<L><PB N="8" REF="9" MS="y">Thus like a horrid Dragon, frightfull to behold,</L>
+<L>It over <HI>England</HI> rowl'd,</L>
+<L>Bringing destruction wheresoe'er it came,</L>
+<L>With poisonous breath, sharp phangs and Eyes of flame;</L>
+<L>It plagu'd th' unhappy Land, <HI>REBELLION</HI> was its Name.</L>
+</LG>
+<LG N="7">
+<HEAD>VII</HEAD>
+<L>And now methinks my Spleenfull <HI>Genius</HI> tends,</L>
+<L>To give a Character of all its Agent fiends;</L>
+<L>Traitours on whom heaven's Curse ne'er lights in vain,</L>
+<L>Whilst each is branded with the Mark of <HI>Cain:</HI></L>
+<L>See <HI>Marcian</HI> first, the Prince of all the rest,</L>
+<L>Tossing his Empty Head bestride the horrid beast;</L>
+<L>Degenerate <HI>Marcian,</HI> Shame to his great Race,</L>
+<L>His wounded Countries worst disgrace;</L>
+<L>Eternal is his hated Infamy,</L>
+<L>And his Escutcheon now Erected high,</L>
+<L>Shall never Raze the natural Obloquy;</L>
+<L>But have Engrail'd a more Prodigious Blot,</L>
+<L>Treason and Parricide, Crimes of Dreadfull Note,</L>
+<L>Shall dash the Or, and Gules, and Cloud the Herald's Coat.</L>
+<L>None e'er like him, with honours was endow'd,</L>
+<L>Nor none like him, had such Ingratitude;</L>
+<L>In Childhood train'd to a Monastick life,</L>
+<L>Free from Ambitious strife;</L>
+<L>When peacefull Arts all strove to Influence,</L>
+<L>And if 'twere possible, to teach him Sense;</L>
+<L>From <HI>Ross</HI>'s discipline, who took great pains</L>
+<L>To fill the <HI>vacuum</HI> of his Brains:</L>
+<L>His gratious Uncle that from loud report,</L>
+<L>Had heard how far his Wit came short;</L>
+<L>To mend the matter, sent for him to Court,</L>
+<L>Thinking amongst the wisedom of that Place,</L>
+<L>(Assisted by a Taking face)</L>
+<L>That his might tolerably pass;</L>
+<L>And knowing he had Courage, nobly Scan'd</L>
+<L>His growing worth, and got him high Command;</L>
+<L>Gave him applause in our great Monarch's ear,</L>
+<L>Who after sent him to the War,</L>
+<L><PB N="9" REF="9" MS="y">Where to say truth he got renown,</L>
+<L>And Rashly ventring, took a famous Town,</L>
+<L>But there th' Ambitious Pill first swallow'd down;</L>
+<L>And factious Fiends inspir'd th' ill fated Elfe</L>
+<L>To set up for himself;</L>
+<L>Nor longer a respect, and duty bear</L>
+<L>To the illustrious, and lawfull Heir;</L>
+<L>But his successive right oppose, and quell,</L>
+<L>Though from his Favour, all his Honours fell,</L>
+<L>Who could have crush't the Serpent in the Shell.</L>
+<L>From thence to greater Crimes he passes on&punc;</L>
+<L>And now resolves to mount the Throne,</L>
+<L>Calls it his due, though by the equal Law,</L>
+<L>From whence our rights Legitimate we draw,</L>
+<L>The meanest wretch, of most obscure degree,</L>
+<L>Had more pretentions to 't than he.</L>
+<L>The Double duty, which he knows,</L>
+<L>He to his Father, and his Monarch owes,</L>
+<L>By double disobedience is undone,</L>
+<L>And he 's no more a Subject nor a Son.</L>
+<L>Yet with the Ladies, still his fame abides,</L>
+<L>A Gracefull Mein, how gallantly he rides!</L>
+<L>That he should e'er commit such ill,</L>
+<L>Vsurp the Throne, and his great Father kill!</L>
+<L>I'll not believe it, 'tis Impossible!</L>
+<L>Thus let a man commit the worst of Sin,</L>
+<L>Be but his outside fine, let that but Win,</L>
+<L>And your true Woman never looks within.</L>
+<L>Here stands the Imperfection of the Age,</L>
+<L>But that which most my fancy do's Engage</L>
+<L>To write, and fills me with Poetick Rage,</L>
+<L>Is that he should be overrul'd,</L>
+<L>And by such Beasts betraid, and fool'd;</L>
+<L>That he should take Instructions from</L>
+<L>Such a strange Brute, as Bully <HI>Tom;</HI></L>
+<L>Ye Powers! to be drawn in by him,</L>
+<L>Is such a vile unpardonable Crime,</L>
+<L>That were he free from any other fault,</L>
+<L>He merits to be damn'd for that.</L>
+</LG>
+<LG N="8">
+<PB N="10" REF="10">
+<HEAD>VIII.</HEAD>
+<L>The <HI>Bravo,</HI> next himself, infects my Rhimes,</L>
+<L>Whose unexampled Crimes,</L>
+<L>My pen sets down to fright the future times;</L>
+<L>A decoy Traitour, whom th' Infernal chose,</L>
+<L>To draw the Rebel-tribe into the Noose,</L>
+<L>And made him use his interest in the Town,</L>
+<L>First to damn others Souls, and last his own.</L>
+<L>In all the villanies we find</L>
+<L>Intail'd on wretched Humane-kind,</L>
+<L>He is most skilfull, and should take degree</L>
+<L>Before the Fiends themselves in each Impiety;</L>
+<L>Rapes, Murthers, Blasphemies which other men</L>
+<L>Account the greatest, worst of Sin,</L>
+<L>Are done by him, in such a sort,</L>
+<L>As if they onely were his Sport;</L>
+<L>All free, and easiy, without pains,</L>
+<L>Nor did he e'er molest his busie brains</L>
+<L>With learning, or what moral Authours tell,</L>
+<L>But onely studdied to Rebell.</L>
+<L>Thus stands his Chronicle in every blotted Page,</L>
+<L>From wicked Childhood up to Grizled Age;</L>
+<L>And now we 're speaking of his Infamy,</L>
+<L>A word were not a miss of his high Progeny:</L>
+<L>His Father, the great authour of his Race,</L>
+<L>From whose strong Loyns first sprang this Imp of Grace,</L>
+<L>As modest fame reports, A footman was,</L>
+<L>(With reverence to <HI>Tom</HI>'s Knighthood) And a man</L>
+<L>That through life's cross Fatigues contented Ran,</L>
+<L>Peacefull his thoughts, and Loyal his design;</L>
+<L>No factious Calenture disturb'd his mind,</L>
+<L>But Calmly to his Patron's Will enclin'd;</L>
+<L>Till being by him preferr'd, the gracious hand</L>
+<L>Of our dread Monarch gave him a Command:</L>
+<L>This was the Top of the great Family,</L>
+<L>And now to see,</L>
+<L>How Natures by Instinct do oft agree,</L>
+<L><HI>Tom</HI>'s of the Running Camp, as well as he.</L>
+<L><PB N="11" REF="10">The Sire by duty bound speeds on, the Son,</L>
+<L>As fate Commands, do's from his Country Run:</L>
+<L>This great distinction there is onely known,</L>
+<L>The Sire ran on others Errands, <HI>Tom</HI> on's own.</L>
+<L>Some speak him fam'd, for mighty deeds in War,</L>
+<L>But those deny it that were there,</L>
+<L>And undertake to mak't appear,</L>
+<L>At <HI>Mastricht</HI> through the, Ravellins he crept out,</L>
+<L>When all the rest o'th' Party fought:</L>
+<L>Yet often has he bragg'd of broken bones,</L>
+<L>And three Contusions he receiv'd at <HI>Mons,</HI></L>
+<L>And yet no other damage got,</L>
+<L>A sign he was not very near the Shot:</L>
+<L>Had he not been by distance kindly us'd,</L>
+<L>The Bullets would have enter'd, not contus'd.</L>
+<L>But for a Midnight brawle, for Dice, or Drab,</L>
+<L>A Tavern Tilt, or Play-house Stab;</L>
+<L>For such Heroick deeds, none can applauded be,</L>
+<L>Or gain more Just renown than he:</L>
+<L>When the late Massacre was undertook</L>
+<L>He beg'd the Christian Charge, to stab the <HI>Duke:</HI></L>
+<L>Told 'em his reasons, did not blush to say,</L>
+<L>How he had plotted down the way,</L>
+<L>And hop't, that glorious Act might be his own;</L>
+<L>Was ever such a blest Reformer known?</L>
+<L>He shall be stabbing-Master General,</L>
+<L>And Captain of the Guards in Hell.</L>
+<L>But, as amongst the Moors in <HI>Africk</HI>'s Clime,</L>
+<L>Whoever there has done a weighty Crime,</L>
+<L>To a Lion's thrown, arm'd onely with a Sword,</L>
+<L>Whom if he kills he's presently restor'd,</L>
+<L>And crown'd with Garlands, to high place preferr'd:</L>
+<L>So he to whom such horrid wreathes belong'd,</L>
+<L>First to deserve it throughly must be hang'd;</L>
+<L>Then shall he have his Patent freely pass,</L>
+<L>And from the lofty Gallows swing into his place.</L>
+</LG>
+<LG N="9">
+<HEAD>IX.</HEAD>
+<L>Sedition, like the Plague, do's spread and grow,</L>
+<L>Let one be tainted, streight the Nation's so.</L>
+<L><PB N="12" REF="11" MS="y">A fatal witchcraft that inspires the Brain</L>
+<L>To covet things unnatural and vain.</L>
+<L>Some, not contented with their proper Station,</L>
+<L>Curse the Dull times, and plot a Reformation:</L>
+<L>This man is for th' Establisht Church and State,</L>
+<L>Another a free Conscience do's debate;</L>
+<L>And a third fool would have he knows not what.</L>
+<L>From one Lust to another thus they range,</L>
+<L>And pine, and languish for a change.</L>
+<L>Others there are with wealth and honour blest,</L>
+<L>Gifts, one would think, essential to Rest:</L>
+<L>Yet these degenerate ambition Blinds,</L>
+<L>Ambition, the Curst frenzie of ill minds:</L>
+<L>And when a mighty Prince they view,</L>
+<L>Ungratefull Stars, they cry, why were not we so too?</L>
+<L>Thus, though it mounts to heaven's Azure Roof,</L>
+<L>Ambition never thinks 'tis high enough.</L>
+<L>In the First&punc; Rank of these with Clouded Brow,</L>
+<L>Tall <HI>Catiline</HI> himself do's show;</L>
+<L>A man so happy once, as if kind Fate</L>
+<L>Th' extreme of Blessings did create,</L>
+<L>To crown his life with more than fortunate:</L>
+<L>Even Death the Scourge of Nature was his friend,</L>
+<L>And just as if it did intend</L>
+<L>To show how much the Youth was lov'd;</L>
+<L>The Grandsire, Father, Brother, all remov'd</L>
+<L>To their long homes;</L>
+<L>Their silent Tombs:</L>
+<L>Onely to raise his fortune, and make way,</L>
+<L>For his Hereditary Sway;</L>
+<L>Else he a lowly fortune had Obey'd,</L>
+<L>And bin the humble vassal to some Trade;</L>
+<L>Venting his Wit, most Politick and Wise,</L>
+<L>O'er Bags of Peper, Cloves and Spice;</L>
+<L>But never bin so popular to bribe</L>
+<L>The Nasty <HI>Ignoramus</HI> Tribe;</L>
+<L>Nor factious Knights of Counties bring,</L>
+<L>Triumphantly set up against his King.</L>
+<L>But see the Vice of wretched Humane kind,</L>
+<L>When once the heart to mischief is enclin'd,</L>
+<L><PB N="13" REF="11">It never can return but plunges on,</L>
+<L>Ne'er pleas'd till th' utmost villany be done:</L>
+<L>This <HI>Catiline</HI> confirms, who having rov'd</L>
+<L>Through the Salt <HI>Bagnio's</HI> of Incestuous Love,</L>
+<L>Betray'd the Beautifull, and Ignorant,</L>
+<L>Whose misery I now want Skill to paint;</L>
+<L>Defil'd the Marriage-bed, unmov'd could see</L>
+<L>The Aged Father's tears for the Indignity,</L>
+<L>And scandal done his Noble family:</L>
+<L>Yet still these were not Crimes enough,</L>
+<L>His Conscience was so clearly mischief-proof</L>
+<L>That it no pleasure to his Sense could bring,</L>
+<L>Till he was in a Plot to kill the King:</L>
+<L>The Devil soon took hold of the occasion,</L>
+<L>And streight propounds Association:</L>
+<L>The motion takes, and in the foremost band;</L>
+<L>The Noble Peer, as nobly sets his hand,</L>
+<L>With voluntary free consent,</L>
+<L>Is bound by dreadfull Sacrament,</L>
+<L>To root out Monarchies, and procure his fall</L>
+<L>Whose Sacred life do's Influence us all.</L>
+<L>So in a gloomy Cave, where Toads and Serpents breed,</L>
+<L>O'er-grown with Thistles, Thorns, and loathsome Weeds,</L>
+<L>A place design'd for horrid Deeds,</L>
+<L>Old <HI>Faustus</HI> with a Devilish hand,</L>
+<L>Once sign'd to <HI>Lucifer</HI> a Bond;</L>
+<L>Gave up his Soul upon Condition,</L>
+<L>His Lust was fed of mischief, and Ambition.</L>
+<L>Oh what a Cursed fiend is Man,</L>
+<L>When he forgets his nature! Whence began</L>
+<L>Our Primitive misery, but by th' offence</L>
+<L>Of stubborn disobedience?</L>
+<L>Neglect of Duty first begins,</L>
+<L>And ushers in all other Sins;</L>
+<L>Till the account at last, do's boundless swell,</L>
+<L>And quite exceed the Register of Hell.</L>
+</LG>
+<LG N="10">
+<HEAD>X</HEAD>
+<L>Happy the times were then, when Kings</L>
+<L>Were known distinguishable things,</L>
+<L><PB N="14" REF="12">When they could prove that they were able</L>
+<L>To govern, and suppress the Rabble;</L>
+<L>When in the Senates all the Sages</L>
+<L>Wore comely Liverie-Coats and Badges,</L>
+<L>And came two hundred miles with Loyal soul,</L>
+<L>To counsel <HI>Caesar,</HI> not controul:</L>
+<L>When all their business was to Aid,</L>
+<L>And give encouragement to Trade,</L>
+<L>And not the King's Prerogative t' invade,</L>
+<L>Nor any Mad <HI>Chimeras</HI> to set down,</L>
+<L>Relating to succession, or the Crown,</L>
+<L>Unless the King himself consenting was,</L>
+<L>And askt their Counsel in the Case.</L>
+<L>But now, as if the Dragons teeth were Sown,</L>
+<L>And thence Innumerable Monsters grown,</L>
+<L>In th' house strange Animosities arise,</L>
+<L>About the Peoples Liberties,</L>
+<L>And who shall Reign when <HI>Caesar</HI> dies:</L>
+<L>Religion fires their Conscience there,</L>
+<L>Though not a motion on't elsewhere;</L>
+<L>Yet then all Zealous, Politick and Wise:</L>
+<L>A Godly Cheat best dazles vulgar Eyes.</L>
+<L>A Bigot of this sort rash <HI>Cinna</HI> was,</L>
+<L>Sprung from a stanch, Rebellious Race,</L>
+<L>Under whose Roof, was horribly contriv'd,</L>
+<L>The death of the best Monarch ever liv'd;</L>
+<L>The thought of which charms my Satyrick vein,</L>
+<L>Who can of such a loss enough Complain,</L>
+<L>And not wish Bloud might pay for bloud again,</L>
+<L>And see the great Avengers justice shown?</L>
+<L><HI>Cinna,</HI> that late, with calm, and subtile Tone,</L>
+<L>Encouraged the mad Senate to go on;</L>
+<L>He that with grave, and Conscientious look,</L>
+<L>In fewest words, most Treason spoke,</L>
+<L>And gave his Pious vote, t' exclude the D&mdash;</L>
+<L>Would now exclude the King: The Pillar fell,</L>
+<L>That props three mighty Kingdoms; burn and kill,</L>
+<L>Till Monarchy were turn'd t' a Common-weal:</L>
+<L>But such a Hellish, barbarous intent,</L>
+<L>Meets commonly a Hellish punishment:</L>
+<L><PB N="15" REF="12" MS="y"><HI>Cinna</HI>'s accus'd, and Legally Condemn'd,</L>
+<L>By every honest Tongue, with horrour nam'd;</L>
+<L>To Execution brought, resolv'd to show,</L>
+<L>An enthusiastick Bravery, did bow</L>
+<L>His Neck with willingness to meet the blow:</L>
+<L>But as if Heaven, at the very time,</L>
+<L>Decree'd severest justice, for his Crime;</L>
+<L>Three strokes sell on him, e'er he lost his head;</L>
+<L><HI>A blow for every Kingdom he betray'd.</HI></L>
+</LG>
+<LG N="11">
+<HEAD>XI.</HEAD>
+<L>Attending on this Pious work</L>
+<L>Stood a Soul-broker, of the <HI>Scottish-Kirk;</HI></L>
+<L>A Whining, Sneaking, Canting Saint,</L>
+<L>As ever took the Covenant:</L>
+<L>And as it ever was his Trick,</L>
+<L>To disturb people that were Sick;</L>
+<L>He now his skill do's most employ,</L>
+<L>To Teize and Plague 'em when they dye:</L>
+<L>Thus, as the Serpent did to <HI>Eve,</HI></L>
+<L>Just as they're going to take leave,</L>
+<L>He works their Pannick sear, to speak his Lye,</L>
+<L>And hedges in damnation by the bye.</L>
+<L>The worst of <HI>Malecontents</HI> he is,</L>
+<L>E'er since he lost a Benefice;</L>
+<L>Nor is it possible to reconcile</L>
+<L>Him to us, since he lost St. <HI>Mary Hill.</HI></L>
+<L>His spleenfull Nature still against us bent,</L>
+<L>Assisted by a daring Parliament;</L>
+<L>Would fain have taught us to agree</L>
+<L>To his <HI>Scotch</HI> way of Loyalty,</L>
+<L>The very same was us'd in forty three</L>
+<L>With Massacres his Sermons frighted us,</L>
+<L>For which he had the thanks o'th' Commons house,</L>
+<L>Who were within an Ace of mutinous:</L>
+<L>But a Learn'd<NOTE N="*" PLACE="marg">Dr. <HI>Sprat<GAP DESC="illegible" EXTENT="2 letters"></HI></NOTE> Preacher, who had boldly shown,</L>
+<L>The Peoples fears were vain, had none;</L>
+<L>Thus 'tis not he, that truest matter gives,</L>
+<L>A just applause receives,</L>
+<L>But who best Claws the Representatives;</L>
+<L><PB N="16" REF="13">A blessed Age, when Bigoted Divines</L>
+<L>Shall wrest the Scripture to their ill designs:</L>
+<L>Oh what a Misery it is, that he</L>
+<L>That has the luck of being learn'd, should be</L>
+<L>The first to Countenance Disloyalty!</L>
+<L>That one whose Reason to the highest reaches,</L>
+<L>Should corrupt dying men, and write sham Speeches;</L>
+<L>And brib'd by treacherous Gold,</L>
+<L>All their false Notions and Opinions hold;</L>
+<L>As in the Speech of <HI>Cinna,</HI> where</L>
+<L>The Reverend Doctour did appear</L>
+<L>In every line, each Paragraph,</L>
+<L>That made the men of Judgment laugh,</L>
+<L>Was worded by the Doctour, we could view</L>
+<L>In every clouded Line, the <HI>Scotch</HI> Wit darting through;</L>
+<L>The Logick was the Doctours', all the fallacies,</L>
+<L>And Contradictions, there were his;</L>
+<L>Nay, the sham Law in't was the Doctour's too,</L>
+<L>But his misprisions would not doe;</L>
+<L>The Judges, that it was high Treason, knew.</L>
+<L>Sure never any Nation, could confess,</L>
+<L>With Doctours they were plagu'd like this.</L>
+<L>The <HI>Salamanca</HI> Dragon, late held forth,</L>
+<L>And now we have another from the North;</L>
+<L><HI>Hugh Peters</HI> formerly came from the West,</L>
+<L>Let us but have a fourth from out the East;</L>
+<L>And never kingdom was so blest.</L>
+<L>I'll fares the Land, if once the Clergy err,</L>
+<L>For who are known so popular?</L>
+<L>The sheep must then needs go a-stray,</L>
+<L>When Shepherds can, and will not lead the way.</L>
+<L>And as Religion should no interest have,</L>
+<L>O'er souls, or bodies, but to save;</L>
+<L>As the Creatour's Will first form'd, and made,</L>
+<L>Who never did design it for a trade;</L>
+<L>So he, that is ordain'd to teach should be</L>
+<L>A man of Pious Loyalty,</L>
+<L>Of steady mind, unapt to please each Sot,</L>
+<L>For he that winks at th' Ages general fault,</L>
+<L>Like <HI>B&mdash;tt,</HI> is a scandal to his Coat.</L>
+</LG>
+<LG N="12">
+<PB N="17" REF="13">
+<HEAD>XII.</HEAD>
+<L>When the Eternal did Mankind Create,</L>
+<L>As an addition to his happy State;</L>
+<L>He gave him Reason, that he so might be</L>
+<L>Nearer his own Divinity.</L>
+<L>Since when Religion's Sacred power</L>
+<L>Refin'd the drossie Ore,</L>
+<L>And taught the stupid Mortal to Adore;</L>
+<L>Then <HI>Priestly</HI> Orders first began&punc;</L>
+<L>And the sincerest Man;</L>
+<L>Born on the wings of fame, did soon disperse</L>
+<L>The Mystick tenets through the Universe:</L>
+<L>The learned Prophet did all hearts inspire</L>
+<L>With Morals sprung from his Celestial fire,</L>
+<L>And all were willing to admire:</L>
+<L>No Bigot of the Rebel Synagogue,</L>
+<L>No fleering, Canting Rogue,</L>
+<L>No brib'd <HI>Scotch</HI> Quack, nor perjur'd <HI>Salamank&mdash;</HI></L>
+<L>The heavenly dew of knowledge drank;</L>
+<L>None Grac't the Priesthood, were not free from vice,</L>
+<L>Like <HI>Aaron</HI> Pious, and like <HI>Moses</HI> Wise.</L>
+<L>But now ungratefull Schism the kingdom grieves;</L>
+<L>The Sacred Church becomes a Den of Thieves:</L>
+<L>Drones, Dunces, Drunken slaves,</L>
+<L>Exotick Fools and pamper'd Knaves</L>
+<L>Have yet the Confidence</L>
+<L>To wear the spotless Robe of Innocence:</L>
+<L>And though the Lash, or hanging they deserve,</L>
+<L>Approach the Holy place, and at the Altar serve:</L>
+<L>Pardon, ye Reverend of the Sect divine,</L>
+<L>That ever will Serenely shine,</L>
+<L>The Satyr dares not against you conspire,</L>
+<L>Whose vertues bind him, and untwist his Wire:</L>
+<L>But were it not for happy you,</L>
+<L>For an unbyass'd, blessed few;</L>
+<L>Faith and Religion would as useless be,</L>
+<L>As Preaching true Obedience to the <HI>Mobile:</HI></L>
+<L><PB N="18" REF="14" MS="y">'Tis this that shocks the Judgment of the Wise,</L>
+<L>And adds to general Vice;</L>
+<L>This makes the Libertine go on,</L>
+<L>And leave no horrid Crime undone,</L>
+<L>Till his Inglorious Race is run so far,</L>
+<L>His Guardian Angel leaves him to despair;</L>
+<L>Despair, the Wages of Impiety,</L>
+<L>That makes the wretched Mortal hourly dye,</L>
+<L>And feel new pangs of endless Misery.</L>
+<L>Who without horrour can relate,</L>
+<L>Or think on wretched <HI>Cambel</HI>'s fate!</L>
+<L><HI>Cambel,</HI> who not long since</L>
+<L>Had such exalted favours from his Prince;</L>
+<L>They gain'd the Emulation,</L>
+<L>Of the third part o'th' Nation:</L>
+<L>Imperial <HI>Caesar</HI> trusted him with power,</L>
+<L>And on his head did showre</L>
+<L>Honours, would even make Ambition dumb,</L>
+<L>And own for more it wanted Room.</L>
+<L>His loyal Father's merits fresh did spring</L>
+<L>Within the memory of the gratefull King;</L>
+<L>His father, that proud Rebels long withstood,</L>
+<L>And seal'd his dear Allegiance with his Bloud,</L>
+<L>Losing his head for that great Monarch's sake,</L>
+<L>Whose life his barbarous Son conspires to take:</L>
+<L>Errour of Nature, blind Effect of fate,</L>
+<L>Oh what Philosophy can e'er relate,</L>
+<L>Or shew the natural Reason why,</L>
+<L>In Loyal bloud should brood such Villany?</L>
+<L>If we chuse Horses, we the Breed prefer;</L>
+<L>If Dogs, we cannot err,</L>
+<L>The true bred Beagle ne'er can get a Cur:</L>
+<L>In Cocks, the generous virtue is the same,</L>
+<L>Who e'er could say a Craven came</L>
+<L>From one that was a Cock o'th' Game?</L>
+<L>But spurious Man the great Instinct denies,</L>
+<L>Turns Rebel, and his bloud do's Bastardize;</L>
+<L>This <HI>Cambel</HI> proves, whose Crimes of deepest dye,</L>
+<L>Now stretching to a point too high,</L>
+<L><PB N="19" REF="14">His bashfull <HI>Genius</HI> takes no farther care,</L>
+<L>But leaves him to despair;</L>
+<L>Nor do's he dare</L>
+<L>To think that Prince should be for Mercy sought,</L>
+<L>Whose Clemency is known his onely fault:</L>
+<L>But blinded with his dire Offence,</L>
+<L>Will add self-murther to his other sins;</L>
+<L>With his own hand life's Image do's deface,</L>
+<L>And with Mechanick Razor Ends his wretched days.</L>
+</LG>
+<LG N="13">
+<HEAD>XIII.</HEAD>
+<L>Reflect, Oh thou that stir'st up Civil strife,</L>
+<L>Reflect upon our gratious Monarch's life;</L>
+<L>And if Sedition have not made thee blind,</L>
+<L>Thou then art sure to find,</L>
+<L>The finger of the Diety appear,</L>
+<L>Marking the fate of each Miraculous Year;</L>
+<L>His infelicity, pains, wrongs, constraints,</L>
+<L>Sufferings, beyond the tryal of the Saints;</L>
+<L>And sure large Blessings are for him in store,</L>
+<L>Who by rebellious Subjects suffered more</L>
+<L>Than ever patient Monarch did before.</L>
+<L>Plots by damn'd Villains, thristing for his bloud,</L>
+<L>Strangely discover'd, and withstood;</L>
+<L>By Rebel Crowds, proudly defying heaven&punc;</L>
+<L>He from his Throne was driven,</L>
+<L>And forc't to shroud unhappy Majesty</L>
+<L>Within the Sacred hollow of a Tree;</L>
+<L>Till the Almighty, who had often heard</L>
+<L>His Prayers, alarm'd Heaven, and prepar'd</L>
+<L>The Hierarchy of Angels for his Guard;</L>
+<L>And lately, when the dark and Clouded brow,</L>
+<L>Of black Conspiracy did show,</L>
+<L>What the curst Regicides had sworn to doe;</L>
+<L>God from his high and awfull Throne lookt down,</L>
+<L>And to prevent the mischief burnt a Town,</L>
+<L>And by a small destruction there,</L>
+<L>Hindred a general Massacre;</L>
+<L><PB N="21" REF="15">So <HI>Pharaoh</HI>'s host, from <HI>Israel</HI> did retire,</L>
+<L>Whose Guardian Angel hem'd 'em round with fire:</L>
+<L>Methinks I see, as I did then,</L>
+<L>The King, that greatest, best of Men;</L>
+<L>Linckt with his dearest Brother, Royal <HI>Iames,</HI></L>
+<L>Looking with generous grief upon the flames,</L>
+<L>Pitying the wretched Peoples Cries,</L>
+<L>As if they felt their Miseries&punc;</L>
+<L>And bore an equal share in their Calamities:</L>
+<L>A dreadfull lustre, from the flaming Town,</L>
+<L>On their illustrious faces shone;</L>
+<L>But prov'd a Lambent Glory round each head,</L>
+<L>Presaging that from Treason they were free'd:</L>
+<L>But, oh, what faith can e'er believe;</L>
+<L>That after this great <HI>Caesar</HI> can forgive;</L>
+<L>That he can even pardon those,</L>
+<L>That were his greatest, worst of Foes,</L>
+<L>And in this horrid Plot, against him rose?</L>
+<L>Yet see 'tis so, false Tears, and bended Knee</L>
+<L>O'ercomes, and melts him into Clemency.</L>
+<L>Oh Godlike Nature, too too often us'd,</L>
+<L>And to our lasting shame, too much abus'd;</L>
+<L>Whose vertue fixes an eternal Brand</L>
+<L>On this ingratefull Land,</L>
+<L>And makes me that had Charity before,</L>
+<L>Hate all Mankind, and wish that Nature were no more.</L>
+<L>See how lean <HI>Cassius</HI> yonder nods his head,</L>
+<L>On the poor Supplicant, that stands in need</L>
+<L>In whom the mischief of a States-man's Nature,</L>
+<L>May be discern'd in every ugly feature:</L>
+<L>Hark how he talks, and gravely lies,</L>
+<L>Hoping to hide his well-known vice,</L>
+<L>And makes us think him Loyal, Good and Wise:</L>
+<L>But though the Adder shifts his speckled Skin,</L>
+<L>He cannot purge his venom that's within;</L>
+<L>Tho' <HI>Cassius</HI> seem'd to purge his late offence,</L>
+<L>By a feign'd duty to his Prince;</L>
+<L>Though he through all the Paths of ceremony Ran,</L>
+<L>At Levey, and at Couche, punctual Man:</L>
+<L><PB N="21" REF="15">My searching <HI>Genius</HI> tells me he's unjust,</L>
+<L>Knows well the heigh of his ambitious Lust,</L>
+<L>He would be still a Rebel if he durst.</L>
+<L>See treacherous <HI>Macro</HI> too, rankt with the worst of Men&punc;</L>
+<L>A Whigg, then Tory, then a Whigg again;</L>
+<L>Whose scandalous life becomes a Play-house Jest,</L>
+<L>Turn-coat in every Age for interest.</L>
+<L><HI>Newark</HI> be ever famous for thy Crime,</L>
+<L>And may thy story charm Satyrick Rhime;</L>
+<L>Thou that couldst leave thy Master in distress,</L>
+<L>Unpitied see the Tears Rowl down his sacred face:</L>
+<L>Such pretious Tears, from such a Prince,</L>
+<L>Nature her self would Influence,</L>
+<L>And give to Flowers, and Plants a kindly Birth;</L>
+<L>As when from Clouds, the gentle showers come forth</L>
+<L>After immoderate heat, to cool the gaping Earth.</L>
+</LG>
+<LG N="14">
+<HEAD>XIV.</HEAD>
+<L>Why do's rich <HI>Gallus,</HI> whose full Pocket Chinks,</L>
+<L>Though under his Embroydery he stinks,</L>
+<L>Snuff up the Nose at <HI>Sophus</HI> that is poor,</L>
+<L>And Rate the humble Scholar from his door;</L>
+<L>Call him base Rhimer, rowl his scornfull Eyes,</L>
+<L>As if to be a Poet were a vice;</L>
+<L>Or that it were a scandal to be wise?</L>
+<L>Or why should chattering <HI>Balbus</HI> frown,</L>
+<L>And bluntly cry that merit down,</L>
+<L>That with the wisest Ancients gain'd renown?</L>
+<L>Value himself, for his dull Pedigree,</L>
+<L>Though they were all as senseless Brutes as he?</L>
+<L>And if Judicious censure runs him down,</L>
+<L>He streight begins a quarrel, to make known</L>
+<L>That though he cannot Spell, nor reade, nor write,</L>
+<L>Yet he has Brains enough to fight;</L>
+<L>And by his brutish manners clear the doubt&punc;</L>
+<L>That Reason can no Argument make out</L>
+<L>With your rash, cholerick Blockhead, that is stout.</L>
+<L>The Wise, and learned calmly can debate,</L>
+<L>But your true fool is always obstinate;</L>
+<L><PB N="22" REF="16">Fond of false Notions, always in the wrong,</L>
+<L>Loud, and profusely lavish of his tongue;</L>
+<L>Proud of Criticism, which he calls Wit,</L>
+<L>Although the piece he scans be justly writ,</L>
+<L>And the illiterate Dunce with reading Murthers it.</L>
+<L>Pride, and curst Ignorance still coupled are,</L>
+<L>So have I seen an Ass tread down and tear</L>
+<L>A Laurel he could ne'er deserve to wear.</L>
+<L>Lewdness, and Flattery thrives; and who can both</L>
+<L>Echoe a Lord, and lick away a Moth,</L>
+<L>Perhaps may get Meat, Drink, and Cloth:</L>
+<L>If noisie nothing he for reason grants,</L>
+<L>Swears the dull lump has vertues, that he knows he wants;</L>
+<L>Can Rail, Drink, Lye, Pimp, Flatter, Fawn, and Cheat;</L>
+<L>This from the Patron may preferment get,</L>
+<L>And he some ill plac't bounty may receive,</L>
+<L>But, ah, what wretch on such base terms could live?</L>
+<L>Give me, kind Heaven, a peacefull humble seat,</L>
+<L>Without dependence on the great,</L>
+<L>Or knowledge of the Luxury of State;</L>
+<L>Plac't in a little Cottage of my own,</L>
+<L>Far from the noisie, factious, busie Town,</L>
+<L>In happy Innocent security;</L>
+<L>Stranger to Crowded Courts, or dignity:</L>
+<L>Blest with my Books, some Friends, and one kind constant Fair,</L>
+<L>My lifes fatigue let me with patience bear,</L>
+<L>And in the Bosome of Contentment lye,</L>
+<L>Too low for Envy, and for Scorn too high.</L>
+</LG>
+<LG N="15">
+<HEAD>XV.</HEAD>
+<L>Here stopt the Satyrist with sullen Pride,</L>
+<L>Vext that there were some tears he could not hide;</L>
+<L>A deep reflexion of his wretched State,</L>
+<L>And the ungratefull turns of wav'ring fate,</L>
+<L>Had made his Eyes with sorrow overflow,</L>
+<L>And groans, and sighs exprest his inward Woe.</L>
+<L>To whom impatient <HI>Errour</HI> thus replies:</L>
+<L>Oh sacred Moralist, learn'd, good, and Wise;</L>
+<L>Thou, to whose story my long ravish'd Ear</L>
+<L>Delighted stands, as if 'twere Charm'd to hear,</L>
+<L><PB N="23" REF="16" MS="y">And wonder at that Tongue,</L>
+<L>That breath'd such moving Rhetorick so long.</L>
+<L>O Pardon me, thou that do'st all things know,</L>
+<L>If I divert thy Satyr's angry blow;</L>
+<L>Presuming to declare, that though the Age</L>
+<L>Deserves in General thy sharpest Rage,</L>
+<L>Yet some particular vertues may</L>
+<L>Attone for the black Crimes, that o'er the Nation sway:</L>
+<L>I own true worth on barren praises lives,</L>
+<L>That modest Vertue very rarely thrives:</L>
+<L>I know th' unhappy wise, if poor are scorn'd,</L>
+<L>Whilst fools with gaudy Trappings are adorn'd;</L>
+<L>And in the places of high office seen,</L>
+<L>Though they could ne'er get sense enough to mean,</L>
+<L>Or take from twenty two, and leave eighteen.</L>
+<L>Worth unregarded lies, fop'ry advanc't&punc;</L>
+<L>And being Impudent is countenanc'd;</L>
+<L>Wit is, <HI>Camelion</HI> like, fed by the Air,</L>
+<L>Heaven's gift so onely is rewarded there.</L>
+<L>And when the Muses, the unhappy Nine,</L>
+<L>In charming, tunefull numbers joyn,</L>
+<L>To frame some wondrous Tale,</L>
+<L>To lash the Age, and o'er dull Ignorance prevail;</L>
+<L>The Sot, to whom the labour'd peice is sent,</L>
+<L>Repays the Authour with a Complement;</L>
+<L>Proud of himself, he sordidly believes,</L>
+<L>That 'tis reward enough if he receives.</L>
+<L>Vertue is often slighted with a frown,</L>
+<L>And sawning Vice usurps her dazling Crown,</L>
+<L>Snatches the Glory, and by fortune rais'd,</L>
+<L>Is by th' unthinking Crowd, allow'd, and prais'd:</L>
+<L>Too deep a sense, alas! I have of this,</L>
+<L>And of the Worlds Impieties:</L>
+<L>Yet though th' unweeded Garden do's appear</L>
+<L>O'ergrown, as if not worth the heavenly Care,</L>
+<L>Amongst the Thistles there some Roses are.</L>
+<L>Spite of State-Theives that would have all their own,</L>
+<L><HI>Caesar</HI> has yet some Jewels in his Crown,</L>
+<L>That shall, in spite of all the Rebel kind,</L>
+<L>Glitter, and strike the Eyes of Envy blind:</L>
+<L><PB N="24" REF="17" MS="y">The Guardian Angel that protects his Throne,</L>
+<L>Has seal'd a few blest Heroes for his own.</L>
+<L><HI>Caesario</HI> at his feet himself do's throw,</L>
+<L>The best of Brothers, and of Subjects too;</L>
+<L>Royal as Monarchy, that heaven first gave,</L>
+<L>And yet obedient as a Slave.</L>
+<L>Ambition that so Giant-like do's seem,</L>
+<L>Do's like a Pigmy grow in him;</L>
+<L>No State beyond his right he ever sought,</L>
+<L>Nor ever did aspiring thought</L>
+<L>Offend his breast, or check his dutious Love</L>
+<L>To <HI>England</HI>'s sacred <HI>Iove:</HI></L>
+<L>But in his Loyal Sphere, both good and great</L>
+<L>He calmly mov'd, and kept his Seat;</L>
+<L>Without the subtile States-man's Art,</L>
+<L>He has of Government a part:</L>
+<L><HI>Caesar</HI> in <HI>England</HI> reigns, and he in <HI>Caesar</HI>'s heart.</L>
+<L><HI>Publius</HI> next him in dutious Zeal do's burn,</L>
+<L>A <HI>Phoenix</HI> rising from a sacred Urn,</L>
+<L>That do's contain a Heroe, did restore</L>
+<L>A Monarch, and three Nations once before,</L>
+<L>And <HI>England</HI>'s Conquering Cross in glorious Triumph bore:</L>
+<L>None ever did his Prince more justly serve,</L>
+<L>Nor ever from him more deserve:</L>
+<L>The Grand fatigues of State are easie made,</L>
+<L>And <HI>Caesar</HI>'s Crown sits light upon his head,</L>
+<L>Through his unwearied diligence and Care;</L>
+<L>Watchfull he is in peace, skilfull in war,</L>
+<L>And do's so throughly his great father's Vertues share,</L>
+<L>That onely from so flourishing a Stem,</L>
+<L>Could ever spring a Plant like him;</L>
+<L>True noble Nature shines through every part,</L>
+<L>And Centers in his heart:</L>
+<L>His Soul was never fond of Dignity,</L>
+<L>Or being Popularly high,</L>
+<L>But humble as Supine Philosophers,</L>
+<L>Although in Place exalted as the Stars;</L>
+<L>And in that glorious Sphere, has nobly mov'd,</L>
+<L>By all the Worthies honour'd, and belov'd:</L>
+<L><PB N="25" REF="17" MS="y">Great, Good and Just, what praise can equal thee,</L>
+<L>That hast no fault but too much Generosity!</L>
+</LG>
+<LG N="17">
+<HEAD>XVII.</HEAD>
+<L><HI>Cleon,</HI> belov'd of heaven, next appears,</L>
+<L>A Heroe full of honours as of years;</L>
+<L>Whose Loyal Zeal untainted and sublime</L>
+<L>Stands in the lasting Chronicles of time,</L>
+<L>And gives the gratefull King, occasion to commend</L>
+<L>His faithfull Subject, Councellour and Friend:</L>
+<L>Age, that in others do's distastfull seem,</L>
+<L>Looks gay, and beautifull in him,</L>
+<L>Smiling as if it could past, vernal heats redeem;</L>
+<L>And Nature, pitying one she had</L>
+<L>Fram'd with the choicest wonders of her Trade,</L>
+<L>Should moulder into dust, and be with common Rubbish laid,</L>
+<L><HI>Medaea</HI> like, renews his prime,</L>
+<L>Stops every posting year, and curbs distroying time;</L>
+<L>And by a strange Inspiring skill</L>
+<L>Makes even Death it self, obedient to her will;</L>
+<L>Checks him with fury in his dreadfull Chase:</L>
+<L>But ah, though strongly she defend the Race;</L>
+<L>All Humane-kind must stoop at last,</L>
+<L>Nature her self must her gay Topsails lour,</L>
+<L>Humble as Earth, to Death's resistless power;</L>
+<L>And <HI>Cleon</HI> though great, valiant, wise, must dye</L>
+<L>As certainly as I;</L>
+<L>Onely in this his fate exceeds,</L>
+<L>That he's so good he scarce translation needs,</L>
+<L>But were original Sin less great might be,</L>
+<L>Clad in frail flesh, fit for Eternity.</L>
+<L>More, (Oh thou great Observer of the Age)</L>
+<L>Yet a few more there are, might 'scape thy Rage;</L>
+<L><HI>Solon</HI> is just, lamented 'cause he's old,</L>
+<L>Studious in business, and in Office bold;</L>
+<L>A second <HI>Machiavel</HI> for Policy,</L>
+<L>But stranger to the States-man's villany;</L>
+<L><PB N="26" REF="18" MS="y">He still was Loyal in the worst of times,</L>
+<L>And nicely view'd the peoples Crimes;</L>
+<L>That with Judicious Care, and clearest sense,</L>
+<L>He so might Act the business of his Prince,</L>
+<L>And calm his doubts and fears with true Intelligence.</L>
+<L><HI>Lycurgus</HI> next the Land from Traitours frees,</L>
+<L>Fixt to the Royal Cause through all degrees,</L>
+<L>His heart undaunted without fear or slaw,</L>
+<L>Guarded by reason, Loyalty and Law,</L>
+<L>Inspires him to defend the King's Prerogative,</L>
+<L>As well as if learn'd <HI>Ienkins</HI> were alive;</L>
+<L>Whose bold positions thundring from the Tower,</L>
+<L>Shook the hot Senates Legislative power:</L>
+<L>The same Renown <HI>Lycurgus</HI> do's possess,</L>
+<L>Whilst Plenteous blessings Crown his services;</L>
+<L><HI>Caesar</HI> showr'd honours knowing he deserv'd:</L>
+<L>Highly rewarding him that highly serv'd.</L>
+<L>Strange Revolution, whom the Crow'd disgrac't,</L>
+<L>To dignity is by their Monarch Rais'd;</L>
+<L>And now he sits Exalted high,</L>
+<L>Of awfull Justice chief, to judge the Villany</L>
+<L>Of Slaves that would have hang'd or starv'd him and his Family.</L>
+</LG>
+<LG N="18">
+<HEAD>XVIII.</HEAD>
+<L>At this the Satyrist with sullen pride,</L>
+<L>Smiling as if he mockt himself, reply'd,</L>
+<L>Fond Youth, that think'st with thy weak fallacies,</L>
+<L>Thus to Delude my Eyes,</L>
+<L>And with thin Mists shade o'er the Ages vice:</L>
+<L>Think not, but I believe some few there are</L>
+<L>That Vertue do prefer</L>
+<L>Before the lussious Bait of Crimes irregular.</L>
+<L>Hell would be instant here on Earth,</L>
+<L>Were they all Feinds that are of Humane Birth:</L>
+<L>We do not in a direct <HI>Sodom</HI> live,</L>
+<L>Sure we may Cull out four or five,</L>
+<L>That for eternal Empire strive.</L>
+<L><PB N="27" REF="18">Remember when the deluge overflow'd</L>
+<L>At the Command of God,</L>
+<L>When Giants, Monsters, Satyrs, roam'd abroad,</L>
+<L>And Lunatick as the craz'd addle Brain</L>
+<L>Of our sham Conscientious Aldermen;</L>
+<L>When all the tribe, revelling in villany</L>
+<L>Were drown'd in the vast deeps Immensity,</L>
+<L>The Almighty found one vertuous Family:</L>
+<L>All were not kin to the Infernal brood,</L>
+<L>And in our Impious Age some few are good;</L>
+<L>But on the World's great Lottery cast thy Eyes,</L>
+<L>A thousand Blanks shall meet thee for one Prize;</L>
+<L>The general face of Nature is Impure,</L>
+<L>With an Infection spotted beyond Cure:</L>
+<L>Avarice, Rebellion, Lust, Ingratitude,</L>
+<L>Degenerate Monsters, thirsting after bloud;</L>
+<L>Pride the vain Idol of the Court is made,</L>
+<L>And Love our darling Joy is grown a Trade;</L>
+<L>Beauty is sold as Merchandizing ware,</L>
+<L>At who gives most like horses in a Fair;</L>
+<L>Settlements, Joyntures, Bargains are your task,</L>
+<L>Your merit is the last dull thing they ask.</L>
+<L>Parents of old Conscientiously did prove,</L>
+<L>In th' days of unsophisticated love,</L>
+<L>That Marriage was design'd, and hearts were pair'd above:</L>
+<L>But modern Misers tear the trembling Strings,</L>
+<L>And from the heart, force out the life-bloud Springs;</L>
+<L>Their onely question is, whether you know</L>
+<L>The Fool is rich, if he be so</L>
+<L>No matter whether hearts are pair'd or no:</L>
+<L>Thus not considering that a moderate State,</L>
+<L>When souls are joyn'd the life makes fortunate&punc;</L>
+<L>Beyond large heaps of wealth with one not lov'd,</L>
+<L>Their stubborn wills are rashly mov'd</L>
+<L>To venture, and are cause of all the strife,</L>
+<L>Torments and plagues of such a marriage life:</L>
+<L>I grant a tender Virgin, Young, unskill'd,</L>
+<L>Harmless as Infants, and as Turtles mild,</L>
+<L><PB N="28" REF="19">By an immoderate passion, and ill fate,</L>
+<L>May be deceiv'd by some abhorr'd Ingrate;</L>
+<L>She ought to think e'er she bestows her heart,</L>
+<L>And not with such a Gem, unless to merit part,</L>
+<L>For generous Love has no deluding Art;</L>
+<L>With honour, safty, peace, 'tis ever blest,</L>
+<L>Entrancing Pleasures and Eternal rest;</L>
+<L>And if she first her Servant's value proves,</L>
+<L>She's safe, for who could injure what he loves?</L>
+<L>Destruction lies in matches where the heart,</L>
+<L>Instead of being in all, is in no part:</L>
+<L>Examine the fair <HI>Bevy</HI> one by one,</L>
+<L>You'll find there four in six, that are undone;</L>
+<L>Their wretched State, and every plague besides,</L>
+<L>Springs from their sordid Parents <HI>Avarice or Pride.</HI></L>
+</LG>
+<LG N="19">
+<HEAD>XIX.</HEAD>
+<L>Under this Curse the poor <HI>Selina</HI> fell;</L>
+<L><HI>Selina</HI> lov'd by <HI>Phillemon</HI> so well,</L>
+<L>Each smile she gave, he did to heaven prefer,</L>
+<L>As if he had no other soul but her.</L>
+<L>And if the faithless tribe we might believe,</L>
+<L>When they their vows, tears, sighs and dearest favours give;</L>
+<L>If when they make a Solemn vow,</L>
+<L>Deep as damnation, we may think it true;</L>
+<L>She once indulg'd his flames, and lov'd him too,</L>
+<L>And with an equal Zeal her pangs exprest,</L>
+<L>But Womens passions are too fierce to last;</L>
+<L>Each little blast of fortune turns and winds</L>
+<L>The roving fane of their Inconstant minds;</L>
+<L>Whilst from the Tables of their hearts is Rast</L>
+<L>A Passion they had sworn should ever last.</L>
+<L>Swift were the happy hours, and wing'd with Joy;</L>
+<L>No Cross of fortune did annoy</L>
+<L>The dear content, and bliss of <HI>Phillemon,</HI></L>
+<L>Whilst his <HI>Selina</HI>'s heart was all his own:</L>
+<L><PB N="29" REF="19">When she his merit with discerning Eyes,</L>
+<L>Could cherish, and could prize;</L>
+<L>And if, (as none could ever perfect prove)</L>
+<L>He had some faults, could guild 'em o'er with Love:</L>
+<L>Her errours, though he clearly understood,</L>
+<L>He through the wrong end of the perspect veiw'd,</L>
+<L>Nourisht her Wit, Applauded every Line,</L>
+<L>Her blotted Billets kis't, and call'd 'em fine;</L>
+<L>Nearest his heart, the speckled Snake he hung,</L>
+<L>Not thinking he should ever have bin stung:</L>
+<L>But time the Tutour both to good and bad,</L>
+<L>In her frail soul quick Alteration made,</L>
+<L>And now weak sensless Scruples do molest</L>
+<L>Her trembling breast,</L>
+<L>And Idle scrutinies her peace molest:</L>
+<L>She loves, now hates, now blames herself and cries,</L>
+<L>Now binds her love by Oath, and streight that Oath denies,</L>
+<L>And is so stupid grown or so unwise,</L>
+<L>That she can kek at Love's least vanity,</L>
+<L>And yet can swallow down with ease a dreadfull perjury.</L>
+</LG>
+<LG N="20">
+<HEAD>XX.</HEAD>
+<L>Here had the Satyrist scarce made an end,</L>
+<L>Deeply reflecting on his injur'd Friend,</L>
+<L>Who well deserv'd a better fate,</L>
+<L>If faithfull Love could e'er be fortunate;</L>
+<L>When <HI>Errour</HI> listing his dejected head,</L>
+<L>Blind with his gushing tears, thus said,</L>
+<L>Here let us swear by the Sun's dazling Rays,</L>
+<L>The bright Celestial powers, that guide the nights and days,</L>
+<L>By the Omniscient Father, dreadfull <HI>Iove,</HI></L>
+<L>And all th' eternal Parliament above,</L>
+<L>Never again t'incline our hearts to Love.</L>
+<L>Let the fair smiling mischiefs still plot on,</L>
+<L>Let sighing fools believe, and be undone.</L>
+<L>Far from the town in some sweet Covert, we</L>
+<L>Will live in peace, and bless our Liberty,</L>
+<L><PB N="30" REF="20">Despise the vulgar, and the Apes of State,</L>
+<L>The sordid, Rich and Souless fortunate,</L>
+<L>And all that are not good as well as great.</L>
+<L>This said, the t'other rising from his place,</L>
+<L>Seal'd the dear motion with a close Embrace,</L>
+<L>And instantly propos'd they might be gon,</L>
+<L>For now the scorching of the Southern Sun,</L>
+<L>Had driven the flocks to shades and Cooler Air;</L>
+<L>Thither our new created Friends repair,</L>
+<L>Amongst the bleating Herds on grassie beds they lay,</L>
+<L>Shunning all humane-kind, as worser beasts than they.</L>
+</LG>
+<TRAILER>The End of the Satyr.</TRAILER>
+</DIV1>
+</BODY>
+<BACK>
+<DIV1 TYPE="publisher's advertisement">
+<HEAD>Books Printed for and Sold by <HI>Ioseph Hindmarsh,</HI>
+Bookseller to his Royal Highness.</HEAD>
+<P><HI>BVtler</HI>'s <HI>Ghost,</HI> or, <HI>Hudibras;</HI> The fourth Part; With
+reflexions upon these Times: 8^o.</P>
+<P><HI>Poems,</HI> and <HI>Translations;</HI> By the Authour of the <HI>Satyrs</HI>
+upon the <HI>Iesuits:</HI> 8^o.</P>
+<P><HI>Scandalum Magnatum,</HI> or, <HI>Potapski</HI>'s Case; A <HI>Satyr,</HI>
+against <HI>Polish</HI> Oppression: 4^o.</P>
+</DIV1>
+</BACK>
+</TEXT>
+</EEBO>
+</ETS>

@@ -1,0 +1,5007 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD EEBOPROOF 2.0//EN">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-08-04</DATE>
+<RESPSTMT>
+<NAME>Emma Leeson Huber</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TYPEs to  DIVs in order to validate. Proofed title page(s).  Checked ^s. Reviewed structure. Checked division-marking material at heads and feet of divisions (HEADS, etc.). Checked for signatures. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected 0 $s and $$word$$s etc. of 30. Converted 30 $$s to GAP DESC="illegible" RESP="oxf". Checked spacing of foreign GAPs. Checked for EPIGRAPHs and ARGUMENTs.  Checked for startqs, endqs, oes, q;s, and Qs. Checked proofsheets and made corrections found there. Checked for CLOSERs, TRAILERs, and BYLINEs. Checked for missing page GAPs. DONE.</ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="OX" ID="A30851">
+<STC T="W">B667</STC>
+<BIBNO T="oclc">11910904</BIBNO>
+<VID>50830</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1">
+<PB REF="2" MS="y">
+<P><PB REF="2" MS="y">
+Vertue Betray'd: OR, ANNA BULLEN. A TRAGEDY. ACTED at His Royal Highness THE DUKE's Theatre. Written by <HI>IOHN BANKS.</HI></P>
+<Q>Crescit sub Pondere Virtus.</Q>
+<P><HI>LONDON:</HI> Printed for <HI>R. Bentley</HI> and <HI>M. Magnes,</HI> in <HI>Russel-Street</HI> in <HI>Covent-Garden</HI> MDCLXXXII.</P>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="3">
+<PB REF="3">
+<HEAD>TO THE ILLUSTRIOUS PRINCESS, ELIZABETH, DUTCHESS of SOMERSET.</HEAD>
+<OPENER><SALUTE>Madam,</SALUTE></OPENER>
+<P>HAving met with Success in a Poem of this Nature, I was incourag'd to proceed, and lay the Scene again in a Country that, perhaps, hath not been, nor is now inferior for Heroick Personages to any part of the World; and if It is not so esteem'd, it has been through the dulness of our Historians, or the In|gratitude or Designs of our Poets, who may think it an easier Course to write of the Improbable and Romantick Actions of Princes remote, both by di|stance of Time and Place, than to be confin'd at home, where ev'ry School-Boy has a right to be a Crittick, and ev'ry Gentleman an Interest to stand the Cham|pion of his Family, against a rash and inconsiderate Author. I say not this to derogate from those
+<PB REF="4">
+Excellency of Your real Perfections; and though her Merits rais'd her to a Crown, and she was Queen, her Fortunes were less Miraculous than Yours. For Hea|ven, without a Diadem, never showr'd down so many admirable Blessings of Virtue, Beauty, Birth, Wit, and Fortune, upon any One of Your Sex before. I dare no further attempt their Description with my Igno|rance, lest I speak too Meanly or Irreverently of 'em; therefore I'le leave the mighty Subject to some more Glorious Pen: For none but a <HI>Cowley,</HI> or the best of <HI>Laureats,</HI> ought to write of you: My mean Stile has no other Ornament than Truth; and with that, and in all Humility, I return Thanks for Your most Gra|cious Acceptance of so poor a Trifle, which has scarce given a more happy Life to the Play, than it has to the Author, who is, Madam,</P>
+<CLOSER><SIGNED>Your Grace's most Humble, most Obedient, and most Devoted Servant, J. Banks.</SIGNED></CLOSER>
+</DIV1>
+<DIV1 TYPE="prologue">
+<PB REF="4">
+<HEAD>PROLOGUE Spoken to <HI>Anna Bullen,</HI> written by a Person of Quality.</HEAD>
+<LG>
+<L>TO all Impartial Iudges in the Pit,</L>
+<L>And ev'ry beauteous Patroness of Wit;</L>
+<L>I'm sent to plead the Poets Cause, and say,</L>
+<L>There's not one Slander in his modest Play:</L>
+<L>He brings before your Eyes a modern Story,</L>
+<L>Yet meddles not with either <HI>Whig,</HI> or <HI>Tory.</HI></L>
+<L>Was't not enough, vain Men of either side,</L>
+<L>Two Roses once the Nation did divide?</L>
+<L>But must it be in danger now agen,</L>
+<L>Betwixt our <HI>Scarlet,</HI> and <HI>Green-Ribbon</HI> Men?</L>
+<L>Who made this diff'rence, were not <HI>Englands</HI> Friends;</L>
+<L>Be not their Tools to serve their Plotting Ends.</L>
+<L>Damn the State-Fop, who here his Zeal discovers,</L>
+<L>And o're the Stage, like our ill Genius, hovers:</L>
+<L>Give us a Pit of Drunkards, and of Lovers;</L>
+<L>Good Sanguine Men, who mind no State Affair,</L>
+<L>But bid a base World of it self take Care.</L>
+<L>We hope there lives not so abhorr'd a Thing,</L>
+<L>But loves his Country, and wou'd serve his King.</L>
+<L>But in your Parties, why should we engage,</L>
+<L>Or meddle with the Plots of a mad Age?</L>
+<L>We lose enough by those upon the Stage.</L>
+<L>Welcome Mask-Teazer, Peevish Gamster, Huffer;</L>
+<L>All Fools, but Politicians, we can suffer;</L>
+<L>A Gods name, let each keep to his Vocation;</L>
+<L>Our Trade is to mend You, and not the Nation:</L>
+<L>Besides, our Author has this further End,</L>
+<L>'Tis not enough if but One Side's his Friend;</L>
+<L>He needs you All, his weakness to defend:</L>
+<L>And to oblige you to't, hopes he has shown</L>
+<L>No Country has Men braver than your own.</L>
+<L>His Hero's all to <HI>England</HI> are confin'd;</L>
+<L>To your own Fathers (sure) you will be kind.</L>
+<L>He brings no Forreigners to move your Pity,</L>
+<L>But sends them to a Iury of the City.</L>
+</LG>
+</DIV1>
+<DIV1 TYPE="dramatis personae">
+<PB REF="5">
+<HEAD>PERSONS Represented.</HEAD>
+<LIST>
+<ITEM><LABEL>KING <HI>Harry.</HI></LABEL>Mr. <HI>Smith.</HI></ITEM>
+<ITEM><LABEL>Cardinal.</LABEL>Mr. <HI>Gillow.</HI></ITEM>
+<ITEM><LABEL>Northumberland.</LABEL>Mr. <HI>Wiltshire.</HI></ITEM>
+<ITEM><LABEL>Piercy.</LABEL>Mr. <HI>Betterton.</HI></ITEM>
+<ITEM><LABEL>Rochford.</LABEL>Mr. <HI>Jos. Williams.</HI></ITEM>
+<ITEM><LABEL>Anna Bullen.</LABEL>Mrs. <HI>Barry.</HI></ITEM>
+<ITEM><LABEL>Lady Diana Talbot.</LABEL>Mrs. <HI>Petty.</HI></ITEM>
+<ITEM><LABEL>Lady Eliz. Blunt.</LABEL></ITEM>
+<ITEM><LABEL>Young Princess <HI>Elizabeth.</HI></LABEL></ITEM>
+<ITEM><LABEL>Ladies, Gentlemen, Attendants, and Guards.</LABEL></ITEM>
+</LIST>
+<P>SCENE</P>
+<P><HI>LONDON.</HI></P>
+</DIV1>
+</FRONT>
+<BODY>
+<HEAD><PB N="1" REF="5">VERTUE BETRAY'D: OR, Anna Bullen.</HEAD>
+<DIV1 N="1" TYPE="act">
+<HEAD>ACT I. SCENE I.</HEAD>
+<STAGE><HI>Enter</HI> Northumberland <HI>and</HI> Rochford.</STAGE>
+<SP>
+<SPEAKER>North.</SPEAKER>
+<L>THis is the Day shall Crown your Parents wishes,</L>
+<L>And long expecting hopes: The King intends</L>
+<L>To publish streight his Marriage with your Sister,</L>
+<L>And make her known by th' Title of his Queen;</L>
+<L>The Reason why it was so long kept secret,</L>
+<L>Was our great Cardinal's Delays, and Tricks</L>
+<L>Of <HI>Rome,</HI> which <HI>Harry</HI> has with Frowns discover'd:</L>
+<L>But since, in spite of <HI>Woolsey</HI> and the Conclave,</L>
+<L>By Reverend <HI>Cranmer</HI> has the Cause been try'd;</L>
+<L>And <HI>Katherine</HI> is this day proclaim'd divorc'd.</L>
+</SP>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>Heav'n be my Witness, brave <HI>Northumberland!</HI></L>
+<L>It joyes not me, but that it is his pleasure,</L>
+<L>Whose Happiness we all are bound to pray for;</L>
+<L>And may my Sister's Crown sit lighter on</L>
+<L>Her Brow, than does the Honour upon mine:</L>
+<L>Something of boding whispers to my Soul,</L>
+<L>And tells me, Oh! this Marriage will be fatal&mdash;</L>
+<L>Methinks I see a Sword ty'd to a Thread,</L>
+<L><PB N="2" REF="6">
+Small as a Hair, hang o're our Pageant Greatness:</L>
+<L>Believe me, Friend; Thrones are severest Touch-stones;</L>
+<L>And, like the Emblem of their Guard, the Lyon,</L>
+<L>All but of Royal-Blood they will destroy.</L>
+</SP>
+<SP>
+<SPEAKER>North.</SPEAKER>
+<L>My Lord, this is severe to all that love you;</L>
+<L>And you reflect unkindly on your Fortunes.</L>
+</SP>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>Fortune! why did she lay her load on her?</L>
+<L>A load, I say, to quiet Minds&mdash;she should</L>
+<L>Have cast it upon one that was ambitious:</L>
+<L>My Lord, it had been kindly done of Fortune,</L>
+<L>T' have seen my Sister wedded to her Vows,</L>
+<L>Your <HI>Peircy</HI>'s Wife; and not at one time made her</L>
+<L>Both Cruel to the Queen, and False to him.</L>
+</SP>
+<SP>
+<SPEAKER>North.</SPEAKER>
+<L>You know, my Lord, we all are Witnesses</L>
+<L>With what remorse she took the Regal Burthen,</L>
+<L>That fate upon her like a heavy Armour</L>
+<L>On a Child's back; she stagger'd with the Weight.</L>
+</SP>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>Oh! may it not be fatal to us, Heav'n!</L>
+<L>For at the very time she gave her Hand</L>
+<L>To th' eager King to fasten't with a Pledge,</L>
+<L>The Ring fell off, and could no more be found.</L>
+</SP>
+<SP>
+<SPEAKER>North.</SPEAKER>
+<L>Meer Chance, my Lord.</L>
+</SP>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>And then immediately.</L>
+<L>When the glad Ceremonies were perform'd,</L>
+<L>The amorous King bending to kiss her Hand,</L>
+<L>A shower of Pearls broke passage from her Eyes,</L>
+<L>And all-bedew'd his Head with ominous Tears.</L>
+</SP>
+<SP>
+<SPEAKER>North.</SPEAKER>
+<L>The common use of every bashful Bride.</L>
+</SP>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>What will she do when she shall <GAP DESC="illegible" RESP="OXF" EXTENT="5 letters">stand</L>
+<L>Our foul Designs, and <HI>Peircy</HI>'s Innocence;</L>
+<L>His Letters to her that you intercepted,</L>
+<L>And counterfeited others to deceive her,</L>
+<L>To make her once believe that he was marry'd?</L>
+<L>But what a mortal Grief will seize your Son,</L>
+<L>When he shall find his Mistress was betray'd;</L>
+<L>And forc'd to marry one she cannot love?</L>
+</SP>
+<SP>
+<SPEAKER>North.</SPEAKER>
+<L>To prevent that: Soon as he's come to Court,</L>
+<L>Just but to see she's marry'd, and no more,</L>
+<L>(Not giving him the time for second thoughts)</L>
+<L>I'll make a Match between him and the Heiress</L>
+<L><PB N="3" REF="6">
+Of <HI>Shrewsbury.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>A very gallant Lady.</L>
+<L>As Virtuous, Beautiful, and Richer far</L>
+<L>Than all our Generation of that Sex.</L>
+</SP>
+<SP>
+<SPEAKER>North.</SPEAKER>
+<L>You wrong your self to slatter me. Her Father</L>
+<L>Brings her this day on purpose from the Country:</L>
+<L>But the Queen thinks already they are marry'd.</L>
+</SP>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>And are you sure to gain your Sons consent,</L>
+<L>To what he has been still so obstinate?</L>
+</SP>
+<SP>
+<SPEAKER>North.</SPEAKER>
+<L>Rage and Despair, when he shall find her false,</L>
+<L>Will make him rashly change to any state;</L>
+<L>And, thinking to be miserable, will plunge</L>
+<L>Into the dreadful Sea of Matrimony,</L>
+<L>And make himself, though much against his Will,</L>
+<L>The happiest man that ever was on Earth.</L>
+<STAGE>Enter Cardinal <HI>Woolsey</HI> musing.</STAGE>
+<L>Behold the proud imperious Cardinal,</L>
+<L>With such a furious Tempest on his Brow,</L>
+<L>As if the World's four Winds were pent within</L>
+<L>His blustering Carkass. He has heard the News,</L>
+<L>And comes to argue with his Friend the Devil,</L>
+<L>The Reason of his No-Intelligence</L>
+</SP>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>The Popedom now, and all the Wealth in <HI>Rome,</HI></L>
+<L>Can scarcely recompence him for the fright</L>
+<L>This News has put him in&mdash;See how he staggers,</L>
+<L>Giddy with th' height his Pride has rais'd him to.</L>
+<L>'Tis then most fatal to unhappy <HI>England</HI></L>
+<L>When such Church Blazing Stars appear in it. </L>
+</SP>
+<STAGE><HI>[Ex.</HI> North. <HI>and</HI> Roch.</STAGE>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>Marry'd in private, and declar'd his Queen!</L>
+<L><HI>Katherine</HI> divorc'd, and <HI>Anna Bullen</HI> marry'd!</L>
+<L>Now, by our Holy Father's Triple Crown</L>
+<L>It must not, cannot, nay, it shall not be.</L>
+<L>Where was your aid, that time, you slothful Saints,</L>
+<L>You whom false Zeal created in more numbers</L>
+<L>Than e're the Heathen made and worshipp'd Gods?</L>
+<L>A <HI>Lutheran</HI> Queen upon the Throne of <HI>England!</HI></L>
+<L>She to lye in the Bosom of our Prince!</L>
+<L>A Buxom King, that for a wanton Smile</L>
+<L>Will pawn his Faith, and turn an Heretick!</L>
+</SP>
+<STAGE><PB N="4" REF="7">
+Enter the Lady <HI>Elizabeth Blunt.</HI></STAGE>
+<SP>
+<SPEAKER>Blunt.</SPEAKER>
+<L>Awake thou wretched dreaming Priest, look up:</L>
+<L>Can you behold your proud Saint <HI>Peter</HI> shake?</L>
+<L>The mighty Pillar of that spreading Church</L>
+<L>That holds the great Religion of the World</L>
+<L>To stagger, and bestow no help, no aid</L>
+<L>From mighty <HI>Woolsey</HI>'s Shoulders to support it?</L>
+<L>Is this the great King Cardinal, who late</L>
+<L>From smallest Root began to shade the Land,</L>
+<L>And stood the tallest Cedar of the Church?</L>
+<L>Shame to thy Priest-hood, and thy Scarlet Robe,</L>
+<L>Ev'n thou to whom the liberal See of <HI>Rome</HI></L>
+<L>Has given all, next giving of her self:</L>
+<L>Unworthy Servant of so kind a Mistress.</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>What does the Fairest mean!</L>
+</SP>
+<SP>
+<SPEAKER>Blunt.</SPEAKER>
+<L>Ha! must I teach thee?</L>
+<L>Art thou the Thing that from the Chaff of Mankind,</L>
+<L>From the base scurrilous Rubbish of the World,</L>
+<L>First found thy self a way to thrive by Wit?</L>
+<L>Then edging it with sharpest Villanies,</L>
+<L>Mow'd thee a passage to thy Princes Breast,</L>
+<L>And cut down all the Virtuous from his sight,</L>
+<L>Who chose thee for the Champion of his Vices;</L>
+<L>Whilst thou with labour let loose all their Sluces,</L>
+<L>And pour'd them like a Torrent in his Bosom?</L>
+<L>This you did once confess to me, and more,</L>
+<L>When you declar'd how hot you were in love&mdash;</L>
+<L><HI>Bullen</HI> is Queen, the Crown you promis'd me</L>
+<L>Now wreaths her Head&mdash;Are these the hopes you gave me,</L>
+<L>When once you said my Son should be a King?</L>
+<L>The News not stirs your Wonder! Hell and Furies!</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>What wou'd you I should do to serve you?</L>
+</SP>
+<SP>
+<SPEAKER>Blunt.</SPEAKER>
+<L>Forgive me, tender <HI>Woolsey,</HI> pious Cardinal!</L>
+<L>Shall I then teach your Scarlet Priesthood Blood?</L>
+<L>I would have done as <HI>Alexander</HI> did,</L>
+<L>The Sixth, and the most merciful so nam'd;</L>
+<L>Are there no Consecrated Weapons left?</L>
+<L>Or have you lost the Power to make 'em so?</L>
+<L><PB N="5" REF="7">
+Give me Saint <HI>Dagger</HI> or Saint <HI>Poison</HI> straight,</L>
+<L>And I will do that Meritorious Act:</L>
+<L>Dispatch her streight to Hell, from whence she fetch'd</L>
+<L>Those Looks that robb'd me of the King and Crown.</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>Have patience, Madam.</L>
+</SP>
+<SP>
+<SPEAKER>Blunt.</SPEAKER>
+<L>Preach it to the Damn'd,</L>
+<L>To those that feel the Rack or Inquisition&mdash;</L>
+<L>Curse on your Gown Apologies: but more</L>
+<L>Be curst the time of <HI>Bullen</HI>'s fatal Birth,</L>
+<L>Wrinkles like Age anticipate her Youth;</L>
+<L>Mildews and Blasts devour her wanton Beauties,</L>
+<L>Small-Pox and Leprosies rough-cast her o're;</L>
+<L>Dig up her Charms and Features by the Roots,</L>
+<L>And bury 'em in Pits as deep as Graves.</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>Study some Act that may revenge this Fury,</L>
+<L>This hurts no more than Barks of Coward Curs;</L>
+<L>She lives, and is as beautiful as ever:</L>
+<L>Be rul'd by me, who like a dreadful Piece,</L>
+<L>Am sure to kill, where-e're I take my aim,</L>
+<L>Before they hear the Noise or see the Flame.</L>
+</SP>
+<SP>
+<SPEAKER>Blunt.</SPEAKER>
+<L>Oh tell me how to quench this Fire within!</L>
+<L>That burns me up with thoughtful Injury.</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>An easie way I'le chalk to your Revenge,</L>
+<L>A Road not steep, nor dangerous, but smooth;</L>
+<L>So unsuspected, and so fatal too,</L>
+<L>That the Queens Fancy and deluded Genius,</L>
+<L>Shall tempt her in the same dissembled Path,</L>
+<L>Taking her by the other hand with us,</L>
+<L>And lead her in the Pit prepar'd for her.</L>
+</SP>
+<SP>
+<SPEAKER>Blunt.</SPEAKER>
+<L>Go on my <HI>Woolsey,</HI> charming as the young,</L>
+<L>And more melodious than a Quire of Angels.</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>This then it is: The King you know's inconstant,</L>
+<L>As jealous and as teasty as old Age,</L>
+<L>So covetous of the pleasure he possesses,</L>
+<L>That he who does but look upon't must dye,</L>
+<L>With her, whose innocent Charms did force him to't.</L>
+</SP>
+<SP>
+<SPEAKER>Blunt.</SPEAKER>
+<L>But how shall we be backt with a pretence?</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>'Tis easie to give fire to that fond Breast</L>
+<L>That is already charg'd with jealous Sulphur:</L>
+<L>The Queen loves <HI>Piercy,</HI> that may be a means;</L>
+<L><PB N="6" REF="8">
+And Spies may be laid every where to watch</L>
+<L>Their Private Meetings, and their very looks,</L>
+<L>And then acquaint the Hot-brain'd King with it:</L>
+<L>So streight their joyful Destinies are seal'd.</L>
+</SP>
+<SP>
+<SPEAKER>Blunt.</SPEAKER>
+<L>Most admirable!</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>If we fail in this,</L>
+<L>Some cry'd-up Beauty, ne're yet seen at Court,</L>
+<L>Must be found out, to put her in his way,</L>
+<L>And take the Amorous King: 'Twill certain do;</L>
+<L>For then no greedy Falcon, when he sees the Lure,</L>
+<L>Will flye down swifter to be catch'd and hooded,</L>
+<L>Than he into the Fetters of her Charms.</L>
+</SP>
+<SP>
+<SPEAKER>Blunt.</SPEAKER>
+<L>O come to my Embrace, thou Godlike Priest!</L>
+<L>Balm to my wounded and my tortur'd Bosom.</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>Go streight, and haste about the Intelligence.</L>
+</SP>
+<SP>
+<SPEAKER>Blu<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">t.</SPEAKER>
+<L>I will. Good Fortune has been so propitious,</L>
+<L>To make young <HI>Rochford, Anna Bullen</HI>'s Brother,</L>
+<L>Enamour'd of my Beauty; him I'le mould,</L>
+<L>Sound ev'ry thought of his unguarded Soul,</L>
+<L>Linking him close in amorous Intrigues,</L>
+<L>'Till I have discover'd from him our Design</L>
+<L>Of <HI>Peircy</HI>'s Love, and of his Sisters Conduct.</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>An Accident, the luckiest that could happen!</L>
+<L>Behold the Queen in her first State and Greatness,&mdash;</L>
+<L>But yet she bears it with no welcome meen:</L>
+<L><HI>Peircy</HI> hangs heavy on her heart, and in her Eyes;</L>
+<L>It works, it manages as we would have it:</L>
+<L>And in her heedless Innocence she sails,</L>
+<L>Shunning no Rocks, no Quick-sands, nor no Danger,</L>
+<L>But runs into her Ruine faster than</L>
+<L>We wish.</L>
+</SP>
+<SP>
+<SPEAKER>Blunt.</SPEAKER>
+<L>Her Crown is hideous to my sight,</L>
+<L>Its Jewels fatal as the Eyes of Basilisks:</L>
+<L>O Cardinal! This Rival-Queen and I</L>
+<L>Should never meet but in the Scales of Death,</L>
+<L>That weigh all Mortals even and alike.</L>
+</SP>
+<STAGE><PB N="7" REF="8">
+Queen <HI>Anne</HI> appears seated upon a Throne. <HI>Northumberland, Rochford,</HI> Lords, Ladies, Attendants and Guards about her.</STAGE>
+<SP>
+<SPEAKER>Omnes.</SPEAKER>
+<L>Long live King <HI>Henry,</HI> and Queen <HI>Anne</HI> of <HI>England.</HI></L>
+</SP>
+<SP>
+<SPEAKER>North.</SPEAKER>
+<L>Immortal live Great Queen of <HI>England, France,</HI></L>
+<L>And <HI>Ireland,</HI> and for ever rule the Heart</L>
+<L>Of Conquering <HI>Henry,</HI> as he Reigns o're us</L>
+<L>And all his faithful Subjects&mdash;</L>
+<L>I speak it as the Wishes and the Voice</L>
+<L>Of your most Loyal Kingdoms; to confirm it,</L>
+<L>Sound straight your loudest Instruments of Joy,</L>
+<L>And shout as I do, all that love their Queen.</L>
+</SP>
+<STAGE>Queen rises from her Throne, [Shouts and Trumpets within.</STAGE>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>These Sounds might lift another to the Heav'ns!</L>
+<L>But what is Musick to the Ear that's deaf;</L>
+<L>Or Crowns and Scepters to a dying Wretch?</L>
+<L>Despair turns all alike that comes to me,</L>
+<L>Blind to the Pomp that glads all Eyes but mine,</L>
+<L>Deaf to its Charms, and dead to all its Glories.</L>
+<STAGE>[Trumpets and Shouts again.</STAGE>
+<L>Cease you more empty Flatterers than Winds;</L>
+<L>Be silent as the Sorrows in my Breast:</L>
+<L>If you will give me ease, forbear such Flatteries:</L>
+<L>For I receive 'em with as little joy,</L>
+<L>As ev'n those silly Wretches utter them,</L>
+<L>Having no other Reason but vile Custom.</L>
+<L>My Noble Lords!</L>
+<L>I know you all are Loyal to the King,</L>
+<L>And for his sake you are thus kind to me;</L>
+<L>But for the Rabble, who can read that <HI>Sphinx?</HI></L>
+<L>Their very Breath that now Proclaims, with joy,</L>
+<L>Sad <HI>Katherine</HI> to be no longer Queen,</L>
+<L>And my unwelcome Coronation,</L>
+<L>Would the same moment, should my Stars permit,</L>
+<L>Shout louder at the Sentence of my Death.</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>Most glorious and beloved of <HI>England</HI>'s Queens!</L>
+<L>O lay not on our Nation such a Curse,</L>
+<L>As a suspicion of its Faith to you.</L>
+<L>I dare be bold, and say it, as a Priest,</L>
+<L><PB N="8" REF="9">
+As Confessour to all my Country's Guilt,</L>
+<L>There's none, how mean soever with my self,</L>
+<L>But loves you more than life, or darling Riches,</L>
+<L>Wishing to feel severest Penance here,</L>
+<L>And Hell hereafter, rather than behold</L>
+<L>You less a Queen, or less ador'd than now.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>They have my thanks, next kind good natur'd <HI>Woolsey,</HI></L>
+<L>Who cannot but be real, 'cause he says it.</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>On that your Majesty would think so ever,</L>
+<L>And that my proud endeavours, with success,</L>
+<L>First whisper'd in the Bosom of the King</L>
+<L>The secret Wonders of your Mind and Person,</L>
+<L>And made him soon discover all your Beauties,</L>
+<L>Those rare Perfections, that above your Sex</L>
+<L>Have merited his Passion and his Crown.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>O Reverend, pious, best of Cardinals!</L>
+<L>Who too well knows</L>
+<L>By whose high hand I climb'd this malic'd Greatness,</L>
+<L>And wear this envy'd Crown.</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>May Heav'n and Stars</L>
+<L>Pour their just hatred on&mdash;</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Cease Execrations;</L>
+<L>For should they come to pass, as Heav'n forbid,</L>
+<L>What wou'd the miserable Nation do?</L>
+<L>Besides 'twere pity to the King and me,</L>
+<L>That we should lose so exquisite a Head,</L>
+<L>And such a Prelate should be damn'd so soon</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>Ten thousand Saints, more than my Royal Master,</L>
+<L>Are Witnesses to th' truth of what I say.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>As many Saints and Myriads of bright Angels</L>
+<L>Can witness of the blackness of thy Soul,</L>
+<L>That canker'd first the Conscience of thy Master,</L>
+<L>Misleading him with hopes to purge a sin,</L>
+<L>To act the worst, ev'n a Religious Guilt&mdash;</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>The wise and just Omnipotence&mdash;</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>No more:</L>
+<L>Hell's not so full of Torments, as thy Soul</L>
+<L>Has Blasphemies to be rewarded in it&mdash;</L>
+<L>Give me some ease, just Heav'n! if there be any&mdash;</L>
+<L>My Lords! if there's no more for you to act</L>
+<L><PB N="9" REF="9">
+To perfect or unmake this Ceremony,</L>
+<L>(Oh that it cou'd be done!) retire a while,</L>
+<L>And leave me with my Women for some Moments&mdash;</L>
+<L>What am I then a Prisoner to be guarded?</L>
+<L>Has then a Throne cost me so dear a Price,</L>
+<L>As forfeit of my Liberty of Thinking?</L>
+<L>Do Princes barter for their Crowns their Freedoms?</L>
+<L>Good Heav'n! not think! nor pray if I have need&mdash;</L>
+<L>If I am Queen, why am I not obey'd?</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>We'll all perform your Majesties Command.</L>
+</SP>
+<STAGE><HI>[Ex.</HI> all but her Women.</STAGE>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Am I got loose, loose from this worrying Scene</L>
+<L>Of dismal State, that always loads a Monarch,</L>
+<L>And racks him with dissembling Torturers?</L>
+<L>O wretched state of Princes! that want nothing</L>
+<L>But a Retreat from Business and from Crowds;</L>
+<L>Yet wanting that, want every thing that's happy,</L>
+<L>A Soul at ease&mdash;O sacred Solitude!</L>
+<L>How aiery and delightful are thy Walks?</L>
+<L>No stinging Serpent, nor worse Insect Man,</L>
+<L>Disturb thy fragrant and enamell'd Paths;</L>
+<L>No Winter-Blasts, nor <HI>Autumn</HI> Winds molest</L>
+<L>Thy sacred Grotto's, all around is Summer;</L>
+<L>Nothing broods there but an Eternal Spring,</L>
+<L>Mild as all <HI>May,</HI> and Beautiful as <HI>Eden:</HI></L>
+<L>Thou charitable Good! that from th' afflicted</L>
+<L>Unloads the heavy Burdens that oppress them,</L>
+<L>And plants Repose in every Breast in stead!</L>
+</SP>
+<STAGE>Enter a Lady.</STAGE>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>The Lady <HI>Diana Talbot</HI> begs admittance,</L>
+<L>To pay her Duty to your Majesty.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>What say'st! Thou'st rous'd a Dragon in my Breast.</L>
+<L>Which I had thought for ever to have husht:</L>
+<L>That Name sets every Pulse again at work</L>
+<L>Within me&mdash;<HI>Talbot!</HI> how art thou mistaken?</L>
+<L>She's <HI>Piercy</HI>'s now; And <HI>Piercy</HI> all his hers.</L>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<L>Shall she be brought to your Presence?</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Ay&mdash;No&mdash;Yes&mdash;</L>
+<L><PB N="10" REF="10">
+Do any thing, so 'twill be sure to kill me:</L>
+<L>O <HI>Piercy! Piercy!</HI> would thou ne're hadst been</L>
+<L>Unfaithful, or at least in being so,</L>
+<L>Hadst never taught me how to be reveng'd:</L>
+<L>But oh the dismal Pain is all my own,</L>
+<L>And like an Arrow from an o'rebent Bow,</L>
+<L>The hasty Dart turn'd back and hurt my self,</L>
+<L>Wounding that Breast where I least meant my aim.</L>
+<L>How soft and tender were our mutual Vows,</L>
+<L>Which since another's Charms, like Lightning, blasted;</L>
+<L>Whilst Parents Threats and Kings Authority,</L>
+<L>Rent me, like Thunder, from my fixt Resolves:</L>
+<L>Th' art marry'd now, and all those amorous sighs,</L>
+<L>And passionate tears, with thousand Extasies,</L>
+<L>Which we both learnt and taught to one another,</L>
+<L>Like innocent Children in the School of love,</L>
+<L>Are now the Arts with which, false man! th'hast caught</L>
+<L>Anothers fond believing heart, they are.</L>
+<STAGE><HI>Enter Lady</HI> Diana Talbor.</STAGE>
+<L>She comes, triumphant in her Eyes the joy</L>
+<L>That once like Tides o're-flow'd my fruitful Breast.</L>
+<L>How proud she bears her self to see my pain!</L>
+<L>Whilst I look up to her, and sigh in vain!</L>
+<L>But I will hide it, and forgive me Heav'n; <STAGE>[Diana <HI>kneels.</HI></STAGE></L>
+<L>For 'tis the first time that I e're dissembled&mdash;</L>
+<L>"Rise dear <HI>Diana,</HI> you have been a Stranger;</L>
+<L>Could nothing but a Queen drag you to Court?</L>
+<L>I owe this Kindness to my Royalty,</L>
+<L>And not your Friendship&mdash;</L>
+</SP>
+<SP>
+<SPEAKER>Dian.</SPEAKER>
+<L>Pardon, mighty Princess!</L>
+<L>I had been blest for ever in your Presence,</L>
+<L>Charming in all Estates as well as now,</L>
+<L>Had I been Mistress of my Inclinations.</L>
+<L>But&mdash;</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>'Tis no matter, I'le allow your Reason,</L>
+<L>A Cause so indispensible and just,</L>
+<L>That 'twere a fault in me to blame such Virtue.</L>
+</SP>
+<SP>
+<SPEAKER>Dian.</SPEAKER>
+<L>Indeed a Parents Will ought still to be</L>
+<L><PB N="11" REF="10">
+Obey'd, next Duty to your Majesty.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>And something yet more binding&mdash;Do not blush&mdash;</L>
+<L>Come I'le unriddle all, and spare your Tongue</L>
+<L>The trouble, and your bashful Cheeks the Fire.</L>
+</SP>
+<SP>
+<SPEAKER>Dian.</SPEAKER>
+<L>What fire? what blushes do you tax me with?</L>
+<L>I feel not any but what Wonder raises,</L>
+<L>And blush because I cannot comprehend.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>You are unkind, why make it you a secret?</L>
+<L>And but to me, when all the World reports it.</L>
+</SP>
+<SP>
+<SPEAKER>Dian.</SPEAKER>
+<L>There is no secret; nothing I would hide</L>
+<L>From so ador'd a Friendship as my Queen's.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Why d' you suspect me then? <STAGE>[Aside]</STAGE> How loth she is</L>
+<L>To tell it me! As loth as I to hear it:</L>
+<L>Sure she suspects how fatal 'twill be to me;</L>
+<L>And the proud man has triumph'd o're my weakness!</L>
+<L>And told her all my passion with a scorn&mdash;</L>
+<L>'Tis so; whilst poor, regardless, innocent I</L>
+<L>Was all the while their Censure and their Pastime,</L>
+<L>The Fool, whose Story acted made 'em sport,</L>
+<L>And gave new edge to all their sated Joyes;</L>
+<L>Nay and perhaps drew Pity from their Pride?</L>
+<L>Pity! good Gods! must I endure their Pity?</L>
+<L>You will not own it then? But 'tis no matter. <STAGE><HI>[To</HI> Diana.</STAGE></L>
+<L>When saw you <HI>Piercy?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Dian.</SPEAKER>
+<L><HI>Piercy,</HI> Madam! </L>
+</SP>
+<STAGE>[She starts.</STAGE>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Yes,</L>
+<L>Why did you start! has he a Name so horrid?</L>
+<L>But now you spoke as tho there were not such</L>
+<L>A man i'th' World, and wonder'd at my meaning;</L>
+<L>But yet have all the Agonies to hear him nam'd:</L>
+<L>Him you would hide, but cannot hide your Blushes.</L>
+</SP>
+<SP>
+<SPEAKER>Dian.</SPEAKER>
+<L>Good Heav'n! by what strange Miracle have you </L>
+<STAGE>[aside.</STAGE>
+<L>Reveal'd my secret Passion to the Queen?</L>
+<L>I never told my Grievance but to you,</L>
+<L>And that but silently in broken Sighs</L>
+<L>And stifled Tears&mdash;</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>'Tis plain she is disturb'd!&mdash;</L>
+<L>What can this mean? Sure one of us is mad! </L>
+<STAGE>[Aside.</STAGE>
+<L>Why all this Care to hide a Truth from me,</L>
+<L>That is the common talk of all the World?</L>
+<L><PB N="12" REF="11">
+There's something in it more than yet I know,</L>
+<L>Which I must search into by other means.</L>
+<L>Madam, I thought when I had condescended </L>
+<STAGE><HI>[To</HI> Diana.</STAGE>
+<L>To open my Breast, and mingle Friendships with you,</L>
+<L>You would not then deny so small a Secret;</L>
+<L>And now when I am Queen and may command it&mdash;</L>
+<L>Therefore begone. Leave me without Reply.</L>
+<L>Henceforth I'le know the Persons better, out</L>
+<L>Of whom I mean to chuse a Friend&mdash;Farewell&mdash;</L>
+<L><HI>Piercy</HI> no doubt is not so fondly nice,</L>
+<L>But brags, and tells the World of his proud Conquest.</L>
+</SP>
+<SP>
+<SPEAKER>Dian.</SPEAKER>
+<L>Forgive me first; then give me leave to tell you&mdash;</L>
+<L>How 'twas disclos'd to you, the Wonder stuns me;</L>
+<L>But <HI>Piercy</HI> knows not yet, nor shall from me,</L>
+<L>This secret which I thought scarce Heav'n found out.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Racks and worse Tortures! Frenzies of the mind!</L>
+<L>Hence; take her from my sight&punc; she will distract me.</L>
+</SP>
+<SP>
+<SPEAKER>Dian.</SPEAKER>
+<L>O hear me first: your Fury's not so dreadful,</L>
+<L>As is my pain to tell: yet I'le confess: </L>
+<STAGE>[Kneels.</STAGE>
+<L>A fatal Truth it is, <HI>Piercy</HI> I love&mdash;</L>
+<L>Now pity me, and quench my torturing Blushes:</L>
+<L>For Heav'n reveal'd it to you for no Ill.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>I am amaz'd: still worse and worse, she stabs me,</L>
+<L>And they're Abuses all&mdash;Ingrateful Woman!</L>
+<L>Wouldst have me think thy lawful Passion such a wonder!</L>
+<L>Is it a Crime for thee to love thy Husband?</L>
+</SP>
+<SP>
+<SPEAKER>Dian.</SPEAKER>
+<L>Ha! what is that you say? my Husband said you!</L>
+<L>Meant you to mock th'unfortunate <HI>Diana?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>No. I will say't again; thy perjur'd Husband!</L>
+</SP>
+<SP>
+<SPEAKER>Dian.</SPEAKER>
+<L>Ah! Royal Madam! <HI>Piercy</HI> is more blest;</L>
+<L>We are not Marry'd, he is not my Husband.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Ha! </L>
+</SP>
+<STAGE>[Aside.</STAGE>
+<SP>
+<SPEAKER>Dian.</SPEAKER>
+<L>That were to me too great a Happiness!</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Should this be true, what will become of me? </L>
+<STAGE>[Aside.</STAGE>
+<L><HI>Diana</HI> rise: Are you not Marry'd, said you!</L>
+</SP>
+<SP>
+<SPEAKER>Dian.</SPEAKER>
+<L>So far from that, his Person I've not seen</L>
+<L>In twelve long Months, this last long tedious year.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Art not his Wife!</L>
+</SP>
+<SP>
+<SPEAKER>Dian.</SPEAKER>
+<L>By all your precious Hopes</L>
+<L>And mine, I'm not.</L>
+</SP>
+<SP>
+<PB N="13" REF="11">
+<SPEAKER>Queen.</SPEAKER>
+<L>Is <HI>Piercy</HI> then not marry'd!</L>
+<L>Support me Heaven! and with a wonder save me; </L>
+<L>Call all thy Virtue and thy Courage streight</L>
+<STAGE>[Aside.</STAGE>
+<L>To help thee now, or thou art lost for ever.</L>
+<L>Am I then cheated! and is <HI>Piercy</HI> faithful!</L>
+<L>If I can bear all this, I challenge <HI>Atlas</HI></L>
+<L>To live under a Load so vast as mine.</L>
+<L>Ah <HI>Piercy!</HI> injur'd <HI>Piercy!</HI> injur'd <HI>Bullen!</HI></L>
+<L>But hold, there's yet a greater task behind,</L>
+<L>And that is to Dissemble well&mdash;<HI>Diana!</HI></L>
+</SP>
+<SP>
+<SPEAKER>Dian.</SPEAKER>
+<L>Madam&mdash;</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Thou wonder'st at my Curiosity,</L>
+<L>As tho I were concern'd at this false Story.</L>
+<L>I'll tell thee why: It has been long reported,</L>
+<L>That you and <HI>Peircy</HI> were in private Marry'd.</L>
+</SP>
+<SP>
+<SPEAKER>Dian.</SPEAKER>
+<L>Such a report came likewise to my hearing;</L>
+<L>But how 'twas rais'd, by whom, or why, I know not.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Too well the dreadful cause of it I know. </L>
+<STAGE>[Aside.</STAGE>
+<L>This, when I heard, I took unkindly from you:</L>
+<L>I was your Friend, you ought no more to steal</L>
+<L>A Marriage from a Friend, than from a Father</L>
+<L>And when you aggravated, as I thought,</L>
+<L>By your unkind denial, it enrag'd me;</L>
+<L>For which I hope, <HI>Diana,</HI> you'll forgive me&mdash;</L>
+<STAGE>[Aside.</STAGE>
+<L>Methinks I do it rarely&mdash;</L>
+</SP>
+<SP>
+<SPEAKER>Dian.</SPEAKER>
+<L>Best of Queens!</L>
+<L>Thus on my Knees, I ought to beg that pardon:</L>
+<L>I only did offend, my Gracious Mistress.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Rise to my Arms&mdash;This Kiss now Seals thee mine</L>
+<L>For ever.</L>
+</SP>
+<SP>
+<SPEAKER>Diana.</SPEAKER>
+<L>Oh most admirable Goodness!</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>This tenderness betrays me, melts my Soul! </L>
+<STAGE>[Aside.</STAGE>
+<L>A fatal Engine that draws all my Griefs</L>
+<L>Up to my Eyes and Lips, just ready to unload</L>
+<L>And pour 'em in at once into her Breast,</L>
+<L>Whom I, of all the World, should hide 'em from.</L>
+<L>Oh for some Wild, some Desart to complain in,</L>
+<L>Some vast and uninhabitable place;</L>
+<L>Or else some Precipice that butts the Ocean,</L>
+<L>The wide, and never to be fathom'd Ocean,</L>
+<L><PB N="14" REF="12">
+That I might tell the ecchoing Rocks my Woes,</L>
+<L>And count my Sorrows to the Winds and Seas,</L>
+<L>More pitiful, and more relenting far,</L>
+<L>Than false and cruel Mankind is to me.</L>
+</SP>
+<SP>
+<SPEAKER>Dian.</SPEAKER>
+<L>You seem disturb'd! Ah! what inhumane Grief</L>
+<L>Dares seize your Royal Breast?</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Come, dear <HI>Diana;</HI></L>
+<L>Go to my Closet with me; there, perhaps,</L>
+<L>Some rest may quell this melancholly Monster;</L>
+<L>And there it may not be amiss sometimes</L>
+<L>To talk of <HI>Peircy,</HI> will it?</L>
+</SP>
+<SP>
+<SPEAKER>Dian.</SPEAKER>
+<L>Sacred Queen,</L>
+<L>'Twill not; and oh! I wish that the Discourse.</L>
+<L>Would sooth your Soul with as much Joy as mine.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>These are the first of Miseries, the rest</L>
+<L>Come rolling on apace, and, <HI>Katherine,</HI> now</L>
+<L>Thou art Reveng'd&mdash;Just Heav'n, whose is the Sin?</L>
+<L>Punish not me, I sought not to be Queen;</L>
+<L>But <HI>Henry</HI>'s Guilt amidst my Pomp is weigh'd,</L>
+<L>And makes my Crown sit heavy on my Head,</L>
+<L>To banish from his Bed, the chastest Bride,</L>
+<L>That twenty years lay loving by his side!</L>
+<L>How can I give it, without Tears, a Name,</L>
+<L>When I reflect my Case may be the same?</L>
+<L>And I, perhaps, as Slaves are by the Priest,</L>
+<L>Thus gay and fine for Sacrifice am drest.</L>
+<L>Ah! <HI>Katherine,</HI> do not envy me thy Throne,</L>
+<L>For thou art far more happy that has none. </L>
+</SP>
+<STAGE>[Exeunt.</STAGE>
+<TRAILER>The End of the First Act.</TRAILER>
+</DIV1>
+<DIV1 N="2" TYPE="act">
+<PB N="15" REF="12">
+<HEAD>ACT II. SCENE I.</HEAD>
+<STAGE><HI>Enter</HI> Northumberland <HI>and</HI> Rochford.</STAGE>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>THE News is strange you tell me of the King.</L>
+</SP>
+<SP>
+<SPEAKER>North.</SPEAKER>
+<L>Most wonderful, nor can I guess the meaning,</L>
+<L>He came just now from Hunting as his use,</L>
+<L>Where at Sir <HI>Thomas Seymour</HI>'s House he was</L>
+<L>Most splendidly and kindly entertain'd</L>
+<L>At a Repast.</L>
+</SP>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>Took he there any thing</L>
+<L>Amiss?</L>
+</SP>
+<SP>
+<SPEAKER>North.</SPEAKER>
+<L>No: quite contrary, so good humour'd,</L>
+<L>I never saw him in my life more pleasant:</L>
+<L>But now, instead of going to the Queen,</L>
+<L>With words that shew'd more discontent than rage,</L>
+<L>He order'd all about him to retire,</L>
+<L>And, which is still more strange, enquir'd for <HI>Woolsey,</HI></L>
+<L><HI>Woolsey,</HI> whom all men thought quite out of favour;</L>
+<L>Then shut himself within his Bed-Chamber,</L>
+<L>And there remains; nor durst the boldest venture</L>
+<L>To follow him, and ask him what he ails&mdash;</L>
+<L>May not the Queen your Sister, think you, be</L>
+<L>The innocent Occasion?</L>
+</SP>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>That's impossible!</L>
+<L>For but last Night he came to her Apartment,</L>
+<L>With all the heat and love that could inspire</L>
+<L>A Bridegroom, scarcely of an Hour's making:</L>
+<L>With haste he ran, and where he should have sate</L>
+<L>He kneel'd down by her as his Deity;</L>
+<L>Printing soft Kisses on her lovely Hand.</L>
+<L>And sigh'd as if he had been still a Woeing.</L>
+</SP>
+<SP>
+<SPEAKER>North.</SPEAKER>
+<L>Right <HI>Harry</HI> still: for by this Flood of Passion</L>
+<L>The nearer he's to Ebb and Change.</L>
+</SP>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>See! the King.</L>
+</SP>
+<SP>
+<SPEAKER>North.</SPEAKER>
+<L>You are Brother to his Wife, and may he bold,</L>
+<L>But I'le not venture. </L>
+</SP>
+<STAGE><HI>[Ex.</HI> North.</STAGE>
+<PB N="14" REF="13">
+<GAP DESC="duplicate" EXTENT="1 page">
+<PB N="15" REF="13">
+<GAP DESC="duplicate" EXTENT="1 page">
+<STAGE><PB N="16" REF="14">
+Enter King <HI>Harry.</HI></STAGE>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Who are you that durst press on my Retirement?</L>
+<L>Ha! <HI>Bullen!</HI> Get thee from my sight&mdash;Begone&mdash;</L>
+<STAGE><HI>[Ex.</HI> Roch.</STAGE>
+<L>Who waits there? Why am I thus troubled?</L>
+<L>Let none but <HI>Woolsey</HI> dare to be admitted. </L>
+<STAGE>[To the Attendants.</STAGE>
+<L>Who can withstand so vast a shock of Beauties, </L>
+<STAGE>[He sits down.</STAGE>
+<L>So many Wonders in so bright a Form?</L>
+<L>When Heav'n designs to make a perfect Face,</L>
+<L>A Beauty for a Monarch to enjoy,</L>
+<L>'Tis feign'd that the most skilful Spirits are all</L>
+<L>Imploy'd, and just before their Eyes is plac'd</L>
+<L>Th' exactest, loveliest Angel for a Pattern;</L>
+<L>If it be true; this only must be she,</L>
+<L>And must be mine&mdash;Who's there? the Cardinal?</L>
+</SP>
+<STAGE><HI>Enter</HI> Woolsey.</STAGE>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>The humblest Vassal of his God-like Master.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Come hither, Sir&mdash;I sent for thee, my <HI>Woolsey!</HI></L>
+<L>And dost&punc; not wonder; when but yesterday</L>
+<L>I took from thee the Seal and Chancellour's Place?</L>
+<L>But 'tis no matter: Do not care, I say:</L>
+<L>I love you still in spight of all your Foes&mdash;</L>
+<L>You have malicious Enemies at Court;</L>
+<L>Besides the Queen, my Lord, is no good Friend</L>
+<L>Of yours.</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>Wretched am I that have incurr'd</L>
+<L>My Kings Displeasure, and my Queens dire Hatred!</L>
+<L>But m' Innocence when I am dead, perhaps</L>
+<L>May to my Royal Master, tho too late</L>
+<L>Appear.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Talk not of Death, good Cardinal,</L>
+<L>For I have Business with thee first&mdash;By Heav'n!</L>
+<L>He that dares mutter <HI>Woolsey</HI> is a Traitor,</L>
+<L>Shall dye for a worse Traitor as he is:</L>
+<L>Keep thy own still, the Bishopricks of <HI>York</HI></L>
+<L>And <HI>Winchester,</HI> and Cardinal, that is</L>
+<L>Above my Grant; and when I give thee leave,</L>
+<L><PB N="17" REF="14">
+Go to thy Diocess, and live to spite'em.</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>Immortal Wreathes, and Diadems of Saints,</L>
+<L>Crown you in Heav'n for this Royal Goodness.</L>
+<L>I am grown old, too weak to guard me from</L>
+<L>My Foes, but for your Majesties Protection.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>O <HI>Woolsey!</HI> be to me but half so kind</L>
+<L>As I shall be to thee <HI>Seymour,</HI> my Father!</L>
+<L>The lovely <HI>Seymour,</HI> whom thou toldst me of,</L>
+<L>I did devour her Beauties from thy Lips,</L>
+<L>And fed my Ears with the delicious Feast;</L>
+<L>But since I've seen this Wonder of her Sex!</L>
+<L>The Charming'st Creature e're adorn'd the World;</L>
+<L>And find her all as far above thy Praises,</L>
+<L>As Heav'n can be beyond Man's frail description.</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>Have you then seen her, Sir?</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>O yes, my <HI>Woolsey!</HI></L>
+<L>And having seen her, guess, I needs must be</L>
+<L>But wretched without her, or thy assistance.</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>This goes as I expected. <STAGE>[Aside.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Help thy Prince!</L>
+<L>Why art so slow? Has <HI>Woolsey</HI> lost his Courage?</L>
+<L>That Wit that Emperours and Popes has sway'd&mdash;</L>
+<L>So, let thy Brain begin to travel now;</L>
+<L>Bring forth thou more than King; thou more than Man;</L>
+<L>Thou hast a Mine within that subtle Breast,</L>
+<L>The Stone which dull Philosophy has toyl'd</L>
+<L>In vain for&mdash;Make me Master of thy <HI>Indies&mdash;</HI></L>
+<L>Lend me thy Wit to purchase <HI>Seymour</HI> for me.</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>You have the Means already in your hands,</L>
+<L>Power is the greatest Charmer of that Sex.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Command my Power, my Kingdoms to thy aid,</L>
+<L>Join to thy Foxes Tail my Lions Skin;</L>
+<L>Take thou my Scepter, bind it to thy Cross,</L>
+<L>And to thy Mitre add my humble Crown;</L>
+<L>'Tis all my <HI>Woolsey</HI>'s. <HI>Woolsey</HI> shall be King.</L>
+<L>I ask but only <HI>Seymour</HI> in Exchange.</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>You bid too much: Send for her streight to Court;</L>
+<L>Make her a Marchioness, or else a Dutchess;</L>
+<L>There's hardly now a Woman but will sell</L>
+<L>A foolish Honour that none sees, for that</L>
+<L><PB N="18" REF="15">
+Which makes a Noise and splendour in the World.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>How thou deceiv'st my eager Expectations!</L>
+<L>This I have done without such rare Advice:</L>
+<L>But oh she is inflexible to all!</L>
+<L>Deaf to the sounds of Vanity and Pomp!</L>
+<L>And more remorseless than a Saint or Hermite.</L>
+<L>Her Chastity cold as the Frozen Stream,</L>
+<L>And then as hard, and never to be thaw'd,</L>
+<L>As Crystal Rocks, or Adamantine Quarries:</L>
+<L>That oh I fear, had I but what I covet,</L>
+<L>The Crown from <HI>Bullen</HI>'s Head, to offer her,</L>
+<L>'Twould scarcely tempt her to thy Prince's Bed.</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>Then, Sir, I doubt 'tis hardly in my Power</L>
+<L>To help you.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Ha! false and ungrateful Man!</L>
+<L>Is that then all the hope your Brain can give me?</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>It is impossible, if she be Virtuous,</L>
+<L>That e're she shou'd be had by Force or Cunning.</L>
+<L>Therefore apply this Remedy a while,</L>
+<L>Have but a little Patience 'till 'tis Lawful.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Traitor and Poisoner of thy Master's Rest,</L>
+<L>Must I despair? Is that thy precious Council?</L>
+<L>Did I descend to ask Advice from Hell?</L>
+<L>Consult thy Wicked Oracle for this?</L>
+<L>To tell me what is Lawful?</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>Understand me.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Give me some hopes, or, by thy damn'd Ambition,</L>
+<L>I'le crumble thee to dust; puff thee to nothing:</L>
+<L>And make thee less and more dejected far</L>
+<L>Than the base Fellow that begot thee, Priest.</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>Hear me but&mdash;</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Why didst thou infect my Breast,</L>
+<L>And with thy venomous Tongue deceive me, worse</L>
+<L>Than the old Serpent that in Paradise</L>
+<L>Betray'd the first of Mankind with a Bait?</L>
+<L>So thou, lurking and hid amidst the Charms</L>
+<L>Of <HI>Seymour</HI>'s rare and unsuspected Beauties,</L>
+<L>Sungst me her Praises in such tempting Words,</L>
+<L>That I with ravisht Ears swallow'd the sound,</L>
+<L>And never saw the Sting I suckt in after.</L>
+</SP>
+<SP>
+<PB N="19" REF="15">
+<SPEAKER>Card.</SPEAKER>
+<L>You will not give me leave t' explain my self,</L>
+<L>Nor yet to give you Remedy.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Tell me;</L>
+<L>For Remedy I'le have from Heav'n or Hell,</L>
+<L>Or I will take thy Blood, thy Scorpions Blood,</L>
+<L>And lay it to my Grief till I have ease.</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>Your Fury will not let you understand me:</L>
+<L>When I advis'd to stay till it was Lawful,</L>
+<L>At the same time I meant to let you know</L>
+<L>'Twas not a thing so hard to bring to pass.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Ha! said again like <HI>Woolsey!</HI> tell me streight,</L>
+<L>My Soul waits at the Portal of thy Breast,</L>
+<L>To ravish from thy Lips the welcome News,</L>
+<L>E're they have minted into Words thy Thoughts&mdash;</L>
+<L>Quick, what can lawfully make <HI>Seymour</HI> mine?</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>Make her your Queen.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Make her my Queen!</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>Yes, Sir.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Sure I but dream; what dost thou mean? or how?</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>Invest her Head with <HI>Anna Bullen</HI>'s Crown.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Sure thou art mad, and would make me so too&mdash;</L>
+<L>What, whilst she lives?</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>Ay, whilst she lives I said:</L>
+<L>Is that so strange a thing that ne're was done?</L>
+<L>Divorce her.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Ha!</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>What is't that makes you start?</L>
+<L>Divorce her, and take <HI>Seymour</HI> to your Bed.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>How! take good heed what 'tis thou pull'st upon</L>
+<L>Thy self&mdash;Divorce my lawful virtuous Wife</L>
+<L>Without a Cause!</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>There is a Cause.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>What is't?</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>Pretend Remorse of Conscience.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Gods!</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>Ne're wonder:</L>
+<L>Say you are troubled and disturb'd within.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Eternal Villain! <HI>Lucifer</HI> the Damn'd. </L>
+<STAGE>[Aside&punc;</STAGE>
+<L>Traitor, at what?</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>At that which seiz'd your Mind,</L>
+<L><PB N="20" REF="16">
+When <HI>Katherine</HI> you divorc'd for <HI>Anna Bullen.</HI></L>
+<L>Conscience! Conscience!</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Horrid tormenting Fiend! </L>
+<STAGE>[Aside.</STAGE>
+<L>Thou know'st she was my Brother's Wife, and <HI>Bullen</HI></L>
+<L>On no such just pretence I can disclaim.</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>No matter; on the like distrust of Conscience</L>
+<L>That made you do the one, you may the other.</L>
+<L>Give out that she's not lawfully your Wife,</L>
+<L>The first alive, and that you never had</L>
+<L>A Dispensation from his Holiness.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>His Holiness! I'm blasted with the thoughts:</L>
+<L>Pernicious Traitor! How can this be done?</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>Leave it to me; Consent you, 'tis enough:</L>
+<L>And I'le engage, on forfeit of my life,</L>
+<L>To get a Licence from our Holy Father</L>
+<L>To disanul this Marriage, and to take</L>
+<L>Into your lawful Bed the Beauteous <HI>Seymour.</HI></L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>But then I still remain unfreed from <HI>Katherine.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>The Church shall grant a Dispensation too</L>
+<L>For that.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>What Horrour's this I hear! Can this be true?</L>
+<L>In all my wanton and luxurious Youth,</L>
+<L>Or in my blackest thoughts of Lust and Rage, </L>
+<STAGE>[Aside.</STAGE>
+<L>I ne're yet found one Wish amongst them all,</L>
+<L>Of such a deep Infernal hue. The Horrour</L>
+<L>Has kindled my whole Blood into a Flame,</L>
+<L>And made me blush a deeper Scarlet than</L>
+<L>This Villain's Robe. Disloyal wicked Monster!</L>
+<L>But I will strive to hide my just Resentments.</L>
+<L>Divorce my second Wife without a Cause! </L>
+<STAGE>[To him.</STAGE>
+<L>Could it be done, what would the Nation say?</L>
+<L>What would the Action look like but a Hell;</L>
+<L>To warn succeeding Princes from the like,</L>
+<L>And blot me from the Scrole of Pious Kings:</L>
+<L>Could it be lawful <HI>Woolsey,</HI> I would hearken.</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>Then lawful it shall be in spight of Scruples:</L>
+<L>I see your Conscience is <GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">n Infant grown,</L>
+<L>A Child again, and wants to be instructed&mdash;</L>
+<L>Come, let me lead you by the hand, and point</L>
+<L>A way for you to walk on even ground;</L>
+<L><PB N="21" REF="16">
+So safe, the nicest Conscience shall commend</L>
+<L>And choose it.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Now thou dost rejoice thy Prince.</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>What if she be unfaithful to your Bed,</L>
+<L>And prov'd so?</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Ha! there's Thunder in that word,</L>
+<L>The Bolt ran through, and shiver'd me to pieces.</L>
+<L>Disloyal to my Bed! Adultrous! Hah!</L>
+<L>Saidst thou not so? Yet hold, if this be true,</L>
+<L>There hangs a Shower of Cordial in my reach</L>
+<L>To cure this horrid Fit. <HI>Woolsey,</HI> beware</L>
+<L>How thou dost dally with my hopes and fears;</L>
+<L>Look to't, and see you wrong her not; for if</L>
+<L>Thou dost, by all the Plagues thy Soul deserves,</L>
+<L>All Hell shall be too little for thy Carkass:</L>
+<L>New Hells shall be created, and more hot</L>
+<L>Than what's prepar'd for Traitors, Parracides,</L>
+<L>For Ravishers of Mothers, Iustful Nuns,</L>
+<L>For <HI>Lucifer</HI> himself t'endure; nay more</L>
+<L>Than Villain, Pope, or Cardinal ever felt.</L>
+<L>Speak how thou know'st it. Quick.</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>Alas! my Lord,</L>
+<L>I never meant it enter'd in my own</L>
+<L>Particular Knowledge: but it is Reported.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Reported, said'st thou! Is not that enough?</L>
+<L>Report! why she is damn'd, if she's but thought</L>
+<L>A Whore, much more reported to be so.</L>
+<L>'Tis not the act alone that wrongs thy King;</L>
+<L>Each Smile, each Glance, and every wanton Look,</L>
+<L>That's meant t'another, if I leave unpunish'd,</L>
+<L>Shall brand me with the ignominious Name</L>
+<L>Of <HI>Wittal,</HI> which is worse&mdash;make me but sure</L>
+<L>That the least Breath has utter'd such a sound,</L>
+<L>Or whisper'd to the air that she's Unchaste,</L>
+<L>By all the horrid Fiends that punish Lust,</L>
+<L>And by the black Concupiscence of Hell,</L>
+<L>I'le tumble her from the Throne into a Dungeon&mdash;</L>
+<L>Name me the Man that is suspected.</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>Piercy.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Piercy!</L>
+</SP>
+<PB N="20" REF="17">
+<GAP DESC="duplicate" EXTENT="1 page">
+<PB N="21" REF="17">
+<GAP DESC="duplicate" EXTENT="1 page">
+<SP>
+<PB N="22" REF="18">
+<SPEAKER>Card.</SPEAKER>
+<L>Yes, Sir: He is the Man she dotes on;</L>
+<L>'Tis he lies deeper in her Breast than ever;</L>
+<L>For him she sighs, and hoards up all her Wishes;</L>
+<L>Gives him her Person warm, inspir'd with Passion,</L>
+<L>Whilst for your self she only treats you with</L>
+<L>The cold dead Body of departed Love.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Is <HI>Piercy</HI> then at Court?</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>He is this Day</L>
+<L>Arriv'd.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Hough! Come without my leave say'st thou?</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>He is, no doubt to consummate their Joyes,</L>
+<L>Their Signs and Tokens to compare, which they</L>
+<L>By Letters and Devices in their absence</L>
+<L>Have hourly plotted to deceive you, Sir;</L>
+<L>And put in practice when the time is ripe.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Hell and tormenting Furies&mdash;I believe thee.</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>Nay in your Bed and in her Dreams she thinks on't;</L>
+<L>When Pleasures made you dull, it whetted her&mdash;</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Hold, I can hear no more. By all my Wrongs</L>
+<L>And cheated Hopes, thou bring'st to my Remembrance,</L>
+<L>How all Complaisances to me were dragg'd</L>
+<L>And forc'd from her, like Mirth from one in Torture!</L>
+<L>Sometimes I found her Face all drown'd in Tears,</L>
+<L>With Gales of Sighs just blowing off those Storms,</L>
+<L>In fear away: Sometimes again in Blushes,</L>
+<L>As if then all the wanton Heat of love</L>
+<L>Were darting through her Eyes to meet my Flame;</L>
+<L>But when with eager haste I catch'd her in</L>
+<L>These Arms and prest her Lips, alack I found</L>
+<L>Instead of Summer there no Ice so cold;</L>
+<L>Instead of breath that wou'd revive the dead,</L>
+<L>No Air so chill, nor Winter Blast so keen.</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>Thus all her actions still will be to you:</L>
+<L>The Roses of her Bloom she keeps for him,</L>
+<L>The Thorns for you&mdash;Had you been <HI>Piercy</HI> then!</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Let me embrace the Saver of his Prince,</L>
+<L>The dear Preserver of my Life and Honour!</L>
+<L>What shall I do for thee, my Friend?</L>
+</SP>
+<STAGE><PB N="23" REF="18">
+<HI>Re-enter</HI> Rochford.</STAGE>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>Here's <HI>Rochford!</HI></L>
+<L>Pray smooth your Brow, and hide your Discontent:</L>
+<L>And now y'are going to the Queen smile on her.</L>
+<L>Mean while she'll stumble, like a hasty Child,</L>
+<L>And act more plain and open to your Justice;</L>
+<L>And when you find her tripping, on the sudden</L>
+<L>Strike like the Hand of Heav'n, a sure Revenge,</L>
+<L>And never let her rise again.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>I will&mdash;</L>
+<L>My Lord, you may come near: Where is the Queen? </L>
+</SP>
+<STAGE><HI>[To</HI> Roch.</STAGE>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>I left her in the Drawing-Room.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Ah <HI>Woolsey!</HI></L>
+<L>What Angel e're so bright as Woman was,</L>
+<L>Had not the first scorn'd her Creator's Laws;</L>
+<L>For nearest his own likeness they were made,</L>
+<L>'Till they by falseness did their Sex degrade. </L>
+</SP>
+<STAGE>[Exeunt K. &amp; <HI>Card.</HI></STAGE>
+<STAGE><HI>[Manet</HI> Rochford.</STAGE>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>What means this sudden alteration!</L>
+<STAGE><HI>Enter</HI> Piercy.</STAGE>
+<L>Is not that <HI>Piercy?</HI> Oh! too true he comes!</L>
+<L>Not like a joyful Bridgroom, as was told thee,</L>
+<L>Poor cheated Sister! but like one, alas!</L>
+<L>That knows already, the base wrongs our Friends</L>
+<L>Have heap'd upon him! where shall I avoid him?</L>
+<L>Ah! why must I of all the Plot be Curst?</L>
+<L>To look upon a Face so full of horror;</L>
+<L>That like a Hell, at once upbraids my Guilt,</L>
+<L>And lashes me with the Remembrance?</L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>Methinks I walk like one that's in a Dream,</L>
+<L>A horrid Dream, and fain would be awake!</L>
+<L>These Rooms of State look not as they were wont,</L>
+<L>When <HI>Anna Bullen</HI> oft has run to meet me;</L>
+<L>But seem like Fairy-Land, a Wilderness.</L>
+<L>My Friends, like Beasts that never yet saw Man,</L>
+<L>Start at my sight; and shun me worse than Fire.</L>
+<L><PB N="24" REF="19">
+What mean you Heavens! what mean those boding Visions!</L>
+<L>O that some Friend, some Friend indeed would meet me!</L>
+<L>And wake me out of it&mdash;Behold; 'tis granted&mdash;</L>
+<L>Is not that <HI>Rochford</HI> there? my Dearest Brother!&mdash;</L>
+</SP>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>My Lord, my <HI>Piercy!</HI></L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>Come thou to my Armes.&mdash;</L>
+<L>Methinks th' art not concern'd to see thy Friend:</L>
+<L>When I embrace thee, 'tis a pain I find,</L>
+<L>Thy Friendship is as cold as Winter Blasts,</L>
+<L>Or as chill Age is to a tender Virgin!</L>
+<L>What ails my Friend? say quickly.</L>
+</SP>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>Nothing ails me.</L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>Nothing! why look'st thou then so full of horrour?</L>
+<L>Thy down cast Eyes call to my sad remembrance,</L>
+<L>How passing by you Gallery of Pictures,</L>
+<L>That happy Gallery that was once the Scene</L>
+<L>Of many a joyful meeting with thy Sister!</L>
+<L>Looking with wonder on those famous Persons,</L>
+<L>Whom the rare Painter had with so much Art</L>
+<L>Describ'd, to make Posterity amends,</L>
+<L>For their bright Forms now moulder'd in their Urns;</L>
+<L>With their Immortal Shapes of Beauty here;</L>
+<L>There as we us'd to walk, none e're so kind,</L>
+<L>With loving Arms and tender Wishes join'd,</L>
+<L>A glad remembrance in their Looks we spy'd,</L>
+<L>Of what their Bodies had on Earth enjoy'd;</L>
+<L>With stedfast Eyes they watch'd us all the while,</L>
+<L>And when we smil'd, they would be sure to smile.</L>
+<L>Or if we chanc'd to weep and sigh our woe,</L>
+<L>They seem'd to pity us, and do so too:</L>
+<L>Such sympathy they drew from all our Fears,</L>
+<L>Our very Griefs, and every Look was theirs.</L>
+</SP>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>The over-flowing of your Love-sick Fancy.</L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>But mark me now, my <HI>Rochford;</HI> mind the sad</L>
+<L>Catastrophe. They lookt not now like Friends</L>
+<L>Of Comfort, but like boding <HI>Sybils</HI> rather;</L>
+<L>Their Smiles converted all to darting Frowns,</L>
+<L>Whilst with their seeming Voice and Hands, methought,</L>
+<L>They chid and beckon'd me to shun the place,</L>
+<L>As if they did intend to say aloud,</L>
+<L><PB N="25" REF="19">
+Ah <HI>Piercy!</HI> 'tis not now as heretofore,</L>
+<L><HI>Piercy</HI> begone, for thou shalt happy be no more.</L>
+</SP>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>Ah, my Lord!</L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>Ha! what say'st thou? 'tis enough,</L>
+<L>There hangs a dreadful Tale upon thy Brow,</L>
+<L>And there's some horried meaning in that word&mdash;</L>
+<L>Let thy dire Looks speak all the rest, I prithee;</L>
+<L>Th' hast pierc'd quite through me like an Ague-Fit,</L>
+<L>Stopt every circling passage of my Blood,</L>
+<L>And made me sweat big drops as cold as Ice&mdash;</L>
+<L>Say quick! How fares thy Sister? is she well?</L>
+<L>My Love! my Wife! Did I not call her Wife?</L>
+<L>Speak, Is she living? Is she dead? If so,</L>
+<L>And thou dar'st utter it! plant thy dread Voice</L>
+<L>Just like a Cannon to thy <HI>Piercy</HI>'s Breast,</L>
+<L>And shiver me to pieces.</L>
+</SP>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>By these words</L>
+<L>I find he knows not of my Sister's Marriage! </L>
+<STAGE>[Aside.</STAGE>
+<L>Still worse and worse!&mdash;Alas! my Lord, she lives! </L>
+</SP>
+<STAGE>[To <HI>Pier.</HI></STAGE>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>Lives! oh the joy! But is she ought than well?</L>
+<L>Tell it with speed! why didst thou say, alas?</L>
+</SP>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>Well she is too.</L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>Then blessed be that Voice;</L>
+<L>But why thou speak'st it with such cold reserve,</L>
+<L>I cannot guess. Oh tell it out with joy!</L>
+<L>Tell it aloud with shouting to the Spheres,</L>
+<L>That they may eccho with glad Harmony:</L>
+<L>Thy Sister lives: my <HI>Bullen</HI> is in health.</L>
+</SP>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>She is in health: but&mdash;</L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>Ha! but what? speak out:</L>
+<L>Why dost thou torture me with dire suspence?</L>
+<L>If there be any thing can now be call'd Misfortune,</L>
+<L>When thy dear Sister is in health, out with it;</L>
+<L>Let it be worse than Thunder I can bear it.</L>
+</SP>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>Alas! kind <HI>Piercy</HI> force not me to tell you,</L>
+<L>Too soon you'l hear the News from one perhaps</L>
+<L>That can relate it, Rocky as he is,</L>
+<L>Without a Sigh or Tear in pity of you.</L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>You Heav'nly Pow is! What does my <HI>Rochford</HI> mean&punc;</L>
+<L>Methinks the joyful Tidings in my Breast,</L>
+<L><PB N="26" REF="20">
+That she's in health, does chide me for my Fears;</L>
+<L>But then again a fatal heaviness</L>
+<L>Streight intercepts this dawn of Comfort there,</L>
+<L>And like a Cloud hides all those new-born Beams</L>
+<L>Of Hope, and bids me dread I know not what.</L>
+<L>I am in Hell, in Torments, worse, in Doubt&mdash;</L>
+<L>Is there no Balsom that can cure this Sting?</L>
+<L>No <HI>Oedipus</HI> that can unfold this Riddle?</L>
+<L>I prithee, gentle <HI>Rochford,</HI> do not rack me:</L>
+<L>Take off this heavy Weight that sinks thy Brother.</L>
+<L>Come, slatter me, if thou'rt affraid to tell</L>
+<L>The Truth, and say that all these killing words</L>
+<L>Were not in Earnest.</L>
+</SP>
+<STAGE><HI>Enter</HI> Northumberland.</STAGE>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>See, your Father's here.</L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>He will take pity, and release me sure.</L>
+</SP>
+<SP>
+<SPEAKER>North.</SPEAKER>
+<L><HI>Harry,</HI> thou art most welcome to thy Father;</L>
+<L>Welcome to all, and welcome to the King.</L>
+<L>Rejoice, my Son, and deck thy Face with Smiles:</L>
+<L>There's Love and Fortune coming towards thee.</L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>Pardon me, best of Fathers! spare my Answer: <STAGE>[Kneels.</STAGE></L>
+<L>Oh tell me first what News is from my Love?</L>
+<L>How does my Mistress fare? and what's become</L>
+<L>Of Beauteous <HI>Anna Bullen?</HI> quickly, Sir.</L>
+</SP>
+<SP>
+<SPEAKER>North.</SPEAKER>
+<L>Why, what's become of her? She's very well.</L>
+<L>What should become of her? She's Marry'd, Son.</L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>Marry'd!</L>
+</SP>
+<SP>
+<SPEAKER>North.</SPEAKER>
+<L>Marry'd! ay Marry'd, that she is!</L>
+<L>A Queen she's too, a joyful Queen, I tell thee.</L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>Marry'd! and to the King! by all my hopes&punc;</L>
+<L>By all our chast, eternal Vows of Love</L>
+<L>It cannot be, although my Father says it;</L>
+<L>You, whom I'le credit sooner than an Angel.</L>
+<L>Marry'd! my <HI>Anna Bullen</HI> false, and Marry'd!</L>
+<L>Perswade me that the Sun has lost its Virtue,</L>
+<L>The Earth, the teeming Earth, forgot to bear,</L>
+<L>That Nature shall be Nature now no more;</L>
+<L>That all the Elements shall vanish streight,</L>
+<L><PB N="27" REF="20">
+Turn to Confusion, into Chaos shrink,</L>
+<L>And you, and I, and all the living World,</L>
+<L>Are what we were before we were begot;</L>
+<L>All this must be, when <HI>Anna Bullen</HI>'s false.</L>
+</SP>
+<SP>
+<SPEAKER>North.</SPEAKER>
+<L>I tell thee, rash and disobedient Boy,</L>
+<L>Marry'd she is without such Miracles.</L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>Ah, dearest Father, on my Knees I beg you,</L>
+<L>Repeat that horrid, dismal word no more;</L>
+<L>To be obedient, and at once to hear</L>
+<L>My Mistress wrong'd, is not in <HI>Piercy</HI>'s power.</L>
+<L>Here, crush this Insect, pound me into Dust,</L>
+<L>I'm at your Foot! oh lay it on my Neck,</L>
+<L>And punish me with death, ten thousand deaths;</L>
+<L>For whilst I live I must be guilty still,</L>
+<L>And near can think that <HI>Anna Bullen</HI>'s false:</L>
+<L>O Sir, be merciful and just at once,</L>
+<L>And say you did it but to try your <HI>Piercy.</HI></L>
+</SP>
+<SP>
+<SPEAKER>North.</SPEAKER>
+<L>Rise, and repent, and do not tempt my Anger,</L>
+<L>Which thou should'st feel, but that I pity thee,</L>
+<L>And think thy Folly Punishment enough.</L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>See, Sir, her Brother's more concern'd than I</L>
+<L>To hear such words. Come, tell 'em, dearest <HI>Rochford,</HI></L>
+<L>Proclaim her Virtue loud as Cherubins,</L>
+<L>Tell 'em, these Rocks, they may in time relent,</L>
+<L>And hear the sad Complaints of injur'd Honour:</L>
+<L>Is she not Chast! Chast as the Virgin light,</L>
+<L>And constant as the Turtle to its Mate,</L>
+<L>Her Person sacred still to all Mankind,</L>
+<L>And Beauties less corrupted, less defil'd,</L>
+<L>Than is the lovely Blew that fragrant hangs</L>
+<L>On <HI>Autumn</HI> Fruit, or Morning Dew on Roses.</L>
+</SP>
+<SP>
+<SPEAKER>North.</SPEAKER>
+<L>Tell him, my Lord.</L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>Oh hear the Charming sound;</L>
+<L>Tell 'em, and undeceive 'em, Friend; tell 'em</L>
+<L>How thou wert by, when first we plighted Troths,</L>
+<L>And swore Eternal Faith, Eternal Love,</L>
+<L>By every Saint, and every Star that shone,</L>
+<L>Who then look'd down as joyful Witnesses,</L>
+<L>And darted forth in all their bright Array,</L>
+<L>To see our Loves that shin'd more bright than they.</L>
+</SP>
+<PB N="26" REF="21">
+<GAP DESC="duplicate" EXTENT="1 page">
+<PB N="27" REF="21">
+<GAP DESC="duplicate" EXTENT="1 page">
+<SP>
+<PB N="28" REF="22">
+<SPEAKER>Gent.</SPEAKER>
+<L>My Lord, the King and Queen are passing by.</L>
+</SP>
+<SP>
+<SPEAKER>North.</SPEAKER>
+<L>Look you, Romantick Sir, behold your Mistress,</L>
+<L>Whose Bride she is.</L>
+</SP>
+<STAGE>[King and Queen, Lords and Ladies pass over the Stage, Northumberland <HI>follows the King.</HI></STAGE>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>By the Immortal Powers that gave me life,</L>
+<L>And Eyes and Senses to believe, 'tis she&mdash;</L>
+<L>It is the King, and <HI>Anna Bullen</HI> Crown'd!</L>
+<L>Why Father, <HI>Rochford,</HI> Friends, is it not so?</L>
+<L>And did she not like haughty <HI>Iuno</HI> walk?</L>
+<L>Who, as she held the Thunderer by the hand,</L>
+<L>Lookt down with scorn on the low World, from whence</L>
+<L>She came; so did she cast a loathing Eye</L>
+<L>Upon the place where humble <HI>Piercy</HI> stands&mdash;</L>
+<L>Now you are mute, dumb as those Conjurations</L>
+<L>You hir'd just now from Hell to be my Ruine;</L>
+<L>Ha! is't not so? Confess that it is so,</L>
+<L>And I am blest; own it, and make poor <HI>Piercy</HI> happy.</L>
+</SP>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>Alas! my Lord; afflict your mind no more,</L>
+<L>'Tis torment to your Friend to see you thus.</L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>Friend, say'st thou? I disclaim that Name in all,</L>
+<L>In Father, Brother, Sister, and Companion;</L>
+<L>Nature her self abhors it, like the Plague,</L>
+<L>And banishes that Guest from all her Creatures&mdash;</L>
+<L>False Brother to the falsest Woman living!</L>
+<L>Was it for this that I was sent from Court?</L>
+<L>Was it for this the subtlest of her Sex</L>
+<L>Sent me a Letter with ten thousand Charms,</L>
+<L>To let me know that I should write, and should</L>
+<L>Be written to no more till my return?</L>
+<L>T' avoid suspition, as she said; but 'twas</L>
+<L>To flatter me that I should not mistrust her.</L>
+</SP>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>By Heav'n, and all that's true, she's not to blame.</L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>Here, <HI>Rochford,</HI> rip, and rear her from my heart,</L>
+<L>Fast rooted as she is: The Poison swells,</L>
+<L>O lance it with thy Sword, and give me ease:</L>
+<L>She's Hell! she's worse! she's Madness to the Brain;</L>
+<L>I am possest, and carry an Host of Devils:</L>
+<L>For he that wears a perjur'd Woman here,</L>
+<L>Has in his Breast ten thousand Fiends to scourge him.</L>
+</SP>
+<STAGE><PB N="29" REF="22">
+<HI>Re-enter</HI> Northumberland.</STAGE>
+<SP>
+<SPEAKER>North.</SPEAKER>
+<L>Come, my best Son, the King Salutes thee, <HI>Piercy;</HI></L>
+<L>Come, see the Bride he has prepar'd for thee,</L>
+<L>And think no more of <HI>Anna Bullen</HI> now.</L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>Ha! bring me to her streight! Is she a Woman?</L>
+<L>A bright dissembling and protesting Woman?</L>
+<L>Smooth as the smiling pittiless Ocean is by fits;</L>
+<L>But then her Heart as Rocky, deep, and fathomless:</L>
+<L>Has she a Face as tempting as the fair</L>
+<L>Deceitful Fruit of <HI>Sodom,</HI> but when tasted,</L>
+<L>Is rottenness and horrour to the Core?</L>
+<L>Is she so kind, that nothing can be kinder?</L>
+<L>Nay were she <HI>Anna Bullen</HI> all without,</L>
+<L>And <HI>Bullen</HI> all within, I'd marry her</L>
+<L>To be reveng'd!</L>
+</SP>
+<SP>
+<SPEAKER>North.</SPEAKER>
+<L>Thou dost rejoice thy Father:</L>
+<L>She is as good and beautiful as Angels,</L>
+<L>And has ten thousand Pounds a year; which added</L>
+<L>To thy Estate, will make you far more happy</L>
+<L>Than <HI>Harry</HI> with his Crown, or <HI>Anna Bullen.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>Come, bring me to her: when shall we be marry'd?</L>
+</SP>
+<SP>
+<SPEAKER>North.</SPEAKER>
+<L>When my Son pleases: If thou wilt, to Morrow.</L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>To Morrow! Now: To Morrow is too late:</L>
+<L>What must I waste a Day, and lose a Smile!</L>
+<L>The King with <HI>Bullen</HI> revels all this while.</L>
+<L>Haste, thou slow Sun! when wilt thou bring the Morn?</L>
+<L>And when! oh when shall the long Day be worn!</L>
+<L>That these triumphant Arms may seize my Bride,</L>
+<L>And clasp her gently like a wanton Tide.</L>
+<L>In Floods of Extasies I'le drown; and say,</L>
+<L>Thus <HI>Harry</HI> and his Queen live all the day;</L>
+<L>Thus he embraces her all o're, and o're;</L>
+<L>Whilst for each Kiss I'le reap a thousand more:</L>
+<L>And for each Pleasure they shall act that Night</L>
+<L>I'le pattern then, and double with delight:</L>
+<L>But for that rarest Bliss we blush to own,</L>
+<L>Spite and Revenge much more my Joys shall Crown. </L>
+</SP>
+<STAGE>[Exeunt.</STAGE>
+<TRAILER>The End of the Second Act.</TRAILER>
+</DIV1>
+<DIV1 N="3" TYPE="act">
+<PB N="30" REF="23">
+<HEAD>ACT III. SCENE I.</HEAD>
+<STAGE>Enter <HI>Cardinal</HI> and <HI>Blunt</HI> severally.</STAGE>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>HAIL to the Sacred Queen of Wit and Beauty;</L>
+<L>Hail to the Empress of the World that should be.</L>
+</SP>
+<SP>
+<SPEAKER>Blunt.</SPEAKER>
+<L>What News? What Song of Comfort brings my <HI>Woolsey?</HI></L>
+<L>Methinks your Looks shine like the Sun of Joy,</L>
+<L>And Smiles, more glittering than your Robe, appear:</L>
+<L>Come, for I long to be partaker of it&mdash;</L>
+<L>Say, is it Great? Shall <HI>Bullen</HI> sink to Hell?</L>
+<L>Shall this proud Exhalation vanish streight?</L>
+<L>Or, shall she still be Queen t'affront my <HI>Woolsey?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>No: I'd first pawn both Body and Soul to Hell,</L>
+<L>For but a Dram of Poyson that would kill</L>
+<L>The Heretick.</L>
+</SP>
+<SP>
+<SPEAKER>Blunt.</SPEAKER>
+<L>Oh famous <HI>Cardinal!</HI></L>
+<L><HI>Rome</HI>'s Sacred Champion, and the Saints of <HI>Rome!</HI></L>
+<L>What can reward thee but the Mytre here,</L>
+<L>And when th'art dead, a mighty Throne, as high</L>
+<L>As was great <HI>Lucifer</HI>'s before his fall?</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>Have I not liv'd more splendid than the King?</L>
+<L>More aw'd and famous than was <HI>Harry</HI> still?</L>
+<L>Have I not scatter'd with a Liberal Hand,</L>
+<L>And sow'd more Seed to Charity, than all</L>
+<L>The Kingdom else? Built such vast Palaces,</L>
+<L>As neither <HI>Italy</HI> nor <HI>Rome</HI> can pattern?</L>
+<L>Which <HI>England</HI>'s Monarchs have been proud to dwell in.</L>
+</SP>
+<SP>
+<SPEAKER>Blunt.</SPEAKER>
+<L>And but for thee, the Nation had been scorn'd.</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>Who fram'd such sumptuous Embassies, as I,</L>
+<L>With such a Glorious Train of Servants deck'd,</L>
+<L>As <HI>Germany</HI> and <HI>France</HI> both wonder'd at,</L>
+<L>And thought that all the Nation follow'd me;</L>
+<L>Whilst <HI>Tudor</HI> here, as a less King than I,</L>
+<L>Was serv'd, but with the gleanings of my Pomp?</L>
+</SP>
+<SP>
+<SPEAKER>Blunt.</SPEAKER>
+<L>'Twas <HI>Woolsey,</HI> our Great Master's greater Servant,</L>
+<L>who, as he rode to meet the Emperour,</L>
+<L><PB N="31" REF="23">
+Ere he approach'd, first check'd his pamper'd Steed,</L>
+<L>And stood at distance to receive that Monarch;</L>
+<L>Whilst <HI>Maximilian,</HI> as became him best,</L>
+<L>First did unlight, and first embrac'd my <HI>Woolsey.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>And have not I rul'd <HI>Harry</HI> and the Nation</L>
+<L>Shall then this strong Foundation of my Greatness</L>
+<L>Be undermin'd by such a Wretch as <HI>Bullen!</HI></L>
+<L>By the weak practice of a spleenful Woman!</L>
+<L>A thing, that I have made; a Poppet-Queen,</L>
+<L>Drest up by me, to Act her Scene of Greatness,</L>
+<L>And all her Motions guided by this Hand!</L>
+</SP>
+<SP>
+<SPEAKER>Blunt.</SPEAKER>
+<L>Shall she then Mount the Fame to ruine <HI>Woolsey?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>No; by my Self, that moment she attempts it,</L>
+<L>She pulls a dreadful Tower upon her Head;</L>
+<L>When I begin to totter, if I must,</L>
+<L>Like a huge Oak, that's leaning o're a Wall,</L>
+<L>I'le take my Aim, and crush her with my fall&mdash;</L>
+<L><HI>Piercy</HI>'s arriv'd, there's Aid for your Revenge.</L>
+</SP>
+<SP>
+<SPEAKER>Blunt.</SPEAKER>
+<L>I heard so, and perceiv'd it by the Queen.</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>By that she has discover'd the deceit,</L>
+<L>And finds him Innocent, now 'tis too late;</L>
+<L>This makes her careless, to her own undoing;</L>
+<L>For when the Amorous King comes, loaded with</L>
+<L>Big hopes, and thinks to take his fill of Joys,</L>
+<L>Streight, like the sensitive, nice Plant that shrinks,</L>
+<L>And on a sudden gathers up its Leaves,</L>
+<L>When 'tis but touch'd, she will contract her Charms,</L>
+<L>And shut 'em from him in her sullen Bosom,</L>
+<L>As cold as Winter to his warm Embraces:</L>
+<L>This, when the vext and passionate King perceives,</L>
+<L>He'll hate, and cast her from him in a Rage.</L>
+</SP>
+<SP>
+<SPEAKER>Blunt.</SPEAKER>
+<L>See! yonders <HI>Rochford</HI> coming towards us,</L>
+<L>Big with glad Looks, I hope, to be deliver'd</L>
+<L>Of something that will forward our Design.</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>I will retire, and leave him to your Care,</L>
+<L>To mannage him with all the Art of Woman;</L>
+<L>And Hell, if Heaven wont, inspire your Wit</L>
+<L>And Malice. </L>
+</SP>
+<STAGE><HI>Ex.</HI> Card.</STAGE>
+<STAGE><PB N="32" REF="24">
+<HI>Enter</HI> Rochford.</STAGE>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>Brightest of thy dazling Sex,</L>
+<L>That wears the Charms of all the World about thee;</L>
+<L>How have I been this long, long hour in pain,</L>
+<L>In Torments and in Darkness all the while!</L>
+<L>Sun of my Joy, to waste the tedious Day,</L>
+<L>And Star to gaze the live-long-night away.</L>
+</SP>
+<SP>
+<SPEAKER>Blunt.</SPEAKER>
+<L>O, you are grown a Courtier now indeed,</L>
+<L>My Lord; but 'tis no wonder now, you are</L>
+<L>Exalted, and are Brother to the Queen:</L>
+<L>'Tis hard for one to gain a look from you,</L>
+<L>Without the purchase of&mdash;I will not tell you&mdash;</L>
+</SP>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>Ha! Brother to the Queen! to <HI>Iupiter:</HI></L>
+<L>And if my ravish'd Sense deceives me not,</L>
+<L>I will not change my State to shine in Heaven!</L>
+<L>To be the darling Brother of the Sun,</L>
+<L>Or one of <HI>Leda</HI>'s Twins that deck the Sky:</L>
+<L>No, <HI>Castor</HI> I defie thee.</L>
+</SP>
+<SP>
+<SPEAKER>Blunt.</SPEAKER>
+<L>Hold, my Lord;</L>
+<L>I will not chide you, though you have deserv'd it:</L>
+<L>For all those Raptures are but starts in Love,</L>
+<L>And seldom hold out to the Races end;</L>
+<L>Or else like Straw that gives a sudden blaze,</L>
+<L>And soon is out.</L>
+</SP>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>Oh say not so, my Goddess!</L>
+<L>The <HI>Negro,</HI> nearest Neighbour to the Sun,</L>
+<L>That lives under the torrid burning Line,</L>
+<L>Feels not the warmth that does possess my Breast.</L>
+<L>And, oh forgive the vast Comparison,</L>
+<L>Hell's flame is not so vehement or lasting.</L>
+</SP>
+<SP>
+<SPEAKER>Blunt.</SPEAKER>
+<L>Enough, my Lord: I'le put you to your Trial:</L>
+<L>Prepare, and see how well you can obey;</L>
+<L>But that you may not strive without all hope,</L>
+<L>Like Slaves condemn'd for ever to the Gallies;</L>
+<L>Here is my Hand, an Earnest of my Promise,</L>
+<L>That as I find you Faithful, I'le Reward you.</L>
+</SP>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>Your Hand! where am I! tell me, God of Love!</L>
+</SP>
+<SP>
+<SPEAKER>Blunt.</SPEAKER>
+<L>But mark me: Hear, as from a Prophet, this:</L>
+<L><PB N="33" REF="24">
+Be sure you merit well this first of Favours,</L>
+<L>And keep the Oath you vow upon this Hand,</L>
+<L>Else I'le denounce a worse than Hell shall follow</L>
+<L>Your Sacrilegious Crime.</L>
+</SP>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>Lo, here I swear&mdash;</L>
+<L>But tell me, Heav'n! what signifies an Oath!</L>
+<L>When 'tis impossible I should be false?</L>
+<L>I swear upon this Altar, breathing Incense!</L>
+<L>Eternal Love! Eternal Constancy&mdash;</L>
+<L>Divinest, softest&mdash;Sweetest&mdash;</L>
+</SP>
+<STAGE>[Kisses her Hand.</STAGE>
+<SP>
+<SPEAKER>Blunt.</SPEAKER>
+<L>Go my Lord.</L>
+<L>And now you have it, brag to my undoing;</L>
+<L>For never any but your King can boast</L>
+<L>The like.</L>
+</SP>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>And he, th' unworthiest of Mankind,</L>
+<L>Who having such a Jewel in his Breast,</L>
+<L>The Crown not half so Sacred, were it mine,</L>
+<L>To sell it for a false and glittering Trifle:</L>
+<L>So silly <HI>Indians</HI> barter Gold and Pearls</L>
+<L>For Baubles.</L>
+</SP>
+<SP>
+<SPEAKER>Blunt.</SPEAKER>
+<L>What your Sister, treach'rous Man!</L>
+<L>You do not mean it; nor can I endure</L>
+<L>To hear her so degraded; if 'twere real:</L>
+<L>Sh' has Goodness, and has Beauties more than I,</L>
+<L>And merits what she does possess, a Crown:</L>
+<L>And much the more, because she sought not for it;</L>
+<L>Which is the cause, I fear, that she's unhappy&mdash;</L>
+<L>You visit her, not only as a Brother,</L>
+<L>But as a Friend, and Partner of her Councils;</L>
+<L>You love like Twins, like Lovers, or indeed</L>
+<L>As a fond Brother, and kind Sister should.</L>
+<L>How bears she this unwelcome State? or rather,</L>
+<L>How does she brook the Wrong that's done to <HI>Piercy?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>All her Reflections on it streight will vanish;</L>
+<L>A King and Crown are Charms invincible;</L>
+<L>No Storms, nor Discontents can long abide,</L>
+<L>Where Love and Empire plead: but soon will flye,</L>
+<L>Scatter'd like Mists before the Sun of Power.</L>
+</SP>
+<SP>
+<SPEAKER>Blunt.</SPEAKER>
+<L>You speak indifferently, my Lord, and like</L>
+<L><PB N="34" REF="25">
+Mistrust of her you Love: I long to hear</L>
+<L>The more what you would fain disguise from me&mdash;</L>
+<L>Have you so soon forgot the Oath you took?</L>
+<L>Or is't so lately, that you think 'tis scarce</L>
+<L>Reach'd down to Hell, to claim you Perjur'd there?</L>
+<L>Or think you that I e're can hate the Sister,</L>
+<L>When with a blush I own, I love the Brother?</L>
+<L>False and ungrateful Man! farewell.</L>
+</SP>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>O stay!</L>
+<L>Rip open my Bosom to my naked Heart,</L>
+<L>And read what-e're you think is written there.</L>
+<L>Had I no Tongue to speak, I'd suffer that,</L>
+<L>Rather than once deny you any thing.</L>
+</SP>
+<SP>
+<SPEAKER>Blunt.</SPEAKER>
+<L>He softens, turns, and changes, as I'd have him; <STAGE>[Aside.</STAGE></L>
+<L>His Waxen Soul begins to melt apace:</L>
+<L>He is my Slave, my Chain'd and Gally Slave:</L>
+<L>Oh that I had but <HI>Harry</HI> so to torture!</L>
+<L>But I'le Revenge my self on this soft Fool,</L>
+<L>On <HI>Bullen,</HI> and on all their Race at once</L>
+<L>That were the Cursed cause of my undoing.</L>
+<L>You find my Passion and good Nature quickly, <STAGE><HI>[To</HI> Roch.</STAGE></L>
+<L>That makes you use me thus.</L>
+</SP>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>Ten thousand Pardons&mdash;</L>
+</SP>
+<SP>
+<SPEAKER>Blunt.</SPEAKER>
+<L>No more; I can forgive, if you deserve it;</L>
+<L>I charge you, as a Sign of your Repentance,</L>
+<L>Go visit streight the Queen, and <HI>Piercy</HI> too;</L>
+<L>You hear he's come to Court; and what you learn</L>
+<L>From them, that ought concerns their former Loves,</L>
+<L>From time to time, acquaint me with the Story,</L>
+<L>And you shall lock the secret in my Breast,</L>
+<L>As safe, as in your own.</L>
+</SP>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>'Twere Blasphemy</L>
+<L>But to suspect it.</L>
+</SP>
+<SP>
+<SPEAKER>Blunt.</SPEAKER>
+<L>I require this of you;</L>
+<L>Not that I doubt the Virtue of the Queen,</L>
+<L>But know, that, worse than Hell, I hate the King,</L>
+<L>(To which just hatred 'tis you owe my Love)</L>
+<L>And wish your Sister, and all Humane kind,</L>
+<L>Would hate him too.</L>
+</SP>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>I'le instantly obey you.</L>
+</SP>
+<SP>
+<PB N="35" REF="25">
+<SPEAKER>Blunt.</SPEAKER>
+<L>Come back, my Lord; this readiness has charm'd me:</L>
+<L>And now I can't but give you some kind hopes&mdash;</L>
+<L>You may have leave to visit me hereafter.</L>
+<L>And talk of Love, perhaps I'le take it kindly.</L>
+</SP>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>Blest Harmony! Happiest of Mankind, I.</L>
+</SP>
+<SP>
+<SPEAKER>Blunt.</SPEAKER>
+<L>And you may write to me, and best by Proxy:</L>
+<L>For tho the King not visits me, as he was wont,</L>
+<L>Yet he is Jealous&mdash;</L>
+<L>Let all your Amorous Letters be disguis'd,</L>
+<L>Under the borrow'd Name of Brother still,</L>
+<L>Directed to me by the stile of Sister.</L>
+</SP>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>In all things I'le obey my lovely Goddess!</L>
+</SP>
+<SP>
+<SPEAKER>Blunt.</SPEAKER>
+<L>These Papers once shall be of Consequence. <STAGE>[Aside.</STAGE></L>
+<L>See, the Queen comes, her Soul in discontent, <STAGE><HI>[To</HI> Roch.</STAGE></L>
+<L>And longs to be disburthen'd. I will leave you&mdash;</L>
+<L>A fit occasion's offer'd, now she's on</L>
+<L>The Rack, to ease her by a fond Confession. </L>
+</SP>
+<STAGE><HI>[Ex.</HI> Blunt.</STAGE>
+<STAGE>Enter <HI>Queen</HI> and Ladies.</STAGE>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Where am I now?&mdash;My Brother! Is it you?</L>
+<L>I hear that <HI>Piercy</HI>'s come to Court.</L>
+</SP>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>He is.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Where shall I hide my guilty Face from him?</L>
+<L>And shut me where he ne're may see me more?</L>
+<L>For now I start at every humane Shape,</L>
+<L>And think I meet wrong'd <HI>Piercy</HI> in my way,</L>
+<L>Like one escap'd for Murther, in his Flight</L>
+<L>Shuns every Beast, and Trembles at the Wind,</L>
+<L>And thinks each Bush a Man to apprehend him.&mdash;</L>
+<STAGE><HI>Enter</HI> Diana.</STAGE>
+<L>I sent thee to the Queen, <HI>Diana,</HI> say,</L>
+<L>How fares she in her hopeless, lost Estate?</L>
+<L>What Answer bring'st thou, that is Death to hear?</L>
+<L>Come talk of Misery, and fill my Breast</L>
+<L>With Woe: I'le lay my Ears to the sad sound,</L>
+<L>And thence Extract it as the Bees do Hony,</L>
+<L>Grief is the Food that the afflicted live by&mdash;</L>
+<L><PB N="36" REF="26">
+Talk any thing; there's nought so dreadful as</L>
+<L>The thoughts of injur'd <HI>Piercy,</HI> in my Breast.</L>
+</SP>
+<SP>
+<SPEAKER>Dian.</SPEAKER>
+<L>The Princess <HI>Dowager</HI> is dead.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>What Princess?</L>
+<L>Art thou a temporizing false one too?</L>
+<L>And hast so soon forgot she was thy Queen?</L>
+</SP>
+<SP>
+<SPEAKER>Dian.</SPEAKER>
+<L>Queen <HI>Katherine</HI>'s dead.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Alas! then is she dead!</L>
+<L>Then she has got the start of <HI>Anna Bullen&mdash;</HI></L>
+<L>Came you too late to pay my Duty to her?</L>
+</SP>
+<SP>
+<SPEAKER>Dian.</SPEAKER>
+<L>No: for sh' enjoyed her Senses to the last,</L>
+<L>And then not seem'd to dye, but fall asleep.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>So bold is Innocence, it conquers Death,</L>
+<L>And after makes amends for all the wrongs</L>
+<L>Sustain'd in Life.</L>
+</SP>
+<SP>
+<SPEAKER>Dian.</SPEAKER>
+<L>When I began to tell her,</L>
+<L>I came by your command, to make a tender</L>
+<L>Of your most humble Duty, and Condole</L>
+<L>Her Majesties Mifortune and Distemper;</L>
+<L>She check'd me at that word, and as you have seen</L>
+<L>A clear Sky, with a travelling Cloud o'retook,</L>
+<L>And quickly gone, so she put on a Frown,</L>
+<L>Which did not last, and answer'd with a Smile:</L>
+<L>Why did you say, your Majesty to me,</L>
+<L>She said, a Name I loath? Go, tell your Queen,</L>
+<L>Let her not fix on Greatness to be happy,</L>
+<L>But take a sad Example here by me:</L>
+<L>I, who was Daughter, Niece, and Sister too,</L>
+<L>To three great Emperours, and Wife, alas!</L>
+<L>To the most potent Prince in <HI>Christendom,</HI></L>
+<L>Must Dye more wretched than the meanest Creature,</L>
+<L>In a strange Country, 'midst my Enemies,</L>
+<L>Not one of all my great Relations here</L>
+<L>To pity me, nor Friend to bury me:</L>
+<L>And then she wept, and turn'd her gentle Face</L>
+<L>The other way, and quickly after Dy'd.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Go on; Why dost thou cease this Melody?</L>
+<L>Thy Voice exceeds the mourning <HI>Philomels;</HI></L>
+<L>The dying Swan takes not that pleasure in</L>
+<L>Her note, as I in such Celestial Musick:</L>
+<L><PB N="37" REF="26">
+Hast thou no more of it?</L>
+<L>Come play the Artist: Shew thou to my Fancy,</L>
+<L>Th' Infernal Paths that lead to Infinite Horror;</L>
+<L>Op'n all the Charnel Houses of the Dead,</L>
+<L>And fright away, if it be possible,</L>
+<L>The sad Remains of injur'd <HI>Piercy</HI> here.</L>
+</SP>
+<STAGE><HI>Enter</HI> King.</STAGE>
+<STAGE><HI>[Exeunt</HI> Diana <HI>and</HI> Rochford.</STAGE>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Yonder she is, in Tears amidst her Glories!</L>
+<L>You lavish Stars, what will content this Scorner?</L>
+<L>From a mean Spring I took this shining Pebble,</L>
+<L>And plac'd her in my Heart, and in my Crown,</L>
+<L>The fairest and the best lov'd Jewel there:</L>
+<L>And sate her on my Throne to be ador'd:</L>
+<L>Yet she contemns all this, and would do more,</L>
+<L>The Heavens are all too narrow for her Soul!</L>
+<L>Gods, you must flatter and descend to her,</L>
+<L>Or she'll not stir one jot to you&mdash;She is</L>
+<L>So very proud.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>My Lord.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Sit down again,</L>
+<L>I but disturb you; therefore I'le return;</L>
+<L>For sure they must be tender thoughts, for which</L>
+<L>You pay such lavish Tribute from your Eyes.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Sir, I was thinking of th' uncertain State</L>
+<L>Of Greatness, and amongst its sad Misfortunes,</L>
+<L>What would become of me, alas! if you</L>
+<L>(Which I've no reason to suspect)</L>
+<L>Should change your Love; and that produc'd these Tears.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Y'are in the right, if that should ever happen;&mdash;</L>
+<L>But what begets such Doubts within your Breast?</L>
+<L>You have done nothing to deserve such fears:</L>
+<L>You love me, and as long as that shall last,</L>
+<L>Mistrust not <HI>Harry.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>By my hopes I do.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Blest sound. I will hear nothing but my <HI>Bullen!</HI></L>
+<L><HI>Woolsey</HI> and Devil tempt me now no more! <STAGE>[Aside.</STAGE></L>
+<L>Then shake these Clouds of sorrow from thy Eyes,</L>
+<L>And dart thy brighter Beams, like <HI>April</HI> Sun-shine,</L>
+<L><PB N="38" REF="27">
+Into my Bosom, and thus lock me ever&mdash;</L>
+<L>Oh, now I nought remember but thy Charms,</L>
+<L>And quite forget what-e're I was before.</L>
+<L>One word of Bliss, one word of Softness from thee,</L>
+<L>To banish hence Suspitions, like the Plague,</L>
+<L>And clear our Breasts from jealousies for ever&mdash;</L>
+<L>What, not a syllable do I deserve?</L>
+<L>These Kisses, faint Embraces, and these Odours,</L>
+<L>Are ravish'd, not bestow'd upon me&mdash;ha!</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>What means my Lord?</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>What means the Traiterous <HI>Bullen?</HI></L>
+<L>By Heav'n she wants the cunning Trick and Skill;</L>
+<L>The easie quick Delusion of her Sex,</L>
+<L>To hide her falseness&mdash;By all Hell she's damn'd.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>O Gracious Sir.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Too gracious not to kill thee&mdash;</L>
+<L>For whom, for whom are your kind Looks reserv'd?</L>
+<L>Hide you your Minion; for his safeguard, do.</L>
+<L>For were he 'mongst his happy Stars, I'd reach him.</L>
+<L>I'm frightful as a Ghost, or a Disease:</L>
+<L>For when I think to hold her in these Arms,</L>
+<L>She struggles like the Quarry in the Toil:</L>
+<L>And yields her self unto my loath'd Embraces,</L>
+<L>With such a forc'd and awker'd willingness,</L>
+<L>As men, when they are past all hopes of life,</L>
+<L>Resign themselves into the power of Death.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>What Fiend has put such Thoughts into your Breast?</L>
+<L>When did I wrong you? How have I been false?</L>
+<L>Yet I will not complain against my Lord.</L>
+<L>Since 'tis your Will&mdash;Sir, have I not obey'd you?</L>
+<L>No Slave so humbly faithful to your Pleasures,</L>
+<L>And in your Bed, with blushing, paid those Duties</L>
+<L>That modest Virgin, or chast Wife could do:</L>
+<L>And if I was not wanton, pray forgive me.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Yes, yes, I have your outside; but Hell knows,</L>
+<L>And thy false self, who 'tis enjoys thy Soul!</L>
+<L>You yield to me indeed, 'tis true: but most</L>
+<L>Unwillingly you part with your dear Sweets,</L>
+<L>Unless it be to him that has your Hoard,</L>
+<L>But guard your fatal Honey with a Sting</L>
+<L><PB N="39" REF="27">
+'Gainst those you hate&mdash;Your Person you resign,</L>
+<L>But as to Prison; my Arms are but the Grates</L>
+<L>Through which your Mind is longing still to be abroad:</L>
+<L>Nay in the very Moment of Enjoyment:</L>
+<L>And who would think but then I should be happy?</L>
+<L>There's still another's Picture in your Heart,</L>
+<L>On which you look, and fansie I am He,</L>
+<L>And all the while I'm sporting for another.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Can Heav'n hear this! O cruel, faithless Lord.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>No: to thy <HI>Syren</HI>'s Voice I'le stop my Ears;</L>
+<L>A thousand times, like them, th'hast cheated me,</L>
+<L>Laid my just Passion to a gentle Calm,</L>
+<L>VVhilst Storms behind were ready to devour me.</L>
+<L>On thy false dangerous Charms I'le wrack no more,</L>
+<L>But seek for shelter on some kinder Shore;</L>
+<L>A grateful Beauty here shall reign alone,</L>
+<L>And chace thee from my Heart, and from thy Throne.</L>
+<L>Ha! who comes there? My gentle <HI>Woolsey</HI> come,</L>
+<L>And with thy Counsel streight defend my Breast.</L>
+</SP>
+<STAGE>[The King meets <HI>Woolsey,</HI> and goes out leaning on him.</STAGE>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Did not my Lord flye from me in a rage,</L>
+<L>Arm'd with a Frown, and darted it quite through me?</L>
+<L>And <HI>Woolsey</HI> in his Favourites place again?</L>
+<L>Nay, then the Wonder is expir'd; that proud,</L>
+<L>That great bad man, and <HI>Lucifer,</HI> ne're meant</L>
+<L>Me nor my Virtue well&mdash;The King's Inconstancy</L>
+<L>Begins to shew its <HI>Ianu<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter"></HI> Face again:</L>
+<L>And all the Doubts of an Unhappy Wretch,</L>
+<L>My Fears by Day, and horrid Dreams by Night,</L>
+<L>Are come to pass.</L>
+</SP>
+<STAGE><HI>Enter</HI> Piercy.</STAGE>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>What shall I fear to see her!</L>
+<L>And tell her Face to Face the Perjuries</L>
+<L>And Falseness that sh' has heap'd upon her Soul,</L>
+<L>And ruin'd mine?&mdash;Lo, where the False one is!</L>
+<L>In counterfeited Grief? By Heav'n in Tears!</L>
+<L>As if her sins already did upbraid her!</L>
+<L><PB N="40" REF="28" MS="y">
+Just Pow'rs! can you behold a Form so fair,</L>
+<L>And suffer Falseness to inhabit there?</L>
+<L>The Morning Sun risen from its Watry Bed,</L>
+<L>Less precious drops does on <HI>Arabia</HI> shed:</L>
+<L>And sacred Viols of rich <HI>April-</HI>Showers;</L>
+<L>When he alternate Rain and Sun-shine pours;</L>
+<L>Nor is he half so Beautiful and Gay,</L>
+<L>As she a wiping of those Tears away.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Ha, <HI>Piercy!</HI> I'm betray'd. Advise me Heav'n!</L>
+<L>What shall I do!&mdash;Begone, this place is Hell;</L>
+<L>Vipers and Adders lurking under Smiles,</L>
+<L>And flatt'ring Cloths of State: Oh! do not tread here;</L>
+<L>Under this Mask of Gallantry and Beauty,</L>
+<L>Is a rude Wild; nay, worse, a dangerous Ocean,</L>
+<L>Into whose Jaws, Love, like a Calenture,</L>
+<L>Will tempt us, where we both must Sink and Perish.</L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>What, can so mean a Creature fright a Queen!</L>
+<L>Behold a wretched Thing of your undoing.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>See where he stands, the Mark of pity, Heav'n!</L>
+<L>Shut, shut thy Eyes, and fly with speed away;</L>
+<L>Or view the Rocks and Quick-sands, if thou stay,</L>
+<L>Lest this rough <HI>Hellispont</HI> I venture on,</L>
+<L>And like <HI>Leander</HI> tempt my Fate, and drown.&mdash;</L>
+</SP>
+<STAGE><HI>[Ex.</HI> Queen.</STAGE>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>Ha! she's surpriz'd! shuns me! and flies from me!</L>
+<L>And more affrighted is at <HI>Piercy</HI>'s wrongs,</L>
+<L>Than Guilty Ghosts, that having scap'd to Earth,</L>
+<L>Hear the Cock Crow to summon 'em away,</L>
+<L>And start and tremble at the sight of Day.</L>
+<L>But yet she look'd not like a Foe upon me;</L>
+<L>And as she parted, told me with her Eyes,</L>
+<L>That there was something in those speaking Tears,</L>
+<L>Which might Excuse her, and Condemn her <HI>Piercy.</HI></L>
+</SP>
+<STAGE><HI>Enter</HI> Northumberland.</STAGE>
+<SP>
+<SPEAKER>North.</SPEAKER>
+<L>Son, I am come to tell you joyful News,</L>
+<L>The King has Charm'd the fair <HI>Diana</HI> for thee,</L>
+<L>And is resolv'd to Marry her to morrow,</L>
+<L>And Celebrate the Nuptials with a Pomp.</L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>The King! the King is Marry'd, Sir.</L>
+</SP>
+<SP>
+<PB N="41" REF="28">
+<SPEAKER>North.</SPEAKER>
+<L>He is.</L>
+<L>But thou art not: H' intends to give her to thee</L>
+<L>Himself: Why dost thou start? 'Twas but this day</L>
+<L>You Swore and Vow'd, with all the Signs of Joy,</L>
+<L>And Duty to your Father, you'd obey me.</L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>Alas! I did: But cannot Heav'n, nor you</L>
+<L>Forgive a rash, unhappy Man his Vow?</L>
+</SP>
+<SP>
+<SPEAKER>North.</SPEAKER>
+<L>No: by the Blood that Honours <HI>Piercy</HI>'s Veins,</L>
+<L>I swear, I will not&mdash;</L>
+<L>For Marry'd thou shalt be, and that to her,</L>
+<L>Or live a Vagabond, banish'd from Wealth,</L>
+<L>From Friends, and Pity; whilst I will advance</L>
+<L>Thy Younger Brother to thy lost Estate,</L>
+<L>And see thee starve; nay, more, and loaded with</L>
+<L>The Curses of thy Father&mdash;</L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>Hold, Sir!&mdash;</L>
+<L>I'le strive t' obey you; not because I fear</L>
+<L>What Misery, or Death can do to me;</L>
+<L>Nor to avoid the hungry Lyon's Den,</L>
+<L>Or Dragons Teeth, just ready to devour me;</L>
+<L>For know, I plunge into a State more dreadful:</L>
+<L>But that I may not be th' unhappy Cause</L>
+<L>Of dragging wrongful Curses from a Father,</L>
+<L>Which rather turn upon his Head that aims,</L>
+<L>Than hurt the Bosom of the Innocent.</L>
+</SP>
+<STAGE><HI>Enter</HI> Diana.</STAGE>
+<SP>
+<SPEAKER>North.</SPEAKER>
+<L>See! she is coming, brighter than a Goddess&mdash;</L>
+<L>I'le leave you, and commit you to her Cure. </L>
+</SP>
+<STAGE><HI>[Ex.</HI> North.</STAGE>
+<SP>
+<SPEAKER>Dian.</SPEAKER>
+<L>Yonder's the dear-lov'd Man, whom all must love,</L>
+<L>That loves another too. What shall I say? <STAGE>[Aside.</STAGE></L>
+<L>Spite of my Stars, I dote upon a Person,</L>
+<L>Who has no Heart, no Eyes that are his own;</L>
+<L>Nor yet one look that ever can be mine.</L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>Madam! d'you hear the news? My Father tells me,</L>
+<L>W'are to be Marry'd.</L>
+</SP>
+<SP>
+<SPEAKER>Dian.</SPEAKER>
+<L>So the King will have it.</L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>The King! What would the Tyrant be a God?</L>
+<L><PB N="42" REF="29">
+To take upon him to dispose of Hearts!</L>
+<L>And joyn unequal Souls with one another!</L>
+<L>O Beautiful <HI>Diana!</HI> Y'are all Goodness,</L>
+<L>A store of Virtues in as bright a Person,</L>
+<L>As Heav'n e're treasur'd in a Form Divine:</L>
+<L>If so, what can your Eyes behold in me?</L>
+<L>What see in such a wretched thing as I,</L>
+<L>To Marry me?</L>
+</SP>
+<SP>
+<SPEAKER>Dian.</SPEAKER>
+<L>How Charming is his Person!</L>
+<L>And much more Charming is his Grief! And oh&mdash;</L>
+<L>How can she e're receive a Wound more deadly, <STAGE>[Aside.</STAGE></L>
+<L>Than I, tormented with the double Dart</L>
+<L>Of Love and Pity&mdash;Some kind Deity</L>
+<L>Assist me now, lest I should shew I love him,</L>
+<L>And teach my Tongue how to bely my Heart.</L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>You seem to study for so plain an Answer.</L>
+<L>Come tell me streight my faults, and what you think;</L>
+<L>For here I stand, the Mark of Truth to aim at.</L>
+<L>What is there, in this miserable Shape,</L>
+<L>To look on without Scorn?</L>
+</SP>
+<SP>
+<SPEAKER>Dian.</SPEAKER>
+<L>Now kind, Heav'n,</L>
+<L>Lend me the Cunning now of all my Sex! <STAGE>[Aside.</STAGE></L>
+<L>I like you just as well as you like me; <STAGE><HI>[To</HI> Piercy.</STAGE></L>
+<L>Our Persons might, for all you said of mine,</L>
+<L>Be mended both, and both receive Additions:</L>
+<L>And for your Nature, I'le be plain, and tell you,</L>
+<L>I could have wish'd a Man of better humour;</L>
+<L>But 'tis no matter, since w'are both so bad,</L>
+<L>We are the fitter then for one another.</L>
+<L>Just Gods! what miserable Things we are! <STAGE>[Aside.</STAGE></L>
+<L>Oh! when shall we attain that blest abode,</L>
+<L>Where we may never fear to speak aloud,</L>
+<L>What's Just, and is no Sin?</L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>What, do you hate me?</L>
+<L>Then y'are happier one Degree than I;</L>
+<L>For should you love me, you are truly wretched.</L>
+</SP>
+<SP>
+<SPEAKER>Dian.</SPEAKER>
+<L>Indeed he little thinks I am that Wretch. <STAGE>[Aside. To <HI>Piercy.</HI></STAGE></L>
+<L>Tell me wherefore?</L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>Because the Cruel God</L>
+<L>Has rob'd me of my whole Estate of Love,</L>
+<L><PB N="43" REF="29">
+And left me naked, desolate, and poor;</L>
+<L>Not worth one Sigh, nor Wish, if that could pay</L>
+<L>The Debt I owe: Nay, should you come a begging,</L>
+<L>Cold, and half starv'd, for Succour to my door,</L>
+<L>You would not find, in all this rifled Cottage,</L>
+<L>One Spark, one Charitable Spark, to warm you.</L>
+</SP>
+<SP>
+<SPEAKER>Dian.</SPEAKER>
+<L>Hear, Heav'n! hear, Cruel One! who-e're thou art</L>
+<L>He loves, tho I am slighted, scorn'd, nay hated, <STAGE>[Aside.</STAGE></L>
+<L>Wou'd thou hadst my Kind Eyes, my Breast, my Soul,</L>
+<L>Would all my Vital Blood were Balm to Cure him.</L>
+<L>Yet will our Cruel Parents have us Marry'd: <STAGE><HI>[To</HI> Piercy.</STAGE></L>
+<L>Then, since we must, how know we but our Bodies,</L>
+<L>And yet more Careless and Despairing Souls,</L>
+<L>In time may grow to such Indifference,</L>
+<L>As quite forgetting of what Sex we are,</L>
+<L>We may like faithful and condoling Friends,</L>
+<L>If not like Lovers, live together.</L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>Ay;</L>
+<L>And when y'are sad, I'le Kiss you like a Brother;</L>
+<L>And if you sigh, or chance to shed a Tear,</L>
+<L>I will weep too, and ask you why you grieve;</L>
+<L>And you shall do the like to me, and streight</L>
+<L>Embrace me like a Sister, still remembring</L>
+<L>The Subject of our just Complaints shall be,</L>
+<L>You that y'are Marry'd&mdash;&mdash;</L>
+</SP>
+<SP>
+<SPEAKER>Dian.</SPEAKER>
+<L>You for Marrying me.</L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>O rarely thought! 'twill be the only Means</L>
+<L>To make us happy both against our Wills;</L>
+<L>We'll moan, we'll sigh, we'll weep; we'll all but love&mdash;</L>
+<L>Instead of loving, pity one another.</L>
+</SP>
+<SP>
+<SPEAKER>Dian.</SPEAKER>
+<L>And who can tell but Pity may at last,</L>
+<L>By gentle, soft Degrees, grow up to Love.</L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>Come, let's away then, since they'll have it so;</L>
+<L>Meet these glad Rites to all Mankind but us,</L>
+<L>Where the malicious Charm shall join our Curses,</L>
+<L>And not our Persons, but our Woes together:</L>
+<L>Then turn us loose, like two Condemn'd, lone Wretches;</L>
+<L>Banisht from Earth, no Creature but our selves,</L>
+<L>In an old Bark on wide and Desart Seas,</L>
+<L>In Storms by Night and Day, unseen by all,</L>
+<L><PB N="44" REF="30">
+Unpity'd tost, not one dear Morsel with us</L>
+<L>To ease our Hunger, nor one drop of Drink</L>
+<L>To quench our raging Thirst, and which is worse,</L>
+<L>Without one jot of Rigging, Sail, or Steer to guide us.</L>
+</SP>
+<SP>
+<SPEAKER>Dian.</SPEAKER>
+<L>Forgive me, Heav'n! Forgive me all my S<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">x, <STAGE>[Aside.</STAGE></L>
+<L>That ever lov'd, or e're was scorn'd like me!</L>
+<L>Tho 'tis my Fate for ever to be hated,</L>
+<L>Tho we are doom'd to dwell, like wandring Wretches,</L>
+<L>In worse than what his worst of Sorrow paints;</L>
+<L>Yet I must love him, and resolve to Marry him;</L>
+<L>And now I challenge all the wondring World,</L>
+<L>And more admiring Angels, if they can,</L>
+<L>To find who most is to be pity'd, He</L>
+<L>Or I&mdash;Quick, let us launch then with a Courage, <STAGE><HI>[To</HI> Piercy.</STAGE></L>
+<L>Since 'tis our King and Cruel Parents Wills.</L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>And give a rare Example to the Marry'd,</L>
+<L>Of Constancy: For that which severs them,</L>
+<L>Possession of their pall'd and loath'd Enjoyments,</L>
+<L>Our faithful Woes shall join our Lives the faster.</L>
+</SP>
+<SP>
+<SPEAKER>Dian.</SPEAKER>
+<L>And having each of us so mean a Stock</L>
+<L>Of love, I in your Breast, and you in mine;</L>
+<L>We need not fear that Thieves should come to rob us.</L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>Nor Jealousie to part us.</L>
+</SP>
+<SP>
+<SPEAKER>Dian.</SPEAKER>
+<L>Well then, <HI>Piercy:</HI></L>
+<L>When our expected Sentence is perform'd,</L>
+<L>Where shall we take our welcome Banishment?</L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>To the World's End! Far from all fruitful Grounds,</L>
+<L>From Corn, and VVine, or any wanton Spring;</L>
+<L>In some dead Soil, so barren and so curst,</L>
+<L>Where neither loathsom Weeds, nor Thistles grow.</L>
+</SP>
+<SP>
+<SPEAKER>Dian.</SPEAKER>
+<L>Or some deep Cave, where Winds are all so still,</L>
+<L>And Beasts so far remote, that we shall hear</L>
+<L>No Howls, nor Groans, but what we make our selves.</L>
+</SP>
+<SP>
+<SPEAKER>Piere.</SPEAKER>
+<L>No: on some dreadful Rock we'll chuse to lye,</L>
+<L>Whose dismal Top seems fasten'd to the Skye;</L>
+<L>Thence we can look on all the World below,</L>
+<L>So full of Vanity, so full of Woe!</L>
+<L>And sometimes on the Wrack-devouring Seas,</L>
+<L>The Emblem of our present Miseries:</L>
+<L><PB N="45" REF="30">
+Sigh for the Creatures, think the Storms we see</L>
+<L>Our Cruel Parents, and the Wretches We.</L>
+</SP>
+<SP>
+<SPEAKER>Dian.</SPEAKER>
+<L>Or waste our Days in wandring to and fro,</L>
+<L>And make our Lives one Harmony of Woe.</L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>'Till Heav'n shall rain down pity on us&mdash;</L>
+</SP>
+<SP>
+<SPEAKER>Dia.</SPEAKER>
+<L>No.</L>
+<L>We'll not be pity'd. Pity's half a Cure;</L>
+<L>That will bring Comfort, which we'll ne're endure.</L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>O my <HI>Virago</HI> Partner.</L>
+</SP>
+<SP>
+<SPEAKER>Dian.</SPEAKER>
+<L>Nay, I dare you.</L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>Then here we'll take an Oath, and with <GAP DESC="illegible" RESP="OXF" EXTENT="1 word"> Kiss</L>
+<L>Let's strike a League with Woe, adieu to Bliss!</L>
+<L>And now I challenge the All-seeing Sun,</L>
+<L>From his proud Prospect, his high Seat at Noon;</L>
+<L>'Mongst all the Wonders of the World, to spy</L>
+<L>A Couple half so kind as thee and I;</L>
+<L>Or all the Matches that e're Love decreed,</L>
+<L>If ever Man and Wife so well agree'd.</L>
+<L>Love oft-times flies from Misery and Pain;</L>
+<L>But we resolve the closer to remain.</L>
+<L>What though we Wed in Hatred, we may mend;</L>
+<L>We but begin where others surely end;</L>
+<L>And each of you that Marry first for love,</L>
+<L>VVe are but sooner, what at last you'll prove. </L>
+</SP>
+<STAGE>[Ex. Ambo.</STAGE>
+<TRAILER>The End of the Third Act.</TRAILER>
+</DIV1>
+<DIV1 N="4" TYPE="act">
+<PB N="46" REF="31">
+<HEAD>ACT IV. SCENE I.</HEAD>
+<STAGE>Enter <HI>Blunt</HI> with Letters, <HI>Rochford.</HI></STAGE>
+<SP>
+<SPEAKER>Blunt.</SPEAKER>
+<L>MY Lord, you act the cunning Lover well,</L>
+<L>Paint a rare Passion under all Disguises;</L>
+<L>Yet oh! I wish this Art had not been learnt,</L>
+<L>But Na<GAP DESC="illegible" RESP="OXF" EXTENT="3 letters"> in you, and true Love the Teacher;</L>
+<L>Yet I will prize and hoard your Letters safe,</L>
+<L>As I would fragrant Flowers within my Bosom.</L>
+</SP>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>O my prodigious and exalted Soul,</L>
+<L>And my more precions Stars! I bless you all.</L>
+<L>Is there a Man 'mongst all your Favourites,</L>
+<L>So rich, so happy, and so lov'd as I!</L>
+<L>Methinks, for my dear <HI>Anna Bullen</HI>'s sake,</L>
+<L>If possible, I love you better now,</L>
+<L>Since I dare call you by the Name of Sister.</L>
+</SP>
+<SP>
+<SPEAKER>Blunt.</SPEAKER>
+<L>And I much more now I can call you Brother.</L>
+</SP>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>O my too weighty Joys! Immortal State!</L>
+<L>And more Immortal Love!</L>
+</SP>
+<SP>
+<SPEAKER>Blunt.</SPEAKER>
+<L>No more: I'le chide you.</L>
+<L>This is too great, too violent to last&mdash;</L>
+<L>Hold! give your Passion Breath, leave some for next,</L>
+<L>And love not all your VVishes out at once&mdash;</L>
+<L>Where is the Queen?</L>
+</SP>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>I left her discontent.</L>
+</SP>
+<SP>
+<SPEAKER>Blunt.</SPEAKER>
+<L>Why, where is <HI>Piercy?</HI> Has she seen him yet?</L>
+</SP>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>Seen him she has: but would not speak to him.</L>
+</SP>
+<SP>
+<SPEAKER>Blunt.</SPEAKER>
+<L>Not speak to him! Oh Cruel, most Inhumane!</L>
+<L>Had she but seen him in that state as I did,</L>
+<L>She would have spoke to him, and dy'd for him.</L>
+</SP>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>Alas! Her Cruelty drew Pity from</L>
+<L>Her Eyes and Mine.</L>
+</SP>
+<SP>
+<SPEAKER>Blunt.</SPEAKER>
+<L>Would she not speak t'him then!</L>
+</SP>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>No; not a word: but quite o're-came her Pity,</L>
+<L>And went away resolv'd ne're more to see him.</L>
+</SP>
+<SP>
+<SPEAKER>Blunt.</SPEAKER>
+<L>The Reason.</L>
+</SP>
+<SP>
+<PB N="47" REF="31">
+<SPEAKER>Roch.</SPEAKER>
+<L>She'd not tell&mdash;But I most doubt</L>
+<L>Her scrupulous Virtue is the Cause.</L>
+</SP>
+<SP>
+<SPEAKER>Blunt.</SPEAKER>
+<L>Impossible!</L>
+<L>Virtue can never lodge with Cruelty.</L>
+<L>What stain were it to th' whitest Innocence?</L>
+<L>What Crime in the severest Virtue once,</L>
+<L>In her Condition, but to hear him speak?</L>
+<L>Come! she must see him&mdash;</L>
+</SP>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>Would my Life, and Fortune,</L>
+<L>Nay, all my Rights of Love, and Hopes in thee,</L>
+<L>Could purchase her Consent to seem him once,</L>
+<L>Pardon the Sallies of most mighty Friendship,</L>
+<L>So well I wish him, I would hazard all.</L>
+</SP>
+<SP>
+<SPEAKER>Blunt.</SPEAKER>
+<L>Go tell, as from your self, the sad condition</L>
+<L>Her horrid Cruelty has brought him to.</L>
+<L>Within this hour he enter'd my Apartment,</L>
+<L>Not like the Great, the Brave, and Charming <HI>Piercy,</HI></L>
+<L>Whose Person none cou'd see without adoring:</L>
+<L>But like a dreadful Ghost, or horrid Shadow,</L>
+<L>Far worse than what dead, melancholly Midnight,</L>
+<L>To frighted Man, e're painted in a Dream;</L>
+<L>The Evil Genius of his Family</L>
+<L>Ne're look'd so mad, nor threaten'd half the Woe,</L>
+<L>As he did to himself.</L>
+</SP>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>Unhappy <HI>Piercy.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Blunt.</SPEAKER>
+<L>At first his fight was pointed to the Earth,</L>
+<L>Then with a Groan, charg'd with a Volley of Sighs,</L>
+<L>He lifted up his fatal Eyes on me, which I</L>
+<L>Could scarce behold with mine, they were so full</L>
+<L>Of pitying Tears&mdash;</L>
+<L>Then ran into such bitter, sad Complaints</L>
+<L>Against our Sexes loath'd Inconstancy,</L>
+<L>That I was forc'd to chide him&mdash;</L>
+</SP>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>Oh, no more!</L>
+<L>It wakes my drowsie Conscience from its rest,</L>
+<L>And stabs it with a Guilt.</L>
+</SP>
+<SP>
+<SPEAKER>Blunt.</SPEAKER>
+<L>But then at last</L>
+<L>From Railings into Blessings streight he fell,</L>
+<L>And on his Knees beseech'd me that I'd plead,</L>
+<L>And beg the Queen, but once to see her <HI>Piercy;</HI></L>
+<L><PB N="48" REF="32">
+Which I, rack'd with Compassion, promis'd him.</L>
+<L>Alas! I fear more than I can perform:</L>
+<L>This said, I rise, and <HI>Piercy</HI> follow'd me;</L>
+<L>Therefore I charge you, by the Power of Friendship,</L>
+<L>By <HI>Piercy</HI>'s Woes, and all the Love you owe</L>
+<L>To me! go and prevail that he may see her:</L>
+<L>He said that you had vow'd to bring't to pass.</L>
+</SP>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>I'le do it instantly; and if she will not,</L>
+<L>I'le bear her Body in these Arms by Force;</L>
+<L>Her mind, I'm sure, is willing to be with him.</L>
+</SP>
+<SP>
+<SPEAKER>Blunt.</SPEAKER>
+<L>She's coming streight this way; go quickly you,</L>
+<L>(The miserable Wretch is yet without,)</L>
+<L>And give him notice, now's the time to speak t'her,</L>
+<L>Then streight return to hold her in Discourse</L>
+<L>Till <HI>Piercy</HI> comes.</L>
+</SP>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>So kind and pitiful!</L>
+<L>May all thy Cruel Sex be blest for thee. </L>
+</SP>
+<STAGE><HI>[Ex.</HI> Roch.</STAGE>
+<SP>
+<SPEAKER>Blunt.</SPEAKER>
+<L>So&mdash;this has prov'd a lucky Tale, and now</L>
+<L>This rare Intelligence goes to my <HI>Woolsey,</HI></L>
+<L>Who'l send th' Alarm to the watchful King,</L>
+<L>Streight to surprize him with his Wife, like <HI>Iason,</HI></L>
+<L>Just stealing of his Golden Fleece away&mdash;</L>
+<L>She comes, she comes, this Player-Queen; but know,</L>
+<L>This is the last proud Act of all thy show;</L>
+<L>This is a Bait, kind Stars, if you'l not frown,</L>
+<L>With which I'le take Revenge, or catch a Crown:</L>
+<L>And when sh' has got her Heav'n, and I my Aim;</L>
+<L>Who then dares tell me that I was to blame!</L>
+<L>For who contemns a prosp'rous Wickedness,</L>
+<L>Or thinks that ill, that's Sainted with Success. </L>
+</SP>
+<STAGE><HI>[Ex.</HI> Blunt.</STAGE>
+<STAGE>Enter <HI>Queen</HI> with a Letter.</STAGE>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>What shall I do! where teach my trembling Feet</L>
+<L>Their way! was ever Virtue storm'd like mine!</L>
+<L>Within, without, I am haunted all alike;</L>
+<L>Without tormented with a jealous King,</L>
+<L>Within, my Fears suggest a thousand Plagues,</L>
+<L>Bid me remember injur'd <HI>Piercy</HI>'s Wrongs,</L>
+<L>And brand me with the Name of Cruel to him;</L>
+<L><PB N="49" REF="32">
+Then on a sudden a more dreadful thought</L>
+<L>Upbraids me with a Guilt;</L>
+<L>And tells me, that kind Pity is a Sin.</L>
+<L>Witness, and blame not me, y'Immortal Powers!</L>
+<L>When you expose two diff'rent Paths, one Good,</L>
+<L>The other bad, and tell not which to take:</L>
+<L>If to obey you is my Aim, just Heav'n!</L>
+<L>'Tis not my fault if I shou'd chuse the wrong</L>
+</SP>
+<STAGE><HI>Enter</HI> Rochford.</STAGE>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>Sister! most Royal, Merciful, and Fair,</L>
+<L>And best belov'd of Heav'n, and all Mankind,</L>
+<L>Let your dear Brother make it his Request,</L>
+<L>Thus on his Knees, as Deities are Charm'd,</L>
+<L>That you would hear th' unhappy <HI>Piercy</HI> speak,</L>
+<L>This once, and but this once&mdash;<HI>Piercy</HI>'s without;</L>
+<L>Shall my best Friend take but his last Farewell?</L>
+<L>Grant it, or never more let <HI>Rochford</HI> see you.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Oh Brother! plead no more, 'tis all in vain;</L>
+<L>Do not betray thy Sister to a Guilt,</L>
+<L>And stain the Crystal Virtue of a Soul,</L>
+<L>Which still she holds far dearer than a Crown;</L>
+<L>Seek not, by Vile Enchantments, to destroy</L>
+<L>That Innocence which yet is all my Force,</L>
+<L>All the Defence poor <HI>Bullen</HI> has against</L>
+<L>A jealous Husband, Cruel Foes, and worse,</L>
+<L>Against the Malice of Inveterate Hell.</L>
+</SP>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>What Danger can there be? what Guilt in you?</L>
+<L>To hear the Wretched and the Injur'd pray?</L>
+<L>Come; for you will, you shall, you must now hear him.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>No more! no more. There's yet a subtler Orator</L>
+<L>Than you, or Pity, pleads for <HI>Piercy</HI> here,</L>
+<L>Here in my firm couragious Soul, and stronger</L>
+<L>Than Father, Mother, or ten thousand Brothers,</L>
+<L>Yet I can that deny.</L>
+</SP>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>What shall I tell him?</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Tell him, we are undone; I must not see him;</L>
+<L>And what's far worse, the King is jealous; tell him</L>
+<L>I love him&mdash;Tell him what is false, I hate him;</L>
+<L><PB N="50" REF="33">
+Say any thing; but let me not behold him;</L>
+<L>For oh! my Weakness he so fierce assaults,</L>
+<L>'Twill spoil&mdash;'Twill wrack my Conduct&mdash;See, he comes.</L>
+<STAGE><HI>Enter</HI> Piercy.</STAGE>
+<L>Most Cruel Piercy!&mdash;Cruel Brother rather&mdash;</L>
+<L>Help&mdash;Take, and bear me swiftly from the Danger.</L>
+</SP>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>Cast but one Look, and you must needs relent.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>What shall I do? which Passage shall I chuse? <STAGE>[Aside.</STAGE></L>
+<L>Arm me, kind Heav'n! against my Foe of Pity.</L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>Still, still she turns, and hides her treach'rous Eyes&mdash;</L>
+<L>Is't possible that she can feel Remorse?</L>
+<L>Or Pity after all? O no; she loves too well</L>
+<L>The fatal Cause that purchas'd all this Pomp&mdash;</L>
+<L>Stay, <HI>Anna Bullen!</HI> Stay; my Queen&mdash;Perhaps</L>
+<L>It is expected I should call you Queen:</L>
+<L>Behold your Hatred&mdash;</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Fly, good <HI>Piercy,</HI> fly:</L>
+<L>There's Nets preparing for your life and mine&mdash;</L>
+<L>There's nought but Snares and Quick-sands where we tread,</L>
+<L>Unfathom'd Pits hid under painted Grounds</L>
+<L>Where vast Destruction watches to devour us:</L>
+<L>Farewell&mdash;</L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>Hear me but first, and shew thy Face,</L>
+<L>Thy false, dissembling Beauties&mdash;</L>
+<L>Many when wrackt have been by Dolphins born,</L>
+<L>And safely landed on the welcome Shore:</L>
+<L>And in the Forests, nay, the Monsters Dens,</L>
+<L>The Passenger, half starv'd for want of Food,</L>
+<L>Has by the Lyons oft been spar'd and fed:</L>
+<L>But Cruel <HI>Bullen,</HI> Cruel Beauty kills</L>
+<L>All whom it Fetters, most on whom it Smiles.</L>
+<L>Nor can the Elements, nor gentler Brutes,</L>
+<L>Teach Woman to be pitiful or good.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Now, now just Heav'n! y'are showring all your Plagues</L>
+<L>At once upon my Head, and I will bear 'em;</L>
+<L>Bear 'em like one of you, and bless the Weight;</L>
+<L>Hear my self false upbraided, call'd most perjur'd,</L>
+<L>Deceitful, and the Monster of my Sex;</L>
+<L>Ev'n I, (who, you Revengeful Powers above.</L>
+<L><PB N="51" REF="33">
+Know,) love this Cruel Chider to a Fault!</L>
+<L>Ah <HI>Piercy, Piercy&mdash;</HI>Fly; for life begone;</L>
+<L>Each Minute that you stay brings Death to both.</L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>Ah, hold! If not for Love, for Pity stay.</L>
+<L>And if no just Complaint can pierce your hearing,</L>
+<L>Then Blessings shall: Ten thousand Blessings on you,</L>
+<L>If you will hear the Curst of Mankind speak.</L>
+</SP>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>Now, Sister, heard you that! By Heav'n it melts me.</L>
+<L>Sure I'm turn'd all the Woman, you the Man.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Give me your hand, kind Brother, and support me;</L>
+<L>Help, for I stagger with the treble Weight</L>
+<L>Of Grief, Despair, and Pity!</L>
+<L>My Senses all are charm'd, and Feet fast ty'd</L>
+<L>To this Inchanted Floor&mdash;Quick, or I'm lost.</L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>Yet turn; if there's one jot of Pity in you;</L>
+<L>If <HI>Piercy</HI> e're was worth one Thought, I charge you,</L>
+<L>By the lov'd Name of <HI>Anna Bullen,</HI> stay&mdash;</L>
+<L>What then, will nothing move? O inexorable!</L>
+<L>No not a Look! not <HI>Piercy</HI> worth one Look!</L>
+<L>Yet, <HI>Rochford,</HI> hold! Canst thou too be so Cruel!</L>
+<L>Fell and obdurate both!</L>
+<L>Is there no hope? but will you; will you then</L>
+<L>Begone?</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Fly, Brother, e're it be too late,</L>
+<L>For shou'd I listen but a Moment more,</L>
+<L>The strength of <HI>Hercules</HI> were not enough</L>
+<L>To draw me hence, so unruly is my Body,</L>
+<L>And my unwilling Soul so loth to part.</L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>Then with my Knees, thus fastning to the ground</L>
+<STAGE><HI>[Piercy</HI> kneels upon her Robe.</STAGE>
+<L>Your Robe, and thus with my extended Arms</L>
+<L>I'le force and charm you, 'till y'have heard my last</L>
+<L>Complaint: And then forbear to pity if you can.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Why dost thou hold?&mdash;Why do I hold my self?</L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>Ten thousand Curses light upon her Soul</L>
+<L>In Hell; and worse, what mine on Earth endures,</L>
+<L>That first taught Woman Falsehood&mdash;</L>
+<L>If for a Crown she's false! Oh may that Crown</L>
+<L>Sit loathsom on her Forehead as her Crimes,</L>
+<L>May Adders nest within th' Ambitious Round,</L>
+<L><PB N="52" REF="34">
+And into Stings the fatal Ermins turn.</L>
+<L>When dead, may all the Miseries she feels</L>
+<L>Be through the World recorded as a Mark</L>
+<L>For faithful Lovers to beware, and ne're</L>
+<L>Be nam'd without a Curse.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Ah Cruel <HI>Piercy!</HI></L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>But for my Queen, let Heav'n and Angels guard her;</L>
+<L>Her I except from any bitter Fate:</L>
+<L>Let <HI>Anna Bullen</HI>'s Breast be ne're disturb'd,</L>
+<L>Nor Soul upbraided with the Wrongs of <HI>Piercy:</HI></L>
+<L>And oh, kind Heav'n! if there be any Sorrow</L>
+<L>(As sure none e're can be) ordain'd for her,</L>
+<L>False as she is, I beg that it may fall</L>
+<L>Only on wretched <HI>Piercy</HI>'s Head&mdash;May Hers</L>
+<L>Be all the Pleasure still, and mine the Pain.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>O Gods! obdurate Heav'ns! Cruel Honour! <STAGE>[Aside.</STAGE></L>
+<L>And yet more Cruel Vertue, hear and see!</L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>And when I shall for ever be recluse,</L>
+<L>As now I go to part with all Mankind,</L>
+<L>'Twill be my Joy, sometimes to think of you,</L>
+<L>And make me live, perhaps, one Day the longer,</L>
+<L>When in my Melancholy Cell, I hear</L>
+<L>That the Crown flourishes on <HI>Bullen</HI>'s Head.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Ha! I'm or'ewhelm'd, the Sluces all are broke, <STAGE>[Aside.</STAGE></L>
+<L>And Pity, like a Torrent, pours me down;</L>
+<L>Now I am drowning, all within's a Deluge;</L>
+<L>Wisdom nor Strength can stem the Tide no more,</L>
+<L>And Nature in my Sex ne're felt the like&mdash;</L>
+<L>Help <HI>Rochford,</HI> e're I'm rooted to this Earth.</L>
+<L>Away, away! the least word more undoes me.</L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>Yet turn one Look upon me, e're you go.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>There, take it, with my life, perhaps the purchase&mdash;</L>
+<L>Take that too, <HI>Piercy,</HI> thou hast been betray'd. <STAGE>[Gives him a Letter.</STAGE></L>
+<L>Learn there th' unhappy <HI>Bullen</HI>'s Fate&mdash;Farewell.</L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>Yet stay&mdash;the Soul ne're parted with such pangs,</L>
+<L>From the pale Body, as you fly from me.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L><HI>Piercy</HI> adieu&mdash;I can&mdash;I will&mdash;I must</L>
+<L>No more. </L>
+</SP>
+<STAGE><HI>[Ex.</HI> Qu. <HI>and</HI> Roch.</STAGE>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>What, never see you more! She's gone,</L>
+<L>She's gone, more lov'd and beautiful than ever:</L>
+<L><PB N="53" REF="34">
+And now methought, just as she parted from me,</L>
+<L>She shot a Look quite through my gory Heart,</L>
+<L>And lest it Gasping, Dying, and Despairing&mdash;</L>
+<L>What's here, a Letter! and the Character</L>
+<L>That I so oft have been acquainted with?</L>
+<L>If these Eternal Kisses give me leave,</L>
+<L>I'le break it open with as great a Joy,</L>
+<L>As I had leap'd into our Marriage-Bed,</L>
+<L>And rifled all the Sweets and Pleasures there&mdash;</L>
+<L>What's this I read!</L>
+<STAGE>Reads.</STAGE>
+<Q><TEXT LANG="eng"><BODY><DIV1 TYPE="letter">
+<L>By Wicked <HI>Woolsey, Harry,</HI> and our Parents</L>
+<L>I was betray'd, and forc'd to Wed the King:</L>
+<L>Who intercepted all thy Letters, Swearing</L>
+<L>With Sacramental Oaths, that thou wert false,</L>
+<L>And Marry'd First&mdash;<HI>Piercy</HI> adieu, and Credit me,</L>
+<L>And that I lov'd thee better than my Life.</L>
+<L>Burn this rash Paper, lest the Fiends disclose it.</L>
+<CLOSER><SIGNED>BULLEN.</SIGNED></CLOSER>
+</DIV1></BODY></TEXT></Q>
+<L>She's Innocent! Oh! you Immortal Powers!</L>
+<L>She's Innocent! And then she loves me still.</L>
+<L>Sound, sound my Joy, till my Exalted Soul</L>
+<L>Is wound up to th' extreamest pitch of Bliss:</L>
+<L>Let <HI>Piercy</HI> never after this be sad&mdash;</L>
+<L>Yet hold&mdash;What dawn of Comfort can'st thou spy</L>
+<L>In this&mdash;Oh none&mdash;This Gloworm-Spark,</L>
+<L>This Glimps of Hope is vanisht, and I'm left</L>
+<L>In deeper Darkness, Horrour and Despair,</L>
+<L>Than e're I was before&mdash;</L>
+<L>Oh <HI>Anna Bullen!</HI> Curst in being true!</L>
+<L>And I more Curst in knowing it too late.</L>
+<STAGE><HI>Re-enter</HI> Queen <HI>and</HI> Rochford.</STAGE>
+<L>Ha! she returns! The mourning Angel comes</L>
+<L>Again! Sure Heav'n's in Love with both our Miseries,</L>
+<L>They look with such a Pomp and Train in me;</L>
+<L><PB N="54" REF="35">
+And are so beautiful in her!</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Well, Brother,</L>
+<L>And thou far stronger and Immortal Pity,</L>
+<L>And more Immortal Love, y' have brought me back&mdash;</L>
+<L>Ye have. What! what will you do with me now?</L>
+</SP>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>Could any thing on Earth! Tyger, or Panther,</L>
+<L>Much less a Creature form'd by Heav'n like It:</L>
+<L>Could you, I say, refrain at such an Object!</L>
+<L>At the last Words of the unhappy Wretch,</L>
+<L>And not forbear to balm him o're in Tears,</L>
+<L>Or else but hear him speak!</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Now I'm inclos'd again!</L>
+<L>The Combat now grows fierce and strong, and oh!</L>
+<L>How weak an Armour Resolution is,</L>
+<L>Against our Passions, or the Man belov'd:</L>
+<L>Virtue and Honour, hence be proud no more,</L>
+<L>Nor brag of your Dominion o're Mankind;</L>
+<L>Lest Love, most fatal Love, too soon should tell you,</L>
+<L>And make you feel, h' has mightier Chains than you&mdash;</L>
+<L>See where he is&mdash;Look Heav'n with tender Eyes;</L>
+<L>Give Council to my just despairing Soul,</L>
+<L>And tell me, Pity is no Sin&mdash;Ah <HI>Piercy!</HI></L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>My Charming Queen! my <HI>Anna Bullen</HI> once!</L>
+<L>Am I so Blest, and yet so wretched too,</L>
+<L>As what is written here contains; and tell me!</L>
+<L>May I believe that you can love me still?</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Oh <HI>Piercy! Piercy!</HI> urge me not to tell you</L>
+<L>What Heav'ns Austerity will not permit,</L>
+<L>Nor force me to declare&mdash;</L>
+<L>What the <HI>Eternal</HI> Sees already written</L>
+<L>In too broad Characters within my Breast;</L>
+<L>How large, how deep thy Story's graven here,</L>
+<L>And what I dare not, never must unfold&mdash;.</L>
+<L>Oh! I have said too much.</L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>What! said too much!</L>
+<L>Can you repent of one kind thought of <HI>Piercy?</HI></L>
+<L>And spitefully call back your tender Mercy!</L>
+<L>Nay, worse; Can you behold the almost Naked,</L>
+<L>And starv'd beseeching Wretch, and strive to pull</L>
+<L>The totter'd Remnants from his quivering Joints,</L>
+<L><PB N="55" REF="35">
+And dash the Pitcher from the greedy Lips</L>
+<L>Of one just ready to expire with Thirst?</L>
+<L>Oh Cruel Queen! For <HI>Anna Bullen</HI> would not,</L>
+<L>She would not, would not use her <HI>Piercy</HI> thus.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Cease, cease such sounds&mdash;</L>
+<L>And turn thy sad, resistless Eyes away;</L>
+<L>For if I once behold those Tears, and hear</L>
+<L>Thy just Complaints, I can no longer hold,</L>
+<L>But break I must through all the bonds of Virtue.</L>
+<L>Nay, stood the Jealous <HI>Harry</HI> by</L>
+<L>With all his Guards of Devils, <HI>Woolsey</HI>'s, <HI>Cardinals;</HI></L>
+<L>In spight of all, in spight of more my self</L>
+<L>I must both see, hear thee, and speak to thee,</L>
+<L>And pity thee. Now are you satisfied?</L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>It is enough, bright Daughter of the Sky:</L>
+<L>Y' have conquer'd me, my Deity, you have</L>
+<L>Here on my Knees, but yet at distance too,</L>
+<L>The Posture of a Soul in Extacy,</L>
+<L>I beg a thousand Pardons of my Queen.</L>
+<L>A Look, a Sigh, or Tear, from <HI>Anna Bullen,</HI></L>
+<L>Is far more worth than all the trifling Wrongs;</L>
+<L>Nay, than the Life and very Soul of <HI>Piercy.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Help me just Heav'n, who sees how I'm besieged,</L>
+<L>And what a weak Resistless Wretch I am!</L>
+<L>Why d'ye impose on us so hard a Task</L>
+<L>On poor Mankind, so feeble and so frail,</L>
+<L>Making us here Comissioners of Virtue,</L>
+<L>Yet put by Drams and Scruples in the Ballance,</L>
+<L>To Counter-poise and weigh down Flesh and Blood.</L>
+<L>How weaks my Will to draw my Body hence;</L>
+<L>And oh! how loath my Eyes are to depart,</L>
+<L>But with for ever to be fasten'd on thee,</L>
+<L>And look one Look to vast Eternity;</L>
+<L>Yet we must part, Ah, <HI>Piercy!</HI> part for ever&mdash;</L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>Ah say not so! must we so soon, my Queen!</L>
+<L>Is then this Moments Bliss so Criminal,</L>
+<L>That it must forfeit all my precious Hopes</L>
+<L>Of an Assurance once to meet again!</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>My mind now bodes to me, that 'tis our last:</L>
+<L>Yet I must bid thee go: There is no Joy for us;</L>
+<L><PB N="56" REF="36">
+<HI>The Worlds a Deluge all to thee and me&mdash;</HI></L>
+<L>There is no rest, my <HI>Piercy,</HI> in this World,</L>
+<L>No Sanctuary to lay the weary Head</L>
+<L>Of the undone, th' unpitty'd, and betray'd.</L>
+<L>Farewell: There's somewhat rises o're my Soul,</L>
+<L>And covers it as with a fatal Cloud</L>
+<L>Of Horror, Death, and Fear. It cannot be;</L>
+<L>The Sting of parting cannot do all this;</L>
+<L>Farewell, farewell.</L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>Stay; must we part for ever?</L>
+<L>What never! never meet again!</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Never till we are Clay, and then perhaps,</L>
+<L>Neglected as we were in Life, thrown out in Death,</L>
+<L>Some Charitable Man may be so kind,</L>
+<L>To give our poor forsaken Bodies Burial,</L>
+<L>Laying 'em both together in one Bed</L>
+<L>Of Earth.&mdash;</L>
+<L>Hah! the times come! my Fatal Doom's at Hand!</L>
+<STAGE>Three Drops of Blood falls from her Nose, and stains her Handkerchief.</STAGE>
+<L>Behold, the Heav'ns in Characters of Blood,</L>
+<L>In three inevitable Drops,</L>
+<L>Have seal'd it, and decreed that it is now!</L>
+<L>Ah <HI>Piercy!</HI> fly, and leave me here alone</L>
+<L>To stem this mighty Torrent of my Fate.</L>
+<L>Begone, while I have Life to bid thee go:</L>
+<L>For now Death stops my Tongue&mdash; <STAGE>[She Swoones.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>My Lord&mdash;</L>
+<L>She Faints&mdash;My Life! my <HI>Anna Bullen</HI> stay;</L>
+<L>Or your Commands shall Fetter me no more;</L>
+<L>But break I will through all the Bars of Distance,</L>
+<L>And catch thee thus, thus hold thee in my Armes&mdash;</L>
+<L><HI>Rochford!</HI> Oh help to call her back again.</L>
+<L>Hold, stop thy flight; thou precious Air return!</L>
+<L>Far richer than that rare Immaculate Breath,</L>
+<L>Which Natures God breath'd in the first of Mankind!</L>
+</SP>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>Wake Sister, wake! behold, no dangers nigh!</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Ah <HI>Piercy!</HI> Now I wake, with Courage now</L>
+<L>To meet my Fate; and see where it approaches.</L>
+</SP>
+<STAGE><PB N="57" REF="36">
+Enter <HI>Cardinal, Northumberland,</HI> and Guards.</STAGE>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>Ha! <HI>Woolsey,</HI> and my Father with the Guards!</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>My Lord, e're we discover our Commission,</L>
+<L>Pray, let your Son be parted from the Queen,</L>
+<L>Lest the wrong'd King should see him in his Rage,</L>
+<L>And Execute his worst of Fury on him.</L>
+</SP>
+<SP>
+<SPEAKER>North.</SPEAKER>
+<L>Son! tho' you have committed, in the Court,</L>
+<L>The greatest Crime, against your Royal Master,</L>
+<L>That e're a Subject can be guilty of;</L>
+<L>Yet in respect of these Gray Hairs and Tears,</L>
+<L>He has been pelas'd to spare your forfeit Life:</L>
+<L>Therefore begone: A Minutes stay is fatal&mdash;</L>
+<L>Guards, force him, if he goes not willingly,</L>
+<L>And carry him streight, by Barge, to <HI>Suffolk-</HI>House</L>
+<L>Without Reply.</L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>Obediently I'le go,</L>
+<L>If you will promise me that you have nought</L>
+<L>Against the Sacred Person of the Queen,</L>
+<L>And will not touch her: For 'tis greater Sacriledge,</L>
+<L>Then 'tis to hurt an Angel, cou'd it be,</L>
+<L>She is so Innocent, so Chast, and Pure.</L>
+<L>Else I'm resolv'd to stand, no Rock so firm!</L>
+<L>Fixt like the Center to the Massey Globe.</L>
+<L>You should as soon remove strong <HI>Hercules,</HI></L>
+<L>With his Hands grasping both the Poles of Heaven,</L>
+<L>As force me from this Footing, where I stand,</L>
+<L>And see the Queen but threatned, or in danger.</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>My Lord, on both our Honours, the Queens Person</L>
+<L>Shall be Inviolate and Sacred always;</L>
+<L>Nor know we ought against her&mdash;but the King</L>
+<L>Is coming streight to visit her, as kindly</L>
+<L>As he was wont: Therefore you must be gone&mdash;</L>
+<L>We have no other Reason, but your safety.</L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>I fear! for ah what Truth can come from thee?</L>
+<L>Thou speak'st but at the Second Hand from Hell&mdash;</L>
+<L>Kind Sir, May I believe what <HI>Woolsey</HI> says?</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>Confirm it, good my Lord, or you'l delay.</L>
+</SP>
+<SP>
+<SPEAKER>North.</SPEAKER>
+<L>'Tis true, what the great Cardinal has told you.</L>
+</SP>
+<SP>
+<PB N="58" REF="37">
+<SPEAKER>Queen.</SPEAKER>
+<L>Go, <HI>Piercy;</HI> and mistrust not more than I;</L>
+<L>Begone, if I have Power left to Command;</L>
+<L>Leave me to Innocence, and Heav'n that will not</L>
+<L>Permit a Soul that never did any ill,</L>
+<L>To fear it.</L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>Then I'le go&mdash;But oh Just Heav'n!</L>
+<L>And all you Angels, Cherubins, and Thrones:</L>
+<L>All you bright Guards to the most High Imperial,</L>
+<L>You kindest, gentlest, mildest Planets,</L>
+<L>You lesser Stars, you fair Innumerable,</L>
+<L>And all you bright Inhabitants above,</L>
+<L>Protect the Sacred Person of the Queen;</L>
+<L>And shed your balefull'st Venom on their Heads,</L>
+<L>That think to stain a Whiteness like your selves.</L>
+<L>Farewell&mdash;</L>
+</SP>
+<STAGE><HI>[Ex.</HI> Piercy.</STAGE>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Farewell!</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L><HI>Iohn</HI> Viscount <HI>Rochford,</HI> by the King's Command,</L>
+<L>W' Arrest you here, of Capital, High Treason.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Hear Heav'n! my Brother faln into the Snare!</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>And 'tis his Pleasure, that you streight be sent</L>
+<L>Close Prisoner to the <HI>Tower,</HI> with the Lord <HI>Norris,</HI></L>
+<L>Who is suspected with you to be Guilty</L>
+<L>Of the same hainous Crime. Guards! Seize his Person.</L>
+</SP>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>Base Villain! Traytor! <HI>Woolsey!</HI> Say, for what?</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>No matter. Let a Woman teach thee Courage:</L>
+<L>Ne're ask for what, since 'tis his wise Decree</L>
+<L>Above who gave us with a liberal Hand,</L>
+<L>And sate us on the highest Spoke of Greatness,</L>
+<L>No longer than he pleas'd to call us down&mdash;</L>
+<L>Well, Whose turn's next? Come, dart your worst, my Lords,</L>
+<L>And meet a temper'd Breast, that knows to bear.</L>
+<L>By my bright Hopes, y'are more afraid than I;</L>
+<L>I did expect you would begin with me!</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>Most Royal Madam, Oh! I wish the King</L>
+<L>Had chosen some less unwilling than our selves,</L>
+<L>To Execute this most detested Office.</L>
+<L>In Witness of it, on our Knees, with Tears <STAGE>[Kneels.</STAGE></L>
+<L>And Sorrow, we our sad Commission tell:</L>
+<L>It is the Kings most fatal Pleasure too,</L>
+<L>That you be sent a Prisoner to the <HI>Tower,</HI></L>
+<L><PB N="59" REF="37">
+And thence, immediately to both your Tryals. <STAGE>[Rises.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>Tryal! oh her wrong'd Innocence! for what?</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>No more, Dear Brother; let us both submit,</L>
+<L>And give Heav'n Thanks, and our most Gracious King;</L>
+<L>For I'm not so presumptuous of my Virtue;</L>
+<L>But think, Dear <HI>Rochford,</HI> that both you and I</L>
+<L>Have once committed, in our erring Lives,</L>
+<L>Something, for which we justly merrit Death.</L>
+<L>Though not, perhaps, the Thing we are accused of.</L>
+</SP>
+<STAGE>Enter the <HI>King</HI> in a Fury, with Letters in his Hand. At|tendants and Guards.</STAGE>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>The King is here!</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Then he is Merciful.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Where is this Woman! this most abhorr'd of Wives!</L>
+<L>This Scandal to her Sex, my Crown and Life!</L>
+<L>What by your Minion? oh good Natur'd Husband!</L>
+<L>Down on your Knees, and thank me for the favour&mdash;</L>
+<L>See&mdash;here are Letters faln into my Hands,</L>
+<L>Where your dear Brother says he has enjoy'd you.</L>
+<STAGE>[Gives the Letters to the <HI>Queen</HI></STAGE>
+<L>Oh thou more Damn'd, and more Insatiate far,</L>
+<L>Than <HI>Messalina.</HI> She was Chast, to thee.</L>
+<L>Her, half the Men and Slaves of <HI>Rome,</HI></L>
+<L>Could satisfy; but thou, not all Mankind,</L>
+<L>With Husband, Brother, Kindred in the Number. <STAGE>[She gives 'em <HI>Roch.</HI></STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Oh Heav'nly Pow'rs! oh Guard of Innocence! </L>
+<L>What do I see and hear! O Sacred Sir!</L>
+<L>You took me to your Royal Bed, a Hand-maid,</L>
+<L>The most unworthy of the mighty Favour;</L>
+<L>Oh throw me into Dungeons streight, or take</L>
+<L>Away my Life, that ne're offended you:</L>
+<L>Take all, in Recompence, from <HI>Anna Bullen!</HI></L>
+<L>'Tis yours; But do not Rob me of my Fame,</L>
+<L>Nor stain my Virtue with so foul a Guilt.</L>
+</SP>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>What's here? my Amorous Letters sent to <HI>Blunt!</HI></L>
+<L>Has she betray'd me!</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>I will hear no more&mdash; <STAGE>[To the Queen.</STAGE></L>
+</SP>
+<SP>
+<PB N="60" REF="38">
+<SPEAKER>Roch.</SPEAKER>
+<L>Ah Royal Sir, these Letters I confess&mdash;</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Damn thy hot Lustful Breath; thy Poysonous Tongue!</L>
+<L>Here, take 'em hence, to Tortures, Racks, to Death.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>O Sir! I am prepar'd for any Death;</L>
+<L>For worse than Death, a thousand, thousand Torments;</L>
+<L>And if you think 'em all not pain enough,</L>
+<L>Here, take Advice of <HI>Woolsey;</HI> Hee'l instruct you;</L>
+<L>Tell you, how you may plague this hated Body;</L>
+<L>But do not think that I'm so loath'd a Creature.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Quick; Take away thy Hands, or I will force thee&mdash;</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>You shall not, cannot, till I've Sworn the Truth:</L>
+<L>For, by th' unspotted Babe within the Womb,</L>
+<L>That yet lies wrapt in Innocence, unborn;</L>
+<L>By injur'd Truth, by Souls of Martyr'd Saints,</L>
+<L>By you, my Lord, my Husband, and my King!</L>
+<L>And by the King of Kings, the King of Heav'n,</L>
+<L>I'm wrong'd! Ah Royal, gracious Sir, I'm wrong'd.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Unhand me; or I'le spurn thee from thy hold&mdash;</L>
+<L>Seize, seize on <HI>Piercy&mdash;</HI>By my Life, who begs <STAGE>[To the Guards.</STAGE></L>
+<L>In his Behalf's a Traytor, worse than he&mdash; <STAGE>[To <HI>North.</HI> who kneels.</STAGE></L>
+<L>Here is another Letter too, it is from <HI>Norris,</HI></L>
+<L>Who much Commends your darling, secret Beauties,</L>
+<L>And sweetness of your Lips; Yet you are wrong'd!&mdash;</L>
+<L>Here's Notes of your Musician too, that Charm'd you.</L>
+<L>Eternal Hell! where's such another Monster?</L>
+<L>I have more Horns than any Forrest yields,</L>
+<L>Than <HI>Finsbury,</HI> or all the City Musters</L>
+<L>Upon a Training, or a Lord Mayors-Day.</L>
+<L>Rise! and Begon, thou Fiend, thou Sorceress;</L>
+<L>Thy Power, thy Charms, like Witch-craft, all have left thee.</L>
+<L>Go you incestuous Twins, make haste and mingle</L>
+<L>Your foul, Adulterate Blood in Death together&mdash;</L>
+<L>Oh, they're too long asunder. Why, dost Weep!</L>
+<L>Go to thy Death, and what's a greater pain,</L>
+<L>May Heav'n, like me, see all those Tears in vain.</L>
+</SP>
+<STAGE>[Ex. <HI>King,</HI> Attendants.</STAGE>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>Ah Sister! what dire Fiends must punish <HI>Rochford:</HI></L>
+<L>What will become of me, the Cause of all?</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Fear not. Heav'n knows thy Innocence, and mine!</L>
+<L>What tho' we suffer here a little shame!</L>
+<L><PB N="61" REF="38">
+'Tis to reward our Souls above, and with</L>
+<L>Immortal Restitution Crown 'em there&mdash;</L>
+<L>We two liv'd in one Mother's spotless Womb;</L>
+<L>And then we scarce had purer Thoughts than now!</L>
+<L>And shortly we shall meet together in</L>
+<L>One Grave.</L>
+</SP>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>O say not so: Death dare not be so Cruel.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Cease Brother, cease; say not a word in answer;</L>
+<L>But lead me, like a Valiant Man, to Chains.</L>
+<L>Come, let's prepare&mdash;But first my Pomp adieu!</L>
+<STAGE>[Kneels, and lays down her Crown.</STAGE>
+<L>From Heav'n I did my Crown and Life receive,</L>
+<L>And back to Heav'n both Crown and Life I'le give;</L>
+<L>And thus, in humble posture, lay it down</L>
+<L>With greater Joy than first I put it on. <STAGE>[Rises.</STAGE></L>
+<L>And now I tread more light, and see from far</L>
+<L>A Beamy Crown, each Diamond a Star.</L>
+<L>But oh, you Royal Martyrs! cease a while</L>
+<L>Your Crying Blood, that else must curse this Isle;</L>
+<L>Of the <HI>Imperial</HI> ask it with my Pray'r;</L>
+<L>For you are still the nearest Angels there:</L>
+<L>Then <HI>Richard, Edwards, Henry,</HI> all make room,</L>
+<L>The first of slaughter'd <HI>English</HI> Queens I come;</L>
+<L>Let me amongst your glorious, happy Train,</L>
+<L>Free from this hated World, and Traitors Reign. </L>
+</SP>
+<STAGE>[Ex. Ambo.</STAGE>
+<TRAILER>The End of the Fourth Act.</TRAILER>
+</DIV1>
+<DIV1 N="5" TYPE="act">
+<PB N="62" REF="39">
+<HEAD>ACT V. SCENE I.</HEAD>
+<STAGE>Enter <HI>Cardinal</HI> and <HI>Blunt</HI> severally.</STAGE>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>LUckiest of Omens! do I meet my <HI>Iuno!</HI></L>
+<L>My Fair, Illustrious Partner in Revenge!</L>
+<L>Come, tell the News that your glad Eyes proclaim:</L>
+<L>Speak, by thy Looks, I know it must be well.</L>
+<L>Is she Condemn'd? Shall <HI>Rome</HI> be Absolute?</L>
+<L>Shall <HI>Woolsey</HI> Reign, and shall my <HI>Blunt</HI> be Queen?</L>
+</SP>
+<SP>
+<SPEAKER>Blunt.</SPEAKER>
+<L>'Tis as thou say'st, most mighty of thy Function;</L>
+<L>Greatest that e're adorn'd this Robe, it is.</L>
+<L>These Eyes saw the bright <HI>English</HI> Sun Eclips'd,</L>
+<L>And what is more, Eclips'd by Thee and Me,</L>
+<L>Cast by her aweful Judges from her Height,</L>
+<L>Guilty and sham'd, as <HI>Lucifer</HI> from Heav'n,</L>
+<L>And forc'd to beg it, as the mildest Sentence,</L>
+<L>To lose her Head.</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>Then there's an end of <HI>Bullen.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Blunt.</SPEAKER>
+<L>And what to see, gave me the greater Joy;</L>
+<L>Those Letters counterfeited by the Fool</L>
+<L>Her Brother, were the strongest Proofs against her;</L>
+<L>So the same Papers which by your Advice</L>
+<L>I got convey'd into her Cabinet,</L>
+<L>Were the substantiall'st Circumstances found</L>
+<L>For which she dies.</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>O Just and Sacred Rage,</L>
+<L>Revenge! Thou greatest Deity on Earth!</L>
+<L>And Woman's Wit the greatest of thy Council.</L>
+</SP>
+<SP>
+<SPEAKER>Blunt.</SPEAKER>
+<L>We ought to veil before your Priestly Robe;</L>
+<L>My Crown of Wit shall ne're stand Candidate</L>
+<L>With yours; and yet I dare be bold to say,</L>
+<L>This I, and Malice would have done alone,</L>
+<L>Without the mighty Aid of <HI>Woolsey</HI>'s Brain.</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>Then nothing's to be done by Fate, nor <HI>Woolsey,</HI></L>
+<L>But take the vanquisht Crown from <HI>Bullen</HI>'s Head,</L>
+<L>And place it suddenly on yours.</L>
+</SP>
+<SP>
+<PB N="63" REF="39">
+<SPEAKER>Blunt.</SPEAKER>
+<L>For which,</L>
+<L>My gracious <HI>Woolsey,</HI> I will so reward you.</L>
+</SP>
+<STAGE>Enter to them <HI>Piercy.</HI></STAGE>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>Blackness Eternal cover all the World!</L>
+<L>Infernal Darkness, such as <HI>Aegypt</HI> felt,</L>
+<L>When the Great Patriarch curs'd the fatted Land,&mdash;</L>
+<L>And with a Word extinguisht all the light.</L>
+</SP>
+<SP>
+<SPEAKER>Blunt.</SPEAKER>
+<L>See, <HI>Piercy</HI>'s here! more mad than we are joyful:</L>
+<L>Does't not make young the Blood about thy heart,</L>
+<L>T' see that our Revenge not singly hits,</L>
+<L>But, like a Chain-shot carries all before it?</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>Let us avoid him&mdash;you intend to see</L>
+<L>The Queen receive her Death: But I, to hide</L>
+<L>The Pleasure that perhaps the sight would give me,</L>
+<L>Will pass this Day at <HI>Esher,</HI> like a Mourner.</L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>Behold, the Sun shines still; instead of Darkness,</L>
+<L>Yon Azure Blue's unspeckled with a Cloud;</L>
+<L>The Face of Heav'n smiles on her as a Bride,</L>
+<L>The Day, the Sun sits mounted on his Chariot,</L>
+<L>And darts his spightful Beams in scorn of Pity;</L>
+<L>'Bates not a jot of the Illustrious Pomp,</L>
+<L>He should have furnish'd on her Wedding-Day:</L>
+<L>Heav'n looks like Heav'n still, Nature as 'twas,</L>
+<L>Men, Beasts, and Devils; every thing that lives,</L>
+<L>Conspires, as pleas'd at <HI>Anna Bullen</HI>'s Fall.</L>
+<L>Behold, just Powers! the Curses of the Land!</L>
+<L>Stay you Amphibious Monsters, Priest, and Devil! <STAGE>[To the Card. and Blunt.</STAGE></L>
+<L>And Strumpet, if it can be, worse than both!</L>
+<L>You far more dreadful Pair than those that first</L>
+<L>Betray'd poor easie Man, and all Mankind:</L>
+<L>Thou fatal Woman Thou! and Serpent Thou!</L>
+<L>By whose sole Malice (oh that Heav'n should let it!)</L>
+<L>A greater Innocence this Day is fallen,</L>
+<L>Than ever blest the Walks of Paradise.</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>My Lord, I shall acquaint the King with this,</L>
+<L>And those just Lords the Judges of her Cause,</L>
+<L>Whom your base Malice wrongs&mdash;But I'm above it&mdash;</L>
+<L>Farewell. </L>
+</SP>
+<STAGE>[Ex. <HI>Card.</HI> <GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">nd <GAP DESC="illegible" RESP="OXF" EXTENT="1 word"></STAGE>
+<SP>
+<PB N="64" REF="40">
+<SPEAKER>Pier.</SPEAKER>
+<L>Bold Traytors! Hell-hounds! hear me first;</L>
+<L>Stay you infectious Dragons; do you flye!</L>
+<L>Does <HI>Anna Bullen</HI>'s Chastity and Virtue,</L>
+<L>Writ in this Angry Fore-head, make you start&mdash; <STAGE>[Exeunt.</STAGE></L>
+<STAGE>Enter <HI>Diana</HI> to him.</STAGE>
+<L>What, the fair, wrong'd <HI>Diana</HI>'s Face in Tears!</L>
+<L>Can <HI>Anna Bullen</HI>'s Miseries Attract</L>
+<L>The noblest of Compassion, Pity from</L>
+<L>A Rivals Breast! thou Wonder of thy Sex!</L>
+<L>How far more Wretched mak'st thou <HI>Piercy</HI> still,</L>
+<L>When I behold how much thou dost deserve,</L>
+<L>And I, so very little have to pay!</L>
+</SP>
+<SP>
+<SPEAKER>Dian.</SPEAKER>
+<L>What Rocky-heart could have refrain'd from Pity,</L>
+<L>To see the Sight that I did! any thing,</L>
+<L>But Man, most Cruel Mankind, would have griev'd;</L>
+<L>Tygers and Panthers would have wept to see her;</L>
+<L>And her base Judges, had they not been Men,</L>
+<L>Would have bemoan'd her like departing Babes.</L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>Is <HI>Rochford</HI> too Condemn'd?</L>
+</SP>
+<SP>
+<SPEAKER>Dian.</SPEAKER>
+<L>Alas! he is.</L>
+<L><HI>Rochford</HI> and <HI>Norris</HI> both, receiv'd their Sentence,</L>
+<L>And both behav'd themselves like Gallant Men&mdash;</L>
+<L>But for the Queen! Ah <HI>Piercy,</HI> such bright Courage,</L>
+<L>No thought can Dictate, nor no Tongue Relate,</L>
+<L>When she was tax'd with that unnatural Crime,</L>
+<L>Adultery with her Brother; ('Tis a Sin</L>
+<L>That e're it should be nam'd.) At first she started,</L>
+<L>And soon an Innocent, not Guilty, Red</L>
+<L>Adorn'd her Face, and Sainted it with Tears;</L>
+<L>But streight conceiving it a Fault, she Smil'd,</L>
+<L>Wip'd off the Drops, and chid the Blush away.</L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>When I am Dead, may my sad Tale be blest,</L>
+<L>And have no other Tongue, but thine, to tell it.</L>
+</SP>
+<SP>
+<SPEAKER>Dian.</SPEAKER>
+<L>Then with the meekness of a Saint she stood;</L>
+<L>With such amazing Oratory dazled,</L>
+<L>And like the Sun, darted quite through her Judges,</L>
+<L>And sham'd their Guilt, that none durst look upon her:</L>
+<L>But oh! what's destin'd in the blackest Pit</L>
+<L><PB N="65" REF="40">
+Of Hell; what Innocence can n'ere withstand.</L>
+<L>What e're she said, that Angels cou'd not siner,</L>
+<L>And shew'd a Soul, no Crystal nigh so clear;</L>
+<L>Tho' all appear'd to be the Plot of Devils;</L>
+<L>Yet was she guilty found, and, oh, sad <HI>Piercy!</HI></L>
+<L>(May all Eyes weep at it, like thine and mine)</L>
+<L>Condemn'd to lose her Head.</L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>Hell dare not think it.</L>
+</SP>
+<SP>
+<SPEAKER>Dian.</SPEAKER>
+<L>The Cruel Duke of <HI>Norfolk,</HI> her Relation,</L>
+<L>As Steward for the Day, pronounc'd the Sentence.</L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>And my hard hearted Father too was there.</L>
+</SP>
+<SP>
+<SPEAKER>Dia.</SPEAKER>
+<L>My Lord! What said you? your hard hearted Father?</L>
+<L>Oh blotted let it be from all Records,</L>
+<L>And never be in <HI>Englands</HI> Annals read,</L>
+<L>What I'm about to tell you. Her own Father,</L>
+<L>The Earl of <HI>Wiltshire,</HI> sate amongst her Judges.</L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>O Monster damn'd! than Cruel <HI>Titan</HI> worse,</L>
+<L>That eat up his own Issue as he got e'm.</L>
+</SP>
+<SP>
+<SPEAKER>Dia.</SPEAKER>
+<L>Behold, the King! All Knees, are bent, all Hands,</L>
+<L>All good mens Eyes lift up to Heav'n and him,</L>
+<L>To beg the Life of Her that glads the World.</L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>Make use of all thy Womans art to win him;</L>
+<L>Let all Petition him that share her Blood,</L>
+<L>Matrons, Wives, Virgins, all the charming Sex.</L>
+</SP>
+<SP>
+<SPEAKER>Dia.</SPEAKER>
+<L>Do you withdraw. You but incense the King&mdash;</L>
+<L>Iv'e yet a soft Experiment to try,</L>
+<L>Shall pierce his stubborn Nature to the Quick.</L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>That Angel, th'art inspir'd with prosper thee. </L>
+</SP>
+<STAGE>[Exeunt.</STAGE>
+<STAGE>Enter <HI>King</HI> and Attendants.</STAGE>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L><HI>Piercy!</HI> did I not charge he should be seiz'd?</L>
+<STAGE>[To the Guards who go out to seize <HI>Piercy.</HI></STAGE>
+<L>Now by the sacred Crown of <HI>Englands</HI> Monarchs,</L>
+<L>Let none entreat me upon pain of Death? <STAGE>[To Petitioners.</STAGE></L>
+<L>What's here? a List of base Petitioners,</L>
+<L><GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">or <HI>Norris</HI> Life! Hell and Confusion seize 'em</L>
+<L><GAP DESC="illegible" RESP="OXF" EXTENT="1 word"> I not like a Rock against the Seas,</L>
+<L><GAP DESC="illegible" RESP="OXF" EXTENT="1 word"> Mountain 'gainst the Winds stood thus unshaken,</L>
+<L>Deny'd all <HI>Englands</HI> Prayers, and Tears of Angels?</L>
+<L><PB REF="41">
+Nay more, this heart, that pleads with mortal pangs</L>
+<L>For my dear <HI>Anna Bullen</HI>'s life? And shall I</L>
+<L>Pardon a Slave before I would my Queen?</L>
+</SP>
+<STAGE>Enter <HI>Northumberland,</HI> who kneels.</STAGE>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Why dost kneel?</L>
+</SP>
+<SP>
+<SPEAKER>North.</SPEAKER>
+<L>I met my Son this most unlucky moment,</L>
+<L>Just as the Guards were ready to obey,</L>
+<L>And Execute your fatal orders on him,</L>
+<L>Who in despair, or rather in obedience,</L>
+<L>Making a faint resemblance to resist;</L>
+<L>As they were striving to put by his Sword,</L>
+<L>He on a sudden open'd wide his Arms,</L>
+<L>And on his Breast received a wilful wound.</L>
+<L>I kneel with humble Prayer's, that his Disaster</L>
+<L>would mitigate your present and just Fury,</L>
+<L>And grant my Son his freedom, till his hurt</L>
+<L>Is cur'd, which is not mortal.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Be it so.</L>
+</SP>
+<STAGE>Enter <HI>Diana,</HI> leading in the Toung Princess <HI>Elizabeth,</HI> with Women.</STAGE>
+<SP>
+<SPEAKER>Dian.</SPEAKER>
+<L>Pardon this bold Intrusion in your Presence.</L>
+<L>Your Daughter Sir, this little Princess here,</L>
+<L>Possest with Womans Rage, and far above</L>
+<L>The little sparkling Reason of a Child,</L>
+<L>Scream'd for her Father; Where's my Father, said she;</L>
+<L>And as we brought her to you, still she cry'd,</L>
+<L>Unless she saw her Father, she wou'd die.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>What wouldst thou have, my little <HI>Betty,</HI> say?</L>
+</SP>
+<SP>
+<SPEAKER>Child.</SPEAKER>
+<L>But will you promise me that you'l not frown,</L>
+<L>And cry aloud, Hough? and then indeed I'le tell you.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>I do. Come, Let me take thee in my Arms&mdash;</L>
+</SP>
+<SP>
+<SPEAKER>Child.</SPEAKER>
+<L>No: but I'le kneel: for I must be a Beggar,</L>
+<L>And I have learn't, that all who beg of you,</L>
+<L>Must do it kneeling.</L>
+</SP>
+<SP>
+<SPEAKER>North.</SPEAKER>
+<L>Prettiest Innocence!</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>well then, what is't my little Pratler, say?</L>
+</SP>
+<SP>
+<PB REF="41">
+<SPEAKER>Child.</SPEAKER>
+<L>I'm told that streight my Mother is to die,</L>
+<L>Yet I have heard you say, you lov'd her dearly:</L>
+<L>And will you let her die, and me die too?</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>She must die, Child; There is no harm in death;</L>
+<L>Besides the Law has said it, and She must.</L>
+</SP>
+<SP>
+<SPEAKER>Child.</SPEAKER>
+<L>Must! is the Law a greater King than you?</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>O yes. But do not cry my pretty <HI>Betty:</HI></L>
+<L>For she'l be happier when she's dead, and go</L>
+<L>To Heaven.</L>
+</SP>
+<SP>
+<SPEAKER>Child.</SPEAKER>
+<L>Nay, I'm sure shee'l go to Heav'n.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>How art thou sure?</L>
+</SP>
+<SP>
+<SPEAKER>Child.</SPEAKER>
+<L>Some body told me so</L>
+<L>Last night when I was in my sleep.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Who was it?</L>
+</SP>
+<SP>
+<SPEAKER>Child.</SPEAKER>
+<L>A fine Old man, like my Godfather <HI>Cranmer.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>Ay! there's the Egg that hatcht this Cockatrice.</L>
+</SP>
+<SP>
+<SPEAKER>Child.</SPEAKER>
+<L>Pray Father, what's that huge, tall, Bloody man?</L>
+<L>I n'ere saw him but once in all my life,</L>
+<L>And then he frighted me. He looks for all</L>
+<L>The World, just like the Picture of the Pope.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Why, don't you love the Pope?</L>
+</SP>
+<SP>
+<SPEAKER>Child.</SPEAKER>
+<L>No indeed don't I,</L>
+<L>Nor never will.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Ay, but you must my Dear;</L>
+<L>He is a fine old man too, if you saw him.</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>Go y'are a little Heretick.</L>
+</SP>
+<SP>
+<SPEAKER>Child.</SPEAKER>
+<L>A Heretick!</L>
+<L>Pray Father, what does that bold Fellow call me?</L>
+<L>What's that?</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Why, that's One that forsakes the right,</L>
+<L>And turns to a new, wrong Religion.</L>
+</SP>
+<SP>
+<SPEAKER>Child.</SPEAKER>
+<L>Then I'm no Heretick: For I ne're turn'd</L>
+<L>In all my life. But you forget your Child.</L>
+<L>Dear Father, will you save my Mother's life?</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>You must not call me Father: For they say,</L>
+<L>Y'are not my Daughter.</L>
+</SP>
+<SP>
+<SPEAKER>Child.</SPEAKER>
+<L>Who's am I then?</L>
+<L>Who told you so? That ugly old, bald Priest?</L>
+<L>He tells untruth. I'm sure you are my Father?</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>How art?</L>
+</SP>
+<SP>
+<PB N="68" REF="42">
+<SPEAKER>Child.</SPEAKER>
+<L>Cause I love none so well as you&mdash;</L>
+<L>But oh you'l never hear me what I have to say,</L>
+<L>As long as He, that Devil there, stands by</L>
+<L>Your Elbow.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Ha! what Devil?</L>
+</SP>
+<SP>
+<SPEAKER>Child.</SPEAKER>
+<L>That Red Thing there.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Oh Child; He is no Devil, he's a Cardinal.</L>
+</SP>
+<SP>
+<SPEAKER>Child.</SPEAKER>
+<L>Why does he wear that huge, long Coat then?</L>
+<L>Unless it be to hide his Cloven Feet.</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>Sir, all's design'd by <HI>Cranmer</HI> for the Queen,</L>
+<L>Of whom Sh'as learnt this Lesson like a Parot.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Take her away. I were a Fool indeed,</L>
+<L>I<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter"> Womens Tears, and Childrens idle Prattle,</L>
+<L>Should change my fixt Resolves, and cheat my Justice&mdash;</L>
+<L>Away with her.</L>
+</SP>
+<SP>
+<SPEAKER>Child.</SPEAKER>
+<L>Oh, but they dare not:</L>
+<L>Father, will you not let your <HI>Betty</HI> kiss you?</L>
+<L>Why do you let 'em pull me from you so?</L>
+<L>I ne're did anger you:</L>
+<L>Pray save my Mother, Dear King-Father do;</L>
+<L>And if you hate her, we will promise both,</L>
+<L>That she and I will go a great, huge way,</L>
+<L>And never see you more.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Unloose her; hough!</L>
+<L>Hence with her straight: I will not hear her prate</L>
+<L>Another word. Go, y'are a naughty Girl.</L>
+</SP>
+<SP>
+<SPEAKER>Child.</SPEAKER>
+<L>Well, I'm resolv'd when I am grown a Woman,</L>
+<L>I'le be reveng'd, and cry, Hough, too.</L>
+</SP>
+<STAGE><HI>[Ex.</HI> Diana, Princess, <HI>Women.</HI></STAGE>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Ha! Spirit!</L>
+<L>Mount all the Draw-Bridges, and guard the Gates,</L>
+<L>Then bring the Prisoners sorth to Execution:</L>
+<L><HI>Norris,</HI> and <HI>Rochford</HI> first, and then the Queen:</L>
+<L>My Lord <HI>Northumberland,</HI> be it your Task;</L>
+<L>Dispatch my Orders straight, and fetch the Traytors&mdash;</L>
+<L>What's this that gives my Soul a sudden Twitch?</L>
+<L>And bids me not proceed. Ha! is't Compassion!</L>
+<L>Shall Pity ever fond the Breast of <HI>Harry!</HI></L>
+<L>'Tis but a slip of Nature, and I'le on.</L>
+<L><PB REF="42">
+Think on thy Wrongs; the Wrongs her Lust has done thee,</L>
+<L>And sweep away this loath'd Incestuous, Brood,</L>
+<L>As Heav'n would drive a Plague from off the Land:</L>
+<L>Think thou shalt have thy <HI>Sey<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">or</HI> in thy Arms,</L>
+<L>Who shall restore thy loss with double Charms:</L>
+<L>And tho' my <HI>Bullen</HI> sets this Night, and dies,</L>
+<L><HI>Seymor,</HI> next Morn, like a new Sun shall rise.</L>
+</SP>
+<STAGE>[Ex. <HI>King.</HI> Attendants.</STAGE>
+<SP>
+<SPEAKER>North.</SPEAKER>
+<L>With an unwilling Heart, I take this Office.</L>
+<L>And Heav'n, if <HI>Anna Bullen</HI>'s Innocent,</L>
+<L>Forgive me, since it is my King's Command.</L>
+<L>My Breast is sad, and tender for her, all;</L>
+<L>Tho' <HI>Piercy</HI> ne're can rise, but by her Fall&mdash;</L>
+</SP>
+<STAGE>Enter to him <HI>Rochford, Lieutenant,</HI> and Guards.</STAGE>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>Wil't not be granted, that I here may see</L>
+<L>My Sister e're I dye, to part with her?</L>
+</SP>
+<SP>
+<SPEAKER>Lieut.</SPEAKER>
+<L>There is my Lord <HI>Northumberland,</HI> he'l tell you.</L>
+</SP>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>My Lord, y'are come to see a wretched Pair</L>
+<L>Of <HI>Ormonds</HI> Issue leave this fatal World.</L>
+<L>Shall we not meet, and take our last Farewell?</L>
+</SP>
+<SP>
+<SPEAKER>North.</SPEAKER>
+<L><HI>Norris,</HI> my Lord, is now upon the Scaffold.</L>
+<L>Then your turn follows; but before that time,</L>
+<L>I guess the Queen will be prepar'd, and come.</L>
+</SP>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>Forgive me, Heav'n, my Passion, and my Crime,</L>
+<L>For Natures choice of a wrong, fatal Object,</L>
+<L>Loving too well, what in effect was ill.</L>
+<L>O all you strict Idolaters of Beauty!</L>
+<L>You fond, severe Adorers of that Sex,</L>
+<L>Who think that all their Vices cannot Center</L>
+<L>In one vile Womans Breast; see, and repent!</L>
+<L>Behold 'em all together</L>
+<L>In the Infernal <HI>Blunt,</HI> in Her they're fix'd.</L>
+<L>Thus have they all been Curst, and thus they all</L>
+<L>Have been betray'd, that lov'd so well as I.</L>
+</SP>
+<STAGE><PB N="70" REF="43" MS="y">
+Enter <HI>Queen</HI> going to Execution all in White: <HI>Diana,</HI> Women in Mourning; Guards.</STAGE>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Come, where are those must lead me to my Fate?</L>
+<L>To a more Glorious, Happy Marriage-Bed,</L>
+<L>And my Eternal Coronation Day&mdash;</L>
+<L>What, <HI>Piercy</HI>'s Father! must he do the Office?</L>
+<L>Still I can bear it all, and bear it bravely.</L>
+</SP>
+<SP>
+<SPEAKER>North.</SPEAKER>
+<L>Madam! it is the Kings severe Command,</L>
+<L>That I attend your Majesty to th' Scaffold.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Enough, my Lord, you might have spar'd that Title:</L>
+<L>Alas! I wish it ever had been spar'd&mdash;</L>
+<L>I should have been, if Malice had not reign'd,</L>
+<L>Your <HI>Piercy</HI>'s Wife, the Scope of my Ambition:</L>
+<L>I ne're had then been mounted to a Throne;</L>
+<L>Then this unhappy hour had never been.</L>
+</SP>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>Mind this you Rocky World, and mourn in Chaos.</L>
+<L>Such Words as these the Heav'ns must weep to hear,</L>
+<L>And make yon Marble Roof dissolve in Tears.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>What! do you Weep? to see your Mistress Glory!</L>
+<L>That she shall streight wipe off the Stain on Earth</L>
+<L>She bears, with an unspotted Fame in Heav'n?</L>
+<L>I charge you, by my hopes, and by your hopes,</L>
+<L>When you are going where I soon shall go;</L>
+<L>By the Illustrious Pomp I long to meet,</L>
+<L>The Sacred, Just Rewards of injur'd Truth;</L>
+<L>Acquaint this Noble Lord, and all here present,</L>
+<L>If e're you saw in all my Nights, or Days,</L>
+<L>Or in my looser Hours of Mirth or Humour,</L>
+<L>The smallest sign of that most horrid Guilt</L>
+<L>That I'm condemn'd for?&mdash;Why, are you all dumb?</L>
+<L>If you are loth to tell it whilst I live,</L>
+<L>Proclaim it when I'm dead, to all the World,</L>
+<L>That Heav'n may bar the Gates of Bliss against me,</L>
+<L>And throw me to the blackest of Hells Dungeons,</L>
+<L>Where all Dissemblers at their Death shall howl.</L>
+</SP>
+<SP>
+<SPEAKER>Wom.</SPEAKER>
+<L>Alas! most Gracious Mistress, none can wish</L>
+<L>Themselves more Innocent for Death than you.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>What dost thou weep, unhappy Brother too!</L>
+<L><PB N="71" REF="43">
+Oh shew me not suspected, nor thy self</L>
+<L>So Guilty, by such softness&mdash;Learn of me!</L>
+<L>This Breast that's petrify'd by constant Woes!</L>
+<L>By all my Wrongs, m'Injustice, and my Cause,</L>
+<L>Who sees me weep, they shall be tears of Joy.</L>
+<L>Who grieves to leave the World, shall never come</L>
+<L>Where I am going, where all sorrow's banish'd.</L>
+</SP>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>Tho'I am innocent, my Fate is not;</L>
+<L>'Tis that has been unjust to thee and me.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Tho' 'tis a Common, 'tis a fatal sign,</L>
+<L>We weep when we are born: but it was</L>
+<L>More ominous, and much more fatal prov'd,</L>
+<L>From these prophetick Eyes there gusht a shower,</L>
+<L>When <HI>Harry</HI> gave his Faithless hand to me;</L>
+<L>And on my Coronation day the like,</L>
+<L>My bodeing Heart another Tribute rack'd,</L>
+<L>Methought there sate a Mountain on my Head,</L>
+<L>The Curses of wrong'd <HI>Katherine</HI> weigh'd me down;</L>
+<L>And made my Crown indeed a Masley Crown.</L>
+</SP>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>Deny me not a little tender Grief,</L>
+<L>For every drop of Blood that's to be shed,</L>
+<L>Of that inestimable Mass of thine,</L>
+<L>My Soul must rack a thousand years in Hell.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Forbear such words&mdash;You have not injur'd me!</L>
+<L>I might as well tax Providence, as you:</L>
+<L>For Heav'n, that heard the Perjury of Villains,</L>
+<L>Might, if it pleas'd, have chok'd 'em with its Thunder,</L>
+<L>Or sent 'em with a Lightning blast to Hell!</L>
+<L>But he has bent their Rage another way, <STAGE>[One whispers <HI>North.</HI></STAGE></L>
+<L>And on their Malice we shall safely mount,</L>
+<L>As on a Cherubin to Heav'n.</L>
+</SP>
+<SP>
+<SPEAKER>North.</SPEAKER>
+<L>My Lord,</L>
+<L>You must prepare; a Messenger is come,</L>
+<L>Who brings the News that <HI>Norris</HI> is beheaded.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Alas! unhappy <HI>Norris!</HI> art thou dead?</L>
+<L>Yet why do I so much wrong to pity thee?</L>
+<L>Thou'rt happier by some moments now than I.</L>
+</SP>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>Come! lead me to my rest, my rest from wrongs.</L>
+<L>Now, <HI>Anna Bullen,</HI> teach me all thy Courage;</L>
+<L>Thy Innocence, that makes the Heav'ns amaz'd:</L>
+<L><PB N="72" REF="44">
+And the more guilty Angels blush to see.</L>
+<L>Help me to pass this <HI>Rubicon</HI> of Parting,</L>
+<L>This mid-way Gulph that hangs 'twixt Earth and Sky!</L>
+<L>Then that blest Region, all beyond is mine,</L>
+<L>And <HI>Caesar</HI> was not half so great as I.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Go! be a lucky Harbinger for me;</L>
+<L>Tell all the Saints, and Cherubins, and Martyrs,</L>
+<L>Tell all the Wrong'd, that now are righted there,</L>
+<L>Till it shall reach the high, <HI>Imperial</HI> Ear,</L>
+<L>That <HI>Anna Bullen</HI> is a coming streight.</L>
+</SP>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>Wilt not embrace thy dying Brother first?</L>
+<L>One Father and one Mother gave us Birth;</L>
+<L>And one Chast, Innocent Natures Bed inclos'd us&mdash;</L>
+<L>These are our Parents Arms, and so are thine.</L>
+<L>Then all you Saints above, and Men below,</L>
+<L>Bear Witness, and I vow it on my Death,</L>
+<L>It is the greatest, first, and only favour</L>
+<L>I e're receiv'd from <HI>Anna Bullen</HI>'s Person.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>In spite of Scandal, Malice, and the World;</L>
+<L>Nay, were the King and our vile Judges by,</L>
+<L>Since Heav'n is satisfy'd it is no Sin;</L>
+<L>I will embrace thee, think I've in my Arms,</L>
+<L>Both Father, Mother, Sister, Brother, all;</L>
+<L>And Envy cannot blame me now for this.</L>
+</SP>
+<SP>
+<SPEAKER>Roch.</SPEAKER>
+<L>Thus, let thy Soul into my Bosom fly;</L>
+<L>That I may feel the stroke of Death for thee;</L>
+<L>And when the fatal Ax hangs o're thy Head,</L>
+<L>O may it full Thee, and not strike thee dead;</L>
+<L>Softer than Infants Dreams, or with less pain,</L>
+<L>Than 'tis to sleep, or to be born again&mdash;</L>
+</SP>
+<STAGE>[Ex. <HI>Roch.</HI> to Ex|ecution.</STAGE>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>So, this is past and vanquisht! but behold</L>
+<L>A greater yet&mdash;Now I begin to dread&mdash;</L>
+<STAGE>Enter <HI>Diana,</HI> with the young Princess, and Women.</STAGE>
+<L>Ah kind <HI>Diana,</HI> wonderful and good!</L>
+<L>The pity that thou shew'st thy dying Friend,</L>
+<L>This little one, I hope, will live to pay.</L>
+</SP>
+<SP>
+<SPEAKER>Dian.</SPEAKER>
+<L>Ah Royal Mistress! <HI>England</HI>'s falling Star!</L>
+<L>Best Pattern that e're Earth receiv'd from Heav'n&mdash;</L>
+<L><PB N="73" REF="44">
+I need not fear these Eyes should see you dye.</L>
+<L>For e're that time, just grief shall-strike me dead;</L>
+<L>Or Torrents of these Tears will make me blind.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Come, lift her to my Arms, and let me kiss her,</L>
+<L>For'tis the last kind Office you will do me.</L>
+<L>Now let me press thy little Coral-Lips</L>
+<L>With my dead pale ones now! and oh let me</L>
+<L>Infuse some of thy Mothers latest Breath,</L>
+<L>In Blessings on thy tender, blooming Soul&mdash;</L>
+<L>What's this that tempts me with a Mothers Fondness!</L>
+<L>To break my Resolution, and upbraids me,</L>
+<L>That I must leave thee to a Father's Rage,</L>
+<L>And yet more cruel Enemies to both?</L>
+<L>Leave thee a Lamb, 'mongst Wolves; for all who've been</L>
+<L>Thy Mothers Foes will certainly be thine.</L>
+</SP>
+<SP>
+<SPEAKER>Dian.</SPEAKER>
+<L>Tygers, nor Devils! or what's more inhumane;</L>
+<L>Envy of Mankind cannot be so Curst.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>See, see <HI>Diana!</HI> by my Wrongs it weeps,</L>
+<L>Weeps like a thing of Sense, and not a Child;</L>
+<L>Like one well understood in Grief; the Tears</L>
+<L>Drop sensibly in order down its Cheeks;</L>
+<L>And drowns its pretty Speech in thoughtful Sorrow.</L>
+<L>Nothing could shoot Infection through my Breast,</L>
+<L>But this; and this has done it&mdash;</L>
+<L>Why weeps my Child? Ah, what a Question's that!</L>
+</SP>
+<SP>
+<SPEAKER><GAP DESC="illegible" RESP="OXF" EXTENT="3 letters">n.</SPEAKER>
+<L>Behold! how't strives, and betwixt Tears and Throbs,</L>
+<L>If it could form a Language, it would speak.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Strive not for Words, my Child; these little drops</L>
+<L>Are far more Eloquent than Speech can be&mdash;</L>
+<L>Be pitiful, my Lord; and thou, my kind</L>
+<L><HI>Diana,</HI> ever faithful to thy Queen;</L>
+<L>When I am dead, as shortly I shall be,</L>
+<L>Take this poor Babe, and carry't to the King;</L>
+<L>Its Lips just pregnant with its Mother's Fondness,</L>
+<L>Perhaps he'l take her then into his Arms;</L>
+<L>And tho' the favour were to me deny'd;</L>
+<L>Steal there a Kiss of mine.</L>
+<L>Say, 'tis the last Request of <HI>Anna Bullen</HI>&mdash;</L>
+</SP>
+<SP>
+<SPEAKER>North.</SPEAKER>
+<L>Remove the little Princess</L>
+<L>To her Apartment, where we streight will come.</L>
+<PB N="72" REF="45">
+<GAP DESC="duplicate" EXTENT="1 page">
+<PB N="73" REF="45">
+<GAP DESC="duplicate" EXTENT="1 page">
+<L><PB N="74" REF="46" MS="y">
+And wait on her, as is the Queen's Command.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Yet let me hold her but a moment longer,</L>
+<L>And with this Kiss, that now must be my last,</L>
+<L>Unlock a Secret, which Heav'n dictates to me.</L>
+<L>If e're there is a Light that does transcend</L>
+<L>Dark, humane Knowledge in the Breast of Man,</L>
+<L>Fate to foresee, there is a Light at Death,</L>
+<L>And that now bids me speak. Thou, little Child,</L>
+<L>Shalt live to see thy Mother's Wrongs o're paid</L>
+<L>In many Blessings on thy Womans State.</L>
+<L>From this dark Calumny, in which I set,</L>
+<L>As in a Cloud; thou, like a Star, shalt rise,</L>
+<L>And awe the Southern World: That holy Tyrant,</L>
+<L>Who binds all <HI>Europe</HI> with the Yoak of Conscience,</L>
+<L>Holding his Feet upon the Necks of Kings;</L>
+<L>Thou shalt destroy, and quite unloose his Bonds,</L>
+<L>And lay the Monster trembling at thy Feet.</L>
+<L>When this shall come to pass, the World shall see</L>
+<L>Thy Mothers Innocence reviv'd in thee.</L>
+</SP>
+<STAGE>[Ex. Women with the Princess <HI>Eliz.</HI></STAGE>
+<SP>
+<SPEAKER>North.</SPEAKER>
+<L>Madam! with greater pain to me than Racks,</L>
+<L>I'm forc'd to let you know your Brother's dead:</L>
+<L>And that, alas! you must prepare.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>My Lord!</L>
+<L>I thank you, you mistake your noble Office;</L>
+<L>It is the Voice of Angels to wrong'd Martyrs;</L>
+<L>The sound of Cherubs trumpetting from Heav'n&mdash;</L>
+<L>I've heard it said, amongst our many Ends,</L>
+<L>Beheading is the mildest Death of any.</L>
+<L>If it be so; I thank my Gracious Lord:</L>
+<L>For I was never us'd to pain&mdash;How say you?</L>
+</SP>
+<SP>
+<SPEAKER>North.</SPEAKER>
+<L>We cannot wish you less, since y'are to dye.</L>
+<L>And if the Heads-man do as he's commanded,</L>
+<L>'Twill be no more, than 'tis to drop asleep.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>My Lord, I've but a little Neck;</L>
+<L>Therefore I hope he'l not repeat his Blow;</L>
+<L>But do it, like an Artist, at one stroke.</L>
+</SP>
+<SP>
+<SPEAKER>North.</SPEAKER>
+<L>There is no fear. He has particular Order.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Then let me go; Heav'n chides my fond delay&mdash;</L>
+<L>But tell the King, I say it as I just</L>
+<L><PB N="75" REF="46">
+Am going to dye; I both forgive, and bless him,</L>
+<L>And thank him as my kindest Benefactor&mdash;</L>
+<L>First from an humble Maid he lifted me</L>
+<L>To Honour; then he took me to his Bed,</L>
+<L>The highest State that I could be on Earth;</L>
+<L>And now, as if he thought he ne're could do</L>
+<L>Enough for me, has mounted me to Heav'n&mdash;</L>
+</SP>
+<SP>
+<SPEAKER>North.</SPEAKER>
+<L>Mr. Lieutenant on, and lead the way.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>If 'tis no Sin to skip one moment now</L>
+<L>Of what belongs to Heav'n; let me remember</L>
+<L>Poor <HI>Piercy</HI> once&mdash;Here, take this Innocent Kiss,</L>
+<L>A Token to you both&mdash;'Tis thine and his&mdash;</L>
+<L>Farewel! <HI>Diana.</HI> Farewell to you all.</L>
+</SP>
+<SP>
+<SPEAKER>Dian.</SPEAKER>
+<L>A long farewell to all our Sexes Glory.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Weep not for me; but hear my dying Sentence.</L>
+<L>Any that shall hereafter fall like me.</L>
+<L>Falsly accus'd by wicked Men and Traytors;</L>
+<L>Tho' in this World y'are great, in Virtue strong;</L>
+<L>Never Blaspheme, and say that Heav'n does wrong;</L>
+<L>Nor think an undeserved Death is hard;</L>
+<L>For Innocence is still its own Reward.</L>
+<L>And when th' Almighty makes a Saint, sometimes</L>
+<L>He acts by Contraries, and Villains Crimes,</L>
+<L>Whilst thus, their Malice always cheated is,</L>
+<L>And leads us but the nearest way to Bliss.</L>
+</SP>
+<STAGE>[Exit Queen to Execution, with <HI>Northumberland</HI> and Guards.</STAGE>
+<STAGE>Enter <HI>Piercy</HI> alone.</STAGE>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>I dread the horrid deed is done, or now</L>
+<L>A doing, else what means this sudden Gloom</L>
+<L>Clad o're the Morning Sky, and all Mankind:</L>
+<L>All pass with Horror <GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">y, with frighted Looks and Voice</L>
+<L>Lift up to H<GAP DESC="illegible" RESP="OXF" EXTENT="2 letters">v'n, who sees and hears in vain;</L>
+<L>Then shake their melancholly heads like Time:</L>
+<L>A general Consternation seizes all,</L>
+<L>As if the Universal Empress of the World,</L>
+<L>Nature it self, were fled with <HI>Anna Bullen&mdash;</HI></L>
+<STAGE><PB N="76" REF="47">
+Enter a Gentleman with a Hanckerchief stain'd with the Queens Blood.</STAGE>
+<L>Hast thou beheld this great Eclipse of Virtue?</L>
+<L>Speak, is the Queen Beheaded? Hast thou done</L>
+<L>As I commanded?</L>
+</SP>
+<SP>
+<SPEAKER>Gent.</SPEAKER>
+<L>Sir, when the fatal blow I saw perform'd,</L>
+<L>Swift as a Whirlewind, through the Crowd I rush't,</L>
+<L>And, as the Blood from their rich Vessels drain'd,</L>
+<L>This Linnen with the Sacred Crimson stain'd.</L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>Giv't me! and leave me to my self a moment.</L>
+<L>Now Sacred Drops, now Heavenly Nectar, first</L>
+<L>I'le kiss, then pledge you with a Dying Thirst&mdash;</L>
+<L>What's this! I feel my Soul beat at my Wound,</L>
+<L>And bid me to remember now's the time;</L>
+<L>Now to let out Life's Navigable Stream,</L>
+<L>And mix it with this most Celestial Flood,</L>
+<L>Thus, as kind Rivers to their Ocean run.</L>
+<L>First I'le descend by just degrees to Earth,</L>
+<L>Thus on my Knees, and wing my Soul to Heaven, <STAGE>[Kneels.</STAGE></L>
+<L>Where <HI>Anna Bullen</HI> waits her <HI>Piercy</HI>'s coming;</L>
+<L>And with this Bloody Sign the Pow'rs implore,</L>
+<L>Like a poor Wretch, Ship-wrackt on some Lone-shoar,</L>
+<L>Who spies a Sail far off, waves 'em his Hand</L>
+<L>To come, and waft him from the Barren Land.</L>
+<STAGE><HI>Enter</HI> Diana.</STAGE>
+<L>Behold the good <HI>Diana&mdash;</HI>By those Tears,</L>
+<L>Something of horror 'tis thou hast to say.</L>
+</SP>
+<SP>
+<SPEAKER>Dian.</SPEAKER>
+<L>Alas! my Lord, what have you done?</L>
+<L>Your Wound does bleed afresh!</L>
+<L>Your Looks are alter'd! all those Masculine Beauties,</L>
+<L>That shone in your Illustrious Face, and made</L>
+<L>The noblest brave Epitomy of Mankind,</L>
+<L>Are vanisht on a sudden, and you hang</L>
+<L>Like a pale Carcass on my trembling Arms&mdash;</L>
+<L>Hah! let me run and call for help&mdash;I'le fetch</L>
+<L>Your Father, fetch the King. Quick, let me go&mdash;</L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>O Bear me to some horrid Desart rather,</L>
+<L><PB N="77" REF="47">
+Where naught but Tygers, Wolves, and Panthers breed,</L>
+<L>They are more merciful than King or Parent.</L>
+<L>I feel, like the wrong'd <HI>Patriarch,</HI> a desire</L>
+<L>To do some fatal Mischief with my End.</L>
+<L>Stand by me; and Correct me with thy Virtue,</L>
+<L>Else I shall lose the Duty of a Son,</L>
+<L>And Subject; do a rashness to be fam'd for,</L>
+<L>Pull down a Show'r of Curses on the Heads</L>
+<L>Of this <HI>Philistim-</HI>King, and Cruel Father.</L>
+</SP>
+<SP>
+<SPEAKER>Dian.</SPEAKER>
+<L>Still, still your looks grow Paler, and your strength</L>
+<L>Decays! Oh let me call some help. Who's there?</L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>Grief, like a subtile Limbeck, by degrees,</L>
+<L>With still Dissusion quite dissolves my heart,</L>
+<L>And steals by drops my Blood and Spirits away.</L>
+<L>But first <HI>Diana,</HI> I'le be just to thee&mdash;</L>
+<L>I doubt if I have strength to rise again&mdash;</L>
+<STAGE>[She raises him upon his Knees.</STAGE>
+<L>My Father made me Vow to be your Husband;</L>
+<L>If I here die&mdash;I kneel that you'd forgive me;</L>
+<L>But if I live, I'le keep my Promise to you.</L>
+</SP>
+<SP>
+<SPEAKER>Dian.</SPEAKER>
+<L>You Faint, you Sink, you Die; some Creature help&mdash;</L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>Go, strive to Lave the Water of the Sea,</L>
+<L>And Quench the burning <HI>Aetna,</HI> 'tis in vain,</L>
+<L>And so are <HI>Esculapius</HI> Remedies to me&mdash;</L>
+<L>Look, see'st thou this, as long as I have this,</L>
+<STAGE>[Shews the Handkerchief.</STAGE>
+<L>This here, to waft me o're Deaths dreadful Main,</L>
+<L>I need no Sword, no Poison, nor no Pain.</L>
+</SP>
+<SP>
+<SPEAKER>Dian.</SPEAKER>
+<L>What's that I see? Your Blood? Your vital Blood!</L>
+</SP>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>Yes! Of a Heart far Dearer than my own.</L>
+<L>Now, now my Blood, my Crowd of Spirits, all</L>
+<L>Rush to behold, and with their Standard fall.</L>
+</SP>
+<SP>
+<SPEAKER>Dian.</SPEAKER>
+<L>Why stand I here, like Marble made of Woe,</L>
+<L>And run not for the Cure of both our Lives?</L>
+<L>For shou'd I stay, I shall betray my Love</L>
+<L>In dying with him. </L>
+</SP>
+<STAGE>[Exit <HI>Diana</HI> Running.</STAGE>
+<SP>
+<SPEAKER>Pier.</SPEAKER>
+<L>Thus when the Generous Lyon sees the Blood</L>
+<L>Of his once Royal Master shed like this;</L>
+<L>Taking the Lawn, stain'd with Imperial Gore,</L>
+<L>At first he Frowns, and then begins to Roar.</L>
+<L><PB N="78" REF="48">
+Lashes his Sides; his Fiery Eye-balls rolls,</L>
+<L>and with his awful Voice Revenge he calls;</L>
+<L>Till finding no Relief, at length He's mute,</L>
+<L>And Weeps, Tears falling from the Kingly Bruite;</L>
+<L>Then gently on it, as his Death-bed lies,</L>
+<L>And with a Groan, breaks his stout Heart, and Dies. </L>
+</SP>
+<STAGE>[Dies.</STAGE>
+<STAGE><HI>Enter</HI> Northumberland, <HI>and</HI> Gentlemen.</STAGE>
+<SP>
+<SPEAKER>Gentl.</SPEAKER>
+<L>He's dead! Alas, He's dead! W'are come too late!</L>
+</SP>
+<SP>
+<SPEAKER>North.</SPEAKER>
+<L>Here let me fix till my Gray-Hairs shall rot,</L>
+<L>Or turn to Snakes, to Plague this Aged Head;</L>
+<L>And never more be lookt on to upbraid me!</L>
+<L>This is a Punishment for what my Eyes</L>
+<L>Unpitying saw; and now I feel, dear <HI>Piercy,</HI></L>
+<L>Thy Father's Curses on his own Head turn,</L>
+<L>And thou art blest, and I alas, forlorn.</L>
+</SP>
+<STAGE><HI>Enter</HI> King, Lords, Attendants, <HI>and</HI> Guards.</STAGE>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Whom mourn'st thou over? Whose dead Body's that?</L>
+</SP>
+<SP>
+<SPEAKER>North.</SPEAKER>
+<L>'Tis <HI>Piercy</HI>'s: You and all good Men shou'd weep,</L>
+<L>For you have lost a faithful Queen, and I a son.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Thy Tongue's too bold! Are all the Traitors dead?</L>
+</SP>
+<SP>
+<SPEAKER>North.</SPEAKER>
+<L><HI>Norris,</HI> and <HI>Rochford,</HI> and th'unhappy Queen,</L>
+<L>Were all Beheaded in one Fatal Hour;</L>
+<L>Yet all the Traitors are not dead.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>What mean'st thou?</L>
+<L>Say! Who has scap'd?</L>
+</SP>
+<SP>
+<SPEAKER>North.</SPEAKER>
+<L>The Haughty <HI>Blunt,</HI> deckt with</L>
+<L>Her proudest Ornaments of Gold and Jewels,</L>
+<L>Came to behold their Ends upon the Scaffold,</L>
+<L>And saw 'em with a Hellish Cruelty;</L>
+<L>Till <HI>Anna Bullen</HI>'s Head lopp'd from her Body;</L>
+<L>The brightest Ornament of that Person fell</L>
+<L>Upon that wretched Womans Knees, as She</L>
+<L>Was sitting to behold the Dismal sight:</L>
+<L>The Trunkless Head with darting Eyes beheld her,</L>
+<L>Making a motion with its Lips to speak,</L>
+<L>As if they meant t'upbraid her Cursed Treason.</L>
+<L><PB REF="48">
+When streight the dreadful Accident so struck her,</L>
+<L>Swift as a Hind she gave a leap, and with</L>
+<L>A sudden shriek, she started into Madness,</L>
+<L>So sierce, that just and speedy Death must follow;</L>
+<L>Then uttering strange, and horrid Guilty Speeches,</L>
+<L>In her distraction she accus'd her self,</L>
+<L>And <HI>Woolsey:</HI> Talkt the Queen was Innocent;</L>
+<L>Saying, the Letters found within her Closet</L>
+<L>Were false, and plac'd by them to ruine Her:</L>
+<L>For which her Cruel Ghost, she said, did haunt her.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Where is the Traitor <HI>Woolsey?</HI></L>
+</SP>
+<SP>
+<SPEAKER>North.</SPEAKER>
+<L>Fled to <HI>Esher.</HI></L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Go you in Person, and secure the Villain!</L>
+<L>Many foul Causes claim his forfeit Life;</L>
+<L>But if I find him Guilty in the least,</L>
+<L>Of a Contrivance with this Cursed Woman;</L>
+<L>(Though the Queen justly merited her End)</L>
+<L>I'le Rack his Soul out with a thousand Tortures.</L>
+</SP>
+<SP>
+<SPEAKER>North.</SPEAKER>
+<L>'Twill be some joy to my Revenge and <HI>Piercy</HI>'s.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>For thy Sons Death, thy King shall be a Mourner&punc;</L>
+<L>Now Heav'n vouchsafe to Pardon till this time,</L>
+<L>What I by Sycophants Advice have done,</L>
+<L>I will be Absolute, and Reign alone:</L>
+<L>For where's a Statesman fam'd for just and wise;</L>
+<L>But makes our Failings, still, his aim to Rise?</L>
+<L>If Subjects thus their Monarchs Wills restrain;</L>
+<L>'Tis they are Kings; for them we idly Reign:</L>
+<L>Then I'le first break the Yoak; this Maxim still</L>
+<L>shall be my Guide <HI>(A Prince can do no Ill!)</HI></L>
+<L>In spite of Slaves, his Genius let him trust;</L>
+<L>For Heav'n n'ere made a King, but made him just.</L>
+</SP>
+<STAGE>[Exeunt omnes..</STAGE>
+</DIV1>
+</BODY>
+<BACK>
+<DIV1 TYPE="epilogue">
+<PB REF="49" MS="y">
+<HEAD>EPILOGUE.</HEAD>
+<LG>
+<L>WEll, Sirs!-Your kind Opinion now, I pray,</L>
+<L>Of this our neither <HI>Whig</HI> nor <HI>Tory-</HI>Play;</L>
+<L>To blow such Coales our Conscious Muse denies;</L>
+<L>Wit, Sacred Wit, such Subjects should despise.</L>
+<L>The Author saies his <HI>Heliconian</HI> stream,</L>
+<L>Is not yet drain'd to such a low extream.</L>
+<L>To abuse one Party with a Cursed Play,</L>
+<L>And Bribe the other for a large third Day.</L>
+<L>Like <HI>Gladiators</HI> then, you streight resort;</L>
+<L>And Crowd to make your <HI>Nero-</HI>Faction sport.</L>
+<L>But what's more strange, that Men of sense shou'd do it!</L>
+<L>For Worrying one another, Pay the Poet:</L>
+<L>So <HI>Butchers</HI> at a Baiting, take delight,</L>
+<L>For him that keeps the <HI>Bears,</HI> to Roar and Fight;</L>
+<L>Both Friends and Foes, such Authors make their Game,</L>
+<L>Who have your Money, that was all their Ayme:</L>
+<L>No matter for the Play, nor for their Wit;</L>
+<L>The better Farce is Acted in the Pit.</L>
+<L>Both Parties to be cheated, well agree;</L>
+<L>And swallow any Nonsense, so it be</L>
+<L>With Faction fac'd, and guilt with Loyalty.</L>
+<L>Here's such a Rout with Whigging and with Torying,</L>
+<L>That you neglect your dear-lov'd sin of Whoring:</L>
+<L>The Visor-mask, that ventur'd her Half-Crown,</L>
+<L>Finding no hopes but here to be undone;</L>
+<L>Like a Cast Mistress, past her dear-delight,</L>
+<L>Turns Godly streight, and goes to Church in spite;</L>
+<L>And does not doubt, since you are grown so fickle,</L>
+<L>To find more Cullies in a Conventicle.</L>
+<L>We on the Stage stand still, and are content,</L>
+<L>To see you Act what we should Represent.</L>
+<L>You use us like the Women that you Woe;</L>
+<L>You make us sport, and Pay us for it too.</L>
+<L>Well, w'are resolv'd that in our next Play-Bill,</L>
+<L>To Print at large a Tryal of your skill;</L>
+<L>And that five hundred Monsters are to fight,</L>
+<L>Then more will run to see so strange a sight,</L>
+<L>Than the <HI>Morocco,</HI> or the <HI>Muscovite.</HI></L>
+</LG>
+<TRAILER>FINIS.</TRAILER>
+<PB REF="49">
+</DIV1>
+</BACK>
+</TEXT>
+</EEBO>
+</ETS>

@@ -1,0 +1,247 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD EEBOPROOF 2.0//EN">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-08-18</DATE>
+<RESPSTMT>
+<NAME>Marika Ismail</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TYPEs to DIVs in order to validate. Proofed title page(s). Checked for N=""s. Checked for GROUP tags. Checked ^s. Reviewed structure. Checked division-marking material at heads and feet of divisions (HEADS,  CLOSER, OPENER, ARGUMENT, EPIGRAPH, SIGNED, BYLINE, etc.). Checked for signatures. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected ** $s and $word$s etc. of **. Converted __ $$s to GAP DESC="illegible" RESP="[vendor name]". Checked spacing of foreign GAPs.  Checked for LBs. Checked for startqs, endqs, oes, q;s, and Qs. Checked proofsheets and made corrections found there.  Checked for FIGUREs and decorated initials. Checked for missing-page GAPs. Revalidated. </ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="A65822">
+<STC T="W">W1870</STC>
+<BIBNO T="oclc">13107849</BIBNO>
+<VID>97547</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1">
+<PB REF="1">
+<P>THE
+CORONATION.
+A
+POEM.</P>
+<P>By Ro: VVHITEHALL, Fellow of
+<HI>Merton</HI> College, <HI>Oxon.</HI></P>
+<Q>Divisum Imperium cum Iove Caesar habet.</Q>
+<P><HI>LONDON,</HI>
+Printed for <HI>Iohn Playford.</HI> at his Shop in the <HI>Temple,</HI> near the <GAP DESC="illegible" REASON="missing" EXTENT="1 span"></P>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="poem">
+<PB REF="2">
+<PB N="1" REF="2">
+<HEAD>The Coronation.</HEAD>
+<LG>
+<L>_GIve me an <HI>Eagles</HI> quill that dropt at Noon,</L>
+<L>While she was gazing on the mounted Sun;</L>
+<L>That I may write Great <HI>Charles</HI> his Name, &amp; tell</L>
+<L>The rescued Royalist that things go <HI>Well.</HI></L>
+</LG>
+<LG>
+<L>Hallowed be the Altar, let the smoke</L>
+<L>Ascend, dismisse the heifer from her yoke.</L>
+<L>Prepare ten <HI>Hecatombs,</HI> and let them all,</L>
+<L>Be Crown'd, and march in triumph from the staul;</L>
+<L>For 'tis decreed, nor shall the joys we share,</L>
+<L>Fall short of <HI>Caesar's Amphitheater.</HI></L>
+</LG>
+<LG>
+<L>Once more we are <HI>our selves</HI> again, and know</L>
+<L>To whom to pay th' Allegiance that we owe;</L>
+<L>We know what <HI>Kingdome</HI> mean's, but Common wealth</L>
+<L>Impos'd upon us, and got in by <HI>Stealth.</HI></L>
+<L>We know what <HI>Crowns</HI> and <HI>Scepters</HI> mean, but <HI>States</HI></L>
+<L>Came from the <HI>Netherlands,</HI> and boggie <HI>flatts.</HI></L>
+<L>The good old way <HI>ha's an</HI> ingenious <HI>Face,</HI></L>
+<L>Since when the Country-man lost <HI>half</HI> his Grace:</L>
+<L>He understands not <HI>Mushrome</HI> titles, he</L>
+<L>Was born under a King, and so will die.</L>
+</LG>
+<LG>
+<PB N="2" REF="3">
+<L>Let's take a view how we have liv'd of late,</L>
+<L>Since <HI>Morall honesty</HI> went out of date:</L>
+<L>Or did we live at all? hardly in troth,</L>
+<L><HI>Esquire</HI> and <HI>Knights</HI> had but from hand to mouth:</L>
+<L><HI>Collectors</HI> had the rest, yet all were bent</L>
+<L>And wisht, and pray'd still for this settlement:</L>
+<L>Without which <HI>Law</HI> had not it's proper course,</L>
+<L>Was put to <HI>shifts,</HI> run in an unknown sourse.</L>
+<L><HI>Two words</HI> ha's mended all, now out of Prison,</L>
+<L>(Alas, they snffer'd too long Ostracisme.)</L>
+<L><HI>Kingdom</HI> and <HI>Realm,</HI> both which have <HI>Hid</HI> their head,</L>
+<L>And seem'd to <HI>Duck</HI> a while, yet were not dead:</L>
+<L>The <HI>many-headed-beast</HI> hath learn'd of late,</L>
+<L>To put a difference 'twixt <HI>Realme</HI> and <HI>State;</HI></L>
+<L>And rather pay their <HI>Prince</HI> Corn, Oyle and Wines,</L>
+<L>Then to a <HI>Corporall,</HI> or his assignes.</L>
+</LG>
+<LG>
+<L><HI>Scripture</HI> will warrant <HI>Kings,</HI> and for that cause,</L>
+<L>Our Bible was expiring with our Laws:</L>
+<L>Which Year by Year grew lesse, that the <HI>Lay-Priest,</HI></L>
+<L>At last could Grasp and Clinch it in his <HI>Fist.</HI></L>
+<L>Squeezing the Non-conforming Texts no less,</L>
+<L>Then when they underwent the Printing-presse.</L>
+</LG>
+<LG>
+<L>If we reflect on <HI>Men</HI> and <HI>Manners</HI> both,</L>
+<L>Amongst us lately, who'd not take his Oath,</L>
+<L>'Twas time, the giddy World were kept in awe,</L>
+<L>Sentenc'd, forthwith to Bedlam and fresh straw?</L>
+<L>When 'twas a <HI>Crime</HI> to go to Church, and scarce</L>
+<L>Allowable ones <HI>Prayers</HI> to reherse</L>
+<L>In <HI>Consecrated</HI> ground, but you might <HI>hint,</HI></L>
+<L><HI>Or hold forth</HI> i'th' Church with a <HI>Chimny</HI> in't.</L>
+<L>When <HI>Cunningly,</HI> and of their <HI>own accord,</HI></L>
+<L>Men <HI>Stole</HI> into their Graves, without a word:</L>
+<L>When <HI>Plunging</HI> rais'd Men <HI>Higher,</HI> and the Funt</L>
+<L>Was <HI>Superstitious</HI> counted, (out upon't.)</L>
+<L><PB N="3" REF="3">
+When mad Fanatick spirits took their swinge,</L>
+<L>Meerly, because, the <HI>Law</HI> was off o'th' hinge:</L>
+<L><HI>Things spawn'd</HI> in March, when nature is most proud,</L>
+<L>And brings forth Creatures, <HI>Blind,</HI> and <HI>Lame, &amp; Bowd;</HI></L>
+<L><HI>Things,</HI> that if <HI>Aristole</HI> were with us,</L>
+<L>Would mend his book <HI>de Animalibus.</HI></L>
+</LG>
+<LG>
+<L>As for example;&mdash;see a Fellow come,</L>
+<L>With Wax enough about his gouty Thumb;</L>
+<L>To make a nodous tumour mend its pace,</L>
+<L>Or Carbuncle spit venome in your Face:</L>
+<L>See, and admire, this Fellow laying down</L>
+<L>His <HI>Awl</HI> and <HI>Stirrup,</HI> is no longer <HI>clowne;</HI></L>
+<L>But sit's upon the <HI>Bench,</HI> and winks and nods,</L>
+<L>As gravely, as if sent us by the <HI>Gods.</HI></L>
+</LG>
+<LG>
+<L>Or see a learned Farriar, who i'th' morn,</L>
+<L>Was at his lawfull call, his <HI>Drench</HI> and <HI>Horn:</HI></L>
+<L>His beaten Ginger, and his Diapente,</L>
+<L>Now Leader of a gang, of about <HI>Twenty.</HI></L>
+<L>And these of <HI>Nineteen</HI> minds, yet all combine</L>
+<L>Against the <HI>Common foe, Church discipline:</HI></L>
+<L>'Tis <HI>Tyranny</HI> cry's One, <HI>unwarrantable,</HI></L>
+<L>A Second, and a Third <HI>Abominable;</HI></L>
+<L>A Fourth, what holy Writ can for it plead?</L>
+<L>Why Saucebox, where it doth, thou can'st not <HI>read;</HI></L>
+<L>Or if ten thousand Texts were urg'd, you'l say,</L>
+<L>The Spirit meant them quite another way.</L>
+</LG>
+<LG>
+<L>Obstinate <HI>ignorance!</HI> 'tis such a curse</L>
+<L>That patient <HI>Iob</HI> himself ne're knew a worse.</L>
+<L>This Farriar is a <HI>Iustice</HI> too; O yes,</L>
+<L>His <HI>Conscience</HI> troubled him, till he was this;</L>
+<L>And struts in his wide Hall, and scorns his Fellows,</L>
+<L>Whom he has left behind to blow the Bellows;</L>
+<L><PB N="4" REF="4">
+Expecting when the Bride-groom, and his Bride</L>
+<L>Shall by his <HI>Worship shackled</HI> be and <HI>ty'd;</HI></L>
+<L>These he together <HI>links</HI> (with's Hat on's head)</L>
+<L>Using this form of Words, <HI>Kiss and to Bed.</HI></L>
+</LG>
+<LG>
+<L>Now must her lip take <HI>Custome,</HI> and <HI>Excise</HI></L>
+<L>From him in <HI>Velvet</HI> clad, to him in <HI>Frize:</HI></L>
+<L>But above all nothing so much a <HI>Martyr</HI></L>
+<L>As that poor Ell and half, her Wedding <HI>Garter:</HI></L>
+</LG>
+<LG>
+<L>The <HI>Saturnalian</HI> Riots were not such,</L>
+<L>No such lascivious glance, or wanton touch:</L>
+<L><HI>Venus</HI> would blush, nay it would <HI>Pan</HI> incense</L>
+<L>To be a Guest to so much Impudence:</L>
+<L><HI>Pallas</HI> defend me, and thy off-spring all,</L>
+<L>When <HI>Vulcan's</HI> made a Priest Canonical;</L>
+<L>A Priest! why set aside his other faults</L>
+<L>The <HI>Old Law</HI> put's him by, for <HI>Vulcan halts;</HI></L>
+<L>What! no distinction made? no difference</L>
+<L>Betwixt his <HI>Sea-coal,</HI> and their <HI>Frankinsence?</HI></L>
+<L>Is it all one to <HI>hammer</HI> out a Text,</L>
+<L>And to <HI>Enucleate</HI> the same perplext?</L>
+<L>Yes, yes, the rout eryes, and again yes, yes</L>
+<L>Our Farriar has a <HI>gift,</HI> and can do this;</L>
+<L>He has <HI>a call</HI> too, well; no difference though?</L>
+<L>No, no, the rout cries, and again, No, No.</L>
+</LG>
+<LG>
+<L>Thus an impetuous torrent, right or wrong</L>
+<L>Sweep's down the bank, and hurries all along;</L>
+<L>Till <HI>Neptune</HI> rouz'd at last begins to wag,</L>
+<L>And puts the wind that caus'd it in a bag;</L>
+<L>The <HI>Sea's</HI> not so <HI>unruly,</HI> doth not <HI>roare</HI></L>
+<L>Or <HI>foam</HI> as doth the <HI>Rout</HI> that <HI>humane</HI> Bore.</L>
+</LG>
+<LG>
+<L>With indignation then the Valiant <HI>Monk</HI></L>
+<L>Took this same <HI>Hydra Elephant</HI> by th' trunck,</L>
+<L><PB N="5" REF="4">
+And made him yawn; still holding by the Nose</L>
+<L>The late triumphant huge <HI>Rinoceroes.</HI></L>
+</LG>
+<LG>
+<L>Appear now CHARLS THE GREAT, and let the Sun</L>
+<L>Dance to behold his <HI>Rivals</HI> game thus wonne;</L>
+<L>Exhibiting more minutes to each day,</L>
+<L>And adding to his height a richer Ray:</L>
+<L>Break out from your <HI>Eclipse,</HI> St. <HI>George</HI> is <HI>charme</HI></L>
+<L>Enough to guard your <HI>innocence</HI> from harm.</L>
+</LG>
+<LG>
+<L>Ascend DREAD SOVERAIGN, Sir, your <HI>Fathers</HI> Throne</L>
+<L>Maugre the spight of <HI>Fate,</HI> 'tis now your own;</L>
+<L>Not by <HI>domestick force</HI> or <HI>forraign powers,</HI></L>
+<L>But by sollicitous <HI>entreaties</HI> yours;</L>
+<L>And all <HI>the sons of Earth</HI> relenting, say</L>
+<L>They cannot live without <HI>You</HI> here, one day.</L>
+</LG>
+<LG>
+<L>So the parch't Earth the Sun-beam disallowes</L>
+<L>Till over-flown with moisture, and with sloughs</L>
+<L>An <HI>innundation</HI> comes, upon which fright</L>
+<L>She that but <HI>gap'd</HI> before, now <HI>cryes outright,</HI></L>
+<L><HI>Courting</HI> that Sun, with <HI>tears,</HI> which she of late</L>
+<L>For his indulgent <HI>warmth</HI> began to <HI>hate.</HI></L>
+</LG>
+<LG>
+<L><HI>FATHER</HI> of <HI>Us,</HI> and of our <HI>Countrey, You</HI></L>
+<L><HI>Make out</HI> our <HI>simile,</HI> and <HI>illustrate</HI> too:</L>
+<L>Great <HI>Ioves</HI> concerne, and <HI>chiefest</HI> care, who took,</L>
+<L>Your <HI>Sacred</HI> Self into his<NOTE N="*" PLACE="marg">Sacra Iovi quercus.</NOTE> <HI>Sacred</HI> Oak:</L>
+<L>What to our Ancestors did <HI>food</HI> afford</L>
+<L>To us prov'd better then a <HI>Iona's Gourd;</HI></L>
+<L>The Fame of which makes <HI>Ganimede</HI> look down</L>
+<L>And wish himself (this day)<NOTE N="*" PLACE="marg">Lord Mayor of <HI>London,</HI> who as the Coro|nation is Cup|bearer to the King.</NOTE> Sir <HI>Richard Brown</HI></L>
+<L>But that the Gods, in Senate sitting, feare</L>
+<L>He would no more return, but tarry <HI>here;</HI></L>
+<L>Who celebrating this great <HI>Festival</HI></L>
+<L>And <HI>Iubile,</HI> still for more <HI>Nectar</HI> call.</L>
+<L><PB N="6" REF="5">
+Eying the <HI>Male-contented</HI> Lad, lest he</L>
+<L>Should <HI>steal</HI> the health down hither privately;</L>
+<L>While this new setled Isle and neighbour Lands</L>
+<L>Unanimously shout, and clap their hands:</L>
+<L>While <HI>VVhitehall</HI> sounds by <HI>Tamisis</HI> rehearst,</L>
+<L>Long live the mighty Heir to <HI>Charls</HI> the first.</L>
+</LG>
+<TRAILER>FINIS.</TRAILER>
+<PB REF="6" MS="y">
+<PB REF="7" MS="y">
+<PB REF="7" MS="y">
+<PB REF="8" MS="y">
+<PB REF="8" MS="y">
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

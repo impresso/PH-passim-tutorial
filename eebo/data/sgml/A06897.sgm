@@ -1,0 +1,1566 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD EEBOPROOF 2.0//EN">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-08-21</DATE>
+<RESPSTMT>
+<NAME>Mona Logarbo</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>*Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate.
+*Check for GROUP tags.
+*Proofed title page(s).
+Added "+" to words with hyphen missing on title page.
+Replaced Ps with BIBL / Q on title page.
+Removed final P (with $word$s) on title page.
+*Checked ^s.
+*Checked I / J.
+*Checked oe for ae ligatures.
+*Reviewed structure.
+On first PB REF="2," made each quotation a DIV2 under DIV1 TYPE="quotations".
+*Checked placement and completeness of PBs.
+Removed second PB REF="29".
+*Checked for duplicate pages.
+*Checked for missing pages.
+*Checked spacing of foreign GAPs.
+*Checked for damage GAPs, #s, @s, &mdash;, --s, <ABBR>Esq</ABBR> and UNCLEARs.
+Replaced "#" with "&leaf;".
+*Corrected $word$s and $s by inserting the appropriate character(s) and / or GAP DESC(s).
+*Checked for amp;cs with incorrect spacing.
+*Checked for OPENERs, SALUTEs, CLOSERs, DATEs, DATELINEs, SIGNEDs, BYLINEs, TRAILERs, etc.
+*Checked for TABLEs and LISTs.
+*Checked for LBs.
+*Checked for startqs, endqs and Qs.
+*Checked proofsheets and made corrections.
+DONE 08-21-03.</ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="A06897">
+<STC T="S">1733.5</STC>
+<BIBNO T="oclc">22718647</BIBNO>
+<VID>25676</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1">
+<PB REF="1">
+<P>&para; A newe Dia+log betwene thangell of God, &amp; the Shep+herdes in the felde, concernynge the natiuite and birthe of Iesus Christ our Lorde, &amp; Sauy|oure, no lesse God|lye than swete and pleasante to reade, late+ly compy|led by T. B.</P>
+<BIBL>Luc. ii.</BIBL>
+<Q>&para; Beholde I brynge you tydynges of greate Ioye, that shall come to all the people. For vn to you is borne this daye in the Cytie of Da|uid, a Sauioure, whiche is Christ the Lorde.</Q>
+</DIV1>
+<DIV1 TYPE="quotations">
+<PB REF="2">
+<DIV2 TYPE="quotation">
+<HEAD>Esa. ix</HEAD>
+<P>A chylde is borne for our sake &amp; a Sonne is gyuen vnto vs, vpon his shulder doth the kyngdome lye, and he is called w^t his owne name, euen, the wonderous gyuer of coun+cell, the myghty God, y^e euerlastinge Father, the Prynce of peace.</P>
+</DIV2>
+<DIV2 TYPE="quotation">
+<HEAD>i. Timoth i.</HEAD>
+<P>This is a true sayinge, and by all meanes worthy to be receyued of vs, that Christ Iesus came into the worlde to saue synners.</P>
+</DIV2>
+<DIV2 TYPE="quotation">
+<HEAD>.i. Ioan. iii.</HEAD>
+<P>For this cause apeared the sonne of God, euen to lowse the workes of the deuyll.</P>
+</DIV2>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="dialogue">
+<PB REF="2">
+<HEAD>&para; The Dialoge.</HEAD>
+<SP>
+<SPEAKER>Thangell speketh.</SPEAKER>
+<L>A Swete message</L>
+<L>To euery age <NOTE PLACE="marg">Math, i,</NOTE></L>
+<L>From God so sage</L>
+<L>Is gyuen to me, <NOTE PLACE="marg">Luc, ii,</NOTE></L>
+<L>Whiche to declare</L>
+<L>Both nere and fare</L>
+<L>To exclude care</L>
+<L>Glad wolde I be. <NOTE PLACE="marg">Esa, i<GAP DESC="illegible" EXTENT="1 letter">,</NOTE></L>
+<L>&para; Men haue full longe</L>
+<L>Throwe Satans wronge <NOTE PLACE="marg">Mat, iiii.</NOTE></L>
+<L>In bondage stronge</L>
+<L>Ben detayned,</L>
+<L>No lyberte</L>
+<L>To make them fre</L>
+<L>Founde coulde there be</L>
+<L>Syns they synned. <NOTE PLACE="marg">Gen, iii,</NOTE></L>
+<L>&para; In Adames fall</L>
+<L>They became thrall <NOTE PLACE="marg">iiii, Es<GAP DESC="illegible" EXTENT="1 letter">, iii,</NOTE></L>
+<L>Both great and small</L>
+<L>Remediles, <NOTE PLACE="marg">Ose, vi, Rom, v.</NOTE></L>
+<L>Throughe Satans lure</L>
+<L><PB REF="3">
+They are vnpure <NOTE PLACE="marg">Ephe vi.</NOTE></L>
+<L>Drowned all sure <NOTE PLACE="marg">Iohn~ iii.</NOTE></L>
+<L>In wyckednes.</L>
+<L>&para; So that of ryght <NOTE PLACE="marg">Rom iii.</NOTE></L>
+<L>Before Godes syght <NOTE PLACE="marg">Psal xiii Esa. i.</NOTE></L>
+<L>That lorde almyght</L>
+<L>Damned are they all, <NOTE PLACE="marg">Phal. v. Ga. at. iii</NOTE></L>
+<L>Without excuse</L>
+<L>God maye refuse <NOTE PLACE="marg">Deut. xxvii.</NOTE></L>
+<L>Suche as ensuse</L>
+<L>Workes ethnicall.</L>
+<L>&para; Notwithstandyng</L>
+<L>God pyteyng <NOTE PLACE="marg">Rom. v.</NOTE></L>
+<L>Theyr backe slydyng</L>
+<L>And greuous chaunce,</L>
+<L>Of his mercy</L>
+<L>Wyll nowe frely <NOTE PLACE="marg">Ephe. ii. ii Timo|the <GAP DESC="illegible" EXTENT="1 letter"> Tit. iii.</NOTE></L>
+<L>Unto glory</L>
+<L>Them all auaunce.</L>
+<L>&para; This gentle father</L>
+<L>In no manner</L>
+<L>Wyll consyder <NOTE PLACE="marg">Iere. xxxi</NOTE></L>
+<L>Theyr great offence <NOTE PLACE="marg">Heb. viii.</NOTE></L>
+<L>Frely frely <NOTE PLACE="marg">Esa. xliiii</NOTE></L>
+<L><PB REF="3">
+Shall they truly</L>
+<L>Be brought clerely <NOTE PLACE="marg">Apoc. xxi.</NOTE></L>
+<L>To his presence.</L>
+<L>&para; Of his owne grace <NOTE PLACE="marg">Rom xi.</NOTE></L>
+<L>Before mennes face</L>
+<L>This come to passe <NOTE PLACE="marg">Gal. ii. iii</NOTE></L>
+<L>Shall nowe playnly, <NOTE PLACE="marg">Ephe ii. Iohn. iii.</NOTE></L>
+<L>By Christ h<GAP DESC="illegible" REASON="missing" EXTENT="1 letter">s sonne</L>
+<L>Whiche is come downe <NOTE PLACE="marg">Rom. v. Galat iii Ephe. i.</NOTE></L>
+<L>For theyr raunsome</L>
+<L>The death to dye.</L>
+<L>&para; He vndoubted <NOTE PLACE="marg">Colost. i. i. Timo. ii</NOTE></L>
+<L>Undeserued</L>
+<L>Was promysed</L>
+<L>To men mortall, <NOTE PLACE="marg">Gen. iii. xviii.</NOTE></L>
+<L>Of God aboue</L>
+<L>For very loue</L>
+<L>To theyr behoue <NOTE PLACE="marg">Iohn~. iii.</NOTE></L>
+<L>Whiche were full thrall. <NOTE PLACE="marg">Rom. iii.</NOTE></L>
+<L>&para; Of a mayde pure</L>
+<L>So to endure <NOTE PLACE="marg">Esa. vii.</NOTE></L>
+<L>Is he borne sure</L>
+<L>Without mannes sede. <NOTE PLACE="marg">Math. i.</NOTE></L>
+<L>To puryfie <NOTE PLACE="marg">Luk. xii.</NOTE></L>
+<L><PB REF="4">
+Mennes vylanie <NOTE PLACE="marg">Luc, ii,</NOTE></L>
+<L>Whiche wyckedlie</L>
+<L>They wrought indede.</L>
+<L>&para; This chylde alone</L>
+<L>Sent from Gods throne <NOTE PLACE="marg">Esa, ix,</NOTE></L>
+<L>All kynde of mone <NOTE PLACE="marg">Esa, iiii. Math. viii. Math. xi. Psal. ii, Iohn~. iii, vi,</NOTE></L>
+<L>Shall put awaye.</L>
+<L>Who so embrace</L>
+<L>His louyng face</L>
+<L>Shall wante no grace</L>
+<L>Nor yet decaye.</L>
+<L>&para; He is the kynge</L>
+<L>To whose byddynge <NOTE PLACE="marg"><GAP DESC="illegible" EXTENT="1 letter">ach, ix.</NOTE></L>
+<L>Euerythynge <NOTE PLACE="marg">Esa, lxii, Math, xxi, Psal, clxxix. Phil, ii, Heb, ii, i, Timoth vi, Apoc, xvii, xix, Iohn~, xiiii. xvi, xx. Ephe, ii, Coloss, i,</NOTE></L>
+<L>Obeyeth humbly,</L>
+<L>He is the lorde</L>
+<L>By whose concorde</L>
+<L>All thynges restorde</L>
+<L>Shall be playnly.</L>
+<L>&para; He is the peace</L>
+<L>Uvhiche shall release</L>
+<L>All our disease</L>
+<L>And greuous payne,</L>
+<L>He is the staye</L>
+<L><PB REF="4">
+He is the waye <NOTE PLACE="marg">Rom, v, Math, xi. Ioh. xiiii, Iohn~, x, Iohn~, xiiii,</NOTE></L>
+<L>By whom we maye</L>
+<L>Glorye obtayne.</L>
+<L>&para; He is the truthe</L>
+<L>Uviche doth all ruthe</L>
+<L>Suche as ensueth <NOTE PLACE="marg">ii, Cor, i, Tit, i, Iohn~, x, xiiii,</NOTE></L>
+<L>Clene put awaye,</L>
+<L>He is the lyfe</L>
+<L>By whom all stryfe <NOTE PLACE="marg">Ephe, ii, Coloss, i, ii,</NOTE></L>
+<L>Is no more ryfe</L>
+<L>But sone decaye.</L>
+<L>&para; He is the Gyde <NOTE PLACE="marg">Miche, v Math, ii,</NOTE></L>
+<L>On euery syde</L>
+<L>Uvhiche at eche tyde <NOTE PLACE="marg">Psal, ccxlvii, Math. i.</NOTE></L>
+<L>Doth his people saue,</L>
+<L>He is the health</L>
+<L>Of whom all wealth <NOTE PLACE="marg">Psal, ii, Act, iiii,</NOTE></L>
+<L>Uvithouten stealth</L>
+<L>Men ought to craue.</L>
+<L>&para; He is the lyght</L>
+<L>That is so bryght</L>
+<L>In all mennes syght <NOTE PLACE="marg">Iohn~. i, Iho~, viii,</NOTE></L>
+<L>To shewe the waye,</L>
+<L>He is the Rocke <NOTE PLACE="marg">Esa, xlix,</NOTE></L>
+<L><PB REF="5">
+If that we knocke <NOTE PLACE="marg">Act. xiii.</NOTE></L>
+<L>He wyll vnlocke</L>
+<L>And healpe vs aye. <NOTE PLACE="marg">Psal. xxxvi. Mat. xvi</NOTE></L>
+<L>&para; He is the louer</L>
+<L>The sauiour <NOTE PLACE="marg">i&punc;Cor x.</NOTE></L>
+<L>The mediatour</L>
+<L>Of the faythfull <NOTE PLACE="marg">Mathe. vii. Luc x. Psal. xxxvi. Math. i. Luc ii. i. Timo i Psal. i. Gen. Deut. Psal.</NOTE></L>
+<L>If that we call</L>
+<L>Thoughe we be thrall</L>
+<L>He wyll vs all</L>
+<L>Unto hym pull.</L>
+<L>&para; Pleasures many</L>
+<L>Treasures plenty</L>
+<L>Shall men truly</L>
+<L>Of hym receyue,</L>
+<L>Who so that wyll</L>
+<L>Come hym vntyll <NOTE PLACE="marg">i. Tim. vi Esa. Math. xi. Iohn~.</NOTE></L>
+<L>Shall haue his fyll</L>
+<L>Without deceyue.</L>
+<L>&para; These ioyfull newes <NOTE PLACE="marg">Esa. lii, Rom, x, Iohn~: xii, Ose, xiii, i. Cor, xv, Heb, ii,</NOTE></L>
+<L>Whiche Satan ruyse</L>
+<L>Without excuse</L>
+<L>God commaunded</L>
+<L>That I, thangell</L>
+<L><PB REF="5">
+Sulde shewe and tell <NOTE PLACE="marg">i, Ioa~, iii,</NOTE></L>
+<L>To them that well</L>
+<L>Are dysposed. <NOTE PLACE="marg">Luc, ii,</NOTE></L>
+<L>&para; The obstynate <NOTE PLACE="marg">Math, <GAP DESC="illegible" EXTENT="1 letter">, i, Cor, i, Psal, lxxxv,</NOTE></L>
+<L>Receyue this rate</L>
+<L>Earely or late</L>
+<L>Wyll by no wyse.</L>
+<L>The symple therfore <NOTE PLACE="marg">Heb, iii:</NOTE></L>
+<L>Nowe euermore <NOTE PLACE="marg">Iac, ii, Esa, lxvi</NOTE></L>
+<L>To teache this lore</L>
+<L>Wyll I deuise. <NOTE PLACE="marg">Math, v, Psal. <GAP DESC="illegible" EXTENT="1 letter">i,</NOTE></L>
+<L>&para; Beholde I se</L>
+<L>In this contre</L>
+<L>Of small degre</L>
+<L>Shepherdes watchyng,</L>
+<L>Whiche nowe this nyght</L>
+<L>With all theyr myght</L>
+<L>Kepe in theyr syght <NOTE PLACE="marg">Luc, <GAP DESC="illegible" EXTENT="1 letter">.</NOTE></L>
+<L>Theyr flockes reastyng.</L>
+<L>&para; From all pryde farre</L>
+<L>These symple men are</L>
+<L>Therfore declare</L>
+<L>To them wyll I,</L>
+<L>Gods good pleasure</L>
+<L><PB REF="6">
+That this ioye sure</L>
+<L>Maye in them dure</L>
+<L>Eternally.</L>
+<L>&para; Upon this londe</L>
+<L>Fre or yet bonde</L>
+<L>By them to stonde</L>
+<L>I wyll nowe playne,</L>
+<L>And tell them true</L>
+<L>These tydynge snewe</L>
+<L>Whiche shall ensewe</L>
+<L>Shortly certayne.</L>
+<L>&para; What doth it mene</L>
+<L>That on this grene</L>
+<L>As personnes lene</L>
+<L>They loke dismayde,</L>
+<L>This myghtye lyght <NOTE PLACE="marg">Luc, ii,</NOTE></L>
+<L>That shyne so bryght</L>
+<L>Nowe in theyr syght</L>
+<L>Make them afrayde.</L>
+</SP>
+<SP>
+<SPEAKER>&para; The Shepherds speake.</SPEAKER>
+<L>O Lorde God what worke haue we here?</L>
+<L>Uvhat meaneth this <UNCLEAR>meruelous</UNCLEAR> great lyghte</L>
+<L>The Element was neuer so clere</L>
+<L>That euer we sawe in any nyghte</L>
+<L>Good lorde saue vs and all our shepe</L>
+<L><PB REF="6">
+That none of vs peryshe at all,</L>
+<L>Gyue vs grace euer well to kepe</L>
+<L>That we haue charge of both great and smal.</L>
+<L>Hrom the wolffe that rauenyng beaste</L>
+<L>Defende our shepe, Lorde we praye the</L>
+<L>And gyue vs all this nyghte good reaste</L>
+<L>For of this lyght sore afrayde are we.</L>
+</SP>
+<SP>
+<SPEAKER>&para; Thangell.</SPEAKER>
+<L>Be not afrayde</L>
+<L>Nor yet dysmayde <NOTE PLACE="marg">Luc, ii,</NOTE></L>
+<L>Nothyng decayde</L>
+<L>Shall be in you,</L>
+<L>Your shepe harmeles</L>
+<L>Shall be certes</L>
+<L>Therfore dystres</L>
+<L>Looke ye exchewe.</L>
+<L>&para; To conforte you</L>
+<L>With tydynges newe</L>
+<L>Uvhiche shall ensue</L>
+<L>I am nowe come,</L>
+<L>Gods messengere</L>
+<L>Both farre and nere</L>
+<L>To you nowe here</L>
+<L>Am I come downe.</L>
+<L>&para; Myrth and pleasaunce</L>
+<L>Texchewe greuaunce</L>
+<L><PB REF="7">
+Is my portaunce</L>
+<L>That I nowe brynge,</L>
+<L>Your hartes therfore</L>
+<L>Haue ye in store</L>
+<L>And euermore</L>
+<L>Marke my sayinge.</L>
+</SP>
+<SP>
+<SPEAKER>&para; The Shepherdes.</SPEAKER>
+<L>UUe thyncke by thy co~municacion</L>
+<L>That thou wylt not in any wyse</L>
+<L>Hurte vs or our flocke at this season</L>
+<L>But to do <GAP DESC="illegible" EXTENT="1 letter">s good rather deuise</L>
+<L>Seyng that thou art so mynded</L>
+<L>And sayst more ou<GAP DESC="illegible" REASON="missing" EXTENT="1 letter">r also,</L>
+<L>That of God thou art appoynted</L>
+<L>Ioyefull tyd<GAP DESC="illegible" REASON="missing" EXTENT="1 letter">nges to brynge vs to</L>
+<L>Saye on we praye the hertely</L>
+<L>Uvhat so euer thou haste to saye</L>
+<L>we wyll heare the dyl gently</L>
+<L>And do there after yf we maye</L>
+</SP>
+<SP>
+<SPEAKER>&para; Thangell.</SPEAKER>
+<L>Newes that I brynge</L>
+<L>Come from that kynge</L>
+<L>To whom all thynge <NOTE PLACE="marg">Iohn~, viii <GAP DESC="illegible" EXTENT="1 letter">x, xviii,</NOTE></L>
+<L>Oweth obeysaunce,</L>
+<L>So of dutye</L>
+<L>Ought ye trulye</L>
+<L><PB REF="7">
+Your myndes applye</L>
+<L>To attendaunce.</L>
+<L>&para; No poynte of sadnes</L>
+<L>But all gladnes</L>
+<L>Do I certes</L>
+<L>Brynge vnto you,</L>
+<L>Whiche not to one</L>
+<L>Personne alone</L>
+<L>But to eche one</L>
+<L>Shall chaunce full true.</L>
+<L>&para; The newes are this</L>
+<L>Uwithout any mys</L>
+<L>This daye borne is</L>
+<L>Youre Sauioure, <NOTE PLACE="marg">Luc. ii, Miche, v. Math: ii, Dan, ix. Psa, cc, ix</NOTE></L>
+<L>In the Citie</L>
+<L>Of Dauid fre</L>
+<L>Christe calde is he</L>
+<L>A lorde of power.</L>
+</SP>
+<SP>
+<SPEAKER>&para; The Shepherdes.</SPEAKER>
+<L>These are newes full of all plesaunce</L>
+<L>And is Christ, sayste thou, borne in dede,</L>
+<L>Surely this is a full good chaunce</L>
+<L>He shall healpe vs I truste, in our nede.</L>
+<L>Uve haue <GAP DESC="illegible" REASON="missing" EXTENT="1 letter">oked for hym full longe</L>
+<L>For he is our true <UNCLEAR>Messias</UNCLEAR>,</L>
+<L><PB REF="8">
+The Romans haue done vs great wronge</L>
+<L>And holden vs in a pyteous case.</L>
+<L>But we are glad he is come nowe</L>
+<L>I truste that by hym we shall be,</L>
+<L>Delyuered from all sorowe</L>
+<L>And set agayne at lyberte.</L>
+<L>He shall be kynge and reygne ouer all</L>
+<L>All nacions to hym shall obaye. <NOTE PLACE="marg">Esa ix, Mich, iiii Dan. vii, Psal, ii,</NOTE></L>
+<L>On h<GAP DESC="illegible" REASON="missing" EXTENT="1 letter">s heade the crowne imperiall</L>
+<L>Shall be set for euer and aye.</L>
+<L>All kyngdomes thorowe hym shall bowe</L>
+<L>To vs and our people Iudaicall,</L>
+<L>All nacions vniuersall shall nowe</L>
+<L>Take vs for cheife and pryncipall.</L>
+<L>Uve shall abounde with all rytches</L>
+<L>Glorye and honoure haue shall we,</L>
+<L>All in ioye shall we lyue certes <NOTE PLACE="marg">Marc xi, Iho~, xii,</NOTE></L>
+<L>Nowe blyssed mought <GAP DESC="illegible" REASON="blotted" EXTENT="1 letter">ur newe kynge be.</L>
+</SP>
+<SP>
+<SPEAKER>&para;Thangell.</SPEAKER>
+<L>But nowe one thyng</L>
+<L>Of this your kyng</L>
+<L>Gyue you warnyng</L>
+<L>I must certes,</L>
+<L>Spirituall</L>
+<L>Nottemporall <NOTE PLACE="marg">Luc, xii, Iohn~, xi,</NOTE></L>
+<L>His Realme royall</L>
+<L>Is aye doubtles. <NOTE PLACE="marg">Iohn~, xviii,</NOTE></L>
+<L>&para;Not outwardly</L>
+<L>But inwardly <NOTE PLACE="marg">Psal, ii, zaeh, ix. Mathe, xxi, Marc, xi, Luc, xix, Iho~, xii.</NOTE></L>
+<L><PB REF="8">
+His Impery</L>
+<L>Is appoynted,</L>
+<L>By his spirite</L>
+<L>To rule eche wyghte</L>
+<L>Is his sole ryghte</L>
+<L>Determyned. <NOTE PLACE="marg">Iohan, xiiii, xv, xvi.</NOTE></L>
+<L>&para;If therfore you</L>
+<L>Looke for rescue</L>
+<L>Of your kynge newe</L>
+<L>To make you fre, <NOTE PLACE="marg">Galat, v,</NOTE></L>
+<L>That you eche one</L>
+<L>Shulde reygne alone <NOTE PLACE="marg">i, Pet, ii,</NOTE></L>
+<L>And other none</L>
+<L>Deceyued are ye.</L>
+</SP>
+<SP>
+<SPEAKER>&para;The Shepherdes.</SPEAKER>
+<L>UUhy good syr I praye you tell vs</L>
+<L>Is not this that same Messias</L>
+<L>Uvhiche by his power so wonderous</L>
+<L>Shall make vs all fre in eche case?</L>
+</SP>
+<SP>
+<SPEAKER>&para;Thangell.</SPEAKER>
+<L>It is <UNCLEAR>euen</UNCLEAR> he</L>
+<L>Uvhiche with great gle</L>
+<L>Shall make you fre <NOTE PLACE="marg">Iho~, viii</NOTE></L>
+<L><PB REF="9">
+From tyrauntes all, <NOTE PLACE="marg">Iohn~, viii. Act, xiiii, <UNCLEAR>Galat</UNCLEAR>. v, zach, ix,</NOTE></L>
+<L>Not outwardly</L>
+<L>But inwardly</L>
+<L>Tryumphantly</L>
+<L>This thynge be shall.</L>
+</SP>
+<SP>
+<SPEAKER>&para;The Shepherdes.</SPEAKER>
+<L>Yet syr all we full well hoped</L>
+<L>That b<GAP DESC="illegible" EXTENT="1 letter"> the power of this our kyng,</L>
+<L>Uv<GAP DESC="illegible" REASON="missing" EXTENT="1 letter"> Iew<GAP DESC="illegible" REASON="missing" EXTENT="1 letter">shulde be delyuir<GAP DESC="illegible" EXTENT="1 letter">d</L>
+<L>From the <GAP DESC="illegible" EXTENT="1 letter">omans cruell handlyng.</L>
+<L>Uve hoped also I tell you playne</L>
+<L>That we vnd<GAP DESC="illegible" REASON="missing" EXTENT="1 letter">r our <GAP DESC="illegible" EXTENT="1 letter">essias,</L>
+<L>Shu<GAP DESC="illegible" EXTENT="1 letter">d great victor<GAP DESC="illegible" REASON="missing" EXTENT="1 letter">es obtayne</L>
+<L>And so worthye lyuynges purchase.</L>
+</SP>
+<SP>
+<SPEAKER>&para;Thangell.</SPEAKER>
+<L>Your messias</L>
+<L>In euery place</L>
+<L>From all euyll case</L>
+<L>Shall you defende,</L>
+<L>His seruauntes true</L>
+<L>Shall this kynge newe</L>
+<L>Euer rescue <NOTE PLACE="marg">Mathe, xxvii<GAP DESC="illegible" EXTENT="1 letter">.</NOTE></L>
+<L>Unto the ende.</L>
+<L>&leaf;Notwithstandyng</L>
+<L>Marke my sayeng</L>
+<L><PB REF="9">
+This your newe kyng</L>
+<L>Is appoynted,</L>
+<L>Uvithin your brest</L>
+<L>To rule with rest <NOTE PLACE="marg">Iohn~. xiiii. xv. xvi.</NOTE></L>
+<L>So is it best</L>
+<L>Determyned.</L>
+<L>&rindx;Externall powre <NOTE PLACE="marg">Lucke. xii.</NOTE></L>
+<L>In hall or bowre</L>
+<L>Uvith great honoure</L>
+<L>Nowe shall he beare, <NOTE PLACE="marg">Iohn~. vi</NOTE></L>
+<L>In spirite and mynde <NOTE PLACE="marg">Iohn~. xviii.</NOTE></L>
+<L>Suche as be kynde</L>
+<L>Fauoure shall fynde <NOTE PLACE="marg">Psal.</NOTE></L>
+<L>Uvithout all feare.</L>
+<L>&leaf;Your enmyse <NOTE PLACE="marg">Esa. lxvi. Ose. xiii  i Cori~ti|ans. xv. Ephe, ii. Coloss. i, ii.</NOTE></L>
+<L>Shall in no wyse</L>
+<L>Ones enterpryse</L>
+<L>You to damage,</L>
+<L>Defende you all</L>
+<L>Dubtles he shall</L>
+<L>Both great and small</L>
+<L>In euery age. <NOTE PLACE="marg">Heb. ii. i Iohn~. iii.</NOTE></L>
+</SP>
+<SP>
+<SPEAKER>&para;The Shepherdes.</SPEAKER>
+<L>If his power be not externall</L>
+<L>To reygne with great aucthorite,</L>
+<L><PB REF="10">
+Nor he a Prynce imperiall</L>
+<L>Uvhat than shall we the better be?</L>
+<L>Uvhat enemyes shall he subdue</L>
+<L>Or of them gette the victorie?</L>
+<L>We se not, what ioye shall ensue</L>
+<L>Why we shulde reioyse so greatly.</L>
+</SP>
+<SP>
+<SPEAKER>&para; Thangell.</SPEAKER>
+<L>FOr to reioyse</L>
+<L>All with one voyce</L>
+<L>Makyng swete noyse</L>
+<L>Great cause ye haue,</L>
+<L>Ye were all lorne</L>
+<L>In Satanes scorne</L>
+<L>But he is borne</L>
+<L>Uvhiche shall you saue.</L>
+<L>&leaf;Thorowe Adam</L>
+<L>All ye became <NOTE PLACE="marg">Gen. iii. iiii. Esd. iii, Ose, vi, Iohn~, iii.</NOTE></L>
+<L>In goodnes lame</L>
+<L>And so damned,</L>
+<L>Chyldren of yre</L>
+<L>Bonde to hell fyre <NOTE PLACE="marg">Rom, v.</NOTE></L>
+<L>By your grande Syre</L>
+<L>Are ye proued. <NOTE PLACE="marg">Ephe, ii</NOTE></L>
+<L>&rindx;His wyckednes</L>
+<L>Agaynst Gods goodnes <NOTE PLACE="marg">Ose. vi.</NOTE></L>
+<L><PB REF="10">
+Uvas your certes <NOTE PLACE="marg">iiii, Esd iii,</NOTE></L>
+<L>And synne all one,</L>
+<L>His vylanie <NOTE PLACE="marg">Iohn~. iii, Rom v,</NOTE></L>
+<L>Broubgte mysery</L>
+<L>Generally</L>
+<L>To your great mone.</L>
+<L>&leaf;By his great synne</L>
+<L>This dyd ye wynne <NOTE PLACE="marg">Gen,</NOTE></L>
+<L>Neuer to blynne</L>
+<L>From euyll doyng,</L>
+<L>By your fre wyll</L>
+<L>No godly skyll <NOTE PLACE="marg">ii. Cori~|thia~s iii Pro, Gen.</NOTE></L>
+<L>Can ye fulfyll</L>
+<L>In your workyng.</L>
+<L>&para; Your powers all</L>
+<L>Are nowe full thrall <NOTE PLACE="marg">Ieremi. xvii. Psal. xiiii, Mathe. xix. ii Cori~|thia~s, iii</NOTE></L>
+<L>In goodnes small</L>
+<L>Without vertue,</L>
+<L>Not a good thought</L>
+<L>Can ones be wrought</L>
+<L>Ye are so nought</L>
+<L>And euyll ensue.</L>
+<L>&para; Bonde to Satan</L>
+<L>Both nowe and than</L>
+<L><PB REF="11">
+Is euery man</L>
+<L>Of Adam borne, <NOTE PLACE="marg">Iohn~. iii</NOTE></L>
+<L>So that nowe ye</L>
+<L>Are no more fre</L>
+<L>But as ye se</L>
+<L>Parsonnes all lorne.</L>
+<L>&para; The Lawe agayne</L>
+<L>To your great payne <NOTE PLACE="marg">Rom. v. Galat. iii. ii Cor, iii</NOTE></L>
+<L>Proueth certayne</L>
+<L>You synners styll,</L>
+<L>Seyng that ye <NOTE PLACE="marg">Act. xiii.</NOTE></L>
+<L>In no degre</L>
+<L>So faythfull be</L>
+<L>The Lawe to fulfyll. <NOTE PLACE="marg">Psal. xiii.</NOTE></L>
+<L>&para; The Lawe transgresse</L>
+<L>In wyckednesse <NOTE PLACE="marg">Iohn~. vii. Rom. iii Act. xiii.</NOTE></L>
+<L>Ye do certesse</L>
+<L>Eche one of you,</L>
+<L>Ye haue no wyll <NOTE PLACE="marg">Pro. xx. ii Cor. iii</NOTE></L>
+<L>It to fulfyll</L>
+<L>But remayne styll</L>
+<L>In workes vntrue. <NOTE PLACE="marg">Gen.</NOTE></L>
+<L>&para; So of reason</L>
+<L>To damnacion <NOTE PLACE="marg">Deut. xxvii.</NOTE></L>
+<L><PB REF="11">
+Ye are eche one</L>
+<L>Fallen carefully, <NOTE PLACE="marg">Galat. ii Mathe. xxv. Iohn~. v Roma. i ii. iii.  i, Cor, vi Ephe, v Ose. xiii Heb. ii,</NOTE></L>
+<L>Therfore agayne</L>
+<L>Nothyng but payne</L>
+<L>To you pertayne</L>
+<L>Eternally.</L>
+<L>&para; Thus to Satan</L>
+<L>Is euery man</L>
+<L>For ought he can <NOTE PLACE="marg">i. Iohn~. v. Psal. x,</NOTE></L>
+<L>Greuously bonde,</L>
+<L>So that in hell</L>
+<L>Ye must nowe dwell <NOTE PLACE="marg">Mathe. xxv.</NOTE></L>
+<L>With Satan fell</L>
+<L>And therin stonde.</L>
+<L>&para; With God no parte <NOTE PLACE="marg">Psal. vi</NOTE></L>
+<L>Haue ye in harte</L>
+<L>But greuous smarte <NOTE PLACE="marg">Esa. xi.</NOTE></L>
+<L>For your merite,</L>
+<L>So that nowe ye</L>
+<L>By equite</L>
+<L>Damned must be</L>
+<L>Of very ryght.</L>
+<L>&para; For ye doubtles <NOTE PLACE="marg">Rom. vii.</NOTE></L>
+<L>In this distres</L>
+<L><PB REF="12">
+Can healpe certes <NOTE PLACE="marg">ii. Cori~|thia~s. iii Galat, ii, iii, iiii. Psal, C v, Psal, C, xliii,</NOTE></L>
+<L>Nothynge at all,</L>
+<L>Your whole desarte</L>
+<L>Is to departe</L>
+<L>Into hell smarte</L>
+<L>Perpetuall.</L>
+</SP>
+<SP>
+<SPEAKER>&para; The Shepherdes.</SPEAKER>
+<L>Ah syr a, nowe well perceyue we</L>
+<L>That we are in a farre worse case</L>
+<L>Than we thought our selues for to be</L>
+<L>By Adam, saye you, is this come to passe?</L>
+</SP>
+<SP>
+<SPEAKER>&para; Thangell.</SPEAKER>
+<L>By Adam sure</L>
+<L>Synne dyd allure <NOTE PLACE="marg">Gen, iii, Ose, vi, iiii, Esd iii, Rom, v, Iohan, iii,</NOTE></L>
+<L>You to endure</L>
+<L>In damnacion,</L>
+<L>His wyckednes</L>
+<L>Is yours certes</L>
+<L>Brynggynge endles</L>
+<L>Destruction.</L>
+</SP>
+<SP>
+<SPEAKER>&para; The Shepherdes.</SPEAKER>
+<L>Seynge that the matter stande so</L>
+<L>Uvhat meanes shall we than inuent,</L>
+<L><PB REF="12">
+To be delyuered from this wo</L>
+<L>And to haue grace vnto vs sent?</L>
+<L>Ah syr a, Synne, Death, Satan, and hell,</L>
+<L>Are they our enemies so greuous</L>
+<L>That all other they do excell</L>
+<L>And of all are moste myscheuous?</L>
+<L>It is tyme with all haste in dede</L>
+<L>To hunte after some remedie,</L>
+<L>Lest Satan that moste wycked sede</L>
+<L>Destroye vs perpetually.</L>
+<L><UNCLEAR>Tell</UNCLEAR> vs therfore thou messenger</L>
+<L>If from the hyghe God thou be sent,</L>
+<L>Howe we shall escape this daunger</L>
+<L>For in great sorowe are we pent.</L>
+</SP>
+<SP>
+<SPEAKER>&para; Thangell.</SPEAKER>
+<L>Dowe in sadnes</L>
+<L>Are ye certes</L>
+<L>But great gladnes</L>
+<L>Shall to you chaunce,</L>
+<L>If that ye wake</L>
+<L>And the newes take</L>
+<L>Uvhiche greatly make</L>
+<L>To your pleasaunce.</L>
+<L>&para; This your sorowe</L>
+<L>Euen and morowe</L>
+<L>Christe your borowe</L>
+<L>Shall put awaye,</L>
+<L>With myrth and gle</L>
+<L><PB REF="13">
+Replete shall he</L>
+<L>All your hartes fre</L>
+<L>For euer and aye.</L>
+<L>&para; The occasion</L>
+<L>Of his descension</L>
+<L>At this season</L>
+<L>Is nowe onely,</L>
+<L>To put to fiyght</L>
+<L>Your enemies myght</L>
+<L>That in his syght</L>
+<L>Ye maye glorie.</L>
+<L>&para; All Satans powre <NOTE PLACE="marg">Iohan. xii, Ose, xiii</NOTE></L>
+<L>That is so sowre</L>
+<L>Christe shall deuoure <NOTE PLACE="marg">i Cor. xv</NOTE></L>
+<L>By his puysaunce,</L>
+<L>His strength dulyshe <NOTE PLACE="marg">i, Iohn, ii, Heb, i,</NOTE></L>
+<L>Shall Christe vanquishe</L>
+<L>And extynguishe</L>
+<L>To your plesaunce.</L>
+<L>&para; So that Satan <NOTE PLACE="marg">Psal, ixxxxi,</NOTE></L>
+<L>Shall nowe or than</L>
+<L>Subdue no man <NOTE PLACE="marg">Rom, viii, ii Pet. i, Mathe, xvi</NOTE></L>
+<L>That faythfull is,</L>
+<L>So weake and thrall</L>
+<L><PB REF="13">
+Nowe ouer all <NOTE PLACE="marg">Ose, xiii i Cor. x<GAP DESC="illegible" EXTENT="1 letter"></NOTE></L>
+<L>Satans powre shall</L>
+<L>Be without mys. <NOTE PLACE="marg">Iohan, xii.</NOTE></L>
+<L>&para; The other all</L>
+<L>In generall</L>
+<L>Your foes mortall</L>
+<L>Shall come to nought,</L>
+<L>By Christe your kynge</L>
+<L>Euery thynge</L>
+<L>To your pleasynge</L>
+<L>Shall be so wrought.</L>
+<L>&para; The morall lawe <NOTE PLACE="marg">Rom, viii,</NOTE></L>
+<L>With all her sawe</L>
+<L>Shall no more drawe <NOTE PLACE="marg">Act, xiii.</NOTE></L>
+<L>You to damnacion,</L>
+<L>Christe of fre wyll</L>
+<L>Shall it fulfyll <NOTE PLACE="marg">Rom, x. Iohan. viii,</NOTE></L>
+<L>To your ioye styll</L>
+<L>By his perfection.</L>
+<L>&para; By synne and gylte <NOTE PLACE="marg">Ephe, i, ii, Coloss, i</NOTE></L>
+<L>That heuytylte</L>
+<L>Nomore be spylte</L>
+<L>Shall you certayne, <NOTE PLACE="marg">i, Tim, <GAP DESC="illegible" EXTENT="1 letter"> Heb. i, i. Iohn~, i, iii.</NOTE></L>
+<L>Christes vertue</L>
+<L><PB REF="14">
+Shall so saue you <NOTE PLACE="marg">Esa.</NOTE></L>
+<L>And eke rescue</L>
+<L>With puyssaunte mayne.</L>
+<L>&para; Hell that so wyde <NOTE PLACE="marg">Ose, xiii</NOTE></L>
+<L>On euery syde</L>
+<L>Gape at eche tyde <NOTE PLACE="marg">i, Cor, xv, Heb, ii. i, Ioha~, iii,</NOTE></L>
+<L>Menne to deuoure,</L>
+<L>Christe maynly shall</L>
+<L>As prynce royall</L>
+<L>Subdue for thrall</L>
+<L>By his stronge powre.</L>
+<L>&para; Desperacion</L>
+<L>At no season <NOTE PLACE="marg">Rom. viii.</NOTE></L>
+<L>Worke damnacion</L>
+<L>Shall after this,</L>
+<L>Deathes tyranny <NOTE PLACE="marg">Ose, xiii</NOTE></L>
+<L>Shall Christe truly <NOTE PLACE="marg">i Cor, xv</NOTE></L>
+<L>Make hense to flye</L>
+<L>Certen this is. <NOTE PLACE="marg">Coloss. ii,</NOTE></L>
+<L>&para; Ennemyes none</L>
+<L>Shall worke you mone</L>
+<L>Christe so alone <NOTE PLACE="marg">Psal, ixxxxi, Psal, xxvii Esa,</NOTE></L>
+<L>Shall for you fyght,</L>
+<L>His good wyll is</L>
+<L><PB REF="14">
+That after this</L>
+<L>Ye shall haue blysse <NOTE PLACE="marg">i, Timo|the, ii,</NOTE></L>
+<L>And heauenly syght.</L>
+</SP>
+<SP>
+<SPEAKER>&para; The Shepherdes.</SPEAKER>
+<L>Hayre cheue the for thy good tydynges</L>
+<L>Uviche are to vs all full plesaunt,</L>
+<L>Uvel worth hym that such good newes vriges</L>
+<L>That it maye be so the Lorde graunte.</L>
+<L>But how shal those thynges come to paste</L>
+<L>A good fellawshyppe no we tell vs,</L>
+<L>For we greatly desyre in this case</L>
+<L>To be taughte of the so bounteous.</L>
+</SP>
+<SP>
+<SPEAKER>&para; Thangell.</SPEAKER>
+<L>CHriste your newe kynge</L>
+<L>Euery thynge</L>
+<L>To passe shall brynge</L>
+<L>By his puyssaunce,</L>
+<L>He shall deuoure</L>
+<L>By his stronge powre</L>
+<L>All your doloure</L>
+<L>And great greuaunce.</L>
+<L>&para; He nowe full lowe</L>
+<L>In age shall growe</L>
+<L>And ouer flowe</L>
+<L>With all wysdome,</L>
+<L><PB REF="15">
+All me~nne excell <NOTE PLACE="marg">Luc, ii,</NOTE></L>
+<L>Where so they dwell</L>
+<L>As scriptures tell</L>
+<L>He shall ryght sone.</L>
+<L>&para; Than in processe <NOTE PLACE="marg">Mathe, iii, Marc, i Luc. iii,</NOTE></L>
+<L>Of tyme certes</L>
+<L>It shall hym please</L>
+<L>Baptysed to be,</L>
+<L>That on this wyse</L>
+<L>He maye deuyse</L>
+<L>All true iustice <NOTE PLACE="marg">Math, iii,</NOTE></L>
+<L>To make you fre.</L>
+<L>&para; This do he shall</L>
+<L>Of bonde and thrall <NOTE PLACE="marg">Sap, iiii,</NOTE></L>
+<L>To make you all</L>
+<L>Cleane, fayre, and pure, <NOTE PLACE="marg">Ephe, v Mathe, v. Ephe, v Phil, ii,</NOTE></L>
+<L>That in his syght</L>
+<L>With godly lyght</L>
+<L>Ye maye shyne bryght</L>
+<L>And so endure.</L>
+<L>&para; After all this <NOTE PLACE="marg">Esa, ixi,</NOTE></L>
+<L>He shall not mys <NOTE PLACE="marg">Mathe, iiii,</NOTE></L>
+<L>The worde of blys</L>
+<L>To preache purely, <NOTE PLACE="marg">Mart, i,</NOTE></L>
+<L><PB REF="15">
+His fathers wyll <NOTE PLACE="marg">Luc, iiii, Iohan, iiii, v, viii, x, xiii,</NOTE></L>
+<L>He shall speake styll</L>
+<L>And there vntyll</L>
+<L>Euer applye.</L>
+<L>&para; To that good sawe <NOTE PLACE="marg">Mat, v. vi, vii,</NOTE></L>
+<L>And heauenly lawe</L>
+<L>All menne to drawe <NOTE PLACE="marg">Luc, vi,</NOTE></L>
+<L>He shall laboure,</L>
+<L>From cecite</L>
+<L>To make them fre <NOTE PLACE="marg">Iohan, i, iii, viii ix, xii,</NOTE></L>
+<L>Dubtles shall be</L>
+<L>His endeuoure.</L>
+<L>&para; With myracles also <NOTE PLACE="marg">Esa, xxxv,</NOTE></L>
+<L>Where seuer he go</L>
+<L>Both to and fro</L>
+<L>Confyrme he shall, <NOTE PLACE="marg">Math, iiii,</NOTE></L>
+<L>His good preachyng</L>
+<L>By that prouyng <NOTE PLACE="marg">Iohn~, v Iohan. <GAP DESC="illegible" EXTENT="1 letter"></NOTE></L>
+<L>He doth nothyng</L>
+<L>Fantasticall.</L>
+<L>&para; The blynde to syghte</L>
+<L>The sycke to myghte <NOTE PLACE="marg">Mat, xx</NOTE></L>
+<L>Shall he delyghte <NOTE PLACE="marg">Matt, x Luc, xviii,</NOTE></L>
+<L>For to restore,</L>
+<L><PB REF="16">
+His sole plesaunce <NOTE PLACE="marg">Iohan, ix. Mathe, viii. ix, xv, xvii, Marc i, ii, iii, v ix, x. Luc, iiii, v, vi, vii, viii, ix, xiii, xi. ii, xix,</NOTE></L>
+<L>You to auaunce</L>
+<L>From all greuaunce</L>
+<L>Shall be euermore.</L>
+<L>&para;Notwithstandyng</L>
+<L>His true preachyng</L>
+<L>And good workyng</L>
+<L>Many shall be,</L>
+<L>His aduersaryse</L>
+<L>Whiche shall deuyse</L>
+<L>By falsesurmyse <NOTE PLACE="marg">Iohn~, ii v, vi, vii viii. ix. xi Iohan, vii, xi. Mathe. xxvi,</NOTE></L>
+<L>His death to se.</L>
+<L>&para;Byshoppescruell</L>
+<L>That are so fell</L>
+<L>Agaynst them that mell</L>
+<L>With any goodnes,</L>
+<L>Shall spitefully <NOTE PLACE="marg">Marc, xv, Luc, xxii Iohan, xviii. xix</NOTE></L>
+<L>Lyke botchers blody</L>
+<L>Worke vylany</L>
+<L>Agaynst hym causles.</L>
+<L>&para;The Pharises</L>
+<L>The Saduces <NOTE PLACE="marg">Mathe. xii, xv, xvi, xix, xxi, xxii, xxiii,</NOTE></L>
+<L>The Scribes certes</L>
+<L>With the Lawers,</L>
+<L><PB REF="16">
+Shall neuer blynne <NOTE PLACE="marg">Luc, xi,</NOTE></L>
+<L>With sutle engynn&eacute;</L>
+<L>His great ruyne</L>
+<L>To worke euers.</L>
+<L>&leaf;Christes good name <NOTE PLACE="marg">Mathe. ix, xi, xii, xvi, xviii</NOTE></L>
+<L>As worthy blame</L>
+<L>They shall dyffame</L>
+<L>Yet no cause why, <NOTE PLACE="marg">Iohan, viii, x. xviii.</NOTE></L>
+<L>With madde dotage</L>
+<L>They shall so rage</L>
+<L>In euery age</L>
+<L>Unworthely. <NOTE PLACE="marg">Luc. xxii Iohan, vii,</NOTE></L>
+<L>&rindx;His doctrine pure</L>
+<L>That heauenly lure</L>
+<L>All they shall sure</L>
+<L>Call heresy,</L>
+<L>The worde of grace</L>
+<L>So to deface</L>
+<L>In euery place</L>
+<L>They shall be busye.</L>
+<L>&para;Yet so to cease</L>
+<L>It wyll not please <NOTE PLACE="marg">Mathe. xii. Iohan. xi.</NOTE></L>
+<L>Theyr great madnes</L>
+<L>Tyll they haue brought,</L>
+<L><PB REF="17">
+Christe from this ly~fe <NOTE PLACE="marg">Iohan. xi,</NOTE></L>
+<L>Therfore with stryfe</L>
+<L>Shall they be ryfe</L>
+<L>That this besoughte.</L>
+<L>&leaf;His disciple playne</L>
+<L>For wordly gayne <NOTE PLACE="marg">Math, xxvi,</NOTE></L>
+<L>They shall obtayne</L>
+<L>Christe to betraye, <NOTE PLACE="marg">Marc, xiiii, Luc. xxii</NOTE></L>
+<L>Neuer leauyng</L>
+<L>Tyll they hym bryng</L>
+<L>To his endyng</L>
+<L>Out of theyr waye.</L>
+<L>&rindx;They shall menne tyre</L>
+<L>For mony hyre</L>
+<L>To do theyr desyre <NOTE PLACE="marg">Math, xxviii,</NOTE></L>
+<L>Ungracious,</L>
+<L>Mony nor ware</L>
+<L>Shall they ones spare</L>
+<L>For to declare</L>
+<L>Theyr actes myscheuous.</L>
+<L>&leaf;In conclusion</L>
+<L>With expedicion</L>
+<L>Unto confusion</L>
+<L>Christe for to brynge,</L>
+<L><PB REF="17">
+They shall laboure</L>
+<L>With all theyr powre</L>
+<L>Mothe dishonoure</L>
+<L>Therby workynge.</L>
+<L>&para;So to be shorte <NOTE PLACE="marg">Mathe, xxvi.</NOTE></L>
+<L>Christe your conforte</L>
+<L>Mocke and eke sporte <NOTE PLACE="marg">Marc. xiiii. Luc, xxii</NOTE></L>
+<L>They shall truly,</L>
+<L>Wordes euyll and vayne <NOTE PLACE="marg">Iohan, xix.</NOTE></L>
+<L>Full of dysdayne</L>
+<L>Shall they certayne</L>
+<L>Speake spitefully.</L>
+<L>&para;They shall so rage</L>
+<L>That in mockage</L>
+<L>Christe wyse and sage</L>
+<L>Kynge they shall call, <NOTE PLACE="marg">Mathe. xxvii.</NOTE></L>
+<L>Bowynge theyrkne</L>
+<L>Saynge AUe</L>
+<L>With game and gle</L>
+<L>Both great and small.</L>
+<L>&para;A crowne of thorne</L>
+<L>As one forlorne</L>
+<L>And all to torne <NOTE PLACE="marg">Ma<GAP DESC="illegible" EXTENT="2 letters">, xv.</NOTE></L>
+<L>Shall he also weare,</L>
+<L><PB REF="18">
+Uestures royall <NOTE PLACE="marg">Math, xxvii, Iohan, xix.</NOTE></L>
+<L>Put on he shall</L>
+<L>In mockage all</L>
+<L>Shall be this geare.</L>
+<L>&para;Buffettes many</L>
+<L>And strypes plenty</L>
+<L>Haue shall he truly <NOTE PLACE="marg">Esa, liii Math, xxvii. Marc, xv, Luc, xxiii. Iohn~, xix, Ephe, ii Coloss, <GAP DESC="illegible" EXTENT="1 letter">, ii. Act, ii, Galat, iii. Phil, ii, i, Pet, ii Esa, lii i</NOTE></L>
+<L>Of those scorners</L>
+<L>This for your sake</L>
+<L>Shall he than take</L>
+<L>And so peace make</L>
+<L>For your maners.</L>
+<L>&para;So at the laste</L>
+<L>These thynges beyng paste</L>
+<L>They shall nayle faste</L>
+<L>Hym to the crosse,</L>
+<L>Moste greuous payne</L>
+<L>Shall he sustayne</L>
+<L>You to refrayne</L>
+<L>From damnable losse.</L>
+<L>&para;His body redde</L>
+<L>His harte bloude shedde <NOTE PLACE="marg">Iohn~, xix</NOTE></L>
+<L>For you damned</L>
+<L>Shall be certes,</L>
+<L><PB REF="18">
+By that alone <NOTE PLACE="marg">Ephe, f, ii, &amp; v, Coloss, i, ii. i Timo, ii. Heb, i. Esa, liif Math, viii. Ephe, v Coloss, i, ii. i Pet. i, Heb, ix, i Pet, ii i Ioh, i, Apoc, i, Heb, vii, ix, x.</NOTE></L>
+<L>From all your mone</L>
+<L>Shall ye eche one</L>
+<L>Be made gyltles,</L>
+<L>&para;The facrifice</L>
+<L>That shall suffice</L>
+<L>For your yll gyse</L>
+<L>Is christe alone,</L>
+<L>His precious bloode</L>
+<L>Shedde on the roode</L>
+<L>Shall make you good</L>
+<L>Before Gods throne.</L>
+<L>&para;One oblacion</L>
+<L>At his passion</L>
+<L>Unto perfection</L>
+<L>Shall all them brynge,</L>
+<L>Whiche haue entent</L>
+<L>Synne to repent</L>
+<L>And not dissent</L>
+<L>From christes sayeng. <NOTE PLACE="marg">Iohan. iii, v, vi, vii, xi, Rom, viii, i Cor, <GAP DESC="illegible" EXTENT="1 letter"></NOTE></L>
+<L>&para;No man decaythe</L>
+<L>As scripture saythe</L>
+<L>Whiche hathe trne faythe</L>
+<L>Inchristes bloude</L>
+<L><PB REF="19">
+Christes bloude sure <NOTE PLACE="marg">Ephe, i, v. Coloss, i ii, Pet. i i, Iohn~. iii. i Iohn~ i i, Pet. i,</NOTE></L>
+<L>Shall make hym pure</L>
+<L>So to endure</L>
+<L>Both mylde and good.</L>
+<L>&para; Purgatory</L>
+<L>To puryfie</L>
+<L>Your synnes truly <NOTE PLACE="marg">Apoc. i, Esa, liii i. Pet, ii. i, Timo. ii,</NOTE></L>
+<L>Is none at all,</L>
+<L>But Christes bloude</L>
+<L>Shedde on the roode</L>
+<L>Whiche make you good</L>
+<L>And immortall.</L>
+<L>&para; Christes passion</L>
+<L>Is the rannson</L>
+<L>From damnacion</L>
+<L>To make you fre,</L>
+<L>By that your det</L>
+<L>Is awaye set <NOTE PLACE="marg">Ephe, ii Colos, ii</NOTE></L>
+<L>So that no let</L>
+<L>At all haue ye.</L>
+<L>&para; But that ye maye <NOTE PLACE="marg">Iohn~. x. Iohan, xiiii, Rom, v, Ep<GAP DESC="illegible" EXTENT="1 letter">s, ii.</NOTE></L>
+<L>Euery daye</L>
+<L>Come nowe alwaye</L>
+<L>To God boldly,</L>
+<L><PB REF="19">
+His bloude so dere <NOTE PLACE="marg">Heb, iiii, vii. Ephe. ii Coloss, i i Iohn, i</NOTE></L>
+<L>Hath made you nere</L>
+<L>To God all clere</L>
+<L>And his glory.</L>
+<L>&para; No more to hell <NOTE PLACE="marg">Ose, xiii i, Cor, xv.</NOTE></L>
+<L>Therin to dwell</L>
+<L>As scriptures tell</L>
+<L>Do ye partayne, <NOTE PLACE="marg">Roma, viii. Esa, lxiiii, i Cor, ii, Iohan. xvii, Ephe, i, ii. Coloss, i, ii, Iohan, viii, Rom. viii, Cor, vii</NOTE></L>
+<L>But vnto blysse</L>
+<L>Where great ioye is</L>
+<L>There without mysse</L>
+<L>With Christe to reygne.</L>
+<L>&para; Christe of Gods grace</L>
+<L>In euery place</L>
+<L>Shall this purchase</L>
+<L>By his swete bloude,</L>
+<L>By hym so fre</L>
+<L>This liberte</L>
+<L>Obtayne shall ye</L>
+<L>To be made good. <NOTE PLACE="marg">Mat. xii</NOTE></L>
+<L>&para; Thus seye nowe</L>
+<L>That from sorowe</L>
+<L>Christe your borowe</L>
+<L>Shall make you fre,</L>
+<L><PB REF="20">
+Your enmyse all <NOTE PLACE="marg">Ose, xiii i, Cor. xv, Coloss, ii, Heb. ii.</NOTE></L>
+<L>No domage shall</L>
+<L>Worke you at all</L>
+<L>So blessed are ye.</L>
+</SP>
+<SP>
+<SPEAKER>&para; The Shepherdes.</SPEAKER>
+<L>To here these newes we moche delyghte</L>
+<L>But this one thynge greueth vs greatly,</L>
+<L>That this our hynge the lorde of myghte <NOTE PLACE="marg">Psal, xx. ii.</NOTE></L>
+<L>Must so cruelly the death dye.</L>
+</SP>
+<SP>
+<SPEAKER>&para; Thangell.</SPEAKER>
+<L>Nothynge at all <NOTE PLACE="marg">Galat, <GAP DESC="illegible" EXTENT="1 letter">i. Ose. vi, Psal. xvi. Ionas. i. ii, Math. xii. xxviii. Marc, xvi. Luc. xxiiii. Ioh. xx. i. Cor. xv. ii, Tim, ii. Iohn~, xii.</NOTE></L>
+<L>Greue you it shall</L>
+<L>Thoughe it so fall</L>
+<L>For with stronge mayne,</L>
+<L>On the thyrde daye</L>
+<L>Foreuer and aye</L>
+<L>As Scriptnres saye</L>
+<L>Shall he ryse agayne.</L>
+<L>&para; The death to dye</L>
+<L>For you truly</L>
+<L>Necessary</L>
+<L>Doubtles it is,</L>
+<L>Or els neuer</L>
+<L>Coulde ye entre</L>
+<L><PB REF="20">
+And perseuer</L>
+<L>In ioyfull blys.</L>
+<L>&para; His bodye slayne <NOTE PLACE="marg">Ephe. v Heb. vii ix. x. i Pet. ii. Esa. liii. i Tim, ii</NOTE></L>
+<L>For you obtayne</L>
+<L>Fredome from payne</L>
+<L>Shall without doubte,</L>
+<L>His oblacton</L>
+<L>Shall gette pardon</L>
+<L>For your transgression</L>
+<L>Nowe rounde aboute.</L>
+<L>&para; But as he shall</L>
+<L>For your synnes all</L>
+<L>Both great and small</L>
+<L>Dye the death playne, <NOTE PLACE="marg">Rom. iiii.</NOTE></L>
+<L>So in lyke fashion</L>
+<L>After his passion</L>
+<L>For your Iustificacion</L>
+<L>Shall he ryse agayne.</L>
+<L>&para; Than ryghteous</L>
+<L>Shall Christe Iesus <NOTE PLACE="marg">Ose. xiii i, Cor. xv.</NOTE></L>
+<L>By grace bounteous</L>
+<L>Make you eche one, <NOTE PLACE="marg">Heb. ii. i, Iohn~. iii.</NOTE></L>
+<L>The victory</L>
+<L>Gettynge playnly</L>
+<L><PB REF="21">
+Of your enmye</L>
+<L>Satan alone.</L>
+<L>&para; He euen alone <NOTE PLACE="marg">Esa. Rom, viii. ii. Tim. i, Heb, ii, i Iohan <GAP DESC="illegible" EXTENT="1 letter">, v, Rom, vii, Ose. xiii i. Cor, xv. Mathe, xxviii.</NOTE></L>
+<L>And other none</L>
+<L>Your enemyse eche one</L>
+<L>Shall put to flyght,</L>
+<L>Satan and hell</L>
+<L>With synne so fell</L>
+<L>And death cruell</L>
+<L>With all theyr myght.</L>
+<L>&para; Gloriously</L>
+<L>For you truly</L>
+<L>The victory</L>
+<L>Shall he purchase,</L>
+<L>So that no euyll <NOTE PLACE="marg">Psal, <GAP DESC="illegible" EXTENT="1 letter">xiii,</NOTE></L>
+<L>Shall come you tyll</L>
+<L>He so fulfyll <NOTE PLACE="marg">Rom. viii,</NOTE></L>
+<L>Sall you with grace.</L>
+</SP>
+<SP>
+<SPEAKER>&para; The Shepherdes.</SPEAKER>
+<L>This chereth vs gayly well at the hartte</L>
+<L>Fayre <UNCLEAR>theue</UNCLEAR> the for these thy good newes,</L>
+<L>God let the from vs neuer departe</L>
+<L>Tyll thou haste tolde vs all that ensuyse.</L>
+<L>Uvhat shall become than on our kynge</L>
+<L>So good, so gentle, so beneficiall,</L>
+<L><PB REF="21">
+Shall he alwaye be remaynynge</L>
+<L>Here in this worlde terrestriall&punc;</L>
+</SP>
+<SP>
+<SPEAKER>&para; Thangell.</SPEAKER>
+<L>Na verely <NOTE PLACE="marg">Psal, <GAP DESC="illegible" EXTENT="1 letter">. viii, Esa, lxiii. Marc, xvi, Luc, xxiiii, Act, i.</NOTE></L>
+<L>For he shortly</L>
+<L>Shall bodely</L>
+<L>Ascende agayne,</L>
+<L>To his father</L>
+<L>With hym euer</L>
+<L>In lyke power <NOTE PLACE="marg">Rom, viii. i. Tim,  iii. Heb, i.</NOTE></L>
+<L>There to remayne.</L>
+</SP>
+<SP>
+<SPEAKER>&para; The Shepherdes.</SPEAKER>
+<L>Blacke, alacke than socourles</L>
+<L>Shall we be leafte, vf he go awaye,</L>
+<L>Our enemies shall vs oppresse</L>
+<L>And we agayne shall all decaye.</L>
+</SP>
+<SP>
+<SPEAKER>&para; Thangell.</SPEAKER>
+<L>Naye, naye, not so</L>
+<L>Thoughe he hens go</L>
+<L>Yet from all wo <NOTE PLACE="marg">Luc, xxiiii. Iohan, xvi, xvi</NOTE></L>
+<L>Shall ye be fre,</L>
+<L>A confortoure</L>
+<L>From Gods owne bowre</L>
+<L><PB REF="22">
+That heauenly lowre</L>
+<L>Sende downe shall he.</L>
+</SP>
+<SP>
+<SPEAKER>&para; The Shepherdes.</SPEAKER>
+<L>Uvhat shall he be, I peaye the tell vs</L>
+<L>For this worke vs great wo and smarte,</L>
+<L>That this our kynge full bounteous</L>
+<L>Shulde so shortly from vs departe.</L>
+</SP>
+<SP>
+<SPEAKER>&para; Thangell.</SPEAKER>
+<L>The holy Ghoste <NOTE PLACE="marg">Act. ii. x.</NOTE></L>
+<L>Of power moste</L>
+<L>To euery coste</L>
+<L>Shall he sende downe,</L>
+<L>Uvhiche shall defende <NOTE PLACE="marg">Math. xxviii</NOTE></L>
+<L>Unto the ende</L>
+<L>Suche as amende</L>
+<L>Theyr conuersacion.</L>
+<L>&para; He doubtles shall</L>
+<L>Preserue them all</L>
+<L>That from workes thrall <NOTE PLACE="marg">Math: xvi. Luc. xxii Iohn~. vii. x. xv. xvi. Rom. viii. ii. Pet. i</NOTE></L>
+<L>Manly aryse,</L>
+<L>He at no tyde</L>
+<L>Uvyllones abyde</L>
+<L>That they shall slyde</L>
+<L>In any wyse.</L>
+<L><PB REF="22">
+&para; Theyr breast&eacute;s aryghte <NOTE PLACE="marg">i Iohn~, iii. Psal. lxviii. Luc. xxiiii. Act ii. Rom. viii. Galat. iiii. ii Tim. i Iac. iiii. i Iohn~, ii, iii. Iohan, xv, Iohan. vii, Esa, xl,</NOTE></L>
+<L>Uvith godly myghte</L>
+<L>For to endyghte</L>
+<L>He shall not cease,</L>
+<L>That puyssantly</L>
+<L>They maye truly</L>
+<L>Satans fury</L>
+<L>Resiste at ease.</L>
+<L>&para; Affectes carnall</L>
+<L>That make menne thrall</L>
+<L>Exclude he shall</L>
+<L>From the Christen,</L>
+<L>Uvith heauenly grace</L>
+<L>In euery place</L>
+<L>Fyllynge the trace</L>
+<L>Of faythfull menne,</L>
+<L>&leaf;This holy spirite</L>
+<L>Shall leade aryghte</L>
+<L>The Christens syghte</L>
+<L>Into all truth, <NOTE PLACE="marg">Iohan, xv, xvi.</NOTE></L>
+<L>That they easely</L>
+<L>Maye sone espye <NOTE PLACE="marg">i Ioha~. ii,</NOTE></L>
+<L>Hipocrisye</L>
+<L>That falshede ensueth.</L>
+<L><PB REF="23">
+&para; With vertues pure</L>
+<L>Make menne demure <NOTE PLACE="marg">Galat, v. Apoc. xxii,</NOTE></L>
+<L>This spirite shall sure</L>
+<L>By influence,</L>
+<L>Of gyftes diuine</L>
+<L>Wherto all fyne</L>
+<L>They shall enclyne</L>
+<L>Without offence.</L>
+<L>&para; This good spirite</L>
+<L>Workynge all ryghte <NOTE PLACE="marg">i, Cor, iii. vi, ii Cor, vi, Leuit, xxvi, Mathe. xxviii, Luc. xxiiii,</NOTE></L>
+<L>Shall inhabite</L>
+<L>Christen mennes hartes,</L>
+<L>Wiche shall them gyde</L>
+<L>At euery tyde</L>
+<L>And put a syde</L>
+<L>All woes and smartes.</L>
+<L>&para; All vice to fie</L>
+<L>Uertu to se <NOTE PLACE="marg">Iohan, xv, xvi, i Iohan ii,</NOTE></L>
+<L>Teache you shall he</L>
+<L>At eche season,</L>
+<L>That for euer</L>
+<L>Ye maye perseuet</L>
+<L>In Gods fauer</L>
+<L>And his kyngdome.</L>
+<L><PB REF="23">
+&para; Thus se ye nowe</L>
+<L>That in sorowe</L>
+<L>Christe your borowe</L>
+<L>Wyll not leaue you, <NOTE PLACE="marg">Iohan. xiiii, xv. xvi, Math xxviii. Mathe. xvi, Iohan, xii.</NOTE></L>
+<L>By his spirite</L>
+<L>Agaynst Satans myghte</L>
+<L>He wyll for you fyghte</L>
+<L>Faythfull and true.</L>
+</SP>
+<SP>
+<SPEAKER>&para; The Shepherdes.</SPEAKER>
+<L>All these thynges please vs ryght well</L>
+<L>So ioyefull newee they to vs brynge,</L>
+<L>But we all praye the, vs nowe tell</L>
+<L>What shall become of our newe kynge.</L>
+</SP>
+<SP>
+<SPEAKER>&para; Thangell.</SPEAKER>
+<L>Christe your newe kynge</L>
+<L>In heauen syttynge</L>
+<L>Shall a dwellynge</L>
+<L>For you prepare, <NOTE PLACE="marg">Iohan. xiiii.</NOTE></L>
+<L>That after this</L>
+<L>In ioyefull blys</L>
+<L>Ye maye not mys <NOTE PLACE="marg">Iohan, xvii,</NOTE></L>
+<L>To abyde thare.</L>
+<L>&para; Early and late</L>
+<L>Your aduocate <NOTE PLACE="marg">i Iohan ii.</NOTE></L>
+<L><PB REF="24">
+And bounteous mate <NOTE PLACE="marg">i Tim, ii Rom, viii. Heb, vii</NOTE></L>
+<L>Shall he be sure,</L>
+<L>To pleate euer</L>
+<L>All your matter</L>
+<L>Before his father</L>
+<L>To make you pure.</L>
+<L>&rindx;If that ye synne <NOTE PLACE="marg">i, Iohn, ii,</NOTE></L>
+<L>He wyll not blynne</L>
+<L>You for to wynne</L>
+<L>Agayne to grace,</L>
+<L>Of the father</L>
+<L>By his prayer</L>
+<L>All this fauer</L>
+<L>Shall he purchase,</L>
+</SP>
+<SP>
+<SPEAKER>&para; The Shepherdes.</SPEAKER>
+<L>But what, when shall he come agayne</L>
+<L>To vs whiche are his enheritaunce? <NOTE PLACE="marg">Psal ii.</NOTE></L>
+<L>Shall our kynge there euer remayne</L>
+<L>And worke vs than no more pleasaunce?</L>
+</SP>
+<SP>
+<SPEAKER>&para; Thangell.</SPEAKER>
+<L>Beturne shall he <NOTE PLACE="marg">Ioh, iii, Mala|che, iii, Math, xxv, Iohn~, v</NOTE></L>
+<L>From the hyghe see</L>
+<L>Of Gods maieste</L>
+<L>At the laste daye,</L>
+<L><PB REF="24">
+And gyue iudgement <NOTE PLACE="marg">Phil. iii i Thes, iiii.</NOTE></L>
+<L>Indyfferent</L>
+<L>Uvith powre extent</L>
+<L>For euer and aye.</L>
+<L>&leaf;Christe the Iudge than</L>
+<L>Shall the dedes scanne <NOTE PLACE="marg">Rom, xiiii, ii Cor, v Math, xxv. Iohn~, v Dan, xii,</NOTE></L>
+<L>Of euery manne</L>
+<L>As it is fytte,</L>
+<L>The euyll to payne</L>
+<L>The good agayne</L>
+<L>To ioye certayne</L>
+<L>Shall he commytte.</L>
+<L>&rindx;Than shall all you</L>
+<L>His seruauntes true <NOTE PLACE="marg">Esa, lxv. ii Pet, iii, Apoc, xxi, Iohn~, xvii, Phil, i,</NOTE></L>
+<L>A glorye newe</L>
+<L>Receyue certes,</L>
+<L>Of this your kynge</L>
+<L>Uvith hym reygnynge</L>
+<L>In one dwellynge</L>
+<L>For aye doubtles.</L>
+<L>&leaf;Ioye eternall <NOTE PLACE="marg">Esa, lxv, Dan, xii. Ezech. xxxvii.</NOTE></L>
+<L>His seruauntes all</L>
+<L>Receyue than shall</L>
+<L>Uvith hyghe solace,</L>
+<L><PB REF="25">
+Neuermore payne <NOTE PLACE="marg">S<GAP DESC="illegible" EXTENT="1 letter">ph. iii Ioel, iii, i Cor. ii. Apoc. xxi.</NOTE></L>
+<L>But all ioye playne</L>
+<L>Shall ye sustayne</L>
+<L>In that good place.</L>
+</SP>
+<SP>
+<SPEAKER>&para; The Shepherdes.</SPEAKER>
+<L>That shulde we than nowe desyre more <NOTE PLACE="marg">Luc. i, Esa, x. Iohn, i. i, Iohn~, iii. Esa vii Math i Luc i, ii. Iohn~. ii Ephe ii. Esa, lxi Tit ii,</NOTE></L>
+<L>Of this our kynge so lyberall,</L>
+<L>Seynge he hath all thynges in store</L>
+<L>That make to our health eternall?</L>
+<L>Our kynge ye saye, is Gods owne sonne</L>
+<L>Equall with his father in powre,</L>
+<L>whiche from his hyghe throne is come downe</L>
+<L>To vanquyshe Satan, that is so sowre.</L>
+<L>Of a Mayde pure without mannes sede</L>
+<L>Is he borne by ghostly inspiracion,</L>
+<L>All our deformyties out to wede</L>
+<L>whiche we toke of Adams procreation.</L>
+<L>He shall not onely be our kynge</L>
+<L>But also our good scole maister, <NOTE PLACE="marg">Esa, xxxv. Iohn~, v Iohn~, xi Mathe, xxvi. Marc, xv. Luc, xxii Mathe, xii, xv, xvi, xix, xxi, xxii, xxiii,</NOTE></L>
+<L>Truly teachynge vs euery thynge</L>
+<L>That pertayne to a Christen manner.</L>
+<L>His godly doctrine he also shall</L>
+<L>Uvith myracles approue and fortyfie.</L>
+<L>Declarynge hereby vnto all</L>
+<L>That he is Messias vnfaynedly.</L>
+<L>But the Byshoppes and preestes also</L>
+<L>with the Lawers and Pharises,</L>
+<L>Scribes, Sad<GAP DESC="illegible" EXTENT="1 letter">ces and many mo</L>
+<L>Shall seake all meanes hym to displease.</L>
+<L>His sermons they shall callumniate</L>
+<L>And his innocency dyffame,</L>
+<L>Appliynge nether early nor late</L>
+<L><PB REF="25">
+To mayntayne the honour of his name. <NOTE PLACE="marg">Luc. <GAP DESC="illegible" EXTENT="3 letters">. xxiii. Iohn~. viii. x. xviii. Math. xxvi. Marc, xiiii. Luc. xxii Phil. ii, Esa. liii</NOTE></L>
+<L>They shall so encrease in fury</L>
+<L>That theyr malice shall neuer cease,</L>
+<L>T<GAP DESC="illegible" REASON="missing" EXTENT="1 letter">ll they haue slayne hym cruelly</L>
+<L>To satisfye theyr wyckednes.</L>
+<L>His owne disciple shall they allure</L>
+<L>Christe his Maister for to betraye,</L>
+<L>Gyuynge hym gyftes to make hym sure</L>
+<L>That from his purpose he go not awaye.</L>
+<L>False wytnesse also shall they hyre</L>
+<L>Agaynste Christe our true lorde and kynge,</L>
+<L>To accomplyshe theyr wycked desyre</L>
+<L>That vnto death they maye hym brynge.</L>
+<L>After diuers kyndes of torment <NOTE PLACE="marg">Psal. xv Ionas. i. ii. Ose vi, Rom, iiii. Psal. lxviii. Esa. lxiii. Marc, xvi. Act. i, i, Iohn~, ii. Rom. viii. Heb. vii Luc. xxiiii. Iohn~, xvi.</NOTE></L>
+<L>wherwith he shall be greatly vered,</L>
+<L>To the crosse than shall he be sent</L>
+<L>Unto the death to be <UNCLEAR>scurged</UNCLEAR>.</L>
+<L>So that the conclusion shall be</L>
+<L>That his swete badye shall be slayne.</L>
+<L>And his precious bloude shed on the tre</L>
+<L>To release all our synnefull payne.</L>
+<L>But he shall ryse agayne the thyrde daye</L>
+<L>Lyke a lorde puysaunte and bounteous.</L>
+<L>That before God the father we maye</L>
+<L>Euer appere Iust and ryghteous,</L>
+<L>Than to the heauens ascende he shall</L>
+<L>Both God and man by his diuine powre,</L>
+<L>Syttynge on the ryght hande eternall</L>
+<L>Of God the father at eche howre.</L>
+<L>For vs shall he without ceasynge</L>
+<L>Praye there vnto God his father,</L>
+<L>His prayers hereto appliynge</L>
+<L>That in grace we maye perseuer.</L>
+<L>Moreouer to vs shall he sende</L>
+<L>The holy Ghoste from the heauens hyghe,</L>
+<L>Uvhiche shall preserue vs vnto the ende</L>
+<L><PB REF="26">
+Agaynst Satan our olde enemye. <NOTE PLACE="marg">Art. ii, x, Psal. lxviii. Ioel iii. Math. xxv. Phil. iii i. Thess, iiii, Psal. L. clv. Psal. L. xviii,</NOTE></L>
+<L>This holy spirite shall garnyshe</L>
+<L>Our myndes with vertues aboundante,</L>
+<L>And to abstayne from workes deuylyshe</L>
+<L>Grace euer to vs shall he graunte,</L>
+<L>At the laste daye shall he agayne</L>
+<L>Returne vnto the great iudgement,</L>
+<L>The euyll shall he committe to payne</L>
+<L>The good to glory shall be sent.</L>
+<L>O what a glorious kynge haue we</L>
+<L>Howe gentle, howe good, howe liberall,</L>
+<L>Nowe blyssed mought Messias be</L>
+<L>whiche to suche glory doth vs call.</L>
+<L>Fayne wolde we se this our newe kynge</L>
+<L>Gladly nowe wolde we hym visite,</L>
+<L>For neuer was there any thynge</L>
+<L>wherin we had so great delyghte,</L>
+<L>Tell vs therfore we praye the all</L>
+<L>Uvhyther we shall go for to fynde,</L>
+<L>This our newe kynge a prynce royall</L>
+<L>whom we all loue with hart and mynde.</L>
+</SP>
+<SP>
+<SPEAKER>&para; Thangell.</SPEAKER>
+<L>If that ye be</L>
+<L>Mynded to se</L>
+<L>Your kynge so fre</L>
+<L>Corporally,</L>
+<L>In bethelem sure <NOTE PLACE="marg">Math. ii, Luc. ii.</NOTE></L>
+<L>Is he demure</L>
+<L>With Mary pure</L>
+<L>Unfaynedly.</L>
+<L><PB REF="26">
+&leaf;There shall ye fynde</L>
+<L>Your kynge so kynde</L>
+<L>After the mynde</L>
+<L>Of the prophet, <NOTE PLACE="marg">Miche, v.</NOTE></L>
+<L>Whiche that cyte</L>
+<L>Of Dauid fre</L>
+<L>Confesse to be</L>
+<L>There vnto set.</L>
+<L>&para; And that ye maye</L>
+<L>Nowe in your waye</L>
+<L>All your iournaye</L>
+<L>The better make</L>
+<L>I shall you tell</L>
+<L>Howe ye maye well</L>
+<L>Of Christe so bell</L>
+<L>True knowledge take.</L>
+<L>&para; The chylde swadled</L>
+<L>Uilely clothed <NOTE PLACE="marg">Luc. ii.</NOTE></L>
+<L>And reposed</L>
+<L>In a maunger,</L>
+<L>Shall ye there fynde</L>
+<L>Yet let your mynde</L>
+<L>To hym be kynde</L>
+<L>And soperseuer.</L>
+<L><PB REF="27">
+&para; In pouerte</L>
+<L>Thoughe ye hym se</L>
+<L>Yet sure is he <NOTE PLACE="marg">i, Tim, vi. Apoc. xvii. xix,</NOTE></L>
+<L>The lorde of all</L>
+<L>So to be borne</L>
+<L>For you all lorne</L>
+<L>He thoughte no scorne</L>
+<L>As knowe ye shall.</L>
+<L>&para; He is of Mary</L>
+<L>Borne so symply <NOTE PLACE="marg">Math. xi.</NOTE></L>
+<L>That ye boldly</L>
+<L>Shulde to hym come,</L>
+<L>If he dyd weare</L>
+<L>All pryncelyke geare</L>
+<L>So wolde ye feare</L>
+<L>This his kyngdome.</L>
+<L>&para; But poore I wys</L>
+<L>Become he is</L>
+<L>That you by this</L>
+<L>Maye be rytched,</L>
+<L>His pouerte <NOTE PLACE="marg">ii, Cor, viii.</NOTE></L>
+<L>Maketh you to be</L>
+<L>Both rytche and fre</L>
+<L>Undaungered.</L>
+<L><PB REF="27">
+&para; Be not therfore</L>
+<L>Dysmaied the more</L>
+<L>Because in store</L>
+<L>He hath suche nede,</L>
+<L>True zachary</L>
+<L>Dyd prophecy <NOTE PLACE="marg">zach. ix.</NOTE></L>
+<L>Of his penury</L>
+<L>In very dede.</L>
+<L>&para; And that ye maye</L>
+<L>Knowe that I saye</L>
+<L>To be true alwaye</L>
+<L>And without lye,</L>
+<L>With me that bryng</L>
+<L>This gladde rydyng</L>
+<L>Ye shall heare syng</L>
+<L>Angelles many.</L>
+<LG>
+<HEAD>&para; The songe of thangels.</HEAD>
+<L>Prayse and glory</L>
+<L>To God on hyghe</L>
+<L>And peace truly <NOTE PLACE="marg">Luc. ii.</NOTE></L>
+<L>On earth mortall,</L>
+<L>To menne agayne</L>
+<L>A good wyll playne</L>
+<L><PB REF="28">
+Moughte be certayne</L>
+<L>Perpetuall.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>&para; The Shepherdes.</SPEAKER>
+<L>O heauenly noyse and plesaunte syght</L>
+<L>O tydynges full of all solace,</L>
+<L>To gloryfie God it <GAP DESC="illegible" REASON="missing" EXTENT="1 letter">s ryght</L>
+<L>From whom alone procedeth all grace.</L>
+<L>The Ang<GAP DESC="illegible" REASON="missing" EXTENT="1 letter">lles are nowe from vs gone</L>
+<L>Into heauen are they ascended, <NOTE PLACE="marg">Luc, ii.</NOTE></L>
+<L>Thorowe theyr tydynges is all mone</L>
+<L>Utterly from vs excluded,</L>
+<L>Uvhat than doth there yet nowe remayne</L>
+<L>But that to Bethlem we make haste,</L>
+<L>Aud with our eyes se the tydynges certayne</L>
+<L>whiche God hath shewed vs at the laste.</L>
+<L>Moche are we bounde vndoubtedly</L>
+<L>To this our lorde omnipotent</L>
+<L>Whiche of his great grace and mercy</L>
+<L>Hath these tydynges vnto vs sent,</L>
+<L>Greatly also before all other</L>
+<L>Are we sheph rdes poore and myserable.</L>
+<L>Bounde to this our lorde and maist<GAP DESC="illegible" EXTENT="1 letter">r</L>
+<L>For these newes swete and confor<GAP DESC="illegible" REASON="missing" EXTENT="1 letter">able,</L>
+<L>He hath not openned them to <GAP DESC="illegible" EXTENT="2 letters">nges</L>
+<L>To Byshoppes, to Priestes, to Lawers,</L>
+<L>Nor yet to couetous worldlynges <NOTE PLACE="marg">Math. xi. Esa. xxix. i, Cor, i, Iac. ii,</NOTE></L>
+<L>But to vs symple and poore mysers,</L>
+<L>To vs to vs whiche are counted</L>
+<L>Uery slaues before the worldes syght,</L>
+<L>Are these ioyfull newes openned</L>
+<L>To confoo~de the wycked worldlynges myght,</L>
+<L>The wycked worldlynges cannot abyde</L>
+<L>This our, newe kynge the lorde Ihesus,</L>
+<L><PB REF="28">
+For they reiect and <GAP DESC="illegible" EXTENT="2 letters">st a syde</L>
+<L>Both hym and his worde as venomous.</L>
+<L>Herode wyll persecute doubtles</L>
+<L>Christe our kynge with great violence, <NOTE PLACE="marg">Math. ii Iohn~. xi. Act. iiii.</NOTE></L>
+<L>The Byshoppes, the Priestes, the Pharises,</L>
+<L>wyll surely commytte no lesse offence.</L>
+<L>The poore in spirite are fytte onely</L>
+<L>To receyue Christe and his preachyng,</L>
+<L>The wyse worldlynges counte it foly</L>
+<L>Ony suche newes abrode to brynge. <NOTE PLACE="marg">Math, v. Math, xi.</NOTE></L>
+<L>In worldly goodes is theyr delyght</L>
+<L>Gorgious howses are theyr plesaunce</L>
+<L>Sumptuousl<GAP DESC="illegible" EXTENT="1 letter"> before mennes syght</L>
+<L>To be decked is theyr pastaunce</L>
+<L>Delicately also to fare</L>
+<L>Is all theyr whole delectacion.</L>
+<L>And on the worlde to caste theyr care <NOTE PLACE="marg">Luc, xvi</NOTE></L>
+<L>Is theyr whole studye and intencion.</L>
+<L>These wycked worldlynges therfore</L>
+<L>And belly Gods voluptuous.</L>
+<L>Cannot awaye with Christes lore <NOTE PLACE="marg">Iohn~. vii.</NOTE></L>
+<L>Althoughe neuer so bounteous</L>
+<L>For this cause hath our lorde God sent</L>
+<L>To vs shepherdes symple and rusticall,</L>
+<L>These newes so good so excellent.</L>
+<L>Whiche shall brynge great ioye ouer all. <NOTE PLACE="marg">Luc. ii.</NOTE></L>
+<L>Let vs therfore without <GAP DESC="illegible" EXTENT="1 letter">aryaunce</L>
+<L>Go and vysite this our newe kynge</L>
+<L>That we maye enioye that plesaunte</L>
+<L>whiche the Angell to vs dyd brynge.</L>
+<L>Let vs all with humble reuerence</L>
+<L>Go vnto our true Messias,</L>
+<L>Beholdyng his royall presence</L>
+<L>Althoughe in a vile and homely place.</L>
+<L>And thoughe we haue no worldly treasure</L>
+<L>To offer to this our newe kynge,</L>
+<L><PB REF="29">
+Yet let vs brynge hartes meke and pure</L>
+<L>whiche shall be to hym well pleasyng.</L>
+<L>Hartes full of fayth and charite</L>
+<L>To Christe our kynge let vs offer,</L>
+<L>Beleuynge truly that this is he</L>
+<L>whiche is our kynge and Redemer.</L>
+<L>In hym alone, in hym alone</L>
+<L>Let vs put all our confidence,</L>
+<L>Let vs scake saluacion at none</L>
+<L>But onely at his diuine presence</L>
+<L>Let vs loue hym vnfaynedly</L>
+<L>With a true hart and faythfull mynde,</L>
+<L>Seakyng euermore his glory</L>
+<L>whiche is to vs so gentle and kynde.</L>
+<L>To god the father omnipotent</L>
+<L>whiche of his mere mercy and grace,</L>
+<L>Hath vnto vs this treasure sent</L>
+<L>Let vs lyue worthy his ayndnes</L>
+<L>In all our lyfe and conuersacion,</L>
+<L>And suche wyse sake hym to please</L>
+<L>That we maye <UNCLEAR>ane</UNCLEAR> the heauenly mansion.</L>
+</SP>
+<CLOSER>AMEN.</CLOSER>
+<TRAILER>Gyue the glory to God alone. </TRAILER>
+<TRAILER>Uirescit vulnere virtus.</TRAILER>
+</DIV1>
+</BODY>
+<BACK>
+<DIV1 TYPE="colophon">
+<P>&para; Imprynted by me Iohn~ Daye dwellyng in Sepulchres paryshe a lytle aboue Holbourne Conduit.</P>
+<P>Cum priuilegio Regali.
+Ad imprimendum solum.</P>
+</DIV1>
+</BACK>
+</TEXT>
+</EEBO>
+</ETS>

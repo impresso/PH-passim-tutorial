@@ -1,0 +1,3348 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD EEBOPROOF 2.0//EN">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-08-13</DATE>
+<RESPSTMT>
+<NAME>Jonathan Blaney</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TYPEs to DIVs in order to validate. Proofed title page(s).  Checked ^s. Reviewed structure. Checked division-marking material at heads and feet of divisions (HEADS, etc.). Checked for signatures. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected 32 $s of 78. Converted 46 $s to GAP DESC="illegible" RESP="OXF". Checked spacing of foreign GAPs. Checked for EPIGRAPHs and ARGUMENTs. Checked for startqs, endqs, oes, q;s, and Qs. Checked proofsheets and made corrections found there. Checked for CLOSERs, TRAILERs, and BYLINEs. DONE.</ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="OX" ID="A63181">
+<STC T="W">T220</STC>
+<BIBNO T="oclc">12630636</BIBNO>
+<VID>64742</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1">
+<PB REF="1">
+<P>KNAVERY
+IN ALL
+TRADES:
+OR, THE
+Coffee-House. A COMEDY. As it was ACTED in the CHRISTMAS
+Holidays by several Apprentices
+With great Applause.</P>
+<P>With <HI>LICENSE.</HI></P>
+<P><HI>LONDON,</HI>
+Printed by <HI>I. B.</HI> for <HI>W. Gilbertson,</HI> and <HI>H. Marsh;</HI> and are
+to be Sold at the <HI>Royal Exchange, Fleet-Street,</HI>
+and <HI>Westminster-Hall,</HI> 1664.</P>
+</DIV1>
+<DIV1 TYPE="dramatis personae">
+<PB REF="2">
+<PB REF="2">
+<LIST>
+<HEAD>PERSONS NAMES.</HEAD>
+<ITEM><HI>COmpound,</HI> a Vintner.</ITEM>
+<ITEM><HI>Rasey,</HI> his Drawer.</ITEM>
+<ITEM><HI>Pickle,</HI> an Oyleman.</ITEM>
+<ITEM>Samphire his Man.</ITEM>
+<ITEM><HI>Pepper,</HI> a Grocer.</ITEM>
+<ITEM>Smoak his Man.</ITEM>
+<ITEM><HI>Subtler</HI> a Victualler.</ITEM>
+<ITEM><HI>Froth;</HI> his Tapster.</ITEM>
+<ITEM><HI>Mahoone,</HI> the Coffee-Man.</ITEM>
+<ITEM><HI>Hunt-Cliffe,</HI> a Cast-Cou<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">tier.</ITEM>
+<ITEM>Sweet-Lips, Wife to Compound.</ITEM>
+<ITEM><GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">live, Wife to Pickle.</ITEM>
+<ITEM>Fraile, Wife to Pepper.</ITEM>
+<ITEM>Compliance, Wife to Subtler.</ITEM>
+<ITEM>Rampant, Wife to Mahoone.</ITEM>
+<ITEM>A Man servant,
+&amp;
+A Maid servant,
+belonging to the Coffee-House.</ITEM>
+<ITEM>Several <HI>Gentlemen,</HI> and other Persons.</ITEM>
+</LIST>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="play">
+<PB REF="3">
+<PB REF="3">
+<HEAD>Knavery in all Trades.</HEAD>
+<HEAD TYPE="sub">Or, the
+Coffee-House.</HEAD>
+<DIV2 N="1" TYPE="act">
+<DIV3 N="1" TYPE="scene">
+<HEAD>ACT I. SCENE I.</HEAD>
+<STAGE>Enter Froth, Rasy, and Smoake.</STAGE>
+<SP>
+<SPEAKER>Froth.</SPEAKER>
+<P>_I Have made an escape as hard as one of
+<HI>Iupiters</HI> to see thee, <HI>Rasy;</HI> The heat of
+our morning business is over; and
+now my Stomack's more raw and cold
+then the weather; therefore prithee
+one half Pint of the best, if thou lov'st
+me.</P>
+</SP>
+<SP>
+<SPEAKER>Rasy.</SPEAKER>
+<P>I know thy meaning, thou shalt
+have it Lad in a pint Pot.</P>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Smoake.</SPEAKER>
+<P>An hon<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">st Rogue I warrant him.</P>
+</SP>
+<SP>
+<SPEAKER>Froth.</SPEAKER>
+<P>Here can I drink at any time a Pint of Sack would make
+a Cat speak <HI>Greek</HI> or <HI>Hebrew</HI> for a Groat.</P>
+</SP>
+<SP>
+<PB REF="4">
+<SPEAKER>Smoake.</SPEAKER>
+<P>'T must be thy Grandams groat, then.</P>
+</SP>
+<SP>
+<SPEAKER>Froth.</SPEAKER>
+<P>A good plain <HI>Harry,</HI> or a <HI>Besses</HI> do'st, or any Coyne will
+tantamount to four-pence.</P>
+</SP>
+<SP>
+<SPEAKER>Smoake.</SPEAKER>
+<P>How, man?</P>
+</SP>
+<SP>
+<SPEAKER>Froth.</SPEAKER>
+<P>True man; there's an Art in't will puzel all the Poets
+and Legerdemane&mdash;men living. A friend in a corner is as good as a
+penny in a man's Purse, I need say no more.</P>
+</SP>
+<SP>
+<SPEAKER>Smoake.</SPEAKER>
+<P>'Tis good, to be acquainted with such a friend.</P>
+</SP>
+<SP>
+<SPEAKER>Froth.</SPEAKER>
+<P>Creep e're you go; deserve him first, every man is not
+Froth, I nick you there; one courtesie requires another, so much
+for that, ka me, ka thee.</P>
+</SP>
+<STAGE>Enter Rasy.</STAGE>
+<SP>
+<SPEAKER>Rasy.</SPEAKER>
+<P>Score a pint of White-Wine in the Rose there.</P>
+</SP>
+<SP>
+<SPEAKER>Smoake.</SPEAKER>
+<P>White-Wine! we call'd for Sack.</P>
+</SP>
+<SP>
+<SPEAKER>Froth.</SPEAKER>
+<P>Pass by his Ignorance; friend hast thou a Pallat? here's
+to thee.</P>
+</SP>
+<SP>
+<SPEAKER>Smoake.</SPEAKER>
+<P>By all the Wares in my Master's shop, and my Mistresses
+<HI>Compter</HI> too, excellent Sack.</P>
+</SP>
+<SP>
+<SPEAKER>Rasy.</SPEAKER>
+<P>Hold your peace, cannot you fare well, but you must cry
+Roast-meat?</P>
+</SP>
+<SP>
+<SPEAKER>Froth.</SPEAKER>
+<P>This Smoak is such a vapour.</P>
+</SP>
+<SP>
+<SPEAKER>Smoake.</SPEAKER>
+<P>Are you for a Pipe? I have right speciall in my Box.</P>
+</SP>
+<SP>
+<SPEAKER>Froth.</SPEAKER>
+<P>Would choak a Dog I warrant it.</P>
+</SP>
+<SP>
+<SPEAKER>Smoake.</SPEAKER>
+<P>The best <HI>Spain</HI> affords I promise you.</P>
+</SP>
+<SP>
+<SPEAKER>Froth.</SPEAKER>
+<P>I care not if I take a whiffe,&mdash;what say'st thou <HI>Rasy?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Rasy.</SPEAKER>
+<P>I dare not, 'tis too soon, come, mind your drinking, one
+Quart more, that's pint a piece, and we have done.</P>
+</SP>
+<SP>
+<SPEAKER>Froth.</SPEAKER>
+<P>Gramercy, honest <HI>Rasy;</HI> and so have at thee.</P>
+</SP>
+<SP>
+<SPEAKER>Smoake.</SPEAKER>
+<P>Bring a Light, and Pipes too.</P>
+</SP>
+<SP>
+<SPEAKER>Rasy.</SPEAKER>
+<P>Well, I shall.</P>
+<STAGE>Exit Rasy.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Froth.</SPEAKER>
+<P>Now sirrah, say I've brought you acquainted with a
+trusty <HI>Trojan,</HI> one that does prize his friend, that's such as I am,
+that scornes to be behind hand in requital. If thou wilt be of our
+Society, then study that.</P>
+</SP>
+<SP>
+<SPEAKER>Smoake.</SPEAKER>
+<P>By this hand thou know'st I am as prodigall of my
+Master's Goods as another can be of his; If I can serve <HI>Rasy</HI> in
+any thing relates to our Trade he shall command me.</P>
+</SP>
+<SP>
+<SPEAKER>Froth.</SPEAKER>
+<P>why, that's well said; I'le tell him so.</P>
+</SP>
+<SP>
+<PB REF="4">
+<SPEAKER>Smoak.</SPEAKER>
+<P>Pray do, I warrant him a witty fellow: I like his way
+of scoring White-Wine for Sack, 'tis ingenious, &amp; undiscoverable.</P>
+</SP>
+<SP>
+<SPEAKER>Froth.</SPEAKER>
+<P>Unless the Master come into the Room, and smell into
+the Pot.</P>
+</SP>
+<SP>
+<SPEAKER>Smoak.</SPEAKER>
+<P>That's but a hazard, and care must mannage it.</P>
+</SP>
+<SP>
+<SPEAKER>Froth.</SPEAKER>
+<P>Thou dost inspect well.</P>
+</SP>
+<SP>
+<SPEAKER>Smoak.</SPEAKER>
+<P>I am not ignorant of good fellowship Froth; and have
+been at the like sport in the City, when the visible Pint of Sack
+has past the Barr, and the merry quart Bottle by cleanely convey|ance
+brought in the Breeches, &amp; dedicated to good fellows; &amp; now
+&amp; then (as the house fills, and Company resolv'd to stay,) a Quart
+scor'd in the Crown and brought to us in the Myter, for which
+the elevated Gentlemen pay, and we pass upon Paroll, that is, to
+return again, and be merry upon the like accompt; and these are
+kindnesses I meet withall.</P>
+</SP>
+<SP>
+<SPEAKER>Froth.</SPEAKER>
+<P>And how dost thou requite 'em.</P>
+</SP>
+<SP>
+<SPEAKER>Smoak.</SPEAKER>
+<P>Know <HI>Froth,</HI> I hate to be ingrate, I will not boast my
+doing<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">; but while my master has Rasons, Currans, Figs, Sugar,
+Nutmeg, Cloves, all sorts of Spices and Tobacco, they shall
+march in Pounds and Ounces to my friends, Lads.</P>
+</SP>
+<STAGE>Enter Rasey.</STAGE>
+<SP>
+<SPEAKER>Froth.</SPEAKER>
+<P>Thou wilt deserve us then; come sprightly <HI>Rasey,</HI> we
+thirst for thee.</P>
+</SP>
+<SP>
+<SPEAKER>Rasey.</SPEAKER>
+<P>As I'm a Christian the b<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">st Gentlemen comes to the
+house tasts not better; and so my love to you.</P>
+</SP>
+<SP>
+<SPEAKER>Froth.</SPEAKER>
+<P>Thou dost well, here's one that would be one of us, and
+though I say it an intelligible puppy, one will come to hand upon
+a good occasion; Mr. <HI>Pepper</HI>'s man the Grocer.</P>
+</SP>
+<SP>
+<SPEAKER>Rasey.</SPEAKER>
+<P>How do you call him Gynney?</P>
+</SP>
+<SP>
+<SPEAKER>Froth.</SPEAKER>
+<P>No <HI>Smoak,</HI> or what you will, but certainly his proper
+name is <HI>Smoaker,</HI> for that the Pipe is ne're out of his mouth; how|ever
+he's good natur'd, and true hearted.</P>
+</SP>
+<SP>
+<SPEAKER>Rasey.</SPEAKER>
+<P>The fitter for our Company.</P>
+</SP>
+<SP>
+<SPEAKER>Froth.</SPEAKER>
+<P>He swears he is so ta'ne with thine, thou shalt not want
+any thing his Masters Shop affords.</P>
+</SP>
+<SP>
+<SPEAKER>Rasey.</SPEAKER>
+<P>I thank ye, <HI>Froth</HI> knows me well enough.</P>
+</SP>
+<SP>
+<SPEAKER>Froth.</SPEAKER>
+<P>And thou know'st me well enough <HI>Rasey:</HI></P>
+</SP>
+<SP>
+<SPEAKER>Rasey.</SPEAKER>
+<P>I Rogue, we are brothers.</P>
+</SP>
+<SP>
+<PB REF="5">
+<SPEAKER>Smoak.</SPEAKER>
+<P>I hope you will intitle me too, and if you want a fourth
+man, I'le bring one that is true blew, an Oyle-man's Apprentice,
+who shall furnish you better, and with more variety then he that
+cryes your Olives, your Capers, your Samphire, your Barbaries,
+your Cowcumbers, your Anchoves, and your new Pickl'd Oy|sters,
+and cost you nothing.</P>
+</SP>
+<SP>
+<SPEAKER>Froth.</SPEAKER>
+<P>By all means let's know him.</P>
+</SP>
+<SP>
+<SPEAKER>Smoak.</SPEAKER>
+<P>A kind soul, and will spend his Money freely too.</P>
+</SP>
+<SP>
+<SPEAKER>Rasey.</SPEAKER>
+<P>Or else he does nothing,&mdash;will he Game.</P>
+</SP>
+<SP>
+<SPEAKER>Smoak.</SPEAKER>
+<P>I never try'd him.</P>
+</SP>
+<SP>
+<SPEAKER>Froth.</SPEAKER>
+<P>Now thou talk'st of Gaming, what's become of the lit|tle
+Dapper Clark, how does he hold out?</P>
+</SP>
+<SP>
+<SPEAKER>Rasey.</SPEAKER>
+<P>Pox take him, he won four pound of me but t'other
+day, I hope to retreive it.</P>
+</SP>
+<SP>
+<SPEAKER>Smoak.</SPEAKER>
+<P>Thou hast only drawn him in.</P>
+</SP>
+<SP>
+<SPEAKER>Rasey.</SPEAKER>
+<P>No, hang him, were he as good at Clerkship as he is at
+Gaming, he'd get more Money then his Hide could carry.</P>
+</SP>
+<SP>
+<SPEAKER>Smoak.</SPEAKER>
+<P>Is he so good at it.</P>
+</SP>
+<SP>
+<SPEAKER>Rasey.</SPEAKER>
+<P>It is his prayers and his daily bread; and yet I know
+sometimes he wants a dinner, but that is when his Mint is broke
+and he wants recruting; for the best of Gamsters does not al|wayes
+winne, and then the Rogue will spend high when he has it,
+Whores a little, and keepes himself neat and trim, fit for good
+Company.</P>
+</SP>
+<SP>
+<SPEAKER>Smoak.</SPEAKER>
+<P>By this hand <HI>Rasey,</HI> now we are Brothers (for I will be
+so whether thou wilt or no) if thou beest excellent at that sport, I
+will bring thee acquainted with such a young fry of Apprentices
+thou shalt want for no Commodities.</P>
+</SP>
+<SP>
+<SPEAKER>Froth.</SPEAKER>
+<P>By this hand I'le go snip, and so shalt thou.</P>
+</SP>
+<SP>
+<SPEAKER>Rasey.</SPEAKER>
+<P>Agreed, agreed.</P>
+</SP>
+<SP>
+<SPEAKER>Smoak.</SPEAKER>
+<P>Why should not we four that is our brother Oyleman,
+(as yet unknown to you,) our brother Vintner here, our brother
+Tapster, and <HI>Ego</HI> my own self, brother to all, love one ano|ther?
+the Drapery, and the Mercery Pedees comply to cheat their
+Masters in gross, to please their Concubines, ('twere Porter like to
+say Whors,) &amp; we never cheat our Masters but in parcels to please
+our selves and keep up merry Society, and for ought I know our
+<PB REF="5">
+Masters are greater Cheats then we are, what say you Brothers.</P>
+</SP>
+<SP>
+<SPEAKER>Rasey.</SPEAKER>
+<P>A learned speech, you have hit right,&mdash; <STAGE>within, why Rasey.</STAGE>
+I come, I come; the truth on't is I could
+say something as to our own calling, as to Balme and Shamlee, the
+merry mixtures, stumings, and sophistications, but it is an ill Bird
+defiles its own Nest they say; and truly I think it not necessary
+for a man to discover the adulterations and deceits in his own
+Calling.</P>
+</SP>
+<SP>
+<SPEAKER>Froth.</SPEAKER>
+<P>Though we can say something as to our Callings too,
+'tis wisdome to hold our peace, the truth on't is, Cheating like the
+Wandring <HI>Iew</HI> is every where; but of all cheats I hate your
+Coffee-House cheat.</P>
+</SP>
+<SP>
+<SPEAKER>Rasey.</SPEAKER>
+<P>Why a <HI>Turk</HI>'s as bad as a <HI>Iew,</HI> if not worse.</P>
+</SP>
+<SP>
+<SPEAKER>Smoak.</SPEAKER>
+<P>For my part I think they are principl'd alike.</P>
+</SP>
+<SP>
+<SPEAKER>Rasey.</SPEAKER>
+<P>But the vanity of our Nation is such, that rather then
+we shall cheat'em they'l bring in the divel to do't.</P>
+</SP>
+<SP>
+<SPEAKER>Smoak.</SPEAKER>
+<P>A Song in three parts, the <HI>Iew,</HI> the <HI>Turk,</HI> and the Devil.</P>
+</SP>
+<SP>
+<SPEAKER>Froth.</SPEAKER>
+<P>Troth <HI>Rasey</HI> some of your quality are serv'd in their
+kind, and suffer for their own sinnes, what had they to do to take
+anothers calling upon them, to sell Ale in silver Tankerds, ordered
+with Sugar, and a nick name, and sell it for 6^d. a Pint, half pint? and
+then Beer put into a Rhenish Wine Cask and sold for <HI>March</HI> Beer,
+strew'd with a little Sugar at a groat a Tankerd, and all to cozen
+the poor Victualler.</P>
+</SP>
+<SP>
+<SPEAKER>Rasey.</SPEAKER>
+<P>That my Master was never guilty of.</P>
+</SP>
+<STAGE>call within Rasey.</STAGE>
+<SP>
+<SPEAKER>Froth.</SPEAKER>
+<P>I do not say he was.</P>
+</SP>
+<SP>
+<SPEAKER>Rasey.</SPEAKER>
+<P>I am coming,&mdash;howe're I have a plaguy spleen at the
+Coffee-House that cheats us all.</P>
+</SP>
+<SP>
+<SPEAKER>Smoak.</SPEAKER>
+<P>No, he cheats not us, we furnish him with Tobacco, and
+he payes honestly, but still he is but a <HI>Turk</HI> as the Song goes.</P>
+</SP>
+<SP>
+<SPEAKER>Rasey.</SPEAKER>
+<P>Would I could meet with some Poet that would handle
+the Humours of the Coffee-House a little, as I'm a Christian I'd
+be civil to him.</P>
+</SP>
+<SP>
+<SPEAKER>Froth.</SPEAKER>
+<P>I know one, <HI>Rasey,</HI> that does love thee dearly; I must
+confess he cares not much for me, yet he will take his mornings
+draught in Ale, to please his company, but Sack is his best mistress,
+Coffee he abhominates.</P>
+</SP>
+<SP>
+<PB REF="6">
+<SPEAKER>Rasey.</SPEAKER>
+<P>Prithee bring him hither.</P>
+</SP>
+<STAGE>Call within, why Rasey.</STAGE>
+<SP>
+<SPEAKER>Froth.</SPEAKER>
+<P>He has been here, and thou canst not
+but know him.</P>
+</SP>
+<SP>
+<SPEAKER>Rasey.</SPEAKER>
+<P>I come, I come,&mdash;I am more call'd upon, then any ser|vant
+in the house; look you there's my Groat,&mdash;pay at the Barr,
+I'le take the Quart-pot down into the Cellar.</P>
+</SP>
+<SP>
+<SPEAKER>Froth.</SPEAKER>
+<P>Here's our two Groats, prithee do thee pay the
+Reckoning.</P>
+</SP>
+<SP>
+<SPEAKER>Rasey.</SPEAKER>
+<P>I will.</P>
+</SP>
+<SP>
+<SPEAKER>Smoak.</SPEAKER>
+<P>Deer <HI>Rasey</HI> I am thy humble servant, by this hand when
+next we meet I will requite this kindness.</P>
+</SP>
+<SP>
+<SPEAKER>Froth.</SPEAKER>
+<P>You Rogue I must have a pound of Verina's, for a friend
+in the mean time.</P>
+</SP>
+<SP>
+<SPEAKER>Smoak.</SPEAKER>
+<P>Thou shalt have it.</P>
+</SP>
+<SP>
+<SPEAKER>Froth.</SPEAKER>
+<P>Come go to our house and't shan't cost thee a farthing
+stay all day.</P>
+</SP>
+<SP>
+<SPEAKER>Smoak.</SPEAKER>
+<P>I dare not do that.</P>
+</SP>
+<STAGE>Exeunt.</STAGE>
+</DIV3>
+<DIV3 N="2" TYPE="scene">
+<HEAD>ACT I. SCENE II.</HEAD>
+<STAGE>Enter Mahoone and his Maid.</STAGE>
+<SP>
+<SPEAKER>Mahoone</SPEAKER>
+<P>YOu damm shade ver be de hore your Metres, and
+de shack nape dogbolt Rog a me man, begar dis de|vell
+Vife mind nothing in de Varld but de foke she spoil all a de
+men me keep, she he a de Bed to breed leshery, and call a me men to
+rub her Gumms, begar, and let me do all a de varke my self; ver
+be de hore you shade.</P>
+</SP>
+<SP>
+<SPEAKER>Maid.</SPEAKER>
+<P>My Mistress forsooth.</P>
+</SP>
+<SP>
+<SPEAKER>Mahoone.</SPEAKER>
+<P>Yes a dat Bish.</P>
+</SP>
+<SP>
+<SPEAKER>Maid.</SPEAKER>
+<P>She is rising forsooth.</P>
+</SP>
+<SP>
+<SPEAKER>Mahoone.</SPEAKER>
+<P>De gran pock take her pour me, vat ave you done vid
+de milke for de Chocolet?</P>
+</SP>
+<SP>
+<SPEAKER>Maid.</SPEAKER>
+<P>It is within Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Mahoone.</SPEAKER>
+<P>Vid in, diable be vid in der be no ting in de Pan begar.</P>
+</SP>
+<SP>
+<SPEAKER>Maid.</SPEAKER>
+<P>It is in the Bole forsooth.</P>
+</SP>
+<SP>
+<SPEAKER>Mahoone.</SPEAKER>
+<P>Vat boll you shade? de boll ver dat hore your Me|tres
+do pish.</P>
+</SP>
+<SP>
+<PB REF="6">
+<SPEAKER>Maid.</SPEAKER>
+<P>Yes forsooth.</P>
+</SP>
+<SP>
+<SPEAKER>Mahoone.</SPEAKER>
+<P>Fesh me de Boul hedder; it vill be day presant de Com|pany
+come to de owse, noting for dem begar; call de dog Rog a
+my man.</P>
+</SP>
+<SP>
+<SPEAKER>Maid.</SPEAKER>
+<P>Yes forsooth.</P>
+<STAGE>Exit Maid.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Mahoone.</SPEAKER>
+<P>O de devell? dis hore Bish my vife no come yet? a be|gar;
+he dat marry de <HI>Anglish</HI> woman marry the Serpent, de Snake
+in bosome, de devell and all, dey do noting but keep a deire Bed
+and tink on dyable, vat be dis?
+vere be de milk you shade.</P>
+</SP>
+<STAGE>Enter Maid with the Boul.</STAGE>
+<SP>
+<SPEAKER>Maid.</SPEAKER>
+<P>The Cat it seemes has lapt it up Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Mahoone.</SPEAKER>
+<P>A de Dog, bish Cat, de shade my maid, de hore mine
+vife, and the Dog hores son my man, begar dey will undo me,
+fesh me de Eggs you damm shade.</P>
+</SP>
+<SP>
+<SPEAKER>Maid.</SPEAKER>
+<P>Yes forsooth.</P>
+</SP>
+<SP>
+<SPEAKER>Mahoone.</SPEAKER>
+<P>Hore, you shall no yes a forsoot, me go my self you
+be de lucky hore shade you shal no go.</P>
+<STAGE>Exit Mahoone.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Maid.</SPEAKER>
+<P>A body had better be out of their life then live with
+such a mandring hell hound, he'l find the Eggs broke too, and then
+I shall lead such a life all this day.&mdash;</P>
+</SP>
+<STAGE>Enter Mahoone with Egg shells in a Basket.</STAGE>
+<SP>
+<SPEAKER>Mahoone.</SPEAKER>
+<P>O diable! vere be de Eggs you
+shade, bish, damm bish hore, shade vere be de Eggs?
+eere be de Sells? you shade hore vere be de Eggs?</P>
+</SP>
+<SP>
+<SPEAKER>Maid.</SPEAKER>
+<P>You see, they are broke sir.</P>
+</SP>
+<SP>
+<SPEAKER>Mahoone.</SPEAKER>
+<P>Broak a, you damm shade old Nick break a your neck,
+pour dat broak! begar you damm shade, de hore my vife, and
+de dog Rog a my man break me to sivers, to noting by and by; me
+vill no dure dis begar, take you dat varming one, two, tree, four
+times.</P>
+</SP>
+<SP>
+<SPEAKER>Maid.</SPEAKER>
+<P>I could not help it sir.</P>
+</SP>
+<SP>
+<SPEAKER>Mahoone.</SPEAKER>
+<P>Elpe it! begar you elp noting,&mdash;O shack Rog my
+dog man, very good time ven all my tings be
+spoild den you come a de luck on't.</P>
+</SP>
+<STAGE>Enter his man rubbing his eyes.</STAGE>
+<SP>
+<SPEAKER>Man.</SPEAKER>
+<P>Why sir 'tis not so late, 'tis not day yet.</P>
+</SP>
+<SP>
+<SPEAKER>Mahoone.</SPEAKER>
+<P>Begar dat be brave no day yet! dat be very fine; shack|nape
+vill you lie abed pour de day? begar you be no servan
+pour moy, Myne Trade be in de Nite&punc; Ater de Teefe break de owse
+<PB REF="7">
+ver ave dey to come but to de Coffee-Owse? vere come a de
+young Clerks, de Prentices ven dey be drinc but to the Coffee-Owse?
+ver come de Plotters, de men of designe, but to de Coffee-Owse?
+and in de Nite; the best time; begar dey be de best Custo|mers
+too; begar dey drink mush of de Coffee, and mush of de
+Chocolet begar: now be you no Rog shack dog?</P>
+</SP>
+<SP>
+<SPEAKER>Man.</SPEAKER>
+<P>I am no Rogue nor no Dog.</P>
+</SP>
+<SP>
+<SPEAKER>Mahoone.</SPEAKER>
+<P>Begar you be de Rog and de dog, you be de one, two,
+tree, four, sis Rogs and de dogs, me tell you dat now.</P>
+</SP>
+<SP>
+<SPEAKER>Wife.</SPEAKER>
+<P>Bless me what ado is here,
+what's the matter?</P>
+</SP>
+<STAGE>Enter his Wife.</STAGE>
+<SP>
+<SPEAKER>Mahoone.</SPEAKER>
+<P>De matter! go hang your self shade hore, begar you
+be de hore of all de Varld.</P>
+</SP>
+<SP>
+<SPEAKER>Wife.</SPEAKER>
+<P>I, I, we know your words no slander.</P>
+</SP>
+<SP>
+<SPEAKER>Mahoone.</SPEAKER>
+<P>Begar you vid dis shack dog, dis shack nape, dis
+ogoly cur my man and no mind my business, de Eggs be broke, and
+de milk a be spild for de Chocolet.</P>
+</SP>
+<SP>
+<SPEAKER>Wife.</SPEAKER>
+<P>Is that it, have you made all this din for a little flatten
+milk, and a few rotten Eggs, they all stood you not in three pence.</P>
+</SP>
+<SP>
+<SPEAKER>Mahoone.</SPEAKER>
+<P>No matter for dat; dough the milk be stale, de <GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">et|ter
+to make a de Chocolet, dough de <GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">ggs be rotten dey be better
+for de Chocolet, and den de Sugar make all fine begar: but you
+be carless, mind noting for your profit, let all de Rog in de Town
+come upon you, every Barber, Fidilere, Tayleer and Tap|ster
+be all <HI>Turks,</HI> now begar, and sell de Coffee Bougra de <HI>Anglish</HI>
+dey be all sheats begar, me can live better in any place of de varld
+den in dis Country, me travail every vere and no man take mine
+Trade from me, and dis be all long a you, may foy, you tell my
+gredience to every body, pock take you for your paine.</P>
+</SP>
+<SP>
+<SPEAKER>Wife.</SPEAKER>
+<P>You are alwayes so jealouse of me sweet-heart.</P>
+</SP>
+<SP>
+<SPEAKER>Mahoone.</SPEAKER>
+<P>Diable sweet art; begar you be de cunning hore, me
+jealouse of you ha, ha, he, ave me no reasons you shade, begar me
+ave no Chocolet pour de Company to day, and de Coffee two tree
+Gallons begar de pock shack dog, de Cat sirreverence into de Cal|dron,
+faugh, faugh, fe, fe, fe.</P>
+</SP>
+<SP>
+<SPEAKER>Man.</SPEAKER>
+<P>Oh sir let it boyl well, a Dog or Cats Turd is as good as
+the Berry it self, 'twill give a rare hogo sir, and make the drink
+the better.</P>
+</SP>
+<SP>
+<PB REF="7">
+<SPEAKER>Mahoone.</SPEAKER>
+<P>De better! dat be very fine, you make me leeve a dat,
+but me no care, it shall do,&mdash;you damm shade go your waies and
+knock de devil up for some Eggs and some Milk, begar me loose
+vun silling by dis business, devil fesh you for a hore.</P>
+</SP>
+<SP>
+<SPEAKER>Wife.</SPEAKER>
+<P>You are a foul mouth base fellow.</P>
+</SP>
+<SP>
+<SPEAKER>Mahoone.</SPEAKER>
+<P>Begar me took you from Dog and Bish-yard and made
+you de woman, and you prove de hore, de damm hore a de varld.</P>
+</SP>
+<SP>
+<SPEAKER>Wife.</SPEAKER>
+<P>If I were never so bad I were good enough for a damn'd
+<HI>Turk.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Mahoone.</SPEAKER>
+<P>Diable! me kick you begar unto de Devell, and make
+you de hore of de House.</P>
+</SP>
+<SP>
+<SPEAKER>Maid.</SPEAKER>
+<P>Good Master.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Man.</SPEAKER>
+<P>I pray, sir.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Wife.</SPEAKER>
+<P>Let the Rogue come, the Renegado Rogue, I'le give him
+his Passport.</P>
+</SP>
+<STAGE>man and maid stand between Them.</STAGE>
+<SP>
+<SPEAKER>Mahoone.</SPEAKER>
+<P>Vat, have you got your
+Shampians here you hore, Bish, shade, dis be very fine.
+<STAGE>knock.</STAGE>
+So much for dat,&mdash;get you up de Shamber, the Company come
+in; me make no noise, open de door you shack dog, and you shade
+my maid; get you de Milk and de Eggs Presto: begar me vill do
+strange ting 'fore Nite.</P>
+</SP>
+<SP>
+<SPEAKER>Wife.</SPEAKER>
+<P>Hang you Raskall.</P>
+</SP>
+<STAGE>Exeunt severally.</STAGE>
+</DIV3>
+</DIV2>
+<DIV2 N="2" TYPE="act">
+<DIV3 N="1" TYPE="scene">
+<HEAD>ACT II. SCENE I.</HEAD>
+<STAGE>Enter Hunt-Cliffe, and Mrs. Sweet-Lips.</STAGE>
+<SP>
+<SPEAKER>HVnt-Cliffe.</SPEAKER>
+<P>How now, where's thy Husband?</P>
+</SP>
+<SP>
+<SPEAKER>Sweet-Lips.</SPEAKER>
+<P>Gone into the City.</P>
+</SP>
+<SP>
+<SPEAKER>Hunt-Cliffe.</SPEAKER>
+<P>How has he look'd on thee since he Trapan'd us at
+<HI>Epsome,</HI> prithee?</P>
+</SP>
+<SP>
+<SPEAKER>Sweet-Lips.</SPEAKER>
+<P>With the same eyes he did before, and as lovingly
+faith la, only sometimes he'l tell me jestingly 'twas a wild frolique
+in me; and so it was indeed, we might have been far more securely
+merry neerer hand.</P>
+</SP>
+<SP>
+<SPEAKER>Hunt-Cliffe.</SPEAKER>
+<P>Do'st think he is not Jealouse?</P>
+</SP>
+<SP>
+<SPEAKER>Sweet-Lips.</SPEAKER>
+<P>If he be, he shewes it not.</P>
+</SP>
+<SP>
+<PB REF="8">
+<SPEAKER>Hunt-Cliffe.</SPEAKER>
+<P>How does he speak of me?</P>
+</SP>
+<SP>
+<SPEAKER>Sweet-Lips.</SPEAKER>
+<P>Very well faith La; he thinks you a right honest
+man, and shall not loose a penny by ye, he had rather trust you
+then a hundred Courtiers.</P>
+</SP>
+<SP>
+<SPEAKER>Hunt-Cliffe.</SPEAKER>
+<P>I believe him, 'tis safer to trust one Man then a
+Hundred. What wilt thou drink this morning?</P>
+</SP>
+<SP>
+<SPEAKER>Sweet-Lips.</SPEAKER>
+<P>Any thing.</P>
+</SP>
+<SP>
+<SPEAKER>Hunt-Cliffe.</SPEAKER>
+<P>A Cup of Hypocras, 'twill warme thee within
+Wench; come kiss me, poor Rogue dost not want
+a Course this morning?</P>
+</SP>
+<STAGE>claps her Cheeks.</STAGE>
+<SP>
+<SPEAKER>Sweet-Lips.</SPEAKER>
+<P>You talk wildly, you have not slept to night well
+certainly. Who's at Barr there?
+<STAGE>within anon, anon.</STAGE>
+<HI>Rasey</HI> bring a Cup of Hypocras for Mr. <HI>Hunt-Cliffe</HI>
+<STAGE>enter Rasey.</STAGE>
+here, and make a Toast.</P>
+</SP>
+<SP>
+<SPEAKER>Rasey.</SPEAKER>
+<P>I shall forsooth.</P>
+<STAGE>Exit Rasey.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Sweet-Lips.</SPEAKER>
+<P>I hope dear <HI>Hunt-Cliffe</HI> you are no friend unto the
+Coffee-House.</P>
+</SP>
+<SP>
+<SPEAKER>Hunt-Cliffe.</SPEAKER>
+<P>I hate the Liquor perfectly, give me the Sack, it
+breeds good Blood.</P>
+</SP>
+<SP>
+<SPEAKER>Sweet-Lips.</SPEAKER>
+<P>The other is a dryer, a monstrous dryer, and the
+greatest enemy unto th'affaires relate unto our Sex that can be;
+if you love me you must hate that, my Husband is too much ad|dicted
+to't.</P>
+</SP>
+<SP>
+<SPEAKER>Hunt-Cliffe.</SPEAKER>
+<P>Let fools, and Sots affect
+it, Wisemen sleight it.</P>
+</SP>
+<STAGE>Enter Compound.</STAGE>
+<SP>
+<SPEAKER>Compound.</SPEAKER>
+<P>Oh Squire <HI>Hunt-Cliffe,</HI> how fares your body?</P>
+</SP>
+<SP>
+<SPEAKER>Hunt-Cliffe.</SPEAKER>
+<P>It will fare better by and by,
+we wait for Wine.</P>
+</SP>
+<STAGE>Enter Rasey with the Wine and Toast.</STAGE>
+<SP>
+<SPEAKER>Sweet-Lips.</SPEAKER>
+<L>But new come in I protest my</L>
+<L>Dear&mdash;look thee, the Wine is not toucht yet.</L>
+</SP>
+<SP>
+<SPEAKER>Hunt-Cliffe.</SPEAKER>
+<P>Come, here's to thee, 'tis Hypocras man.</P>
+</SP>
+<SP>
+<SPEAKER>Compound.</SPEAKER>
+<P>I care not, I've newly drank Coffee.</P>
+</SP>
+<SP>
+<SPEAKER>Hunt-Cliffe.</SPEAKER>
+<P>What? an enemy to thy own Calling!</P>
+</SP>
+<SP>
+<SPEAKER>Compound.</SPEAKER>
+<P>Some two or three hours hence I'm for you:</P>
+</SP>
+<SP>
+<SPEAKER>Hunt-Cliffe.</SPEAKER>
+<P>I shall Sup here to Night.</P>
+</SP>
+<SP>
+<SPEAKER>Sweet-Lips.</SPEAKER>
+<P>And welcome too, Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Hunt-Cliffe.</SPEAKER>
+<P>Some friends of mine are newly come to Town,
+I am oblig'd to Treat.</P>
+</SP>
+<SP>
+<PB REF="8">
+<SPEAKER>Sweet-Lips.</SPEAKER>
+<P>What will you have provided sir?</P>
+</SP>
+<SP>
+<SPEAKER>Hunt-Cliffe.</SPEAKER>
+<P>A douzen of Cocks, and half a douzen of Teale,
+as many Partridges, and a couple of Pullets, will do the business.</P>
+</SP>
+<SP>
+<SPEAKER>Sweet-Lips.</SPEAKER>
+<P>They shall be ready sir.</P>
+</SP>
+<SP>
+<SPEAKER>Hunt-Cliffe.</SPEAKER>
+<P>Twixt six and seven.</P>
+</SP>
+<SP>
+<SPEAKER>Compound.</SPEAKER>
+<P>I like not things that run at six and sevens.</P>
+</SP>
+<SP>
+<SPEAKER>Hunt-Cliffe.</SPEAKER>
+<P>I prithee fail me not.</P>
+</SP>
+<SP>
+<SPEAKER>Compound.</SPEAKER>
+<P>You have my Wife's word for't sir.</P>
+</SP>
+<SP>
+<SPEAKER>Hunt-Cliffe.</SPEAKER>
+<P>I must to Court about some special business; add
+this Wine to my Accompt.</P>
+<STAGE>Exit Hunt-Cliffe.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Compound.</SPEAKER>
+<P>So&mdash;to your Accompt! I think you'l make no
+Accompt on't, still scoring: I never saw a penny of his Money.</P>
+</SP>
+<SP>
+<SPEAKER>Sweet-Lips.</SPEAKER>
+<P>He brings good Company to the House, my Dear:</P>
+</SP>
+<SP>
+<SPEAKER>Compound.</SPEAKER>
+<P>And alwayes scores his part o'th Reckoning; a
+pretious purchase, what will begot at last by such a Customer?
+prithee wilt hold out?</P>
+</SP>
+<SP>
+<SPEAKER>Sweet-Lips.</SPEAKER>
+<P>He'l pay thee all my Dear, I'le warrant it.</P>
+</SP>
+<SP>
+<SPEAKER>Compound.</SPEAKER>
+<P>Nay, then I'm in a likelihood indeed to be well paid,
+if you be his Security.</P>
+</SP>
+<SP>
+<SPEAKER>Sweet-Lips.</SPEAKER>
+<P>Not so neither my Dear; his Money he sayes will
+come up very shortly.</P>
+</SP>
+<SP>
+<SPEAKER>Compound.</SPEAKER>
+<P>It has been long a coming, and the truth is, would
+I could see't once, I have small mind to trust him longer.</P>
+</SP>
+<SP>
+<SPEAKER>Sweet-Lips.</SPEAKER>
+<P>As you please for that my Dear; but take my
+word the Gentleman's a very civil Gentleman.</P>
+</SP>
+<SP>
+<SPEAKER>Compound.</SPEAKER>
+<P>I wish he prove so.</P>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE>Enter Mrs. Fraile, and Smoak.</STAGE>
+<SP>
+<SPEAKER>Mrs. Fraile.</SPEAKER>
+<P>What, does you Master think to Coope me up in his
+Counter? faith sir no, he takes his pleasure, and I'le take mine;
+let him look to his Comodities himself, I have other Comodities
+in Town to look after beside his, and as I take it a great deal
+better: if he calls for me when he comes in, tell him I'm gone to
+see my sister <HI>Touchstone.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Smoak.</SPEAKER>
+<P>I shall forsooth.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. Fraile.</SPEAKER>
+<P>And I pray keep you the
+house, though your shoos
+be made of running Leather.</P>
+</SP>
+<SP>
+<SPEAKER>Smoak.</SPEAKER>
+<P>Yes, yes.</P>
+<STAGE>Exit.</STAGE>
+</SP>
+<STAGE><PB REF="9">
+Enter Mrs. Olive.</STAGE>
+<SP>
+<SPEAKER>Fraile.</SPEAKER>
+<P>Sister <HI>Olive,</HI> how dost thou do?</P>
+</SP>
+<SP>
+<SPEAKER>Olive.</SPEAKER>
+<P>I came purposely to see you.</P>
+</SP>
+<SP>
+<SPEAKER>Fraile.</SPEAKER>
+<P>Wilt go along with me to th' Play?</P>
+</SP>
+<SP>
+<SPEAKER>Olive.</SPEAKER>
+<P>No, no, I dare not.</P>
+</SP>
+<SP>
+<SPEAKER>Fraile.</SPEAKER>
+<P>How dare not! art thou a fool, I'd fain see whether my
+Husband could bring me to that pass or not, I believe I should
+break his heart first.</P>
+</SP>
+<SP>
+<SPEAKER>Olive.</SPEAKER>
+<P>Oh fie, do not say so.</P>
+</SP>
+<SP>
+<SPEAKER>Fraile.</SPEAKER>
+<P>I protest I should, why, woman we were not born to
+be their slaves, 'tis our selves make our selves so.</P>
+</SP>
+<SP>
+<SPEAKER>Olive.</SPEAKER>
+<P>You talk merrily.</P>
+</SP>
+<SP>
+<SPEAKER>Fraile.</SPEAKER>
+<P>And so might'st thou, had'st thou not been a fool; thy
+own good nature first subjected thee; and now thy Husband
+keepes thee at a Beck; thou wert an humble Worme and he'l tread
+on thee, spurn thee to nothing, triumph in his Tyrany, and thou
+remaine a <HI>Mome,</HI> a suffering Idiot.</P>
+</SP>
+<SP>
+<SPEAKER>Olive.</SPEAKER>
+<P>You wrong my Husband there, he scornes to beat me.</P>
+</SP>
+<SP>
+<SPEAKER>Fraile.</SPEAKER>
+<P>But he does worse, he pinches back or belly; or else
+thy Purss I'm sure'on't; <GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">he'l not spare thee a penny to buy Pepins
+or scarce Pinns.</P>
+</SP>
+<SP>
+<SPEAKER>Olive.</SPEAKER>
+<P>He's somewhat wary I confess, but not so bad, as you
+would make him.</P>
+</SP>
+<SP>
+<SPEAKER>Fraile.</SPEAKER>
+<P>There's our sister <HI>Touchstone</HI> the Goldsmith's Wife,
+she leades a life as merry as the day is long.</P>
+</SP>
+<SP>
+<SPEAKER>Olive.</SPEAKER>
+<P>The happier she; and yet you do not hear me com|plain,
+I am contented.</P>
+</SP>
+<SP>
+<SPEAKER>Fraile.</SPEAKER>
+<P>So are patient fooles; but women that have wit, are
+not so tame: if thou wilt see a Play it shall cost thee nothing, I'le
+warrant thee a Ticket, sh'as a friend, a Player, a pretty fellow that
+at any time will pleasure her, and her friends too.</P>
+</SP>
+<SP>
+<SPEAKER>Olive.</SPEAKER>
+<P>I do not love to buy my pastime at so dear a rate.</P>
+</SP>
+<SP>
+<SPEAKER>Fraile.</SPEAKER>
+<P>How like an Asse thou talk'st, 'tis wonderous pritty to
+have a Player hand us into the House; and when the Play is done
+out to the Tavern, where we are merry, Laugh untill we tickle.</P>
+</SP>
+<SP>
+<SPEAKER>Olive.</SPEAKER>
+<P>Without your Husbands!</P>
+</SP>
+<SP>
+<SPEAKER>Fraile.</SPEAKER>
+<P>Or we were worse then mad; yet now and then <HI>Touch|stone,</HI>
+<PB REF="9">
+himself comes to us, an easie natur'd man, full of beliefe,
+dare trust the Player and his wife together, even in the Bed he is
+so fond of both.</P>
+</SP>
+<SP>
+<SPEAKER>Olive.</SPEAKER>
+<P>Oh fie upon't, there will no good come on't.</P>
+</SP>
+<SP>
+<SPEAKER>Fraile.</SPEAKER>
+<P>And if her friend take her to <HI>Finsbury,</HI> (as now and
+then we must go see our Cosen supposed living somewhere,) she
+leaves word, and he perhaps soberly followes after, and if she's
+gone from thence, or never was there, she is prepar'd with an ex|cuse
+for either, 'gainst she comes home; your Players are huge
+witty and fit a Woman for that purpose rarely; which the good
+man does hugg with eager credit, and gives his friend thanks for
+the care he had of his dear wife. This is the fruit of Tickets; now
+if you'l see a Play, be one of us, we'l find you Tickets and your
+Husband too.</P>
+</SP>
+<SP>
+<SPEAKER>Olive.</SPEAKER>
+<P>I am not grown so desperate I thank you, nor you I
+hope, although you talk so wildly.</P>
+</SP>
+<SP>
+<SPEAKER>Fraile.</SPEAKER>
+<P>Is mirth term'd wildness then? prithee turn Recluse,
+shut thy self up in shop, and stinck a Moneth, then come abroad to
+ayre thy self, and see who will indure thy Company; what, deny
+to see a Play? refuse a noble Ticket? tha'rt Earth already, doubtless.</P>
+</SP>
+<SP>
+<SPEAKER>Olive.</SPEAKER>
+<P>'T makes no matter, you'l ticket it so long that at the last
+I fear you'l come behind hand in your Reckoning; I'le trouble
+you no more sweet Mistress <HI>Fraile.</HI></P>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Fraile.</SPEAKER>
+<P>'Tis not desir'd, good <HI>Robin Wisdomes</HI> Daughter. The
+Baggage though has toucht me to the quick; pox take the Recko|ning,
+would it might miscarry, but if it be, here's one I'm sure
+concern'd in't.</P>
+</SP>
+<STAGE>Enter Hunt-Cliffe.</STAGE>
+<SP>
+<SPEAKER>Hunt-Cliffe.</SPEAKER>
+<P>What talking to thy self?</P>
+</SP>
+<SP>
+<SPEAKER>Fraile.</SPEAKER>
+<P>A thing came in my head that did direct my eyes down
+to my Belly, but let that pass&mdash;methinks y'are mighty smug as
+though you came but lately from your dear beloved <HI>Sweet-Lips.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Hunt-Cliffe.</SPEAKER>
+<P>Now thou vexest me; I must confess she courts
+me with as eager an appetite as ever, but I slight her, the thought
+of thee drawes all my faculties unto their proper center thy dear
+Bosome; but why so trim art thou for walking, love?</P>
+</SP>
+<SP>
+<SPEAKER>Fraile.</SPEAKER>
+<P>I am invited by a friend of mine, a sprightly jovial Girle,
+one I call sister, to see a Play.</P>
+</SP>
+<SP>
+<PB REF="10">
+<SPEAKER>Hunt-Cliffe.</SPEAKER>
+<P>I prithee what's her Name?</P>
+</SP>
+<SP>
+<SPEAKER>Fraile.</SPEAKER>
+<P>One that is not in your List I promise you; fie <HI>Hunt-Cliffe</HI>
+fie, will you ne're leave enquiring after new Faces, where's
+the love to me you seem so much to glorifie your self in?</P>
+</SP>
+<SP>
+<SPEAKER>Hunt-Cliffe.</SPEAKER>
+<P>Dost thou distrust my love, dear heart, my soul
+and all that do belong to't are thy Vassals: the Light's not con|stanter
+unto the day, then I to thee, and dost thou doubt me
+dearest?</P>
+</SP>
+<SP>
+<SPEAKER>Fraile.</SPEAKER>
+<P>Nay, nay, with her I dare adventure thee, she is my
+friend, I know she will not wrong me, besides she has a friend some
+say dare fight, and he a strict eye carries over her.</P>
+</SP>
+<SP>
+<SPEAKER>Hunt-Cliffe.</SPEAKER>
+<P>So let him; thou art my Hysperides. But hear
+thee is my Band and half shirts done?</P>
+</SP>
+<SP>
+<SPEAKER>Fraile.</SPEAKER>
+<P>They'l be brought home within a day or two. Will you
+go with us to the Play?</P>
+</SP>
+<SP>
+<SPEAKER>Hunt-Cliffe.</SPEAKER>
+<P>If you command me, but you know my stock is
+low, my Moneys will not come to Town this moneth yet, and I
+hate when I'm frolique to be scanted.</P>
+</SP>
+<SP>
+<SPEAKER>Fraile.</SPEAKER>
+<P>I have a Piece; doubtless she'l bring another to serve
+her friend; and that will do't I warrant thee.</P>
+</SP>
+<SP>
+<SPEAKER>Hunt-Cliffe.</SPEAKER>
+<P>Well I'm thy servant still.</P>
+</SP>
+<STAGE>Exeunt:</STAGE>
+<STAGE>Enter Smoak and Samphire.</STAGE>
+<SP>
+<SPEAKER>Smoak.</SPEAKER>
+<P>What wind drove thee this way?</P>
+</SP>
+<SP>
+<SPEAKER>Samphire.</SPEAKER>
+<P>The breath of my Mistresses commands, I am sent to
+a Customer with these two Barells of Anchoves.</P>
+</SP>
+<SP>
+<SPEAKER>Smoak.</SPEAKER>
+<P>When wilt thou remember me:</P>
+</SP>
+<SP>
+<SPEAKER>Samphire.</SPEAKER>
+<P>Oh&mdash;for thy friends <HI>Rasey</HI> and <HI>Froth.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Smoak.</SPEAKER>
+<P>I you Rogue did you not promise it.</P>
+</SP>
+<SP>
+<SPEAKER>Samphire.</SPEAKER>
+<P>And will perform't I vow with the first opportunity&mdash;
+where's thy Mistress? I need not ask for thy Master, I know where
+he is, he and mine are at the old sport, the merry game.</P>
+</SP>
+<SP>
+<SPEAKER>Smoak.</SPEAKER>
+<P>And my Mistress is at hers by this time or I'm mistaken,
+she'l not be one of the last couple in Hell I warrant her.</P>
+</SP>
+<SP>
+<SPEAKER>Samphire.</SPEAKER>
+<P>A shrew'd woman able to break a man's back if he
+had no other wayes to do't, but I've a Mistress so far from those
+wayes, she is as modest, as loving, and as carefull a wife as any in
+the City; when he has been out all night and perhaps lost twenty
+<PB REF="10">
+or thirty pound at Dice, she takes no notice on't, but bids him wel|come
+home i'th morning with all the sweet words she can devise,
+gives him a Cawdle, has him to bed, and there he sleeps till three
+or four a Clock i'th afternoon, &amp; then he's ready for the sport agen.</P>
+</SP>
+<SP>
+<SPEAKER>Smoak.</SPEAKER>
+<P>A brave woman, mirour of Patience.</P>
+</SP>
+<SP>
+<SPEAKER>Samphire.</SPEAKER>
+<P>Nay, I've o're heard him swear unto himself, he fear'd
+he should be damn'd for wronging so good a wife, and by this hand
+the very thought of her sets me into a trembling; when I'm a|bout
+to steal Oyle, Oysters, Anchoves, or any other Comodity to
+pleasure a friend, but when I consider that it cannot last, and he
+must break if he holds on his course, I then take hardy grace and
+make me friends of the unrighteous Mammon.</P>
+</SP>
+<SP>
+<SPEAKER>Smoak.</SPEAKER>
+<P>Let me not live if't ben't the wisest course, I promise
+you I practice it, I find my Master draw one part of the house his
+way, and my Mistress drawes another part her way; and if I (lying
+in the Shop) don't draw another part my way, let the Rafters of
+the house fall upon my head.</P>
+</SP>
+<SP>
+<SPEAKER>Samphire.</SPEAKER>
+<P>I like that well, there is but one way to that Wood,
+a false Key, my friend.</P>
+</SP>
+<SP>
+<SPEAKER>Smoak.</SPEAKER>
+<P>I hope thou dost not think me unprovided of such an
+Engine.</P>
+</SP>
+<SP>
+<SPEAKER>Samphire.</SPEAKER>
+<P>We shall be brothers by and by, how could I else (my
+Mistress being so over&mdash;vigilant,) accomodate my friends and my
+self too, and send Time merrily about his business.</P>
+</SP>
+<SP>
+<SPEAKER>Smoak.</SPEAKER>
+<P><HI>Froth</HI> has the same trick too, and so has <HI>Rasey</HI> (but not
+a word but mum I charge thee <HI>Samphire,</HI>) we can keep at our
+Randevouze from one till five i'th morning, and enter the Tene|ments
+with such security as though we had been Tenents there all
+night.</P>
+</SP>
+<SP>
+<SPEAKER>Samphire.</SPEAKER>
+<P>When shall we meet?</P>
+</SP>
+<SP>
+<SPEAKER>Smoak.</SPEAKER>
+<P>I'le give thee notice.</P>
+</SP>
+<SP>
+<SPEAKER>Samphire.</SPEAKER>
+<P>shall we not drink together?</P>
+</SP>
+<SP>
+<SPEAKER>Smoak.</SPEAKER>
+<P>A Cup or two at the next door, I'le get a friend to
+take care of my Shop the while, and call me if need be&mdash;Remember
+Rogue your promise to my friends.</P>
+</SP>
+<SP>
+<SPEAKER>Samphire.</SPEAKER>
+<P>Pugh, we'l talk of that by and by.</P>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE><PB REF="11">Enter Subtler, Complyance delivered (as in the Barr,)
+and Froth attending.</STAGE>
+<SP>
+<SPEAKER>Subtler.</SPEAKER>
+<P>I protest I never knew such bad Trading in my life.</P>
+</SP>
+<SP>
+<SPEAKER>Froth.</SPEAKER>
+<P>Every one complaines sir, except the Coffee-Houses,
+and they are never empty.</P>
+</SP>
+<SP>
+<SPEAKER>Subtler.</SPEAKER>
+<P>They are some hinderance indeed, especially in a mor|ning,
+but we have Interlopers neerer us, God bless us from a
+Gun; each paltry Coachman, Butler, or Cast-serving-man now set
+up the Victualling Trade; the time has been, we have not had a
+Room empty before this time o'th day, that Company (as one
+may say) have sat on one anothers Lap.</P>
+</SP>
+<SP>
+<SPEAKER>Complyance.</SPEAKER>
+<P>And many turn'd away too, sweet heart, which we
+would willingly now entertain:</P>
+</SP>
+<SP>
+<SPEAKER>Subtler.</SPEAKER>
+<P>Pox take their Receptacles, how do they fill, below?</P>
+</SP>
+<SP>
+<SPEAKER>Froth.</SPEAKER>
+<P><GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">ut thinly truly sir, take one time with another I believe
+our Custome is as great as theirs.</P>
+</SP>
+<SP>
+<SPEAKER>Subtler.</SPEAKER>
+<P>I think not, <HI>Froth;</HI> I do not find it so in my Accompts,
+and yet I understand not any reason why Gentlemen should for|sake
+my house, I never was wanting in my due respects and regard
+towards them, and have endeavoured to please all Companyes,
+and distast none.</P>
+</SP>
+<SP>
+<SPEAKER>Complyance.</SPEAKER>
+<P>That has been my care too sweet heart.</P>
+</SP>
+<SP>
+<SPEAKER>Froth.</SPEAKER>
+<P>Some men think themselves bound to come alwaies to
+one house, and love to see the fashion of others, you know sir new
+Brooms sweep clean; and new Comers promise much to Customers.</P>
+</SP>
+<SP>
+<SPEAKER>Subtler.</SPEAKER>
+<P>And performe as little after a while; but I have been
+civil to many, not only trusted 'em with my Comodities, but lent
+'em money out of my Purss, which is not yet discharg'd; methinks
+Gentlemen (as they are Gentlemen) (I name no man,) should
+think of such civilities, I see 'em daily frequent those places,
+(though they think they dance in <HI>Tenibris</HI>) and could take a course
+that would not please 'em, but I had rather (and 'twould be part
+of satisfaction to me) enjoy 'em at my house as formerly, for I
+owe much civility to a Gentleman, and 'twould go 'gainst the hair
+for me to trouble 'em.</P>
+</SP>
+<SP>
+<SPEAKER>Complyance.</SPEAKER>
+<P>Yet Gentlemen should do like Gentlemen.</P>
+</SP>
+<SP>
+<SPEAKER>Subtler.</SPEAKER>
+<P>That's true sweet heart, but every like is not the same.
+<PB REF="11">
+D'ye see how they flock in yonder? I protest if we have no better
+Trading, I shall never leave thee money enough when I am dead,
+to be marry'd in thy white Sattin Gown to another, as thy Pre|decessor
+was; no, no, <HI>Hercules</HI> then supported but one victual|ling
+house, and now he has three.
+<STAGE>Watches.</STAGE>
+More Company&mdash;they are past the Gun&mdash;and the Crown&mdash;they
+come hither now I warrant ye&mdash;welcome Gentlemen.</P>
+</SP>
+<STAGE>Enter two or three Gentlemen.</STAGE>
+<SP>
+<SPEAKER>1. Gent.</SPEAKER>
+<P>Give us that when we are going</P>
+</SP>
+<SP>
+<SPEAKER>Complyance.</SPEAKER>
+<P>What are you pleas'd to have?</P>
+</SP>
+<SP>
+<SPEAKER>2. Gent.</SPEAKER>
+<P>A Brick&mdash;and what&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>1. Gent.</SPEAKER>
+<P>Halfe a Brest of Mutton.</P>
+</SP>
+<SP>
+<SPEAKER>Complyance.</SPEAKER>
+<P>You shall&mdash;shew a Room there.</P>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<SP>
+<SPEAKER>Froth.</SPEAKER>
+<P>Will you please to walk in?</P>
+</SP>
+<STAGE>Enter 2. or 3. more:</STAGE>
+<SP>
+<SPEAKER>Subtler.</SPEAKER>
+<P>Here are more sweet heart&mdash;welcome Gentlemen&mdash;why where are you there? shew these
+<STAGE>Enter Servant.</STAGE>
+Gentlemen a Room.</P>
+</SP>
+<SP>
+<SPEAKER>Complyance.</SPEAKER>
+<P>What will you please to have Gentlemen?</P>
+</SP>
+<SP>
+<SPEAKER>1. Gent.</SPEAKER>
+<P>How&mdash;what say you! a couple of Chickins.</P>
+</SP>
+<SP>
+<SPEAKER>2. Gent.</SPEAKER>
+<P>I, I.</P>
+</SP>
+<SP>
+<SPEAKER>Complyance.</SPEAKER>
+<P>What Bread Gentlemen?</P>
+</SP>
+<SP>
+<SPEAKER>1. Gent.</SPEAKER>
+<P>No Brick; Manchet, and fresh Beer.</P>
+</SP>
+<SP>
+<SPEAKER>Complyance.</SPEAKER>
+<P>You shall Gentlemen, will you please to walk in?</P>
+</SP>
+<STAGE>Enter two or three Clerks.</STAGE>
+<STAGE>Exeunt.</STAGE>
+<SP>
+<SPEAKER>1. Clerk.</SPEAKER>
+<P>Mr. <HI>Subtler</HI> how d'ye?</P>
+</SP>
+<SP>
+<SPEAKER>Subtler.</SPEAKER>
+<P>The better to see you all well Gentlemen&mdash;where are
+you there&mdash;does no man hear me? shew these Gentlemen a
+Room.</P>
+</SP>
+<STAGE>Enter Froth.</STAGE>
+<SP>
+<SPEAKER>Froth.</SPEAKER>
+<P>Y'are welcome Gentlemen.</P>
+</SP>
+<SP>
+<SPEAKER>Complyance.</SPEAKER>
+<P>What are you pleas'd to have?</P>
+</SP>
+<SP>
+<SPEAKER>2. Clerk.</SPEAKER>
+<P>A Ma<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">chet or two, and your best Butter.</P>
+</SP>
+<SP>
+<SPEAKER>1. Clerk.</SPEAKER>
+<P>and a Cup of nappy Ale.</P>
+</SP>
+<SP>
+<SPEAKER>Froth.</SPEAKER>
+<P>That I'le promise you Gentlemen&mdash;will you walk in?</P>
+</SP>
+<STAGE>Enter two or three more.</STAGE>
+<STAGE>Exeunt.</STAGE>
+<SP>
+<SPEAKER>Subtler.</SPEAKER>
+<P>Here are more Compa<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">y sweet heart.</P>
+</SP>
+<SP>
+<SPEAKER>Complyance.</SPEAKER>
+<P>I hope thou hast complain'd without a cause, it
+may prove a good Morning.</P>
+</SP>
+<SP>
+<PB REF="12">
+<SPEAKER>Subtler.</SPEAKER>
+<P>Happy be lucky&mdash;where are you there? shew these
+Gentlemen a Room.</P>
+</SP>
+<STAGE>Enter Servant.</STAGE>
+<SP>
+<SPEAKER>Complyance.</SPEAKER>
+<P>What will you please to have?</P>
+</SP>
+<SP>
+<SPEAKER>First.</SPEAKER>
+<P>A Role, and a Cup of your best Ale.</P>
+</SP>
+<SP>
+<SPEAKER>Second.</SPEAKER>
+<P>Bring me a single pot of Purle.</P>
+</SP>
+<SP>
+<SPEAKER>Complyance.</SPEAKER>
+<P>You shall, you shall.</P>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE>The Scene is drawn.</STAGE>
+</DIV3>
+</DIV2>
+<DIV2 N="3" TYPE="act">
+<HEAD>ACT the Third.</HEAD>
+<STAGE>Enter Pepper and Pickle.</STAGE>
+<SP>
+<SPEAKER>Pepper.</SPEAKER>
+<P>HE has pickl'd you.</P>
+</SP>
+<SP>
+<SPEAKER>Pickle.</SPEAKER>
+<P>And pepper'd you (my friend) or I'm mistaken.</P>
+</SP>
+<SP>
+<SPEAKER>Pepper.</SPEAKER>
+<P>A pox take all ill luck, who brought him to us?</P>
+</SP>
+<SP>
+<SPEAKER>Pickle.</SPEAKER>
+<P>The Devil upon <HI>Dun</HI>'s back I think, I'm sure I've lost
+seven pound.</P>
+</SP>
+<SP>
+<SPEAKER>Pepper.</SPEAKER>
+<P>And I'm not much behind thee, dost think he did not
+put the slirr, upon us were his Dice right?</P>
+</SP>
+<SP>
+<SPEAKER>Pickle.</SPEAKER>
+<P>Right for his purpose doubtless.</P>
+</SP>
+<SP>
+<SPEAKER>Pepper.</SPEAKER>
+<P>I know not, but as I could guess he play'd the square.</P>
+</SP>
+<SP>
+<SPEAKER>Pickle.</SPEAKER>
+<P>And we the Coxcombs, now could I hang my self to
+think upon the Carke and care my <HI>Olive</HI> takes at home.</P>
+</SP>
+<SP>
+<SPEAKER>Pepper.</SPEAKER>
+<P>I shall not fret my neck for that matter, for I have one
+as careless as thine is carefull, and faith we are well met; if I chance
+to eat a Spider I hope thou'lt visit my Carcase in the Grave,
+ycliped <HI>Ludgate;</HI> there are as merry Worms as heart can wish boy.</P>
+</SP>
+<SP>
+<SPEAKER>Pickle.</SPEAKER>
+<P>Be no <HI>Lillyan</HI> Rogue, Predict not; I fear my Stars e're
+long will direct me that way, if I become thy fellow Collegiate
+once. A short life and a merry life we'l cry; in the mean time
+let's tope a Pint at the Rose and so march home.</P>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE>En<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">er two or three Gentlemen.</STAGE>
+<SP>
+<SPEAKER>Gent.</SPEAKER>
+<P><HI>Tom,</HI> wilt drink a Glass of Wine, or Break-fast with us?</P>
+</SP>
+<SP>
+<SPEAKER>2 Gent.</SPEAKER>
+<P>Neit her.</P>
+<P>I am but just come from the Coffee-House,
+and must not drink, nor eat till Dinner time.</P>
+</SP>
+<SP>
+<PB REF="12">
+<SPEAKER>3 Gent.</SPEAKER>
+<P>An imposition ridiculous!
+and he's but shallow brain'd inclines to keep it.</P>
+</SP>
+<SP>
+<SPEAKER>2 Gent.</SPEAKER>
+<L>That's your opinion, but I find it otherwise:</L>
+<L>If I abstain not some few houres, it will not Operate effectually.</L>
+</SP>
+<SP>
+<SPEAKER>3 Gent.</SPEAKER>
+<P>Dares the <HI>Turks</HI> Bill
+avouch that Language! he has stollen it from
+<HI>Salvator Winter</HI> the grand <HI>Operator;</HI>
+tell him I'le justify't.</P>
+</SP>
+<SP>
+<SPEAKER>1 Gent.</SPEAKER>
+<P>Did'st not mind his words?
+a said he must abstain, or 'twould not do:
+his Body's then beholding more to <HI>Abstinence</HI>
+then to the Liquor; and I will maintain't
+a Cup of Ale-berry, or <HI>Warme-Broth</HI> exhibited
+to his small Guts, observing lesser time
+then now he foolishly prescribes himself,
+shall actuate in all parts of his Body,
+and do his business better.</P>
+</SP>
+<SP>
+<SPEAKER>3 Gent.</SPEAKER>
+<P>Abandon it.
+A currish cynicall Drink; I am perswaded
+the first Inventer was <HI>Diogenes Canes,</HI>
+an utter Enemy to sweet Society.</P>
+</SP>
+<SP>
+<SPEAKER>1. Gent.</SPEAKER>
+<P>It is suppos'd (and credited by most)
+the Berry grew upon a Bramble, neer
+the River <HI>Stix,</HI> and the Devil to congratulate
+his Coze the <HI>Turk,</HI> after a mighty slaughter,
+made on the Christians, sent a graft of it
+to <HI>Turkey,</HI> where it since hath spread it self,
+and like to Locus over-run the Country;
+That it being grown both troublesome, and loathsome,
+the <HI>Turk</HI> (to ridd his Country of't) Transports it,
+and sends it by the basest of his People,
+with a large sale of most Non-sensicall virtue,
+to vend it 'mongst the Christians, and so poyson 'em.</P>
+</SP>
+<SP>
+<SPEAKER>3 Gent.</SPEAKER>
+<P>Much probabillity in't, believe me, <HI>Tom;</HI>
+for look but on the colour of the Liquor,
+and if it don't resemble <HI>Stix</HI> in self,
+ne're trust Complexions, nor believe old Poets;
+<PB REF="13">
+and then the Scent on't does conclude it came
+from old <HI>Gehenna, Lucifers</HI> deep Furnace,
+a stench to stifle virtue and good manners.</P>
+</SP>
+<SP>
+<SPEAKER>2. Gent.</SPEAKER>
+<P>A learned Lecture!</P>
+</SP>
+<SP>
+<SPEAKER>1 Gent.</SPEAKER>
+<P>Nay, 'tis most pernitious
+unto the brain, it fires the Pericranium,
+disorders all the faculties, presents
+Ideas most delusive; Treason, Murder,
+(the hand helpes to ambition) twins of villany:
+<HI>Brutus</HI> ('tis thought) drank heartily of it
+when he design'd the death of Royal <HI>Caesar;</HI>
+and <HI>Cataline</HI> Caroust it with more greediness,
+then th' blood of slaves; The Fryar that murder'd <HI>Harry</HI>
+the Fourth of <HI>France</HI> drank of it; <HI>Vaux</HI> and <HI>Noll</HI>
+(the last grand Conspirator) tost it up
+and made no bones on't: (Treason went down merrily.)
+It is a drink fit for dark Lanthorn men,
+but such as love their reason, and the light,
+will walk our way (boy) drink good Sack, and laugh.</P>
+</SP>
+<SP>
+<SPEAKER>2 Gent.</SPEAKER>
+<P>Prithee let me go, do not bayt me thus.</P>
+</SP>
+<SP>
+<SPEAKER>1 Gent.</SPEAKER>
+<P>As I'm a friend to goodness, 'tis my fear
+(if thou continu'st longer in thy error)
+thou'st be detected in some Pamphlet, for
+an Idiot, but a man of far design.
+I would not have Treason lurke under this
+thin hide of thine, for there the danger lies,
+or <HI>Caesar</HI> speaks untruth, (with Reverence.)</P>
+</SP>
+<SP>
+<SPEAKER>2 Gent.</SPEAKER>
+<P>All this won't do.</P>
+</SP>
+<SP>
+<SPEAKER>3 Gent.</SPEAKER>
+<P>But mark the folly, <HI>Tom,</HI>
+of you Coffee-House hunters you pretend
+it does preserve your health, keepes you alive
+better then the Juice of <HI>Li<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">num vite,</HI> or <HI>Aqua-Mirabilis;</HI>
+when (for <HI>pr<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">batum</HI>) the<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">e was hang'd last Sessions
+a pretious Pick-pocket that drank it frequently,
+and with the like observance, as thou d<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">st;
+and yet you see, <HI>mortus est,</HI> nay, I am confident,
+that had'st thou brought a Gallon on't to th' Gallowes,
+<PB REF="13">
+and made him drink it, 'twould not have sav'd his life:
+where rests the virtue of your Horse-pond-Liquor then?</P>
+</SP>
+<SP>
+<SPEAKER>2 Gent.</SPEAKER>
+<P>Well, well, this noice converts me not nor will I
+drink with ye.</P>
+</SP>
+<SP>
+<SPEAKER>1 Gent.</SPEAKER>
+<P>Go hang thy self <HI>Iew;</HI> better Company will.</P>
+<P>There will be ten Pound offer'd ere't be long,
+to bring some Traytor in, and I hope to find thee.</P>
+</SP>
+<SP>
+<SPEAKER>2 Gent.</SPEAKER>
+<P>Pugh, if that be all do your worst.</P>
+</SP>
+<SP>
+<SPEAKER>3 Gent.</SPEAKER>
+<P>Farwell burnt bread and pudle water.</P>
+</SP>
+<STAGE>Exeunt severally.</STAGE>
+<STAGE>The Coffee-House discovered; three or four Tables set forth, on which
+are placed small Wax-Lights, Pipes, and Diurnalls.</STAGE>
+<STAGE>Enter <HI>Mahoone</HI> triming up the Tables, his Man ordering the Fire-pots
+and <HI>China</HI> Cups, his Wife in the Barr, his Maid
+imployed about the Chocolet.</STAGE>
+<SP>
+<SPEAKER>Mahoone.</SPEAKER>
+<P>Vat be you doing dere, hore, shade?</P>
+</SP>
+<SP>
+<SPEAKER>Maid.</SPEAKER>
+<P>I am making the Chocolet, sir.</P>
+</SP>
+<SP>
+<SPEAKER>Mahoone.</SPEAKER>
+<P>make a de devell! be de Chocolet to make now?
+bougra! de damm hore, bish, shade, vill break a me, begar; she
+put in to a mush Milk: you shade, hore, une quart a de Milk, and
+deux quarts o de vater, vid one two Eggs, and a little Sugar make
+a de boone Chocolet may foy. Vife, pray you look to her, begar
+she be de hore a de house,&mdash;velcome, velcome,
+you been velcome.</P>
+</SP>
+<STAGE>Enter 2. or 3.</STAGE>
+<SP>
+<SPEAKER>first.</SPEAKER>
+<P>Monsieur <HI>Mahoone?</HI> Bon jour.</P>
+</SP>
+<SP>
+<SPEAKER>Mahoone.</SPEAKER>
+<P>Diable de Monsieur; me be no <HI>French</HI> man, me be de
+Country of de <HI>Turk.</HI></P>
+</SP>
+<SP>
+<SPEAKER>second.</SPEAKER>
+<P>You imitate their broken dialect.</P>
+</SP>
+<SP>
+<SPEAKER>Mahoone.</SPEAKER>
+<P>Me travel all the Varld, me speak all de <HI>Lingua;</HI> damm
+a de <HI>Frensh,</HI> me love a de <HI>Anglish,</HI> dix temps better, by our great
+Prophet <HI>Mahomet.</HI> Vat vill you drinc?</P>
+</SP>
+<SP>
+<SPEAKER>third.</SPEAKER>
+<P>Coffee, bring me a Cup of Coffee.</P>
+</SP>
+<SP>
+<SPEAKER>1. &amp; 2.</SPEAKER>
+<P>And us the like.</P>
+</SP>
+<SP>
+<SPEAKER>Mahoone.</SPEAKER>
+<P>You shack dog mind, a your business.
+ver vill you be? vid dese Gentlemen?
+<STAGE>Enter more Company.</STAGE>
+very good, vat vill you have?</P>
+</SP>
+<SP>
+<SPEAKER>2 Company.</SPEAKER>
+<P>Coffee, Coffee.</P>
+</SP>
+<SP>
+<PB REF="14">
+<SPEAKER>Mahoone.</SPEAKER>
+<P>Roga, mind your business; de Coffee, de boyne Coffee;
+de Coffee Cordial for dese Gentlemen. Mind a your business shack
+nape, me tell you dat. Begar, Gentlemen me tell you une ting,
+mine Coffee, be de Coffee of all de Varld, make a de man&mdash;ha, ha,
+ha&mdash;merry, may foy; it cure a de Ish in de Code, it make a de man
+stronge, very good stronge, dat be vorne a vay vid venery, and de
+droping a de shine in une two tree score years and no more begar,
+better den de devell Doctor, be sure of dat.
+<STAGE>Enter more Company.</STAGE>
+You be velcome, vat vill you ave?</P>
+</SP>
+<SP>
+<SPEAKER>3 Company.</SPEAKER>
+<P>Coffee, Coffee.</P>
+</SP>
+<SP>
+<SPEAKER>Mahoone.</SPEAKER>
+<P>Coffee! you be vise men begar; Coffee! de better
+drinc in de Varld; it make a de man stronge, very good stronge;
+me tell'd you dat before,
+<STAGE>to the second Company.</STAGE>
+It make a de <HI>Turk</HI> so stronge, dat une <HI>Turk</HI> kill une douzane'Cristi|ans
+for a break-fast; dat make dem so mighty begar.</P>
+</SP>
+<SP>
+<SPEAKER>3 Company.</SPEAKER>
+<P>Thou'lt never leave thy braging, th'art a right
+<HI>French</HI> man.</P>
+</SP>
+<SP>
+<SPEAKER>Mahoone.</SPEAKER>
+<P>Begar me be no <HI>Frensh</HI> man, me no lie, me tell you de
+true&mdash;mind your business dere shack nape. You be velcome: vat
+vill you ave?</P>
+</SP>
+<STAGE>Enter more Company.</STAGE>
+<SP>
+<SPEAKER>4 Company.</SPEAKER>
+<P>Chocolet.</P>
+</SP>
+<SP>
+<SPEAKER>Mahoone.</SPEAKER>
+<P>Chocolet! you be very vise men for dat; de better
+drinc in de Varld, it make a de man stronge, very good stronge, for
+de voman, une <HI>Turk</HI> get une douze de enfans e're matin begar, dat
+make dem so numerous&mdash;you damm shade mind a you business,
+and bring de Chocolet for dis Company&mdash;you damm shade, mind
+a me.</P>
+</SP>
+<SP>
+<SPEAKER>Maid.</SPEAKER>
+<P>Yes, sir.</P>
+</SP>
+<STAGE>Enter more Company.</STAGE>
+<SP>
+<SPEAKER>Mahoone.</SPEAKER>
+<P>So very good, mine Owse fill by and by; vat vill
+you ave?</P>
+</SP>
+<SP>
+<SPEAKER>5 Company.</SPEAKER>
+<P>Some Chocolet, and some Coffee.</P>
+</SP>
+<SP>
+<SPEAKER>Mahoone.</SPEAKER>
+<P>Four boue, may foy! de Chocolet and de Coffee
+make a de man live for ever! you shack dog, nape, mind a de Coffee,
+and you damm shade, hore, bish, mind de Chocolet&mdash;me till you
+une ting, vud de <HI>Anglish</HI> drinc no oder drinc den de Chocolet and
+de Coffee, dey vud kill all de <HI>Turks</HI> in Cristendom; and conquer
+all de Varld begar.</P>
+</SP>
+<SP>
+<PB REF="14">
+<SPEAKER>5. Company.</SPEAKER>
+<P>Thou art the lying'st fellow&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Mahoone.</SPEAKER>
+<P>Me tell de true, begar,&mdash;O so mush for dat&mdash;vill you sit a little farder, give room to
+<STAGE>Enter more Company.</STAGE>
+dese Gentlemen.</P>
+</SP>
+<SP>
+<SPEAKER>6. Company.</SPEAKER>
+<P>With your leave Gentlemen.</P>
+</SP>
+<SP>
+<SPEAKER>Mahoone.</SPEAKER>
+<P>Vat vill you ave?</P>
+</SP>
+<SP>
+<SPEAKER>6 Company.</SPEAKER>
+<P>Some Coffee, and some Chocolet.</P>
+</SP>
+<SP>
+<SPEAKER>Mahoone.</SPEAKER>
+<P>Very vell; begar you know de ting dat be good for
+de body, me knew dat before.</P>
+<P>Ver be you damm shade, bring de Chocolet presant.</P>
+<P>You shack dog, pack Rog, vat do you do?
+mind a your business, and be Ang'd.</P>
+</SP>
+<STAGE>The several Tables take notice of the Diurnals.</STAGE>
+<SP>
+<SPEAKER>first.</SPEAKER>
+<P>What speakes the Diurnal?</P>
+</SP>
+<SP>
+<SPEAKER>third.</SPEAKER>
+<P>It sayes the <HI>Turk</HI> will be here within this Moneth.</P>
+</SP>
+<SP>
+<SPEAKER>fourth.</SPEAKER>
+<P>We were told that a Moneth ago, and he's not come yet:
+but what other Newes d'ye hear.</P>
+</SP>
+<SP>
+<SPEAKER>fifth.</SPEAKER>
+<P>The Roguish Boyes at <HI>Westminster</HI> ('tis said) cry Doxyes
+twelve a penny.</P>
+</SP>
+<SP>
+<SPEAKER>Sixth.</SPEAKER>
+<P>They are cheaper then shotten Herrings then.</P>
+</SP>
+<SP>
+<SPEAKER>first.</SPEAKER>
+<P>Or Rotten Apples.</P>
+</SP>
+<SP>
+<SPEAKER>second.</SPEAKER>
+<P>Pox on't, few on 'em e're were sound at Core.</P>
+</SP>
+<SP>
+<SPEAKER>seventh.</SPEAKER>
+<P>What <HI>Tom,</HI> art thou there? hang me if I saw thee.</P>
+</SP>
+<SP>
+<SPEAKER>second.</SPEAKER>
+<P>Nor I thee, <HI>Harry</HI> how dost do?</P>
+</SP>
+<SP>
+<SPEAKER>seventh.</SPEAKER>
+<P>Much at one, how does Trading walk.</P>
+</SP>
+<SP>
+<SPEAKER>second.</SPEAKER>
+<P>Curssed lamely, she has the Gout in her great Toe.</P>
+</SP>
+<SP>
+<SPEAKER>third.</SPEAKER>
+<P>I' faith I think (Gentlemen) 'tis the running Gout that
+vexes her; and 'tis thought she will (if the disease conti|nues)
+kick her heeles up.</P>
+</SP>
+<SP>
+<SPEAKER>seventh.</SPEAKER>
+<P>No great matter, Trade was alwayes a Strumpet fit
+for any man.</P>
+</SP>
+<SP>
+<SPEAKER>fourth.</SPEAKER>
+<P>But <HI>Lilly</HI> they say has put out a strange Prediction that
+Cucombers, Reddish and Lettice, shall be very plentifull this year.</P>
+</SP>
+<SP>
+<PB REF="15">
+<SPEAKER>fifth.</SPEAKER>
+<P>We shall have Sause then, get Meat where we can.</P>
+</SP>
+<SP>
+<SPEAKER>sixth.</SPEAKER>
+<P>You know the Proverb more Sause then Pig.</P>
+</SP>
+<SP>
+<SPEAKER>first.</SPEAKER>
+<P>Bring some more Coffee.</P>
+</SP>
+<SP>
+<SPEAKER>fourth.</SPEAKER>
+<P>And Chocolet.</P>
+</SP>
+<SP>
+<SPEAKER>Mahoone.</SPEAKER>
+<P>Me do your business presant.</P>
+</SP>
+<STAGE>Company at second Table.</STAGE>
+<SP>
+<SPEAKER>first.</SPEAKER>
+<P>Why Gentlemen, look you, the thing is this, if he come on
+that side, why then you know he comes not on the other side, but
+put case he should devide his Army and march both wayes, then
+you know who can keep him back.</P>
+</SP>
+<SP>
+<SPEAKER>second.</SPEAKER>
+<P>What does the fellow mean?</P>
+</SP>
+<SP>
+<SPEAKER>first.</SPEAKER>
+<P>I know what I know, and there's an end, if he Land at
+<HI>Dover</HI> once he'l be in <HI>England</HI> presently.</P>
+</SP>
+<SP>
+<SPEAKER>Company.</SPEAKER>
+<P>Ha, ha, ha.</P>
+</SP>
+<SP>
+<SPEAKER>first.</SPEAKER>
+<P>Why Gentlemen 'tis no laughing matter, I know what I
+know, few words are best; for certain the greatest part of his
+Army was seen on <HI>Calice</HI> Sands four Nights ago, though the Di|urnal
+mention it not, yet it is as prodigious for ought you know
+as the late great Whale.</P>
+</SP>
+<SP>
+<SPEAKER>third.</SPEAKER>
+<P>Gentlemen, has any of you seen the Play of <HI>Harry</HI> the eight?</P>
+</SP>
+<SP>
+<SPEAKER>fourth.</SPEAKER>
+<P>Many years ago I did.</P>
+</SP>
+<SP>
+<SPEAKER>fifth.</SPEAKER>
+<P>And so did I.</P>
+</SP>
+<SP>
+<SPEAKER>third.</SPEAKER>
+<P>'Tis rarely set forth, they say.</P>
+</SP>
+<SP>
+<SPEAKER>first.</SPEAKER>
+<P>Gentlemen as I'm a Christian I ought to speak, I know and
+you cannot but all know, that if the <HI>Turk</HI> come into <HI>England</HI> once
+'twill be the worse for the whole state of Christendom.</P>
+</SP>
+<SP>
+<SPEAKER>third.</SPEAKER>
+<P>Let him come, we have&punc; <HI>Iews</HI> enough to entertain him.
+Bur sir, they say 'tis done rarely well.</P>
+</SP>
+<SP>
+<SPEAKER>fourth.</SPEAKER>
+<P>I cannot believe it, 'tis impossible they should do any
+thing so well as I have seen things done.</P>
+</SP>
+<SP>
+<SPEAKER>fifth.</SPEAKER>
+<P>When <HI>Taylor Lowen,</HI> and <HI>Pollard</HI> were alive.</P>
+</SP>
+<SP>
+<SPEAKER>fourth.</SPEAKER>
+<P>Did you not know <HI>Benfield,</HI> and <HI>Swautted?</HI></P>
+</SP>
+<SP>
+<SPEAKER>fifth.</SPEAKER>
+<P>Did I not know 'em? yes, and hum'd them off a hun|dred
+times.</P>
+</SP>
+<SP>
+<SPEAKER>fourth.</SPEAKER>
+<P>But did you know <HI>Mat Smith, Elis Worth,</HI> and <HI>Fowler</HI> at
+the Fortune?</P>
+</SP>
+<SP>
+<SPEAKER>fifth.</SPEAKER>
+<P>Yes, and I will tell you by a good token; <HI>Fowler</HI> you
+<PB REF="15">
+know was appointed for the Conquering parts, and it being given
+out he was to play the Part of a great Captain and mighty Warri|our,
+drew much Company; the Play began, and ended with his
+Valour; but at the end of the Fourth Act he laid so heavily a|bout
+him, that some Mutes who stood for Souldiers, fell down as
+they were dead e're he had toucht their trembling Targets; so he
+brandisht his Sword &amp; made his <HI>Exit;</HI> ne're minding to bring off his
+dead men; which they perceiving, crauld into the Tyreing house,
+at which, <HI>Fowler</HI> grew angry, and told 'em, Dogs you should have
+laine there till you had been fetcht off; and so they crauld out a|gain,
+which gave the People such an occasion of Laughter, they
+cry'd that again that again, that again.</P>
+</SP>
+<SP>
+<SPEAKER>fourth.</SPEAKER>
+<P>I but what d'ye call him was the man; he plaid the devil in
+Doctor <HI>Faustus,</HI> and a fellow in the Gallery throwing a Tobacco-Pipe
+at him; I hope to see thee (quoth He) e're long as bad
+as I am, what's that quoth the fellow? the Son of a Whore
+quoth He.</P>
+</SP>
+<SP>
+<SPEAKER>Omnes.</SPEAKER>
+<P>Ha, ha, ha.</P>
+</SP>
+<SP>
+<SPEAKER>first.</SPEAKER>
+<P>You talk of your Players, I am for the Fencers, there are
+none living now like old <HI>Bradshaw,</HI> old <HI>Batty, Chatterton,</HI> and
+<HI>Ned Gibs.</HI></P>
+</SP>
+<SP>
+<SPEAKER>fifth.</SPEAKER>
+<P>I, and the Miller, I remember them too.</P>
+</SP>
+<SP>
+<SPEAKER>fourth.</SPEAKER>
+<P>What <HI>Swan</HI> the Wrestler? know him? I think I did.</P>
+</SP>
+<SP>
+<SPEAKER>first.</SPEAKER>
+<P>And so did I, then there was <HI>Will</HI> the Labourer and <HI>Will</HI>
+the Pewterer, that were hang'd&mdash;O they were nimble men.</P>
+</SP>
+<SP>
+<SPEAKER>fourth.</SPEAKER>
+<P>And <HI>Iack</HI> the Butcher, a stout Rogue, and the Gentle|man
+Wrestler; they were brave men indeed, there's none
+left live like 'em. The sport that I have seen in <HI>Lincolnes-Inn-fields,</HI>
+and <HI>Moore-fields</HI>&mdash;did you not know little <HI>Dick</HI> that kept
+the Ring?</P>
+</SP>
+<SP>
+<SPEAKER>first.</SPEAKER>
+<P>What the old fellow? he and I has crackt many a Cup to|gether;
+I was a Gamster too in those dayes, I lov'd to raise a
+Cudgell, and try a fall, as I did my Dinner.</P>
+</SP>
+<SP>
+<SPEAKER>fourth.</SPEAKER>
+<P>And so did I, I did so pay a Butcher at <HI>Bradshawes</HI>
+School once,&mdash;I came up to him thus&mdash;<HI>He rises, &amp; extending his Arme hits the Person sets next him in the mouth</HI></P>
+</SP>
+<SP>
+<SPEAKER>second.</SPEAKER>
+<P>What do you mean by this, sir?</P>
+</SP>
+<SP>
+<PB REF="16">
+<SPEAKER>fourth.</SPEAKER>
+<P>I was but shewing how I came on.</P>
+</SP>
+<SP>
+<SPEAKER>second.</SPEAKER>
+<P>I promise you wer't in another place you should not
+come off so, sir.</P>
+</SP>
+<SP>
+<SPEAKER>first.</SPEAKER>
+<P>He meant no harme, only to shew his skill.</P>
+</SP>
+<SP>
+<SPEAKER>second.</SPEAKER>
+<P>Let him do't some where else.</P>
+</SP>
+<SP>
+<SPEAKER>first.</SPEAKER>
+<P>The place is as free for us, as 'tis for you, sir, for our money.</P>
+</SP>
+<SP>
+<SPEAKER>fourth.</SPEAKER>
+<P>Nay if the Gentleman be angry, let him turn the
+Buckles of his Girdle behind him.</P>
+</SP>
+<SP>
+<SPEAKER>third.</SPEAKER>
+<P>Come, you do not well, first to give an Offence, and
+then to justifie your self in't!</P>
+</SP>
+<SP>
+<SPEAKER>Mahoone.</SPEAKER>
+<P>Vat be dat? vat be dere? hoe make a de noyse, make
+a de devell, no stay in my Owse begar, take you de varning a dat.</P>
+</SP>
+<SP>
+<SPEAKER>fourth.</SPEAKER>
+<P>Well, well, we have done. Bring us some more Coffee.</P>
+</SP>
+<SP>
+<SPEAKER>first.</SPEAKER>
+<P>And Chocolet.</P>
+</SP>
+<SP>
+<SPEAKER>Mahoone.</SPEAKER>
+<P>Vid all mine art, four bone.</P>
+</SP>
+<SP>
+<SPEAKER>2. and 3d.</SPEAKER>
+<P>Sit you merry&mdash;take money here.</P>
+</SP>
+<STAGE>Enter Hunt-Cliffe.</STAGE>
+<SP>
+<SPEAKER>Hunt-Cliffe.</SPEAKER>
+<P>My dearest <HI>Rampant</HI> how dost?</P>
+</SP>
+<SP>
+<SPEAKER>Wife.</SPEAKER>
+<P>Prithee love get thee into the next Room, I'le come to
+thee presently.</P>
+</SP>
+<SP>
+<SPEAKER>Hunt-Cliffe.</SPEAKER>
+<P>Do not stay.</P>
+<STAGE>Exit. Hunt-Cliffe.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Wife.</SPEAKER>
+<P>I cannot from thee my dearest.</P>
+</SP>
+<SP>
+<SPEAKER>second.</SPEAKER>
+<P>Who takes money?</P>
+</SP>
+<SP>
+<SPEAKER>third.</SPEAKER>
+<P>They mind it not, let's begone.</P>
+</SP>
+<SP>
+<SPEAKER>Mahoone.</SPEAKER>
+<P>Vere be you dere? you damm shade at de Barr, you
+hore my Wife, take a de Reconing you hore.</P>
+</SP>
+<SP>
+<SPEAKER>Wife.</SPEAKER>
+<P>Have I been gone so long with a Pox to you?</P>
+</SP>
+<SP>
+<SPEAKER>first.</SPEAKER>
+<P>Nay Gentlemen we are going too.</P>
+</SP>
+<SP>
+<SPEAKER>Man servant.</SPEAKER>
+<P>There is a <HI>China</HI> Cup broke, and to pay for.</P>
+</SP>
+<SP>
+<SPEAKER>fourth.</SPEAKER>
+<P>Very right, what's the price?</P>
+</SP>
+<SP>
+<SPEAKER>Man servant.</SPEAKER>
+<P>Eighteen pence.</P>
+</SP>
+<SP>
+<SPEAKER>fifth.</SPEAKER>
+<P>How? fie upon't.</P>
+</SP>
+<SP>
+<SPEAKER>Mahoone.</SPEAKER>
+<P>No less begar, den vne silling and vne six pence.</P>
+</SP>
+<SP>
+<SPEAKER>fourth.</SPEAKER>
+<P>'Tis unreasonable, but how ere we'l pay't.</P>
+</SP>
+<SP>
+<SPEAKER>first.</SPEAKER>
+<P>This comes of fooling.</P>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<SP>
+<SPEAKER>Mahoone.</SPEAKER>
+<P>You be de velcome Gentilemen.</P>
+</SP>
+<SP>
+<SPEAKER>Wife.</SPEAKER>
+<P>Would they were all gone, I sit on Thornes till I am with
+my <HI>Hunt-Cliffe.</HI></P>
+</SP>
+<STAGE><PB REF="16">
+Company at the Third Table.</STAGE>
+<SP>
+<SPEAKER>first.</SPEAKER>
+<P>'Tis talkt there has been a great Overthrow
+given lately to the <HI>Turk,</HI> 3000 Slain,
+besides the Prisoners ta'ne, which doubtless must
+come neer that number, and most wealthy Prizes.</P>
+</SP>
+<SP>
+<SPEAKER>second.</SPEAKER>
+<P>I'm glad on't, but alas, sir, 'tis to them.
+but a meer Flea bite in comparison,
+to such a loss on our side; they can spare
+thirty or forty Thousand and ne're shrink for't.</P>
+</SP>
+<SP>
+<SPEAKER>third.</SPEAKER>
+<P>With favour, I should think it were good Policy,
+and I presume much Honour to our Nation,
+if twenty Thousand men well Disciplin'd,
+were sent to his Dominions and there plagu'd him,
+'twould gore him to the Guts, and make him draw
+his Army homewards with a pouring vengeance.</P>
+</SP>
+<SP>
+<SPEAKER>second.</SPEAKER>
+<P>O sir, 'twould cost a world of Money, that,
+and we are poor; I must confess 'twould be
+a brave exploit, and fill the mouth of Fame.
+But it cannot be.</P>
+</SP>
+<SP>
+<SPEAKER>first.</SPEAKER>
+<P>Pray why, sir?</P>
+</SP>
+<SP>
+<SPEAKER>second.</SPEAKER>
+<P>Why for many Reasons Sir,
+as the case stands now we have a
+Gang of Fellowes would change Sides with them,
+and among friends we should generally make
+better Turkes then Christians.</P>
+</SP>
+<SP>
+<SPEAKER>third.</SPEAKER>
+<P>He cannot be a perfect <HI>English</HI> man,
+that to promote his Countryes Honour would not
+sell halfe his Patrimony.</P>
+</SP>
+<SP>
+<SPEAKER>first.</SPEAKER>
+<P>It were a shame
+the <HI>Frenchmen</HI> should take such an Honour from Us.</P>
+</SP>
+<SP>
+<SPEAKER>second.</SPEAKER>
+<P>For my part (Gentlemen) I do protest
+I would contribute willingly my part
+to further the Designe; would it were Working.</P>
+</SP>
+<SP>
+<SPEAKER>third.</SPEAKER>
+<P>You speak nobly.</P>
+</SP>
+<SP>
+<SPEAKER>fourth.</SPEAKER>
+<P>What do you hear of <HI>Ludlow?</HI></P>
+</SP>
+<SP>
+<SPEAKER>third.</SPEAKER>
+<P>Nothing but mum.</P>
+</SP>
+<SP>
+<PB REF="17">
+<SPEAKER>second.</SPEAKER>
+<P>Here's none but friends, good sir what is't?</P>
+</SP>
+<SP>
+<SPEAKER>third.</SPEAKER>
+<P>He is turn'd <HI>Turk</HI>&mdash;pray pardon me,</P>
+<P>I speak but as I've heard.</P>
+</SP>
+<SP>
+<SPEAKER>fourth.</SPEAKER>
+<P>Why is that such a crime?
+but without fooling, is he chang'd?</P>
+</SP>
+<SP>
+<SPEAKER>third.</SPEAKER>
+<L>I wish he were if he be not.</L>
+<L>Why dost not thou think he were chang'd for the better;</L>
+<L>Come you know the Old Saying,</L>
+<P><HI>A bad God makes a good Devil;</HI>
+and that sort of Christian makes an excellent <HI>Turk.</HI></P>
+</SP>
+<SP>
+<SPEAKER>fifth.</SPEAKER>
+<P>Sir, as to your business fear it not.</P>
+</SP>
+<SP>
+<SPEAKER>sixth.</SPEAKER>
+<P>I hope so, sir.</P>
+</SP>
+<SP>
+<SPEAKER>fifth.</SPEAKER>
+<P>We have 'em upon the hip, fear it not man, I'le warrant
+thee.</P>
+</SP>
+<SP>
+<SPEAKER>sixth.</SPEAKER>
+<P>The Suit has cost me a deal of Money.</P>
+</SP>
+<SP>
+<SPEAKER>fifth.</SPEAKER>
+<P>And more 'twill cost thee, but they shall pay all at last
+with a <HI>Circumferentibus.</HI></P>
+</SP>
+<SP>
+<SPEAKER>sixth.</SPEAKER>
+<P>Nay then I care not, though I sell two of my Oxen more.</P>
+</SP>
+<STAGE>Company at the first Table call to pay.</STAGE>
+<SP>
+<SPEAKER>Mahoone.</SPEAKER>
+<P>Vere be de damm shade, de hore my Vise? begar she
+be gon agen&mdash;hore, hore, vere be you hore.</P>
+</SP>
+<SP>
+<SPEAKER>Wife.</SPEAKER>
+<P>My head does so ake Sweet-heart.</P>
+</SP>
+<SP>
+<SPEAKER>Mahoone.</SPEAKER>
+<P>Begar my head ash, you lie&mdash;look <STAGE>Hunt-Cliffe. steales out.</STAGE>
+out a, look out a, a gran pock take you pour moy.</P>
+</SP>
+<SP>
+<SPEAKER>1. Company.</SPEAKER>
+<P>Here take your money.</P>
+</SP>
+<SP>
+<SPEAKER>3. Company.</SPEAKER>
+<P>And ours too.</P>
+</SP>
+<SP>
+<SPEAKER>Wife.</SPEAKER>
+<P>What have you had Gentlemen&mdash;Oh I cry you mercy
+you are welcome Gentlemen.
+<STAGE>Exeunt Companyes.</STAGE>
+Lord how glad am I the heat of this business is over.</P>
+</SP>
+<SP>
+<SPEAKER>M<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">hoone.</SPEAKER>
+<P>Vat vas dat shack Rog dog vas vid you hore, in de room?</P>
+</SP>
+<SP>
+<SPEAKER>Wife.</SPEAKER>
+<P>A Cousen of mine you never saw before.</P>
+</SP>
+<SP>
+<SPEAKER>Mahoone.</SPEAKER>
+<P>Your Cosen! all de devells in hell be your Cosen
+me tink. Give me a de money.</P>
+</SP>
+<SP>
+<SPEAKER>Wife.</SPEAKER>
+<P>Take it, and be choakt with it.</P>
+</SP>
+<SP>
+<SPEAKER>Mahoone.</SPEAKER>
+<P>Very good Vife, very good Vife.</P>
+</SP>
+<STAGE><PB REF="17">The Scene is drawn</STAGE>
+</DIV2>
+<DIV2 N="4" TYPE="act">
+<HEAD>ACT the Fourth.</HEAD>
+<STAGE>Enter Froth, Sm<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">ak, Rasey, and Samphire.</STAGE>
+<SP>
+<SPEAKER>SMoak.</SPEAKER>
+<P>Look you, look Rogues, but my dear Brothers, I have
+brought my friend <HI>Samphire</HI> according to promise.</P>
+</SP>
+<SP>
+<SPEAKER>Froth.</SPEAKER>
+<P>He's welcome, get you into that Room, I'le shut the
+door upon you, be not seen, I'le provide for you.</P>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Rasey.</SPEAKER>
+<P>Make hast, I shall be mist at home.</P>
+</SP>
+<SP>
+<SPEAKER>Samphire.</SPEAKER>
+<P>I am very glad of your Acquaintance.</P>
+</SP>
+<SP>
+<SPEAKER>Rasey.</SPEAKER>
+<P>I am the like of yours.</P>
+</SP>
+<SP>
+<SPEAKER>Smoak.</SPEAKER>
+<P>When comes the things you wot on?</P>
+</SP>
+<SP>
+<SPEAKER>Samphire.</SPEAKER>
+<P>To night without fail, when my Master and Mistress
+are a Bed.</P>
+</SP>
+<STAGE>Enter Froth with a huge Flaggon of Ale.</STAGE>
+<SP>
+<SPEAKER>Froth.</SPEAKER>
+<P>Here's that holds at least three Quarts; when this is
+out it shall be fill'd agen, and there's a Jack to drink out of.</P>
+</SP>
+<SP>
+<SPEAKER>Rasey.</SPEAKER>
+<P>A good Rogue.</P>
+</SP>
+<SP>
+<SPEAKER>Froth.</SPEAKER>
+<P>Hear me, have an eye to the Door, if any offer to turn
+the Latch, clap your Flaggon under the Table an call manfully
+for three Jacks of Ale, I'le pay't.</P>
+<P>I come, I come, I come.</P>
+</SP>
+<STAGE>Call within Froth, Froth.</STAGE>
+<SP>
+<SPEAKER>Smoak.</SPEAKER>
+<P>Oh brave Rogue&mdash;remember Rogue a Morsell?</P>
+</SP>
+<SP>
+<SPEAKER>Froth.</SPEAKER>
+<P>Well, I'le do what I can. I come, I come,</P>
+</SP>
+<STAGE>Exit. Call agen.</STAGE>
+<SP>
+<SPEAKER>Samphire.</SPEAKER>
+<P>He seems to be as true a Trout as e're struck water.</P>
+</SP>
+<SP>
+<SPEAKER>Rasey.</SPEAKER>
+<P>A real Rogue.</P>
+</SP>
+<STAGE>Enter Froth.</STAGE>
+<STAGE>call within.</STAGE>
+<SP>
+<SPEAKER>Froth.</SPEAKER>
+<P>I come, I come, I come: here Rogues fall to, I have
+nib'd a cold Chicken, and halfe a Breast of Mutton for you, and
+here's a slice or two of Houshold Bread, good Provinder you
+Raskalls, I come, I come.</P>
+<STAGE>call agen.</STAGE>
+<P>Is your Flaggon empty?</P>
+</SP>
+<SP>
+<SPEAKER>Smoak.</SPEAKER>
+<P>We have dreyn'd him.</P>
+</SP>
+<SP>
+<SPEAKER>Froth.</SPEAKER>
+<P>Give't me, I'le fill't agen, and then happy man be his
+dole&mdash;I come, I come,.</P>
+<STAGE>Exit Froth.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Smoak.</SPEAKER>
+<P>Now Rogue, you see what Company I keep.</P>
+</SP>
+<SP>
+<SPEAKER>Samphire.</SPEAKER>
+<P>I am proud of 'em, and will not die in their Debts.</P>
+</SP>
+<SP>
+<PB REF="18">
+<SPEAKER>Rasey.</SPEAKER>
+<P>I dare not stay, I'le only take a snap, and so be gone.</P>
+</SP>
+<SP>
+<SPEAKER>Samphire.</SPEAKER>
+<P>And so must I.</P>
+</SP>
+<STAGE>Enter Froth with more Ale.</STAGE>
+<SP>
+<SPEAKER>Froth.</SPEAKER>
+<P>I come, I come, I come&mdash;Has any been with you yet?</P>
+</SP>
+<SP>
+<SPEAKER>Omnes.</SPEAKER>
+<P>No, not any.</P>
+</SP>
+<SP>
+<SPEAKER>Froth.</SPEAKER>
+<P>The better; come, two Jacks a piece will send it packing.</P>
+</SP>
+<SP>
+<SPEAKER>Smoak.</SPEAKER>
+<P>Have at thee Boy.</P>
+</SP>
+<SP>
+<SPEAKER>Froth.</SPEAKER>
+<P>So; now get you about your businesses,
+<STAGE>he thrusts them out.</STAGE>
+the house begins to fill, get you that way.</P>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE>Enter Subtle and his Wife, and some Gentlemen.</STAGE>
+<SP>
+<SPEAKER>Subtle.</SPEAKER>
+<P>Why <HI>Froth,</HI> why <HI>Froth</HI>&mdash;please you to walk in.</P>
+</SP>
+<SP>
+<SPEAKER>Froth.</SPEAKER>
+<P>I come, I come, y'are welcome Gentlemen.</P>
+</SP>
+<SP>
+<SPEAKER>Wife.</SPEAKER>
+<P>What will you please to have; a couple of cold Chickens,
+or halfe a Breast of Mutton?</P>
+</SP>
+<SP>
+<SPEAKER>1. Gent.</SPEAKER>
+<P>The half Breast of Mutton, what say you?</P>
+</SP>
+<SP>
+<SPEAKER>2. Gent.</SPEAKER>
+<P>I, 'twill do very well.</P>
+</SP>
+<SP>
+<SPEAKER>Wife.</SPEAKER>
+<P>You shall have it presently.</P>
+</SP>
+<SP>
+<SPEAKER>Subtler.</SPEAKER>
+<P><HI>Froth,</HI> shew 'em a Room.</P>
+</SP>
+<SP>
+<SPEAKER>Froth.</SPEAKER>
+<P>Will you please to walk in, Gentlemen.</P>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<SP>
+<SPEAKER>Wife.</SPEAKER>
+<P>Where are you there, my folkes are mad sure; prithee
+Sweet-heart reach me the half Breast of Mutton hither.</P>
+</SP>
+<SP>
+<SPEAKER>Subtle.</SPEAKER>
+<P>Here's no such thing, unless you will divide a Breast in two.</P>
+</SP>
+<SP>
+<SPEAKER>Wife.</SPEAKER>
+<P>Lord, how thou talk'st! there's half a Breast ready cut.</P>
+</SP>
+<SP>
+<SPEAKER>Subtle.</SPEAKER>
+<P>My eyes are my own sure.</P>
+</SP>
+<SP>
+<SPEAKER>Wife.</SPEAKER>
+<P>Prithee let me see, I should have eyes too&mdash;odds so
+there's a Chicken gone too; we are like to thrive at this rate!
+four and six-pence in a morning!</P>
+</SP>
+<SP>
+<SPEAKER>Subtle.</SPEAKER>
+<P>But then consider&mdash;</P>
+</SP>
+<STAGE>Enter Froth.</STAGE>
+<SP>
+<SPEAKER>Froth.</SPEAKER>
+<P>Mistress, Mistress, the half Breast of Mutton, Mistress
+the Gentlemen are in hast.</P>
+</SP>
+<SP>
+<SPEAKER>Subtle.</SPEAKER>
+<P>Here has been more hast then go<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">d speed it seemes.</P>
+</SP>
+<SP>
+<SPEAKER>Wife.</SPEAKER>
+<P>What is become of the Mutton, and one of the Chickens?</P>
+</SP>
+<SP>
+<SPEAKER>Froth.</SPEAKER>
+<P>What Mutton forsooth?</P>
+</SP>
+<SP>
+<SPEAKER>Wife.</SPEAKER>
+<P>The half Breast, and the fellow to this Chicken.</P>
+</SP>
+<SP>
+<SPEAKER>Froth.</SPEAKER>
+<P>Alas how should I know forsooth, I have not eyes here,
+and in the Cellar too; the Bell-man's Dog was here but even now,
+a shirking Cur, and yet I cannot say he had it.</P>
+</SP>
+<SP>
+<SPEAKER>Subtle.</SPEAKER>
+<P>Who ever had, the Devil choak him with't.</P>
+</SP>
+<SP>
+<PB REF="18">
+<SPEAKER>Froth.</SPEAKER>
+<P>I sir, but 'tis past that by this time.</P>
+</SP>
+<STAGE>Exeunt</STAGE>
+<STAGE>Enter Mr. Pepper and his Wife.</STAGE>
+<SP>
+<SPEAKER>Pepper.</SPEAKER>
+<P>And so, my Lady.</P>
+</SP>
+<SP>
+<SPEAKER>Wife.</SPEAKER>
+<P>It is even so my Lord; and what think you on't?</P>
+</SP>
+<SP>
+<SPEAKER>Pepper.</SPEAKER>
+<P>Why scurvily! and very scurvily! But tell me, <HI>Fraile,</HI>
+(let thy Soul dictate to thee) do I deserve this scorn, these slights,
+these base untoward Answers! have I not been a Husband&mdash;
+indeed too, too, too Kind&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Wife.</SPEAKER>
+<P>Too much of one thing is good for nothing, you know't,
+it has been your own Doctrine.</P>
+</SP>
+<SP>
+<SPEAKER>Pepper.</SPEAKER>
+<P>I, but my dear <HI>Fraile</HI> I now am sincking.</P>
+</SP>
+<SP>
+<SPEAKER>Wife.</SPEAKER>
+<P>What remedy, would you have me sinck with you sir?</P>
+</SP>
+<SP>
+<SPEAKER>Pepper.</SPEAKER>
+<P>No my Dear; give me but an accompt of some goods
+that I miss, they'l be a help to us in our necessity.</P>
+</SP>
+<SP>
+<SPEAKER>Wife.</SPEAKER>
+<P>I'faith sir no, what goods I have I'le keep; and they'l
+keep me, if not something else will.</P>
+</SP>
+<SP>
+<SPEAKER>Pepper.</SPEAKER>
+<P>This is audatiousness beyond example; the common
+Brothels would not entertain a Wife so hideous, so monstrous evil;
+Ingratitude is worse then Whordom, <HI>Fraile,</HI> consider that &amp; weep.</P>
+</SP>
+<SP>
+<SPEAKER>Wife.</SPEAKER>
+<P>Ha, ha, ha, weep, for what? for seeking to preserve my
+self against the storm is coming? let <HI>Ludgate</HI> be thy Grave and pe|rish
+there, I'le be <HI>Fraile</HI> still, and take my pleasure.</P>
+</SP>
+<SP>
+<SPEAKER>Pepper.</SPEAKER>
+<P>Woman provoke me not&mdash;tell me where my Goods are?</P>
+</SP>
+<SP>
+<SPEAKER>Wife.</SPEAKER>
+<P>Thrown into the Thames.</P>
+</SP>
+<SP>
+<SPEAKER>Pepper.</SPEAKER>
+<P>Vile woman, would I could throw thee after 'em.</P>
+</SP>
+<SP>
+<SPEAKER>Smoak.</SPEAKER>
+<P>Oh master, master, there are two of <STAGE>Enter Smoak. in hast.</STAGE>
+your Creditors without, are very earnest to
+speak with you, but I told 'em you were not within; and there
+stands behind 'em an ill look'd Rogue a Serjeant on my conscience.</P>
+</SP>
+<SP>
+<SPEAKER>Pepper.</SPEAKER>
+<P>Prithee Wife go to 'em.</P>
+</SP>
+<SP>
+<SPEAKER>Wife.</SPEAKER>
+<P>I go to 'em! what to do?</P>
+</SP>
+<SP>
+<SPEAKER>Pepper.</SPEAKER>
+<P>See who they are, give 'em good words, and tell 'em I
+will be with 'em suddenly.</P>
+</SP>
+<SP>
+<SPEAKER>Wife.</SPEAKER>
+<P>To much purpose indeed.</P>
+</SP>
+<STAGE>Exit Fraile.</STAGE>
+<SP>
+<SPEAKER>Pepper.</SPEAKER>
+<P>In the mean time, besure you do convey the choicest of my
+Goods are now remaining, with my Debt Books, and all my Box
+of writings to my friends house, where I intend to be for some time
+<PB REF="19">
+'till I can Compound my Debts.</P>
+</SP>
+<STAGE>Enter Fraile.</STAGE>
+<SP>
+<SPEAKER>Fraile.</SPEAKER>
+<P>They are gone; you may take your walk when you
+please sir.</P>
+</SP>
+<SP>
+<SPEAKER>Pepper.</SPEAKER>
+<P>Come, I hope thou'lt be in a better humour er't be long.</P>
+</SP>
+<SP>
+<SPEAKER>Fraile.</SPEAKER>
+<P>I'm not of your opinion in good truth sir.</P>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE>Enter Hunt-Cliffe, and Sweet-Lips.</STAGE>
+<SP>
+<SPEAKER>Hunt-Cliffe.</SPEAKER>
+<P>What does thy Husband think I can Coyne money?
+wer't not for thy sake he should lick his spiggot and knaw his Nailes
+for want of Company, e're I would cross his Threshold.</P>
+</SP>
+<SP>
+<SPEAKER>Sweet-Lips.</SPEAKER>
+<P>O but dear <HI>Hunt-Cliffe</HI> for my sake.</P>
+</SP>
+<SP>
+<SPEAKER>Hunt-Cliffe.</SPEAKER>
+<P>Death! what would'st have me do? I have it not,
+thus to be vext for paltry thirty pound! I'le be a stranger here,
+or never let me&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Sweet-Lips.</SPEAKER>
+<P>Oh not so my dear; thou'lt break my heart then,
+I prithee hear me.</P>
+</SP>
+<SP>
+<SPEAKER>Hunt-Cliffe.</SPEAKER>
+<P>What would'st thou say?</P>
+</SP>
+<SP>
+<SPEAKER>Sweet-Lips.</SPEAKER>
+<P>My Husband is a very loving Husband.</P>
+</SP>
+<SP>
+<SPEAKER>Hunt-Cliffe.</SPEAKER>
+<P>What's that to me.</P>
+</SP>
+<SP>
+<SPEAKER>Sweet-Lips.</SPEAKER>
+<P>And now and then when he does get old Gold, he
+gives it me to hoord; that at this time I praise my Starrs I have I
+think far more then will discharge your Debt.</P>
+</SP>
+<SP>
+<SPEAKER>Hunt-Cliffe.</SPEAKER>
+<P>What of all this?</P>
+</SP>
+<SP>
+<SPEAKER>Sweet-Lips.</SPEAKER>
+<P>And here they are, which I (to save your Credit)
+have rob'd my Cabinet of; not thinking any thing too dear for
+thee, with whom I have entrusted my very self.</P>
+</SP>
+<SP>
+<SPEAKER>Hunt-Cliffe.</SPEAKER>
+<P>Well, what then?</P>
+</SP>
+<SP>
+<SPEAKER>Sweet-Lips.</SPEAKER>
+<P>If you will take the care to Pawne 'em <HI>Hunt-Cliffe,</HI>
+but not to loose 'em, for they are as pretious as is my Husbands
+love, and my well being; and how neer that is guess your self.</P>
+</SP>
+<SP>
+<SPEAKER>Hunt-Cliffe.</SPEAKER>
+<P>Oh my poor Rogue.</P>
+</SP>
+<SP>
+<SPEAKER>Sweet-Lips.</SPEAKER>
+<P>None will deny thee Silver on 'em, but be sure
+they be laid safe, or I'm undone for ever.</P>
+</SP>
+<SP>
+<SPEAKER>Hunt-Cliffe.</SPEAKER>
+<P>Dost thou fear me? have I a Soul?</P>
+</SP>
+<SP>
+<SPEAKER>Sweet-L.</SPEAKER>
+<P>Then take 'em as the pledges of my love, but so as they
+may be return'd again, I trust thee with my life in parting with 'em.</P>
+</SP>
+<SP>
+<SPEAKER>Hunt-Cliffe.</SPEAKER>
+<P>Pox on the dirt, I prize thy sweet conditions beyond
+a world of such like trash as this.</P>
+</SP>
+<SP>
+<PB REF="19">
+<SPEAKER>Sweet-Lips.</SPEAKER>
+<P>Dear <HI>Hunt-Cliffe</HI> if thou dost regard my quiet, be
+carefull to redeem them in some time, and I'le contribute towards
+it what I can.</P>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<SP>
+<SPEAKER>Hunt-Cliffe.</SPEAKER>
+<P>My dear thy Obligations are Charmes to me.</P>
+</SP>
+<STAGE>Enter Pickle, Olive, and Samphire.</STAGE>
+<SP>
+<SPEAKER>Pickle.</SPEAKER>
+<P><HI>Samphire</HI> about your business, let my Writing and Debt
+Bookes&mdash;Lord I am o're come with passion.</P>
+</SP>
+<SP>
+<SPEAKER>Olive.</SPEAKER>
+<P>I prithee be not so, I'le run a share with thee in all thy
+sufferings.</P>
+</SP>
+<SP>
+<SPEAKER>Pickle.</SPEAKER>
+<P>That's my torture; Oh must thy goodness, thy indul|gence
+meet the cruelty that does pursue my vanity, my profuse
+living, my extravagancies, my Creditors wound me not halfe so
+much as the sharp thoughts of thee.</P>
+</SP>
+<SP>
+<SPEAKER>Olive.</SPEAKER>
+<P>Yet hear me dearest, do not dispaire nor throw a mercy
+from thee, I doubt not but my care has so provided, thou may'st be
+able to appease thy Creditors, and stop their violence.</P>
+</SP>
+<SP>
+<SPEAKER>Pickle.</SPEAKER>
+<P>Alas poor thing what canst thou do?</P>
+</SP>
+<SP>
+<SPEAKER>Olive.</SPEAKER>
+<P>Why you shall see provided, my dear Husband: (and yet
+I must beg pardon for that Covenant, it being too peremptory
+for me to proffer&mdash;)</P>
+</SP>
+<STAGE>Weepes.</STAGE>
+<SP>
+<SPEAKER>Pickle.</SPEAKER>
+<P>Prithee my Dearest.</P>
+</SP>
+<SP>
+<SPEAKER>Olive.</SPEAKER>
+<P>I say if you'l please to look about you for the future, I
+dare warrant your Recovery, then ne're flinch for't.</P>
+</SP>
+<SP>
+<SPEAKER>Pickle.</SPEAKER>
+<P>Say'st thou so my better <HI>Genius.
+Samphire</HI> stirr nothing till my wife &amp; I do consult further.</P>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<SP>
+<SPEAKER>Samphire.</SPEAKER>
+<P>Now my hopes are spoild, no matter; I shall become
+the honester, farewell <HI>Smoak,</HI> thou art but a vapour, and <HI>Froth,</HI>
+thou art but wind, &amp; for <HI>Rasey,</HI> he is too dear a Companion.</P>
+<STAGE>Exit.</STAGE>
+</SP>
+</DIV2>
+<DIV2 N="5" TYPE="act">
+<HEAD>ACT the Fifth.</HEAD>
+<STAGE>Enter Compound and Sweet-Lips.</STAGE>
+<SP>
+<SPEAKER>COmpound.</SPEAKER>
+<P>Was ever man stockt with such impudence, he sends
+with that authority to provide a Supper, and of no small
+consequence; as though he ow'd me nothing, or I bound to feed
+his Ryot for a coppy of his ugly Countenance.</P>
+</SP>
+<SP>
+<SPEAKER>Sweet-Lips.</SPEAKER>
+<P>Why truly Husband, and speak but the bare truth,
+<PB REF="20">
+the man is handsome, handsome enough indeed la.</P>
+</SP>
+<SP>
+<SPEAKER>Compound.</SPEAKER>
+<P>I have seen (for all your wise opinion) a far handso|mer
+forsake the world at <HI>Tyburn.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Sweet-Lips.</SPEAKER>
+<P>Oh this money.</P>
+</SP>
+<SP>
+<SPEAKER>Compound.</SPEAKER>
+<P>Wer't not to bring a scandal on my house, he should
+not have digested scarce his Supper, e're I had Serjeants to salute
+his person; and yet, for ought I know it shall be done.</P>
+</SP>
+<SP>
+<SPEAKER>Sweet-Lips.</SPEAKER>
+<P>Oh good, my heart, how do you know but he has
+brought you money; disgrace him not before his friends, he is a
+Gentleman, think on that; I am perswaded he would ne're have
+ventur'd (being well acquainted with your frequent Threats) to
+invite his friends but on a handsome score: take my word for this
+night, and in the morning do what you please.</P>
+</SP>
+<SP>
+<SPEAKER>Compound.</SPEAKER>
+<P>By this hand I will.</P>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE>Enter Mahoone in his Shirt.</STAGE>
+<SP>
+<SPEAKER>Mahoone.</SPEAKER>
+<P>Nebor, mine good Nebor vere be you dere? vere
+been mine Vife, begar she be de hore o de Varld, she robe a me o
+all mine money my l'argent begar, for de foke, vy Nebor, vere be
+mine Vife? me break house to day, me be undone, de grand pock
+take you all, vere be de hore de dam bish hore mine Vife? me be
+mad as de dog, bish, all mine money begone; me be mad begar.</P>
+</SP>
+<STAGE>Enter his Wife.</STAGE>
+<SP>
+<SPEAKER>Wife.</SPEAKER>
+<P>Did ever man make such a
+monster of himself! why don't you come to bed?</P>
+</SP>
+<SP>
+<SPEAKER>Mahoone.</SPEAKER>
+<P>Oh shade! vere have you been! foke, foke, foke, a
+pock take you for me. Vere be mine money you hore shade? vere
+be de money you took to day, shade?</P>
+</SP>
+<SP>
+<SPEAKER>Wife.</SPEAKER>
+<L>Are you not asham'd to disturb your Neighbours?</L>
+<L>Come to bed, and you shall know all.</L>
+</SP>
+<SP>
+<SPEAKER>Mahoone.</SPEAKER>
+<P>Know all! vat be dat? me come to bed! very good,
+de devel come to bed, me no come to your dog-bish hole you shade.</P>
+</SP>
+<SP>
+<SPEAKER>Wife.</SPEAKER>
+<P>Why then go hang your self.</P>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Mahoone.</SPEAKER>
+<P>Out a hore shade vere be mine money you damm
+shade vere be mine money? me murder you, and send your Sole
+to de devell begar: mine money,
+mine money, mine money.</P>
+</SP>
+<STAGE>Exit running.</STAGE>
+<STAGE>Enter Hunt-Cliffe, and two or three Gentlemen.</STAGE>
+<SP>
+<SPEAKER>Hunt-Cliffe.</SPEAKER>
+<P>More Wine, who waites there? why <HI>Rasey</HI> you
+Ra<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">kall more Wine.</P>
+</SP>
+<SP>
+<PB REF="20">
+<SPEAKER>Rasey.</SPEAKER>
+<P>I have it here Sir.</P>
+</SP>
+<STAGE>Enter Rasey.</STAGE>
+<SP>
+<SPEAKER>Hunt-Cliffe.</SPEAKER>
+<P>Bid your Master come to me.</P>
+</SP>
+<SP>
+<SPEAKER>Rasey.</SPEAKER>
+<P>My Mistress Sir!</P>
+</SP>
+<SP>
+<SPEAKER>Hunt-Cliffe.</SPEAKER>
+<P>No, your Master, sirrah.</P>
+</SP>
+<SP>
+<SPEAKER>Rasey.</SPEAKER>
+<P>I unde<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">stand you Sir, but I believe y'ave ridden him so much he'l
+not endure the Bit.</P>
+</SP>
+<STAGE>Aside.</STAGE>
+<SP>
+<SPEAKER>Hunt-Cliffe.</SPEAKER>
+<P>Why dost not stirr?</P>
+</SP>
+<SP>
+<SPEAKER>Rasey.</SPEAKER>
+<P>I'm gone Sir.</P>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>1 Gent.</SPEAKER>
+<P><HI>Hunt-Cliffe,</HI> thou art a Prince.</P>
+</SP>
+<SP>
+<SPEAKER>2 Gent.</SPEAKER>
+<P>Disgu<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">s'd or neer upon't.</P>
+</SP>
+<SP>
+<SPEAKER>Hunt-Cliffe</SPEAKER>
+<P>Wh<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">le these Spanckers last, Boyes&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>1 Gent.</SPEAKER>
+<P>Where lives thy Mammon, thy kind hearted devil?</P>
+</SP>
+<SP>
+<SPEAKER>Hunt-Cliffe.</SPEAKER>
+<P>I have a legend, pretty smooth fac'd devils, such as would draw
+you from your prayers, to sin; fine soaking dev<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">ls.</P>
+<L>Oh Sir, are you come?</L>
+</SP>
+<STAGE>Enter Compound.</STAGE>
+<SP>
+<SPEAKER>Compound.</SPEAKER>
+<P>I suppose you sent for me.</P>
+</SP>
+<SP>
+<SPEAKER>Hunt-Cliffe.</SPEAKER>
+<P>In very good time Sir; how stands Accompts between us?</P>
+</SP>
+<SP>
+<SPEAKER>Compound.</SPEAKER>
+<P>What mean you Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Hunt-Cliffe.</SPEAKER>
+<P>I pray let's know it Sir, even from the beginning of the world
+unto this present t<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">me Sir: I abhor a Serjeant, and your poor stratagems;
+what do I owe you Sir? I've money for you, I hope you'l not refuse it.</P>
+</SP>
+<SP>
+<SPEAKER>Comp.</SPEAKER>
+<P>Forbid I should; Sir I'<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">e fetch you up a Bill.</P>
+</SP>
+<STAGE>Shakes his Pockets.</STAGE>
+<SP>
+<SPEAKER>Hunt-Cliffe.</SPEAKER>
+<P>Pray do S<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">r, and put our Reckoning into't.</P>
+</SP>
+<SP>
+<SPEAKER>Gentlemen.</SPEAKER>
+<P>By no meanes, we'l pay our shares.</P>
+</SP>
+<SP>
+<SPEAKER>Compound.</SPEAKER>
+<P>As you please for that Gentlemen.</P>
+</SP>
+<SP>
+<SPEAKER>Hunt-cliffe.</SPEAKER>
+<P>Do as I bad you Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Compound.</SPEAKER>
+<P>It shall be done Sir.</P>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Hunt-cliffe.</SPEAKER>
+<P>I hate to have such d<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">rty fellowes think I am beholding to 'em,
+my soul's above it; men that have narrow though<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">s crouch to such wretches,
+but mine are boundl<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">ss&mdash;</P>
+</SP>
+<STAGE>Enter Compound.</STAGE>
+<SP>
+<SPEAKER>Compound.</SPEAKER>
+<P>Here it is Sir, and the precise day set down for every Reckoning,
+I sco<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">n to wrong you Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Hunt-cliffe.</SPEAKER>
+<P>A righteous Stewa<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">d&mdash;so&mdash;right&mdash;well&mdash;very well&mdash;just&mdash;
+'tis granted; and know I scorn to wrong you punctual <HI>Compound,</HI> the Total is
+20. Pound, make your Acqu<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">tance, &amp; that a general one, &amp; your money's <GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">eady.</P>
+</SP>
+<SP>
+<SPEAKER>Compound.</SPEAKER>
+<P>I sir, that's soon done, my Wife's a W<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">tch sure,</P>
+<STAGE>Aside.</STAGE>
+<P>She told me she bel<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">ev'd this night he'd pay me,
+the Acquitance Sir is ready.</P>
+</SP>
+<STAGE>Writes.</STAGE>
+<SP>
+<SPEAKER>Hunt-Cliffe.</SPEAKER>
+<P>Let me see't&mdash;from the beginning&mdash;very well&mdash;now Gen|tlemen
+I hope you w<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">ll subscribe as Witnesses?</P>
+</SP>
+<SP>
+<SPEAKER>Gentlemen.</SPEAKER>
+<P>I, I.</P>
+</SP>
+<SP>
+<SPEAKER>Hunt-Cliffe.</SPEAKER>
+<P>Now tell your money, sir, Nineteen old Pieces, with their Al|lowance,
+friend may pass for twenty pound, your Debt.</P>
+</SP>
+<STAGE>Throwes him. the Gold.</STAGE>
+<SP>
+<SPEAKER>Compound.</SPEAKER>
+<P>Bless my eye sight, my own Gold upon my life,
+the Gold I gave my Wife in keeping&mdash;Oh vile Woman, Oh wretched man&mdash;give me back my Acquittance, the Golds not right, 'tis base Counterfeit
+<PB REF="21">
+Gold, Oh my vexation!</P>
+</SP>
+<SP>
+<SPEAKER>1 Gent.</SPEAKER>
+<P>Art mad, the Gold's good Gold.</P>
+</SP>
+<SP>
+<SPEAKER>2 Gent.</SPEAKER>
+<P>Currant I warrant thee.</P>
+</SP>
+<SP>
+<SPEAKER>Compound.</SPEAKER>
+<P>If it be, he came not lawfully by't, 'tis not well gotten, and I
+shall never thrive with it.</P>
+</SP>
+<SP>
+<SPEAKER>3 Gent.</SPEAKER>
+<P>Have a care what you say, friend.</P>
+</SP>
+<SP>
+<SPEAKER>Hunt-Cliffe.</SPEAKER>
+<P>What does the fellow murter?</P>
+</SP>
+<SP>
+<SPEAKER>Compound.</SPEAKER>
+<P>None of your f<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">llow yet Sir, I am no Cheat, give me my Ac|quittance,
+t<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">ke your ill got Goods, and I'le take my course for my Debt&mdash;
+what paid with a Pig from my own Sow!&mdash;<HI>Rasey</HI> bid your Mistress come hi|ther
+presently&mdash;I shall run mad indeed.</P>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Hunt-Cliffe.</SPEAKER>
+<P>I know where his Shoo wrings him; his Wife gave me this
+Gold to p<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">wn for Silver&mdash;pox on the oversight, I shall loose her love for ever.</P>
+</SP>
+<SP>
+<SPEAKER>1 Gent.</SPEAKER>
+<P>Oh 'twas a gross mistake.</P>
+</SP>
+<SP>
+<SPEAKER>2 Gent.</SPEAKER>
+<P>Not like a Gentleman.</P>
+</SP>
+<SP>
+<SPEAKER>3 Gent.</SPEAKER>
+<P>Pay him in his own Coyne?</P>
+</SP>
+<STAGE>Enter Compound &amp; his wife.</STAGE>
+<SP>
+<SPEAKER>Compound.</SPEAKER>
+<P>Come, come, the Key of your Cabinet?</P>
+</SP>
+<SP>
+<SPEAKER>Wife.</SPEAKER>
+<P>Lord, why thus hasty Husband; I cannot find it presently.</P>
+</SP>
+<SP>
+<SPEAKER>Compound.</SPEAKER>
+<P>How crept these things into that Gentleman's, that worthless
+Gentleman's Pocket? you know 'em d'ye not?</P>
+</SP>
+<SP>
+<SPEAKER>Wife.</SPEAKER>
+<P>Oh my misery&mdash;a Gentleman! a Villain, a perjur'd Villain&mdash;</P>
+</SP>
+<STAGE>aside.</STAGE>
+<SP>
+<SPEAKER>Compound.</SPEAKER>
+<P>Answer me to my question?</P>
+</SP>
+<STAGE>She Weepes.</STAGE>
+<SP>
+<SPEAKER>1 Gent.</SPEAKER>
+<P>Poor Creature he has struck her dumb&mdash;fie <HI>Hunt-Cl<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">ffe,</HI> fie.</P>
+</SP>
+<SP>
+<SPEAKER>2 Gent</SPEAKER>
+<P>Pox o' this business, 'tis a nasty business.</P>
+</SP>
+<SP>
+<SPEAKER>Hunt-Cliffe.</SPEAKER>
+<P>Come, let's leave him freting in his own grease, l'le not endure
+the storme.</P>
+</SP>
+<STAGE>Exeunt Hunt-Cliffe and Gentlemen.</STAGE>
+<SP>
+<SPEAKER>Compound.</SPEAKER>
+<P>Charge a Constable with the Rogue, he has rob'd me&mdash;oh Wo|man
+what hast thou done? what hast thou made me do? open thy shame, and
+mine to all the world, I shall not stir forth of my doors, but be pointed at by each
+Prentice boy, become the talk a<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter"> every Coffee-House.</P>
+</SP>
+<SP>
+<SPEAKER>Wife.</SPEAKER>
+<P>Dear Husband
+upon my Knees I beg your Pardon never will I commit an error like <STAGE>Knecls.</STAGE>
+to this.</P>
+</SP>
+<SP>
+<SPEAKER>Compound.</SPEAKER>
+<P>It was thy Iust mov'd thee to do it now, and
+that is such a Cankar it will eat w<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">ole Families up.</P>
+</SP>
+<SP>
+<SPEAKER>Wife.</SPEAKER>
+<P>He never did attempt (if you'l believe me Husband) any uncivil Act
+towards me since first he came to th' House, I lookt upon him for a Gentleman;
+and knew you would arrest him, (you had sworn it) if that he paid you not
+this night.</P>
+</SP>
+<SP>
+<SPEAKER>Compound.</SPEAKER>
+<P>What then?
+must you rob me therefore to pleasure him?</P>
+</SP>
+<SP>
+<SPEAKER>Wife.</SPEAKER>
+<P>I lent 'em him to pawn for S<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">lver, on condition he'd redeem 'em in a
+moneth, to which he swore most vehemently.</P>
+</SP>
+<SP>
+<SPEAKER>Compound.</SPEAKER>
+<P>Rise, I forg<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">ve thee, be wiser Wench, hereafter, and tho<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">gh he
+thinks he does securely swim, if there be Law in the Land I'le hamper him.</P>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<TRAILER>FINIS.</TRAILER>
+<PB REF="21">
+</DIV2>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

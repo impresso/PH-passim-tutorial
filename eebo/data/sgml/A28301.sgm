@@ -1,0 +1,490 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD EEBOPROOF 2.0//EN">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-08-18</DATE>
+<RESPSTMT>
+<NAME>Marika Ismail</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TYPEs to DIVs in order to validate. Proofed title page(s). Checked for N=""s. Checked for GROUP tags. Checked ^s. Reviewed structure. Checked division-marking material at heads and feet of divisions (HEADS,  CLOSER, OPENER, ARGUMENT, EPIGRAPH, SIGNED, BYLINE, etc.). Checked for signatures. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected ** $s and $word$s etc. of **. Converted __ $$s to GAP DESC="illegible" RESP="[vendor name]". Checked spacing of foreign GAPs.  Checked for LBs. Checked for startqs, endqs, oes, q;s, and Qs. Checked proofsheets and made corrections found there.  Checked for FIGUREs and decorated initials. Checked for missing-page GAPs. Revalidated. </ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="A28301">
+<STC T="W">B3085</STC>
+<BIBNO T="oclc">11875664</BIBNO>
+<VID>50219</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1">
+<PB REF="1">
+<P>A SATYR AGAINST WIT.</P>
+<P>The Second Edition.</P>
+<P>LONDON:</P>
+<P>Printed for <HI>Samuel Crouch,</HI> at the Corner of <HI>Pope's-Head-Alley,</HI> over against the <HI>Royal Exchange</HI> in <HI>Cornhill,</HI> 1700.</P>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="poem">
+<PB REF="2">
+<PB N="3" REF="2">
+<HEAD>A Satyr against WIT.</HEAD>
+<LG>
+<L>VVHO can forbear, and tamely silent fit,</L>
+<L>And see his Native Land undone by Wit?</L>
+<L>Boast not, <HI>Britannia,</HI> of thy happy Peace,</L>
+<L>What if Campaigns and Sea-Engagements cease,</L>
+<L>Wit, a worse Plague, does mightily encrease?</L>
+<L>Some monstrous Crimes to Ages past unknown,</L>
+<L>Have surely pull'd this heavy Judgment down.</L>
+<L>Fierce Insect-Wits draw out their noisy Swarms,</L>
+<L>And threaten Ruin more than Foreign Arms.</L>
+<L>O'er all the Land the hungry Locusts spread,</L>
+<L>Gnaw every Plant, taint every flowry Bed,</L>
+<L>And crop each tender Virtue's tender Head.</L>
+</LG>
+<LG>
+<L>How happy were the old unpolished Times,</L>
+<L>As free from Wit as other modern Crimes?</L>
+<L>As our Forefathers Vig'rous were and Brave;</L>
+<L>So they were Virtuous, Wise, Discreet and Grave,</L>
+<L>Detesting both alike the Wit and Knave.</L>
+<L>They justly Wits and Fools believ'd the same,</L>
+<L>And Jester was for both the common Name.</L>
+<L><PB N="4" REF="3">Their Minds for Empire form'd would never quit</L>
+<L>Their noble Roughness, and dissolve in Wit.</L>
+<L>For Business born and bred to Martial Toil.</L>
+<L>They rais'd the Glory of <HI>Britannia</HI>'s Isle.</L>
+<L>Then she her dreadful Ensigns did advance,</L>
+<L>To curb <HI>Iberia,</HI> and to conquer <HI>France.</HI></L>
+<L>But this degenerate, loose and foolish Race</L>
+<L>Are all turn'd Wits, and their great Stock debase.</L>
+<L>Our Learning daily sinks, and Wit is grown</L>
+<L>The senseless Conversation of the Town.</L>
+<L>Enervated with this our Youth have <GAP DESC="illegible" REASON="blotted" EXTENT="1 word"></L>
+<L>That stubborn Virtue, which we once could boast.</L>
+<L>The Plague of Wit prevails, I fear 'tis vain</L>
+<L>Now to attempt its Fury to restrain.</L>
+<L>It takes Men in the Head, and in the Fit</L>
+<L>They lose their Senses, and are gone in Wit.</L>
+<L>By various ways their Frenzy they express,</L>
+<L>Some with loose Lines run haring to the Press,</L>
+<L>In Lewdness some are Wits, some only Wits in Dress.</L>
+<L>Some seiz'd like <HI>Gravar,</HI> with Convulsions strain</L>
+<L>Always to say fine Things, but strive in vain,</L>
+<L>Urg'd with a dry <HI>Tenesmus</HI> of the Brain.</L>
+</LG>
+<LG>
+<L>Had but the People scar'd with Danger run</L>
+<L>To shut up <HI>Wills,</HI> where first this Plague begun:</L>
+<L>Had they the first infected Men convey'd</L>
+<L>Strait to <HI>Moorfields,</HI> the Pest-house for the Head;</L>
+<L>The wild Contagion might have been supprest,</L>
+<L>Some few had fal'n, but we had sav'd the rest.</L>
+<L>An Act like this had been a good Defence</L>
+<L>Against our great Mortality of Sense.</L>
+<L>But now th' Infection spreads, the Bills run high,</L>
+<L>At the last Gasp of Sense ten thousand dy.</L>
+<L><PB N="5" REF="3" MS="y">We meet fine Youth in every House and Street,</L>
+<L>With all the deadly Tokens out, of Wit.</L>
+</LG>
+<LG>
+<L><HI>Vannine</HI> that look'd on all the Danger past,</L>
+<L>Because he scap'd so long, is seiz'd at last.</L>
+<L>By Pox and Hunger and by <HI>D&mdash;<GAP DESC="illegible" REASON="blotted" EXTENT="1 letter"></HI> bit</L>
+<L>He grins and snarles, and in his dogged Fit</L>
+<L>Froths at the Mouth, a certain Sign of Wit.</L>
+</LG>
+<LG>
+<L><HI>Craper</HI> runs madly midst the sickest Crowd,</L>
+<L>And fain would be infected, if he cou'd.</L>
+<L>Under the Means he lies, frequents the Stage,</L>
+<L>Is very leud, and does at Learning rage.</L>
+<L>Pity that so much Labour should be lost</L>
+<L>By such a healthful Constitution crost.</L>
+<L>Against th' Assaults of Wit his Make his proof,</L>
+<L>Still his strong Nature works the Poison off.</L>
+<L>He still escapes, but yet is wondrous pleas'd</L>
+<L>Wit to recite, and to be thought Diseas'd.</L>
+<L>So Hypocrites in Vice in this vile Town</L>
+<L>To Wickedness pretend, that's not their own.</L>
+</LG>
+<LG>
+<L>A Bantring Spirit has our Men possest,</L>
+<L>And Wisdom is become a standing Jest.</L>
+<L>Wit does of Virtue sure Destruction make;</L>
+<L>Who can produce a Wit and not a Rake?</L>
+<L>Wise Magistrates leud Wit do therefore hate,</L>
+<L>The Bane of Virtue's Treason to the State.</L>
+<L>While Honour fails and Honesty decays,</L>
+<L>In vain we beat our Heads for Means and Ways</L>
+<L>What well-form'd Government or State can last,</L>
+<L>When Wit has laid the Peoples Virtue wast?</L>
+<L><PB N="6" REF="4" MS="y">The <HI>Mob</HI> of Wits is up to storm the Town,</L>
+<L>To pull all Virtue and right Reason down.</L>
+<L>Quite to subvert Religion's sacred Fence,</L>
+<L>To set up Wit, and pull down common Sense.</L>
+<L>Our Libraries they gut, and shouting bear</L>
+<L>The Spoils of ruin'd Churches in the Air.</L>
+<L>Their Captain <HI>Tom</HI> does at their Head appear,</L>
+<L>And <HI>S&mdash;<GAP DESC="illegible" REASON="blotted" EXTENT="1 letter"></HI> in his Gown brings up the Rear.</L>
+<L>Aloud the Church and Clergy they condemn,</L>
+<L>Curse all their Order, and their God blaspheme.</L>
+<L>Against all Springs of Learning they declare,</L>
+<L>Against Religion's Nurseries, and swear</L>
+<L>They will no <HI>All&mdash;e, M&mdash;ll</HI> or <HI>Ch&mdash;t</HI> spare:</L>
+<L>But the leud Crew affirm by all that's good</L>
+<L>They'll ne'er disperse unless they've <HI>B&mdash;ly</HI>'s Blood.</L>
+<L>For that ill-natur'd Critic has undone</L>
+<L>The rarest Piece of Wit that e'er was shown.</L>
+<L>Till his rude Stroaks had thresh'd the empty Sheaf,</L>
+<L>We thought there had been something else than Chaff.</L>
+<L>Crown'd with Applause this Master Critic sits,</L>
+<L>And round him ly the Spoils of ruin'd Wits.</L>
+<L>How great a Man! What Rev'rence were his due,</L>
+<L>Could he suppress the Critic's <HI>Fastus</HI> too?</L>
+<L>As certain Words will Lunaticks enrage,</L>
+<L>Who just before appear'd sedate and sage.</L>
+<L>So do but <HI>Lock</HI> or <HI>Books</HI> or <HI>Bentley</HI> name,</L>
+<L>The Wit's in clammy Sweats, or in a Flame.</L>
+</LG>
+<LG>
+<L>Horror and Shame! What would the Madmen have?</L>
+<L>They dig up learned <HI>Bernard</HI>'s peaceful Grave.</L>
+<L>The Sacred-Urn of famous <HI>Stilling fleet,</HI></L>
+<L>We see prophan'd by the leud Sons of Wit.</L>
+<L>The skilful <HI>Ty&mdash;n</HI>'s Name they dare invade,</L>
+<L>And yet they are undone without his Aid.</L>
+<L><PB N="7" REF="4" MS="y"><HI>Ty&mdash;n</HI> with base Reproaches they pursue,</L>
+<L>Just as his <HI>Moorfields</HI> Patients use to do.</L>
+<L>For next to Virtue, Learning they abhor,</L>
+<L>Laugh at Discretion, but at Business more.</L>
+<L>A Wit's an idle, wretched Fool of Parts,</L>
+<L>That hates all Liberal and Mechanick Arts.</L>
+</LG>
+<LG>
+<L>Wit does enfeeble and debauch the Mind,</L>
+<L>Before to Business or to Arts inclin'd.</L>
+<L>How useless is a fauntring empty Wit,</L>
+<L>Only to please with Jests at Dinner fit?</L>
+<L>What hopeful Youths for Bar and Bench design'd,</L>
+<L>Seduc'd by Wit have learned <HI>Coke</HI> declin'd?</L>
+<L>For what has Wit to do with Sense or Law?</L>
+<L>Can that in Titles find or mend a Flaw?</L>
+<L>Can Wit supply great <HI>T&mdash;by</HI>'s nervous Sense?</L>
+<L>Or <HI>S&mdash;r</HI>'s more than <HI>Roman</HI> Eloquence?</L>
+<L>Which way has <HI>H&mdash;lt</HI> gain'd Universal Fame?</L>
+<L>What makes the World thy Praises, <HI>F&mdash;ch,</HI> proclaim?</L>
+<L>And charming <HI>P&mdash;s</HI> what advanc'd thy Name?</L>
+<L>'Twas Application, Knowledge of the Laws,</L>
+<L>And your vast Fund of Sense, gain'd you Applause.</L>
+<L>The Law will ne'er support the bant'ring Breed,</L>
+<L>A <HI>Sl&mdash;</HI> may sometimes there, but Wits can ne'er succeed.</L>
+</LG>
+<LG>
+<L><HI>R&mdash;t&mdash;ffe</HI> has Wit, and lavishes away</L>
+<L>More in his Conversation every Day,</L>
+<L>Than would supply a modern Writer's Play.</L>
+<L>But 'tis not that, but the great Master's Skill,</L>
+<L>Who with more Ease can cure, than <HI>C&mdash;h</HI> kill,</L>
+<L>That does the grateful Realm with his Applauses fill.</L>
+</LG>
+<LG>
+<L>Thy Learning <HI>G&mdash;ns,</HI> and thy Judgment <HI>H&mdash;w,</HI></L>
+<L>Make you in envy'd Reputation grow.</L>
+<L><PB N="8" REF="5" MS="y">This drew Invectives on you, all agree,</L>
+<L>From the lean Small-craft of your Faculty.</L>
+<L>Had you been Wits you had been both secure</L>
+<L>From Business, and for Satyr too Obscure,</L>
+<L>Ill-natur'd, Arrogant, and very Poor.</L>
+<L>But let Invectives still your Names assail,</L>
+<L>Your Business is to Cure, and theirs to Rail.</L>
+<L>Let 'em proceed and make your Names a Sport</L>
+<L>In leud Lampoons, they've Time and Leisure for't.</L>
+<L>Despise their Spite, the Thousands whom you raise</L>
+<L>From threaten'd Death will bless You all their Days,</L>
+<L>And spend the Breath you sav'd, in just and lasting Praise.</L>
+<L>But Wit as now 'tis manag'd would undo</L>
+<L>The Skill and Virtues we admire in You.</L>
+<L>In <HI>G&mdash;</HI> the Wit the Doctor has undone,</L>
+<L>In <HI>S&mdash;d</HI> the Divine, Heav'ns guard poor <HI>Ad&mdash;son.</HI></L>
+<L>An able Senator is lost in <HI>M&mdash;l,</HI></L>
+<L>And a fine Scholar sunk by Wit in <HI>B&mdash;l.</HI></L>
+<L>After his foolish Rhimes both Friends and Foes</L>
+<L>Conclude they know, who did not write his Prose.</L>
+</LG>
+<LG>
+<L>Wit does our Schools and Colleges invade,</L>
+<L>And has of Letters vast Destruction made.</L>
+<L>Has laid the Muses choicest Gardens wast,</L>
+<L>Broke their Inclosures and their Groves defac't.</L>
+<L>We strive in Jests each other to exceed,</L>
+<L>And shall e'er long forget to Write or Read.</L>
+<L>Unless a Fund were settled once that cou'd</L>
+<L>Make our deficient Sense and Learning good,</L>
+<L>Nothing can be expected, for the Debt</L>
+<L>By this loose Age contracted, is so great,</L>
+<L>To set the Muses mortgag'd Acres free,</L>
+<L>Our Bankrupt Sons must sell out-right the Fee.</L>
+<L><PB N="9" REF="5" MS="y">The present Age has all their Treasure spent,</L>
+<L>They can't the Int'rest pay at Five <HI>per Cent.</HI></L>
+<L>What to discharge it can we hope to raise</L>
+<L>From <HI>D&mdash;fy</HI>'s, or from Poet <HI>D&mdash;n&mdash;</HI>'s Plays,</L>
+<L>Or <HI>G&mdash;th</HI>'s Lampoon with little in't but Praise?</L>
+</LG>
+<LG>
+<L>O <HI>S&mdash;er, T&mdash;bot, D&mdash;set, M&mdash;gue,</HI></L>
+<L><HI>Gr&mdash;y, Sh&mdash;ld, C&mdash;d&mdash;sh, P&mdash;ke, V&mdash;n,</HI> you</L>
+<L>Who in <HI>Parnassus</HI> have Imperial Sway,</L>
+<L>Whom all the Muses Subjects here obey,</L>
+<L>Are in your Service and receive your Pay;</L>
+<L>Exert your Soveraign Power, in Judgment sit</L>
+<L>To regulate the Nation's Grievance, Wit.</L>
+<L>Pity the cheated Folks that every Day</L>
+<L>For Copper Wit good Sterling Silver pay.</L>
+<L>If once the Muses Chequer would deny</L>
+<L>To take false Wit, 'twould lose its currency.</L>
+<L>Not a base Piece would pass, that pass'd before</L>
+<L>Just wash'd with Wit, or thinly plated o'er.</L>
+</LG>
+<LG>
+<L>Set forth your Edict, let it be enjoyn'd</L>
+<L>That all defective Species be recoyn'd.</L>
+<L><HI>St. E&mdash;m&mdash;t</HI> and <HI>R&mdash;r</HI> both are fit</L>
+<L>To oversee the Coining of our Wit.</L>
+<L>Let these be made the Masters of Essay,</L>
+<L>They'll every Piece of Metal touch and weigh,</L>
+<L>And tell which is too light, which has too much Allay.</L>
+<L>'Tis true, that when the course and worthless Dross</L>
+<L>Is purg'd away, there will be mighty Loss.</L>
+<L>Ev'n <HI>C&mdash;e, S&mdash;n, Manly W&mdash;ly,</HI></L>
+<L>When thus refin'd will grievous Suff'rers be.</L>
+<L>Into the melting Pot when <HI>D&mdash;n</HI> comes,</L>
+<L>What horrid Stench will rise, what noisome Fumes?</L>
+<L><PB N="10" REF="6" MS="y">How will he shrink, when all his leud Allay,</L>
+<L>And wicked Mixture shall be purg'd away?</L>
+<L>When once his boasted Heaps are melted down,</L>
+<L>A Chest full scarce will yield one Sterling Crown.</L>
+<L>Those who will <HI>D&mdash;n&mdash;s</HI> melt and think to find</L>
+<L>A goodly Mass of Bullion left behind,</L>
+<L>Do, as th' <HI>Hibernian</HI> Wit, who as 'tis told,</L>
+<L>Burnt his gilt Leather to collect the Gold.</L>
+</LG>
+<LG>
+<L>But what remains will be so pure, 'twill bear</L>
+<L>Th' Examination of the most severe.</L>
+<L>'Twill <HI>S&mdash;r</HI>'s Scales and <HI>T&mdash;bot</HI>'s Test abide,</L>
+<L>And with their Mark please all the World beside.</L>
+</LG>
+<LG>
+<L>But when our Wit's call'd in, what will remain</L>
+<L>The Muses learned Commerce to maintain?</L>
+<L>How pensive will our Beaus and Ladies sit?</L>
+<L>They'll mutiny for want of ready Wit.</L>
+<L>That such a failure no Man may incense,</L>
+<L>Let us erect a Bank for Wit and Sense.</L>
+<L>A Bank whose current Bills may Payment make,</L>
+<L>Till new Mill'd Wit shall from the Mint come back.</L>
+</LG>
+<LG>
+<L>Let <HI>S&mdash;er, D&mdash;set, Sh&mdash;ld, M&mdash;gue,</HI></L>
+<L>Lend but their Names, the Project then will do.</L>
+<L>The Bank is fixt if these will under-write,</L>
+<L>They pay the vastest Sums of Wit at fight.</L>
+<L>These are good Men, in whom we all agree,</L>
+<L>Their Notes for Wit are good Security.</L>
+<L><HI>Duncombs</HI> and <HI>Claytons</HI> in <HI>Parnassus</HI> all,</L>
+<L>Who cannot sink unless the Hill should fall.</L>
+<L>Their Bills, tho' ne'er supported by Trustees,</L>
+<L>Will through <HI>Parnassus</HI> circulate with ease.</L>
+<L><PB N="11" REF="6" MS="y">If these come in, the Bank will quickly fill,</L>
+<L>All will be scrambling up <HI>Parnassus</HI> Hill.</L>
+<L>They'll crowd the Muses Hall and throng to write</L>
+<L>Great Sums of Wit, and will be Gainers by't.</L>
+</LG>
+<LG>
+<L><HI>V&mdash;e</HI> and <HI>C&mdash;e</HI> both are Wealthy, they</L>
+<L>Have Funds of Standard-Sense, need no Allay,</L>
+<L>And yet mix'd Metal oft they pass away.</L>
+<L>The Bank may safely their Subscriptions take,</L>
+<L>But let 'em for their Reputation's sake,</L>
+<L>Take care their Payments they in Sterling make.</L>
+</LG>
+<LG>
+<L><HI>Codron</HI> will under-write his <HI>Indian</HI> Wit,</L>
+<L>Far-fetch'd indeed, so 'twill the Ladies fit.</L>
+<L>By Hearsay he's a Scholar, and they say</L>
+<L>The Man's a sort of Wit too in his way.</L>
+</LG>
+<LG>
+<L>Let 'em receive whatever <HI>P&mdash;r</HI> brings,</L>
+<L>In nobler Strains no happy Genius sings.</L>
+<L>'Tis Complaisance when to divert his Friends,</L>
+<L>He to <HI>facetious Fancies</HI> condescends.</L>
+</LG>
+<LG>
+<L><HI>T&mdash;e</HI> will subscribe, but set no Payment-Day,</L>
+<L>For his slow Muse you must with Patience stay,</L>
+<L>He's honest, and as Wit comes in, will pay.</L>
+</LG>
+<LG>
+<L>But how would all this new Contrivance Prize,</L>
+<L>How high in value would their Actions rise?</L>
+<L>Would <HI>Fr&mdash;k</HI> engraft his solid, manly Sense,</L>
+<L>His Learning <HI>L&mdash;k, Fl&mdash;d</HI> his Eloquence.</L>
+<L>The Bank when thus establish'd will supply</L>
+<L>Small Places, for the little, loitt'ring Fry</L>
+<L>That follow <HI>G&mdash;th,</HI> or at <HI>Will Vr&mdash;</HI>'s ply.</L>
+<L><PB N="12" REF="7" MS="y">Their Station will be low, but ne'ertheless</L>
+<L>For this Provision they should Thanks express:</L>
+<L>'Tis sad to be a Wit and Dinnerless.</L>
+</LG>
+<LG>
+<L><HI>T&mdash;n</HI> the great Wit-Jobber of the Age,</L>
+<L>And all the Muses Broakers will engage</L>
+<L>Their several Friends to cry the Actions up,</L>
+<L>And all the railing Mouths of Envy stop.</L>
+</LG>
+<LG>
+<L>Ye Lords who o'er the Muses Realm preside,</L>
+<L>Their Int'rests manage and their Empire guide;</L>
+<L>Regard your Care, regard the sacred State</L>
+<L>Laid by Invaders wast and desolate.</L>
+<L><HI>Tartars</HI> and <HI>Scythians</HI> have in barb'rous Bands</L>
+<L>Riffled the Muses and o'er-run their Lands.</L>
+<L>The Native Subjects who in Peace enjoy'd</L>
+<L>The happy Seat, are by the Sword destroy'd.</L>
+<L>Gardens and Groves <HI>Parnassus</HI> did adorn,</L>
+<L>Condemn'd to Thistles now, and curst with Thorn.</L>
+<L>Instead of Flowers and Herbs of wholsom use,</L>
+<L>It does rank Weeds and pois'nous Plants produce.</L>
+<L>Fitter to be for <HI>Witches</HI> a Retreat,</L>
+<L><HI>Owls, Satyrs, Monkies,</HI> than the Muses Seat.</L>
+<L>Ev'n these debauch'd by <HI>D&mdash;n</HI> and his Crew,</L>
+<L>Turn Bawds to Vice and wicked Aims pursue.</L>
+<L>Therefore some just and wholesome Laws ordain,</L>
+<L>That may this wild Licentiousness restrain.</L>
+<L>To Virtue and to Merit have regard,</L>
+<L>To punish learn, you know how to reward.</L>
+</LG>
+<LG>
+<L>Let those Correction have, and not Applause,</L>
+<L>That Heav'n affront and ridicule its Laws.</L>
+<L>No sober Judge will Atheism e'er permit</L>
+<L>To pass for Sense, or Blasphemy for Wit.</L>
+<L><PB N="13" REF="7" MS="y">Declare that what's Obscene shall give Offence,</L>
+<L>Let want of Decency be want of Sense.<NOTE PLACE="marg">Roscom.</NOTE></L>
+</LG>
+<LG>
+<L>Send out your Guards to scow'r the Ways and seize</L>
+<L>The Footpads, Outlaws, Rogues and Rapparees,</L>
+<L>That in the Muses Country rob and kill,</L>
+<L>And make <HI>Parnassus</HI> worse than <HI>Shooter</HI>'s Hill.</L>
+<L>Poetic Justice should on these be shown,</L>
+<L>Or soon the Muses State must be undone.</L>
+<L>For now an honest Man can't peep abroad,</L>
+<L>And all chast Muses dread the dangerous Road.</L>
+<L>If in <HI>Parnassus</HI> any <HI>needy Wit</HI></L>
+<L>Should filch and Petty Larceny commit,</L>
+<L>If he should riffle Books, and Pilferer turn,</L>
+<L>An Inch beside the Nose the <HI>Felon</HI> burn.</L>
+<L>Let him distinguish'd by this Mark appear,</L>
+<L>And in his Cheek a plain <HI>Signetur</HI> wear.</L>
+</LG>
+<LG>
+<L>Chastise the Poets who our Laws invade,</L>
+<L>And hold with <HI>France</HI> for Wit an Owling Trade.</L>
+<L>Felonious <HI>G&mdash;</HI> pursuing this Design,</L>
+<L>Smuggles <HI>French</HI> Wit, as others Silks and Wine.</L>
+<L>But let his Suff'rings doubly be severe,</L>
+<L>For he both steals it there, and runs it here.</L>
+</LG>
+<LG>
+<L>Condemn all those who 'gainst the Muses Laws</L>
+<L>Sollicit Votes, and canvas for Applause.</L>
+<L>When <HI>Torman</HI> writes he rattles up and down,</L>
+<L>And makes what Friends he can, to make the Town.</L>
+<L>By Noise and Violence they force a Name,</L>
+<L>For this leud Town has <HI>Setters</HI> too for Fame:</L>
+<L>It is not Merit now that recommends,</L>
+<L>But he's allow'd most Sense, that makes most Friends</L>
+<L><PB N="14" REF="8" MS="y">In Panegyrick let it be a Rule,</L>
+<L>That for the Sense none praise a Wealthy Fool.</L>
+<L><HI>D&mdash;n</HI> condemn who taught Men how to make</L>
+<L>Of Dunces Wits, an Angel of a Rake.</L>
+<L>By Treats and Gifts our Youth may now commence,</L>
+<L>Wits without Brains, and Scholars without Sense.</L>
+<L>They cry up <HI>Darfel</HI> for a Wit, to treat</L>
+<L>Let him forbear, and they their Words will eat.</L>
+<L>Great <HI>Atticus</HI> himself these Men would curse,</L>
+<L>Should <HI>Atticus</HI> appear without his Purse.</L>
+<L>Of any Price you may bespeak a Name,</L>
+<L>For Characters they cut, and retail Fame.</L>
+<L>Bounty's the Measure of a Patron's Mind,</L>
+<L>For they have still most Sense, that prove most kind.</L>
+<L>Fame on Great Men's a Charge that still goes on,</L>
+<L>For Wits, like Scriv'ners, take for <HI>Pro</HI> and <HI>Con.</HI></L>
+<L>Without his Gold what generous <HI>Oran</HI> writ,</L>
+<L>Had ne'er been Standard, sheer <HI>Athenian</HI> Wit.</L>
+</LG>
+<LG>
+<L>Those who by Satyr would reform the Town,</L>
+<L>Should have some little Merit of their own,</L>
+<L>And not be Rakes themselves below Lampoon.</L>
+<L>For all their Libels Panegyrick's are,</L>
+<L>They're still read backward like a Witch's Pray'r.</L>
+<L><HI>Ell&mdash;t</HI>'s Reproofs who does not make his Sport?</L>
+<L>Who'll e'er repent that <HI>S&mdash;d</HI> does exhort?</L>
+<L>Therefore let Satyr-Writers be supprest,</L>
+<L>Or be reform'd by cautious <HI>D&mdash;set</HI>'s Test.</L>
+<L>'Tis only <HI>D&mdash;set</HI>'s Judgment can command,</L>
+<L>Wit the worst Weapon in a Madman's Hand.</L>
+<L>The Biting Things by that great Master said,</L>
+<L>Flow from rich Sense, but theirs from want of Bread.</L>
+<L>Whatever is by them in Satyr writ</L>
+<L>Is Malice all, but his excess of Wit.</L>
+<L><PB N="15" REF="8" MS="y">To lash our Faults and Follies is his Aim,</L>
+<L>Theirs is good Sense and Merit to defame.</L>
+<L>In <HI>D&mdash;set</HI> Wit (and therefore still 'twill please)</L>
+<L>Is Constitution, but in them Disease.</L>
+</LG>
+<LG>
+<L>Care should be taken of the Impotent,</L>
+<L>That in your Service have their Vigor spent.</L>
+<L>They should have Pensions from the Muses State,</L>
+<L>Too Old to Write, too Feeble to Translate.</L>
+<L>But let the lusty Beggar-Wits that lurk</L>
+<L>About the Hill, be seiz'd and set to Work.</L>
+<L>Besides some Youths Debauches will commit,</L>
+<L>And surfeit by their undigested Wit.</L>
+<L>Th' intoxicating Draught they cannot bear,</L>
+<L>It takes their Heads before they are aware.</L>
+<L>Weak Brothers by Excesses it appears</L>
+<L>Have oft been laid up Months, and some whole Years.</L>
+<L>By one Debauch a tender Wit was try'd,</L>
+<L>And he 'tis known was likely to have dy'd.</L>
+<L>That neither Sick nor Poor you may neglect,</L>
+<L>For all the Muses <HI>Invalids</HI> erect,</L>
+<L>An Hospital upon <HI>Parnassus</HI> Hill,</L>
+<L>And settle Doctors there of Worth and Skill.</L>
+<L>This Town can numbers for your Service spare,</L>
+<L>That live obscure and of Success despair.</L>
+<L><HI>Fracar</HI> has many sour Invectives said,</L>
+<L>And Jests upon his own Profession spred,</L>
+<L>And with good Reason, 'twill not find him Bread.</L>
+<L>And some such Doctors, sure you may persuade</L>
+<L>To labour at th' Apothecary's Trade.</L>
+<L>They'll Med'cines make, and at the Mortar sweat,</L>
+<L>Let 'em pound Drugs, they have no Brains to beat.</L>
+</LG>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

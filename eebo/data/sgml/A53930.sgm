@@ -1,0 +1,415 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD EEBOPROOF 2.0//EN">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-09-09</DATE>
+<RESPSTMT>
+<NAME>John Latta</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate. Checked for N=""s. Checked for GROUP tags. Proofed title page. Checked ^s. Reviewed structure; removed LGs. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, oes, --s, and UNCLEARs. Corrected $s and $Word$s. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs and endqs, q;s, abq's, Ae's, and Qs. Checked for missing page GAPs. Checked for EPIGRAPHs and ARGUMENTS. Checked proofsheets and made corrections. Check CLOSERs, TRAILERs, SIGNEDs, OPENERs, SALUTEs, BYLINEs. Sample: 5 minutes. Proofing: 12 minutes. Tag review and corrections: 15 minutes. DONE.</ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="A53930">
+<STC T="W">P1042</STC>
+<BIBNO T="oclc">12355164</BIBNO>
+<VID>60122</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1">
+<PB REF="1">
+<P>TO The Most High and Mighty MONARCH, Charles the II.</P>
+<P>By the Grace of GOD,</P>
+<P>King of <HI>England, Scotland, France</HI> and <HI>Ireland,</HI></P>
+<P>Defender of the Faith:</P>
+<P>THOMAS PECKE of the <HI>Inner Temple,</HI> <ABBR>Esq</ABBR> Wisheth an Affluence of both Temporal and Eternal FELICITY;</P>
+<P>And most humbly Devoteth this Heroick Poem,</P>
+<P>In Honour of His <HI>Majesties</HI> Establishment in the Throne of His Ancestours.</P>
+<P><HI>LONDON:</HI></P>
+<P>Printed by <HI>Iames Cottrel.</HI> MDCLX.</P>
+</DIV1>
+<DIV1 LANG="lat" TYPE="epigram">
+<PB REF="2">
+<HEAD>Ad celsis. Majestatem Regis Britanniae, EPIGRAMMA.</HEAD>
+<L><HI>CArole</HI> Pellaeus Iuvenis tibi porrigat Herbam:</L>
+<L>Ne jactet Trabeas <HI>Roma</HI> superba feras.</L>
+<L>Auxit Thyrsigeri rixosa Triphaea Tyranni</L>
+<L><HI>AEmathius:</HI> Mersa est sic sua <HI>Fama</HI> cado.</L>
+<L>Caesar <HI>(Terrarum Dominus)</HI> fere vicit inermes;</L>
+<L>Nudos Majores; <HI>Terra Britanna</HI> tuos.</L>
+<L><HI>Carolus Angligenas</HI> validos <HI>patiendo subegit:</HI></L>
+<L><HI>Angligenas</HI> rabidos; <HI>Ille ferendo fugat.</HI></L>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="poem">
+<PB N="1" REF="2">
+<HEAD>AN Heroick Poem.</HEAD>
+<L>AM I intranc'd; or is it <HI>Plato</HI>'s year;</L>
+<L>For all things in their pristine shapes appear?</L>
+<L>Time turns his <HI>Annals</HI> to that very Page,</L>
+<L>Wherein is Chronicled the <HI>Golden Age.</HI></L>
+<L>Divine <HI>Astraea,</HI> who was long since sent</L>
+<L>By deprav'd <HI>Nature,</HI> into Banishment;</L>
+<L>(Seeing her Elder Sister <HI>Mercy</HI> kneel</L>
+<L>To Supreme <HI>Iove,</HI> that He the Wounds would heal,</L>
+<L>Which <HI>England</HI> owes to an Intestine Broil;</L>
+<L>Where, seduc'd <HI>Zeal,</HI> gave <HI>Loyalty</HI> the Foil:)</L>
+<L>Leapt from the Clouds, and did the blest News bring,</L>
+<L>That, True Contrition should obtain a KING.</L>
+<L>The stranger <HI>Iustice,</HI> sent Post from the Skie;</L>
+<L><HI>Penia,</HI> and her Renegado's flie.</L>
+<L><HI>Detested Poverty avoids those Lands,</HI></L>
+<L><HI>Where Iustice, over Interest commands.</HI></L>
+<L>But as harsh Notes, make their Associates sweet;</L>
+<L>Our Thoughts may by a sad Reflection meet</L>
+<L>With those fierce Tempests, which did fall upon</L>
+<L>The <HI>Cedars</HI> of our British <HI>Libanon.</HI></L>
+<L><PB N="2" REF="3">A greater Wonder scarce saluteth Ears,</L>
+<L>Then that of Men to diet with the Bears,</L>
+<L>In unfrequented <HI>Groinland;</HI> till the Sun,</L>
+<L>Did from the <HI>Goat,</HI> unto the <HI>Creafish</HI> run.</L>
+<L>Come hither, <HI>Stoick,</HI> and thou shalt confess</L>
+<L>It Torture, for to trace a Wilderness</L>
+<L>Of twenty years Confusion; when the <HI>Laws</HI></L>
+<L>Were form'd in <HI>Cutlers Shops;</HI> and the GOOD CAUSE</L>
+<L>Wanted a <HI>Catechresis</HI> to make out</L>
+<L>Her Epithite: Though conversant about</L>
+<L>The good Estates of <HI>Heroes;</HI> whom no frown,</L>
+<L>Could force, or <HI>King,</HI> or <HI>Conscience</HI> to disown.</L>
+<L>The <HI>Pope</HI> was curs'd for arrogating; We</L>
+<L>To <HI>Peters</HI> gave Infallibility.</L>
+<L>Who was the first <HI>Evangelist</HI> promulg'd</L>
+<L>No Tribute due to <HI>Caesar.</HI> And indulg'd</L>
+<L>Was <HI>Bradshaw,</HI> that remorseless <HI>Parricide;</HI></L>
+<L>Who <HI>Pilate</HI> in <HI>Bloud-guiltiness</HI> out-vi'd:</L>
+<L>Fear nursed his Crime; but our <HI>Iew</HI> did cry,</L>
+<L>Not out of Dread, but Malice, <HI>Crucifie.</HI></L>
+<L>Let not <HI>Alexis,</HI> and <HI>Menalcas</HI> tell,</L>
+<L>Black-Moondaies <HI>Eclipse</HI> scorns a Parallel:<NOTE PLACE="marg">1652. <HI>Mar.</HI> 29.</NOTE></L>
+<L>The fourth part of a Digit then was Light;</L>
+<L>But on <HI>Black-Tuesday,</HI> was <HI>Black-Tuesday</HI> Night<NOTE PLACE="marg">1648. <HI>Ian.</HI> 30.</NOTE></L>
+<L>Our <HI>Sun</HI> put on a Mask; no friendly <HI>Star</HI></L>
+<L>(But that which shin'd Ten Springs before the War,</L>
+<L><PB N="3" REF="3">In the Day-time;) gave leave to look for Hope:</L>
+<L><HI>Intrat Tyrannus; Freedom</HI> was the scope</L>
+<L>The Vulgar levell'd at, and a <HI>Free State:</HI></L>
+<L>Permit them but the <HI>Name,</HI> the <HI>Thing they'l bate.</HI></L>
+<L>The many-headed Rabble was the <HI>Moon,</HI></L>
+<L>Eclips'd our <HI>Sun;</HI> and made a glorious Noon,</L>
+<L>Cover its white skin with a <HI>Midnight</HI> vail:</L>
+<L>For the old <HI>Serpent,</HI> was the <HI>Dragons Tail;</HI></L>
+<L>And a pretended <HI>Parliament,</HI> the Head:</L>
+<L><HI>Hic sita est: Great Britain here lies dead.</HI></L>
+<L>So Rancour, in a <HI>Regal Tragaedy:</HI></L>
+<L>Summ'd up the Total of <HI>Mans misery.</HI></L>
+<L>And thorny <HI>Satyrs,</HI> can no further tax</L>
+<L>Than this: Their <HI>King</HI> felt the <HI>Rebellious Ax.</HI></L>
+<L>For when the fatall Arrow strikes the <HI>Hart,</HI></L>
+<L>In vain do <HI>Rascal Deer,</HI> complain of smart.</L>
+<L>It was lost labour for poor <HI>Cavaliers</HI></L>
+<L>To exclaim, <HI>Billows,</HI> wash'd ore head and ears;</L>
+<L>Suppose they escap'd drowning, 'twas enough:</L>
+<L>If not <HI>praise-worthy,</HI> to insulting <HI>Buff.</HI></L>
+<L>For if the <HI>Laws</HI> do Anarchy resist,</L>
+<L>An half-blind <HI>Cobler</HI> may act what he list.</L>
+<L>But newly-wean'd Experience, verifies,</L>
+<L>When <HI>AEsops</HI> Fox free-quarter'd the old <HI>Flies,</HI></L>
+<L>That he was prudent. Doubtless some have found,</L>
+<L><HI>Ship-money,</HI> and an hundred thousand pound</L>
+<L><PB N="4" REF="4"><HI>Per mensem</HI> for to differ. <HI>Who were nice</HI></L>
+<L><HI>To give Necessity; serv'd Avarice.</HI></L>
+<L>Stupendious <HI>Rome,</HI> split not upon the <HI>Rocks</HI></L>
+<L><HI>Of a Free State;</HI> till <HI>Sol</HI> the <HI>AEquinox</HI></L>
+<L>Four hundred Ninety times had kiss'd: But <HI>Fate</HI></L>
+<L>Lop'd off in <HI>Three years</HI> the <HI>Decemvirate.</HI></L>
+<L>And the <HI>State</HI> remain'd spurious; until she</L>
+<L>Chose <HI>Iulius Caesar</HI> PATER PATRIAE</L>
+<L>Who brought her <HI>Scepter</HI> beyond the extent</L>
+<L>Of <HI>Latium;</HI> and the <HI>Gauls</HI> large continent.</L>
+<L><HI>Augustus</HI> by adoption was his <HI>Heir;</HI></L>
+<L>Who rather seem'd to build, than to repair</L>
+<L><HI>The Worlds chief City.</HI> Thus doth MONARCHIE,</L>
+<L><HI>Empires</HI> enlarge, and <HI>Cities</HI> beautifie.</L>
+<L>What if the Monster <HI>Nero</HI> would destroy</L>
+<L>Mount <HI>Palatine:,</HI> to Act the flames of <HI>Troy?</HI></L>
+<L>And to make sure he should begin the List</L>
+<L>Of <HI>Tyrants;</HI> turn'd wretched <HI>Anatomist?</HI></L>
+<L>Yet still the Rule is valid. <HI>Romans</HI> now</L>
+<L>To an <HI>Usurpers Sword</HI> their Necks did bow.</L>
+<L>Coelestial Justice, aptly punish'd thus</L>
+<L>The Treason, to their Prince <HI>Britannicus;</HI></L>
+<L>The Legal <HI>Heir.</HI> Suffer proud <HI>Rome</HI> to burn:</L>
+<L><HI>A murder'd</HI> KING, deserves <HI>A sumptuous Urn.</HI></L>
+<L>A Bargain then; <HI>Phanatick Sophister!</HI></L>
+<L>You shall quote NERO: I'll vouch OLIVER.</L>
+<L><PB N="5" REF="4">How Rampant were the <HI>English Lyons,</HI> when</L>
+<L>Third <HI>Edward,</HI> and his <HI>Son</HI> seem'd more than <HI>Men?</HI></L>
+<L>Arithmetick the Number can't comprize</L>
+<L>Of <HI>French Gallants,</HI> who had their <HI>Elegies,</HI></L>
+<L>Pen'd by the <HI>Grey Goose Wing;</HI> when streined <HI>Yewe</HI></L>
+<L>Made charging <HI>Horses,</HI> and their <HI>Riders</HI> rue.</L>
+<L>By scarsity, Fifth <HI>Henry</HI> did enhance</L>
+<L>The <HI>Gentries</HI> value, in lamenting <HI>France.</HI></L>
+<L>And our fore-Fathers, under the command</L>
+<L>Of <HI>Coeur' de Lyon,</HI> snatch'd the Holy Land</L>
+<L>From the provoking <HI>Turk.</HI> A <HI>Virgin Queen</HI></L>
+<L>Was too Athletick, for the <HI>Spanish spleen,</HI></L>
+<L>To hurt with <HI>Melancholy fumes.</HI> Her <HI>Drake,</HI></L>
+<L>Was <HI>Draco Volans;</HI> and did undertake</L>
+<L>To conquer the <HI>Invincible Half Moon:</HI></L>
+<L>Whose Face put on a Scarlet Hue, as soon</L>
+<L>As the Fire-Ship approach'd; which made some swear</L>
+<L>That <HI>Purgatories</HI> place was found: for there</L>
+<L>Was <HI>Flames; Howlings;</HI> and to augment the Pain,</L>
+<L>They thought t'<HI>Enslave;</HI> but wore themselvs the <HI>Chain.</HI></L>
+<L>Thus the Realm flourish'd under Regal Power:</L>
+<L>Yet <HI>Edward</HI> did contrive the fatal Hour,</L>
+<L>Of his weak Father. And <HI>Henry,</HI> when Prince,</L>
+<L>Was branded with such Crimes, as might evince</L>
+<L>Defect of <HI>Morals.</HI> And her Sister <HI>Scot,</HI></L>
+<L>Cast on <HI>Elisa,</HI> an Eternal <HI>Blot.</HI></L>
+<L><PB N="6" REF="5">But not one Blemish could a Mortal finde,</L>
+<L>In our Late KING; That <HI>Darling of Mankinde:</HI></L>
+<L>A sober <HI>Ethnick</HI> is compell'd to think,</L>
+<L><HI>Curtius</HI> deserving, when he clos'd the chink,</L>
+<L>Threatning his <HI>Countries</HI> Ruine: Though to save</L>
+<L>The Multitude, He found an hasty <HI>Grave.</HI></L>
+<L>How much are truly <HI>Pious</HI> bound to prize</L>
+<L>His <HI>Memory,</HI> who for <HI>Religion,</HI> dies?</L>
+<L>Who chooseth rather to become a Prey;</L>
+<L>Then free-born Subjects <HI>Liberty</HI> betray?</L>
+<L>CHARLES <HI>shall be Sainted:</HI> who hath overcome</L>
+<L>Envies <HI>Armado,</HI> by a <HI>Martyrdom.</HI></L>
+<L>But as inspired <HI>Socrates</HI> had Health,</L>
+<L>When an Infection reap'd the Commonwealth</L>
+<L>Of <HI>Athens;</HI> 'cause his <HI>stomach</HI> was so clean,</L>
+<L>It did not know what <HI>crudities</HI> might mean:</L>
+<L>So select souls, in <HI>Europes greatest Isle,</HI></L>
+<L>Would not admit <HI>Rebellion</HI> to defile</L>
+<L>Or <HI>Words,</HI> or <HI>Actions;</HI> being not opprest</L>
+<L>In mind with <HI>Prejudice,</HI> or <HI>Interest.</HI></L>
+<L>Some despicable <HI>Youngsters</HI> did combine,</L>
+<L>With the notorious Villain <HI>Catiline,</HI></L>
+<L>To kill their <HI>common Mother:</HI> But the chief</L>
+<L>Of <HI>Orators,</HI> perswaded quick Relief.</L>
+<L>The <HI>Optimates,</HI> and such <HI>Magistrates,</HI></L>
+<L>As could vaunt <HI>Images,</HI> shew fair <HI>Estates;</HI></L>
+<L><PB N="7" REF="5">Guarded the <HI>Publick:</HI> And <HI>themselves</HI> thereby,</L>
+<L>From loss of <HI>Fortune;</HI> gain of <HI>Infamy.</HI></L>
+<L>In the <HI>Engagements of late time,</HI> though some</L>
+<L><HI>Good eyes,</HI> were cheated with the Medium</L>
+<L>Of <HI>candied Remonstrance;</HI> (<HI>whilst men be,</HI></L>
+<L><HI>'Tis possible they trip on Frailty</HI>)</L>
+<L>Yet no legitimate <HI>Nobility,</HI></L>
+<L>Or who had Badges of <HI>Gentility,</HI></L>
+<L><HI>Border'd</HI> with <HI>Vertue, Mantled</HI> with <HI>Pretence;</HI></L>
+<L><HI>Cordial,</HI> and <HI>upright;</HI> ever could dispence</L>
+<L>With dutiful <HI>Allegiance:</HI> Or did rend</L>
+<L>The <HI>Ermin Robes,</HI> for a base private end.</L>
+<L>Whom <HI>Errour</HI> misled, <HI>are turn'd Proselytes;</HI></L>
+<L>And a desire that's <HI>National,</HI> invites</L>
+<L><HI>Secular Hereticks,</HI> for to comply;</L>
+<L>Not to draw <HI>stakes;</HI> but in <HI>sincerity.</HI></L>
+<L>Is it not time to quit an head-strong Rage;</L>
+<L>When our <HI>Convulsions</HI> have attain'd <HI>full Age?</HI></L>
+<L>And have not we <HI>Years of Discretion?</HI> See</L>
+<L>Discrepant <HI>Factions,</HI> in a <HI>Third</HI> agree;</L>
+<L><HI>In</HI> CHARLES <HI>the</HI> GREAT; <HI>or Second of that Name:</HI></L>
+<L><HI>And the Third</HI> MONARCH, <HI>married</HI> TWEED <HI>to</HI> THAME.</L>
+<L><HI>Natures Musitians in the Air,</HI> employ</L>
+<L>Their slender Throats, as ecchoes to Mans <HI>Ioy.</HI></L>
+<L><HI>Flora,</HI> in the <HI>Kings Colours</HI> takes delight:</L>
+<L>And wears a Tulip, PURPLE; GREEN; and WHITE.</L>
+<L><PB N="8" REF="6">The <HI>Halcyon</HI> never used to appease</L>
+<L>Tempestuous Seas, till setting <HI>Pleiades</HI></L>
+<L>Usher'd the <HI>Winter;</HI> Now she brings <HI>fair daies;</HI></L>
+<L>And <HI>Neptune Tethys</HI> treats, with <HI>Masques</HI> and <HI>Playes.</HI></L>
+<L>The scaly Regiments all Muster there,</L>
+<L>Except the <HI>Meermaid;</HI> hindred by a fear</L>
+<L>Of meeting <HI>Princely Dolphins;</HI> who would carp,</L>
+<L>At their supporting of the <HI>Cross</HI> and <HI>Harp:</HI></L>
+<L>And justly might with rigidness reprove,</L>
+<L>Prompted by <HI>Honour,</HI> and <HI>Arions</HI> Love;</L>
+<L>Whose Instrument was strook with <HI>Iollity;</HI></L>
+<L>When <HI>Englands Face</HI> resembled <HI>Niobe.</HI></L>
+<L>Doth the profound <HI>Philosopher</HI> desire,</L>
+<L>To see the pure, and unconsuming <HI>Fire,</HI></L>
+<L>Which neighbours on the <HI>Moon;</HI> let him mount high</L>
+<L>His eyes, when <HI>Londons bone-fires</HI> roost the Skie,</L>
+<L>And what is voyc'd invisible he'll see;</L>
+<L>And quarrell at the <HI>Aires Triplicity</HI></L>
+<L>Of <HI>Regions;</HI> since the <HI>Fire</HI> is next to <HI>Earth:</HI></L>
+<L>Thoughts of this kind have scarcely atchieved Birth,</L>
+<L>But the <HI>Moncks powder&punc;</HI>thunders; lightens; now,</L>
+<L>The <HI>Middle</HI> doth disseise the <HI>Fire;</HI> and Low.</L>
+<L>Thus in amazement, arguing from hence,</L>
+<L>An unbelieving <HI>Sceptick</HI> doth commence.</L>
+<L>FIRE, AIR, EARTH, WATER, in a <HI>Chorus</HI> sing</L>
+<L>An <HI>Io Paean:</HI> Or, <HI>GOD SAVE THE KING.</HI></L>
+<L><PB N="9" REF="6"><HI>Ships</HI> are our <HI>Forts.</HI> Our <HI>Pilot's</HI> not to learn</L>
+<L>(And that without a <HI>Trope</HI>) to hold the <HI>Stern.</HI></L>
+<L>Three <HI>Languages</HI> made any heretofore,</L>
+<L>A Prodigy: Our <HI>Gracious Lord</HI> speaks more.</L>
+<L>But in a strict sense, <HI>Words</HI> no more comprise</L>
+<L>Of <HI>worth,</HI> than <HI>Parrets prating</HI> signifies;</L>
+<L>Or File of <HI>Cyphers,</HI> which are nothing <HI>all;</HI></L>
+<L>Unless a Figure make <HI>Numerical.</HI></L>
+<L><HI>The Nations Patron,</HI> hath pleas'd to confer</L>
+<L>The honour of a <HI>Privy Counsellour,</HI></L>
+<L><HI>On History: That Bosome-friend of time;</HI></L>
+<L><HI>And Calculation, fit for every Clime.</HI></L>
+<L>This shews, King <HI>Codrus</HI> gave his life to buy</L>
+<L><HI>Athens,</HI> a controverted <HI>Victory.</HI></L>
+<L>If <HI>Caesars</HI> justly mannag'd <HI>Axe,</HI> and <HI>Rodds;</HI></L>
+<L><HI>Caesars</HI> liv'd <HI>Happy:</HI> were at death made <HI>Gods.</HI></L>
+<L>Because the bloud of <HI>Innocents</HI> was spilt;</L>
+<L><HI>Domitian</HI> was broke on the Wheel of <HI>Guilt.</HI></L>
+<L>In sport LYSANDERS <HI>Thirty Bloud-hounds</HI> kill:</L>
+<L><HI>No Laws are cruel; if compar'd to</HI> WILL.</L>
+<L>What <HI>Factions</HI> root up <HI>Kingdoms,</HI> she relates:</L>
+<L>What <HI>Lapses,</HI> depose mighty <HI>Potentates.</HI></L>
+<L>A <HI>Ruler</HI> without <HI>History</HI> is blind.</L>
+<L><HI>Self-love,</HI> will be industrious not to find</L>
+<L>A <HI>Parasites deceptions;</HI> or do <HI>Right,</HI></L>
+<L>Unless a <HI>Bribe</HI> bespeaks a FAVORITE.</L>
+<L><PB N="10" REF="7">I purposely omit the Title <HI>Iust:</HI></L>
+<L>Not to judge that, is bottomless distrust.</L>
+<L>All <HI>Ethicks</HI> is an Inmate to the Man,</L>
+<L>Whom <HI>study</HI> dubs compleat <HI>Historian.</HI></L>
+<L>His <HI>Active valour</HI> was at WORCESTER shown:</L>
+<L>His <HI>Passive</HI> to the <HI>Universe</HI> is known.</L>
+<L>But as an <HI>Eagle,</HI> credits common Fowl;</L>
+<L>And brittle <HI>Bodies,</HI> have an high-born <HI>Soul;</HI></L>
+<L>So may we in <HI>Renowned</HI> CHARLES behold</L>
+<L>A radiant <HI>Iewel,</HI> in recited <HI>Gold.</HI></L>
+<L>RELIGION adorns VERTUE: <HI>Kingdoms Three,</HI></L>
+<L><HI>Require in Graces AEquipollency.</HI></L>
+<L>When Subjects fail'd; His <HI>Faith</HI> rely'd upon</L>
+<L>The Holy, Holy, TETRAGRAMMATON.</L>
+<L>The <HI>Verdict</HI> of twelve gloomy years, attest</L>
+<L><HI>Hope</HI> the Consort, of his couragious <HI>Breast.</HI></L>
+<L>And who enquires after his CHARITY,</L>
+<L>Cannot deride CORVINUS MEMORY.</L>
+<L>Did he FORGIVE? As if it were a Task,</L>
+<L>Too scratching for an <HI>Enemy</HI> to ask;</L>
+<L>MERCY was profer'd; which did circumvent</L>
+<L>An unsophisticated PARLIAMENT,</L>
+<L>By a devout <HI>Prolepsis.</HI> For which <HI>Fame</HI></L>
+<L><HI>An Obelisk</HI> shall build to his Great <HI>Name.</HI></L>
+<L>Add to these, CONSTANCY; A splendid <HI>Gemme,</HI></L>
+<L>That darts its Lustre through the <HI>Diadem.</HI></L>
+<L><PB N="11" REF="7"><HI>The Romish Church,</HI> (though she held out her Armes)</L>
+<L>Could not entice <HI>Him,</HI> by the potent Charmes</L>
+<L>Of profuse <HI>Promises;</HI> and did in vade</L>
+<L>His <HI>Resolves,</HI> with the <HI>Loyola Brigade.</HI></L>
+<L>A <HI>Ship at Anchor,</HI> the Seas Wrath out&punc; braves:</L>
+<L>Slighting the fury of rebounding <HI>Waves.</HI></L>
+<L>Or as a <HI>Faithful Garrison,</HI> counts trash</L>
+<L>Smooth Agitations of th' Assailants <HI>Cash.</HI></L>
+<L>What if the Blockers up, (<HI>when</HI> GOLD <HI>shall fail</HI>)</L>
+<L>Showres down <HI>Bravadoes</HI> in revengeful <HI>Hail?</HI></L>
+<L>His two-edg'd Machination proves in vain:</L>
+<L>Here a <HI>Good Cause,</HI> undaunted <HI>Hands</HI> maintain.</L>
+<L>So <HI>our</HI> FAITHS <HI>Standard-Bearer,</HI> stood His Ground:</L>
+<L>When GIFTS, when SOPHISTRY, begirt him round.</L>
+<L>A <HI>Black stone</HI> streak'd with <HI>White,</HI> (which Authors call</L>
+<L><HI>Agathos</HI>) frees from all <HI>Terrestrial</HI></L>
+<L><HI>Dangers,</HI> and <HI>Discontents;</HI> and it exempts</L>
+<L>From <HI>Loss,</HI> and <HI>Detriment</HI> in all <HI>Attempts.</HI></L>
+<L>The <HI>Black stone</HI> is <HI>Affliction;</HI> the white <HI>Veines,</HI></L>
+<L>Are <HI>Souls,</HI> she scours from <HI>Unrepented staines.</HI></L>
+<L>This is the <HI>Shield</HI> repulsing <HI>Mortal</HI> Sins,</L>
+<L>And <HI>gross Imprudence;</HI> who so wears her, wins</L>
+<L>ALL PALMS. The <HI>Earth,</HI> as knowing how to use:</L>
+<L>And <HI>Heaven</HI> it self; by watching lest he lose.</L>
+<L>This strickt <HI>Lycaeum, CHARLES</HI> did educate:</L>
+<L>Who is in Tribulation GRADUATE.</L>
+<L><PB N="12" REF="8">And Scholars know, twelve years <HI>Non-Regency</HI></L>
+<L>Will make a DOCTOR of DIVINITY:</L>
+<L>Kind <HI>Providence</HI> hath bless'd us with a <HI>King:</HI></L>
+<L>Whose <HI>Aristotle,</HI> was his <HI>Suffering.</HI></L>
+<L>Fancy a wealthy <HI>Mariners</HI> return</L>
+<L>From Sun-burnt <HI>India,</HI> whose watry <HI>Urn,</HI></L>
+<L>Rumour had long since form'd; view how his <HI>Wife</HI></L>
+<L>Starts at the surprize of a dubious <HI>Life:</HI></L>
+<L>And hardly reconciling HOPE, and FEARS;</L>
+<L>She wafts him to her LIPS, in joyous TEAES.</L>
+<L><HI>Great Sir!</HI> your espous'd <HI>Kingdom,</HI> fear'd the <HI>Crown</HI></L>
+<L>Should fall into <HI>Distractions Gulf,</HI> and drown;</L>
+<L>When <HI>Pikes,</HI> and <HI>Bandaliers,</HI> were the sole <HI>Helm:</HI></L>
+<L>And many thousand <HI>Centaurs,</HI> steer'd the <HI>Realm.</HI></L>
+<L>But when you came within few Leagues of PORT;</L>
+<L>Her <HI>Prayers</HI> went your Harbingers to <HI>Court.</HI></L>
+<L>And in proportion to that solemn rate:</L>
+<L>The <HI>Heliconian Nymphs, Congratulate.</HI></L>
+<L>Nor shall stout MONCK; seek his <HI>Arrears of Praise;</HI></L>
+<L>Let <HI>Gratitude,</HI> cut down a <HI>Grove of Bayes,</HI></L>
+<L>To Crown his <HI>Head:</HI> who without <HI>Angry word,</HI></L>
+<L><HI>Did braver Exploits than</HI> ACHILLES SVVORD.</L>
+<L><HI>Grass covers not the top of Royal Mines:</HI></L>
+<L><HI>Nor should Words Fly-blow exquisite designs.</HI></L>
+<L><HI>Counsel (like Essence) expects stopping well:</HI></L>
+<L><HI>Or bid Adieu to the perfuming smell.</HI></L>
+<L><PB N="13" REF="8">Moyst APRIL shall attend on florid MAY.</L>
+<L>Whose EIGHT, thy <HI>Worth</HI> enstall'd St <HI>Georges day.</HI></L>
+<L>And since from Alli'd SCOTLAND you came forth,</L>
+<L>The PROVERB'S outlaw'd: <HI>Good comes from the North.</HI></L>
+<L>Lift up thy Head, old <HI>Worcester!</HI> and confess</L>
+<L><HI>Horrour</HI> the Epilogue of <HI>Wickedness.</HI></L>
+<L>Though thou wert blasted with a jealous eye:</L>
+<L>A <HI>Plaudit</HI> now attends thy LOYALTY.</L>
+<L>For dutiful <HI>endeavours,</HI> unto this</L>
+<L>May be subjoyn'd the fam'd <HI>Metropolis.</HI></L>
+<L>Whose DAGGER to the BACK-SWORD rendring place;</L>
+<L>Great want of TRADING gave REPENTANCE space.</L>
+<L>It was full time to beg a REGAL TOUCH:</L>
+<L>When this <HI>Kings-Evill</HI> did afflict so much.</L>
+<L>Have ye not seen an Infant, <HI>Fat</HI> and <HI>Fair;</HI></L>
+<L>Whilest to his <HI>Mothers Milk</HI> he might repair:</L>
+<L>Commit him to a STEPDAMES cruel care,</L>
+<L>His <HI>Cheeks</HI> grow hollow; and his <HI>Iaw-bones</HI> bare.</L>
+<L>In a good <HI>Mood,</HI> she may allow him <HI>Meat:</HI></L>
+<L>But <HI>Tears</HI> shall moysten what the poor <HI>Child</HI> eat.</L>
+<L>To hide her <HI>shame,</HI> she will afford fine <HI>Cloaths:</HI></L>
+<L>Lest Prints of <HI>Stripes,</HI> and <HI>Pinches</HI> shew, she Loaths.</L>
+<L><HI>Hunger,</HI> and <HI>Thirst,</HI> nay <HI>Blows,</HI> can't satiate:</L>
+<L>Unless his <HI>Father</HI> be induc'd to <HI>Hate.</HI></L>
+<L>CHARLES with <HI>maternal Care,</HI> kept LONDON plump:</L>
+<L>But O the <HI>Claws,</HI> of the <HI>Novercal</HI> RUMP.</L>
+<L><PB N="14" REF="9">Know thy felicity; be fix'd at length:</L>
+<L>RELAPSES conquer half consumed <HI>Strength.</HI></L>
+<L>That ever thou <HI>Apostatiz'd,</HI> is Strange:</L>
+<L>Since the word <HI>Royal,</HI> comes before <HI>Exchange.</HI></L>
+<L>'Tis Perseverance onely can advance:</L>
+<L>The <HI>Crown,</HI> the <HI>Crown's,</HI> thy <HI>Cap of Maintenance.</HI></L>
+<L>Rouse <HI>Understanding!</HI> Manacle my <HI>Sence;</HI></L>
+<L>Demonstrate how a swift <HI>Intelligence,</HI></L>
+<L>Acteth his distinct <HI>Orb:</HI> with what <HI>Tube</HI> shall</L>
+<L>I gaze upon an <HI>Immaterial?</HI></L>
+<L>But let not <HI>Curiositie,</HI> be bold</L>
+<L>To disturb <HI>Spirits;</HI> since it may behold</L>
+<L><HI>Sublimer Objects:</HI> And will then prefer</L>
+<L>For wise <HI>Intelligences,</HI> WEST MINSTER.</L>
+<L>In that most grave <HI>Assembly,</HI> every <HI>Man</HI></L>
+<L>Is to his <HI>Sphere, An Angel Guardian:</HI></L>
+<L>Our <HI>Balsam</HI> dropt not from the <HI>Major Part;</HI></L>
+<L>Three hundred <HI>Members,</HI> had a single <HI>Heart.</HI></L>
+<L>The <HI>Commons</HI> vote; <HI>Assent</HI> flies from the <HI>Lords:</HI></L>
+<L><HI>Time</HI> was not spent in nicities of <HI>Words.</HI></L>
+<L><HI>Sixty</HI> the <HI>Golden Number,</HI> hence shall be:</L>
+<L>Your Speaker, <HI>Fame;</HI> your <HI>Rolls, Eternitie.</HI></L>
+<L>THE KING ENJOYS HIS OWN; sing <HI>Civil State!</HI></L>
+<L>And let the <HI>Clergie</HI> say; MAGNIFICAT.</L>
+<TRAILER>FINIS.</TRAILER>
+<PB REF="9">
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

@@ -1,0 +1,4203 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD EEBOPROOF 2.0//EN">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-09-25</DATE>
+<RESPSTMT>
+<NAME>John Latta</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate. Checked for N=""s. Checked for GROUP tags. Proofed title page. Checked ^s. Reviewed structure; removed many LGs and changed two Ls to Ps; moved SALUTE in CLOSER to contain "My Lord" and SIGNED to contain "Your..."; changed DIV4s to Q TEXT BODY DIV1s; removed BYLINE and put "spoken by FUMBLE" inside HEAD; added some missing unnumbered scene DIV3s; changed one Q to L and one P to L (for two-speaker couplet at end of 2nd act. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, oes, --s, and UNCLEARs. Corrected $s and $Word$s. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs and endqs, q;s, abq's, Ae's, and Qs. Checked for missing page GAPs. Checked for EPIGRAPHs and ARGUMENTS. Checked proofsheets and made corrections. Checked CLOSERs, TRAILERs, SIGNEDs, OPENERs, SALUTEs, BYLINEs. Sample: 5 minutes. Proofing: 20 minutes. Tag review and corrections: 65 minutes. DONE.</ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="A36975">
+<STC T="W">D2724</STC>
+<BIBNO T="oclc">11779716</BIBNO>
+<VID>48986</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1">
+<PB REF="1">
+<P>A Fond Husband: OR, <HI>The Plotting Sisters.</HI></P>
+<P>A COMEDY: As it is Acted at His <HI>Royal Highness</HI> THE DUKE's Theatre.</P>
+<Q>Haec, dum incipias, gravia sunt, dumque ignores, ubi cogn&ocirc;ris, facilia,
+<BIBL>Terent.</BIBL></Q>
+<P>Written by <HI>THO. DURFEY</HI> Gent.</P>
+<P>Licensed <HI>Iune</HI> 15. 1676.</P>
+<P><HI>ROGER L'ESTRANGE.</HI></P>
+<P><HI>LONDON:</HI> Printed by <HI>T. N.</HI> for <HI>Iames Magnes</HI> and <HI>Rich. Bentley,</HI> in <HI>Russel|street</HI> in <HI>Covent-Garden,</HI> near the Piazza's. 1677.</P>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="2">
+<PB REF="2">
+<HEAD>To His GRACE, The Duke of Ormond, Lord Steward of His Majesties Houshold, Knight of the Noble Order of the Garter, One of His MAJESTIES most Honourable Privy Council, <HI>&amp;c.</HI></HEAD>
+<OPENER><SALUTE>May it please your GRACE,</SALUTE></OPENER>
+<P>_THE Arrogance a Poet may be guilty of in a Dedication, often brings him more terror, than his fear for the success of his Play; and I al|ways thought the Frowns of an offended Patron a greater Punishment than the Censures of the Partial Criticks. But the Sin of Confidence is so natural to a young Poet, and so suitable to his Character and Business, that an Excuse, or Re|proof (as it would be extreamly unnecessary, so it) might perhaps be a hinderance to his For|tune. My sence of this, has encourag'd me to present this Comedy to your Grace; with this humble Suit, That as it has indifferently past in the Opinion of the Town, it may have the Ho|nour to stand as Neuter in your Graces Fa|vour:
+<PB REF="3">
+The greatest Confidence of a Poet can ask no more; nor can you, <HI>(My Lord)</HI> Govern'd by your Excellent Temper, grant less. This I know I need not repeat, nor urge a second time: For who ever yet made an Humble Address to your Grace, that went away unsatisfied? You are so far from Singularity, so Nobly Iust, and so unwearied in doing good, that to Pen your Applause, were as impossible a work, as to Pen the Actions of your Life, every hour producing some memorable thing as an Addition to the Vo|lume. <HI>My Lord,</HI> 'Tis not only my particular Grief, but every ones for your Graces depar|ture from <HI>England:</HI> And though the great Place of Trust conferred upon you by His <HI>Sacred Majesty,</HI> (and which none can be more wor|thy of) gives us proof as well of your Pious Loyalty, as Unequal'd Grandeur; Yet such an Influence you have gain'd on all Hearts, that they had rather the Kingdom of <HI>Ireland</HI> should lose its Preserver, than they so good a Patron. This I confess I am most sensible of, perhaps having as much cause as any; which Relation I'll smother, lest it is thought Interest more than Gratitude makes me resent it.</P>
+<P><PB REF="3">If I have presumed too much, I have this Excuse, That a Dedication to such a Person cannot be VVrit without it; and 'tis the only Honour a Poet is ambitious of, to have a great Name before his Play. I confess I was guilty of this; and have only this Excuse for the Ar|rogance of a Dedication, That your Grace was pleas'd to favour my Last, and that this was VVrit with the same Integrity. For the Play I can say nothing; only that it was my own, though some are pleas'd to doubt the contrary, (the <HI>Scotch Song</HI> excepted, a part of which was not mine; nor do I desire any Reputation from it.) Be pleased, <HI>My Lord,</HI> to forgive this Prolixity; and believe my sence of the Honour I have in Addressing to your Grace, almost equals the Ambition I shall ever own, in Stiling my Self,</P>
+<CLOSER><SALUTE>My LORD,</SALUTE> <SIGNED>Your GRACES most Humble and most Obedient Servant,
+<HI>THO. DURFEY.</HI></SIGNED></CLOSER>
+</DIV1>
+<DIV1 TYPE="dramatis personae">
+<PB REF="4">
+<HEAD>Drammatis Personae.</HEAD>
+<P><TABLE>
+<ROW>
+<CELL><HI>RAshley,</HI> a Gentleman, Friend to <HI>Emillia.</HI></CELL>
+<CELL>Mr. <HI>Smith.</HI></CELL>
+</ROW>
+<ROW>
+<CELL><HI>Ranger,</HI> his Rival.</CELL>
+<CELL>Mr. <HI>Harris.</HI></CELL>
+</ROW>
+<ROW>
+<CELL><HI>Perrgrine Bubble,</HI> A credulous fond Cuckold, Husband to <HI>Emillia.</HI></CELL>
+<CELL>Mr. <HI>Iames Nokes.</HI></CELL>
+</ROW>
+<ROW>
+<CELL><HI>Old Fumble,</HI> a superannuated Al+derman, that dotes on Black Women: He's very deaf, and almost blind; and seeking to cover his imperfection of not hearing what is said to him, an|swers quite contrary.</CELL>
+<CELL>Mr. <HI>Anth. Leigh.</HI></CELL>
+</ROW>
+<ROW>
+<CELL>Sir <HI>Roger Petulant,</HI> a jolly old Knight of the last Age.</CELL>
+<CELL>Mr. <HI>Sandford.</HI></CELL>
+</ROW>
+<ROW>
+<CELL><HI>Sneak,</HI> Nephew to Sir <HI>Roger,</HI> a young raw Student.</CELL>
+<CELL>Mr. <HI>Ievan.</HI></CELL>
+</ROW>
+<ROW>
+<CELL><HI>Spatterdash,</HI> Servant to <HI>Fumble.</HI></CELL>
+<CELL ROWS="2">Mr. <HI>Richards.</HI></CELL>
+</ROW>
+<ROW>
+<CELL><HI>Ieremy,</HI> Servant to <HI>Rashley.</HI></CELL>
+</ROW>
+<ROW>
+<CELL><HI>Apothecary.</HI></CELL>
+<CELL>Mr. <HI>Percival.</HI></CELL>
+</ROW>
+<ROW>
+<CELL><HI>Emillia,</HI> Wife to <HI>Bubble.</HI></CELL>
+<CELL>Mr. <HI>Barrer.</HI></CELL>
+</ROW>
+<ROW>
+<CELL><HI>Maria,</HI> Sister to <HI>Bubble.</HI></CELL>
+<CELL>Mrs. <HI>Marshal.</HI></CELL>
+</ROW>
+<ROW>
+<CELL><HI>Cordelia,</HI> Niece to <HI>Bubble.</HI></CELL>
+<CELL>Mrs. <HI>Hughes.</HI></CELL>
+</ROW>
+<ROW>
+<CELL><HI>Betty,</HI> Woman to <HI>Emillia.</HI></CELL>
+<CELL>Mrs. <HI>Napper.</HI></CELL>
+</ROW>
+<ROW>
+<CELL><HI>Governess.</HI></CELL>
+<CELL>Mrs. <HI>Norrice.</HI></CELL>
+</ROW>
+<ROW>
+<CELL COLS="2">Servants and Attendants.</CELL>
+</ROW>
+</TABLE></P>
+</DIV1>
+<DIV1 TYPE="publisher's advertisement">
+<PB REF="4">
+<HEAD>Some Books Printed for <HI>James Magnes</HI> and <HI>Richard Bentley.</HI></HEAD>
+<LIST>
+<ITEM><HI>PLato</HI>'s Apology of <HI>Socrates,</HI> or <HI>Phed<GAP DESC="illegible" REASON="blotted" EXTENT="1 letter">:</HI> Two Dialogues concerning the Immorta|lity of Mans Soul.</ITEM>
+<ITEM>A Natural History of the Passions.</ITEM>
+<ITEM>Country Wit.</ITEM>
+<ITEM><HI>Sophonisba.</HI></ITEM>
+<ITEM><HI>Nero.</HI></ITEM>
+<ITEM><HI>Augustus Caesar.</HI></ITEM>
+<ITEM><HI>Abdellazar.</HI></ITEM>
+<ITEM>Sir <HI>Timothy Tawdery.</HI></ITEM>
+<ITEM>Madam <HI>Fickle.</HI></ITEM>
+<ITEM>All Mistaken.</ITEM>
+<ITEM>English Monsieur.</ITEM>
+<ITEM><HI>Tartuff.</HI></ITEM>
+<ITEM><HI>Andromache.</HI></ITEM>
+<ITEM><HI>Calist<GAP DESC="illegible" REASON="faint" EXTENT="2 letters">.</HI></ITEM>
+<ITEM>Forced Marriage.</ITEM>
+<ITEM>The Fool turned Critick. In the Press.</ITEM>
+<ITEM>The second Part of the Happy Slave. In the Press.</ITEM>
+<ITEM>Moral Essays, the second Part. In the Press.</ITEM>
+</LIST>
+<LIST>
+<HEAD>English Novels New.</HEAD>
+<ITEM><HI>Zelinda.</HI></ITEM>
+<ITEM>Count <HI>Brion.</HI></ITEM>
+<ITEM>Happy Slave.</ITEM>
+</LIST>
+<LIST>
+<HEAD>French Novels.</HEAD>
+<ITEM>Princess <HI>Monferat.</HI></ITEM>
+<ITEM><HI>L' Heureux Esclave.</HI></ITEM>
+<ITEM><HI>L' Heureux Esclave,</HI> Second Part.</ITEM>
+<ITEM><HI>L' Heureux Esclave, troisieme Part.</HI> In the Press.</ITEM>
+<ITEM>A French Play Acted at <HI>Whitehall,</HI> Entituled, <HI>Rare-en-tout.</HI></ITEM>
+<ITEM>The Disorders of Love. In the Press.</ITEM>
+<ITEM>The Destruction of <HI>Ierusalem</HI> by <HI>Titus Vespatian,</HI> in two Parts.</ITEM>
+<ITEM>The Rival Queens, or the Death of <HI>Alexander</HI> the Great.</ITEM>
+<ITEM>The Plain-Dealer, by Mr. <HI>Wicher|ley.</HI></ITEM>
+<ITEM>Madam <HI>Fickle,</HI> or the Witty False One.</ITEM>
+<ITEM>A Fond Husband, or the Plotting Sisters.</ITEM>
+<ITEM>All these six last have been Printed these two last Terms.</ITEM>
+<ITEM>The Education of a Prince, being the second Volume of the Mo|ral Essays, is now in the Press.</ITEM>
+</LIST>
+</DIV1>
+<DIV1 TYPE="prologue">
+<PB REF="5" MS="y">
+<HEAD>Prologue.</HEAD>
+<L>IF Plot and Bus'ness Comical and New,</L>
+<L>Could please the Criticks that sit here to view,</L>
+<L>The Poet might have thought this Play would do.</L>
+<L>But in this Age Design no praise can get:</L>
+<L>You cry it Conversation wants, and Wit;</L>
+<L>As if the Obvious Rules of Comedy,</L>
+<L>Were only dull <HI>Grimace</HI> and <HI>Repart&eacute;e.</HI></L>
+<L>Such, Sirs, have been your Darlings prov'd of late:</L>
+<L>The Author therefore careless of his Fate,&mdash;</L>
+<L>And knowing Wit a Chattle hardly got,</L>
+<L>Has ventur'd his whole Stock upon a Plot:</L>
+<L>He says a Mock-Song, or a Smutty Tale,&mdash;</L>
+<L>Can please the Town; and why not this prevail?&mdash;</L>
+<L>I friendly told him, all that I could say,</L>
+<L>Was, that your Fancies lean'd the other way;</L>
+<L>And you lov'd Wenching better than his Play.</L>
+<L>For th' Body still you Luxury prepare;</L>
+<L>But let the Mind be desolate and bare:</L>
+<L>Thus lose your selves in the Worlds prudent thought,&mdash;</L>
+<L>Then strive to get Reprieve by finding fault.</L>
+<L><HI>A Critick is a Monster that can sway</HI></L>
+<L><HI>Only o'er Ignorance, and yet dares prey</HI></L>
+<L><HI>Upon that Power that form'd him out of Clay.&mdash;</HI></L>
+<L>Adulterate Age, where Prudence is a Vice,&mdash;</L>
+<L>And Wit's as scandalous as Avarice:&mdash;</L>
+<L>Yet in despight of this,&mdash;y'are Poets too;</L>
+<L>And what two Fops rail at, a third shall do.</L>
+<L>Upon our Priviledges you incroach,</L>
+<L>And with dull Rhimes the Noble Art debauch.</L>
+<L>For Writing Plays you scorn a Poets Name;</L>
+<L>A Bawdy Song's enough to get you fame:</L>
+<L>Where midst the Reputation that is due,</L>
+<L>You will be sure no man shall censure you.</L>
+<L>Yet though your Faction does infest the Town,</L>
+<L>There is a wise Cabal dares judge and own</L>
+<L>Desert and Wit, and our Endeavours Crown:</L>
+<L>To these we humbly Dedicate our Plays,</L>
+<L>Whilst at their Feet our Poets throw their Bays.</L>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="play">
+<PB N="1" REF="5">
+<HEAD>THE FOND-HUSBAND: OR, The <HI>PLOTTING SISTERS.</HI></HEAD>
+<DIV2 N="1" TYPE="act">
+<HEAD>ACT I.</HEAD>
+<DIV3 N="1" TYPE="scene">
+<HEAD>Scene 1.</HEAD>
+<STAGE>A Dining-Room, a Table, Shuttle-Cock and Battle-Dor's.</STAGE>
+<STAGE><HI>Rashley</HI> and <HI>Emilia</HI> sitting. <HI>Betty</HI> sings.</STAGE>
+<LG>
+<L>IN vain, Cruel Nymph, you my Passion despise,</L>
+<L>And slight a Poor Lover that languishing dies:</L>
+<L>Though Fortune my Name with no Titles endow'd;</L>
+<L>Yet fierce is my Passion, and warm is my Blood.</L>
+<L>Delay in Affection exalts an Amour;</L>
+<L>For he that loves often will soonest give o'er.</L>
+</LG>
+<LG N="2">
+<HEAD>2.</HEAD>
+<L>But Vigorous and Young I'll flee to thy Arms,</L>
+<L>Infusing my Soul in <HI>Elizium</HI> of Charms.</L>
+<L>A Monarch I'll be when I lie by thy side,</L>
+<L>And thy pretty Hand my Scepter shall guide;</L>
+<L>Till cloy'd with delight you confess with a Ioy,</L>
+<L>No Monarch so happy, so pleasant as I.</L>
+</LG>
+<SP>
+<SPEAKER>Rashley.</SPEAKER>
+<P>_BY Heav'n, There's nothing so dear to a free and generous Spirit, as this roving and uncontroul'd way of Love: Me thinks we live like Angels, and every Kiss brings a new life of pleasure.</P>
+</SP>
+<SP>
+<SPEAKER>Emilia.</SPEAKER>
+<P>You have reason to believe I think so, for suf|fering this early Visit from you in my Husbands absence; who, poor Man, went from me by break of day to see a Horse-Race a Mile beyond <HI>High-Gate.</HI></P>
+</SP>
+<SP>
+<PB N="2" REF="6">
+<SPEAKER>Rashley.</SPEAKER>
+<P>Nay, I confess, 'tis a sign of your kind resentment of my passion: Oh Heav'n! that happy thought has made me all rapture: I'll cherish it, Madam, as I would my Youth, or the best of all my Sences, the Sence of Feeling.</P>
+</SP>
+<SP>
+<SPEAKER>Emilia.</SPEAKER>
+<P>Cherish it rather as the means of keeping our love from my Husbands knowledge. Well! I swear the thought of my indirect plot sometimes makes me very melancholy.</P>
+</SP>
+<SP>
+<SPEAKER>Rashley.</SPEAKER>
+<P>Melancholy?&mdash;Fie, Madam, banish such thoughts for ever from your breast: If you are melancholy now, what would you have done, if I had not known you, when the Clog of your Consci|ence (I mean your Husband) would have been your perpetual plague, and given you cause for more melancholy than the contrivance of the plots you speak of?&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>Ay; but to break a Vow, Sir, a Vow: Little do you think what 'tis to break a Vow.</P>
+</SP>
+<SP>
+<SPEAKER>Rashley.</SPEAKER>
+<P>Little do I think? Madam, I thought you had known me so much a Gentleman, to imagine I know what belongs to the breaking a Vow as well as another man. To undeceive you, I have broke twenty Vows, that is, unnecessary Vows, (such as yours are!) nay, and with|out a scruple of Conscience: I thank my Stars, I'm of a tougher Con|stitution.</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>Besides, you consider not the other inconveniences; you know my Husband's Sister <HI>Maria</HI> loves you, and is of that untam'd, malici|ous nature, that she'll revenge my invading her propriety in your heart by discovering our love to my Husband: I know she plots it hourly; and tho' her pretence is the Honour of our Family, her real design is through her love to you.</P>
+</SP>
+<SP>
+<SPEAKER>Rashley</SPEAKER>
+<P>Never doubt your Husband, Madam, he has so strange a confidence in my fidelity, that to possess him otherwise, were utterly to take away the little sence is left him. You know he brought me to lodge in his house, which prudently I refus'd at first, and seemingly fled from the Heav'n I desir'd, to make him more importunate: Since I came here, you know how he has carrest me; and to colour my de|sign, and divert you, have feign'd a Mistriss in this quarter of the Town; and then, as if I spoke of her, have told him all that has past betwixt my self and you, at which the good-natur'd Creature has laught extreamly, and wisht me good luck a thousand times; and can we now doubt further success? By Heav'n, we cannot Madam.</P>
+</SP>
+<SP>
+<SPEAKER>Emilia.</SPEAKER>
+<P>Then you know there's another great obstacle; <HI>Ned Ranger</HI> has long profest a passion for me, and doubtless is not ignorant that my love for you is the cause of his no better success: A jealous man sees more than twenty others; and 'twill be very necessary for us to be careful of so dang'rous an Enemy.</P>
+</SP>
+<SP>
+<SPEAKER>Rashley.</SPEAKER>
+<P>Dang'rous?&mdash;not at all, Madam,&mdash;never think him
+<PB N="3" REF="6">
+so; success, which animates the Hero, and leads him on to greater en|terprizes than before he durst attempt, has cherisht hopes in me: Let me alone with him; and for thy part, Igad I'll turn thee loose to any Female-Devil on this side <HI>Lapland,</HI> either for plot or repart&eacute;e.</P>
+</SP>
+<SP>
+<SPEAKER>Emilia.</SPEAKER>
+<P>Yet still I fear the worst.</P>
+</SP>
+<SP>
+<SPEAKER>Rashley.</SPEAKER>
+<P>Fear nothing, Madam: Fear is the worst of passions, and in|cident to base, not noble Hearts; besides, our love, consider'd rightly, is a second-rate Innocence, where affection, not duty, bears preroga|tive; 'tis the great and primitive bus'ness of our Souls, suspition and fear came in by the by.</P>
+</SP>
+<STAGE>Enter <HI>Betty.</HI></STAGE>
+<SP>
+<SPEAKER>Betty.</SPEAKER>
+<P>Madam, Mr. <HI>Ranger,</HI> in spite of my resistance, has rudely prest into the House, and is just coming hither.</P>
+</SP>
+<SP>
+<SPEAKER>Emilia.</SPEAKER>
+<P>Call up the Footmen: Lock the door.&mdash;</P>
+</SP>
+<STAGE>Enter <HI>Ranger.</HI></STAGE>
+<SP>
+<SPEAKER>Ranger.</SPEAKER>
+<P>Stand still, Mrs. Jilt, or I shall spoil your door-keeping here|after. <HI>Iack Rashley,</HI> here&mdash;Hell and the Devil&mdash;</P>
+</SP>
+<STAGE>To Betty.</STAGE>
+<SP>
+<SPEAKER>Emilia.</SPEAKER>
+<P>What insolence is this? pray, Sir, your business?</P>
+</SP>
+<SP>
+<SPEAKER>Ranger.</SPEAKER>
+<P>Only my zeal, Madam, to give you notice of an approach|ing danger: Your Husband has so intangl'd his Horns yonder in a Hawthorn-Bush, that 'tis to be fear'd without immediate help he will lose the decent and commodious ornament of his Forehead.</P>
+</SP>
+<SP>
+<SPEAKER>Emilia.</SPEAKER>
+<P>Most impudent of men! how dare you talk thus?</P>
+</SP>
+<SP>
+<SPEAKER>Ranger.</SPEAKER>
+<P>Most infamous of women! how dare you do thus?</P>
+</SP>
+<SP>
+<SPEAKER>Rashley.</SPEAKER>
+<P>Do what, Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Emilia.</SPEAKER>
+<P>Hold, and as you love me, move no farther. Basest of men! have you the folly to believe this way can prove beneficial to your love? No, I hate thee mortally, nor shall thy malice from henceforth be suc|cessful; I'll disarm it; and when thou thinkest thy plots are surest laid, be sure of a surprize.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Ranger.</SPEAKER>
+<P>O infamy!&mdash;'Sdeath, is your Forehead Steel? and is your Skin of that obdurate temper you cannot force a Blush into your Cheeks at the confession of your obscene Crime?&mdash;How great a Friend to Hell is Impudence!</P>
+</SP>
+<SP>
+<SPEAKER>Emilia.</SPEAKER>
+<P>Pray, Sir,&mdash;forgive him, 'tis an insipid Fellow that I am often troubled with, and believe his insolence for the future shall be prevented: in the mean time to express my gratitude, give me leave to present you with this Necklace; this Ring too will fit your Finger;&mdash;nay, and swear you shan't refuse 'em, my Husband gives me often such as these, 'tis all the good I get by him.</P>
+</SP>
+<SP>
+<PB N="4" REF="7">
+<SPEAKER>Ranger.</SPEAKER>
+<P>Very well;&mdash;the blessing of a wife let all men judge. What envious Fiend to plague me makes me love this Creature?</P>
+</SP>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>I will preserve your favours as my life; your memory shall possess my Soul, and all your charms live ever in my sight.&mdash;My kindest, sweetest&mdash;dearest&mdash;</P>
+</SP>
+<STAGE>Kisses her hand.</STAGE>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>Death and Damnation, must I stay and see this? Madam,&mdash;this modest carriage before a jealous Lover makes&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>Little for your contentment I doubt not, Sir.&mdash;But 'tis a fate proper enough for such busie and inquisitive persons.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>Fa, la, la, la, la.&mdash;Sings.</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>Go&mdash;you are a Devil; so far from being a Woman, that I begin to doubt whether Nature had any hand in your Creation. Is't not enough, Vile Creature, that I know you abuse your Husband, but that you dare give me an ocular proof? Dispence your favours to the man that horns him before my face? Oh unparallell'd impudence!&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>Incorrigible Fool, think'st thou to daunt my will? the little ill I do can raise no infamy, nor will I ever doubt it.</P>
+</SP>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>Fa, la, la, la.</P>
+<L>The joys of a Lover in passion remains,</L>
+<L>In passion that's fervent and free, <HI>&amp;c.</HI></L>
+</SP>
+<STAGE>Enter <HI>Betty.</HI></STAGE>
+<SP>
+<SPEAKER>Betty.</SPEAKER>
+<P>Oh Madam, my Master's just come home and coming up.</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>Blest minute! now I hope his eyes will be unseal'd, and through the right end of the Perspective see you: Madam, assure your self there shall want nothing in me.</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>I know, Sir, and am prepar'd for the worst of thy malice. Here, take this Battle-dor, and let us play.</P>
+</SP>
+<STAGE>They play.</STAGE>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>Out, out, Madam&mdash;y'are out.</P>
+</SP>
+<STAGE>Enter <HI>Bubble.</HI></STAGE>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Ha, ha, ha.&mdash;Chicken; Good morrow, Chicken.&mdash;Morrow <HI>Tom.</HI>&mdash;Chick, prethee let me kiss thee: What, in the mumps?&mdash;This morning, pop&mdash;no more of that&mdash;hoh&mdash;What my old Friend <HI>Ranger</HI> too! Morrow <HI>Ned.</HI> Faith! would you had been with me this morning, I have had the rarest sport yonder at <HI>High-Gate</HI> with two or three Country-fellows&mdash;Harkee, Chick, I have invited 'em all to Dinner one day this week, good blunt course Fellows Faith, but damnable rich:&mdash;as Gad jidge me, I past for a brave Fellow amongst 'em.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>You need boast of applause from such Clowns.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Clowns? What, honest, tough, hard-fisted, plain-dealing
+<PB N="5" REF="7">
+Farmers, Clowns?&mdash;Pop&mdash;I say, you are an inconsiderable Var|let, Chicken,&mdash;and know not what belongs to such good com|pany.</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>She is so well diverted at home, Sir, that all Rural society is distastful to her.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>I guess 'em to be much of your humour, Sir, Owners of a great deal of dull, insipid noise, and very little or no sence.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Well said, Chicken.&mdash;<HI>Ned.</HI> To her.&mdash;To her agen, <HI>Ned;</HI> 'Tis a raging Turk at Repart&eacute;e.&mdash;Invent, invent; strike her home; prethee try her wit.&mdash;Thou art a Scholar,&mdash;for my part I dare not: (As Gad jidge me!) she's always too hard for me.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>And me too, I assure you, Sir.&mdash;But there's a Gentleman that has the good fortune to be more intimate:&mdash;his address is far more pleasing than mine.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Who, <HI>Tom!</HI> Come, I'll hold a Guiney she's too hard for him too; why, 'tis the readi'st, witti'st, jeering'st, flearing'st Quean&mdash;'Sbud she's one of the pearls of Eloquence.&mdash;And Pop,&mdash;by the way let me tell you, there's ne'er an Orator in Christendom has more Tropes and Figures, take her when her hands in&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>Nor knows the Art of Wheadling better, I'll say that for her.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Gad, thou art in the right, she's a <HI>Non Parelio</HI> at it: but now you talk of Wheadling, prethee, <HI>Tom,</HI> how goes thy Love-affairs? Thou look'st but ill upon't?&mdash;Any plots? adventures of late? Hah!</P>
+</SP>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>None that can make me frown, Sir:&mdash;My Stars have al|lotted me so mild a destiny, that I can caress my Friend with my wonted Air, without being discourag'd by my success in Love-affairs.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>I'm glad on't, Faith: Come, prethee let me be partaker of thy good fortune;&mdash;when wert thou with her?</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>Tell him, tell him, Sir: Lord, you never used to be so cauti|ous in these matters:&mdash;pray tell him and tremble:&mdash;Now observe.</P>
+</SP>
+<STAGE>To <HI>Ranger</HI> aside.</STAGE>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>Why, Sir,&mdash;I was with her this morning.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>So! and what success prethee?</P>
+</SP>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>Why at my first coming she entertain'd me with a Song, softly expressing the delights of Love in an excellent Air, and added to it a thousand kind words and kisses: I had all the priviledge imaginable, and 'twas my good luck to come at a very happy hour, for her Husband went out early i'th' morning a Fowling as far as <HI>Holloway.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P><HI>Holloway?</HI>&mdash;a Pox on't,&mdash;what damn'd luck had I? if it had been <HI>High-Gate</HI> I should have met the Fool; for I have been there all this morning.</P>
+</SP>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>Ah! 'tis no matter, Sir his company can add little to any|ones credit; for he is but a kind of a soft-headed, a half-witted Fel|low.&mdash;</P>
+</SP>
+<SP>
+<PB N="6" REF="8">
+<SPEAKER>Bubb.</SPEAKER>
+<P>A Ninny, a Fool.&mdash;Ha, ha, ha.</P>
+</SP>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>Ay, and the most credulous of all the Cuckolds I ever met with.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Poor Animal! Faith I pity him, but there's a number of 'em about Town ifaith,&mdash;we men of wit should want diversion else.</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>We men of wit, quoth a! Dam him, he's duller than a Ju|stices Clark.&mdash;To be made a property all this while, and not dis|cern it, Oh insufferable stupidity!</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>Observe, Sir, observe.</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>Yes, Devil, I do observe; I doubt not but my observation shall add little to your quiet. Oh curse of&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Why how now, <HI>Ned?</HI> what, grinning like a Monkey eating of Chesnuts?&mdash;prethee what art thou thinking on? As Gad jidge me, I think thou art grown insipid, as my Wife says; How dost like <HI>Tom</HI>'s Intrigue? Ha,&mdash;is it not pleasant?</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>Very pleasant, Sir, and faith in my judgment represents as nearly as any character I ever saw.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Represents?&mdash;whoo pox you're at your Quirks and Quid|dits, your <HI>Cambridge-Puns</HI> and <HI>Westminster-Quibbles</HI> are you?</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>Pray forward, Sir, me thinks 'tis very divertive.</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>Very divertive! Dam her, she was sure the Off-spring of <HI>Bel|zebub.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>After a thousand other caresses intermixt with kisses and smiles, and a world of happy thoughts and fancies extravagantly rendred upon so happy an occasion, she oblig'd me in a new and most sensible way, presenting me, with a sweet and incomparable grace, this Gold-Watch, and this Diamond Ring.</P>
+</SP>
+<STAGE><HI>Ranger</HI> looks amaz'dly.</STAGE>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Prethee observe <HI>Ned</HI> there, he's grown a strange whimsical Fellow;&mdash;Ha, ha, ha, look how he stares.</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>Was ever such an Impudence? sure I dream! and this is all delusion.&mdash;Harkee, Sir, are you irrecoverably blind?</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Blind? what I blind?</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>Methinks that Watch looks very like one I have seen your Wife wear often.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Ha! as Gad jidge me, and so it does; but much good do thy heart, <HI>Tom,</HI> I'll warrant it right.</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>Me thinks that Ring too much resembles yours.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>The square is right,&mdash;but I think my Stones were a little bigger.</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>Now the Devil take thee for a dull Rogue.</P>
+</SP>
+<STAGE>Aside.</STAGE>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>But the best jest was, before she gave me these, there happen'd to come rudely into the Room a wild, young Fellow, that I found after|wards to be my Rival, and one she hated for his ill nature and imperti|nence; but to see how pitiful he lookt to see me so presented before his face, would have made you die with laughing.&mdash;Ha, ha, ha.</P>
+</SP>
+<SP>
+<PB N="7" REF="8">
+<SPEAKER>Bubb.</SPEAKER>
+<P>Ha, ha, ha.</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>Ha, ha, ha.</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>Hell and Furies, what's this I hear? am I made a property too? If I bear this, may I be posted for a Coward, and my infamy known to all Nations.&mdash;Harkee, Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>Well, Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>By your ridiculous fleering behaviour, I guess I was concern'd in your last description, an affront that requires instant satisfaction; and believe, Sir, you shall not carry it off so clearly as you imagin'd: Tho' he is such a fool to be bubbl'd out of his reason,&mdash;I am not&mdash;; follow me, Sir, if you dare.</P>
+</SP>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>Dare! Lead on, Sir,&mdash;you shall see how much I dare.</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>Hold, Sir, you shall not go.</P>
+</SP>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>Dare follow you?</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>Ay, Sir, 'twould be a doubtful question if your protection there were out of the way.</P>
+</SP>
+<STAGE>Points to <HI>Emil.</HI></STAGE>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>What's that? protection?</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>How now?&mdash;what Jokes? hard words? what's the matter, <HI>Tom?</HI>&mdash;I must have no quarrels here.</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>'Tis Mr. <HI>Ranger</HI>'s ill humour; prethee, Love, speak to him, he's always disturbing good company; tell him, he's Impertinent.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Gad, and so I will.&mdash;What a pox, a man cannot be a little jocose in his own house but he must disturb him; you shall see me go and huff him.</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>His Horns I am sure are large enough;&mdash;Horns of sufficient growth, substantial Horns; Horns visible, large, craggy-brancht, rough Horns, and yet he may not believe it.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Believe what, <HI>Ned?</HI> Ha, ha, ha,&mdash;He's mad.&mdash;Down|right out of his Wits: 'Tis a thick scull'd Fellow, God knows,&mdash;but we were not all born to be Wits.&mdash;What dost believe, <HI>Ned?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>Why, Sir, I believe you are mad.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>I mad?&mdash;Damme <HI>Ned,</HI> you're an impertinent Fellow. Now observe, Chicken.</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>How, Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>I say, Sir, an impertinent Fellow, Sir, and deserve to be cramb'd into a Powdering-Tub.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>Dam this Fool, how he tortures me! but my revenge lies ano|ther way; I'll instantly go to his Sister <HI>Maria,</HI> who I know loves <HI>Rash|ley,</HI> and will willingly join with me in my revenge. This must do, and I'll about it instantly.</P>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Ah&mdash;he's gone; I thought when I began to roar once he would quickly vanish: I warrant I have frighted him into an Ague.&mdash;Poor Fool, he'll hardly trouble us again this good while.</P>
+</SP>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>An uncivil person, first to intrude into our company, and then
+<PB N="8" REF="9">
+to hinder our discourse, especially of so pleasant a Narration: Gad! 'twas too much.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Too much?&mdash;Why 'twas the Devil and all; and as Gad jidge me,&mdash;he's the Son of a Whore, and I'll make him an example.</P>
+</SP>
+<STAGE>Enter Footman.</STAGE>
+<SP>
+<SPEAKER>Footm.</SPEAKER>
+<P>Sir <HI>Roger Petulant</HI> with his Nephew, and old Mr. <HI>Fumble</HI> are come to visit you.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb</SPEAKER>
+<P>Gads so!&mdash;Sirrah! wait on 'em up, and call my Niece down. This is the man, Chicken, I told thee that I intend for <HI>Cordelia</HI>'s Hus|band: He's very Rich, I am told, and his Father's a Knight, and She|riff of the County.</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>But who is the other, Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Why, dost not know him? 'Tis old Alderman <HI>Fumble:</HI> He's a little deaf, but ifaith very good company, and will so fumble about the Women.&mdash;You shall see he's a very jolly Fellow, and repart&eacute;es, and talks, and chats at all rates;&mdash;but the Devil a word he hears, for he always answers quite contrary:&mdash;He&punc;ll make us all laugh ifaith.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>I've heard he dotes on all the Women he sees, and is as pas|sionate and inconstant at his age of Seventy Three, as the brisk Sparks of our times are at Five and Twenty.</P>
+</SP>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>He says (the Devil take him that believes him) nothing fails him but his Eyes, which defect he has lately amended by a pair of Ve|netian Spectacles.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Ha, ha; 'tis a pleasant old Fellow.&mdash;But here they come.</P>
+</SP>
+<STAGE>Enter Sir <HI>Roger, Sneak, Fumble.</HI></STAGE>
+<SP>
+<SPEAKER>Sir Rog.</SPEAKER>
+<P><HI>Cob!</HI> come, <HI>Cob,</HI> come! along, I say, and hold up thy head.&mdash;Fie, fie,&mdash;be not so bashful, Child.&mdash;Nay, <HI>Cob,</HI>&mdash;what dost think I'll forsake Thee?&mdash;Pish, in verity I will not: Wipe thy Eyes, I say.</P>
+</SP>
+<STAGE>Enter <HI>Cordelia.</HI></STAGE>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>He's a little moody-hearted, that's the worst on't:&mdash;But the young man will show his parts by and by, I warrant ye.&mdash;Come hither, Niece: Sir <HI>Roger,</HI> Your most humble Servant.</P>
+</SP>
+<STAGE>Old <HI>Fumble</HI> pulls out his Spectacles, and looks on <HI>Cordelia.</HI></STAGE>
+<SP>
+<SPEAKER>Sir Rog.</SPEAKER>
+<P>Yours, good Mr. <HI>Peregrine.</HI> You see, Sir, I am as good as my word: I have brought my Nephew, <HI>Cob,</HI> here's your Mrs. <HI>Cob.</HI>&mdash;Look, look up,&mdash;and go and salute her. I'll shew thee the way. Nay, <HI>Cob,</HI> still in thy dumps?&mdash;Look upon me, Man! I'll do't first.</P>
+</SP>
+<SP>
+<PB N="9" REF="9">
+<SPEAKER>Sneak.</SPEAKER>
+<P>Well, well! I'll follow you, Uncle: I am a little bashful at present, but I shall come to't anon.</P>
+</SP>
+<SP>
+<SPEAKER>Sir Rog.</SPEAKER>
+<P>Well said, Madam! I am your humble Servant.&mdash;</P>
+</SP>
+<STAGE>Kisses her.</STAGE>
+<SP>
+<SPEAKER>Sneak.</SPEAKER>
+<P>And I likewise, Madam!</P>
+</SP>
+<SP>
+<SPEAKER>Fumble.</SPEAKER>
+<P>Ifack, ifack! a pretty well-favour'd Woman that there&punc; A good Eye, good Hair, and ifack I think ev'ry thing good&mdash;ha&mdash;Hem, Mr. <HI>Peregrine,</HI> prethee who is that there? that Woman there?</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Who, she yonder?</P>
+</SP>
+<SP>
+<SPEAKER>Fumb.</SPEAKER>
+<P>Hah!</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Why, she's a near Friend of mine, Sir.&mdash;</P>
+<STAGE>Aloud.</STAGE>
+<P>What an ignorant old Fellow 'tis, not to know my Niece?</P>
+</SP>
+<SP>
+<SPEAKER>Fumb.</SPEAKER>
+<P>A Friend? Well I could have heard you, I could have heard you without this exclamation: What ifack, I am not deaf, I could have heard you: but if she be a Friend, I hope an old Friend may sa|lute her; 'tis a civility well paid. By your leave, sweet Lady.</P>
+</SP>
+<STAGE>Goes to kiss <HI>Cordelia,</HI> and kisses <HI>Sneak.</HI></STAGE>
+<SP>
+<SPEAKER>Sneak.</SPEAKER>
+<P>What the Devil does this old Fellow mean? Uncle! did you ever see the like?</P>
+</SP>
+<SP>
+<SPEAKER>Sir Rog.</SPEAKER>
+<P>Ha, ha, ha! a pleasant mistake ifaith.</P>
+</SP>
+<SP>
+<SPEAKER>Fumb.</SPEAKER>
+<P>Ha! ifack I think I was mistaken, was I not, Gentlemen? was I not? I doubt my false light guided me to the wrong person;&mdash;Hah! But come, no matter, I meant it right, Madam, I meant it right: Never the older for a mistake Ifack! I meant it right.</P>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<P>I am glad I mist it for all that.</P>
+</SP>
+<SP>
+<SPEAKER>Sir Rog.</SPEAKER>
+<P>Mr. <HI>Rashley,</HI> you are not merry; in troth I fear I have di|sturb'd you,&mdash;Hah!</P>
+</SP>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>Not at all, Sir; 'tis impossible your free humour can be trou|blesom to any one.</P>
+</SP>
+<SP>
+<SPEAKER>Sir Rog.</SPEAKER>
+<P>You know my old way, Sir, jovial and inoffensive.&mdash;Pray let me commend my Nephew to you. <HI>Cob,</HI> come hither:&mdash;. He's a little too modest, Sir;&mdash;but else I think I may say,&mdash;a youth of notable parts: Come hither, <HI>Cob.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>I can believe no less: Sir, your humble Servant.</P>
+</SP>
+<SP>
+<SPEAKER>Sneak.</SPEAKER>
+<P>With all my heart, Sir; and I am your Servant in like manner.</P>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<P>Bless me! what a Figure of a Husband shall I have?</P>
+</SP>
+<SP>
+<SPEAKER>Sir Rog.</SPEAKER>
+<P>You know, Sir, when I was a Batchelor I delighted much in merry Songs and Catches.&mdash;'Ah! <HI>Sawny Broome</HI> rare Fellow; and when a dozen of us Royalists were met at the Miter under the Rose there, the Leveller went round, round, ifaith.&mdash;I hold out still, Sir, as well as I can; and tho' I cannot sing my self, I keep those that can.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Ay, and so do I.&mdash;My Wives Maid shall sing you a Scotch Song:&mdash;Come, sing it <HI>Betty.</HI>&mdash;</P>
+</SP>
+<STAGE>Betty sings.</STAGE>
+<Q><PB N="10" REF="10">
+<TEXT LANG="eng">
+<BODY>
+<DIV1 TYPE="song">
+<HEAD>A Scotch SONG.</HEAD>
+<LG>
+<L>IN <HI>January</HI> last on <HI>Munnonday</HI> at Morne,</L>
+<L>As along the Fields I past to view the Winter Corne,</L>
+<L>I leaked me behind, and saw come ore the Knough,</L>
+<L>Yen glenting in an Apron with a bonny brent brow.</L>
+</LG>
+<LG N="2">
+<HEAD>2.</HEAD>
+<L>I bid Gud Morrow, Fair Maid, and she right courteously,</L>
+<L>Bekt lew and Sine kind Sir, she said, Gud Day agen to ye.</L>
+<L>I speard o her, Fair Maid quo I, how far intend you now?</L>
+<L>Quo she, I mean a Mile or twa to yonder bonny brough.</L>
+</LG>
+<LG N="3">
+<HEAD>3.</HEAD>
+<L>Fair Maid, Ime weel contented to ha sike Company;</L>
+<L>For I am ganging out the Gate that you intend to be.</L>
+<L>When we had walkt a Mile or twa, I said to her, My Dow,</L>
+<L>May I not light your Apron sine kiss your bonny brow?</L>
+</LG>
+<LG N="4">
+<HEAD>4.</HEAD>
+<L>Nea, Gud Sir, you are far mistean, for I am nean o those,</L>
+<L>I hope you ha more breeding than to light a Womans Cloths;</L>
+<L>For Ive a better chosen than any sike as you,</L>
+<L>Who boldly may my Apron light, and kiss your bonny brow.</L>
+</LG>
+<LG N="5">
+<HEAD>5.</HEAD>
+<L>Nay, gif you are contracted, I have no more to say;</L>
+<L>Rather than be rejected, I will give ore the Play:</L>
+<L>And I will choose yen o my own that shall not on me rew,</L>
+<L>Will boldly let me light her Apron, kiss her bonny brow.</L>
+</LG>
+<LG N="6">
+<HEAD>6.</HEAD>
+<L>Sir, I see you are proud-hearted, and leath to be said Nay;</L>
+<L>You need not tall ha started for eaght that I did say:</L>
+<L>You knaw Wemun for modesty no at the first time Boo;</L>
+<L>But gif we like your Company we are as kind as you.</L>
+</LG>
+</DIV1>
+</BODY>
+</TEXT></Q>
+<SP>
+<PB N="11" REF="10">
+<SPEAKER>Bubb.</SPEAKER>
+<P>How dee like it?</P>
+</SP>
+<SP>
+<SPEAKER>Sir Rog.</SPEAKER>
+<P>Oh! I have hundred such as this, Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Fumb.</SPEAKER>
+<P>A pretty matter ifack, a very pretty matter.</P>
+</SP>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>I doubt, Sir, you heard it not.</P>
+</SP>
+<SP>
+<SPEAKER>Fumb.</SPEAKER>
+<P>Ay, is it not, Mr. <HI>Rashley,</HI> is it not? Ifack I like it well.</P>
+</SP>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>With all my heart, Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Fumb.</SPEAKER>
+<P>Right ifack, it was sung well indeed.</P>
+</SP>
+<SP>
+<SPEAKER>Omn.</SPEAKER>
+<P>Ha, ha, ha!</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Well said, Grandfire <HI>Fumble.</HI>&mdash;Come, Sir <HI>Roger,</HI> now let's in, and toss a Bumper about.</P>
+</SP>
+<SP>
+<SPEAKER>Sir Rog.</SPEAKER>
+<P>I wait upon you, Sir. <HI>Cob,</HI> lead in your Mistriss.&mdash;</P>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE><HI>Manent, Rashley,</HI> and <HI>Emilia.</HI></STAGE>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>So! thus far all is well.&mdash;But what's next to be done? for I know <HI>Ranger</HI> and <HI>Maria</HI> are plotting mischief.</P>
+</SP>
+<SP>
+<SPEAKER>Emilia.</SPEAKER>
+<P>To prevent 'em we must counterfeit a falling out by railing at you to my Husband. I'll soon confirm it in his opinion; but be sure you are melancholy enough; and by this means their designs are fru|strated, and we still safe in our Intrigue.</P>
+</SP>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>Excellent!&mdash;And I'll warrant you, Sweet, I'll play my part well.</P>
+</SP>
+<SP>
+<SPEAKER>Emilia.</SPEAKER>
+<P>The better will be the success: but let's go in for fear we are seen.</P>
+</SP>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<L>Thus whilst we're equally involv'd in thought,</L>
+<L>That side fares best that lays the wisest plot.&mdash;</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+</DIV3>
+</DIV2>
+<DIV2 N="2" TYPE="act">
+<PB N="12" REF="11">
+<HEAD>The Second ACT.</HEAD>
+<DIV3 TYPE="scene">
+<STAGE>Enter <HI>Ranger</HI> and <HI>Maria.</HI></STAGE>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>NEver was an Intrigue carried with so much confidence; every word they spoke retain'd a double meaning; but so evident, that any Animal, but a dull Husband, could not fail to under|stand it: for they were so far from hiding their Amour, that they openly confest all; only speaking in a third person for a slender security. He stood and heard it, and often would laugh heartily to hear himself no|toriously abused.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>An insipid Fool! Oh that I had been there to have chang'd the Scene a little! But, Sir, cou'd you be idle on such an occasion? Why did not you play your part cunningly, and discover 'em?&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>Faith, I did what I could: but the cunning Devil your Si|ster, still as I was speaking something towards the discovery, would in|terrupt me, and in a minute dash all my hopes by turning what was said into raillery.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Is she so politick? 'tis very well: I once imagin'd I could best design, and thought my Talent of Wit equal with any. But are they so intimate, say ye, Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>As Man and Wife.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Impudent Fellow! dares he insult over my Love? Baffle my passion with a sly pretence? I am not fair enough; but he shall find my Brain has Wit enough to ruine his design, Fool as I am.</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>Now the Devil in her is working hard for me; we shall have it anon.&mdash;</P>
+</SP>
+<STAGE>Aside.</STAGE>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Fool'd by a Brothers Wife! A Creature that the Law makes kin to me! No, 'twas tamely thought, and I as tamely now should suffer wrongs had I a Dastard Spirit. But in me Nature has shown her Master-piece, and to a Masculine person Providence has bestow'd an Active Soul so sensible of wrongs, that to forgive would argue me as base as is their treachery.</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>Now she thunders; the Devil has been priming her all this while, and now she scatters like a Hand-Granado.</P>
+</SP>
+<STAGE>Aside.</STAGE>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>My love refus'd! 'Tis Death to the dull Fool; Death, double Death; Damnation too 'tis likely.&mdash;But why did I name it Love? there's no such word; for with this breath I banish it for ever, and in my <GAP DESC="illegible" REASON="blotted" EXTENT="2 letters">east receive obscure revenge, my Hearts delightful Darling! Oh
+<PB N="13" REF="11">
+the pleasure in that slender word Revenge!&mdash;I'll plague the Fool her Husband with a story shall make his Gall flow upwards.</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>Plague him with doubts, and make his jealousie break into violent fits of rage and passion: I'll further all, Madam; by Heav'n I will not fail you.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Enough; and doubt not we'll soon turn the Current.</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>We'll catch 'em in his Lodging.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Entrap 'em there, and bring him in to see it.</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>Right: What else? We'll shame 'em.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Slight 'em.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>Laugh at 'em.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Vex 'em.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>Ruine 'em.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Dam 'em.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>Hey! By Heav'n 'tis excellent; and now I see the sence of wrongs can arm a Female Spirit, and make it vigorous.&mdash;Oh I adore thy temper!</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>I'll instantly go to her, and first charge her with the fact, then upbraid her: for I am resolved never to let her rest till she deserts his passion.&mdash;</P>
+<L>And whilst she suffers that base Wretch to woo her,</L>
+<L>I'll plot, and counterplot, but I'll undo her.</L>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>I am glad I met with her; for of all the persons I am ac|quainted with, she only has enough of the Divil to follow such a bu|siness closely: for she'll never rest till she has betray'd 'm, which still will further my revenge; and I am resolv'd to enjoy her Sister, if it be but only for the dear pleasure of boasting it hereafter. I'll strait to <HI>Bubble,</HI> and once more infect him with my poyson: <HI>Maria</HI> is my Pi|lot&punc; and her being thus slighted by <HI>Rashley,</HI> will still augment her desire of revenge; 'tis natural to the Sex:</P>
+<L>For baulk a Woman once, and love rebate,</L>
+<L>Not all the Devils shall reclaim her hate.</L>
+</SP>
+<STAGE>Ex.</STAGE>
+</DIV3>
+<DIV3 N="2" TYPE="scene">
+<HEAD>Scene 2.</HEAD>
+<STAGE>Enter <HI>Rashley, Emilia.</HI></STAGE>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>MAnage it but carefully, you need not doubt the consequence: I have already possest my Husband with a belief of our va|riance, and I know he's coming up with an intent to reconcile us. I'll not be seen; the rest is your part, carry it but handsomly, and <HI>Ranger</HI>'s
+<PB N="14" REF="12">
+plots are fruitless. <HI>Maria</HI> has sent also to speak with him; I guess the bus'ness, and I am accordingly provided.&mdash;But remember you are not tardy.</P>
+</SP>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>Never doubt me, Madam; I am more a Lover than to be idle in a bus'ness that so nearly concerns us: besides, 'tis so well con|triv'd, and so easie to be follow'd, that to fail now would demonstrate me as defective in sence as your Husband is. But what bus'ness can your Sister have with you? The Devil and She have been plotting to|gether about this Intrigue.</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>Let 'em plot:&mdash;I am so much her Sister, that my part shall never be wanting to furnish the Comedy. I'll go to her strait: in the mean time be you sure to play your part with him.&mdash;Hark! I hear him coming.</P>
+</SP>
+<STAGE>Naise within. Exit.</STAGE>
+<SP>
+<SPEAKER>Rash</SPEAKER>
+<P>Well! I never thought a Woman till now so necessary a Crea|ture: Intrigues are their Master-pieces, and as readily they undertake 'em as a Country-Lawyer a bad Cause from a half-witted Client: 'twould be excellent sport to hear the two She-Wolves bark one at another: but since I cannot be there, I'll divert my self with entertaining the Fool her Husband.&mdash;Here he comes! Now to my studied posture.</P>
+</SP>
+<STAGE>Enter <HI>Bubble.</HI></STAGE>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Why how now, <HI>Tom?</HI> What, all-a-mort? In verity this is Foppery, as Sir <HI>Roger</HI> says. Come, cheer up, cheer up, Man, and hold up thy head; in troth thou makest me sad to see the look so like&mdash;so like a&mdash;Gammon of Bacon. There I was sharp upon him:&mdash;Ha, ha! a good jest afaith.</P>
+</SP>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>Dam him, what a simile the Fool has found out!</P>
+<STAGE>Aside.</STAGE>
+<P>Sir, it lies not in any mans power to banish serious thoughts at all times:&mdash;Besides, I have some cause for my present melancholy.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>The cause?&mdash;Come, come, <HI>Tom,</HI>&mdash;I know the cause, ha, ha.&mdash;You thought I warrant to have carried matters so privately; but if I once go about such a business, there's ne'er a man in Christen|dom (tho' I say it) can find out a cause sooner than I.</P>
+</SP>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>You may be mistaken in mine, Sir, for all that.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Mistaken? ha, ha!&mdash;I see, <HI>Tom,</HI> thou knowest not what 'tis to be ingenious: I tell thee once more, I do know the cause, the very cause; I, and more then that, the cause of that cause;&mdash;'Sbud there's ne'er an Attorney in the Inns of Court knows more causes than I do.</P>
+</SP>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>I doubt not but in the end you'll be brought to confess your self too positive in this particular: but since you have such an excellent faculty, and imagine your self so well skill'd in finding out secrets,&mdash;come, what is't? what is't?</P>
+</SP>
+<SP>
+<PB N="15" REF="12">
+<SPEAKER>Bubb.</SPEAKER>
+<P>What is't? Why, ha, ha, ha!&mdash;My Wife&mdash;my Wife, <HI>Tom,</HI> and you're faln out, ha, ha, ha!&mdash;have I mumpt you now ifaith?&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>I must confess you are in the right, Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>O must you so, Sir? What a pox I warrant you thought we Husbands had no wit but what our Wives lend us? But I would have you to know, <HI>Tom,</HI> that I am a Leviathan at these matters: to be plain, that is as much as to say, a Whale.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>I am sufficiently convinc'd of your excellent judgment, Sir; and as I have confest to you freely the cause of my sadness, to be your Wives ill usage of me, so I am continually tortur'd to guess the rea|son: for I am confident, Sir, you know I always honour'd her, and lov'd her.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Faith! so thou didst! I'll say that for thee; and by the Lord <HI>Harry</HI> she shall love and honour thee too, or I'll be very sharp upon her; I'll pinch her severely faith, for all she's my Chicken: nay, if she&punc;ll be still refractory, rather then fail thou shalt pinch her too, <HI>Tom.</HI> I am not like your surly-burly-waspish-cross-grain'd Fellows, that fall out and fight about their Wives: 'Sbud I'll give my friend leave at any time to chastise my Wife if she don't behave her self civilly.</P>
+</SP>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>You ever load me with your kind expressions, Dear Friend!&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Dear <HI>Dom,</HI> Faith thou'rt an honest Fellow.</P>
+</SP>
+<STAGE>Embrace.</STAGE>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>This ever is the fate of Cuckolds.&mdash;</P>
+</SP>
+<STAGE>Aside.</STAGE>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Never doubt;&mdash;I'll bring you together agen with a ven|geance: nay, I can tell you the reason of her anger too, if I thought 'twere convenient.</P>
+</SP>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>Convenient! Why, Sir, 'tis the only thing that conduces to my contentment; for I have long studied in vain, and could never yet so much as guess at it: Let me beg it of you, Sir; come, I'm sure you cannot deny so near a Friend.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Ifaith I cannot,&mdash;that's the truth on't, and thou shalt have it.&mdash;Why, you must know, <HI>Tom,</HI> one night (when I was examining her about you) she told me very seriously that the cause of her anger was, that you promis'd to give her a Squirril that night, and never kept your word; and she loves Squirrils passionately.</P>
+</SP>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>'Tis true, I confess I did promise her;&mdash;but as the Devil would have it, I was disappointed utterly of my Squirril that night my self; for I got very drunk, and from thence sprung this fatal con|sequence</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Pugh!&mdash;no matter; I'll warrant thee I'll bring all about again.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>Oh 'tis impossible;&mdash;I am sure she'll near be brought to't,</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Not brought to't? Yes, I'll lay my commands upon her, and I'll have you know she shall be brought to't: I'll lay a Wager I'll re|concile you both before night.&mdash;</P>
+</SP>
+<SP>
+<PB N="16" REF="13" MS="y">
+<SPEAKER>Rash.</SPEAKER>
+<P>Done: any Wager.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>What shall it be?</P>
+</SP>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>Why, Five Guinneys to be spent in a Treat of Ven'son and Champaine.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Agreed ifaith; and we'll drink and sing Tory-Rory. Not reconcile you! You shall be all one before to morrow-morning.&mdash;I have a spell for that; I'll do't, I say; come along, Boy.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<L>A petty Friend for pimping we applaud:</L>
+<L>But of all Men a Husband's the best Bawd.&mdash;</L>
+</SP>
+<STAGE>Exit.</STAGE>
+</DIV3>
+<DIV3 N="3" TYPE="scene">
+<HEAD>Scene 3.</HEAD>
+<STAGE>Enter Sir <HI>Roger, Cordelia, Sneak.</HI></STAGE>
+<SP>
+<SPEAKER>Sir Rog.</SPEAKER>
+<P>MAdam, You, as being the Niece to Mr. <HI>Peregrine,</HI> truly deserve the favour I intend you by this Alliance: You are a handsom Woman, and in verity were I a young Man, none shou'd be more forward than I for a place in your affection. I like your Air well; and upon my Faith you have the right way on't. Ah!&mdash;Madam, I once saw the days when such an Eye as yours&mdash;Well, I say no more on't,&mdash;'tis for my Nephew now I make addresses;&mdash;you see what he is, Madam;&mdash;His Face is none of the worst, nor his Person I think any way defective.&mdash;In brief, Madam, I present him to you, nor shall he want an Estate to make him worthy.</P>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<P>'Tis well he nam'd an Estate to Candy over his bitter Pill, my squeamish Stomach would else have hardly digested it.&mdash;Lord! how he looks?&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Sir Rog:</SPEAKER>
+<P><HI>Cob!</HI> go;&mdash;prethee go and make your address to the Lady. He's newly come from the Colledge, Madam, and is as the rest of 'em are, a little bashful at first; but by that time h'as seen a Play or two&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<P>Me thinks this silence becomes him very well, Sir: A Student should always be contemplative; 'tis a great sign of Learning.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Sir Rog.</SPEAKER>
+<P>'Tis a sign he thinks the more: But, Madam, Ladies of this Age are not to be won with Imaginary Courtship, 'tis the practick part they love; and he that can sing well, dance well, talk well, rhime modishly, swear decently, and lye confoundedly,&mdash;is certainly the happy man, whilst others pass unregarded.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<P>I see, Sir, you are well skill'd in Modish Address; but give me leave to tell ye, perhaps few other Ladies are of my humour:&mdash;I love words considerately spoken.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Sir Rog.</SPEAKER>
+<P>And I too, Faith Madam. <HI>Cob,</HI> Dee hear that, <HI>Cob?</HI>&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Sneak.</SPEAKER>
+<P>Ay, ay! 'tis a fine Woman, by <HI>Ierico,</HI> and now I begin to be a little in heart: I shall put up well enough anon, Uncle.&mdash;</P>
+</SP>
+<SP>
+<PB N="17" REF="13">
+<SPEAKER>Sir Rog.</SPEAKER>
+<P>Well said! Why now I love thee: And, Madam, as to his Interiour Vertues, I dare speak for 'em; His Wit is hereditary; Ah! his Father, old Sir <HI>Ieremy Sneak,</HI> had a notable Head-piece, and troth <HI>Cob</HI> comes very near him; you'll find it, Madam, when he talks with you.</P>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<P>Your Character of him, Sir, gives me the satisfaction I should receive in his discourse: I imagine him to be one of those that hoord up Wit for <HI>Plato</HI>'s great Year, and are very shie of using their Talent for fear of diminishing the value in making it too common.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Sir Rog.</SPEAKER>
+<P>In verity, Madam, I always held him so.&mdash;<HI>Cob!</HI>&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Sneak.</SPEAKER>
+<P>Ay, Madam, you may say of me what you please; I am your Slave,&mdash;your Vassal,&mdash;your Pigg, Madam: But as for Wit, as my Nuncle says, I think I may compare with another, take the Court-Cabal away.&mdash;'Tis a blessing thrown upon me: Besides, mine is none of your Wheadling Wits, that cheat for a Livelihood: I am no Parasite, Madam;&mdash;I am a Scholar, I!</P>
+</SP>
+<SP>
+<SPEAKER>Sir Rog.</SPEAKER>
+<P>In troth he's in the right:&mdash;Did not I tell you, Madam, he would speak notably?&mdash;Ah, 'tis a Wag.</P>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<P>His Disputes in the Colledge have added extreamly to his Rhetorick; he speaks with good Emphasis, and gives a delightful period to every Jest, of which I see he has many. But I would fain have the Gentleman speak himself, a little talk I am sure would become him.</P>
+</SP>
+<SP>
+<SPEAKER>Sir Rog.</SPEAKER>
+<P>He shall do't, Madam.&mdash;<HI>Cob,</HI> now's your time;&mdash;she's wrought finely.&mdash;Madam,&mdash;I'll take my leave for a minute;&mdash;I know his temper, Madam;&mdash;he'll speak the better for my ab|sence.&mdash;</P>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<P>Pray, Sir, what University was blest with your presence?</P>
+</SP>
+<SP>
+<SPEAKER>Sneak.</SPEAKER>
+<P><HI>Cambridge,</HI> Madam.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<P>Will you not be angry if I ask you one Question more?</P>
+</SP>
+<SP>
+<SPEAKER>Sneak.</SPEAKER>
+<P>O Lord, Angry, Madam? You do not know me. Angry! You mistake me clearly: We of the Round Cap are not giv'n to&punc;t; 'tis your Graduates are the angry people.</P>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<P>Pray, what have you learnt at <HI>Cambridge?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Sneak.</SPEAKER>
+<P>Learnt! what a Plaguy Question's that?&mdash;where's my Uncle now?&mdash;Learnt, Madam?</P>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<P>Yes, Sir, Learnt!</P>
+</SP>
+<SP>
+<SPEAKER>Sneak.</SPEAKER>
+<P>Why, Madam,&mdash;I learnt Nothing.</P>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<P>Nothing, Sir!</P>
+</SP>
+<SP>
+<SPEAKER>Sneak.</SPEAKER>
+<P>No,&mdash;but to wear a Daggled Gown, as the rest do, and eat dry Chops of Rotten Mutton: We Fellow-Commoners don't go thither to learn;&mdash;Madam, we go for Diversion, we.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<P>I thought you had gone to learn the Sciences.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Sneak.</SPEAKER>
+<P>Right, Madam;&mdash;but not Gentlemen: Your green half|witted
+<PB N="18" REF="14">
+Pupils, I confess, come thither for some such business; that is, Madam, your Priggs that would be Parsons. But the Sciences of your Persons of Quality;&mdash;I ll give you a description;&mdash;Hum?&mdash;'Tis to Wench immoderately;&mdash;To be Drunk hourly;&mdash;To wear their Cloaths slovenly;&mdash;To abuse the Proctor damnably;&mdash;And so be expell'd the Colledge triumphantly:&mdash;There are sev'n,&mdash;but I contented my self with these.</P>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<P>This is ever found,&mdash;Your slie Fool is in his nature more im|pudent than the greatest Professors of Debauchery.&mdash;I must shift him off.&mdash;</P>
+</SP>
+<STAGE>Enter <HI>Fumble.</HI></STAGE>
+<SP>
+<SPEAKER>Fumb.</SPEAKER>
+<P>Oh!&mdash;here she is;&mdash;and ifack I'll put up to her now I have found her. How dost thou do, Girl?&mdash;Hah! how dost thou do? Give me thy hand. Ah, little Rogue!&mdash;Well, I have been with my Goldsmith about the Ring I promis'd thee; Thou shalt have it, Bird, thou shalt have it.&mdash;How now, who is that there?&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Sneak.</SPEAKER>
+<P>O the Devil!&mdash;Now will the old doting Fellow disturb us before I have told her half my mind. Who am I, Sir? Why, Sir, I am one that cares as little&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Fumb.</SPEAKER>
+<P>Thank you heartily, Sir, Ifack;&mdash;I am very well; only cold weather, cold weather.&mdash;'Tis Sir <HI>Roger</HI>'s Nephew! A pretty Fellow,&mdash;a very pretty Fellow.</P>
+</SP>
+<SP>
+<SPEAKER>Sneak.</SPEAKER>
+<P>Very well, Sir; wou'd you were very sick, Sir. 'Ounds, I must beat this Fellow.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<P>Here's like to be rare sport.</P>
+</SP>
+<SP>
+<SPEAKER>Sneak.</SPEAKER>
+<P>Pray, Old Philosopher&punc; depart in silence for fear of further damage; this Lady and I have bus'ness.</P>
+</SP>
+<SP>
+<SPEAKER>Fumb.</SPEAKER>
+<P>Ifack, and so she is, Sir, very pretty, very pretty, <HI>bona fide.</HI> Ah that black o'th' top there! Well, I'll say no more. But, ifack, Black Hair, Black Eyes, and a Black&mdash;(Gad forgive me, what was I going to say?)&mdash;Patch or two further Generation more than Tissues and Embroideries.</P>
+</SP>
+<SP>
+<SPEAKER>Sneak.</SPEAKER>
+<P>Generation? O Lord! was ever such an Impudence? An old doting impotent Fellow, one that was rotten in his Minority, and now has lost three of his five Sences, to talk of Generation! I am im|patient: Will you begone, Sir? 'Sbud I will so swinge you else.</P>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<P>Held, Sir, and pray forbear this rudeness; I like his Com|pany very well.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Sneak.</SPEAKER>
+<P>How! like him? Why, he has Nothing, Madam: A Lady can like no Hearing, no Smelling, no Tasting, no Teeth, no Strength, no&mdash;nothing I say that a man should have? Besides, he&punc;s above four|score; and by being a Stallion in his Youth, has acquir'd to be a Baboon in his Age, by <HI>Ierico.</HI>&mdash;'Sbud, like him, quoth a?</P>
+</SP>
+<SP>
+<PB N="19" REF="14">
+<SPEAKER>Fumb.</SPEAKER>
+<P>What does the Wag say? Hah! What does he fay? He's a pretty spruce Fellow, Madam, and ifack knows a Hawk from a Hand|saw, as the saying is.&mdash;But here are those not far off that ifack know as much as he, if that were all; what think'st thou, Bird? do they not? do they not, Rogue? Well, still I say that Hair of thine. Ah, Rascal!</P>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<P>I am glad it pleases you, Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Sneak.</SPEAKER>
+<P>But, Madam, when shall I begin? 'Sbud me thinks we lose time.</P>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<P>Begin! what, Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Sneak.</SPEAKER>
+<P>Why, my Courtship. Pox o'this old chatt'ring Fellow; if he had not come, I had been out of my pain before now:&mdash;Hark ye, Re|verend Sir, 'Bud! what d'ee do prating here? why don't you go and chat to your Grand-daughter at home, if you love Women so well?&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Fumb.</SPEAKER>
+<P>Hah!&mdash;what does the Wag say, Madam?</P>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<P>He says, Sir, he's extreamly in love with your Grand|daughter.</P>
+</SP>
+<SP>
+<SPEAKER>Fumb.</SPEAKER>
+<P>My Grand&mdash;daughter? and ifack she deserves it, Madam: She's a juicy, spritely Girl; she'll make a Pottle of Water of a Pint of Ale; a Chip o' the Old Block, <HI>bona fide,</HI> and shall turn her Back to ne'er a one in Christendom of her Inches, I'll say that for her.</P>
+</SP>
+<STAGE>Enter <HI>Betty.</HI></STAGE>
+<SP>
+<SPEAKER>Betty.</SPEAKER>
+<P>Sir, there's one Mrs. <HI>Snare</HI> below desires to speak with you.</P>
+</SP>
+<SP>
+<SPEAKER>Sneak.</SPEAKER>
+<P><HI>Snare!</HI> O Lord, what shall I do? how the Devil came she to know I was here? Hark,&mdash;prethee, Sweet-heart, tell her I am gone: Oh! I would not see her for the World.</P>
+</SP>
+<SP>
+<SPEAKER>Betty.</SPEAKER>
+<P>Sir, she says she dogg'd you hither, and swears and rants yon|der strangely.</P>
+</SP>
+<SP>
+<SPEAKER>Sneak.</SPEAKER>
+<P>O damn'd Quean! what shall I do?</P>
+</SP>
+<SP>
+<SPEAKER>Betty.</SPEAKER>
+<P>And vows if you come not instantly, she'll go into the Parlor to Sir <HI>Roger,</HI> and discover something to him, I know not what; but I saw she was a Big-bellied Woman, and I was loath to discourage her.</P>
+</SP>
+<STAGE>Ex. Betty.</STAGE>
+<SP>
+<SPEAKER>Sneak.</SPEAKER>
+<P>Well, well,&mdash;tell her I'll come; why how the Devil cou'd she get from <HI>Cambridge</HI> already?</P>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<P>What's the matter, Sir? Not well?</P>
+</SP>
+<SP>
+<SPEAKER>Sneak.</SPEAKER>
+<P>Yes, I thank you, Madam, very well, only thinking of a little business I have; I must about it presently: Madam, Your Servant, I'll wait on you some other time. I must go and pacifie this Quean&punc; This comes of Learning the Sciences with a Pox&punc;&mdash;</P>
+</SP>
+<STAGE>Exit Sneak&punc;</STAGE>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<P>Come, Sir, shall we go in?</P>
+</SP>
+<SP>
+<SPEAKER>Fumb.</SPEAKER>
+<P>Ifack,&mdash;and so he is, Madam: but the Fellow has some
+<PB N="20" REF="15">
+pretty parts, and will grow better in time: But come, let's go in and see Sir <HI>Roger.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<P>'Twas that I askt you.</P>
+</SP>
+<SP>
+<SPEAKER>Fumb.</SPEAKER>
+<P>Hah! dost like me, sayst thou, ifack? I'm glad on't. Shall we not have a word or two in private, my little Queen of Fairies? We must, I say, we must.&mdash;Ah Rogue!&mdash;I'll warrant thou art a Swinger:&mdash;But come, let's go.&mdash;</P>
+</SP>
+<STAGE>Ex.</STAGE>
+</DIV3>
+<DIV3 N="4" TYPE="scene">
+<HEAD>Scene 4.</HEAD>
+<STAGE><HI>Emilia's</HI> Bed-Chamber.</STAGE>
+<STAGE>Enter <HI>Maria</HI> and <HI>Emilia</HI> severally.</STAGE>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>NOw for my Talent of Women! I see by her looks I shall have occasion for it.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Sister!</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>Sister!</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>The natural love I bear you, and my desire to prevent your growing Infamy, has brought me hither to give you counsel.</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>The sence I have of your ill nature, and my knowledge of the little good it will do you, has brought me hither to give you advice.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Your Reputation is lowdly branded by all tongues, and I only as a Sister have power to speak indifferently of your Life in hopes of your Reformation.</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>Your Malice and unexampled Envy is mortally hated by all people; I only as a Sister retaining so much pity as to desire its utter Dissolution.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Why do you eccho me?</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>Why do you question me? What have I done deserves it?</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Done! Recollect your thoughts, and then confess; for my part, shame ties up my tongue I dare not speak it.</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>Dare not! Nay, that I am sure is false, you dare speak any thing: Come, prethee don't fright me, what is't you mean?</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Excellent cunning! she has fitted me.&mdash;</P>
+<STAGE>Aside.</STAGE>
+<P>Why would you seem ignorant? I confess to a stranger you might be cautious of a nice Confession: But this artifioe to your Sister, fie, <HI>E|milia.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>Now I'll lay my life your design is to wheadle something out of me to make your self merry withal.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Rare still!&mdash;No, Madam, this is no such merry matter; the Infamy of a Family is not so to be jested with.</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>Infamy! Nay, then I see 'tis time to be serious: Come, ex|press
+<PB N="21" REF="15">
+it; I suppose 'tis the Invention of your Envy, some new stratagem to affront me with; I am no stranger to your temper.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>This is an impudence beyond a prostitute: Do I not know you are false?</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>False! How?</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>False to your Husband; False with <HI>Rashley:</HI> I need not tell you how, you best know that.</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>I know you love him! and am sensible of the Intrigues and Assignations which you have had, which makes your meaning visible. But me thinks this is so strange a design.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Design! What is't she means? I hope you can tax me with no such crime with him.</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>Not I; 'tis not my business; I have only liberty to guess: yet indeed your often private meetings were a little suspitious, and I suppose your late raillery was only a design; but you might have took a better way with your Sister:&mdash;I am not so talkative.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Exquisite Devil!&mdash;Death, I am incens'd beyond all bounds of reason: I private with him! An Intrigue with me! Fury! thou know'st&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>I do;&mdash;and to exasperate thy rage, will now confess all&punc; I do love <HI>Rashley</HI> more than I love Fame: Nay, more than you could do, could you die for him.&mdash;But why shou'd that offend you?</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Oh Confusion! I am all o'er Fire: Dare you be such a De|vil? dare you love him?</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>Yes; and to vex you more, dare make you of my counsel&punc;</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Can I indure this? Oh for a look now of a Basilisk that I might kill thee.</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>Thou art worse.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Expect to find me so; for if there be a stratagem of Malice in all Hell, I'll have it thence: Ah, I'll be a tender Sister to thee.</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>As ever Woman yet was blest withal.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Not all the Infernals clad in the secret darkest Robes of Malice, did ever watch a Soul they meant to ruine, as I will thee: Thy very sleeps shall be discover'd to me, and every dream I'll trace with so much care, that if thou scapest thou art the wiser Sister, and I a poor unthinking Creature good for nothing.</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>I slight thy threats, and dare thee to persevere: Manage thy hate with such dexterity, the World may wonder at thee, and confess thou hadst the practick part of Policy: Design thy plots so subt'ly, that the Devil shou'd own himself out done in his own Mystery; yet in the Arms of him I love, I'd laugh to see my Wit out-do 'em.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Thy Wit! thy Wit compare with mine, insipid Fool?</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>Yes; and my prosp'rous Fate shall mount me far above thy shallow Stratagems.</P>
+</SP>
+<SP>
+<PB N="22" REF="16">
+<SPEAKER>Mar.</SPEAKER>
+<P>I'll pull thee down from that ambitious height, and trample thee in Ashes.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>Do.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Expect it.</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>And from that low recess I'll forge a plot shall blow thee into Air.&mdash;</P>
+</SP>
+<L>I'll make that Devil in thy Envy tame.</L>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<L>And if I fail thee may I sink and dam.</L>
+</SP>
+<STAGE>Ex.</STAGE>
+</DIV3>
+</DIV2>
+<DIV2 N="3" TYPE="act">
+<HEAD>The Third ACT.</HEAD>
+<STAGE>Enter <HI>Sneak</HI> and Mrs. <HI>Snare.</HI></STAGE>
+<SP>
+<SPEAKER>Sneak.</SPEAKER>
+<P>NAy! prethee, <HI>Pegg,</HI> have patience.</P>
+</SP>
+<SP>
+<SPEAKER>Snare.</SPEAKER>
+<P>Tell not me of patience, Sir, for my part I can stay no longer; you see my condition; if you will consider, so; if not, Sir <HI>Roger</HI> shall know that the abuse of so innocent a person as I was, de|serves better satisfaction.</P>
+</SP>
+<SP>
+<SPEAKER>Sneak.</SPEAKER>
+<P>Innocent!&mdash;'Sbud, she was a Strumpet to the whole Colledge before I knew her: Innocent, with a pox!</P>
+</SP>
+<SP>
+<SPEAKER>Snare.</SPEAKER>
+<P>Sir, do not grumble, nor say your Devils <HI>Pater Noster</HI> to me, but give me money; Fifty Pounds I demand, which I think is reason|able enough considering the charge of my journey.</P>
+</SP>
+<SP>
+<SPEAKER>Sneak</SPEAKER>
+<P>You might have staid till I came back agen, I was not run|ning away.</P>
+</SP>
+<SP>
+<SPEAKER>Snare.</SPEAKER>
+<P>But I was, Sir&punc; and so might you for any thing I know: Come, come, Sir, I am to be baffled no more; I am grown older now, make me thankful.</P>
+</SP>
+<SP>
+<SPEAKER>Sneak.</SPEAKER>
+<P>Ay, in impudence, by <HI>Ierico:</HI> she has been snapt it seems for|merly,&mdash;but has now learnt cunning. Ah, plague o' these Sciences, I say still!&mdash;Come wilt thou be civil? wilt thou take Twenty Pounds? Pox, use a little Conscience in thy dealings; thou wilt thrive the better for't.</P>
+</SP>
+<SP>
+<SPEAKER>Snare.</SPEAKER>
+<P>I'll abate not a Farthing, Sir; Don't tell me of Conscience.</P>
+</SP>
+<SP>
+<SPEAKER>Sneak.</SPEAKER>
+<P>'Sbud, wou'd she were i'th' Sea, and a Millstone about her neck: I must give it; for if my Uncle comes and sees her, I am undone.</P>
+</SP>
+<STAGE>Enter <HI>Betty.</HI></STAGE>
+<SP>
+<SPEAKER>Betty.</SPEAKER>
+<P>O Sir, what shall we do? Sir <HI>Roger</HI> and my Master are just coming.</P>
+</SP>
+<SP>
+<PB N="23" REF="16">
+<SPEAKER>Sneak.</SPEAKER>
+<P>Oh unhappy minute! if he sees me I am lost for ever: No hole nor corner to hide us in, my little Rogue? 'Sbud here's a Guiney for thee do but contrive handsomly.</P>
+</SP>
+<SP>
+<SPEAKER>Betty.</SPEAKER>
+<P>Well, Sir,&mdash;I see you are a Gentleman; therefore I'll help you: this door opens to my Ladies&punc; hamber; there you may hide your selves;&mdash;and at night when it begins to grow dark, I'll come and let you out.</P>
+</SP>
+<SP>
+<SPEAKER>Sneak.</SPEAKER>
+<P>With all my heart! Oh I've an Ague on me.&mdash;</P>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE>Enter <HI>Ranger</HI> and <HI>Emilia.</HI></STAGE>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>Are you still resolv'd?</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>Assure your self I am and shall be ever.</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>Give me but hopes, and I'll forget all injuries, and ask your pardon.</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>Fie, this from a Man of Wit, one that can plot so well? 'tis impossible: what wou'd you have me do?</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>Desert young <HI>Rashley:</HI> Come, I beg thee do it.</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>Not for the World! Oh Heav'n! desert him! I love him, Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>Go on then, Devil, and if I don't plague thee!&mdash;</P>
+</SP>
+<STAGE>Enter <HI>Bubble,</HI> Sir <HI>Roger, Rashley, Fumble.</HI></STAGE>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Now for the Venison, <HI>Tom!</HI> you'll stand to your Bargain?</P>
+</SP>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>Firmly, Sir, win it, and 'tis yours.&mdash;Ha!&mdash;what a De|vil makes <HI>Ranger</HI> here?</P>
+</SP>
+<SP>
+<SPEAKER>Sir Rog.</SPEAKER>
+<P>Madam, I hope you'll excuse my last abrupt departure: my nature, Madam, is merry, and in verity careless sometimes. I have not since I came to <HI>England</HI> atchiev'd the Polite Method of Courtship and Address; but if blunt Actions, kind Behaviour, and merry Songs can do it, I think I have shown an example, have I not, old Signior!</P>
+</SP>
+<SP>
+<SPEAKER>Fumb.</SPEAKER>
+<P>Ifack, Sir, and 'tis right, let who will say the contrary; what does he say now? Madam, you may believe him.</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>Any thing, Sir, rather than put you to the trouble of an A|pology&punc;</P>
+</SP>
+<STAGE><HI>Emil.</HI> frowns on <HI>Rashley.</HI></STAGE>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>What think you now, Sir? do you observe her angry Look? do but see what an Eye of indignation she casts upon me!</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Ay, ay,&mdash;I'll put out her Eye of indignation presently; I'll fetch her down with her haughty looks in a moment; I'll make her look as I'd have her, or I'll put her head into a Pudding Bag.</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>Sdeath, how she looks! here's another plot a hatching.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Wife! I have brought honest <HI>Tom</HI> here to be reconcil'd to thee; and to take away all manner of distastes, he says he will give thee a Squirril at any time, woult thou not, <HI>Tom?</HI></P>
+</SP>
+<SP>
+<PB N="24" REF="17">
+<SPEAKER>Rash.</SPEAKER>
+<P>Sir, and my heart into the bargain, if she please to pardon me.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Why, look ye now;&mdash;he's as honest a Fellow as lives, I'll say that for him.</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>Sir, the affront he offer'd me was so contrary to my nature, and his behaviour so opposite to his Duty and Character, that to for|give him, would argue my Spirit as mean as by his late deportment one might guess his breeding.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>What! dare you be refractory?&mdash;Hoh!&mdash;do it, or by the Lord <HI>Harry</HI> I shall be very sharp upon you, that's in short.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<L>Now all the Fiends that dwell beneath the Center,</L>
+<L>And hourly study deeds subtle and horrid,</L>
+<L>To sooth and snare the Souls ye mean to dam,</L>
+<L>In favour of your Commonwealth appear,</L>
+<L>And to be still more Devillish, coppy her.</L>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Still refrectory? Then thus, I break the Truce, and fally out with my full power.</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>Sir, do you not see her artifice? This is nothing what she intends; 'tis all feign'd, and you are abused, by Heav'n: Sir, there's nothing of this real.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Ah! wou'd it were not. But <HI>Ned,</HI> thou canst talk well, pre|thee go and try if thou canst reconcile 'em; Faith I'll do as much for thee; prethee try.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>Insufferable ignorance! No Brains! No sence of feeling! Sir, this is all dissimulation, and to carry on their design of abusing you.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Why, peace, I say, not a word of this; 'sbud I shall lose my Venison by this Fools prating, if I let him alone a little longer. Wife, I command you once more; and instantly obey upon this Summons, or I'll turn you away like a Vagabond for contempt of my Government. Sir <HI>Roger!</HI> try you to perswade her; 'sbud this <HI>Ned</HI> here had lik'd to have spoil'd all; but what says <HI>Scoggen?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>'Tis hard to force lost friendship to the blood when once 'tis banisht.</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>Had she been bred a Witch she had lost half her Character.</P>
+</SP>
+<SP>
+<SPEAKER>Sir Rog.</SPEAKER>
+<P>Come, Madam! forget and forgive; 'tis necessary your Husband should be obey'd. Mr. <HI>Rashley,</HI> I am sorry to see you so de|serted by the Ladies you us'd to be most in favour withal.</P>
+</SP>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>Not I: but you weigh my Merits in your own Scale, Sir <HI>Roger.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Sir Rog.</SPEAKER>
+<P>No faith; I am old now; but about some thirty years ago I could have said something; I could have fetcht 'em about with a Horse-pox ifaith; I never flincht, I was a true Knight-Errant, I.</P>
+</SP>
+<SP>
+<SPEAKER>Fumb.</SPEAKER>
+<P>What is the meaning of all this? Ifack I cannot guess the mat|ter: but mum, I must not discover my failing.</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>Well, Sir, rather than be thought disobedient I will submit; but Heav'n knows with what an ill will&mdash;</P>
+</SP>
+<SP>
+<PB N="25" REF="17">
+<SPEAKER>Bubb.</SPEAKER>
+<P>Why so, now all's well, and the Venison's mine,&mdash;ha, ha, ha&punc;&mdash;I thought I should have it: Faith, <HI>Tom,</HI> be civil, and kiss her, 'tis no confirmation else.</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>Oh dam him, dam him! was ever such a Coxcomb?</P>
+</SP>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>'Tis now about Five; at Seven I will not fail ye: Madam,&mdash;you have given me new life with this favour.</P>
+</SP>
+<STAGE>Aside.</STAGE>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>At Seven? (Good!) Thanks to my Ear for that discovery: I shall go near to spoil your assignation.</P>
+</SP>
+<STAGE>Aside.</STAGE>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Go now, get you in, and begin a Set at Ombre, and I'll come and make one presently. By the Lord <HI>Harry</HI> I am glad they are friends with all my heart.</P>
+</SP>
+<STAGE>Ex. Sir Roger, Fumble, Rashley, Emilia smiling.</STAGE>
+<STAGE>Enter <HI>Maria.</HI></STAGE>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>So <HI>Paris</HI> stole the Wife of <HI>Menelaus,</HI> and <HI>Troy</HI> grew bright with Fire.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Hey day!&mdash;<HI>Troy!</HI> why what hast thou to do with <HI>Troy? Ned,</HI> prethee let us talk of our own affairs.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>And wisely too; for your Reputation suspended one hour will grow nauseous; the Rabble will shout at ye, and point their fingers, and by your Name you will grow infamous.</P>
+</SP>
+<STAGE>Enter <HI>Betty</HI> at door.</STAGE>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>My Name, Sister! what dost mean? what name?</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>A Cuckold: Can you bear it, Sir? A Cuckold-Buz.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>By the Lord <HI>Harry</HI> 'tis but a scurvy Name for a Man of Ho|nour, that's the truth on't; but what is't to me?</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>Nothing, Sir, nothing; only you are the Man, that's all.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>That's all, quoth-a? what a pox does he mean?</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Dull Man! I blush to call ye Brother, that kind name, your want of sence taken from you: Can you see the guilty Love 'twixt <HI>Rashley</HI> and your Wife, the melting Touches, and the glancing Eyes? the often Pressings, Sighs, and kind Caresses, and all the signs of shame and burning Lust, and yet be patient? Oh the insipid dulness of a Husband! A Husband.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P><HI>Rashley</HI> and my Wife! Pish,&mdash;why, I reconcil'd 'em but just now; she has been angry with him this week for not giving her a Squirril he promis'd her.</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>A Squirril?&mdash;Hah! a very fine present that, if you un|derstood all.</P>
+</SP>
+<SP>
+<SPEAKER>Betty.</SPEAKER>
+<P>Happy discovery! this shall to my Lady immediately.</P>
+</SP>
+<STAGE>Ex.</STAGE>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>That anger was design'd: You are abus'd, and I that have a share in all your ignominy, have now resolv'd prevention. Oh that
+<PB N="26" REF="18">
+ever I shou'd live to be a Witness of this shame!</P>
+<STAGE>Weeps.</STAGE>
+<P>Heav'n knows how I have lov'd her, instructed her, and told her the Duty of a Wife was to obey and be constant; yet all would not do: therefore I am resolv'd to right my self and you in the discovery; nor shall our race in future times be branded with any Spurious Off|spring.</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>I could not be believ'd, I was impertinent; but if you knew what I have seen, Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Seen! why prethee what hast thou seen, <HI>Ned?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>Faith, 'twill be no secret long, therefore I'll tell you: I have seen her lie in <HI>Rashley</HI>'s Arms and kiss him; play with his Nose, and clap his Cheeks, and laugh till her whole Frame was shook with Titu|lation; I guess, Sir, 'twas at you, but will not swear it.&mdash;She'd sing, and breathe upon him, and with her Hand lockt fast in his, and Eyes with rapture gazing on his Face, she'd tell him wanton Stories of her love, and of her easie Husband. He, to requite her, wou'd dis|play her Charms, and betwixt every word imprint a Kiss to prove his amorous Argument.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>And you have seen this?</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>More than this, Sir, I have seen (but to tell you is to be call'd Impertinent!) such things, such monstrous things.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>My Head begins to ake;&mdash;all is not well; prethee, <HI>Ned,</HI> out with 'em; come, I am thy Friend; and 'sbud, if I thought any thing were done in Hugger Mugger.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>What would you do then?</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Do!&mdash;Why, I'd ask him civilly whether his meaning were good or no.</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>His meaning?&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Ay:&mdash;you know 'tis best to begin mildly, that afterwards, if occasion be, a man may cut his Throat with greater assurance.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Stare on your Infamy with Eagle-aspect! Behold the evidence of Shame writ in her Eyes and Actions! See every Glance, each Touch, each kind Embrace; and when you have seen 'em in the very fact, stand coldly unconcern'd, and ask the meaning. Ah! Curse upon all dulness.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>Let <HI>Rashley</HI> smile and point his Fingers at ye, tell you a Story of a <HI>Quondam</HI> Mistriss, (which is indeed your Wife) how oft he has lain with her, and pleasantly deceived the easie Cuckold;&mdash;yet as a President of excellent Nature, I cou'd advise you still to ask his mean|ing,&mdash;his meaning.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Watch all his Actions; and when some kind Genius has, to undeceive you, made you a Spectator of <HI>Rashley,</HI> full of hopes, and all undrest, entring your Bed with a glad Lovers haste, step in, and pull him back; and ask his meaning, his meaning!</P>
+</SP>
+<SP>
+<PB N="27" REF="18">
+<SPEAKER>Bubb.</SPEAKER>
+<P>My Bed! my Bed is my Castle; and, by the Lord <HI>Harry,</HI> he that violates it but with a look, my First shall crush him into Mummy.</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>So! now he begins to take fire.&mdash;</P>
+</SP>
+<STAGE>Aside.</STAGE>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>He's a Son of a Whore, a Dog, a Bitch, a Succubus; and if I find this true, I'll cut him piece-meal though he were Sword-proof, and had a Witch to his Mother.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Ay, this is meaning now! Go on and prosper.</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>These words display a reviv'd sence of Honour, nor shall you want encouragement to forward it; and since I see your Eyes and Un|derstanding are open'd, I, as your Friend, will give this secret to you: 'Twas my good fortune to hear an Assignation appointed between 'em this night at seven a Clock; I guess 'tis now very near the hour; you have a Key to the Chamber, go thither at the time appointed, and then never trust your Friend if you find her not the falsest of Women.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>If I do, I'll make her the ugliest in Christendom: for I'll cut off her Nose, and send her to the Devil for a New-Years-Gift.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Here she comes, we must not be seen, 'twill spoil all: talk of going abroad, and carry it handsomly, for fear she mistrusts.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>But where shall we meet?</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>At my lodging in the <HI>Strand,</HI> about half an hour hence.</P>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE>Enter <HI>Emilia.</HI></STAGE>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>What, studying, my Dear? Come, come, indeed you must not be so thoughtful: Did you not promise to come and make one at Ombre.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Now if I might be hang'd, cannot I speak an angry word, no:&mdash;I wont play, I am busie, I am going abroad for two or three hours.&mdash;Farewel.</P>
+</SP>
+<STAGE>Ex:</STAGE>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>'Tis so; our Intrigue to night is discover'd to him, I find by his actions; the Infernal Collegues, <HI>Ranger</HI> and <HI>Maria,</HI> have been pos|sessing him with some strange resolutions: But since 'tis but what I expected, it gives me the less trouble, and 'tis ten to one but I have a Counterplot left that shall undo their policies, <GAP DESC="illegible" REASON="missing" EXTENT="1 word"> the Devil made one in the Invention. Did you meet my Husband?</P>
+</SP>
+<STAGE>Enter <HI>Rashley.</HI></STAGE>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>Yes, but in a strange humour: He lookt with so dull an aspect, and return'd my salute so coldly, and so far from his usual manner, that I more than half fear&mdash;our Intrigue is discover'd.</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>Without doubt it is:&mdash;They have plaid their parts to disco|ver, and it now belongs to us to study to repel. Come, summon your Wits together, and advise what's to be done in so Critical a Conjuncture; you had a contriving Genius once.</P>
+</SP>
+<SP>
+<PB N="28" REF="19">
+<SPEAKER>Rash.</SPEAKER>
+<P>Ay, 'tis true, Madam, I had once: but this damn'd Cham|paigne has so dull'd it, that Igad 'tis now worth little or nothing: Madam, you know my Talent in plot is insignificant; but if a Ran|counter, or cutting <HI>Ranger</HI>'s Throat may do the bus'ness, I'll thrust my hand as far as any man. I'll spoil his plotting by Heav'n, say you but the word.</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>No! fighting will do in any other bus'ness better than this: for in stead of defending, it blasts my reputation.</P>
+</SP>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>The Devil take me, if I had not like to have forgot that too: well, I am a dull Rogue, Madam, that's the truth on't.</P>
+</SP>
+<STAGE>Enter <HI>Betty.</HI></STAGE>
+<SP>
+<SPEAKER>Betty.</SPEAKER>
+<P>Oh Madam, you are betray'd! Mr. <HI>Ranger,</HI> by what means Heav'n knows, has been inform'd of your Assignation, I accidentally overheard him telling it to my Master, and Madam <HI>Maria</HI> coming in, seconded his Story with an extravagant fury; and in conclusion 'twas design'd that he should pretend business abroad, but privately return home and surprize ye.</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>'Tis as I imagin'd, and I am glad of this caution: Now we may take breath agen.</P>
+</SP>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>Gad and so am I.&mdash;But is there no way to keep on the plot, and deceive 'em still?&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>'Tis in my head, and will have birth presently.&mdash;<HI>Betty,</HI> you have <HI>Sneak</HI> still fast in my Chamber?</P>
+</SP>
+<SP>
+<SPEAKER>Betty.</SPEAKER>
+<P>Yes, Madam, he's securely lockt in, and here's the Key.</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>Follow me then, and do as I directed you: In the mean time, Sir, go you to your Chamber, and put on your Gown and Night-Cap as if you had been in Bed; and when you hear me stamp come out, and wonder: Let me alone for the rest,&mdash;I'll plague 'em with an after-plot. Away, the minute's near.&mdash;</P>
+</SP>
+<STAGE>Ex. <HI>Emil.</HI> and <HI>Betty.</HI></STAGE>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>What she intends I know not, but am certain of the success by the assurance she does it with.&mdash;Hah! 'Tis a rare Creature, and by Heav'n is Mistriss of <GAP DESC="illegible" REASON="faint" EXTENT="1 letter">he sweetest Nature, and noblest Trust, and most substantial good English Principles of any Woman in <HI>Europe.</HI> Well,&mdash;if Cuckolding be a Crime, 'tis the sweetest Crime in Christendom, and has certainly the most Practisers. But let that pass; now to my Gown and Night-Cap.</P>
+</SP>
+<STAGE>Exit.</STAGE>
+<STAGE>Enter Sir <HI>Roger, Fumble, Cordelia,</HI> and Servant.</STAGE>
+<SP>
+<SPEAKER>Sir Rog.</SPEAKER>
+<P>'Sdeath! I have had confounded luck to night;&mdash;not a good chance since I begun; nor no Mirth neither, there's the plague on't.&mdash;Had I had the liberty to have sung two or three merry
+<PB N="29" REF="19">
+Catches, and have lost my Money with a Trolly Lolly&mdash;Lo,&mdash;it had been nothing.&mdash;Here;&mdash;Hey;&mdash;where's <HI>Cob,</HI> call him hither quickly, and let us go.</P>
+</SP>
+<SP>
+<SPEAKER>Servant.</SPEAKER>
+<P>Sir! I have not seen him these two hours; I believe he's gone home.</P>
+</SP>
+<SP>
+<SPEAKER>Sir Rog.</SPEAKER>
+<P>How! what without taking leave of his Mistriss? 'tis im|possible.</P>
+</SP>
+<SP>
+<SPEAKER>Fumb.</SPEAKER>
+<P>Sir <HI>Roger,</HI> you are disturb'd me thinks; what is the matter? Hah! your behaviour seems to publish that&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Sir Rog.</SPEAKER>
+<P>No great matter, Sir: Pox o' this old Fool.</P>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<P>Sir, it ill becomes a person of your gravity to be angry on so small an occasion.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Sir Rog.</SPEAKER>
+<P>Small! By Heav'n, Madam,&mdash;'tis a matter of moment: What, run away without taking leave? In verity 'tis barbarous, and derogates from his Birth and Breeding; nor can I, though his Kinsman, excuse&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Fumb.</SPEAKER>
+<P>What does Sir <HI>Roger</HI> say, Madam? does he rally. Ha! he's a merry Man, and a good Fellow, and ifack I love mirth: for my part I hate your drowsie, insipid, flegmatick Fellows, that sleep over a Glass, and talk of nothing but State-Politicks:&mdash;But Sir <HI>Roger</HI> is a man for the purpose, a merry jolly-man, He.</P>
+</SP>
+<SP>
+<SPEAKER>Sir Rog.</SPEAKER>
+<P>Sir, you may spare your Commendations for them that de|light in 'em. What an impertinent old Fellow 'tis?&mdash;Pray, Sir, no more of this, I am not pleased with it.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Fumb.</SPEAKER>
+<P>Your Song of Sir <HI>Thomas Fairfax,</HI> and the rest of the brave old Fellows, was very fine, Sir <HI>Roger.</HI>&mdash;Well! I'll not be positive, but there was certainly a great deal of Judgment and sheer Wit in some of those Rump-Songs.</P>
+</SP>
+<SP>
+<SPEAKER>Sir Rog.</SPEAKER>
+<P>'Sdeath! this is the most insufferable old Fellows: Pox, tell not me of Rump Songs&punc; Sir in Verity, wou'd you had been hang'd up in stead of the Rump,&mdash;that I might have been free from the noise.&mdash;But, Madam, as I was saying&punc;&mdash;upon my Honour I never knew <HI>Cob&punc;</HI> in such an errour.</P>
+</SP>
+<SP>
+<SPEAKER>Fumb.</SPEAKER>
+<P>Then, Sir <HI>Roger,</HI> Chevy-Chace, and the Hunting of the Hare, is finely penn'd! finely penn'd! Ifack it was&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Sir Rog.</SPEAKER>
+<P>Oh the Devil, is there no riddance of this Clack? because he can hear nothing, he wou'd speak all.</P>
+</SP>
+<SP>
+<SPEAKER>Fumb.</SPEAKER>
+<P>Ay, so it was, Sir, so it was.&mdash;But Ifack that Hunting was most excellently contriy'd&punc; Ah! he makes the Dogs speak notably. <HI>Ieod</HI> and the Hare repart&eacute;es agen very well for an Animal of her Mag|nitude.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Sir Rog.</SPEAKER>
+<P>'Sbud. I shall grow as deaf as he if I stay longer: I must go seek my Nephew: Come, Madam, lets go away and leave him; I am sure his Eyes are so defective he cann't miss us presently.&mdash;</P>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<SP>
+<PB N="30" REF="20">
+<SPEAKER>Fumb. solus.</SPEAKER>
+<P>And tho' some petulant, insignificant, and disaffected persons have rais'd Calumnies by calling it Doggrel and fustian, and such like; yet Ifack the thing is really a witty, sacetious, (nay, and as some think) a Moral Satyr: for mark me, Sir <HI>Roger,</HI> and Madam pray give your attention, for the Dogs were Hieroglyphick-Characters of Fanaticks, as the Hare was of the Quakers, and ifack I have often heard the Sisters sing it in stead of an Hymn or an Anthem, for the Conversion of Unbelievers; and nay, and as a greater rarity I have heard it acted to the life betwixt a Dog-Phanatick and a Conny&punc; Quaker.&mdash;But ifack,&mdash;I think you mind me not.&mdash;Ha, Sir <HI>Roger,</HI>&mdash;Madam,&mdash;Sir <HI>Roger,</HI> Madam,&mdash;what, a vacuity?&mdash;Gone? well.&mdash;</P>
+<STAGE>Pulls out Spectacles.</STAGE>
+<P>I'll after, and redeem all; but <HI>Ieod,</HI> this was a little uncivil.</P>
+</SP>
+<STAGE>Exit.</STAGE>
+<STAGE>Enter <HI>Ranger, Betty</HI> with a Candle sets it on the Table.</STAGE>
+<SP>
+<SPEAKER>Betty.</SPEAKER>
+<P>Come, Sir, and with as little noise as you can for fear of dis|covery. I swear were you not a man, to whom I am sensibly oblig'd, I should not be drawn to this Infidelity.</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>I will reward thy care; are they together?</P>
+</SP>
+<SP>
+<SPEAKER>Betty.</SPEAKER>
+<P>Yes, Sir, in that Room there.</P>
+</SP>
+<STAGE>Pointing to the little door.</STAGE>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>Take this, and begone, I have no further service for thee, and I would have her ignorant that this is thy discovery: Away.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Betty.</SPEAKER>
+<P>The discovery will add little to your content: but since I have the profit, I care not.</P>
+</SP>
+<STAGE>Aside.</STAGE>
+<STAGE>Exit.</STAGE>
+<STAGE>Enter <HI>Bubble</HI> and <HI>Maria.</HI></STAGE>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P><HI>Ned!</HI> what says she? are they met?</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>Securely, and with a great deal of content, they are in that Room in the dark; (met!) Ah, Sir! they are both better practis'd than ever to be tardy in a Love-Intrigue.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Now I think I have trapt her finely.&mdash;Oh my Joy!&mdash;I shall not be able to contain my self.&mdash;</P>
+</SP>
+<STAGE>Aside.</STAGE>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>A Man of Wit and Honour thus abused! 'Tis horrible! A Cuckold! 'Sbud, 'tis a worse Name than a Conjurer,&mdash;and has more of the Devil in't:&mdash;but I'll be so reveng'd, the World shall tremble at it: I'll first cut off her Hair, to affront her Family; then the want of a Nose shall proclaim her Bawd, and the Penny-Pot-Poets shall make Ballads on her.&mdash;</P>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>So! this thrives as I would have it, and we have snapt 'em finely in the nick! just when the Intrigue was at its best perfection! Oh Revenge!&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Ha, ha, ha! Nay, and at such a time when all help is deny'd
+<PB N="31" REF="20">
+'em; when her Blushes, Sighs and Entreaties are all fruitless; when her exasperated Husband's rage flows high, and best of all when <HI>Rash|ley</HI> is defenceless. O Wit! I love thee for this Stratagem!</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>She dar'd us to persevere; slighted our plots, and had the confidence to make descriptions of her kind Intrigue before her Hus|bands face, then laught at us.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>'Tis now our time; Ha, ha, ha! I thought I could not fail.</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>No; and this happy Minute brings me more perfect pleasure, and more true delight, than pristine Ages: For she's one whom Hell design'd for its chief Instrument; She will out-lye a Syren, cheat the Devil, and dam more Souls to further her Intrigue than <HI>Charon</HI>'s Boat has room for; yet I own a kind of Mungrel love, and must enjoy her tho' Legions were her guard.</P>
+</SP>
+<STAGE>Aside.</STAGE>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Hark!&mdash;</P>
+<STAGE>A shreik within.</STAGE>
+<P>He's as good as his word: Now I hope she'll own her Sisters Wit above her.&mdash;Well!&mdash;this was rarely plotted.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>By Heav'n it was,&mdash;and fit to be Chronicled, Madam:&mdash;Your Wit surpasses humane thought, and shou'd be spoken of with wonder: You plot with such assurance, that&mdash;</P>
+<STAGE>Enter <HI>Emilia.</HI></STAGE>
+<P>Hell! Death! and Confusion! Can I believe&punc; my Eyes? Shee here!</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>I am confounded, and have lost my sences. Sure, Sir, we dream: Are we awake, think you?</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>No! nor shall never wake when I design to raise my Wit above the poor weak Creatures. I could laugh now, but I swear I pity ye. Wear out your tedious Nights in dull design, and then i'th' Morning hatch the Abortive Brood which ere Night turns to nothing; slender Encouragement, Heav'n knows, for Wit: And you, Sir, plot and sweat, and plot agen for Moon-shine in the Water: Poor reward, Sir, for one so well skill'd in Intrigue as you are!&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Oh that I had thy heart here in my hand! How pleasant were the Diet?&mdash;Fate and Death! was ever such a Devil?</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>No! never! Therefore since thou art a Devil, as I now am sure thou art, have mercy on me, and do not take my Soul for my first Crime,&mdash;and I will plot no more. my Conquerour; I'll honour thee;&mdash;Good Devil, do not hurt me.</P>
+</SP>
+<STAGE>Kneels.</STAGE>
+<STAGE>Shreiking within.</STAGE>
+<STAGE>Enter <HI>Bubble</HI> dragging in <HI>Snare.</HI></STAGE>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Strumpet! Whore! Witch! I'll spoil your Curls by the Lord&punc; <HI>Harry.</HI> O Lord! my Wife;&mdash;and shee that I have beaten a stranger.&mdash;</P>
+</SP>
+<SP>
+<PB N="32" REF="21">
+<SPEAKER>Snare.</SPEAKER>
+<P>Oh Heav'n! was ever poor sinner so abused?&mdash;</P>
+</SP>
+<STAGE>Weeps.</STAGE>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Madam, I beg your pardon, and am asham'd of my fault; but I'll make you amends presently.&mdash;</P>
+</SP>
+<STAGE><HI>Bubb.</HI> Looks amazedly at his Wife, then at <HI>Snare,</HI> then at a lock of black hair in his hand.</STAGE>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>Well, nothing but the greatest Devil could have brought this Woman hither for this Intrigue, and therefore once more I acknowledge thy power.&mdash;</P>
+</SP>
+<STAGE>To <HI>Emilia</HI> kneeling.</STAGE>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Ay! you had need ask her pardon; 'tis you have betray'd us. Chicken! dear Chicken,&mdash;don't srown so:&mdash;I confess I was a Fool;&mdash;but forgive me but this once, and if ever I offend agen, I'll give thee leave to Cuckold me indeed.</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>Indeed, Sir, your jealousie is a little severe, I wonder what I have done to deserve it.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Nothing, I know thou hast not; prethee forgive me.</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>But to be disturb'd thus when I was at my Devotion.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Prethee forget it: Come, <HI>Tom,</HI> you may come out now, here's none but Friends.</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>Who do you mean, Sir?</P>
+</SP>
+<STAGE>Stamps with her foot.</STAGE>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P><HI>Tom Rashley:</HI>&mdash;Poor Fellow, I warrant now he'll be so bashful.</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>So, that's something yet, and I'll fetch him out or bleed for't.&mdash;</P>
+</SP>
+<STAGE>Ex.</STAGE>
+<STAGE>Enter <HI>Rashley</HI> at the other side.</STAGE>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>Look, yonder he is!</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>I find it now,&mdash;and this is all design'd: O Devil! Devil!</P>
+</SP>
+<STAGE>Enter Sir <HI>Roger</HI> after <HI>Rashley.</HI></STAGE>
+<SP>
+<SPEAKER>Sir Rog.</SPEAKER>
+<P>What's the matter, Mr. <HI>Rashley?</HI> what's the matter.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P><HI>Rashley</HI> here? Hey day! who the Devil is that yonder then?</P>
+</SP>
+<STAGE>Enter <HI>Ranger</HI> dragging out <HI>Sneak.</HI></STAGE>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>Come, Sir, appear; I find you are now no <HI>Hercules.</HI> Hah!&mdash;Death more Miracles, <HI>Sneak!</HI></P>
+</SP>
+<SP>
+<SPEAKER>Sir Rog.</SPEAKER>
+<P>'Sdeath, my <HI>Gob!</HI>&mdash;and taken with a Wench: Why how now, Sirrah?</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>Now it works to my wish: prethee observe how they look.</P>
+</SP>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>Hush,&mdash;I do.</P>
+</SP>
+<SP>
+<SPEAKER>Sneak.</SPEAKER>
+<P>O Lord, Uncle, your mercy;&mdash;I was betray'd, seduc'd, as a man may say.&mdash;Go, go,&mdash;begone, I'll speak with you to mor|row.&mdash;</P>
+<STAGE>To Snare.</STAGE>
+<P>I say, Uncle, I was seduc'd, chowsed, cheated.</P>
+</SP>
+<SP>
+<PB N="33" REF="21">
+<SPEAKER>Sir Rog.</SPEAKER>
+<P>Catcht with a Wench?&mdash;Come, Sir, I'll talk with you.&mdash;Oh disgrace to the Family.&mdash;With a Wench? a lewd Wench? Come along, Sir;&mdash;I'll watch you henceforth.&mdash;</P>
+</SP>
+<STAGE>Ex. Sir <HI>Rog. Sneak.</HI></STAGE>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>Ha, ha! Why, here has been a great deal of Intrigue to night I see, Ha, Sir?&mdash;I am sorry now I went to Bed so soon:&mdash;But I have been in the sweetest Dream yonder.&mdash;</P>
+</SP>
+<STAGE>Gapes.</STAGE>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Here has introth been a great deal of Intrigue, as thou sayst, <HI>Tom:</HI> But no matter; now all's well: And since it has happen'd so well, a Day of Jubilee shall Crown it. To morrow is my Wedding-Day, and in memory of that happy hour that conjoined me and my sweet Chicken there together, we'll have a Feast;&mdash;and I'll sing, and roar, and drink <HI>cum privilegio.</HI> Go, wait on her in, <HI>Tom:</HI>&mdash;Chicken, remember we are Friends; Go,&mdash;I'll be with you pre|sently.&mdash;</P>
+</SP>
+<STAGE>Ex. <HI>Rashley</HI> bowing scornfully to <HI>Ranger</HI> and <HI>Maria.</HI></STAGE>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>Never was such a day, nor such a deed.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P><HI>Ned!</HI> let me have no more of your doubts nor counsels. D'ee hear! 'Sbud, I say once more my Wife is the honestest Woman in Christendom, and you shall hear from me.</P>
+</SP>
+<STAGE>Ex. <HI>Bubble.</HI></STAGE>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Was ever the like known?</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>Never since <HI>Adam;</HI> but she was a Devil before the Creation.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>I'll not give over thus.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>Nor I.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Your hand on't&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<L>Here! and may all the Demons that have pow'r</L>
+<L>In subtle plots help now, tho' never more.</L>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>I'll die but I'll perform it.&mdash;</P>
+<L>My Slights shall with Immortal Wit be wrought:</L>
+<L>And all my Sences shall convert to Thought.</L>
+</SP>
+<STAGE>Ex. Ambe.</STAGE>
+</DIV2>
+<DIV2 N="4" TYPE="act">
+<HEAD>The Fourth ACT.</HEAD>
+<DIV3 TYPE="scene">
+<STAGE>Enter Sir <HI>Roger</HI> and <HI>Sneak.</HI></STAGE>
+<SP>
+<SPEAKER>Sir Rog.</SPEAKER>
+<P>SIrrah! haunt me no more, I know thee not.</P>
+</SP>
+<SP>
+<SPEAKER>Sneak.</SPEAKER>
+<P>Nay, Uncle.</P>
+</SP>
+<SP>
+<SPEAKER>Sir Rog.</SPEAKER>
+<P>Go to your Wench, and let her entertain you; then stock Sir <HI>Ieremy</HI>'s Mannor-house at home with Bastards,&mdash;Birds of night, and teach 'em all to know their Father when you ha' done.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Sneak.</SPEAKER>
+<P>Good Uncle, let me speak.&mdash;</P>
+</SP>
+<SP>
+<PB N="34" REF="22">
+<SPEAKER>Sir Rog.</SPEAKER>
+<P>No place to bring your Cattel to but thither, under your Mistrisses Nose, thou most notorious Ass? Mercy o'me, what will this World come to? who could imagine that Sheeps Face of thine; that Mouth, whence ne'er came any thing that had sence; that Person that has as oft been thought a Puritan as thou hast been a Fool? Then that hanging Dog-look. I'll say no more, but the Devil is subtle.</P>
+</SP>
+<SP>
+<SPEAKER>Sneak.</SPEAKER>
+<P>Uncle, you know 'tis an old saying, We cannot appoint our own Destinies; nor did I foresee this: besides, Sir, if you knew her as well as I do, you'd find the Woman has some parts that are not contemptible.&mdash;'Sbud, I know what's what; I am not such a Fool.</P>
+</SP>
+<SP>
+<SPEAKER>Sir Rog.</SPEAKER>
+<P>Not such a Fool! In verity if thou wert but a grain nearer to a Natural, I'd beg thee of the King, and adopt another to inherit thy Estate. Not such a Fool!</P>
+</SP>
+<SP>
+<SPEAKER>Sneak.</SPEAKER>
+<P>No, so I say, Sir, since you go to that: Whoop! what a Pox you have forgot since you were young your self?</P>
+</SP>
+<SP>
+<SPEAKER>Sir Rog.</SPEAKER>
+<P>I young! why, Sir, I hope I got no Bastards.</P>
+</SP>
+<SP>
+<SPEAKER>Sneak.</SPEAKER>
+<P>No:&mdash;But you kept Whores that you did, and that's all one, <HI>bona fide.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Sir Rog.</SPEAKER>
+<P>This Rogue has heard all; I must stop his mouth. How, Sirrah, I kept Whores?</P>
+</SP>
+<SP>
+<SPEAKER>Sneak.</SPEAKER>
+<P>It has been thought so, Sir, since you go to that: Nay, 'tis no such Miracle now adays; there's many an old Badger about Town does the like; 'tis grown a custom now.</P>
+</SP>
+<SP>
+<SPEAKER>Sir Rog.</SPEAKER>
+<P>But 'tis not so customary with your Uncle, Sir: but come, pray express your self; what Women do the infamous World lay to my charge?</P>
+</SP>
+<SP>
+<SPEAKER>Sneak.</SPEAKER>
+<P>What Women! 'Bud are you ignorant? Hum, <HI>Nan, Pegg, Ioan of the Dairy, Sara, Ienny, Dorothy, Mary, Bridget.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Sir Rog.</SPEAKER>
+<P>Hold! hold, I say; 'Sdeath he'll reckon the whole Country presently: I must quiet him, the Rogue has me upon the hip; Harkee, <HI>Cob.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Sneak</SPEAKER>
+<P>Then the Parsons Wife, Sir, and the old Hostess at the Towns|end: You see the Fool has a good memory.</P>
+</SP>
+<SP>
+<SPEAKER>Sir Rog.</SPEAKER>
+<P>A waggish one I see thou hast: Ha, if thou could'st re|member Law-Cases as well, thou wouldst be a brave Fellow. Why, <HI>Cob,</HI> thou think'st thou hast paid me off now, dost not?</P>
+</SP>
+<SP>
+<SPEAKER>Sneak.</SPEAKER>
+<P>I know not, if my Wit flow too fast, Sir, I cannot help it&punc; 'tis a good that's thrown upon me, 'tis not my seeking: 'tis true, I have an unhappy way with me sometimes, but 'tis over presently, it never lasts long, that's one comfort.</P>
+</SP>
+<SP>
+<SPEAKER>Sir Rog.</SPEAKER>
+<P>In verity I see thou hast Wit, and now I'll cherish it. Why, <HI>Cob,</HI> my instruction is for thy good, Child, what will thy Mistriss think when she hears of it?&mdash;Come, come, in verity, <HI>Cob,</HI> 'twas ill done, 'twas ifaith.&mdash;But mum, no more words on't, I'll make all well agen.</P>
+</SP>
+<SP>
+<PB N="35" REF="22">
+<SPEAKER>Sneak.</SPEAKER>
+<P>So, so, I have brought him about finely; 'Sbud I did not think I had so much Wit, but I see a man may be mistaken in his own parts.</P>
+</SP>
+<SP>
+<SPEAKER>Sir Rog.</SPEAKER>
+<P>But d'ee hear, <HI>Cob,</HI> not a word more of these Wenches, let the foolish World say what it will.&mdash;Thou art a good Boy in ve|rity, I like thy Wit well: Thou know'st I have no &punc;Heir, and when I die, <HI>Cob,</HI> I will not say I'll give thee any thing, lest I should make thee proud; but expect, expect wonders may fall, who knows?&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Sneak.</SPEAKER>
+<P>By <HI>Ierico</HI> I would not have spoke on't now, but that I had nothing else to say, and you know 'tis a disgrace to a Scholar to be si|lent in company.</P>
+</SP>
+<SP>
+<SPEAKER>Sir Rog.</SPEAKER>
+<P>'Tis no matter, 'tis no matter: prethee how cam'st thou to know that <HI>Pegg</HI> and I were so intimate?</P>
+</SP>
+<SP>
+<SPEAKER>Sneak.</SPEAKER>
+<P>Ah, you'll be angry if I shou'd tell you.</P>
+</SP>
+<SP>
+<SPEAKER>Sir Rog.</SPEAKER>
+<P>In verity not I:&mdash;Angry?&mdash;Come, come, out with it, <HI>Cob,</HI> out with't.</P>
+</SP>
+<SP>
+<SPEAKER>Sneak.</SPEAKER>
+<P>Why, the truth is, I lay with her one night, and the Quean told me all.</P>
+</SP>
+<SP>
+<SPEAKER>Sir Rog.</SPEAKER>
+<P>Didst thou! God a mercy. (Dam him! what a Snake have I foster'd?) Done like a Cock o'th' Game in verity. Ah, when I was of thy years I cou'd have done as much my self.</P>
+</SP>
+<SP>
+<SPEAKER>Sneak.</SPEAKER>
+<P>Yes, she told me you had done as much: but mum, Sir, not a word more, I know my Kew.</P>
+</SP>
+<SP>
+<SPEAKER>Sir Rog.</SPEAKER>
+<P>'Sdeath, I shall be a by-word to th' Town.&mdash;How now?</P>
+</SP>
+<STAGE>Enter a Servant.</STAGE>
+<SP>
+<SPEAKER>Serv.</SPEAKER>
+<P>Sir <HI>Roger,</HI> I was just coming to your House for you; my Ma|ster desires yours and Mr. <HI>Sneak</HI>'s company immediately.</P>
+</SP>
+<SP>
+<SPEAKER>Sir Rog.</SPEAKER>
+<P>What, the Solemnity holds? this is his Wedding-Day?</P>
+</SP>
+<SP>
+<SPEAKER>Serv.</SPEAKER>
+<P>Yes, Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Sir Rog.</SPEAKER>
+<P>Tell him I am coming.&mdash;</P>
+<STAGE>Ex. Servant.</STAGE>
+<P>Come, <HI>Cob,</HI> let us go; and mum, d'ee hear? you understand me?</P>
+</SP>
+<SP>
+<SPEAKER>Sneak.</SPEAKER>
+<P>I warrant you, Sir.&mdash;</P>
+</SP>
+<STAGE>Exeunt.</STAGE>
+</DIV3>
+<DIV3 N="2" TYPE="scene">
+<HEAD>Scene 2.</HEAD>
+<STAGE><HI>Bubble, Emilia, Maria, Rashley, Ranger, Cordelia, Fumble</HI> sitting at a Table.</STAGE>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>COme, come, another Bumper about; my Chickens Health: Here, I am not wet through yet; <HI>Tom,</HI> what sayst thou?</P>
+</SP>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>With all my heart, Sir! Oh here comes Sir <HI>Roger</HI> and his Ne|phew.</P>
+</SP>
+<STAGE><PB N="36" REF="23">Enter Sir <HI>Roger</HI> and <HI>Sneak.</HI></STAGE>
+<SP>
+<SPEAKER>Sir Rog.</SPEAKER>
+<P>Mr. <HI>Bubble</HI> and Gentlemen, your most humble Servant.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Yours, good Sir <HI>Roger;</HI> I am glad to see you ifaith; and you, sweet Mr. <HI>Sneak.</HI> Well, Faith, Sir <HI>Roger,</HI> we have been Bumping it about here, we have been dipt, as the saying is: <HI>Tom Rashley,</HI> send it round; come, Sir <HI>Roger</HI>'s a Freshman, he'll drink an Ocean.</P>
+</SP>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>Fill every Man's Glass there: Mr. <HI>Ranger,</HI> you want it, 'tis Madam <HI>Emilia</HI>'s health.</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>I'll do you reason, Sir;&mdash;</P>
+<STAGE>All drink.</STAGE>
+<P>And ten to one but I have a stratagem shall dash this mirth.</P>
+<STAGE>Aside.</STAGE>
+<P>Are they ready?</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Hush! we are observ'd; they are&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>So, so! Come, now the Song, and then the Dance. Look ye, Gentlemen, you must know.</P>
+</SP>
+<SP>
+<SPEAKER>Fumb.</SPEAKER>
+<P>Come, come, Mr. <HI>Bubble,</HI> let's have t'other Soop, I say; ifack we loose time. Ah Sirrah, are you there? Gad I'll be with you pre|sently; dust it about once more, I say; the Wine has a pretty smack with't;&mdash;it cherishes, I like it well: come, another Soop, and then do what you will.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Fill Wine there!&mdash;Gentlemen, (as I was saying) I got this Song made purposely, 'tis in praise of Marriage, and there was not one ready made of 'em in Town; I searcht it all over.</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>Were you at the Poets Lodging?</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Yes, but they had none; for they told me 'twas a Song would not take: besides, they were so busie getting Plays up for the next Term, that I could hardly get one made.</P>
+</SP>
+<SP>
+<SPEAKER>Sir Rog.</SPEAKER>
+<P>Sir, you needed not have troubled 'em; you once had a very good Vein that way your self.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Yes, I was mightily given to rapture and flame once: I writ <HI>Tom Farthing:</HI>&mdash;I had a hand too in <HI>Colly my Cow,</HI> a Song that took well I can assure you: but this is of another kind in praise of marriage, Sir; and they told me the Town lov'd nothing but Satyrs against Mar|riage, and the reason was because they were affraid of being Cuckold|ed:&mdash;When, alas, poor silly Rogues, there's no such thing in Nature.</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>Well, of all stupid Animals a drowsie Husband is the most notorious:&mdash;&mdash;but I shall change your note presently I doubt not, Sir.&mdash;&mdash;</P>
+</SP>
+<STAGE>Aside.</STAGE>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>You shall hear, Gentlemen: Hey, the Song there and the Dance?</P>
+</SP>
+<Q><PB N="37" REF="23">
+<TEXT LANG="eng">
+<BODY>
+<DIV1 TYPE="song">
+<HEAD>SONG.</HEAD>
+<LG>
+<L>UNder the Branches of a spreading Tree,</L>
+<L><HI>Silvander</HI> sate, from care and danger free,</L>
+<L>And his inconstant roving humour shows</L>
+<L>To his dear Nymph, that sung of Marriage-Vows:</L>
+<L>But she with flowing Graces charming Air,</L>
+<L>Cry'd, Fie, fie, my Dear, give o'er,</L>
+<L>Ah, tempt the gods no more!</L>
+<L>But thy offence with penitence repair:</L>
+<L>For though Vice in a Beauty seem sweet in thy Arms,</L>
+<L>An Innocent Virtue has always more Charms.</L>
+</LG>
+<LG N="2">
+<HEAD>2.</HEAD>
+<L>Ah <HI>Phillida!</HI> the angry Swain reply'd,</L>
+<L>Is not a Mistriss better than a Bride?</L>
+<L>What Man that Universal Yoke retains,</L>
+<L>But meets an hour to sigh and curse his chains?</L>
+<L>She smiling cry'd, Change, change that impious Mind;</L>
+<L>Without it we could prove not half the Ioys of Love.</L>
+<L>'Tis Marriage makes the feeling Ioys Divine:</L>
+<L>For all our Life long we from scandal remove,</L>
+<L>And at last fall the Trophies of Honour and Love.</L>
+</LG>
+</DIV1>
+</BODY>
+</TEXT></Q>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Well sung ifaith: Look'ee, Gentlemen, is it not as I told you?</P>
+</SP>
+<SP>
+<SPEAKER>Sir Rog.</SPEAKER>
+<P>In verity very well, very well, Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Come, now the Dance.&mdash;</P>
+</SP>
+<STAGE>Dance.</STAGE>
+<STAGE>Enter Servant.</STAGE>
+<SP>
+<SPEAKER>Serv.</SPEAKER>
+<P>Sir, here's a Letter for you; it was left by a Porter, who said it requir'd no answer, and is gone.</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>So, now for a change of Countenance.&mdash;I think this will do.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>If not, I've writ a Letter that will: but let's observe.&mdash;</P>
+</SP>
+<STAGE>A DANCE.</STAGE>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>What the Devil has this Fellow given me here? A Letter? Pray Heav'n it be no challenge.&mdash;How?&mdash;What's here?</P>
+<STAGE><PB N="38" REF="24">Reads.</STAGE>
+<P>Sir, <HI>That you are blind, I have heard; that you are a Fool, I know; and that you are a Cuckold, I believe.&mdash;However, as a Friend, tho' unknown, I am bound in Conscience to give you this Information; Your Wife is false; You are abus'd; The Author of your wrong you know as well as your self, if you know your self as well as you know</HI> Rashley.</P>
+<P>Oh Heav'n! was ever such fate?&mdash;But hush, I'll smother my re|sentment till they are gone.&mdash;Come, Sir <HI>Roger</HI> and Gentlemen, there's a Tongue in the next Room, pray go and eat;&mdash;I'll be with you presently.&mdash;</P>
+</SP>
+<STAGE>Ex. all but <HI>Bubble, Ranger</HI> and <HI>Maria.</HI></STAGE>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>So, I see by this behaviour it takes, and I'll away, lest he should suspect me.&mdash;Now for my t'other plot.</P>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>O Sister, here's a new discovery; the Devil is come abroad agen.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>How? the Devil?</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Ay, in the likeness of a Letter: Here, prethee read it; 'tis his Character; I am sure it looks as if 'twere writ with a Cloven Hoof.&mdash;Hah!&mdash;what think'st thou?</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Sir, he calls you Fool here.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Ay, he's a little uncivil, that's the truth on't: but what's to be done, Sister?</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>A Cuckold too.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Ay;&mdash;was ever such an impudence?</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>I never heard of any: but 'tis no more, Sir, than I expected: Alas! 'tis nothing to be a Cuckold now.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Oh unfortunate estate of Marriage! by the Lord <HI>Harry,</HI> if this be true, I have prais'd it to fine purpose. But, Sister, thou wert wont to be kind; prethee advise me.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>'Tis to no purpose, Sir, you know I am envious, my words have double meaning: I did my Sister wrong in my last Story, pray let me offend no more.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Well, I confess I was to blame; but who the Devil cou'd have mistrusted her when the plot was carried so hansomly?</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Oh you will find, Sir, she has still more plots, and I find you so credulous and so wedded to your infamy, that for my part I am afraid to have any thing to do with it.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Help me but this once, and if I fail thee agen, may I be prov'd a Cuckold to the whole County, and my Case try'd in <HI>West|minster-Hall.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Well! once more then I'll assist you, and to confirm what that Letter has inform'd,&mdash;know, Sir, she is false; and tho' she frustra|ted our last plot by her Waiting-Womans means, she certainly met
+<PB N="39" REF="24">
+<HI>Rashley</HI> that night.&mdash;I am glad you credit a Strangers Letter; for my part I love her so well, I should have hardly caus'd a second breach between ye else: but since 'tis out, and you desire my assistance, fol|low me, and ere night I doubt not but to give you sufficient proof of your misfortune</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>With all my heart, dear Sister.&mdash;'Sbud, a Cuckold?&mdash;'Tis impossible, I ha' no Cuckolds face;&mdash;but I'll be resolv'd im|mediately.&mdash;</P>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE>Enter <HI>Ranger</HI> and <HI>Governess.</HI></STAGE>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>Do this, thou shalt command me.</P>
+</SP>
+<SP>
+<SPEAKER>Gov.</SPEAKER>
+<P>In truth, Sir, I am afraid 'twill be discover'd, and I would not have my Lady know it for the World.</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>I swear she never shall. What, dost thou doubt me? Besides, I'll be so grateful to thee, thou shalt never have cause to repent this Courtesie.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Gov.</SPEAKER>
+<P>Sir, you know you always might command me in any reason|able thing: pray speak it agen, Sir, what wou'd you have me do?</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>Why only plant me in or near her Chamber for a design I have, she shall be ignorant why,&mdash;or by what means I got thither; I'll still be careful of thy reputation: Come, take this Purse, and pre|thee do it willingly.</P>
+</SP>
+<SP>
+<SPEAKER>Gov.</SPEAKER>
+<P>Well, Sir, what you mean I know not; but Heav'n direct all for the best: I can deny you nothing, Sir; I lie in a Closset that joins to her Chamber, where you may both over-hear and speak to her.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>That above all things! prethee let's go.</P>
+</SP>
+<SP>
+<SPEAKER>Gov.</SPEAKER>
+<P>But for Heav'ns sake take care she knows not that I brought ye thither; I would not be seen in such a business for the World.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>Ne'er doubt, I warrant thee I'll be careful.</P>
+</SP>
+<SP>
+<SPEAKER>Gov.</SPEAKER>
+<P>Follow me then, Sir.&mdash;</P>
+</SP>
+<STAGE>Exeunt.</STAGE>
+</DIV3>
+<DIV3 N="3" TYPE="scene">
+<HEAD>Scene 3.</HEAD>
+<STAGE>Enter <HI>Fumble</HI> and <HI>Spatterdash.</HI></STAGE>
+<SP>
+<SPEAKER>Fumb.</SPEAKER>
+<P><HI>SPat.</HI> Sirrah!</P>
+</SP>
+<SP>
+<SPEAKER>Spat.</SPEAKER>
+<P>Here, Sir, here.</P>
+</SP>
+<SP>
+<SPEAKER>Fumb.</SPEAKER>
+<P>Whither is this Rascal gone? Well, ifack, I am too full of clemency; I must swinge this Rogue, or he'll never be good for any thing; he's at Nine-holes now, I'll lay my life: A damn'd Villain, that spends me Three-pence a day I know not how.</P>
+</SP>
+<SP>
+<SPEAKER>Spat.</SPEAKER>
+<P>O Lord, who I, Sir?</P>
+</SP>
+<SP>
+<PB N="40" REF="25">
+<SPEAKER>Fumb.</SPEAKER>
+<P>Who's within there? what, will no body hear me? Am I left desolate? I have not the plague I think.&mdash;Ha!</P>
+</SP>
+<SP>
+<SPEAKER>Spat.</SPEAKER>
+<P>Why, here am I, Sir; I have been here all this while.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Fumb.</SPEAKER>
+<P>Oh Sirrah, are you come? where have you been, ha? I say, where have you been, Rogue?</P>
+</SP>
+<SP>
+<SPEAKER>Spat.</SPEAKER>
+<P>No where, Sir, not I.</P>
+</SP>
+<SP>
+<SPEAKER>Fumb.</SPEAKER>
+<P>Sirrah! I must be left alone! must I! and when I have a message to send, go my self.&mdash;Hah!&mdash;Sirrah, Mr. <HI>Little-Pox</HI> has a Boy, that tho' he was stinted at Nurse, and is not above pocket|high, can run, and frisk, and jump upon occasion, Sirrah, know a Bayly by his Nose, and a Wench by her Buttocks, ye Rogue, and a good Linguist, and a pretty Pimp, Sirrah, and can hold the Door with a steady hand, ye Rogue: but thou, a Rascal, a Drone, art good for nothing.</P>
+</SP>
+<SP>
+<SPEAKER>Spat.</SPEAKER>
+<P>Any thing, Sir, I warrant you: try me, and you shall find I can hold a Door as well as he.</P>
+</SP>
+<SP>
+<SPEAKER>Fumb.</SPEAKER>
+<P>Why, how now, Sirrah? what, make mouths at me? is your Master grown your mirth? Ha, this will teach you better; this will new-mold you; I'll fetch you out of your damn'd looks ifack: French Grimaces, Rogue, French Grimaces?</P>
+</SP>
+<STAGE>Beats him.</STAGE>
+<SP>
+<SPEAKER>Spat.</SPEAKER>
+<P>O Lord, what shall I do? Because he's deaf, and cannot hear me, he thinks I mock him.&mdash;Hold, Sir,&mdash;for Heav'ns sake; upon my Faith I don't mock you;</P>
+<STAGE>Aloud.</STAGE>
+<P>'Tis all a mistake; and, Sir, you have beaten me for nothing.</P>
+</SP>
+<SP>
+<SPEAKER>Fumb.</SPEAKER>
+<P>What a noise the Rogue makes! Why, Sirrah, cannot you speak temperately, but you must roar thus? I am not so deaf, but I can hear without this Thunder-clap. But you do it in contempt, do you, Sirrah? Bless us, to what an impudence this Age is grown! But I'll fetch the Devil out, lest he should grow in ye,&mdash;thus.&mdash;</P>
+<STAGE>Beats him.</STAGE>
+<P>I should be loth to see thee hang'd till you come to years of discretion.</P>
+</SP>
+<SP>
+<SPEAKER>Spat.</SPEAKER>
+<P>Mercy o'me, what a Master have I? If <HI>I</HI> stay long here <HI>I</HI> shall be beaten into Mummy.</P>
+</SP>
+<SP>
+<SPEAKER>Fumb.</SPEAKER>
+<P>Come, Sir, now <HI>I</HI> have perform'd the part of a Master and a Friend in your Castigation, <HI>I</HI> have now a word or two by way of In|struction. Mark me, Sirrah,&mdash;nothing exasperates more than scorn, nor nothing pleases more than observance; a Master should be strict in finding occasion to beat his Servant, and a Servant should be careful in avoiding the beatings of his Master.</P>
+</SP>
+<SP>
+<SPEAKER>Spat.</SPEAKER>
+<P>So, he has taught me, now <HI>I</HI> shall be careful of avoiding it hereafter if my legs will carry me.</P>
+</SP>
+<SP>
+<SPEAKER>Fumb.</SPEAKER>
+<P>What, mouths agen, Sirrah, mouths agen?</P>
+</SP>
+<SP>
+<SPEAKER>Spat.</SPEAKER>
+<P>Umph.&mdash;</P>
+</SP>
+<STAGE>Makes a low Congee,&mdash;says nothing.</STAGE>
+<SP>
+<SPEAKER>Fumb.</SPEAKER>
+<P>Oh this submission pacifies: Come hither, <HI>I</HI> have a message for ye, and let me see how you can behave your self; 'tis a matter of moment.</P>
+</SP>
+<SP>
+<PB N="41" REF="25">
+<SPEAKER>Spat.</SPEAKER>
+<P>I'll do my best to please ye, Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Fumb.</SPEAKER>
+<P>What dost thou say now?&mdash;Look, look!&mdash;was ever such a Rascal as this? This Rogue knows well enough that I cannot hear him. Sirrah, come and lay your mouth to my ear, and then speak, if you would have me understand ye.</P>
+</SP>
+<SP>
+<SPEAKER>Spat.</SPEAKER>
+<P>Yes, Sir, I shall be very careful to remember it hereafter.</P>
+</SP>
+<SP>
+<SPEAKER>Fumb.</SPEAKER>
+<P>Rafters?&mdash;what Rafters, Rogue?</P>
+</SP>
+<SP>
+<SPEAKER>Spat.</SPEAKER>
+<P>Sir, I shall be careful to remember it hereafter.&mdash;</P>
+</SP>
+<STAGE>Aloud.</STAGE>
+<SP>
+<SPEAKER>Fumb.</SPEAKER>
+<P>O shall you so, Sir? and 'twill become you ifack: for look'ee, Sirrah, 'tis my humour as long as I am healthy and jovial, to cover failings and imperfections in Nature as well as I can; 'tis a Wise-mans vertue, and I have paterns for't every day. Ah! here are a sort of jolly, brisk, ingenious, old Signiors about Town, that with false Calves, false Bellies, false Teeth, false Noses, and a false fleering Face, upon the matter fill up Society as well as ere a Masquerading Fop of 'em all.&mdash;But to the matter: Sirrah, you must carry this Ring to <HI>Cordelia,</HI> and possess her with my love in an elegant manner: Stand there, and let me see how you can carry your self in such a business.</P>
+</SP>
+<SP>
+<SPEAKER>Spat.</SPEAKER>
+<P>Thus, Sir: I had my Honours from the Dancing-School.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Fumb.</SPEAKER>
+<P>O damn'd Rogue! what a Bow's there? 'tis worse than a Country Counsellors to a Client that has no money. Sirrah,&mdash;pull me your Hat off thus,&mdash;with a Grace:&mdash;Ah! I cou'd have done it rarely twenty years ago;&mdash;but ifack Time and Gravity defaces all things.&mdash;Come, Sirrah.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Spat.</SPEAKER>
+<P>Madam! my Master too well knowing the Charms of your Wit and Beauty are too sharp at all times to be opposed, has by me sent this Ring, and humbly desires&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Fumb.</SPEAKER>
+<P>Well, that last Honour was pretty well:&mdash;but come now, let's hear what you can say?</P>
+</SP>
+<SP>
+<SPEAKER>Spat.</SPEAKER>
+<P>'Sdeath! he has not heard me all this while;&mdash;what shall I do?</P>
+<STAGE>Knocking.</STAGE>
+<P>Oh some-body knocks; this was happy: Sir, there's some-body at door to speak with you.&mdash;</P>
+</SP>
+<STAGE>Aloud.</STAGE>
+<SP>
+<SPEAKER>Fumb.</SPEAKER>
+<P>Go see who 'tis, I'll follow.&mdash;This is a plaguy dull Rogue, but I must have patience, and take pains with him.&mdash;Nor shou'd he do any thing in this business had I not a design in't; and ifack I like the Woman well;&mdash;she's young, and plump, free in her Nature, and of a Sanguine Complexion, and <HI>bona fide,</HI> I never see her but some se|cret motions in my blood seem to imply that she is the cause.&mdash;What? I am not Bedrid;&mdash;I can dance yet, ay, and run and jump too if occasion be, and why not the t'other thing?&mdash;Come, come,&mdash;it must, it must;&mdash;mine was ever a stirring Family:&mdash;it must, I say, and she shall know it suddenly.&mdash;</P>
+</SP>
+<STAGE>Ex. <HI>Fumble.</HI></STAGE>
+</DIV3>
+<DIV3 N="4" TYPE="scene">
+<PB N="42" REF="26">
+<HEAD>Scene 4.</HEAD>
+<STAGE>Enter <HI>Maria</HI> and <HI>Bubble.</HI></STAGE>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>COme softly, Sir, and plant your self here at this back-door, I have already made a discovery.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Are they together?</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>I believe so; they seldom miss such an opportunity, especially when they think you absent.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>No; they are politick with a Pox to 'em: Sister, what re|venge, ha? I am resolv'd to be a Tyrant: 'Sbud I'll pinch her to death with a pair of Tongs.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>O fie, that will be too cruel.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Cruel! by the Lord <HI>Harry</HI> 'tis Justice,&mdash;palpable Justice! Why, shou'd she live, she'd Cuckold the whole Nation.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Consider better on't, 'tis but a venial Crime, and deserves not such rigour.&mdash;But come,&mdash;meditate of no revenge till you are cer|tain of the fault:&mdash;keep close at that door, be sure you discover not your self till I come to you; I'll go and observe.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>I'll try my patience;&mdash;but 'tis a damn'd Cause.&mdash;</P>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE>Enter <HI>Rashley</HI> and <HI>Emilia,</HI> Scene a Bed-Chamber.</STAGE>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>Our Intrigue as yet goes well.</P>
+</SP>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>I swear to admiration; and had I not seen each passage, I shou'd have thought 't had been impossible. Oh my Dearest! how shall I gratifie thee? My love's too poor, and my desert too mean ever to equal it.&mdash;</P>
+</SP>
+<STAGE>Kisses her hand.</STAGE>
+<STAGE>Enter <HI>Ranger.</HI></STAGE>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>I am glad I've got air agen; this damn'd old Gib-Cat has mew'd me this half hour into such a hole, that had I staid a minute longer I had certainly been smother'd: it stinks worse than a Pothe|caries Shop, and is furnisht with nothing but Gally-pots full of nasty Oyl, into which groping about I often thrust my Fingers:&mdash;Fough!&mdash;Assafoetida, as I live!&mdash;a most intolerable stink!&mdash;&mdash;Ah! the Devil grind her old Chops.&mdash;Stay;&mdash;this is sure <HI>Emilia</HI>'s Chamber, and if I am not mistaken, I heard a whispering here;&mdash;it may be they're together;&mdash;I'll be still and listen.</P>
+</SP>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>Our love shall last whole Ages, and each Kiss add new and fierce desires: Death shall want power to separate us, and Envy droop and pine it self away to see its <GAP DESC="illegible" REASON="faint" EXTENT="4 letters">agem succeed no better.</P>
+</SP>
+<SP>
+<PB N="43" REF="26">
+<SPEAKER>Rang.</SPEAKER>
+<P>By Heav'n 'tis so;&mdash;They are here:&mdash;Blest minute! now I shall make a rare discovery.</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>I am confirm'd, and will proceed in loving. A Husband is a dull insipid thing, pall'd and grown stale within a week: But a Lover appears still new and gay, and is to perpetuity the same he was at first,&mdash;all mirth,&mdash;all pleasure.</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>A most excellent Theme:&mdash;Oh that that Property, that Fool her Husband, stood now to hear this Devil of a Wife make out this free Confession!&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>He, dull Creature, Heav'n knows, is blind to all your Charms. Marriage acts only the Decrees of Duty, Love has the least share in 't. In this Age a Husband with a Wife is like a Bully in a Church;&mdash;the only pleasure he takes is to sleep away the hours shou'd be employ'd in Conjugal Duty.</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>Well! I am very glad our plots succeed so well: I swear I was half frighted t'other day when my Sister-in-Law <HI>Maria</HI> discover'd us. Was it not done subt'ly? Did I not fetch all off agen with an excellent Invention?</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>Good! rarely good! This Devil cannot sure have so much impudence to deny this agen.</P>
+</SP>
+<SP>
+<SPEAKER>Rash</SPEAKER>
+<P>Ha, ha, ha! By Heav'n I'm ready to die with laughing when I think what Asses we made of 'em.&mdash;<HI>Ranger</HI> too, that busie Coxcomb,&mdash;what a fretting, and plotting, and sweating did he make for nothing!&mdash;Alas, poor Fool!&mdash;Ha, ha, ha!</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>Ha, ha, ha!</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>O the Devil fleer you.&mdash;'Sdeath, am I still their Property? I shall have a slice at your Nose ere long: I doubt not, my young Gal|lant,&mdash;I shall dash your Mummery.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>Come, we lose time:&mdash;Let talk be our diversion when we are old and can reap nothing else; our minutes now should all be spent in rap|ture.&mdash;&mdash;Thus, thus, my Sweet!&mdash;Oh that we cou'd live thus ever!&mdash;How now, what noise is that?</P>
+</SP>
+<SP>
+<SPEAKER>Bubble within.</SPEAKER>
+<P>Bawds! Strumpets! Whores! Witches! Break open the door there, break open the door.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Fetch a Leaver, or call the Smith over the way presently.</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>Oh Heav'n, my Husband and <HI>Maria!</HI> we are undone.</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>Tis <HI>Bubble</HI>'s voice sure! this compleats my joy. Now let <HI>Bel|zebub,</HI> if he owes her any kindness, fetch her from hence, I'll guard this passage.</P>
+</SP>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>What! what shall I do, Madam?</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>Here quickly, run into this Closset, Sir, and jump out of the Window into the Garden; if you were gone, let me alone for the rest.</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>Who steps a foot this way, steps on his death; his Soul shall not be his a minute.</P>
+</SP>
+<SP>
+<PB N="44" REF="27">
+<SPEAKER>Emil.</SPEAKER>
+<P>Ha! <HI>Ranger</HI> here? I am lost in my amazement.</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>Death! and Hell and I defenceless too! O cursed Minute!</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>No, Madam, I'll secure you from this stratagem: This Win|dow shall be no Bawd to th' Intrigue now, that I'll be sure on.&mdash;</P>
+</SP>
+<STAGE>Ex into the Closset.</STAGE>
+<SP>
+<SPEAKER>Bubble within.</SPEAKER>
+<P>Quickly, quickly! a Leaver, a Leaver!</P>
+</SP>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>No way t' escape? Can I not climb the Chimney? Any thing to get free this once.&mdash;Oh fate, taken i'th' midst of our security, when we least thought of it! what shall we do?</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>I have it: Come hither, get ye under this Table, and dili|gently listen to what I say: 'Tis ten to one he never searches here. Come, in, in, quickly, and pray the rest may prosper.</P>
+</SP>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>I never had more need of pray'rs:&mdash;I'll try.&mdash;</P>
+</SP>
+<STAGE>Goes under Table.</STAGE>
+<STAGE>Enter <HI>Ranger</HI> from the Closset.</STAGE>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>So! that conveyance is fast enough. Now, Madam, what think'ee of a fleering Jest upon the Fool <HI>Ranger,</HI> the Coxcomb, the Ass <HI>Ranger,</HI> and your jolly spleen to laugh, Ha, ha? I think the Dice are mine now: Now, Devil, I have trapt ye.&mdash;</P>
+</SP>
+<STAGE>Knock within.</STAGE>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>This Key may add to my design.&mdash;</P>
+</SP>
+<STAGE>Takes out the Key o'th' door.</STAGE>
+<SP>
+<SPEAKER>Bubble within.</SPEAKER>
+<P>Down, down with it, break it open there.</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>What think you of that, Madam? Does your Husbands voice refresh you extreamly?&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>Now help me, Wit, or I am lost.</P>
+<STAGE>She goes and puts the Key into his Coat-Pocket, and then lays hold of him, and cries out.&mdash;</STAGE>
+<P>Help, help there, for Heav'ns sake, I am undone, ruin'd for ever: A Rape, a Rape!&mdash;Help, help!&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>Hell and the Devil, what does she mean?</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>Ah, cruel Man, cannot these Tears prevail? will nothing stop Barbarity? what have I done that cou'd deserve this usage? O most unfortunate of Women.</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>Dam her, I shall be finely catcht if this hold; I must get away.&mdash;</P>
+</SP>
+<STAGE>Struggles, she holds him.</STAGE>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>A Rape, a Rape! Help there, for Heav'ns sake, help.&mdash;</P>
+</SP>
+<STAGE>Enter <HI>Bubble</HI> and <HI>Maria</HI> with a Light. They stand amaz'd.</STAGE>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>By Heav'n, I am snapt agen, catcht in my own snare.</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>Has my Husband been so much thy Friend, and wouldst abuse him thus, (thou base man?) but Heav'n forgive thee.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>'Sbud, what's this I see? <HI>Ranger?</HI></P>
+</SP>
+<SP>
+<PB N="45" REF="27">
+<SPEAKER>Mar.</SPEAKER>
+<P><HI>Ranger</HI> here, and <HI>Rashley</HI> absent: I have plotted finely. 'Tis plain now that Traytor loves her, and has only made me an Engine to work his design with more facility.</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P><HI>Rashly</HI> gone too? Now has the Devil to spite me convey'd him away in a Mist: Here's like to be fine work towards; but I must stand the brunt now I am enter'd.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Now, Sir, what a Pox make you here with my Wife? Hah?&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>So, it begins rarely! O this subtle Devil! Why, Sir, as I am a Gentleman, and upon my Honour.</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>O my Dear, a thousand thanks for this deliverance; and by all our love I charge thee, by our Marriage-Vows, by all our Pleasures since, and Joys to come, I charge you revenge me upon that Traytor there:&mdash;He would have Ravisht me!&mdash;Oh Heav'n, that ever I should live to be so put to't!&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>'Sbud! Ravish my Chicken? <HI>Ranger,</HI> you are the Son of a Whore, and I shall presume to cut your Throat.</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>Sir, do but hear me, upon my Honour all this is false.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>It must be true! what should he come hither for, but upon some ill intent? I am resolv'd I'll be reveng'd on him however.&mdash;</P>
+</SP>
+<STAGE>Aside.</STAGE>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>'Sdeath! she against me too? this is worse and worse.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Discover the matter, that I may do Justice on both sides.</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>Sir, know then,&mdash;<HI>Ranger</HI> long has lov'd me; often solli|cited me unlawfully:&mdash;but finding something in my Vertue that shook his designs, his recourse was to make you jealous of me and <HI>Rash|ley;</HI> - who, poor man, has often told me with sighs how deeply he has resented your unkind suspitions.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Alas, poor Fellow!</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>O confusion! he begins to believe her agen.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>At last, Sir, finding his suit to be too troublesom for me to bear, and being loth to vex you with such fooleries,&mdash;I told <HI>Rash|ley,</HI> who promised all assistance imaginable:&mdash;I desir'd him also to be careful, and watch lest I should be surpriz'd; as to night (Heav'n knows) I was.</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>Dam her, what a Lye is this! Pray, Sir, let me speak.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Not in my House, Sir, you have talkt too much already; and by the Lord <HI>Harry</HI> I'll talk with you anon: but let that pass, go on, Chicken.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>At last, Sir, this unhappy night coming hither as I used to do to my Devotions,&mdash;He it seems having corrupted some of my Ser|vants, got into the Closset, and thence came and surpriz'd me;&mdash;first locking the door, and putting the Key into his Pocket.</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>I a Key? Sir, as I live I saw none: This is the most noto|rious Lye&mdash;</P>
+</SP>
+<SP>
+<PB N="46" REF="28">
+<SPEAKER>Emil.</SPEAKER>
+<P>Oh wretched man! was it not Crime enough to make such an attempt, but you must persist in falshood? Sir, he has it now about him there in that Pocket, I saw him put it in.</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>This Pocket?&mdash;Why, thou Devil! hah!&mdash;</P>
+<STAGE>Puts his hand in's Pocket, pulls out a Key.</STAGE>
+<P>'Sdeath, how came it here? Magick, Witchcraft,&mdash;the Devil and all,&mdash;combine against me! wou'd I were well out,&mdash;if ever I plot agen,&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>'Tis evident now he would have Ravisht her! Lockt her in for the purpose.&mdash;Perfidious Traytor, see me no more.</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>A very fine bus'ness this!</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Is it so, Sir? I'll do your business for you.&mdash;</P>
+</SP>
+<STAGE>Goes to run at Ranger, and overthrows the Table.</STAGE>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>Discover'd? I am lost agen.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>'Sbud, <HI>Rashley!</HI></P>
+</SP>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>'Sdeath and Hell, what will become of me now?</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>How! <HI>Rashley</HI> under the Table? Then Fate is mine agen. Now, Sir, do you perceive any thing yet.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Stranger and stranger! what can this mean? or what could they both do here?</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>'Sdeath! how came he here?&mdash;Hoh!&mdash;</P>
+</SP>
+<STAGE>To Emil.</STAGE>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>Ay,&mdash;examine that point closely; sure this will make for me.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>As Gad jidge me, and so I will: speak, I say, how came he here?</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>Nay, Heav'n knows, not I; I believe for the same design with <HI>Ranger.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>'Sdeath, she'll betray me too.</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>Tell him, tell him, Sir:&mdash;speak for your self;&mdash;say any thing.</P>
+</SP>
+<STAGE>Softly.</STAGE>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>Speak? why,&mdash;'Sbud, Madam, have I not done as you com|manded me? Have I not watcht here this two hours to frustrate <HI>Ran|ger</HI>'s design? What, d'ee think to make an Ass of me?</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>How, Sir,&mdash;my design? Dam me this must not pass upon me, Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>Nor you shall not pass upon my Friend here neither, Sir; I heard you this evening when you corrupted one of the Women to get you into that Closset, that you might accomplish with more ease, Sir. But, Madam, this is a little unnatural, to make me suspected as his Collegue, when my design was so far different.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>'Sbud I cannot find the meaning of this.</P>
+</SP>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>The meaning! Why, Sir,&mdash;she hid me under the Table as a defence against <HI>Ranger</HI>'s insolence: but when she heard you at the door, and knew you were coming in, she conjur'd me by all the love I bore her to sit still, and not discover my self;&mdash;and all her excuse was
+<PB N="47" REF="28">
+your jealousie; (Jealousie with a Pox!) a very fine slight for the abuse she intended to me:&mdash;'Sdeath, Madam, my service deserv'd a better reward if you consider it.&mdash;(Pray Heav'n this Lye prosper.)</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>Ha, ha, ha!&mdash;I knew I should vex him; but I confess 'tis all true:&mdash;For (my poor dear Rogue!) I am so hourly tormented with fear of thy naughty jealousie, that I dare not tell thee any thing.&mdash;Prethee desert it, do, my dear Sweet;&mdash;Ifads thou wouldst be the best Husband in the World if thou wouldst but leave it.&mdash;</P>
+</SP>
+<STAGE>Kisses him.</STAGE>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Well! it must be so; this cannot be feign'd:&mdash;Come hi|ther to me,&mdash;I will forsake it:&mdash;By the Lord <HI>Harry</HI> thou art the best Wife in Christendom,&mdash;and I the most ungrateful Husband; but forgive, my Dear, forgive.&mdash;</P>
+<STAGE>Kisses her.</STAGE>
+<P>We have all failings thou knowest, prethee forgive me.</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>So! now may I hang my self. 'Sdeath! all the Fiends are Asses to her.&mdash;I'll begone for shame, lest worse befall me:</P>
+<L>&mdash;&mdash;<HI>Succubus,</HI> Farewel;&mdash;</L>
+<L>There is not such a Sorceress in Hell.&mdash;</L>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Come! hast thou seal'd my pardon?</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>You know the softness of my temper; but your unkind jea|lousie will kill me one day.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Igad I'll kill my self first. Come, prethee no more. <HI>Tom,</HI> thy hand too;&mdash;come, I know thou canst bear with my frailty.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>I Sir, I can bear well enough! but me thought 'twas a little strange to tax me.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Come, come, all shall be well;&mdash;Faith, we'll go in and fro|lick. Oh my Dear, suspect thee;&mdash;Well, I am a Fool, that's the truth on't.&mdash;</P>
+</SP>
+<STAGE>Ex. <HI>Bubble</HI> and <HI>Emilia.</HI></STAGE>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>The Devil helps her sure; for this was certainly an Assignation: I'll after <HI>Ranger</HI> and know the truth on't.</P>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>Ha, ha, ha!&mdash;Was ever plot carried thus? Sure never! Her Wit has more supplies than I have thoughts, and happily they end still; and Gad for my own part I shall love lying the better as long as I live for the success of this&mdash;Once more all is well, and he the Cuckold still, Ha, ha, ha! I must go in and laugh with her.</P>
+<L>Intrigue's her Masterpiece; and all may see,</L>
+<L>A Woman's Wit's best in extremity.&mdash;</L>
+</SP>
+<STAGE>Ex.</STAGE>
+</DIV3>
+</DIV2>
+<DIV2 N="5" TYPE="act">
+<PB N="48" REF="29">
+<HEAD>The Fifth ACT.</HEAD>
+<DIV3 TYPE="scene">
+<STAGE>Enter <HI>Cordelia.</HI></STAGE>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<P>VVEll, of all Creatures that vex Mortality, a superannua|ted Lover is certainly the most troublesom, especially to one of my years: our inequality is so preposterous, and his address so unnatural, that I always entertain rather hate for his person, than compliance for his love: From Fourscore and five, Heav'n deliver me; 'tis an Age of doting.&mdash;Here he comes, I knew I could not be quiet one hour.</P>
+</SP>
+<STAGE>Enter <HI>Fumble.</HI></STAGE>
+<SP>
+<SPEAKER>Fumb.</SPEAKER>
+<P>Sirrah, Sirrah! Rogue, Rogue! and how and how! Hah! art thou jolly, blithe, like a Bird in a Tree? Ifack I was impatient till I came to see thee: well, and how sits the Ring? does it shine? does it glitter? Hah, little black Rogue!&mdash;Ifack I bought it of the best Goldsmith in <HI>Cheapside,</HI> a Man of good Reputation; A Cuckold too, and they are always the honestest Fellows.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<P>From henceforth let me desire you, Sir, to bestow your presents on some body else:&mdash;I sent your Ring back by your Man, he can best give you an account of it.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Fumb.</SPEAKER>
+<P>Hah!&mdash;what sayst thou? Counterfeit? Ifack thou art mi|staken, Bird;&mdash;thou art, <HI>bona fide,</HI> they are as well cut as any in Christendom, and of the right Black-water: What, dost thou think I'll put any false Stones upon thee ifack?&mdash;I am more civil, <HI>Ieod,</HI> there I was waggish;&mdash;But she's a witty Rogue, she'll apprehend the jest.</P>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<P>Was ever such an insipid piece of Antiquity? Pray, Sir, for|bear these impertinences, and assure your self I hate an old Fellow for a Husband, as much as an old Gown, or an old piece of Wit, that af|ter forty years Oblivion, with a new name, is publisht for a new <HI>Lenten</HI> Play.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Fumb.</SPEAKER>
+<P>What does she say now? But no matter, I'll go on. Well said, Bird, well said: <HI>Bona fide,</HI> thou hast Wit in abundance; that Colour, and such a sort of Nose, never fail. But come, we lose time, I know 'tis ordain'd I must marry thee: I am the Man that must ga|ther the Rosebuds.&mdash;Ah Rogue!&mdash;I'll warrant thou'rt a swinger, and Ifack that black a top there fires me strangely, I am all flame, and <HI>bona fide,</HI> me thinks as youthful and Mercurial as any Spark of 'em all.
+<Q><PB N="49" REF="29">
+<TEXT LANG="eng">
+<BODY>
+<DIV1 TYPE="song">
+<HEAD>SONG.</HEAD>
+<L><HI>ANd he took her by the middle small,</HI></L>
+<L><HI>And laid her on the Plain;</HI></L>
+<L>With a hey down derry down, come diddle,</L>
+<L>With a ho down derry, <HI>&amp;c.</HI></L>
+</DIV1>
+</BODY>
+</TEXT></Q></P>
+<P>What think you, Madam? am I old?</P>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<P>So old, that your presence is more terrible than a Deaths-Head at Supper: for my part I tremble all over. There's a kind of horrour in all your antick gestures; 'specially those that you think become you,&mdash;that fright worse than the Devil; than the Devil, Sir.&mdash;</P>
+</SP>
+<STAGE>Aloud.</STAGE>
+<SP>
+<SPEAKER>Fumb.</SPEAKER>
+<P>The Devil! what of him, Bird? Pish, the Devil's an Ass, I ha' seen't in a Play;&mdash;and ifack we lose time in talking about so worthless a matter. Lovers shou'd ne'er be slow in their affairs:&mdash;For, as my good Friend <HI>Randolph</HI> tells me, Nothing is like opportunity taken in the nick; in the nick, Sweet-heart!&mdash;<HI>Icod,</HI> I was waggish again, I was waggish agen ifack.&mdash;Come, Bird, come.</P>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<P>What will you do, Sir? Heav'n, how he tortures me!</P>
+</SP>
+<SP>
+<SPEAKER>Fumb.</SPEAKER>
+<P>Come along then;&mdash;I have got a Priest ready, and paid for the Licence and all:&mdash;Prethee let me kiss thee; I long to practise something that might please thee: Never was man so alter'd! never! Come, prethee Bird,&mdash;come, ifack I have not patience.</P>
+</SP>
+<STAGE>Enter <HI>Governess</HI> and Sir <HI>Roger.</HI></STAGE>
+<SP>
+<SPEAKER>Gov.</SPEAKER>
+<P>Here's Sir <HI>Roger Petulant!</HI> my dear Mouse desires to speak a word or two with you.</P>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<P>Oh here's some hope of deliverance! Sir <HI>Roger,</HI> your humble Servant. Come hither, <HI>Lettice,</HI> and stand just in my place: I am so tortur'd with this old Fellow,&mdash;prethee be kind to him, and fol|low him whither he'd have thee; it may be a Husband in thy way, and a good Estate.</P>
+</SP>
+<SP>
+<SPEAKER>Gov.</SPEAKER>
+<P>A Husband! marry that's fine! I warrant you, sweet Mouse, I&punc;ll be very punctual.</P>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<P>So, now let us slip aside and observe; 'twould be an excellent revenge if he shou'd marry her.&mdash;He's coming to her already, and his eyes are so old and dim that he perceives not his mistake.</P>
+</SP>
+<STAGE>They step aside.</STAGE>
+<SP>
+<SPEAKER>Fumb.</SPEAKER>
+<P>Delays, Sweet-heart, are dang'rous ifack; I have consider'd it: The time I have liv'd in the World has given me the benefit of knowing more than another of fewer minutes.&mdash;Along, along,&mdash;
+<PB N="50" REF="30">
+I say, thou shalt be my Queen, my Paramour, my <HI>Cleopatra,</HI>&mdash;and I will live another Age in Love, and then farewel old <HI>Simon</HI> ifack. Come, come along.</P>
+</SP>
+<SP>
+<SPEAKER>Gov.</SPEAKER>
+<P>Oh sadness! what happy fortune's this? Well, I'll go with him, pray Heav'n he be blind enough, that's all I fear.</P>
+</SP>
+<SP>
+<SPEAKER>Fumb.</SPEAKER>
+<P>She seems kinder than usual;&mdash;ifack I have wrought her finely. Come, poor Rogue, come.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Gov.</SPEAKER>
+<L>I am ready, Sir;&mdash;this was a happy hour;</L>
+<L>And if it hit but right, I'm made for ever.&mdash;</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+</DIV3>
+<DIV3 TYPE="scene">
+<STAGE>Sir <HI>Roger</HI> and <HI>Cordelia</HI> re-enter.</STAGE>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<P>Ha, ha, I am glad I am rid of him any way: but now, Sir <HI>Roger,</HI> to your bus'ness.&mdash;I hear your Nephew is sick.</P>
+</SP>
+<SP>
+<SPEAKER>Sir Rog.</SPEAKER>
+<P>In verity, Madam, most dangerously sick, and the cause of my giving you this trouble was in verity to give you information of it; for by his melancholy I find love is the cause. Ah, Madam, your last in|difference was very prejudicial to him: 'Tis true, he denies it;&mdash;but I am old enough to judge of the contrary, and therefore have found out 'tis Passion, nay Passion for you has laid him thus low, and nothing but your smiles can raise him, 'tis gone so far in verity.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<P>I am sorry, Sir, I have the misfortune to be th' occasion of such a disaster:&mdash;but is there any remedy? what would you have me do?</P>
+</SP>
+<SP>
+<SPEAKER>Sir Rog.</SPEAKER>
+<P>Madam, my suit to you is, that you would be pleas'd to go with me and give him a visit; the surprize of your presence I am con|fident will dissipate his melancholy, and perhaps totally banish his di|stemper.</P>
+<STAGE>Enter <HI>Maria.</HI></STAGE>
+<P>But I see we are interrupted; let's retire, Madam, and if you please now will be a very good time to visit him.</P>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<P>Softly, Sir, I would not have my Cozen <HI>Maria</HI> know any thing of it; but if that can do him any good, I'll not be so cruel to deny it,&mdash;'tis an act of charity.&mdash;Come, Sir, I'll go with you.</P>
+</SP>
+<SP>
+<SPEAKER>Sir Rog.</SPEAKER>
+<P>Madam, you oblige us both&mdash;</P>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Still baffled! sure this cannot last long; the Devil will be weary of obliging her in a little time. I have been yonder sifting <HI>Ranger</HI> about the last plot, and by all circumstances find what he said was true, and shall I leave off thus poorly? Pish, I cannot for shame:&mdash;I have Truth and Honesty on my side;&mdash;she's only cunning, and 'tis impos|sible that shou'd last ever.&mdash;Once more then have at 'em:&mdash;I have by several false messages buz'd it again into my Brothers ears; he be|lieves, and will once more follow my counsel: besides, I have here a
+<PB N="51" REF="30">
+false Key to her Chamber, and can surprize 'em when they least suspect: this, if <HI>Ranger</HI> be at all diligent, must needs effect it;&mdash;for I am resolv'd not to rest till 'tis done, for the satisfaction of my revenge on that false man.&mdash;</P>
+</SP>
+<STAGE>Ex. Maria.</STAGE>
+</DIV3>
+<DIV3 TYPE="scene">
+<STAGE>Enter <HI>Apothecary</HI> and <HI>Sneak</HI> in a Night-Gown.</STAGE>
+<SP>
+<SPEAKER>Sneak.</SPEAKER>
+<P>Uh! Uh!</P>
+</SP>
+<SP>
+<SPEAKER>Apoth.</SPEAKER>
+<P>Nay, Sir, if you would have the effects answer your expecta|tion, you must suffer, Sir, and be patient.</P>
+</SP>
+<SP>
+<SPEAKER>Sneak.</SPEAKER>
+<P>'Ounds! I cannot have patience:&mdash;Sure a civil Clap might be cured without all this stir. 'Tis not a Miracle in this age.&mdash;Oh Lord!</P>
+</SP>
+<STAGE>Enter Sir <HI>Roger</HI> and <HI>Cordelia.</HI></STAGE>
+<SP>
+<SPEAKER>Sir Rog.</SPEAKER>
+<P>O horrible! what's this I see?</P>
+</SP>
+<SP>
+<SPEAKER>Sneak.</SPEAKER>
+<P>My Uncle! Oh I am undone, lost for ever.</P>
+</SP>
+<SP>
+<SPEAKER>Apoth.</SPEAKER>
+<P>But, Sir, your civil Clap might ha' been an uncivil Pox in time.</P>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<P>How, Sir <HI>Roger?</HI> was it fit to make me Spectator of this object?</P>
+</SP>
+<SP>
+<SPEAKER>Sir Rog.</SPEAKER>
+<P>The Pox? In verity I have brought his Mistriss to fine purpose: Ah damn'd Rascal! The Pox? what shall I do? I am dis|grac'd for ever.&mdash;</P>
+</SP>
+<STAGE>Aside.</STAGE>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<P>Hark ye, Sir, pray what is that there?</P>
+</SP>
+<STAGE>Pointing to a Sweating-Chair within.</STAGE>
+<SP>
+<SPEAKER>Sir Rog.</SPEAKER>
+<P>What shall I say? (Death, she has found out his Sweating-Chair!) Why, Madam, 'tis&mdash;umph&mdash;'tis a Mathematical En|gine they use at <HI>Cambridge.&mdash;Cob</HI> was always addicted to study.</P>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<P>'Twere a fault to hinder him then, Sir, being so well employ'd.&mdash;Farewel.&mdash;</P>
+</SP>
+<STAGE>Ex. Cord.</STAGE>
+<SP>
+<SPEAKER>Sir Rog.</SPEAKER>
+<P>She has found it out.&mdash;Sirrah, see my face no more: from this hour I abhor thee, a damn'd Rascal!</P>
+</SP>
+<SP>
+<SPEAKER>Sneak.</SPEAKER>
+<P>Good Uncle!&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Sir Rog.</SPEAKER>
+<P>The Pox! A sneaking, sniveling Rogue! Heav'ns, was ever the like seen?&mdash;But 'tis now a general Maxim, and your Sandy, Sheeps-face, unthinking Villain, is always the greatest Whoremaster.</P>
+</SP>
+<SP>
+<SPEAKER>Sneak.</SPEAKER>
+<P>Why, by <HI>Ierico,</HI> it was by chance, Uncle; Hab-nab as a man may say: As I hope to be sav'd 'twas against my will.</P>
+</SP>
+<SP>
+<SPEAKER>Apoth.</SPEAKER>
+<P>Sir, your anger makes an addition to his distemper.</P>
+</SP>
+<SP>
+<SPEAKER>Sir Rog.</SPEAKER>
+<P>What, you are his Pandar, Sir, are you? but I think you may be the Devil for your honesty;&mdash;so may ye all;&mdash;such as you sooth 'em in Vices;&mdash;I warrant you are tired with such Customers,&mdash;Ha, Sir,&mdash;are you not?</P>
+</SP>
+<SP>
+<PB N="52" REF="31">
+<SPEAKER>Apoth.</SPEAKER>
+<P>In troth, Sir, my rotten Patients are so loath to die, and my sound ones, which for my Arts improvement I would make rotten,&mdash;so hasty to recover, that I confess I am often weary, but not tir'd, Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Sir Rog.</SPEAKER>
+<P>So, Sir, in verity you are all a company of Rascals;&mdash;and as for his part, I'll instantly write to his Father to disinherit him, that I may revenge my disgrace, and punish his folly.&mdash;The Pox! a Son of a Whore! the Pox!</P>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>Apoth.</SPEAKER>
+<P>A mad old Fellow, but your penitence will recover all.</P>
+</SP>
+<SP>
+<SPEAKER>Sneak.</SPEAKER>
+<P>Wou'd you were hang'd, by <HI>Ierico,</HI> for leaving the door open.&mdash;Oh what shall I do? This comes of learning the Sciences in the Devils name.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Apoth.</SPEAKER>
+<P>Patience, Sir, have patience.&mdash;</P>
+</SP>
+<STAGE>Scene shuts.</STAGE>
+<STAGE>Ex.</STAGE>
+<STAGE>Enter <HI>Rashley, Emilia</HI> and <HI>Betty.</HI></STAGE>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>A Trap-door, say you, Madam?</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>Yes, we happily discover'd it yesterday looking for a Ring ac|cidentally dropt;&mdash;it opens upon the Stairs the backside of the Kit|chin;&mdash;I am sure 'twill be very necessary in our Intrigue:&mdash;Here, take the Candle you, and go and watch;&mdash;and when I give the sign, be sure be ready.</P>
+</SP>
+<SP>
+<SPEAKER>Betty.</SPEAKER>
+<P>I'll not fail, Madam.</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>'Tis good to be secure, for I know <HI>Maria</HI> has still an eye over us, and my Husbands new jealousie gives me fresh cause of doubt.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>Igad, 'tis unnecessary:&mdash;This Trap-door must needs be very useful;&mdash;I see Fortune is ours still, and will not leave us.&mdash;Let us doubt when we see danger; there is none now, nor can be whilst our love continues.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>Which I fear will be but a short time: for what is indirect is seldom permanent; therefore let us consider on't.</P>
+</SP>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>Dam Consideration; 'Tis a worse Enemy to Mankind than Malice: Let impotent Age consider, that is fit for nothing but dull tame thoughts of what he has been formerly: Let the Lawyer and Physitian consider, what Quibbles, and what Potions are most neces|sary: And let the flie Phanatick think his time out, and consider how to be securely factious: But let the Lover love on, still transpor|ted, whilst all his thoughts and sences are employ'd in the dear Joys of rapture, endless passion, without a grain of dull Consideration.</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>I swear the softness of our Tempers abuses half our Sex, we shou'd not else be won so easily:&mdash;But we are such kind Fools!</P>
+</SP>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>Ay, we are all Fools, Madam, that's the truth on't; but how shall we help it?</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>Resolve upon a remedy;&mdash;Love no more.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>Resolve upon the contrary; Love for ever: Gad the World
+<PB N="53" REF="31">
+would be at a fine pass if all were of your mind. How now?</P>
+</SP>
+<STAGE>Noise of a Lock.</STAGE>
+<STAGE>Enter <HI>Maria</HI> with a Light.</STAGE>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Stand there till I fetch you in; I'm sure they're here.</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>My Sister as I live! Malicious accident!</P>
+</SP>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>Hah,&mdash;with a Light too! How the Devil got she in?</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>Heav'n knows, unless with a false Key.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Nay, Y'are caught, and finely too, I'm cozen'd else. What plot now, Madam, to convey you hence?&mdash;Now show your mighty skill; and if there is a Devil at your service employ him now, you never had more cause.&mdash;Me thinks you are melancholy, why d'ee not laugh? smile at your Wit and great security? You, I know, have a thousand ways to get off still; or if you want, that Gentleman can supply you.</P>
+</SP>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>I supply! A plague o' your damn'd jest!</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>Hush,&mdash;and leave me to her.&mdash;Nay, Sister, this is barb'rous to triumph o'er our misfortunes; You know your self what Love is, and what inconveniences it brings poor Women too.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>You can confess now;&mdash;and here's a Gentleman not far off,&mdash;your Husband, Madam; I know this cannot chuse but be grateful to him, I'll call him to hear it.</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>Ah, be not so cruel to undo me quite!&mdash;I'll confess all to thee, and from this minute be converted.&mdash;Ah, had I taken thy counsel before I had been happy.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Ay;&mdash;but you would persist, and now see what comes on't.</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>Oh! I am miserable! Forgive me, dear <HI>Maria!</HI></P>
+</SP>
+<STAGE>Weeps.</STAGE>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Nay, Heav'n forgive you:&mdash;but come, will you confess? I have her at a rare advantage.&mdash;</P>
+</SP>
+<STAGE>Aside.</STAGE>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>Most faithfully;&mdash;but let me do't i'th' dark;&mdash;let no light see my guilty blushes;&mdash;it is enough my tongue dares utter it:&mdash;Dear Sister, let me not be too much asham'd:&mdash;Oh misery! mi|sery!&mdash;</P>
+</SP>
+<STAGE>Weeps.</STAGE>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Well, here is a Light not far off, and thus much I'll comply with you.&mdash;Now begin.&mdash;</P>
+</SP>
+<STAGE>Puts out the Light.</STAGE>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>By Heav'n I grow cheerful;&mdash;we shall 'scape, I am sure, we shall.&mdash;Oh this dear Devil!&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>My grief ties up my tongue.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>'Tis time to grieve: But come, when d'ee begin?</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>This cruel man seduc'd me: Cruel <HI>Rashley.</HI>&mdash;Where are you, Sir?</P>
+</SP>
+<STAGE>Aside.</STAGE>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>Here, Sweet, here!&mdash;</P>
+</SP>
+<STAGE>Softly.</STAGE>
+<SP>
+<PB N="54" REF="32">
+<SPEAKER>Emil.</SPEAKER>
+<P>First won upon me with his comely presence, hansom demea|nour:&mdash;every several Grace my Soul admir'd&mdash;Give me your hand.&mdash;</P>
+<STAGE>To Rashley.</STAGE>
+<P>But when he came to speak, his Tongue, his Charming Tongue, Oh Heav'n, that I shall live to utter it! so ensnar'd me, that I no longer knew my liberty,&mdash;but as his Victim gloried in my passion.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>With shame you live to speak it.</P>
+</SP>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>'Twas my misfortune too:&mdash;but Heav'n forgive me, I shall laugh out,&mdash;I am not able to hold.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>Down, quickly down.&mdash;</P>
+</SP>
+<STAGE>Both sink in the Trap.</STAGE>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Now could I laugh till my heart ak'd agen to think how I have caught 'em.&mdash;I knew 'twas impossible she shou'd 'scape always,&mdash;and I will tyrannize more than a Turk over his Slave:&mdash;For my part I am sorry for your infamy, and were it not that by the Laws of Nature I have a great concern in any of my Brothers injuries, you might love on for me; but since my Blood runs in his Veins, I dare not see his infamy and let it pass unquestion'd: Therefore either swear from this hour to desert <HI>Rashley,</HI> and never see him more; or your disgrace I will this instant publish, or call your Husband to be Spectator of his shame and yours.&mdash;What, are ye dumb? Not answer me! It seems you dislike this Proposal; but do not provoke me.&mdash;Not yet? Nay then&mdash;within there?&mdash;Brother,&mdash;here they are, a light, a light,&mdash;quickly.</P>
+</SP>
+<STAGE>Enter <HI>Bubble</HI> with a light and long Sword.</STAGE>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Where? where is this Traytor? this Strumpet? by <HI>Scander|beg,</HI>&mdash;I am ready for a Charge: I'll push him with a Vengeance;&mdash;Where is he?</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Here, here! How now? What, are you got under the Table agen? or into a corner?&mdash;Give me the Candle, Brother,&mdash;I am sure have em fast.&mdash;</P>
+</SP>
+<STAGE>Looks about.</STAGE>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Here's nothing; another mistake, as Gad jidge me.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>She is a Devil, and I lose my labour. Gone! what both gone? Oh I could tear my self: Which way?&mdash;How! by what means could they escape?</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>'Scape?&mdash;'Sbud! 'tis impossible they shou'd escape if they were here.&mdash;Pish,&mdash;this is only one of your Maggots, Sister, you do but fancy you saw 'em.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Fancy?&mdash;Eternal Light forsake me, if I did not both see and speak to 'em two minutes since; heard her confess the Crime, and vow repentance; here, in this very place: but by what means they 'scapt, I only can admire, not imagine.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Prethee hold thy peace; I say once more 'tis only a Maggot:&mdash;Sleep, Fool, and purge thy head from fancies. How now, <HI>Ned?</HI></P>
+</SP>
+<STAGE><PB N="55" REF="32">Enter <HI>Ranger</HI> and <HI>Betty</HI> behind.</STAGE>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>Sir, I know not whether the News I bring may please you; but I have made a strange discovery yonder.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Discovery! of what prethee?&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>Sir, I saw <HI>Rashley</HI> and your Wife&mdash;going laughing Arm in Arm through the Entry&mdash;the Backside of the Kitchin into the Par|lour,&mdash;where, if you please to give your self the trouble, you may find 'em.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Betty.</SPEAKER>
+<P>This is as my Mistriss suspected, and I'll inform her imme|diately.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Hey day! My Wife and <HI>Rashley?</HI> Art sure on't, <HI>Ned?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>As sure, Sir, as I live, I saw 'em there:&mdash;nay, what's more, my curiosity inducing me to peep through the Key-hole, I saw his Head lie in her Lap,&mdash;whilst she with a fond passion strok'd his Cheeks, and dalli'd with his Hair: Faith, Sir, I could not see this and be silent; but you I fear will think the worse of me for it.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>In the Parlour, sayst thou? 'Sbud, was ever such a confusion? Why, my Sister says that within these two minutes she saw and spoke to 'em here in this Chamber. They are here, and there, and every where, and yet I can find 'em no where; what a Pox shou'd a man think of this?</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>They are there this instant, Sir, upon my Honour.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Sure, I have not dreamt all this while! Did I not see here <GAP DESC="illegible" REASON="faint" EXTENT="2 letters"> by Heav'n I saw the Devil in her likeness then.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Why, peace, I say,&mdash;if you are mad, offend no one but your self with it.&mdash;What a Pox shall I not believe my eyes? The House is not haunted that I know of, unless it be with Fools:&mdash;There's a Bob for you by way of Conclusion.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Yes, Cuckolds too! There's a Bob for you by way of Repart&eacute;e.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Cuckold?&mdash;I'd have you to know I scorn your words;&mdash;and were you not my Sister, I'd fetch you out with your Repart&eacute;es. What, because you are a Fool, you guess all persons are alike?&mdash;Do you but conceive me, Mrs. <HI>Iuniper?</HI> I am a Turk at matter of fact when I see occasion.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>Good Sir,&mdash;no more of this,&mdash;but go down and satisfie your self in the truth of my Story:&mdash;if I tell you a Lye, call me Fool,&mdash;Horse,&mdash;any thing,&mdash;do but go and see.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>'Sbud, I know not what to do: One brings me up, another carries me down; one jilts me, another abuses me; a third laughs at me;&mdash;and yet I find nothing, nor see nothing,&mdash;nor know nothing,&mdash;and you are nothing but Fools to make all this stir about nothing. But come, I'll go with thee, <HI>Ned.</HI></P>
+</SP>
+<SP>
+<PB N="56" REF="33">
+<SPEAKER>Mar.</SPEAKER>
+<P>And I, that I may say once in my life I saw a Miracle.</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>I have her once more in the Noose of the slip; now the Devil hold her fast in th' other World:&mdash;'Tis above mortal power! Come, Sir.&mdash;</P>
+</SP>
+<STAGE>Exeunt.</STAGE>
+</DIV3>
+<DIV3 N="4" TYPE="scene">
+<HEAD>Scene 4.</HEAD>
+<STAGE>Enter <HI>Rashley</HI> and <HI>Emilia</HI> in Night-Gowns, <HI>Betty, Jeremy.</HI></STAGE>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>HEre, here, quickly take my Night-Gown, and put it on, you are sure they are coming.</P>
+</SP>
+<SP>
+<SPEAKER>Betty.</SPEAKER>
+<P>Very sure, Madam;&mdash;I stood at the door and heard all.</P>
+</SP>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>What must I do, Sweet?&mdash;Prethee do not let us be surpriz'd agen.</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>Uncase, uncase, Sir;&mdash;and let your Man represent you as <HI>Betty</HI> does me: <HI>Ieremy,</HI> be sure you play your part well, and Court her to the life.&mdash;</P>
+</SP>
+<STAGE>Put on the Gowns.</STAGE>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>D'ee hear, Sirrah!</P>
+</SP>
+<SP>
+<SPEAKER>Ier.</SPEAKER>
+<P>I'll warrant you, Sir. Come, Mrs. <HI>Betty.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>Stay, a word more in thy ear:&mdash;I see this Fellow is but a Block|head, and therefore am afraid of trusting him too far:&mdash;Keep him as ignorant of our Intrigue as thou canst; and if my Husband ask where I am, tell him I am gone to visit my Lady <HI>Courtly:</HI>&mdash;I'll be in my Chamber;&mdash;and when they are all gone, bring me word what <HI>Ranger</HI> and <HI>Maria</HI> are doing.</P>
+</SP>
+<SP>
+<SPEAKER>Betty.</SPEAKER>
+<P>Yes, Madam, I'll be very careful.</P>
+</SP>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>I will reward thy care, my pretty little&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>Hark! I hear 'em coming;&mdash;now to your postures.&mdash;</P>
+</SP>
+<STAGE>Noise.</STAGE>
+<STAGE>Ex. <HI>Rashley</HI> and <HI>Emilia.</HI></STAGE>
+<SP>
+<SPEAKER>Ier.</SPEAKER>
+<P>Now, Mrs. <HI>Betty,</HI> we having so fit an occasion, let us make Love in some Heroick Vein.</P>
+</SP>
+<SP>
+<SPEAKER>Betty.</SPEAKER>
+<P>No, I am for the plain-dealing way.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Ier.</SPEAKER>
+<P>Pish! t'others a great deal better, as thus:</P>
+<L>Your Eyes with so bright Charms are deckt about,</L>
+<L>That I could kiss 'em till I kist 'em out.</L>
+</SP>
+<SP>
+<SPEAKER>Betty.</SPEAKER>
+<P>Oh I hate that;&mdash;I vow 'tis very silly.</P>
+</SP>
+<STAGE>Enter <HI>Ranger, Bubble</HI> and <HI>Maria.</HI></STAGE>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>There, there, Sir;&mdash;D'ee see 'em now? will you believe next time?</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>O dismal Object!&mdash;I am a Cuckold then.</P>
+</SP>
+<SP>
+<PB N="57" REF="33">
+<SPEAKER>Mar.</SPEAKER>
+<P>This is miraculous; how was it possible they cou'd get hither? But I am glad they are here however.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Now for a good full blow at his head before he sees me: 'tis a Cuckolds way of revenge I'm sure; Have at him!&mdash;</P>
+</SP>
+<STAGE>Offers to strike.</STAGE>
+<SP>
+<SPEAKER>Ier.</SPEAKER>
+<P>Oh Lord, what mean you, Sir, what mean you?</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Traytor! Rogue! Rascal! I'll&mdash;Hah, <HI>Ieremy?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Ier.</SPEAKER>
+<P>Ay, Sir, 'tis I, poor <HI>Ieremy,</HI> Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>And <HI>Betty</HI> in her Mistrisses Night-Gown.&mdash;</P>
+</SP>
+<STAGE>Ranger's amaz'd.</STAGE>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>Their old Friend the Devil has fetcht 'em away agen.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>What make you here in their Night-Gowns?</P>
+</SP>
+<SP>
+<SPEAKER>Betty.</SPEAKER>
+<P>Only, Sir, through an ambition to make Love as Gentilely as we cou'd.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Go, go, and find your Mistriss out, and tell her, Her humble Servant and Husband desires to speak with her.&mdash;Look ye, <HI>Ned,</HI> you are a Fool, I see.</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>I am so, Sir, I acknowledge it.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>And you, Madam, are a little leaning that way, are ye not?</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>I can say nothing for my self, Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Then I can say y'are a Couple of Fools: Did I not tell you what all this wou'd come to? Ha, ha, ha! It makes me laugh to think how busie you two Asses have been about nothing; and I am no better than a third Fool for believing you: But from henceforth, he that speaks against my Chickens Vertue, is the Son of a Whore; for 'Uds Bood she's the honestest Woman in Christendom, and he that denies it, I will immediately invade him with Battle-Ax, Poinard and Pistol.</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>She is a very Saint, Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>A very Devil, Sir! O Death, is there no remedy?</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>I'll go instantly and reconcile my self to her, with a strict Vow never to doubt her more.&mdash;Oh Sir <HI>Roger!</HI> welcome.</P>
+<STAGE>Enter Sir <HI>Roger</HI> and <HI>Cordelia.</HI></STAGE>
+<P>Faith! I was wishing for some good Company to be Witness of my Reconcilement to my dear Chicken. You are melancholy, Sir,&mdash;I heard your Nephew was sick, I suppose that's the cause.</P>
+</SP>
+<SP>
+<SPEAKER>Sir Rog.</SPEAKER>
+<P>If he has heard of what, I am disgrac'd for ever.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Come, Sir, cheer up, cheer up, he will be well agen, doubt not.</P>
+</SP>
+<SP>
+<SPEAKER>Sir Rog.</SPEAKER>
+<P>I hope so, Sir. Madam, this Generous Act of concealing the infamy of our Family, has so wrought upon me, that if I cou'd re|quite&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<P>No more, Sir:&mdash;Your Nephews forbearance is all I desire: You are sensible now that I have some reason to request that.</P>
+</SP>
+<SP>
+<PB N="58" REF="34">
+<SPEAKER>Sir Rog.</SPEAKER>
+<P>I am, Madam, and am extreamly bound to your Generosity; and Gad I have another Nephew whom I'll make better by 200 <HI>l.</HI> a year to make you amends.&mdash;Well, Mr. <HI>Bubble,</HI> I am glad to come at so good a time, when mirth is going forward: you are a merry man, Sir,&mdash;and in verity I like your company.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>And I yours, Sir <HI>Roger;</HI>&mdash;for I am very merry for some pri|vate reason best known to my self:&mdash;We'll toss a Bumper about by and by, Faith!</P>
+</SP>
+<STAGE>Enter <HI>Fumble</HI> pushing in Governess.</STAGE>
+<SP>
+<SPEAKER>Fumb.</SPEAKER>
+<P>An old Cronee, a Sorceress;&mdash;What ifack, and in the Devils Name, am I to be popt in the mouth with Fourscore and Twelve? A Beldame, a Witch, that expects next Winter to be turn'd into a Gib-Cat,&mdash;thought fit to be yok'd with me! No, no, some wiser than some; and I'll have her know within this week that I am as fit for Two and Twenty, as Two and Twenty is for me:&mdash;In the mean time avaunt <HI>Iezabel,</HI>&mdash;I like thee not, <HI>Icod;</HI> thou hast no black o' Top, ifack, thou art not for my turn.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>What, old Signior <HI>Fumble?</HI> what's the matter, Man?</P>
+</SP>
+<SP>
+<SPEAKER>Fumb.</SPEAKER>
+<P>Yes marry am I, Sir, and chows'd damnably too, and some shall know't when I can find 'em.</P>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<P>He's groping for his Spectacles; now I expect to be rated.</P>
+</SP>
+<SP>
+<SPEAKER>Fumb.</SPEAKER>
+<P>Ah,&mdash;are you there, Rogue, are you there! Why, you very Wag, wou'd you offer to serve me so? But hang thee, thou'rt a Rogue, and come ifack tho' 'twas a Knavish Trick, I am pleas'd with the Wit on't:&mdash;Give me thy hand, and come and kiss me, and all shall be well agen.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<P>Upon condition you never trouble me more,&mdash;there 'tis.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Fumb.</SPEAKER>
+<P><HI>Icod,</HI> she has a pretty Touch with her, she has ifack; I forgive thee with all my heart.&mdash;Well, old Woman, depart in peace; old Woman, I say, depart, and trouble me no more:&mdash;I am busie, and cann't dispence with the Fopperies of Age now.</P>
+</SP>
+<SP>
+<SPEAKER>Gov.</SPEAKER>
+<P>Well, this comes of eating Sweet-meets when I was young: He had never found out the trick, if my want of Teeth had not dis|cover'd me.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Ha, ha!&mdash;Here had like to have been fine sport ifaith:&mdash;but wou'd I knew where my Wife is, that we might all go and address, now I am in this good humour.</P>
+</SP>
+<SP>
+<SPEAKER>Gov.</SPEAKER>
+<P>Sir, just as I came in, I saw her go up into her Chamber.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Didst thou? I am glad on't ifaith: Come, let's all go.</P>
+</SP>
+<STAGE><PB N="59" REF="34">Enter <HI>Betty.</HI></STAGE>
+<SP>
+<SPEAKER>Betty.</SPEAKER>
+<P>Sir, I cannot find her; but I heard her say about an hour since, she intended to go and visit my Lady <HI>Courtly.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>No, no;&mdash;I know where she is now:&mdash;Poor Creature! I warrant she sits so melancholy above now.&mdash;Well,&mdash;I dare proudly say I have the best Wife in Christendom: for ifaith I have been very jealous of her, but I was wrought upon,&mdash;when o' my Conscience the innocent Wretch wou'd not hurt a Worm:&mdash;&punc; But come, we'll all go to her, and be sure, Sir <HI>Roger,</HI> you plead for me;&mdash;in troth my heart akes to think how I have us'd her.</P>
+</SP>
+<SP>
+<SPEAKER>Betty.</SPEAKER>
+<P>I must prevent their going up, or we are undone.</P>
+</SP>
+<STAGE>Is running, <HI>Maria</HI> stops her.</STAGE>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Whither are you runing? I have some bus'ness with you.</P>
+</SP>
+<SP>
+<SPEAKER>Betty.</SPEAKER>
+<P>Good Madam&punc; I'll wait on you immediately.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Ye shall not stir till I have spoke to you:&mdash;Here must be something in this I find by her eagerness to be gone.</P>
+</SP>
+<SP>
+<SPEAKER>Sir Rog.</SPEAKER>
+<P>Well, Mr. <HI>Bubble,</HI>&mdash;in verity I'll do my best in your be|half; my Tongue is at your service at any time.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Sir <HI>Roger,</HI> you will oblige me in't.&mdash;She is the most inno|cent, sweetest, and most vertuous Person in the whole World, and I shall never be able to make her amends.&mdash;Come, let us go.</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>Now will I see how she behaves her self, and wonder at the prosperous Impudence Hell has endow'd her with, tho' it lies not in my power to repel it.</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Now I think better on't, I'll defer my bus'ness till another time:&mdash;You may go where you please.</P>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<SP>
+<SPEAKER>Betty.</SPEAKER>
+<P>This cunning Devil has undone 'em;&mdash;nor lies it now in my power to hinder it.&mdash;Oh I cou'd Curse&mdash;</P>
+</SP>
+<STAGE>Exit.</STAGE>
+</DIV3>
+<DIV3 TYPE="scene">
+<HEAD>Scena ultima.</HEAD>
+<STAGE>Enter <HI>Rashley</HI> and <HI>Emilia.</HI></STAGE>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>THe Plague of living with such a Husband you must imagine is very disagreeable to my Temper;&mdash;and were it not for the happy hours I have the good fortune to enjoy in thy society, my Life wou'd be wholly uncomfortable:&mdash;But, my Dear, thou wilt forget me, one day I shall grow cheap to thee, shall I not?</P>
+</SP>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>No, never,&mdash;never, my Sweet!&mdash;Thou hast more Charms each hour added to thee, rather than one diminisht.&mdash;Forget thee! I sooner shall forget to feed my self, or that the Sun ere shone in
+<PB N="60" REF="35">
+midst of Summer, than thy more precious Favours. Thou bring'st each hour new Sweets, and every minute a thousand thousand Graces throng about thee, my Dear,&mdash;Dear, Charming, Sweet,&mdash;Pre|cious!&mdash;</P>
+</SP>
+<STAGE>Kisses her.</STAGE>
+<STAGE>Enter <HI>Bubble,</HI> Sir <HI>Roger, Fumble, Ranger, Maria, Cordelia.</HI></STAGE>
+<SP>
+<SPEAKER>Bubble entring.</SPEAKER>
+<P>Softly, softly, Sir <HI>Roger:</HI> Poor Soul,&mdash;I warrant she's at Prayers.&mdash;Hah! what's this I see?&mdash;Gad jidge me&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>By Heav'n, they're here a Kissing!&mdash;Oh happy minute!</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>Ah, who could have the heart to leave thy Blisses for such a Fool, such a Beast, such a dull, sordid, filthy, insipid Creature as my Husband?</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>How's that? Oh Devil!</P>
+</SP>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>I am smother'd with thy Charms; Oh for some Air! Hah!&mdash;Oh horrour, curs'd minute! taken thus?</P>
+</SP>
+<STAGE>Starts.</STAGE>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>My Husband! Nay then I am lost for ever.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Ah cursed Creature! is this thy Vertue?&mdash;But I'll&mdash;</P>
+</SP>
+<STAGE>Goes to wound her.</STAGE>
+<SP>
+<SPEAKER>Sir Rog.</SPEAKER>
+<P>Hold, Sir, in verity that must not be; No Swords against Women in my Company.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Then here let my Vengeance light. Traytor! have I oblig'd thee so often for this?&mdash;Have at thee!</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>Your pardon, Sir, I must hinder dishonourable proceedings; in the Field you may do what you please.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Speak, Witch, speak! what reason hadst thou to use me thus? Thou Limb of the Devil,&mdash;speak, I say.</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>Use you thus?&mdash;Why,&mdash;Sir, your Rage makes you suggest strange thoughts without cause. My kindness to Mr. <HI>Rashley</HI> was only because&mdash;he promis'd to be my Friend in urging my Reconcile|ment with you;&mdash;and because I knew he was your Friend, I there|fore&mdash;I say, because I knew you lov'd him, I desir'd him to&mdash;to&mdash;I was very urgent with him&mdash;about&mdash;about&mdash;No I mistake! 'twas he was urgent with me to intreat you to do me the favour&mdash;no&mdash;to do him the favour: I mean, hum&mdash;to&mdash;to&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Pox! what a Story's here? Oh Strumpet! Witch!&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>To Cuckold him, was that it, Sister?</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>Madam, me thinks your speech fails you exceedingly.</P>
+</SP>
+<SP>
+<SPEAKER>Emil.</SPEAKER>
+<P>All will not do; O spiteful minute! Taken thus at last? Shame ties my Tongue, and absence is most necessary.</P>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Oh farewel in the Devil Name! Oh Horns! Horns! found a Cuckold at last! I have spun a fair Thread, by the Lord <HI>Harry;</HI> A Cuckold at last!&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Rash.</SPEAKER>
+<P>A Cuckold! Why, Sir,&mdash;have I done any thing but by your
+<PB N="61" REF="35">
+directions?&mdash;Why do you suggest such things to your self?&mdash;Well, Sir, if I have injur'd you&punc; I wear a Sword, Sir,&mdash;and so&mdash;Farewel.&mdash;</P>
+</SP>
+<STAGE>Ex. Rashley.</STAGE>
+<SP>
+<SPEAKER>Sir Rog.</SPEAKER>
+<P>In verity his was a strange discovery;&mdash;but such things&punc; will happen&mdash;sometimes.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Cord.</SPEAKER>
+<P>So it seems; yet this me thinks is wonderful.</P>
+</SP>
+<SP>
+<SPEAKER>Bubb.</SPEAKER>
+<P>Oh unfortunate Husband! Well,&mdash;I'll go instantly and get a Divorce, and spend the remainder of my Life in penning a Satyr against Women;&mdash;I'll call it, <HI>A CAUTION FOR CUCKOLDS;</HI> where I will deplorably set down my own Case, and as a Warning-piece for rash young men, and for the benefit of my Country.</P>
+<P><HI>Felix quem faciunt aliena Cornua Cautum.</HI></P>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>Fumb.</SPEAKER>
+<P>Something is the matter now, if I cou'd guess: But mum! I must not yet discover my failing.</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>Now the mighty Sophistress is o'erthrown!</P>
+</SP>
+<SP>
+<SPEAKER>Mar.</SPEAKER>
+<P>Thank Chance for that;&mdash;but no Wit of our own.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Rang.</SPEAKER>
+<P>Right, Madam; and by this a Man may see how unnecessary a thing it is,&mdash;to strive to turn the current of a Womans fancy, when it is bent to another. 'Tis a damn'd thing this Wenching&punc; if a Man considers seriously on it; and yet 'tis such a damnable Age we live in, that, Gad, he that does not follow it is either accounted sordidly un|natural, or ridiculously impotent.&mdash;Well, for my part henceforward this shall be my Resolution:</P>
+<L>I'll Love for Interest, Court for Recreation;</L>
+<L>Change still a Mistriss to be still in fashion:</L>
+<L>I'll aid all Women&punc; in an Amorous League;</L>
+<L>But from this hour ne'er baulk a Love-Intrigue.</L>
+</SP>
+<STAGE>Ex. omnes.</STAGE>
+</DIV3>
+</DIV2>
+</DIV1>
+</BODY>
+<BACK>
+<DIV1 TYPE="epilogue">
+<PB REF="36">
+<HEAD>EPILOGUE</HEAD>
+<STAGE>spoken by <HI>FUMBLE.</HI></STAGE>
+<L>WEll, Gentlemen, how d'ee?&mdash;<HI>Icod</HI> you sit,</L>
+<L>As if you had no Souls, no Brains, no Wit.</L>
+<L>What, not a word now in the Poets praise?</L>
+<L>Hah!&mdash;Faith, I was a Spark in my young days.&mdash;</L>
+<L>I Clapt, and Clapt;&mdash;nay, sometimes to my cost:</L>
+<L>I Clapt so long,&mdash;Gad, I (was) Clapt at last.</L>
+<L>There I was waggish;&mdash;You know what I mean;&mdash;</L>
+<L>The Devil was in't, a Plaguy <HI>Yorkshire</HI> Quean.&mdash;</L>
+<L>But 'tis no matter,&mdash;'twas but thought a Iest,</L>
+<L>And, Gad, I was as brisk then as the best.</L>
+<L>So I am now; for Ifack I'd have you know,</L>
+<L>Your Old Man, though he only serve for show,</L>
+<L>Yet give him a Young Wench with Black o' Top,&mdash;</L>
+<L>And you shall see him Frisk, and Iump, and Hop;&mdash;</L>
+<L><HI>Icod,</HI> and Wriggle!&mdash;Hah!&mdash;th' old Bell will sound,</L>
+<L>Though there is ne'er a Clapper to be found.</L>
+<L>But let that pass: Now your Applause disburse;</L>
+<L>Why,&mdash;what the Devil makes you silent thus?&mdash;</L>
+<L>What say ye,&mdash;The Play does not deserve it?&mdash;Hah!&mdash;</L>
+<L><HI>Icod,</HI> you are mistaken:&mdash;for I'll tell ye,</L>
+<L>I once could Write and Iudge,&mdash;and 'Fack did do</L>
+<L>Very strange things;&mdash;but I've forgot 'um now:&mdash;</L>
+<L>But I remember what a Wag&mdash;I was:&mdash;</L>
+<L>I had so many Smutty Iests those days,</L>
+<L>I could get none but Women to my Plays.</L>
+<L>But that's all one;&mdash;<HI>Icod,</HI> the Youth that Writ,</L>
+<L>Does well;&mdash;and who knows,&mdash;may do better yet:</L>
+<L>Therefore you should incourage him, D'ee hear?</L>
+<L>And he that fails, I wish this Curse may bear,</L>
+<L>That he be really my Character,&mdash;</L>
+<L>Lascivious, Deaf, and Impotent as I;</L>
+<L>And Gad that's Plague enough,&mdash;and so <HI>God bu'y.</HI></L>
+<TRAILER>FINIS.</TRAILER>
+<PB REF="36">
+</DIV1>
+</BACK>
+</TEXT>
+</EEBO>
+</ETS>

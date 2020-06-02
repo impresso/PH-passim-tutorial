@@ -1,0 +1,4023 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD EEBOPROOF 2.0//EN">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2001-08-02</DATE>
+<RESPSTMT>
+<NAME>Marika Ismail</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TYPEs to DIVs in order to validate. Proofed title page(s). Checked for N=""s. Checked for GROUP tags. Checked ^s. Reviewed structure. Checked division-marking material at heads and feet of divisions (HEADS,  CLOSER, OPENER, ARGUMENT, EPIGRAPH, SIGNED, BYLINE, etc.). Checked for signatures. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected ** $s and $word$s etc. of **. Converted __ $$s to GAP DESC="illegible" RESP="[vendor name]". Checked spacing of foreign GAPs.  Checked for LBs. Checked for startqs, endqs, oes, q;s, and Qs. Checked proofsheets and made corrections found there.  Checked for FIGUREs and decorated initials. Checked for missing-page GAPs. Revalidated. </ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="A30838">
+<STC T="W">B656</STC>
+<BIBNO T="oclc">12010704</BIBNO>
+<VID>52410</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1">
+<PB REF="1">
+<P>Cyrus the Great:
+OR, THE
+Tragedy of Love.</P>
+<P>As it is Acted at the
+THEATRE
+IN
+<HI>Little-Lincoln's-Inn-Fields,</HI>
+BY
+His Majesty's Servants.</P>
+<P>Written by <HI>IOHN BANKS.</HI></P>
+<P><HI>LONDON,</HI>
+Printed for <HI>Richard Bentley</HI> at the <HI>Post-Office</HI> in <HI>Russel-street,
+Covent-Garden.</HI> 1696.</P>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="2">
+<PB REF="2">
+<HEAD>TO HER
+ROYAL HIGHNESS,
+THE
+Princess ANNE
+OF
+DENMARK.</HEAD>
+<OPENER><SALUTE>Madam,</SALUTE></OPENER>
+<P>I Confess I am so transported at the Ho|nour
+You have done this poor Play,
+that I know not in what Terms to pay my
+Devotion to Your Highness; I am not insen|sible
+too of my own Unworthiness, and that
+it is a Presumption even in the best of this
+Kind, to think to gain Admittance into the Closet
+<PB REF="3">
+of so Great a Princess; But when I consider
+that no Present, of what Value soever, can
+be made suitable to One of Your Illustrious
+Character, It gives me Encouragement to hope
+this Trifle may not be less Acceptable to Your
+Royal Goodness, than a Pitcher of Water was
+to the Great Monarch of the World, from the
+Hands of a Mean Soldier. 'Twere Prophaneness
+in me any longer to divert with my rude Pen
+Your Divine Thoughts and Precious Moments,
+that are still imploy'd Above, in imploring
+Blessings for the Nation, and more prophane
+to sully the Chrystal Mirrour of so many In|comparable
+Virtues with the coarse Breath of
+Mortal Praise.</P>
+<P>I most humbly ask Leave then to withdraw
+from a Subject so much above my Capacity
+and Merit; (a Task fit only for the Angels
+You converse with,) and pray my Muse may
+have the Happiness to conclude, who groans
+to be deliver'd of her Duty, in these Homely,
+but Hearty Thanks.</P>
+<L><PB REF="3">
+Accept, <HI>Great Princess,</HI> this small Offering,</L>
+<L>This humble Mite I to your Treasure bring,</L>
+<L>The poor mean Present of a bended Muse,</L>
+<L>Amidst the Heaps of all the Wealthier <HI>Iews,</HI></L>
+<L>A banish'd Play that tedious Years had mourn'd,</L>
+<L>Blest with your favour, by your Smiles return'd,</L>
+<L>Writ and design'd for this Immortal Grace,</L>
+<L>E're my then happier<NOTE N="*" PLACE="marg">Earl of <HI>Essex.</HI></NOTE> <HI>Favourite</HI> took place;</L>
+<L>But tho' the Younger first the Blessing had,</L>
+<L>This brings no less Devotion that has stay'd:</L>
+<L>The grateful Peasant thus before he's stor'd,</L>
+<L>Gives his first Fruits of Plenty to his Lord.</L>
+<L>Since this had never liv'd but for your sake,</L>
+<L>'Tis just I give you what your self did make:</L>
+<L>For the Great <HI>Cyrus</HI> being but a Child,</L>
+<L>And in his Cradle destin'd to be kill'd,</L>
+<L>Your Highness his Divine <HI>Panthea</HI> now,</L>
+<L>Has rais'd him both to Empire and to You.</L>
+<L>The God of Love, who in the Scene departs,</L>
+<L>Bequeaths to You his Quiver and his Darts,</L>
+<L>And, what is more, his Title to all Hearts.</L>
+<L>Whilst at your Feet, the mighty Monarch lays</L>
+<L>His conquer'd Crowns, as humbly I the Bays.</L>
+<L>Happy was He that Presence to ingage,</L>
+<L>That chear'd the World, and brought to Life the Stage,</L>
+<L>Where the sad Muses, since they lost their Queen,</L>
+<L>Ne'er till that Day did tune their Songs agen.</L>
+<L>The ravish'd Crowds ador'd You as You rode,</L>
+<L>Like Spring in <HI>April</HI> coming first abroad.</L>
+<L>My humble Muse, then, that did groveling lye,</L>
+<L>Soar'd like an Eagle through the Vaulted Sky,</L>
+<L><PB REF="4">
+Forgot the Disappointments that she had,</L>
+<L>Rav'd with fierce Joy, and ran with Pleasure mad:</L>
+<L>Two Labours of her Brain,<NOTE PLACE="marg">Queen of Scots.</NOTE> this <HI>Play</HI> the third,</L>
+<L>Through Spite and Envy were the Stage debarr'd,<NOTE PLACE="marg">Lady Iane Grey.</NOTE></L>
+<L>Cast and ne'er Try'd, Condemn'd and never Heard.</L>
+<L>Thus droop'd your Poet, saw his Laurels stain'd,</L>
+<L>Or robb'd by Others who more favour gain'd;</L>
+<L>But time he hopes, and Pity in your Breast,</L>
+<L>Will bring'em both to Life, as this is blest.</L>
+<CLOSER><SIGNED>Your Royal Highness's
+most humble, most devoted,
+and most obedient Servant,
+J. Banks.</SIGNED></CLOSER>
+</DIV1>
+<DIV1 TYPE="prologue">
+<PB REF="4">
+<HEAD>PROLOGUE
+TO HER
+Royal Highness.</HEAD>
+<L>WHen all that we thought great and good was gone,</L>
+<L>And the whole World did in that Deluge drown,</L>
+<L>When mourning <HI>Cupids</HI> flagg'd their tender Wings,</L>
+<L>And the sad Muses broke their warbling Strings;</L>
+<L>When she was fled that shin'd with Pity here,</L>
+<L>What cou'd revive the drooping Theatre!&mdash;</L>
+<L>But from the <HI>Phoenix</HI> Ashes in their Spice,</L>
+<L>Loe, I behold another Goddess rise&punc;</L>
+<L>All Blessings that with her&punc; great Princess, flew,</L>
+<L>Can never be restor'd us, but in You.</L>
+<L>The Dove in the glad <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> was not so kind,</L>
+<L>Who brought the Olive, and reviv'd Mankind.</L>
+<L>The Laurels fading now behind our Scene,</L>
+<L>Like <HI>Virgil</HI>'s <HI>Grotto,</HI> shall be ever green.</L>
+<L>Let conquering <HI>William</HI> send abroad his Darts,</L>
+<L>Secure for him you rule his Peoples Hearts.</L>
+<L>And his soft Pledge only her self withdrew,</L>
+<L>Whilst all her Miracles succeed in You:</L>
+<L>Then let's to Heav'n in loudest Anthems sing</L>
+<L>That such bright Hopes we have, and such a King.</L>
+</DIV1>
+<DIV1 TYPE="dramatis personae">
+<PB REF="5">
+<LIST>
+<HEAD>Dramatis Personae.</HEAD>
+<ITEM><HI>Cyrus</HI> the Great. <HI>Mr.</HI> Betterton.</ITEM>
+<ITEM><HI>Cyaxares,</HI> King of <HI>Media. Mr.</HI> Smith.</ITEM>
+<ITEM><HI>Hystaspes,</HI> Kinsman to <HI>Cyrus. Mr.</HI> Kynaston.</ITEM>
+<ITEM><HI>Craesus,</HI> King of <HI>Lydia. Mr.</HI> Bowman.</ITEM>
+<ITEM><HI>Abradatas,</HI> King of <HI>Susa. Mr.</HI> Hudson.</ITEM>
+<ITEM><HI>Artabasus,</HI> Friend to <HI>Cyaxares. Mr.</HI> Thurmond.</ITEM>
+<ITEM><HI>Thomyris,</HI> Queen of <HI>Scythia. Mrs.</HI> Bowtell:</ITEM>
+<ITEM><HI>Panthea,</HI> her Daughter. <HI>Mrs.</HI> Barry.</ITEM>
+<ITEM><HI>Lausaria,</HI> Daughter to <HI>Craesus. Mrs.</HI> Bracegirdle.</ITEM>
+<ITEM>Officers, Guards, Women, and Attendance.</ITEM>
+</LIST>
+<STAGE>Scene the Camp near <HI>Babylon.</HI></STAGE>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="play">
+<PB N="1" REF="5">
+<HEAD>Cyrus the Great.</HEAD>
+<DIV2 N="1" TYPE="act and scene">
+<HEAD>Actus Primus. Scaena Prima.</HEAD>
+<STAGE>The Scene a wide spacious Land, ruinous and almost cover'd
+with dead Bodies, suppos'd to be after a great Battel,
+wherein <HI>Cyrus</HI> had Overthrown <HI>Croesus.</HI></STAGE>
+<STAGE>Enter <HI>Cyaxares, Artabasus,</HI> Officers and Attendants.</STAGE>
+<SP>
+<SPEAKER><GAP DESC="illegible" RESP="tech" EXTENT="1 letter">yax.</SPEAKER>
+<L>STAND.</L>
+</SP>
+<SP>
+<SPEAKER>Arta.</SPEAKER>
+<L>Stand&mdash;'Tis the King's Pleasure each Commander</L>
+<L>Draw up his Men, and close upon this Heath.</L>
+</SP>
+<SP>
+<SPEAKER>Cyax.</SPEAKER>
+<L>How far have we to <HI>Cyr<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"></HI>'s Camp from hence?</L>
+<L>And how far distant do th' <HI>Assyrians</HI> lie?</L>
+<L>Where stands this great and mighty <HI>Babylon,</HI></L>
+<L>The Mistress of the World, the glorious City?</L>
+<L>Whose proud, ambitious Arms have still inclos'd</L>
+<L>The greatest Emperors that ever were?</L>
+<L>So Proud, so Vain, and Awful was she once,</L>
+<L>She almost reach'd the Heavens with her Tow'rs.</L>
+</SP>
+<SP>
+<SPEAKER>Art.</SPEAKER>
+<L>Just from th' ascent of that small rising Hill,</L>
+<L>And but a few Miles distant, you may see</L>
+<L>The three great Miracles of all the Earth;</L>
+<L>Nearest in view your Faithful Valiant <HI>Medians,</HI></L>
+<L>With all the rest of your Confed'rates lie,</L>
+<L>Compos'd of fierce <HI>Hyrcanian</HI> Horse,</L>
+<L><HI>Armenian</HI> Foot, and brave <HI>Cadusian</HI> Archers.</L>
+<L>The Troop of <HI>Cyrus</HI> own Immortal Guards,</L>
+<L>The <HI>Persian Homotyms,</HI> each nobly Born,</L>
+<L>Valiant and Wise enough to be a General&mdash;</L>
+<L>These are ordain'd to hold the World in Chains,</L>
+<L>With <HI>Cyrus,</HI> God-like <HI>Cyrus</HI> at their Head.</L>
+</SP>
+<SP>
+<PB N="2" REF="6">
+<SPEAKER>Cyax.</SPEAKER>
+<L><HI>Cyrus!</HI> Thou speak'st as if thou ne'er hadst knewn</L>
+<L><HI>Astyages,</HI> or wert thy self no <HI>Mede</HI>&mdash;</L>
+<L>Answer me not, but as you did, go on.</L>
+</SP>
+<SP>
+<SPEAKER>Arta.</SPEAKER>
+<L>Distant from <HI>Cyrus</HI>'s Camp, some twenty Furlongs,</L>
+<L>And just as many from the Imperial Town,</L>
+<L>Lies the great Army of th' <HI>Assyrian</HI> King,</L>
+<L>Fill'd up with such a multitude of Nations,</L>
+<L>You'd think that all the Living of the World</L>
+<L>Were there assembl'd to defie the Gods,</L>
+<L>Not fight with <HI>Cyrus</HI>&mdash;</L>
+<L>Betwixt these Armies, as the Prize of all,</L>
+<L>Stands the bright Virgin Queen, rich <HI>Babylon,</HI></L>
+<L>Incouraging the Soldiers on each side,</L>
+<L>As if she said, that she and all the World,</L>
+<L>Were, till this great decision, set at Stake,</L>
+<L>To come in Triumph to the Victor's Arms.</L>
+</SP>
+<SP>
+<SPEAKER>Offic.</SPEAKER>
+<L>Her Sp<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">res and Temples so with Beauty shine,</L>
+<L>Did not the Smoak which from both Armies rise,</L>
+<L>Eclipse the Light, you might with wonder see</L>
+<L>She than the Sun wou'd make a brighter Day.</L>
+</SP>
+<SP>
+<SPEAKER>Cyax.</SPEAKER>
+<L>A brave Reward, more worth than is the danger!</L>
+<L>But I unmanly come to share the Spoil,</L>
+<L>Without the hazarding of one poor Battel;</L>
+<L>All's done already, no more Crowns to win,</L>
+<L>Those that have scap'd, are all for shelter run</L>
+<L>Under the Wings of this huge Armies Body&mdash;</L>
+<L>This is the Field whose sad remains can tell</L>
+<L>Of <HI>Craesus</HI>'s late and dreadful Overthrow&mdash;</L>
+<L>Behold the Triumph of unstable Fortune!</L>
+<L>Are these the Men that made such mighty noise!</L>
+<L>How they lie low, cut off like wither'd Corn,</L>
+<L>Where proudly once they flourish'd, and grew up.</L>
+<L><HI>Craesus</HI> the Rich, the Happy, and the Wise,</L>
+<L>His Scale of Fortune now that lies so low,</L>
+<L>Gives <HI>Cyrus</HI> leave to mount and touch the Sky.</L>
+</SP>
+<SP>
+<SPEAKER>Arta.</SPEAKER>
+<L>A fatal Glory fires ambitious Man,</L>
+<L>That is for ever with destruction gotten,</L>
+<L>Bright Ruine is the gilding of his Doys,</L>
+<L>And humbl'd Nations with his height must fall.</L>
+<L>Our Eyes no other Objects can behold,</L>
+<L>But near and distant Plains all harras'd o'er,</L>
+<L>And great and beauteous Palaces unveil'd.</L>
+</SP>
+<SP>
+<SPEAKER>Cyax.</SPEAKER>
+<L>No Corn does here inrich the bloody Field,</L>
+<L>Nor Grass adorn the Meads with wanton Green;</L>
+<L>The Trees, the Earth's tall Sons, are all cut off,</L>
+<L>All Places mourn where <HI>Cyrus</HI> Horse has trod.</L>
+</SP>
+<SP>
+<SPEAKER>Offic.</SPEAKER>
+<L>The poor and plunder'd Peasants peep abroad</L>
+<L><PB N="3" REF="6">
+With piteous Eyes and Hands lift up to Heav'n,</L>
+<L>To see their Labour turn'd to dismal Spoil,</L>
+</SP>
+<SP>
+<SPEAKER>Arta.</SPEAKER>
+<L>So Shipwrack'd Passengers cast on the Shore,</L>
+<L>That but a few past moments saw themselves</L>
+<L>Rich in a Calm, watching the Tides decrease,</L>
+<L>Pick up small pieces of their scatter'd Wealth,</L>
+<L>Which the relenting Waves left on the Sands&mdash;</L>
+<L>The utmost Corners of the World have heard him,</L>
+<L>And frighted at the Trumpet of his Fame,</L>
+<L>Have straight obey'd.&mdash;All Mortal Eyes look up,</L>
+<L>Nay, God's themselves with Envy now look down</L>
+<L>Upon the growth of this prodigious Man,</L>
+<L>Wond'ring as they behold such monstrous Greatness,</L>
+<L>How they so lavishly decreed.</L>
+</SP>
+<SP>
+<SPEAKER>Cyax.</SPEAKER>
+<L>No more, get thee to <HI>Cyrus</HI> back,</L>
+<L>Do, and forget what late thou wert, when first</L>
+<L>I moulded thee from humble Earth, and plac'd</L>
+<L>Thee o'er the Heads of twenty thousand Great Ones;</L>
+<L>And thou for this, e're <HI>Cyrus</HI> dawn, declin'd</L>
+<L>Thy Royal Master, left me in a time,</L>
+<L>When he, with all his Train of early Hopes</L>
+<L>Cou'd scarcely comprehend the meane<GAP DESC="illegible" RESP="tech" EXTENT="2 letters"> Star,</L>
+<L>Dropt from the Sphere where all my <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> are written.</L>
+</SP>
+<SP>
+<SPEAKER>Arta.</SPEAKER>
+<L>O pardon, Royal Sir, my Love to <HI>Cyrus</HI></L>
+<L>Is but what you out of excess may spare;</L>
+<L>It runs to him in narrow, shallow Streams,</L>
+<L>But never ceases to o'erflow the Fountain.</L>
+</SP>
+<SP>
+<SPEAKER>Cyax.</SPEAKER>
+<L>Ah! <HI>Artabasus,</HI> wert not thou to blame,</L>
+<L>To counsel me to give the Reins to <HI>Cyrus,</HI></L>
+<L>Pleas'd me with Hopes, and fed my longing Ears</L>
+<L>With cunning Tales, of this ambitious Boy,</L>
+<L>And when my self wou'd fain have lead my Armies,</L>
+<L>Made me lie down in Sloth, yielding to him</L>
+<L>These Hands, these Feet, my Legions, and my Strength,</L>
+<L>And left me then a weak and limbless Body,</L>
+<L>Drench'd in Delights, and drown'd in studied Pleasures.</L>
+<L>Bane to my Bliss, and my Renown for ever!</L>
+<L>How canst thou answer this?&mdash;</L>
+</SP>
+<SP>
+<SPEAKER>Arta.</SPEAKER>
+<L>If you will hear&mdash;</L>
+</SP>
+<SP>
+<SPEAKER>Cyax.</SPEAKER>
+<L>Why Father, great <HI>Astyages,</HI> did not</L>
+<L>Thy Martial Ghost affright me in this Slumber?</L>
+<L>Call to my Mind the Deeds that thou hast done,</L>
+<L>When Young, and scarcely risen from my Cradle,</L>
+<L>Thou leadst me round the Frontiers of the Globe,</L>
+<L>And brought me to a Nation blest by Heav'n,</L>
+<L><HI>Elysium</HI> sure it was, a Land of Wonders,</L>
+<L>Whose Leaves and Trees still blossom'd like the Spring,</L>
+<L><PB N="4" REF="7">
+And Fields were clad with everlasting Green;</L>
+<L>Its Streams ran Chrystal, and its Sands were Gold.</L>
+<L>This Orient Miracle shone like a Gemm</L>
+<L>Sate in the golden Circle of the World,</L>
+<L>So swarm'd on by the fairest of the Living;</L>
+<L>As if't had been indeed that happy Place</L>
+<L>Where Souls are blest with an Eternal Being:</L>
+<L>For there no Want was found, but all Increase</L>
+<L>Sprung from the great and unknown Deity.</L>
+<L>Through this Immortal Land we pierc'd our Arms,</L>
+<L>Climbing the lofty Hills that rear'd the City,</L>
+<L>And from their Temple built of shining Gold,</L>
+<L>Bore all the holy Vessels of their God,</L>
+<L>And took Five hundred thousand Slaves away.</L>
+<STAGE>Thunder and Lightning, Darkness seems to cover
+the Field.</STAGE>
+<L>Heark, heark&mdash;A horrid Thunder sounds at distance.</L>
+</SP>
+<SP>
+<SPEAKER>Arta.</SPEAKER>
+<L>Now here it answers with a Force as dreadful&mdash;</L>
+<L>A sudden Darkness seems to spread the Field&mdash;</L>
+<L>There you may see that cloudy Curtain drawn,</L>
+<L>Whilst Lightning rushes from the parting Heav'ns,</L>
+<L>And to my wond'ring Eyes discovers Swarms</L>
+<L>Of hellish Insects flying in the Air.</L>
+</SP>
+<SP>
+<SPEAKER>Cyax.</SPEAKER>
+<L>The Gods are sportive sure, and seem to mock</L>
+<L>At what bold <HI>Cyrus</HI> has perform'd below.</L>
+</SP>
+<SP>
+<SPEAKER>Arta.</SPEAKER>
+<L>The Scene of Horrour yet discloses further&mdash;</L>
+<L>My Sight deceives me if I do not see</L>
+<L>Spirits descend into their Humane Forms</L>
+<L>Again, and the dead Bodies slain by <HI>Cyrus</HI></L>
+<L>Begin to move.</L>
+</SP>
+<SP>
+<SPEAKER>Cyax.</SPEAKER>
+<L>Something does tread the Ground&mdash;</L>
+<L>Look, <HI>Artabasus,</HI> see, what monstrous things</L>
+<L>Betwixt a Mortal and a Devil's Shape,</L>
+<L>Are those?</L>
+</SP>
+<SP>
+<SPEAKER>Arta.</SPEAKER>
+<L>I see distinctly now, and I'll</L>
+<L>Release you from your Wonder&mdash;These are Witches,</L>
+<L>Or Wizards else, that all this Land is fam'd for&mdash;</L>
+<L>What Nation is there but has oft been told</L>
+<L>Strange Tales of the <HI>Chaldean</HI> Sorcerers.</L>
+<L>When they wou'd know th' Event of things on Earth,</L>
+<L>Like ravenous Vultures haunting bloody Battels,</L>
+<L>They still attend the Fortune of the Field,</L>
+<L>When they may exercise their loathsome Charms</L>
+<L>And hateful Practices upon the Dead.</L>
+<L>With sulph'rous Herbs, and devillish Incantations.</L>
+<L><PB N="5" REF="7">
+They wrack their quiet Spirits in the Shades,</L>
+<L>Driving their Souls back to their Flesh again,</L>
+<L>And force 'em to reveal what's writ below,</L>
+<L>What Heav'n had bound up in the Book of Fate.</L>
+<L>Th' Infernal Gods are master'd by their Po<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">er,</L>
+<L>Or else perswaded by some Piety</L>
+<L>That pleases them; deny these Wretches nothing.</L>
+</SP>
+<STAGE>[Dance of Wizards.</STAGE>
+<STAGE>Witches SONG.</STAGE>
+<SP>
+<SPEAKER>1 Witch.</SPEAKER>
+<L>Sisters, Whilst I thus wave my Wand,</L>
+<L>Charming the Ground on which we stand;</L>
+<L>Invoke the Spirit of this Slain,</L>
+<L>Its Body to inform again:</L>
+<L>Some of <HI>Deucalion</HI>'s Seeds I've found,</L>
+<L>That rais'd Mankind when all was drown'd.</L>
+</SP>
+<SP>
+<SPEAKER>2 Witch.</SPEAKER>
+<L>Mummy with Cats Blood did I boil,</L>
+<L>I'll chafe his Temples with the Oil.</L>
+</SP>
+<SP>
+<SPEAKER>3 Witch.</SPEAKER>
+<L>To fume his Nostrils, lo, I bring</L>
+<L>A Feather from the Phoenix Wing.</L>
+</SP>
+<SP>
+<SPEAKER>4 Witch.</SPEAKER>
+<L>I'll wash his Ioints with Liquor brought</L>
+<L>From <HI>Aeson</HI>'s Bath, which Wonders wrought.</L>
+</SP>
+<SP>
+<SPEAKER>CHORUS.</SPEAKER>
+<L>He stirs, he stirs; Rise and foretell</L>
+<L>This list'ning Monarch's Fate from Hell.</L>
+</SP>
+<SP>
+<SPEAKER>Cyax.</SPEAKER>
+<L>Behold&mdash;Look yonder&mdash;Is not that a Man,</L>
+<L>That rises from amongst the Heaps of slain,</L>
+<L>And with an awful March comes steady towards us?</L>
+</SP>
+<STAGE>A dead Carkass of one of the slain rises, and comes to
+them upon the Stage.</STAGE>
+<SP>
+<SPEAKER>Arta.</SPEAKER>
+<L>Fear't not, my Lord&mdash;See, it wou'd speak.</L>
+</SP>
+<SP>
+<SPEAKER>Dead Cark.</SPEAKER>
+<L>From the dark Region of Eternal Night,</L>
+<L>Where numerous Souls in mingled Tortures live,</L>
+<L>And fry like Atomes in the Sun-beams Heat;</L>
+<L>Alternately from Flames and then to Frost;</L>
+<L>First dipp'd into a liquid Fire, and thence</L>
+<L>Whole Shoals are plung'd into a Deep of Ice:</L>
+<L>Whilst <HI>Pluto</HI>'s great <HI>Divan</HI> in Council sit,</L>
+<L>T'invent new Plagues to practise on the Damn'd.</L>
+<L>From thence, as I stood gazing on the Lake,</L>
+<L>Waiting my Passage to that place of Horrour,</L>
+<L><PB N="6" REF="8">
+A Summons from the Fiery King was sent</L>
+<L>By <HI>Charon</HI> brought, wherein I was commanded</L>
+<L>By Power on Earth, which that in Hell controll'd,</L>
+<L>That I shou'd straight glide back into the World,</L>
+<L>Quick as pent Light disclos'd, it self disperses,</L>
+<L>And re-assumes this Corpse yet uninterr'd,</L>
+<L>Till <HI>Cyaxares</HI> Ears had reach'd my Charge,</L>
+<L>What of thy Fates decreed, which I shall speak,</L>
+<L>And <HI>Pluto</HI> dictate&mdash;This the Oracle.</L>
+<L>In vain's thy vast Ambition and thy Envy,</L>
+<L>A Genius yet more great shall conquer thine,</L>
+<L>And when thy Rashnes<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> leads thee next to fight,</L>
+<L>To <HI>Cyrus</HI> Glories thou shalt add thy Life,</L>
+<L>And leave thy Empires, and thy Darling Crowns,</L>
+<L>To be possess'd by him whom Fate adores,</L>
+<L>Whom, for a time, Heav'n, Hell, and all the World</L>
+<L>Obey&mdash;I am recall'd,&mdash;my Task is done,</L>
+<L>And subtil Fiends come thronging to the Light</L>
+<L>To drive me into Torments back again.</L>
+</SP>
+<STAGE>[Falls down again.</STAGE>
+<SP>
+<SPEAKER>Cyax.</SPEAKER>
+<L>Ha! Art thou fall'n! Stay, speak, who sent thee, Soldier?</L>
+<L>What greater Devil lurking here on Earth</L>
+<L>Made the black God obey his threatning Summons,</L>
+<L>And charm'd the Powers of Hell to my Destruction?</L>
+</SP>
+<SP>
+<SPEAKER>Arta.</SPEAKER>
+<L>A meer cold Clod, a bloody mangl'd Coarse.</L>
+</SP>
+<SP>
+<SPEAKER>Cyax.</SPEAKER>
+<L>Here, take this hellish Carkass,</L>
+<L>And throw it to wild Beasts to be devour'd&mdash;</L>
+<L>What, hast thou Hell invok'd too on thy side!</L>
+<L>Can <HI>Cyrus</HI> trust his helping Gods no more!</L>
+<L>So little do I fear thee now, false <HI>Persian,</HI></L>
+<L>That, stoodst thou guarded like the King of Furies,</L>
+<L>Ten thousand glaring Spirits round about thee,</L>
+<L>With burning Tridents, and hot Scourges arm'd,</L>
+<L>To hurry me from Earth like Mortal damn'd,</L>
+<L>I'd through 'em all to meet thee, daring Boy.</L>
+</SP>
+<SP>
+<SPEAKER>Arta.</SPEAKER>
+<L>Recall your Temper, Sir, and blame not <HI>Cyrus,</HI></L>
+<L>Who, bating his Ambition, still is Virtuous.</L>
+<L>His Soul, pure as the first created Mortals,</L>
+<L>Who in the Worlds prime Innocence began,</L>
+<L>'Ere Lust and Power defac'd the tender Image,</L>
+<L>And crept into the Frailties of Mankind&mdash;</L>
+<L>This was perform'd by some Magician's Art,</L>
+<L>At the Command of the <HI>Assyrian</HI> Monarch,</L>
+<L>Who, since his late Defeat, basely and cowardly,</L>
+<L>Is forc'd to have recourse to Hellish Tricks,</L>
+<L>And in his sinking State catches at Air,</L>
+<L>Grasps any thing to save him from o'erwhelming.</L>
+<L><PB N="7" REF="8">
+The Gods will guard you through an Host of Devils,</L>
+<L>Then as Hell's Malice only this esteem.</L>
+</SP>
+<STAGE>[Noises of singing within.</STAGE>
+<SP>
+<SPEAKER>Cyax.</SPEAKER>
+<L>Whence comes this Sound of Musick, and of Voices?</L>
+<STAGE>[<HI>Captain</HI> goes off.</STAGE>
+<L>Am I awake! Is't real <HI>Artabasus</HI></L>
+<L>That we have seen, or that we now do hear?</L>
+</SP>
+<STAGE>[Captain <HI>re-enters.</HI></STAGE>
+<SP>
+<SPEAKER>Capt.</SPEAKER>
+<L>The brave <HI>Hystaspes,</HI> Sir, is just arriv'd,</L>
+<L>With Presents from his Royal Master <HI>Cyrus</HI></L>
+<L>To <HI>Cyaxares</HI> his Imperial Unkle.</L>
+</SP>
+<STAGE>Enter to them <HI>Hystaspes,</HI> with <HI>Panthea,</HI> Women,
+and Attendants.</STAGE>
+<LG N="1" TYPE="song">
+<HEAD>SONG.1.</HEAD>
+<L>Heark how the Trumpet and the Drums,</L>
+<L>With dismal Voice proclaim she comes,</L>
+<L>Whilst we that Victory despise,</L>
+<L>Where Valour blushes at the Prize.</L>
+</LG>
+<LG N="2">
+<HEAD>2.</HEAD>
+<L>The Royal Captive now appears,</L>
+<L>A Beauty sinking under Showers of Tears.</L>
+<L>Love's Queen in Chains, fetter'd are all her Charms,</L>
+<L>And useless lie her little Heroes Arms.</L>
+</LG>
+<LG N="3">
+<HEAD>3.</HEAD>
+<L>And yet the Conquerour shall yield,</L>
+<L>And give up all the Trophies of the Field;</L>
+<L>Shall kiss that Sceptre, which the World does sway,</L>
+<L>And at his Captive's Feet his Laurels lay.</L>
+<L>How pleasing is the Pain a Lover feels,</L>
+<L>Glad to <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">e chain'd to Beauty's Chariot Wheels.</L>
+</LG>
+<LG TYPE="chorus">
+<HEAD>CHORUS.</HEAD>
+<L>Such is the Force of Love! the Great, the Brave,</L>
+<L>All must submit, sometime put on the Slave.</L>
+</LG>
+<SP>
+<SPEAKER>Cyax.</SPEAKER>
+<L>Blest Sight! and happy <HI>Cyrus</HI> much more blest,</L>
+<L>That in thy boundless Prodigality,</L>
+<L>Canst throw away so rich, Immense Delights,</L>
+<L>And scatter Pleasures as the Gods do Blessings.</L>
+</SP>
+<STAGE>[<HI>Panthea</HI> and her Maids weep.</STAGE>
+<STAGE>[Hystaspes <HI>kneels.</HI></STAGE>
+<SP>
+<PB N="8" REF="9">
+<SPEAKER>Hyst.</SPEAKER>
+<L>The Great, the Valiant, and the faithful <HI>Cyrus,</HI></L>
+<L>The Light of Empires, and the World's great Soul,</L>
+<L>To whom all Nations bend, bids me to kneel</L>
+<L>To his dear Uncle, Father, Master <HI>Cyaxares,</HI></L>
+<L>And as an earnest of succeeding Glories,</L>
+<L>Lay here the Queen of Beauty at your Feet.</L>
+<L>Not Crowns nor Kingdoms does he send by me,</L>
+<L>Those he reserves with all Religious Duty</L>
+<L>To plant himself about your Royal Temples,</L>
+<L>And with his own Victorious Hands to give you</L>
+<L>More Laurels, and more heaps of Monarchs Riches,</L>
+<L>Then e're adorn'd the Shrines of Deities;</L>
+<L>And her whose so much celebrated Charms</L>
+<L>Made all the World, and <HI>Cyrus</HI> Ears in Love,</L>
+<L>Yet wou'd not your brave Nephew trust his Eyes</L>
+<L>With the least sight of what they so much long'd for,</L>
+<L>Lest they shou'd Rivals prove to <HI>Cyaxares.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Cyax.</SPEAKER>
+<L>Are these, O Love, Rewards of Victory!</L>
+<L>Or the blest Consorts of the Gods themselves,</L>
+<L>By some more aw'd Divinity brought thence,</L>
+<L>Leaving th' Immortals mourning Widowers&mdash;</L>
+<L>But what is she that shines above the rest,</L>
+<L>As <HI>Cynthia</HI> does amongst her Starry Train,</L>
+<L>Shedding more precious Essence from her Eyes</L>
+<L>Then <HI>Phoebus</HI> wantonly each Morning draws</L>
+<L>From Beds of Violets, or the Dew of Roses&mdash;</L>
+<L>Speak thou more fair than finest thought can form,</L>
+<L>Or but thy self, the Sun did ever see.</L>
+</SP>
+<SP>
+<SPEAKER>Hyst.</SPEAKER>
+<L>God's! Was <HI>Hystaspes</HI> born to be your hatred!</L>
+<L>Is it her Griefs, or what, that makes this change</L>
+<L>Within my Bosom? I wou'd no call it Love&mdash;</L>
+<L>O <HI>Cyrus,</HI> had'st thou view'd these dangerous Beauties,</L>
+<L>Thou hadst not mark'd thy Friend out to be wretched.</L>
+</SP>
+<SP>
+<SPEAKER>Cyax.</SPEAKER>
+<L>What, not a Word t'inrich thy humble Creature?</L>
+<L>There is no Goddess that can speak like thee&mdash;</L>
+<L>Thy Griefs keep concord with thy Virgins Songs,</L>
+<L>Who, to thy Sorrows, set their warbling Notes,</L>
+<L>Whilst thou add'st Tea<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">s to ev'ry Syllable,</L>
+<L>And with thy Sighs, gives the sad Tunes the Time;</L>
+<L>Or was not this the Musick of the Spheres,</L>
+<L>Never before made known to mortal sence,</L>
+<L>And thou the Goddess of that happy Place.</L>
+</SP>
+<SP>
+<SPEAKER>Hyst.</SPEAKER>
+<L>Sir, she's <HI>Panthea.</HI></L>
+<L>The fam'd fair Daughter of the <HI>Scythian</HI> Queen.</L>
+</SP>
+<SP>
+<SPEAKER>Panth.</SPEAKER>
+<L>O! yes, tell all my Woes too if thou canst,</L>
+<L>And tell' em with a Grace, that I may sooth</L>
+<L>My many Sorrows to a little rest.</L>
+<L><PB N="9" REF="9">
+For I shall never say 'em in an Age.</L>
+<L>I have a thousand swelling in my Soul,</L>
+<L>Strugling at once, and rushing to get foremost,</L>
+<L>So I can speak of neither, but at last</L>
+<L>Call to my Aid my Sex's feeble temper,</L>
+<L>And draw the <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> Vapour into Tears.</L>
+</SP>
+<SP>
+<SPEAKER>Cyax.</SPEAKER>
+<L>Divine <HI>Panthea</HI>&mdash;</L>
+</SP>
+<SP>
+<SPEAKER>Panth.</SPEAKER>
+<L>Call me what I am,</L>
+<L>Tell me not what I was&mdash;I was <HI>Panthea,</HI></L>
+<L><HI>Panthea</HI> rich in Friends, blest as their Hopes,</L>
+<L>Prais'd and belov'd, or I was grosly flatter'd,</L>
+<L>Who, from the fondness of my Parent's Arms,</L>
+<L>(Hanging still round my Childish Infancy)</L>
+<L>Found no false Change, no waining of my Joys,</L>
+<L>But ev'ry day increas'd my Happiness;</L>
+<L>And the same Stars that smil'd upon my Birth</L>
+<L>Seem'd still to tempt, and draw all Eyes to me;</L>
+<L>All Knees, all Hearts did bend where e'er I came,</L>
+<L>And blest me as their Goddess, or the Spring;</L>
+<L>And till this day, of all my Age accurst,</L>
+<L>I never knew what a worse Moment was.</L>
+</SP>
+<SP>
+<SPEAKER>Hyst.</SPEAKER>
+<L>O thou art lost, undone <HI>Hystaspes</HI> quite,</L>
+<L>The Glory of the Battel owes to thee,</L>
+<L>But this bright Victim makes the Victor blush&mdash;</L>
+<L>Yet to revenge me on my self, and Crime,</L>
+<L>If <HI>Cyrus</HI> will not grant her Liberty,</L>
+<L>I'll do't my self, with forfeit of my Life.</L>
+</SP>
+<SP>
+<SPEAKER>Cyax.</SPEAKER>
+<L>Go on, go on, thou charming Creature, do,</L>
+<L>Each Word leaves Bliss and Wonder in my Soul.</L>
+</SP>
+<SP>
+<SPEAKER>Panth.</SPEAKER>
+<L>But oh! now to repeat the Summ of all,</L>
+<L>That which methinks shou'd strike the Hearers dead.</L>
+<L>When my full Joys had ripen'd for Enjoyment,</L>
+<L>And I wrap'd up in harmless Extasie,</L>
+<L>To such a height I saw no ground below,</L>
+<L>And thought the Glass of that blest Hour wou'd ne'er</L>
+<L>Be run, I mean (Gods, give me leave to say it)</L>
+<L>As my dear Mother in the Temple gave me</L>
+<L>A happy Bride, in shew to <HI>Abradatus,</HI></L>
+<L>The Brave, and most Heroick King of <HI>Susa</HI>&mdash;</L>
+<L>Scarce had the Priests the Holy Rites perform'd,</L>
+<L>When straight the Trumpets call'd, and Battel join'd,</L>
+<L><HI>Cyrus</HI> approaching with a fatal Charge</L>
+<L>On <HI>Craesus,</HI> and the Forces of our Army;</L>
+<L>Then was my Love snatch'd from my Virgin Arms</L>
+<L>To his Command, and I ran breathless on the Walls</L>
+<L>To see my <HI>Abradatus</HI> Fight, and Conquer;</L>
+<L>But soon, methought, I saw him round inclos'd</L>
+<L><PB N="10" REF="10">
+With Enemies, which sight to snatch'd my Senses,</L>
+<L>That on a sudden follow'd by my Women,</L>
+<L>I found me in our Camp, not knowing how</L>
+<L>I went, nor waking from that wretched Slumber,</L>
+<L>Till I was brought a Prisoner to <HI>Hystaspes.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Cyax.</SPEAKER>
+<L>Ah sweet <HI>Panthea!</HI> if thy Sorrows move so,</L>
+<L>What canst thou do, dispersing Smiles around thee?</L>
+<L>But oh the thoughts! I'll tear 'em from my Breast,</L>
+<L>Pull out the Seeds just rooting in my Heart,</L>
+<L>And die rather than live with the disgrace&mdash;</L>
+<L>Down, down, thou fair infectious Charm of Beauty,</L>
+<L>Down to thy first Abyss from whence thou camest,</L>
+<L>Where Light lay hid, when all things were a <HI>Chaos,</HI></L>
+<L>Thou cheat of Sence, and blinder of all Eyes&mdash;</L>
+<L><HI>Cyrus</HI> is boasting now of his design,</L>
+<L>That laid these Nets of Beauty in my march,</L>
+<L>To stop my fair and quick return to Glory&mdash;</L>
+<L>Away thou sweet destroyer of my Fame&mdash;</L>
+<L><HI>Hystaspes,</HI> haste with thy fair Charmer hence;</L>
+<L>Go tell thy Master all that thou hast seen</L>
+<L>Of <HI>Cyaxares;</HI> tell him that <HI>Panthe<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"></HI></L>
+<L>Shou'd be esteem'd as Heav'n and Heav'nly Joys,</L>
+<L>Not to be tasted by a Man, and live,</L>
+<L>Therefore I give her to the Stars, from whence</L>
+<L>She came&mdash;Bid <HI>Cyrus</HI> do the like&mdash;Begone,</L>
+<L>Quickly, least I shou'd wish to look again.</L>
+</SP>
+<SP>
+<SPEAKER>Pan.</SPEAKER>
+<L>Ten thousand Glories crown your Head for this.</L>
+<L>May this brave Action make your Name and Bliss</L>
+<L>Renown'd on Earth, as is the God of War,</L>
+<L>And when in Heav'n, a bright shining Star.</L>
+</SP>
+<SP>
+<SPEAKER>Hyst.</SPEAKER>
+<L>I am amaz'd&mdash;Can this be real, Sir?</L>
+<L>I dare not tell the King of your refusal.</L>
+</SP>
+<SP>
+<SPEAKER>Cyax.</SPEAKER>
+<L>Do it, I charge thee, and inform him too,</L>
+<L>That <HI>Cyaxares</HI> comes to meet him straight,</L>
+<L>With Courage awful as <HI>Astyages,</HI></L>
+<L>When <HI>Cyrus,</HI> but a pratling Boy, admir'd him,</L>
+<L>Look'd from the Ground, ador'd his Majesty,</L>
+<L>And fear'd him like a God&mdash;Go from my Eyes&mdash;</L>
+<L>Remove those gay bright <HI>Syrens</HI> that forerun</L>
+<L>A Storm.</L>
+</SP>
+<SP>
+<SPEAKER>Hyst.</SPEAKER>
+<L>Come Madam.</L>
+</SP>
+<SP>
+<SPEAKER>Panth.</SPEAKER>
+<L>To kind Death, I hope&mdash;</L>
+<L>Brave <HI>Cyaxares.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Cyax.</SPEAKER>
+<L>O speak no more&mdash;Thou conqu'ring Beauty go&mdash;</L>
+<L>There lies your Path&mdash;We must take several ways;</L>
+<L>If you look back, my ling'ring <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> stays.</L>
+</SP>
+<STAGE>[Exeunt severally. Exeunt Omnes.</STAGE>
+<TRAILER>Finis Actus Primi.</TRAILER>
+</DIV2>
+<DIV2 N="2" TYPE="act and scene">
+<PB N="11" REF="10">
+<HEAD>Actus Secundus, Scaena Prima.</HEAD>
+<STAGE><HI>Cyrus</HI> discovered upon his Throne in Triumph amongst his
+Captains and Soldiers. <HI>Craesus</HI> bound ready for Ex|ecution.</STAGE>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>ENough&mdash;These splendid Vanities I loath,</L>
+<STAGE>[Sounds of Triumphs.</STAGE>
+<L>The boast of Fools, and Pageanty of Cowards;</L>
+<L>It sits too heavy on your <HI>Cyrus</HI> Arms&mdash;</L>
+<L>O let me rise, and let 'em loose, my Soldiers,</L>
+<L>To throw about your Necks, and thus embrace</L>
+<L>My Valiant Friends, and all my brave Confed'rates,</L>
+<L>By whose sole Aid (Gods be my Witnesses)</L>
+<L>I own it with a Pride, I have restor'd</L>
+<L>The World to its dear antient Liberty,</L>
+<L>Freed Captiv'd Nations from their Tyrant's Yoaks,</L>
+<L>And plac'd 'em on the Necks of barb'rous Kings,</L>
+<L>Trod down the Walls of fam'd <HI>Semiramis,</HI></L>
+<L>That founded first this <HI>Asian</HI> Monarchy;</L>
+<L>Made my Commands in one quick Moment spread</L>
+<L>Like Thunder terrible through all the City.</L>
+<L>But let's no more afflict this Monarch's Spirit,</L>
+<L>But grant him that which ev'ry gallant Soul</L>
+<L>In vast distress requires&mdash;a speedy Death&mdash;</L>
+<L>Away with him, and having plac'd him on</L>
+<L>The Fuel, let it blaze, a just Reward</L>
+<L>For him that has so long set all the World</L>
+<L>In Flames&mdash;Quick, take him hence&mdash;</L>
+</SP>
+<STAGE>[As they are carrying off <HI>Craesus</HI> to
+Execution, <HI>Cyrus</HI> calls him back.</STAGE>
+<SP>
+<SPEAKER>Craes.</SPEAKER>
+<L><HI>O</HI> Solon! Solon! Solon!</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>Stay, bring him back, say, What does <HI>Craesus</HI> mean?</L>
+<L>I did expect thou shouldst have ask'd thy Life,</L>
+<L>And thou in scorn of me call'st loud for <HI>Solon</HI>&mdash;</L>
+<L>Can <HI>Solon</HI> save thee from the Wrath of <HI>Cyrus?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Craes.</SPEAKER>
+<L>No, 'tis too late, but that which made me call</L>
+<L>On <HI>Solon</HI> was, to my remembrance came</L>
+<L>The Sentence of that Wise and Learned Teacher,</L>
+<L>Which I till now contemn'd, 'Twas in the midst</L>
+<L>Of all my Glories, Children, Friends, and Riches,</L>
+<L>Thinking my self, no God cou'd be more happy,</L>
+<L><PB N="12" REF="11">
+I sent for <HI>Solon</HI> to resolve this Question&mdash;</L>
+<L>Tell me, said I, who is the happiest Man</L>
+<L>On Earth: but <HI>Solon</HI> answer'd, there was none,</L>
+<L>None cou'd be truly happy whilst he liv'd.</L>
+<L>I ask'd him then, who 'twas he thought was happiest,</L>
+<L>Expecting that he shou'd have said, 'twas <HI>Craesus;</HI></L>
+<L>But he reply'd, the happiest Man he thought</L>
+<L>Was <HI>Tellus,</HI> once a Citizen of <HI>Athens,</HI></L>
+<L>A Man that had no mean nor mighty Fortune;</L>
+<L>His Wife not fair, nor homely, but belov'd,</L>
+<L>And virtuous, and his Children all obedient,</L>
+<L>Who, like the first Man, liv'd in Paradice,</L>
+<L>And never press'd the Strangers luscious Fruits,</L>
+<L>Nor drank but what his own full Vines did yield;</L>
+<L>Fed on the Flesh of his own teeming Flocks,</L>
+<L>And wore no Cloaths but what their Backs afforded;</L>
+<L>In his own Pale grew all his Sustenance,</L>
+<L>And in his Bosom all the World's content.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>How brook you then your fall'n and lost Estate?</L>
+<L>Methinks with brave Contempt you bear your Chains,</L>
+<L>And <HI>Craesus</HI> looks as if he spurn'd his Fate.</L>
+</SP>
+<SP>
+<SPEAKER>Craes.</SPEAKER>
+<L>So much my Mind does soar above my Fortune,</L>
+<L>That I behold with greater scorn these Bonds,</L>
+<L>Than thou born up with the World's flattering Wings</L>
+<L>Look'st down on me that am thy Slave&mdash;Yet in</L>
+<L>Despite of all thou canst, I'm <HI>Craesus</HI> still.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>'Tis bravely said, and spoken like a King&mdash;</L>
+<L>I have been told, that in thy spring of Glory</L>
+<L>Thou didst consult the <HI>Delphick</HI> Oracle,</L>
+<L>And kneel'd before the God days numberless,</L>
+<L>Made rich <HI>Apollo</HI>'s Shrines with such vast Presents,</L>
+<L>As did excel what the Earth's Bowels hold,</L>
+<L>Might make a Ransom wou'd restore the World,</L>
+<L>Were't threatn'd to be ruin'd by the Gods.</L>
+</SP>
+<SP>
+<SPEAKER>Craes.</SPEAKER>
+<L>All this, nay more, the God did heap upon me,</L>
+<L>My Children, Friends, and Kingdoms so increas'd,</L>
+<L>That <HI>Europe</HI> cou'd not bound my spreading Empire,</L>
+<L>Nor <HI>Asian</HI> Cities number out my Wealth.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>The God was grateful to thee for a while:</L>
+<L>But by what wonderful neglect of thine</L>
+<L>Hast thou since lost the Merit of his Bounty?</L>
+</SP>
+<SP>
+<SPEAKER>Craes.</SPEAKER>
+<L>I'll tell thee all with a prodigious Patience&mdash;</L>
+<L>Having at length tir'd out th' relenting God</L>
+<L>With my unwear'd steps, ne'er ceasing Pray'rs,</L>
+<L>This Answer I receiv'd from the bright Altar&mdash;</L>
+<L><HI>Craesus</HI> no more&mdash;<HI>Let</HI> Craesus <HI>know himself,</HI></L>
+<L>And he to his Life's end, shall happy be.&mdash;</L>
+<L><PB N="13" REF="11">
+These Words so much exalted my frail Mind,</L>
+<L>That then, methought, I reign'd not amongst Men,</L>
+<L>But rul'd the Sky, and saw the Stars below me;</L>
+<L>My Wealth, my Friends were numberless as Sands,</L>
+<L>Still no Storm grew upon my smiling Days;</L>
+<L>No Cross, nor Rub lay in my smooth State's way,</L>
+<L>No Vision was so calm as was my Life;</L>
+<L><HI>Elisium</HI> envy'd my strange Bliss, and wonder'd.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>Now by the Gods, thy Blessings were so rare,</L>
+<L>So very sensible thy Losses move,</L>
+<L>That my stout Heart begins to pity thee.</L>
+</SP>
+<SP>
+<SPEAKER>Craes.</SPEAKER>
+<L>Look to thy self, thy Fortunes reach their highest,</L>
+<L>Mine touch the Ground, and can no lower be;</L>
+<L>I from this Hour begin to know my self,</L>
+<L>And from that Knowledge I renew my Joys&mdash;</L>
+<L>But as I told thee, so my Life continu'd</L>
+<L>In its still smiling Form and Flattery,</L>
+<L>Till thou, swift Harbinger of Death and Ruine,</L>
+<L>Hast let the Ocean in on <HI>Craesus</HI> Glories,</L>
+<L>And left him poor, bereft of all, but what thou seest.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>Despair not, <HI>Craesus,</HI> thou art still the same;</L>
+<L>What <HI>Solon</HI> and the Gods have said is true,</L>
+<L>And <HI>Cyrus,</HI> as a Servant of the Oracle,</L>
+<L>Obeys thy Fortune, and absolves thy Doom&mdash;</L>
+<L>Unbind him straight, unbind those sacred Hands,</L>
+<L>Set fire with speed to the vast Fun'ral Pile</L>
+<L>That was design'd to burn the pious King,</L>
+<L>And Sacrifice thereon a hundred Heads</L>
+<L>Of Oxen, dedicated to the Gods;</L>
+<L>Augment the Flames with rich <HI>Arabian</HI> Gumms,</L>
+<L>With Pearls, and Spice sent from the Kings of <HI>India</HI>&mdash;</L>
+<L>My Laurels, Standards, and my Crowns shall burn,</L>
+<L>T' atone the Gods, rather than one dear Hair</L>
+<L>Of Virtue perish&mdash;Come, then to my Arms,</L>
+<L>And shew me how to be a King indeed,</L>
+<L><HI>Solon</HI> taught thee, and thou shalt teach thy <HI>Cyrus.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Craes.</SPEAKER>
+<L>O mighty Prince! Thou much more God than Man!</L>
+<L>My emulating Soul flaggs at thy Sight,</L>
+<L>The Genius of the World must bow to thine;</L>
+<L>And all the Virtues of Mankind together</L>
+<L>Make but dimm Light before thy beauteous Presence.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>Your Children, and your Wives receive again,</L>
+<L>With all those Kindoms you by Right were born to.</L>
+<L><HI>Sardis,</HI> wherein lies heap'd, both yours, and most</L>
+<L>Of <HI>A<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ia</HI>'s Wealth, I'll save from Death, and Plunder;</L>
+<L>Only for Ransom some few Summs extract,</L>
+<L>To reward my Soldiers, and divert their Hopes</L>
+<L><PB N="14" REF="12">
+From Expectations of so great a Ruine;</L>
+<L>Then <HI>Craesus</HI> dwell for ever in my Breast.</L>
+</SP>
+<SP>
+<SPEAKER>Craes.</SPEAKER>
+<L>My Thanks are too too great to be express'd,</L>
+<L>I can no more then h<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ard 'em in my Thoughts,</L>
+<L>And pay you Blessings as I wou'd <HI>Apollo.</HI></L>
+<L>May <HI>Craesus</HI> meet the Death that was prepar'd,</L>
+<L>When he for Love of Empire, Wife or Children,</L>
+<L>Forsakes his Prince, and leaves to follow <HI>Cyrus.</HI></L>
+</SP>
+<STAGE>Enter <HI>Lausaria</HI> attended.</STAGE>
+<SP>
+<SPEAKER>Laus.</SPEAKER>
+<L>Where's this Divine, this Miracle of Virtue;</L>
+<L>This Rival to the Merciful above?</L>
+<L>Shew me the Face of this exalted Man,</L>
+<L>Who stood betwixt the Vengeance of the Gods,</L>
+<L>And from the dreadful Pile of flaming Ruine,</L>
+<L>Has snatch'd a King, and sav'd my Father's Life;</L>
+<L>Let me ado<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">e the Ground his Steps have bless'd,</L>
+<L>And kiss the Feet of the Immortal <HI>Cyrus.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Craes.</SPEAKER>
+<L>Great Prince, my Daughter, and your meanest Handmaid,</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>How, <HI>Craesus!</HI> Now by th' sacred Sun she's fair&mdash;</L>
+<L>Rise, or I blush at this unseemly Posture.</L>
+</SP>
+<SP>
+<SPEAKER>Laus.</SPEAKER>
+<L>Here let me fix&mdash;You shou'd be thus ador'd,</L>
+<L>Thou Blessing of all Eyes, thou Heavenly Wonder&mdash;</L>
+<L>Indeed I ne'er did see a God till now&mdash;</L>
+<L>Where have I liv'd?&mdash;The Mountain, Cottage Girl,</L>
+<L>That in her homely Life ne'er saw a Man</L>
+<L>Above the Keeper of the neighb'ring Herds,</L>
+<L>Cou'd not approach you with such Joy and Terrour,</L>
+<L>As I do now; so much you do excell</L>
+<L>The little World that I have still been bred in.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>Thou pretty'st Innocence as ever talk'd,</L>
+<L>Look back upon thy self, disperse these Clouds,</L>
+<L>These sorrowful Looks that hide from thine own Eyes</L>
+<L>Their Brightness, and thy near-approaching Joy.</L>
+<L>To morrow is the Day, no longer then to morrow</L>
+<L>Gives all thy Wishes and Revenge a Crown.</L>
+<L>When <HI>Balthazar</HI>'s last Stake, and hated Life</L>
+<L>I'll sacrifice t'ppease the fairest injur'd,</L>
+<L>And thy dumb Brother's Ghost shall from <HI>Elisium</HI></L>
+<L>Rise in a Form Divine, and bless thy Beauties.</L>
+</SP>
+<STAGE>[<HI>Enter</HI> Officer.</STAGE>
+<SP>
+<SPEAKER>Offic.</SPEAKER>
+<L><HI>Hystaspes</HI> is return'd, and brings with him</L>
+<L>The Newes of <HI>Cyaxares</HI> his approach.</L>
+</SP>
+<SP>
+<SPEAKER>Laus.</SPEAKER>
+<L>Go on; whilst I retire to pray,</L>
+<L><HI>Lausaria</HI>'s Guardian-Deity you are;</L>
+<L>But turn: Oh turn that awful Look away,</L>
+<L>My Eyes cannot endure the pointed Ray;</L>
+<L>Spare it to conquer <HI>Balthazar</HI> in Fight,</L>
+<L>For Beauty trembles at the strange Delight;</L>
+<L>And if a Virgins Wish can prosper thee,</L>
+<L><PB N="15" REF="12">
+That hateful Tyrant shall thy Victim be:</L>
+<L>If not, and there's a God greater than <HI>Iove,</HI></L>
+<L>Save, save, (that God) his precious Life and Love.</L>
+<STAGE>[Ex. <HI>Laus.</HI> attended.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L><HI>Craesus,</HI> let nothing be refus'd that may</L>
+<L>Increase her Welcome as becomes thy Daughter,</L>
+<L>And the Fair Guest of <HI>Cyrus.</HI></L>
+<L>Now all prepare to meet my Royal Unkle.</L>
+<STAGE>Enter to them <HI>Hystaspes, Panthea,</HI> and Women.</STAGE>
+<L>When comes the Royal <HI>Cyaxares?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Hyst.</SPEAKER>
+<L>To his worst of Rage abandon'd,</L>
+<L>And in proud Envy of your growing Conquests,</L>
+<L>He bad me, in Contempt of your rich Kindness,</L>
+<L>Return the mighty Present with my self;</L>
+<L>Said he, I will be with the haughty <HI>Cyrus</HI></L>
+<L>'Ere thou canst bring my Message to the Boy.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>What, did he scorn the Proffer of my Duty,</L>
+<L>Return the Presents which I sent him, say'st thou?</L>
+<L>O Gods! it cannot be; thou dost abuse my Unkle.</L>
+</SP>
+<SP>
+<SPEAKER>Hyst.</SPEAKER>
+<L>Sir, all that I have said&mdash;</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>No more, <HI>Hystaspes.</HI></L>
+<L>By my immortal Fame, and sacred Crowns,</L>
+<L>None but thy self had told me so, and liv'd&mdash;</L>
+<L>Ha! what do I behold! More Wonders still!&mdash;</L>
+<L>What Lady's that? What weeping Lady's that?</L>
+</SP>
+<SP>
+<SPEAKER>Hyst.</SPEAKER>
+<L><HI>Panthea,</HI> Sir.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L><HI>Panthea,</HI> Sir&mdash;What, what, <HI>Panthea?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Hyst.</SPEAKER>
+<L><HI>Thomyris</HI> Daughter, the brave <HI>Scythian</HI> Queen,</L>
+<L>And the fair Captive whom you did command</L>
+<L>Me to present to <HI>Cyaxares,</HI> yet</L>
+<L>I fear to tell he did refuse her too.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>Refuse her, say'st thou! Gods, did he refuse her!</L>
+<L>Was I so lavish, say? What Right had I</L>
+<L>To give the Wealth of all the World away?</L>
+<L>Nay, what wou'd bankrupt all the Gods in Heav'n.</L>
+<L>The Sun, the Moon, and Stars may be eclips'd,</L>
+<L>But her bright Beauty is enough alone,</L>
+<L>Without their feeble Aid to light the Globe,</L>
+<L>And make eternal Day&mdash;</L>
+</SP>
+<SP>
+<SPEAKER>Hyst.</SPEAKER>
+<L>Sir&mdash;</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>Thus Prodigal like,</L>
+<L>Not thinking of the Vastness of the Gift,</L>
+<L>I threw away at once my whole Estate,</L>
+<L>And ne'er repented till too late I see</L>
+<L>The mighty Summ spread large before my Eyes&mdash;</L>
+<L>Thou should'st have plaid the faithful Steward, and,</L>
+<L>Restrain'd thy Master's wild destroying Bounty.</L>
+</SP>
+<SP>
+<SPEAKER>Hyst.</SPEAKER>
+<L>O pardon, mighty Sir, who cou'd but hear</L>
+<L>Your dread Commands, and not obey you straight.</L>
+</SP>
+<SP>
+<PB N="16" REF="13">
+<SPEAKER>Cyr.</SPEAKER>
+<L>What shall I say? Tell me, <HI>Hystaspes,</HI> do</L>
+<L>All you that know the secret Paths to Love,</L>
+<L>The way to win a Woman's Smile direct me&mdash;</L>
+<L>In Fights you oft have took me from amidst</L>
+<L>My Enemies unhors'd, and bore me from the Danger,</L>
+<L>Breathless upon the Arms of Victory,</L>
+<L>But now y'ave left me to my worst of Foes,</L>
+<L>So awful, so divinely formidable,</L>
+<L>That your proud <HI>Cyrus</HI> Heart (mark that, my Soldiers)</L>
+<L>Which never stoop'd to fear what Man cou'd do,</L>
+<L>Nay, what the Gods through Miracles have wrought,</L>
+<L>Lies panting now, and gasping at the Danger.</L>
+</SP>
+<SP>
+<SPEAKER>Hyst.</SPEAKER>
+<L>Madam&mdash;</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>Hold off thy sacrilegious Hands,</L>
+<L>Shrines and their Deities may be approach'd</L>
+<L>More near&mdash;Goddess, Divinity&mdash;Bright <HI>Ven<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">s.</HI></L>
+<L>Is there a Name in Heav'n th'art worshipp'd by,</L>
+<L>O tell me that, and teach my Tongue to say it,</L>
+<L>That I may call thee what the Gods have nam'd thee.</L>
+</SP>
+<SP>
+<SPEAKER>Panth.</SPEAKER>
+<L>O <HI>Cyrus!</HI> you forget your self, and me;</L>
+<L>I'm no such thing, no Creature to be prais'd,</L>
+<L>A Wretch forsaken of the World, and Heav'n,</L>
+<L>Your Prisoner, you shou'd pity, not admire me.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>O say not so&mdash;Forsaken say'st thou! No,</L>
+<L>Rather the World and Heav'n are left by thee&mdash;</L>
+<L>Is there a Mar. that dares not call thee Queen?</L>
+<L>What wou'dst thou have, or be, more than thou art?</L>
+<L>Say but the Word, and thy Commands shall fly</L>
+<L>Quick as the Lightning from thy killing Eyes,</L>
+<L>And <HI>Cyrus</HI> is thy Slave to execute.</L>
+</SP>
+<SP>
+<SPEAKER>Panth.</SPEAKER>
+<L>I have no Power, no Charms but Grief about me,</L>
+<L>That may move Pity, but can ne'er cause Love.</L>
+<L>All this wild Passion but disturbs your self,</L>
+<L>And cannot make a wretched Creature happy.</L>
+<L>You sent me late a Slave to be abus'd:</L>
+<L>But this is worse than when I was refus'd.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>Pardon, thou Saint, a Man in Love untaught,</L>
+<L>I have been us'd in Battels from my Youth,</L>
+<L>Bred from my Birth like Lions in their Fierceness,</L>
+<L>Free as the Light, and uncontroll'd as Air,</L>
+<L>And never met a charming F<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">e like Thee,</L>
+<L>Yet at thy Sight I can forget my Fury,</L>
+<L>Moulded like Wax, made soft before the Sun,</L>
+<L>And all my Passion, like a Storm quite spent,</L>
+<L>Lies hush'd, and silent as an Evenings Breeze.</L>
+</SP>
+<SP>
+<SPEAKER>Panth.</SPEAKER>
+<L>Hold, mighty Cyrus, spare my tortur'd Bosom.</L>
+<L>Play not the Tyrant with so great Misfortunes,</L>
+<L>And talk to me of Murde<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">s, Massacres,</L>
+<L><PB N="17" REF="13">
+Wracks, and Eternal Death&mdash;Talk any thing</L>
+<L>But tell me not of that which kills my Soul,</L>
+<L>Calls to my Mind to view the mighty space</L>
+<L>'Twixt me and Joy: For nothing yet can prove</L>
+<L>So great a Misery to me as Love.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>O let me catch that Sigh before it goes&mdash;</L>
+<L>'Tis gone, 'tis gone, and each officious Wind</L>
+<L>Strove who shou'd first convey the rich Perfume,</L>
+<L>And hoard it with the Treasure of the Spring,</L>
+<L>Thence to disperse, and brood o'er tender Blossoms,</L>
+<L>And add new Scents to ev'ry fragrant Flower&mdash;</L>
+<L>O give me leave to kiss this beauteous Hand&mdash;</L>
+<L>Here has <HI>Arabia</HI> all its Sweets confin'd,</L>
+<L>Rich as from thence, we Southern Breezes find,</L>
+<L>When Trees of Spice had gently fann'd the Wind.</L>
+</SP>
+<SP>
+<SPEAKER>Hyst.</SPEAKER>
+<L>Awake <HI>Hystaspes</HI> from this horrid Slumber&mdash;</L>
+<L>Shall I see ravish'd from me all my Right,</L>
+<L>And dare not speak&mdash;By Heav'n I'll climb the danger,</L>
+<L>Though he stood arm'd at my next daring Word,</L>
+<L>To throw me from the Precipice, I'll do't&mdash;</L>
+<L>May Heav'n give fetter'd Globes to <HI>Cyrus</HI> Wish,</L>
+<L>Crown you with Love, as you are crown'd with Conquest.</L>
+<L>May all bright Beauties else adore your Charms,</L>
+<L>And stoop to him that gives the World a Law,</L>
+<L>But this fair Prisoner, give me leave to ask</L>
+<L>Her who by Conquest is your Soldier's Prize.</L>
+<L><HI>Hystaspes</HI> begs the sharer of your Blood;</L>
+<L>If that's too great a Fame for him to Challenge,</L>
+<L>Thus I implore it as your humblest Vassal.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>O Gods! He's Jealous, Jealous on my Life&mdash;</L>
+<L>O thou most mighty <HI>Iove,</HI> hadst thou at once</L>
+<L>Shot Thunder in my Ears, and Lighten'd in</L>
+<L>My Eyes, I had not seen and heard more Horror&mdash;</L>
+<L>Dear <HI>Craesus,&mdash;Craesus,</HI> give me Patience&mdash;</L>
+<L>Am I thus soon so mean a thing become!</L>
+<L>That he that is my Slave durst here presume</L>
+<L>Before my Face to own so proud a Guilt,</L>
+<L>And mix his haughty Love with mine&mdash;Traytor&mdash;</L>
+</SP>
+<SP>
+<SPEAKER>Craes.</SPEAKER>
+<L>Hold gallant <HI>Cyrus, Craesus</HI> bids thee hold.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>O <HI>Craesus</HI> say, Cou'd <HI>Solon</HI> suffer this?</L>
+<L>Is there a Rule in all Philosophy</L>
+<L>To teach me Patience now?&mdash;O tell it me&mdash;</L>
+</SP>
+<SP>
+<SPEAKER>Pant.</SPEAKER>
+<L><HI>Cyr<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">s</HI> no more.</L>
+<L>In vain are all this Rage and Jealousies&mdash;</L>
+<L>Farewel&punc; I'll shut this Captive from your Eyes,</L>
+<L>Prison and Absence will be both your Cures:</L>
+<L>I am no more his Prisoner now but yours:</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>A Prisoner: ha! Conduct her to my Tent.</L>
+<L><PB N="18" REF="14">
+Let what was <HI>Cyrus</HI>'s <GAP DESC="illegible" RESP="tech" EXTENT="1 span"> Court:</L>
+<L>Adorn'd with <HI>Asia</HI>'s Jewels, let her shine,</L>
+<L>Serv'd like the <HI>Parthian</HI> Queen, ador'd and kneel'd to</L>
+<L>By all her moving En<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">pire about her.</L>
+<L>And on the Globe where now my Eagle stands,</L>
+<L>Let Love be plac'd, and with its awful Banners</L>
+<L>Spread her Commands thro' all the shining Camp,</L>
+<L>And let an hundred thousand Hero's Hearts</L>
+<L>Be Sacrific'd each Morning to her rising&mdash;</L>
+</SP>
+<SP>
+<SPEAKER>Panth.</SPEAKER>
+<L>Hold <HI>Cyrus:</HI> Cease this unwelcome strife.</L>
+<L>What tho' y'have in your Power my Death or Life,</L>
+<L>Know I am bound in faster Bonds, a Wi<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">e,</L>
+<L>Cou'd I but <HI>Cyrus</HI> Fame have lov'd before,</L>
+<L>When I had seen him, shou'd have lov'd him more</L>
+<L>Yet there are greater Chains than all beside,</L>
+<L>I am both by Virtue and by Passion ty'd.</L>
+<L>When I on <HI>Cyrus</HI> look I must admire;</L>
+<L>But for my Lord I barn with nobler Fire:</L>
+<L>And Two I must confess are Gods to me,</L>
+<L>Which are my Abradator first, and thee.</L>
+<STAGE>[Exit <HI>Panthea</HI> attended.</STAGE>
+<STAGE>[Drums and Trumpets within.</STAGE>
+<STAGE>Enter to them an Officer.</STAGE>
+<L>The News?</L>
+</SP>
+<SP>
+<SPEAKER>Offic.</SPEAKER>
+<L>Great <HI>Cyaxares</HI> is arriv'd.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>'Tis well&mdash;Have you inclos'd the way he comes,</L>
+<L>With <HI>Persian</HI> Homotyms, and <HI>Median</HI> Horse?</L>
+</SP>
+<SP>
+<SPEAKER>Offic.</SPEAKER>
+<L>Most migh<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">y <HI>Cyrus</HI> 'tis already done.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>His Drums and Trumpets answer you more loud,</L>
+<L>And as he passes thro' your noble Ranks,</L>
+<L>With welcome Shouts receive my loving Uncle&mdash;</L>
+<STAGE>[Exeunt <HI>Cyrus, Craesus, Hystaspes.</HI> Manment the Guards.
+The Scene opens, and discovers a way rank'd with Sol|diers,
+and after a Warlike sound, and Shouts, <HI>Cyrus</HI> and
+<HI>Cyaxares</HI> meet. <HI>Cyrus</HI> offers to embrace <HI>Cyaxares,</HI>
+but he refuses&mdash;They come forward on the Stage.</STAGE>
+<L>My honour'd Unkle, Royal <HI>Cyaxares!</HI>&mdash;ha!</L>
+<L>How long have you been absent from these Arms!&mdash;</L>
+<L>Ha! What is this I <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ee! when I expect</L>
+<L>A kind return of my true Hearts salute;</L>
+<L>You bend your Head, and look another way,</L>
+<L>And sigh as if my Eyes were Bassalisks,</L>
+<L>Or Breath shot Venome&mdash;Ha! what means my Unkle!</L>
+</SP>
+<SP>
+<SPEAKER>Cyax.</SPEAKER>
+<L>The meaning is too plain, 'tis Shame, and Coward&mdash;</L>
+<L>Do you not see 'em written in my Forehead?</L>
+<L>What means this Pomp, these Shouts, these heaps of Trophies,</L>
+<L>These crowds of Conquer'd Kings, and mighty Slain,</L>
+<L>And I but a poor idle gazer on?</L>
+<L><PB N="19" REF="14">
+'Tis that, 'tis that has swallow'd up my Fame,</L>
+<L>Branded the Son of great <HI>Astyages,</HI></L>
+<L>Made me the talk of all the World;</L>
+<L>A senceless Block for <HI>Cyrus</HI> Foot to tread on,</L>
+<L>And mount the Throne of all the Universe&mdash;</L>
+<L>Ingrateful <HI>Cyrus!</HI></L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>Hold&mdash;O cease dear Uncle&mdash;</L>
+<L>Let not o<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">r Passions here be made a sport</L>
+<L>To common Eyes&mdash;we pray you wou'd withdraw&mdash;</L>
+<L>'Tis <HI>Cyaxares</HI> Pleasure we shou'd be</L>
+<L>Alone&mdash;so Unkle, let's sit down together,</L>
+<L>And I will hear with Patience if I can.</L>
+<STAGE>[Exeunt, Praeter, <HI>Cyrus</HI> and <HI>Cyax.</HI></STAGE>
+<L>Speak, and I'll glew my Ears to ev'ry Word</L>
+<L>Your voice shall utter.</L>
+</SP>
+<SP>
+<SPEAKER>Cyax.</SPEAKER>
+<L>God's that I were Dumb!</L>
+<L>That ever I shou'd speak, when what I say</L>
+<L>Recounts my loss, and my eternal Shame,</L>
+<L>With <HI>Cyrus</HI> false Ingratitude.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>Still, still</L>
+<L>You touch the same harsh String&mdash;Tell't out,&mdash;</L>
+<L>What is't that hangs upon your troubled Brow?</L>
+</SP>
+<SP>
+<SPEAKER>Cyax.</SPEAKER>
+<L>O this it is</L>
+<L>The Man that I have nourish'd in my Bosom,</L>
+<L>Safe guarded from an Host of private Foes,</L>
+<L>That sought his Life with great <HI>Astyages.</HI></L>
+<L>Led by the dictates of Prophetick Dreams,</L>
+<L>Which now to <HI>Cyaxares</HI> proves most true;</L>
+<L>That thou, I say, should'st like a subtile Serpent,</L>
+<L>Wind thy self round my guardless Breast,</L>
+<L>Then watch thy time, and Poyson thy Preserver.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>Go on, go on&mdash;I hear you patiently.</L>
+</SP>
+<SP>
+<SPEAKER>Cyax.</SPEAKER>
+<L>Nay, give me leave to put it to thy Conscience,</L>
+<L>And answer me as thou believ'st it true.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>I will.</L>
+</SP>
+<SP>
+<SPEAKER>Cyax.</SPEAKER>
+<L>Did I not save thee in thy Cradle?</L>
+<L>No sooner had <HI>Mandana</HI> brought thee to</L>
+<L>The World (who then I think was innocent)</L>
+<L>But by <HI>Astyages</HI> Command thou wert</L>
+<L>Deliver'd to be slain by <HI>Harpagus</HI>&mdash;</L>
+<L>Have you not heard this oft for truth?</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>I have.</L>
+</SP>
+<SP>
+<SPEAKER>Cyax.</SPEAKER>
+<L>Have you not heard too how I ventur'd 'twixt</L>
+<L>My Father's Wrath and Pity, to preserve</L>
+<L>Thy Life by awing <HI>Harpagus,</HI> who caus'd thee</L>
+<L>At my request, in private to be Nurst,</L>
+<L>Telling the King that thou wert surely dead.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>This I have oft been told too.</L>
+</SP>
+<SP>
+<SPEAKER>Cya<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">.</SPEAKER>
+<L>Did I not,</L>
+<L><PB N="20" REF="15">
+When thou hadst pass'd the Years of Infancy,</L>
+<L>Oft put into my Fathers <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ruel Mind</L>
+<L>The sence of his most foul unnat'ral Crime</L>
+<L>In killing thee so long that he <GAP DESC="illegible" RESP="tech" EXTENT="1 word">,</L>
+<L>And wish'd a thousand times the<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> wert alive</L>
+<L>Again&mdash;This opportunity I took</L>
+<L>To tell the King of the deceipt, and beg'd</L>
+<L>The Life of <HI>Harpagus</HI>&mdash;Then <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">treight wert thou</L>
+<L>Sent for to Court, and this thou well rememberst.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>I do.</L>
+</SP>
+<SP>
+<SPEAKER>Cyax.</SPEAKER>
+<L>This did I, though 'twas Prophecy'd</L>
+<L>That thou shou'dst quite subvert the <HI>Median</HI> Empire,</L>
+<L>And fill the Throne of great <HI>Astyages&punc;</HI>&mdash;</L>
+<L>Then did I not, after my Father's Death,</L>
+<L>And when I reign'd alone, keep thee still by me,</L>
+<L>Taught thee the use of Arms, to chace the Boar,</L>
+<L>To hurl thy little Dart, and wound the Panther;</L>
+<L>And when the fiery Beast wou'd turn upon thee,</L>
+<L>I then wou'd interpose a violent stroak,</L>
+<L>And taught thee how to give a mortal Blow,</L>
+<L>Leaving the Savage gasping at thy Feet;</L>
+<L>And this thou art well witness of thy self.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>All this, and more you bring to my remembrance.</L>
+</SP>
+<SP>
+<SPEAKER>Cyax.</SPEAKER>
+<L>Is't possible, thou hast not then forgot!</L>
+<L>Is this a kind return for all my Love!</L>
+<L>Who first began the War with <HI>Balthazar?</HI></L>
+<L>Was't not my self twice beat him in set Battels</L>
+<L>Until thou wert of Years, when for thy Fame</L>
+<L>I sent thee with the flower of all my Strength</L>
+<L>To prosecute my Victories, and thou</L>
+<L>Whole tedious Years hast kept the War on foot,</L>
+<L>Using my Subjects till they have forgot</L>
+<L>Their Countries Gods, their Fashions, and their King,</L>
+<L>And worship nothing but the Sun and thee&mdash;</L>
+<L>Pity me Gods; for sure I am become</L>
+<L>But the poor Shadow of the thing I was.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>O Unkle, hold: For I can hear no more.</L>
+<L>What wicked Man has poison'd thus your Ear?</L>
+<L>Your words, though they are most unjust, and I</L>
+<L>Am guiltless, yet they're Daggers to my Soul</L>
+<L>When spoken with unkindness&mdash;ah why droops</L>
+<L>My Royal Uncle, hanging down your Head,</L>
+<L>Throbbing that noble Heart, as if the weight</L>
+<L>Of all the Miseries on Earth depress'd it?</L>
+<L>Snatch me ye Gods this Moment into Nothing,</L>
+<L>If I your <HI>Cyrus</HI> am the least to blame</L>
+<L>In what you have accus'd me.</L>
+</SP>
+<SP>
+<SPEAKER>Cyax.</SPEAKER>
+<L>Well, I've done.</L>
+</SP>
+<SP>
+<PB N="21" REF="15">
+<SPEAKER>Cyr.</SPEAKER>
+<L>Have I worn out my Youth, at home, your Subject,</L>
+<L>In War your General; deny'd my self</L>
+<L>The soft Retirements of the Court, in which</L>
+<L>Your meanest Para<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ite enjoys more Pleasure&mdash;</L>
+<L>H<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">re not my Courriers found you in the Height</L>
+<L>O<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> Banquet<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ing, inform'd you of the Dangers</L>
+<L>That I had pass'd in ev'ry dreadful Fight,</L>
+<L>Which only the Relation of 'em made</L>
+<L>Your trembling Courtiers spill their brimming Bowls,</L>
+<L>And with the Palsie life 'em to their Mouths.</L>
+</SP>
+<SP>
+<SPEAKER>Cyax.</SPEAKER>
+<L>No more, my <HI>Cyrus.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>And have I not augmented all the Kingdoms</L>
+<L>Of great <HI>Astyages,</HI> with Hazard of</L>
+<L>My own&mdash;What Crown, what Treasure have I gain'd</L>
+<L>Of which I did not make you first a Proffer?</L>
+<L>Do I a Secret keep, or hide from you?</L>
+<L>Or hoard that Wealth of which you shall not share?</L>
+<L>Is it for this I have so ill deserv'd</L>
+<L>My Unkle's Envy, and unjust Suspicion!</L>
+</SP>
+<SP>
+<SPEAKER>Cyax.</SPEAKER>
+<L>Enough, my <HI>Cyrus.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>Will you then embrace me?</L>
+</SP>
+<SP>
+<SPEAKER>Cyax.</SPEAKER>
+<L>I will.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>And let me kiss your Cheek?</L>
+</SP>
+<SP>
+<SPEAKER>Cyax.</SPEAKER>
+<L>Thou shalt&mdash;</L>
+<L>O <HI>Cyrus!</HI> Thou hast conquer'd me, my <HI>Cyrus</HI>&mdash;</L>
+<L>I can no longer hold but must forgive thee.</L>
+<L>See, see, these Tears that sprung from Tydes of Crief,</L>
+<L>Are now augmented to a Sea of Joy.</L>
+<L>Hide 'em for shame, Oh, hide 'em in thy Bosom!</L>
+<L>Come, I will chide no more&mdash;may I be thought</L>
+<STAGE>[They both rise up.</STAGE>
+<L>A Coward, led in Triumph by my Foes,</L>
+<L>And put t'an ignominious Death when I</L>
+<L>Again reflect unkindly on my <HI>Cyrus.</HI></L>
+<L>Thou art my Son, this Moment I adopt thee,</L>
+<L>And I will die the sooner to make Room</L>
+<L>For thee.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>O my dear Father, say not so&mdash;</L>
+<L>To morrow brings the Empire of the World,</L>
+<L>I see it plain, and dazling Victory</L>
+<L>Flies like an Eagle circling round your Head,</L>
+<L>To shew our Way o'er Hills of slain <HI>Assyrians,</HI></L>
+<L>And under falling Clouds of <HI>Scythian</HI> Darts,</L>
+<L>Which from ou<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> Shields we'll throw like scatter'd Hail,</L>
+<L>Whilst with one Voice, around the conquer'd Field,</L>
+<L>The Dying praise us, and the Living yield.</L>
+</SP>
+<STAGE>[Exeunt Omnes.</STAGE>
+<TRAILER>Finis Actus Secundi.</TRAILER>
+</DIV2>
+<DIV2 N="3" TYPE="act and scene">
+<PB N="22" REF="16">
+<HEAD>Actus Tertius. Scaena Prima.</HEAD>
+<STAGE>Enter <HI>Cyrus</HI> with Guards; <HI>Cyaxares,</HI> with <HI>Hystaspes</HI>
+meeting him.</STAGE>
+<SP>
+<SPEAKER>Cyax.</SPEAKER>
+<L>I'VE a Request to beg of you, my <HI>Cyrus.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>What, is't my Royal Unkle? speak, yet not,</L>
+<L>'Tis granted 'ere 'tis nam'd.</L>
+</SP>
+<SP>
+<SPEAKER>Cyax.</SPEAKER>
+<L>'Tis that you wou'd forgive the brave <HI>Hystaspes,</HI></L>
+<L>And here restore him to your wonted Favours.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>O 'tis the thing that I with Joy intended,</L>
+<L>And now he's doubly fix'd&mdash;Rise, my <HI>Hystaspes,</HI></L>
+<L>My Soldier, rise, my Kinsman, my Right Arm;</L>
+<L>For that was ne'er so near me in the Fight,</L>
+<L>Nor push'd it on so fiercely&mdash;O my Friend!</L>
+<L>Dost think I have forgot my valiant Leader?</L>
+<L>But above all at the Surprize of <HI>Sardis,</HI></L>
+<L>When thou wert follow'd by the <HI>Homotyms,</HI></L>
+<L>Led by thy brave Example, all dismounted</L>
+<L>Your fiery Coursers, and with Scaling-Ladders</L>
+<L>Climb'd up the Walls, and shouted on the Top,</L>
+<L>In spite of Showres of Flints, and Clouds of Arrows;</L>
+<L>The<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> leap'd into the Street, and there you fought,</L>
+<L>Till you had op'd the Gates amidst the Guards,</L>
+<L>And clear'd my Way through Clusters to the Town&mdash;</L>
+<L>This, this with Joy I do remember still.</L>
+</SP>
+<SP>
+<SPEAKER>Hyst.</SPEAKER>
+<L>Your Royal Grace extends too far above</L>
+<L>The Merits of <HI>Hystaspes</HI>&mdash;O I grieve</L>
+<L>When I look back on my Offence to you,</L>
+<L>The bravest Master, and the best of Kings&mdash;</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>No more, <HI>Hystaspes,</HI> welcome to thy Prince,</L>
+<L>More dear to him than penitent Children are</L>
+<L>To Parents, or than Martyrs to the Gods,</L>
+<L>And like them too I will reward thee&mdash;</L>
+</SP>
+<SP>
+<SPEAKER>Hyst.</SPEAKER>
+<L>O I know y'are liberal,</L>
+<L>Can disperse Crowns and Sceptres as you please,</L>
+<L>And make a Monarch of the Man you favour;</L>
+<L>But Pardon's the rich, only thing I beg,</L>
+<L>And is from Cyrlls more than I can merit.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>Enough, <HI>Hystaspes;</HI> thou shalt see I love thee,</L>
+<L>W<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">en I bestow upon thee such a Treasure.</L>
+<L><PB N="23" REF="16">
+That all Mankind shall wish to be thy Rivals&mdash;</L>
+<L><HI>Craesus,</HI> thy Ear&mdash;send for thy Daughter straight&mdash;</L>
+<L>I promis'd thee that I wou'd chuse a Husband</L>
+<L>For her, and I will do it&mdash;Such a Husband,</L>
+<L>That thou shalt bless the happy Moment when</L>
+<L>Thy Wife brought such a Daughter to the World</L>
+<L>To be so well bestow'd&mdash;Go fetch her, <HI>Craesus.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Craes.</SPEAKER>
+<L>O happy Girl, <HI>Lausaria!</HI> he does</L>
+<L>Intend sure to bestow himself upon her.</L>
+<STAGE>[<HI>Exit</HI> Craesus.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Hyst.</SPEAKER>
+<L>O Gods! I dream&mdash;Can there be such a Thought!</L>
+<L>Has he resolv'd to give <HI>Panthea</HI> to me!</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>Prepare, <HI>Hystaspes,</HI> now to meet such Joys,</L>
+<L>Which if thy Sences are not all Immortal,</L>
+<L>Thou art not able to sustain&mdash;Behold&mdash;</L>
+<STAGE>Re-Enter <HI>Craesus</HI> leading <HI>Lausaria</HI> attended.</STAGE>
+<L>Behold the brightest Star that gilds the World,</L>
+<L>And makes that Bosom Heav'n where e'er she shines.</L>
+</SP>
+<SP>
+<SPEAKER>Hyst.</SPEAKER>
+<L>Is this the Prize of all my flatt'ring Hopes!</L>
+<L>Now I perceive the Gulf that lies before me,</L>
+<L>Yet I run on, and cannot stop my self;</L>
+<L>This Mortal Disobedience stabs me quite.</L>
+</SP>
+<SP>
+<SPEAKER>Laus.</SPEAKER>
+<L>Now all you gentle Powers that pity Love,</L>
+<L>And thou, <HI>Diana,</HI> from the Stars look down,</L>
+<L>Behold the bashful Virgin of thy Train&mdash;</L>
+<L>I see my Life or Death writ in those Eyes,</L>
+<L>There is no Mean betwixt my Heav'n or Hell,</L>
+<L>I'm to be rais'd this Moment to the Skies,</L>
+<L>Or flung into the bottom of Despair.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>Assist me, <HI>Iove;</HI> and all you that disperse</L>
+<L>Rich Blessings from the Skies&mdash;Lend me your Aid;</L>
+<L>Extend my liberal Hands; for I'm to make</L>
+<L>Two Mortals now so infinitely happy,</L>
+<L>As will amaze your Godheads all to see,</L>
+<L>And make you wish to be translated here&mdash;</L>
+<L>Give me thy Hand, thou soft, thou lovely Virgin&mdash;</L>
+<L>Ha! why, what makes thou tremble, start, and blush!</L>
+<L>And now look pale? This Combat of thy Beauty's</L>
+<L>Adorns thy Cheeks with double Victories,</L>
+<L>Whilst both in Competition strive to paint</L>
+<L>A Colour there to set at Enmity</L>
+<L>The Lilly and the Ro<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">e&mdash;Draw near, <HI>Hystaspes</HI>&mdash;</L>
+</SP>
+<SP>
+<SPEAKER>Laus.</SPEAKER>
+<L>O Gods, your Help! what does he mean to do!</L>
+</SP>
+<SP>
+<SPEAKER>Cyr,</SPEAKER>
+<L>Give me your Hand&mdash;what now? what means the Man?</L>
+<L>Give me your Hand, I say&mdash;I did expect</L>
+<L>You shou'd have flewn like Lightning to my Arms,</L>
+<L>And snatch'd her from me, so unmannerly</L>
+<L><PB N="24" REF="17">
+Thy Raptures should have been&mdash;<GAP DESC="illegible" RESP="tech" EXTENT="1 span">&mdash;</L>
+<L>Why holds <HI>Lausaria</HI> back?&mdash;You both draw back.</L>
+</SP>
+<SP>
+<SPEAKER>Hyst.</SPEAKER>
+<L>Your Pardon, Royal Sir, if my Offence</L>
+<L>Be not too great to challenge any Mercy.</L>
+<L>I do confess the Wonder of the Bliss ha; stunn'd me;</L>
+<L>The Joy's too great, too mighty for my Sense,</L>
+<L>And therefore to approach it as I ought,</L>
+<L>O give me time to study how to bear it.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>Away; I've heard too much&mdash;I'll talk with you</L>
+<L>Anon&mdash;What means <HI>La<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">saria?</HI> Ri<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">e, my Charge.</L>
+</SP>
+<SP>
+<SPEAKER>Laus.</SPEAKER>
+<L>Ah, why d'you kill with such a Look of Anger?</L>
+<L>Now your strange Beauties are so awful grown,</L>
+<L>That they're above all Mortals to behold</L>
+<L>Without a Dread&mdash;O stay the Lightning in</L>
+<L>Your Eyes&mdash;What will become of brave <HI>Hystaspes,</HI></L>
+<L>If you let loose to Action all your Frowns,</L>
+<L>And execute the Terrour of your Looks!</L>
+<L>Pour 'em on me, 'twas I the Grace deny'd:</L>
+<L>For lo, I think so meanly of my self,</L>
+<L>That I can live to be refus'd by him.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>Rise, or you press my yielding Heart to Death&mdash;</L>
+<L>This hurls me on the more to thy Revenge&mdash;</L>
+<L>Guards, seize that Traytour, drive him from my Presence;</L>
+<L>To Exile let him go, and not be seen</L>
+<L>So near as <HI>Asia</HI> does her spreading Empire bound.</L>
+</SP>
+<SP>
+<SPEAKER>Laus.</SPEAKER>
+<L>O let me beg you wou'd recall your Doom.</L>
+</SP>
+<SP>
+<SPEAKER>Cyax.</SPEAKER>
+<L>Nephew.</L>
+</SP>
+<SP>
+<SPEAKER>Craes.</SPEAKER>
+<L>O <HI>Cyrus!</HI></L>
+<L>Mighty Prince, but hear us.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>Keep off, and give me Breath, you stifle me&mdash;</L>
+<L>Why, Unkle, <HI>Craesus,</HI> King of <HI>Lydia,</HI> I've decreed it,</L>
+<L>And none amongst the Stars shall 'ere revoke&mdash;</L>
+<L>Away with him&mdash;A thousand Basilisks</L>
+<L>Are in his Eyes.</L>
+</SP>
+<SP>
+<SPEAKER>Hyst.</SPEAKER>
+<L>With haste I will obey you.</L>
+<L>Thus on my Knees I take your gentle Doom; I go</L>
+<L>To Banishment, and if my wand'ring Steps</L>
+<L>Direct me where to do you some poor Service,</L>
+<L>I'll do't with hazard of this hated Life&mdash;</L>
+<L>Ten thousand Victories, nay more,</L>
+<L>Immortal Crowns, and Eve<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">lasting Laurels</L>
+<L>Adorn the Head of the most God like <HI>Cyrus.</HI></L>
+<STAGE>[<HI>Exit</HI> Hystaspes.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Craes.</SPEAKER>
+<L>He's gone, and see the King looks discontent,</L>
+</SP>
+<SP>
+<SPEAKER>Cyax.</SPEAKER>
+<L>Why, Nephew, <HI>Cyrus,</HI> you are mov'd.</L>
+</SP>
+<SP>
+<SPEAKER>Laus.</SPEAKER>
+<L>O <HI>Cyrus!</HI></L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>What says the bright the wrong'd <HI>Lausaria?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Laus.</SPEAKER>
+<L>Why have you banish'd from your sight <HI>Hystaspes?</HI></L>
+<L><PB N="25" REF="17">
+I'll tell you then, how rashly you have done.</L>
+<L>The Sun and Moon might in our Heav'n appear,</L>
+<L>And both at once disperse their Rival Lights,</L>
+<L>E're our two Loves cou'd join; and shou'd <HI>Hystaspes</HI> hope,</L>
+<L>Yet you your self forbid the scornful <HI>Hymen.</HI></L>
+<L>Since it must out, I'll tell it, if my Sighs,</L>
+<L>Mixt with Ten Thousand Blushes, give me leave&mdash;</L>
+<L>I love (Heav'ns!) This poor Daughter to a Captive Prince,</L>
+<L>Owns it with Pride that she does love the Man,</L>
+<L>Of all the World, the greatest, bravest Soul</L>
+<L>As e'er the Gods put in a mortal Body.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>Alas! What's this I hear!</L>
+</SP>
+<SP>
+<SPEAKER>Laus.</SPEAKER>
+<L>Now judge by what I've said, if I cou'd e'er</L>
+<L>Descend to love another&mdash;I have done&mdash;</L>
+<L>O look not on me, I am all on Fire,</L>
+<L>Burnt up with Blushes which these Tears inrage.</L>
+<L>This mortal Secret you have wrack'd from me</L>
+<L>Will kill <HI>Lausaria:</HI></L>
+</SP>
+<SP>
+<SPEAKER>Craes.</SPEAKER>
+<L>Unhappy Girl.</L>
+</SP>
+<SP>
+<SPEAKER>Laus.</SPEAKER>
+<L>Give me a Vail: And now the World farewel.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>What means the bright, the wrong'd <HI>Lausaria?</HI></L>
+<L>Why dost thou hide thy Charming Face from <HI>Cyrus?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Laus.</SPEAKER>
+<L>'Tis just, after a Confidence so new,</L>
+<L>It shou'd for ever thus be shut from you.</L>
+<L>My Blushes to all Eyes may be unknown,</L>
+<L>But oh! I ne'er can shrowd 'em from my own.</L>
+<L><HI>Olympus</HI> is too low. I want beside</L>
+<L>The Sun to be Eclips'd, my Shame to hide.</L>
+<L>Cold <HI>Cydnus,</HI> make thy Icy Stream my Urn,</L>
+<L>To drown my Flames, and quench me now I b<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">rn.</L>
+<STAGE>[<HI>Exit</HI> Laus.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Cyax.</SPEAKER>
+<L>What, does not this start Pity from your Eyes</L>
+<L>And Heart?</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>Tell me, instruct me what to do&mdash;</L>
+<L>O <HI>Cyaxares,</HI> lend me thy dear Breast,</L>
+<L>T' unload my Griefs, and learn thy precious Council&mdash;</L>
+<L>Run for <HI>Hystaspes</HI> quick, if not too late,</L>
+<L>Tell him his Prince repeals his Banishment,</L>
+<L>Will take him to his gentle Arms again&mdash;</L>
+<L>Excuse, dear Unkle, these unruly Passions,</L>
+<STAGE>[Exit Officer.</STAGE>
+<L>And oh, my Friends, forgive your <HI>Cyrus</HI> Frailties.</L>
+<STAGE>[Sound of a Trumpet.</STAGE>
+<STAGE>Enter to them <HI>Artabasus.</HI></STAGE>
+<L>What means this Trumpet's formal sound?&mdash;The News?</L>
+</SP>
+<SP>
+<SPEAKER>Arta.</SPEAKER>
+<L>It is a Herauld from th' <HI>Assyrian</HI> Camp,</L>
+<L>That says, the <HI>Scythian</HI> Queen, the brave <HI>Thomyris,</HI></L>
+<L>With <HI>Abradatas,</HI> the young <HI>Susan</HI> King,</L>
+<L><PB N="26" REF="18">
+Attend to ask a moments Parley with you.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>Then we shall <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ee this wonder of her S<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">x&mdash;</L>
+<L><HI>Craesus,</HI> thou knowst her&mdash;Is she then so Brave,</L>
+<L>So Great, and Valiant as the World <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> her?</L>
+</SP>
+<SP>
+<SPEAKER>Craes.</SPEAKER>
+<L>She is indeed a Woman of such Spirit</L>
+<L>As you have heard of <HI>Iuno,</HI> of such Honour,</L>
+<L>Such haughty Valour, and <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> Masculine,</L>
+<L>That she's well call'd, the Miracle of Women;</L>
+<L>But then, like bold <GAP DESC="illegible" RESP="tech" EXTENT="1 span"></L>
+<L>With ev'ry Vice of the <GAP DESC="illegible" RESP="tech" EXTENT="1 span">,</L>
+<L>And monstrous of her Sex; Yet A<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">radatas</L>
+<L>Is truly Valiant, Brave, and Virtuous&mdash;</L>
+<L>But heark, she comes,&mdash;this Trumpet speaks her Entrance.</L>
+</SP>
+<STAGE>Enter to them <HI>Thomyris, Abradatus,</HI> Women and Attendance, in State,
+<GAP DESC="illegible" RESP="tech" EXTENT="1 word"> Guards.</STAGE>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>She is indeed of admirable Presence.</L>
+</SP>
+<SP>
+<SPEAKER>Thom.</SPEAKER>
+<L>There cannot be a Wonder on the Earth</L>
+<L>So Great as <HI>Cyrus</HI> is: If thou art he,</L>
+<L>Or is't some God, or <HI>Mars</HI> himself I see;</L>
+<L>For sure these Eyes were never bless'd before</L>
+<L>With such a sight&mdash;What's Balthazar, and all</L>
+<L>The Princes of the Globe compar'd to him <GAP DESC="illegible" RESP="tech" EXTENT="1 letter"></L>
+<L>Now, I no more admire his mighty Fortune,</L>
+<L>That Godlike Mein and Presence is enough</L>
+<L>T' enslave great Kings, and awe the barb'rous World&mdash;</L>
+<L>I need not ask who is the famous <HI>Cyrus?</HI></L>
+<L>Something which makes great Souls so near ally'd,</L>
+<L>Tells me you are that excellent brave Man.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>I am that most unworthy <HI>Cyrus</HI>&mdash;</L>
+<L>What wou'd the Great, th' most famous in the World</L>
+<L>The <HI>Scythian</HI> Queen?</L>
+</SP>
+<SP>
+<SPEAKER>Thom.</SPEAKER>
+<L>Hea<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> me, Divinest King&mdash;</L>
+<L>Curse me, you Powers, and languish all my Fame,</L>
+<L>Now I behold the gallant <HI>Cyrus</HI> Person,</L>
+<L>If e'er injustly I become your Foe.</L>
+<L>Nay, I'll forget the Murder of my Son,</L>
+<L>And say his Death was my misfortune only&mdash;</L>
+<L>You have a Virgin that's <HI>Panthea</HI> call'd,</L>
+<L>The Mourning, longing Wife of this young Prince,</L>
+<L>Whom (e're the Priest had said his binding Pray'r)</L>
+<L>The Gods, to shew the most incertain State</L>
+<L>Of human things, snatch'd from his Nuptial Arms,</L>
+<L>And bore her from him by a Storm of Fate,</L>
+<L>Ev'n in a time when they did think to join</L>
+<L>Fast as their Wishes&mdash;She your Prisoner is.</L>
+<L><PB N="27" REF="18">
+All Places save, and priviledge the Fair;</L>
+<L>Beauty is even held in War most sacred,</L>
+<L>And <HI>Cyrus</HI> cannot stoop to do a thing</L>
+<L>That is not brave.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>Go on, bright Queen.</L>
+</SP>
+<SP>
+<SPEAKER>Thomy.</SPEAKER>
+<L>Long hearing of thy vast and proud Successe;</L>
+<L>O'er all Mankind. In pity of the World,</L>
+<L>I drew a force of Forty Thousand Men,</L>
+<L>From my own yet unconquer'd Land to aid</L>
+<L>Thy <GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> Enemies this Army we'll withdraw;</L>
+<L>And with brave <HI>Cyrus</HI> make immortal League,</L>
+<L>If he'll restore the sad <HI>Panthea</HI> to us.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>Now blest be all those Deities that saw</L>
+<L>The solemn Rites performing 'gainst their Wills,</L>
+<L>And would not let the Hymeneal Torch</L>
+<L>Be light&mdash;Ask you me, whom piteous Heaven</L>
+<L>Sent by a Miracle to my Protection!</L>
+<L>Demand my Crowns, my everlasting Fame,</L>
+<L>My shining Trophies, and my Victories:</L>
+<L>For they are not so dear, nor half so sacred,</L>
+<L>Nor look so bright in all the World's esteem.</L>
+</SP>
+<SP>
+<SPEAKER>Abra.</SPEAKER>
+<L>O I am ruin'd&mdash;Hell is in my Bosom&mdash;</L>
+<L><HI>Panthea</HI>'s lost, undone, inconstant, ha!</L>
+<L>She loves him too perhaps&mdash;O thought-like Death!</L>
+<L>Curse on this feeble Arm that cou'd nor guard her,</L>
+<L>Nor had the Courage to assault my Breast.</L>
+</SP>
+<SP>
+<SPEAKER>Cyax.</SPEAKER>
+<L>It is apparent that the Gods were all</L>
+<L>Displeas'd, and meant those Nuptials shou'd not be,</L>
+<L>When at the very Altar, like a Dove</L>
+<L>From the fierce Vultures Claws they rescu'd her.</L>
+</SP>
+<SP>
+<SPEAKER>Abra.</SPEAKER>
+<L>O King of an Immortal Fame!</L>
+<L>Dread <HI>Cyrus,</HI> thou art Great, above the World:</L>
+<L>There is no thought a Woman here can fix</L>
+<L>Thy Soul, that soars and ranges like the Sun,</L>
+<L>Behold me from thy Power, like awful <HI>Iove,</HI></L>
+<L>And O! restore me to my Heav'n of Love,</L>
+<L>Pity my Youth, and give <HI>Panthe<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"></HI> to me;</L>
+<L>O give her to my Soul, and I will add</L>
+<L>To the bright Queens, Ten Thousand Valiant Archers,</L>
+<L>And vow my self thy true Confederate&mdash;</L>
+<L>Think not 'tis Fear that makes me stoop so low</L>
+<L>To beg of Thee, but mighty Love that must</L>
+<L>Be still obey'd; else I cou'd meet thee daring</L>
+<L>At<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">th' Head of all thy Army, shouting loud</L>
+<L>To animate the Courage of their Leader:</L>
+<L>And O <HI>Panthea!</HI> were <HI>Panthea</HI> but</L>
+<L>The Victor's Prize, the blessed Hopes shou'd aid me</L>
+<L><PB N="28" REF="19">
+To kill this great Disturber of the World.</L>
+</SP>
+<SP>
+<SPEAKER>Thom.</SPEAKER>
+<L>Spoke like thy self, my <GAP DESC="illegible" RESP="tech" EXTENT="1 span">,</L>
+<L>Thou hast a <HI>Scythian</HI>'s Courage in thy Breast&mdash;</L>
+<L>Intreat no more; for <HI>Cyrus</HI> dare not hold her.</L>
+<L>The Gods and <HI>Thomyris</HI> have decreed&punc;</L>
+<L>To fetch <HI>Panthea</HI> back in Triumph from him&mdash;</L>
+<L>To morrow I will meet thee in the Front</L>
+<L>Of Battel, where it shall be then recorded</L>
+<L>To thy eternal Shame and Infamy,</L>
+<L>A Woman conquer'd thee.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>Proud Queen, retreat least we profane the Truce,</L>
+<L>The nicest Law of Arms can ne'er indure</L>
+<L>Such daring Provocations.</L>
+</SP>
+<STAGE>Enter <HI>Panthea</HI> attended.</STAGE>
+<SP>
+<SPEAKER>Panth.</SPEAKER>
+<L>My <HI>Abradatas.</HI></L>
+<L>Soul of my Love, and Lord of my Desires,</L>
+<L>Am I so blest to see thee once again!</L>
+<L>To embrace thee once before I die,</L>
+<L>Save me from Fears, from Prison, and from Harms,</L>
+<L>And lock me safe within these tender Arms.</L>
+</SP>
+<SP>
+<SPEAKER>Abra.</SPEAKER>
+<L>O my <HI>Panthea!</HI> Let me hold thee fast,</L>
+<L>Hoard all my numberless and breathless Kisses,</L>
+<L>On thy soft Cheeks at once: For something tells me,</L>
+<L>This Pleasure is too great and rich to last&mdash;</L>
+<L>O stir not from me.</L>
+</SP>
+<SP>
+<SPEAKER>Panth.</SPEAKER>
+<L>No, we'll never part&mdash;</L>
+<L>Our Loves shall here incorp'rate us like Air;</L>
+<L>Not Swords, nor Death, shall any way divide us.</L>
+<L>Now 'tis beyond the Power of Jealousie,</L>
+<L>Or <HI>Iove</HI> himself this <HI>Gordion</HI> to untie.</L>
+<L>Nay, <HI>Cyrus</HI> is too Brave, too Good to see</L>
+<L>Such faithful Lovers languish any longer.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>O I am struck!&mdash;A thousand Stings dart all</L>
+<L>At once their pointed Venom in my Eyes,</L>
+<L>And now I feel 'em in my Breast&mdash;<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ell me,</L>
+<L>What is't besides the mortal stroke of Love</L>
+<L>That pains your <HI>Cyr<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">s</HI> thus? See how they grasp&mdash;</L>
+<L>'Tis that, 'tis that&mdash;assist me <GAP DESC="illegible" RESP="tech" EXTENT="1 word">&mdash;</L>
+<L>Say quickly, Friends, what shall be done to part 'em&mdash;</L>
+<L>Speak, will you see me rack'd?&mdash;My Soul's between</L>
+<L>Each close Embrace,</L>
+<L>And will not, cannot, bear it any longer&mdash;</L>
+<L>Prince, from this fatal Extasie retire,</L>
+<L>This sight will mortal be to one of us.</L>
+</SP>
+<SP>
+<PB N="29" REF="19">
+<SPEAKER>Abra.</SPEAKER>
+<L>Thou shalt not stirr&mdash;I will not move without her,</L>
+<L>But leave Ten thousand Limbs, if I'd so many,</L>
+<L>Hack'd off and hew'd from this unhappy Body,</L>
+<L>But I will bear her hence&mdash;O my <HI>Panthea!</HI>&mdash;</L>
+<L>Oh Mother! let me lose this hated Life:</L>
+<L><GAP DESC="illegible" RESP="tech" EXTENT="1 word"> let me dye before I part with her.</L>
+</SP>
+<SP>
+<SPEAKER>Panth.</SPEAKER>
+<L>Think not of Death, my <HI>Abradatas,</HI> loe,</L>
+<L>The Gallant Monarch melts, and says it too;</L>
+<L>Our Lives shall be immortal as our Loves.</L>
+</SP>
+<SP>
+<SPEAKER>Thom.</SPEAKER>
+<L><HI>Cyrus</HI> has reach'd the utmost brink of Greatness&mdash;</L>
+<L>The Gods no longer will dispute thy Fate,</L>
+<L>Since they have punish'd thee with lawless Love;</L>
+<L>A cursed Charm that slumbers all thy Virtues,</L>
+<L>That thou shalt never more awake to Glory&mdash;</L>
+<L>Retire, my Son, from Beauty run to day,</L>
+<L>And, by the Gods, <HI>Panthea</HI> shall be thine</L>
+<L>To morrow, when we only shall encounter</L>
+<L>With the starv'd Genius, weary Fame of <HI>Cyrus.</HI></L>
+<L>My Women shall be foremost in the Fight,</L>
+<L>And, with their naked Breasts and Arms display'd,</L>
+<L>Shall lead this once brave Man a Captive-Slave,</L>
+<L>This empty Form of his departed Greatness.</L>
+</SP>
+<SP>
+<SPEAKER>Panth.</SPEAKER>
+<L>O Royal Mother!</L>
+<L>Why d'you mistake? You wrong the God-like <HI>Cyrus.</HI></L>
+<L>O give him gentle Words, mild as the Sound</L>
+<L>Of Pray'rs and Sighs in Sacrifices us'd;</L>
+<L>Speak t'him, approach him as indeed you ought,</L>
+<L>As Conqu'rour of the World, and you shall see</L>
+<L>No God can be so lavish, nor so kind.</L>
+</SP>
+<SP>
+<SPEAKER>Abra.</SPEAKER>
+<L>My dear <HI>Panthea,</HI> why d'you thus proceed?</L>
+<L>Unless you wish to make me worse than Woman&mdash;</L>
+<L>Hold, while I've Resolution in my Breast,</L>
+<L>And all thy Heav'n of Charms will let me go;</L>
+<L>By those, thy self I swear, the greatest Oath</L>
+<L>That I can take, to morrow I will bring</L>
+<L>Thy <HI>Abradatas</HI> to thee, live or dead.</L>
+</SP>
+<SP>
+<SPEAKER>Panth.</SPEAKER>
+<L>No, say not so&mdash;Thus kneel with thy <HI>Panthea,</HI></L>
+<L>My Hand close lock'd in thine, my <HI>Abradatas,</HI></L>
+<L>And send our Tears and our Requests together&mdash;</L>
+<L>Look, Mighty Conqu'rour, cast your Eyes beneath,</L>
+<STAGE>[Both kneel.</STAGE>
+<L>And may your Arms, and Fame increase in Wars,</L>
+<L>As you to Love, are pityful and kind.</L>
+</SP>
+<SP>
+<SPEAKER>Abra.</SPEAKER>
+<L>Now, God-like <HI>Cyrus,</HI> from thy Rage look down,</L>
+<L>By all those Virtues that have made thee shine,</L>
+<L>And gain'd the Name of the Immortal <HI>Cyrus.</HI></L>
+<L>Oh, stoop to see what mighty Love can do,</L>
+<L>That humbles thus thy generous Enemy,</L>
+<L><PB N="30" REF="20">
+And makes a Suppliant of thy mortall'st Foe&mdash;</L>
+<L>Since you have felt the Rage of Jealous Love,</L>
+<L>The Fire that burns unruly in your Breast,</L>
+<L>Pity me then, and give <HI>Panthea</HI> to me:</L>
+<L>O give her to these Arms!</L>
+</SP>
+<SP>
+<SPEAKER>Panth.</SPEAKER>
+<L>Mighty <HI>Cyrus,</HI></L>
+<L>Give <HI>Abradatas</HI> to my thousand Wishes,</L>
+<L>And Oh, restore his lov'd <HI>Panthea</HI> to him!</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>They kneel&mdash;She kneels&mdash;</L>
+<L>See, see, my valiant Friends,</L>
+<L>Do not my Eyes shed Blood?&mdash;They shou'd, they shou'd,</L>
+<L>For all the Torments that I feel within.</L>
+<L>This is the sharpest Stroak that ever touch'd</L>
+<L>My Virtue here&mdash;Rise, Goddess&mdash;In this Posture</L>
+<L>Thou art more cruel to thy <HI>Cyrus</HI> far</L>
+<L>Than he can be to thee.</L>
+</SP>
+<SP>
+<SPEAKER>Panth.</SPEAKER>
+<L>Here we will grow,</L>
+<L>Thus ever fix'd, thus rooted as you see us,</L>
+<L>Till from the noblest Breath of all the World,</L>
+<L>We hear the Sentence of our Death or Life.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>Oh Friends! I feel a War within my Breast.</L>
+<L>The horrid Sound of Fights, and parting Ghosts</L>
+<L>Are all but Musick to my tortur'd Sence&mdash;</L>
+<L>Yet fain I'd get the Vict'ry o'er my self;</L>
+<L>But Oh, I can't! and find I am too weak&mdash;</L>
+<L>By all the Gods it is beyond a Mortal&mdash;</L>
+<L>Ha! Part 'em, or the Sight will kill</L>
+<L>Your General&mdash;And Oh, my Fellow-Soldiers!</L>
+<L>Stay whilst this dreadful Moment I retire,</L>
+<L>And having rais'd <HI>Panthea</HI> from the Ground,</L>
+<L>Send my triumphant Rival back; for this</L>
+<L>Is more than all the Wounds e'er had in Fight,</L>
+<L>And I can fly from nothing but this Sight.</L>
+<STAGE>[<HI>Exit</HI> Cyrus.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Abra.</SPEAKER>
+<L>Now, now I curse my Tameness, and these Knees,</L>
+<L>That made me stoop so low to beg ev'n thee&mdash;</L>
+<L>Away, <HI>Panthea,</HI> wish me not to stay;</L>
+<L>Go to thy Gaoler back, and load his Head</L>
+<L>With Curses, whilst thy <HI>Abradatas</HI> shall</L>
+<L>Prepare to fight, and pour 'em all upon him.</L>
+</SP>
+<SP>
+<SPEAKER>Thom.</SPEAKER>
+<L>Go, we must leave thee in thy Prison again,</L>
+<L>But in the Morning thou shalt rise from thence,</L>
+<L>Bright as the Sun that revels in his Chariot,</L>
+<L>And see thy self as free&mdash;Go, whilst we stay,</L>
+<L>Revenge grows tame, and we forget thy Wrongs.</L>
+</SP>
+<SP>
+<SPEAKER>Panth.</SPEAKER>
+<L>Then must we part! Yet I'm to blame&mdash;Begone,</L>
+<L>Go, whilst my Woman's Soul can give thee leave,</L>
+<L>And all the Blessings of a Love that's chaste,</L>
+<L><PB N="31" REF="20">
+A faithful, tender Wife's kind Thoughts attend thee.</L>
+</SP>
+<SP>
+<SPEAKER>Abra.</SPEAKER>
+<L>O my <HI>Panthea!</HI></L>
+</SP>
+<SP>
+<SPEAKER>Panth.</SPEAKER>
+<L>And to inspire thee more, call to thy Mind</L>
+<L>Our Infant Loves, the soft, and precious Vows</L>
+<L>That we have oft ex<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">hang'd Nights without Number,</L>
+<L>As were the Stars our Witnesses, till all</L>
+<L>Those petty, lesser Knots were quite unravell'd,</L>
+<L>And made one Nuptial Bond&mdash;I've done&mdash;Farewell&mdash;</L>
+<L>But Oh, regard&mdash;Regard that precious Life,</L>
+<L>By which both live, and all the Gods protect thee,</L>
+</SP>
+<SP>
+<SPEAKER>Abra.</SPEAKER>
+<L>The Thoughts of thee shall still enrich my Mind</L>
+<L>With all the Pleasures that are yet to come,</L>
+<L>And those that are like Visions slid away;</L>
+<L>How oft we've tyr'd the Watchings of the Moon,</L>
+<L>Till the pale Empress of the Night grew weary,</L>
+<L>And sate to rest behind a silken Cloud.</L>
+</SP>
+<SP>
+<SPEAKER>Thom.</SPEAKER>
+<L>Have done, or I must act the Part of <HI>Cyrus,</HI></L>
+<L>And tear you from each others Arms.</L>
+</SP>
+<SP>
+<SPEAKER>Abra.</SPEAKER>
+<L>This Kiss, and then we part&mdash;Farewell&mdash;It comes,</L>
+<L>Methinks already the fierce Storm begins,</L>
+<L>And bears thee from me o'er a thousand Billows.</L>
+</SP>
+<SP>
+<SPEAKER>Panth.</SPEAKER>
+<L>Thee, like a Rock, I fain wou'd hold but cannot.</L>
+<L>But Oh! rough Horrour like a desperate Sea,</L>
+<L>Throws me from off Love's Fortress and from thee.</L>
+</SP>
+<SP>
+<SPEAKER>Abra.</SPEAKER>
+<L>Weep not, my Soul&mdash;Who knows but that 'ere long,</L>
+<L>Our weary'd Barks may meet, the Storm o'er-blown.</L>
+<L>Trust till to morrow what the Gods can do.</L>
+</SP>
+<STAGE>[Exeunt <HI>Thomyris, Abradatas,</HI> and their Attendants, at
+one Door; and <HI>Panthea</HI> weeping with her Maids,
+at another. Manent <HI>Cyaxares, Craesus, Artaba|sus,</HI>
+and Guards.</STAGE>
+<SP>
+<SPEAKER>Cyax.</SPEAKER>
+<L>Let a strong Guard attend the <HI>Scythian</HI> Queen,</L>
+<L>Till she is safe arriv'd within her Camp.</L>
+</SP>
+<STAGE><HI>Re-Enter</HI> Cyrus.</STAGE>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>Tell me, kind Unkle, tell thy <HI>Cyrus</HI> quickly,</L>
+<L>How bore the sad <HI>Panthea</HI> her Departure?</L>
+</SP>
+<SP>
+<SPEAKER>Cyax.</SPEAKER>
+<L>As silent as the Day gives way to Night,</L>
+<L>And patient as the Spirit of a Saint</L>
+<L>Dying, and leaving all the World behind him.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>Run, <HI>Artabasus,</HI> run, and kneel before her,</L>
+<L>Tell her, what Kingdom in the World can buy</L>
+<L>One Smile, or Tear on <HI>Abradatas</HI> thrown,</L>
+<L>And't shall be hers&mdash;The Sea's, nor <HI>Craesus</HI> Hoard,</L>
+<L>Holds not the Wealth that I will bid for either;</L>
+<L>My Life, nay say Ten thousand Lives are her;&mdash;</L>
+<L>Tell what thou canst invent&mdash;Tell her what not&mdash;</L>
+<L><PB N="32" REF="21">
+Say more than if thou wert in Love, thou then</L>
+<L>Cou'dst say&mdash;Yet hold, I will not trust thy self alone&mdash;</L>
+<L>Come all with me&mdash;You, Unkle, are a Father,</L>
+<L>Speak as you wou'd do to your only Daughter;</L>
+<L>Drop all the Sweetness of a Parent's Tongue&mdash;</L>
+<L><HI>Craesus</HI> is wise, and has been taught to speak,</L>
+<L>Thy Eloquence has clear'd the <HI>Delphick</HI> Riddles,</L>
+<L>O charm my Goddess as thou charm'st the God&mdash;</L>
+</SP>
+<SP>
+<SPEAKER>Craes.</SPEAKER>
+<L>Else may I fall a Sacrifice to <HI>Cyrus</HI>&mdash;</L>
+</SP>
+<SP>
+<SPEAKER>Cyax.</SPEAKER>
+<L>Rejoice, my <HI>Cyrus,</HI> doubt not thy Success;</L>
+<L>That needs must move, which tortures all our Pity.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>'Tis she must pity, you forgive my Passion&mdash;</L>
+<L>Lend me a Dagger one of you, or kill me;</L>
+<L>Come, who is Noble level here thy Dart,</L>
+<L>And reach this wanton <HI>Cupid</HI> in my Heart:</L>
+<L>Death from my meanest Vassal I will stand,</L>
+<L>Or fall by any but a Woman's Hand;</L>
+<L>For Love still plays the Tyrant with the Great,</L>
+<L>Lets Fools and Cowards prosper in their State,</L>
+<L>And only makes the Brave Unfortunate.</L>
+</SP>
+<STAGE>[Exeunt Omnes.</STAGE>
+<TRAILER>Finis Actus Tertii.</TRAILER>
+</DIV2>
+<DIV2 N="4" TYPE="act and scene">
+<HEAD>Actus Quartus, Scaena Prima.</HEAD>
+<STAGE>Scene draws, and discovers <HI>Cyrus,</HI> and <HI>Cyaxares;</HI>
+They come forwards.</STAGE>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>YET more! Have I not said enough, dear Unkle?</L>
+<L>And have you not already seen and heard</L>
+<L>With blushing, too much of your <HI>Cyrus</HI> Frailties?</L>
+</SP>
+<SP>
+<SPEAKER>Cyax.</SPEAKER>
+<L>Tell me, my <HI>Cyrus,</HI> when you have disclos'd</L>
+<L>The heavy Load that lies upon your Soul,</L>
+<L>I'll pour a Balm into't shall give you Ease&mdash;</L>
+<L>These Strugglings of the Nobler Passions shew</L>
+<L>The most Heroick Mind that ever was.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>O <HI>Cyaxares!</HI> I'm all Guilt, all Stain,</L>
+<L>Ev'n I that rid the foremost in the World,</L>
+<L>And knew how Dear, how Great, and how Esteem'd</L>
+<L>A Thing my hard-got Honour was&mdash;yet that,</L>
+<L>And all are drown'd within a Sea of Love,<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"></L>
+<L>My Empires, Crowns quite ruin'd by the Fair,</L>
+<L>That gilded o'er the deep deluding Danger,</L>
+<L><PB N="33" REF="21">
+Then tempted me to split&mdash;O all my fame,</L>
+<L>My matchless Glories with my self are sunk,</L>
+<L>In the false footing of a Woman's smile.</L>
+</SP>
+<SP>
+<SPEAKER>Cyax.</SPEAKER>
+<L>You are Impartial to a fault, my <HI>Cyrus.</HI></L>
+<L>Whose Love is guided by the Rays of Vertue&mdash;</L>
+<L>The Crime is not so great to be in Love;</L>
+<L>The Gods themselves have often felt its Power,</L>
+<L>Witness the many scapes of <HI>Iupiter.</HI></L>
+<L>And the Wise Men have all confess'd, that once</L>
+<L>In his whole Life the bravest, greatest Man</L>
+<L>May stoop to Love&mdash;</L>
+<L>Nay, <HI>Solon</HI> has confess'd,</L>
+<L>That he himself was once a Slave to Love.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L><HI>Solon!</HI> had <HI>Solon</HI> that to lose as I have?</L>
+<L>Had he the business of the World to fill</L>
+<L>His thoughts, and chace away all soft Idea's?</L>
+<L>Books might have fashion'd his tame Soul to Love,</L>
+<L>But mine shou'd have been hardened wrought by War;</L>
+<L>Proof as the Anvil 'gainst the <HI>Cyclop's</HI> Hammers;</L>
+<L>And Glory in my Breast shou'd have Eclips'd</L>
+<L>The Rays of Beauty&mdash;How I hate my self!</L>
+<L><HI>Achilles,</HI> when a Boy, did never handle</L>
+<L>And ply the Distaff with such Female Skill.</L>
+</SP>
+<SP>
+<SPEAKER>Cyax.</SPEAKER>
+<L>Still you run on, are too severe a Judge</L>
+<L>Ev'n to your self, your Honour is too nice,</L>
+<L>And Dictates to you with a ridged Breath,</L>
+<L>This noble caution o're your looser Passions,</L>
+<L>Shews yet a greater Conquest o're your Mind,</L>
+<L>Than if you ne're had felt what Love had bin;</L>
+<L>'Tis Mortal-like to be the Aim of Vice,</L>
+<L>But it is God-like to resist its Fury.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>Teach me, dear Unkle, teach me how to do so:</L>
+<L>I feel my Vertue now begins to tire,</L>
+<L>And Love Plays all the Tyrant in my Soul,</L>
+<L>When I begin to wish the Pain away,</L>
+<L>O then I wish the pleasant grief to keep.</L>
+</SP>
+<STAGE>Enter to them <HI>Hystaspes.</HI></STAGE>
+<SP>
+<SPEAKER>Hyst.</SPEAKER>
+<L>Thus low <HI>Hystaspes</HI> falls beneath your Feet,</L>
+<L>And comes to know his Monarch's joyful Doom.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>Welcome, <HI>Hystaspes,</HI> once more to my Arms,</L>
+<L>And from this time for ever to my Breast;</L>
+<L>No Love, nor Jealousie shall henceforth throw</L>
+<L>Suspitions 'twixt my Friend and me.</L>
+</SP>
+<SP>
+<SPEAKER>Hyst.</SPEAKER>
+<L>Then 'tis</L>
+<L>Above the Malice of Fiends in Hell,</L>
+<L><PB N="34" REF="22">
+To Shock me from the state I now remain in</L>
+<L>Bless'd be the Gods that have again Install'd me</L>
+<L>In the Immortal Throne of <HI>Cyrus's</HI> Favour&mdash;</L>
+<L>But oh! forgive, forgive your Soldier's Crimes,</L>
+<L>Led by his Frailties.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>Thou art good <HI>Hystaspes;</HI></L>
+<L>'Tis thou hast cause to blame thy <HI>Cyrus's</HI> Temper,</L>
+<L>When like a Man infected, mad in Love,</L>
+<L>I threw at random; hurt my dearest Friends;</L>
+<L>So rag'd I with the wild <HI>Promethean</HI> Fire;</L>
+<L>But I will quench it, quench it ev'ry Spark,</L>
+<L>And the bright <HI>Venus</HI> then, that glitter'd in</L>
+<L>My Eyes, I will behold hurtless as shadows,</L>
+<L>Or as <HI>Iove's</HI> Bird the Eagle does the Sun.</L>
+</SP>
+<SP>
+<SPEAKER>Hyst.</SPEAKER>
+<L>O my lov'd Lord, persue your gallant Hopes,</L>
+<L>She shall be yours by all the Powers above;</L>
+<L>My self shall hold your <HI>Hymen's</HI> Torch&mdash;O Sir</L>
+<L>She's too Divine for all the World but you.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>No more, <HI>Hystaspes</HI>&mdash;There is something in</L>
+<L>Thy Face that shews thou art not yet well pleas'd&mdash;</L>
+<L>Tell me&mdash;why look'st thou still upon us with</L>
+<L>A troubled Brow?</L>
+</SP>
+<SP>
+<SPEAKER>Hyst.</SPEAKER>
+<L>I came from such a sight</L>
+<L>Wou'd strike Compassion from obdurate Rocks,</L>
+<L>And make soft Pity flow from Hearts of Steel,</L>
+<L>The Courage of your Soldiers flags to tell it.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>Out with it, tho', let it be ne're so dreadful.</L>
+</SP>
+<SP>
+<SPEAKER>Hyst.</SPEAKER>
+<L>The Fair, th' unhappy, Innocent <HI>Lausaria</HI></L>
+<L>Is grown distracted by a violent Grief;</L>
+<L>Her Wits, her Pretious Senses quite are gone;</L>
+<L>The Ornaments of so much Beauty fled!</L>
+<L>Fled to the Gods that gave them, and, no doubt,</L>
+<L>E're long will draw the lovely Body after.</L>
+</SP>
+<SP>
+<SPEAKER>Cyax.</SPEAKER>
+<L>Ha! what say'st thou?</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>Can this be true, <HI>Hystaspes?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Cyax.</SPEAKER>
+<L>The Cause?</L>
+</SP>
+<SP>
+<SPEAKER>Hyst.</SPEAKER>
+<L>Do you not guess it, since she own'd</L>
+<L>A Passion for the Great, and Famous <HI>Cyrus?</HI></L>
+<L>The sad occasion was, alas! that she</L>
+<L>Too lightly had reveal'd her Love to you:</L>
+<L>For from your Presence, she no sooner was</L>
+<L>Convey'd to her Appartment, but her Anger,</L>
+<L>Which first adorn'd her Face with blushing Red,</L>
+<L>Streight snatch'd the Roses from her Cheeks, and left</L>
+<L>A Pale, and Trembling Colour in their stead&mdash;</L>
+<L>Mountains and Hills come cover me she said;<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"></L>
+<L>No, no, Eternal Darkness shroud my Head,</L>
+<L><PB N="35" REF="22">
+From <HI>Cyrus</HI>'s sight&mdash;O! <HI>Cyrus</HI> follows me;</L>
+<L>He mocks me&mdash;Hide me from his scornful Eyes.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>Hold, hold, <HI>Hystaspes</HI> give me strength to hear thee;</L>
+<L>Thou pour'st ill News too fast upon my Soul&mdash;</L>
+<L>So&mdash;But go on.</L>
+</SP>
+<SP>
+<SPEAKER>Hyst.</SPEAKER>
+<L>This for some Minutes held her,</L>
+<L>Till from the Fatal Extasie, she rose,</L>
+<L>And strugling to recal her wandring Senses,</L>
+<L>Look'd round about her, Wild and Beautiful.</L>
+<L>But oh! (thou rash <HI>Minerva</HI> to permit it)</L>
+<L>She let her Words at random so disperse,</L>
+<L>That we too soon the Fatal Meaning knew,</L>
+<L>Through all their dark and ridled Sense.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>Pry'thee, what said she?&mdash;Say, did she not Curse me?</L>
+</SP>
+<SP>
+<SPEAKER>Hyst.</SPEAKER>
+<L>Thus she wou'd talk&mdash;</L>
+<L>Where's <HI>Cyrus,</HI> where? Has he not heard I love him&mdash;</L>
+<L>Curs'd be the Wretch that first disclos'd my flame,</L>
+<L>See where she's hurld, and has no rest below,</L>
+<L>A Thousand Souls of Chast and Modest Virgins</L>
+<L>Arm at her sight, and drive me from the Shades;</L>
+<L>Then must I back into the World again!</L>
+<L>O there is <HI>Cyrus,</HI> and <HI>Panthea</HI> too,</L>
+<L>He Loves her, and she Loves him not again!</L>
+<L>Ha! There th' art punish'd false deluding Man,</L>
+<L>Thou art&mdash;Revenge me, O <HI>Panthea,</HI> on him&mdash;</L>
+<L>But see, my <HI>Cyrus</HI> weeps, O pity him&mdash;</L>
+<L>Cruel <HI>Panthea!</HI> cruellest of thy Sex!</L>
+<L>What merciless <HI>Panther</HI> gave thy Mother Suck,</L>
+<L>That bred in thee such Monstruous Savage Nature,</L>
+<L>As not t'adore so excellent a Man?</L>
+</SP>
+<STAGE>Enter to them <HI>Craesus</HI> weeping.</STAGE>
+<SP>
+<SPEAKER>Crae.</SPEAKER>
+<L>O <HI>Cyrus,</HI> I perceive the Gods ordain</L>
+<L>Thy Friends and Foes to fall alike by thee,</L>
+<L>By all their Ruins to adorn thy Triumph</L>
+<L>Pity the Man whose breath thou didst restore,</L>
+<L>Pity my Daughter on whose future state</L>
+<L>That Life depends&mdash;Go in, and see what Wrack,</L>
+<L>What wild destruction thy still Conquering Genius,</L>
+<L>In Love as well as War, has made amongst</L>
+<L><HI>Lausariar's</HI> Beauties.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>When, when ye Gods will all these mischiefs cease,</L>
+<L>Or grow to such a Bulk will sink me quite!&mdash;</L>
+<L>Chide me not, <HI>Craesus,</HI> chide not the unhappy,</L>
+<L>Convey me to her streight, and strive</L>
+<L><PB N="36" REF="23">
+With me to Charm the cruel Deities,</L>
+<L>And save the greatest miracle of Love.</L>
+</SP>
+<STAGE>[<HI>Exeunt</HI> Cyrus <HI>and</HI> Craesus.</STAGE>
+<SP>
+<SPEAKER>Cyax.</SPEAKER>
+<L>Why, why ye Gods, has <HI>Cyrus</HI> so deserv'd!</L>
+<L>That almost at the Race's end of Glory,</L>
+<L>Worse than <HI>Pandora</HI>'s Plagues is sent amongst us?</L>
+<L>Beauty thou subtile spoyler of the World,</L>
+<L>Man were a God-head were it not for thee,</L>
+<L>And there was never Hero yet below</L>
+<L>That rais'd the Jealous Envy of the Gods,</L>
+<L>But this, this never failing Curse was sent</L>
+<L>To ruin all his Fame, and blast his Glories&mdash;</L>
+<L><HI>Hystaspes,</HI> when does <HI>Balthazar</HI> intend</L>
+<L>To give us Battel?</L>
+</SP>
+<SP>
+<SPEAKER>Hyst.</SPEAKER>
+<L>Early this next Morning;</L>
+<L>I understood it by a Slave of mine,</L>
+<L>That fled at my Command some few days since,</L>
+<L>And dewlt a Spy within the Enemies Camp.</L>
+<L>He's now return'd, and tells me both the number,</L>
+<L>Order, and strength of this so potent Army,</L>
+<L>He likewise says, that next their multitudes</L>
+<L>They put their chiefest Hopes and Confidence</L>
+<L>In brave <HI>Thomyris,</HI> and her <HI>Scythian</HI> Bowmen.</L>
+<L>Relying thus on his unweildy Forces,</L>
+<L>And fed with lyes of Soothsayers, he remains</L>
+<L>Close in his Tent, Carrouses, Feasts, and Revels,</L>
+<L>Scorning the Gods, the Fates, and thinks them poor,</L>
+<L>And all besides his boasted Power but mean.</L>
+</SP>
+<SP>
+<SPEAKER>Cyax.</SPEAKER>
+<L>Wou'd it were now, <HI>Hystaspes,</HI> wou'd the Fight</L>
+<L>Were now beginning, and the Trumpets call</L>
+<L>Did Rouze fond <HI>Cyrus</HI> from these Painted Dreams,</L>
+<L>The danger wou'd be less to find him so</L>
+<L>Inclos'd, than in his Tents besieg'd with Love,</L>
+<L>His Breast lay'd open to the poysonous Darts</L>
+<L>Of Cruel Beauty.</L>
+</SP>
+<SP>
+<SPEAKER>Hyst.</SPEAKER>
+<L>O the Happy time!</L>
+<L>Thy Rage soft Tyranous Love shall then have End,</L>
+<L>When <HI>Cyrus</HI> kindles once again the Heat</L>
+<L>That first inspir'd his Noble Breast with Glory.</L>
+</SP>
+<SP>
+<SPEAKER>Cyax.</SPEAKER>
+<L>I hear sudden noise of Clashing Swords&mdash;</L>
+<STAGE>[Noise of Fighting within.</STAGE>
+<L>Look out, <HI>Hystaspes,</HI> go and see the matter.</L>
+</SP>
+<STAGE>[As <HI>Histaspes</HI> is going off, enter in haste <HI>Artabasus</HI> with his Sword Drawn.</STAGE>
+<SP>
+<SPEAKER>Arta.</SPEAKER>
+<L>Where's <HI>Cyrus?</HI> where's the King?&mdash;Great <HI>Cyaxares,</HI></L>
+<L>Pity the bravest Valour in the World&mdash;</L>
+<L>Haste, Sir, and save the Gallant <HI>Abradatas,</HI></L>
+<L>With great and most unequal odds opprest&mdash;</L>
+<L>Haste for the sakes of all your bravest Men:</L>
+<L><GAP DESC="illegible" RESP="tech" EXTENT="1 letter">or at so dear a Rate he sells his Life,</L>
+<L><PB N="37" REF="23">
+That with's own Hand already he has slain</L>
+<L>Strange Numbers of the stoutest Ranks, whose Valour</L>
+<L>Pusht 'em first on to meet his daring Blows.</L>
+</SP>
+<SP>
+<SPEAKER>Cyax.</SPEAKER>
+<L>What madness forc'd him thus to his Destruction!</L>
+</SP>
+<SP>
+<SPEAKER>Arta.</SPEAKER>
+<L>His desperate Love led him so boldly on;</L>
+<L>For with a Troop, compos'd of all his best</L>
+<L>And stoutest Men, he straight broke through our Camp,</L>
+<L>Who stood more Wondring at their madness, than</L>
+<L>Afraid&mdash;And though of all his Valiant Followers</L>
+<L>Scarce ten remain alive besides himself,</L>
+<L>Yet still he ventures on, and calls for <HI>Cyrus</HI>&mdash;</L>
+<L>But hark, they this way come&mdash;</L>
+</SP>
+<SP>
+<SPEAKER>Cyax.</SPEAKER>
+<L>Follow <HI>Hystaspes</HI>&mdash;</L>
+<STAGE>[As <HI>Cyaxares,</HI> and the rest are going off, Enters <HI>Abradatas</HI> fighting against
+a great many, <HI>Cyaxares</HI> and the rest joyn against him and his followers.</STAGE>
+<L>Brave <HI>Abradatas</HI> yield, whilst you are safe.</L>
+</SP>
+<SP>
+<SPEAKER>Abra.</SPEAKER>
+<L>Yield! By the Gods that hated Breath I scorn&mdash;</L>
+<L>The Spirits of my murder'd Friends around me</L>
+<L>Still guard me from the Thoughts of such a Baseness&mdash;</L>
+<L>Do'st think I undertook so brave a Deed</L>
+<L>With the least thought of Living, or of Yielding!</L>
+<L>No, Fight I will till ev'ry Sinew fail me:</L>
+<L>And when my Arms can lift a Sword no longer,</L>
+<L>I'll stretch 'em forth to all your Cymeters;</L>
+<L>Now to be parted from my Bleeding Body,</L>
+<L>Before I'll suffer 'em to be tamely bound&mdash;</L>
+<L>Come all&mdash;Quick, make an End of me&mdash;Ye Gods!</L>
+<L>Wou'd I had <HI>Cyrus</HI> now but in thy Place;</L>
+<L>Thus wou'd I do, thus use my hated Rival.</L>
+</SP>
+<SP>
+<SPEAKER>Hyst.</SPEAKER>
+<L>Kill, kill the raging Prince, if he'l be still</L>
+<L>Thus Obstinate.</L>
+</SP>
+<SP>
+<SPEAKER>Cyax.</SPEAKER>
+<L>I charge you ev'ry Man</L>
+<L>To save him, and with speed take him alive.</L>
+</SP>
+<STAGE>[They Fight, <HI>Cyaxares</HI> in the Skirmish is mortally Wounded, <HI>Abradatas</HI> is
+taken Prisoner, and Disarm'd.</STAGE>
+<SP>
+<SPEAKER>Abra.</SPEAKER>
+<L>Base Villains! Choak'd I am with Multitudes&mdash;</L>
+<L>O that I want the Fierceness of a Lyon</L>
+<L>To chace this Herd of Slaves and Cowards from me.</L>
+</SP>
+<SP>
+<SPEAKER>Hyst.</SPEAKER>
+<L>What ail you, Sir? O Cursed sight, you Bleed!</L>
+</SP>
+<SP>
+<SPEAKER>Cyax.</SPEAKER>
+<L>I fear I've bin too rash&mdash;</L>
+<L>And feel I'm wounded in my Mortal'st part.</L>
+</SP>
+<STAGE>Re-enter to them <HI>Cyrus</HI> in haste.</STAGE>
+<SP>
+<SPEAKER>Hyst.</SPEAKER>
+<L>The Gods forbid&mdash;O Sir, retir<GAP DESC="illegible" RESP="tech" EXTENT="2 letters"> and view not</L>
+<L>This sad Mischance.</L>
+</SP>
+<SP>
+<PB N="38" REF="24">
+<SPEAKER>Cyr.</SPEAKER>
+<L>Ha!</L>
+</SP>
+<SP>
+<SPEAKER>Craes.</SPEAKER>
+<L><HI>Hystaspes,</HI> how came this to pass?</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>Blast me, you Vitious Planets of my Birth;</L>
+<L>Fall on me all the wrath of Heav'n at once,</L>
+<L>Can this be true what here my Eyes behold&mdash;</L>
+<L>My Unkle wounded! 'Tis not much, I hope?</L>
+</SP>
+<SP>
+<SPEAKER>Cyax.</SPEAKER>
+<L>Yes, 'tis to Death, and by my fleeting Soul</L>
+<L>I am not sorry for't&mdash;But why grieve you?</L>
+<L>I now shall tug the Reins of Rule no more,</L>
+<L>And you shall drive the Chariot of the World</L>
+<L>Alone&mdash;My life that stood so long i'th' way</L>
+<L>Dividing all the while Ambition with thee,</L>
+<L>Shall share with thee, and of thy Hopes no more.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>Fetch my Physitians&mdash;Run for Artists straight,</L>
+<L>A Kingdom shall be his that Cures his Hurt.</L>
+</SP>
+<SP>
+<SPEAKER>Cyax.</SPEAKER>
+<L>Stir not, I charge you&mdash;'Tis beyond all Art</L>
+<L>To save my Life&mdash;I've but a Moment's Breath</L>
+<L>To speak, yet whilst that lasts, it's thine, my <HI>Cyrus;</HI></L>
+<L>And likewise all that's mine I give to thee;</L>
+<L>Commit my only Daughter to thy Care,</L>
+<L>She's young, and may in time grow up thy Wife.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>Curst <HI>Abradatas</HI>&mdash;Curst-be all the Fates</L>
+<L>That led thee thus to Triumph still upon me,</L>
+<L>First in my Love, and now in <HI>Cyaxares;</HI></L>
+<L>But by the Gods&mdash;By my wrong'd Self I Swear</L>
+<L>I will be tame no longer, but will sweep thee,</L>
+<L>Like a fierce Whirlwind from the Face of <HI>Cyrus,</HI></L>
+<L>Wert thou the Mynion of the spiteful Stars;</L>
+<L>Yes, though ten Thousand <HI>Cupids</HI> on their Knees,</L>
+<L>And <HI>Venus</HI> weeping Eyes shou'd beg to save thee.</L>
+</SP>
+<SP>
+<SPEAKER>Abra.</SPEAKER>
+<L>I kill'd him bravely, by the Gods I did,</L>
+<L>Kill'd him as I wou'd thee, hadst thou bin there.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>Away with him to speedy Death, I charge you.</L>
+</SP>
+<SP>
+<SPEAKER>Cyax.</SPEAKER>
+<L>Hold, <HI>Cyrus,</HI> hold, the Gallant Prince says true;</L>
+<L>Let me not be the cause of his hard Fate,</L>
+<L>It was my Fortune, and the Chance of War.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>Torture me not with the Request; I vow</L>
+<L>It is the only thing I cannot grant you.</L>
+</SP>
+<SP>
+<SPEAKER>Cyax.</SPEAKER>
+<L>You must&mdash;O my Dear <HI>Cyrus;</HI> I have bin</L>
+<L>To blame, my Envy of thy gallant Deeds</L>
+<L>Brought me to meet the Death I have deserv'd;</L>
+<L>Had I but pleas'd my self to hear thee prosper,</L>
+<L>And Treasur'd thy Exploits within my Breast,</L>
+<L>As a kind Unkle shou'd have done to <HI>Cyrus,</HI></L>
+<L>O then I had bin happier.</L>
+<L><HI>Persia,</HI> and <HI>Media</HI> now shall be but one;</L>
+<L>Far greater than <HI>Astyages</HI> thou art,</L>
+<L><PB N="39" REF="24">
+The first sole Monarch of the <HI>Medes</HI> and <HI>Persians</HI>&mdash;</L>
+<L><HI>Cyrus</HI> farewel&mdash;Kiss me, and then I go.</L>
+</SP>
+<STAGE>[dyes.</STAGE>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>He's fled, the kindest, dearest, bravest Man</L>
+<L>That ever blest the World, is gone&mdash;Dry up</L>
+<L>Your Tears, and hide your Sorrows in your Breasts.</L>
+<L>'Tis poor and mean to spend our griefs like Women;</L>
+<L>Ten Thousand Deaths are all too little for thee,</L>
+<STAGE>[<HI>To</HI> Abrad.</STAGE>
+<L>No, thou shalt live, and grow in study'd Torments;</L>
+<L>I'll carry thee where-e're I go, to be</L>
+<L>The sport of my Revenge, and ev'ry Day</L>
+<L>Thou shalt be brought i'th' midst of all thy Pains</L>
+<L>To hear thee houl before me&mdash;Go with him</L>
+<L>To Tortures, Chains, Imprisonment&mdash;Away.</L>
+</SP>
+<STAGE>Enter to them Running, and Weeping, <HI>Panthea</HI> attended, as <HI>Abradatas</HI> is
+carrying off.</STAGE>
+<SP>
+<SPEAKER>Panth.</SPEAKER>
+<L>Hold, whither is my <HI>Abradatas</HI> going?&mdash;</L>
+<L>Brave <HI>Cyrus</HI> stay, real your dread Commands&mdash;</L>
+<L>Ah! where d'ye hurry my dear Prince so fast?</L>
+<STAGE>[To the Guards.</STAGE>
+<L>Still <HI>Abradatas</HI> will you be thus rash?</L>
+<L>Adventuring through a Thousand threatning Deaths,</L>
+<L>To come to this accursed Place to meet</L>
+<L>Your certain Ruin; Cruel as you are,</L>
+<L>More Cruel to your self and me than <HI>Cyrus</HI> far.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>Still does she come to brave my little Power,</L>
+<L>And chain my weak Resolves&mdash;She knows her strength,</L>
+<L>By all the Gods she does, and dares me to't&mdash;</L>
+<L>Keep 'em asunder, part 'em whilst I'm in</L>
+<L>The mind&mdash;Perhaps anon I may forget</L>
+<L>I bid you&mdash;Do, and part 'em now for ever.</L>
+</SP>
+<SP>
+<SPEAKER>Abra.</SPEAKER>
+<L>You urge in vain, the Tyrant must b'obey'd&mdash;</L>
+<L>Farewel, our Loves shall shine amongst the Stars,</L>
+<L>And make Immortal Lights that never shall</L>
+<L>Be quench'd&mdash;There we will Rule, and guide the Planets,</L>
+<L>Causing 'em ev'ry one to shed their worst,</L>
+<L>And mortal'st Venom on his Cursed Head.</L>
+</SP>
+<SP>
+<SPEAKER>Panth.</SPEAKER>
+<L>Ah no, you wrong the brave and God-like <HI>Cyrus,</HI></L>
+<L>He is more mild than tender Mothers are;</L>
+<L>The Spring is not so sweet that flows from Winter,</L>
+<L>As are the Passions of that Brave rough Man&mdash;</L>
+<L>Look thou Immortal; great on Earth as <HI>Iove</HI></L>
+<STAGE>[Kneels.</STAGE>
+<L>Can you behold me kneel, and hear me beg,.</L>
+<L>In vain, who once you said was Beautiful, and lov'd?</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L><HI>Panthea</HI> rise, I cannot see you bend&mdash;</L>
+<L>There's something in those Eyes wou'd cheat me still,</L>
+<L>Although I know their kindness is not meant</L>
+<L><PB N="40" REF="25">
+To me&mdash;No, no, these Prayers and T<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ars are all</L>
+<L>My Rivals still&mdash;Behold there's one cou'd<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">speak</L>
+<L>If it had Life, but that is slain by thee&mdash;</L>
+<STAGE>[Shews the body of <HI>Cy<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">x.</HI></STAGE>
+<L>See, see, the silent everlasting Cause</L>
+<L>Of <HI>Abradatas</HI> Fate.</L>
+</SP>
+<SP>
+<SPEAKER>Panth.</SPEAKER>
+<L>Ah me, the sight</L>
+<L>Is dreadful, but you must forget it&mdash;</L>
+<L>He kill'd him fairly in his Life's defence,</L>
+<L>And you may add a little too for Love&mdash;</L>
+<L>The gallant <HI>Cyrus</HI> wou'd have done as much,</L>
+<L>Had he bin urg'd, or had the like Occasion.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>Away <HI>Panthea,</HI> hence, thou plead'st against</L>
+<L>Thy self, and hast recall'd each wandering Spark</L>
+<L>That stray'd without my Breast, and fann'd 'em to</L>
+<L>A Flame, that if thou talk'st, will ne're be quench'd&mdash;</L>
+<L>Away with him, I say&mdash;Death to you all</L>
+<L>That disobey a Moment&mdash;</L>
+</SP>
+<SP>
+<SPEAKER>Abrad.</SPEAKER>
+<L>I Court that Death, and cannot wish to live</L>
+<L>A life so mean that's in thy power to give;</L>
+<L>But ah, <HI>Panthea!</HI></L>
+</SP>
+<SP>
+<SPEAKER>Panth.</SPEAKER>
+<L>Stay, for we must live</L>
+<L>Or dye together <HI>Cyrus,</HI> take thy Choice&mdash;</L>
+<L>Give me thy Hand, my Love&mdash;Thus we will grow,</L>
+<STAGE>[<HI>Panthea</HI> runs and takes <HI>Abrad.</HI> by the hand.</STAGE>
+<L>Joyning our selves together thus&mdash;Thus fix'd,</L>
+<L>By great <HI>Diana</HI>'s Soul, immoveable&mdash;</L>
+<L>So mingle not our Souls, nor beams of sight so twist</L>
+<L>As are these Hands united&mdash;Why d'ye stay?&mdash;</L>
+<L>Come bear him to his Fate&mdash;By Constancy,</L>
+<L>I vow this Hand shall go along with him,</L>
+<L>Not all your Torments, Pincers, nor Devices</L>
+<L>Shall wrench these Knots asunder; no, unless</L>
+<L>You cut this off, so you may part our Bodies,</L>
+<L>But then my Spirits shall retire that moment,</L>
+<L>Flying to th' part that's nearest to my Love,</L>
+<L>And my lost Hand shall hold him still thus fast,</L>
+<L>And Perish with him as the Body wou'd.</L>
+</SP>
+<SP>
+<SPEAKER>Craes.</SPEAKER>
+<L>Behold, do not the Gods look down, and wonder?</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>What shall I do? <HI>Craesus</HI> advise me straight.</L>
+</SP>
+<SP>
+<SPEAKER>Craes.</SPEAKER>
+<L>I am beyond all Sence, the Miracle</L>
+<L>Has almost struck me dumb&mdash;Yet you had best</L>
+<L>Begone&mdash;Retire, Sir, from this melting Object;</L>
+<L>O never interrupt such Happiness,</L>
+<L>But send these rare and faithful Lovers home,</L>
+<L>To be the Wonder of all Worlds to come.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>O how shall I begin! <HI>Craesus,</HI> I'll do it,</L>
+<L>I am resolv'd, yet cannot though I wou'd;</L>
+<L><PB N="41" REF="25">
+When I have gain'd the highest Victory o're</L>
+<L>My mind, then straight I feel my climbing Love</L>
+<L>Ascends by stealth, and reaching to the top,</L>
+<L>Pulls all my slippery Resolutions down&mdash;</L>
+<L>Assist me Gods, and guide my sickly Virtue.</L>
+</SP>
+<STAGE>Enter to them <HI>Lausaria</HI> Distracted, drest like a Cupid, with a Bow and
+Quiver, follow'd by her Women.</STAGE>
+<SP>
+<SPEAKER>Laus.</SPEAKER>
+<L>Ye daring Mortals, wou'd ye hinder me?&mdash;</L>
+<L>Let me alone, I say&mdash;Prepare my Chariot;</L>
+<L>Go fetch me <HI>Boreas</HI> straight, and bid him bring me</L>
+<L>A gentle Wind to spread my fiery Wings,</L>
+<L>Then I'll ride faster than the Fleeting Air,</L>
+<L>Or Raceing Clouds&mdash;The Stars shall be my Guides,</L>
+<L>And in a Moment I will reach the Gods.</L>
+</SP>
+<SP>
+<SPEAKER>Craes.</SPEAKER>
+<L>O Dismal sight!</L>
+</SP>
+<SP>
+<SPEAKER>Laus.</SPEAKER>
+<L>&mdash;My Father weeps: If tears cou'd quench thee!</L>
+</SP>
+<LG N="1" TYPE="song">
+<HEAD>I. SONG.</HEAD>
+<L><HI>O</HI> Take him gently from the Pile,</L>
+<L>And lay him here to rest,</L>
+<L>And I will <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">corch for him the while;</L>
+<L>If he must burn, then burn him in my Breast,</L>
+<L>For there is Fire, there is shame</L>
+<L>Enough to set the World on flame.</L>
+</LG>
+<SP>
+<SPEAKER>Craes.</SPEAKER>
+<L>Hear me <HI>Lausaria,</HI> thou hadst once a Brother</L>
+<L>Doom'd by the Gods to want the gift of Speech,</L>
+<L>And yet his Dumbness could not so afflict me,</L>
+<L>As these wild words torment thy Father's Soul.</L>
+</SP>
+<SP>
+<SPEAKER>Laus.</SPEAKER>
+<L>This Bow and Quiver were a wanton <HI>Cupid's;</HI></L>
+<L>I watch'd the Boy, as he lay down to sleep,</L>
+<L>And stole his Amunition from his side;</L>
+<L>And now I've got 'em, I will be reveng'd</L>
+<L>On all mankind, on all the Sex at once,</L>
+<L>And shoot Love's Plague into their Breasts&mdash;Stand fair.</L>
+</SP>
+<LG N="2" TYPE="song">
+<PB N="42" REF="26">
+<HEAD>II. SONG.</HEAD>
+<L><HI>I</HI> Am arm'd, and delare</L>
+<L>For a Vigerous War;</L>
+<L>By my Bow and my Quiver I swear</L>
+<L>Not a Rebel <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">0 Love will I spare,</L>
+<L>This Shaft I will draw to the Head,</L>
+<L>And shoot the great <HI>Persian,</HI> shoot him dead.</L>
+<L>The Tyrani shall die, there's one will deny him,</L>
+<L>Let him Court her with Crowns she shall fly him,</L>
+<L>This Shaft I will draw to the Head,</L>
+<L>And shoot the great Archer dead.</L>
+</LG>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>Her Sence is out of Tune, her Wits not well,</L>
+<L>But yet, alas! her Tongue is Charming still.</L>
+</SP>
+<SP>
+<SPEAKER>Laus.</SPEAKER>
+<L>Here is a Dart by Limping <HI>Vulcan</HI> made,</L>
+<L>Tip'd with the Clippings of a red hot Star;</L>
+<L>The same that <HI>Venus,</HI> when she robb'd her Son,</L>
+<L>Chose from the rest to shoot <HI>Adonis</HI> with;</L>
+<L>I'll burn you ev'ry one, till you indure</L>
+<L>Worse Pains than I&mdash;Ha! <HI>Cyrus</HI> there&mdash;Have at thee&mdash;</L>
+<L>I think I've struck thee, Cruel Flint, I have.</L>
+</SP>
+<STAGE>[She shoots and hits <HI>Cyrus.</HI></STAGE>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>Thou hast indeed, and touch'd me to the quick;</L>
+<L>I thank the Gods there wanted but this sight</L>
+<L>To rouze my slumbering Vertue&mdash;Sweet <HI>Lausaria,</HI></L>
+<L>Th'ast pierc'd my rocky Heart, and see it melts.</L>
+</SP>
+<STAGE>[Cyrus Weeps.</STAGE>
+<SP>
+<SPEAKER>Laus.</SPEAKER>
+<L>Ha! have I hurt him! Curst was I to do so&mdash;</L>
+<L>Look how the Blood runs trickling down his Face&mdash;</L>
+<L>Help, help <HI>Panthea, Abradatas</HI> help&mdash;</L>
+<L>Can you behold that Bleeding brave good Man,</L>
+<L>And not bestow one Sigh, or Tear between you,</L>
+<L>Indeed you are to blame&mdash;I cou'd shed Rivers,</L>
+<L>And with my sighs disturb the endless <HI>Ocean.</HI></L>
+</SP>
+<STAGE>[Weeps.</STAGE>
+<SP>
+<SPEAKER>Craes.</SPEAKER>
+<L>Poor Girl! She tires her self with her Wild Thoughts&mdash;</L>
+<L>When will her roving Fancy get some rest?</L>
+</SP>
+<SP>
+<SPEAKER>Laus.</SPEAKER>
+<L>Go, go; you are a pair of Constant Fools,</L>
+<STAGE>[To Panthea, <HI>&amp;c.</HI></STAGE>
+<L>You are not fit to dwell amongst Mankind&mdash;</L>
+<L>Get you to Wilds, to Fountains, and the Woods,</L>
+<L>There graft your Follies on the Barks of Trees,</L>
+<L>And write sad Songs upon th'unconstant Sands,</L>
+<L>Which are as false as are the Hearts of Men:</L>
+<L>Or get you to the Eccho, Owl, and Magpye;</L>
+<L>They say, they once were Mortals like your selves&mdash;</L>
+<L>Dye like a pair of faithful silly Lovers,</L>
+<L>Dye, dye, and get you to <HI>Elizium,</HI></L>
+<L>There be the things you dream of; there be such</L>
+<L><PB N="43" REF="26">
+As are your selves&mdash;Go, get you to <HI>Elizium;</HI></L>
+<L>And I will follow you so soon as e're</L>
+<L>I can&mdash;Hey hoe!&mdash;I have a mind to sleen&mdash;</L>
+</SP>
+<SP>
+<SPEAKER>Craes.</SPEAKER>
+<L>Come, lead her gently to her Bed.</L>
+</SP>
+<SP>
+<SPEAKER>Laus.</SPEAKER>
+<L>Well let me make my Will, since Love must dye,</L>
+<L>And leave to every one a Legacy:</L>
+<L>This Dart I give&mdash;</L>
+<L>To those that are Ambitious of a Name,</L>
+<L>And fall in Love with such a Jilt as Fame;</L>
+<L>This tipt with Gold to Sages on the Bench</L>
+<L>Who have&mdash;</L>
+<L>One Eye for Bribery, t'other for a Wench.</L>
+<L>This Wicked one that at the Pulpit Drives</L>
+<L>To Priests, who Love good Livings, hate good Lives,</L>
+<L>And send you all to Heaven by your Wives;</L>
+<L>This Matrimonial Dart, that shames the Giver,</L>
+<L>To Marry'd Folks, the worst of all my Quiver,</L>
+<L>My Wealth to Poets, thrift to Eldest Sons,</L>
+<L>My Truth to Courtiers, Chastity to Nuns.</L>
+<L>My Wantonness I do bequeath in Plenty,</L>
+<L>To all the Women in the World of Twenty,</L>
+<L>My Eyes to Alchymists, my Brains to Schools,</L>
+<L>Scorn to the Brave, and all my Love to Fools.</L>
+<STAGE>[Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Craes.</SPEAKER>
+<L>What say you now? How feel you now your self?</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>Just like a Man fast ty'd upon the Rack,</L>
+<L>When, feeling the fierce pain too great to bear,</L>
+<L>Starts up and stretching every Nerve about him,</L>
+<L>Expands his Joynts, and loosens all his Bands,</L>
+<L>As threads of Flax are driv'n before the Flame&mdash;</L>
+<L>Now mighty Love, I will despise the Nets,</L>
+<L>And like the hunted Deer, rush through the Thicket</L>
+<L>That once I fear'd, and hung by ev'ry Bough&mdash;</L>
+</SP>
+<SP>
+<SPEAKER>Craes.</SPEAKER>
+<L>&mdash;Bravely resolv'd and like the Godlike <HI>Cyrus.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>&mdash;Hence, hence my Torment&mdash;All fond thoughts of Love</L>
+<L>Away, and vanish into slender Air,</L>
+<L>And from this time, let Pity and Revenge</L>
+<L>Fill up my tortured Bosom in its stead&mdash;</L>
+<L>Release the Prince&mdash;<HI>Panthea,</HI> take the Man</L>
+<L>You Love&mdash;Quick, not one word of thanks, for I</L>
+<L>Deserve none&mdash;But be sure you Charm him, hold him</L>
+<L>Till he's Immortal made in your Embraces&mdash;</L>
+<L>Haste, <HI>Abradatas</HI>&mdash;Thou shalt dearly pay</L>
+<L>For all the Pleasures of this long'd for Night&mdash;</L>
+<L>To Morrow I will Summon thee like Fate</L>
+<L>Soft slumbering in <HI>Panthea</HI>'s Arms.</L>
+<L><HI>Abra.</HI> And I,</L>
+<L><PB N="44" REF="27">
+Arm'd with the Thoughts, will meet thee like a God,</L>
+<L>Fir'd with each Kisses heat, that thou shalt blush</L>
+<L>To see what Beauties happiest Man can do.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>Ye Gods! To Morrow! Did I say to Morrow?</L>
+<L>To day, this hour, a Moment is too long&mdash;</L>
+<L>He goes just now to ravish all those Beauties,</L>
+<L>To ransack so much Joys, compar'd to which</L>
+<L>Heav'ns store is all but nigardly compos'd&mdash;</L>
+<L>Away, away&mdash;I'll overtake thee else,</L>
+<L>Swift as the Winds that drive behind thy Back.</L>
+</SP>
+<STAGE>Re-enter to them <HI>Craesus.</HI></STAGE>
+<SP>
+<SPEAKER>Craes.</SPEAKER>
+<L><HI>O Cyrus,</HI> your sad <HI>Craesus</HI> Daughter's Dead.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>Dead is she then. Poor Innocent <HI>Lausaria!</HI></L>
+<L>But hold, I have more griefs to spend for thee</L>
+<L>Hereafter&mdash;</L>
+</SP>
+<SP>
+<SPEAKER>Panth.</SPEAKER>
+<L>These sad Disasters make me move but flow,</L>
+<L>And stir unwillingly to meet my Joys&mdash;</L>
+<L>I go, but still to pray for <HI>Cyrus</HI> Life&mdash;</L>
+<L>Thou generous, great, unhappy Man, farewell.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>Farewell&mdash;And sinee the Gods have so decreed,</L>
+<L>May this Divorce so happy be to prove</L>
+<L>The last of meetings, and the End of Love.</L>
+</SP>
+<STAGE>[Exe<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">nt severally.</STAGE>
+<TRAILER>Finis Actus Quarti.</TRAILER>
+</DIV2>
+<DIV2 N="5" TYPE="act">
+<DIV3 N="1" TYPE="scene">
+<HEAD>Actus Quintus, SCENA Prima.</HEAD>
+<STAGE>Enter <HI>Thomyris,</HI> Women, Guards, and Soldiers.</STAGE>
+<SP>
+<SPEAKER>Thom</SPEAKER>
+<L>COme, my brave Friends, I see you are resolv'd</L>
+<L>To follow me, and share your Queens worst Fate.</L>
+<L>Remember first who 'tis you go to fight with,</L>
+<L><HI>Cyrus,</HI> a braver Man indeed not lives;</L>
+<L>But likewise call to mind your selves, a Nation</L>
+<L>That all mankind has look'd upon with wonder,</L>
+<L>Envying your State that never yet was Conquer'd;</L>
+<L>But oh my Son! We drop the Precious Minutes&mdash;</L>
+<L>My <HI>Spargepyses</HI> did last night appear</L>
+<L>With the curst Dagger, sticking in his Breast,</L>
+<L>(In the same manner as your Eyes beheld him,</L>
+<L>When <HI>Cyrus</HI> sent the Royal Body home,)</L>
+<L><PB N="45" REF="27">
+Let <HI>Balthazar</HI> still drown in Luxury,</L>
+<L>Devour'd by <HI>Cycophants,</HI> undone by Harlots,</L>
+<L>Whilst with your Aid I act such mighty things,</L>
+<L>As never Woman yet perform'd, nor Man</L>
+<L>Cou'd do.</L>
+</SP>
+<STAGE>Enter to them <HI>Abradatas,</HI> and <HI>Panthea, Hystaspes,</HI> and Guards.</STAGE>
+<SP>
+<SPEAKER>Panth.</SPEAKER>
+<L>O Sacred joy!&mdash;Cou'd I have thought once more</L>
+<L>To kneel before you, and have in these Arms</L>
+<L>The kindest Mother, and the best of Queens?</L>
+</SP>
+<SP>
+<SPEAKER>Abrad.</SPEAKER>
+<L>O blest <HI>Panthea</HI>'s Mother, Godlike <HI>Thomyris!</HI></L>
+</SP>
+<SP>
+<SPEAKER>Thomy.</SPEAKER>
+<L>Rise, dear Children,</L>
+<L>Bend only to the Gods, and not to me,</L>
+<L>To that Ambitious, happy God, who wrested</L>
+<L>This gallant Action from my feeble Arm,</L>
+<L>And only wou'd ingross the glorious Deed.</L>
+</SP>
+<SP>
+<SPEAKER>Panth.</SPEAKER>
+<L>That God was <HI>Cyrus;</HI> who, alas! Tormented</L>
+<L>With Jealousy, the worst of all Loves Tortures,</L>
+<L>Besides the dismal sight of <HI>Cyaxares,</HI></L>
+<L>Dying before his Eyes, slain by the Hand</L>
+<L>Of <HI>Abradatas,</HI> whom of all mankind</L>
+<L>It was expected, he the least should pardon;</L>
+<L>Yet notwithstanding all those fierce assaults</L>
+<L>On his brave mind, to his eternal Fame,</L>
+<L>He has restor'd <HI>Panthea</HI> to her wishes,</L>
+<L>And a lov'd Rival to his Mistress Arms.</L>
+</SP>
+<SP>
+<SPEAKER>Abrad.</SPEAKER>
+<L>But we forget how soon th' assault begins,</L>
+<L>Spite, and ambitious Rage have lent him Wings,</L>
+<L>With which w'are to expect him at our Backs,</L>
+<L>Rushing to overtake us with more speed,</L>
+<L>Than falling Torrents, or the swiftest Tyde.</L>
+</SP>
+<SP>
+<SPEAKER>Hyst.</SPEAKER>
+<L>With <HI>Balthazar</HI> he now intends to fight&mdash;</L>
+<L>Love that so long mis-led his Warlike Genius,</L>
+<L>And turn'd him from the Path of his ripe Glory,</L>
+<L>Having at length o'recome this worst of Foes,</L>
+<L>This Moment he intends to end the War,</L>
+<L>And with quick Marches rouze up the <HI>Assyrians</HI>&mdash;</L>
+<L>I hear him coming: For on this large Plain</L>
+<L>Betwixt both Camps, he forms his mighty Battel.</L>
+</SP>
+<STAGE>[<HI>Cyr.</HI> Trumpets within.</STAGE>
+<SP>
+<SPEAKER>Thomy.</SPEAKER>
+<L>Now, now methinks I feel the noble Fire</L>
+<L>That first inspir'd our Amazonian Chief,</L>
+<L>When like a Star, shot from our Northern Sphere,</L>
+<L>Her Courage ev'ry where like light display'd,</L>
+<L>And gave the World a wonder to all Ages&mdash;</L>
+<L><PB N="46" REF="28">
+Does not this news inspire you Country Men?</L>
+<L>Kindle a Flame through all your Frozen Sinews,</L>
+<L>Which the Sun Beams cou'd never do to <HI>Scythia</HI>&mdash;</L>
+<L>Go, <HI>Abradatas,</HI> mount thy dreadful Chariot,</L>
+<L>Arm'd like the God of Thunder, <HI>Iove</HI> himself,</L>
+<L>Send from the Rage his Lightning, and his Bolts:</L>
+<L>Let the wild Steeds the wing'd Winds out-fly,</L>
+<L>And the sharp hooks like Death <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ow all before thee,</L>
+<L>Whilst their carv'd Limbs, and mangled Bodies drop,</L>
+<L>Like Fields of Corn before the Reapers Hand.</L>
+</SP>
+<SP>
+<SPEAKER>Hyst.</SPEAKER>
+<L>I have Commands to wait you to the Camp,</L>
+<L>Thence to return with all the faithfulst speed,</L>
+<L>And meet my Master in <HI>Bellonias</HI> Arms.</L>
+</SP>
+<SP>
+<SPEAKER>Abrad.</SPEAKER>
+<L>Away, let's rouze the sleepy <HI>Balt<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">az<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">r,</HI></L>
+<L>Fierce as a Lyon, waking to revenge.</L>
+</SP>
+<SP>
+<SPEAKER>Panth.</SPEAKER>
+<L>Come, <HI>Abradatas,</HI> see what Love has for thee,</L>
+<L>Which take as Presents from <HI>Panthea</HI>'s hand;</L>
+<L><HI>Trophies</HI> far Richer then <HI>Vlysses</HI> strove for,</L>
+<L>And when I've seen my <HI>Mars</HI> in his Thron'd Chariot,</L>
+<L>Return I will, and in my Closet kneel,</L>
+<L>And never rise till thou Victorious be,</L>
+<L>Thinking of nothing but the Gods, and thee.</L>
+</SP>
+<SP>
+<SPEAKER>Abrad.</SPEAKER>
+<L>Prepare my Soldiers&mdash;Hear you what he says?</L>
+<L><HI>Panthea</HI> calls, <HI>Panthea</HI> is the Word.</L>
+</SP>
+<STAGE>[Exeunt.</STAGE>
+<STAGE>As they are going off, enter on the other side, <HI>Cyrus, Craesus, Artabasus,</HI>
+Soldiers, Guards, Sound of a March.</STAGE>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>Something, my fellow Soldiers, I would say&mdash;</L>
+<L>The Gods have often prov'd by your success</L>
+<L>That in your Breasts Divinities are stamp'd</L>
+<L>With all their Heav'nly Courages inspir'd;</L>
+<L>The Sword is not so used to cut and slaughter,</L>
+<L>When guided by some sure, and mighty Arm,</L>
+<L>As you to fight and overcome&mdash;I will</L>
+<L>Not boast, nor talk what I have done;</L>
+<L>But let me tell you, I am <HI>Cyrus</HI> still,</L>
+<L><HI>Cyrus,</HI> that will not prize this worthless Life,</L>
+<L>Nor yet refuse to put it in the Scale,</L>
+<L>Weighed with the danger of the meanest Soldier,</L>
+<L>But follow you as well as lead you on,</L>
+<L>There is but this one Battel</L>
+<L>That parts us from the Empire of the World&mdash;</L>
+<L>Who wou'd not venture his last drop of Blood,</L>
+<L><PB N="47" REF="28">
+When this sole Action makes us All, or Nothing;</L>
+<L>This over, we'll to <HI>Babylon</HI> retire,</L>
+<L>Whence as the Hill of all the World, you may</L>
+<L>Behold your several stately Provinces,</L>
+<L>And I the only Man that e'er look'd down</L>
+<L>Upon so many gallant Heroes at</L>
+<L>One time, and blest an Army made of Kings.</L>
+</SP>
+<SP>
+<SPEAKER>Craes.</SPEAKER>
+<L>Haste, for I long to face this Cursed Tyrant,</L>
+<L>'Till he has let out from the Heart of <HI>Craesus</HI></L>
+<L>The Father's Blood, and stab'd the Daughter's Image</L>
+<L>Here in my heart&mdash;She calls on me to go</L>
+<L>And end my Miseries where they first had being.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>O <HI>Craesus</HI> wound her not again, she's here,</L>
+<L>The weight hangs heavier on me than thou seest&mdash;</L>
+<L>Father&mdash;For henceforth thou shalt ever be so,</L>
+<L>Let's have no thought to Day but of Revenge,</L>
+<L>Deaf to the Charms of Grief, and more remorseless</L>
+<L>Than Winds, or hideous Storms, or groaning Earthquakes,</L>
+<L>Hide the least Species of our swelling Griefs,</L>
+<L>As Streams are Coated in a Frosty Night&mdash;</L>
+<L>But after Conquest, like a sudden Thaw,</L>
+<L>We'll melt into a Deluge, and the World</L>
+<L>Shall drown in tears&mdash;The Gods shall wonder at our Sorrows&mdash;</L>
+<L>And for thy Daughter <HI>Babylon</HI> shall Mourn,</L>
+<L>And nod its Spiring Pinacles to th' ground.</L>
+<L>No more shall gaudy Worship fill the Town,</L>
+<L>The Temples with their awful Shrines and Gods</L>
+<L>Shall cast their Crowns and Golden Habits off,</L>
+<L>And in exchange wear Rags and Ashes on</L>
+<L>Their Heads&mdash;Then she shall have a Monument</L>
+<L>Shall stop the Sun to cast his wondering Eye,</L>
+<L>Astonish'd at the height, the vastness, and</L>
+<L>The Richness of it&mdash;My Treasure, nay the Worlds</L>
+<L>Huge Mass shall all be melted to an Urn,</L>
+<L>And the proud Greatness of <HI>Massolus</HI> Tomb,</L>
+<L>With those vast Pyramids by Hebrew Slaves</L>
+<L>Built to the Skye, shall all be Dwarfs beneath it&mdash;</L>
+<L>This shall the Gods and I bequeath to thy <HI>Lausaria.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Craes.</SPEAKER>
+<L>On then, thou Glorious Conqueror&mdash;</L>
+<L>Fate like a Cloud hangs o're th' <HI>Assyrians</HI> heads,</L>
+<L>The God whom all the World with dread admires,</L>
+<L>The <HI>Hebrews</HI> Worship, and th' <HI>Egyptians</HI> fear,</L>
+<L>Has call'd thee by a Miracle to be</L>
+<L>The King of this Great Empire, and the World.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>If the wise God shew ought of me, declare it.</L>
+</SP>
+<SP>
+<SPEAKER>Craes.</SPEAKER>
+<L>Last Night the Drunken <HI>Ba<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">thazar</HI> Carous'd</L>
+<L><PB N="48" REF="29">
+With all his vicious Concubines about him,</L>
+<L>And Beardless Minions, far more lewd than Women;</L>
+<L>Then in a Pride he took the Holy Treasure</L>
+<L>Brought from the wondrous Fane of <HI>Solomon,</HI></L>
+<L>And in the Sacred Cups made impure Healths</L>
+<L>Go round, and drank to th' Immortality</L>
+<L>Of their proud King, who had in spight of Heav'n,</L>
+<L>And its scorn'd Power committed such a Rape</L>
+<L>Upon the Richest Shrine of all the World.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>What but the wrath of Heaven, and dreadful Ruine</L>
+<L>Cou'd follow such a Sacriledge!</L>
+</SP>
+<SP>
+<SPEAKER>Craes.</SPEAKER>
+<L>This horrid Deed drew awful Thunder from</L>
+<L>Th' impatient hand of the wrong'd Deity,</L>
+<L>Whilst straight a dreadful Clap was hear'd, and Lightning</L>
+<L>With a fierce Rage struck through their guilty Eyes,</L>
+<L>And on a sudden snatch'd away the Flames</L>
+<L>That gave the Tapers light, then in thick Darkness</L>
+<L>The horrid sounds of dying groans ascended,</L>
+<L>And dismal Voices pierc'd the trembling Earth,</L>
+<L>Whilst straight a yet more strange and dreadful Scene disclos'd<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"></L>
+<L>A Bloody Hand appear'd upon the Wall,</L>
+<L>With a bright Bracelet set with flaming Stars,</L>
+<L>Dazeling the Eyes of all th' astonish'd Crowd,</L>
+<L>Then with a Finger which distill'd warm Gore,</L>
+<L>The God wrote Words in Characters of <HI>Hebrew,</HI></L>
+<L>Which by a Wise Religious Captive of</L>
+<L>That Nation, was Interpreted of <HI>Cyrus,</HI></L>
+<L>That you should be the Assertor of his God,</L>
+<L>Who gave <HI>Assyria</HI> to the <HI>Medes</HI> and <HI>Persians.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>O my dark Soul! Is there a Mighty God!</L>
+<L>(As sure there must) in whose admir'd Belief</L>
+<L>My Mother's Breasts ne're Nurs'd my Infancy,</L>
+<L>Whose Being was before all Beings else,</L>
+<L>Who is the Source, Beginning, and the End</L>
+<L>Of all, yet has no Source, Original,</L>
+<L>Nor Ending, but art that of which is all</L>
+<L>Compos'd, and yet art still the same, and not</L>
+<L>The less, nor greater&mdash;If then such thou art,</L>
+<L>O help me, guide me by thy Sacred Power</L>
+<L>To be the Man this Miracle has meant.</L>
+</SP>
+<STAGE>Enter to them <HI>Hystaspes,</HI> and Guards.</STAGE>
+<SP>
+<SPEAKER>Hystasp.</SPEAKER>
+<L>Make ready, Sir, th' <HI>Assyrians</HI> are approaching,</L>
+<L>Pusht on at length by your indulgent Fate,</L>
+<L><PB N="49" REF="29">
+To a desparing Courage&mdash;Fierce <HI>Thomyris</HI></L>
+<L>And <HI>Balthazar</HI> are joyn'd&mdash;And <HI>Abradatas</HI></L>
+<L>Sits in his Chariots, midst a thousand Deaths;</L>
+<L>He, with five hundred of those hooked Waggons</L>
+<L>Protects the Right Wing of the Tyrant's Army,</L>
+<L>And <HI>Thomyris</HI> with all her of Strength the Left&mdash;</L>
+<L>But Oh! Had you then seen <HI>Panthea</HI>'s Courage,</L>
+<L>You cou'd not blame the Fates to be divided,</L>
+<L>How to bestow this mighty Victory;</L>
+<L>Whether to her, as Challeng'd by such Virtue,</L>
+<L>Or Crown your Brave, and still Triumphant Brow.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>What sayst&mdash;My Soul stands listning at my Ears,</L>
+<L>And fain I wou'd hear something of <HI>Panthea.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Hyst.</SPEAKER>
+<L>Fierce <HI>Abradatas</HI> she her self saw mounted,</L>
+<L>Clad in an Armour far more Rich and Noble,</L>
+<L>Than that which <HI>Vulcan</HI> made the God of War,</L>
+<L>Which the Skill'd Workman hammer'd from pure Gold,</L>
+<L>And ev'ry joint with Diamond Stars had nail'd.</L>
+<L>'Twere long to tell you how much breath she sigh'd,</L>
+<L>The thousand Tears she shed for grief, and joy;</L>
+<L>'Till the shril Trumpets call'd him swift away,</L>
+<L>O Then she rais'd he<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> tender voice more Charming,</L>
+<L>And more provoking than the Wars loud Musick;</L>
+<L>Clasp'd her soft Hands about the guilded Spokes,</L>
+<L>And kiss'd the Chariot Wheels;</L>
+<L>The fiery Steeds, as if then slash'd with Lightning,</L>
+<L>Upon a sudden started from her hold,</L>
+<L>Swift as an Arrow from a <HI>Scythian</HI> Bow,</L>
+<L>And left her senseless, clinging to the ground.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>Enough, th'ast said too much&mdash;Sound, Sound a Charge,</L>
+<L>I'll shut my loitering Soul close in her Home,</L>
+<L>That she shall never have the power to send</L>
+<STAGE>[Charge sounds.</STAGE>
+<L>One Truant Thought abroad, not the least glance,</L>
+<L>Or secret with af<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">er forbidden Love.</L>
+</SP>
+<SP>
+<SPEAKER>Craes.</SPEAKER>
+<L>Lead us to Victory that the Gods have shewn thee.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>Yes <HI>Craesus,</HI> yes&mdash;We come, dear slaughter'd Unkle,</L>
+<L>To give an Army to thy Funeral Pomp&mdash;</L>
+<L>See, see, thy Daughter's Spirit, like <HI>Iove</HI>'s Eagle,</L>
+<L>Sails o're our heads with Lawrels in her Beak&mdash;</L>
+<L>Now, now's the Sign to draw your Conquering Swords,</L>
+<L><HI>Cy'axares,</HI> and <HI>Lausaria</HI> are the Words.</L>
+</SP>
+<STAGE>[Exeunt O<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">nes.</STAGE>
+<STAGE><PB N="50" REF="30">
+Scene draws, and discovers a great Battle between both Armies: <HI>Cyrus,
+Balthazar,</HI> and <HI>Thomyris</HI> seen Fighting at their Heads. Battle over,
+a Retreat is sounded, Scene shuts, and then Enter <HI>Cyrus, Craesus,</HI> and Guards.</STAGE>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>Now, <HI>Craesus,</HI> the <HI>Assyrian</HI> War is over</L>
+<L>And <HI>Ba<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">th<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">zar</HI> is Slain&mdash;Thou seest him drop,</L>
+<L>Whilst his Blasphemous Soul burst by my side,&mdash;</L>
+<L>His Spirit groan'd, and gave a horrid fi<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ght&mdash;</L>
+<L>This was the bloodiest Battle to our Foes,</L>
+<L>That e'er my Sword yet won.</L>
+</SP>
+<STAGE><HI>Re-enter</HI> Artabasus.</STAGE>
+<SP>
+<SPEAKER>Arta.</SPEAKER>
+<L>Greatest of Kings,</L>
+<L>Immortal may'st thou live, and ever Reign&mdash;</L>
+<L>More than two hundred thousand of your Foes</L>
+<L>Lie breathless in the Field&mdash;None but a few</L>
+<L>With the bold <HI>Scythians</HI> make a quick Retreat.</L>
+</SP>
+<STAGE>Re-enter and <HI>Hystaspes.</HI></STAGE>
+<SP>
+<SPEAKER>Craes.</SPEAKER>
+<L>Kings, Senates, and the World obey thee, <HI>Cyrus;</HI></L>
+<L>For lo the Gods did never at a time</L>
+<L>Heap so much Greatness on one Man before.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>What is become of Valiant <HI>Abradatas?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Hyst.</SPEAKER>
+<L>Something to his misfortune we must owe:</L>
+<L>For with a Drove of hooked Chariots which</L>
+<L>He led, he first began a dreadful Slaughter,</L>
+<L>'Till the fierce Steeds, stung with the pointed Darts,</L>
+<L>Started, recoil'd, and overthrew their Guiders,</L>
+<L>Then, like a Whirlwind, broke through their own Ranks,</L>
+<L>And where 'twas thickest, mow'd a dismal passage,</L>
+<L>That the sad spaces midst their numbers look'd</L>
+<L>Like empty Ridings through a Forrest cut,</L>
+<L>So <HI>Abradatas</HI> is by all Men thought</L>
+<L>From his fierce Chariot to be hurl'd and torn.</L>
+</SP>
+<SP>
+<PB N="51" REF="30">
+<SPEAKER>Craes.</SPEAKER>
+<L>But the Brave <HI>Scythian</HI> Queen retreating fights<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"></L>
+<L>And whilst the <HI>Homotyms</HI> are eager in</L>
+<L>Pursuit, as a Stout Lyon that is hunted,</L>
+<L>Turns eager on the nearest of his Foes,</L>
+<L>And tears 'em piece meal, then retreats again;</L>
+<L>So in their flight, the <HI>Scythians</HI> send huge showers</L>
+<L>Of Mortal Arrows on the Conquerours Faces.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>My self will haste with the <HI>Cadusian</HI> Archers,</L>
+<L>And gaul their backs with much more dreadful Flights.</L>
+</SP>
+<SP>
+<SPEAKER>Craes.</SPEAKER>
+<L>Mingle not Sir, in the unruly Chace&mdash;</L>
+<L>We beg you wou'd retire into the Camp,</L>
+<L>Your Wounds, and Labour ask some quick relief.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>Fly then, <HI>Hystaspes,</HI> to the <HI>Homotyms,</HI></L>
+<L>Bid 'em their vain and eager Chace give o're;</L>
+<L>In the mean time, you valiant <HI>Craesus</HI> may</L>
+<L>Wheel round about 'em with your <HI>Lydian</HI> Horse,</L>
+<L>And beat 'em in their Front.</L>
+</SP>
+<SP>
+<SPEAKER>Craes.</SPEAKER>
+<L>It shall be done&mdash;</L>
+<L>Expect my Death, or the brave Queen a Prisoner.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>Attend me but at Distance for a Moment.</L>
+<STAGE>[<HI>Exeunt</HI> Cr<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">sus <HI>and</HI> Hystaspes.</STAGE>
+<L>What is it to rule the World,</L>
+<L>To hold the wealth, and sumpter of the Earth,</L>
+<L>And find it all but Dreams of Happiness,</L>
+<L>As I do?</L>
+<STAGE>[Going off, <HI>Lausaria</HI>'s Ghost rises to <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">im.</STAGE>
+<L>What object does my flattering Eyes present!</L>
+<L>The <HI>Lydian</HI> Princess, ha, it is! tis she,</L>
+<L>Or else some Star, the darling of the Sky,</L>
+<L>Dropt from the Gods, and Pattern'd in her Likeness!&mdash;</L>
+<L>But ha! if this shoud prove a Dream,</L>
+<L>Thou look'st quite thro' me, speak, if thou art <HI>Lausaria!</HI></L>
+</SP>
+<SP>
+<SPEAKER>Ghost.</SPEAKER>
+<L>O <HI>Cyrus,</HI> I am come from far to blame thee,</L>
+<L>To chide my Love, and stand 'twixt him and Ruin.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>Thou art alive then! ha! and thou canst talk too&mdash;</L>
+<L>O sacred joy!&mdash;Who told me thou wert dead?</L>
+<L>&mdash;Thou look'st thin, pale and wan,</L>
+<L>Give me thy cold fair hand in mine, and let me lead thee</L>
+<L>From the cold Mansion of the Grave;</L>
+<L>To a warm <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">oom in <HI>Cyrus</HI> Breast for ever.</L>
+<L>Where is thy hand?&mdash;Ha! Thou art fled, and hid</L>
+<L>As in a <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> thou dazelest every Sense,</L>
+<L>And mak's<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">hy <HI>Cyrus</HI> giddy to behold thee.</L>
+</SP>
+<SP>
+<SPEAKER>Ghost&punc;</SPEAKER>
+<L><HI>Ah!</HI> Cyrus,</L>
+<L>Thou may'st as well grasp Water, or fleet Air,</L>
+<L><PB N="52" REF="31">
+As think of touching my Immortal Shadow&mdash;</L>
+<L>I am the wandering Spirit of <HI>Lausaria,</HI></L>
+<L>That still dotes on thee in her Solitude;</L>
+<L>So well, that when thou think'st but of <HI>Panthea,</HI></L>
+<L>By secret Charms thou call'st me from my quiet,</L>
+<L>And givest my Soul no rest below, nor Peace above.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>A cold and sudden damp sits on me round,</L>
+<L>Thy Eyes run pointed with thy wrongs, and shoot</L>
+<L>Quite through my Heart, as thy keen Spirit with horrour</L>
+<L>Pierces the ground, and glances through the Air&mdash;</L>
+<L>Thou strikest a terrour trembling in my Blood,</L>
+<L>And I with torture find thou art a thing</L>
+<L>Immortal&mdash;</L>
+<L>Speak, awful Shade, what brings thee from thy Rest?</L>
+</SP>
+<SP>
+<SPEAKER>Ghost.</SPEAKER>
+<L>When I had pass'd the Lake that leads to Bliss,</L>
+<L>(Bliss so unjustly term'd by Mortals here,)</L>
+<L>To those dull Shades, <HI>Elizium</HI> fondly call'd,</L>
+<L>Where the sad Scene gives mournful Lovers Souls</L>
+<L>A Melancholly Prospect of Delight;</L>
+<L>I heard the Powers of Hell</L>
+<L>Call for the Fates to cut thy thread before 'em&mdash;</L>
+<L>What shall be done, said they, with this Great Man,</L>
+<L>This Barbarous Hunter of the World, and Love?</L>
+<L>Let us ordain that by a Woman's Hand</L>
+<L>His blood be in a fatal moment spilt,</L>
+<L>So to Revenge the Sex's wrongs at once&mdash;</L>
+<L>Haste from the Field&mdash;Beware th' inrag'd <HI>Thomyris</HI>&mdash;</L>
+<L>Come, follow me, I'll shew thee such a Sight</L>
+<L>Shall Cure thy Breast of all Love's Wounds for ever.</L>
+<L>Hold, stay, and take my Ghost along with thee.</L>
+</SP>
+<SP>
+<SPEAKER>Ghost.</SPEAKER>
+<L>O Live, I charge you&mdash;</L>
+<L>Live happy as a God on Earth, live ever;</L>
+<L>Each drop of Blood you drain from that brave Breast,</L>
+<L>You double all the Pangs upon my Soul&mdash;</L>
+<L>O think that on your Joys depend my Bliss,</L>
+<L>Your Torment is my Hell, your Happiness</L>
+<L>My blest Elisium&mdash;Follow me, I Charm you,</L>
+<L>By all the pity once you pay'd my Love,</L>
+<L>By all the Love you owe my Memory.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>Lead then the way, thou brightest Angel Guide,</L>
+<L>Conduct me quickly to thy blest Abode.</L>
+</SP>
+<SP>
+<SPEAKER>Ghost.</SPEAKER>
+<L>The Minute's come&mdash;This way, thou gallant <HI>Cyrus.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>I follow thee, and if my Body proves too heavy,</L>
+<L>I'll throw it off, and mount all Soul to reach thee.</L>
+</SP>
+</DIV3>
+<DIV3 N="2" TYPE="scene">
+<PB N="53" REF="31">
+<STAGE>Scene Draws, and discovers <HI>Panthea</HI> with her Women weeping o're the mangled
+Body of <HI>Abradatas,</HI> whose Limbs she had seemingly fix'd to his Body,
+a Dagger in her hand.</STAGE>
+<SP>
+<SPEAKER>Panth.</SPEAKER>
+<L>I charge you live&mdash;Live to excuse my Fault,</L>
+<L>And sooth the sorrows of the sad <HI>Thomyris;</HI></L>
+<L>The Story of our Deaths told from your Mouths,</L>
+<L>May from her tender Eyes draw floods of Tears,</L>
+<L>But the sad Object would have kill'd her quite&mdash;</L>
+<L>Likewise relate the dismal Scene to <HI>Cyrus;</HI></L>
+<L>Tell it with all the pity that in grief</L>
+<L>Can be express'd&mdash;Be sure t'adorn our Ends</L>
+<L>As sumptuously with Sorrow as you can&mdash;</L>
+<L>But oh! you need not&mdash;Tell 'em as they were,</L>
+<L>And your sad tun'd Description will surpass</L>
+<L>All Fiction, Painting, or dumb shew of Horrour</L>
+<L>That ever Ears yet heard, or Eyes beheld&mdash;</L>
+</SP>
+<SP>
+<SPEAKER>Wom.</SPEAKER>
+<L>O cast that Weapon from you&mdash;</L>
+</SP>
+<SP>
+<SPEAKER>Panth.</SPEAKER>
+<L>Vex me not&mdash;</L>
+<L>What, can't I be obey'd in Death&mdash;Now, now,</L>
+<L>My dearest Partner of my Soul, I come:</L>
+<L>Look back as thou art in the Milky Road to Bliss,</L>
+<L>And take thy lov'd <HI>Panthea</HI> with thee.</L>
+</SP>
+<SP>
+<SPEAKER>Wom.</SPEAKER>
+<L>Still you advance that dreadful Weapon.</L>
+</SP>
+<SP>
+<SPEAKER>Panth.</SPEAKER>
+<L>No more&mdash;These Hands and Feet which the sharp Scythes</L>
+<L>Mow'd from thy lovely Body, I have try'd</L>
+<L>A thousand times to joyn 'em with my Kisses,</L>
+<L>But 'tis in vain&mdash;O you Immortal Powers!</L>
+<L>Cannot these Lips so Deify'd, restore</L>
+<L>One hour of Life&mdash;See what Idolaters</L>
+<L>You are, false Men!&mdash;You Lying Prophets say</L>
+<L>A Kiss, a Sigh, a Tear from those you Love,</L>
+<L>Can fetch you from the Grave to Life again,</L>
+<L>And make a God of the least Doting Swain.</L>
+<L>But I have groan'd ten thousand Sighs and Wishes,</L>
+<L>And bath'd his Body all, all o're in Tears,</L>
+<L>Yet find 'em all too little; one small drop</L>
+<L>Of Rain is worth an Ocean of these Pearls;</L>
+<L>That gives the sweets that from the Roses flow,</L>
+<L>And makes the Violets and the Lillies grow.</L>
+<L><PB N="54" REF="32">
+Yet I cannot restore one Finger back</L>
+<L>To Life, unless my heart's warm blood can do it.</L>
+</SP>
+<STAGE><HI>Panthea</HI> Stabs her self, and just as she gave the Wound <HI>Cyrus</HI> Enters, led in by
+the Ghost, the Ghost vanisheth.</STAGE>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>Ah! cruel, spiteful&mdash;yet thou lovely Spirit</L>
+<L>Coud'st thou not bring me one half moment sooner?</L>
+<L>Give me this Dagger, and I'll plunge it in my Breast,</L>
+<L>Wipe off the stain of thy most precious Blood,</L>
+<L>And reak it in my own; revenge thy wrongs,</L>
+<L>And please <HI>Lausaria</HI>'s Ghost, whose shadow haunts me&mdash;</L>
+</SP>
+<SP>
+<SPEAKER>Panth.</SPEAKER>
+<L>This Weapon I'll not part with&mdash;</L>
+<L>This Glorious Relique here that sets me free;</L>
+<L>Thus I will hold it, brandish'd up on high,</L>
+<L>And die with the lov'd Passport in my Hand&mdash;</L>
+<L>Live, happy, <HI>Cyrus,</HI> may these ills forewarn thee</L>
+<L>To shun the fatal Deed of crossing Love,</L>
+<L>Love that will ne'er be stop'd, but have its Course,</L>
+<L>Or overflow to drowning with the least resistance.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>O forgive me, blest <HI>Panthea;</HI></L>
+<L>And the same time thou leav'st thy lovely Body,</L>
+<L>Forgive my passion too, and carry with thee</L>
+<L>My Pardon to be Seal'd by all the Gods,</L>
+<L>And by the Soul of thy departed Love,</L>
+<L>And tell him how I took his hand in mine,</L>
+<L>Wash'd with thy Tears, and bath'd in my Repentance,</L>
+<L>And put it to my eager Lips, and ask'd</L>
+<L>His pardon thus&mdash;Ha! Horror! Worse than Horror.</L>
+</SP>
+<STAGE>[<HI>Cyrus</HI> taking <HI>Abradata's</HI> hand, offering to put
+it to his mouth, it comes from the Body;
+<HI>Panthea</HI> places it again.]</STAGE>
+<SP>
+<SPEAKER>Panth.</SPEAKER>
+<L>What have you done? Why touch you him so rudely?</L>
+<L>Give me this Hand back to my Lips again&mdash;</L>
+<L>These marvellous Limbs with industry I sought</L>
+<L>Amidst an hundred heaps of mangl'd Bodies,</L>
+<L>And pick'd and cull'd 'em, as is sifted Gold</L>
+<L>Parted from loads of common Dross;</L>
+<L>And plac'd each torn-off Member in its proper state,</L>
+<L>Just as you see&mdash;Forbear again to touch him,</L>
+<L><PB N="55" REF="32">
+For they are ev'ry one alike dismember'd,</L>
+<L>Mow'd by the Hooks of his own dreadful Chariot,</L>
+<L>Fierce as the Horses wildest rage cou'd g<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">iude 'em&mdash;</L>
+<L>I feel Death's giddy vapour in my Eyes,</L>
+<L>And covers all my Senses on a suddain&mdash;</L>
+<L>Lay me&mdash;O lay me gently by my Lord.</L>
+</SP>
+<STAGE>[Dies.</STAGE>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>Die all that's good&mdash;die Sacred Love and Friendship.</L>
+<L>Let none presume to say that Virtue lives,</L>
+<L>That Beauty gilds the World, now she is dead.</L>
+</SP>
+<STAGE>Enter to <HI>Cyrus, Thomyris,</HI> Women and Soldiers, as persu'd.</STAGE>
+<SP>
+<SPEAKER>Thom.</SPEAKER>
+<L>There, there's the dreadful summ of all our Woes;</L>
+<L>Look there, my Friends&mdash;What, <HI>Cyrus</HI> Mourning o're 'em!</L>
+<L>Run, run, with speed, and snatch his hated Life&mdash;</L>
+<L>Quick, e're your Foes that have you in the Chase,</L>
+<L>Prevent you&mdash;Hold&mdash;And shall 'a dye by Slaves!&mdash;</L>
+<L>There is some Pity to his Vertue due.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>Ha! Am I then surpriz'd&mdash;I was to blame&mdash;</L>
+<L>Though I abhor to live, yet loth I am</L>
+<L>To dye by Treachery, and Cowards Hands.</L>
+</SP>
+<SP>
+<SPEAKER>Thom.</SPEAKER>
+<L>Look, <HI>Cyrus,</HI> look, I am thy Mortallest Foe&mdash;</L>
+<L>Thou dwell'st o're the sad Ruines t<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ere, which I</L>
+<L>Look on with Horrour, at so great a distance&mdash;</L>
+<L>Do, glut thy self&mdash;Call likewise to thy Mind,</L>
+<L>My <HI>Spargepyses</HI> Blood, and think the Fates</L>
+<L>Are gentle still&mdash;Bend, bend your Bows,</L>
+<L>Draw every one a Dart up to the Head,</L>
+<L>And send a thousand winged Deaths to seize him&mdash;</L>
+<L>Yet hold&mdash;My self the glorious deed will do.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>Thou dar'st not, sure!&mdash;Naught but thy VVomans Spleen</L>
+<L>Cou'd be Seducer to such base Revenge.</L>
+</SP>
+<SP>
+<SPEAKER>Thom.</SPEAKER>
+<L>Talkest thou!&mdash;Now to thy Heart this pointed Justice.</L>
+<STAGE>[As she is ready to shoot at him, <HI>Lausaria</HI>'s Ghost rises up betwixt them,
+and stands before <HI>Cyrus,</HI> and Faces <HI>Thomyris.</HI></STAGE>
+<L>Hah! sure there is something there controls my Hand?</L>
+<L>Or I am lost in a wild Maze of Fancy&mdash;</L>
+<L>What shining Form is that so fills my Eye!</L>
+<L><HI>Cyrus,</HI> thy Guardian Genius 'tis protects thee,</L>
+<L>That with her tender Wings Roosts o're thy Head,</L>
+<L>And with a Look shoots awful Brightness through me,</L>
+<L><PB N="56" REF="33">
+And Fetters every thing that's brave within me&mdash;</L>
+<L>My Sinews slack, and Nature at this Sight</L>
+<L>Shrinks back to her first feeble Infancy.</L>
+</SP>
+<SP>
+<SPEAKER>Sold.</SPEAKER>
+<L>You stand amaz'd&mdash;Let's kill him whilst we may.</L>
+</SP>
+<SP>
+<SPEAKER>Thom.</SPEAKER>
+<L>Hold, Villains&mdash;What, through her Immortal Body!</L>
+<L>Your Darts would all turn Heads against your selves;</L>
+<L>You might as soon touch the bright shining Sun,</L>
+<L>Or fix your Arrows in the Marble Skye&mdash;</L>
+<L>Loose, loose your Strings, and let fall all your Bows,</L>
+<L>And to appease that Goddess, Worship him,</L>
+<L>That all the World is destin'd to Obey.</L>
+</SP>
+<STAGE>Re-enter <HI>Craesus, Hystaspes, Gobrias,</HI> and <HI>Artabasus,</HI> shouting,
+Ghost vanishes.</STAGE>
+<SP>
+<SPEAKER>Craes.</SPEAKER>
+<L>He lives, is safe; thanks to the Immortal Powers.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>I charge you on your Lives, none touch the Queen,</L>
+<L>And hurt no man but such as shall resist.</L>
+</SP>
+<SP>
+<SPEAKER>Thom.</SPEAKER>
+<L>'Twas never known, that any <HI>Scythian</HI> yet</L>
+<L>Did yield his Person, or his Weapon up.</L>
+<L>Then, <HI>Cyrus,</HI> since great <HI>Baltbazar</HI> is slain,</L>
+<L>And all our Lives too mean to adorn thy Triumph:</L>
+<L>O give, without denyal, to these Tears,</L>
+<L><HI>Panthea</HI>'s and her <HI>Ahradata</HI>'s Bodies:</L>
+<L>Then undisturb'd, let us forsake this place,</L>
+<L>Of all the World the fatallest to <HI>Thomyris.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>'Tis granted, and you may with safety go&mdash;</L>
+<L><HI>Cyrus</HI> can do no less to such a Queen,</L>
+<L>Whose brave and generous Pity sav'd his Life&mdash;</L>
+<L>But begs that you would make the Town your way;</L>
+<L>My Crowns, my happiness, and Life to me</L>
+<L>Is not so dear as what you carry with you&mdash;</L>
+<L>There you shall see what mourning <HI>Babylon</HI></L>
+<L>Can do; the Fires, the Temples, and the Urns</L>
+<L>That shall adorn these Lovers Funerals;</L>
+<L><HI>Cyprus,</HI> instead of Lawrel, Wreaths shall bind</L>
+<L>The Conquerours Brows, and Groans instead of Shouts</L>
+<L>shall fill the Streets, the Houses Lamentations;</L>
+<L>All the vast City shall indead appear,</L>
+<L>But one wide spatious Room fill'd full of Sorrow.</L>
+</SP>
+<SP>
+<SPEAKER>Thomy.</SPEAKER>
+<L>No, no, cover the Bodies from their Eyes,</L>
+<L>Then in a Mourning Chariot place the Bridgroom,</L>
+<L>And his pale Bride so leaning on his Cheek&mdash;</L>
+<L><HI>Cyrus,</HI> farewell&mdash;And may'st thou live to be</L>
+<L>Unconquer'd still, and great as Creetan <HI>Iove</HI>&mdash;</L>
+<L><PB N="57" REF="33">
+Beat a dead March&mdash;Let Trumpets hoarsest sound</L>
+<L>Fright Birds of softer Musick from the Air,</L>
+<L>And naught be heard but Horrour and despair.</L>
+</SP>
+<STAGE>[Exeunt <HI>Thomyris,</HI> and all her Party, bearing away the Bodies of <HI>Panthea,</HI>
+and <HI>Abradatas.</HI> Dead March Sounds.</STAGE>
+<SP>
+<SPEAKER>Hyst.</SPEAKER>
+<L>Live happy as a God, and o're past miseries</L>
+<L>Rejoyce&mdash;Fate is your slave, and puts and End</L>
+<L>To all your toyls this day&mdash;The conquered Globe</L>
+<L>Has not that Monster now that from its Chains</L>
+<L>Durst stir to interrupt your sacred Bliss&mdash;</L>
+<L>Go, for new Pleasures Court you ev'ry where,</L>
+<L>And having spread your Laws o're all the Earth,</L>
+<L>And settl'd first the Business of the World,</L>
+<L>Think then to make your <HI>Median</HI> Kingdoms happy,</L>
+<L>And there in Person wed the fair <HI>Mandana,</HI></L>
+<L>Whose Youth and Beauty shall like buds increase,</L>
+<L>Still grow upon you, and with fresher Charms</L>
+<L>Supply your Soul, and make your joys Immortal.</L>
+</SP>
+<SP>
+<SPEAKER>Cyr.</SPEAKER>
+<L>Come, Fellow Souldiers, let's to <HI>Babylon,</HI></L>
+<L>Empress of Nations, and great Queen of Cities&mdash;</L>
+<L>Make haste, my Friends, and share the World with me,</L>
+<L>All shall have some&mdash;Amongst the meanest here</L>
+<L>I'll throw Rewards they shall not live to spend,</L>
+<L>And scatter Provinces as thick as Drachma's&mdash;</L>
+<L>First with <HI>Lausaria</HI>'s Funerals we'll begin;</L>
+<L>Three Days with strictest Mourning shall be kept,</L>
+<L>And all things else forgotten for that time;</L>
+<L>These Hands her fragrant Funeral Pile shall burn,</L>
+<L>And Princes shall Officiate at her Urn&mdash;</L>
+<L>I Invite you all to come and weep with me,</L>
+<L>O're this rare Miracle of Constancy;</L>
+<L>Let the loud War to gentler Griefs remove,</L>
+<L>And mourn with us the Tragedy of Love.</L>
+</SP>
+<STAGE>[Exeunt Omnes.</STAGE>
+</DIV3>
+</DIV2>
+</DIV1>
+<DIV1 TYPE="epilogue">
+<PB REF="34">
+<HEAD>EPILOGUE,
+Spoken by the Boy and Girl, by way of
+Dialogue.</HEAD>
+<STAGE>Curtain falls.</STAGE>
+<SP>
+<SPEAKER>Girl.</SPEAKER>
+<L>HOLD, hold, is the Play done?</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>Ay, pretty Rogue.</L>
+</SP>
+<SP>
+<SPEAKER>Girl.</SPEAKER>
+<L>What a New <HI>PLAY</HI> without an Epilogue?</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L><HI>Lausaria</HI>'s dead, <HI>Panthea</HI> too is slain,</L>
+<L>And wou'd you have dead Bodies rise again?</L>
+<L>That were indeed a very pretty Fact,</L>
+<L>You had enough of that in the First Act.</L>
+</SP>
+<SP>
+<SPEAKER>Girl.</SPEAKER>
+<L>Why, what d' you make of Mr. <HI>Betterton?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>The Curtain's dropt, and he is glad he's gone;</L>
+<L>The Poet too, has loaded him so sore,</L>
+<L>He scare has breath enough for one word more.</L>
+<L>Since most of the Old Actors then are kill'd,</L>
+<L>And the Great Hero has forsook the Field;</L>
+<L>What if we did; to cover such a Blot,</L>
+<L>Address our selves toth' Audience?</L>
+</SP>
+<SP>
+<SPEAKER>Girl.</SPEAKER>
+<L>That's well thought,</L>
+<L>And since we must say something, pray begin,</L>
+<L>You to the Ladies, I the Gentlemen.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>Ladies, if you will to our <HI>PLAY</HI> be kind,</L>
+<L>May every one, their dear last Wishes find;</L>
+<L><PB REF="34">
+May Virgins those enjoy they value best,</L>
+<L>And Wives their Husbands kindness to the last.</L>
+<L>At <HI>Bassert</HI> may your Good Luck so continue,</L>
+<L>And win the Gamester's Heart, as well as Guiney.</L>
+</SP>
+<SP>
+<SPEAKER>Girl.</SPEAKER>
+<L>And Gentlemen, if you will like our <HI>PLAY,</HI></L>
+<L>May this good Fate attend you ev'ry day.</L>
+<L>Let no rude <HI>Boreas,</HI> from his Boisterous Cell,</L>
+<L>Prophane the Curl that on your Wigg sits well.</L>
+<L>Nor<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">brush the Sacred Powder from the Cloaths</L>
+<L>Of two such Sights of dainty dapl'd <HI>Beaux.</HI></L>
+<L>May nothing bring you out of humour hither,</L>
+<L>Nor Hackney-Coach be wanting in wet weather.</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>Ladies, w'are almost sure of your good Natures,</L>
+<L>'Twere Cruel to deny such Little Creatures.</L>
+</SP>
+<SP>
+<SPEAKER>Girl.</SPEAKER>
+<L>And if the Men mislike, or make a puther,</L>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<L>Evads we'll fit 'em for't one way or other.</L>
+<L>'Tis a wise Child that knows its Father, Sirs</L>
+<L>For ought we know, we may be some of yours,</L>
+<L>Wee'll come and lay our selves before your Doors.</L>
+</SP>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

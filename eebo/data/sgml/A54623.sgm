@@ -1,0 +1,282 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD EEBOPROOF 2.0//EN">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-08-28</DATE>
+<RESPSTMT>
+<NAME>Mona Logarbo</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>*Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate.
+*Checked for GROUP tags.
+*Proofed title page(s).
+*Checked ^s.
+*Checked I / J.
+*Checked oe for ae ligatures.
+*Reviewed structure.
+Changed structure of text thus: removed DIV4s and made "questions" and "answers" each DIV3s, giving both N values.
+Removed text of title page on PB REF="8" since the text intself is not included in this work.  Placed end of DIV1 after PB REF="8".
+*Checked placement and completeness of PBs.
+*Checked for duplicate pages.
+*Checked for missing pages.
+*Checked spacing of foreign GAPs.
+*Checked for damage GAPs, #s, @s,  --s, &mdash;, q;s, <ABBR>Esq</ABBR> and UNCLEARs.
+*Corrected $s.
+*Checked for &amp;cs with incorrect spacing.
+*Checked for OPENERs, SALUTEs, CLOSERs, DATEs, DATELINEs, SIGNEDs,  TRAILERs, BYLINEs, etc.
+Replaced BYLINE with HEAD TYPE="sub" on PB REF="2" N="157".
+*Checked for TABLEs and LISTs.
+*Checked for LBs.
+*Checked for startqs, endqs and Qs.
+*Checked proofsheets and made corrections.
+DONE 08-28-03.</ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="A54623">
+<STC T="W">P1935</STC>
+<BIBNO T="oclc">12363539</BIBNO>
+<VID>60336</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1">
+<PB REF="1">
+<P>SIR WILLIAM PETTY HIS Quantulumcunque CONCERNING MONEY.</P>
+<P><HI>To the Lord Marquess of Halyfax,</HI> ANNO 1682.</P>
+<P>LONDON:</P>
+<P>Printed for A. and J. CHURCHILL, at the Black Swan, in Paternoster Row, 1695.</P>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="treatise">
+<PB REF="2">
+<PB N="157" REF="2">
+<HEAD>Sir William Pettys <HI>Quantulumcunque</HI> concerning Money, 1682.</HEAD>
+<HEAD TYPE="sub">To the Lord Marquess of <HI>Halyfax.</HI></HEAD>
+<P>SUPPOSE that <HI>20s.</HI> of new mill'd Money doth weigh 4 Ounces <HI>Troy,</HI> according to Custom or Statute. Suppose that <HI>20s.</HI> of old <HI>Eliz.</HI> and <HI>James's</HI> Money, which ought also to weigh 4 Ounces <HI>Troy,</HI> doth weigh 3 Ounces <HI>Troy;</HI> and very variously between 3 and 4 Ounces, <HI>viz.</HI> none under 3, and none full 4.</P>
+<P>Suppose that much of the new mill'd regular Money is carried into the <HI>East-Indies,</HI> but none of the old light and unequal Money.</P>
+<DIV2 TYPE="questions and answers">
+<HEAD>QUESTIONS.</HEAD>
+<DIV3 N="1" TYPE="question">
+<P>Qu. 1. <HI>Whether the old unequal Money ought to be new Coined, and brought to an equality?</HI></P>
+</DIV3>
+<DIV3 N="1" TYPE="answer">
+<P><HI>Answ.</HI> It ought: Because Money made of Gold and Silver is the best Rule of Commerce, and must therefore be equal, or else it is no Rule; and consequently no Money, and but bare Metal which was Money before it was worn and abused into Inequality.</P>
+</DIV3>
+<DIV3 N="2" TYPE="question">
+<P>Qu. 2. <HI>At whose Charge?</HI></P>
+</DIV3>
+<DIV3 N="2" TYPE="answer">
+<P><HI>Answ.</HI> At the States Charge, as now it is: Because the Owner was no cause of its Inequality, but the States neglect in (not) preventing and punishing such Abuses, which are remedied by new Coinage.</P>
+</DIV3>
+<DIV3 N="3" TYPE="question">
+<PB N="158" REF="3">
+<P>Qu. 3. <HI>Of what weight and fineness ought the new Shil|ing to be?</HI></P>
+</DIV3>
+<DIV3 N="3" TYPE="answer">
+<P><HI>Answ.</HI> Of the same with the other present new Money, and which the old was of, when it was new: Because all must be like, all according to the Statute; and all fit to pay ancient Debts, according to what was really lent.</P>
+</DIV3>
+<DIV3 N="4" TYPE="question">
+<P>Qu. 4. <HI>Suppose 20s. of old Money may make but 18s. of new, who shall bear the loss of the two shillings?</HI></P>
+</DIV3>
+<DIV3 N="4" TYPE="answer">
+<P><HI>Answ.</HI> Not the States: Because men would clip their own Money: But the owner himself must bear the loss, because he might have refused light and defective Money, or put it away in time; it being sufficient that he shall have new regular beautiful Money for his old unequal Money, at the States Charge, Ounce for Ounce weight.<NOTE N="*" PLACE="foot"><P>This is a controverted question, but on the whole we have no difficulty in dissenting from the opinion of Petty. Coins are to be regarded rather as the property of the public than of individuals. They pass freely from hand to hand among all classes; and their weight is diminished by the wear they undergo, and sometimes also (as was especially the case in 1690) by the fraudulent practices of clippers and others. But it would be most unjust to make the pre|sent holders of Coins responsible for their wear during the previous twenty or thirty years, or for the depredations practised upon them in the teeth of the law by knaves and swindlers. These are losses which the Coins have incurred in the public service, and they should consequently be borne by the public.</P>
+<P>It is true that in carrying out this principle considerable difficul|ties have sometimes had to be encountered. Previously to the great recoinage of 1696-99, the practice of clipping the Coin was carried to a great height. And it was contended that if a Proclamation were issued, calling in the Coins in circulation by a certain day that they might be exchanged for new Coins of full weight, a corresponding premium would be offered to the clippers to redouble their activity in the interval. And as this was the course adopted on the occasion referred to, the anticipated result was realized to the fullest extent. It is believed, indeed, that the Coins lost as much by clipping between the period when it was announced that they would be called in and exchanged for new Coins, and their exchange for the same, as they had done in the course of the preceding ten or twelve years. (Leake's English Money, 2nd ed. p. 391, &amp;c.)</P>
+<P>But it is very improbable that a loss of this sort will have to be again made up, inasmuch as milled Coins, which are now exclusively in use, are little susceptible of being clipped. And it may further be observed, that the loss experienced in 1696-99, from the circumstances already mentioned, might have been in great measure obviated had Government taken upon itself the responsibility of the Coinage, and quietly prepared a supply of Coins at the Mint sufficient to enable them at once to call down those in circulation.</P>
+<P>The recoinage of 1696-99, notwithstanding the great expense and difficulty with which it was effected, proved on the whole a failure. This, however, was not a consequence of anything immediately connected with the Coinage, but is entirely to be ascribed, as will be afterwards seen, to the over-valuation of Gold as compared with Silver.</P></NOTE></P>
+</DIV3>
+<DIV3 N="5" TYPE="question">
+<PB N="159" REF="3">
+<P>Qu. 5. <HI>After this Reformation of Coin, Will more Silver be carried out of</HI> England, <HI>suppose into the</HI> East-Indies, <HI>then before; and to the Damage of</HI> England?</P>
+</DIV3>
+<DIV3 N="5" TYPE="answer">
+<P><HI>Answ.</HI> Somewhat more: But none to the Damage of <HI>England, Eo Nomine;</HI> but rather to its Profit: Because the Merchant will be considered for the Manufacture of the new Money; besides the Metal of it, as he only was when he carried out <HI>Spanish</HI> Reals.</P>
+</DIV3>
+<DIV3 N="6" TYPE="question">
+<P>Qu. 6. <HI>Whereas the Merchant carries Scarlet and Silver to the</HI> Indies, <HI>will he not now carry only the new coined Silver?</HI></P>
+</DIV3>
+<DIV3 N="6" TYPE="answer">
+<P><HI>Answ.</HI> The Merchant will buy as much Scarlet as he can for 100 new Shillings, and then consider whether he shall get more Silk in the <HI>Indies</HI> for that Scarlet than for another 100 of the like Shillings: And, according to this Conjecture, he will carry Scarlet or Shillings <HI>in specie,</HI> or part one, part the other, if he be in doubt.</P>
+</DIV3>
+<DIV3 N="7" TYPE="question">
+<P>Qu. 7. <HI>But will not</HI> England <HI>be impoverished by Mer|chants carrying out the said</HI> 100 <HI>Shillings?</HI></P>
+</DIV3>
+<DIV3 N="7" TYPE="answer">
+<P><HI>Answ.</HI> No, if he brings home for them as much Silk as will yield above 100 Shillings (perhaps 200 Shillings) in <HI>Spain,</HI> and then bring the same 200 into <HI>England:</HI> Or, if he bring home as much Pepper as an <HI>English</HI> man will
+<PB N="160" REF="4">
+give him 200 of the like Shillings for. So the Merchant and <HI>England</HI> shall both Gain by Exporting the 100 Shillings.</P>
+</DIV3>
+<DIV3 N="8" TYPE="question">
+<P>Qu. 8. <HI>But if the new Shilling were but</HI> &frac34;<HI>ths of the weight as formerly, then the Merchant would not meddle with them at all, and so secure this fear of impoverish|ment?</HI></P>
+</DIV3>
+<DIV3 N="8" TYPE="answer">
+<P><HI>Answ.</HI> The Merchant would Export then, just as before; Only he will give but &frac34; so much Pepper, or other <HI>Indian</HI> Goods, for the new retrenched Shilling as he did for the old: And would accept in <HI>India</HI> &frac34; as much Pepper as he formerly had for the old: And consequently there would be no difference, but among a few such Fools as take Money by its name, and not by its weight and fine|ness.</P>
+</DIV3>
+<DIV3 N="9" TYPE="question">
+<P>Qu. 9. <HI>If a Shilling was by new Coinage reduced to</HI> &frac34; <HI>of its present weight, should we not thereby have</HI> &frac13; <HI>more of Money then now we have, and consequently be so much the richer?</HI></P>
+</DIV3>
+<DIV3 N="9" TYPE="answer">
+<P><HI>Ans.</HI> You would indeed have &frac13; part more of the new christned Shillings; but not an Ounce more of Silver, nor Money; nor could you get an Ounce more of Forreign Commodities for all your new multiplied Money than before: Nor even of any Domestick Commodities; but perhaps a little at first from the few Fools above men|tioned. As for Instance; Suppose you buy a Silver Vessel from a Goldsmith weighing 20 Ounces, at <HI>6s. per</HI> Ounce, making 6 Pounds or 24 Ounces of Coined Silver; now suppose that the said 6 Pounds were reduced from weighing 24 Ounces to weigh but 18 Ounces upon the new Coinage; but be still called 6 Pound even by the King's Proclamation; Can it be imagined that the Gold|smith will give his Vessel weighing 20 Ounces of wrought for 18 Ounces of unwrought Silver? For the Workman|ship of Money is of little value. Now the Absurdity is the same in all other Commodities, though not so demon|strable
+<PB N="161" REF="4">
+as in a Commodity whose Materials are the same with Money.</P>
+</DIV3>
+<DIV3 N="10" TYPE="question">
+<P>Qu. 10. <HI>Cannot Authority Command that men should give as much Commodity for the new retrencht Money, as for the old which weighed</HI> &frac13; <HI>part more?</HI></P>
+</DIV3>
+<DIV3 N="10" TYPE="answer">
+<P><HI>Answ.</HI> Then the effect of such Authority would also be to take away &frac13; of all mens Goods, which are Commodities beyond Seas, and give the same to Forreigners, who would have them for &frac34; of the usual quantity of Silver: And the same Authority would take away from the Creditor &frac13; of the Money which was due before the Proclamation.</P>
+</DIV3>
+<DIV3 N="11" TYPE="question">
+<P>Qu. 11. <HI>Whereas you suppose retrenching</HI> &frac14; <HI>in the new Coinage; Suppose it was but</HI> 1/10, <HI>how would the matter be then?</HI></P>
+</DIV3>
+<DIV3 N="11" TYPE="answer">
+<P><HI>Answ.</HI> Just the same: For <HI>Magis et minus non mutant speciem:</HI> But it were better you supposed that one Shil|ling were to be taken for 10 or 20, then the Absurdity would be it self so visible, as to need no such Demonstra|tion, as is needful in such small matters as Common Sense cannot discern: For if the wealth of the Nation could be <HI>decupled</HI> by a Proclamation, it were strange that such Proclamations have not long since been made by our Governours.</P>
+</DIV3>
+<DIV3 N="12" TYPE="question">
+<P>Qu. 12. <HI>Will not some men, having occasions to buy Commodities in Forreign Parts, carry out all Money, and so not vend or Export our own Commodities at all?</HI></P>
+</DIV3>
+<DIV3 N="12" TYPE="answer">
+<P><HI>Answ.</HI> If some <HI>English</HI> Merchants should be so impro|vident, yet the Forreign Merchants would buy up such <HI>English</HI> Commodities as they wanted, with Money brought into <HI>England</HI> from their respective Countries, or with such Commodities as <HI>England</HI> likes better than Money. For the vending of <HI>English</HI> Commodities doth not depend upon any other thing, but the use and need which For|reigners have of them. But were it not a folly for an <HI>English</HI> man not to carry Lead into <HI>Turkey:</HI> but go thither with Money, in his Ballast, and so loose the Freight
+<PB N="162" REF="5">
+of the Lead, which he might sell there; And that a Ship should come from <HI>Turkey</HI> with Money, in her Ballast also, to fetch Lead from <HI>England</HI> which might have been carried at first by the <HI>English</HI> Ship? No: The art of a Merchant is to consider all those Matters, so as no Prince's Proclamation concerning the Weight and Deno|minations of Coins, signifies any thing to Forreigners when they know it, nor to his own Subjects <HI>pro futuro,</HI> what e're Disturbances it may make amongst them <HI>pro proete|rito.</HI> We say again: it were better for a Prince owing <HI>20s.</HI> to say he will pay but <HI>15s.</HI> than disguishing his own particular purpose, to say that all Landlords shall hence|forth take <HI>15s.</HI> Rent for <HI>20s.</HI> due to them by their Tenants Leases; and that he who hath lent a <HI>100l.</HI> on the <HI>Monday,</HI> (the Proclamation of Retrenchment coming out on <HI>Tuesday</HI>) may be repaid on <HI>Wednesday</HI> with &frac34; or <HI>75l.</HI> of the very Money he lent two days before.</P>
+</DIV3>
+<DIV3 N="13" TYPE="question">
+<P>Qu. 13. <HI>Why is not our old worn unequal Money new Coined and equallized?</HI></P>
+</DIV3>
+<DIV3 N="13" TYPE="answer">
+<P><HI>Answ.</HI> There may be many weak Reasons for it; But the only good one which I know, is, that bad and unequal Money may prevent hoarding, whereas weighty, fine and beautiful Money doth encourage it in some few timorous Persons, but not in the Body of Trading Men. Upon the account of Beauty our <HI>Britannia</HI> Half-pence were almost all horded as Medals till they grew common; For if but 100 of those pieces had been Coined, they would for their Work and Rarity have been worth above <HI>5s.</HI> each, which for their Matter are not worth that Half-penny they pass for: For in them, <HI>Materiam superabat Opus.</HI></P>
+</DIV3>
+<DIV3 N="14" TYPE="question">
+<P>Qu. 14. <HI>Why hath Money been raised, or retrencht, or imbased by many wise States, and so often?</HI></P>
+</DIV3>
+<DIV3 N="14" TYPE="answer">
+<P><HI>Answ.</HI> When any State doth these things, they are like Bankrupt Merchants, who Compound for their Debts by paying <HI>16s. 12s,</HI> or <HI>10s.</HI> in the pound; Or forcing their Creditors to take off their Goods at much above the
+<PB N="163" REF="5">
+Market rates. And the same State might as well have paid but &frac34; of what they ow'd, as to retrench their Money in General to &frac34; of the known weight and fineness. And these practices have been compassed by Bankers and Cashiers, for oblique Considerations, from the Favourites of such Princes and States.</P>
+</DIV3>
+<DIV3 N="15" TYPE="question">
+<P>Qu. 15. <HI>It is then the Honour of</HI> England <HI>that no such Tricks have been practiced, though in the greatest Streights that ever that State hath been in.</HI></P>
+</DIV3>
+<DIV3 N="15" TYPE="answer">
+<P><HI>Answ.</HI> It hath been their Wisdom, and consequently their Honour to keep up a Rule and Measure of Trade amongst themselves, and with all Nations.</P>
+</DIV3>
+<DIV3 N="16" TYPE="question">
+<P>Qu. 16. <HI>But is there no Case wherein Money may be justly and honourably raised?</HI></P>
+</DIV3>
+<DIV3 N="16" TYPE="answer">
+<P><HI>Answ.</HI> Yes, in order to Regulation and Equalizing of Species of Coins; As when two Species of one Weight and Fineness are taken at different Rates, then the one may be raised or the other depressed: But this must be rated by the Estimation of the whole World as near as it can be known, and not by any private Nation; and the like may be done between Gold and Silver.</P>
+</DIV3>
+<DIV3 N="17" TYPE="question">
+<P>Qu. 17. <HI>What do you think of the rising or falling of the Price of Lands, from this following Instance,</HI> viz. <HI>A piece of Land was sold</HI> 60 <HI>Years ago for</HI> 1000l. <HI>that is for a</HI> 1000 Jacobusses; <HI>and the same Land is now sold for 1000l. or</HI> 1000 <HI>Guineas, and the</HI> Guinea <HI>is but</HI> &frac56; <HI>the weight of the Jacobus. Is the Land cheaper now than</HI> 60 <HI>Years ago?</HI></P>
+</DIV3>
+<DIV3 N="17" TYPE="answer">
+<P><HI>Answ.</HI> It looks like a Demonstration that it is: Yet if Gold be not Money, but a Commodity next like to Money, and that Silver be only Money; then we must see whether 1000 <HI>Jacobusses</HI> would then purchase no more Silver than 1000 <HI>Guineas</HI> will do now: For if so, the Land was here|tofore and now sold for the same Quantity of Money, though not of Gold; and is neither risen nor fallen by what hath been instanced.</P>
+</DIV3>
+<DIV3 N="18" TYPE="question">
+<PB N="164" REF="6">
+<P>Qu. 18. <HI>What is the difference between retrenching or raising of Money, and imbasing the Metal of the same, as by mixing Copper with Silver?</HI></P>
+</DIV3>
+<DIV3 N="18" TYPE="answer">
+<P><HI>Answ.</HI> The first is the better of the two, if such Mixture be of no use in other things: For if <HI>20s.</HI> which contains 4 Ounces of Silver, should be reduced to 3 Ounces of Silver, it is better than to add one Ounce of Copper to the same, in order to make 4 seeming Ounces as before: For if you come to want the said 3 Ounces of Silver mixt with Copper, you must lose the Copper, upon the Test, and the Charge of Refining also, which will amount to above 4 <HI>per Cent.</HI></P>
+</DIV3>
+<DIV3 N="19" TYPE="question">
+<P>Qu. 19. <HI>What do you object against small Silver Money; as against Single Pence, Two Pences, &amp;c.?</HI></P>
+</DIV3>
+<DIV3 N="19" TYPE="answer">
+<P><HI>Answ.</HI> That the Coinage of small Pieces would be very chargeable, and the Pieces themselves apt to be lost, and more liable to wearing; for little of our old small Money is now to be seen, and our Groats are worn away to Three half-pence (worth) in Metal.</P>
+</DIV3>
+<DIV3 N="20" TYPE="question">
+<P>Qu. 20. <HI>What do you say of Money made wholly of base Metal, such as Farthings, &amp;c.?</HI></P>
+</DIV3>
+<DIV3 N="20" TYPE="answer">
+<P><HI>Answ.</HI> That the want of Materials ought to be made up by the fineness of Coinage, to very near the intrinsick Value; or what is gained by the Want of either, to be part of the King's Revenue.</P>
+</DIV3>
+<DIV3 N="21" TYPE="question">
+<P>Qu. 21. <HI>Which is best, Copper or Tin, for this purpose?</HI></P>
+</DIV3>
+<DIV3 N="21" TYPE="answer">
+<P><HI>Answ.</HI> Copper: Because it is capable of the most imita|ble and durable Coinage: though the Copper be Forreign, and Tin a Native Commodity. For suppose Copper and Tin of the same Value in <HI>England;</HI> yet if 100 Weight of Tin sent to <HI>Turkey</HI> will fetch home as much Silk as will fetch above 100 of Copper from <HI>Sweden,</HI> in such case the Difference between Native and Forreign is nothing.</P>
+</DIV3>
+<DIV3 N="22" TYPE="question">
+<P>Qu. 22. <HI>This Doctrine may extend to a free exportation of Money and Bullion, which is against our Laws: Are our Laws not good?</HI></P>
+</DIV3>
+<DIV3 N="22" TYPE="answer">
+<PB N="165" REF="6">
+<P><HI>Answ.</HI> Perhaps they are against the Laws of Nature, and also impracticable: For we see that the Countries which abound with Money and all other Commodities, have followed no such Laws: And contrarywise, that the Countries which have forbid these Exportations under the highest Penalties, are very destitute both of Money and Merchandize.</P>
+</DIV3>
+<DIV3 N="23" TYPE="question">
+<P>Qu. 23. <HI>Is not a Country the poorer for having less Money?</HI></P>
+</DIV3>
+<DIV3 N="23" TYPE="answer">
+<P><HI>Answ.</HI> Not always: For as the most thriving Men keep little or no Money by them, but turn and wind it into various Commodities to their great Profit, so may the whole Nation also; which is but many particular Men united.</P>
+</DIV3>
+<DIV3 N="24" TYPE="question">
+<P>Qu. 24. <HI>May a Nation, suppose</HI> England, <HI>have too much Money?</HI></P>
+</DIV3>
+<DIV3 N="24" TYPE="answer">
+<P><HI>Answ.</HI> Yes: As a particular Merchant may have too much Money, I mean coined Money, by him.</P>
+</DIV3>
+<DIV3 N="25" TYPE="question">
+<P>Qu. 25. <HI>Is there any way to know how much Money is sufficient for any Nation?</HI></P>
+</DIV3>
+<DIV3 N="25" TYPE="answer">
+<P><HI>Answ.</HI> I think it may pretty well be guessed at; <HI>viz.</HI> I think that so much Money as will pay half a Years Rent for all the Lands of <HI>England,</HI> and a Quarters Rent of the Houseing, and a Weeks Expence of all the People, and about a Quarter of the Value of all the exported Com|modities, is sufficient for that purpose. Now when the States will cause these things to be computed, and the Quantity of their Coins to be known, which the new Coining of their old Money will best do, then it may also be known whether we have too much or too little Money.</P>
+</DIV3>
+<DIV3 N="26" TYPE="question">
+<P>Qu. 26. <HI>What Remedy is there if we have too little Money?</HI></P>
+</DIV3>
+<DIV3 N="26" TYPE="answer">
+<P><HI>Answ.</HI> We must erect a Bank, which well computed, doth almost double the Effect of our coined Money: And we have in <HI>England</HI> Materials for a Bank which shall furnish Stock enough to drive the Trade of the whole Commercial World.</P>
+</DIV3>
+<DIV3 N="27" TYPE="question">
+<PB N="166" REF="7">
+<P>Qu. 27. <HI>What if we have too much Coin?</HI></P>
+</DIV3>
+<DIV3 N="27" TYPE="answer">
+<P><HI>Answ.</HI> We may melt down the heaviest, and turn it into the Splendor of Plate, in Vessels or Utensils of Gold and Silver; or send it out, as a Commodity, where the same is wanting or desired: or let it out at Interest, where Interest is high.</P>
+</DIV3>
+<DIV3 N="28" TYPE="question">
+<P>Qu. 28. <HI>What is Interest or Use-Money?</HI></P>
+</DIV3>
+<DIV3 N="28" TYPE="answer">
+<P><HI>Answ.</HI> A Reward for forbearing the use of your own Money for a Term of Time agreed upon, whatsoever need your self may have of it in the mean while.</P>
+</DIV3>
+<DIV3 N="29" TYPE="question">
+<P>Qu. 29. <HI>What is Exchange?</HI></P>
+</DIV3>
+<DIV3 N="29" TYPE="answer">
+<P><HI>Answ.</HI> Local Interest, or a Reward given for having your Money at such a Place where you most need the use of it.</P>
+</DIV3>
+<DIV3 N="30" TYPE="question">
+<P>Qu. 30. <HI>What is the Trade of a Banker?</HI></P>
+</DIV3>
+<DIV3 N="30" TYPE="answer">
+<P><HI>Answ.</HI> Buying and selling of Interest and Exchange: Who is honest only upon the Penalty of losing a benefi|cial Trade, founded upon a good Opinion of the World, which is called Credit.</P>
+</DIV3>
+<DIV3 N="31" TYPE="question">
+<P>Qu. 31. <HI>You were speaking of base Money and Far|things, which are generally below the intrinsick Value, and therefore ought not to be permitted to increase</HI> ad infinitum. <HI>Is there any way to know how many were enough?</HI></P>
+</DIV3>
+<DIV3 N="31" TYPE="answer">
+<P><HI>Answ.</HI> I think there is: <HI>viz.</HI> Allowing about <HI>12d.</HI> in Farthings to every Family: So as if there be a Million of Families in <HI>England</HI> (as I think there be) then about <HI>50,000l.</HI> in Farthings would suffice for Change; and if such Farthings were but &frac15;th below the intrinsick Value, the Nation would pay but <HI>10,000l.</HI> for this Convenience: But if this way of Families be not Limitation enough, you may help it by considering the smallest Piece of Silver Money current in the Nation; which how much lesser it is, by so much lesser may the Number of Farthings be: The use of Farthings being but to make up Payments in Silver, and to adjust Accompts: To which end of adjust|ing Accompts let me add, that if your old defective Farthings were cryed down to 5 a Penny, you might keep
+<PB N="167" REF="7">
+all Accompts in a way of Decimal Arithmetick, which hath been long desired for the case and certainty of Accompts.</P>
+</DIV3>
+<DIV3 N="32" TYPE="question">
+<P>Qu. 32. <HI>What do you think of our Laws for limiting Interest?</HI></P>
+</DIV3>
+<DIV3 N="32" TYPE="answer">
+<P><HI>Answ.</HI> The same as of limiting the Exportation of Money, and there may be as well Laws for limiting Exchange also: For Interest always carrieth with it an Ensurance <HI>proe|mium,</HI> which is very casual, besides that of Forbearance: For Instance, in <HI>Ireland</HI> there was a time when Land (the highest security) was sold for 2 Years Purchase: It was then naturally just to take 20, 30, or 40 <HI>per Cent.</HI> Interest; whereas there the Law allows but 10. And since that time, Land being risen to 12 Years Purchase, responsible Men will not give above 8. And insolvent Men will offer <HI>Cent. per Cent.</HI> notwithstanding the Law. Again, suppose a Man hath <HI>100l.</HI> of Land worth 20 Years Purchase, and another <HI>100l.</HI> in Houses, worth 12 Years Purchase, and an other <HI>100l.</HI> in Shipping worth 2 Years Purchase; and another in Horses, worth 6 Months Pur|chase; Is it not manifest he must have a greater Yearly <HI>proemium</HI> for lending his House than his Land, his Ship than his House, and his Horse than his Ship? For if his Horse be worth <HI>100l.</HI> he cannot hire him out for less than <HI>10s. per diem,</HI> whereas the Land will not yield a Groat for the same time; and these Hires are the same with Interest.</P>
+</DIV3>
+<TRAILER>FINIS.</TRAILER>
+</DIV2>
+<PB REF="8">
+<PB REF="8">
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

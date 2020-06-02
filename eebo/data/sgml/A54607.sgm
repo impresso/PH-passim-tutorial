@@ -1,0 +1,1503 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD EEBOPROOF 2.0//EN">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-08-11</DATE>
+<RESPSTMT>
+<NAME>Mona Logarbo</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>*Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate.
+*Checked for GROUP tags.
+*Proofed title page(s).
+*Checked ^s.
+*Checked I / J.
+*Checked oe for ae ligatures.
+*Reviewed structure.
+Within BODY of text, removed separate DIVs from TABLES, including these structures under P.
+Made postscript on PB REF="24" N="44" part of BACK matter.
+*Checked placement and completeness of PBs.
+*Checked for duplicate pages.
+*Checked for missing pages.
+*Checked spacing of foreign GAPs.
+*Checked for damage GAPs, #s, @s, &mdash;, --s, <ABBR>Esq</ABBR> and UNCLEARs.
+*Corrected $word$s and $s by inserting the appropriate character(s) and / or GAP DESC(s).
+*Checked for &amp;cs with incorrect spacing.
+*Checked for OPENERs, SALUTEs, CLOSERs, DATEs, DATELINEs, SIGNEDs, BYLINEs, TRAILERs, etc.
+*Checked for TABLEs and LISTs.
+*Checked for LBs.
+*Checked for startqs, endqs and Qs.
+*Checked proofsheets and made corrections.
+DONE 08-11-03.</ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="A54607">
+<STC T="W">P1915</STC>
+<BIBNO T="oclc">12358869</BIBNO>
+<VID>60186</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1">
+<PB REF="1">
+<P>ANOTHER
+ESSAY
+IN
+Political Arithmetick,
+Concerning the Growth of the
+CITY
+OF
+LONDON:
+WITH THE
+Measures, Periods, Causes,
+and Consequences there|of.
+1682.</P>
+<P>By Sir <HI>William Petty,</HI> Fellow of the
+<HI>ROYAL SOCIETY.</HI></P>
+<P><HI>LONDON:</HI>
+Printed by <HI>H. H.</HI> for <HI>Mark Pardoe,</HI> at the <HI>Black
+Raven&punc;</HI> over against <HI>Bedford-House,</HI> in the <HI>Strand.</HI> 1683.</P>
+</DIV1>
+<DIV1 TYPE="summary of text">
+<PB REF="2">
+<PB REF="2">
+<HEAD>The Principal Points of this
+Discourse.</HEAD>
+<LIST>
+<ITEM>1. THAT <HI>London</HI> doubles in
+Forty Years, and all <HI>England</HI>
+in Three hundred and sixty Years.</ITEM>
+<ITEM>2. That there be, <HI>Anno</HI> 1682. about
+Six hundred and seventy Thousand
+Souls in <HI>London,</HI> and about seven
+Millions, four hundred Thousand in all
+<HI>England</HI> and <HI>Wales;</HI> and about twen|ty
+eight Millions of Acres of Land.</ITEM>
+<ITEM>3. That the Periods of doubling the
+People, are found to be in all Degrees,
+from between Ten, to Twelve hundred
+Years.</ITEM>
+<ITEM>4. That the Growth of <HI>London</HI> must
+stop of its self, before the Year 1800.</ITEM>
+<ITEM>5. A Table helping to understand the
+<HI>Scriptures,</HI> concerning the Number of
+People mentioned in them.</ITEM>
+<ITEM><PB REF="3">6. That the <HI>World</HI> will be fully Peo|pled
+within the next Two Thousand
+Years.</ITEM>
+<ITEM>7. Twelve Touch-stones, whereby to
+Try any Proposal, pretended for the
+Publick Good.</ITEM>
+<ITEM>8. How the City of <HI>London</HI> may be
+made (Morally speaking) <HI>Invincible.</HI></ITEM>
+<ITEM>9. An Help to Vniformity in Reli|gion.</ITEM>
+<ITEM>10. That 'tis possible to increase
+Mankind by Generation four times
+more than at present.</ITEM>
+<ITEM>11. The Plagues of <HI>London</HI> is the
+Chief Impediment and Objection a|gainst
+the Growth of the City.</ITEM>
+<ITEM>12. That an Exact Account of the
+People is Necessary in this Matter.</ITEM>
+</LIST>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="text">
+<PB N="5" REF="3">
+<HEAD>Of the Growth of the CITY of
+LONDON: And of the
+Measures, Periods, Causes,
+and Consequences thereof.</HEAD>
+<P>BY the City of <HI>London,</HI><NOTE PLACE="marg">What is meant by <HI>London.</HI></NOTE>
+we mean the Housing
+within the Walls of
+the Old City, with the Liberties
+thereof, <HI>Westminster,</HI> the <HI>Burrough of
+Southwark,</HI> and so much of the built
+Ground in <HI>Middlesex</HI> and <HI>Surrey,</HI>
+whose Houses are contiguous unto,
+or within Call of those afore-men|tioned.
+Or else we mean the Hou|sing
+which stand upon the Ninety
+seven Parishes within the Walls of
+<HI>London;</HI> upon the Sixteen Parishes
+next, without them; the Ten Parishes
+of <HI>Westminster,</HI> and the Seven Parishes
+<PB N="6" REF="4">
+without them all; all which One
+hundred and thirty Parishes are com|prehended
+within the Weekly <HI>Bills</HI>
+of <HI>Mortality.</HI></P>
+<P>The Growth of this
+City is Measured,<NOTE PLACE="marg">What is meant by the Growth of <HI>London.</HI></NOTE> 1. By
+the Quantity of Ground,
+or Number of Acres upon which
+it stands. 2. By the Number of
+Houses, as the same appears by the
+Hearth-Books and late <HI>Maps.</HI> 3. By
+the Cubical Content of the said
+Housing. 4. By the Flooring of
+the same. 5. By the Number of Days-work,
+or Charge of Building the
+said Houses. 6. By the Value of
+the said Houses, according to their
+Yearly Rent, and Number of Years
+Purchase. 7. By the Number of In|habitants;
+according to which lat|ter
+sense only, we make our Com|putations
+in this Essay.</P>
+<P>Till a better Rule can be obtain|ed,
+we conceive that the Proportion
+<PB N="7" REF="4">
+of the People may be sufficiently
+Measured by the Proportion of the
+<HI>Burials</HI> in such Years as were neither
+remarkable for extraordinary Health|fulness
+or Sickliness.</P>
+<P>That the City hath In|creased
+in this latter sense,<NOTE PLACE="marg">In what Mea|sures the City hath Increased.</NOTE>
+appears from the Bills of
+<HI>Mortality,</HI> represented in the two
+following Tables, <HI>viz.</HI> One where|of
+is a continuation for Eighteen
+Years, ending 1682, of that Table
+which was Published in the 117<HI>th.
+pag.</HI> of the Book of the Observati|ons
+upon the <HI>London Bills</HI> of <HI>Mor|tality,</HI>
+Printed in the Year 1676.
+The other sheweth what Number of
+People dyed at a <HI>Medium</HI> of two
+Years, indifferently taken, at about
+Twenty Years distance from each
+other.</P>
+<P><PB N="8" REF="5">
+<TABLE>
+<HEAD>The first of the said two Tables.</HEAD>
+<ROW>
+<CELL>An. Dom.</CELL>
+<CELL>97 Parishes.</CELL>
+<CELL>16 Parishes.</CELL>
+<CELL>One Parishes.</CELL>
+<CELL>Buried in all.</CELL>
+<CELL>Besides of the Plague.</CELL>
+<CELL>Christened.</CELL>
+</ROW>
+<ROW>
+<CELL>1665</CELL>
+<CELL>5320</CELL>
+<CELL>12463</CELL>
+<CELL>10925</CELL>
+<CELL>28708</CELL>
+<CELL>68596</CELL>
+<CELL>9967</CELL>
+</ROW>
+<ROW>
+<CELL>1666</CELL>
+<CELL>1689</CELL>
+<CELL>3969</CELL>
+<CELL>5082</CELL>
+<CELL>10740</CELL>
+<CELL>1998</CELL>
+<CELL>8997</CELL>
+</ROW>
+<ROW>
+<CELL>1667</CELL>
+<CELL>7761</CELL>
+<CELL>6405</CELL>
+<CELL>8641</CELL>
+<CELL>15807</CELL>
+<CELL>35</CELL>
+<CELL>10938</CELL>
+</ROW>
+<ROW>
+<CELL>1668</CELL>
+<CELL><GAP DESC="illegible" REASON="missing" EXTENT="1 letter">796</CELL>
+<CELL>6865</CELL>
+<CELL>9603</CELL>
+<CELL>17267</CELL>
+<CELL>14</CELL>
+<CELL>11633</CELL>
+</ROW>
+<ROW>
+<CELL>1669</CELL>
+<CELL>1323</CELL>
+<CELL>7500</CELL>
+<CELL>10440</CELL>
+<CELL>19263</CELL>
+<CELL>3</CELL>
+<CELL>12335</CELL>
+</ROW>
+<ROW>
+<CELL>1670</CELL>
+<CELL>1890</CELL>
+<CELL>7808</CELL>
+<CELL>10500</CELL>
+<CELL>20198</CELL>
+<CELL>&nbsp;</CELL>
+<CELL>11997</CELL>
+</ROW>
+<ROW>
+<CELL>1671</CELL>
+<CELL>1723</CELL>
+<CELL>5938</CELL>
+<CELL>8063</CELL>
+<CELL>15724</CELL>
+<CELL>5</CELL>
+<CELL>12510</CELL>
+</ROW>
+<ROW>
+<CELL>1672</CELL>
+<CELL>2237</CELL>
+<CELL>6788</CELL>
+<CELL>9200</CELL>
+<CELL>18225</CELL>
+<CELL>5</CELL>
+<CELL>12593</CELL>
+</ROW>
+<ROW>
+<CELL>1673</CELL>
+<CELL>2307</CELL>
+<CELL>6302</CELL>
+<CELL>8890</CELL>
+<CELL>17499</CELL>
+<CELL>5</CELL>
+<CELL>11895</CELL>
+</ROW>
+<ROW>
+<CELL>1674</CELL>
+<CELL>2801</CELL>
+<CELL>7522</CELL>
+<CELL>10875</CELL>
+<CELL>21198</CELL>
+<CELL>3</CELL>
+<CELL>11851</CELL>
+</ROW>
+<ROW>
+<CELL>1675</CELL>
+<CELL>2555</CELL>
+<CELL>5986</CELL>
+<CELL>8702</CELL>
+<CELL>17243</CELL>
+<CELL>1</CELL>
+<CELL>11775</CELL>
+</ROW>
+<ROW>
+<CELL>1676</CELL>
+<CELL>2756</CELL>
+<CELL>6508</CELL>
+<CELL>9466</CELL>
+<CELL>18730</CELL>
+<CELL>2</CELL>
+<CELL>12399</CELL>
+</ROW>
+<ROW>
+<CELL>1677</CELL>
+<CELL>2817</CELL>
+<CELL>6632</CELL>
+<CELL>9616</CELL>
+<CELL>19065</CELL>
+<CELL>2</CELL>
+<CELL>12626</CELL>
+</ROW>
+<ROW>
+<CELL>1678</CELL>
+<CELL>3060</CELL>
+<CELL>6705</CELL>
+<CELL>10908</CELL>
+<CELL>20673</CELL>
+<CELL>5</CELL>
+<CELL>12601</CELL>
+</ROW>
+<ROW>
+<CELL>1679</CELL>
+<CELL>3074</CELL>
+<CELL>7481</CELL>
+<CELL>11173</CELL>
+<CELL>21728</CELL>
+<CELL>2</CELL>
+<CELL>12288</CELL>
+</ROW>
+<ROW>
+<CELL>1680</CELL>
+<CELL>3076</CELL>
+<CELL>7066</CELL>
+<CELL>10911</CELL>
+<CELL>21053</CELL>
+<CELL>&nbsp;</CELL>
+<CELL>12747</CELL>
+</ROW>
+<ROW>
+<CELL>1681</CELL>
+<CELL>3669</CELL>
+<CELL>8136</CELL>
+<CELL>12166</CELL>
+<CELL>23971</CELL>
+<CELL>&nbsp;</CELL>
+<CELL>13355</CELL>
+</ROW>
+<ROW>
+<CELL>1682</CELL>
+<CELL>2975</CELL>
+<CELL>7009</CELL>
+<CELL>10707</CELL>
+<CELL>20691</CELL>
+<CELL>&nbsp;</CELL>
+<CELL>12653</CELL>
+</ROW>
+</TABLE></P>
+<P>According to which latter Table,
+there dyed as followeth.</P>
+<P><PB N="9" REF="5">
+<TABLE>
+<HEAD>The latter of tie said two Tables.</HEAD>
+<HEAD>There dyed in London,
+At a Medium between the Years.</HEAD>
+<ROW>
+<CELL>1604 and 1605&mdash;</CELL>
+<CELL>5135.</CELL>
+<CELL>A.</CELL>
+</ROW>
+<ROW>
+<CELL>1621 and 1622&mdash;</CELL>
+<CELL>8527.</CELL>
+<CELL>B.</CELL>
+</ROW>
+<ROW>
+<CELL>1641 and 1642&mdash;</CELL>
+<CELL>11883.</CELL>
+<CELL>C.</CELL>
+</ROW>
+<ROW>
+<CELL>1661 and 1662&mdash;</CELL>
+<CELL>15148.</CELL>
+<CELL>D.</CELL>
+</ROW>
+<ROW>
+<CELL>1681 and 1682&mdash;</CELL>
+<CELL>22331.</CELL>
+<CELL>E.</CELL>
+</ROW>
+</TABLE></P>
+<P>Wherein Observe, That the Num|ber
+C. is double to A. and 806
+over. That D. is double to B. with|in
+1906. That C and D. is double
+to A. B. within 293. That E. is
+double to C. within 1435. That
+D. and E. is double to B. and C.
+within 3341. And that C. and D.
+and E. are double to A. and B. and
+C. within 1736. And that E. is
+above Quadruple to A. All which
+differences (every way considered)
+do allow the doubling of the Peo|ple
+of <HI>London</HI> in forty Years, to be a
+sufficient estimate thereof in round
+<PB N="10" REF="6">
+Numbers, and without the trouble
+of Fractions. We also say, That
+669930 is near the Number of Peo|ple
+now in <HI>London,</HI> because the Bu|rials
+are 22331. which Multiplyed
+by 30, one dying Yearly out of 30,
+as appears in the 94 <HI>pag.</HI> of the afore|mentioned
+Observations) maketh
+the said Number; and because there
+are 84 Thousand Tenanted Houses
+(as we are Credibly Informed) which
+at <GAP DESC="illegible" EXTENT="1 letter">8 in each, makes. 672 Thousand
+Souls; the said two Accounts differing
+in considerably from each other.</P>
+<P>We have thus pretty well sound
+out in what Number of Years (<HI>viz.</HI>
+in about 40&punc;) that the City of <HI>Lon|don&punc;</HI>
+hath doubled, and the present
+Number of <HI>Inhabitants</HI> to be about
+670 Thousand. We must now also
+endeavour the same for the whole
+<HI>Territory</HI> of <HI>England</HI> and <HI>Wales.</HI> In
+Order whereunto,
+we&punc;</P>
+<P><PB N="11" REF="6">First say,<NOTE PLACE="marg">The People of <HI>London</HI> are a|bout the Ele|venth part of all <HI>England</HI> and <HI>Wales.</HI></NOTE> That the As|sessment
+of <HI>London</HI> is a|bout
+an Eleventh part of
+the whole Territory, and
+therefore that the People
+of the whole may well be Eleven
+times that of <HI>London, viz.</HI><NOTE PLACE="marg">The People of <HI>England</HI> about 7 Millions and 400 Thousand.</NOTE>
+about 7 Millions, 369
+Thousand Souls; with
+which Account that of
+the <HI>Poll-money, Hearth-money,</HI> and
+the Bishops late Numbring of the
+<HI>Communicants,</HI> do pretty well agree;
+wherefore although the said Num|ber
+of 7 Millions, 369 Thousand, be
+not (as it cannot be) a <HI>demonstra|ted
+Truth,</HI> yet it will serve for a good
+<HI>Supposition,</HI> which is as much as we
+want at present.</P>
+<P>As for the time in which the Peo|ple
+double, it is yet more hard to
+be found: For we have good Ex|perience
+(in the said 94 <HI>pag.</HI> of the
+afore-mentioned Observations) That
+<PB N="12" REF="7">
+in the Countrey, but one of fifty
+dye <HI>per Annum;</HI> and by other late
+Accounts, that there have been some|times
+but 24 <HI>Births</HI> for 23 <HI>Burials,</HI>
+The which two points, if they were
+universally, and constantly true, there
+would be colour enough to say, that
+the People doubled but in about
+1200 Years. As for Example: Sup|pose
+there be 600 people, of which
+let a fiftieth part dye <HI>per Annum,</HI> then
+there shall dye 12 <HI>per Annum;</HI> and if
+the Births be as 24 to 23, then the
+Increase of the People shall be some|what
+above half a Man <HI>per Annum,</HI>
+and consequently the supposed Num|ber
+of 600, cannot be doubled but
+in 1126 Years, which to reckon in
+round Numbers, and for that the
+afore-mentioned Fractions were not
+exact, we had rather call 1200.</P>
+<P>There are also other good <HI>Obser|vations,</HI>
+That even in the Countrey,
+one in about 30, or 32 <HI>per Annum</HI>
+<PB N="13" REF="7">
+hath dyed, and that there have been
+five <HI>Births</HI> for four <HI>Burials.</HI> Now,
+according to this Doctrine, 20 will
+dye <HI>per Annum</HI> out of the above 600,
+and 25 will be Born, so as the <HI>In|crease</HI>
+will be 5, which is a hundred
+and twentieth part of the said 600.
+So as we have two fair <HI>Computations,</HI>
+differing from each other as one to
+ten; and there are also several other
+good <HI>Observations</HI> for other <HI>Mea|sures.</HI></P>
+<P>I might here Insert, That although
+the Births in this last Computation
+be 25 of 600, or a Twenty fourth
+part of the People; yet that in Na|tural
+possibility, they may be near
+thrice as many, and near 75. For
+that by some late <HI>Observations,</HI> the
+<HI>Teeming</HI> Females between 15 and 44,
+are about 180 of the said 600, and
+the <HI>Males</HI> of between 18 and 59,
+are about 180 also, and that every
+Teeming <HI>Woman</HI> can bear a <HI>Child</HI>
+<PB N="14" REF="8">
+once in two Years; from all which
+it is plain, that the <HI>Births</HI> may be
+90. (and abating 15 for <HI>Sickness,</HI>
+Young <HI>Abortions,</HI> and <HI>Natural Bar|renness)</HI>
+there may remain 75 Births,
+which is an Eighth of the People;
+which by some Observations we
+have found to be but a <HI>two and thir|tieth
+part,</HI> or but a <HI>quarter</HI> of what
+is thus shewn to be Naturally pos|sible.
+Now, according to this Rec|koning,
+if the <HI>Births</HI> may be 75 of
+600, and the <HI>Burials</HI> but 15, then
+the <HI>Annual Increase</HI> of the People will
+be 60; and so the said 600 People
+may double in 10 Years, which dif|fers
+yet more from 1200, above-mentioned.
+Now, to get out of
+this Difficulty, and to temper those
+vast disagreements, I took the <HI>Me|dium</HI>
+of 50 and 30 dying <HI>per Annum,</HI>
+and pitch'd upon 40; and I also took
+the <HI>Medium</HI> between 24 <HI>Births</HI> and
+23 <HI>Burials,</HI> and 5 <HI>Births</HI> for 4 <HI>Bu|rials,
+<PB N="15" REF="8">
+viz.</HI> allowing about 10 <HI>Births</HI>
+for 9 <HI>Burials;</HI> upon which Suppo|sition,
+there must dye 15 <HI>per Annum</HI>
+out of the above-mentioned 600,
+and the <HI>Births</HI> must be 16 <HI>and two
+Thirds,</HI> and the Increase 1, and two
+Thirds, or five Thirds of a Man,
+which Number compa|red
+with 1800 <HI>Thirds,</HI><NOTE PLACE="marg">That the time of doubling is here and now 360 Years.</NOTE>
+or 600 Men, gives 360
+Years for the time of
+doubling (including some Allow|ance
+for <HI>Wars, Plagues,</HI> and <HI>Famine,</HI>
+the Effects whereof, though they be
+<HI>Terrible</HI> at the Times and Places
+where they happen, yet in a period
+of 360 Years, is no great Matter in
+the whole Nation. For the Plagues
+of <HI>England</HI> in 20 Years hath carried
+away scarce an Eightieth part of the
+People of the whole Nation; and
+the late 10 Years <HI>Civil Wars,</HI> (the
+like whereof hath not been in seve|ral
+Ages before) did not take away
+<PB N="16" REF="9">
+above a fortieth part of the whole
+People.)</P>
+<P>According to which Account or
+Measure of doubling, if there be
+now in <HI>England</HI> and <HI>Wales,</HI> 7 Mil|lions
+400 Thousand People, there
+were about 5 Millions 526 Thou|sand
+in the beginning of Queen <HI>Eli|zabeths</HI>
+Reign, <HI>Anno</HI> 1560. and about
+two Millions at the <HI>Norman Conquest,</HI>
+of which Consult the <HI>Dooms day
+Book,</HI> and my Lord <HI>Hale</HI>'s <HI>Origi|<GAP DESC="illegible" EXTENT="1 letter">ation</HI>
+of <HI>Mankind.</HI></P>
+<P><HI>Memorandum,</HI><NOTE PLACE="marg">320 Milli|ons now in the World.</NOTE> That if
+the People double in 360
+Years, that the present 320
+Millions computed by some Learned
+Men, (from the Measures of all the
+Nations of the World, their de|grees
+of being Peopled, and good
+Accounts of the people in several of
+them) to be now upon the Face of
+the Earth, will within the next 2000
+Years, so increase, as to give one
+<PB N="17" REF="9">
+Head for every two Acres of Land
+in the <HI>Habitable</HI> part of the <HI>Earth.</HI>
+And then, according to the <HI>Predicti|on</HI>
+of the <HI>Scriptures,</HI> there must be
+<HI>Wars</HI> and great <HI>Slaughter,</HI> &amp;c.</P>
+<P>Wherefore, as an <HI>Expedient</HI> against
+the above-mentioned difference be|tween
+10 and 1200 Years, we do
+for the present, and in this Coun|trey
+admit of 360 Years to be the
+time wherein the People of <HI>England</HI>
+do double, according to the present
+<HI>Laws</HI> and <HI>Practice</HI> of <HI>Marriages.</HI></P>
+<P>Now, if the City double its Peo|ple
+in 40 Years, and the present Num|ber
+be 670 Thousand, and if the
+<HI>whole Territory</HI> be 7 Millions 400
+Thousand, and double in 360 Years,
+as aforesaid; then by the under|written
+Table it appears, that <HI>Anno</HI>
+1840, the People of the City will be
+10718880, and those of the whole
+Country but 10917389, which is
+but inconsiderably more. Where|fore
+<PB N="18" REF="10">
+it is Certain and Necessary that
+the <HI>Growth</HI> of the City must stop be|fore
+the said Year 1840: And will be
+at its utmost height in the next pre|ceeding
+Period, <HI>Anno</HI> 1800, when
+the Number of the City will be
+Eight times its present Number, <HI>viz.</HI>
+5 Millions 359 Thousand. And
+when (besides the said Number)
+there will be 4 Millions 466 Thou|sand
+to perform the <HI>Tillage, Pastu|rage,</HI>
+and other Rural Works Neces|sary
+to be done without the said City,
+as by the following Table, <HI>viz.</HI></P>
+<P><TABLE>
+<ROW>
+<CELL>&nbsp;</CELL>
+<CELL>Annis.</CELL>
+<CELL>Burials.</CELL>
+<CELL>People in <HI>London.</HI></CELL>
+<CELL>People in <HI>England.</HI></CELL>
+</ROW>
+<ROW>
+<CELL>&nbsp;</CELL>
+<CELL>1565&mdash;</CELL>
+<CELL>2568</CELL>
+<CELL>77040</CELL>
+<CELL>5526929.</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="3">As in the former Table.</CELL>
+<CELL>1605&mdash;</CELL>
+<CELL>5135</CELL>
+<CELL>&nbsp;</CELL>
+<CELL>&nbsp;</CELL>
+</ROW>
+<ROW>
+<CELL>1642&mdash;</CELL>
+<CELL>11883</CELL>
+<CELL>&nbsp;</CELL>
+<CELL>&nbsp;</CELL>
+</ROW>
+<ROW>
+<CELL>1682&mdash;</CELL>
+<CELL>22331</CELL>
+<CELL>669930</CELL>
+<CELL>7369230.</CELL>
+</ROW>
+<ROW>
+<CELL>&nbsp;</CELL>
+<CELL>1722&mdash;</CELL>
+<CELL>44662</CELL>
+<CELL>&nbsp;</CELL>
+<CELL>&nbsp;</CELL>
+</ROW>
+<ROW>
+<CELL>&nbsp;</CELL>
+<CELL>1762&mdash;</CELL>
+<CELL>89324</CELL>
+<CELL>&nbsp;</CELL>
+<CELL>&nbsp;</CELL>
+</ROW>
+<ROW>
+<CELL>&nbsp;</CELL>
+<CELL>1802&mdash;</CELL>
+<CELL>178648</CELL>
+<CELL>5359440</CELL>
+<CELL>9825650.</CELL>
+</ROW>
+<ROW>
+<CELL>&nbsp;</CELL>
+<CELL>1842&mdash;</CELL>
+<CELL>357296</CELL>
+<CELL>10718880</CELL>
+<CELL>10917389.</CELL>
+</ROW>
+</TABLE></P>
+<P><PB N="19" REF="10">Now,<NOTE PLACE="marg">That <HI>London</HI> will be at its highest growth, and eight times as great as now, <HI>Anno</HI> 1800.</NOTE> when the Peo|ple
+of <HI>London</HI> shall come
+to be so near the People
+of all <HI>England,</HI> Then it
+follows, That the <HI>Growth</HI>
+of <HI>London</HI> must stop before the said
+Year 1842, as aforesaid, and must
+be at its greatest height <HI>Anno</HI> 1800,
+when it will be eight times more
+than now, with above four Milli|ons
+for the Service of the <HI>Countrey</HI>
+and Ports, as aforesaid.</P>
+<P>Of the afore-mentioned
+vast difference between 10
+Years and 1200 Years for
+<HI>doubling</HI> the People,<NOTE PLACE="marg">A digression of the use of the vast dif|ference be|tween 10 and 1200 Years of doubling.</NOTE> we
+make this use, <HI>viz.</HI> To ju|stifie
+the <HI>Scriptures</HI> and all
+other good <HI>Histories</HI> concerning the
+<HI>Number</HI> of the People in Ancient
+Time. For supposing the Eight <HI>Per|sons</HI>
+who came out of the <HI>Ark, In|creased</HI>
+by a Progressive doubling in
+every 10 Years, might grow in the
+<PB N="20" REF="11">
+first 100 Years after the <HI>Flood</HI> from
+8 to 8000, and that in 350 Years
+after the <HI>Flood</HI> (when abouts <HI>Noah</HI>
+dyed) to one Million, and by this
+time 1682, to 320 Millions (which
+by rational conjecture, are thought
+to be now in the World) it will not
+be hard to compute, how in the in|termediate
+Years, the <HI>Growths</HI> may
+be made, according to what is set
+down in the following <HI>Table,</HI> where|in
+making the doubling to be 10
+Years at first, and within 1200 Years
+at last, we take a discretionary liberty,
+but justifiable by Observations and
+the Scriptures for the rest, which
+Table we leave to be Corrected by
+<HI>Historians,</HI> who know the bigness of
+<HI>Ancient Cities, Armies,</HI> and <HI>Colonies</HI>
+in the respective <HI>Ages</HI> of the <HI>World,</HI>
+in the mean time affirming that with|out
+such difference in the <HI>Measures</HI>
+and Periods for doubling (the ex|treams
+whereof we have demonstra|ted
+<PB N="21" REF="11">
+to be real and true) it is impos|sible
+to solve what is written in the
+Holy <HI>Scriptures</HI> and other <HI>Authentick
+Books.</HI> For if we pitch upon any
+one Number throughout for this
+purpose, 150 Years is the fittest of
+all round Numbers; according to
+which, there would have been but
+512 Souls in the whole World in
+<HI>Moses's</HI> time (being 800 Years after
+the Flood) when 603 Thousand
+<HI>Isra&egrave;lites</HI> of above 20 Years Old (be|sides
+those of other Ages, Tribes,
+and Nations) were found upon an
+exact Survey appointed by God,
+Whereas our Table makes 12 Milli|ons.
+And there would have been
+but 8000 in <HI>David's</HI> Time, when
+were found 1100 Thousand of above
+20 Years Old (besides others, as
+aforesaid) in <HI>Israel,</HI> upon the Sur|vey
+instigated by Satan, whereas our
+Table makes 32 Millions. And there
+would have been but a quarter of a
+<PB N="22" REF="12">
+Million about the Birth of Christ, or
+<HI>Augustus</HI> his Time, when <HI>Rome</HI> and
+the <HI>Roman</HI> Empire were so great,
+whereas our Table makes 100 Mil|lions.
+Where Note, That the <HI>Is|raelites</HI>
+in about 500 Years between
+their coming out of <HI>Egypt</HI> to <HI>David</HI>'s
+Reign, increased from 603 Thou|sand
+to 1100 Thousand.</P>
+<P>On the other hand, if we pitch
+upon a less Number, as 100 Years,
+the World would have been over|peopled
+700 Years since. Wherefore,
+no one Number will solve the <HI>Phaeno|mena,</HI>
+and therefore we have sup|posed
+several in Order to make the
+following Table, which we again
+desire Historians to Correct, accord|ing
+to what they find in Antiquity
+concerning the Number of the Peo|ple
+in each Age and Countrey of the
+World.</P>
+<P>We did (not long since) assist a
+worthy Divine, writing against some
+<PB N="23" REF="12">
+<HI>Scepticks,</HI> who would have baffled
+our belief of the Resurrection, by
+saying, that the whole Globe of the
+Earth could not furnish Matter
+enough for all the Bodies that must
+Rise at the last Day, much less would
+the surface of the Earth furnish
+footing for so vast a Number; where|as
+we did (by the Method afore|mentioned)
+assert the Number of
+Men now living, and also of those
+that had dyed since the beginning of
+the World, and did withal shew,
+that half the Island of <HI>Ireland</HI> would
+afford them all, not only Footing
+to stand upon, but Graves to lye
+down in, for that whole Number;
+and that two Mountains in that
+Countrey were as weighty as all the
+Bodies that had ever been from the
+beginning of the World to the Year
+1680, when this Dispute happened.
+For which purpose, I have digressed
+from my intended purpose, to insert
+<PB N="24" REF="13">
+this <HI>Matter,</HI> intending to prosecute
+this hint further, upon some more
+proper Occasion.</P>
+<P><TABLE>
+<HEAD>A Table shewing how the People might
+have doubled in the several Ages of
+the World.</HEAD>
+<HEAD>Anno after the Flood.</HEAD>
+<ROW>
+<CELL>Periods of doubling</CELL>
+<CELL>&nbsp;</CELL>
+<CELL>&nbsp;</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="11">In 10 Years</CELL>
+<CELL>1&mdash;</CELL>
+<CELL>8 Persons.</CELL>
+</ROW>
+<ROW>
+<CELL>10&mdash;</CELL>
+<CELL>16</CELL>
+</ROW>
+<ROW>
+<CELL>20&mdash;</CELL>
+<CELL>32</CELL>
+</ROW>
+<ROW>
+<CELL>30&mdash;</CELL>
+<CELL>64</CELL>
+</ROW>
+<ROW>
+<CELL>40&mdash;</CELL>
+<CELL>128</CELL>
+</ROW>
+<ROW>
+<CELL>50&mdash;</CELL>
+<CELL>256</CELL>
+</ROW>
+<ROW>
+<CELL>60&mdash;</CELL>
+<CELL>512</CELL>
+</ROW>
+<ROW>
+<CELL>70&mdash;</CELL>
+<CELL>1024</CELL>
+</ROW>
+<ROW>
+<CELL>80&mdash;</CELL>
+<CELL>2048</CELL>
+</ROW>
+<ROW>
+<CELL>90&mdash;</CELL>
+<CELL>4096</CELL>
+</ROW>
+<ROW>
+<CELL>100&mdash;</CELL>
+<CELL>8000 and more</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="2">In 20 Years</CELL>
+<CELL>120 Years after
+the Flood.</CELL>
+<CELL>16 Thousand.</CELL>
+</ROW>
+<ROW>
+<CELL>140&mdash;</CELL>
+<CELL>32</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="2">30&mdash;</CELL>
+<CELL>170&mdash;</CELL>
+<CELL>64</CELL>
+</ROW>
+<ROW>
+<CELL>200&mdash;</CELL>
+<CELL>128</CELL>
+</ROW>
+<ROW>
+<CELL>40&mdash;</CELL>
+<CELL>240&mdash;</CELL>
+<CELL>256</CELL>
+</ROW>
+<ROW>
+<CELL>50&mdash;</CELL>
+<CELL>290&mdash;</CELL>
+<CELL>512</CELL>
+</ROW>
+<ROW>
+<CELL>60&mdash;</CELL>
+<CELL>350&mdash;</CELL>
+<CELL>1 Million and more.</CELL>
+</ROW>
+<ROW>
+<CELL>70&mdash;</CELL>
+<CELL>420&mdash;</CELL>
+<CELL>2 Millions.</CELL>
+</ROW>
+<ROW>
+<CELL>100&mdash;</CELL>
+<CELL>520&mdash;</CELL>
+<CELL>4 Millions.</CELL>
+</ROW>
+<ROW>
+<CELL>190&mdash;</CELL>
+<CELL>710&mdash;</CELL>
+<CELL>8 Millions.</CELL>
+</ROW>
+<ROW>
+<CELL>290&mdash;</CELL>
+<CELL>1000&mdash;</CELL>
+<CELL>16 In Moses Time.</CELL>
+</ROW>
+<ROW>
+<CELL>400&mdash;</CELL>
+<CELL>1400&mdash;</CELL>
+<CELL>32 About Davids Time.</CELL>
+</ROW>
+<ROW>
+<CELL>550&mdash;</CELL>
+<CELL>1950&mdash;</CELL>
+<CELL>64</CELL>
+</ROW>
+<ROW>
+<CELL>750&mdash;</CELL>
+<CELL>2700&mdash;</CELL>
+<CELL>128 About the Birth of Christ.</CELL>
+</ROW>
+<ROW>
+<CELL>1000&mdash;</CELL>
+<CELL>3700&mdash;</CELL>
+<CELL>256</CELL>
+</ROW>
+<ROW>
+<CELL>In 300/1200&mdash;</CELL>
+<CELL>4000&mdash;</CELL>
+<CELL>320</CELL>
+</ROW>
+</TABLE></P>
+<P><PB N="25" REF="13">It is here to be Noted, That in
+this Table we have assigned a diffe|rent
+Number of Years for the time
+of doubling the People in the seve|ral
+Ages of the <HI>World,</HI> and might
+have done the same for the several
+<HI>Countries</HI> of the <HI>World,</HI> and there|fore
+the said several <HI>Periods</HI> assigned
+to the <HI>whole World</HI> in the <HI>Lump,</HI> may
+well enough consist with the 360
+Years especially assigned to <HI>England,</HI>
+between this Day, and the <HI>Norman
+Conquest;</HI> And the said 360 Years
+may well enough serve for a Sup|position
+between this time, and that
+of the <HI>Worlds</HI> being fully Peopled;
+Nor do we lay any stress upon one
+or the other in this disquisition con|cerning
+the <HI>Growth</HI> of the City of
+<HI>London.</HI></P>
+<P>We have spoken of the Growth
+of <HI>London,</HI> with the Measures and
+Periods thereof, we come next to the
+Causes and Consequences of the
+same.</P>
+<P><PB N="26" REF="14">The Causes of its <HI>Growth</HI> from
+1642 to 1682, may be said to have
+been as followeth, <HI>viz.</HI> From 1642
+to 1650, That Men came out of the
+<HI>Countrey</HI> to <HI>London,</HI> to shelter them|selves
+from the Outrages of the Civil
+<HI>Wars,</HI> during that time; from 1650
+to 1660, The <HI>Royal Party</HI> came to
+<HI>London,</HI> for their more private and
+inexpensive Living; from 1660 to
+1670, The <HI>Kings Friends</HI> and <HI>Party</HI>
+came to receive his <HI>Favours</HI> after his
+<HI>Happy Restauration;</HI> from 1670 to
+1680, The frequency of <HI>Plots</HI> and
+Parliaments, might bring extraor|dinary
+Numbers to the City; But
+what Reasons to assign for the like
+<HI>Increase</HI> from 1604 to 1642, I know
+not, unless I should pick out some
+<HI>Remarkable Accident</HI> happening in
+each part of the said <HI>Period,</HI> and
+make that to be the Cause of this
+<HI>Increase</HI> (as Vulgar People make the
+Cause of every Mans Sickness, to be
+<PB N="27" REF="14">
+what he did last eat) wherefore, ra|ther
+than so to say <HI>quidlibet de quo|libet;</HI>
+I had rather quit even what I
+have above-said to be the Cause of
+<HI>London</HI>'s <HI>Increase</HI> from 1642 to 1682,
+and put the whole upon some Na|tural
+and Spontaneous <HI>Benefits</HI> and
+Advantages that Men find by Living
+in great more than in small <HI>Societies;</HI>
+and shall therefore seek for the <HI>Ante|cedent
+Causes</HI> of this <HI>Growth,</HI> in the
+<HI>Consequences</HI> of the like, considered
+in greater <HI>Characters</HI> and <HI>Proporti|ons.</HI></P>
+<P>Now, whereas in Arithmetick, out
+of two false <HI>Positions</HI> the Truth is
+extracted, so I hope out of two <HI>ex|travagant</HI>
+contrary Suppositions, to
+draw forth some solid and consistent
+<HI>Conclusion, viz.</HI></P>
+<P>The first of the said two Suppo|sitions
+is, That the City of <HI>London</HI>
+is seven times bigger than now, and
+that the <HI>Inhabitants</HI> of it are four
+<PB N="28" REF="15">
+Millions 690 Thousand People, and
+that in all the other <HI>Cities, Ports,
+Towns,</HI> and <HI>Villages,</HI> there are but
+two Millions 710 Thousand more.</P>
+<P>The other <HI>Supposition</HI> is, That the
+City of <HI>London</HI> is but a seventh part
+of its present bigness, and that the
+<HI>Inhabitants</HI> of it are but 96 Thou|sand,
+and that the rest of the Inha|bitants
+(being 7 Millions 304 Thou|sand)
+do Co-habit thus, 104 Thou|sand
+of them in small <HI>Cities</HI> and
+<HI>Towns,</HI> and that the rest, being seven
+Millions 200 Thousand, do Inhabit
+in <HI>Houses</HI> not contiguous to one ano|ther,
+<HI>viz.</HI> In 1200 Thousand Houses,
+having about 24 Acres of Ground
+belonging to each of them, account|ing
+about 28 Millions of Acres to be
+in the whole <HI>Territory</HI> of <HI>England,
+Wales,</HI> and the adjacent <HI>Islands;</HI>
+which any Man that pleases may Ex|amine
+upon a good Map.</P>
+<P><PB N="29" REF="15">Now, the Question is, In which
+of these two Imaginary states, would
+be the most convenient, commo|dious
+and comfortable Livings?</P>
+<P>But this general Question divides
+it self into the several Questions,
+relating to the following Particulars,
+<HI>viz.</HI></P>
+<P>1. For the <HI>Defence</HI> of the King|dom
+against Foraign Powers.</P>
+<P>2. For preventing the <HI>Intestine
+Commotions</HI> of <HI>Parties</HI> and <HI>Factions.</HI></P>
+<P>3. For <HI>Peace</HI> and <HI>Vniformity</HI> in <HI>Re|ligion.</HI></P>
+<P>4. For the <HI>Administration</HI> of <HI>Iu|stice.</HI></P>
+<P>5. For the proportionably <HI>Taxing</HI>
+of the People, and easie <HI>Levying</HI> the
+same.</P>
+<P>6. For <HI>Gain</HI> by Foraign Com|merce.</P>
+<P>7. For <HI>Husbandry, Manufacture,</HI>
+and for <HI>Arts</HI> of Delight and Orna|ment.</P>
+<P><PB N="30" REF="16">8. For lessening the Fatigue of <HI>Car|riages</HI>
+and <HI>Travelling.</HI></P>
+<P>9. For preventing <HI>Beggars</HI> and
+<HI>Thieves.</HI></P>
+<P>10. For the Advancement and
+Propagation of <HI>Vseful Learning.</HI></P>
+<P>11. For <HI>Increasing</HI> the People by
+<HI>Generation.</HI></P>
+<P>12. For preventing the Mischiefs
+of <HI>Plagues</HI> and <HI>Contagions.</HI> And
+withal, which of the said two states
+is most Practicable and Natural;
+for in these and the like particulars,
+do lye the <HI>Tests</HI> and <HI>Touch-stones</HI> of
+all <HI>Proposals,</HI> that can be made for
+the Publick Good.</P>
+<P>First, as to <HI>Practicable,</HI> we say,
+That although our said Extravagant
+Proposals are both in Nature possible,
+yet it is not Obvious to every Man to
+conceive, how <HI>London,</HI> now seven
+times bigger than in the beginning
+of <HI>Queen Elizabeths Reign,</HI> should
+be seven times bigger than now it is,
+<PB N="31" REF="16">
+and 49 times bigger than <HI>Anno</HI> 1560.
+To which I say, 1. That the present
+City of <HI>London</HI> stands upon less than
+1500 Acres of Ground, wherefore a
+City seven times as large may stand
+upon 10500 Acres, which is about
+equivalent to a Circle of four Miles
+and a half in Diameter, and less than
+15 Miles in Circumference. 2. That
+a Circle of Ground of 35 Miles Se|midiameter
+will bear <HI>Corn, Garden|stuff,
+Fruits, Hay,</HI> and <HI>Timber</HI> for the
+four Millions 690 Thousand Inha|bitants
+of the said City and Circle,
+so as nothing of that kind need be
+brought from above 35 Miles di|stance
+from the said City; for the
+Number of Acres within the said
+Circle, reckoning one Acre suffici|ent
+to furnish <HI>Bread</HI> and <HI>Drink-Corn</HI>
+for every Head, and two Acres will
+furnish Hay for every Necessary
+Horse; And that the Trees which
+may grow in the Hedge-rows of the
+<PB N="32" REF="17">
+Fields within the said Circle, may
+furnish <HI>Timber</HI> for 600 Thousand
+Houses. 3. That all live Cattel and
+great Animals can bring themselves
+to the said City; and that Fish can
+be brought from the <HI>Lands-end</HI> and
+<HI>Berwick</HI> as easily as now. 4. Of
+<HI>Coals</HI> there is no doubt: And for Wa|ter,
+20 <HI>s. per</HI> Family (or 600 Thou|sand
+pounds <HI>per Annum</HI> in the whole)
+will serve this <HI>City,</HI> especially with
+the help of the <HI>New River.</HI> But if
+by Practicable be understood, that
+the present state may be suddenly
+changed into either of the two a|bove-mentioned
+Proposals, I think
+it is not <HI>Practicable.</HI> Wherefore the
+true Question is, unto or towards
+which of the said two Extravagant
+states it is best to bend the present
+state by degrees, <HI>viz.</HI> Whether it be
+best to lessen or enlarge the present
+City? In Order whereunto, we en|quire
+(as to the first Question) which
+<PB N="33" REF="17">
+state is most <HI>Defensible</HI> against <HI>For|raign
+Powers,</HI> saying, that if the
+above-mentioned Housing, and a
+border of Ground, of 3 quarters of a
+Mile broad, were encompassed with
+a Wall and Ditch of 20 Miles about
+(as strong as any in <HI>Europe,</HI> which
+would cost but a Million, or about
+a Penny in the shilling of the House-Rent
+for one Year) what <HI>Foraign
+Prince</HI> could bring an Army from
+beyond Seas, able to beat, 1. Our
+Sea-Forces, and next with Horse
+harrass'd at Sea, to resist all the fresh
+Horse that <HI>England</HI> could make, and
+then Conquer above a Million of
+Men, well United, Disciplin'd, and
+Guarded within such a <HI>Wall,</HI> distant
+every where 3 quarters of a Mile from
+the Housing, to elude the <HI>Granadoes</HI>
+and great Shot of the <HI>Enemy?</HI> 2. As
+to <HI>Intestine Parties</HI> and <HI>Factions,</HI> I
+suppose that 4 Millions 690 Thou|sand
+People United within this great
+<PB N="34" REF="18">
+City, could easily Govern half the
+said Number scattered without it,
+and that a few Men in Arms within
+the said City, and Wall, could also
+easily Govern the rest unarmed, or
+Armed in such manner as the <HI>Sove|raign</HI>
+shall think fit. 3. As to <HI>Vnifor|mity</HI>
+in <HI>Religion,</HI> I conceive, That if St.
+<HI>Martins</HI> Parish may (as it doth) consist
+of about 40 Thousand Souls, That
+this great City also may as well be
+made but as one Parish, with 7 times
+130 Chappels, in which might not
+only be an Uniformity of Common
+Prayer, but in Preaching also; for
+that a thousand Copies of one Judici|ously
+and Authentically Composed
+<HI>Sermon,</HI> might be every Week read
+in each of the said <HI>Chappels</HI> without
+any subsequent Repetition of the
+same, as in the Case of Homilies.
+Whereas in <HI>England</HI> (wherein are
+near 10 Thousand Parishes, in each
+of which upon Sundays, Holy-days,
+<PB N="35" REF="18">
+and other Extraordinary Occasions,
+there should be about 100 Sermons
+<HI>per Annum,</HI> making about a Milli|on
+of Sermon <HI>per Annum</HI> in the
+whole:) It were a Miracle, if a Mil|lion
+of Sermons Composed by so
+many Men, and of so many Minds
+and Methods, should produce <HI>Vni|formity</HI>
+upon the discomposed under|standings
+of about 8 Millions of
+Hearers.</P>
+<P>4. As to the <HI>Administration</HI> of <HI>Iu|stice.</HI>
+If in this great City shall dwell
+the Owners of all the Lands, and
+other Valuable things in <HI>England;</HI> If
+within it shall be all the <HI>Traders,</HI> &amp; all
+the <HI>Courts, Offices, Records, Iuries,</HI> and
+<HI>Witnesses;</HI> Then it follows, that <HI>Iustice</HI>
+may be made with speed and ease.</P>
+<P>5. As to the <HI>Equality</HI> and
+easie <HI>Levying</HI> of Taxes, It is too
+certain, That <HI>London</HI> hath at some
+times paid near half the Excise of
+<HI>England;</HI> and that the People pay
+<PB N="36" REF="19">
+thrice as much for the Hearths in
+<HI>London</HI> as those in the Countrey, in
+proportion to the People of each,
+and that the Charge of Collecting
+these Duties, have been about a sixth
+part of the Duty it self. Now, in
+this great City, the Excise alone ac|cording
+to the present Laws, would
+not only be double to the whole
+Kingdom, but also more equal. And
+the Duty of Hearths of the said
+City, would exceed the present pro|ceed
+of the whole Kingdom. And
+as for the <HI>Customs,</HI> we mention them
+not at present.</P>
+<P>6. Whether more would be <HI>gain'd</HI>
+by <HI>Foraign Commerce.</HI></P>
+<P>The Gain which <HI>England</HI> makes
+by <HI>Lead, Coals,</HI> the Freight of Ship|ping,
+<HI>&amp;c.</HI> may be the same, for ought
+I see, in both Cases. But the Gain
+which is made by <HI>Manufactures,</HI> will
+be greater, as the Manufacture it self
+is greater and better. For in so vast
+<PB N="37" REF="19">
+a City <HI>Manufactures</HI> will beget one
+another, and each <HI>Manufacture</HI> will
+be divided into as many parts as pos|sible,
+whereby the Work of each
+<HI>Artisan</HI> will be simple and easie; As
+for Example. In the making of a
+<HI>Watch,</HI> If one Man shall make the
+<HI>Wheels,</HI> another the <HI>Spring,</HI> another
+shall Engrave the <HI>Dial-plate,</HI> and ano|ther
+shall make the <HI>Cases,</HI> then the
+<HI>Watch</HI> will be better and cheaper,
+than if the whole Work be put upon
+any one Man. And we also see that
+in <HI>Towns,</HI> and in the <HI>Streets</HI> of a
+great <HI>Town,</HI> where all the <HI>Inhabitants</HI>
+are almost of one Trade, the Com|modity
+peculiar to those places is
+made better and cheaper than else|where.
+Moreover, when all sorts of
+Manufactures are made in one place,
+there every Ship that goeth forth,
+can suddenly have its Loading of so
+many several Particulars and Species,
+as the Port whereunto she is bound
+<PB N="38" REF="20">
+can take off. Again, when the se|veral
+<HI>Manufactures</HI> are made in one
+place, and Shipped off in another,
+the <HI>Carriage, Postage,</HI> and <HI>Travelling-charges</HI>
+will Inhance the Price of such
+<HI>Manufacture,</HI> and lessen the Gain
+upon <HI>Foraign Commerce.</HI> And lastly,
+when the Imported Goods are spent
+in the Port it self, where they are
+Landed, the Carriage of the same
+into other places, will create no sur|charge
+upon such Commodity; all
+which particulars tends to the greater
+Gain by <HI>Foraign Commerce.</HI></P>
+<P>7. As for <HI>Arts</HI> of <HI>Delight</HI> and <HI>Or|nament,</HI></P>
+<P>They are best promoted by the
+greatest Number of <HI>Emulators.</HI> And
+it is more likely that one <HI>Ingenious
+Curious Man</HI> may rather be found
+out amongst 4 Millions than 400
+Persons. But as for <HI>Husbandry,</HI> viz.
+<HI>Tillage</HI> and <HI>Pasturage,</HI> I see no Rea|son,
+but the second state (when
+<PB N="39" REF="20">
+each Family is charged with the Cul|ture
+of about 24 Acres) will best
+promote the same.</P>
+<P>8. As for lessening the Fatigue of
+<HI>Carriage</HI> and <HI>Travelling,</HI></P>
+<P>The things speaks it self, for if all
+the Men of Business, and all <HI>Artisans</HI>
+do Live within five Miles of each
+other; And if those who Live with|out
+the great City, do spend only
+such Commodities as grow where
+they Live, when the charge of Car|riage
+and Travelling could be little.</P>
+<P>9. As to the preventing of <HI>Beggars</HI>
+and <HI>Thieves,</HI></P>
+<P>I do not find how the differences
+of the said two states should make
+much difference in this particular;
+for Impotents (which are but one
+in about 600) ought to be main|tained
+by the rest. 2. Those who
+are unable to Work, through the
+evil Education of their <HI>Parents,</HI> ought
+(for ought I know) to be main|tained
+<PB N="40" REF="21">
+by their nearest Kindred, as
+a just Punishment upon them. 3. And
+those who cannot find Work (though
+able and willing to perform it) by
+reason of the unequal application
+of Hands to Lands, ought to be
+provided for by the <HI>Magistrate</HI> and
+<HI>Land-Lord</HI> till that can be done;
+for there needs be no <HI>Beggars</HI> in
+Countries, where there are many
+Acres of unimproved improvable
+Land to every Head, as there are in
+<HI>England.</HI> As for <HI>Thieves,</HI> they are
+for the most part begotten from the
+same Cause; For it is against Nature,
+that any Man should venture his
+Life, Limb, or Liberty, for a wretched
+Livelyhood, whereas moderate La|bour
+will produce a better. But of
+this see Sir <HI>Thomas Moor,</HI> in the first
+part of his <HI>Vtopia.</HI></P>
+<P>10. As to the <HI>Propagation</HI> and <HI>Im|provement</HI>
+of <HI>Vseful Learning,</HI></P>
+<P><PB N="41" REF="21">The same may be said concern|ing
+it as was above-said concerning
+<HI>Manufactures,</HI> and the <HI>Arts</HI> of <HI>De|light</HI>
+and <HI>Ornaments;</HI> for in the great
+vast City, there can be no so odd a
+Conceit or Design, whereunto some
+Assistance may not be found, which
+in the thin, scattered way of Habi|tation
+may not be.</P>
+<P>11. As for the <HI>Increase</HI> of <HI>People</HI>
+by <HI>Generation,</HI></P>
+<P>I see no great difference from either
+of the two states, for the same may
+be hindred or promoted in either,
+from the same Causes.</P>
+<P>12. As to the <HI>Plague,</HI></P>
+<P>It is to be remembred, that one
+time with another, a <HI>Plague</HI> hap|peneth
+in <HI>London</HI> once in 20 Years, or
+thereabouts; for in the last hundred
+Years, between the Years 1582 and
+1682, there have been five great
+<HI>Plagues, viz. Anno</HI> 1592, 1603, 1625,
+1636, and 1665. And it is also to
+<PB N="40" REF="22">
+<GAP DESC="duplicate" EXTENT="1 page">
+<PB N="41" REF="22">
+<GAP DESC="duplicate" EXTENT="1 page">
+<PB N="42" REF="23">
+be remembred, that the <HI>Plagues</HI> of
+<HI>London</HI> do commonly kill one fifth
+part of the <HI>Inhabitants.</HI> Now, if
+the whole People of <HI>England</HI> do
+double but in 360 Years, then the
+Annual Increase of the same is but
+20000, and in 20 Years 400000.
+But if in the City of <HI>London</HI> there
+should be two Millions of People,
+(as there will be about 60 Years
+hence) then the <HI>Plague</HI> (killing
+one fifth of them, namely, 400000,
+once in 20 Years) will destroy as
+many in one Year, as the whole Na|tion
+can re-furnish in 20: And con|sequently
+the People of the Nation
+shall never Increase. But if the Peo|ple
+of <HI>London</HI> shall be above 4 Mil|lions
+(as in the first of our two <HI>Ex|travagant</HI>
+Suppositions is premised)
+then the People of the whole Nation
+shall lessen above 20000 <HI>per Annum.</HI>
+So as if People be worth 70 <HI>l. per</HI>
+Head (as hath elsewhere been shewn)
+<PB N="43" REF="23">
+then the said greatness of the City
+will be a damage to it self and the
+whole Nation of 14 hundred Thou|sand
+pounds <HI>per Annum,</HI> and so <HI>pro+rata,</HI>
+for a greater or lesser Number;
+wherefore to determine, which of
+the two <HI>states</HI> is best, (that is to say,
+towards which of the said two <HI>states
+Authority</HI> should bend the present
+<HI>state)</HI> a just Balance ought to be
+made between the disadvantages
+from the <HI>Plague,</HI> with the Advanta|ges
+accruing from the other Particu|lars
+above-mentioned; unto which
+<HI>Balance</HI> a more exact Account of the
+People, and a better Rule for the
+Measure of its Growth is Necessary,
+than what we have here given, or are
+yet able to lay down.</P>
+</DIV1>
+</BODY>
+<BACK>
+<DIV1 TYPE="postscript">
+<PB N="44" REF="24">
+<HEAD>Post-script.</HEAD>
+<P>IT was not very pertinent to a <HI>Dis|course</HI>
+concerning the <HI>Growth</HI> of
+the City of <HI>London,</HI> to thrust in Con|siderations
+of the Time when the
+whole <HI>World</HI> will be fully Peopled;
+and how to justifie the <HI>Scriptures</HI>
+concerning the Number of People
+mentioned in them; and concern|ing
+the Number of the Quick and
+the Dead, that may Rise at the last
+Day, <HI>&amp;c.</HI> Nevertheless, since some
+Friends liking the said Digressions
+and Impertinencies (perhaps as sauce
+to a dry Discourse) have desired that
+the same might be explain'd and
+made out. I therefore say as fol|loweth.</P>
+<P>1. If the Number of Acres in the
+Habitable part of the Earth, be under
+<PB N="45" REF="24">
+50. Thousand Millions; if Twenty
+Thousand Millions of People, are
+more than the said Number of Acres
+will feed; (few or no Countries
+being so fully Peopled;) and for
+that in six doublings (which will be
+in 2000 Years) the present 320 Mil|lions
+will exceed the said 20 Thou|sand
+Millions.</P>
+<P>2. That the Number of all those
+who have dyed since the <HI>Flood,</HI> is the
+sum of all the Products made by Mul|tiplying
+the Number of the doubling
+Periods mentioned in the first Co|lumn
+of the last Table, by the Num|ber
+of People respectively affixed to
+them, in the third Column of the
+same Table; the said sum being Di|vided
+by 40 (one dying out of 40
+<HI>per Annum,</HI> out of the whole Mass
+of Mankind) which Quotient is
+12570 Millions; Whereunto may
+be added, for those that dyed before
+the <HI>Flood,</HI> enough to make the last
+<PB N="46" REF="25">
+mentioned Number 20 Thousand
+Millions, as the full Number of all
+that dyed, from the beginning of
+the World, to the Year 1682; unto
+which, if 320 Millions, the Num|ber
+of those who are now alive, be
+added, the Total of the Quick and
+the Dead, will amount but unto one
+fifth part of the Graves, which the
+surface of <HI>Ireland</HI> will afford, with|out
+ever putting two Bodies into
+any one Grave; for there be in <HI>Ire|land</HI>
+28 Thousand square <HI>English</HI>
+Miles, each whereof will afford about
+4 Millions of Graves, and conse|quently
+above 114 Thousand Mil|lions
+of Graves, <HI>viz.</HI> about 5 times
+the Number of the Quick and the
+Dead, which should arise at the last
+Day, in case the same had been in
+the Year 1682.</P>
+<P>3. Now, if there may be place
+for five times as many Graves in <HI>Ire|land,</HI>
+as are sufficient for all that ever
+<PB N="47" REF="25">
+dyed; And if the Earth of one
+Grave weigh five times as much as
+the Body Interr'd therein, then a
+Turf, less than a Foot thick, pared
+off from a fifth part of the surface
+of <HI>Ireland,</HI> will be equivalent in
+bulk and weight to all the Bodies that
+ever were Buried; And may serve as
+well for that purpose, as the two
+Mountains afore-mentioned in the
+body of this Discourse. From all
+which it is plain, how madly they
+were mistaken, who did so petulant|ly
+vilisie what the <HI>Holy Scriptures</HI>
+have delivered.</P>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+<DIV1 TYPE="publisher's advertisement">
+<P><HI>Observations upon the</HI> Dublin <HI>Bills of Mortality,</HI>
+M.DC.LXXXI. <HI>And the state of that City. By the
+Observator in the</HI> London <HI>Bills of Mortality. In
+Octavo.</HI></P>
+</DIV1>
+</BACK>
+</TEXT>
+</EEBO>
+</ETS>

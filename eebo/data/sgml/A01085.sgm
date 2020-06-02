@@ -1,0 +1,3986 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD EEBOPROOF 2.0//EN">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-08-01</DATE>
+<RESPSTMT>
+<NAME>Marika Ismail</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TYPEs to DIVs in order to validate. Proofed title page(s). Checked for N=""s. Checked for GROUP tags. Checked ^s. Reviewed structure. Checked division-marking material at heads and feet of divisions (HEADS,  CLOSER, OPENER, ARGUMENT, EPIGRAPH, SIGNED, BYLINE, etc.). Checked for signatures. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected ** $s and $word$s etc. of **. Converted __ $$s to GAP DESC="illegible" RESP="[vendor name]". Checked spacing of foreign GAPs.  Checked for LBs. Checked for startqs, endqs, oes, q;s, and Qs. Checked proofsheets and made corrections found there.  Checked for FIGUREs and decorated initials. Checked for missing-page GAPs. Revalidated. </ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="A01085">
+<STC T="S">112</STC>
+<BIBNO T="umi">99850480</BIBNO>
+<VID>15688</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1">
+<PB REF="1">
+<P><HI>Eirenopolis:</HI>
+THE
+CITIE
+OF
+PEACE.</P>
+<P>Surueyed and commen|ded
+to all Christians.</P>
+<P><HI>By</HI>
+THO. ADAMS.</P>
+<P>LONDON,
+Printed by <HI>Aug. Matthewes</HI> for
+<HI>Iohn Grismand,</HI> and are to bee
+sold at his Shop in <HI>Pauls</HI> Alley, at
+the Signe of the Gunne.
+1622.</P>
+</DIV1>
+<DIV1 TYPE="errata">
+<PB REF="2">
+<HEAD>ERRATA.</HEAD>
+<P>PAge 7. for <HI>proposition,</HI> read <HI>pro
+portion.</HI> page 18. for <HI>imitates,</HI>
+reade <HI>intimates.</HI> page 19. for <HI>if</HI>
+reade <HI>as.</HI></P>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="2">
+<HEAD>To all that loue
+PEACE and
+TRVTH.</HEAD>
+<P><HI>_PEACE,</HI> take it
+with all faults,
+is better then
+Warre: and
+the ende of a iust warre,
+is but <HI>Studium Pacis,</HI> the
+intention of a right peace.
+The Subiect then is be|yond
+exception, to all that
+loue Peace. But commonly
+they, with whom it med|dles,
+<PB REF="3">
+refuse to meddle with
+it. Let such take the course
+of their vnhappy precipice
+into euerlasting vnquiet|nesse,
+who wilfully reiect
+the cure of their affected
+maladie: denying their
+consciences a trouble that
+may saue them, for feare
+of loosing a trouble that
+<GAP DESC="illegible" REASON="under-inked" EXTENT="1 letter">o<GAP DESC="illegible" REASON="under-inked" EXTENT="1 letter">h please them. As if a
+man were lesse then mad,
+that will leap into the fire,
+o auoid the smoke. There
+is <HI>Pax fundamenti,</HI> the
+peace of Doctrine: and
+<HI>Pax Ordinis,</HI> the peace of
+Discipline. The Heretike
+would pull downe the first
+Pillar, the Schismaticke
+<PB REF="3">
+the other: The former
+would break our peace with
+Christ; the latter with our
+selues &amp; the Church: both
+these are almost desperate.
+But there is a third, <HI>Pax
+Politica,</HI> a ciuill Peace:
+and the common distur|bers
+of this are such con|tentious
+spirits; that either
+vnprouoked, out of mis|chieuous
+intention: or be|ing
+prouoked, out of mali|cious
+reuenge; set all in
+vprore, make a mutiny
+in manners, an ataxie in
+the course of life. To cure
+this <HI>Babel,</HI> if at least shee
+will bee cured, is the scope
+of this Tractate. Peace
+<PB REF="4">
+was Christs blessed Lega|cie
+to his Church; and we
+are the Ministers whom
+he hath chosen to see it pay|ed.
+Executours are often
+sued for the bequests giuen
+by dead Testators: Loe
+here a Legacie without su|ing
+from a liuing Father.
+Embrace it, and bee regu|lated
+by it: so shall your
+hearts finde present com|fort,
+and your soules eter|nall
+life in it.</P>
+<CLOSER>The heartie desirer
+of your Peace.
+<SIGNED>TH. ADAMS.</SIGNED></CLOSER>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="text">
+<PB N="1" REF="4">
+<HEAD>THE
+CITIE
+OF
+PEACE.</HEAD>
+<P>_PEACE is the
+Daughter of
+Righteousnes,
+and the mo|her
+of knowledge, the
+nurse of Arts, and the
+improuement of all bles|sings.
+<PB N="2" REF="5">
+It is delectable to
+al that taste it, profitable
+to the~ that practise it; to
+the~ that look vpo~ it, ami|able;
+to them that enioy
+it, a benefit inualuable.
+The building of Christi|anity
+knows no other ma+terials:
+if we looke vpon
+the Church it self,<NOTE PLACE="marg">Ephes. 4. 4</NOTE> <HI>There
+is one body:</HI> if vpo~ the ve|ry
+soule of it, <HI>There is one
+Spirit:</HI> if vpo~ the endow|ment
+of it, <HI>There is one
+Hope:</HI> if vpon the head of
+it, <HI>There is one Lord:</HI> if vp|on
+the life of it, <HI>There is
+one Faith:</HI> if vpon the
+doore of it, <HI>There is one
+Baptisme:</HI> if vpon the
+<PB N="3" REF="5">
+Father of it, <HI>There is one
+God, and Father of all.</HI></P>
+<P><HI>Peace</HI> is a faire Virgin,
+euery ones Loue,<NOTE PLACE="marg">The Picture of Peace.</NOTE> the
+praise of all tongues, the
+obiect of all eyes, the
+wish of all hearts; <HI>Pace~ <GAP DESC="illegible" REASON="under-inked" EXTENT="1 letter">te
+poscimus omnes.</HI> She hath
+a smiling looke, which
+neuer frowned with the
+lest scowle of anger:
+snowy armes, soft as
+Downe, and whiter then
+the Swannes feathers;
+alwaies open to pious
+embracements. Her mil|ken
+hand carries an O|liue
+branch, the Sym|bole
+and Embleme of
+quietnesse. She hath the
+<PB N="4" REF="6">
+face of a glorious An|gell,
+alwaies looking to|wards
+righteousnesse, as
+the two Cherubins loo|ked
+one vpon the other,
+and both vnto the Mer|cy-Seate.
+Her Court is
+the inuincible Fort of
+integrity; so guarded by
+the diuiue prouidence;
+that Drummes, Trum|pets,
+and thundring Ca|nons,
+those lowd Instru|ments
+of war, (I meane
+Blasphemy, Contenti|on,
+Violence) may af|front
+her, but neuer af|fright
+her. Shee hath a
+bounteous hand, virtu|all
+like the Garment of
+<PB N="5" REF="6">
+Christ; if a faithfull
+soule can come to touch
+it, to kisse it; all her vex|ations
+are fled, her con|science
+is at rest. Her
+bowels are full of pitty:
+shee is alwayes compo|sing
+salues for all the
+wounds of a broken
+heart, Sedition and tu+mult
+her very soule
+hates: shee tramples in|iuries
+and discords vn|der
+her triumphant feet.
+Shee sits in a Throne of
+Ioy, &amp; weares a Crown
+of Eternitie: and to all
+those that open the
+doore of their heart to
+bid her welcome, shee
+<PB N="6" REF="7">
+will open the doore of
+Heauen to bidde them
+welcome, and repose
+their soules in euerla|sting
+<HI>Peace.</HI><NOTE PLACE="marg">The requi|sitenesse &amp; revvard of Peace.</NOTE> In these
+continuall Dogge-daies
+of ours, wherein loue
+waxeth cold, and strife
+hote, wee had need set
+our Instruments to the
+tune of Peace. This
+was the blessed legacie
+which Christ bequea|thed
+to his Church: the
+Apostle from his Ma|ster
+sent it as a token to
+the <HI>Corinthians:</HI> and I
+from the Apostle com|mend
+it as a Iewell to
+all Christians;<NOTE PLACE="marg">2. Cor. 13. 11</NOTE> <HI>Liue in
+<PB N="7" REF="7">
+Peace, and the God of Loue
+and Peace shall bee with
+you.</HI> Which conclusion
+of the Epistle containes
+the blessing of the Apostle':
+a Valediction, and
+a Benediction. They are
+in part Hortatory, in
+part Consolatory: the
+vertue to which he per|swades
+them, and the re|ward
+which hee promi|seth
+them. There is a
+sweet symphony, and
+respondent proposition
+betweene the Counsell
+and the Comfort; the
+Actiue Peace, and the
+Factiue Peace: for see|king
+peace on Earth, we
+<PB N="8" REF="8">
+shall find peace in Hea|uen:
+for keeping the
+peace of God, wee shall
+bee kept by the God of
+peace. The one is the
+regular Compasse of
+our life on Earth, the o|ther
+is the glorious
+Crowne of our life in
+Heauen.</P>
+<P>That wee may not
+cherish too weake an o|pinion
+of this duty, wee
+must know, that this A|postolicall
+counsel is an
+Euangelicall law;<NOTE PLACE="marg">The forme of a right Lavv.</NOTE> and
+binds vs all to the peace.
+<HI>Liue in Peace:</HI> there are
+in it all the concurring
+qualities, that define a
+<PB N="9" REF="8">
+good law; as <HI>Lycurgus</HI>
+taught: <HI>Generalitas, Bo|nitas,
+Possibilitas.</HI> It must
+be Generall, Good, Pos|sible.</P>
+<P>Generall, so that all
+be tied to the obedience
+of it. Else it were like <HI>A|nacharsis</HI>
+law, a cobweb
+to catch flies: or those
+tyranous ce~sures, which
+are made to vex Doues,
+while they are indul|gent
+to Buzzards.</P>
+<P>It must be Good, for
+none are bound to the
+obedience of vniust
+things. If it haue an in|different
+extent to good
+or bad, there is easily
+<PB N="10" REF="9">
+found some colour of
+euasion.</P>
+<P>It must bee Possible;
+for if things be imposed
+<HI>vltra posse,</HI> and so men
+be made lyable to the
+mulct, when they are
+not culpable of the
+guilt; they may obiect
+that <HI>Naturae dictamen.
+Nemo tenetur ad impossi|bile:</HI>
+none are to be ty|ed
+to the obedience of
+impossible things. Such
+are Tyrants Lawes; not
+<HI>vincula, sed retia:</HI> not
+limits to confine, but
+netts to ensnare: not
+Pales, but Toiles.</P>
+<P>But the Law of <HI>Peace</HI> is
+<PB N="11" REF="9">
+General,<NOTE PLACE="marg">the equity of Peace</NOTE> none can plead
+immunitie. Good, none
+taxe it of iniquitie. Pos|sible,
+none can say, it is
+beyond their abilitie.
+But it may be obiected.
+If you require it Gene|rall,
+it is not Possible:
+for wee cannot haue
+peace with all men. If it
+were Possible, yet is it
+not lawfull and good;
+for wee may not haue
+peace with all men. To
+direct vs in this, the A|postle
+inserts two cau|tions.
+<HI>If it be possible,</HI><NOTE PLACE="marg">Ro. 12. 18 <GAP DESC="foreign">, <HI>and</HI> <GAP DESC="foreign"></NOTE> <HI>as
+much as lyeth in you; liue
+peaceably with all men.</HI>
+For there are some cases
+<PB N="12" REF="10">
+in which <GAP DESC="foreign">, it is
+not possible.<NOTE PLACE="marg"><GAP DESC="illegible" REASON="under-inked" EXTENT="1 letter"> Cor. 6, 15</NOTE> <HI>What com|munion
+hath light with
+darkenesse! and what con+cord
+hath Christ with Be+lial!</HI>
+Wee must haue no
+peace with it, if there
+be no grace in it.<NOTE PLACE="marg">Psalme 1</NOTE> <HI>Blessed
+is hee that walketh not in
+the counsell of the vngodly,
+&amp;c.</HI> Forbeare not only
+to sit in the <HI>Chaire</HI> of
+pestilence with them,
+which is <HI>Sinne raigning:</HI><NOTE PLACE="marg">Peccatum dominans, Peccatum delectans, peccatum <GAP DESC="illegible" REASON="under-inked" EXTENT="1 letter">n<GAP DESC="illegible" REASON="under-inked" EXTENT="2 letters">ans.</NOTE>
+but euen to <HI>stand</HI> and
+discourse with them,
+which is <HI>Sinne deligh|ting:</HI>
+yea euen to <HI>walke</HI>
+a turne with them,
+which is <HI>Sinne entring:</HI>
+<PB N="13" REF="10">
+teaching vs to shunne
+the very acquaintance
+of their counsels.</P>
+<P>But wicked men can|not
+be auoided;<NOTE PLACE="marg">The termes of Peace distingui+shed.</NOTE> and so
+long as wee are in this
+world, wee must con
+uerse with men of the
+world. To answer this,
+we must distinguish be|tweene
+offenders, and
+offences: we may haue
+no peace with the one,
+true peace with the o|ther.
+There are two
+names,<NOTE PLACE="marg">August.</NOTE> <HI>Homo &amp; Pecca|tor:</HI>
+a Man, and a Sin|ner.
+<HI>Quod Peccator est,
+corripe: quod Homo, mi|serere.</HI>
+As he is a Sinner,
+<PB N="14" REF="11">
+reforme him: as he is a
+man, the Image of God,
+pitie him. Doth thy
+Brother sinne of igno|rance?
+<HI>Dilige errantem,
+interfice errorem:</HI> kill the
+error, preserue thy bro|ther.
+Doth hee offend
+of frailty? Bee at peace
+<HI>(cum hominibus, non cum|moribus)</HI>
+with the man,
+not with the manners.
+Trespasseth hee of ma|lice?
+Hate (<HI>vitium,</HI> not
+<HI>virum</HI>) the disease, not
+the patient. Howsoeuer
+these infirmities are in|euitable,
+still wee may
+haue Peace, <HI>Cum malis,
+licet non in malis:</HI> with
+<PB N="15" REF="11">
+euill men, though not
+in euill matters.</P>
+<P>Indeede let him that
+hath anthority, correct
+malicious offences: for
+that is not like a rauisher
+to abuse, but like a Cha~|pion
+to vindicate the ho|nour
+of peace. Yet still
+<HI>Cum corrigat malitiam,
+diligat personam;</HI> let him
+correct the transgressi+on,
+loue the person.</P>
+<P>But how shall we an|swere
+that of the Psal|mist?<NOTE PLACE="marg">Psal. 59. 5.</NOTE>
+<HI>Be not mercifull to
+them that sinne of mali|tious
+wickednesse.</HI> This
+was not <HI>Precantis votum,
+sed Prophetantis vaticini|um:</HI>
+<PB N="16" REF="12">
+not the request of
+a Petitioner, but the pre|diction
+of a Prophecier.
+Hee did not wish it
+should be so, but saw it
+would be so.</P>
+<P>But if all this be true,
+wee may then admit
+peace with <HI>Rome?</HI> Wee
+doe accept a Ciuill, not
+a Religious peace. In a
+treatise of pacification,
+both parties must yeeld
+somwhat: but nothing is
+to be yeelded that may
+preiudice the Truth. In
+a Musicall Instrument
+the strings that bee out
+of tune, are set vp, or set
+downe to the rest: the
+<PB N="17" REF="12">
+strings that be in tune,
+are not stirred. Our Do|ctrine
+and Profession are
+tuned to the blessed Go|spell,
+that infallible Ca|non
+of Truth, and there|fore
+must not bee chan|ged.
+Their Faith and
+Religion iarreth and er|reth
+from that; therefore
+must bee proportioned
+to ours, if they will en|denour
+a perfect Har|mony.</P>
+<P>Thus far,<NOTE PLACE="marg">The life of Peace.</NOTE> &amp; vpon these
+tearmes wee may haue
+peace, if we seeke it: we
+may liue in peace, and
+peace may liue in vs, if
+we desire it. Therefore
+<PB N="18" REF="13">
+still <GAP DESC="foreign"> <HI>Liue in
+peace. Caluin</HI> renders it,
+<HI>Pacem agite, Doe peace.</HI>
+Or, as if God should say
+to men, whom he found
+quarrelling, or too
+lowd; <HI>Peace.</HI> The word
+is emphaticall, and imi|tates
+a continual habite:
+wee may call it, The
+Exercise of peace, or
+the Practice of peace.</P>
+<P>Some haue a good
+mind to peace,<NOTE PLACE="marg">The neglect.</NOTE> but they
+will bee at no labour a|bout
+it: many are con|tent
+to embrace it, but
+they are ashamed to seek
+it: most men loue it, few
+practise it. The vse com|mends
+<PB N="19" REF="13">
+the vertue: the
+beautie and praise of
+peace consists not in
+motion, but in action:
+nor is the benefit of it in
+a knowing discourse, but
+in a feeling sense. A Spe|culatiue
+peace, is like an
+Historicall knowledge:
+such as he that hath bin
+alwayes confined to his
+study, may haue of for|raine
+countries: so wee
+make a conquest of
+peace, as the by|word
+sayes, our Fathers
+wonne <HI>Boloigne;</HI> who
+neuer came within the
+report of the Canon.
+Or if the <HI>Grecians</HI> kept
+<PB N="20" REF="14">
+Philosophy in their
+leaues, but kept it not in
+their liues. A ieiune and
+emptie speculation, like
+some subtill ayre in the
+head, onely breakes out
+into crochets: it is ex|perience
+that brings the
+sweetnesse of peace
+home to the heart. Vse
+breeds perfectnesse, and
+disuse looseth the most
+seruiceable things. Gold
+looseth more of the
+waight by rusting in
+corners, then by conti|nuall
+running in com|merces,
+the proper end
+it was coyned for. The
+best land will yeeld smal
+<PB N="21" REF="14">
+encrease, if it be not til|led:
+though some haue
+the most profitable
+trades, the want of in+dustry
+hath made them
+the poorest men. The
+throne of peace is in the
+heart, not in the head.</P>
+<P>To recouer,<NOTE PLACE="marg">The Me|thod.</NOTE> therefore
+the swouning life of this
+vertue, I will compare
+<HI>Peace</HI> to a <HI>Citie:</HI> if you
+will, to this City: which
+should be like <HI>Ierusalem,</HI>
+A <HI>Citie of Peace.</HI> And so
+much we will pray for
+it; that it may preserue
+peace, and peace may
+preserue it, to the
+worlds end.</P>
+<P><PB N="22" REF="15">
+Let the walles of this
+Citie be <HI>Vnitie</HI> and <HI>Con|cord.</HI>
+Let her haue foure
+<HI>Gates;</HI> Innocence, and
+Patience; Benefaction,
+and Satisfaction. The
+first gate of peace is <HI>In|nocence;</HI>
+she must doe no
+wrong. The second is
+<HI>Patience;</HI> she must suffer
+wrong. The third is <HI>Be|neficence;</HI>
+she must doe
+good in stead of wrong.
+The fourth is <HI>Recom|pence;</HI>
+she must make li|berall
+and iust satisfacti|on
+for any committed
+wrong. There is also a
+<HI>Posterne Gate,</HI> and that is
+<HI>Humility.</HI> A gate indeed,
+<PB N="23" REF="15">
+but a small and low
+one; whosoeuer enters
+the Citie of peace that
+way, must stoop before
+he get in. The enemies
+of this Citie are many;
+diuided into two bands;
+<HI>Hostilitie</HI> and <HI>Mutinie</HI>
+The Gouernour of it, is
+<HI>Magistracie:</HI> the Law,
+<HI>Religion:</HI> the Palace, the
+<HI>Temple:</HI> the life of the
+Citizens is <HI>Loue.</HI> It is
+serued by the Riuer of
+<HI>Prosperitie;</HI> the State of
+it, is <HI>Felicitie:</HI> the Inheri|tance,
+eternall Glory.</P>
+<DIV2 TYPE="section">
+<HEAD>The Wals of Peace.</HEAD>
+<P>Are Vnitie and Con|cord.
+<PB N="24" REF="16">
+<HI>Omnis Societas est
+corpus politicum:</HI> and it
+is in a Citie, as in a Bo|die:
+there are many
+members, one body:
+many Citizens, one Ci+tie.<NOTE PLACE="marg">The Body is a figure of Vnitie.</NOTE>
+The Body is one of
+the most liuely figures
+and examples of peace.
+<HI>Wee are all one Body:</HI><NOTE PLACE="marg">1 Cor. 12</NOTE> not
+onely one Kingdome; so
+disparitie in Religions
+make many differences.
+Nor only one Citie, <HI>In|ter
+dites erunt lites;</HI> so
+disparitie of estates will
+breed quarrels. Nor on|ly
+one House, so wee
+may <HI>haue enemies of our
+owne houshold.</HI> But one
+<PB N="25" REF="16">
+<HI>Body,</HI> here must be al loue
+&amp; peace. Where all are
+tied by bonds, ioynts, &amp;
+ligaments to the head;
+there also by the fame
+Nerues one to another.</P>
+<P>Some me~bers are sin|gle;
+as the tongue is one,
+to speake one truth:<NOTE PLACE="marg">Mutuall Loue.</NOTE> the
+heart one, to entertaine
+one God. Other are <HI>Ge|mina,
+Germana;</HI> their for|ces
+are doubled to sup|ply
+mutuall defects.
+Some are stronger, as
+the armes and leggs; for
+the supportation of the
+weaker. Thus qualified
+are all the faithfull citi|zens
+of <HI>Peace;</HI> preser|uing
+<PB N="26" REF="17">
+an vnanimitie in af|fection,
+a sympathy in
+affliction, a ready helpe
+to the most needful con|dition.
+Comforting the
+mindes of those that are
+perplexed, supplying the
+wants of those that are
+distressed, rectifying the
+weaknesse of those that
+are vnsetled, informing
+the ignorance of those
+that are seduced, and
+reforming the errors of
+those that are peruerted:
+all endeauoring the deli|uera~ce
+of the oppressed.</P>
+<P>The me~bers prouide
+one for another:<NOTE PLACE="marg">Prouidence of parts for the vvhole&punc;</NOTE> the eye
+sees not only for it selfe,
+<PB N="27" REF="17">
+but for the Body: the
+hand works not only for
+it self, but for the Body:
+the eare hearkens, the
+tongue talkes, the foote
+walkes, all parts exercise
+their functions for the
+good of the whole. In
+the Citie of peace men
+must not only seek their
+owne, but the glory of
+their Maker, and the
+good of their Society.
+That God who hath gi|uen
+vs honour by our
+Ancestors, would also
+haue vs adde honour to
+our Successors. To pre|ferre
+a priuate good be|fore
+a publike; is to fa|mish&punc;
+<PB N="28" REF="18">
+and starue the
+whole Body, to fatt a
+toe, or pleafe a finger.
+Such Monopolies and
+Patents, as impouerish
+the whole, to enrich a
+part are not tolerable
+in the Citie of Peace.</P>
+<P>There is no enuy and
+grudging among the
+members:<NOTE PLACE="marg">Discontents remoued.</NOTE> the eye doth
+not grieue to see the
+arme grow strong, nor
+the foote to bee sensible
+of the Stomacks health.
+In this Citie, one should
+not enuy anothers thri|uing;
+as if all were ta|ken
+from our selues that
+is giuen to our neigh|bours.
+<PB N="29" REF="18">
+The Lord sees
+that an inequality is best
+for his glory: distribu|ting
+(to whomsoeuer
+lest, yet) to euery one
+more then hee deserues.
+<HI>Shall the Eare say,</HI><NOTE PLACE="marg"><GAP DESC="illegible" REASON="blotted" EXTENT="1 letter"> Cor. 12. 16.</NOTE> <HI>Because
+I am not the Eye, I am not
+of the Body?</HI> No, but
+as <HI>Iohn Baptist</HI> said of
+Christ&punc; <HI>He commeth af|ter
+me, yet is before me:</HI>
+Some come after vs in
+wealth, that may goe
+before vs in grace. The
+poore man is not so ma|ny
+pounds behinde the
+rich for this world, as
+he may be talents before
+him for the world to
+<PB N="30" REF="19">
+come. They often with
+their pouertie, miserie,
+ignominy, are saued;
+whiles others with all
+their honour and opu|lencie
+goe to hell.</P>
+<P>If one member suffer,<NOTE PLACE="marg">Condolency of the mem|bers.</NOTE>
+the rest suffer with it. If
+there be a thorne in the
+foote, the eye shedds a
+teare, the heart akes, the
+head grieues, the hand
+is ready to pull it out. If
+a man tread on our toe,
+wee say, Why doe you
+tread on <HI>Me? Quod cui|quam,
+cuivis:</HI> let vs sor|row
+for the afflictions
+of others, <HI>as if we were
+in the body.</HI> He is no sonn
+<PB N="31" REF="19">
+of Peace, that <HI>forgets the
+breaking of his brother
+Ioseph.</HI><NOTE PLACE="marg">Amo. 6. 6.</NOTE></P>
+<P>The Walls of the Ci|tie
+must bee whole,<NOTE PLACE="marg">Schisme dangerous.</NOTE> no
+breaches in them, least
+this aduantage the ene|mies
+entrance. There
+must bee no schisme in
+a Citie, as no diuision
+in the Body: one must
+not be for <HI>Paul,</HI> another
+for <HI>Apollos,</HI> another for
+<HI>Cephas;</HI> but all for
+Christ; &amp; all for Peace.
+Many euill men may
+haue one will in wicked|nesse.
+It is said of <HI>Pilate
+Tradidit Iesum volun<GAP DESC="illegible" REASON="blotted" EXTENT="1 letter">a
+ti<GAP DESC="illegible" REASON="blotted" EXTENT="1 letter">earum;</HI><NOTE PLACE="marg">Luk 23. 25</NOTE> Hee deliuered
+<PB N="32" REF="20">
+Iesus to their <HI>Will;</HI> not
+wills: many sinners, one
+will. Shall then the
+Sonnes of grace iarre?
+The Children of Peace
+be mutinous? <HI>Vnica co|lumba
+mea,</HI> saith Christ:
+<HI>My Doue is but one;</HI> the
+Doue is a Bird of peace.
+Many of them can agree
+louingly together in one
+house: euery one hath
+a litle cottage by her
+selfe, wherein shee sits
+content without disqui|eting
+her neighbours.
+Thus <HI>Dum singulae quae|runt
+vnionem, omnes con|seruant
+vnitatem.</HI> Wee
+haue them that rush in|to
+<PB N="33" REF="20">
+others Tabernacles,
+swallowing a man and
+his heritage: would
+Doues doe thus? Poore
+<HI>Nabaoths</HI> portion is ma|ny
+a rich <HI>Ahabs</HI> eye|sore;
+would Doues doe
+thus? Numbers are still
+on the wing, to prey vp|on
+prostrate fortunes;
+these bee Rauens, not
+Doues: If the Law can|not
+make worke for
+their malice, their ma|lice
+shall make worke
+for the law. This is like
+Cockes of the Game,
+to pecke out one ano|thers
+eyes, to make the
+Lawyers sport. When
+<PB N="34" REF="21">
+two friends are fallen
+out of loues into blows,
+and are fighting; a third
+aduersary hath a faire
+aduantage to kill them
+both. We haue an ene|my
+that watcheth his
+time, and while wee
+wound one another, hee
+wounds vs all.</P>
+<P>If the members bee
+pulled a sunder,<NOTE PLACE="marg">Distraction mortall.</NOTE> they all
+rott: the distraction of
+parts is the dissolution
+of the whole. If we for|sake
+the peace of our
+Mother, wee put our
+selues vpon record for
+bastards Disconte~t with
+our owne portions and
+<PB N="35" REF="21">
+places, ouerthrowes the
+Citie of Peace.<NOTE PLACE="marg">2 Esdr. 4. 1.</NOTE> When
+the <HI>Woods</HI> and the <HI>Floods</HI>
+were at variance, the
+<HI>Sand</HI> and the <HI>Fire</HI> were
+fain<GAP DESC="illegible" REASON="blotted" EXTENT="1 letter"> to quiet their in|surrections.
+While men
+will not rest satisfied
+with their owne deter+minate
+stations; but in|uade
+the seueralls and
+proprieties of others;
+what can bee expected
+but destruction? If
+there be Contention on
+this side, and Ambiti|on
+on that side, there
+will bee confusion on
+all sides. While <HI>Iu|dah</HI>
+was hot against
+<PB N="36" REF="22">
+Israel, and Israel hott a|gainst
+Iudah, the King
+of <HI>Syria</HI> smote them
+both. God shall supply
+the part of <HI>Syria;</HI> and
+when brother is against
+brother, hee will bee a+gainst
+them all. He that
+doth not what he can to
+mainetaine the walles
+doth what he can to be+tray
+the Citie. So I
+come from the Walles
+to the Gates.</P>
+</DIV2>
+<DIV2 TYPE="description of gates">
+<DIV3 N="1" TYPE="part">
+<HEAD>The first Gate</HEAD>
+<P>Is <HI>Innocence;</HI><NOTE PLACE="marg">The first Foundation of Peace.</NOTE> and this
+may bee called <HI>Bishops|gate;</HI>
+the Ministers of
+the Gospell being both
+<PB N="37" REF="22">
+the Preachers and Pre|cedents
+of Innocencie.
+If men would abstaine
+from doing wrong&punc; the
+Peace could not be bro|ken.
+St. <HI>Bernard</HI> writes
+of the <HI>Doue,</HI> that <HI>Felle
+caret,</HI> she hath no Gall:
+Let vs bee such Doues
+to purge our harts from
+all bitternesse.</P>
+<P>Now the first shelfe
+that wracks Innocence,
+is Anger. It were rare if
+<HI>the wrath of man should
+fulfill the righte&ograve;usnesse of
+God:</HI><NOTE PLACE="marg">The angry man can|not be In|nocent.</NOTE> euen a curst an|ger
+breakes the Peace.
+It is an euidence where|by
+God will iudge men
+<PB N="38" REF="23">
+guilty: now there is
+no malefactor going to
+the barre for his try all,
+would willingly haue
+that euidence found a|bout
+him, that should
+cast him. <HI>Iratus non vi|det
+legem, sed Lex videt
+iratum.</HI> The wrathfull
+man takes no notice of
+the Law, but the Lawe
+takes notice of the
+wrathfull man. Let vs
+take heede lest wee
+carry our anger with vs
+vnto God. That which
+offends our eyes, we re|moue
+either our sight
+from it, or it from our
+sight&punc; but that which of|fends
+<PB N="39" REF="23">
+our soules, we too
+often lay next our heart.
+But, it is the voice of
+transportiue fury, I can|not
+moderate my anger.
+Cannot? Wherfore ser+ueth
+grace, but to morti|fie
+such natural, yea ra|ther
+vnnatural passions?</P>
+<P>How easily doth this
+rage often inueter at; ma|king
+some so angry with
+men, that they will searse
+bee pleased with God
+himselfe! And either he
+must take the~ with their
+anger, or let them alone.
+So soone it rankles into
+malice, &amp; that is full op|posite
+to Innocence.</P>
+<P><PB N="40" REF="24">
+What shall a man do?
+In this sudden fitt shall
+he come to the Lords
+Table, or forbeare it?
+<HI>Si non accesserit, pericu|lum:
+Si accesserit, dam|num.</HI>
+To refuse the Sa|crament
+in anger, is e|uill:
+to receiue it in an|ger,
+thats worse. Is the
+Body &amp; Bloud of Christ
+no more worth, but that
+for loue of a peeuish hu|mour
+we should neglect
+it? Shall we starue our
+consciences, to feed our
+misbegotten passions?
+What is then to be done
+in this straight? The
+answer is easie: Let vs
+<PB N="41" REF="24">
+excommunicate our
+wrath, that wee may
+communicate with the
+Church: leaue our lusts
+behinde vs, and wee are
+welcome;<NOTE PLACE="marg">Gen. 22. 5</NOTE> as <HI>Abraham</HI>
+left his Asse when hee
+went about his Sacri|fice.
+In the Leuiticall
+Law no vncleane thing
+might be touched: if it
+were touched, the Tem|ple
+by that person must
+not be approched. Now
+for the Israelite to ab|sent
+himselfe from the
+assembly of Saints, and
+seruice of God, was
+ponderous: to come
+so polluted, was dange|rous.
+<PB N="42" REF="25">
+He knew the reme|die;
+either not to be vn|cleane
+at all, or soone to
+get himselfe clensed.
+The first best is to har|bour
+no malice; the next
+to deliuer our selues
+from it with all possible
+speed.</P>
+<P>In a word, let vs turne
+our anger whe~ it comes,
+another way. Let all our
+hate be the hate of sin;
+and all our anger bent
+against our owne cor|ruptions.
+Let our wrath,
+like the Shepheards
+dogge, sleepe till the
+Wolfe comes. Be we at
+peace with God by re|penta~ce,
+<PB N="43" REF="25">
+with our neigh+bour
+by innocence, with
+our owne heart by a pu|rified
+and pacified con|science;
+and the Prince
+of peace, the Lord Iesus
+shall embrace vs.</P>
+</DIV3>
+<DIV3 N="2" TYPE="part">
+<HEAD>The second Gate</HEAD>
+<P>Is <HI>Patience;</HI><NOTE PLACE="marg">The second Foundation of Peace.</NOTE> which is
+not vnlike to <HI>Ludgate:</HI>
+for that is a Schoole of
+patie~ce; the poore soules
+there learne to suffer.
+The first entrance of
+peace is to doe no in|iury,
+the next is to suffer
+iniury. It is one speci|all
+commendation of
+Charitie, that it <HI>Suffers
+<PB N="44" REF="26">
+all things; Pro fratribus,
+a fratribus, propter fra|tres.</HI>
+For our brethren
+wee must sustaine some
+losse: hee that suffers
+not an abatement of his
+owne fulnesse, to supply
+their emptinesse, is no
+brother. Of our bre|thren
+wee must put vp
+some wrong, rather
+then make a slaw in the
+smooth passage of
+peace. Because of our
+brethren, and <HI>for the E|lects
+sake,</HI><NOTE PLACE="marg">2 Tim 2. 18</NOTE> <HI>we must endure
+all things, that they may
+obtaine Saluation.</HI> Let vs
+bee infirmed, to haue
+them confirmed: broo|king
+<PB N="45" REF="26">
+a temporal losse, to
+procure their eternall
+good.</P>
+<P>According to the A|postles
+counsell, <HI>Let vs
+beare the burthen one of
+another,</HI><NOTE PLACE="marg">Gal. 62.</NOTE> and God shall
+beare the burthen of vs
+all. As in the Arch of a
+building, one stone
+beares mutually, though
+not equally, the waight
+of the rest. Or as Deere
+swimming ouer a great
+water, doe ease them|selues
+in laying their
+heads, one vpon the
+backe of another: the
+formost hauing none to
+support him, changeth
+<PB N="46" REF="27">
+his place, and rests his
+head vpon the hind|most.
+Beare thou with
+his curiousnes, hee doth
+beare with thy furious|nes:
+let mee beare with
+his arrogance, hee doth
+beare with my igno|rance.
+In Architecture,
+all stones are not fit to
+bee laid in euery part of
+the building: but some
+below, as the fundamen|tall,
+and chiefe corner|stone
+to sustain the load
+of the rest: some higher
+in the wall, other in the
+top for ornament. In
+the Church, which is
+built of <HI>Liuing Stones,</HI>
+<PB N="47" REF="27">
+Christ is the <HI>Head of the
+corner,</HI> the Foundation
+that supports all. Gra|cious
+Saints haue the
+next places, and are
+so set that they may
+helpe to beare vp the
+weaker.</P>
+<P>Materialls that bee
+onely of a hard nature,
+will neuer fadge well
+in an Edifice. The Ita|lians
+haue a Prouerbe;
+<HI>Hard without soft, the wal
+is nought.</HI> Stones cob|bled
+vp together, with|out
+morter to combine
+them, make but a totte|ring
+wall. But if there be
+morter to ciment them,
+<PB N="48" REF="28">
+and with the tractable
+softnesse of the one to
+glew and fixe the solide
+ha<GAP DESC="illegible" REASON="under-inked" EXTENT="1 letter">dnesse of the other;
+this may fortifie it a|gainst
+the shocke of the
+Ramme, or shot of the
+Canon. The societie
+that consists of nothing
+but stones, intractable
+and refractory spirits,
+one as froward and per|uerse
+as an other, soone
+dissolues. But when one
+is reaking with the fire
+of rage, and another
+shall bring the water of
+patience to coole and
+quench it; here is a du|ration
+of peace. When
+<PB N="49" REF="28">
+yron meets yron, there
+is a harsh and stubborne
+iarre: let wooll meete
+that rougher mettal, and
+this yeelding turnes re|sistance
+into embrace|ments.</P>
+<P>Let not then the voice
+be an eccho of ill words,
+nor the hand a Racket
+to bandy back fire-bals.
+Patience makes euen the
+wicked confesse; <HI>Thou
+art more righteous then I.
+Infoelix victoria qua ho|minem
+superamus,</HI><NOTE PLACE="marg">1. Sam. 24.</NOTE> <HI>vitio
+succu~bi.</HI><NOTE PLACE="marg">18. Bern.</NOTE> It is a wretched
+victory that ouercomes
+our soules, and slaues vs
+to our lustes. <HI>Patientia
+<PB N="50" REF="29">
+mea &agrave; Domino,</HI><NOTE PLACE="marg">Psal. 62. 5.</NOTE> as the Fa|thers
+read it: and indeed
+who can giue this pati|ence,
+but God? <HI>Paul</HI> had
+many liues, yet he sacri|ficed
+them all;<NOTE PLACE="marg">Cor. 15.</NOTE> <HI>I die dai|ly.
+Etsi non mortis expe|rientia,</HI><NOTE PLACE="marg">31. Chrys.</NOTE>
+<HI>tamen proposito.</HI>
+Though he could loose
+but one, yet in regard of
+his patience and pur|pose,
+hee was ready to
+loose them all.</P>
+<P>Nor is Christian pati|ence
+thus confined with|in
+the bearing of iniu|ries;
+but it extends al|so
+to the remitting of
+them. Some can suffer
+for the present, as <HI>Ha|man</HI>
+<PB N="51" REF="29">
+before <HI>Mordecay,
+Animo vindicandi.</HI> For|giuenesse
+is the demon|stration
+of patience. Not
+to contest because wee
+cannot conquer, is cal|led
+Patience perforce:
+but can we remit? The
+ciuill man can forbeare,
+the Christian must for|giue.
+Let vs bee remisse
+to note a wrong, remis|siue
+to forget it, writing
+all our iniuries in the
+dust. Yea, let humilitie
+sweetly order our for|giuenes:<NOTE PLACE="marg">Sen.</NOTE>
+for <HI>Grauissima
+poena est contumeliosa ve|nia:</HI>
+a proud and scorn|full
+pardon, is a reproch|full
+<PB N="52" REF="30">
+wrong; there is in it
+more bitternesse then
+mercie; more punish|ment
+then reconcile|ment.</P>
+<P>Otherwise how can
+we pray, <HI>Forgiue vs our
+trespasses, As wee forgiue
+them that trespasse against
+vs?</HI> O but say some,
+God is merciful: what,
+shall wee therefore bee
+vnmercifull? I may for|giue,
+but I cannot for|get;
+is the faint reserua|tion
+of another. Take
+we heed, let not vs be in
+iest with God, least hee
+be in earnest with vs. Do
+we not otherwise beg a
+<PB N="53" REF="30">
+remouall of mercie and
+pardon from our owne
+soules? Will not God
+say, Euill seruant, <HI>Ex ore
+tuo,</HI> out of thy owne
+mouth wil I iudge thee?
+Hath Christ with his
+owne blood made thee
+friends with God, and
+cannot that blood in|treat
+thee to bee friends
+with thy brother,<NOTE PLACE="marg">Mat. <GAP DESC="illegible" REASON="faint" EXTENT="1 letter">&punc; 24.</NOTE> when
+thou commest to the
+holy Altar with thy gift,
+and remembrest thy of|fended
+brother: <HI>Leaue
+there thy gift&punc;</HI> first be re|conciled
+to him, then
+offer to God. <HI>A gift doth
+pacifie wrath,</HI> and God is
+<PB N="54" REF="31">
+pleased with our Sacri|fice
+vpon his Altar: yet
+<HI>Cum omnis culpa munere
+soluatur,</HI><NOTE PLACE="marg">Aug.</NOTE> <HI>sola iniuria in|condonata
+reijcitur:</HI> when
+euery fault is solued
+with a gift, Iniury alone
+is sent away without
+pardon.</P>
+<P>Therfore <HI>Qualem vis
+erga te esse Deum,</HI><NOTE PLACE="marg">Isodo<GAP DESC="illegible" REASON="blotted" EXTENT="1 letter">.</NOTE> <HI>talem
+te exhibeas erga proxi|mum:</HI>
+bee thou to thy
+brother on earth, as
+thou wouldest haue thy
+Father in heauen bee to
+thee. <HI>Si laedens, pete ve|niam:
+st laesus, da veniam.</HI>
+If an iniurer, aske par|don:
+if a sufferer, giue
+<PB N="55" REF="31">
+pardon. Be we so farre
+from expecting his sub|mission,
+that wee tender
+our<GAP DESC="illegible" REASON="faint" EXTENT="2 letters">emission; and meet
+the trespasser with a
+pardon before hee aske
+it.<NOTE PLACE="marg">Sen.</NOTE> <HI>Dissensio ab alijs, &agrave; te
+reconciliatio incipiat.</HI> Let
+strife begin from others,
+bee thou first in recon|cilement.
+Christ healed
+<HI>Malchus</HI> his eare, that
+came to arrest him.
+Which amongst vs so
+loues his benefactors, as
+<HI>Paul</HI> loued his malefa|ctors?
+Hee would doe
+any thing to saue them,
+that would do any thing
+to kill him. Others of|fences
+<PB N="56" REF="32">
+to vs are but
+small; valued with ours
+against God who is in|finite.
+If he forgiue the
+pounds, let not vs sticke
+at the farthing tokens.</P>
+</DIV3>
+<DIV3 N="3" TYPE="part">
+<HEAD>The next Gate</HEAD>
+<P>Is <HI>Beneficence;</HI> Doing
+good,<NOTE PLACE="marg">The third foundation of Peace.</NOTE> is the fortification
+of peace. This may be
+called <HI>Ald-gate;</HI> not on|ly
+because there is the
+picture of Charitie: (at
+the gate: I doe not say,
+as neere going out; but
+at the gate, to keepe
+goodnesse in.) But be|cause
+that is called the
+Old-gate, and Charitie
+<PB N="57" REF="32">
+was a vertue of olde
+times, not so much now
+in fashion. The heathen
+Moralist said, wee must
+vse men thus; <HI>Benevelle
+omnibus, benefacere ami|cis;</HI>
+wish well to all, and
+doe good onely to our
+friends. But the cleere
+light of nature, which is
+the Gospell, chargeth vs
+while wee haue oppor|tunitie,<NOTE PLACE="marg">Gal. 6. 10.</NOTE>
+<HI>to doe good to all
+men;</HI> albeit with some
+preferment of the best,
+<HI>especially to the houshold of
+Faith.</HI></P>
+<P>All men may bee ran|ked
+vnder one of these
+combinations: Rich and
+<PB N="58" REF="33">
+poore, home-borne and
+strangers, friends &amp; ene+mies.
+First for the rich
+and poore; the Pharisee
+wil stand on good terms
+with the rich, inuite
+them for a re-inuitation
+as men at Tennisse, tosse
+the ball to another, that
+hee may tosse it to them
+againe: but who helpes
+the poore?<NOTE PLACE="marg">Pro. 19. 4.</NOTE> <HI>Wealth ma|keth
+many friends, but the
+poore is separated from his
+neighbours.</HI> If hee doe
+well, he is not regarded:
+if ill, hee is destroyed.
+The poore man by his
+wisdome deliuered the
+citie from the force of a
+<PB N="59" REF="33">
+puissant enemy; yet whe~
+all was done,<NOTE PLACE="marg">Eccl. 9. 15.</NOTE> <HI>no man re|membred
+that poore man.</HI>
+But if hee <HI>stumble,</HI><NOTE PLACE="marg">Ecclus. 13. 23.</NOTE> <HI>they
+will helpe to ouerthrowe
+him.</HI> How contemptibly
+doth a rich epicure look
+vpon a poore beggar!
+yet <HI>the rich and the poore
+meete together,</HI><NOTE PLACE="marg">Prou. 22. 2</NOTE> <HI>and the
+Lord is the maker of them
+all.</HI> In all our graund
+Feasts, the guestes that
+Christ spoke for,<NOTE PLACE="marg">Luk. 14. 14.</NOTE> are left
+out.</P>
+<P>For Domestickes and
+strangers; many haue so
+much religion as to pro|uide
+for their owne; yea
+so much irreligion as to
+<PB N="60" REF="34">
+do it with the preiudice
+of the publicke good,
+and hazard of their own
+soules: but who pro|uides
+for strangers?<NOTE PLACE="marg">Heb. 13. 2.</NOTE> <HI>En|tertaine
+strangers, for
+thereby some haue enter|tained
+Angels vnawares:</HI>
+but for all this possible
+happinesse, few will put
+it to the venture: and
+were they indeed An|gels
+without angels in
+their purses to pay for
+it, they should find cold
+entertainment.</P>
+<P>Friends and enemies;
+for friends, many will be
+at peace with them, till
+they bee put to the triall
+<PB N="61" REF="34">
+by some expressiue acti|on.
+And then they will
+rather hazard the losse
+of a friend, then the lest
+losse by a friend. But
+suppose we answere our
+friendes in some slight
+courtesie, hoping for a
+greater: who will doe
+good to his enemies? <HI>If
+thine enemie hunger,</HI><NOTE PLACE="marg">Ro. 12. 20.</NOTE> <HI>feed
+him&punc; so thou shalt heape
+soales of fire on his head.</HI>
+Do it, not with an intent
+to make his reckoning
+more, but thy owne rec|koning
+lesse. <HI>Loue your
+enemies,</HI><NOTE PLACE="marg">Mat. 5. 44.</NOTE> <HI>blesse them that
+curse you, doe good to them
+that hate you, and pray for
+<PB N="62" REF="35">
+them that despitefully vse
+you.</HI> Doe vnto them
+deeds of amitie, deeds
+of charitie, deeds of pi|etie.
+Of amitie, <HI>Loue</HI>
+them that hate you: of
+Charitie, <HI>Doe good</HI> to
+them that hurt you: of
+Pietie, <HI>Pray</HI> for the~ that
+persecute you. There is
+the <HI>Diligite</HI> of the <HI>Heart,
+Loue</HI> your enemies. The
+<HI>Benedicite</HI> of the <HI>Tongu,
+Blesse</HI> them that curse
+you. The <HI>Benefacite</HI> of
+the <HI>Hand, Doe good</HI> to
+them that hate you. The
+<HI>Beneuelle</HI> of all, <HI>Pray</HI> for
+the~ that persecute you.
+Loue your enemies,
+<PB N="63" REF="35">
+there is <HI>Affectus cordis:</HI>
+Doe them good, there is
+<HI>Effectus operis:</HI> Pray for
+them, there is <HI>Perfectio
+charitatis.</HI> But the wise|man
+counsels;<NOTE PLACE="marg">Eccl. 12. 5. 7.</NOTE> <HI>Doe well
+to him that is lowly, but
+giue not to the vngodly.</HI>
+And <HI>Giue vnto the good,
+not to the sinner.</HI> Though
+not <HI>Qua impius,</HI> and <HI>quia
+impiu<GAP DESC="illegible" REASON="faint" EXTENT="1 letter">;</HI> yet <HI>qua homo;</HI> and
+<HI>quia homo,</HI> wee must re|leeue
+him. Cherish him|selfe,
+not his sinne. Wee
+must loue him, <HI>non quoad
+culpam, sed quoad natu|ram.</HI>
+They are Gods
+children, <HI>licet insani,</HI> al|though
+they be sick; and
+<PB N="64" REF="36">
+our brethren, <HI>licet infir|mi,</HI>
+although they bee
+weake. Therefore for
+the conformitie of na|ture,
+because we are the
+same workmanship: for
+our owne benefite, for
+hee that doth good to
+his enemy, euen in that
+doth better to himselfe:
+and for the imitation of
+<HI>Him</HI> wee worship, let vs
+vphold Peace by Cha|ritie.
+His Sunne rises,
+and raine falls, both on
+the iust and vniust. <HI>Noli
+negare,</HI><NOTE PLACE="marg">Mat. 5, 45.</NOTE> <HI>quod Deus nulli
+negat.</HI> Thus looking vp
+with pietie to the Lords
+perfection, and downe
+<PB N="65" REF="36">
+with pitie vpon mans
+imperfection, let vs doe
+good to all.</P>
+<P>Through the gate of
+Beneficence, doth the
+charitable man enter in|to
+the Citie of Peace.
+Hee that is couetous,
+must needs be mutinous.
+<HI>He that is greedy of gaine,</HI><NOTE PLACE="marg">Pro. 15. 27.</NOTE>
+<HI>troubleth his owne house
+Salomon</HI> cals him a trou|ble-house,
+and wee doe
+find him a trouble-citie;
+as <HI>Demetrius</HI> did all <HI>E|phesus.</HI>
+But Charitie
+makes peace; <HI>Diuitem
+voluit Deus vt pauperem
+adiuvaret, Pauperem vo|luit
+vt diuitem probaret.</HI>
+<PB N="66" REF="37">
+God makes some rich,
+to helpe the poore: and
+suffers some poore, to
+try the rich. The loaden
+would bee glad of ease:
+now charitie lighteneth
+the rich man of his su+perfluous
+and vnweldy
+cariage. When the poor
+find mercy, they will be
+tractable: when the rich
+find quiet, they should
+bee charitable. Would
+you haue your goods
+kept in <HI>Peace?</HI> First, lock
+them vp by your pray|ers,
+then open them a|gaine
+with your thank|full
+vse, and trust them
+in the hands of Christ
+<PB N="67" REF="37">
+by your Charitie.</P>
+<P>This Citie heares ill
+for oppression, and is (I
+feare too iustly) suspe|cted
+of Iniustice: now
+the most noble confuta|tion
+of iealousie, is by
+deeds of charitie. This
+is the East-gate to the
+Citie of Peace, and I
+may (from Saint <HI>Paul</HI>)
+call it the principall, and
+<HI>most excllent way.</HI><NOTE PLACE="marg">1. Cor. 12. 31.</NOTE> Who|soeuer
+can shew you the
+way better, yet certain+ly
+none can shew you a
+better way.</P>
+</DIV3>
+<DIV3 N="4" TYPE="part">
+<HEAD>The fourth Gate</HEAD>
+<P>Is <HI>Recompence,</HI> or <HI>Satis|faction;</HI>
+<PB N="68" REF="38">
+and this we may
+liken to <HI>Creeple-gate.</HI> It
+is the lamest way to
+peace, yet a way: it is a
+halting gate, but a gate.
+It were far better com|ming
+into this Citie by
+any of the former gates,
+yet better at this then
+none. All come not in
+by Innocence, nor all by
+Patience, nor all by Be|neficence:
+but if they
+haue failed in these, they
+must be admitted by re|compence,
+or not at all.
+The first best is to do no
+iniury; the next is Satis|faction,
+to make amends
+for that wee haue done.
+<PB N="69" REF="38">
+<HI>Hortensins</HI> sayd of his
+mother, <HI>Ego nunquam
+cum ea inivi gratiam,</HI> I
+neuer was reconciled to
+her, because we two ne|uer
+fell out. O that the
+Inhabitants of this citie
+could say so of their
+neighbours; Wee neuer
+were made friends, be|cause
+wee neuer were
+foes.<NOTE PLACE="marg">Non operter Officii, sed potius offi|ciendi.</NOTE> But as our Sauiour
+saith, It is necessary that
+offences doe come: not
+that it should be so, but
+that it will be so. There
+is no necessity that com|pels
+a man to sinne; ex|cept
+that the heart be|ing
+euill, will giue of|fence.
+<PB N="70" REF="39">
+As it is necessary
+for him that comes to
+the fire, to be made hot:<NOTE PLACE="marg">Hieron.</NOTE>
+but there is no necessity
+that hee come vnto the
+fire.</P>
+<P>The malady of offen|ces,
+will bee contracted,
+therefore the onely
+Cure is by Satisfaction.
+That wee may know
+how to doe this, the
+Scripture sets downe di|uers
+degrees in the ac|complishment
+of this
+Satisfaction for iniuries.
+First, he must goe to the
+party wronged. Second|ly,
+He must confesse his
+fault. Thirdly, He must
+<PB N="71" REF="39">
+humble himself. Fourth|ly,
+He must make resti|tution.
+Fiftly, Hee must
+reconcile himselfe. Sixt|ly,
+and this must be done
+quickly, with all possi|ble
+speed.</P>
+<P>He must goe to him,
+not tarry till hee meete
+him, or till some occasi|on
+bring them together;<NOTE PLACE="marg">Mat. 5. 24.</NOTE>
+not <HI>Obuiamda;</HI> But <HI>Goe</HI>
+to thine aduersary, goe
+on purpose: enquire for
+him, seeke him out, rest
+not till thou finde him.</P>
+<P>Humanity may worke
+some to this vnderta|king,
+and ouertaking of
+peace: but man is natu|rally
+<PB N="72" REF="40">
+so good a constru|ctor
+of his owne doings,
+that will hee <HI>confesse</HI> his
+fault?<NOTE PLACE="marg">Num. 5. 7.</NOTE> Yes, <HI>He shall con|fesse
+his trespasse.</HI></P>
+<P>An ingenious nature
+may be brought to ac|knowledge
+his fault:
+but will <HI>Pride,</HI> the con|tention-maker,
+admit
+<HI>Humilitie?</HI> will hee
+stoope to him hee hath
+abused? From insulta|tion
+will hee descend to
+submission? He must;
+<HI>Goe and humble thy selfe.</HI><NOTE PLACE="marg">Prou. 6. 3.</NOTE></P>
+<P>Touch of conscience
+may procure Humilitie;
+but yet wll he not spend
+twice as much at Law,
+<PB N="73" REF="40">
+ere he make restitution?
+Yet euen here, a quiet
+man for his owne peace
+sake may be brought to
+giue somewhat, for a
+part of amends: but
+will hee satisfie him the
+whole? The law of na|ture
+requires total satis|faction,
+but will hee be|sides
+giue dammages?
+The law of the Land al|lowes
+dammages; but
+now will hee giue any
+ouerplus to make an at|tonement?
+or bee at so
+much coast as to buy a
+reconcilement, rather
+then misse it? He must:
+<HI>Zacheus</HI> restores <HI>foure|fold;</HI>
+<PB N="74" REF="41">
+and by the Law he
+is bound to adde a <HI>fifth
+part.</HI><NOTE PLACE="marg">Num. 5. 7.</NOTE></P>
+<P>But if all this be done,
+will hee yet euer bee
+friends with him? will
+he be truely reconciled?
+Hee must:<NOTE PLACE="marg">Mat. 5. 24.</NOTE> <HI>Reconcile thy
+self to thy brother.</HI> Other|wise,
+when he desires of
+the Lord to be forgiuen,
+as hee forgiueth; God
+will answer as <HI>Ioseph</HI> did
+to his brethren;<NOTE PLACE="marg">Gen. 43. 3.</NOTE> <HI>Looke
+me not in the face, vnlesse
+thy brother bee with thee.</HI>
+Shall the father thinke
+wel of that sonne, which
+reiecteth his brother?
+Doe we call the <HI>Author
+<PB N="75" REF="41">
+of Peace,</HI> our God, while
+wee are the children of
+dissention? Will he euer
+agree with him, that de|lights
+to quarrell with
+his? But suppose the in|iurer
+doth intreate and
+perswade himself, with|out
+pr<GAP DESC="illegible" REASON="faint" EXTENT="1 letter">uailing, will he
+vse his friendes about
+such a businesse? Yes,
+saith <HI>Seolomon,</HI> hee must
+employ his friends.</P>
+<P>Time may worke all
+this, but to doe it when
+the flesh trembles, and
+the blood boyles for re|uenge,
+suddenly; who
+can so preuaile ouer him
+selfe? He must doe it
+<PB N="76" REF="42">
+<HI>quickly;</HI><NOTE PLACE="marg">Mat 5. 25.</NOTE> <HI>Agree with thine
+aduersary quickly.</HI> Yes
+perhaps, when leasure
+may serue: but will any
+man neglect businesse to
+goe about it? Yes, all
+busines set apart, though
+it were as important as
+offring sacrifice at Gods
+owne Altar; <HI>Leaue there
+thy gift,</HI><NOTE PLACE="marg">Pelican.</NOTE> <HI>&amp;c. Non experi|eris
+Deum tibi propitium,
+nisi proximus te sentiat
+sibi placatum.</HI> Strife with
+our brother makes our
+best seruices vnaccepta+ble
+to our Father. The
+Lord despiseth his own
+worship, to maintain our
+charitie: and will not be
+<PB N="77" REF="42">
+found of vs,<NOTE PLACE="marg">Chysost.</NOTE> till we haue
+found our brother, to
+make our peace with
+him. Come not to the
+Temples, heare no Ser|mons,
+say not your prai|ers,
+forbeare all worship
+and deuotions, while a
+festring and rankling ha|tred
+is in your soules.</P>
+<P>Yet now all this may
+be done of an Inferiour
+to a Superior, either for
+feare or hope of gaine
+by his loue: but would
+you haue a Superiour
+yeeld thus to an Infe|rior,
+to deprecate strife?
+Yes, <HI>Abraham</HI> disdained
+not to goe vnto <HI>Lot,</HI> the
+<PB N="78" REF="43">
+elder to the yonger, the
+vncle to the nephew, the
+worthier to the meaner,
+and that in the kindest
+manner, to compose a
+controuersie begun by
+their seruants. O that
+this age, which seldome
+wakes but to doe mis|chiefe,
+would yet think,
+how after all iniuries to
+others, they doe this
+greatest iniury to their
+owne soules; that for
+want of a iust compen|sation,
+they exclude
+themselues from the
+blessing of <HI>Peace!</HI></P>
+<P>These bee the maine
+<HI>Gates,</HI> there is a little <HI>Po|sterne</HI>
+<PB N="79" REF="43">
+besides, that is <HI>Hu|militie:</HI>
+for of all vices,<NOTE PLACE="marg">Humilitie the conser|uation of Peace.</NOTE>
+Pride is a stranger to
+Peace. The proud man
+is too guiltie, to come in
+by Innocence: too sur|ly,
+to come in by Pati|ence:
+he hath no minde
+to come in by Benefacti|on:
+and he scornes to
+come in by Satisfaction.
+All these Portcullises be
+shut against him: there
+is no way left but the
+Postern for him, he must
+stoope, or neuer bee ad|mitted
+to peace. Pride is
+alwayes enuious &amp; con|tumelious,
+thinking shee
+addes so much to her
+<PB N="80" REF="44">
+owne reputation, as shee
+detracts from others:
+she is no fit neighbor for
+Peace.</P>
+</DIV3>
+</DIV2>
+<DIV2 TYPE="section">
+<P>Heauen is a high Ci|tie,
+yet hath but a low
+Gate.<NOTE PLACE="marg">Aug.</NOTE> <HI>Celsa patria, via
+humilis. Tolle super biam,
+quod habes meum est&punc; tol|le
+inuidiam, quod habe<GAP DESC="illegible" REASON="over-inked" EXTENT="1 letter">
+tuum est.</HI> Take away
+pride, and that which
+thou hast is mine: take
+away enuie, and that
+which I haue is thine.
+Pride and enuy are too
+vnciuill for a peaceable
+citie: the one cannot en|dure
+a vicine prosperity,
+nor the other a superior
+<PB N="81" REF="44">
+eminency. All men must
+bee poore to please the
+one, and all must be base
+to content the other.
+Peace is humble, pride
+quite ouer-lookes her.
+The Philosopher might
+haue seene the starres in
+the water, he could not
+see the water in the
+starres, when hee stum|bled
+into the ditch. Men
+may behold glory in hu|militie,
+they shall neuer
+find peace in ambition.
+The safest way to keepe
+fire, is to take it vp in
+embers: the best means
+to preserue peace, is in
+humblenesse. The tall
+<PB N="82" REF="45">
+Cedars feele the fury of
+tempests; which blow
+ouer the humble shrubs
+in the low vallies. There
+was no rule with <HI>Paul</HI>
+at first; raising tumults,
+speeding Commissions,
+breathing out slaugh|ters
+against poore Chri|stians.
+But when Christ
+had thundred him from
+his horse, broken his
+wild spirit to humilitie,
+the~ he was fit for peace.
+God, that often effectu|ates
+his owne will by
+contraries, makes trou|ble
+the preparation for
+peace: as a father cor|rects
+his vnruly children
+<PB N="83" REF="45">
+that they may be quiet.
+Let vs examine our
+owne experience: when
+the Lord hath soundly
+scourged vs, we go from
+vnder his fingers as tame
+as lambs: farewell strife,
+all our care is to finde
+rest and peace in Iesus
+Christ.</P>
+<P>Wee haue seene the
+<HI>Citie of Peace,</HI> with her
+walles and gates, and
+wee wish well to her;
+<HI>Peace bee within thy wals,</HI><NOTE PLACE="marg">Psal. 122. 7.</NOTE>
+<HI>and prosperitie within thy
+palaces.</HI> But hath she no
+aduersaties? Yes, there
+is an enemic that be|leaguers
+this Citie; <HI>Con|tention.</HI>
+<PB N="84" REF="46">
+Whose army is
+diuided into two Bands
+or Troups;<NOTE PLACE="marg">The Ene|mies of Peace.</NOTE> the one cal|led
+the <HI>Ciuill,</HI> the other
+the <HI>Vnciuill:</HI> the Ciuill
+are Law-quarrels, the
+vnciuil are Sword-quar|rels.
+The one is the
+smooth-fac'd company,
+the other the rugged or
+ragged Regiment. The
+citie of peace hath gates
+for these also, when she
+hath subdued them. Ei|ther
+shee turnes them
+out at <HI>Moore-gate,</HI> as
+fitter for the societie of
+Moores and Pagans; she
+banisheth them. Or laies
+them vp in <HI>New-gate;</HI> a
+<PB N="85" REF="46">
+place very conuenient,
+beeing not so olde as
+peace, built since the
+birth of strife. These e|nemies
+pursue vs, <HI>vel fer|ro,
+vel foro,</HI><NOTE PLACE="marg">Aug.</NOTE> as that Fa|ther
+saith.</P>
+<P><HI>Ferro,</HI><NOTE PLACE="marg">The first Troupe.</NOTE> when vpon e|uery
+punctilio of honor,
+as they falsely call it,
+Reason &amp; Religion must
+be thrown by, and Fury
+gouerne. The Gallant,
+as if hee knew no Law
+but his owne will, or as
+if the least aspertion vp|on
+his honor were more
+weighty, then if the state
+of Christen dome, or the
+glory of God lay vpon
+<PB N="86" REF="47">
+it; cryes Reuenge, offers
+the stab, threatens the
+pistoll. How is that pre|cious
+account forgotten
+which God requires of
+man and beast!<NOTE PLACE="marg">Gen. 9. 5.</NOTE> Men
+study to bee mad with
+reason, they haue an Art
+of killing, that teaches
+murther by the booke:
+as cunning as <HI>Ioab</HI> was,
+that could stabbe in the
+fift rib,<NOTE PLACE="marg"><GAP DESC="illegible" REASON="faint" EXTENT="1 letter"> Sam. 3. 27. &amp; 20. 10.</NOTE> a speeding place:
+so he treacherously slew
+<HI>Abner</HI> and <HI>Amasa.</HI> O
+that men should venture
+their liues vpon one an|others
+sword, as if they
+had no soules to be ven|tured
+vpon the sword of
+<PB N="87" REF="47">
+Gods vengeance! That
+he should bee held base,
+who being challenged,
+doth not write his mind
+with a pen of steele, in
+the inke of blood, on the
+white paper of mans
+life!</P>
+<P>Cannot the teares of
+our <HI>Mother</HI> preuail with
+vs, when seeing vs quar|rell,
+she sayes as <HI>Iocasta</HI>
+aduised her two vnbro|therly
+sonnes; <HI>Bella geri
+placuit nullos habitura
+triumphos.</HI> Or as <HI>Rebecca</HI>
+said of her twinnes;<NOTE PLACE="marg">Gen. 27. 45.</NOTE> <HI>Why
+should I be depriued of you
+both in one day?</HI> But if
+our <HI>Mother</HI> cannot still
+<PB N="88" REF="48">
+vs, our <HI>Father</HI> will part
+vs: &amp; they whose soules
+haue peace, shall be sent
+to a prison where is no
+peace: that seeing they
+loue quarrels, they may
+haue fighting enough
+with infernall spirits.
+But perhaps there bee
+some who make no o|ther
+reckoning, resol|uing
+with him in the O|rator,
+<HI>Hodie coenabimus
+apud Inferos:</HI> to night
+wee will sup together in
+hell. As it is reported
+of two to haue fought
+vnder the gallows: de|sperately
+fore-casting,
+that if the one were
+<PB N="89" REF="48">
+there killed, the other
+should there be hanged.</P>
+<P>By the toleration of
+this Duel in France, that
+kingdome lost in tenne
+yeres six thousand Gen|tlemen;
+as themselues
+report. Wretched men!
+for <HI>Occiser lethaliter pec|cat,</HI><NOTE PLACE="marg">Bern.</NOTE>
+<HI>&amp; occisus aeternaliter
+perit:</HI> the homicide sins
+deadly, and the slaine
+(without vnexpectable
+mercy) perisheth eter|nally.
+How dare they
+lift vp those hands to
+God for mercy, that
+haue beene lifted vp a|gainst
+their brother in
+cruelty? Euery base ver|mine
+<PB N="90" REF="49">
+can kill,<NOTE PLACE="marg">Aug.</NOTE> it is true
+prowesse and honour to
+giue life, and preserue it
+<HI>Simeon</HI> and <HI>Leui</HI> seemed
+to haue iust cause;<NOTE PLACE="marg">Gen. 34. 31</NOTE> the
+<HI>Whoring</HI> of their owne
+<HI>Sister:</HI><NOTE PLACE="marg">Gen. 49. 6.</NOTE> yet their father
+cals them <HI>brethren in euil</HI>
+for it, blesseth his honor
+from their company, &amp;
+his soule from their se|crecy.
+Thou sayst of thy
+contendent, he shal haue
+as good as he brings, yet
+thy self condemnest that
+hee brings for euill.<NOTE PLACE="marg">Basil.</NOTE> <HI>Ne
+vtaris inimico praecepto|re,</HI>
+let not thy enemie
+teach thee to due that,
+which thy selfe detestest
+<PB N="91" REF="49">
+in him. Because wee re|ceiue
+iniuries without
+right, shall wee returne
+them without law?</P>
+<P>Sometimes this ari|seth
+from the wine, <HI>Bac|chus
+ad arma vocat:</HI> and
+lightly it makes men ap|test
+to vse their armes,
+when they cannot stand
+on their legges. But shall
+this serue for a plea, and
+get a pardon, it was
+done in drinke? no, this
+rather deserues a double
+punishment, as it is a
+double fault. Common|ly
+it proceeds from vn|aduised
+anger; as if any
+thing done in fury, were
+<PB N="92" REF="50">
+not done in folly. The
+cholericke man is like
+one that dwels in a that|ched
+house; who being
+rich in the morning, by
+a sodaine fire is a beg|gar
+before night. It was
+the decree of <HI>Theodosi|us,</HI>
+by the counsell of S.
+<HI>Ambrose;</HI> that execution
+after a seuere sentence
+should be deferred thir|tie
+dayes: that the heat
+being qualified, the se|ueritie
+might be mode|rated.</P>
+<P>But they obiect, This
+is to stand by like fooles,
+while wee suffer others
+to abuse vs: no, that is
+<PB N="93" REF="50">
+not folly, which the
+Lord hath commended
+for wisdome. The shot
+of the Cannon hurts not
+Wooll, and such yeel|ding
+things; but that
+which is hard, stub|borne,
+and resisting: the
+rage of our roaring
+sonnes is tamed by pa|tience.
+Turne to the
+brawling curre, and hee
+will be more fierce: ride
+on neglecting him, and
+he will soone be quiet.
+This is the furious
+Band.</P>
+<P><HI>Foro;</HI><NOTE PLACE="marg">The other Troupe.</NOTE> there is another
+Battalia of aduersaries
+that turne their chal|lenge
+<PB N="94" REF="51">
+into a Writ; the
+field appointed is West|minster
+Hall, or some o|ther
+Court of Iustice:
+the weapons, the Law:
+the postures of the fight
+are Demurres, Delayes,
+Quirks, Remoouals: the
+Victory, a Verdict: the
+Doome, a Sentence: and
+the death it selfe, an Ex|ecution.
+One sayes, To
+beare this, is against my
+conscience: when in|deed
+hee meanes it is a|gainst
+his concupisce~ce.
+If the Plaintife goe no
+further then the Court
+of his owne affections,
+the defendant shal neuer
+<PB N="95" REF="51">
+haue audience: for he is
+<HI>Amicus Curiae.</HI><NOTE PLACE="marg">Pro. 18. 17.</NOTE> <HI>He that is
+first in his owne cause, see|meth
+iust:</HI> but his neigh|bour
+commeth, and search|eth
+him: hee is no com|petent
+Iudge in his own
+matter. It will beare an
+action, saith the Law|giuer,
+this enflameth
+passion in the Law-goer.</P>
+<P>O that men could see
+the folly of this litigi|ousnesse.
+1. That hee is
+not in the state of grace,
+but a meere carnal man.
+This is Saint <HI>Pauls</HI> ar|gument
+to the Corin|thians;
+If there be con|tentions
+amongst you,
+<PB N="97" REF="52">
+<HI>Are ye not carnall?</HI><NOTE PLACE="marg">1. Cor. 3. 4.</NOTE> wher|as
+the <HI>Fruit of the Spirit
+is Peace,</HI><NOTE PLACE="marg">Gal. 5. 22.</NOTE> <HI>Long-suffering,
+Gentlenesse.</HI> 2. That hee
+doth not so much find,
+as make himselfe ene|mies:
+we may say of him
+as the Angel said to <HI>Ha|gar</HI>
+concerning her son
+<HI>Ishmael;</HI><NOTE PLACE="marg">Gen. 16. 12</NOTE> <HI>His hand is a|gainst
+euery man, and eue|ry
+mans hand against him.</HI>
+3. That he vexeth him|selfe
+without need: they
+that goe to Law for tri|fles,
+are like nice people
+that continually lie in
+the hands of Chirurgi|ans,
+and Phisicians, for
+pimples &amp; warts: wher|as
+<PB N="97" REF="52">
+as the Physician and
+Lawyer are for necessi|tie,
+not wantonnesse.
+Their boxes and papers
+are the Books &amp; Badges
+of their profession: they
+trudge vp and downe,
+more busie to cast away
+their money, then Law|yers
+are to catch it: their
+word is <HI>Currat Lex,</HI> let
+the law haue his course:
+but by their willes that
+course should neuer haue
+an end.</P>
+<P>They plead, wee haue
+stood before the best, in
+Courts of highest ho|nor:
+alas, so doth the
+spider,<NOTE PLACE="marg">Pro. 30. 28.</NOTE> euen <HI>in kings pala|ces.</HI>
+<PB N="98" REF="53">
+So did the Deuill,
+when the Sons of God
+presented themselus be|fore
+him,<NOTE PLACE="marg">Iob. 2. 1.</NOTE> Satan was ther
+also. 4. They consider
+not the root of conten|tions,
+as the Apostle de|scribes
+them: want of
+<HI>Wisdome</HI> to compound
+controuersies; <HI>Is there
+not one wise man among
+you,</HI><NOTE PLACE="marg">1 Cor. 6. 5. &amp;c.</NOTE> able to iudge be|tweene
+brethren? Want
+of <HI>loue, Brother is against
+brother.</HI> Want of <HI>Pati|ence;
+Why do ye not rather
+suffer wrong?</HI> Want of
+<HI>Iustice; Ye defraud and do
+wrong.</HI> For want of Iu|stice,
+<HI>foro conscientiae,</HI> they
+<PB N="99" REF="53">
+prosecute their malice,
+<HI>foro Iustitiae.</HI> Wee may
+add, want of <HI>Mercy,</HI> they
+cannot forgiue: but if
+they forgiue not others,
+their finall <HI>Quietus est</HI>
+was neuer yet sealed; and
+they shal be called to an
+after-reckoning. As that
+wicked serua~t sped; not|withstanding
+the <HI>Lord
+forgaue him</HI> at his re|quest,<NOTE PLACE="marg">Mat. 18. 22</NOTE>
+because he did not
+forgiue his brother at
+his intreaty, he was <HI>deli|uered
+ouer to the tormen|tors.</HI></P>
+<P>Fiftly, they weigh not
+how they are deceiued.
+Lawyers first inuented
+<PB N="100" REF="54">
+Lawes to secure our
+lands and titles: now
+they make those lawes
+engines to get away our
+lands and titles. Their
+frequent Session hath
+not beene euermore to
+preserue a mans possessi|on.
+And for those that
+can tarry the leasure of
+the Lawe, they haue
+quirks &amp; delayes: which
+are like the corrosiue
+plaisters of an vnconsci|nable
+Leach, that turnes
+a small greene wound to
+an incurable <HI>Fistula,</HI> by
+poysoning and exulce|ration
+of it for filthy lu|cre.
+When a man must
+<PB N="101" REF="54">
+die without mercy, it is
+some ease to die quick|ly,
+and bee out of his
+paine. But such, when
+they purpose to murther
+a mans estate, haue tricks
+to keepe him long a dy|ing:
+that hee may still
+languish and pine away
+in hope of recouery.</P>
+<P>And what doth the
+winner get, that at the
+Tearmes end, hee may
+bragge of his gaines?
+Doth hee not come
+home dry-founderd?
+Doth he not follow the
+Mill so long, till the toll
+be more then the griest?
+It is a token of vnwhol|some
+<PB N="102" REF="55">
+ayre, wher the cou~|trey
+is full of thriuing
+Physitions: <HI>Sivaleant ho|mines,
+arstua, Phaebe, ia|cet.</HI>
+It argues little health
+in that kingdome, which
+hath so many thriuing
+Lawyers: who while
+vnquietnesse feeds vs, do
+quietly feed vpon vs.</P>
+<P>We are willing to giue
+such self-molesters some
+counsell, if they wil take
+it, and aske them no fees
+for it. Yea wee giue it
+not, but Christ giues it:
+wil they take his aduice,
+that great <HI>Counseller</HI> of
+the Father? He counsels
+his clients to the euerla|sting
+<PB N="103" REF="55">
+possession of their
+soules by patience. <HI>In O|lympiacis
+certaminibus,
+Diabolo consecratis;</HI><NOTE PLACE="marg"><GAP DESC="illegible" REASON="faint" EXTENT="1 letter">hysoft.</NOTE> In
+the games of Olympus
+consecrated to the De|uill,
+hee had the glory
+of the day, that gaue
+most wounds, and came
+off himselfe vntouched.
+<HI>In stadio Christi non est ea
+certa~di lex, sed contraria:</HI>
+In the race of Christia|nitie,
+there is a contrary
+Law of striuing: not he
+that offers most blowes,
+but hee that suffers most
+blowes, is crowned. A
+man is stricken, will hee
+goe to law for this? no,
+<PB N="104" REF="56">
+rather let him turne the
+other cheeke; this is
+Christs counsell. His
+cloke is taken from him,
+it is neere him a gar|ment;
+of necessary com|linesse,
+a cloke: of sin|gular
+vse, hee hath but
+one cloke: hee hath the
+proprietie of it, it is his
+cloke: must hee goe to
+Law for this? no, rather
+let him take his coat al|so.
+<HI>Foelix ille, si nudus
+corpore, sit nudus mali|cia:</HI>
+there is a wedding
+garment to cloth such.</P>
+<P>I am no Anabaptist,
+nor Libertine, to deny
+the Magistracie, or law|fulnes
+<PB N="105" REF="56">
+of authoritie, and
+our iust appeale there|to.
+Rather then euery
+man should be his owne
+Iudge, I would appease
+vprores with the Town-clerke
+of Ephesus; <HI>The
+Law is open,</HI><NOTE PLACE="marg">Act. 19. 38.</NOTE> <HI>and there are
+Deputies, let them im|plead
+one another.</HI> Saint
+<HI>Paul</HI> himselfe took this
+course, appealing to the
+Iudgment seat of <HI>Caesar.</HI><NOTE PLACE="marg">Act 25. 10.</NOTE>
+Our Sauiours practise is
+a cleere Comment and
+declaration of his Law:
+hee that bade vs rather
+turne out other checke
+to the smiter, then re|uenge
+our selues; did
+<PB N="106" REF="57">
+himself sweetly reproue
+him that smote him.<NOTE PLACE="marg">Iohn 18. 23</NOTE> <HI>If
+I haue spoken euill, beare
+witnesse of the euill: but
+if well, why smitest thou
+mee?</HI> So <HI>Paul</HI> to <HI>Ana|nias,</HI>
+<HI>Sittest thou to iudge
+me after the Law,</HI><NOTE PLACE="marg">Act. 23. 3.</NOTE> <HI>&amp; com|mandest
+mee to be smitten
+contrary to the Law?</HI> The
+Lord himselfe hath ap|poynted
+Tribunals: and
+no law, no loue. I know
+there is a Christianly
+seeking of Iustice, when
+iniurious persons grow
+worse by forbearance,
+and ground their inso|lence
+vpon others pati|ence.
+As Christians may
+<PB N="107" REF="57">
+warre in loue, so they
+may iarre in loue: when
+the partie cast in the
+suit, may be bettered, if
+not in his money, yet in
+his manners; and Satan
+onely conquered. <HI>Vt qui
+vincitur, simul vincat, &amp;
+vnus tantummodo vinca|tur
+diabolus. Sed reprima~
+me,</HI> I will hold me where
+I was. I haue laboured
+to bring men into peace,
+I must shew them no
+way out againe. The Fa|thers
+sometimes in con|futing
+an Heresie much
+spread; if they did runne
+a little within the brinks
+of a contrary error, not
+<PB N="108" REF="58">
+then questioned, nor so
+dangerous; were neuer
+censured for that to
+haue erred <HI>Dogmatic&egrave;.</HI>
+So if to conuince that
+Heresie in maners, (It is
+lawfull to go to law for
+euery thing;) I should a
+little leane to and fauor
+that other opinion, (It is
+lawfull to goe to law for
+nothing;) either excuse
+mee, or at least suspend
+your iudgements, till I
+come on purpose to
+handle that poynt. If
+men would promise not
+to goe to Law till then,
+I would promise, when
+they did goe to Law, to
+<PB N="109" REF="58">
+beare all their charges.</P>
+<P>Howsoeuer, let them
+not doe it <HI>animo litigan|di,</HI>
+nor for euery wrong
+enter an action, lest God
+enter his action against
+them.<NOTE PLACE="marg">Hos. 4. 1.</NOTE> <HI>The Lord hath a
+controuersie with the In|habitants
+of the land:</HI> a
+terrible action, which
+the Iury of heauen and
+earth wil find. Let them
+therefore leaue all, and
+study Gods Law, with
+that royall Prophet; <HI>Thy
+Testimonies are my de|light
+and my Counsellers:</HI><NOTE PLACE="marg">Psal. 119. 24. 48.</NOTE>
+and <HI>I will meditate in thy
+Statutes.</HI> Blessed is hee
+that <HI>meditates on Gods
+<PB N="110" REF="59">
+Law day and night:</HI><NOTE PLACE="marg">Psal. 1. 2.</NOTE> but
+cursed is he that wastes
+his time to meditate and
+study Law-trickes. Let
+the litigious soule learne
+a new course of law: let
+Conscience be his <HI>Chan|cery,</HI>
+Charity his <HI>Chance|lor,</HI>
+Patience his <HI>Counsel|ler,</HI>
+Truth his <HI>Atturney,</HI>
+and Peace his <HI>Sollicitor.
+Litem in proximum, di|uertat
+in seipsum.</HI> Let
+him go to Law with his
+owne heart; arraigne his
+passionat will at the Bar
+of Gods Iudgement; let
+the twelue Apostles bee
+a Iury against him, who
+all condemned Conten|tion.
+<PB N="111" REF="59">
+Thus let him iudge
+himselfe, that he be not
+iudged of Iesus Christ.
+For he that auengeth his
+owne quarrell, steps into
+the Princes Chaire of
+Estate, yea into Gods
+owne Seat; dethroning
+both; and so disturbes
+neauen and earth. Mad
+men, that thus presume,
+as if God did not see
+malice in the heart!<NOTE PLACE="marg">Pro <GAP DESC="illegible" REASON="faint" EXTENT="1 letter">5. 11</NOTE> <HI>Hell
+and destruction are before
+the Lord, much more then
+the hearts of the children
+of men.</HI> Or as if seeing
+men contend, he had no|thing
+to do with it: but
+must sit still like an idle
+<PB N="112" REF="60">
+looker on, and take part
+with neither.</P>
+<P><HI>Dearly beloued,</HI><NOTE PLACE="marg">Rom. 12. 19.</NOTE> <HI>auenge
+not your selues, but rather
+giue place vnto wrath: for
+it is written, Vengeance is
+mine, I will repay, saith
+the Lord.</HI> This sounds a
+Retreat to all quarrels:
+<HI>Paul</HI> seeing the Daggers
+drawen, and the peace in
+danger to bee broken;
+steps in with the sword
+of the Spirit, to part the
+fray. It is a Writ of Re|uersment
+from the high
+Court of heauen: if we
+break open the writ, we
+shall find the Kings plea|sure
+in it; an Arrest of
+<PB N="113" REF="60">
+reuengers. Hee begins
+with <HI>Dearely beloued;</HI> a
+sweet ingredience, to
+qualifie a bitter medi|cine.
+As if he should say,
+It is my loue that I write
+so much against malice:
+not for your hurt, but
+for your eternal good: if
+you wil not beleeue me,
+beleeue God himself:<NOTE PLACE="marg">Deu. 32. 35</NOTE> <HI>To
+me belongeth vengeance.</HI></P>
+<P>The Deuill when hee
+gets audience, tels a man
+how much hee is hated
+of others: the holy Spi|rit
+tels him how much
+hee is loued of others.
+The argument of our
+charity to them, is Gods
+<PB N="114" REF="61">
+charitie to vs. <HI>Put on (as
+the elect of God,</HI><NOTE PLACE="marg">Col. 3. 12</NOTE> <HI>holy and
+beloued) bowels of mer|cies,
+kindnes, humblenes of
+mind, long suffering:</HI> see|ing
+you are beloued of
+God, loue his.</P>
+<P>This is Gods chalenge,
+<HI>Vengeance is mine:</HI> Gods
+execution, <HI>I will repay:</HI>
+Gods Subscription, to
+which his great Name
+is affixed, <HI>Thus saith the
+Lord. Scriptum est,</HI> it is
+a transcript and faithfull
+copy out of the Origi|nall,
+to shew it the Lords
+true act and deed: twice
+written, that it might ne|uer
+be forgotten. <HI>Once
+<PB N="115" REF="61">
+hath God spoken, twice
+haue I heard it,</HI><NOTE PLACE="marg">Psal. 62. 11</NOTE> <HI>that Ven|geance</HI>
+(so well as <HI>Power</HI>)
+<HI>belongeth vnto God.</HI> Hee
+pleads the continuance
+of Succession without
+interruption; vengeance,
+Iudgement, and Glory
+are <HI>His</HI> alone. Therefore
+to auenge our selues, is
+both to lose Gods pro|tection,
+and to incurre
+his condemnation. It is
+faithlesse and fruitlesse:
+faithlesse, not to beleeue
+that God wil deale with
+vs according to his
+Word.<NOTE PLACE="marg">Psal. 91. 8.</NOTE> <HI>With thine eyes
+thou shalt see the reward
+of the wicked.</HI> It is then
+<PB N="116" REF="62">
+infidelitie not to com|mit
+our case to God, and
+his Deputie the Prince;
+but to make them both
+our deputies and instru|ments
+of reuenge. What
+is this but to exalt our
+selues aboue all that is
+called God; and to play
+the Deuil in iest, and the
+Pope in good earnest?
+Fruitlesse, for if being
+wronged, we draw out
+our woodden dagger of
+reuenge, God wil put vp
+his sword, and leaue vs
+to our selues. The iniu|red
+child turnes not a|gaine,
+but runs to his fa|ther.
+When the Italians
+<PB N="117" REF="62">
+heare how God hath re|serued
+Vengeance to
+himselfe, they say blas|phemously,
+He knew it
+was too sweet a bit for
+man, therefore kept it
+for his owne tooth. But
+if man were is owne
+caruer, he would carue
+too deepe. God onely is
+wise and iust, wise to
+know, &amp; iust to giue the
+due proportion. Now
+the Great and Omni|potent
+Lord chiefe Iu|stice,
+bind vs all to the
+peace on earth, and
+bring vs all to the peace
+of heauen.</P>
+<P><PB N="118" REF="63">
+Now because euery
+Citie must haue an esta|blished
+Gouernment;
+Order being the good
+of euery creature, &amp; it is
+better not to be, then to
+be out of order: there|fore
+this <HI>Citie of Peace</HI>
+must haue a <HI>Lord,</HI> and a
+<HI>Law:</HI> a <HI>Ruler</HI> to gouerne
+it, and a <HI>Rule</HI> whereby it
+must be gouerned. The
+<HI>King</HI> is Christ, who is
+therfore called <HI>Princeps
+Pacis,</HI> The Prince of
+Peace. And hee hath a
+Deputie or Vicegerent
+vnder him, whom hee
+hath set to promoue the
+good, and to remoue the
+<PB N="119" REF="63">
+euill, of Peace. The <HI>Law</HI>
+is <HI>Truth,</HI> that is the Gos|pell,
+<HI>Regula Pacis,</HI> the
+Rule of Truth.</P>
+</DIV2>
+<DIV2 TYPE="section">
+<HEAD>The Gouernour of
+this Citie</HEAD>
+<P>Is supreme <HI>Authoritie:</HI><NOTE PLACE="marg">The King of Peace.</NOTE>
+as God is a great King,
+so the king is (as it were)
+a little God. <HI>I haue said,
+Yee are Gods.</HI> God is an
+inuisible King, the King
+is a visible god.<NOTE PLACE="marg">Rom. 13. 5.</NOTE> <HI>Ye must
+bee subiect, not onely for
+wrath, but also for Consci|ence
+sake.</HI> All must obey:
+the bad for feare, the
+good for loue. To com|pell
+the one, there is a
+<PB N="120" REF="64">
+Writ out of the <HI>Kings
+Bench:</HI> to perswade the
+other, there is a motion
+in the <HI>Chancery.</HI></P>
+<P>Of all Nations we are
+blessed with peace, vn|der
+a King of peace:
+therefore all bound to
+bee children of peace.
+There are three wayes
+of chusing Kings. 1. An
+immediate nomination
+from God. 2. A Suc|cession
+of blood. 3. An
+election of the people.
+The first ceaseth, the last
+hath been found dange|rous,
+the best remaines.
+They that are suddenly
+chosen out of the flock,
+<PB N="121" REF="64">
+doe seldome manifest
+such royall behauiour,
+nor become their Maie|iestie;
+for it is not their
+Trade. <HI>Iehu</HI> remitted
+much of his noble zeale,
+when hee was setled in
+his kingdome. It is one
+thing to say, <HI>With a great
+summe of money,</HI><NOTE PLACE="marg">Acts 22. 28</NOTE> <HI>obtained
+I this kingdome:</HI> and for
+another to say, <HI>I was a
+King borne.</HI> Wee may
+iustly say of our King,
+<HI>Dignissimus Regno, si non
+natus ad Regnum.</HI> When
+the Poets called some
+men the Sonnes and off|spring
+of the gods; they
+meant that they were
+<PB N="122" REF="65">
+men of a more noble
+and vncommon nature:
+and that those graces
+were, <HI>Ex Diuino afflatu.</HI>
+It was as familiar with
+<HI>Homer,</HI> to make a King
+fight with a god at his
+elbowe, as a common
+Souldier with his sword
+in his hand. To whom
+the Lord giues most ho|nour,
+he giues most assi|stance.
+<HI>The heart of the
+King is in his hand, as ri|uers
+of waters;</HI> the heart
+of a priuate man as a lit|tle
+brook: in the former
+is more need of his om|nipotence.
+Howsoeuer,
+the grace of adoption, in
+<PB N="123" REF="65">
+the Apostles time,<NOTE PLACE="marg">1 Cor. 1. 26</NOTE> was
+<HI>not giuen to many mightie
+or noble;</HI> yet the graces
+of administration are.</P>
+<P>Anarchie is the mo|ther
+of diuision, the step|mother
+of peace. While
+the State of Italy wants
+a King, all runnes into
+ciuill broiles. It is the
+happinesse of this Citie,
+that there is no distra|ction.
+Not a King at
+<HI>Iudah,</HI> and another at
+<HI>Dan:</HI> not one in <HI>Hebron,</HI>
+another in <HI>Gibeon:</HI> not
+the redd Rose here, and
+the white there. We are
+not shuffled into a popu|lar
+gouernment, nor cut
+<PB N="124" REF="66">
+into Cantons, by a
+headles, headstrong A|ristocracie:
+but <HI>Henricus
+Rosas, Regna Iacobus:</HI> in
+<HI>Henry</HI> was the vnion of
+Roses, in <HI>Iames</HI> of the
+kingdomes. Euery King
+is not a Peace-maker;
+ours, like a second <HI>Au|gustus,</HI>
+hath shut the ru|stie
+doore of <HI>Ianus</HI> Tem|ple;
+so making Peace, as
+if hee were made of
+peace. That blessed
+Queene of sweete and
+sacred memory before
+him, was <HI>Filia Pacis:</HI>
+who, as by her Sexuall
+graces shed deserued to
+bee the Queene of wo|men,
+<PB N="125" REF="66">
+so by her mascu|line
+vertues to bee the
+Queen of men. Certen|ly,
+it would haue trou|bled
+any King but <HI>Him,</HI>
+to haue succeeded such
+a Queene; yet no man
+complaines the want of
+peace. This hee promi|sed,
+and <HI>Verbum Regis,
+Rex Regi,</HI> this hee hath
+perfourmed to euery
+good soules content.
+When he was first pro|claimed,
+what heard we
+but peace? What heard
+the Nobles? a King that
+would honour them.
+What the Senators? a
+King that would coun|sell
+<PB N="126" REF="67">
+them. What the
+Schooles? a King that
+would grace the~. What
+the Diuines? a King that
+would encourage them.
+What the rich? a King
+that would defend the~.
+What the poore? a
+King that would relieue
+them.</P>
+<P>When a Tyrant comes
+abroad, all seeke to hide
+themselues:<NOTE PLACE="marg">Pro. 28. 28</NOTE> <HI>When the
+wicked rise, men hide
+themselues.</HI> But when a
+clement Prince progres|seth,
+all flock to him, the
+streets and wayes are fil|led
+with people, the aire
+with acclamations. We
+<PB N="127" REF="67">
+call our peace, the <HI>Kings
+peace:</HI> and say to braw|lers,
+Keepe the Kings
+peace. Peace, Plentie,
+Trafficke, Learning, Ad|ministration
+of Iustice,
+flourishing of arts, prea|ching
+of the Gospell,
+<HI>Rex Iupiter omnibus i|dem.</HI>
+Like <HI>Dauid,</HI> hee
+leads the Dance to hea|uen:
+and like <HI>Augustus,</HI>
+makes a sweet spring
+wheresoeuer hee goes.
+<HI>Israel had rest fortie yeres,</HI>
+we haue had a Iubile of
+fiftie yeares, and begun
+againe.<NOTE PLACE="marg">Iudg. 5. 31</NOTE> The Peace-ma|ker
+doth both blesse, and
+is blessed: therefore let
+<PB N="128" REF="68">
+vs blesse him, and blesse
+God for him, and hold
+our selues blessed in
+him.</P>
+<P>Away then with those
+discontented spirits, that
+grudge these outward
+rights, whether tributes
+of money, or attributes
+of Supremacie. <HI>Soluatur
+subsidium, ne contingat
+excidium. For this cause
+pay wee tribute also, &amp;c.</HI><NOTE PLACE="marg">Rom. 13. 6</NOTE>
+It is the mediate due to
+God, as prayers &amp; prai|ses
+are his immediate
+rents. Some haue obser|ued,
+that Christ did no
+miracle about Honor or
+money, except that one
+<PB N="129" REF="68">
+of giuing tribute to <HI>Cae|sar.</HI><NOTE PLACE="marg">Mat. 17. 27</NOTE>
+Much more intole|rable
+are those our Co|sens
+of Samaria, that fly
+off in a rage; <HI>What porti|on
+haue wee in Dauid?</HI>
+For this cause certainly,
+if <HI>Dauid</HI> were now a
+liue, he would neuer ad|mit
+a Iesuit to his Chap|laine.
+But perish his ene|mies,
+and vpon his own
+Head let his Crowne
+flourish. May not the
+Scepter depart from <HI>Ia|cob,</HI>
+nor a Seed from his
+loynes, till <HI>Shiloh</HI> come
+againe. May his Poste|ritie
+haue a Crowne on
+earth, when himselfe
+<PB N="130" REF="69">
+hath a crown in heauen.
+Amen.</P>
+</DIV2>
+<DIV2 TYPE="section">
+<HEAD>The Law of this Citie</HEAD>
+<P>Is the Gospel of Christ:<NOTE PLACE="marg">The Lavv of Peace.</NOTE>
+a law indeed, but a law
+of peace. It made peace
+betwixt God and man,
+and it must make peace
+betweene man and man.
+If it cannot reconcile vs
+one to another, it shall
+reconcile none of vs to
+the Lord. It is a lawe,
+not to bee obserued for
+State, but for Consci|ence.
+Indeed those <HI>Ca|tuli
+Catilinarij,</HI> Statising
+Iesuites, turne all their
+Religion into Statisme,
+<PB N="131" REF="69">
+yea into Atheisme. And
+there be many Church-Recusants,
+a monstrous,
+menstruous brood, the
+Moone-calues of that
+lunatick religion. Come
+they doe, but more for
+feare of the Law, then
+for loue of the Gospell.
+And al the children that
+euen hang on the brests
+of peace, cannot be ex|cused:
+for some through
+nescience or negligence,
+scarce cast an eye on the
+statutes of peace.</P>
+<P><HI>I will heare what the
+Lord will speake:</HI><NOTE PLACE="marg">Psal. 85. 8</NOTE> <HI>for hee
+will speake peace vnto his
+people.</HI> One takes snuffe
+<PB N="132" REF="70">
+at his poore neighbour;
+perhaps it is <HI>Mordecai's</HI>
+cap that hath put <HI>Ha|man</HI>
+out of his princely
+wits: and now hee re|solues
+to trounce him:
+proud beggar! Hee will
+teach him to knowe his
+betters. O but tarry, and
+heare the Statute of
+Peace.<NOTE PLACE="marg">Pro. 22. 22.</NOTE> <HI>Rob not the poore
+because hee is poore:</HI> for
+the Lord will pleade
+his cause, and spoyle
+the soule of them that
+spoile him. Lust makes
+this a spurre to op|ression,
+<HI>Quia pauper,</HI>
+because hee is poore:
+the Law makes this a
+<PB N="133" REF="70">
+bridle from it, <HI>Quia pau|per,</HI>
+because he is poore.
+Another is erop-sicke of
+Ceremonies; hee hath a
+toy in his head, that
+the Churches garment
+should not bee embroy|dered,
+nor haue more
+lace and fringe then his
+owne coat: there is in
+him so little of man, that
+he talkes of nothing but
+the <HI>Beast.</HI> Rather then
+his children shall bee
+crossed in Baptisme, hee
+will out of the Arke into
+some fantasticall Wher|ry.
+Let him tarry, and
+heare what the Lord
+speakes, in his Law of
+<PB N="134" REF="71">
+peace.<NOTE PLACE="marg">Gal. 6. 15.</NOTE> <HI>In Christ Iesus
+neither Circumcision a|uayleth
+anything, nor vn|circumcision,
+but a New
+creature.</HI> That is, neither
+Ceremony, nor no Ce|remony,
+but the Sub|stantiall;
+a new Crea|ture.</P>
+<P>Another flatters him|selfe;
+I need not stand on
+strict performance of
+Tythes, the Gospell re|quires
+nothing but Be|neuolence:
+experienced
+men iustifie it, I haue the
+warrant of good Law|yers
+for it. O but such
+a Lawyer is the Barri|ster
+of <HI>Barathrum,</HI> a
+<PB N="135" REF="71">
+sworne enemy to the
+law of peace. The voice
+of Christ is not in it,
+heare that. <HI>Let him that
+is taught in the word,</HI><NOTE PLACE="marg">Gal. 6. 6</NOTE>
+<HI>communicate vnto him
+that teacheth, in all good
+things.</HI></P>
+<P>This City of Peace
+hath one immutable
+<HI>Rule,</HI> and it is sufficient
+to direct all actions. <HI>And
+as many as walke accor|ding
+to this Rule,</HI><NOTE PLACE="marg">Gal. 6, 16</NOTE> <HI>peace be
+on them, and mercy, and
+vpon the Israell of God.</HI> A
+man is proud of his
+victorious mischiefes,
+flesh'd with his fortunat
+wickednesse; thinkes he
+<PB N="136" REF="72">
+hath carried himselfe
+brauely, in out-bribing
+his aduersary, fooling
+Iudge and Iury by false
+testimony, and triumphs
+in his vnblest gain; but is
+this according to the <HI>rule</HI>
+of Peace. <HI>Vincat veritas,</HI>
+let Truth ouercom. The
+loser may sit down with
+content, but the winner
+shall ye down in torme~t.
+A rich man carries him|selfe
+proudly,; aboue
+others in scorne, aboue
+himselfe in folly: hee
+thinkes all his Titles be|neath
+him, and euen
+those that worship him,
+still to vnderualue him:
+<PB N="137" REF="72">
+others hee lookes vpon,
+as if they were made to
+serue him, yea, and bee
+proud to bee comman|ded
+by him. Crosse him,
+and hee rages, swelles,
+foames, like the Sea in
+a storme: but is this af|ter
+the <HI>Rule</HI> of Peace?<NOTE PLACE="marg">Mat. 11. 29</NOTE>
+<HI>Learne of mee who am
+meeke and lowly in heart.</HI>
+Alas, what is the diffe|rence
+in dust? <HI>The Beg|gar
+dies,</HI><NOTE PLACE="marg">Luk. 16. 22</NOTE> <HI>so doth the rich
+man.</HI> Before, the rich
+could not endure the
+beggar neere him, here
+one verse containes the~
+both. In life the rich
+hath the preheminence
+<PB N="138" REF="73">
+of ease, and wealth, and
+honour: in death the
+poore man goes first to
+peace.</P>
+<P>In driuing a trade, it is
+Mammons prime poli|cy,
+to take aduantage of
+others necessitie, or sim|plicity.
+<HI>Sold you it for
+so much?</HI><NOTE PLACE="marg">Acts 5. 8.</NOTE> Saith <HI>Peter:
+For so much,</HI> answers
+<HI>Ananias.</HI> Did it cost
+so much? sayes the buy|er:
+yes, saith the seller.
+Let him tremble at the
+Iudgement, which was
+a sudden death. This is
+the <HI>Rule</HI> of an vniust Ci|tie,
+not of the Citie of
+Peace. <HI>Pereat mundi
+<PB N="139" REF="73">
+lucrum, ne fia<GAP DESC="illegible" REASON="faint" EXTENT="1 letter"> animae
+damnum.</HI> Perish that
+gaine which comes with
+the soules losse.</P>
+<P>Many thinke Charity
+to the poore, to bee a
+worke of meere Supe|rerogation;
+that they
+are not bound liberally
+to giue part of that to
+lasie beggars, which
+they haue laboriously
+gotten by their endea|uours.
+But heare the
+Rule of Peace; <HI>Breake
+thy bread vnto the hun|gry;</HI>
+<HI>Sell that thou hast,</HI><NOTE PLACE="marg">Mat. 19. 21</NOTE>
+<HI>and giue to the poore.</HI>
+But as when Christ dis|swaded
+from Couetice,
+<PB N="140" REF="74">
+by the difficultie of en|trance
+that wealth finds
+to heauen, they amazed|ly
+replied, <HI>Who then can
+be saued?</HI> Who can walk
+after this Rule? When
+we preach this doctrine,
+the world cries, <HI>Durus
+Sermo,</HI> this is a hard say|ing,
+a harsh Sermon. Yet
+is this the law of peace,
+and thus minded are the
+citizens of peace. When
+the poore at your gates
+aske you <HI>Panem quotidi|num,</HI>
+their daily bread;
+they after a sort make
+you gods; therfore shew
+your selues at least to be
+men. Charitie is the
+<PB N="141" REF="74">
+food of Peace on earth,
+and the Seed of peace in
+heauen.</P>
+</DIV2>
+<DIV2 TYPE="section">
+<HEAD>The Palace of Peace</HEAD>
+<P>Is the <HI>Temple:</HI><NOTE PLACE="marg">The Court or Palace of Peace.</NOTE> the
+peace of man can neuer
+bee preserued without
+the worship of God. It is
+not enough for the citie
+to haue lawes, but these
+must be diuulged, made
+knowen to the Inhabi|tants;
+the obseruation
+of them continually vr|ged:
+for by nature men
+are apt enough to flye
+out. Howsoeuer the Ro|mans
+built their <HI>Templu~
+Pacis</HI> without the gates,
+yet heere it is the chiefe
+<PB N="142" REF="75">
+honor and ornament of
+the Citie. Heere <HI>Peace</HI>
+keepsher Court, and sits
+like a royall Queene in
+her Chaire of Estate.
+Which is not like <HI>Solo|mons</HI>
+Throne, guarded
+with Lyons; but with
+milke-white Doues, and
+couered ouer with Oliue
+branches.</P>
+<P>But alas! how doth
+her Palace now fall to
+ruine for want of repa|ration?
+Few there bee
+that repaire it, but to im|paire
+it thousands are
+ready. The question was
+once;<NOTE PLACE="marg">1 Sam. 9. 7</NOTE> <HI>What shall we bring
+to the man of God?</HI> Now
+<PB N="143" REF="75">
+it is a motion suffered in
+all Courts, What shall
+we take away from the
+man of God? The no|ble
+Shunamite built him
+a chamber, with a bed
+and a candlesticke: We
+haue those that pull
+downe his roomes, di|sturbe
+his rest, and put
+out his light. <HI>Nehemiah</HI>
+reduced the Tythes to
+the primitiue institution
+and order: But if any
+<HI>Nehemiah</HI> should now
+vndertake it, and restore
+our portion to our own
+hands; there are tenne
+thousand Harpies ready
+to catch it ere it come
+<PB N="144" REF="76">
+to our mouthes. Wee
+may sing, or rather sigh
+one to another, as little
+children chaunt in the
+streets: When shall we
+eat white Bread? When
+the Puttock is dead:
+when there is not a <HI>Sa|crilegious</HI>
+Lawyer left. If
+the walls of <HI>Ierusalem</HI>
+should beginne to rise,
+there is a <HI>Tobiah</HI> or <HI>Sam|ballat</HI>
+to flout vs,<NOTE PLACE="marg">Neh. 4. 3.</NOTE> that a
+<HI>Fox is able to breake them
+downe.</HI> Corrupt Aduo|cates
+are those <HI>Foxes,</HI>
+and by their wills the
+Vine of Peace should
+beare no Grapes that e|cape
+their fingers. Some
+<PB N="145" REF="76">
+haue written wittily in
+the praise of folly, some
+haue commended Bald|nesse;
+other in a quaint
+Paradoxe extolled de|formity:
+but in former
+times it was neuer
+heard that any wrote
+<HI>Encomiums</HI> of <HI>Sacrilege.</HI></P>
+<P>That the Kings of the
+earth should conspire a|gainst
+Christ,<NOTE PLACE="marg">Psal. 2. 2.</NOTE> it was no
+wonder:<NOTE PLACE="marg">1 Cor. 2. 8</NOTE> for <HI>they knew
+him not.</HI><NOTE PLACE="marg">Psal. 13. 6.</NOTE> That the Edo|mites
+and Ishmaelites
+should oppose him,<NOTE PLACE="marg">Acts 4. 27</NOTE> no
+wonder: for they stood
+on termes of hostilitie.
+That the Iewes should
+confederat against him,
+<PB N="146" REF="77">
+no wonder: for they ha|ted
+him. But that men
+baptized in his Faith,
+bearing his Name as
+their honourable Title,
+and wearing his Profes|sion,
+as their chiefe or|nament;
+should consent
+to rob him, and iustifie
+it by their law! this is
+such a thing as the very
+Barbarians would blush
+at. Suppose the Mini|sters
+of this <HI>Citie,</HI> the
+Pencioners of <HI>Peace,</HI> by
+some humble complaint
+request their owne, or
+(at most but) so me small
+part of their owne; is the
+Spoyler at a non-plus?
+<PB N="147" REF="77">
+Cannot hee finde an
+Aduocate to plead for
+him, and make his cause
+(though not be, yet) ap|peare
+good? What, not
+one for his fees, that can
+cry downe the <HI>Temple,</HI>
+the Gospell, Christ
+himselfe? Is there no
+Bill to bee framed? no
+false plea to bee found?
+Is Sathan turn'd foole?
+Hath none of his schol|lers
+any braines left?
+Yes, we might think the
+deuil were dead, if there
+could not bee found an
+Aduocate to plead for
+Sacriledge. The Lord
+in his Iustice for sinne,
+<PB N="148" REF="78">
+<HI>hath broken downe her
+hedges;</HI><NOTE PLACE="marg">Psal. 80. 12</NOTE> and now euery
+hand hath a snatch at
+her <HI>Grapes.</HI></P>
+<P>In many places, <HI>Ahab-</HI>
+like, they haue engros|sed
+the whole vineyard:
+but if the poore, expo|sed,
+&amp; vnsupported Vine
+be left, it shall beare the
+owner but a few grapes.
+This may hold <HI>in Iure
+Fori,</HI> it neuer shall hold
+<HI>in Iure Poli.</HI> God promi|sed
+that the faith of the
+Church should remoue
+mountaines: such were
+<HI>Domitian, Dioclesian,</HI>
+and those Imperiall per|secutors.
+The Church
+<PB N="149" REF="78">
+prayes, <HI>Dorsum corum
+incurua, Bow downe their
+backes;</HI> and so the Lord
+did. <HI>Valerian</HI> was so
+bowed downe, that hee
+became a footstoole for
+the King of <HI>Persia,</HI> to
+mount vp to his horse
+O that the Church of
+<HI>Peace</HI> had still this mira|culous
+Faith, to re|moue
+these mountaines;
+malicious and truth-ha|ting
+pleaders, the pio|ners
+of the Temple, and
+the maintainers of those
+that pillage it.</P>
+<P>They tell vs, the <HI>Law
+is open, and there be depu|ties;</HI><NOTE PLACE="marg">Acts 19. 38</NOTE>
+but who be the de|puties
+<PB N="150" REF="79">
+in this Citie? Is
+there any other then a
+Iudge of their owne?
+And is it not then a pro|uerbiall
+answere of any
+man questioned in this
+Sacriledge; Aske my fa|ther
+if I bee a theefe?
+When <HI>Dauid</HI> decided
+the matter to <HI>Mephibo|sheth;</HI>
+<HI>Thou and Ziba di|uide
+the land:</HI><NOTE PLACE="marg">2 Sam. 19. 30.</NOTE> he answe|red,
+<HI>Yea let him take all:</HI>
+For the misery of Law,
+I neuer by experience
+found it, because I neuer
+tried it: but when they
+haue leaue to diuide the
+Inheritance of Christ
+with their Ministers (and
+<PB N="151" REF="79">
+it were somthing tolera|ble
+if they did but diuide
+it) I say, yea let the~ take
+all, seeing all they will
+haue, rather then we go
+to recouer it by such a
+Iudgement. But certen|ly
+God cannot long a|bide
+to see that people
+prosper, who cannot a|bide
+to see his Church
+prosper. They that spoil
+the <HI>Palace</HI> of <HI>Peace</HI> on
+earth, shall neuer be en|tertained
+into her glori|ous
+Court of heauen.</P>
+</DIV2>
+<DIV2 TYPE="section">
+<HEAD>The Riuer that serues
+this Citie of Peace</HEAD>
+<P>Is <HI>Prosperitie.</HI><NOTE PLACE="marg">The Riuer of this Citie.</NOTE> It is one
+<PB N="152" REF="80">
+principall happinesse of
+a Citie, to bee scituated
+by a Riuers side: that as
+it hath fortified it selfe
+by land, so it may haue
+commaund of the Sea.
+Prosperitie is the Riuer
+to this Citie, that like a
+louing Meander, winds
+it selfe about, throwing
+his siluer Armes vpon
+her sides; ebbing slowly,
+but flowing merrily, as
+if he longed to embrace
+his loue. Peace is the
+mother of Prosperitie,
+but Prosperitie is too
+often the murtherer of
+Peace. For peace breeds
+wealth, wealth breedes
+<PB N="153" REF="80">
+pride, pride breeds con|tention,
+and contention
+kils peace. Thus shee is
+often destroyed by her
+owne issue, as <HI>Senache|rib</HI>
+was by his owne bo|wels.</P>
+<P>Take this Citie wee
+liue in for an Instance.
+Peace hath brought
+Gods plentie: the Inha|bitants
+neither plowe,
+nor sowe, nor reape; yet
+are fed like the fowles
+of heauen. They fare
+well with lesse trouble,
+then if come grewe at
+their doores, and cattell
+grased in their streets.
+But as <HI>Nylus</HI> may rise
+<PB N="154" REF="81">
+too high, and water E|gypt
+too much; so the
+inundation of opulency
+may doe the~ hurt. Thus
+may the influence of
+heauen, and the plentie
+of earth, be a <HI>Snare</HI> vnto
+vs; and our abundance,
+an occasion of our <HI>fal|ling.</HI>
+Prosperitie is hear|tie
+meat, but not digesti|ble
+by a weake stomack,
+strong wine, but naught
+for a weake braine. <HI>The
+prosperitie of fooles de|stroyeth
+them.</HI><NOTE PLACE="marg">Pro. 1, 32</NOTE> It is not
+simply prosperitie, but
+the prosperitie of fooles
+that destroyeth them.
+The swelling Riuer by
+<PB N="155" REF="81">
+the surfet of a Tyde,
+doth not sooner bring
+in our encrease; but our
+encrease doth breed in
+our minds another swel|ling,
+in our bodies ano|ther
+surfeting: we swell
+in pride, and surfet in
+wantonnesse. The Is|raelites
+neuer fared so
+well, as when they liued
+at Gods immediate fin|ding;
+and at night ex|pected
+their morrowes
+breakfast fro~ the clouds.
+When they did daily
+aske, and daily receiue
+their daily bread.</P>
+<P>There be (as I heard
+a worthy Diuine ob|serue)
+<PB N="156" REF="82">
+three maine Ri|uers
+in the land, where|of
+this is held the best:
+and this Citie is placed
+in the best Seate of the
+Riuer, vpon the gentle
+rising of a hill, in the
+best ayre, and richest
+soyle. When a Cour|tier
+gaue it out, That
+Queene <HI>Mary</HI> being dis|pleased
+with the Citie,
+threatned to diuert both
+Tearme and Parliament
+to Oxford: an Alder|man
+asked whether shee
+meant to turne the cha|nell
+of the <HI>Thames</HI> thi|ther,
+or no&punc; if not, saith
+hee, by Gods grace we
+<PB N="157" REF="82">
+shall doe well enough.
+<HI>The lines are fallen to vs
+in pleasant places,</HI><NOTE PLACE="marg">Psal. 16. 6</NOTE> <HI>wee
+haue a goodly Heritage.</HI>
+Both the Elements are
+our friends; the Earth
+sends vs in her fruites,
+the Sea her merchan|dise.
+Wee are neere e|nough
+the benefits, and
+farre enough from the
+dangers of the Ocean.
+Nothing is wanting to
+the consummation of
+our happinesse: to keepe
+vs in our owne Coun|trey,
+in our owne Citie,
+in our owne Houses,
+but that which keepes
+men in their wits, Tem|perance,
+<PB N="158" REF="83">
+and Thankful|nesse.</P>
+<P>But doe wee not re|quite
+this Riuer of Pro|speritie,
+with vngrateful
+impietie? and vse the
+Ocean of Gods boun|tie,
+as wee doe the
+Thames? It brings vs
+in all manner of proui|sion;
+Clothes to couer
+vs, Fuell to warme vs,
+Food to nourish vs,
+Wine to cheare vs,
+Gold to enrich vs: and
+we in recompense, foile
+it with our rubbish, filth,
+common sewers, &amp; such
+excretions. It yeeldes
+vs all manner of good
+<PB N="159" REF="83">
+things, and we requite
+it with all plentie of bad
+things. It comes flowing
+in with our commodi|ties,
+&amp; we send it loaden
+backe with our iniuries.</P>
+<P>Such toward God is
+the impious ingratitude
+of this famous Citie,
+which else had no Para|lell
+vnder the Sunne.
+Shee may not vnfitly
+bee compared to cer|taine
+<HI>Pictures,</HI> that re|present
+to diuers behol|ders,
+at diuers stations,
+diuers formes. Look|ing
+one way, you see a
+beautifull Virgine: an|other
+way, some defor|med
+<PB N="160" REF="84">
+monster. Cast an
+eye vpon her Professi|on,
+shee is a well grac'd
+creature: turne it vpon
+her conuersation, shee is
+a mishapen stigmaticke.
+View her Peace, shee
+is <HI>fayrer then the daugh|ters
+of men:</HI> viewe her
+Pride, the children of
+the <HI>Hittites and Amo|rites</HI>
+are beautious to
+her. Think of her good
+works, then <HI>Blessed art
+thou of the Lord:</HI> num|ber
+her sinnes, then <HI>How
+is that faithfull Citie be|come
+an harlot <GAP DESC="illegible" REASON="faint" EXTENT="1 span"></HI><NOTE PLACE="marg">Esa. 1. 21.</NOTE> To tell
+of her Charitie, and
+how many hundreds she
+<PB N="161" REF="84">
+feedes in a yeare, you
+will say with <HI>Paul, In
+this I praise her.</HI> To tell
+of her oppressions, and
+how many thousands
+shee vndoes in a yeare,
+you will say with him
+againe, <HI>In this I praise
+her not.</HI> Behold her like
+a Nourse drawing her
+Brests, and giuing milke
+to Orphans, you wish
+her Cup to runne ouer
+with fulnesse. Behold
+her like a Horse leech,
+sucking the blood of the
+Church, to feede her
+owne sacrilegious aua|rice;
+you will say her
+Cup is too full. When
+<PB N="162" REF="85">
+wee thinke of her pro|speritie,
+wee wonder at
+her impietie: when we
+thinke of her impietie,
+wee wonder at her pro|speritie.
+O that her Ci|tizens
+would learne to
+mannage their liberall
+fortunes, and to enter|taine
+the <HI>Riuer</HI> of <HI>Peace
+that makes glad the Citie
+of God,</HI> with Humilitie
+and Sobrietie. That
+when Death shall dis|franchise
+them heere,
+they may be made free
+aboue, in that tryum|phant
+<HI>Citie,</HI> whose glory
+hath neither measure,
+nor end.</P>
+</DIV2>
+<DIV2 TYPE="section">
+<PB N="163" REF="85">
+<HEAD>The Life of the
+Citizens</HEAD>
+<P>Is <HI>Loue:</HI><NOTE PLACE="marg">The life of Peace.</NOTE> for without
+the loue of men there
+can be no peace of God,
+and there is no loue of
+God in them that desire
+not peace with men.
+He that loues not the
+members, was neuer a
+friend to the <HI>Head.</HI> To
+say we loue Christ, and
+hate a Christian; is as
+if a man, while hee was
+saluting or protesting
+loue to his freind, should
+tread on his toes. I
+know indeed, that euery
+creature is to bee loued,
+but <HI>in ordine ad Deum:</HI>
+<PB N="164" REF="86">
+Religion doth not for|bid,
+but rectifie our af|fections.
+Our Parents,
+spouses, children, allies,
+countrymen, neighbors,
+friends; haue all their
+due places in our loue:
+and it were a brutifh do|ctrine
+to dispossesse vs
+of these humane rela|tions.
+Onely they must
+know their orders and
+stations, and by no
+meanes vsurpe vpon
+God: they must not be
+mistresses, but hand|maides
+to the loue of
+Christ.</P>
+<P>But let vs loue them,
+because they loue God:
+<PB N="165" REF="86">
+as reflections of our
+sight, which glaunce
+from the Lord vpon his
+Image: if God haue
+their hearts, let them
+haue our hearts. It is
+poore to loue a man for
+that is about him: hee
+must bee loued for that
+is within him. If wee
+should account of men
+as we doe of bagges;
+prize them best that
+weigh heauiest, and
+measure out our loue by
+the Subsidie-booke; ho|nouring
+a man because
+he is well cloathed: I
+see then no reason, but
+wee should doe greater
+<PB N="166" REF="87">
+reuerence to the Bason
+and Euer on the stall,
+then to the Goldsmith
+in the Shop; and most
+humbly salute Sattin &amp;
+Veluet in whole pieces,
+because their virgin-glo|ry
+was neuer yet raui|shed
+and abused into fa|shion.</P>
+<P>No, but especially let
+vs loue others, because
+they feare God, and
+serue Iesus Christ. For
+as the braine is to the
+sinewes, the liuer to the
+veines, and the heart to
+the arteries; so is Gods
+loue to humane socie|ties:
+as the very soule
+<PB N="167" REF="87">
+by which they liue, and
+the forme that giues
+them being. Otherwise
+our companies are con|spiracies;
+when we fall
+in one with another, to
+fall out with God. Let
+vs beginne our loues a|boue,
+deriuing this holy
+fire from the Altar of
+Heauen; let our faith
+inkindle it at the heart
+of Christ, and then like
+the Cherubins, wee shall
+looke graciously one vp|on
+another, while all
+faithfully looke vp to
+the Mercy-seate of
+God.</P>
+</DIV2>
+<DIV2 TYPE="section">
+<PB N="168" REF="88">
+<HEAD>The generall State
+of this Citie.</HEAD>
+<P>This is the Corollary
+of all;<NOTE PLACE="marg">The Estate.</NOTE> euery particular
+being cast vp, heere is
+the summe; her vniuer|sall
+felicitie. For the il|lustration
+whereof, it
+will not bee vnusefull,
+to borrow an instance:
+and wee need not tra|uell
+farre to seeke out
+such an image or resem|blance.</P>
+<P>Looke wee vpon our
+owne Nation, the hap|py
+Module of this Citie
+of peace. It was sayd,
+that in Rome a man
+might see all Countries:
+<PB N="169" REF="88">
+and the Romans vsed
+to solace themselues; <HI>It
+is good looking on a Map
+of the World, vbi nihil
+in orbe videmus alienum,</HI>
+when wee find nothing
+in the world which is
+not our owne. What
+doth the whole earth
+produce, which is not
+yeelded to our enioy|ing?
+What was once
+sayd of <HI>Ormus,</HI> is true
+of this Citie, Turne the
+world into a Ring, and
+this is the Diamond
+of it. Like to <HI>Gideons
+Fleece,</HI> it hath been wet
+with the dewe of hea|uen,
+when drought was
+<PB N="170" REF="89">
+on the whole earth be|sides:
+Or like <HI>Nylus,</HI>
+which keeps within the
+Bankes, when other Ri|uers
+ouerflow their con|tinents.
+Some Nations
+haue peace, but with|out
+the Truth: other
+haue the Trueth, but
+without Peace: wee
+haue both Truth and
+Peace. Our neighbours
+haue beene exercised
+with troubles, whirled
+about with hostile tu|mults;
+their eares af|frighted
+with the thun|der
+of those murdering
+pieces: their eyes aga|shed
+with their Temples
+<PB N="171" REF="89">
+and Tabernacles fla|ming
+about their heads:
+Infants bleeding vpon
+the stones, and their a|mazed
+mothers raui|shed
+ere they can bee
+permitted to die. The
+shrikes of the dying, and
+slauery of the liuing, vn|der
+the mercilesse hands
+of a killing or insulting
+aduersary; these haue
+beene their distracting
+obiects: none of them
+come neere vs. There
+is no rifling of houses,
+no flying to refuges, no
+rotting in Dungeons,
+no ruinating of Monu|ments,
+no swelling the
+<PB N="172" REF="90">
+chanels with blood, no
+fiering of Cities, no
+Rapes of Virgines, no
+dashing of Babes against
+the stones, nor casting
+them, as they droppe
+from their mothers
+wombes, into their mo|thers
+flames. But in
+stead of these, the truth
+of the Gospell is prea|ched,
+pietie professed,
+the practise of it encou|raged;
+Grace promising,
+and Peace performing,
+blessed rewards.</P>
+<P>That is verified in vs,
+which is recorded of
+the dayes of <HI>Solomon;
+That hee had peace on all
+<PB N="173" REF="90">
+sides round about him:</HI><NOTE PLACE="marg">1. Kings 4. 25.</NOTE>
+<HI>and Iudah &amp; Israel dwelt
+safely, euery man vnder
+his Vine, and vnder his
+Figgetree, from Dan to
+Beersheba.</HI> Or as <HI>Syluius</HI>
+sayd of <HI>Rhodes; Semper
+in sole sita est.</HI> The Sun|shine
+of mercy embra|ceth
+vs, and hath made
+vs a day of peace, not
+shorter then sixty yeres:
+the fauours of God o|uer
+shadowing vs, as the
+Cherubins did the Mer|cie-Seat.
+I know that
+Rome frets at this, and
+let the Harlot rage her
+heart out: shee thun|ders
+out Curses, but
+<PB N="174" REF="91">
+(praised bee God) wee
+neuer more prospered,
+then when the Pope
+most cursed vs. Yea, O
+Lord, thogh they curse,
+doe thou blesse: their
+thunder doth more fear
+then hurt, thy fauour
+doth more good then
+they can blast. Conuert
+or confound them that
+haue euill will at Sion:
+&amp; still let vs inherit thy
+<HI>Peace,</HI> that thou mayst
+inherit our praise.</P>
+<P>This is the Reward of
+<HI>Peace,</HI> and of all those
+that in sincerity of heart
+loue her:<NOTE PLACE="marg">2. Cor. 13. 11.</NOTE> <HI>the God of peace
+shall be with them.</HI> There
+<PB N="175" REF="91">
+be six kinds of peace, but
+the peace of God con|taines
+all the rest. <HI>The
+peace of God passeth all vn|derstanding:</HI>
+therefore
+whosoeuer looseth this
+peace, hath a losse past
+all vnderstanding. But
+Christ foretold vs, that
+<HI>in the world wee shall haue
+no peace.</HI><NOTE PLACE="marg">Ioh. 16. 33.</NOTE> Indeed no peace
+<HI>Quoad oppositionem secu|li,</HI>
+yet much peace <HI>quoad
+dispositione~ Domini.</HI> The
+most sauage disturbers,
+<HI>Si non reformentur ne pe|reant,
+tamen reprimentur
+ne perimant:</HI> if they bee
+not reformed to saue the~
+themselues, they shall be
+<PB N="176" REF="92">
+restrained from harming
+vs. If they will not do vs
+the good they should,
+yet they shall not doe vs
+the euill they would. <HI>Vel
+inimieus tuus non mane|bit,
+vel non manebit inimi|cus.</HI>
+Either our enemies
+shall not liue, or they
+shall not liue our ene|mies.<NOTE PLACE="marg">Psal. 58. 1<GAP DESC="illegible" REASON="faint" EXTENT="1 letter">.</NOTE>
+Either <HI>the righteous
+shal reioyce whe~ they see the
+vengeance, and wash their
+feet in the blood of the wic|ked.</HI>
+Or <HI>the Lord wil giue
+them fauour in the sight of
+their enemies,</HI><NOTE PLACE="marg">Exod. 11. 3</NOTE> <HI>and those
+that hated them, shall
+cleaue vnto them.</HI></P>
+<P>From hence ariseth
+<PB N="177" REF="92">
+peace with our selues: a
+conformitie of affection
+to reason, of reason to
+grace: that the conflicts
+which a distressed con|science
+finds with legall
+terrors, shall bee turned
+to mild embracements.
+Faith leading the vnder|sta~ding,
+the vndersta~ding
+guiding the wil, the will
+ruling the operatiue po|wers,
+&amp; Christ Iesus go|uerning
+all. For indeed
+hee is the Fountaine of
+peace,<NOTE PLACE="marg">Rom. 5. 1.</NOTE> and wee <HI>through
+him beeing iustified by
+faith, haue peace with God.</HI>
+Through the corrupti|on
+of our nature, and Iu|stice
+<PB N="178" REF="93">
+of Gods nature, we
+are enemies: and there
+is no reconciliation, but
+through the blood o
+the euerlasting Coue|nant.
+He reconciles vs to
+God, as <HI>Ioab</HI> did <HI>Absolon</HI>
+to <HI>Dauid</HI> by the woman
+of <HI>Tekoah:</HI> when the
+whole family rose vp, &amp;
+said, <HI>Deliuer him that
+smote his brother,</HI><NOTE PLACE="marg">2 Sam. 14 7</NOTE> <HI>that wee
+may take his life for the
+life of the slaine:</HI> and so
+the father &amp; mother shal
+<HI>haue no name nor remain|der
+vpon earth.</HI> God hath
+two sorts of sons Angels
+&amp; men: the Angels that
+fel, are lost for euer: men
+<PB N="179" REF="93">
+fel, if they were lost too,
+where should God haue
+sonnes? I know that he
+needs not man: he hath
+stil the elect Angels, and
+is able to raise sonnes of
+stones: he can want no|thingwhile
+he possesseth
+himself. Wel, yet in mer|cy
+Christ reconciles vs:
+<HI>Dauid</HI> askes,<NOTE PLACE="marg">Verse 19.</NOTE> <HI>Is not the
+hand of Ioab in all this?</HI>
+so we may admire, <HI>Is not
+the ha~d of Iesus in all this?</HI>
+Yes, hee hath made our
+peace. The Minister al|wayes
+ends his publicke
+deuotions with the <HI>peace
+of God,</HI> &amp; the blessing of
+this <HI>Peace</HI> rest vpon vs.</P>
+<P><PB N="180" REF="94">
+Thus wee haue a reall
+abridgment of this my|stical
+<HI>Citie of Peace;</HI> hap|py
+euery way. Vigilan|cie
+is her <HI>Officer of Peace;</HI>
+that hath an eye in the
+darkest angles, and dis|couers
+the first concep|tions
+of strife. Disci|pline
+is her <HI>Clerke</HI> of the
+peace, that keepes the
+Records, and indicts of|fenders.
+Authoritie is
+her <HI>Iustice</HI> of peace: that
+if any will not be ruled,
+binds them ouer to the
+peace. Equitie is her
+<HI>Burse,</HI> where men ex|change
+kindnes for kind|nes:
+on whose stayres
+<PB N="181" REF="94">
+Iniurie and imposture
+durst neuer set their
+foule feet. Truth is her
+<HI>Standard,</HI> which with
+the Trumpet of Fame
+shall resound her happi|nes
+to all nations. Plen|ty
+is her <HI>Treasurer,</HI> Li|beralitie
+her <HI>Almoner,</HI>
+Conscience her <HI>Chance|lor,</HI>
+Wisdome her <HI>Coun|seller,</HI>
+Prayer her <HI>Clerk of
+the Closet,</HI> Faith her
+<HI>Crowne,</HI> Iustice her <HI>Scep|ter,</HI>
+Masculine Vertues
+her <HI>Peeres,</HI> Graces her
+<HI>Attendants,</HI> and Nobi|litie
+her <HI>Maid of Honor.</HI></P>
+<P>All her Garments are
+greene and orient; all
+<PB N="182" REF="95">
+her paths bee Milke, her
+words Oracles, and her
+works Miracles: making
+the blind to see, and the
+lame to goe, by a merci|full
+supply to their de|fects.
+Her breath is swee|ter
+then the new blowen
+Rose; millions of soules
+lie sucking their life fro~
+it: and the smell of her
+garments is like the smel
+of <HI>Lebanon.</HI> Her smiles
+are more reuiuing then
+the Vertumnall Sunne|shine:
+and her fauours,
+like seasonable dewes,
+spring vp flowers and
+fruits wheresoeuer shee
+walks. Holinesse is the
+<PB N="183" REF="95">
+<HI>Canopie of State</HI> ouer her
+head, and Tranquilitie
+the <HI>Arras</HI> where she sets
+her foot. All her <HI>Ser|uants</HI>
+wait in order; and
+can with contentfull
+knowledge, distinguish
+and accept their owne
+places. Her <HI>Court</HI> is an
+Image of Paradise; all
+her channels slow with
+milke, and her Conduits
+runne wine. Enuy and
+murmuring, as priuy to
+their owne guilt, flye
+from her Presence. Her
+<HI>Guard</HI> consists not of
+men, but Angels: and
+they pitch their Tents
+about her Palace. Last|ly,
+<PB N="184" REF="96">
+hauing preserued and
+blessed all her children
+on earth, shee goes with
+them to heauen; is wel|comed
+into the armes
+of her Father, inuested
+Queene with a Diadem
+of glory, &amp; possessed of
+those ioyes, vnto which
+Time shall neuer put</P>
+<TRAILER>An End.</TRAILER>
+<PB REF="96">
+</DIV2>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

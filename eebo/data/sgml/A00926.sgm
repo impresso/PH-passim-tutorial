@@ -1,0 +1,1192 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD EEBOPROOF 2.0//EN">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-09-23</DATE>
+<RESPSTMT>
+<NAME>Dan Haig</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TYPEs to DIVs in order to validate. Proofed title page(s). Checked for N=""s. Checked for GROUP tags. Checked ^s. Reviewed structure. Checked division-marking material at heads and feet of divisions (HEADS,  CLOSER, OPENER, ARGUMENT, EPIGRAPH, SIGNED, BYLINE, etc.). Checked for signatures. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected ** $s and $word$s etc. of **. Converted __ $$s to GAP DESC="illegible" RESP="[vendor name]". Checked spacing of foreign GAPs.  Checked for LBs. Checked for startqs, endqs, oes, q;s, and Qs. Checked proofsheets and made corrections found there.  Checked for FIGUREs and decorated initials. Checked for missing-page GAPs. Revalidated. </ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="A00926">
+<STC T="S">11032</STC>
+<BIBNO T="umi">99850325</BIBNO>
+<VID>15516</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1" MS="y">
+<PB REF="1">
+<P>THE
+AFFECTIONS
+OF A PIOUS
+SOULE,
+UNTO OUR
+Saviour-Christ.</P>
+<P>Expressed in a mixt Trea|tise
+of <HI>Verse</HI> and <HI>Prose.</HI></P>
+<P>By <HI>Richard Flecknoe.</HI></P>
+<P>LONDON,
+Printed by <HI>Iohn Raworth</HI> for <HI>William
+Brooke,</HI> dwelling at the upper end of
+Holborne in <HI>Turpins</HI> Rents, 1640.</P>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="2">
+<PB REF="2">
+<HEAD>To the truly Noble, and
+Vertuous Lady, The Lady
+<HI>Nevill Brooke.</HI></HEAD>
+<OPENER><SALUTE>Madame,</SALUTE></OPENER>
+<P>_BEhold my one weeks
+Meditation, which
+is yours all the yeer;
+so I presume it may
+not come unseasonable to you
+now, though that dolorous time
+be past, and a more joyfull one
+ensued&punc; Even so it is, by the
+<PB REF="3">
+way of sorrow, we must arive to
+joy, which none in the next life
+can perfectly participate of
+with our Saviour Christ, with|out
+part of his paine and suffe|rings
+in this, Though not by
+Passion, yet by Compassion at
+least&punc; So, where the effect
+wants, if the will want not, it
+is sufficient.</P>
+<P>You (Madam) are (we
+know) of more Eminency of
+Fortune, then to feele the one,
+but of such Eminent devotion,
+as the other you are not without
+<PB REF="3">
+tender feeling of, which makes
+me with more Confidence, ap|proach
+this to your fair hands,
+who yeild to none, in truly ho|nouring
+you,</P>
+<CLOSER><SIGNED>RICH: FLECKNOI</SIGNED></CLOSER>
+<PB REF="4">
+<GAP DESC="duplicate" EXTENT="1 page">
+<PB REF="4">
+<GAP DESC="duplicate" EXTENT="1 page">
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="5">
+<PB REF="5">
+<HEAD>To
+The Towne-Reader.</HEAD>
+<P>_TO tell thee true, I am
+both sorrie and asha|med,
+to have spent so
+many idle houres with
+thee; and therefore to
+avoyd the expence of more, have reti|red
+me from the Towne. This then
+to thee, is in part of acknowledge|ment
+of it, as of purpose to amend;
+and as this shall find acceptance, so
+expect at convenient leisure to heare
+from me againe. For my disposition
+<PB REF="6">
+(if thou knowest it not) thou mayest,
+from this Ode of mine.</P>
+<LG N="1">
+<HEAD>(1)</HEAD>
+<L>Free as I was borne I'll live,</L>
+<L>So should everie wise man do:</L>
+<L>Only fools they are, that give</L>
+<L>Their freedoms to I know not who.</L>
+</LG>
+<LG N="2">
+<HEAD>(2)</HEAD>
+<L>If my weaknesse cannot save it,</L>
+<L>But 'tmust go; what e're it cost:</L>
+<L>Some more strong than I shall have it,</L>
+<L>Can make good what I have lost.</L>
+</LG>
+<LG N="3">
+<HEAD>(3)</HEAD>
+<L>Still some excellencie should be</L>
+<L>More i'th' Master, than the Slave,</L>
+<L>Which in others till I see,</L>
+<L>None my libertie shall have.</L>
+</LG>
+<LG N="4">
+<HEAD>(4)</HEAD>
+<L>Nor is't excellencie enough,</L>
+<L>Time nor Chance can mar or make;</L>
+<L>But 'tmust be more lasting stuffe,</L>
+<L>Shall from me my freedome take.</L>
+</LG>
+<LG N="5">
+<PB REF="6">
+<HEAD>(5)</HEAD>
+<L>Wherefore beautie never shall</L>
+<L>On my libertie intrude:</L>
+<L>And proud greatnesse least of all,</L>
+<L>Cause 'tis proud, once to conclude.</L>
+</LG>
+<LG N="6">
+<HEAD>(6)</HEAD>
+<L>Those to whom I'll give away,</L>
+<L>That which none too deare can buy,</L>
+<L>Shall be made of better clay,</L>
+<L>And have better souls than I.</L>
+</LG>
+<P>For the Treatise it selfe, by reason
+there are but too many of that depra|ved
+pallate, to whom all seems insi|pid
+and disgustfull, that is, seasoned
+with any taste of pietie, to occur to
+such infirme appetites, I have served
+up their meat in little pieces, thus cut
+up unto their hands, which in greater
+perhaps they would not like so well.
+To make it a more spreading work, if
+I would, I could have beat it thinner,
+<PB REF="7">
+(the matter was plyable enough unto
+the hammer) but I like not works of
+that raritie, defined by the Philoso|pher,
+<HI>Sub magna quantitate sub|stantia
+parva.</HI> And hold in books as
+in coyne, those of most value in least
+quantitie the best. That I am so fre|quent
+in Latin citation, those I am
+sure who are verst in the language,
+will easily pardon it; the rest, I hope,
+will not be difficile, when they shall
+find in the reading, the sense compleat
+without it. If any demand, why then
+I inserted it, I answer, works of this
+fabrick, consolidate and built up|on
+authority of holy Writ, without
+frequent Texts of it, for foundation
+and cement, are worthily esteemed,
+but weake and loose-written things.
+Now that I chose the Latin to any
+<PB REF="7">
+other vulgar; I presumed, as a buil|der,
+they would give me leave to pro|vide
+my materials, when I supposed
+them at best hand to be got. But I
+detaine thee too long in the porch, un|lesse
+with <HI>Malchus</HI> thou thinkest
+much to have an eare in the passion:
+Enter the work, and if thou receivest
+but as much profit in reading, as I en|tended
+thee in writing, we shall both
+be happy in it. Farewell:</P>
+<CLOSER><SIGNED>R. F.</SIGNED></CLOSER>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="title page">
+<PB REF="8">
+<PB REF="8">
+<HEAD>THE
+AFFECTIONS
+OF A PIOUS SOUL
+TO OUR
+Saviour Christ.</HEAD>
+<P>_UPon that day (never
+to be forgotten, nor
+ever without teares
+to be remembred)
+which stands markt
+to all posteritie, with the black
+note upon it, of his death, who is
+<PB N="2" REF="9">
+the life of all, it chanced a pious
+soule from those remoter parts of
+<HI>Gallilee,</HI> consining with the sea,
+came up to <HI>Hierusalem</HI> in search
+of our Saviour <HI>Christ.</HI></P>
+<P>Where being arived, shee found
+all in noyse and uprore; most part
+with thronging haste, flocking
+towards the Temple, and whi|spering
+somewhat of strange and
+admirable as they past along; the
+rest in the streets effused, and wa|ving
+up and downe with the tide
+of severall passions, here one ex|ulting
+with insolent joy, another
+there as much depressed with
+griefe: this, silently weeping;
+that, lowdly jocund; so as you
+would have imagined both joy
+and griefe had inhabited there to|gether
+<PB N="3" REF="9">
+(as their extremes, they say,
+do neere confine.) And if (as
+Painters note) the same lines serve
+to delineate both weeping and
+laughter too, you had seene them
+both exprest unto the life, in one
+piece there; both yet set off with
+a deep shadow of admiration.</P>
+<P>Whereupon, she meeting with
+none, of whom seasonably shee
+might demand the cause of such
+discrepant affection: And easily
+conjecturing him she sought (the
+exactest rule of order) there, no
+where to bee found where such
+disorder was, retired her selfe to
+that part of the Citie, where
+Mount <HI>Calvary,</HI> like a swelling
+tumour arises on its side, both af|ter
+so long journey to repose her
+<PB N="4" REF="10">
+wearied limbs, as also in silence
+and solitude of the place, to recol|lect
+a while from noyse and cla|mour
+of the Citie multitude.
+Here she was no sooner come, but
+behold a strange and horrid spe|ctacle
+met her amazed eye. It was
+of three crosses erected on the
+Mount, whereon Death it seemes
+had affixed in trophie of that daies
+victorie, three persons crucified;
+one of which (hee whose Crosse
+stood in the middest, more emi|nent
+than the rest) as one of more
+regard, was circumstanced with a
+lamentable and lamenting sort of
+women, weake of sex, yet of
+mightie griefe, few in number, but
+equall to many in affliction, the
+woes of a thousand being in every
+one.</P>
+<P><PB N="35" REF="10">
+At sight of whom she straight
+drew towards the place; (led
+by compassion, animating her
+on, with this noble thought:
+how she being a member of the
+universall body, the griefe of e|verie
+one was in part her own.)
+Where being arived, shee might
+perceive <HI>Mary the mother of Ie|sus,
+Mary her sister of Cleophas,
+and Mary Magdalen</HI> to be three
+of them, with whom being
+long conjoyned in affection; by
+holy sympathy, shee soone be|came
+familiar with their griefe,
+ere with their cause of grieving;
+and wept to see them weep.</P>
+<P>So long she co~tinued weeping,
+&amp; as long ignorant, why (griefe
+<PB N="6" REF="11">
+having so stopt up the passages
+of their voyces, they could not
+arive to words, and her teares
+drawne such a watry curtaine
+before her eyes, shee could not
+discerne who they bemoaned
+so, only thus much shee might
+perceive, his face (whosoe're he
+was) was so defaced with bloud,
+as a cleerer and lesse clouded
+eye than hers, might well be ex|cused,
+its not reading the con|tents
+of it; untill at length, one
+of that sorrowfull company gi|ving
+first a heave or two, like
+one oppressed under some pon|derous
+waight, to raise her
+words above her woes, burst
+forth into this short exclamati|on,
+<PB N="7" REF="11">
+<HI>O Iesu, Iesu;</HI> and said no
+more.</P>
+<P>At this shee strait great with
+suspition (as sorrow is ever
+pregnant of suspect to be delive|red
+of it, (like those who seeke
+what willingly they would not
+find, and but hunt their owne
+feares with curiositie) deman|ded
+of another, who it was they
+lamented so. When she survey|ing
+her with a wondring eye:
+<Q>And are you alone (said shee)
+so much stranger not only to
+Hierusalem, but to the world,
+to be ignorant who they have
+crucified here. Can you feele
+the earth-quake under you,
+and not know it is for his suf|fering
+<PB N="8" REF="12">
+who made the earth?
+Can you behold the Heavens&punc;
+the Sun and Moone, lost in
+Cimerian darknesse, and not
+perceive hee who enlightned
+them is here ecclips'd? Looke
+upon yonder rock, it cleft
+(senslesse as it is) that instant
+as hee died, and what a heart
+have you then, not to bee so
+much as sensible of his death?
+But I forget my selfe, and
+whilst I seeke to find you out
+a griefe (by invasion of speech)
+have almost lost mine owne;
+wherefore let me tell you in a
+word, and then make good
+my silence; It is <HI>Iesus</HI> of <HI>Naza|reth</HI>
+they have crucified here.</Q></P>
+<P><PB N="9" REF="12">
+At hearing of which, it was
+no griefe, no passion of the li|ving
+that ceazed her; but such
+a stupiditie, as death could not
+have rendred her more immova|ble
+for the time, so true it is, <HI>Curae
+leves loquuntur ingentes stupent:
+Senec.</HI> Untill at last, as if but
+then, the floud-gates of her tears
+were drawen up, they gushed
+forth in such abundance, as if
+each drop had stroven to fall
+first to the ground. In so much,
+as had you beheld <HI>Niobe</HI> wee|ping
+her childrens losse, you had
+seene an image, &amp; but an image
+only of her weeping him; and
+yet in this excesse of teares and
+griefe, as if she had beene all de|fective
+<PB N="10" REF="13">
+to exstimulate her heart,
+the more to grieve, and excitate
+affection to weep the more: In
+a sad and mournfull accent shee
+delivered this,
+<Q><LG>
+<HEAD>To excitate the affection.</HEAD>
+<L>Am I a Christian then, or no?</L>
+<L>I can behold Christ suffering so,</L>
+<L>And feele no woe?</L>
+<L>Though none, yet soft humanitie</L>
+<L>Shou'd make one man commiserate,</L>
+<L>When he beholds another die,</L>
+<L>Such interest hath he in the State:</L>
+<L>So verie Iufidels we see,</L>
+<L>Are not from pitie free.</L>
+</LG>
+<LG>
+<L>Then am I man, or am I none?</L>
+<L>That can consider him as one,</L>
+<L>And make no moane?</L>
+<L>Yet were I none, the Sun, the Moone,</L>
+<L>And such as but his creatures are,</L>
+<L><PB N="11" REF="13">
+Would cause me feele his suffrings soone,</L>
+<L>Vnlesse I were more senslesse far,</L>
+<L>More dull than verie rocks and stones,</L>
+<L>That now burst forth in groanes.</L>
+</LG>
+<LG>
+<L>Am I a creature then, or not?</L>
+<L>That my Creators so hard lot</L>
+<L>Should be forgot?</L>
+<L>For sure I'm none; but nothing I</L>
+<L>Can let (yet let not one teare fall)</L>
+<L>Both God and man, and Maker dye,</L>
+<L>As I were not concern'd withall:</L>
+<L>Nothing 'mongst Christians, Creatures, men</L>
+<L>Am I? or worser then?</L>
+</LG>
+<LG>
+<L>Oh me, the whilst worthy of deepest hell,</L>
+<L>If I without a teare can see dim dye,</L>
+<L>More Infidell than Infidell,</L>
+<L>More stone than stones; les man, the man am I.</L>
+</LG></Q></P>
+<P>Having done this, shee began
+to weep againe; then shreek, as
+<PB N="12" REF="14">
+if her soule would with her
+voyce have sallyed forth, ac|companying
+her lamentations
+now with wringing her hands,
+now tearing her haire; Archi|tect
+<HI>Sorrow</HI> never contriving
+building, where was more va|rietie
+of sad prospective; untill
+at last <HI>Eccho</HI> being sooner wea|ried
+with repeating her plaints
+than she with uttering them, to
+give it ease a while, though not
+her selfe, shee set her silent
+thoughts to task with the ac|count
+of what her deerly Belo|ved
+had done &amp; suffered for her,
+summing up everie particular
+most exact and carefully, as it
+was delivered her in Inventory,
+<PB N="13" REF="14">
+by one was present there.</P>
+<P>As first (and in generall) how
+voluntarily hee offered himselfe
+to sufferance for us: <HI>Oblatus est
+quia ipse voluit: Isa.</HI> 53. Even to
+the pointing out himselfe unto
+them, who came to apprehend
+him with an <HI>Ego sum:</HI> Whence
+(said shee) wee may collect, (If
+we would be reciprocall) there
+is a kind of will and forward|nesse
+requisite on our parts, in
+suffering for him againe.</P>
+<P>Next and in particular, what
+sufferings they were, he offered
+himselfe unto; As how not one
+part alone, but all, even from
+head to foot, everie sense of him,
+and the whole exterior and in|terior
+<PB N="14" REF="15">
+man, was even surfetted
+(as it were) with the bread of
+dolour and affliction <HI>Saturabi|tur
+opprobriis, &amp;c.</HI></P>
+<P>His head crowned with
+thornes, and those such rigid and
+sharp-pointed ones, as the very
+skin of it was wholly separated
+from the skull, whilst those cru|ell
+Pioners digged all his blood
+out of that precious Mine. His
+face livid and swolne with
+the unmercifull souldiers heavy
+Iron Gantlets bruizing and buf|feting
+it; His shoulders gall'd
+with supporting his heavy
+Crosse, which, Oh with what
+excessive paine hee did! whilst
+they (all raw before with their
+<PB N="15" REF="15">
+scourging) were, in that dolo|rous
+prease, even squeezed (as it
+weare) to a flat cake of congea|led
+blood and gore. Then, to
+have his armes violently wrack|ed
+out, whilest they nayled his
+hands unto the Crosse; What a
+torment that! For the nayles en|tring
+the most sinuous parts of
+them, and they shrinking (as
+things naturally do) at sence of
+paine, the fleshy, which were
+nayled to't, and could not recoyl
+nor give, must of necessity be vi|olently
+divulsed from them. As
+for his scourged body, it was all
+torne and mangled with their
+bloody whips: Wherefore at
+one glance of the eye to passe it
+<PB N="16" REF="16">
+over, as too pitious a spectacle
+long to be look'd upon, &amp; come
+to his boared feet. How those
+huge boystrous Nayles must
+needs have torne &amp; riven them,
+whilst his dying body hung
+swayed upon them with all its
+weight, is not without horrour
+and cold sweat to be imagined;
+'Mean while, what vying was
+there betwixt his hands &amp; feet,
+which should indure most pain
+and torment (all at his cost, God
+knowes) What tossing and re|tossing
+of his dolorous life with
+suffering betwixt them? Now
+this taking it at rebound, now
+that, till lighting in death's haz|zard,
+the sport ended; A cruell
+sport the while!</P>
+<P><PB N="17" REF="16">
+Then for his Senses, how
+were they all tormented in him,
+and he in all of them! His eyes
+in seeing-nothing but what dis|consolated
+and afflicted him; ei|ther
+his Enemies rejoycing at his
+suffering (which commonly as
+much agravates, as pity aleviates
+the paine o'th' sufferer) or else his
+friends (those few poore friends
+he had) so extreamly grieving at
+it, as even derived from them, a
+fresh grief to him again, and for|ced
+him the comforted, to be|come
+their their Comforter. <HI>Fi|liae
+Hierusalem nolite flere super
+me, &amp;c.</HI> Luk. 23. 28. His ears play|ed
+upon from every side, with
+whole volleyes of fearfull blas|phemies,
+<PB N="18" REF="17">
+as: <HI>alios salvos fecit se|ipsum
+non potest salvum facere,</HI>
+He could save others, and cannot
+save himselfe <HI>Matth.</HI> 27. 42. Or
+else with such bitter scornes and
+taunts as these, <HI>Si Rex Israel est
+descendat de cruce &amp;c.</HI> Let him
+now descend from the Crosse
+if he be the King of <HI>Israel. Ibid.</HI>
+which to a man sensible of his
+honour had been most grievous,
+but to a God most intolerable
+(unlesse perhaps he were ena|moured
+of griefe as sure he was
+that day, even to Espouse it on
+the Crosse and take denominati|on
+from thence, of <HI>vir dolorum,</HI>
+the very husband of it, as <HI>Esaias</HI>
+had prophecyed of him long be|fore)
+<PB N="19" REF="17">
+For his smelling I will not
+offend the nice &amp; delicate with
+commemorating the abhomi|nable
+stench of those filthy and
+loathsome Crachets (the very
+Entrails of the Jewes malice)
+hung clottering in his face, that
+face <HI>in quem desiderant Angeli pro|spicere:</HI>
+Which so much deligh|ted
+the Angels to behold, of
+which then they might well say
+indeed, <HI>vidimus eum &amp; non erat ei
+species ne&abque; decor,</HI> that they had
+seen it, and there was neither
+feature nor beauty in it. For his
+taste, to have nothing admini|stred
+it to sweeten the bitternesse
+of death, but Gall and Vinegar;
+When for other Malefactors
+<PB N="20" REF="18">
+most pleasant wines were al|lowed
+&amp; provided at the publike
+cost; O it was cruell! barbarous
+cruell that! But he foresaw it ne|cessary
+for us (whilst we live
+here where the wheele of affli|ction,
+with variety of new suffe|ring
+every day fetches its turne
+about us) to have for Imitation
+his great Example of patiently
+suffering all. For his feeling, we
+have spoken of that before, if it
+were not altogether unspeakea|ble
+what he felt.</P>
+<P>But alas all this of the exterior
+compared to his Interior suf|frings,
+is but as a single drop of
+water to the whole Ocean or
+the Center-point of Earth, unto
+<PB N="21" REF="18">
+the vast circumference of Hea|ven;
+for the soule, as an instru|ment
+strung with finer strings
+than the body, is of more deli|cate
+resentment, more sensible
+of everie little touch; And how
+rudely did they play upon it?
+Hee could not speake to them,
+though nothing but sugar and
+honey, like the Bridegroome in
+the Canticles; but in churlish
+and bitter speech they repartyed
+againe. If in soft and silken
+phrase he question'd them, either
+in pure disdaine and spight, they
+not vouchsaf'd him answer: So,
+<HI>Si interrogavero, non respondebitis
+mihi, &amp;c.</HI> Luk. 22. Or else it was
+in words, as hard as <HI>Semai's</HI> to
+<PB N="22" REF="19">
+<HI>David</HI> were, everie one accom|panied
+with a stone, so crosse, so
+contrarie were they in words
+unto him: But in action, it goes
+a thought beyond imagination,
+how contrarie they were, put|ting
+sinister interpretation still,
+to disguise the right meaning, on
+whatsoever he did. If he cured
+their sick, it was to breake their
+Sabbaoth; if he cast their De|vils
+out, it was in the name of
+<HI>Beelzebub.</HI> They held him for
+Libertine, if hee eat or drunk
+with them, if not for <HI>Samaritan;</HI>
+so well hee might say of them;
+<HI>Cecinimus vobis, &amp; non salt&acirc;stis;
+lamentavimus, &amp; non planxistis;
+&amp;c.</HI> Mat. 11. but they went fur|ther
+yet.</P>
+<P><PB N="23" REF="19">
+<HI>Pericles</HI> could say of the <HI>Sami|ans</HI>
+(not content with courtesies
+they received from those of <HI>A|thens</HI>)
+that they were, <HI>Infanti|bus
+similes, qui cibum non nisi illa|chrymando
+admittebant, &amp;c. Plu|tarch.</HI>
+Like children, who whilst
+they were benefited, cryed: But
+what should one say of these?
+Never men borne in the dis|grace
+of better Nature, had such
+antipathy with their best good,
+as they: For marke how this
+perverse, wicked, and viperous
+generation (out-doing spight it
+selfe) requited him for love with
+hatred; for good, with ill; and
+for honouring them, with dis|honouring
+him againe.</P>
+<P><PB N="24" REF="20">
+And first of their hatreds to
+him, let this be sufficient argu|ment,
+that they could not so
+much as endure his sight (and
+when wee once withdraw our
+eyes from any one, 'tis signe we
+have withdrawne our affection
+before) but whilst he projected
+such right and full beames of
+love on them, as even reflected
+them to his very hart; the sons of
+<HI>Iacob</HI> never, with more oblique
+&amp; auerted eyes, beheld their bro|ther
+<HI>Ioseph,</HI> than they did him.
+Now if (as they say) the chie|fest
+attraction of love bee love,
+and he holds no commercewith
+humanitie, who will nor give,
+nor take affection: What should
+<PB N="25" REF="20">
+one think or say of this malig|nitie?
+But for more ample de|claration
+of their inhumanitie
+to him, wee are to note; how
+that hate and aversion from a
+thing, which the more civill
+creature doth expresse by simple
+flight and avoydance; the more
+savage and effe<GAP DESC="illegible" EXTENT="1 letter">ate doth by vio|lent
+assault: So Naturalists ob|serve
+in the wild Bull, such ha|tred
+and nocivenesse to man, as
+but object unto it the picture of
+one, and presently with horne
+&amp; hoofe it furiously sets upon it.
+And mark now, if they did not
+the like by him, when <HI>Pilat</HI> pro|posing
+him unto them with an,
+<HI>Ecce homo,</HI> Behold the man; they
+<PB N="26" REF="21">
+stantly bellowed out, <HI>Crucifige,
+crucifige eum;</HI> Let him be cru|cified;
+so as hee might well say
+of them, <HI>Tauri pingues obsiderunt
+me;</HI> that hee was encompassed
+with Bulls on everie side. But
+the proofe of love consisting in
+action, <HI>Probatio (enim) amoris,
+exhibitio est operis, &amp;c. Greg.</HI> Let
+us from thence behold his love
+to them, as their hatreds to him
+againe, and so consider how
+they rewarded him, for good
+with ill.</P>
+<P>You know wee have com|passion
+for none, but those wee
+have passion for; and where the
+soyle is hate, there pitie never
+growes. Now what compassi|on
+<PB N="27" REF="21">
+had he for them? <HI>Miserior su|per
+turbam,</HI> &amp;c. and that not on|ly
+in words, but in effect, mul|tiplying
+bread for the hungrie,
+and for the thirstie, (for those
+who were necessitous) hee (as
+we may say) turned stones into
+water; for the delicious, hee
+turned water into wine (sweet|ly
+violencing all natures but
+theirs the while) for their sick,
+he restored them unto health,
+their dead unto life againe. (To
+say nothing of his spirituall be|nefits,
+since they were of nature
+so carnall, they had scarce a ca|pacitie
+of them) and how did
+they requite him? <HI>Audite coeli,
+&amp; obstupescite!</HI></P>
+<P><PB N="28" REF="22">
+So little compassion had they
+of him, as when he came to die;
+at what time others hate leaves
+the condemned to pitie, these
+pursue him farther than ever a|ny's
+did (within the limits of hu|manitie)
+not only to death, but
+even after it, when, <HI>Unus militum
+lancea latus ejus aperuit et continuo
+exivit sanguis et aqua:</HI> One of
+the Souldiers pierced his side
+with a lance, and presently there
+streamed forth bloud and water.
+A barbarisme and inhumanitie,
+no water could expiate enough,
+but that which then issued from
+his sacred side; no fire, but of
+that charitie which made him
+then shed his last drop of bloud.
+<PB N="29" REF="22">
+But to proceed; for his food,
+they repayed him with the
+bread of dolour, <HI>panem doloris,</HI>
+&amp;c. and for his drink, with gall
+and vinegar. Their infirmities,
+as fast as he took them of them,
+they laid them upon him: <HI>Infir|mitates
+nostras ipse portavit,</HI> &amp;c.
+And lastly, for giving them life,
+they crucified him to death, oh
+unheard of ingratitude! unpa|rallel'd
+wickednesse, never to be
+wrapt up in silence, nor never
+unfolded in speech, but with
+detestation! men worthy to be
+banished humane societie, so
+little of man they had in them!
+but whither? for beasts were
+lesse beasts than they, <HI>Bos enim
+<PB N="30" REF="23">
+cognovit possessorem suum,</HI> &amp;c.
+Devils, lesse Devils; for they ac|knowledged
+him yet the son of
+God: <HI>Quid mihi et tibi est Iesu
+fili Dei altissimi,</HI> &amp;c. As things
+then worse than man, beast, or
+Devill; let them still be Jewes,
+sacrilegious in all, both to the
+God that made them, and the
+god they made; which if it
+were <HI>selfe-interest</HI> (as of most
+wicked mortals it is) most sacri|legious
+were they even to that.
+Now how for honoring them,
+they repayed him with disho|nouring
+him againe; and how
+whilst (in a manner) his whole
+endevour was to exalt them a|bove
+all other people, theirs only
+<PB N="31" REF="23">
+was under all others to depresse
+and abase him for it: <HI>Quasi op|probrium
+hominum et abjectio ple|bis,</HI>
+holding him (as the Prophet
+said) for the most abject of peo|ple,
+and opprobrious of men;
+there needs no other testimony
+of it, but that one act of theirs,
+of preferring a <HI>Barrabas</HI> to him;
+<HI>Non hunc sed Barrabam,</HI> &amp;c. A
+seditious, to one who instructed
+them in nothing but meeknesse
+and humilitie, <HI>Discite &agrave;me quia
+mitis sum et humilis corde,</HI> &amp;c. A
+thiefe to one who had given
+them all they had: <HI>De cujus ple|nitudine
+omnes accepimus.</HI> And a
+murtherer to him, from whom
+they had receiv'd their very lives
+<PB N="32" REF="24">
+and being, <HI>In ipso enim vi|vimns,
+movemur et sumus,</HI> &amp;c. O
+good God!&mdash;But it is better
+to say nothing here, then not to
+say enough; and let Silence, the
+tongue of Admiration, take up,
+where ours of necessitie must
+leave: This was such an affront,
+such an indignitie! as (we may
+imagine) sunk (heavie as lead)
+so deep into the bottome of his
+divine hart&punc; no humane thought
+hath fathome-line enough to
+sound the depth of it. Where|fore,
+as a thing wholly inscru|table,
+let us give it over.</P>
+<P>Whilst this was discoursed
+unto her, in that method and
+order as we have set it downe,
+<PB N="33" REF="24">
+you might perceive her, by often
+varying colour; gesture of bo|dy,
+and motion of the eye, ta|king
+all the severall formes of
+griefe, of pitie, of indignation,
+and the like, as in so tender a
+soule could be imprest, till ari|ving
+to this last period, she was
+so brimfull of affection, as able
+to containe no more: Thus at
+the foot of the crosse shee pow|red
+it forth.</P>
+<Q><TEXT LANG="eng">
+<BODY>
+<DIV1 TYPE="poem">
+<HEAD>The Affection.</HEAD>
+<HEAD TYPE="sub">A Dithyrambus in contemplation of
+our Saviour crucified.</HEAD>
+<L>O God, and is it thou</L>
+<L>I see here suffring under their hands now,</L>
+<L>Vnder whose feet both heaven and earth do bow,</L>
+<L>Annd is it thou? I heare</L>
+<L><PB N="34" REF="25">
+Them so blaspheme, as my affrighted eare</L>
+<L>Even tingles with dire horror of't, and feare?</L>
+<L>O mee,</L>
+<L>What do I heare and see?</L>
+<L>O eares amaz'd with hearing, eyes with seeing,</L>
+<L>O endles goodnesse of an endles being!</L>
+<L>Deare heart, that hadst the heart,</L>
+<L>With such a life o part:</L>
+<L>Deare life that couldst forgoe</L>
+<L>A soule that lov'd thee so,</L>
+<L>And O deare soul wouldst take</L>
+<L>So sad farewell for my unworthy sake:</L>
+<L>And hast thou done all this for me?</L>
+<L>For all this then, what shall I do for thee?</L>
+<L>When thou demand'st it, shall I grutch</L>
+<L>Thee this small hart, as twere too much?</L>
+<L>Shall I be so peorly neere,</L>
+<L>To hold my life for thee too deere?</L>
+<L>Or think my soule too much for thee,</L>
+<L>Who nothing thoughtst enough for me?</L>
+<L>Oh no, I am thy thrall,</L>
+<L>And here before thee prostrate fall</L>
+<L>Offring up heart, life, soule, and all.</L>
+</DIV1>
+</BODY>
+</TEXT></Q>
+<P><PB N="35" REF="25">
+And being armed with this
+strong and vertuous resolve,
+how shee longed like some
+young and noble Warriour, to
+experience her yet untried force
+and valour, in the encounter
+with some adversarie paine, per|plexitie,
+or distresse, might put
+her bravely to it; that whilst in
+any part or sense of her, shee,
+found a difficultie in the fight,
+she presently might say: <Q>This
+this my Saviour, for my sake
+would have made nothing of,</Q>
+and slight it so. Or if shee
+fainted, or lost heart cry out with
+that great Champion of the A|postles,
+<HI>Quis nos seperabit &agrave; chari|tate
+Christi,</HI> &amp;c. What is it can
+<PB N="36" REF="26">
+seperate us from the charitie of
+Christ? <HI>Tribulatio, an angustia?</HI>
+&amp;c. Encouraging her selfe, and
+resuming a strength from thence
+to dare and challenge the worst
+of affliction. And this from no
+selfe-presumption neither (shee
+well knowing how of her selfe
+she could do nothing) <HI>Non quasi
+ex nobis aliquid,</HI> &amp;c. But from
+the confidence, or rather assu|rance,
+she had in him who assi|sted
+her, <HI>Omnia possum in eo qui
+me confortat,</HI> &amp;c. <Q>No, no,
+(would shee say) I can doe no|thing
+I, but God and I can do
+all: And if any imagine it a
+presumption to name my selfe
+with God, let them know I
+<PB N="37" REF="26">
+hold it a greater presumption
+for any to name themselves
+without him.</Q></P>
+<P>How gladly for his sake
+would shee have embraced a
+contumely and scorne, would
+have abhorr'd an eye of flesh &amp;
+bloud (I meane such eyes as the
+Devill opened in Paradise long
+since; not such as our Saviour
+opened on the Crosse to day)
+how greedily would shee have
+put up an injurie and affront, e|ven
+as a jewell in the cabinet of
+her heart, to weare on that gene|rall
+day, when all our braverie
+here; shall be quite out of fashi|on,
+and they onely accounted
+gloriously brave, who have such
+<PB N="38" REF="27">
+jewels as those to weare: And
+never stood on such nice termes,
+the whilst, as: <Q>Had I deserved
+it, it would never have grieved
+me; or from any, but such and
+such from whom I least expe|cted
+it, it had beene far more
+tollerable, &amp;c.</Q> And (I pray)
+from whom could our Saviour
+lesse have expected the payment
+of those injuries and affronts
+(which past so currantly with
+him) than from the Jewes,
+whom he had obliged not only
+with all the ties of Humanitie,
+but of Divinitie too? Who ever
+stood more out of the way of
+contempt and scorn than he? by
+birth, above all exception noble,
+<PB N="39" REF="27">
+<HI>ex stirpe Davidis,</HI> &amp;c. borne of
+the Royall Stem: of such digni|tie
+of aspect, as it was said of
+him, <HI>Speciosus forma prae filiis ho|minum:</HI>
+He was faire and love|ly
+above the sons of men. And
+to conclude, of life and manners
+so irreprehensible, as hee put his
+verie enemies to it, with urging
+them, <HI>Quis ex vobis arguet me de
+peccato?</HI> &amp;c. to find out a blame
+or fault in him. And let any
+now that find themselves a|grieved,
+they are not respected
+according to their merits and de|serts,
+examine where they ever
+have deserved so much of respect
+as he, and had so little paid; and
+if they finde it so, I'll say they
+<PB N="40" REF="28">
+have reason and just cause to
+complaine indeed. No, these
+are but rags of patience the poor
+and wretched soule puts on,
+whilst the gallant and richer
+scornes to weare such piec'd-up
+stuffe; this is for those who ne|ver
+endevour to limb and pour|traiture
+in the table of their
+hearts, any brave and noble
+piece, because they never take
+patterne by any but base and ig|noble
+ones. <HI>Inspice &amp; fac secun|dum
+exemplar quod tibi in monte
+monstratum,</HI> &amp;c. Did they but
+consider our Saviours sufferings,
+their own would shrink to no|thing
+in comparison.</P>
+<P>Which whilst she considered,
+<PB N="41" REF="28">
+it made her so brave in purpose
+and resolution, as even death it
+selfe would have appeared love|ly
+and amiable to her, which
+now since hee died for us, to
+those who truly love him, even
+seemes to have exchanged darts
+with love indeed: As thus they
+fable it:
+<Q><L>Love and death o'th' way once meeting,</L>
+<L>Having past a friendly greeting,</L>
+<L>Sleep, their wearie eye-lids closing,</L>
+<L>Laid 'em downe, themselves reposing:</L>
+<L>Love, whom divers cares molested,</L>
+<L>Could not sleep; but whilst death rested,</L>
+<L>All in haste away he posts him,</L>
+<L>But his haste full deerly costs him.</L>
+<L>For it chanc'd that going to sleeping,</L>
+<L>Both had given their darts in keeping</L>
+<L>Vnto Night, who, Errors mother,</L>
+<L><PB REF="29">
+Blindly knowing not one from t'other,</L>
+<L>Gave Love deaths, and ne're perceiv'd it,</L>
+<L>Whilst as blindly Love receiv'd it:</L>
+<L>Since w^c^h time their darts confounding,</L>
+<L>Love now kils in stead of wounding:</L>
+<L>Death a joy in hearts distilling,</L>
+<L>Sweetly wounds in stead of killing.</L></Q></P>
+<P>And thus in various cogitati|on
+she wandred about (Mount
+<HI>Calvary</HI> affording a large and
+ample field for her devotion to
+exspaciate in) her pious thought
+still going in circle from her Be|loved
+unto her selfe, and from
+her selfe to him againe, untill at
+last it was suddenly surprized by
+the unexpected arivall of some
+new-commers there, who ten|ding
+directly towards the crosse,
+<PB N="43" REF="29">
+made her feare some ill intenti|on
+in it, till espying <HI>Ioseph</HI> of
+<HI>Aramathea,</HI> a principall amongst
+them, she assured her feares, there
+was nothing but good inten|ded;
+as indeed their comming
+onely was, to take downe the
+body from the Crosse, and bury
+it. To which every one lending
+a ready and pious hand, it had
+soone beene done, had not this
+impediment occurred in the do|ing
+it, that their griefes for his
+death rendred them so nigh dead
+themselves, as they scarcely could
+performe the offices of the li|ving;
+and those who swouned
+not for love of him, would
+swoune for verie sorrow they
+<PB N="44" REF="30">
+loved him not enough, confir|ming
+what they report with
+admiration of the effects of di|vine
+love.</P>
+<LG>
+<L>O heavenly darts</L>
+<L>Of love, unto heaven loving harts;</L>
+<L>Whether ye wound or spare,</L>
+<L>How equally yee mortall are?</L>
+<L>For if yee wound them, presently</L>
+<L>They with the sweetnesse dye;</L>
+<L>And if yee spare 'em, then</L>
+<L>With bitternesse they dye agen.</L>
+</LG>
+<LG>
+<L>O sacred flame</L>
+<L>To hearts, once melted in the same,</L>
+<L>Whether or no yee burne,</L>
+<L>How both to their destruction turne?</L>
+<L>For if yee burne, they presently</L>
+<L>In flames consume and dye:</L>
+<L>If not, in teares they then</L>
+<L>Consume, and dye agen.</L>
+<L><PB N="45" REF="30">
+So as like two wayes that run</L>
+<L>Their severall course, then joyne in one;</L>
+<L>And whilst diversly they tend,</L>
+<L>One and the same is still their end.</L>
+<L>So both equally destroy,</L>
+<L>Be it sorrow, be it joy;</L>
+<L>Or in water, or in flame,</L>
+<L>The end of both is still the same.</L>
+</LG>
+<P>Neither is it to be so much ad|mired,
+they thus could dye (as
+it were) for him; but the greatest
+wonder is, that they could live,
+now hee was dead who was
+their very life; hee who had so
+many attractive sweets in him,
+as drew all to him; but such,
+who like <HI>Scarrebs</HI> delighted to
+live in stench, <HI>Curremus in odo|rem
+unguentorum tuorum,</HI> &amp;c.
+<PB N="46" REF="31">
+Hee who had such divine ma|gick
+in his face, as charm'd all
+that beheld it, and was of so ra|vishing
+entertainment besides,
+hee spake all flame and fire;
+<HI>Nonne cor nostrum ardens in nobis
+erat dum loqueretur,</HI> &amp;c. Able to
+burne and dissolve the ice of as
+many hearts, as ever the cold of
+death, or tepiditie had frozen
+up, provided that venomous
+serpent had not first fixt its black
+tooth in them; for then the <HI>Pol|linctori</HI>
+will tell you, that hearts
+envenom'd will not burne. No
+wonder then (I say) that him
+who they so loved living, they
+so lamented dead: It being by
+Natures Lawes decreed, wee
+<PB N="47" REF="31">
+then should love things most
+passionately and deerest, when
+wee were deprived of them:
+Whether because the appetitive
+&amp; irrascible power, then joynt|ly
+move more strongly towards
+the object, than can joy alone in
+the fruition of it; or that our
+sharp appetite of things wee
+want is soone blunted with the
+enjoying them. Certaine it is,
+whatsoever the cause be, such is
+the effect, as they well experien|ced
+everie one of them; his bles|sed
+mother, whilst shee called to
+mind, what a deere and amia|ble
+son; his friends, what a true
+and constant friend; and what
+a kind and loving Master his
+<PB N="48" REF="32">
+Disciples had lost of him: In
+remembrance of which, when
+they had buried him (as with all
+due rites and ceremonies of
+griefe they did: his sacred mo|ther
+embalming him with her
+teares, the holy <HI>Magdalen</HI> with
+her sweet unguents, for which
+her memorie is so pretious in
+the Gospell, as there never oc|curs
+mention of any, but her
+name enters as an Ingredient.)
+They departed each one with
+somewhat to foment their me|mories
+of him: One, with the
+thought of his sweet and gentle
+conversation of life; another,
+with that of the excessive love
+he declared unto them in death.
+<PB N="49" REF="32">
+Amongst the rest, our pious
+Soule, ever to have a memoriall
+of his passion, digged him a new
+monument in her bosome,
+and buried him in
+her heart.</P>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

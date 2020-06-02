@@ -1,0 +1,413 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD EEBOPROOF 2.0//EN">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-09-27</DATE>
+<RESPSTMT>
+<NAME>Mona Logarbo</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>*Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate.
+*Checked for GROUP tags.
+*Proofed title page(s).
+*Checked ^s.
+*Checked I / J.
+*Checked oe for ae ligatures.
+*Reviewed structure.
+On PB REF="4," made first two paragraphs a DIV3, instead of including them in the preceding DIV2.
+On PB REF="8," placed / DIV3 and / DIV2 before "FINIS".
+*Checked placement and completeness of PBs.
+*Checked for duplicate pages.
+*Checked for missing pages.
+*Checked spacing of foreign GAPs.
+*Checked for damage GAPs, #s, @s, &mdash;, --s, <ABBR>Esq</ABBR> and UNCLEARs.
+*Corrected $s by inserting the appropriate character(s) and / or GAP DESC(s).
+*Checked for &amp;cs with incorrect spacing.
+*Checked for OPENERs, SALUTEs, CLOSERs, DATEs, DATELINEs, SIGNEDs, BYLINEs, TRAILERs, etc.
+*Checked for TABLEs and LISTs.
+*Checked for LBs.
+*Checked for startqs, endqs and Qs.
+*Checked proofsheets and made corrections.
+DONE 09-27-03.</ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="A39717">
+<STC T="W">F1227</STC>
+<BIBNO T="oclc">19537057</BIBNO>
+<VID>109045</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="preface">
+<PB REF="1">
+<HEAD>The Occasion of Writing
+this Life.</HEAD>
+<P>HAd there been any hope, <HI>Tomaso</HI>'s ma|lice
+wou'd ever have had an end, I had
+expected it; but seeing that my suffring one
+injury, but invited a second, and that a third,
+&amp;c. and that, as my patience at first heapt
+hot burning coals upon his head, so afterwards
+it poured Oyle upon the Fire, and made
+it but flame the more; I knew not what Re|solution
+to take. I knew him a man of a dan|gerous
+Tongue, and therefore desired to have
+nothing to do with him; not that I feared what
+he cou'd say of me, but only, what I cou'd say
+of him, being loth to use the advantage I
+had over him; but since he wou'd needs urge
+me, and there was no end of his malice: I
+resolv'd at last, if a little sprinkling wou'd not
+quench the fire, to cast on whole Cataracts,
+but I wou'd do't; how ever, I owe him for this
+security, that I cannot make him more mine
+enemy then be is.</P>
+</DIV1>
+<DIV1 TYPE="title page">
+<PB REF="1" MS="y">
+<P>LIFE
+OF
+TOMASO
+THE
+Wanderer.</P>
+<P>AN EPITOME.</P>
+<P>LICENSED
+According to Order.</P>
+<P>Printed for the Author 1667&punc;</P>
+</DIV1>
+<DIV1 TYPE="to the reader">
+<PB REF="2">
+<PB REF="2">
+<HEAD>To Mr. Thomas Killigrew.</HEAD>
+<OPENER><SALUTE>SIR,</SALUTE></OPENER>
+<P>THE idle Time I was
+wont to spend at Playes, I
+employ more profitably in wri|ting
+<HI>Tomaso</HI>'s Life; who being
+a person not unknown unto You;
+I shall send it to You, as I writ it
+to Peruse, that having past your
+Approbation, it may afterwards
+more confidently appear abroad:
+So shall I do a good office to the
+publick, (for 'tis a work of no
+less profit and instruction, to set
+forth <HI>Vice</HI> foul and ugly, to de|test
+and avoid it, then <HI>Vertue</HI>
+<PB REF="3">
+fair and lovely to embrace and
+follow it) and in particular,
+Sir, declare how much I am,</P>
+<CLOSER><SIGNED>Your humble and
+Obedient Servant
+<HI>Richard Flecknoe.</HI></SIGNED></CLOSER>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="text">
+<PB REF="3">
+<HEAD>THE
+LIFE
+OF
+Tomaso the Wanderer.</HEAD>
+<DIV2 TYPE="part">
+<HEAD>PROEMIVM.</HEAD>
+<L>W'Ave had ful many famous Wights,</L>
+<L>Some styl'd <HI>Squires,</HI> and others <HI>Knights,</HI></L>
+<L>Who for Armes, as well as Artes</L>
+<L>Were counted men of Excellent Parts.</L>
+<L>As Sir <HI>Hudibras</HI> for fighting.</L>
+<L><HI>Gregory Nonsence</HI> for his writing.</L>
+<L><HI>Archy</HI> for a crafty Courtier.</L>
+<L><HI>Muckle John</HI> for making sport there.</L>
+<L><HI>Coriat</HI> one that lov'd to wander:</L>
+<L>And Squire <HI>Apple-John</HI> for pander.</L>
+<L><HI>Clancy</HI> for a Furb and Cheater;</L>
+<L>(None e're knew the slights of't better:</L>
+<L>But for all (I'le boldly say so,)</L>
+<L>None more famous then <HI>Tomaso.</HI></L>
+<P>But to leave Verse, and fall to Prose.</P>
+<DIV3 TYPE="section">
+<P><PB REF="4">
+BEing to write <HI>Tomaso</HI>'s Life, I know not
+well what style to write it in; for, he's
+too vicions for Raillerie, and not worth a se|rious
+thought; but he's more fit for the
+Satyrical style, less fit he's for any other; in
+that it shall be then.</P>
+<P>He was one born to discredit all the Pro|fessions
+he was of; the <HI>Traveller, Courtier,
+Soldier, Writer,</HI> and the <HI>Buffoon,</HI> in all: All
+which we shall Treat of, severally and
+apart, after w'ave told you his Nature and
+Disposition.</P>
+</DIV3>
+<DIV3 TYPE="section">
+<HEAD>Of his Nature and Disposition.</HEAD>
+<P>HE was so ill Natur'd, as he car'd not
+in whose light he stood, so he might
+see; nor whom he indamag'd, so he might
+gain by it; and if he had a kindness for
+any one, 'twas only for being as vicious as
+himself: So even his good Nature was
+but an effect of his <HI>ill;</HI> and his <HI>ill</HI> in every
+thing predominant.</P>
+<P>He thought all the World made for
+<PB REF="4">
+him, and he for none; and that all wisdom
+consisted in keeping his own, and getting
+as much as he could of another Man's.</P>
+<P>He was another <HI>Titus</HI> reverst; and thought
+he had lost a day when he had harm'd and
+mischiev'd none; and was so pernicious to
+every one, as if that saying be true, that
+<HI>one man is a Wolf unto another;</HI> 'twas never
+more verified then in him; so as if King
+<HI>Lucius</HI> were alive agen, he'd give more for
+freeing the Land from him alone, then for|merly
+he did for all the <HI>Wolves</HI> together.</P>
+</DIV3>
+<DIV3 TYPE="section">
+<HEAD>How he Wandred Abroad.</HEAD>
+<P>HE talks of <HI>Banishment,</HI> but 'tis well
+known he was forc'd to fly his Coun|try
+for debt, long before any other Banish|ment
+was talked of, and he bandited him|self
+but as Citizens turn Bankerouts to
+couzen their Creditors. <HI>Besides,</HI></P>
+<P>To add to his evil nature as evil Arts,
+he went abroad, and in <HI>Italy</HI> studied the
+<HI>Putana Errante,</HI> the <HI>Picaro</HI> in <HI>Spain,</HI> and
+all the <HI>Fripons</HI> and <HI>Friponeries</HI> in <HI>France,</HI>
+till he had perfectly learnt all their Arts, and
+was compleatly qualified to deboish and
+couzen every one.</P>
+<P><PB REF="5" MS="y">
+To tell you of his <HI>Deboisheries</HI> I shou'd
+offend all modest ears; and I wou'd I had
+some qualifying Term, to call his deceits
+and Cozenages by, (for to call every thing
+by their proper Names is course, and sa|vouring
+of Rusticity;) but be the name
+what it will, the thing's the same.</P>
+<P>'Twere endless to tell you how he de|ceiv'd
+and coz'ned every one, of all Quali|ties,
+Nations, and Religions, <HI>Iews, Italians,
+Courtesans, &amp;c.</HI> but especially those of his
+own Country; nor was ever any more a|dopted
+for't then he, who was flattering and
+insinuating, and had learnt of <HI>Lysander,</HI> that
+as Children are coz'ned with <HI>Nuts</HI> and
+<HI>Apples,</HI> so Men are with <HI>good words</HI> and
+<HI>fair promises;</HI> and he was so wrapt up in
+craft and dissimulation, as you might sooner
+peel a <HI>Bulbus</HI> Root out of all his Rinds, then
+unfold him out of all his subtilties; and
+sweep an Earthen Flore to its last grain of
+dust, then come to an end of his dissimula|tion.
+So wandred he up and down, (worse
+then a Mounte bank, for he cures Men, but
+<HI>Tomaso</HI> made them worse&punc; those fell Druggs,
+but <GAP DESC="illegible" REASON="missing" EXTENT="1 letter">he <HI>Fumo&punc;</HI> or smoak, and their Receipts
+were for others, but his was for himself,)
+till finding no more abroad, to cozen and
+<PB REF="5">
+deboish, without which there was no li|ving
+for him; (the one maintaining the
+other, and either him,) he return'd home at
+last, and might well say with <HI>Buscon</HI> his
+fellow-Wanderer:
+<Q><L>Con l' Art e con l' Inganno</L>
+<L>Vivo l' mezzo part l' Anno;</L>
+<L>Con l' Inganno e con l' Art,</L>
+<L>Vivo l' Altra mezzo part.</L></Q>
+That is in English,
+<Q><L>With my Art, and with deceit,</L>
+<L>Part of my Living I do get,</L>
+<L>And I get the other part</L>
+<L>With deceit and with my Art.</L></Q></P>
+<P>Being return'd, he fell to practising at
+home the Artes he had learnt abroad, and
+had a more profitable field for it, though
+not so ample as he had before.</P>
+</DIV3>
+<DIV3 TYPE="section">
+<PB REF="6">
+<HEAD>How he was a Courtier.</HEAD>
+<P>ALthough he had a better place in
+Court, then he deserved, yet he would
+needs add the <HI>Buffoon</HI>'s place unto it, as more
+suitable to his humour and disposition, and
+more priviledge to abuse and raile at every
+one: there being none of any Dignity in
+<HI>Church</HI> or <HI>State</HI> whom he had not saucily
+abus'd with his leud and scurrilous Tongue;
+for he was of a bold abusive wit; and whilst
+others took care of what they said, he talkt
+madly, <HI>dash, dash,</HI> and never car'd how he
+be spatter'd others, or defil'd himself, spa|ring
+neither his own, nor others shames; and
+his impudent boldness was all his wit, with
+which he caus'd Laughter, but 'twas rather
+forc'd then natural, and as they laught at
+mischief, so they laught at him; his Jests
+having always somewhat of malice in them,
+and he being the worst sort of <HI>Satyr,</HI> not
+against <HI>Vice,</HI> but <HI>Vertue;</HI> a profest enemy to
+all that were Vertuous, and never pardon|ing
+Vertue in any one.</P>
+<P>So he was a perpetual Libel in the
+Court of others, and to others of the
+<PB N="7" REF="6" MS="y">
+Court; and they but repeated his bold
+speeches, when they wou'd speak ill of it,
+though the worst they cou'd say of it, was
+only that he was one of it.</P>
+<P>Whence if the <HI>Court</HI> (as they say) be a
+<HI>Heaven</HI> or a <HI>Firmament,</HI> where the Prince
+is the <HI>Sun,</HI> and other Courtiers, (as they are
+nigh to him in place) bright shining Stars, he
+certainly was a dark Cloud obscuring all
+the rest, and the Court wou'd shine far
+brighter if he were but away.</P>
+</DIV3>
+<DIV3 TYPE="section">
+<HEAD>How he was a Soldier.</HEAD>
+<P>DUring the Warrs, not to be a <HI>Soldier,</HI>
+he made himself a <HI>Captain,</HI> and to
+scape fighting, has continued so ever since,
+his Sword being so little able to boast its
+blood, as all its nobility lyes in the <HI>Hylt</HI> and
+<HI>Belt;</HI> and it derives its honour more from
+the Scabbard then the Blade.</P>
+<P>All the Employment he had during the
+Warrs, was now and then to bring up a
+Convoy of Wenches to the Camp, (a sort
+of terrible Engins of War, that do as much
+harm and execution by <HI>Land,</HI> as Fire-Ships
+do by <HI>Sea</HI>) whence he gain'd the honour|able
+<PB REF="7">
+Title of <HI>Pimp-Master General</HI> of the
+Army; in which office he continued till
+(chiefly for his sins) his side at last being
+overcome; he, as from some common
+ship-wrack was the first that sav'd himself;
+and so he were safe, car'd not what became
+of all the rest.</P>
+</DIV3>
+<DIV3 TYPE="section">
+<HEAD>Of his second Expedition.</HEAD>
+<P>I Could tell you, but that 'twere too long
+a digression, how in this his second Ex|pedition,
+<HI>Cum Privilegio</HI> of <HI>Cavalier</HI> and
+<HI>Royalist,</HI> he coz'ned more in the <HI>Kings</HI>
+name, then ever Constable apprehended, or
+Judge condemned. Only I will say that
+if he fleec't them before, he flay'd them
+now; and <HI>plain Coz'nage</HI> might have past
+for <HI>Honesty,</HI> compar'd to the tricks, slights,
+project, and inventions, which he had to
+cozen them, especially his own Country-men;
+so as his name became as formidable to
+'um as ever <HI>Drakes</HI> was to the <HI>Spaniards,</HI> or
+<HI>Talbots</HI> to the <HI>French;</HI> and so it has continued
+ever since. And in this&punc; and his first go|ing
+abroad it was, when he fell to writing
+Plays, and h'ad good witness, he cou'd
+write one in a day, or two; imagine but
+what stuff it must be the whi<GAP DESC="illegible" REASON="indecipherable" EXTENT="1 letter">st.</P>
+</DIV3>
+<DIV3 TYPE="section">
+<PB REF="7" MS="y">
+<HEAD>Of his Writings.</HEAD>
+<P>'TIs a great Commendation for a man
+to be, <HI>tam marte quam mercurio;</HI> as
+good at <HI>Artes</HI> and <HI>Armes;</HI> and so was he,
+for he was good at neither; yet he would
+needs be writing, though he could not
+spell, and be an Author, without <HI>Rhyme</HI>
+or <HI>Reason;</HI> and without any other learning,
+then only that of <HI>vice</HI> and <HI>debaucherie:</HI>
+Whence his writings were so <HI>scurrilous</HI> and
+<HI>prophane,</HI> as for less, the <HI>Heathens</HI> ba|nisht
+their Writers formerly, and the <HI>Chri|stians</HI>
+burn their writings by the hand of
+common Hang-men, for less <HI>Mar|tial's</HI>
+Poet was damn'd, when forc'd
+by the <HI>Furies</HI> to confess his crime, he
+only cry'd out <HI>Scripsi,</HI> that <HI>he had
+writ:</HI> and whilst others shall have o|ther
+Books at the latter day pro|duced
+against them, he shall only need
+his own to condemn him and thou|sands
+others too; (there's so much
+of the <HI>Devil</HI> and of <HI>Tomaso</HI> in
+them) but that fevv or none ever
+<PB REF="8" MS="y">
+read what he has writ, excepting only such
+as are so bad already, his writings cannot
+make them worse, and so corrupted, as they
+cannot corrupt them more.</P>
+<P>Which he perceiving, was so impudent to
+bring them upon the stage, to infect that
+with it too, by which he has frighted all
+chast ears from thence, and will all the rest
+in time, if he may have but his Playes Acted,
+or the appointing of those which are.</P>
+</DIV3>
+<DIV3 TYPE="section">
+<HEAD>Of his Religion.</HEAD>
+<P>OF his <HI>Religion</HI> I say nothing, since he
+had none at all, (having left it long
+before that he might make no scruple nor
+conscience of any thing) and your <HI>Athiest</HI> and
+<HI>Heathen</HI> were Names too serious for him,
+who only made a mockery of it, and coun|ted
+it all a cheat; <HI>Devotion,</HI> foppery; <HI>Scrip|ture,</HI>
+fabulous; <HI>Heaven</HI> and <HI>Hell,</HI> nothing;
+and <HI>Gods</HI> and <HI>Fiends,</HI> only inventions of men
+to fright and terrifie Fools from being as
+bravely wicked as himself; who laught and
+made a fool of <HI>Machiavel,</HI> for holding that
+none cou'd be extreamly vicious.</P>
+</DIV3>
+<DIV3 TYPE="section">
+<PB REF="8">
+<HEAD>L' Envoy.</HEAD>
+<P>FOr his Diseases I will not touch them,
+not to defile my self, who had truckt
+vices for diseases so long, till he had enough
+to furnish an Hospital; nor will I describe
+his <HI>Person,</HI> who being a Monster of a man, I
+shou'd shame and dishonour Humanity
+to set him forth in any humane shape;
+imagine him as ugly as you please, whilst I
+declare his ugly qualities.</P>
+<P>Onely to make an end of depainting
+him, He is most commonly pictur'd
+with a <HI>Dog,</HI> the right embleme of his dis|position;
+only a <HI>Mastive</HI> is too ge|nerous
+a beast for him, it shou'd have been
+rather some moungril Cur, always craving,
+and never satisfied, fawning on his greatest
+enemies to serve his ends, and those once
+serv'd, barking at his dearest friends; by
+which <HI>Dog-tricks</HI> of his, as he was an enemy
+to all, so he made every one an enemy to
+him.</P>
+<P>Thus have I briefly and in <HI>Epitome,</HI> set
+forth his Life, reserving the making his
+History more at large, untill I shall hear
+that he is not content with this.</P>
+</DIV3>
+</DIV2>
+<TRAILER>FINIS.</TRAILER>
+<PB REF="9">
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

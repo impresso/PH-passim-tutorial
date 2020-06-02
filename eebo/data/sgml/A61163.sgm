@@ -1,0 +1,931 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD EEBOPROOF 2.0//EN">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-09-22</DATE>
+<RESPSTMT>
+<NAME>Judith Siefring</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TYPEs to DIVs in order to validate. Proofed title page(s). Checked for TYPE="book". Checked ^s. Reviewed structure. Checked division-marking material at heads and feet of divisions (HEADS, etc.). Checked for signatures. Checked placement and completeness of PBs. Checked for GAPs, #s, @s. Checked spacing of foreign GAPs. Corrected 9 $s of 20. Converted 11 $s to GAP DESC="illegible" RESP="pdcc". Checked for EPIGRAPHs and ARGUMENTs. Checked for startqs, endqs, oes, q;s, and Qs. Checked proofsheets and made corrections found there. Checked for CLOSERs, TRAILERs, and BYLINEs. DONE.</ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="OX" ID="A61163">
+<STC T="W">S5040</STC>
+<BIBNO T="oclc">11931346</BIBNO>
+<VID>51147</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="license">
+<PB REF="1">
+<P><FIGURE>
+</FIGURE></P>
+<P>Let this Book be Printed.</P>
+<CLOSER><SIGNED>Roger L'Estrange.</SIGNED>
+<DATELINE><DATE>March 28. 1665.</DATE></DATELINE></CLOSER>
+</DIV1>
+<DIV1 TYPE="title page">
+<PB REF="1">
+<P>THE Plague of Athens, Which hapned in the SECOND YEAR OF THE Peloponnesian Warre. First described in <HI>Greek</HI> by <HI>Thucydides</HI>; Then in <HI>Latin</HI> by <HI>Lucretius.</HI></P>
+<P>Now attempted in English, By THO. SPRAT.</P>
+<P>LONDON, Printed by <HI>E. C.</HI> for <HI>Henry Brome,</HI> at the Gun in <HI>Ivy-lane,</HI> 1665.</P>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="2">
+<PB REF="2">
+<HEAD>To my Worthy and Learned Friend, Dr. <HI>Walter Pope,</HI> late Proctor of the Vniversity of <HI>Oxford.</HI></HEAD>
+<OPENER><SALUTE>SIR,</SALUTE></OPENER>
+<P>I Know not what pleasure you could take in bestowing your commands so unprofitably, unless it be that for which Nature sometimes cherishes and allows Mon|sters, The love of Variety. This onely delight you will re|ceive by turning over this rude and unpolisht Copy, and comparing it with my excellent Patterns, the <HI>Greek</HI> and <HI>Latin.</HI> By this you will see how much a noble Subject is chang'd and disfigured by an ill hand, and what reason <HI>Alexander</HI> had to forbid his Picture to be drawn but by some celebrated Pencil. In <HI>Greek Thucydides</HI> so well and so lively expresses it, that I know not which is more a Poem, his description, or that of <HI>Lucretius.</HI> Though it must be said, that the <HI>Historian</HI> had a vast advantage over the <HI>Poet</HI>; He having been present on the place, and assaulted by the disease himself, had the horror familiar to his Eyes, and all the shapes of the <HI>misery</HI> still remaining on his mind, which must needs make a great impression on his Pen and Fan|cie.
+<PB REF="3">
+Whereas the <HI>Poet</HI> was forced to allow his foot-steps, and onely work on that matter he allow'd him. This I speak, because it may in some measure too excuse my own defects: For being so far remov'd from the place where|on the disease acted its Tragedy; and time having denied us many of the circumstances, customes of the Countrey, and other small things which would be of great use to a|ny one who did intend to be perfect on the subject; be|sides onely writing by an <HI>Idaea</HI> of that which I never yet saw, nor care to feel, (being not of the humor of the Pain|ter in Sir <HI>Philip Sidney,</HI> who thrust himself into the midst of a Fight, that he might the better delineate it) having, I say, all these disadvantages, and many more, for which I must onely blame my self, it cannot be expected that I should come near equalling him in whom none of the contrary advantages were wanting. Thus then, Sir, by emboldning me to this rash attempt, you have given op|portunitie to the <HI>Greek</HI> and <HI>Latin</HI> to Triumph over our <HI>Mother tongue.</HI> Yet I would not have the honour of the Countries or Languages engaged in the comparison, but that the inequality should reach no farther than the Au|thors. But I have much reason to fear the just indigna|tion of that excellent Person, (the present Ornament and Honour of our Nation) whose way of writing I imitate: for he may think himself as much injured by my follow|ing him, as were the Heavens by that bold mans counter|feiting the sacred and unimitable noise of Thunder by the
+<PB REF="3" MS="y">
+sound of Brass and Horses hoofs. I shall onely say for my self, that I took <HI>Cicero</HI>'s advice, who bids us in imitation propose the Noblest pattern to our thoughts; for so we may be sure to be raised above the common Level, though we come infinitely short of what we aim at. Yet I hope that renowned Poet will have none of my crimes any way reflect on himself; for it was not any fault in the excellent Musician, that the weak Bird, indeavouring by straining its throat, to follow his Notes, destroyed her self in the Attempt. Well, Sir, by this, that I have chosen ra|ther to expose my self than be disobedient, you may guess with what zeal and hazard I strive to approve my self,</P>
+<CLOSER><SALUTE>SIR, </SALUTE> <SIGNED>Your most Humble and Affectionate Servant, <HI>THO. SPRAT.</HI></SIGNED></CLOSER>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="translation">
+<PB REF="4">
+<PB N="1" REF="4">
+<HEAD>THUCYDIDES, Lib. 2. As it is excellently Translated by Mr. <HI>Hobbs.</HI></HEAD>
+<P>IN the very beginning of Summer, the <HI>Peloponnesians,</HI> and their <HI>Confederates,</HI> with two thirds of their forces, as before invaded <HI>Attica,</HI> under the conduct of <HI>Archidamus,</HI> the son of <HI>Zeuxidamas,</HI> King of <HI>Lacedaemon,</HI> and after they had en|camped themselves, wasted the Countrey about them.</P>
+<P>They had not been many days in <HI>Attica,</HI> when the Plague first began amongst the <HI>Athenians,</HI> said also to have seized formerly on divers other parts, as about <HI>Lemnos,</HI> and elsewhere; but so great a Plague, and Mortality of Men, was never remembred to have hapned in any place before. For at first, neither were the Physicians able to cure it, through ignorance of what it was, but died fastest themselves, as being the men that most approach'd the sick, nor any other art of man availed whatsoever. All supplica|tions to the <HI>Gods,</HI> and enquiries of <HI>Oracles,</HI> and whatsoever o|ther means they used of that kind, proved all unprofitable; in|somuch as subdued with the greatness of the evil, they gave them all over. It began (by report) first, in that part of <HI>Aethio|pia</HI> that lieth upon <HI>Aegypt,</HI> and thence fell down into <HI>Aegypt</HI> and <HI>Afrique,</HI> and into the greatest part of the Territories of the <HI>King.</HI> It invaded <HI>Athens</HI> on a sudden, and touched first up|on
+<PB N="2" REF="5">
+those that dwelt in <HI>Pyraeus,</HI> insomuch as they reported that the <HI>Peloponnesians</HI> had cast poyson into their Wells; for Springs there were not any in that place. But afterwards it came up in|to the high City, and then they died a great deal faster. Now let every man, Physician, or other, concerning the ground of this sickness, whence it sprung, and what causes he thinks able to pro|duce so great an alteration, speak according to his own know|ledge; for my own part, I will deliver but the manner of it, and lay open onely such things, as one may take his Mark by, to discover the same if it come again, having been both sick of it my self, and seen others sick of the same. This year, by confession of all men, was of all other, for other Diseases, most free and healthful. If any man were sick before, his disease turned to this; if not, yet suddenly, without any apparent cause preceding, and being in perfect health, they were taken first with an extream ache in their Heads, redness and i<GAP DESC="illegible" EXTENT="1 letter">flamation of the Eyes; and then in|wardly their Throats and Tongues grew presently bloody, and their breath noysome and unsavory. Upon this followed a snee|zing and hoarsness, and not long after, the pain, together with a mighty cough, came down into the brest. And when once it was setled in the Stomach, it caused vomit, and with great torment came up all manner of bilious purgation that Physicians ever na|med. Most of them had also the Hickeyexe, which brought with it a strong Convulsion, and in some ceased quickly, but in others was long before it gave over. Their bodies outwardly to the touch, were neither very hot, nor pale, but reddish, livid, and be|flowred with little pimples and whelks; but so burned inward|ly,
+<PB N="3" REF="5">
+as not to endure any the lightest cloaths or linnen garment to be upon them, nor any thing but meer nakedness, but rather, most willingly to have cast themselves into the cold water. And ma|ny of them that were not looked to, possessed with insatiate thirst, ran unto the Wells; and to drink much, or little, was indifferent, being still from ease and power to sleep as far as ever. As long as the disease was at the height, their bodies wasted not, but resi|sted the torment beyond all expectation, insomuch as the most of them either died of their inward burning in 9 or 7 dayes, whilest they had yet strength, or if they escaped that, then the disease fal|ling down into their bellies, and causing there great exulcerati|ons and immoderate looseness, they died many of them after|wards through weakness: For the disease (which took first the head) began above, and came down, and passed through the whole body; and he that overcame the worst of it, was yet mar|ked with the loss of his extreme parts; for breaking out both at their Privy-members, and at their Fingers and Toes, many with the loss of these escaped. There were also some that lost there Eys, &amp; many that presently upon their recovery were taken with such an oblivion of all things whatsoever, as they neither knew themselves nor their acquaintance. For this was a kind of sickness which far surmounted all expression of words, and both exceeded Humane Nature, in the cruelty wherewith it handled each one, and appeared also otherwise to be none of those diseases that are bred amongst us, and that especially by this. For all, both Birds and Beasts, that use to feed on Humane flesh, though ma|ny men lay abroad unburied, either came not at them, or tasting
+<PB N="4" REF="6">
+perished. An Argument whereof as touching the <HI>Birds,</HI> is the manifest defect of such Fowl, which were not then seen, neither about the Carcasses, or any where else; but by the Dogs, because they are familiar with Men, this effect was seen much clearer. So that this disease (to pass over many strange particulars of the accidents that some had differently from others) was in general such as <HI>I</HI> have shewn; and for other usual sicknesses, at that time, no man was troubled with any. Now they died, some for want of attendance, and some again with all the <HI>care</HI> and <HI>Physick</HI> that could be used. Nor was there any, to say, certain Medicine, that applied must have helped them; for if it did good to one, it did harm to another; nor any difference of <HI>Body</HI> for strength or weakness that was able to resist it; but it carried all away what Physick soever was administred. But the greatest misery of all was, the dejection of Mind, in such as found themselves beginning to be sick, (for they grew presently desperate, and gave them|selves over without making any resistance) as also their dying thus like <HI>Sheep,</HI> infected by mutual visitation: For if men for|bore to visit them for fear, then they died forlorn, whereby many Families became empty, for want of such as should take care of them. If they forbore not, then they died themselves, and princi|pally the honestest men. For out of shame, they would not spare themselves, but went in unto their friends, especially after it was come to this pass, that even their Domesticks, wearied with the lamentations of them that died, and overcome with the greatness of the calamity, were no longer moved therewith. But those that were recovered, had much compassion both on them that died, and
+<PB N="5" REF="6">
+on them that lay sick, as having both known the misery themselvs and now no more subject to the like danger: For this disease ne|ver took any man the second time so as to be mortal. And these men were both by others counted happy, and they also themselves, through excess of present joy, conceived a kind of light hope, never to die of any other sickness hereafter. Besides the present affli|ction, the reception of the Countrey people, and of their substance into the City, oppressed both them, and much more the people themselves that so came in. For having no Houses, but dwelling at that time of the year in stifling Booths, the Mortality was now without all form; and dying men lay tumbling one upon another in the Streets, and men half dead about every Conduit through desire of water. The <HI>Temples</HI> also where they dwelt in <HI>Tents,</HI> were all full of the dead that died within them; for oppressed with the violence of the Calamity, and not knowing what to do, Men grew careless, both of <HI>Holy</HI> and <HI>Prophane</HI> things alike. And the Laws which they formerly used touching <HI>Funerals,</HI> were all now broken; every one burying where he could find room. And many for want of things necessary, after so many Deaths be|fore, were forced to become impudent in the <HI>Funerals</HI> of their <HI>Friends.</HI> For when one had made a <HI>Funeral Pile,</HI> another get|ting before him, would throw on his dead, and give it fire. And when one was in burning, another would come, and having cast thereon him whom he carried, go his way again. And the great li|centiousness, which also in other kinds was used in the City, began at first from this disease. For that which a man before would dissemble, and not acknowledge to be done for voluptuousness, he
+<PB N="6" REF="7">
+durst now do freely, seeing before his Eyes such quick revolution, of the rich dying, and men worth nothing inheriting their E|states; insomuch as they justified a speedy fruition of their Goods, even for their pleasure, as Men that thought they held their Lives but by the day. As for pains, no man was forward in any action of Honour, to take any, because they thought it uncer|tain whether they should die or not, before they atchieved it. But what any man knew to be delightful, and to be profitable to plea|sure, that was made both profitable and hononourable. Neither the fear of the Gods, nor Laws of men, awed any man. Not the former, because they concluded it was alike to worship or not wor|ship, from seeing that alike they all perished: nor the latter, be|cause no man expected that lives would last, till he received pu|nishment of his crimes by Iudgement. But they thought there was now over their heads some far greater Iudgement decreed against them; before which fell, they thought to enjoy some little part of their Lives.</P>
+</DIV1>
+<DIV1 TYPE="poem">
+<PB N="1" REF="7">
+<HEAD>The Plague of ATHENS.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>UNhappy Man! by Nature made to sway,</L>
+<L>And yet is every Creatures prey,</L>
+<L>Destroy'd by those that should his power obey.</L>
+<L>Of the whole World we call <HI>Man-kind</HI> the Lords,</L>
+<L>Flattring our selves with mighty words;</L>
+<L>Of all things we the Monarchs are,</L>
+<L>And so we rule, and so we domineer;</L>
+<L>All creatures else about us stand</L>
+<L>Like some <HI>Praetorian</HI> Band,</L>
+<L>To guard, to help, and to defend;</L>
+<L>Yet they sometimes prove Enemies,</L>
+<L>Sometimes against us rise;</L>
+<L>Our very Guards rebel, and tyrannize.</L>
+<L>Thousand Diseases sent by Fate,</L>
+<L>(Unhappie Servants!) on us wait;</L>
+<L>A thousand Treacheries within</L>
+<L>Are laid weak Life to win;</L>
+<L>Huge Troops of Maladies without,</L>
+<L>(A grim, a meager, and a dreadful rout:)</L>
+<L>Some formal Sieges make.</L>
+<L>And with sure slowness do our Bodies take;</L>
+<L>Some with quick violence storm the Town,</L>
+<L>And all in a moment down:</L>
+<L><PB N="2" REF="8">Some one peculiar sort assail,</L>
+<L>Some by general attempt prevail.</L>
+<L>Small Herbs, alas, can onely us relieve,</L>
+<L>And small is the assistance they can give;</L>
+<L>How can the fading Off-spring of the Field</L>
+<L>Sure health and succour yield?</L>
+<L>What strong and certain remedie?</L>
+<L>What firm and lasting life can ours be?</L>
+<L>When that which makes us live, doth ev'ry Winter die?</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>Nor is this all, we do not onely breed</L>
+<L>Within our selves the fatal seed</L>
+<L>Of change, and of decrease in ev'ry part,</L>
+<L>Head, Bellie, Stomach, and the Root of Life the Heart,</L>
+<L>Not onely have our Autumn, when we must</L>
+<L>Of our own Nature turn to Dust,</L>
+<L>When Leaves and Fruit must fall;</L>
+<L>But are expos'd to mighty Tempests too,</L>
+<L>Which do at once what that would slowlie do,</L>
+<L>Which throw down Fruit and Tree of Life withal.</L>
+<L>From ruine we in vain</L>
+<L>Our bodies by repair maintain,</L>
+<L>Bodies compos'd of stuff,</L>
+<L>Mouldring and frail enough;</L>
+<L>Yet from without as well we <GAP DESC="illegible" EXTENT="1 letter">ear</L>
+<L>A dangerous and destructful War,</L>
+<L>From Heaven, from Earth, from Sea, from Air.</L>
+<L>We like the <HI>Roman Empire</HI> should decay,</L>
+<L>And our own force would melt away</L>
+<L>By the intestine jar</L>
+<L>Of Elephants, which on each other prey,</L>
+<L>The <HI>Caesars</HI> and the <HI>Pompeys</HI> which within we bear:</L>
+<L>Yet are (like that) in danger too</L>
+<L>Of forreign Armies, and external foe,</L>
+<L><PB N="3" REF="8">Sometimes the <HI>Gothish</HI> and the barbarous rage</L>
+<L>Of Plague, or Pestilence, attends Mans age,</L>
+<L>Which neither Foree nor Arts asswage;</L>
+<L>Which cannot be avoided, or withstood,</L>
+<L>But drowns, and over-runs with unexpected Flood.</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>On <HI>Aethiopia,</HI> and the Southern-sands,</L>
+<L>The unfrequented Coasts, and parched Land,</L>
+<L>Whether the Sun too kind a heat doth send,</L>
+<L>(The Sun, which the worst Neighb<GAP DESC="illegible" EXTENT="1 letter">ur is, and the best Friend)</L>
+<L>Hither a mortal influence came,</L>
+<L>A fatal and unhappy flame,</L>
+<L>Kindled by Heavens angry beam.</L>
+<L>With dreadful frowns the Heavens scattered here</L>
+<L>Cruel infect<GAP DESC="illegible" EXTENT="1 letter">ous heats into the Air,</L>
+<L>Now all their stores of poyson sent,</L>
+<L>Threatning at once a general doom,</L>
+<L>Lavisht out all their hate, and meant</L>
+<L>In future Ages to be innocent,</L>
+<L>Not to dlstrub the World for many years to come.</L>
+<L>Hold! Heavens hold! Why should your Sacred Fire,</L>
+<L>Which doth to all things Life inspire,</L>
+<L>By whose kinde beams you bring</L>
+<L>Each year on every thing,</L>
+<L>A new and glorious Spring,</L>
+<L>Which doth th' Original Seed</L>
+<L>Of all things in the Womb of Earth that breed,</L>
+<L>With vital heat and quick'ning feed,</L>
+<L>Why should you now that heat imploy,</L>
+<L>The Earth, the Air, the Fields, the <GAP DESC="illegible" EXTENT="1 word"> to annoy?</L>
+<L>That which before reviv'd, why should it now destroy?</L>
+</LG>
+<LG N="4">
+<HEAD>IV.</HEAD>
+<L>Those <HI>Africk</HI> Desarts strait were double Desarts grown,</L>
+<L>The rav'nous Beasts were left alone,</L>
+<L><PB N="4" REF="9">The rav'nous beasts then first began</L>
+<L>To pity their old enemy Man,</L>
+<L>And blam'd the Plague for what they would themselves have done.</L>
+<L>Nor stay'd the cruel evil there,</L>
+<L>Nor could be long confin'd unto one Air,</L>
+<L>Plagues presently forsake</L>
+<L>The Wilderness which they themselves do make,</L>
+<L>Away the deadly breaths their journey take.</L>
+<L>Driven by a mighty wind,</L>
+<L>They a new booty and fresh forrage find.</L>
+<L>The loaded wind went swiftly on,</L>
+<L>And as it past was heard to sigh and groan.</L>
+<L>On <HI>Aegypt</HI> next it seiz'd,</L>
+<L>Nor could but by a general ruine be appeas'd.</L>
+<L><HI>Aegypt</HI> in rage back on the South did look,</L>
+<L>And wondred thence should come th' unhappy stroke,</L>
+<L>From whence before her fruitfulness she took.</L>
+<L><HI>Egypt</HI> did now curse and revile</L>
+<L>Those very Lands from whence she has her <HI>Nile</HI>;</L>
+<L><HI>Egypt</HI> now fear'd another <HI>Hebrew</HI> God,</L>
+<L>Another Angels Hand, a second <HI>Aarons</HI> Rod.</L>
+</LG>
+<LG N="5">
+<HEAD>V.</HEAD>
+<L>Then on it goes, and through the Sacred Land</L>
+<L>Its angry Forces did command,</L>
+<L>But God did place an Angel there,</L>
+<L>Its violence to withstand,</L>
+<L>And turn into another road the putrid Air.</L>
+<L>To <HI>Tyre</HI> it came, and there did all devour,</L>
+<L>Though that by Seas might think it self secure:</L>
+<L>Nor staid, as the great Conqueros did,</L>
+<L>Till it had fill'd and stopt the tyde,</L>
+<L>Which did it from the shore divide,</L>
+<L>But past the waters, and did all possess,</L>
+<L>And quickly all was wilderness.</L>
+<L><PB N="5" REF="9">Thence it did <HI>Persia</HI> over-run,</L>
+<L>And all that Sacrifice unto the Sun;</L>
+<L>In every Limb a dreadful pain they felt,</L>
+<L>Tortur'd with secret coals did melt,</L>
+<L>The <HI>Persians</HI> call'd upon their Sun in vain,</L>
+<L>Their God increas'd the pain.</L>
+<L>They lookt up to their God no more,</L>
+<L>But curse the beams they worshipped before,</L>
+<L>And hate the very fire which once they did adore.</L>
+</LG>
+<LG N="6">
+<HEAD>VI.</HEAD>
+<L>Glutted with ruine of the East,</L>
+<L>She took her wings and down to <HI>Athens</HI> past:</L>
+<L>Just Plague! which dost no parties take,</L>
+<L>But <HI>Greece</HI> as well as <HI>Persia</HI> sack.</L>
+<L>While in unnatural quarrels they</L>
+<L>(Like Frogs and Mice) each other slay,</L>
+<L>Thou in thy ravenous claws took'st both away.</L>
+<L>Thither it came and did destroy the Town,</L>
+<L>Whilest all its Ships and Souldiers lookt upon:</L>
+<L>And now the <HI>Asian</HI> Plague did more</L>
+<L>Than all the <HI>Asian</HI> Force could do before.</L>
+<L>Without the Walls the <HI>Spartan</HI> Army sate,</L>
+<L>The <HI>Spartan</HI> Army came too late;</L>
+<L>For now there was no farther work for fate.</L>
+<L>They saw the Citie open lay,</L>
+<L>An easie and a bloodless prey,</L>
+<L>They saw the rampires emptie stand,</L>
+<L>The Fleet, the Walls, the Forts Unman'd.</L>
+<L>No need of crueltie or slaughters now</L>
+<L>The Plague had finisht what they came to do:</L>
+<L>They might now unresisted enter there,</L>
+<L>Did they not the very Air,</L>
+<L>More than th' <HI>Athenians</HI> fear.</L>
+<L>The Air it self to them was wall, and bull-warks too.</L>
+</LG>
+<LG N="7">
+<PB N="6" REF="10">
+<HEAD>VII.</HEAD>
+<L>Unhappy <HI>Athens</HI>! it is true, thou wert</L>
+<L>The proudest work of Nature and of Art:</L>
+<L>Learning and strength did thee compose,</L>
+<L>As soul and body us:</L>
+<L>But yet thou onely thence art made</L>
+<L>A nobler prey for Fates t' invade.</L>
+<L>Those mighty numbers that within thee breath,</L>
+<L>Do onely serve to make a fatter feast for Death.</L>
+<L>Death in the most frequented places lives,</L>
+<L>Most tribute from the croud receives;</L>
+<L>And though it bears a sigh, and seems to own</L>
+<L>A rustick life alone:</L>
+<L>It loves no Wilderness,</L>
+<L>No scattred Villages,</L>
+<L>But mighty populous Palaces,</L>
+<L>The throng, the tumult, and the town;</L>
+<L>What strange, unheard-of Conqueror is this,</L>
+<L>Which by the forces that resist it doth increase!</L>
+<L>When other Conquerors are</L>
+<L>Oblig'd to make a slower war,</L>
+<L>Nay sometimes for themselves may fear,</L>
+<L>And must proceed with watchful care,</L>
+<L>When thicker troops of enemies appear;</L>
+<L>This stronger still, and more successeful grows,</L>
+<L>Down sooner all before it throws,</L>
+<L>If greater multitudes of men do it oppose.</L>
+</LG>
+<LG N="8">
+<HEAD>VIII.</HEAD>
+<L>The Tyrant first the haven did subdue,</L>
+<L>Lately the <HI>Athenians</HI> (it knew)</L>
+<L>Themselves by wooden walls did save,</L>
+<L>And therefore first to them th'infection gave,</L>
+<L>Least they new succour thence receive.</L>
+<L><PB N="7" REF="10">Cruel <HI>Pyraeus</HI>! now thou hast undone,</L>
+<L>The honour thou before hadst wone:</L>
+<L>Not all thy Merchandize,</L>
+<L>Thy wealth, thy treasuries,</L>
+<L>Which from all Coasts thy Fleet supplies,</L>
+<L>Can to atone this crime suffice.</L>
+<L>Next o're the upper Town it spread,</L>
+<L>With mad and undiscerned speed;</L>
+<L>In every corner, every street,</L>
+<L>Without a guide did sets its feet,</L>
+<L>And too familiar every house did greet.</L>
+<L>Unhappy <HI>Greece</HI> of <HI>Greece</HI>! great <HI>Theseus</HI> now</L>
+<L>Did thee a mortal injury do,</L>
+<L>When first in walls he did thee close,</L>
+<L>When first he did thy Citizens reduce,</L>
+<L>Houses and Government, and Lawes to use.</L>
+<L>It had been better if thy people still</L>
+<L>Dispersed in some field, or hill,</L>
+<L>Though Salvage, and undisciplin'd did dwell,</L>
+<L>Though barbarous, untame, and rude,</L>
+<L>Than by their numbers thus to be subdu'd,</L>
+<L>To be by their own swarms anoid,</L>
+<L>And to be civilized onely to be destroid.</L>
+</LG>
+<LG N="9">
+<HEAD>IX.</HEAD>
+<L><HI>Minerva</HI> started when she heard the noise,</L>
+<L>And dying mens confused voice.</L>
+<L>From Heaven in haste she came to see</L>
+<L>What was the mighty prodigie.</L>
+<L>Upon the Castle pinacles she sate,</L>
+<L>And dar'd not nearer fly,</L>
+<L>Nor midst so many deaths to trust her very Deity.</L>
+<L>With pitying look she saw at every gate</L>
+<L>Death and destruction wait;</L>
+<L><PB N="8" REF="11">She wrung her hands, and call'd on <HI>Iove,</HI></L>
+<L>And all th' immortal powers above;</L>
+<L>But though a Goddess now did prey,</L>
+<L>The Heavens refus'd, and turn'd their ear away.</L>
+<L>She brought her Olive, and her Shield,</L>
+<L>Neither of these Alas! assistance yield.</L>
+<L>She lookt upon <HI>Medusaes</HI> face,</L>
+<L>Was angry that she was</L>
+<L>Her self of an Immortal Race,</L>
+<L>Was angry that her Gorgons head</L>
+<L>Could not strike her as well as others dead;</L>
+<L>She sate, and wept awhile, and then away she fled.</L>
+</LG>
+<LG N="10">
+<HEAD>X.</HEAD>
+<L>Now Death began her sword to whet,</L>
+<L>Not all the <HI>Cyclops</HI> sweat,</L>
+<L>Nor <HI>Vulcaus</HI> mighty Anvils could prepare</L>
+<L>Weapons enough fo<GAP DESC="illegible" EXTENT="1 letter"> her,</L>
+<L>No weapon large enough but all the Air.</L>
+<L>Men felt the heat within 'um rage,</L>
+<L>And hop'd the Air would it asswage,</L>
+<L>Call'd for its help, but th' Air did them deceive,</L>
+<L>And aggravate the ills it should relieve.</L>
+<L>The Air no more was Vital now,</L>
+<L>But did a mortal poyson grow,</L>
+<L>The Lungs which us'd to fann the heart,</L>
+<L>Onely now serv'd to fire each part,</L>
+<L>What should refresh increas'd the smart,</L>
+<L>And now their very breath,</L>
+<L>The chiefest sign of life, turn'd the cause of death.</L>
+</LG>
+<LG N="11">
+<HEAD>XI.</HEAD>
+<L>Upon the Head first the disease,</L>
+<L>As a bold Conqueror doth seize,</L>
+<L><PB N="9" REF="11">Begins with Mans Metropolis,</L>
+<L>Secur'd the Capitol, and then it knew</L>
+<L>It could at pleasure weaker parts subdue.</L>
+<L>Blood started through each eye;</L>
+<L>The redness of that Skie,</L>
+<L>Fore-told a tempest nigh.</L>
+<L>The tongue did flow all ore</L>
+<L>With clotted Filth and Gore;</L>
+<L>As doth a Lions when some innocent prey</L>
+<L>He hath devoured and brought away:</L>
+<L>Hoarsness and sores the throat did fill,</L>
+<L>And stopt the passages of speech and life;</L>
+<L>No room was left for groans or grief;</L>
+<L>Too cruel and imperious ill!</L>
+<L>Which not content to kill,</L>
+<L>With tyrannous and dreadful pain,</L>
+<L>Dost take from men the very power to complain.</L>
+</LG>
+<LG N="12">
+<HEAD>XII.</HEAD>
+<L>Then down it went into the breast,</L>
+<L>There are all the seats and shops of life possest,</L>
+<L>Such noisome smells from thence did come,</L>
+<L>As if the stomach were a tomb;</L>
+<L>No food would there abide,</L>
+<L>Or if it did, turn'd to the enemies side,</L>
+<L>The very meat new poysons to the Plague supply'd.</L>
+<L>Next to the heart the fires came,</L>
+<L>The heart did wonder what usurping flame,</L>
+<L>What unknown furnace shou'd</L>
+<L>On its more natural heat intrude,</L>
+<L>Strait call'd its spirits up, but found too well,</L>
+<L>It was too late now to rebell.</L>
+<L>The tainted blood its course began,</L>
+<L>And carried death where ere it ran,</L>
+<L><PB N="10" REF="12">That which before was Natures noblest Art,</L>
+<L>The circulation from the heart,</L>
+<L>Was most destructful now,</L>
+<L>And Nature speedier did undoe,</L>
+<L>For that the sooner did impart</L>
+<L>The poyson and the smart,</L>
+<L>The infectious blood to every distant part.</L>
+</LG>
+<LG N="13">
+<HEAD>XIII.</HEAD>
+<L>The belly felt at last its share,</L>
+<L>And all the subtil labyrinths there</L>
+<L>Of winding bowels did new Monsters bear.</L>
+<L>Here seven dayes it rul'd and sway'd,</L>
+<L>And oftner kill'd because it death so long delay'd.</L>
+<L>But if through strength and heat of age,</L>
+<L>The body overcame its rage,</L>
+<L>The Plague departed, as the Devil doeth,</L>
+<L>When driven by prayers away he goeth.</L>
+<L>If Prayers and Heaven do him controul,</L>
+<L>And if he cannot have the soul,</L>
+<L>Himself out of the roof or window throws,</L>
+<L>And will not all his labour lose,</L>
+<L>But <GAP DESC="illegible" EXTENT="1 letter">akes away with him part of the house:</L>
+<L>So here the vanquisht evil took from them</L>
+<L>Who conque<GAP DESC="illegible" EXTENT="1 letter">'d it, some part, some limb;</L>
+<L>Some lost the use of hand, or eyes,</L>
+<L>Some armes, some legs, some thighs,</L>
+<L>Some all their lives before forgot,</L>
+<L>Their m<GAP DESC="illegible" EXTENT="1 letter">ndes were but one darker blot;</L>
+<L>Those various pictures in the head</L>
+<L>And all the numerous shapes were fled;</L>
+<L>And now the ransackt memory</L>
+<L>Langu<GAP DESC="illegible" EXTENT="1 letter">sh'd in naked poverty,</L>
+<L>Had lost its mighty treasury;</L>
+<L>They past the <HI>Lethe</HI> Lake although they did not die.</L>
+</LG>
+<LG N="14">
+<PB N="11" REF="12">
+<HEAD>XIV.</HEAD>
+<L>Whatever lesser Maladies men had,</L>
+<L>They all gave place and vanished;</L>
+<L>Those petty tyrants fled,</L>
+<L>And at this mighty Conqueror shrunk their head.</L>
+<L>Feavers, Agues, Palsies, Stone,</L>
+<L>Gout, Cholick, and Consumption,</L>
+<L>And all the milder Generation,</L>
+<L>By which Man-kind is by degrees undone,</L>
+<L>Quickly were rooted out and gone;</L>
+<L>Men saw themselves freed from the pain,</L>
+<L>Rejoyc'd, but all alas, in vain,</L>
+<L>'Twas an unhappy remedie,</L>
+<L>Which cur'd 'um that they might both worse and sooner die.</L>
+</LG>
+<LG N="15">
+<HEAD>XV.</HEAD>
+<L>Physicians now could nought prevail,</L>
+<L>They the first spoils to the proud Victor fall,</L>
+<L>Nor would the Plague their knowledge trust,</L>
+<L>But feared their skill, and therefore slew them first:</L>
+<L>So Tyrants when they would confirm their yoke,</L>
+<L>First make the chiefest men to feel the stroke,</L>
+<L>The chiefest and the wisest heads, least they</L>
+<L>Should soonest disobey,</L>
+<L>Should first rebell, and others learn from them the way.</L>
+<L>No aid of herbs, or juyces power,</L>
+<L>None of <HI>Apollo's</HI> art could cure,</L>
+<L>But helpt the Plague the speedier to devour.</L>
+<L>Physick it self was a disease,</L>
+<L>Physick the fatal tortures did increase,</L>
+<L>Prescriptions did the pains renew,</L>
+<L>And <HI>Aesculapius</HI> to the sick did come,</L>
+<L>As afterwards to <HI>Rome,</HI></L>
+<L>In form of Serpent, brought new poyson swith him too.</L>
+</LG>
+<LG N="16">
+<PB N="12" REF="13">
+<HEAD>XVI.</HEAD>
+<L>The streams did wonder, that so soon</L>
+<L>As they were from their Native mountains gone,</L>
+<L>They saw themselves drunk up, and fear</L>
+<L>Another <HI>Xerxes</HI> Army near.</L>
+<L>Some cast into the Pit the Urn,</L>
+<L>And drink it dry at its return;</L>
+<L>Again they drew, again they drank;</L>
+<L>At first the coolness of the stream did thank,</L>
+<L>But strait the more were scorch'd, the more did burn;</L>
+<L>And drunk with water in their drinking sank:</L>
+<L>That Urn which now to quench their thirst they use,</L>
+<L>Shortly their Ashes shall inclose.</L>
+<L>Others into the Chrystal brook,</L>
+<L>With faint and wondring eyes did look,</L>
+<L>Saw what a ghastly shape themselves had took,</L>
+<L>Away they would have fled, but them their leggs forsook&punc;</L>
+<L>Some snach'd the waters up,</L>
+<L>Their hands, their mouths the cup;</L>
+<L>They drunk, and found they flam'd the more,</L>
+<L>And onely added to the burning store.</L>
+<L>So have I seen on Lime cold water thrown,</L>
+<L>Strait all was to a Ferment grown,</L>
+<L>And hidden seeds of fire together run:</L>
+<L>The heap was calm, and temperate before,</L>
+<L>Such as the Finger could indure;</L>
+<L>But when the moistures it provoke,</L>
+<L>Did rage, did swell, did smoke,</L>
+<L>Did move, and flame, and burn, and strait to ashes broke.</L>
+</LG>
+<LG N="17">
+<HEAD>XVII.</HEAD>
+<L>So strong the heat, so strong the torments were,</L>
+<L>They like some mighty burden bear</L>
+<L>The lightest covering of Air.</L>
+<L><PB N="13" REF="13">All Sexes and all Ages do invade</L>
+<L>The bounds which Nature laid,</L>
+<L>The Laws of modesty which Nature made.</L>
+<L>The Virgins blush not, yet uncloath'd appear,</L>
+<L>Undress'd do run about, yet never fear.</L>
+<L>The pain and the disease did now</L>
+<L>Unwillingly reduce men to</L>
+<L>That nakedness once more,</L>
+<L>Which perfect health and innocence caus'd before.</L>
+<L>No sleep, no peace, no rest,</L>
+<L>Their wandring and affrighted minds possest;</L>
+<L>Upon their souls and eyes,</L>
+<L>Hell and Eternal horrour lies,</L>
+<L>Unusual shapes, and images,</L>
+<L>Dark pictures, and resemblances</L>
+<L>Of things to come, and of the World below,</L>
+<L>O're their distemper'd fancies goe:</L>
+<L>Sometimes they curse, sometimes they pray unto</L>
+<L>The Gods above, the Gods beneath;</L>
+<L>Sometimes they cruelties, and fury breath,</L>
+<L>Not sleep, but waking now was sister unto death.</L>
+</LG>
+<LG N="18">
+<HEAD>XVIII.</HEAD>
+<L>Scattred in Fields the Bodies lay,</L>
+<L>The earth call'd to the Fowls to take their Flesh away.</L>
+<L>In vain she call'd, they come not nigh,</L>
+<L>Nor would their food with their own ruine buy,</L>
+<L>But at full meals, they hunger, pine, and die.</L>
+<L>The Vulters afar off did see the feast,</L>
+<L>Rejoyc'd, and call'd their friends to taste,</L>
+<L>They rallied up their troops in haste,</L>
+<L>Along came mighty droves,</L>
+<L>Forsook their young ones, and their groves,</L>
+<L>Each one his native mountain and his nest;</L>
+<L>They come, but all their carcases abhor,</L>
+<L><PB N="14" REF="14">And now avoid the dead men more</L>
+<L>Than weaker birds did living m<GAP DESC="illegible" EXTENT="1 letter">n before.</L>
+<L>But if some bolder fowls the flesh essay,</L>
+<L>They were destroy'd by their own prey.</L>
+<L>The Dog no longer bark't at coming guest,</L>
+<L>Repents its being a domestick Beast,</L>
+<L>Did to the woods and mountains haste:</L>
+<L>The very Owls at <HI>Athens</HI> are</L>
+<L>But seldome seen and rare,</L>
+<L>The Owls depart in open day,</L>
+<L>Rather than in infected Ivy more to stay.</L>
+</LG>
+<LG N="19">
+<HEAD>XIX.</HEAD>
+<L>Mountains of bones and carcases,</L>
+<L>The streets, the Market-place possess,</L>
+<L>Threatning to raise a new <HI>Acropolis.</HI></L>
+<L>Here lies a mother and her child,</L>
+<L>The infant suck'd as yet, and smil'd,</L>
+<L>But strait by its own food was kill'd.</L>
+<L>There parents hugg'd their children last,</L>
+<L>Here parting lovers last embrac'd,</L>
+<L>But yet not parting neither,</L>
+<L>They both expir'd and went away together.</L>
+<L>Here pris'ners in the Dungeon die,</L>
+<L>And gain a two-fold liberty,</L>
+<L>They meet and thank their pains</L>
+<L>Which them from double chains</L>
+<L>Of body and of iron free.</L>
+<L>Here others poyson'd by the scent</L>
+<L>Which from corrupted bodies went,</L>
+<L>Quickly return the death they did receive,</L>
+<L>And death to others give;</L>
+<L>Themselves now dead the air pollute the more,</L>
+<L>For which they others curs'd before,</L>
+<L><PB N="15" REF="14">Their bodies kill all that come near,</L>
+<L>And even after death they all are murderers here.</L>
+</LG>
+<LG N="20">
+<HEAD>XX.</HEAD>
+<L>The friend doth hear his friends last cries,</L>
+<L>Parteth his grief for him, and dies,</L>
+<L>Lives not enough to close his eyes.</L>
+<L>The father at his death</L>
+<L>Speaks his son heir with an infectious breath;</L>
+<L>In the same hour the son doth take</L>
+<L>His fathers will, and his own make.</L>
+<L>The servant needs not here be slain,</L>
+<L>To serve his master in the other world again;</L>
+<L>They languishing together lie,</L>
+<L>Their souls away together flie;</L>
+<L>The husband gasp'th and his wife lies by,</L>
+<L>It must be her turn next to die,</L>
+<L>The husband and the wife</L>
+<L>Too truly now are one, and live one life.</L>
+<L>That couple which the Gods did entertain,</L>
+<L>Had made their prayer here in vain;</L>
+<L>No fates in death could then divide,</L>
+<L>They must without their priviledge together both have dy'd.</L>
+</LG>
+<LG N="21">
+<HEAD>XXI.</HEAD>
+<L>There was no number now of death,</L>
+<L>The sisters scarce stood still themselves to breath:</L>
+<L>The sisters now quite wearied</L>
+<L>In cutting single thred,</L>
+<L>Began at once to part whole looms,</L>
+<L>One stroak did give whole houses dooms;</L>
+<L>Now dy'd the frosty hairs,</L>
+<L>The Aged and decrepid years,</L>
+<L><PB N="16" REF="15">They fell, and onely beg'd of Fate,</L>
+<L>Some few months more, but 'twas alas too late.</L>
+<L>Then Death, as if asham'd of that,</L>
+<L>A Conquest so degenerate,</L>
+<L>Cut off the young and lusty too;</L>
+<L>The young were reck'ning ore</L>
+<L>What happy dayes, what joyes they had in store;</L>
+<L>But Fate, e're they had finish'd their account, them slew.</L>
+<L>Thr wretched Usurer dyed,</L>
+<L>And had no time to tell where he his treasures hid.</L>
+<L>The Merchant did behold</L>
+<L>His Ships return with Spice and Gold,</L>
+<L>He saw't, and turn'd aside his head,</L>
+<L>Nor thank'd the Gods, but fell amidst his riches dead.</L>
+</LG>
+<LG N="22">
+<HEAD>XXII.</HEAD>
+<L>The Meetings and Assemblies cease, no more</L>
+<L>The people throng about the Orator.</L>
+<L>No course of Justice did appear,</L>
+<L>No noise of Lawyers fill'd the ear,</L>
+<L>The Senate cast away</L>
+<L>The Robe of Honour, and obey</L>
+<L>Deaths more resistless sway,</L>
+<L>Whilest that with Dictatorian power</L>
+<L>Doth all the great and lesser Officers devour.</L>
+<L>No Magistrates did walk about;</L>
+<L>No Purple aw'd the rout,</L>
+<L>The common people too</L>
+<L>A Purple of their own did shew;</L>
+<L>And all their Bodies o're,</L>
+<L>The ruling colours bore,</L>
+<L>No Judge, no Legislators sit</L>
+<L>Since this new <HI>Draco</HI> came,</L>
+<L>And harsher Laws did frame,</L>
+<L><PB N="17" REF="15">Laws that like his in blood are writ.</L>
+<L>The Benches and the Pleading place they leave,</L>
+<L>About the streets they run and rave:</L>
+<L>The madness which Great <HI>Solon</HI> did of late</L>
+<L>But counterfeit</L>
+<L>For the advantage of the State,</L>
+<L>Now his suceessors do too truly imitate.</L>
+</LG>
+<LG N="23">
+<HEAD>XXIII.</HEAD>
+<L>Up starts the Souldier from his bed,</L>
+<L>He though Deaths servant is not freed,</L>
+<L>Death him cashier'd, 'cause now his help she did not need.</L>
+<L>He that ne're knew before to yield,</L>
+<L>Or to give back, or lead the Field,</L>
+<L>Would fain now from himself have fled.</L>
+<L>He snatch'd his sword now rusted o're,</L>
+<L>Dreadful and sparkling now no more,</L>
+<L>And thus in open streets did roar:</L>
+<L>How have I death so ill deserv'd of thee,</L>
+<L>That now thy self thou shouldst revenge on me?</L>
+<L>Have <HI>I</HI> so many lives on thee bestow'd?</L>
+<L>Have I the earth so often dy'd in blood?</L>
+<L>Have I to flatter thee so many slain?</L>
+<L>And must <HI>I</HI> now thy prey remain?</L>
+<L>Let me at least, if <HI>I</HI> must dye,</L>
+<L>Meet in the Field some gallant enemy.</L>
+<L>Send Gods the <HI>Persian</HI> troops again;</L>
+<L>No they're a base and a degenerate train;</L>
+<L>They by our Women may be slain.</L>
+<L>Give me great Heavens some manful foes,</L>
+<L>Let me my death amidst some valiant <HI>Grecians</HI> choose,</L>
+<L>Let me survive to die at <HI>Syracuse,</HI></L>
+<L>Where my dear Countrey shall her Glory lose</L>
+<L>For you Great Gods! into my dying mind infuse,</L>
+<L><PB N="18" REF="16">What miseries, what doom</L>
+<L>Must on my <HI>Athens</HI> shortly come:</L>
+<L>My thoughts inspir'd presage,</L>
+<L>Slaughters and Battels to the coming Age;</L>
+<L>Oh! might <HI>I</HI> die upon that glorious stage:</L>
+<L>Oh that! but then he grasp'd his sword, &amp; death concludes his rage.</L>
+</LG>
+<LG N="24">
+<HEAD>XXIV.</HEAD>
+<L>Draw back, draw back thy sword, O Fate!</L>
+<L>Lest thou repent when 'tis too late,</L>
+<L>Lest by thy making now so great a waste,</L>
+<L>By spending all Man-kind upon one feast,</L>
+<L>Thou sterve thy self at last:</L>
+<L>What men wilt thou reserve in store,</L>
+<L>Whom in the time to come thou mayst devour,</L>
+<L>When thou shalt have destroyed all before:</L>
+<L>But if thou wilt not yet give o're,</L>
+<L>If yet thy greedie Stomach calls for more,</L>
+<L>If more remain whom thou must kill,</L>
+<L>And if thy jawes are craving still,</L>
+<L>Carry thy fury to the <HI>Scythian</HI> coasts,</L>
+<L>The Northern wildness, and eternal frosts!</L>
+<L>Against those barbrous crouds thy arrows whet,</L>
+<L>Where Arts and Laws are strangers yet;</L>
+<L>Where thou may'st kill, and yet the loss will not be great,</L>
+<L>There rage, there spread, and there infect the Air,</L>
+<L>Murder whole towns and families there,</L>
+<L>Thy worst against those Savage nations dare,</L>
+<L>Those whom Man-kind can spare,</L>
+<L>Those whom man-kind it self doth fear;</L>
+<L>Amidst that dreadful night, and fatal cold,</L>
+<L>There thou may'st walk unseen, and bold,</L>
+<L>There let thy Flames their Empire hold.</L>
+<L>Unto the farthest Seas, and Natures ends,</L>
+<L>Where never Summer Sun its beams extends,</L>
+<L><PB N="19" REF="16">Carry thy plagues, thy pains, thy heats,</L>
+<L>Thy raging fires, thy tortering sweats,</L>
+<L>Where never ray, or heat did come,</L>
+<L>They will rejoyce at such a doom,</L>
+<L>They'l bless thy Pestilential fire,</L>
+<L>Though by it they expire,</L>
+<L>They'l thank the very Flames with which they do consume.</L>
+</LG>
+<LG N="25">
+<HEAD>XXV.</HEAD>
+<L>Then if that banquet will not thee suffice,</L>
+<L>Seek out new Lands where thou maist tyrannize;</L>
+<L>Search every forrest, every hill,</L>
+<L>And all that in the hollow mountains dwell;</L>
+<L>Those wild and untame troops devour,</L>
+<L>Thereby thou wilt the rest of men secure,</L>
+<L>And that the rest of men will thank thee for.</L>
+<L>Let all those humane beasts be slain,</L>
+<L>Till scarce their memory remain;</L>
+<L>Thy self with that ignoble slaughter fill,</L>
+<L>'Twill be permitted thee that blood to spill.</L>
+<L>Measure the ruder world throughout,</L>
+<L>March all the Ocean shores about,</L>
+<L>Only pass by and spare the <HI>British Isle.</HI></L>
+<L>Go on, and (what <HI>Columbus</HI> once shall do,</L>
+<L>When daies and time unto their ripeness grow)</L>
+<L>Find out new lands, and unknown countries too.</L>
+<L>Attempt those lands which yet are hid</L>
+<L>From all Mortalitie beside:</L>
+<L>There thou maist steal a victory,</L>
+<L>And none of this world hear the cry</L>
+<L>Of those that by thy wounds shall die;</L>
+<L>No <HI>Greek</HI> shall know thy cruelty,</L>
+<L>And tell it to posterity.</L>
+<L>Go, and unpeople all those mighty Lands,</L>
+<L>Destroy with unrelenting hands;</L>
+<L><PB N="20" REF="17">Go, and the <HI>Spaniards</HI> sword prevent,</L>
+<L>Go, make the <HI>Spaniard</HI> innocent,</L>
+<L>Go, and root out all min-kind there,</L>
+<L>That when the <HI>Europaean</HI> Armies shall appear,</L>
+<L>Their sin may be the less,</L>
+<L>They may find all a wilderness,</L>
+<L>And without blood the gold and silver there possess.</L>
+</LG>
+<LG N="26">
+<HEAD>XXVI.</HEAD>
+<L>Nor is this all which we thee grant;</L>
+<L>Rather than thou should'st full imployment want,</L>
+<L>We do permit in <HI>Greece</HI> it self thy kingdom plant.</L>
+<L>Ransack <HI>Lycurgus</HI> streets throughout,</L>
+<L>They've no defence of walls to keep thee out.</L>
+<L>On wanton and proud <HI>Corinth</HI> seise,</L>
+<L>Nor let her double waves thy flames appease.</L>
+<L>Let <HI>Cyprus</HI> feel more fires than those of Love,</L>
+<L>Let <HI>Delos</HI> which at first did give the Sun,</L>
+<L>See unknown Flames in her begun,</L>
+<L>Now let her wish she might unconstant prove,</L>
+<L>And from her place might truly move:</L>
+<L>Let <HI>Lemnos</HI> all thy anger feel,</L>
+<L>And think that a new <HI>Vulcan</HI> fell,</L>
+<L>And brought with him new Anvils, and new hell.</L>
+<L>Nay and at <HI>Athens</HI> too we give thee up,</L>
+<L>All that thou find'st in Field, or camp, or shop,</L>
+<L>Make havock there without controul</L>
+<L>Of every ignorant and common soul;</L>
+<L>But then kind Plague, thy conquests stop;</L>
+<L>Let Arts, and let the learned there escape,</L>
+<L>Upon <HI>Minerva's</HI> self commit no rape;</L>
+<L>Touch not the sacred throng,</L>
+<L>And let <HI>Apollo</HI>'s Priests be like him young,</L>
+<L>Let him be healthful too, and strong.</L>
+<L><PB N="21" REF="17">But ah! too ravenous plague, whilst I</L>
+<L>Strive to keep off the misery,</L>
+<L>The learned too as fast as others round me die;</L>
+<L>They from corruption are not free,</L>
+<L>Are mortal though they give an immortality.</L>
+</LG>
+<LG N="27">
+<HEAD>XXVII.</HEAD>
+<L>They turn'd their Authors o're, to try,</L>
+<L>What help, what cure, what remedy</L>
+<L>All Natures stores against this Plague supply,</L>
+<L>And though besides they shunn'd it every where,</L>
+<L>They search'd it in their books, and fain would meet it there.</L>
+<L>They turn'd the Records of the antient times,</L>
+<L>And chiefly those that were made famous by their crimes;</L>
+<L>To find if men were punish'd so before,</L>
+<L>But found not the Disease nor cure.</L>
+<L>Nature alas! was now surpriz'd,</L>
+<L>And all her Forces seiz'd,</L>
+<L>Before she was how to resist advis'd:</L>
+<L>So when the Elephants did first affright</L>
+<L>The <HI>Romans</HI> with unusual fight,</L>
+<L>They many battels lose,</L>
+<L>Before they knew their foes,</L>
+<L>Before they understood such dreadful troops t' oppose.</L>
+</LG>
+<LG N="28">
+<HEAD>XXVIII.</HEAD>
+<L>Now ev'ry different Sect agrees</L>
+<L>Against their common adversary the disease,</L>
+<L>And all their little wranglings cease;</L>
+<L>The <HI>Pythagoreans</HI> from their precepts swerve,</L>
+<L>No more their silence they observe,</L>
+<L>Out of their Schools they run,</L>
+<L>Lament, and cry, and groan;</L>
+<L>They now desir'd their Metempsychosis;</L>
+<L>Not onely do dispute, but wish</L>
+<L>That they might turn to beasts, or fowls, or fish.</L>
+<L><PB N="22" REF="18">If the <HI>Platonicks</HI> had been here,</L>
+<L>They would have curs'd their Masters year,</L>
+<L>When all things shall be as they were,</L>
+<L>When they again the same disease should bear:</L>
+<L>And all Philosophers would now,</L>
+<L>What the great <HI>Stagyrite</HI> shall do,</L>
+<L>Themselves into the waters head-long throw.</L>
+</LG>
+<LG N="29">
+<HEAD>XXIX.</HEAD>
+<L>The <HI>Stoick</HI> felt the deadly stroke,</L>
+<L>At first assault their courage was not broke,</L>
+<L>They call'd to all the Cobweb aid,</L>
+<L>Of rules and precepts, which in store they had,</L>
+<L>They bid their hearts stand out,</L>
+<L>Bid them be calm and stout;</L>
+<L>But all the strength of precepts will not do'r.</L>
+<L>They cannot the storms of passions now asswage,</L>
+<L>As common men are angry, grieve, and rage.</L>
+<L>The Gods are called upon in vain,</L>
+<L>The Gods gave no release unto their pain,</L>
+<L>The Gods to fear even for themselves began.</L>
+<L>For now the sick unto the Temples came,</L>
+<L>And brought more than a holy flame,</L>
+<L>There at the Altars made their prayer,</L>
+<L>They sacrific'd and died there,</L>
+<L>A sacrifice not seen before;</L>
+<L>That Heaven, onely us'd unto the gore</L>
+<L>Of Lambs or Bulls, should now</L>
+<L>Loaded with Priests see its own Altars too.</L>
+</LG>
+<LG N="30">
+<HEAD>XXX.</HEAD>
+<L>The woods gave fun'ral piles no more,</L>
+<L>The dead the very fire devour,</L>
+<L>And that almighty Conqueror over-power.</L>
+<L>The noble and the common dust</L>
+<L>Into each others graves are thrust,</L>
+<L><PB N="23" REF="18">No place is sacred, and no tomb,</L>
+<L>'Tis now a priviledge to consume;</L>
+<L>Their ashes no distinction had;</L>
+<L>Too truly all by death are equal made.</L>
+<L>The Ghosts of those great Heroes that had fled</L>
+<L>From <HI>Athens</HI> long since banished,</L>
+<L>Now o're the City hovered;</L>
+<L>Their anger yielded to their love,</L>
+<L>They left th' immortal joyes above,</L>
+<L>So much their <HI>Athens</HI> danger did them move,</L>
+<L>They came to pity and to aid,</L>
+<L>But now alas! were quite dismay'd,</L>
+<L>When they beheld the marbles open lay'd,</L>
+<L>And poor mens bones the noble Urns invade:</L>
+<L>Back to the blessed seats they went,</L>
+<L>And now did thank their banishment,</L>
+<L>By which they were to die in forreign Countries sent.</L>
+</LG>
+<LG N="31">
+<HEAD>XXXI.</HEAD>
+<L>But what, Great Gods! was worst of all,</L>
+<L>Hell forth its magazines of Lusts did call,</L>
+<L>Nor would it be content</L>
+<L>With the thick troops of souls were thither sent;</L>
+<L>Into the upper world it went,</L>
+<L>Such guilt, such wickedness,</L>
+<L>Such irreligion did increase,</L>
+<L>That the few good who did survive,</L>
+<L>Were angry with the Plague for suffring them to live,</L>
+<L>More for the living than the dead did grieve:</L>
+<L>Some robb'd the very dead,</L>
+<L>Though sure to be infected ere they fled,</L>
+<L>Though in the very Air sure to be punished.</L>
+<L><PB N="24" REF="19">Some nor the shrines nor temples spar'd,</L>
+<L>Nor Gods, nor Heavens fear'd,</L>
+<L>Though such examples of their power appear'd.</L>
+<L>Vertue was now esteem'd an empty name,</L>
+<L>And honesty the foolish voice of fame;</L>
+<L>For having pass'd those tort'ring flames before,</L>
+<L>They thought the punishment already o're,</L>
+<L>Thought Heaven no worse torments had in store,</L>
+<L>Here having felt one Hell, they thought there was no more.</L>
+</LG>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+<DIV1 TYPE="publisher's advertisement">
+<PB REF="19">
+<HEAD>A List of some choice Poems, Printed for <HI>Henry Brome</HI> at the <HI>Gun</HI> in <HI>Ivy-lane.</HI></HEAD>
+<P>POems
+<LIST>
+<ITEM>Lyrique,</ITEM>
+<ITEM>Macronique,</ITEM>
+<ITEM>Heroique, &amp;c. </ITEM>
+</LIST>by Mr. <HI>Henry Bold.</HI></P>
+<P>Songs and Poems by Mr. <HI>A. Brome,</HI> the second Edition.</P>
+<P>All the Songs and Poems on the <HI>Long Parliament,</HI> from 1640. till 1661. by Persons of Quality.</P>
+<P>Songs and Poems by the Wits of both Universities.</P>
+<P><HI>Scarronnides,</HI> or <HI>Virgil Travestie,</HI> a Mock-Poem, being the first Book of <HI>Virgils Aeneis</HI> in English, <HI>Burlesque.</HI></P>
+<P><HI>Scarronnides,</HI> or <HI>Virgil Travestie,</HI> a Mock-Poem, being the fourth Book of <HI>Virgils Aeneis</HI> in English, <HI>Burlesque:</HI> both by a Person of Honour.</P>
+<P>Also, a List of what Damages we have received by the <HI>Dutch</HI>; And a brief History of the late War with the <HI>Turks.</HI></P>
+<LIST>
+<HEAD>PLAYES.</HEAD>
+<ITEM>The English Moor.</ITEM>
+<ITEM>The Love-sick Court.</ITEM>
+<ITEM>The New Academy.</ITEM>
+<ITEM>The Weeding of <HI>Covent-Garden.</HI></ITEM>
+<ITEM>The Royal Exchange.</ITEM>
+<ITEM>The Jovial Crew; or the Merry Beggars.</ITEM>
+</LIST>
+<P><HI>All by Mr.</HI> Richard Brome.</P>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

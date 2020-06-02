@@ -1,0 +1,116 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD EEBOPROOF 2.0//EN">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-08-21</DATE>
+<RESPSTMT>
+<NAME>Mona Logarbo</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>*Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate.
+*Checked for GROUP tags.
+*Proofed title page(s).
+*Checked ^s.
+*Checked I / J.
+*Checked oe for ae ligatures.
+*Reviewed structure.
+On PB REF="2" added DATE to CLOSER.
+*Checked placement and completeness of PBs.
+*Checked for duplicate pages.
+*Checked for missing pages.
+*Checked spacing of foreign GAPs.
+*Checked for damage GAPs, #s, @s, &mdash;, --s, <ABBR>Esq</ABBR> and UNCLEARs.
+*Corrected $word$s and $s by inserting the appropriate character(s) and / or GAP DESC(s).
+*Checked for &amp;cs with incorrect spacing.
+*Checked for OPENERs, SALUTEs, CLOSERs, DATEs, DATELINEs, SIGNEDs, BYLINEs, TRAILERs, etc.
+*Checked for TABLEs and LISTs.
+*Checked for LBs.
+*Checked for startqs, endqs and Qs.
+*Checked proofsheets and made corrections.
+DONE 08-21-03.</ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="A54610">
+<STC T="W">P1918</STC>
+<BIBNO T="umi">99830472</BIBNO>
+<VID>34924</VID>
+</IDG>
+<TEXT LANG="fre">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1" MS="y">
+<P>DEUX ESSAYS D'ARITHMETIQUE POLITIQUE
+TOUCHANT LES VILLES ET HOSPITAUX DE LONDRES ET PARIS.</P>
+<P>DEDIE'S AU ROY, <HI>Par le Chevalier PETTY, de la Soci&eacute;t&eacute; Royale.</HI></P>
+<P><FIGURE>
+</FIGURE></P>
+<P>A LONDRES, Ch&eacute;s B. G. Et se vendent par FRAN&Ccedil;OIS VAILLANT, Marchand Libraire demeurant dans le Strand, vis &agrave;. vis l'Eglise Fran&ccedil;oise de la Savoye. 1686.</P>
+</DIV1>
+<DIV1 TYPE="license">
+<PB REF="2">
+<P>Traduit de l'Original Anglois, Sign&eacute;,
+Que c&eacute;t Ecrit soit Imprim&eacute;.</P>
+<CLOSER><SIGNED>SUNDERLAND. P.</SIGNED>
+<DATELINE>Whithall <DATE>August.26. 1686.</DATE></DATELINE></CLOSER>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="2">
+<HEAD>AU ROY.</HEAD>
+<OPENER><SALUTE>SIRE,</SALUTE></OPENER>
+<P>JE prens la libert&eacute; de faire voir &agrave; VOTRE MAJESTE', dans un fort petit Ecrit, que v&ocirc;tre Ville de Lon|dres semble &ecirc;tre plus considerable que les deux meil|leures Villes de la Monarchie Fran&ccedil;oise, &amp; m&ecirc;me (selon ce que j'en puis trouver) plus grande qu'aucune autre de l'Univers; &amp; parce que je le puis dire sans flaterie &amp; par des d&eacute;monstrations que VOTRE MAJESTE' peut examiner: Je la suplie humblement de vouloir l'ac|cepter de la part de celuy qui est,</P>
+<CLOSER><SIGNED><HI>De VOTRE MAIESTE,</HI> Le tr&eacute;s humble, tr&eacute;s fidele &amp; tr&eacute;s obeissant Sujet,
+G. PETTY.</SIGNED></CLOSER>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="essay">
+<PB REF="3">
+<PB N="1" REF="3" MS="y">
+<HEAD>ESSAY D'ARITHMETIQUE POLITIQUE, Par le Chevalier Petty; o&ugrave; l'on pr&eacute;tend prouver qu'ily a plus de monde &amp; de maisons &agrave; Londres qu'&agrave; Paris &amp; &agrave; Ro&uuml;en ensemble, &amp; que Londres est aussi plus considerable &agrave; plu|sieurs autres &eacute;gards.</HEAD>
+<P>_LE Medium des Enterremens de Londres dans les trois derni&eacute;res ann&eacute;es, c'est &agrave; dire, 1683, 1684, &amp; 1685. dans lesquelles il n'y a point eu de maladies extraordinaires, &amp; o&ugrave; les Bat&ecirc;mes r&eacute;|pondent dans leur proportion ordinaire aux Enterremens, &amp; les Bat&ecirc;mes de chaque ann&eacute;e les uns aux autres, a &eacute;t&eacute; 22337. &amp; un semblable Medium des Enterremens de Paris, pour les trois der|niers Catalogues que nous en avons p&ucirc; avoir, &agrave; s&ccedil;avoir pour les ann&eacute;es 1682, 1683, &amp; 1684. dont la derni&eacute;re paro&icirc;t par les Bat&ecirc;mes avoir &eacute;t&eacute; fort mal saine, est 19887.</P>
+<P N="2">2. Il paro&icirc;t, &agrave; ce que nous pouvons juger au plus juste du n&eacute;goce &amp; de la Do&uuml;ane de Bristoll en Angleterre, que cette ville est aussi grande que celle de Ro&uuml;en en France; Il paro&icirc;t aussi que la Ville de Dublin en Irlande a un plus grand nombre de chemin&eacute;es, &amp; par consequent, plus de monde que Bristoll, &amp; les Enterremens de Dublin n'ont &eacute;t&eacute; l'ann&eacute;e 1682. ann&eacute;e mal saine, que 2263.</P>
+<P N="3">3. Or les Enterremens de Paris, &agrave; s&ccedil;avoir 19887. ajo&ucirc;t&eacute;s &agrave; ceux de Dublin que nous supposons &ecirc;tre en plus grand nombre qu'&agrave; Ro&uuml;en, &amp; qui sont 2263. ne font que 22150. au lieu que les Enterremens de Londres &eacute;toient 187. de plus ou 22337. ou comme environ 6, &agrave; 7.</P>
+<P N="4">4. Si l'on retranche du Catalogue des Enterremens de Paris, tous ceux ou une partie de ceux qui meurent sans necessit&eacute;, ou faute de bons traitemens, &agrave; l'H&ocirc;|tel-Dieu; cela donnera encore plus de force &agrave; n&ocirc;tre assertion, &amp; plus de rap|port avec ce que nous avons &agrave; dire touchant le nombre des maisons de ces m&ecirc;|mes Villes, &agrave; s&ccedil;avoir que,</P>
+<P N="5">5. Il y eut l'ann&eacute;e 1666. plus de 13000. maisons br&ucirc;l&eacute;es &agrave; Londres, ce qui n'&eacute;tant que la cinqui&eacute;me partie du tout, le total des maisons &eacute;toit cette ann&eacute;e|l&agrave; plus de 65. mille; &amp; comme les Enterremens de Londres sont augment&eacute;s entre les ann&eacute;es 1666, &amp; 1686. de plus d'un tiers, il faut que le total des maisons de Londres, l'ann&eacute;e 1686. soit d'environ 87. mille qui &eacute;toient de conte fait l'ann&eacute;e 1682. 84. mille.</P>
+<P N="6">6. Monsieur Moreri, l'Auteur du dernier grand Dictionaire Geographique Fran&ccedil;ois, qui ve&ucirc;t nous faire passer Paris pour la plus grande Ville du Monde, n'y conte que 50. mille maisons: d'autres Auteurs, &amp; d'habiles gens, en content beaucoup moins. Il n'y a pas non plus tout &agrave; fait 7. mille maisons dans la Ville de Dublin, tellement que quand on ajo&ucirc;teroit aux cinquante mille maisons de paris les 7. mille de Dublin, cela ne feroit en tout que 57. mille maisons, l&agrave; o&ugrave; a Ville de Londres en a 87 mille, comme nous l'avons d&ecirc;ja dit, ou comme 6. &agrave; 9.</P>
+<P N="7"><PB N="2" REF="4" MS="y">7. Pour ce qui regarde le nombre &amp; la grandeur des Vaisseaux, &amp; le Comerce &eacute;tranger de Londres, le sens commun fait ass&eacute;s juger &agrave; tout le monde, qu'il est beaucoup plus grand que celui de Paris &amp; de Ro&uuml;en ensemble.</P>
+<P N="8">8. Quand au gain que les habitans de Londres &amp; de Paris tirent des Proc&eacute;s &amp; de la Chicane, je dis seulement que les Courts de Justice de Londres s'&eacute;tendent sur toute l'Angleterre &amp; Pa&iuml;s de Gale, &amp; regardent 7. millions de personnes, au lieu qu'il s'en faut bien que celles de Paris s'&eacute;tendent si loin.</P>
+<P>De plus, l'on n'a point &agrave; Paris de preuves palpables &amp; &eacute;videntes pour le nombre &amp; les biens des Gens de Loy, telles que sont les B&agrave;timens &amp; les Chambres dans les deux Temples, Lincols-Inn, Grays-Inn, Docteurs Commons &amp; les sept autres Cole|ges, o&ugrave; il y a.....Chemin&eacute;es qui se voit &agrave; Londres, outre plusieurs Logis, Sales, Offices, qui en d&eacute;pendent.</P>
+<P N="9">9. Pour ce qui est des aises &amp; des commodit&eacute;s de la vie des Habitans, nous disons,</P>
+<LIST>
+<ITEM>1. Que les Habitans de Paris &eacute;tant, &agrave; l'&eacute;gard de ceux de Londres, comme environ 6. &agrave; 7. &amp; les maisons comme environ 6. &agrave; 9. nous en inferons, que les Habitans de Londres ne sont pas si press&eacute;s, ni si serr&eacute;s dans leur demeure que ceux de Paris, &amp; qu'ils sont en &eacute;tat de se donner un peu plus d'&eacute;tendu&euml; &amp; de libert&eacute;.</ITEM>
+<ITEM>2. Qu'a Londres les H&ocirc;pitaux sont meilleurs &amp; moins incommodes que ceux de Paris, puis-qu'&agrave; Paris dans le meilleur H&ocirc;pital, il en meurt 2. de 15. au lieu qu'&agrave; Londres, dans le moins considerable H&ocirc;pital, &agrave; peine en meurt-il 2. de 16. &amp; encore il n'en meurt &agrave; Londres, dans les H&ocirc;pitaux, qu'une cinquanti&eacute;me partie du tout; &amp; &agrave; Paris, il en meurt &frac25;. ou vingt fois cette pro|portion, dans les H&ocirc;pitaux qui sont de m&eacute;me espece; c'est &agrave; dire, que le nom|<GAP DESC="illegible" EXTENT="1 letter">re de ceux de Londres, qui aiment mieux etre malades dans les H&ocirc;pitaux que dans leurs propres maisons, sont a l'&eacute;gard des m&eacute;mes personnes de Paris, com|me un &agrave; vingt; ce qui fait voir que la disette &amp; la pauvret&eacute; sont bien plus grandes &agrave; Paris qu'&agrave; Londres.</ITEM>
+<ITEM>3. Nous inferons de ce que nous venons de dire, c'est &agrave; dire, de ce que dans les <UNCLEAR>Hopitaux</UNCLEAR> de Londres &agrave; peine en meurt-il 2. de 16. &amp; environ 2. de 15. dans les meilleurs de Paris (pour ne rien dire de l'H&ocirc;tel-Dieu) ou que les Medecins &amp; les Chirurgiens de Londres sont meilleurs que ceux de Paris, ou que l'air de Londres est plus sain.</ITEM>
+</LIST>
+<P N="10">10. Pour ce qui est des autres grandes Villes du Monde, si Paris &eacute;toit la plus grande, il est inutile d'en dire davantage par raport &agrave; Londres. Pour ce qui est de Pequin dans la Chine, nous n'en avons point de relation sur quoi nous puissions appuyer aucun jugement; nous ne trouvons aussi rien dans la description des deux derniers Voyages de l'Empereur de la Chine, de cette Ville dans la Tartarie Orientale &amp; Occidentale dans les ann&eacute;es 1682. &amp; 1683. qui puisse nous faire retracter ce que nous avons dit touchant Londres. Nous ne trouvons rien non plus dans Dheli &amp; Agra, qui appartiennent au Mogol qui fasse contre n&ocirc;tre position; mais seulement pour faire voir le vaste nombre de ceux qui sui vent c&eacute;t Empereur, &amp; qui le servent dans ses affaires &amp; dans ses plaisirs.</P>
+<P N="11">11. Nous conclurons par Constantinople &amp; le grand Caire: A l'&eacute;gard de Con+stantinople, quelqu'un a raport&eacute;, pour montrer la grandeur de cette Ville, &amp; la grandeur de la peste qui y regnoit, qu'il y mouroit 1500 par jour, sans autre cir|constance: &agrave; quoi je r&eacute;pons que l'ann&eacute;e 1665. il en mourut &agrave; Londres 1200. par jour, &amp; l'on a sort bien prouv&eacute; que la peste n'a jamais emport&eacute;, &agrave; Londres. plus d'une cinqui&eacute;me partie du peuple; l&agrave; o&ugrave; on croit commun&eacute;ment, qu'&agrave; Constantinople &amp; dans les autres Villes de l'Orient, m&ecirc;me en Italie &amp; en Espa|gne, la peste emport &frac25;. la moiti&eacute; ou plus du peuple; c'est pourquoi il est
+<PB N="3" REF="4" MS="y">
+probable que l&agrave; o&ugrave; 1200. ne sont que une cinqui&eacute;me partie du peuple, il y avoit plus de monde, que l&agrave; o&ugrave; 1500. faisoient &frac25;. ou la moiti&eacute;,</P>
+<P N="12">12. On raporte que dans le Grand Caire il en &eacute;toit mort 73000. en dix Se|maines ou 1000. par jour, o&ugrave; il faut remarquer qu'au Grand Caire la peste vient &amp; s'en va tout d'un coup, &amp; qu'elle emporte 2. ou 3. cinqui&eacute;me partie du peuple, comme nous avons dit auparavant, tellement que 73. mille est pro|bablement le nombre de ceux qui sont morts de la peste, au Grand Caire, en toute une ann&eacute;e; au lieu qu'&agrave; Londres, l'ann&eacute;e 1665. l'on a cont&eacute; 97. mille morts de la peste cette ann&eacute;e-l&agrave;: c'est pourquoi il est certain, que dans une Vil|le o&ugrave; 97. mille ne faisoient que la cinqui&eacute;me partie du peuple, il y avoit plus de monde, que l&agrave; o&ugrave; 73. mille &eacute;toient &frac25;. ou la moiti&eacute;.</P>
+<P>Nous concluons donc, qu'il y a &agrave; Londres plus de monde, de maisons, de vaisseaux &amp; de richesses, qu'&agrave; Paris &amp; &agrave; Ro&uuml;en mis ensemble; &amp; que nous ne voyons rien qui nous emp&ecirc;che de dire, qu'elle est plus considerable qu'aucune autre Ville de l'Univers; &amp; c'est ce que nous avions &agrave; prouver.</P>
+</DIV1>
+<DIV1 TYPE="essay">
+<HEAD>ESSAY D'ARITHMETIQUE POLITIQUE, par le Chevalier PETTY, pour prouver que dans l'Hopital appell&eacute; l'H&ocirc;tel-Dieu &agrave; Paris, il meurt tous les ans plus de <GAP DESC="illegible" EXTENT="1 letter">3000. personnes faute de bons traitemens.</HEAD>
+<P>IL paro&icirc;t que l'ann&eacute;e 1678. il est entr&eacute; dans l'H&ocirc;pital de la Charit&eacute; 264<GAP DESC="illegible" EXTENT="1 letter">. ames, dont il y en est mort pendant la m&ecirc;me ann&eacute;e 338. <GAP DESC="illegible" EXTENT="4 words"> que la 8. partie desdits 2647. &amp; que dans la m&ecirc;me ann&eacute;e, il est entr&eacute; dans l'H&ocirc;tel-dieu 21491. personnes, &amp; que de ce nombre il en est mort 5630. ce qui est plus d'un quart, tellement qu'environ la moiti&eacute; de ces 5630. qui sont 2815. semble &ecirc;tre morte faute des m&ecirc;mes traitemens &amp; d'aussi bons secours qu'ils auroient p&ucirc; avoir &agrave; la Charit&eacute;.</P>
+<P N="2">2. De plus, dans l'ann&eacute;e 1679. il est entr&eacute; dans la Charit&eacute; 3118. personnes, dont il y en est mort 452. ce qui est plus d'une septi&eacute;me partie, &amp; dans la m&ecirc;me ann&eacute;e, il est entr&eacute; dans l'H&ocirc;tel-dieu 28635. personnes, dont il y en est mort 8397. &amp; dans ces deux ann&eacute;es 1678, &amp; 1679. (qui ont &eacute;t&eacute; fort differentes, dans leur degr&eacute; de mortalit&eacute;) il est entr&eacute; dans l'H&ocirc;tel-dieu 28635. personnes, &amp; 21491. en tout 50126. dont le Medium est 25063. &amp; il en est mort de c&eacute;t H&ocirc;pital, dans ces deux ann&eacute;es, 5630, &amp; 8397. en tout 14027. dont le Me|dium est 7013.</P>
+<P N="3">3. Dans ces m&ecirc;mes ann&eacute;es, il est entr&eacute; dans la Charit&eacute; 2647, &amp; 3118. en tout 5765. dont le Medium est 2882. &amp; il y en est mort 338, &amp; 452. en tout <GAP DESC="illegible" EXTENT="1 letter">90. dont le Medium est 395.</P>
+<P N="4">4. Or s'il est mort dans l'Hotel-dieu 7013. personnes par an, &amp; que la pro|portion de ceux qui sont morts dans c&eacute;t H&ocirc;pital soit le double de ceux qui sont morts dans celui de la Charit&eacute; (les nombres que nous avons marqu&eacute;s cy-dessus approchant fort de ce conte) il s'en suit donc de l&agrave;, que la moiti&eacute; de ce nom|bre de 7013. qui est 3506. ne sont point morts par une n&eacute;cessit&eacute; naturelle; mais par le mauvais gouvernement de c&eacute;t H&ocirc;pital.</P>
+<P N="5"><PB N="4" REF="5" MS="y">5. A considerer d'abord cette conclusion, elle a paru fort &eacute;trange, &amp; pl&ucirc;t&ocirc;t, comme une m&eacute;prise ou quelque accident, qu'une verit&eacute; solide &amp; r&eacute;elle; mais exa|minant en suite la chose par ce qui paro&icirc;t &agrave; Londres, nous avons &eacute;t&eacute; plus dispos&eacute;s &agrave; la croire veritable. A s&ccedil;avoir que.</P>
+<LIST>
+<ITEM>1. L'ann&eacute;e 1685. il y a eu dans l'H&ocirc;pital de St. Barthelemy &agrave; Londres, 1764. personnes de gueries, &amp; qui en sont sorties; &amp; il en est mort en ce m&ecirc;me H&ocirc;pital 1252. De plus, il y a eu dans l'H&ocirc;pital de St. Thomas 1523. personnes gueries &amp; qui en sont sorties, &amp; 209. enterr&eacute;es; c'est &agrave; dire, qu'il y a eu 3287. personnes gueries dans ces deux H&ocirc;pitaux, &amp; 461. d'enterr&eacute;es dans ces deux m&ecirc;mes Hopitaux, &amp; par|consequent de gueries &amp; d'enterr&eacute;es 3748. duquel nombre les 461. d'enterr&eacute;es sont moins que la huiti&eacute;me partie, au lieu que ceux qui sont morts &agrave; la Charit&eacute; faisoient plus que la huiti&eacute;me partie; ce qui fait voir que dans les plus pauvres &amp; les plus chetifs H&ocirc;p&iuml;taux de Londres, il en est mort moins &agrave; proportion que dans les meilleurs de Paris.</ITEM>
+<ITEM>2. Davantage l'on a fait voir cy-dessus qu'il est mort &agrave; la Charit&eacute; dans un Me|dium 395. personnes par an, &amp; 141. aux Incurables, faisant en tout 536. &amp; que dans les H&ocirc;pitaux de St. Barthelemy &amp; de St. Thomas &agrave; Londres, il n'en est, mort dans un Medium que 461. dont les Incurables font partie; ce qui fait voir qu'encore qu'il y ait plus de monde &agrave; Londres qu'&agrave; Paris; cependant, il n'en est pas tant all&eacute; &agrave; Londres aux Hopitaux, qu'il y en est all&eacute; &agrave; Paris, quoi que les plus pauvres H&ocirc;pitaux de Londres soient pr&eacute;f&eacute;rables aux meilleurs de Paris; ce qui montre que les plus pauvres du peuple de Londres, sont mieux accommodez dans leurs propres maisons, qu'on ne le pourroit &ecirc;tre dans les meilleurs H&oacute;pitaux de Paris.</ITEM>
+<ITEM>3. Apr&eacute;s avoir prouv&eacute; qu'il meurt &agrave; Paris 3506. personnes sans necessit&eacute;, au do|mage de la France, nous allons maintenant examiner &agrave; quoi se monte ce domage, &amp; comment on pourroit y remedier. La valeur de ces 3506. personnes &agrave; 60. liv. sterlin par t&ecirc;te, &ecirc;tant environ la valeur des esclaves d'Algier, (qui est moins que la valeur du peuple &agrave; Paris) il semble que letotal de la perte des Sujets de France <UNCLEAR>dans cet</UNCLEAR> H&ocirc;pital, est 60. fois 3506. livres sterlin par an; c'est &agrave; dire, 210360. livres sterlin, &eacute;quivalant environ &agrave; <UNCLEAR>2005000</UNCLEAR>. livres de France.</ITEM>
+<ITEM>4. L'on a v&ucirc; qu'il est entr&eacute; dans l'H&ocirc;tel-dieu, &agrave; le prendre dans un Medium, 25063. personnes par an, ou 2089. par mois, &amp; que tout ce qui reste des mois pr&eacute;c&eacute;|dens dans un Medium, est environ 2108. (comme on peut voir par la troisi&eacute;me ligne de la Table n^o. 5. que l'on donnera bien t&ocirc;t au Public,) c'est &agrave; dire, que le Medium des mois est 2410. pour l'ann&eacute;e 1679. (qui fut mal saine) &agrave; quoi ajo&ucirc;tant 1806. comme medium des mois pour l'ann&eacute;e 1678. cela fait 4216. dont le Me|dium sont 2108. marqu&eacute;s cy-dessous, lequel nombre &eacute;tant ajo&ucirc;t&eacute; &agrave; 2089. qui en|<GAP DESC="illegible" EXTENT="2 letters"> chaque mois, fait 4197. pour le nombre des malades que l'on suppose &ecirc;tre en tout tems dans l'H&ocirc;tel-dieu, l'un portant l'autre.</ITEM>
+<ITEM>5. Que si on ajo&ucirc;toit 60. livres par an pour ch&acirc;cun de ces 4197. personnes mala|des, aux d&eacute;penses ordinaires de c&eacute;t H&ocirc;pital: cette addition montant &agrave; 251820. livres tournois, il semble qu'on pourroit sauver la vie tous les ans &agrave; tant d'hommes, qui vallent plus de dix fois cette somme, &amp; cela en faisant un action de charit&eacute; ma|nifeste envers le genre humain.</ITEM>
+</LIST>
+<P>Il faut remarquer que l'ann&eacute;e 1685. les Enterremens de Londres &eacute;toient 23222. &amp; ceux d'Amsterdam 6245. d'o&ugrave;, aussi bien que de la difference de l'air, il est probable que le nombre des Habitans de Londres, est le quadruple de ceux d'Amsterdam.</P>
+<TRAILER>FIN.</TRAILER>
+<PB REF="5">
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

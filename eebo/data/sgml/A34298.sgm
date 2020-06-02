@@ -1,0 +1,363 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD EEBOPROOF 2.0//EN">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-08-12</DATE>
+<RESPSTMT>
+<NAME>Marika Ismail</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TYPEs to DIVs in order to validate. Proofed title page(s). Checked for N=""s. Checked for GROUP tags. Checked ^s. Reviewed structure. Checked division-marking material at heads and feet of divisions (HEADS,  CLOSER, OPENER, ARGUMENT, EPIGRAPH, SIGNED, BYLINE, etc.). Checked for signatures. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected ** $s and $word$s etc. of **. Converted __ $$s to GAP DESC="illegible" RESP="[vendor name]". Checked spacing of foreign GAPs.  Checked for LBs. Checked for startqs, endqs, oes, q;s, and Qs. Checked proofsheets and made corrections found there.  Checked for FIGUREs and decorated initials. Checked for missing-page GAPs. Revalidated. </ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="A34298">
+<STC T="W">C5845</STC>
+<BIBNO T="oclc">11192374</BIBNO>
+<VID>46647</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1">
+<PB REF="1">
+<P>THE BIRTH OF THE MUSE. A POEM.</P>
+<P>TO THE RIGHT HONOURABLE <HI>CHARLES MONTAGUE,</HI> CHANCELLOUR OF THE EXCHEQUER, <HI>&amp;c.</HI></P>
+<P>By Mr. <HI>CONGREVE.</HI></P>
+<P><HI>Dignum laude virum Musa vetat mori.</HI> Horat.</P>
+<P>LONDON, Printed for <HI>Iacob Tonson</HI> at the <HI>Iudge's Head</HI> near the <HI>Inner-Temple</HI>-Gate, in <HI>Fleetstreet.</HI> 1698.</P>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="poem">
+<PB REF="2" MS="y">
+<PB N="1" REF="2">
+<HEAD>THE BIRTH OF THE MUSE.</HEAD>
+<LG>
+<L>DEscend, Celestial <HI>Muse</HI>! thy Son inspire</L>
+<L>Of thee to sing; infuse the Holy Fire.</L>
+<L>Belov'd of Gods and Men, thy self disclose;</L>
+<L>Say, from what Source thy Heav'nly Pow'r arose,</L>
+<L>Which from unnumb'red Years deliv'ring down</L>
+<L>The Deeds of Heroes deathless in Renown,</L>
+<L>Extends their Life and Fame to Ages yet unknown.</L>
+</LG>
+<LG>
+<L><HI>Time</HI> and the <HI>Muse</HI> set forth with equal Pace;</L>
+<L>At once the Rivals started to the Race:</L>
+<L>And both at once the destin'd Course shall end,</L>
+<L>Or both to all Eternity Contend.</L>
+<L>One to preserve what t' other cannot save,</L>
+<L>And rescue Vertue rising from the Grave.</L>
+</LG>
+<LG>
+<L>To thee, O <HI>Montague,</HI> these Strains are sung,</L>
+<L>For thee my Voice is tun'd, and speaking Lyre is strung;</L>
+<L>For ev'ry Grace of ev'ry <HI>Muse</HI> is thine,</L>
+<L>In thee their various Fires united shine,</L>
+<L>Darling of <HI>Phaebus</HI> and the tunefull Nine!</L>
+<L><PB N="2" REF="3">To thee alone I dare my Song Commend,</L>
+<L>Whose Nature can forgive, and Pow'r defend,</L>
+<L>And shew by turns the Patron and the Friend.</L>
+</LG>
+<LG>
+<L>Begin, my <HI>Muse,</HI> from <HI>Iove</HI> derive thy Song,</L>
+<L>Thy Song of right, does first to <HI>Iove</HI> belong:</L>
+<L>For thou thy self art of Celestial Seed,</L>
+<L>Nor dare a Sire inferiour boast the Breed.</L>
+<L>When first the Frame of this vast Ball was made,</L>
+<L>And <HI>Iove</HI> with Joy the finish'd Work survey'd;</L>
+<L>Then change of Things, the rise and fall of States,</L>
+<L>Tho' yet to come, were destin'd by the Fates.</L>
+<L>Then <HI>Time</HI> had first a Name; by firm Decree</L>
+<L>Appointed Lord of all Futurity.</L>
+<L>Within whose spacious Womb the Fates repose</L>
+<L>Causes of Things, and secret Seeds enclose,</L>
+<L>Which ripening there, shall one Day gain a Birth,</L>
+<L>And force a Passage thro' the teeming Earth.</L>
+<L>To him they gave, to rule the spacious Light,</L>
+<L>And bound the yet unparted Day and Night;</L>
+<L>To wing the Hours that whirl the rowling Sphere</L>
+<L>To shift the Seasons, and conduct the Year.</L>
+<L>The Term of Empires, and Extent of Power</L>
+<L>To him they trust, and fix each fated Hour.</L>
+<L>This mighty Rule, to <HI>Time</HI> the Fates ordain,</L>
+<L>But yet to hard Conditions bind his Reign.</L>
+<L>For ev'ry beauteous Birth he brings to light,</L>
+<L>(How good soe'er and grateful in his sight,)</L>
+<L>He must again to Native Earth restore,</L>
+<L>And all his Race with Iron Teeth devour.</L>
+<L>Nor Good, nor Great shall scape his hungry Maw,</L>
+<L>But bleeding Nature prove the rigid Law.</L>
+</LG>
+<LG>
+<PB N="3" REF="3">
+<L>Not yet, the loosned Earth aloft was flung,</L>
+<L>Or pois'd amid the Skies in ballance hung.</L>
+<L>Nor yet, did Golden Fires the Sun adorn,</L>
+<L>Or borrow'd Lustre silver <HI>Cynthia</HI>'s Horn.</L>
+<L>Nor yet, had <HI>Time</HI> Commission to begin.</L>
+<L>Or Fate the many-twisted Web to spin;</L>
+<L>When all the Heav'nly Host assembled came</L>
+<L>To view the World yet resting on its Frame;</L>
+<L>Eager they press, to see the Sire dismiss</L>
+<L>And rowl the Globe along the vast Abyss.</L>
+</LG>
+<LG>
+<L>But deep revolving Thoughts the God retain,</L>
+<L>Which for a space suspend the promis'd Scene.</L>
+<L>Again, his Eyes inspect <HI>Time</HI>'s pregnant Womb,</L>
+<L>Again, he reads the World's predestin'd Doom.</L>
+<L>Abroad the bulky Volume he displays,</L>
+<L>And present views the Deeds of future Days.</L>
+</LG>
+<LG>
+<L>A beauteous Prospect paints the foremost Page,</L>
+<L>Where Nature's Bloom presents the Golden Age.</L>
+<L>The Golden Leaf to Silver soon resigns,</L>
+<L>And fair the Sheet, but yet more faintly shines.</L>
+<L>Of baser Brass, the next denotes the Times,</L>
+<L>An impious Page deform'd with deadly Crimes.</L>
+<L>The Fourth yet wears a worse and browner Face,</L>
+<L>And adds to Gloomy Days an Iron Race.</L>
+</LG>
+<LG>
+<L>He turns the Book, and ev'ry Age reviews,</L>
+<L>Then all the Kingly Line his Eye pursues:</L>
+<L>The First of Men, and Lords of Earth design'd,</L>
+<L>Who under him should rule the rest of Human-kind.</L>
+<L><PB N="4" REF="4">Of Future Heroes, there, the Lives he reads,</L>
+<L>In search of Glory spent, and Godlike Deeds;</L>
+<L>Who Empires found, and goodly Cities build,</L>
+<L>And Savage Men Compel to leave the Field.</L>
+</LG>
+<LG>
+<L>All this th' Eternal saw, and seen approv'd;</L>
+<L>When Lo! but thence a Narrow Space remov'd,</L>
+<L>And Hungry <HI>Time</HI> has all the Scene defac'd,</L>
+<L>The Kings destroy'd, and laid the Kingdoms waste:</L>
+<L>Together all in Common Ruins lie,</L>
+<L>And but anon and ev'n the Ruins die.</L>
+<L>Th' Almighty, inly touch'd, Compassion found,</L>
+<L>To see Great Actions in Oblivion drown'd;</L>
+<L>And forward search the Roll, to find if Fate</L>
+<L>Had no Reserve to spare the Good and Great.</L>
+<L>Bright in his View the <HI>Trojan</HI> Heroes shine,</L>
+<L>And <HI>Ilian</HI> Structures rais'd by Hands Divine;</L>
+<L>But <HI>Ilium</HI> soon in Native Dust is laid,</L>
+<L>And all her boasted Pile a Ruine made:</L>
+<L>Not Great <HI>Aeneas</HI> can her Fall withstand,</L>
+<L>But flies, to save his Gods, to foreign Land.</L>
+<L>The <HI>Roman</HI> Race, succeed the <HI>Pardan</HI> State,</L>
+<L>And first and second <HI>Caesar</HI> God-like Great.</L>
+<L>Still on to after-days his Eyes descend;</L>
+<L>And rising Heroes still the Search attend.</L>
+<L>Proceeding thus he many Empires pass'd;</L>
+<L>But fair <HI>Britania</HI> fix'd his Sight at last.</L>
+</LG>
+<LG>
+<L>Above the Waves she lifts her Silver Head,</L>
+<L>And looks a <HI>Venus</HI> born from Ocean's Bed.</L>
+<L>For rowling Years, her happy Fortunes smile,</L>
+<L>And Fates propitious bless the beauteous Isle;</L>
+<L><PB N="5" REF="4">To Worlds remote, she wide extends her Reign,</L>
+<L>And wields the Trident of the stormy Main.</L>
+<L>Thus on the Base of Empire firm she stands,</L>
+<L>While bright <HI>Eliza</HI> rules the willing Lands.</L>
+</LG>
+<LG>
+<L>But soon a Lowring Sky comes on apace,</L>
+<L>And Fate revers'd shews her ill-omen'd Face.</L>
+<L>The Void of Heav'n a Gloomy Horrour fills,</L>
+<L>And Cloudy Veils involve her shining Hills;</L>
+<L>Of Greatness pass'd no Footsteps she retains,</L>
+<L>Sunk in a <HI>Series</HI> of Inglorious Reigns.</L>
+<L>She feels the Change, and deep regrets the Shame</L>
+<L>Of Honours lost, and her diminish'd Name:</L>
+<L>Conscious, she seeks from Day to shrowd her Head,</L>
+<L>And glad would shrink beneath her Oozy Bed.</L>
+</LG>
+<LG>
+<L>Thus far, the Sacred Leaves <HI>Britania</HI>'s Woes</L>
+<L>In shady Draughts, and dusky Lines disclose.</L>
+<L>Th' ensuing Scene revolves a Martial Age,</L>
+<L>And ardent Colours gild the glowing Page.</L>
+</LG>
+<LG>
+<L>Behold! of radiant Light an Orb arise,</L>
+<L>Which kindling Day, restores the darkned Skies;</L>
+<L>And see! on Seas the beamy Ball descends,</L>
+<L>And now its Course to fair <HI>Britania</HI> bends:</L>
+<L>Along the foamy Main the Billows bear</L>
+<L>The floating Fire, and wast the shining Sphere.</L>
+<L>Hail, happy <HI>Omen</HI>! Hail, auspicious Sight!</L>
+<L>Thou glorious Guide to yet a greater Light.</L>
+<L>For see! a Prince, whom dazling Arms array,</L>
+<L>Pursuing closely, plows the wat'ry Way,</L>
+<L>And tracks the Glory thro' the flaming Sea.</L>
+</LG>
+<LG>
+<PB N="6" REF="5">
+<L><HI>Britania,</HI> rise; awake, O Fairest Isle,</L>
+<L>From Iron Sleep; again thy Fortunes smile.</L>
+<L>Once more look up, the Mighty Man behold,</L>
+<L>Whose Reign renews another Age of Gold.</L>
+<L>The Fates at length the Blissful Web have spun,</L>
+<L>And bid it round in Endless Circles run.</L>
+<L>Again, shall distant Lands Confess thy Sway,</L>
+<L>Again, the wat'ry World thy Rule Obey;</L>
+<L>Again, thy Martial Sons shall thirst for Fame,</L>
+<L>And win in foreign Fields a deathless Name,</L>
+<L>For <HI>WILLIAM</HI>'s Genius ev'ry Soul inspires,</L>
+<L>And warms the frozen Youth with warlike Fires.</L>
+<L>Already, see, the Hostile Troops retreat,</L>
+<L>And seem forwarn'd of their impending Fate.</L>
+<L>Already routed Foes his Fury feel,</L>
+<L>And fly the Force of his unerring Steel.</L>
+<L>The haughty <HI>Gaul,</HI> who well till now, might boast,</L>
+<L>A Matchless Sword and unresisted Host,</L>
+<L>At his Foreseen approach the Field forsakes;</L>
+<L>His Cities tremble, and his Empire shakes.</L>
+<L>His tow'ring Ensigns long had aw'd the Plain,</L>
+<L>And Fleets audaciously usurp'd the Main;</L>
+<L>A gathering Storm he seem'd, which from afar</L>
+<L>Teem'd with a Deluge of destructive War.</L>
+<L>Till <HI>WILLIAM</HI>'s stronger Genius soar'd above,</L>
+<L>And down the Skies the daring Tempest drove.</L>
+<L>So from the radiant Sun, retires the Night,</L>
+<L>And Western Clouds shot thro' with adverse Light.</L>
+<L>So when th' assuming God, whom Storms Obey,</L>
+<L>To all the warring Winds at once gave way;</L>
+<L><PB N="7" REF="5">The frantick Brethren ravag'd all around,</L>
+<L>And Rocks, and Woods, and Shoars their Rage resound;</L>
+<L>Incumbent o're the Main, at length they sweep</L>
+<L>The liquid Plains, and raise the peaceful Deep:</L>
+<L>But when superiour <HI>Neptune</HI> leaves his Bed,</L>
+<L>His Trident shakes, and shews his awful Head;</L>
+<L>The madding Winds are hush'd, the Tempests cease,</L>
+<L>And ev'ry rowling Surge resides in Peace.</L>
+</LG>
+<LG>
+<L>And now the Sacred Leaf a Landskip wears,</L>
+<L>Where, Heav'n serene, and Air unmov'd appears.</L>
+<L>The <HI>Rose</HI> and <HI>Lilly</HI> paint the verdant Plains,</L>
+<L>And <HI>Palm</HI> and <HI>Olive</HI> shade the Sylvan Scenes.</L>
+<L>The Peaceful <HI>Thames,</HI> beneath his Banks abides,</L>
+<L>And soft, and still, the Silver Surface glides.</L>
+<L>The <HI>Zephyrs</HI> fan the Fields, the whisp'ring Breeze</L>
+<L>With fragrant Breath remurmurs thro' the Trees.</L>
+<L>The warbling Birds applauding new-born Light,</L>
+<L>In wanton Measures wing their airy Flight.</L>
+<L>Above the Floods the sinny Race repair,</L>
+<L>And bound aloft, and bask in upper Air;</L>
+<L>They gild their scaly Backs in <HI>Phaebus</HI> Beams,</L>
+<L>And scorn to skim the Level of the Streams.</L>
+<L>Whole Nature wears a Gay and Joyous Face,</L>
+<L>And blooms and ripens with the Fruits of Peace.</L>
+</LG>
+<LG>
+<L>No more the Lab'ring Hind regrets his Toil,</L>
+<L>But Cheerfully Manures the grateful Soil;</L>
+<L>Secure the Glebe a plenteous Crop will yield,</L>
+<L>And Golden <HI>Ceres</HI> grace the waving Field.</L>
+<L>Th' advent'rous Man, who durst the Deep explore,</L>
+<L>Oppose the Winds, and tempt the shelfy Shoar,</L>
+<L><PB N="8" REF="6">Beneath his Roof now tastes unbroken Rest,</L>
+<L>Enough with Native Wealth and Plenty blest.</L>
+</LG>
+<LG>
+<L>No more the forward Youth pursues Allarms,</L>
+<L>Nor leaves the Sacred Arts for stubborn Arms,</L>
+<L>No more the Mothers from their Hopes are torn,</L>
+<L>Nor weeping Maids the promis'd Lover Mourn.</L>
+<L>No more the Widows Shrieks and Orphans Cries,</L>
+<L>Torment the patient Air and wound the Skies.</L>
+<L>But peaceful Joys the prosp'rous Times afford,</L>
+<L>And banish'd Vertue is again restor'd.</L>
+<L>For He whose Arms alone sustain'd the Toil,</L>
+<L>And propp'd the nodding Frame of <HI>Britain</HI>'s Isle;</L>
+<L>By whose Illustrious Deeds, her Leaders fir'd,</L>
+<L>Have Honours lost regain'd, and new acquir'd,</L>
+<L>With Equal Sway will Vertue's Laws maintain,</L>
+<L>And Good, as Great, in awful Peace shall reign;</L>
+<L>For his Example still the Rule shall give,</L>
+<L>And those it taught to Conquer, teach to Live.</L>
+</LG>
+<LG>
+<L>Proceeding on, the Father still unfolds</L>
+<L>Succeeding Leaves, and brighter still beholds;</L>
+<L>The latest seen the fairest seems to shine,</L>
+<L>Yet sudden does to one more fair resign.</L>
+<L>Th' Eternal paus'd&mdash;</L>
+<L>Nor would <HI>Britania</HI>'s Fate beyond explore;</L>
+<L>Enough he saw besides the coming Store.</L>
+<L>Enough the Heroe had already don,</L>
+<L>And round the wide Extent of Glory run:</L>
+<L>Nor further now the shining Path pursues,</L>
+<L>But like the Sun the same bright Race renews.</L>
+</LG>
+<LG>
+<PB N="9" REF="6">
+<L>And shall remorseless Fates on him have Power!</L>
+<L>Or <HI>Time</HI> unequally such Worth devour!</L>
+<L>Then, wherefore shall the Brave for Fame contest?</L>
+<L>Why is this Man distinguish'd from the Rest?</L>
+<L>Whose foaring Genius now sublime aspires,</L>
+<L>And deathless Fame the due Reward requires.</L>
+<L>Approving Heav'n th' exalted Vertue views,</L>
+<L>Nor can the Claim which it approves refuse.</L>
+</LG>
+<LG>
+<L>The Great Creator, soon the Grant resolves,</L>
+<L>And in his mighty Mind the Means revolves.</L>
+<L>He thought; Nor doubted once, again to chuse,</L>
+<L>But spake the Word, and made th' immortal <HI>Muse.</HI></L>
+<L>Ne'er did his Pow'r produce so bright a Child,</L>
+<L>On whose Creation Infant Nature smild.</L>
+<L>Perfect at first, a finish'd Form she wears,</L>
+<L>And Youth perpetual in her Face appears.</L>
+<L>Th' assembled Gods who long expecting staid,</L>
+<L>With new Delight gaze on the lovely Maid</L>
+<L>And think the wish'd for World was well delay'd.</L>
+<L>Nor did the Sire himself his Joy disguise,</L>
+<L>But stedfast view'd, and fix'd, and fed his Eyes.</L>
+<L>Intent a Space, at length He Silence broke,</L>
+<L>And thus, the God the Heav'nly Fair bespoke.</L>
+</LG>
+<LG>
+<L>To thee, <HI>Immortal Maid,</HI> from this bless'd Hour,</L>
+<L>O'er <HI>Time</HI> and <HI>Fame,</HI> I give unbounded Power.</L>
+<L>Thou, from Oblivion shalt the Heroe save;</L>
+<L>Shalt raise, revive, and Eternize the Brave.</L>
+<L><PB N="10" REF="7">To thee, the <HI>Dardan</HI> Prince shall owe his Fame;</L>
+<L>To thee, the <HI>Caesars</HI> their immortal Name.</L>
+<L><HI>Eliza</HI> sung by thee, with Fate shall strive,</L>
+<L>And long as <HI>Time,</HI> in Sacred Verse survive.</L>
+<L>And yet O <HI>Muse,</HI> remains the Noblest Theme;</L>
+<L>The first of Men, Mature for Endless Fame</L>
+<L>Thy future Songs shall grace, and all thy Lays,</L>
+<L>Thenceforth, alone shall wait on <HI>WILLIAM's</HI> Praise.</L>
+<L>On his Heroick Deeds, thy Verse shall rise;</L>
+<L>Thou shalt diffuse the Fires that he supplies.</L>
+<L>Thro' him thy Songs shall more sublime aspire;</L>
+<L>And he thro' them, shall deathless Fame acquire:</L>
+<L>Nor <HI>Time,</HI> nor <HI>Fate</HI> his Glory shall oppose,</L>
+<L>Or blast the Monuments the <HI>Muse</HI> bestows.</L>
+</LG>
+<LG>
+<L>This said; no more <GAP DESC="illegible" REASON="blotted" EXTENT="3 letters">nin'd Th' <HI>Aetherial</HI> Host</L>
+<L>Again impatient Crowd the Crystal Coast.</L>
+<L>The Father, now, within his spacious Hands,</L>
+<L>Encompass'd all the mingled Mass of Seas and Lands.</L>
+<L>And having heav'd aloft the pond'rous Sphere,</L>
+<L>He Launch'd the World to float in ambient Air.</L>
+</LG>
+<TRAILER>FINIS</TRAILER>
+<PB REF="7">
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

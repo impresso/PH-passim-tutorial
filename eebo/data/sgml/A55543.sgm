@@ -1,0 +1,2418 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD EEBOPROOF 2.0//EN">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-08-13</DATE>
+<RESPSTMT>
+<NAME>Judith Siefring</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TYPEs to DIVs in order to validate. Proofed title page(s). Checked for TYPE="book". Checked ^s. Reviewed structure. Checked division-marking material at heads and feet of divisions (HEADS, etc.). Checked for signatures. Checked placement and completeness of PBs. Checked for GAPs, #s, @s. Checked spacing of foreign GAPs. Corrected 41 $s of 51. Converted 10 $s to GAP DESC="illegible" RESP="pdcc". Checked for EPIGRAPHs and ARGUMENTs. Checked for startqs, endqs, oes, q;s, and Qs. Checked proofsheets and made corrections found there. Checked for CLOSERs, TRAILERs, and BYLINEs. DONE.</ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="OX" ID="A55543">
+<STC T="W">P3052</STC>
+<BIBNO T="oclc">12353995</BIBNO>
+<VID>60071</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1">
+<PB REF="1">
+<P>A NEW OPERA; CALLED, Brutus of Alba: OR, Augusta's Triumph. As it is ACTED At the THEATRE, in <HI>Dorset-Garden,</HI> By His Majesty's Servants.</P>
+<P><HI>LONDON:</HI> Printed by <HI>W. Onley,</HI> for <HI>Sam. Briscoe,</HI> at the Corner of <HI>Charles|street,</HI> near <HI>Russel-street, Covent-garden.</HI> MDCXCVII.</P>
+<P>Having received very large Encouragement already, from several Persons of Honour and Quality, there will speedily be Publish'd, <HI>A Second Volume of Familiar Letters,</HI> written by the late Lord <HI>Rochester,</HI> the Duke of <HI>Bucking|ham,</HI> and Sir <HI>George Etherege.</HI> If any Gentlemen are willing to Oblige the Publick with any Letters of those Honourable Persons, they are desired to send them to <HI>Sam. Briscoe,</HI> in <HI>Covent-Garden,</HI> who will Print them in the next Volume.</P>
+</DIV1>
+<DIV1 TYPE="dramatis personae">
+<PB REF="2">
+<HEAD>Dramatis Persona.</HEAD>
+<LIST>
+<ITEM>Brutus</ITEM>
+<ITEM>Locrinus</ITEM>
+<ITEM>Arsaracus</ITEM>
+<ITEM>Coreb</ITEM>
+<ITEM>Hersius</ITEM>
+<ITEM>Spungias</ITEM>
+<ITEM>La Friske</ITEM>
+</LIST>
+<LIST>
+<HEAD>WOMEN.</HEAD>
+<ITEM>Amarante</ITEM>
+<ITEM>Ragusa</ITEM>
+</LIST>
+<LIST>
+<HEAD>SINGERS.</HEAD>
+<ITEM>Augusta</ITEM>
+<ITEM>Thamesis</ITEM>
+<ITEM>Apollo</ITEM>
+<ITEM>Juno</ITEM>
+<ITEM>Hermes</ITEM>
+<ITEM>Iris</ITEM>
+<ITEM>Pluto</ITEM>
+<ITEM>Alecto</ITEM>
+<ITEM>Minos</ITEM>
+<ITEM>Proteus</ITEM>
+<ITEM>Fame</ITEM>
+<ITEM><HI>Neptune</HI></ITEM>
+<ITEM><HI>Bacchus</HI></ITEM>
+<ITEM><HI>Cupid</HI></ITEM>
+<ITEM><HI>Mars</HI></ITEM>
+<ITEM><HI>Nestor</HI></ITEM>
+<ITEM><HI>Tritons</HI></ITEM>
+<ITEM><LIST>
+<ITEM><HI>Angello</HI></ITEM>
+<ITEM><HI>Seraphino</HI></ITEM>
+</LIST> Airy Spirits</ITEM>
+</LIST>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="2">
+<HEAD>TO <HI>Sam. Briscoe,</HI> Bookseller.</HEAD>
+<OPENER><SALUTE>Mr. BRISCOE,</SALUTE></OPENER>
+<P>SVre none can prove a Warmer Patron to a Book, than the Book|seller for whom 'tis Printed; nor can any one have a juster Ti|tle to the Dedication of a Play, than he who uses to pay so largely most Dedicators. You promis'd to stand Godfather to this Off-spring of a Nameless Parent; and, as 'tis like to make some Figure in the World; we hope it will soon Recompence your Liberality to those who usher it into it: For, while other Patrons often purchase nothing but empty Air, and are swell'd with it, to the Decay of their more solid Parts; but you are for more substantial Gain, and get Mo|ney for Paper, while they get nothing but Paper for Money.</P>
+<P>Most Readers rather judge of the Worth of a Book, by the Name of the Bookseller that Prints it, than by that of the Great Man to whom 'tis Inscrib'd; and this must needs be thought the better, as be|ing not only Printed for you, but Dedicated to you, who are fam'd for Printing few Things but what are Vseful and Entertaining, and who hate a dull Scribler, as much as he hates a severe Critick; or we, both Scribles and Criticks, a thin Pit, or a long Vacation. And, indeed, this Opera will require no less powerful an Interest, than yours Mr. <HI>Briscoe</HI>: For you know, that many Books are only thought bad, through the Prejudice of most Readers against their Nameless Wri|ters, as if those Works were not worth owning; and many are thought good only for the sake of the Author's Fame. 'Thus, let the best Master of Poetry, but publish a Poem without owning it, great num|bers of Faults will be found, which otherwise wou'd perhaps pass as Beauties. Now your Recommendation-Name, Mr. <HI>Briscoe,</HI> will infallibly supply the Want of the Authors; and thus his Modesty will only prove like those Shades that add strength to Pictures, and set the Beauties in a truer Light. For who can be supposed to understand
+<PB REF="3">
+Plays better than you, whose Business they have been so long, and who wholly Converse with the Ingenious and <HI>Bookish</HI>-Part of the World? Who but knows, what a kind Influence depends on you, from the Superior Orbs of Wit, with which you are so often in Con|junction? And 'tis but just it shou'd be so; for while most Libraries are made up of the Outcasts of Booksellers Shops, yours, Mr. <HI>Briscoe,</HI> chear'd by the Beams darted from the Neighbouring Spheres, is like a flourishing Garden, where every Day springs new Variety of the choicest Productions of Nature improv'd by Art; and thence the whole <HI>Letter'd World</HI> receives constant Supplies of the <HI>Useful</HI> and the <HI>Pleasing,</HI> without which it <HI>can no more subsist, than without the daily Concourse of Providence.</HI> There we borrow'd this <HI>Si|mile,</HI> Mr. <HI>Briscoe,</HI> which, by the way, confirms our Assertion; and there many others borrow, who do not so much care to acknowledge it: There from the Grave Politician, to the frothy <HI>Sonneter,</HI> from the Courtly Critick on Cloths, to the implacable Critick on Sence; from the All-Contemning Lord of Rhyme, to the All-admiring Country Wit, All-Wits, and Wou'd-be-Wits, are seen; too happy many of 'em, in finding something too Read in the Morning, that may enable 'em to Chat over their Tea in the Evening, without being reduc'd to pass six long Hours in a Balcony, in making Criti|cisms upon the Mobb. But we forgot that you and we are Men of Business; nor need we say any more to Recommend this Piece to you, and the Town, to whose Generous Indulgence we leave it; heartily wishing, you may sell off as many Impressions of it, as we wish our selves Benefactors on <HI>Wednesday,</HI> and <HI>Saturday</HI> next, the Visit|ing Days of,</P>
+<CLOSER><DATELINE><DATE>Monday, <HI>Octob.</HI> 16, 1699.</DATE></DATELINE>
+<SIGNED><HI>Your Friends and Servants,</HI> GEORGE POWELL, JOHN VERBRUGGEN.</SIGNED></CLOSER>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 N="1" TYPE="act">
+<PB N="1" REF="3">
+<HEAD><HI>BRUTUS</HI> of <HI>ALBA:</HI> OR, <HI>AUGUSTA</HI>'s TRIUMPH.</HEAD>
+<HEAD>ACT I. SCENE I.</HEAD>
+<STAGE>The SCENE is, <HI>The River of</HI> Thames, <HI>the Prospect reaches as far as can be seen from the Bridge, in a clear Day: On one side of the Stage, lies</HI> Augusta, <HI>attended by Cities; on the other,</HI> Thamesis, <HI>attended by Rivers</HI>; Angello <HI>hovering in the Air. After a Symphony of Musick,</HI> Angello <HI>speaks.</HI></STAGE>
+<SP>
+<SPEAKER>Angel.</SPEAKER>
+<L>WAke, wake <HI>Augusta! Thamesis</HI> awake!</L>
+<L>Leave of your mourning for your absent Lord:</L>
+<L>From the bright Court of Love, I'm hither sent,</L>
+<L>To chear your Drooping Spirits, and inform you,</L>
+<L>The Guardian of this once Unhappy Island,</L>
+<L>Returns with Safety from his <HI>Gallick</HI> Foes.</L>
+</SP>
+<SP>
+<SPEAKER>Tham.</SPEAKER>
+<L>Oh thou Bright Vision! Thus we kneel before thee;</L>
+<L>Thus pay our Thanks to those Almighty Powers,</L>
+<L>That have Preserv'd the Great, the God-like <HI>Brutus.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Aug.</SPEAKER>
+<L>O send our <HI>Albion,</HI> send him quickly to us:</L>
+<L>Guard him, good Heaven, Preserve him from his Foes;</L>
+<L>For when he falls, <HI>Augusta</HI> is no more.</L>
+</SP>
+<SP>
+<SPEAKER>Aug.</SPEAKER>
+<L>Once more I charge you, to dismiss your Fears,</L>
+<L>For Heav'n has made him its peculiar Care.</L>
+<STAGE><PB N="2" REF="4">Seraphino <HI>Descends.</HI></STAGE>
+<L>See here the Guardian Heav'n has appointed</L>
+<L>Still to Attend, and to Preserve his Person.</L>
+</SP>
+<STAGE>Hermes <HI>Descends in his Chariot, drawn by Ravens.</HI></STAGE>
+<SP>
+<SPEAKER>Her.</SPEAKER>
+<L>And <HI>Hermes</HI> too appears, to chear your Sorrows.</L>
+</SP>
+<STAGE>Hermes <HI>Sings.</HI></STAGE>
+<LG>
+<L>Thou Glorious Fabrick stand, for ever stand,</L>
+<L>Well worthy thou to Entertain</L>
+<L>The God of Traffick, and of Gain,</L>
+<L>To draw the Concourse of the Land,</L>
+<L>And Wealth of all the Main.</L>
+</LG>
+<STAGE>Augusta <HI>Sings.</HI></STAGE>
+<LG>
+<L>O <HI>Hermes,</HI> pity take</L>
+<L>Of her, who <HI>Europe</HI>'s Pride was seen,</L>
+<L>And this fair Isle's Imperial Queen.</L>
+<L><HI>Albion</HI>'s Darling Bride adorn'd,</L>
+<L>Till my Absent Lord I mourn'd.</L>
+<L>And whilst my Turtle-moans I make,</L>
+<L>Oh <HI>Hermes,</HI> pity take.</L>
+</LG>
+<STAGE>Thamesis <HI>Sings.</HI></STAGE>
+<LG>
+<L>And I the Noble Flood, who pour</L>
+<L>My Plenteous Vrn on her Rich Shoar,</L>
+<L>No more the Prince of Fields, I Reign,</L>
+<L>Nor she the Queen of <HI>Albion</HI>'s Fame.</L>
+</LG>
+<SP>
+<SPEAKER>Aug.</SPEAKER>
+<L>Oh <HI>Hermes,</HI> pity take.</L>
+</SP>
+<SP>
+<SPEAKER>Tha.</SPEAKER>
+<L>Oh <HI>Hermes,</HI> pity take.</L>
+</SP>
+<SP>
+<SPEAKER>Cho.</SPEAKER>
+<L>To thee for pity now we call,</L>
+<L>O! God-like <HI>Hermes</HI>; pity all.</L>
+</SP>
+<SP>
+<SPEAKER>Mer.</SPEAKER>
+<L>Cease, fair <HI>Augusta,</HI> cease thy Sorrow,</L>
+<L>And tho' to Day thou mourn'st, thou'lt smile to Morrow.</L>
+<L>Thy Morning Prayer, and Evening Dreams,</L>
+<L>Thy <HI>Albion</HI> with his smiling Beams,</L>
+<L>Returns so Glorious, Bright and Gay,</L>
+<L>He Rivals the Great God of Day.</L>
+</SP>
+<SP>
+<PB N="3" REF="4">
+<SPEAKER>Chorus.</SPEAKER>
+<L>Our <HI>Albion</HI> with his smiling Beames,</L>
+</SP>
+<SP>
+<SPEAKER>Hermes.</SPEAKER>
+<L>While <HI>Gallick</HI> Foes which Envy see</L>
+<L>Your Monarch's happy Victory.</L>
+<L><HI>Augusta,</HI> ought not to Despair,</L>
+<L>For <HI>Albion</HI>'s Heavens peculiar Care.
+<STAGE><HI>Mercury <GAP DESC="illegible" EXTENT="1 word"></HI></STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Tha.</SPEAKER>
+<L>Since our <HI>Albion</HI> is returning</L>
+<L>All our blazing Bonfires Burning,</L>
+<L>Ioyn each Loyal Heart and Hand,</L>
+<L>Each Attending</L>
+<L>All Knees Bending</L>
+<L><HI>Triton's</HI> Sounding</L>
+<L>Shores Rebounding,</L>
+<L>Send my Iolly <HI>Neptunes</HI> Sons to Land.</L>
+</SP>
+<STAGE>A Dance of Nerieds</STAGE>
+<STAGE>Augustus, Thamesis, <HI>and their Attendance all Sink.</HI></STAGE>
+<SP>
+<SPEAKER>Aug.</SPEAKER>
+<L>Now, <HI>Seraphina,</HI> to perform your Charge,</L>
+<L><HI>Locrindus</HI> Son to this Victorious King,</L>
+<L>Is on his march, and will be here this Night.</L>
+<L>The false <HI>Arsaracus</HI> that was left in Charge</L>
+<L>Of this blest Island, and fair <HI>Amarante</HI></L>
+<L>Who is by Contract joyn'd to the Young Prince,</L>
+<L>Tries by all Arts he can, to gain her Love:</L>
+<L>The Curst Magician <HI>Coreb</HI> does attend him,</L>
+<L>And Calls the Powers of Hell to his Assistance;</L>
+<L>Therefore you must be Watchful, <HI>Seraphino.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Ser.</SPEAKER>
+<L>Fear not my <HI>Angel</HI> lo but see he comes,</L>
+<L>His working Brain, I know Presages Mischief,</L>
+<L>But he shall find that all the Power of Hell</L>
+<L>Will prove too Poor and Weak, to Combat Heaven.</L>
+</SP>
+<STAGE>They both Aescnd.</STAGE>
+<STAGE><HI>The Scene continues. Enter</HI> Arsaracus Solus.</STAGE>
+<SP>
+<SPEAKER>Ars.</SPEAKER>
+<L>Why am I thus perplext? She's in my Power;</L>
+<L>But Oh! What Power can stand against her Beauty?</L>
+<L>Am I to blame to Court the smiles of her,</L>
+<L>Who Captivates the Heart of Royal <HI>Brutus</HI></L>
+<L><PB N="4" REF="5">That mighty Conqueror submits to her.</L>
+<L>He that is Born the certain Scourge of <HI>Gaul</HI>:</L>
+<L>He that with Conquest still comes Ushered Home,</L>
+<L>Our Second <HI>Mars</HI> yields to this Lovely <HI>Venus.</HI></L>
+<STAGE><HI>Enter the</HI> Amarante <HI>Reading.</HI></STAGE>
+<L>Behold she comes; Oh! wou'd our Artists draw</L>
+<L>A Scene of Heaven; there is the lovely Pattern&punc;</L>
+</SP>
+<SP>
+<SPEAKER>Am.</SPEAKER>
+<L>Surpriz'd by him alone, Oh! my just Fea<GAP DESC="illegible" EXTENT="1 letter">s.</L>
+</SP>
+<SP>
+<SPEAKER>Arsa.</SPEAKER>
+<L>Why do ye slie me then, my beauteous Charge?</L>
+</SP>
+<SP>
+<SPEAKER>Am.</SPEAKER>
+<L>Why do ye Haunt me thus, Deceitful Guardian?</L>
+</SP>
+<SP>
+<SPEAKER>Arsa.</SPEAKER>
+<L>Can you Condemn the wretch who ventures Life</L>
+<L>To obtain Food, when Famine has oppress'd him;</L>
+<L>When the poor Slave tuggs at the Labouring Oar,</L>
+<L>His Body Gash'd with Stripes, and Parch'd by th' Sun;</L>
+<L>His Eye-lids shrowding in their drowzie Balls,</L>
+<L>His Joynts quite Numb'd, and yet Compell'd to Toyl;</L>
+<L>Is he to blame to beg of Heaven for Ease?</L>
+</SP>
+<SP>
+<SPEAKER>Amar.</SPEAKER>
+<L>They that Request of Heaven what is unjust shou'd</L>
+<L>Not alone denial meet, but Punishment,</L>
+<L>When our Great Master left his drooping Kingdom,</L>
+<L>Left the soft Joys of Peace for dangerous War,</L>
+<L>When he had Conquer'd his resistless Love</L>
+<L>And left me to the Prince his Royal Son;</L>
+<L>He then, my Lord, bequeath'd me to the Care;</L>
+<L>And sure he thought your Virtue was so firm,</L>
+<L>You wou'd not Ruine, what you shou'd Protect.</L>
+</SP>
+<SP>
+<SPEAKER>Arsa.</SPEAKER>
+<L>If Kneeling thus with humble Adoration,</L>
+<L>Begging of you my only Heaven, for Mercy;</L>
+<L>If Sighs and gushing Tears, and broken Slumbers</L>
+<L>With all the Racks of a despairing Lover.</L>
+<L>If these speak Ruine, sure they speak to me.</L>
+</SP>
+<SP>
+<SPEAKER>Amar.</SPEAKER>
+<L>What wou'd you have me do?</L>
+</SP>
+<SP>
+<SPEAKER>Arsa.</SPEAKER>
+<L>Give me your Love.</L>
+</SP>
+<SP>
+<SPEAKER>Amar.</SPEAKER>
+<L>I cannot.</L>
+</SP>
+<SP>
+<SPEAKER>Arsa.</SPEAKER>
+<L>Why?</L>
+</SP>
+<SP>
+<SPEAKER>Amar.</SPEAKER>
+<L>It is the Princes Right.</L>
+<L>The Prince, the Noble Prince, the Prince that rais'd you;</L>
+<L>Royal <HI>Locrinus,</HI> that bestow'd all Favours</L>
+<L>That you could Ask, or he had power to give.</L>
+</SP>
+<SP>
+<PB N="5" REF="5">
+<SPEAKER>Arsa.</SPEAKER>
+<L>What Titles, Power, or Wealth can he bestow,</L>
+<L>To equal the bright Jewel he takes from me</L>
+<L>Empires and Worlds, wou'd be too mean a prize</L>
+<L>To Purchase the vast Treasure of your Love.</L>
+</SP>
+<SP>
+<SPEAKER>Amar.</SPEAKER>
+<L>Empires and Worlds, can never change my Heart&punc;</L>
+<L>Oh! No 'tis sixt, 'tis rooted to my Lord's.</L>
+<L>Here on my Knees, to Heaven and you I swear,</L>
+<L>If you persist on this ungrateful Subject,</L>
+<L>The King and Prince shall know how faithfully</L>
+<L>You have Discharged the Trust they laid upon you.</L>
+</SP>
+<SP>
+<SPEAKER>Arsa.</SPEAKER>
+<L>Yet stay and hear me.</L>
+<STAGE>Offers to God.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Amar.</SPEAKER>
+<L>No, I never will,</L>
+<L>Till you have found some other Theme to talk of.</L>
+</SP>
+<SP>
+<SPEAKER>Arsa.</SPEAKER>
+<L>Farewell then, scornful Beauty; now by Love!
+<STAGE>Exit.</STAGE></L>
+<L>That Love which thou so Ill repay'st; I'll have thee</L>
+<L>At last, thy Body shall be mine; thy Mind,</L>
+<L>Dispose on as thou wilt, 'tis Proud and Vain.
+<STAGE><HI>Enter</HI> Coreb.</STAGE></L>
+<L>O <HI>Coreb!</HI></L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>How now my Lord, still plagu'd with hopeless Love,</L>
+<L>Still in pursuit of one, who flies with scorn,</L>
+<L>Still asking Heaven, for what it will not grant.</L>
+<L>Why do ye not Command your Faithful <HI>Coreb</HI></L>
+<L>That has the power, as well as will, to serve you:</L>
+<L>My Art has yet never been known to fail;</L>
+<L><HI>Pluto, Allecto,</HI> all have own'd my Charms:</L>
+<L>The Infernal Court has waited my Command,</L>
+<L>And shall agen, to serve <HI>Arsaracus.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Arsa.</SPEAKER>
+<L>O <HI>Coreb</HI>! cou'd I purchase <HI>Amarante</HI></L>
+<L>But for a Night, for that one happy Night,</L>
+<L>I'd be content to bear Eternal Pain;</L>
+<L>All Pains, all Torments, but the Wracks of Love.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>Be Cool, my Lord, and take Advice from me,</L>
+<L>The King has o're the Gauls a Victory gain'd,</L>
+<L><HI>Locrinus</HI> too, his Son has won much Honour.</L>
+<L>Who privately this Night comes to the Court;</L>
+<L>The King is likewise Landed, and will be</L>
+<L>At <HI>London</HI> in two Days, and on the third,</L>
+<L><PB N="6" REF="6">The Marriage 'twixt <HI>Amarante</HI> and the Prince,</L>
+<L>Will be with splendour Solemnized.</L>
+</SP>
+<SP>
+<SPEAKER>Arsa.</SPEAKER>
+<L>Their Marriage!</L>
+<L>Is this the Comfort, that you made me hope;</L>
+<L>O you have struck a Fire into my Veins,</L>
+<L>That must be quenched with Blood.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>I, now y've hit it.</L>
+<L>'Tis Blood, and Royal-blood, must work your Cure;</L>
+<L>You shall not find me poor in my Assistance,</L>
+<L>For I will give you Beauty, and a Crown;</L>
+<L>A Crown, my brave <HI>Arsaracus,</HI> think on that,</L>
+<L>Open thy Heart, and let Ambition in,</L>
+<L>That glorious Ornament, to Valiant Soul.</L>
+</SP>
+<SP>
+<SPEAKER>Arsa.</SPEAKER>
+<L>A Crown, and her I Love; Oh! thou hast rouz'd me,</L>
+<L>But say, my better Self, say thou great Artist;</L>
+<L>Thou that hast Hell at thy command; say, how,</L>
+<L>How shall I grasp the substance of those shadows</L>
+<L>That Dance about in glittering Forms before me.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>Be still and silent; silent as the Grave,</L>
+<L>And what so e're you see or hear, be constant;</L>
+<L>Now you shall find, whatever 'tis I promise,</L>
+<L>The whole Infernal Court shall ratifie.</L>
+<L>You great Commanders of the <HI>Stygian</HI> Lake,</L>
+<L>To whose known Power your Votary thus bowes.</L>
+<L>Honour his Art, (and grace it with your Presence,)</L>
+<L>Whose Soul and Body is at your dispose.</L>
+</SP>
+<STAGE><HI>The Scene Changes to a Poetical Hell; there is a Figure of the</HI> Pro|metheus <HI>Chain'd to a Rock, the Vulture knowing his Liver</HI>; Sisiphus <HI>rowling the Stone beyond abundance of Figures in various Torments; then a great Arch of Fire, behind this a Py|ramide of Flames in perpetual Agitation; behind this glowing Fire which Terminates the Prospect; then rises the Court of</HI> Pluto, <HI>with him the Furies and</HI> Alecto.</STAGE>
+<LG>
+<PB N="7" REF="6">
+<HEAD>Pluto <HI>Sings.</HI></HEAD>
+<L>FRom Hills of Ice, and Heaps of rowling Snow,</L>
+<L>From Lakes of Fire, that neither Ebb nor Flow;</L>
+<L>From Sulphurous Flames, and from Pestiferous Mists,</L>
+<L>From Terrors Infinite, where howling Guests,</L>
+<L>Almost Affect there Torturers with their Cries,</L>
+<L>Where Souls for ever Burn, and never Die;</L>
+<L>Where Misery is always but begun,</L>
+<L>And only Wretched certainties are known,</L>
+<L>Come we to know, what <HI>Coreb</HI> wou'd Demand.</L>
+</LG>
+<SP>
+<SPEAKER>Coreb.</SPEAKER>
+<L>Great Prince, whose Faithful Subject I have been,</L>
+<L>I do not now demand, but do implore,</L>
+<L>That you wou'd grant your Aid to this young Lord;</L>
+<L>Love and Ambition both possess his breast,</L>
+<L>Valiant he is, and has a daring Soul</L>
+<L>Fit to command the Empire of the World.</L>
+</SP>
+<SP>
+<SPEAKER>Pluto.</SPEAKER>
+<L>What wou'd you have me do?</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>Most mighty Prince,</L>
+<L>I have with strictest Care assisted him;</L>
+<L>But all my Magick Powers too weak alone;</L>
+<L>For by my Art I find some Heavenly Being,</L>
+<L>Some Guardian Angels has the Charge of <HI>Brutus,</HI></L>
+<L>That still prevents his and <HI>Augusta</HI>'s Ruine,</L>
+<L>Therefore once more, I do implore your Aid,</L>
+</SP>
+<LG>
+<HEAD>PLUTO Sings.</HEAD>
+<L>OF all my whole Infernal Brood,</L>
+<L>I'll give you one well Nurst in Blood;</L>
+<L>The Eldest Child of black Perdition,</L>
+<L>One that is fit to serve Ambition.</L>
+</LG>
+<LG>
+<HEAD>Alecto.</HEAD>
+<L>See Noble Prince, how ready he stands</L>
+<L>With Blood-shed Eyes, and Crimson Hands!</L>
+</LG>
+<LG>
+<HEAD>Minos.</HEAD>
+<L>He the glorious Work will do,</L>
+<L>For Mischiefs his Delight,</L>
+<L>The Bloody Business then pursue;</L>
+<L>And shrow'd his Glories in Eternal Night.</L>
+<L>He was for mighty Mischief made.</L>
+<L>Mischief is his Darling Trade.</L>
+</LG>
+<LG>
+<PB N="6" REF="7">
+<HEAD>Fury.</HEAD>
+<L>Great Prince, I am at hand,</L>
+<L>To Obey thy great Command,</L>
+<L>And Fear not me,</L>
+<L>For you shall see</L>
+<L>His great Renown</L>
+<L>I'll soon pull down,</L>
+<L>From its tow'ring Eagles Flight,</L>
+<L>That soar'd high as the Poles,</L>
+<L>To Creak with the Bat</L>
+<L>And Hoot, Hoot, Hoot, with the Owles.</L>
+</LG>
+<LG>
+<HEAD>Chorus.</HEAD>
+<L>Then you Furies advance,</L>
+<L>Lead, lead up a Dance,</L>
+<L>All shall be well</L>
+<L>And we'll frolick in Hell</L>
+<L>For our Enemy now we are humbling,</L>
+<L>Make his Subjects Rebel</L>
+<L>We shall soon fill up Hell,</L>
+<L>And rejoyce, while the Wretches are Tumbling.</L>
+</LG>
+<STAGE>Advance of Envy.</STAGE>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>Now brave <HI>Arsaracus,</HI> is there now a prospect</L>
+<L>That your vast wishes are to be obtain'd.</L>
+</SP>
+<SP>
+<SPEAKER>Arsa.</SPEAKER>
+<L>I am a Man, a Man not used to fear.</L>
+<L>But at this fight each Artery is numb'd,</L>
+<L>My Blood is chill'd, and has not power to flow:</L>
+<L>Say, I shou'd now desist, and go no farther;</L>
+<L>Then may his Magick be employed on me,</L>
+<L>To make me worse then Damn'd; to make me see</L>
+<L>Despair in all its Forms, to make me Mad,</L>
+<L>And feel Hell here, and a worse Hell hereafter.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>What i'st, my Lord, you pause on.</L>
+</SP>
+<SP>
+<SPEAKER>Arsa.</SPEAKER>
+<L>Oh, I'll tell thee,</L>
+<L>The Image of those miserable Wretches</L>
+<L>In all their different, yet Eternal Tortures</L>
+<L>Has quite Un man'd me, blown out all that Fire,</L>
+<L>Love and Ambition, kindled in my Breast.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>You would desist then.</L>
+</SP>
+<SP>
+<SPEAKER>Arsa.</SPEAKER>
+<L>Yes, I would' my <HI>Coreb.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Coreb.</SPEAKER>
+<L>And quit the glorious Game, you'd so long Hunted.</L>
+</SP>
+<SP>
+<PB N="7" REF="7">
+<SPEAKER>Arsa.</SPEAKER>
+<L>Ha.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>See the bright <HI>Amarante</HI> made your Rival's</L>
+<L>Her Beauteous Treasures Rifled by another,</L>
+<L>Close lock'd within <HI>Locrinus</HI>'s longing Arms,</L>
+<L>Feasting on Pleasures, while you feed on Pains;</L>
+<L>And when he knows, as he will surely know</L>
+<L>Your Treacherous Design to undermine him;</L>
+<L>Oh what a grateful fight it must be to you,</L>
+<L>To see your Honours all at once, stript off;</L>
+<L>And he that might have been a Monarch here,</L>
+<L>Thrust out a poor Discarded Wanderer.</L>
+</SP>
+<SP>
+<SPEAKER>Arsa.</SPEAKER>
+<L>No more, O <HI>Coreb!</HI> Thou hast fixt me now</L>
+<L>Firm as a Rock to our great resolution;</L>
+<L>Methinks I see my self already Crown'd,</L>
+<L>The trembling Fair, brought blushing to the Temple;</L>
+<L>The Priest prepared for the wish'd Ceremony;</L>
+<L>The Night come on, the Bridal Bed Adorn'd,</L>
+<L>While I Transported with her powerful Charmes,</L>
+<L>Do to the height of all my bliss make haste.</L>
+<L>And for that happy Hour,</L>
+<L>Forgive whose Ages of my Torments past.
+<STAGE>Exit.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Coreb.</SPEAKER>
+<L>Go on, deluded Wretch, thou shalt not cool</L>
+<L>Nor our great Masters Empire want for Subjects,</L>
+<L>While <HI>Coreb</HI> rules on Earth.</L>
+<L>Since <HI>Coreb,</HI> by Heavens wrath is dasht to Hell;</L>
+<L>Since all my hopes of future bliss are gone,</L>
+<L>I'll make more Fools into destruction run,</L>
+<L>For 'tis some pleasure not to fall alone.</L>
+</SP>
+</DIV1>
+<DIV1 N="2" TYPE="act">
+<PB N="10" REF="8">
+<HEAD>ACT II. SCENE I.</HEAD>
+<STAGE>The Scene is a very pleasant Garden; in the midst of the great Walk is a Fountain, and on each side the Stage large Figures, standing in Shells, at the farther end is fill'd with Cascades.</STAGE>
+<STAGE><HI>Enter</HI> Amarante <HI>and</HI> Ragusa.</STAGE>
+<SP>
+<SPEAKER>Amar.</SPEAKER>
+<L>WHere is the pretty Talking Boy, <HI>Ragusa.</HI></L>
+<L>I entertained this Morning?</L>
+</SP>
+<SP>
+<SPEAKER>Rag.</SPEAKER>
+<L>He follow'd you into the Garden Madam.</L>
+</SP>
+<SP>
+<SPEAKER>Amar.</SPEAKER>
+<L>And have you seen him Cloath'd?</L>
+</SP>
+<SP>
+<SPEAKER>Rag.</SPEAKER>
+<L>As you commanded.</L>
+<L>I think you've well bestow'd your Charity.</L>
+</SP>
+<SP>
+<SPEAKER>Amar.</SPEAKER>
+<L>'Twas pity he shou'd have remain'd a Beggar;</L>
+<L>Each word he speakes, methinks gives Harmony,</L>
+<L>Pray call him hither, for I love to see him.</L>
+</SP>
+<STAGE><HI>Enter</HI> Seraphino, <HI>like a Page.</HI></STAGE>
+<SP>
+<SPEAKER>Rag.</SPEAKER>
+<L>He's coming this way, Madam.</L>
+</SP>
+<SP>
+<SPEAKER>Amar.</SPEAKER>
+<L>Come hither, <HI>Seraphino.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Sera.</SPEAKER>
+<L>Most honoured Lady, I attend your pleasure</L>
+</SP>
+<SP>
+<SPEAKER>Amar.</SPEAKER>
+<L>Thy voice sends forth such Musick, that I never</L>
+<L>Was Ravisht with a more Celestial Sound,</L>
+<L>Were every Servant in the World like thee,</L>
+<L>So full of Goodness, Angels wou'd come down</L>
+<L>To dwell with us; in this short day thou'st given me,</L>
+<L>More pleasure then my Life produced before;</L>
+<L>But it grows late, I'd have thee go to rest,</L>
+<L>I fear thy Youth cannot dispence with watching.</L>
+</SP>
+<SP>
+<SPEAKER>Sera.</SPEAKER>
+<L>O my dear Lady; I could weary Stars;</L>
+<L>And force the wake full Moon to lose her Eyes,</L>
+<L>To watch and wait by you, I'm blest, when with you,</L>
+<L>Therefore my most loved Lady, do not bid</L>
+<L><PB N="11" REF="8">Your Boy that loves you to depart from you,</L>
+<L>For then you'll break his heart.</L>
+</SP>
+<SP>
+<SPEAKER>Amar.</SPEAKER>
+<L>Be nigh me still then,</L>
+<L>In Golden Letters I'll set down this day</L>
+<L>Which gave thee to me; little did I think</L>
+<L>To meet such Worlds of comfort in a Child,</L>
+<L>When I beheld my little Beggar boy</L>
+<L>Craving an Almes, which I with Joy bestow'd!</L>
+<L>I did believe thou'sd prove my chief delight.</L>
+</SP>
+<SP>
+<SPEAKER>Sera.</SPEAKER>
+<L>I shall be proud if my poor weak endeavours</L>
+<L>Can please so good a Mistress.</L>
+</SP>
+<SP>
+<SPEAKER>Amar.</SPEAKER>
+<L>I have offer'd</L>
+<L>Handfuls of Gold but to behold thy Parents,</L>
+<L>I prithee, my dearboy, let me but see 'em,</L>
+<L>Come, be not ashamed.</L>
+</SP>
+<SP>
+<SPEAKER>Sera.</SPEAKER>
+<L>I am not. I did never</L>
+<L>Know who my Mother was, but by yon Pallace</L>
+<L>Till'd with Celestial Courtiers, I dare assure you</L>
+<L>My Father is in Heaven, and, Noble Mistress,</L>
+<L>If your Bright hour Glass do spend its sand</L>
+<L>No worse then it does now, upon my life</L>
+<L>You and I both shall meet my Father there,</L>
+<L>And he shall bid us welcome.</L>
+</SP>
+<SP>
+<SPEAKER>Amar.</SPEAKER>
+<L>Pretty Child, how Charming is his Language.</L>
+<STAGE><HI>Enter</HI> Spungius <HI>and</HI> Hercius.</STAGE>
+<L>Now, Sirs, have you disposed my Charity as I ordered.</L>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<L>Disposed it, yes Madam, we have disposed it;</L>
+<L>For my part, Madam, I'm amazed at your Ladiships</L>
+<L>Bounty, here have you out of your own Pocket</L>
+<L>To day, reliev'd at least half a dozen Prisoners,</L>
+<L>And this you think is Charity, when to my knowledge</L>
+<L>Half of 'em eat well from the Basket before,</L>
+<L>And now they're out they can't tell where to get a dinner.</L>
+</SP>
+<SP>
+<SPEAKER>Her.</SPEAKER>
+<L>Ay ay, Madam, my Fellow <HI>Spungius</HI> says</L>
+<L>True, here do you Fast, and Pray, and give to</L>
+<L>The Poor to save their Souls, while they are</L>
+<L><PB N="12" REF="9">Cursing, Swearing, Eating and Drinking, to</L>
+<L>Preserve their Bodies.</L>
+</SP>
+<SP>
+<SPEAKER>Ama.</SPEAKER>
+<L>How dare you call my Charity in question?</L>
+</SP>
+<SP>
+<SPEAKER>Sera,</SPEAKER>
+<L>My fellow servants, I wou'd have you all</L>
+<L>Pitty the Poor, think of the many Blessings</L>
+<L>That wait upon the Charitable hand,</L>
+<L>The riches that you will enjoy hereafter.</L>
+<L>For a small mite bestowed upon the needy.</L>
+</SP>
+<SP>
+<SPEAKER>Amar.</SPEAKER>
+<L>'This well said, <HI>Seraphim,</HI> and be sure</L>
+<L>You follow his good counsel.</L>
+</SP>
+<SP>
+<SPEAKER>Har,</SPEAKER>
+<L>Hark'e Brother <HI>Spungius,</HI> who is this whipster?</L>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<L>Peace, peace, 'tis my Lady's Page, she found</L>
+<L>Him mumping at the Temple dore this Morning,</L>
+<L>And out of his patches of Canvas and Buckham,</L>
+<L>She has put him into Silks and Satten.</L>
+</SP>
+<SP>
+<SPEAKER>Her.</SPEAKER>
+<P>Ay ay, Brother, she's a Charitable Woman, rest her Soul, She took us from the Gallows as I take it, and instead of a Brace of Halters about our necks, bestowed a brace of Gold Liveries upon our Backs.</P>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<L>We must have a great care <HI>Hercius</HI> how we talk,</L>
+<L>For that's a Develish religious young spark,</L>
+<L>He has entertain'd my Lady all this morning</L>
+<L>With nothing but discourses of <HI>Elizium.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Her.</SPEAKER>
+<L><HI>Elizium,</HI> Prithee what's that?</L>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<L>Nay, Faith I can't tell, he says he'l give us</L>
+<L>An account of it one time or other.</L>
+</SP>
+<SP>
+<SPEAKER>Amar.</SPEAKER>
+<L>Come, Dear <HI>Augusta,</HI> the Air methinks grows cold,</L>
+<L>Let's in.</L>
+</SP>
+<SP>
+<SPEAKER>Rag.</SPEAKER>
+<L>Walk this way, Madam, for if I mistake not,</L>
+<L>I see my Lord <HI>Arsaracus</HI> coming yonder.</L>
+<L>His looks are full of Joy, I hope, <HI>Ragusa,</HI></L>
+<L>He brings some News of my dear Lord's return.</L>
+</SP>
+<SP>
+<SPEAKER>Ragu.</SPEAKER>
+<L>Pray Heaven he may, for I am still in fear</L>
+<L>His <GAP DESC="illegible" EXTENT="1 letter">lighted love at last may turn to hate.</L>
+</SP>
+<STAGE><PB N="13" REF="9"><HI>Enter</HI> Arsaracus.</STAGE>
+<SP>
+<SPEAKER>Arsa.</SPEAKER>
+<L>Madam, I beg you'd pardon this intrusion,</L>
+<L>But I have news will give you double Joy.</L>
+<L>The dazling Vertues that enrich your mind.</L>
+<L>Has turn'd the Love which was by you despis'd</L>
+<L>To true repentance, for my great presumption.</L>
+</SP>
+<SP>
+<SPEAKER>Ioanna.</SPEAKER>
+<L>O, cou'd I but believe your words were real,</L>
+<L>Cou'd I but think you had Master'd your wild passion,</L>
+<L>I shou'd with Joy, not Anger, look upon you.</L>
+</SP>
+<SP>
+<SPEAKER>Rich.</SPEAKER>
+<L>Then on my Knees, behold me a true Convert,</L>
+<L>My stragling thoughts of honour all call'd back,</L>
+<L>My Duty and Alleigance fizt so firm,</L>
+<L>That Heaven it self applauds, and Hell cant change it.</L>
+</SP>
+<SP>
+<SPEAKER>Sera.</SPEAKER>
+<L>Heaven knows thy heart, but Hell commands thy actions.</L>
+</SP>
+<SP>
+<SPEAKER>Rich.</SPEAKER>
+<L>Now, Madam, since I have with humblest duty</L>
+<L>Express'd my sorrow for my bold presumption,</L>
+<L>I hope you will recall your wonted goodness.</L>
+<L>And tho I have err'd, make not my error known</L>
+<L>To my much iujur'd Prince, and Royal Friend,</L>
+<L>Who is Arrived, and with impatience Lost,</L>
+<L>Directs his steps this way.</L>
+</SP>
+<SP>
+<SPEAKER>Ioanna.</SPEAKER>
+<L>Ha! What said you?</L>
+<L>Is my dear Lord in safety then return'd?</L>
+<L>Oh! for thy News be all thy faults forgotten;</L>
+<L>For what thou hast said, brings to my heart more Joy</L>
+<L>Then thy ten welcome Love, before brought horror.</L>
+</SP>
+<SP>
+<SPEAKER>Rich.</SPEAKER>
+<L>The Shouts and Trumpets do proclaim him near;</L>
+<L>May you be still a blest and happy pair</L>
+<L>While life does last, and Hell make hast to part you.</L>
+</SP>
+<STAGE>Aside.</STAGE>
+<STAGE><PB N="14" REF="10"><HI>Trumpets sound, Enter</HI> Locrinus <HI>attended.</HI></STAGE>
+<SP>
+<SPEAKER>Locri.</SPEAKER>
+<L>Enough good Heaven, You'ave recompenc'd my pains.</L>
+<L>The Toils, the Hardships and the many dangers</L>
+<L>I have pass'd through&punc; you now have well rewarded.</L>
+<L>So when the Soul is from the body fled,</L>
+<L>Driven by Convulsive torments from its mansion,</L>
+<L>Is of a sudden snatcht to endless bliss,</L>
+<L>And all the wounds that it received on Earth,</L>
+<L>Healed at last by the sweet balm of Heaven.</L>
+</SP>
+<SP>
+<SPEAKER>Amar.</SPEAKER>
+<L>Oh! My dear Prince, my ever honour'd Lord,</L>
+<L>Your sight brings joys to great to be express'd.</L>
+<L>Now Farewell all my fears, all my disquiets.</L>
+<L>You like the Sun have chased those Clouds away,</L>
+<L>That hung between my happiness and me.</L>
+</SP>
+<SP>
+<SPEAKER>Locri.</SPEAKER>
+<L>Durst any sawcy fear invade thy breast,</L>
+<L>A Mansion fit for Angels to inhabit.</L>
+<L>O let no Cares ever approach my fair one,</L>
+<L>The burthen of thy sorrows lay on me.</L>
+<L>And all the blessings of the World be thine.</L>
+</SP>
+<SP>
+<SPEAKER>Arsar.</SPEAKER>
+<L>Ten Thousand welcomes to my much lov'd Lord,</L>
+<L>And may success still wait upon his Armes,</L>
+<L>May he continue still the pride of <HI>Europe,</HI></L>
+<L>And Love and Conquest Crown his Youthful brows.</L>
+</SP>
+<SP>
+<SPEAKER>Locri.</SPEAKER>
+<L><HI>Arsaracus,</HI> my best and truest Friend,</L>
+<L>Thou faithful Guardian of this most loved Treasure.</L>
+<L>Were I the Monarch of this Glorious Island,</L>
+<L>Nay, were the Universe at my dispose</L>
+<L>I cou'd not in that vast extent of Riches</L>
+<L>Find out a Recompence for all thy care.</L>
+</SP>
+<SP>
+<SPEAKER>Ars.</SPEAKER>
+<L>I am, my Lord, sufficiently rewarded,</L>
+<L>The Joy of seeing you so safe return'd</L>
+<L>Brings double blessings to your faithful Servant.</L>
+</SP>
+<SP>
+<SPEAKER>Sera.</SPEAKER>
+<L>Dissembling Hypocrite.
+<STAGE>Aside.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Ama.</SPEAKER>
+<L>My dearest Lord, the night comes fast upon us,</L>
+<L>And the bleak Air compels us to withdraw.</L>
+</SP>
+<SP>
+<SPEAKER>Loc.</SPEAKER>
+<L>We will, my fairest; let me have one look more,</L>
+<L>Here cou'd I grow, gaze upon thee ever,</L>
+<L><PB N="15" REF="10">For all the Beauties of thy Sex are in thee.</L>
+<L>Devouring Cankers gnaw upon her Beauty,</L>
+<L>Till she's despised, and scorned, as I am by her.
+<STAGE><HI>Asid<GAP DESC="illegible" EXTENT="1 letter"></HI></STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Locri.</SPEAKER>
+<L>Before the Sun has finish'd twice his course</L>
+<L>I shall have full possession of my wishes.</L>
+<L>The King my love, the King my Royal Fathe<GAP DESC="illegible" EXTENT="1 letter"></L>
+<L>Has given his Consent to make me happy,</L>
+<L>And Crown my Joys with thy desired embraces.</L>
+<L>Oh, the distracting hours that are to come,</L>
+<L>Till <HI>Hymens</HI> Torch light to our Nuptial bed.</L>
+<L>Impatience makes me angry with the Sun,</L>
+<L>Who has so little care of longing Lovers,</L>
+<L>As not to change his constant lazy course;</L>
+<L>Were he a pitying God, he'd Lash his Steeds,</L>
+<L>And drive his fiery Chariot with such hast,</L>
+<L>That the Circumference of the mighty Globe</L>
+<L>In one short hour shou'd be encompass'd round.</L>
+</SP>
+<SP>
+<SPEAKER>Amar.</SPEAKER>
+<L>Oh that your love wou'd keep thus firm for ever.</L>
+<L>Forgive me, my dear Lord, forgive my fears,</L>
+<L>I do not doubt your Faith, but my own Merits.</L>
+</SP>
+<SP>
+<SPEAKER>Locri.</SPEAKER>
+<L>Thou Sha't not doubt, I'm suce thou need'st not doubt,</L>
+<L>For the Poles are not firmer fixt then I am;</L>
+<L>Heaven, th&ocirc; it cast our Bodies in two moulds,</L>
+<L>Gave but one Soul, which cannot be divided.</L>
+<L>We, my <HI>Ioanna,</HI> the decrees of Fate</L>
+<L>Shall first be blotted from their Sacred Roules.</L>
+<L>Bright <HI>Phebas</HI> round the World refuse to move,</L>
+<L>And cease to Shine, e'er I can cease to Love.</L>
+</SP>
+<STAGE><HI>Ex Manet</HI> Rich.</STAGE>
+<SP>
+<SPEAKER>Arsa.</SPEAKER>
+<L>The Curse of Jealousie infect your minds,</L>
+<L>But wherefore does the knawing VVorm despair,</L>
+<L>Posses me now, now when my hopes stnnd fair</L>
+<L>To ruin him, both in his Love and Fortune,</L>
+<L><HI>Coreb.</HI></L>
+</SP>
+<STAGE><HI>Enter</HI> Coreb.</STAGE>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>My Lord.</L>
+</SP>
+<SP>
+<SPEAKER>Arsa.</SPEAKER>
+<L>My ever faithful Friend</L>
+<L><PB N="16" REF="11">Now is the time, now if thou would'st assist me</L>
+<L>Lend me thy speedy Counsel what to do</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>My Lord, I have follow'd hitherto your fortunes,</L>
+<L>And cannot rest till I have shewn my self</L>
+<L>What I profes, your true and faithful Servant.</L>
+<L>I see the Princes Love is desperate, but withal,</L>
+<L>I see a way to quench his violent flame,</L>
+<L>As thus;</L>
+<L>We must infect his mind with Jealousie.</L>
+</SP>
+<SP>
+<SPEAKER>Arsa.</SPEAKER>
+<L>That be your task; the rest let me perform.</L>
+</SP>
+<SP>
+<SPEAKER>Rich.</SPEAKER>
+<L>What dost thou mean? Which way can he be jealous</L>
+<L>That has the heart of one chast as <HI>Diana.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>The Young Lord <HI>Soizinus</HI> is an instrument</L>
+<L>the fittest we can work on. I will find</L>
+<L>A means to bribe her Servant, i'th' mean time</L>
+<L>Do you endeavour to Possess the Prince,</L>
+<L>And nothing shall be wanting to your wishes.</L>
+</SP>
+<SP>
+<SPEAKER>Rich.</SPEAKER>
+<L>I will consider ont.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>It does not need.</L>
+<L>Why are you melancholy, come, my Lord,</L>
+<L>Sir down, I will divert your restless mind;</L>
+<L>Where are my <HI>Damons,</HI> let me have Music there.</L>
+<L>Still him if possible in spite of Love,</L>
+<L>And let him nod into forgetfulness.</L>
+</SP>
+<STAGE>(He waves his wand, and behind the Fountain rises a Triton and a Sea Nymph, who sing a Dialogue.</STAGE>
+<P><TEXT LANG="eng">
+<BODY>
+<DIV1 TYPE="dialogue">
+<HEAD>A Dialogue between a <HI>Triton</HI> and a <HI>Nayad.</HI></HEAD>
+<SP>
+<SPEAKER>Triton.</SPEAKER>
+<L>OH! Turn and be kind, my dear Nymph of the Flood</L>
+<L>I burn in cold Water, Love's fire's in my blood.</L>
+<L>At the bate of your Face some but nimble and look,</L>
+<L>But I gap'd like a Gudgeon, and swallow'd the hook;</L>
+<L><PB N="17" REF="11">I was Iolly and Fat as a <HI>Porpus</HI> before,</L>
+<L>But now no Red Herring's more shotten and poor;</L>
+<L>Yet while I pursue you, you coldly cry pish,</L>
+<L>Then Flounce, and away swim as mine as a Fish.</L>
+</SP>
+<SP>
+<SPEAKER>Nymph.</SPEAKER>
+<L>'Tis hard to swim against the stream,</L>
+<L>Yet we must fly, tho' we esteem,</L>
+<L>For, <HI>Triton,</HI> when a Nymph's your own</L>
+<L>You wind your shelf, and then you're gon</L>
+<L>To shun that ill, from you I'll keep,</L>
+<L>And hide my blushes in the deep.</L>
+</SP>
+<SP>
+<SPEAKER>Triton.</SPEAKER>
+<L>Hold, hold, I'm a Pyrate, and make you my Prize,</L>
+<L>Charm'd with those green Tresses, bright Scales, and blue Eyes,</L>
+<L>Yet trust me, I'm constant, and hot as the Sun,</L>
+<L>Each night to thy Bosome to cool me I'll run.</L>
+</SP>
+<SP>
+<SPEAKER>Nymph.</SPEAKER>
+<L>In the Evening hot, but cold next dawn,</L>
+<L>You go, and leave us swell'd with spawn,</L>
+<L>To keep you long none can prevail,</L>
+<L>Your Slippery Eeles held by the tail.</L>
+<L>To shun that fate from you i'll keep,</L>
+<L>And hide my Blushes in the Deep.</L>
+</SP>
+<SP>
+<SPEAKER>Triton.</SPEAKER>
+<L>On a Bed of green Oose, Let me shew you a prize,</L>
+<L>A Branch of rough Coral, and Pearls of huge size,</L>
+<L>Go with me my dear, and this Coyness give over,</L>
+<L>They're yours as a pledge of the warmth of your Lover.</L>
+</SP>
+<STAGE>CHORUS.</STAGE>
+<SP>
+<SPEAKER>Nymph.</SPEAKER>
+<L>Oh do not leave strugling, I'll never give over.</L>
+</SP>
+<SP>
+<SPEAKER>Triton.</SPEAKER>
+<L>Nay prithee leave strugling, I'll never give over.</L>
+<STAGE>(Carries her away and plunges with her.</STAGE>
+</SP>
+</DIV1>
+</BODY>
+</TEXT></P>
+<STAGE>After the Dialogue rises eight Statues who leap of their Pe|destals and Dance, after the Dance they sink with the Fountain.</STAGE>
+<SP>
+<PB N="18" REF="12">
+<SPEAKER>Rich.</SPEAKER>
+<L>I thank thee, honest <HI>Coreb,</HI> for thy care,</L>
+<L>How pass the hours.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>My Lord, 'tis almost Midnight,</L>
+</SP>
+<SP>
+<SPEAKER>Rich.</SPEAKER>
+<L>This is a time of rest for all but me,</L>
+<L>Now the Day-labouring Souls are all refresht,</L>
+<L>Pride, Pomp and Luxury are all withdrawn,</L>
+<L>And Vanity a full cesation makes.</L>
+<L>Lewdness it self at this time Lazy grows,</L>
+<L>And the tired senses dose upon their pleasures;</L>
+<L>The Atheist now grows Pall'd in wickedness,</L>
+<L>And Slumbers o'er the scandal of his Spleen.</L>
+<L>Even Murder's hush'd, Adultery secure</L>
+<L>The Veil of Heaven to the utmost verge is stretch'd,</L>
+<L>And the high noon of Darkness lulls the World.</L>
+<L>O Love! When art thou hush'd, or when art hid,</L>
+<L>Arts utmost subtilty is lost on thee,</L>
+<L>And spight of all descretion, in thy Eyes</L>
+<L>Ten Thousand Tel-tales bark in thy hot beams,</L>
+<L>But I'll no more indulge the vanity</L>
+<L>of this proud fair, she shall be mine or die.</L>
+<L>If I find she's not for me decreed,</L>
+<L>I'll Court Revenge, and smile to see her bleed.</L>
+</SP>
+</DIV1>
+<DIV1 N="3" TYPE="act">
+<PB N="19" REF="12">
+<HEAD>ACT III.</HEAD>
+<STAGE><HI>The SCENE is,</HI> A very Pleasant Grove, and Stately Garden, belonging to the Pallace; the Great Walk is bounded on either side with Figures of Gold; and in large Vases of Gold, are Orange, Lemon, and other Trees.</STAGE>
+<STAGE>Enter <HI>Hersius</HI> and <HI>Spungius.</HI></STAGE>
+<SP>
+<SPEAKER>Her.</SPEAKER>
+<P>TUrn Religious! I wou'd I had his Conscience in a Cloven Stick, that made me first think of Re|ligion.</P>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<P>It was that Ape in White, that Boy <HI>Seraphino,</HI> made us turn Religious.</P>
+</SP>
+<SP>
+<SPEAKER>Her.</SPEAKER>
+<P>Ay, a dissembling little Hypocrite, he told us the finest Tales of <HI>Paradice,</HI> and what fine Lives we shou'd lead when we came there, that, I'gad, 'twou'd have made a <HI>Turk</HI> turn'd Toper, to have heard him; and now all our promis'd Pleasures are turn'd to Tears and Grimmaces.</P>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<P>And Sighing and Sobbing.</P>
+</SP>
+<SP>
+<SPEAKER>Her.</SPEAKER>
+<P>And Knocking your Breast, and Thumping your hard Heart, to know whether Goodman <HI>Frailty</HI> be within, or no: If these be the Pleasures of Religion, I'gad, I'll be Hang'd be|fore I'll follow 'em; I have led such a Life of Sorrow, Brother, since yesterday, that a Dog is not able to indure the Fasting and Praying I have undergone.</P>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<P>I wonder, Brother <HI>Hersius,</HI> what the Pleasures of <HI>Elizium</HI> are?</P>
+</SP>
+<SP>
+<SPEAKER>Her.</SPEAKER>
+<P>Why, I fancied you must know that in every Corner there, I shou'd have found a Young Handsome Wench ready to have devour'd me; but there's no such Pleasure in Religion as I can find.</P>
+</SP>
+<SP>
+<PB N="20" REF="13">
+<SPEAKER>Spun.</SPEAKER>
+<P>And I fancied we shou'd have had all the brave Drinks and Eatables, as <HI>Nectar</HI> and <HI>Ambrosia,</HI> as the Poet calls it, and such like.</P>
+</SP>
+<SP>
+<SPEAKER>Her.</SPEAKER>
+<P><HI>Nectar</HI> and <HI>Ambrosia,</HI> prithee, Brother <HI>Spungius,</HI> what's that?</P>
+</SP>
+<SP>
+<SPEAKER>Spun,</SPEAKER>
+<P>Why 'tis a Liquor the God's drink when they mean to make Merry; and when their Hands are in&punc; they make no more of Dusting of a Tub of <HI>Nectar,</HI> then we do of a Tub of <HI>Greek</HI> Wine: But when shall I come to those Delicious Plea|sures? If I cou'd but tell that I shou'd be satisfy'd.</P>
+</SP>
+<SP>
+<SPEAKER>Her.</SPEAKER>
+<P>Ay, marry, I believe the best of 'em all wou'd be glad to be secur'd that; in the mean time they are glad to be secur'd with fat Livings, whose Trade it is to tell us of <HI>Elizium</HI>; for I observe, they are much more afraid of Dying, than we Whor|ers and Drinkers, Brother <HI>Spungius.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<P>But hark ye <HI>Hersius</HI>; Why do they impose such Duties and Penalties upon us?</P>
+</SP>
+<SP>
+<SPEAKER>Her.</SPEAKER>
+<P>That is to make us Obedient, and them Rich; that what Pleasures they doubt of in th' other World, they may take in this before they go <GAP DESC="illegible" EXTENT="1 word">.</P>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<P>I wonder whether or no, <HI>Bacchus</HI> be Religious? For if he be not <HI>Elizium,</HI> we shall have but a dry time on't.</P>
+</SP>
+<SP>
+<SPEAKER>Her.</SPEAKER>
+<P><HI>Barobus</HI>; yes, yes, <HI>Baccusus</HI> is head Butler there: But see who comes here, Brother <HI>Spungius.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Spung.</SPEAKER>
+<P>It is the Lord <HI>Arsaraous</HI>'s Secretary; a rare Fellow they say, <HI>Hercius.</HI></P>
+</SP>
+<STAGE><HI>Enter</HI> Coreb.</STAGE>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>Well met; my honest Friends.</P>
+</SP>
+<SP>
+<SPEAKER>Spung.</SPEAKER>
+<P>We thank you, Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>What; are you in Consultations about your new Re|solutions of leading your Lives Religious and Soberty.</P>
+</SP>
+<SP>
+<SPEAKER>Her.</SPEAKER>
+<P>Soberly; yes, we have liv'd, indeed, very Soberly since Yesterday.</P>
+</SP>
+<SP>
+<SPEAKER>Spung.</SPEAKER>
+<P>Ay truly, Sir, and very Chastly too; we have ab|stain'd both from the Grape and the Flesh.</P>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>Why who wou'd live in Service of a Lady, that will debar them of their Choicest Pleasures? What Diversion do
+<PB N="21" REF="13">
+you find in Prayings? What good do you get by wearing out your Feet to run on Scurvy Errands to the Poor, and to bear Money to a sort of Rogues, and Lowsie Prisoners.</P>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<P>Pox on 'em, I never prosper'd since I did it.</P>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>You are rightly serv'd, before that Lady had to do with you, Women, Wine and Money, flowed in abundance to you, Did it not?</P>
+</SP>
+<SP>
+<SPEAKER>Her.</SPEAKER>
+<P>O those Days, those Days!</P>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>Come, beat not your Breasts, nor tear your Hair in Madness: Be ruled by me, those Days shall come again; and better, mark me, better.</P>
+</SP>
+<SP>
+<SPEAKER>Spong.</SPEAKER>
+<P>As I take it, Sir, you belong to his Grace <HI>Arsaracus?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>Yes, yes, in shew, his Servant; but hark hither; take heed no Body listens.</P>
+</SP>
+<SP>
+<SPEAKER>Her.</SPEAKER>
+<P>Not a Mouse stirs.</P>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>I am a Prince disguis'd.</P>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<P>Disguis'd how Drunk?</P>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>Why faith, my Boys, I'll Drink too, and be Drunk: I am a Prince, and any Man by me, (let him but keep my Rules) shall soon be Rich, exceeding Rich, most infinitely Rich; if you'll serve me, ye shan't be starv'd from Pleasures, as other&punc; poor Rogues are, but take your fill.</P>
+</SP>
+<SP>
+<SPEAKER>Her.</SPEAKER>
+<P>Serve you, I'gad I'd serve you before any Prince under the Zodiack.</P>
+</SP>
+<SP>
+<SPEAKER>Spung.</SPEAKER>
+<P>Ay, by <HI>Iove,</HI> or above it either.</P>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>and you will quit your Mistress?</P>
+</SP>
+<SP>
+<SPEAKER>Her.</SPEAKER>
+<P>Quit her, hang her; a Man, cannot thrive worse, if he served the Devil.</P>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>How! the Devil? I'll tell ye what now of the Devil; he's no such horrid Creature, Cloven-Footed, Black Saweer|Ey'd his Nostrils breathing Fire; as these Lying Religious Fools wou'd make you believe.</P>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<P>No!</P>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>No, no, he's more Loving to Man, than Man to Man is.</P>
+</SP>
+<SP>
+<SPEAKER>Her.</SPEAKER>
+<P>Alack, good Gentleman, how is he wrong'd?</P>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<P>Wou'd we two cou'd come acquainted with him.</P>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>You shall; he's a wondrous Good Fellow, Loves a Cup of Wine, a Whore, or any thing.</P>
+</SP>
+<SP>
+<PB N="22" REF="14">
+<SPEAKER>Her.</SPEAKER>
+<L>Do's he love a Whore, say you?</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>Oh mightily!</L>
+</SP>
+<SP>
+<SPEAKER>Her.</SPEAKER>
+<P>'Gad I'll help him to one then; she is not very hand|some, but she's well enough; she offer'd her self to the Play|houses, and they refused her; and if once the Players refuse her, I'm sure she's fit for no Body but the Devil.</P>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>Well said my Lad; 'tis ten to one in a short time <HI>I</HI> bring him to the Tavern to you.</P>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<P>'Gad I'll bespeak the best Room in the House for him: But pray, Sir, Does the Devil pay Two Shillings a Flask for his Wine?</P>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>Oh always.</L>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<P>Then <HI>I</HI> find he has some Relation to us <HI>Britans,</HI> he'd never suffer himself to be made such a Bubble else: But pray, do's the Devil love Dancing, Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>O yes, extreamly! Loves Dances; but of a different sort to what you have here: I'll shew you, to divert you, the Fa|shion of his Country.</P>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<L>O Lord, Sir, you'll oblige us woundily.</L>
+</SP>
+<STAGE><HI>Coreb</HI> waves his Wand, and a Misty Cloud rises out of the Earth; as it ascends, a great Wind-mill is discovered, out of which comes Millers, and Countrey Women, who Dance&punc; After their Dance, the Wind-mill is changed into a Witch, out of which come several Devils, who Dance with the Witch, and then sink.</STAGE>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>Now what think ye?</L>
+</SP>
+<SP>
+<SPEAKER>Her.</SPEAKER>
+<P>Think? Why <HI>I</HI> think <HI>I</HI> shall never be at quiet till I'm with the Devil.</P>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>If you knew him so well as I do, you'd be more im|patient: Why there's nothing you can ask him for, but imme|diately it's brought ye: Ask for a handsome Whore, you have her presently.</P>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<P>And will the Devil keep the Door, Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>No, no, that's below his Dignity; but he has those rea|dy at hand that will.</P>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<P>But pray, Sir, when shall we enter into Service, for I'm impatient?</P>
+</SP>
+<SP>
+<PB N="23" REF="14">
+<SPEAKER>Cor.</SPEAKER>
+<P>To morrow Morning; but one Piece of Service you must do me first.</P>
+</SP>
+<SP>
+<SPEAKER>Her.</SPEAKER>
+<P>Any thing: Pray be pleas'd to Command us; I'll not scruple any thing that may be serviceable to you, upon my Word.</P>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<P>Nor I, tho' 'twere to hang my Mother, and Ravish her afterwards. Pray, Sir, what is't.</P>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>'Tis this: the Prince, and the young Lord <HI>Sozimon,</HI> this Day Feast with your Lady; I'd have you put this into her Drink: and you, be mindful to Spice the Lord <HI>Sozimon</HI>'s Bowl with this; and when your Feasting's over, let me privately in|to your Lady's Chamber.</P>
+</SP>
+<SP>
+<SPEAKER>Her.</SPEAKER>
+<P>Into her Chamber! Ay, Sir, into her Bed, if your Worship pleases.</P>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>Well said: Do this, and you shall both be happy.</P>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<P>Never fear us, Sir; I gad, I'll Pepper my Lady's Bowl, I'll warrant you.</P>
+</SP>
+<SP>
+<SPEAKER>Her.</SPEAKER>
+<P>And I, my Lords, as I hope to be acquainted with the Devil.
+<STAGE><HI>Exit.</HI> Her <HI>and</HI> Spun.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>Poor helpless Fools; How greedily for Gold</L>
+<L>Wou'd these vain Wretches, sacrifice their God.</L>
+<L>Now, proud <HI>Augusta,</HI> is thy Ruine near:</L>
+<L>Nor will I let my Art be bassled longer;</L>
+<L>But I must watch a Time, when <HI>Seraphino</HI></L>
+<L>Is absent from the Mighty Charge he holds,</L>
+<L>See where <HI>Augusta</HI> comes, with <HI>Thamesis.</HI></L>
+<L>Now were a Time to check her Tow'ring Pride,</L>
+<L>And lay her Lofty Palaces in Dust.</L>
+<STAGE>Angelo <HI>seen in the Air with</HI> Hermes.</STAGE>
+<L>I'll do't: But ha! my Ancient Enemy</L>
+<L>Is still at hand, to vanquish my Designs:</L>
+<L>But tho' I now am of Revenge debarr'd,</L>
+<L>If Hell have Power, thou shalt not long escape me.
+<STAGE>Exit.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Ang.</SPEAKER>
+<L>'Tis false, malicious Fiend: No, poor <HI>Augusta,</HI></L>
+<L>Thou art the Care of Heaven, by whose Command,</L>
+<L><HI>Hermes,</HI> and I, do hover still about thee.</L>
+<L><HI>Iris,</HI> by <HI>Iuno,</HI> is already sent</L>
+<L>To Guard thy Most-Lov'd Monarch safe to Land,</L>
+<L>And bless his Country with his Wish'd for Presence.</L>
+</SP>
+<STAGE><PB N="24" REF="15">Mercury <HI>sings.</HI></STAGE>
+<LG>
+<L>SEE the opening Clouds divide asunder,</L>
+<L>And see, see, yonder,</L>
+<L>The Angry Wife of <HI>Jove,</HI> descending from Above,</L>
+<L>More loud than all <HI>Jove</HI>'s Thunder.</L>
+</LG>
+<STAGE><HI>Juno</HI> descends on her <HI>Peacock.</HI> As it comes near the Stage, the Clouds opon and discover the <HI>Tail</HI> of the <HI>Peacock,</HI> which is so wide, it almost covers the Stage. <HI>Juno</HI> comes forward, and sings.</STAGE>
+<SP>
+<SPEAKER>Juno.</SPEAKER>
+<L>No, <HI>Hermes,</HI> no, all Quarrels cease,</L>
+<L>In Heaven, as well as Earth, 'tis Peace,</L>
+<L><HI>Jove</HI> by the <HI>Stygian Lake</HI> has swore,</L>
+<L>His Wandring Love shall Rove no more.</L>
+</SP>
+<STAGE>Thamesis <HI>sings.</HI></STAGE>
+<LG>
+<L>Great Queen, who shin'st with those bright Beams,</L>
+<L>Whose Glory gilds my Streams,</L>
+<L>See what Bending Knees we pay Thee,</L>
+<L>Thus Adore Thee, thus Obey Thee.</L>
+</LG>
+<STAGE>Augustina <HI>sings.</HI></STAGE>
+<LG>
+<L>Bright Queen of <HI>Hymen</HI>'s hallow'd Fires,</L>
+<L>The Sovereign of all Chast Desires,</L>
+<L>That with true Ioy the Genial Bed inspires;</L>
+<L>See what Bending Knees we Pay Thee,</L>
+<L>Thus Adore Thee, thus Obey Thee.</L>
+</LG>
+<STAGE>Chorus.</STAGE>
+<LG>
+<L>Great Queen, <HI>&amp;c.</HI></L>
+</LG>
+<STAGE><PB N="25" REF="15"><HI>Iris</HI> descends on a <HI>Rainbow,</HI> and comes forward.</STAGE>
+<SP>
+<SPEAKER>Juno.</SPEAKER>
+<L>Say <HI>Iris</HI> say, from the <HI>Battavian</HI> Strand,</L>
+<L>What News hast thou brought o're?</L>
+<L>Hast thou Obey'd my Great Command,</L>
+<L>And brought Great <HI>Albion</HI> safe to Shore.</L>
+</SP>
+<SP>
+<SPEAKER>Iris.</SPEAKER>
+<L><HI>Neptune,</HI> his Brother, Lord o'th' Ocean,</L>
+<L>And his Sea-Nymphs whole Devotion;</L>
+<L><HI>Venus</HI> in her Sholl attends him,</L>
+<L>Her Fair Hand, and Smiles, she lends him,</L>
+<L>Thousand Prayers to <GAP DESC="illegible" EXTENT="1 letter">aft him o're,</L>
+<L>And carefully has brought him safe to Shore.</L>
+<L>See, see, the Crowds, and Ioys all round,</L>
+<L>Welcome Thunders all before,</L>
+<L>Till the Gods Ioyn in the Chorus,</L>
+<L>Welcome, Heaven and Earth resound.</L>
+</SP>
+<SP>
+<SPEAKER>Mercury.</SPEAKER>
+<L>If Mortals Laugh and Sing,</L>
+<L>'Tis time we Gods take Wing,</L>
+<L>To mount and send her down,</L>
+<L>The Guardian of his Crown;</L>
+<L><HI>Astrea</HI> who from Earth was driven,</L>
+<L>Till <HI>Albion</HI> call'd her back from Heaven.</L>
+</SP>
+<SP>
+<SPEAKER>Chorus.</SPEAKER>
+<L>Then all prepare to Sing his Fame,</L>
+<L>Sing all, Sing all, Great <HI>Albion</HI>'s Name:</L>
+<L>For 'twas by Mighty <HI>Iove</HI> Decreed,</L>
+<L>This Island should by him be freed.</L>
+</SP>
+<STAGE>While this <HI>Chorus</HI> is Singing, <HI>Juno, Iris,</HI> and <HI>Mer|cury</HI> ascend.</STAGE>
+<STAGE><PB N="26" REF="16">After the Musick, <HI>Augusta</HI> speaks.</STAGE>
+<SP>
+<SPEAKER>Aug.</SPEAKER>
+<L>Come, <HI>Thamesis,</HI> prepare to meet our Lord,</L>
+<L>Let him glide gently on these Silver Streams,</L>
+<L>While I with all my stately Towers prepare</L>
+<L>To welcome him from his long Toyls of War.
+<STAGE>Exit.</STAGE></L>
+</SP>
+<STAGE>Enter <HI>Arsaracus,</HI> and <HI>Locrinus.</HI></STAGE>
+<SP>
+<SPEAKER>Ars.</SPEAKER>
+<L>Hear me but out, my Lord.</L>
+</SP>
+<SP>
+<SPEAKER>Loc.</SPEAKER>
+<L>Forbear to tempt me</L>
+<L>With the least sound against her Constant Vertue;</L>
+<L>I should as soon believe the Queen of Night</L>
+<L>Wou'd mount the Fiery Chariot of the Day,</L>
+<L>And to that God resign her Chastity,</L>
+<L>As my dear <HI>Aramante</HI> injure me.</L>
+</SP>
+<SP>
+<SPEAKER>Ars.</SPEAKER>
+<L>My Lord, I bear the same Belief with you;</L>
+<L>But when I hear so many busie Tongues</L>
+<L>With Private, Publick Whisperings, proclaiming</L>
+<L>The Great Dishonour of my Much-lov'd Prince,</L>
+<L>My Duty and Allegiance both start up,</L>
+<L>And bid me shew my self your Real Friend.</L>
+</SP>
+<SP>
+<SPEAKER>Loc.</SPEAKER>
+<L>Why? dost thou think she's false?</L>
+</SP>
+<SP>
+<SPEAKER>Ars.</SPEAKER>
+<L>Not I, by Heaven:</L>
+<L>But the poor Lady, arm'd with Innocence,</L>
+<L>May pour forth Favours to Unthinking Men,</L>
+<L>Whose Vanity may make her Vertuous Freedom</L>
+<L>Seem to the World, a Blemish of her Mind.</L>
+</SP>
+<SP>
+<SPEAKER>Loc.</SPEAKER>
+<L>By Heaven, and thou say'st right; our Foolish Youth</L>
+<L>Cannot be Judges of a Real Vertue;</L>
+<L>Their Folly is the only Glass they look in,</L>
+<L>And what to Noble Minds shou'd Beauteous seem,</L>
+<L>To them appears Deform'd. <HI>Arsaracus,</HI> I thank thee;</L>
+<L>And tho' I know her Soul is clear as Day,</L>
+<L>Yet in her Conduct she may chance to err.</L>
+</SP>
+<SP>
+<SPEAKER>Ars.</SPEAKER>
+<L>'Tis true, my Lord, clear Souls, still take most Free|dom.</L>
+</SP>
+<SP>
+<SPEAKER>Loc.</SPEAKER>
+<L>I'll instantly Attend upon my Love,</L>
+<L><PB N="27" REF="16">And with my strictest Care contrive a way</L>
+<L>To stop the Censure of Unknowing Fools,</L>
+<L>Whose Judgment Indiscretion over-rules.
+<STAGE>Exit.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Ars.</SPEAKER>
+<L>Now <HI>Coreb,</HI> now, if thou but keep thy Promise,</L>
+<L>How many Wrecks will tear his hated Soul?</L>
+<L>But should his swelling Rage burst forth on her,</L>
+<L>And Passion thrust him on her Innocent Life,</L>
+<L>Then what I have with Care strove to obtain,</L>
+<L>Must be fast lock'd in the Cold Arms of Death:</L>
+<L>I cannot bear the thought on't. O my <HI>Coreb,</HI></L>
+<L>If thou hast News of Joy, declare it quickly.</L>
+</SP>
+<STAGE><HI>Enter</HI> Coreb.</STAGE>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>'Tis done, 'tis done, my Lord&punc; I left the Prince</L>
+<L>Tearing the Ground like an entangled Lyon.</L>
+</SP>
+<SP>
+<SPEAKER>Ars.</SPEAKER>
+<L>Hast thou succeeded then?</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>Beyond my Hopes.</L>
+<L>Soon as the Potion had its wish'd Effects,</L>
+<L><HI>Amarante</HI> did retire into her Chamber,</L>
+<L>Where on her Couch she laid her self to rest,</L>
+<L>The young Lord <HI>Sozismond,</HI> whom I had before</L>
+<L>Drawn from the Company, on pretence of Business,</L>
+<L>Sate himself down, and in a little time</L>
+<L>The drowsie God of Sleep o'repower'd him;</L>
+<L>In which, I, by the Assistance of two Knaves</L>
+<L>That I had bought by Gold and Promises,</L>
+<L>I laid him gently by the Countess's side;</L>
+<L>And in that Posture has the Prince surpriz'd 'em.</L>
+</SP>
+<SP>
+<SPEAKER>Ars.</SPEAKER>
+<L>And what's become of <HI>So<GAP DESC="illegible" EXTENT="1 letter">ismond</HI>?</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>I heard the Prince</L>
+<L>Give Order to the Guards for his Confinement;</L>
+<L>And had not they stept in, he had murder'd him.</L>
+<L>But see, he comes, my Lord, we had best retire.</L>
+</SP>
+<SP>
+<SPEAKER>Ars.</SPEAKER>
+<L>Yes, I will go, and hug my self, to think</L>
+<L>How easie 'tis to make a Great Man wretched.
+<STAGE>Exit.</STAGE></L>
+</SP>
+<STAGE><PB N="28" REF="17">Enter <HI>Locvinus,</HI> followed by <HI>Amarante.</HI></STAGE>
+<SP>
+<SPEAKER>Amar.</SPEAKER>
+<L>Yet stay and hear me, Oh, my honour'd Lord:</L>
+<L>Thus, on my Knees, I beg you'd give me Hearing.</L>
+</SP>
+<SP>
+<SPEAKER>Loc.</SPEAKER>
+<L>How canst thou dare to be within my Presence?</L>
+<L>Or think of living, after thou hast wrong'd me?</L>
+</SP>
+<SP>
+<SPEAKER>Amar.</SPEAKER>
+<L>When I do wrong you, may I cease to live.</L>
+</SP>
+<SP>
+<SPEAKER>Loc.</SPEAKER>
+<L>Nay, prithee, add not to thy impious Crime,</L>
+<L>And varnish o're thy Whoredom with a Lye:</L>
+<L>Had I but only heard, not seen thy Falshood,</L>
+<L>I cou'd not have believed, tho' Heaven had spoke it:</L>
+<L>But to behold ye clung like 'twisted Adders,</L>
+<L>Tyr'd and doz'd o're your vicious Sin,</L>
+<L>Let me not think on't: Get thee from my Sight;</L>
+<L>Madness is busie Working in my Brain,</L>
+<L>And all my Thoughts are bent on Blood and Murder.</L>
+</SP>
+<SP>
+<SPEAKER>Amar.</SPEAKER>
+<L>Let it be so; I'm prepar'd for Death:</L>
+<L>And tho' I'm sure 'twas the curs'd Power of Magick</L>
+<L>That cast this Darkning Mist over my Fame,</L>
+<L>Yet I will kneel, and grow beneath your Feet,</L>
+<L>Till I have made you sensible you wrong me.</L>
+</SP>
+<SP>
+<SPEAKER>Loc.</SPEAKER>
+<L>I beg thou wou'dst not tempt my Justice long,</L>
+<L>For I do love thee, tho' I know thee false:</L>
+<L>And, O, bear Witness, you Immortal Powers,</L>
+<L>I throw thee from my Sight with greater Pain</L>
+<L>Than our first Parents left their Paradice:</L>
+<L>For tho' thy Canker'd Soul is Spotted o're,</L>
+<L>Thy Face is still enrich'd with all its Beauties.</L>
+</SP>
+<SP>
+<SPEAKER>Amar.</SPEAKER>
+<L>What shall I say, or how shall I convince you?</L>
+</SP>
+<SP>
+<SPEAKER>Loc.</SPEAKER>
+<L>There's not a Possibility in Nature;</L>
+<L>And all the Pleasure thou canst give me now,</L>
+<L>Is to retire, and never see me more!</L>
+</SP>
+<SP>
+<SPEAKER>Amar.</SPEAKER>
+<L>Since it will please my Lord, I will be gone;</L>
+<L>But when I'm dead, as I shall quickly be,</L>
+<L>For long I cannot bear this Separation,</L>
+<L>May Heaven, that sees how I'm with Wrongs opprest,</L>
+<L>Make my Truth known, and I shall be at rest.
+<STAGE>Exit.</STAGE></L>
+</SP>
+<SP>
+<PB N="29" REF="17">
+<SPEAKER>Loc.</SPEAKER>
+<L>You swelling Mountains, that o're-view the Earth,</L>
+<L>Fall now, make me eternally unseen;</L>
+<L>Philosophy, contract thy Meek Sage Brow,</L>
+<L>Let Patience be no more thy Saint, as soon</L>
+<L>Give Medicines to the Dead, bid Statues walk,</L>
+<L>And Angry Winds sleep Quiet in the <HI>North</HI>;</L>
+<L>As soon bid empty Lyons play with Kids,</L>
+<L>And bid the shaggy <HI>Scythian</HI> Mourn and Weep</L>
+<L>As Virgins do when they Interr their Loves;</L>
+<L>The blind and shuffled Elements, that first</L>
+<L>In Chaos strove, were not so opposite</L>
+<L>As this Religious Frost is to my Heat.</L>
+<L>Patience, thou art more fond than Teeming Wives,</L>
+<L>Tamer then Sleep. Divinity, which calls</L>
+<L>Our Anger, Sin, and Courage, Pride, has sent</L>
+<L>This silly Cherubim to Earth, this Patience</L>
+<L>The Coward's Sword, that only does Disarm</L>
+<L>Dull Sleep, that neither can, nor wou'd do harm.
+<STAGE>Exit.</STAGE></L>
+</SP>
+</DIV1>
+<DIV1 N="4" TYPE="act">
+<HEAD>ACT IV. SCENE I. <HI>Continued.</HI></HEAD>
+<STAGE>Enter <HI>Hertius,</HI> and <HI>Spungius Galy,</HI> drest with fine Cloaths, and a <HI>French</HI> Page.</STAGE>
+<SP>
+<SPEAKER>Her.</SPEAKER>
+<L>COme on Brother <HI>Spungius,</HI> good Times are come agen:</L>
+<L>See what we have got by being in the Fashion,</L>
+<L>And kicking that troublesome Companion, Religion,</L>
+<L>Out of our Consciences.</L>
+</SP>
+<SP>
+<PB N="30" REF="18">
+<SPEAKER>Spung.</SPEAKER>
+<P>Ay, ay, Brother <HI>Hertius,</HI> happy is he, I say, that can get into the Service of the Devil. Page.</P>
+</SP>
+<SP>
+<SPEAKER>Page.</SPEAKER>
+<L>Monsieur.</L>
+</SP>
+<SP>
+<SPEAKER>Hert.</SPEAKER>
+<P>What Answer did the Lady make to my Letter.</P>
+</SP>
+<SP>
+<SPEAKER>Page.</SPEAKER>
+<P>A Garzoone, me was never so much put to't before, Jerne, me have Pimp, for all de Noble-men of <HI>France,</HI> and re|ceive much <HI>Lar-Ion</HI>; but by Gar, me have met wid nothing for my Good Inclination of Pimping for you, but Kicks, Buffets, a Broken Pate, Morbleu.</P>
+</SP>
+<SP>
+<SPEAKER>Spung.</SPEAKER>
+<P>Why, Sirrah, Sirrah, do ye intend to Serve in the Ho|nourable Post of Page, to our Worships, and Grumble at a Broken Pate.</P>
+</SP>
+<SP>
+<SPEAKER>Page.</SPEAKER>
+<P>No, Garzoone, me shou'd no have Grumble, if you had de Lady; but by Gar, she speak no much Love of him, she put up my toder Maters Money in her Pocket. And then, Jerne, she bid her Footman kick me down Stan's.</P>
+</SP>
+<SP>
+<SPEAKER>Her.</SPEAKER>
+<P>Well, well, I'll deal well enough with her.</P>
+</SP>
+<SP>
+<SPEAKER>Page.</SPEAKER>
+<P>It had been well vor Monsieur a moy, if her Footman had dealt well a by me.</P>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<P>Peace, Sirra, here's the Devil's Privy Counsellor, we must have a great Care of Grumbling in his Com|pany.</P>
+</SP>
+<STAGE>Enter <HI>Coreb.</HI></STAGE>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>Well, my good Boys, How de you find your selves, since your new Service</P>
+</SP>
+<SP>
+<SPEAKER>Her.</SPEAKER>
+<P>Why, as the Devil would have it, we are mighty well Contented.</P>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<P>We are only afraid, we sha'nt have the Power to de|serve these Mighty Favours, the Right Worshipful Mr. <HI>Lucifer</HI> is pleas'd to Confer upon us.</P>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>Fear not, 'tis in your Power to serve him now:</L>
+<L>Who is that with you?</L>
+</SP>
+<SP>
+<SPEAKER>Her.</SPEAKER>
+<P>That, Sir, 'tis our Page: We are resolv'd to live as great as we can, that the Devil mayn't loose any Credit by us.</P>
+</SP>
+<SP>
+<PB N="31" REF="18">
+<SPEAKER>Cor.</SPEAKER>
+<P>Well said, I'm come to Dine with you.</P>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<P>'Faith, Sir, you shall be very welcome.</P>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>Nay, you ought to bid me welcome, since I bring my Fare with me.</P>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<P>In your Pocket, Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>That you shall see:</P>
+</SP>
+<STAGE>Waves his Wand, and a Banquet rises, they sit down, and two <HI>Scaramouch</HI> Men, and two <HI>Sca|ramouch</HI> Women Enter and Dance: Then two <HI>Harlaquin</HI> Men and Women. After the Dance, <HI>Coreb</HI> speaks.</STAGE>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>You see how very kind I have been to you; which Kindness I'll continue, if you're Faithful.</P>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<P>Faithful; Pray, Sir, don't be so unkind, as to doubt us? Command us to Hang our selves; and to shew how Zea|lous we are, we won't stay for Ropes, but do it in our own Garters.</P>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>Then hear me, Friends: The Prince this Morning goes to meet the King: Now I would have you two, with others that I have imploy'd already, to intercept him; and when you behold the Lord <HI>Arsaracas,</HI> in private Conference with him, strike this into his Heart.
+<STAGE>Gives a Dagger.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Her.</SPEAKER>
+<P>We'll do't.</P>
+</SP>
+<SP>
+<SPEAKER>Spun.</SPEAKER>
+<P>Fear not, we'll open his Belly, and Hang him in his own Guts.</P>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<P>Come on then, be but firm, and you shall prosper.</P>
+</SP>
+<SP>
+<SPEAKER>Her.</SPEAKER>
+<P>Never doubt us, Sir: Come, Page, <HI>Alon.</HI></P>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE><PB N="32" REF="19">The SCENE changes to the <HI>Cliff</HI> of <HI>Dover, Augusta, Thamesis,</HI> and their Followers rise out of the Sea and Sing.</STAGE>
+<SP>
+<SPEAKER>CHORUS.</SPEAKER>
+<L>HAil Royal <HI>Albion</HI>! Hail to thee!</L>
+<L>Sent from the Gods, to set us free</L>
+<L>From Bondage, and from Slavery.</L>
+</SP>
+<SP>
+<SPEAKER>Thamesis.</SPEAKER>
+<L>Hark, I am call'd; old Father Ocean</L>
+<L>Calls my Tide;</L>
+<L>Come away.</L>
+<L>On the Mounting Billows dancing,</L>
+<L>See the Royal Bark advancing;</L>
+<L>The Waves, the Wind and Sea,</L>
+<L>Are all at <HI>Albion</HI>'s dear Devotion.</L>
+</SP>
+<SP>
+<SPEAKER>1st Triton.</SPEAKER>
+<L>See the Merry Boatswain too,</L>
+<L>Has call'd his Iolley Crew,</L>
+</SP>
+<SP>
+<SPEAKER>Chorus.</SPEAKER>
+<L>Come, come, come, <HI>&amp;c.</HI></L>
+</SP>
+<STAGE>A Dance of six Watermen.</STAGE>
+<SP>
+<SPEAKER>Neptune.</SPEAKER>
+<L>See, see, the Sea Gods trim thy Sails,</L>
+<L>Every Nymph in all her Pride.</L>
+</SP>
+<SP>
+<SPEAKER>1st Triton.</SPEAKER>
+<L>Wafted by the Calmer Gales,</L>
+<L>O're thy own Main Triumphant Ride.</L>
+</SP>
+<SP>
+<PB N="33" REF="19">
+<SPEAKER>Augusta.</SPEAKER>
+<L>Each Neried does her Locks adorn,</L>
+<L>And every Triion minds his Horn:</L>
+<L>The Lovely Mermaid too, behold</L>
+<L>How she Combs her flowing Gold:</L>
+<L>Without a Snare, or Charm, she sings,</L>
+<L>Welcome to the best of Kings.</L>
+</SP>
+<SP>
+<SPEAKER>Chorus.</SPEAKER>
+<L>Welcome, <HI>&amp;c.</HI></L>
+</SP>
+<STAGE><HI>Apollo</HI> descends in his Chariot.</STAGE>
+<SP>
+<SPEAKER>Apollo.</SPEAKER>
+<L><HI>Albion</HI> all Hail! Thou Sacred Head!</L>
+<L>Heavens Darling Care, no Danger dread:</L>
+<L>For Walls of Fate, thy Life Enclose,</L>
+<L>The Plots of thy Malitious Foes,</L>
+<L>Abhor'd above, Expos'd below,</L>
+<L>Their own dull Light shall shew</L>
+<L>Treason, which her Infernal Train</L>
+<L>Worke in her Hellish Mines in vain.</L>
+</SP>
+<SP>
+<SPEAKER>Chorus.</SPEAKER>
+<L>Albion, <HI>all Hail,</HI> &amp;c.</L>
+</SP>
+<SP>
+<SPEAKER>Apollo.</SPEAKER>
+<L>My Oracles declare, When he has done</L>
+<L>His finish'd Work of Fate,</L>
+<L>And broke the Universal Yoke,</L>
+<L>A Smiling Race of Years, his Reign shall Crown.</L>
+</SP>
+<LG>
+<PB N="34" REF="20">
+<HEAD>A Song in Three Parts.</HEAD>
+<LG>
+<L>AT <HI>Albion</HI>'s Return, this Happy Isle,</L>
+<L>Dries up her Widows Tears;</L>
+<L>And with a Smile, Plumes like a Bride,</L>
+<L>With Ioy and Pride.</L>
+<L>The Meadows smile, the Groves and Flowers are Gay,</L>
+<L>All Nature chears up at this Great and Glori|ous Day.</L>
+</LG>
+<LG>
+<L><HI>Cho.</HI> At <HI>Albion</HI>'s Return, <HI>&amp;c.</HI></L>
+</LG>
+</LG>
+<STAGE><HI>Enter King</HI> Locrinus, <HI>and two Lords.</HI></STAGE>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>How different is the Clime, to what I left it?</L>
+<L>My Kingdom sure, is by Enchantment Govern'd?</L>
+<L>Musick attends us both by Sea and Land:</L>
+<L>Eccho's of Joy still hover round about us;</L>
+<L>But for what Cause, Heaven only can be Judge.</L>
+</SP>
+<SP>
+<SPEAKER>1<HI>st Lord.</HI></SPEAKER>
+<L>It shews that Heaven rejoyces at your Safety.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>I hope <HI>I</HI> have with strictest Care perform'd</L>
+<L>The Charge, which Heaven, and you, have laid upon me;</L>
+<L>But blame me not, if <HI>I</HI> appear Concern'd</L>
+<L>At the Unusual and Surprizing Accidents.</L>
+</SP>
+<SP>
+<SPEAKER>2<HI>d Lord.</HI></SPEAKER>
+<L><HI>I</HI> must confess, my Liege, 'tis most amazing.</L>
+</SP>
+<STAGE><PB N="49" REF="20"><HI>Enter a Messenger.</HI></STAGE>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Thou seemst in hast; Quickly declare thy Message.</L>
+</SP>
+<SP>
+<SPEAKER>Mess.</SPEAKER>
+<L>My Leige, the Prince your Son with a small Guard</L>
+<L>Was hasting to your Majesty,</L>
+<L>While Treacherous <HI>Arsaracus</HI> who bore him Company.</L>
+<L>Did with a band of Ruffins fall upon 'em;</L>
+<L>But a strong Party of your Guards approaching,</L>
+<L>The Villains fled, but were soon overtaken,</L>
+<L>And <HI>Arsaracus</HI> with the rest are bringing hither.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Is't possible? Cou'd <HI>Arsaracus</HI> play the Villain?</L>
+<L>And to my Son, a Prince that made his Fortunes,</L>
+<L>From a mean State raised him to Power and Greatness!</L>
+<L>Where is there Truth or Honour to be found,</L>
+<L>If those whom we have foster'd in our Bosoms</L>
+<L>Should like ungrateful Snakes sting to our Hearts?</L>
+</SP>
+<STAGE><HI>Enter</HI> Locrinus, Arsaracus, Hersius, Spungius, <HI>&amp;c. Prisoners. The Prince Kneels.</HI></STAGE>
+<SP>
+<SPEAKER>Locr.</SPEAKER>
+<L>Angels be Guardians to my Royal Father;</L>
+<L>And Heaven with Blessings Crown his Virtuous Reign.</L>
+<L>May Treason be a Stranger to his Realms,</L>
+<L>And all the Plots of his Malicious Foes</L>
+<L>Fall doably on the Curst Contrivers Heads.</L>
+</SP>
+<SP>
+<PB N="50" REF="21">
+<SPEAKER>King.</SPEAKER>
+<L>Thank thee, my Son; Rise; let me look a little,</L>
+<L>To see where <HI>Villain</HI>'s writ upon that Man:</L>
+<L>Not in his Face that bears a shew of Honesty;</L>
+<L>His Person too cast in a Noble Form,</L>
+<L>No 'tis within, and his Ignoble Soul</L>
+<L>All over does the stamp of Villain bear.</L>
+</SP>
+<SP>
+<SPEAKER>Locr.</SPEAKER>
+<L>Sir, on my Knees I beg you'd calm your Anger,</L>
+<L>For he has made me ample satisfaction.</L>
+<L>And by his free Confession clear'd the Fame</L>
+<L>Of my ador'd, my best lov'd <HI>Amarante.</HI></L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<P>Cou'd any Villain dare to blast her Virtue?</P>
+</SP>
+<SP>
+<SPEAKER>Locr.</SPEAKER>
+<L>The Story, Royal Sir's too long to tell.</L>
+<L>But give me leave Sir, to perform my Promise,</L>
+<L>Which was to spare his Life; and on my Knees</L>
+<L>I beg that you will grant it.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>I will my Son.</L>
+<L>But never more appear within my Kingdom:</L>
+<L>Go, wander thro the World, like the first Murderer;</L>
+<L>Thou needst no Mark, thy Crimes will speak themselves.</L>
+</SP>
+<SP>
+<SPEAKER>Arsar.</SPEAKER>
+<L>I go, and Noble Prince, the Life you give,</L>
+<L>I'le wear in hopes that it may do you Service.</L>
+<L>My banishment, I do Embrace with Joy, and</L>
+<L>I have now no farther use for Life,</L>
+<L>But to repent I ever wrong'd such Virtue.
+<STAGE>Exit.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Locr.</SPEAKER>
+<L>Now Villain, what canst thou say?</L>
+</SP>
+<SP>
+<SPEAKER>Dor.</SPEAKER>
+<L>Why, I am sorry I have tane such pains to do so little mischief.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Drag him to the Gibbet.</L>
+</SP>
+<SP>
+<SPEAKER>Cor.</SPEAKER>
+<L>I defie ye, Laugh at ye.</L>
+<L>And when you see me next take care of me.
+<STAGE>Sinks.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Amazing.</L>
+</SP>
+<SP>
+<SPEAKER>Span.</SPEAKER>
+<P>What is he gone and left us. Why Bro. <HI>Hersius,</HI> we shall never be able to find the way to the Devil without him.</P>
+</SP>
+<SP>
+<PB N="51" REF="21">
+<SPEAKER>Locr.</SPEAKER>
+<L>Now, what can you expect? ungrateful Villains!</L>
+</SP>
+<SP>
+<SPEAKER>Hers.</SPEAKER>
+<P>Why we expect to be hang'd, and I dare Swear you won't let us go without our Expectations,</P>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>To Prison with 'em. Leave 'em to the Law;</L>
+<L>They are not worth our Anger: Come my Son,</L>
+<L>I thought by mildness to have rul'd my Subjects,</L>
+<L>But I perceive they'l rowze the sleeping Sword,</L>
+<L>And force Revenge from their Offended Lord.</L>
+</SP>
+<STAGE>The End of the fourth Act.</STAGE>
+</DIV1>
+<DIV1 N="5" TYPE="act">
+<PB N="52" REF="22">
+<HEAD>ACT V.</HEAD>
+<STAGE><HI>SCENE, the</HI> Thames&punc;</STAGE>
+<STAGE>As the King enters, the Cave of <HI>Proteus</HI> rises, which consists of Twelve Arches of the <HI>Tuscan</HI> Order: The Frontispiece is adorn'd with a <HI>Tritan,</HI> a <HI>Neired,</HI> and several Sea-monsters, enrich'd with Mother-Pearl, Coral, and Sea-shells. At the far|ther end <HI>Proteus</HI> appears, with his Followers, who come forward and sing.</STAGE>
+<P><TEXT LANG="eng">
+<BODY>
+<DIV1 TYPE="song">
+<HEAD>A SONG</HEAD>
+<SP>
+<SPEAKER>Proteus.</SPEAKER>
+<L><HI>ALbion,</HI> belov'd of Earth and Heaven,</L>
+<L>Bid rough War and Battel cease;</L>
+<L>Return with Fame when thou hast driven</L>
+<L>The hunted <HI>Tyrant</HI> down, and given</L>
+<L><HI>Europe</HI> a Vniversal Peace.</L>
+</SP>
+<SP>
+<SPEAKER>Chor.</SPEAKER>
+<L><HI>Albion</HI> belov'd, &amp;c.</L>
+</SP>
+</DIV1>
+</BODY>
+</TEXT></P>
+<SP>
+<PB N="53" REF="22">
+<SPEAKER>Proteus.</SPEAKER>
+<L><HI>Albion! Albion!</HI> Heaven attends him;</L>
+<L>Heaven its Guardian-Angels lends him:</L>
+<L>Nor wonder Heaven's best smile defends him,</L>
+<L>When for Heaven his Sword he draws,</L>
+<L>His Standard's Heaven, and Heaven's his Cause.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>You great all-knowing Powers, that rule the World,</L>
+<L>Who still to sure Success have guided me;</L>
+<L>Thus on my Knees I pay, with humble Duty,</L>
+<L>Submissive Thanks for all these wondrous Blessings.</L>
+<L>And you my faithful Subjects still shall find,</L>
+<L>Your Liberties and Laws I will maintain;</L>
+<L>And not with Terror, but with Mercy reign.
+<STAGE>Exit.</STAGE></L>
+</SP>
+<STAGE>SCENE changes to a stately Palace, compos'd of wreath'd Columns of the <HI>Corinthian</HI> Order; the Wreathings are adorn'd with Ro|ses, and the Columns have several little <HI>Cupids</HI> flying about 'em&punc; and a single <HI>Cupid</HI> standing upon every Capitol. At a good di|stance are seen three Arches, which divide the first Court from the other part of the Building. The Arches are beautified with Festoons; all the <HI>Cupids,</HI> Capitol, and Enrichments are of Gold.</STAGE>
+<STAGE><HI>Enter</HI> Locrinus <HI>and</HI> Amarante.</STAGE>
+<SP>
+<SPEAKER>Locr.</SPEAKER>
+<L>Canst thou, my Fair One, be so charitable,</L>
+<L>So kind, so full of Goodness to forgive me?</L>
+<L><PB N="54" REF="23">Canst thou into thy Bosom take the Wretch,</L>
+<L>Whose base Injustice banish'd thee his Sight?</L>
+</SP>
+<SP>
+<SPEAKER>Ama.</SPEAKER>
+<L>My Lord! I do with greater Joy receive ye,</L>
+<L>Than I with Grief did leave ye. Oh, my Lord!</L>
+<L>Did you but know the racking Pains I've suffer'd</L>
+<L>For every moment you were absent from me,</L>
+<L>Had I been guilty, you'd have pitied me.</L>
+</SP>
+<SP>
+<SPEAKER>Locr.</SPEAKER>
+<L>My best belov'd, I have sympathiz'd with thee:</L>
+<L>Nor can I speak the Torments I've endur'd.</L>
+<L><HI>Prometheus</HI> Vulture gnawing at his Heart</L>
+<L>Was a Delight to that which fed on me.</L>
+<L>But laying thus my Head upon thy Bosom,</L>
+<L>I find a soveraign Balm for all my Sorrows.</L>
+</SP>
+<STAGE>Enter King attended.</STAGE>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Rise, rise, you greatest Blessings of my Age;</L>
+<L>You great and virtuous Patterns of all Goodness.</L>
+</SP>
+<SP>
+<SPEAKER>Ama.</SPEAKER>
+<L>Welcome, my Royal Lord, Ten thousand Welcomes.</L>
+<L>Your drooping Kingdom now will raise her Head,</L>
+<L>And gaze with Joy upon her great Deliverer.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Come hither Son, and from my Hand receive</L>
+<L>The greatest Gift that I have Power to give.</L>
+<L>May you be happy both, and <HI>Hymen</HI> wait,</L>
+<L>With all the Marriage-Joys, about your Bed.</L>
+</SP>
+<SP>
+<SPEAKER>Roth</SPEAKER>
+<L>Eternal Blessings Crown your Royal Head.</L>
+</SP>
+<STAGE>Soft MVSICK. <HI>Seraphino</HI> descends.</STAGE>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Ha! Behold my Son,</L>
+<L>The Heavenly power, that unseen was with us,</L>
+<L><PB N="55" REF="23">Now shews its dazling Form, and wondrous Beauty.</L>
+</SP>
+<SP>
+<SPEAKER>Ama.</SPEAKER>
+<L>Thou Glorious Minister of those Powers we serve:</L>
+<L>For thou art more than Mortal; Is't for us</L>
+<L>That thou hast left thy Heavenly Habitation?</L>
+<L>And vouchsat'st, tho Glorified, to take my Servants habit,</L>
+<L>For put off thy Divinity. So look'd</L>
+<L>My lovely <HI>Seraphino.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Seraph.</SPEAKER>
+<L>Know I am the same,</L>
+<L>And still the Servant to your Piety:</L>
+<L>Your Zealous Prayers and Pious Deeds first won me,</L>
+<L>To Guide your Steps. I tried your Charity,</L>
+<L>When in a Beggars shape you took me up</L>
+<L>And cloath'd my naked Limbs; and after fed me.</L>
+<L>O let the world by your example learn</L>
+<L>To look upon the poor with gentle Eyes:</L>
+<L>I never left you yet, nor will I now;</L>
+<L>But will be still a Guard to you and <HI>Albion,</HI></L>
+<L>Blessings shall wait on him, where e're he goes;</L>
+<L>And Great <HI>Augusta</HI> Triumph o're her Foes.</L>
+</SP>
+<STAGE>MVSICK.</STAGE>
+<STAGE>A very large Machine descends, the Figure of it is Oval, the Clouds Gold, with Figures of Cherubims flying about. In this Machine sits <HI>Apollo, Cupid, Mars, Vulcan, Juno, Venus,</HI> &amp;c.
+<HI>Apollo</HI> sings.</STAGE>
+<SP>
+<PB N="56" REF="24">
+<SPEAKER>Apollo.</SPEAKER>
+<L>From the Imperial Court of <HI>Jove,</HI></L>
+<L>From the great Divan above,</L>
+<L>I come to bid the Conquering <HI>Albion</HI> reign,</L>
+<L>Soveraign Lord of Land and Main:</L>
+<L><HI>Albion,</HI> nurst in Honour's School,</L>
+<L>Shall with Heroick Virtues rule.</L>
+</SP>
+<STAGE>A Symphany: After that, a Dialogue.</STAGE>
+<STAGE>Cupid <HI>Sings.</HI></STAGE>
+<SP>
+<SPEAKER>Cupid.</SPEAKER>
+<L>The God of Love, with all his Train,</L>
+<L>Shall wait great <HI>Albion</HI> o'er the Main;</L>
+<L>My Mother <HI>Venus</HI> shall attend him&punc;</L>
+<L>And great <HI>Mars</HI> in War befriend him:</L>
+<L><HI>Mars, Venus,</HI> and <HI>Cupid</HI> shall all be at hand</L>
+<L>To wait your great <HI>Hero</HI>'s Command.</L>
+</SP>
+<SP>
+<SPEAKER>Vulcan.</SPEAKER>
+<L>Why how' now Youngster! now I find</L>
+<L>It is by your kind Aid</L>
+<L>My Virtuous Wife to <HI>Mars</HI> is joyn'd,</L>
+<L>And I a God-like Cuckold made.</L>
+<L><HI>O</HI> Cupid!</L>
+</SP>
+<SP>
+<SPEAKER>Cupid.</SPEAKER>
+<L><HI>O</HI> Vulcan!</L>
+</SP>
+<SP>
+<SPEAKER>Vulcan.</SPEAKER>
+<L>Is this like a Son,</L>
+<L>To see your poor Daddy abus'd?</L>
+</SP>
+<SP>
+<SPEAKER>Cupid.</SPEAKER>
+<L>And was't like a wise God to marry with one</L>
+<L>That to Cuckolding was so much us'd?</L>
+</SP>
+<SP>
+<SPEAKER>Vulcan.</SPEAKER>
+<L>Come, come, young God, since it is so,</L>
+<L>I'll break your Arrows and your Bow.</L>
+</SP>
+<SP>
+<PB N="57" REF="24">
+<SPEAKER>Cupid.</SPEAKER>
+<P>No, pray now, Father, spare 'em, and I'll take care to be</P>
+</SP>
+<SP>
+<SPEAKER>Vulcan.</SPEAKER>
+<L>As great a Knave to others as thou'st been to me.</L>
+</SP>
+<SP>
+<SPEAKER>Mars.</SPEAKER>
+<L>Cease <HI>Vulcan,</HI> cease, or strait prepare</L>
+<L>To feel the angry God of War:</L>
+<L>Thy Son 'gainst all thy Force I will maintain,</L>
+<L>And soon will,</L>
+</SP>
+<SP>
+<SPEAKER>Vulcan.</SPEAKER>
+<L>Cuckold me again.</L>
+<L>Then repine not you Mortals, but lead merry Lives;</L>
+<L>For a God can be Bully'd you see:</L>
+<L>Then lose not your Blood in defence of your Wives;</L>
+<L>But he Cuckolds, tame Cuckolds, like me.</L>
+</SP>
+<SP>
+<SPEAKER>Mars, Venus, Vulc. Cupid.</SPEAKER>
+<L>Then repine not, you Mortals, but lead merry lives;</L>
+<L>For a God can be Bully'd you see:</L>
+<L>Then lose not your Blood in defence of your Wives;</L>
+<L>For a Cuckold great <HI>Vulcan</HI> must be.</L>
+</SP>
+<LG>
+<PB N="58" REF="25">
+<HEAD>A SONG.</HEAD>
+<LG>
+<HEAD>I</HEAD>
+<L>'TIS vain to tell me I am deceiv'd;</L>
+<L>For <HI>Celia</HI> seems so kind,</L>
+<L>'Twere Sin she shou'd not be believ'd,</L>
+<L>Since I no Cheat can find.</L>
+<L>If Flattery with Falshood lye</L>
+<L>In her soft Youth conceal'd,</L>
+<L>A thousand times I'd rather dye,</L>
+<L>Than have the Truth reveal'd.</L>
+</LG>
+<LG>
+<HEAD>II.</HEAD>
+<L>Let busie Fools in Libels rail,</L>
+<L>Their Malice I'll outbrave;</L>
+<L>O<GAP DESC="illegible" EXTENT="1 letter">r me no Scandal shall prevail,</L>
+<L>So she the Appearance save:</L>
+<L>For if I think I have her Heart,</L>
+<L>My own for hers is due;</L>
+<L>Let her but act the tender part,</L>
+<L>I'll think the Ioy is true.</L>
+</LG>
+</LG>
+<SP>
+<PB N="59" REF="25">
+<SPEAKER>Apollo.</SPEAKER>
+<L>See where Triumphant Fame prepares to sing</L>
+<L>The Glories of your King.</L>
+</SP>
+<STAGE>A Symphany.</STAGE>
+<STAGE>As <HI>Apollo</HI>'s Heaven ascends, the Temple of <HI>Fame</HI> rises from underneath the Stage, in which is <HI>Fame,</HI> and his Followers: <HI>Fame</HI> comes forward, with his Followers, and sings:</STAGE>
+<SP>
+<SPEAKER>Fame.</SPEAKER>
+<L>You Nymphs that attend the Soveraign Barge,</L>
+<L>Guard, guard your Royal Charge;</L>
+<L>And let your loyal Hands the Bark support,</L>
+<L>With all the Glory of your Watry Court.</L>
+</SP>
+<SP>
+<SPEAKER>Chor.</SPEAKER>
+<L>Then let your Royal, <HI>&amp;c.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Fame.</SPEAKER>
+<L>Pleasure and Ioy shall waft him o'er,</L>
+<L>And Triumph eccho round from Shore to Shore.</L>
+</SP>
+<SP>
+<SPEAKER>Grand Chor.</SPEAKER>
+<L>Pleasure and Ioy, <HI>&amp;c.</HI></L>
+</SP>
+<P><TEXT LANG="eng">
+<BODY>
+<DIV1 TYPE="dialogue">
+<PB N="60" REF="26">
+<HEAD>A Dialogue between an Old Man and a Young Girl.</HEAD>
+<SP>
+<SPEAKER>O. Man.</SPEAKER>
+<L>WHy dost thou fly me, pretty Maid?</L>
+<L>Tho' old, I feel Loves Fires,</L>
+<L>Which can't be quench'd without thy Aid.</L>
+<L>Then prithee, Fair One, be not cold;</L>
+<L>For tho', 'tis true, I'm very old,</L>
+<L>I still have young Desires.</L>
+</SP>
+<SP>
+<SPEAKER>Girl.</SPEAKER>
+<L>Nay, prithee dear Nestor, cease, cease this Discourse</L>
+<L>For I have often been told,</L>
+<L>That for a young Virgin there is nothing worse,</L>
+<L>Than to Bed with a Man that is old.</L>
+</SP>
+<SP>
+<SPEAKER>O. Man.</SPEAKER>
+<L>You much mistake, my pretty Fair,</L>
+<L>For Old Men always constant are.</L>
+</SP>
+<SP>
+<SPEAKER>Girl.</SPEAKER>
+<L>I do not doubt your Constancy,</L>
+<L>For Age, of course, must constant be:</L>
+<L><PB N="61" REF="26">Your Youthful Vigour being gone,</L>
+<L>You scarce can think of more than One.</L>
+</SP>
+<SP>
+<SPEAKER>O. Man.</SPEAKER>
+<L>Is there nothing then can gain ye?</L>
+</SP>
+<SP>
+<SPEAKER>Girl.</SPEAKER>
+<L>Yes, yes, there is.</L>
+</SP>
+<SP>
+<SPEAKER>O. Man.</SPEAKER>
+<L>Here's Gold; will that obtain ye?</L>
+</SP>
+<SP>
+<SPEAKER>Girl.</SPEAKER>
+<L>O sie, pish, pish.</L>
+</SP>
+<SP>
+<SPEAKER>O. Man.</SPEAKER>
+<L>See, here is store of Gold.</L>
+</SP>
+<SP>
+<SPEAKER>Girl.</SPEAKER>
+<L>O fie, fie, fie! you'r Old.</L>
+</SP>
+<SP>
+<SPEAKER>O. Man.</SPEAKER>
+<L>No matter, Child, here's Gold.</L>
+</SP>
+<STAGE>She takes it.</STAGE>
+<SP>
+<SPEAKER>Girl.</SPEAKER>
+<L>Well, I'll take it for once, but I must have more,</L>
+<L>For this is too little to win me.</L>
+</SP>
+<SP>
+<SPEAKER>O. Man.</SPEAKER>
+<L>Nay, rather than so, thou sha't have all my store,</L>
+<L>And if that fail, the Devil is in thee.</L>
+</SP>
+<SP>
+<SPEAKER>Girl.</SPEAKER>
+<L>I thank you, and now I must go.</L>
+</SP>
+<SP>
+<SPEAKER>O. Man.</SPEAKER>
+<L>And I will go with thee.</L>
+</SP>
+<SP>
+<SPEAKER>Girl.</SPEAKER>
+<L>O no, no, no, no.</L>
+</SP>
+<SP>
+<SPEAKER>O. Man.</SPEAKER>
+<L>Why sure, Child, you won't serve me so.</L>
+</SP>
+<SP>
+<PB N="62" REF="27">
+<SPEAKER>Girl.</SPEAKER>
+<L>Indeed, but I must.</L>
+</SP>
+<SP>
+<SPEAKER>O. Man.</SPEAKER>
+<L>Then give me my Gold.</L>
+</SP>
+<SP>
+<SPEAKER>Girl.</SPEAKER>
+<L>No; I never make Presents to Men that are Old.</L>
+</SP>
+<STAGE>She runs off, and he after her.</STAGE>
+</DIV1>
+</BODY>
+</TEXT></P>
+<SP>
+<SPEAKER>Fame.</SPEAKER>
+<L>Now <HI>Fame's</HI> loudest Trumpet sound;</L>
+<L><HI>Albion</HI> from Pole to Pole rebound:</L>
+<L>Let all, let all his Titles rattle,</L>
+<L>Founder of Peace, and God of Battle.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Let's haste to pay, or Sacrifice to Heaven,</L>
+<L>And then to War I will again return:</L>
+<L>Our Foes, I hear, already take the Field,</L>
+<L>Therefore, my Son, to you I leave the Charge</L>
+<L>Of this my Kingdom, with full Power to act</L>
+<L>As you shall best think fit.</L>
+</SP>
+<SP>
+<PB N="63" REF="27">
+<SPEAKER>Locr.</SPEAKER>
+<L>Which Power, my Lord,</L>
+<L>I hope I shall discharge with Care and Justice.</L>
+<L>Now <HI>Amarante,</HI> now the time is come</L>
+<L>That I so long have with Impatience wish'd for.</L>
+<L>Yet, tho' I'm blest with Love, I still shall mourn,</L>
+<L>And find no Joy till your most-wish'd Return.</L>
+</SP>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+</BODY>
+<BACK>
+<DIV1 TYPE="publisher's advertisement">
+<PB REF="28">
+<LIST>
+<HEAD>BOOKS Printed for, and Sold by <HI>S. Briscoe,</HI> in <HI>Covent-Garden</HI>:</HEAD>
+<ITEM>1. THE Histories and Novels of the late Ingenious Mrs.
+<HI>Behn,</HI> viz. <HI>Oroonoko, Agnes de Castro, Fair I<GAP DESC="illegible" EXTENT="1 letter">lt, Lover's Watch,</HI> and <HI>Lucky Mistake</HI>; with <HI>several</HI> Love-Letters of hers never before printed, and Memoirs on her Life, by a Lady of her acquaintance, and exact Effigies of her engraven on Cop|per, 8vo:</ITEM>
+<ITEM>2. Familiar Letters written by Mr. <HI>Dryden,</HI> Mr. <HI>Wycherly,</HI> Mr. <HI>Congreve,</HI> Mr. <HI>M</HI>&mdash; and Mr. <HI>Dennis</HI>; with select Let|ters of Mons. <HI>Voiture</HI>; translated by Mr. <HI>Dryden</HI> and Mr. <HI>Dennis,</HI> and large Additions to this second Edition, now to be speedily publish'd.</ITEM>
+<ITEM>3. Letters written by the Right Honourable the late Earl of <HI>Rochester,</HI> Mr. <HI>T. Otway,</HI> Madam <HI>Phillips,</HI> and <HI>T. Brown,</HI> 8o.</ITEM>
+<ITEM>4. There is in the Press likewise a Second Volume, com|pos'd of several of the most eminent past and present Wits, viz. <HI>Rochester,</HI> &amp;c.</ITEM>
+</LIST>
+<LIST>
+<HEAD>PLAYS printed for <HI>S. Briscoe.</HI></HEAD>
+<ITEM>1. Love's last-Shift, or the Fool in fashion; a Comedy, by Mr. <HI>Cibber,</HI> Servant to His Majesty.</ITEM>
+<ITEM>2. Love for Money, or the Boarding-School; a Comedy, by Mr. <HI>Durfey.</HI></ITEM>
+<ITEM>3. Fatal Mistake, or the Plot spoil'd; by <HI>I. Haines.</HI></ITEM>
+<ITEM>4. The very good Wife, a Comedy, by an unknown Hand.</ITEM>
+<ITEM>5. The Wives Excuse, or Cuckolds make 'emselves; by Mr. <HI>T. Southern.</HI></ITEM>
+<ITEM>6. The True Widow, a Comedy, by Mr. <HI>Shadwell.</HI></ITEM>
+<ITEM>7. The Marriage-hater match'd; by Mr. <HI>Durfey.</HI></ITEM>
+<ITEM>8. The Country Wife; by Mr. <HI>Wycherly.</HI></ITEM>
+<ITEM>9. Tye <HI>Richmond</HI> Heiress, or Woman once in the right; by Mr. <HI>Durfey.</HI></ITEM>
+<ITEM>10. Rule a Wife and have a Wife; by <HI>Beaumont</HI> and <HI>Fletcher,</HI> 40. with Amendments.</ITEM>
+</LIST>
+</DIV1>
+</BACK>
+</TEXT>
+</EEBO>
+</ETS>

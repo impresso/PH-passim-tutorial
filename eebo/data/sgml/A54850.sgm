@@ -1,0 +1,1194 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD EEBOPROOF 2.0//EN">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-09-18</DATE>
+<RESPSTMT>
+<NAME>Emma Leeson Huber</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TYPEs to DIVs in order to validate. Proofed title page(s).  Checked ^s. Reviewed structure. Checked division-marking material at heads and feet of divisions (HEADS, etc.). Checked for signatures. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected 5 $s of 323. Converted 318 $s to GAP DESC="illegible" RESP="tech". Checked spacing of foreign GAPs. Checked for EPIGRAPHs and ARGUMENTs. Checked for startqs, endqs, oes, q;s, and Qs. Checked proofsheets and made corrections found there. Checked for CLOSERs, TRAILERs, and BYLINEs. DONE.</ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="OX" ID="A54850">
+<STC T="W">P2192</STC>
+<BIBNO T="oclc">10433036</BIBNO>
+<VID>45018</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1" MS="y">
+<P>The Primitive Rule of Reformation. Delivered in a
+SERMON
+BEFORE
+His MAIESTY at VVHITEHALL,
+<HI>Feb.</HI> 1. 1662. IN
+Vindication of Our <HI>CHVRCH.</HI> Against the
+NOVELTIES of ROME. BY
+Tho: Pierce, D. D. Chaplain in Ordinary to His MAJESTY, and
+President of <HI>Magdalen</HI> College in OXON.</P>
+<P>Published by His Majesties special Command.</P>
+<P>The Sixt Edition, more Correct then the <HI>London</HI>
+Impressions: by the consent of the Author.</P>
+<P><HI>OXFORD,</HI>
+Printed by <HI>H. H.</HI> for <HI>Ric. Royston</HI> Bookseller to His Sa|cred
+Majesty, and <HI>Ric. Davis</HI> in <HI>Oxon.</HI> 1663.</P>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="2">
+<PB REF="2">
+<HEAD>TO THE
+High and Mighty Monarch
+Charles the II^d:
+By the Grace of God, KING of
+Great Britain, France and Ireland,
+Defender of the Faith.</HEAD>
+<OPENER><SALUTE>Most Gratious and Dread Soveraign,</SALUTE></OPENER>
+<P>_THat which never had been ex|pos'd
+unto a <HI>wittily-mista|king
+and crooked world,</HI> but
+in a dutiful <HI>submission</HI> to Your
+<HI>Command;</HI> may at least for <HI>This,</HI> if
+for no <HI>other</HI> reason, be justly offer'd to
+Your <HI>Protection.</HI> And this is done with
+a <HI>steady,</HI> though <HI>humble</HI> confidence of
+<PB REF="3">
+success; because <HI>THE DEFENDER
+OF THE FAITH<NOTE N="*" PLACE="marg">Iud 3.</NOTE> which was once
+deliver'd unto the Saints,</HI> cannot pos|sibly
+chuse but be so to <HI>him,</HI> who does <HI>ear|nestly
+contend</HI> for the very <HI>same,</HI> be|cause
+for <HI>no other Faith</HI> then <HI>That
+which was from the Beginning.</HI><NOTE PLACE="marg">Matth 19. 8.</NOTE> If
+for <HI>This</HI> I have <HI>contended</HI> with as much
+<HI>earnestness</HI> from the <HI>Pulpit,</HI> as The
+<HI>Romanists</HI> from the <HI>Press</HI> do <HI>contend
+against it;</HI> I have not only the<NOTE N="*" PLACE="marg">Iude. 2, 3.</NOTE> <HI>Exhor|tation</HI>
+and <HI>Authority</HI> of a Text, but the
+<HI>Exigence</HI> of the <HI>Time</HI> to excuse me in it.</P>
+<P>Now as the <HI>Romans</HI> in the Time of
+the <HI>second Punick War,</HI> could not
+think of a fitter way for the driving of
+<HI>Hanibal</HI> out of <HI>Italy,</HI> then <HI>Scipio</HI>'s mar|ching
+with an Army out of <HI>Italy</HI> into
+<HI>Afrique,</HI> giving <HI>Hanibal</HI> a <HI>Necessity</HI>
+to go from <HI>Rome,</HI> for the raising of the
+<HI>Siege</HI> which was laid to <HI>Carthage;</HI> So
+could I not think of a fitter Course to <HI>dis|appoint</HI>
+the <HI>Pontificians</HI> in their <HI>At|tempts</HI>
+<PB REF="3">
+on <HI>Our</HI> Church, then thus by ma|king
+it their <HI>Task</HI> to view the <HI>Infirmities</HI>
+of their <HI>own.</HI> To which effect I was excited
+to <HI>spend my self,<NOTE PLACE="marg">2 Cor. 12. 15.</NOTE> and to be spent,</HI> (if I
+may speak in the phrase of our Great Apo|stle,)
+not from an <HI>arrogant Opinion</HI> of
+any <HI>sufficiency in my self,</HI> (who am one
+of the <HI>least</HI> among the Regular Sons of the
+Church of <HI>England;</HI>) But as relying on
+the <HI>sufficiency</HI> of the <HI>Cause</HI> I took in
+hand, &amp; especially on the <HI>Help</HI> of the <HI>All-sufficient,</HI><NOTE PLACE="marg">1 Cor. 1. 27.</NOTE>
+who often loves to make use of
+the <HI>weakest Instruments,</HI><NOTE PLACE="marg">2 Cor. 10. 4.</NOTE> to effect the
+<HI>bringing down</HI> of the <HI>strongest Holds.</HI></P>
+<P>I suppose my Discourse, however inno|cent
+in it self, will yet be likely to meet with
+<HI>many,</HI> not onely <HI>learned</HI> and <HI>subtil,</HI> but
+<HI>restless</HI> enemies; Men of <HI>pleasant Insi|nuations,</HI>
+and very <HI>plausible&punc; Snares;</HI>
+nay, such as are apt (where they have
+<HI>Power</HI>) to<NOTE N="*" PLACE="marg">Eo san&egrave; loco Haere|ses sunt, ut non tan<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> arte &amp; Industri&acirc;, qu&agrave;m Alexandri gla|d<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">o, earum Gordius Nodus dissoivi posse, quas<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">&abque; Herculis cla|v&acirc; feriendae, qu&agrave;m Apoll<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">nis Lyr&agrave; m<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ti|gandae videantur, <HI>Sta<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">l. ton. in Epist. De|dic. operis de Iuslis. sub fia<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">m.</HI></NOTE> <HI>confute</HI> their <HI>Opponents</HI>
+by <HI>Fire and Faggot.</HI> But when I consider
+how well my <HI>Margin</HI> does lend <HI>Protecti|on
+<PB REF="4">
+on</HI> to my <HI>Text,</HI> (for I reckon that my
+<HI>Citations,</HI> which I could not with Pru|dence
+represent out of a Pulpit, are the
+usefullest part of my whole Performance,
+because the <HI>Evidence</HI> and <HI>VVarrant</HI>
+of all the rest;) I cannot fearfully appre|hend,
+what <HI>VVit</HI> or <HI>Language</HI> (or <HI>ill
+us'd Learning</HI>) can do <HI>against</HI> it, so far
+forth as it is <HI>arm'd</HI> with <HI>Notoriety</HI> of
+<HI>Fact</HI> in its <HI>Vindication;</HI> and hath the
+<HI>published Confessions</HI> of those their
+<HI>Ablest Hyperaspistae,</HI> who <HI>cannot</HI> cer|tainly
+by <HI>them</HI> of their <HI>own perswasion,</HI>
+with <HI>honor,</HI> or <HI>safety,</HI> be <HI>contradicted.</HI></P>
+<P>If they are <HI>guilty</HI> in their <HI>Writings,</HI>
+it is rather their <HI>own,</HI> then their <HI>Readers</HI>
+Fault; Nor is it their <HI>Readers,</HI> but
+<HI>Their</HI> misfortune, if they are found <HI>So</HI> to
+be by their <HI>own Concessions.</HI> Nor can
+they <HI>rationally</HI> be <HI>angry</HI> at their Rea|der's
+<HI>Necessity</HI> to <HI>believe</HI> them; especi|ally
+when they write with so <HI>becoming</HI> a
+<HI>proof</HI> of <HI>Impartiality,</HI> as that by which
+<PB REF="4">
+they <HI>asperse</HI> and <HI>accuse Themselves.</HI> If
+it finally shall appear, They are<NOTE N="*" PLACE="marg">Luke 19. 22.</NOTE> <HI>con|demn'd</HI>
+out of their <HI>mouthes,</HI> (as <HI>Go|liah's
+Head</HI> was <HI>cut off</HI> by <HI>David,</HI><NOTE PLACE="marg">1 Sam. 17. 51.</NOTE> not
+with <HI>David's,</HI> but with <HI>Goliah's</HI> own
+<HI>Sword,</HI>) and that I am not so <HI>severe</HI> in
+taking <HI>Notice</HI> of their <HI>Confessions,</HI> as
+<HI>They</HI> have been unto <HI>Themselves</HI> in the
+<HI>Printing</HI> of them, (for I cannot be said to
+have <HI>revealed</HI> any <HI>secrets,</HI> by meerly
+<HI>shewing</HI> before the <HI>Sun,</HI> what <HI>They</HI>
+have <HI>sent</HI> into the <HI>Light,</HI>) I think, how|ever
+They may have <HI>Appetite,</HI> They
+cannot have <HI>Reason</HI> to complain.</P>
+<P>I have intreated of <HI>many</HI> Subjects
+within the Compass of an <HI>hour,</HI> on <HI>each</HI> of
+which it would be easie to spend a <HI>year.</HI>
+But I have spoken most at large of <HI>the Su|premacy
+of the Pope;</HI> as well because it
+is a Point wherein the <HI>Honor</HI> and <HI>Safe|ty</HI>
+of <HI>Your Majesties Dominions</HI> are
+<HI>most concern'd,</HI> as because it is the <HI>chief,</HI>
+<PB REF="5">
+if not <HI>only Hinge,</HI> (I have<NOTE N="*" PLACE="marg">Etenim de qu&acirc; re agitur c&ugrave;m de Prima|tu Pontificis agitur? brevissim&egrave; dicam, de <HI>Summ&acirc; rei Christianae,</HI> id enim quaeritur, de|beatne Ecclesia <HI>diuti|&ugrave;s consistere,</HI> an ver&ograve; <HI>dissolvi,</HI> &amp; <HI>concidere. Bellarm. in Praes. ad li|bros de Rom. Pontif.</HI></NOTE> <HI>Bellar|mines
+assertion</HI> for what I say,) on which
+does <HI>hang</HI> the <HI>whole stress</HI> of the
+<HI>Papal Fabrick.</HI></P>
+<P>If herein, as I have <HI>obey'd,</HI> I shall
+also be found to have <HI>serv'd</HI> Your Ma|jesty,
+The sole <HI>Discharge</HI> of my <HI>Duty</HI>
+will be abundantly my <HI>Reward;</HI> because
+I am not more by <HI>Conscience</HI> and <HI>Ob|ligations</HI>
+of <HI>Gratitude,</HI> then by the <HI>Vo|luntary
+Bent</HI> and <HI>Inclinations</HI> of my
+<HI>Soul,</HI></P>
+<CLOSER><SIGNED>Your Majesties most devo|ted
+and most Dutiful
+Subject and Chaplain,
+THOMAS PIERCE.</SIGNED></CLOSER>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="text">
+<PB N="1" REF="5">
+<EPIGRAPH>
+<BIBL>MATTH. XIX. 8.</BIBL>
+<Q><P><GAP DESC="foreign">.</P>
+<P>But from the beginning it was not so.</P></Q>
+</EPIGRAPH>
+<P>_THere are but very few things
+either so <HI>little,</HI> or so <HI>great,</HI> whe|ther
+in <HI>Art,</HI> or <HI>Nature,</HI> whether
+in <HI>Politie,</HI> or <HI>Religion,</HI> which
+are not willing to take advan|tage
+from the meer credit of their <HI>An<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">iquity.</HI></P>
+<P>First for <HI>Art;</HI> Any part of <HI>Philosophy</HI> penn'd
+by <HI>Hermes Trismegistus,</HI> any Script of <HI>Geography</HI>
+bearing the name of <HI>Anaximander,</HI> any <HI>Musical
+Composition</HI> sung by <HI>Amphion</HI> to his <HI>Harp,</HI> any
+piece of the <HI>Mathematicks</HI> said to be writ by
+<HI>Zoroastres,</HI> any Relique of <HI>Carved worke</HI> from
+inspir'd <HI>Bezaleel,</HI><NOTE PLACE="marg">Exod. 35. 30, 34.</NOTE> or any remnant of <HI>Embroi|dery</HI>
+from the Theopneust <HI>Aholiab,</HI> would at
+least for the <HI>honor</HI> of being reckon'd to be the
+<HI>first,</HI> be also reckon'd to be the <HI>best</HI> of any An|tiquarie's
+<HI>Keimelia.</HI></P>
+<P><PB N="2" REF="6">
+And as it is in the Things of <HI>Art,</HI> so is it
+also in those of <HI>Nature.</HI> How do the <HI>Gentle|men</HI>
+of <HI>Venice</HI> delight themselves in their
+<HI>Antiquity?</HI> and yet they travel for their <HI>O<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">iginal</HI>
+no farther back then the <HI>siege</HI> of <HI>Troy:</HI> where|as
+the <HI>Arcadians</HI> derive their Pedigree even
+from <HI>Iupiter</HI> and <HI>Calisto,</HI> and will needs have
+their Nation exceed the <HI>Moon</HI> in <HI>Seniority.</HI>
+Nay, though <HI>Aegypt</HI> (in the Judgment of<NOTE N="*" PLACE="marg">.<GAP DESC="foreign"> Diodor. Sic. lib. 1. p. 9.</NOTE> <HI>Di|odorus</HI>
+the <HI>Siceleote</HI>) hath better pretensions
+then any other, yet the <HI>Barbarians</HI> as well as
+<HI>Greeks</HI> have still affected a <HI>Primogeniture.</HI> Nay
+so far has this Ambition transported <HI>some,</HI> that
+they will needs have been begun from <HI>before</HI>
+the <HI>Protoplast,</HI> as it were <HI>itching</HI> to be as <HI>old</HI> as
+the <HI>Iulian period,</HI> 764 years before the begin|ning
+of the <HI>VVorld.</HI> Thus Antiquity hath been
+courted in <HI>Art</HI> and <HI>Nature.</HI></P>
+<P>If in the third place we come to <HI>Politie,</HI> we
+shall find <HI>Customs</HI> gaining Reverence from the
+sole merit of their <HI>Duration.</HI> And as a <HI>Custom</HI>
+by meer <HI>Continuance</HI> does wear it self into a
+<HI>Law;</HI> so the more <HI>aged</HI> a <HI>Law</HI> is grown, the
+less 'tis liable to a <HI>Repeal;</HI> by how much the
+more it is <HI>stricken</HI> in <HI>years,</HI> by so much the <HI>less</HI>
+it is <HI>decrepit:</HI> And that for this reason, be|cause
+the <HI>longer</HI> it endures, the more it inclines
+to its perfection; that is to say, its <HI>immorta|lity.</HI></P>
+<P><PB N="3" REF="6">
+Last of all for <HI>Religion,</HI> the Case is <HI>clear</HI> out
+of <HI>Tertullian.<NOTE PLACE="marg">Tertul. adversus Mar|cion. l. 4. c. 5.</NOTE> Id verius quod prius, id prius quod
+ab initio. That Religion was the truest, which
+was the first; and that the first, which was from
+the beginning.</HI> And as <HI>He</HI> against <HI>Marcion,</HI> so
+<HI>Iustin Martyr</HI> against the <HI>Grecians,</HI> did prove
+the <HI>Divinity</HI> of the <HI>Pentateuch</HI> from the <HI>Anti|quity</HI>
+of its <HI>VVriter.</HI> The <HI>Iewes</HI> enjoy'd the <HI>first
+Lawgiver</HI><NOTE N="&dagger;" PLACE="marg"><GAP DESC="foreign">. Justin. Mart. <GAP DESC="foreign">. p. 7.</NOTE> by the <HI>Confession</HI> of the <HI>Gentiles. Mo|ses</HI>
+preached the <HI>God</HI> of <HI>Abraham,</HI> whilst <HI>Thales
+Milesius</HI> was yet unborn. Nor was it a thing
+to be imagin'd, that <HI>God</HI> should suffer the
+<HI>Devil</HI> to have a <HI>Chappel</HI> in the world, before
+himself had any <HI>Church.</HI> And thence<NOTE N="*" PLACE="marg">Id teneamus quod ubique, quod <HI>semper,</HI> quod ab omnibus cre|ditum est: quod ita de|mum fit, si sequamur Universalitatem, <HI>Anti|quitatem,</HI> Consensio|nem. <HI>Vinc. Lir. adv. Haer. c</HI> 3.</NOTE> <HI>Vin|centius
+Lirin<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">nsis,</HI> to prove the <HI>Truth</HI> of any
+<HI>Doctrine,</HI> or the <HI>L<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">gality</HI> of a <HI>Practice,</HI> does argue
+the Case from a <HI>Threefold Topick;</HI> The <HI>Universa|lity,</HI>
+the <HI>Consent,</HI> and the <HI>Antiquity</HI> of a Tradition.</P>
+<P>Which Rule if we apply unto the <HI>scope</HI> of
+<HI>this Text,</HI> as it stands in relation unto the
+<HI>Context,</HI> we shall have <HI>more</HI> to say for it then
+for most <HI>Constitutions, divine, or humane:</HI> For That
+of <HI>Mariage</HI> is <HI>almost</HI> as old as <HI>Nature.</HI> There
+was no sooner <HI>one man,</HI> but <HI>God divided</HI> him
+into <HI>two;</HI> And then no sooner were there
+<HI>two,</HI> but he <HI>united</HI> them into <HI>one.</HI> This is
+That <HI>sacred Institution</HI> which was made with
+<HI>Mankind</HI> in a state of <HI>Innocence;</HI> the very
+<HI>Ground</HI> and <HI>Foundation</HI> of all both <HI>sacred</HI> and
+<PB N="4" REF="7">
+<HI>civil</HI> Government. It was by sending back
+the <HI>Pharisees</HI> to the most venerable <HI>Antiquity,</HI><NOTE PLACE="marg">Matth. 5. 31, 32.</NOTE>
+that our Lord here asserted the <HI>Law</HI> of <HI>wedlock,</HI>
+against the old <HI>Custom</HI> of their <HI>Divorce.</HI> Whilst
+<HI>they</HI> had made themselves <HI>drunk</HI> with their
+<HI>muddy streams, He</HI> directed them to the <HI>Foun|tain,</HI>
+to <HI>drink</HI> themselues into <HI>sobriety. They</HI> insi|sted
+altogether on the <HI>Mosaical Dispensation;</HI> But
+<HI>He</HI> endeavour'd to <HI>reform</HI> them by the most
+<HI>Primitive Institution. They</HI> alledged a <HI>Custom,</HI>
+b<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">t <HI>He</HI> a <HI>Law. They</HI> a <HI>Permission,</HI> and that from
+<HI>Moses;</HI> But <HI>He</HI> a <HI>Precept,</HI> and that from <HI>God.
+They</HI> did reckon from <HI>afar off;</HI> But not, as <HI>He,</HI>
+from the <HI>Beginning.</HI></P>
+<P>In that <HI>one</HI> Question of the <HI>Pharisees,<NOTE N="*" PLACE="marg">Verse 7.</NOTE> VVhy
+did</HI> Moses <HI>command us to give her a writing of
+Divorce, and to put her away?</HI> they put a <HI>Fal|lacy</HI>
+upon Christ, call'd <HI>Plurium Interrogationum.</HI>
+For <HI>Moses</HI> onely <HI>permitted</HI> them to <HI>put her away;</HI>
+but <HI>commanded</HI> the<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> (if they did) to <HI>give her
+a writing of Divorce.</HI> And accordingly their
+<HI>Fallacy</HI> is <HI>detected</HI> by Christ in his <HI>Answer</HI> to
+them. <HI>Moses</HI> (did not <HI>command,</HI> but meerly)
+<NOTE N="*" PLACE="marg">Verse 8.</NOTE> <HI>suffer'd you</HI> in your custom of making un|justifiable
+Divorcements. <GAP DESC="foreign">, he <HI>per|mitted,</HI>
+that is to say, he <HI>did not punish</HI> it; not
+<HI>allowing</HI> it as <HI>good,</HI> but <HI>winking at</HI> it as the <HI>lesser</HI>
+of two great <HI>evils.</HI> He <HI>suffer'd</HI> it to be <HI>safe</HI>
+in <HI>foro Soli;</HI> could not secure you from the
+<PB N="5" REF="7">
+<HI>Guilt,</HI> for which you must answer in <HI>foro Po|li.</HI>
+And why did he <HI>suffer</HI> what he could not
+<HI>approve?</HI> Not for the <HI>softness</HI> of your <HI>heads,</HI>
+which made you <HI>ignorant</HI> of your Duties; but
+<HI>for the hardness of your hearts,</HI> which made you
+<HI>resolute</HI> not to <HI>do</HI> them: you were so <HI>barba|rous</HI>
+and <HI>brutish</HI> upon every <HI>slight Cause,</HI> (or <HI>Oc|casion</HI>
+rather,) that if you might not <HI>put her a|way,</HI>
+you would <HI>use</HI> her <HI>worse.</HI> You would
+many times <HI>beat,</HI> and sometimes <HI>murder,</HI> some|times
+<HI>bury</HI> her <HI>alive,</HI> by bringing <HI>another</HI> into
+her <HI>Bed.</HI> So that the <HI>Liberty</HI> of <HI>Divorce,</HI> how|ever
+a <HI>poyson</HI> in <HI>it self,</HI> was (through the <HI>hard|ness</HI>
+of your <HI>hearts) permitted</HI> to you for an <HI>An|tidote:</HI>
+But <HI>from the Beginning it was not so.</HI>
+And you must put a wide difference betwixt
+an <HI>Indulgence of Man,</HI> and a <HI>Law of God.</HI> To
+state the controversie aright, you must com|pare
+the <HI>first Precept</HI> with your <HI>customary Pra|ctice;</HI>
+not reckoning as far as from <HI>Moses onely,</HI>
+but as far as from <HI>Adam</HI> too; you must not one|ly
+look <HI>forward</HI> from the year of the <HI>Creation
+2400.</HI> but <HI>backward</HI> from thence unto the
+year of the <HI>Creation.</HI> The way to understand
+the <HI>Husband's</HI> Duty towards the <HI>VVife,</HI> (and
+so to <HI>reform,</HI> as not to <HI>innovate,</HI>) is to consider
+the <HI>words</HI> of <HI>God</HI> when he made the <HI>VVife</HI> out
+of the <HI>Husband.</HI> For<NOTE N="*" PLACE="marg">Gen. 1. 27. Matth. 19. 4.</NOTE> <HI>He that made them at
+<PB N="6" REF="8">
+the beginning made them Male</HI> and <HI>Female,</HI> and
+said<NOTE N="&dagger;" PLACE="marg">Gen. 2. 24. Matth. 19. 5.</NOTE> <HI>For this cause, shall a man leave Father,
+and Mother, and shall cleave unto his Wife, and they
+twain shall be one Flesh. VVhat therefore God hath
+joyn'd together, let not man put asunder.</HI> The
+<HI>Antecedent Command</HI> was from <HI>God</HI> the <HI>Father;</HI>
+the <HI>Command</HI> in the <HI>sequel</HI> from <HI>God</HI> the <HI>Son.</HI>
+And though the <HI>Practice</HI> of the <HI>Iewes</HI> had been
+contrariant to them <HI>both,</HI> by a <HI>Prescription</HI> al|most
+as <HI>old</HI> as <HI>two thousand years;</HI> yet as <HI>old</HI> as
+it was, 'twas but an <HI>overgrown Innovation.</HI> For
+<GAP DESC="foreign">, <HI>from the beginning it was
+not so.</HI></P>
+<P>Thus our Saviour, being sent to <HI>Reform</HI> the
+<HI>Iews,</HI> made known the <HI>Rule</HI> of his <HI>Reformati|on.</HI>
+And the <HI>Lesson</HI> which it affords us is (in my
+poor judgment) of great Importance. For when
+the <HI>Doctrine</HI> or <HI>Discipline</HI> of our <HI>Church</HI> esta|blisht
+here in <HI>England</HI> shall be attempted by the
+<HI>Corruptions</HI> of <HI>Moderne<NOTE N="*" PLACE="marg"><HI>Romana Ecclesia se non tam</HI> matrem <HI>ex|hibet aliis qu&agrave;m</HI> No|vercam. <HI>Sedent in e&acirc;</HI> Scribae &amp; Pharis<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">i, &amp;c. Johan. Sarisbu|riensis (ad Papam Hadrianum 4.) in Polycratic. l. 6. c. 24.</NOTE> Pharisees,</HI> who shall as|sert
+against <HI>us</HI> (as <HI>these</HI> here did against our <HI>Sa|viour</HI>)
+either their forreign <HI>Superstitions,</HI> (to say
+no worse) or their domestick <HI>Profanations,</HI> (to,
+say no more;) we cannot better deal with <HI>them,</HI>
+then as our Saviour here dealt with the <HI>ancient
+Pharisees;</HI> that is, we cannot better put them to
+<HI>shame</HI> &amp; <HI>silence,</HI> then by demonstrating the <HI>No|velty</HI>
+and <HI>base extraction</HI> of <HI>their</HI> Pretensions,
+<PB N="7" REF="8">
+whilst we evince at the same instant the <HI>Sacred
+Antiquity</HI> of <HI>our owne.</HI> When they obtrude their
+<HI>Revelations,</HI> or <HI>teach for Doctrines of God the meer
+commandments of Men,</HI> we must aske them every
+one, <HI>how they read in the beginning.</HI> We may not
+draw out of their <HI>Ditches,</HI> be the <HI>Currents</HI> never
+so <HI>long,</HI> whilst we have <HI>waters</HI> of our <HI>own</HI> of a
+nobler <HI>Taste,</HI> which we can easily <HI>trace back</HI> to
+the <HI>crystal spring.</HI></P>
+<P>And first of all it concernes us to marke the
+<HI>Emphasis,</HI> which our <HI>Ancient of dayes</HI> thought
+fit to put on <HI>the Beginning,</HI> that no <HI>inferior An|tiquity</HI>
+may be in danger to <HI>deceive</HI> us. For
+there is hardly any <HI>Heresie</HI> or <HI>Usurpation</HI> in the
+Church, which may not truly pretend to some
+<HI>great Antiquity,</HI> though not so old as the <HI>Old
+man,</HI> much lesse as the <HI>Old Serpent.</HI><NOTE N="a" PLACE="marg">Epiph. Haer. 75. p 904. Tom. 1. Ed. P<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">tav.</NOTE> The
+<HI>Disciplinarians</HI> may fetch <HI>theirs</HI> from as far as
+the Heretick <GAP DESC="illegible" RESP="tech" EXTENT="2 letters">rius; who wanting <HI>merit</HI> to
+advance him from a <HI>Presbyter</HI> to a <HI>Bishop,</HI>
+wanted not <HI>arrogance</HI> and <HI>envy</HI> to lessen the
+<HI>Bishop</HI> into a <HI>Presbyter.</HI> But <HI>His</HI> Antiquity
+is a <HI>Iunior,</HI> as well to that of the <HI>Anabaptists,</HI>
+as to that of the <HI>Socinians.</HI> For the<NOTE N="b" PLACE="marg">August. contra Donat. Tom. 7. lib. 2. p. 396. Edit. Basil.</NOTE> <HI>Ana|baptists</HI>
+may boast they are as old as <HI>Agrippinus,</HI>
+and the<NOTE N="c" PLACE="marg">Epiph. Haer. 62. p. 513.</NOTE> <HI>Socinians</HI> as <HI>Sabellius.</HI> The<NOTE N="d" PLACE="marg">August. Tom. 6. Haer. 54. p. 25.</NOTE> <HI>Soli|fidians</HI>
+and <HI>Antinomians</HI> are come as far as from
+<HI>Eunomius.</HI> The<NOTE N="e" PLACE="marg">Iren. lib. 1. c. 24. p 79. Excus. 1570.</NOTE> <HI>Ranters</HI> from <HI>Carpocrates.</HI>
+The<NOTE N="f" PLACE="marg">Euseb. l. 3. c. 33. p. 80. Colon. Allobr<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">|gum 1612.</NOTE> <HI>Millenaries</HI> from <HI>Papias.</HI> The <HI>Irre|spective</HI>
+<PB N="8" REF="9">
+<NOTE N="g" PLACE="marg">Iren. l. 1. c. 10. pag. 48, <HI>&amp;c.</HI> Epiph. Haer. 66. pag. 617.</NOTE> <HI>Reprobatarians</HI> from <HI>Simon Magus</HI>
+and the <HI>Manichees.</HI> The <HI>Pontificians</HI> (like the
+<HI>Mahumetans)</HI> have such a <HI>Rhapsody</HI> of <HI>Religion,</HI> a
+<HI>Religion</HI> so <HI>compounded</HI> of several <HI>Errors</HI> and <HI>Cor|ruptions,</HI>
+(which yet are blended with <HI>many
+Doctrines</HI> most <HI>sound</HI> and <HI>Orthodox,</HI>) that to find
+out the age of their <HI>severall Ingredients,</HI> it will
+be necessary to rake into <HI>several times</HI> too.</P>
+<P>THe great <HI>Palladium</HI> of the <HI>Conclave,</HI> the
+famous point of <HI>Infallibility</HI> (which if you
+take away from them, down goes their <HI>Troy,</HI>
+it being absolutely impossible that the learned
+<HI>Members</HI> of such a <HI>Church</HI> should glibly <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">wal|low
+so many <HI>Errors,</HI> unless by swallowing
+this first, <HI>That she cannot erre;</HI>) I say, the point of
+<HI>Infallibility</HI> (which is a very <HI>old Article</HI> of their
+very <HI>new Creed,</HI> a <HI>Creed</HI> not perfected by its
+Composers until the <HI>Council</HI> at <HI>Trent,</HI>) we can|not
+better derive then from the <HI>Scholars</HI> of<NOTE N="a" PLACE="marg">Iren. Advers. Hae|ret. l. 1. c. 9. p. 44. &amp;c.</NOTE>
+<HI>Marcus</HI> in <HI><GAP DESC="illegible" RESP="tech" EXTENT="1 letter">renaeus,</HI> or from the <HI>Gnosticks</HI> in
+<NOTE N="b" PLACE="marg">&mdash;<GAP DESC="foreign">, Epiph. Tom. 1 l. 1. Haer. 26. p. 9<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> <GAP DESC="foreign"> Idem. ibid. Haer. 27. <GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> 102.</NOTE> <HI>Epiphanius.</HI> They had their <HI>Purgatory</HI>
+from<NOTE N="c" PLACE="marg"><HI>Note, That</HI> Bellar|mine <HI>having boasted,</HI> (Lib. 1. de Pargatoria, cap. 15.) That all the A<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">tie<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">s, both Greek and Latine, from the very time of the Apostles, did constantly affirm the doctrine of Purgatory, <HI>could
+not give an older instance, then in</HI> Origen <HI>and</HI> Tertullian, (Ibid. cap. 2. &amp; 7. &amp; 10.) <HI>but by recourse unto the</HI> Heathen. (Ibid. cap. 11.)</NOTE> <HI>Origen,</HI> (one of the <HI>best</HI> indeed in <HI>one</HI>
+kind, but in <HI>another</HI> one of the <HI>worst</HI> of our
+antient Writers, not onely an <HI>Heretick,</HI> but
+an <HI>Haeresiarcha,</HI>) or at the farthest from
+<HI>Tertullian,</HI> who had it from no better Au|thour
+<PB N="9" REF="9">
+then the<NOTE N="d" PLACE="marg"><P><HI>Hoc etiam</HI> Para|cletus <HI>(i e.</HI> Montanus) <HI>frequentissim&egrave; com|mendavit,</HI> &amp;c. Tert. de Anim<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">, cap. ult.</P>
+<P><HI>See</HI> Bellarmine <HI>con|tradicted by the</HI> Ro|manists <HI>themselves, E. G.</HI> Roffens. contr. Lutherum, Art. 18. Polydor. Virg. Inv. Rer. lib. 8. c. 1. p. 84. Edit. Basil. 1521. Suarez in Aquin. par. 3. q. 59. art. 6. sect. 1. p. 1159.</P>
+<P>Thomas ex Albiis East-Saxonum de Me. dio Animarum statu, per totum libr. specia|tim Demens. 9 <HI>p.</HI> 369, 370, 371.</P></NOTE> <HI>Arch-Heretick Montanus.</HI>
+Nor does <HI>Bellarmine</HI> mend the matter, by de|riving
+it as far as from <HI>Virgil</HI>'s <HI>Aeneid,</HI> and
+from <HI>Tully</HI> in his Tale of the <HI>Dream</HI> of <HI>Scipio,</HI>
+and farther yet from <HI>Plato</HI>'s <HI>Gorgias;</HI> unless
+he thinks that an <HI>Heathen</HI> is any whit fitter
+then an <HI>Heretick,</HI> to give Advantage to a
+point of the <HI>Roman Faith.</HI> Their Denial of
+<HI>Marriage</HI> to all that enter into the <HI>Priesthood,</HI>
+is dated by <HI>themselves</HI> but from Pope<NOTE N="e" PLACE="marg">Liquet item, in ori|entali &amp; occidentali Ecclesi&acirc;, usqu<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> ad tem|pus prohibitionis &agrave; Ca|lixto factae, Sacerdotum conjugia licita suisse. <HI>Maximil. 2, apud Thu. an. l. 36. p.</HI> 305, 306.</NOTE> <HI>Ca|lixtus.</HI>
+Their<NOTE N="f" PLACE="marg">An<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">e Lateranense Coacilium Transub|staatiatio non suit dog|ma Fidei. <HI>Scot. in 4. Sent. Dist. 11. q.</HI> 3.</NOTE> <HI>Transubstantiation</HI> is from
+the <HI>Lateran Council.</HI> Their<NOTE N="g" PLACE="marg">N<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">gare non possu|mus, etiam in <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">cclesi&acirc; Lati<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">d suisse usum u. tri<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">sq<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">sp<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ciei, &amp; us|que ad tempora S. Tho|mae durasse. <HI>Vasq. in 3. Disput. 216. c. 3. n.</HI> 38.</NOTE> <HI>Half-Commu|nion</HI>
+is no older then since the times of <HI>Aqui|nas;</HI>
+unless they will own it from the <HI>Mani|chees,</HI>
+to give it the credit of more <HI>Antiquity.</HI>
+Their publick praying before the people in
+an <HI>unknown Tongue,</HI> may be fetcht indeed as
+far as from <HI>Gregory</HI> the <HI>Great.</HI> Their <HI>Invoca|tion
+of Saints departed</HI> is no doubt an <HI>aged Er|ror,</HI>
+though not so aged as <HI>they</HI> would <HI>have</HI> it
+for the gaining of <HI>honour</HI> to the <HI>Invention;</HI> be|cause
+St. <HI>Austin</HI> does<NOTE N="h" PLACE="marg">Suo loco &amp; or|dine Homines Dei <HI>no|minantur, non</HI> tamen &agrave; Sacerdote qui sacrificat <HI>invocantur&punc; August. de Civitate Dei lib. 22. cap. 10. pag.</HI> 1155.</NOTE> <HI>deny</HI> it to have been in
+<HI>his days.</HI> And (not to be <HI>endless</HI> in the <HI>begin|ning</HI>
+of such a <HI>limited Discourse,</HI> as must not
+presume to exceed an <HI>hour;</HI> though in so
+<HI>fruitfull</HI> a <HI>field</HI> of <HI>matter,</HI> 'tis very <HI>difficult not to
+<PB N="10" REF="10">
+be endlesse;</HI>)<NOTE N="i" PLACE="marg">Pho<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> as iratus Cy|riaco Episcopo Constan|tinopolitano, adjudica|vit Titulum <HI>Oecu|menici Pontifici Ro|mano</HI> soli. <HI>Baronius ad A. C.</HI> 606.</NOTE> The <HI>Vniversall Superintendency</HI>
+or <HI>Supremacy</HI> of the <HI>Pope</HI> hath been a visible
+usurpation ever since <HI>Boniface</HI> the Third. And
+so our Adversaries of <HI>Rome</HI> have more to plead
+for Their <HI>Errours</HI> then all the <HI>rest,</HI> because the
+<HI>rest</HI> were but as <HI>Mushroms</HI> in their severall
+times, soon starting up, and as soon cut down;
+whereas the Errours of <HI>Rome</HI> do enjoy the
+pretence of <HI>Duration</HI> too.</P>
+<P>But touching <HI>each</HI> of those <HI>Errours,</HI> (I mean
+the Errors of their <HI>Practice,</HI> as well as <HI>Iudg|ment,</HI>)
+we can say with our <HI>Saviour</HI> in his pre|sent
+Correption of the <HI>Pharisees,</HI> (whose Er|ror
+was <HI>older</HI> and more <HI>authentick,</HI> that is, by
+<HI>Moses</HI> his <HI>permission</HI> had more appearance of
+<HI>Authority,</HI> and more to be pleaded in its <HI>ex|cuse,</HI>
+then those we find in the Church of
+<HI>Rome,) that fro<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">n the beginning it was not so;</HI> and
+we care not <HI>whence</HI> they come, unlesse they
+come from the <HI>Beginning.</HI></P>
+<P>Indeed in <HI>matters</HI> of <HI>meer Indifference</HI> which
+are brought into the <HI>Government</HI> or <HI>outward
+Discipline</HI> of the Church, every Church has the
+Liberty to make her own <HI>Constitutions,</HI> not
+asking <HI>leave</HI> of her <HI>Sisters,</HI> much less her
+<HI>Children;</HI> onely they must not be reputed as
+things <HI>without which</HI> there is <HI>no Salvation,</HI> nor
+be obtruded upon the People amongst the
+<HI>Articles</HI> of their <HI>Faith.</HI> We are to look upon
+<PB N="11" REF="10">
+nothing <HI>so,</HI> but as it comes to us <HI>from the Be|ginning.</HI></P>
+<P>And this has ever been the <HI>Rule</HI> (I mean
+the <HI>warrantable</HI> Rule) whereby to <HI>improve</HI> or
+<HI>reform</HI> a Church. When <HI>Esdras</HI> was intent
+on the <HI>re-building</HI> of the <HI>Temple,</HI> he sent not to
+<HI>Ephesus,</HI> much lesse to <HI>Rome;</HI> he did not imi|tate
+<HI>Diana's</HI> Temple, nor enquire into the
+<HI>Rituals</HI> of <HI>Numa Pompilius;</HI> but had recourse
+for a <HI>Temple,</HI> to that of <HI>Solomon,</HI> and for a
+<HI>Ritual,</HI> to that of <HI>Moses,</HI> as having <HI>both</HI> been
+prescribed by <HI>God himself.</HI> And yet we know
+the Prophet <HI>Haggai</HI> made the people <HI>steep</HI> their
+<HI>Ioy</HI> in a <HI>showre</HI> of <HI>Tears,</HI> by representing how
+much the <HI>Copy</HI> had faln short of the <HI>Original.</HI>
+The holy Prophets in the Old Testament,
+shewing the <HI>way</HI> to a <HI>Reformation,</HI> advis'd the
+Princes and the People <HI>to aske after the old
+paths, and walk therein,</HI> as being the onely <HI>good
+way</HI> for the <HI>finding of rest unto their souls,</HI> Jer.
+6. 16. The Prophet <HI>Isaiah</HI> sought to <HI>regulate</HI>
+what was amisse amongst the <HI>Iewes,</HI> by bid|ding
+them have recourse <HI>unto the Law and the
+Testimony: should not a people <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">eek unto their God?
+If any speak not according to this word, it is because
+there is no light in them,</HI> Isa. 8. 19 20. And ac|cordingly
+their <HI>Kings,</HI> who took a care to <HI>re|form
+abuses,</HI> are in this solemn style commen|ded
+for it, <HI>That they walked in the ways of their
+<PB N="12" REF="11">
+Father David;</HI> that is, <HI>reform'd</HI> what was <HI>a|misse</HI>
+by what had been from the <HI>Beginning.</HI>
+So St. <HI>Paul</HI> in the New Testament, setting
+<HI>right</HI> what was <HI>crooked</HI> about the <HI>Supper of the
+Lord</HI> in the <HI>Church</HI> of <HI>Corinth,</HI> laid his <HI>line</HI> to
+that <HI>Rule</HI> which he was sure he <HI>had receiv'd
+from the Lord Himselfe,</HI> 1 Cor. 11. 23. And
+thus our Saviour in my Text, finding the
+<HI>Pharisees</HI> very <HI>fond</HI> of a <HI>vicious practice,</HI> which
+<HI>supported</HI> it self by an <HI>old Tradition,</HI> and had
+<HI>something</HI> of <HI>Moses</HI> to give it <HI>countenance</HI> in the
+world, (though indeed no more then a <HI>bare
+permission,</HI>) could not think of a better way to
+make them <HI>sensible</HI> of their <HI>Error,</HI> (and <HI>such</HI> an
+<HI>Error</HI> as was their <HI>Sin</HI> too,) then by shewing
+them the great and important difference be|twixt
+an <HI>old,</HI> and a <HI>primitive</HI> Custome; and
+that however their <HI>breach</HI> of <HI>Wedlock</HI> had <HI>been</HI>
+without check from the <HI>days</HI> of <HI>yore,</HI> yet 'twas
+for <HI>this</HI> to be <HI>reform'd,</HI> that 'twas <HI>not so from the
+Beginning.</HI></P>
+<P>In a most dutifull <HI>Conformity</HI> to which
+<HI>example,</HI> our <HI>Reformers</HI> here in <HI>England</HI>
+(of <HI>happy memory</HI>) having discover'd in
+every part of the <HI>Church</HI> of <HI>Rome,</HI> not
+onely horrible <HI>Corruptions</HI> in point of <HI>Pra|ctice,</HI>
+but hideous <HI>Errors</HI> in point of <HI>Doctrine,</HI>
+and that in matters of <HI>Faith</HI> too, (as I shall
+find an occasion to shew anon;) and ha|ving
+<PB N="13" REF="11">
+found by what <HI>degrees</HI> the severall <HI>Errors</HI>
+and <HI>Corruptions</HI> were <HI>slily</HI> brought into the
+<HI>Church,</HI> as well as the several <HI>times</HI> and <HI>seasons</HI>
+wherein the <HI>Novelties</HI> received their <HI>birth</HI> and
+<HI>breeding;</HI> and presently after taking notice,
+that in the <HI>Council</HI> of <HI>Trent</HI> the <HI>Roman</HI> Par|tisans
+were not afraid to make<NOTE N="a" PLACE="marg">Vide <HI>Concil. Tri|dent.</HI> Sess. 13. Can. 2, 3. Sess. 21. Can. 1, 2, 3. Sess. 22. Can. 3, 5, 6, 8, 9 Sess. 23. Can. 1, 4, 5, 6, 8, 9. Sess. 25. &amp;c. quam conser cum <HI>Bull&acirc; Pii Quarti. Edit. Bin. p. 444. Tom.</HI> 9.</NOTE> <HI>New Ar|ticles
+of Faith,</HI> whilst the <HI>Sacrifice</HI> of the <HI>Mass,</HI>
+the Doctrine of <HI>Purgatory,</HI> the Invocation of
+<HI>Saints,</HI> the Worship of <HI>Images,</HI> and the like,
+were <HI>commanded</HI> to be <HI>embraced</HI> under pain of
+<HI>damnation,</HI> (as it were in <HI>contempt</HI> of the <HI>Apo|stle's
+denuntiation,</HI> Gal. 1. 8. by which that
+<HI>practice</HI> of those <HI>Conspirators</HI> made them lia|able
+to a <HI>curse;</HI>) and farther yet, that in the
+<HI>Canon</HI> of the <HI>Fourth Session</HI> of that <HI>Council,</HI> the
+<HI>Roman</HI> Church was made to <HI>differ</HI> as well
+from her <HI>ancient</HI> and <HI>purer self,</HI> as from <HI>all other
+Churches</HI> besides her self, in that there were
+many meerly <HI>humane</HI> (I do not say <HI>profane)
+VVritings,</HI> and many unwritten <HI>Traditions</HI> also,
+not only <HI>decreed</HI> to be of<NOTE N="b" PLACE="marg">Nec non <HI>ipsas Tra|ditiones,</HI> <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">um ad fidem tum ad mores pertinen|tes, tanquam vel &agrave; Spi|ritu Sancto diciatas, pari pictatis affectu ac reverenti&acirc; suscipit ac veneratur (haec Sancta Synodus.) <HI>Trident. Conc. Sess. 4. sub. Pau|lo 3. Bin. Tom. 9. p.</HI> 354.</NOTE> <HI>equal Authority</HI> with
+the <HI>Scriptures,</HI> but with the addition of an
+<NOTE N="*" PLACE="marg">Siquis libros ipsos integros,&mdash;pro sacris &amp; Canonicis non susce|p. rit, &amp; Traditiones praedictas sciens con|tempserit, <HI>Anathema sit. ibid.</HI></NOTE> <HI>Anathema</HI> to all that should not so <HI>receive</HI>
+them: This (I say) being consider'd aud laid
+to heart by our <HI>Reformers,</HI> (by our <HI>Kings,</HI> and
+our <HI>Clergy,</HI> and <HI>Laiety</HI> too, met together in
+their greatest both <HI>Ecclesiastical</HI> and <HI>Civil Coun|cils,</HI>)
+they did not <HI>consult</HI> with <HI>flesh</HI> and <HI>bloud,</HI>
+<PB N="14" REF="12">
+or expect the Court of <HI>Rome</HI> should become
+their <HI>Physician,</HI> which was indeed their <HI>great
+Disease;</HI> but having recourse unto the <HI>Scri|ptures</HI>
+and <HI>Primitive Fathers</HI> of the <HI>Church,</HI> they
+consulted those <HI>Oracles</HI> how things stood <HI>from
+the Beginning:</HI> And onely <HI>separating</HI> from <HI>Them,</HI>
+whom they found to have been <HI>Separatists</HI>
+from the <HI>primitive Church,</HI> they <HI>therefore</HI> made
+a <HI>Secession,</HI> that they might not partake of the
+<HI>Romane Schisme.</HI> And whilst they made a <HI>Se|cession</HI>
+for fear of <HI>Schism;</HI> (which by no other
+practice could be avoided,) they studiously
+kept to the Golden <HI>mean;</HI> neither <HI>destroying</HI>
+the <HI>Body</HI> out of <HI>hatred</HI> to the <HI>Ulcers</HI> with
+which 'twas spred, nor yet <HI>retaining</HI> any <HI>Ulcer</HI>
+in a passionate <HI>dotage</HI> upon the <HI>Body.</HI></P>
+<P>One <HI>remarkable Infirmity</HI> it is obvious to
+observe in the <HI>Popish Writers:</HI> they ever com|plaine
+we have <HI>left</HI> their Church; but never
+shew us that <HI>Iota,</HI> as to which we have left the
+<HI>Word of God,</HI> or the <HI>Apostles,</HI> or the <HI>yet uncor|rupted</HI>
+and <HI>primitive Church,</HI> or the Four <HI>first
+Generall Councils.</HI> We are so zealous for <HI>Anti|quity,</HI>
+(provided it be but <HI>antique enough,</HI>) that
+we never have despised a <HI>meer Tradition,</HI> which
+we could <HI>track</HI> by sure <HI>footsteps</HI> from as far as
+the times of the <HI>purest Christians.</HI> But this is
+still their <HI>childish fallacy,</HI> (be it spoken to the
+shame of their greatest <HI>Giants</HI> in Dispute, who
+<PB N="15" REF="12">
+still <HI>vouchsafe</HI> to be <HI>guilty</HI> of it,) that they con|fidently
+shut up <HI>the Church</HI> in <HI>Rome,</HI> as their
+Seniors the <HI>Donatists</HI> once did in <HI>Africk;</HI> and
+please to call it the <HI>Catholick</HI> Church, not <HI>for|mally,</HI>
+but <HI>causally,</HI> (saith Cardinal <HI>Peron,</HI>) be|cause
+forsooth <HI>that particular</HI> doth infuse <HI>uni|versality</HI>
+into all other Churches besides it
+self: The learned Cardinal <HI>forgetting,</HI> (which
+is often the <HI>effect</HI> of his very <HI>good memory,</HI>)
+that the <HI>preaching</HI> of <HI>Christ</HI> was to <HI>begin at
+<NOTE N="a" PLACE="marg"><GAP DESC="foreign">, <HI>&amp;c.</HI> Theod. Hist. Eccles. lib. 5. cap. 9. Concil. Constantinop. apud Baronium ad A. D. 382. <HI>suffragatur.</HI></NOTE> Ierusalem.</HI> So it was in the <HI>Prophesie, (Isa. 2.
+3. Mic.</HI> 4. 2.) and so in the <HI>completion, (Luke
+24.</HI> 47.) Nor was it <HI>Rome,</HI> but <HI>Antioch,</HI> in
+which the <HI>Disciples</HI> were first call'd <HI>Christians,
+(Act.</HI> 11. 26.) At<NOTE N="b" PLACE="marg"><GAP DESC="foreign">, <HI>apud</HI> Chrysost. ad Po|pulum Antiochen. Hom. 3.</NOTE> <HI>Antioch</HI> therefore there
+was a <HI>Church,</HI> before St. <HI>Peter</HI> went thence to
+<HI>Rome.</HI> Nay 'tis expresly affirm'd by<NOTE N="c" PLACE="marg">Tempore, ut scimus summo Tiberii Caesaris al<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">sque ullo impedimen. to&mdash;radios suos pri|mum indulget, id est pr<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">cepta sua, Christus<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> <HI>G<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ldas in Epist. de Excid. Brit. Sect.</HI> 6.</NOTE> <HI>Gildas,</HI>
+(an Author very much <HI>revered</HI> by the <HI>Roma|nists
+themselves,</HI>) that Christianity was in <HI>Bri|tain</HI>
+in the latter time of <HI>Tiberius Caesar;</HI> some
+while after whose death, 'tis known that
+St. <HI>Peter</HI> remain'd in <HI>Iewry.</HI> So that <HI>Rome</HI>
+which pretends to be a <HI>Mother,</HI> can be no more
+at the best then a <HI>Sister-Church,</HI> and not the <HI>el|dest</HI>
+Sister neither.</P>
+<P>Neglecting therefore the pretended <HI>Uni|versality</HI>
+of the <HI>Roman</HI> (that is to say, of a <HI>par|ticular</HI>)
+Church; let us compare her <HI>Innova|tions</HI>
+with what we find from the <HI>Beginning.</HI>
+<PB N="16" REF="13">
+For <HI>this</HI> I take to be the <HI>fittest</HI> and the most <HI>pro|fitable
+Use,</HI> that we can make of the subject we
+have in hand.</P>
+<P>And first, consider we the <HI>Supremacy</HI> or
+<HI>Universall Pastorship</HI> of her <HI>Popes:</HI> which is in|deed
+a very <HI>old,</HI> and somewhat a <HI>prosperous
+Vsurpation;</HI> an <HI>Usurpation</HI> which took its rise
+from more then a <HI>thousand</HI> years ago. But
+then, besides that it was <HI>sold</HI> by the Emperour
+<NOTE N="a" PLACE="marg">De Phoc&acirc; coeli<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">s est dictum, <GAP DESC="foreign">, &amp;c. <HI>Cedre|nus, p.</HI> 334.</NOTE> <HI>Phocas,</HI> at once an<NOTE N="b" PLACE="marg"><GAP DESC="foreign">. <HI>Idem. p.</HI> 332.</NOTE> <HI>Heretick</HI> and a <HI>Regi|cide,</HI>
+the Devillish Murderer of <HI>Mauritius,</HI>
+(who was the <GAP DESC="foreign">, the <HI>Royall Image</HI> or
+<HI>Type</HI> of our late <HI>Royall Martyr</HI> of Sacred Me|mory;)
+I say, besides that it was <HI>sold</HI> by the
+most execrable <HI>Phocas,</HI> that is to say, by the
+<HI>greatest Villain in the world,</HI> excepting <HI>Cromwell</HI>
+and <HI>Pontius Pilate;</HI> and besides that it was
+<HI>sold</HI> to ambitious <HI>Boniface</HI> the Third, whose
+vile <HI>compliance</HI> with that <HI>Phocas</HI> was the <HI>bribe</HI>
+or <HI>price</HI> with which he <HI>bought</HI> it: and besides
+that it was done, not out of <HI>reverence</HI> to the
+<HI>Pope,</HI> but in<NOTE N="c" PLACE="marg">Phocas <HI>iratus</HI> Cy|riaco, Episcopo Con|stantinopolitano <HI>ad|judicavit Titulum</HI> Oecumenici <HI>Pontifici Romano.</HI> Baron. Annal. ad A. Ch. 606.</NOTE> <HI>displeasure</HI> to <HI>Cyriacus</HI> of <HI>Con|stantinople,</HI>
+who (from <HI>Iohn</HI><NOTE N="d" PLACE="marg"><HI>Johannes</HI> Constan|tinopolitanus sese hinc efferens, se ubique <HI>Oe|cumenicum</HI> Patriar|cham nominavit. <HI>Idem ad A. C.</HI> 595.</NOTE> his Predeces|sor)
+usurpt the Title of <HI>Vniversall</HI> before
+any <HI>Pope</HI> had <HI>pretended</HI> to it: I say, <HI>besides,</HI> or
+<HI>without</HI> all this, it is sufficient for <HI>us</HI> to say,
+what our <HI>Saviour</HI> here said to the ancient Pha|risees,
+<HI>That from the beginning it was not so.</HI> For
+looking back to the <HI>Beginning,</HI> we find <HI>The
+<PB N="17" REF="13">
+Wall of God's City had Twelve Foundations, and in
+them were the names of the Twelve Apostles of the
+Lamb. (Rev. 21. 14) Paul</HI> was <HI>equal</HI> at least
+to <HI>Peter,</HI> when he <HI>withstood him to the face,</HI> and
+<HI>rebuked</HI> him <HI>in publick</HI> for his <HI>Dissimulation.</HI>
+(Gal. 2. 11, 12, 13, 14) Nay S^t. <HI>Peter himself,</HI> (as
+well as <HI>Iames</HI> and <HI>Iohn,</HI> who were his <HI>Peers,)
+although he seemed to be a Pillar, yet perceiving the
+Grace that was given to</HI> Paul, <HI>gave to</HI> Barnabas
+<HI>and</HI> Paul <HI>the right hand of Fellowship (Gal.</HI> 2. 9.)
+And reason good: For S. <HI>Peter</HI> was but <HI>one</HI> of
+the <HI>many Apostles</HI> of the <HI>Iewes;</HI> whereas S^t. <HI>Paul</HI>
+was much <HI>more,</HI> the great <HI>Apostle</HI> of the <HI>Gen|tiles,</HI>
+to whom the <HI>Iewes</HI> were no more then
+as a <HI>River</HI> to an <HI>Ocean.</HI> Saint <HI>Peter</HI> was com|manded
+not to <HI>fleece,</HI> but to<NOTE N="*" PLACE="marg">John 21. 15, 16, 17.</NOTE> <HI>feed the flock:</HI>
+Nor was it ever once known that he did
+<HI>lord</HI> it <HI>over God's heritage,</HI> which himself had
+so strictly forbid to others, 1 <HI>Pet.</HI> 5. 3. In|deed
+a <HI>primacy</HI> of <HI>Order</HI> may very easily be
+allow'd to the See of <HI>Rome:</HI> But for any <HI>one
+Bishop</HI> to affect over his Brethren a <HI>suprema|cy</HI>
+of <HI>Power</HI> and <HI>Iurisdiction,</HI> is <HI>a</HI> most impu|dent
+<HI>opposition</HI> both to the <HI>Letter</HI> and the <HI>Sense</HI>
+of our <HI>Saviour's precept,</HI> (Mark 10. 42, 43,
+44.) <HI>Ye know, that they who are accounted to
+rule over the Gentiles, exercise lordship over them,
+and their greaton<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">s exercise authority upon them.
+But so shall it not be among you: But whosoever will
+<PB N="18" REF="14">
+be great among you, shall be your Minister; and
+whosoever of you will be the chiefest, shall be the
+servant of all.</HI></P>
+<P>That the <HI>Apostles</HI> were <HI>every one</HI> of <HI>equal
+power</HI> and <HI>authority,</HI> is the positive saying of
+<NOTE N="a" PLACE="marg"><HI>Cyprianus</HI> ait pari omnes inter se su<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">sse potestate Apostolos; atque hoc idem suisse alios quod <HI>Petrus</HI> fu|it. <HI>Tractat. 3. de S<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">mplicitate Praela|torum, (Edit, Co|lon. 1544.) p.</HI> 135.</NOTE> St. <HI>Cyprian, Pari consortio praediti &amp; honoris
+&amp; potestatis.</HI> And St. <HI>Ierome</HI> is as expresse,
+That<NOTE N="b" PLACE="marg">Si Autoritas quae|ritur, Orbis major est Urbe, ubicunque fuerit Episcopus, sive Romae, sive Eugubii, sive Constantinopoli, sive Rhegii, sive Alexan|driae, sive Tanii, e|jusdem Meriti, cjus|dem est &amp; Sacerdotii. Potentia Divitiarum &amp; Paupertatis Humi|litas vel subsimiorem v<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">l inserio<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">em Episco|pum non facit. Cae|ter&ugrave;m omnes Aposto|lorum successores sunt. <HI>Hieron. in Epist. ad Evagrium, (ex Edit. Basil. 156,.) p. 329. <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ive ex Edit. Paris. 1533 Tom 2. p.</HI> 117.</NOTE> <HI>all Bishops, in all places, whether at</HI>
+Rome, <HI>or at</HI> Eugubium, <HI>at</HI> Constantinople,
+<HI>or at</HI> Rhegium, <HI>are of the very same merit,</HI> as
+to the <HI>quality</HI> of their <HI>Office;</HI> how much soever
+they may differ in point of <HI>Revenue</HI> or of <HI>En|dowments.</HI>
+Nay, by the <HI>Canons</HI> of the <HI>Two first
+General Councils, (Nice,</HI> and <HI>Constantinople,</HI>)
+every<NOTE N="c" PLACE="marg"><GAP DESC="foreign">. <HI>Concil. Nicae. Can.</HI> 6. <GAP DESC="foreign">. <HI>Ibid. Can.</HI> 7. <GAP DESC="foreign"> quae Antioche<GAP DESC="illegible" RESP="tech" EXTENT="2 letters"> Ecclesiae servari his Canonibus praecipiu<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">tur, <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">&ograve; pertinent, (inquit <HI>Justellus</HI>) ut Episcopus Antio|chenus praeferatur Metro<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">litanis omnibus in Orientali Dioecesi. <HI>Nihil Juris</HI> illi attributum in Caetero<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> Metropolitanos, <HI>praeter Honorem Ordinis,</HI> non autem ut Metropolitani omnes D<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">oeces<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">os Orientis <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">b <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">o jure singulari ordinarentur, ut <HI>Innocentii primi</HI> Epis<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ola ad Alexandr. Episcopum asserere videtur, <HI>contra mentem Synodi Nicaenae. Justell. p. 7. ex Edit. Gulielmi Voelli, A. D.</HI> 1661.</NOTE> <HI>Patriarch</HI> and <HI>Bishop</HI> is appointed to
+be <HI>chief</HI> in his proper <HI>Diocese;</HI> as the <HI>Bishop</HI> of
+<HI>Rome</HI> is the <HI>chief</HI> in <HI>His:</HI> And a strict<NOTE N="d" PLACE="marg"><GAP DESC="foreign">, &amp;c. Con|cil. Constantinop. Oecumen. 2. Can. 2. <HI>Quid hic Canon sibi velit per</HI> [<GAP DESC="foreign">] Justellus <HI>explicat paul&ograve; superi&ugrave;s</HI> ad Can. Conc. Nic. 6. nihil Juris <HI>nimirum</HI> Antiocheno attribuendum in caeteros Metropolitanos, praeter Ordinem Honoris.</NOTE> <HI>In|junction</HI> is laid on <HI>all,</HI> (the <HI>Bishop</HI> of <HI>Rome</HI> not
+<PB N="19" REF="14">
+excepted,) that they presume not to <HI>meddle</HI> in
+any <HI>Diocese</HI> but their <HI>own.</HI> And the chief
+<HI>Primacies</HI> of <HI>Order</HI> were granted to <HI>Rome</HI> and
+to <HI>Constantinople,</HI> not for their having been the
+<HI>Sees</HI> of such or such an <HI>Apostle,</HI><NOTE N="e" PLACE="marg"><HI>Confer</HI> Iustinian. Novel. Constit. 131. cap. 2. cum Canone 3. Concilii Constant.</NOTE> but for
+being the two <HI>Seats</HI> of the two great <HI>Empires.</HI>
+Witness the famous <HI>Canon</HI> of the <HI>Generall Coun|cil
+at Chalcedon,</HI><NOTE N="f" PLACE="marg"><GAP DESC="foreign">Et paul&ograve; post <GAP DESC="foreign">, &amp;c Concil. Chal|ced. Can. penult.</NOTE> decreeing to the <HI>Bishop</HI> of
+<HI>Constantinople</HI> an <HI>equality of Priviledges</HI> with the
+<HI>Bishop</HI> of <HI>Rome;</HI> not for any other reason,
+then its having the good hap to be <HI>one</HI> of the
+<HI>two Imperial Cities.</HI> Nay, no longer ago before
+<HI>Boniface</HI> the Third, (who was the <HI>first Bishop</HI>
+of <HI>Rome</HI> that usurpt the Title of <HI>Universal,</HI>)
+I say, no longer before <HI>Him</HI> then his next
+<HI>immediate</HI> Predecessor Pope <HI>Gregory the Great,</HI>
+(for I reckon <HI>Sabinian</HI> was but a Cypher,)
+the horrible <HI>Pride</HI> of succeeding Popes was
+stigmatiz'd by a <HI>Prolepsis;</HI> by way (not of
+<HI>Prophecy,</HI> but) of <HI>Anticipation.</HI> For<NOTE N="g" PLACE="marg"><P><HI>Quis est isle qui</HI> contra Statuta Evan|gelica, contra Cano|num Decreta, novum <HI>sibi usurpare</HI> nomen <HI>proesumit?</HI>&mdash;Novis <HI>&amp;</HI> profanis <HI>vocabulis gloriaatur.</HI></P>
+<P>&mdash;<HI>Absi<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> &agrave; cordibus Christianorum</HI> nomen illud Blasphemiae. Greg. Mag. Epist. 32. ad Mauritium Augustum.</P></NOTE> <HI>Gregory</HI>
+writing to <HI>Mauritius</HI> the then reigning Em|perour
+(and that in very many Epistles,)
+touching the name of <HI>Universal,</HI> which the
+<HI>Bishop</HI> of <HI>Constantinople</HI> had vainly taken unto
+himself, calls it a <HI>wicked</HI> and <HI>profane</HI> and <HI>blas|phemous
+Title; a Title importing, that the</HI><NOTE N="h" PLACE="marg">Sed in hac ejus superbi&acirc; quid aliud nis<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> propinqua jam <HI>Antichristi</HI> esse tempora designatur? <HI>Idem ad eundem in Epist.</HI> 34.</NOTE> <HI>times
+of Antichrist were at hand;</HI> (little thinking that
+<PB N="20" REF="15">
+Pope <HI>Boniface</HI> would presently after his de|cease
+usurp the same, and prove the <HI>Pope</HI> to
+be <HI>Antichrist</HI> by the <HI>Confession</HI> of a <HI>Pope.</HI>) He
+farther disputed against the Title by an Ar|gument
+leading <HI>ad absurdum;</HI><NOTE N="i" PLACE="marg"><P>Si illud nomen in Ecclesi&acirc; sibi quisquam arripuit, quod apud honorum omnium ju|dicium fuit, <HI>Universa</HI> ergo <HI>Ecclesia</HI> (quod absit) &agrave; statu suo cor|ruit, quando <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">s qui appellatur <HI>Universalis</HI> cadit. <HI>Idem. ad Eund. Epist</HI> 32.</P>
+<P><HI>Universalis</HI> autem nec etiam <HI>Romanus Pon|tifex</HI> appelletur, <HI>fa|tente Pap&acirc; Pelagio fecundo, apud Gra|tian Decretal. p. 1. dist. 99. cap.</HI> 4.</P>
+<P>Quis aute<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> illud pro indignitate rei stupe|at, qu&ograve;d <HI>novam</HI> quan|dam <HI>indebitamque Potentiam tibi usur|pando arrogas, &amp;c?</HI> Ita Papam allo <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">uuntur <HI>Episcopi Germa|nici apud Goldast. Tom. 1. p</HI> 47.</P></NOTE> That <HI>if any one
+Bishop</HI> were <HI>Universal,</HI> there would by con|sequence
+be a <HI>failing</HI> of the <HI>Universal Church,</HI>
+upon the <HI>failing</HI> of <HI>such</HI> a <HI>Bishop.</HI> An Argu|ment;
+<HI>ad homines,</HI> not easily to be answer'd,
+whatsoever Infirmity it may labour with <HI>in
+it selfe.</HI> And such an Argument is That, which
+we bring against the <HI>Pope's</HI> pretended <HI>Head|ship.</HI>
+For if the <HI>Pope</HI> is the <HI>Head</HI> of the <HI>Ca|tholick
+Church,</HI> then the <HI>Catholick Church</HI> must
+be the <HI>Body</HI> of the <HI>Pope;</HI> because the <HI>Head</HI> and
+the <HI>Body</HI> are the <HI>Relative</HI> and <HI>Correlative;</HI> and
+being <HI>such,</HI> they are <HI>convertible in obliquo:</HI> And
+then it follows unavoidably, That when
+there is <HI>no Pope at</HI> all, (which is very often,)
+the <HI>Catholick Church</HI> hath then <HI>no Head;</HI> and
+when there are <HI>many</HI> Popes <HI>at once,</HI> (which
+hath been sometimes the case,) then the <HI>Ca|tholick
+Church</HI> must have at once <HI>many Heads;</HI>
+and when the Pope is <HI>Heretical,</HI> (as by the
+<HI>confession</HI> of the <HI>Papists</HI> he now and then is,)
+the <HI>Catholick Church</HI> hath <HI>such</HI> a <HI>Head</HI> as makes
+her deserve to be <HI>beheaded.</HI><NOTE N="k" PLACE="marg"><HI>Multi Pontifices Romani errarunt; si|cut</HI> Marcellinus, <HI>qui</HI> Idolis sacrificavit; <HI>et</HI> Liberius Papa, <HI>qui</HI> Arianis consensit; <HI>&amp;</HI> Anastasius secundus <HI>propter</HI> Haeresis Cri|men <HI>repudiatus suit ab Ecclesi&acirc;: &amp; alii etiam plurimi contra Catholicam fidem te|nuerun<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">; ut</HI> Joannes vigesimus secundus, <HI>qui asseruit,</HI> qu&ograve;d filius Dei sit Major Patre &amp; Spiritu Sancto. Didacus Stella in Luc. cap. 22. vers. 31. p. 280. col. 1. Edit. Antverp. A. D. 1593. Ad Inquisitionis Hispaniae decreta <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">rorsus elimatus, et summ&acirc; fide repurgatus.</NOTE> That <HI>Popes</HI> have
+<PB N="21" REF="15">
+been <HI>Hereticks</HI> and <HI>Heathens</HI> too, not only by
+denying the <HI>Godhead</HI> of the <HI>Son,</HI> and by lifting
+him up <HI>above</HI> the other <HI>two Persons,</HI> but even
+by <HI>sacrificing to Idols,</HI> and a <HI>totall Apostacy</HI> from
+the <HI>Faith,</HI> is (a thing so <HI>clear</HI> in the wri|tings
+of <HI>Platina</HI> and <HI>Onuphrius,</HI> that 'tis)
+the Confession of the most <HI>zealous</HI> and
+<HI>partial</HI> Asserters of their <HI>Supremacy.</HI> I know
+that <HI>Stella,</HI> and those of the <HI>Spanish Inqui|sition,</HI>
+do at once confesse this, and yet ad|here
+to their Position,<NOTE N="&dagger;" PLACE="marg">Ubi supr&agrave;, verbis immediate subsequenti|bus.</NOTE> <HI>That</HI> (with his
+Colledge of Cardinals) <HI>the Pope cannot erre,
+and is the Head of the Church.</HI> But St. <HI>Hilary</HI> of
+<HI>Poictiers</HI> was so offended at <HI>Pope Liberius</HI> his
+espousing the <HI>Arian Heresie,</HI> that he affirm'd
+<HI>the true Church</HI> to have been <HI>then</HI> onely in
+<HI>France.</HI><NOTE N="*" PLACE="marg"><HI>Hilar. Pictav. de Synodis, p 287. &amp; paul&ograve; post</HI>&mdash;Qui|dam ex vobis firmissi|m&acirc; fidei constanti&acirc; intra communionem se meam continentes, se &agrave; caeteris extra Galli|as abstinuerunt. <HI>Idem. ib.</HI> 288.</NOTE> <HI>Ex eo inter nos tant&ugrave;m Communio Do|minica
+continetur.</HI> So ill success have they met
+withal, who have been <HI>Flatterers</HI> of the <HI>Pope</HI>
+or the <HI>Court</HI> of <HI>Rome.</HI></P>
+<P>To conclude this <HI>first Instance</HI> in the fewest
+words that I can use: Whosoever shall read
+<HI>at large</HI> (what I have time onely to <HI>hint</HI>) the
+many <HI>Liberties</HI> and <HI>Exemptions</HI> of the <HI>Gallican
+Church,</HI> and the published <HI>Confessions</HI> of <HI>Po|pish
+writers,</HI> for more then <HI>a thousand years to|gether,</HI>
+touching the <HI>Papal Usurpations,</HI> and
+<HI>Right of Kings,</HI> put together by <HI>Goldastus</HI> in
+<HI>three great Volumes;</HI> he will not be able to
+<PB N="22" REF="16">
+deny, (let his present perswasion be what it
+will,) that the <HI>Supremacy of the Pope</HI> is but a
+<HI>Prosperous Vsurpation,</HI> and hath this lying a|gainst
+it, that <HI>'twas not so from the beginning.</HI></P>
+<P>Secondly 'Tis true that for severall Ages,
+the <HI>Church</HI> of <HI>Rome</HI> hath pretended to be <HI>infal|lible;</HI>
+as well <HI>incapable</HI> of <HI>error,</HI> as <HI>not erroneous.</HI>
+But <HI>from the beginning it was not so.</HI> For, (be|sides
+that <HI>Infallibility</HI> is <HI>one</HI> of God's <HI>peculiar
+and incommunicable Attributes,</HI>) where there is
+not <HI>Omniscience,</HI> there must be <HI>Ignorance in p<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">rt;</HI>
+and where <HI>Ignorance</HI> is, there may be <HI>Error.</HI>
+That <HI>Heresie</HI> is <HI>Error</HI> in point of <HI>Faith,</HI> and that
+<HI>Novatianism</HI> is <HI>Heresie,</HI> all sides agree: And 'tis
+agreed by the <HI>Champions</HI> of the <HI>Papacy it selfe,</HI>
+(such as<NOTE N="a" PLACE="marg">Baron. Tom. 2. An. 254. pag. 498, 499. &amp; seq.</NOTE> <HI>Baronius,</HI><NOTE N="b" PLACE="marg">Pamel. in Cyprian. Epist. 41. &amp; 73.</NOTE> <HI>Pamelius,</HI> and<NOTE N="c" PLACE="marg">Petav. in Epiphan. ad Haeres. 59 quae est Novatianorum, pag. 226.</NOTE> <HI>Peta|vius,</HI>)
+that <HI>Rome</HI> it self was the <HI>Nest</HI> in which
+<HI>Novatianism</HI> was <HI>hatcht;</HI> and not onely so, but
+that <HI>there</HI> it continued from<NOTE N="d" PLACE="marg">Onuph. in Notis ad Plat. in v<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">t&acirc; Cor|nelii. pag. 29. Col. 2. Vide Euseb. l. 6. &amp; 7.</NOTE> <HI>Cornelius</HI> to <HI>Cae|lestine,</HI>
+which wants not much of <HI>two hun|dred
+years.</HI> To passe by the <HI>Heresies</HI> of the <HI>Do|natists</HI>
+and the <HI>Arians,</HI> (which strangely
+prosper'd for a time, and spread themselves
+over the world, the <HI>former</HI> over the <HI>VVest,</HI>
+the <HI>later</HI> over the <HI>East,</HI> and as far as the Breast
+of the <HI>Pope himself;</HI>) one would have thought
+that the Tenet of <HI>Infallibility upon Earth</HI> had
+been sufficiently prevented by the <HI>Heresie</HI><NOTE N="e" PLACE="marg">Vide Bellar. Chro|nolog. ad <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">. C. 132. &amp; Euseb. H<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">st. Ec|cles. l. 3. c 39.</NOTE> of
+the <HI>Chiliasts,</HI> wherewith the Primitive
+<PB N="23" REF="16">
+Church her self (I mean the very <HI>Fathers</HI> of
+the Primitive Church, for the two first Cen|turies
+after Christ,) was not onely <HI>deceiv'd</HI>
+by <HI>Papias,</HI> who was a Disciple of St. <HI>Iohn,</HI>
+but (for ought I yet learn) without <HI>the
+least Contradiction</HI> afforded to it. Nay <HI>the
+whole Church of God</HI> (in the opinion of St.<NOTE N="a" PLACE="marg1">Non potest pro|ba<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">i <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">um <HI>[i. e. Augu|stinum]</HI> existimasse h&icirc;c de Eucharisti&acirc; non agi, cum tam multis locis aliis probet ex hoc <HI>Johannis</HI> Testi|monio, <HI>Eucharistiam etiam Infantibus esse Necessariam;</HI> idque non ut opinionem su|am sed ut <HI>Fidei &amp; Totius Ecclesiae Dog|ma:</HI> ad res<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">llendos Pelagianos dicat: <HI>&amp; paul&ograve; post</HI>&mdash;Missam facio <HI>Augustini</HI> &amp; <HI>Innocentii</HI> primi sen|tentiam, quae <HI>sexcen|tos circiter annos viguit</HI> in Ecclesi&acirc;, <HI>Eu|charistiam etiam In|fantibus necessariam.</HI> Res jam ab Ecclesi&acirc;, &amp; Mul<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">orum seculorum usu, &amp; <HI>Decreto Synodi Tridentinae</HI> explicata est, <HI>non so<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">&ugrave;m necessariam illis non esse,</HI> sed ne decere quid<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">m dari. <HI>(Sess. 21 c. &amp; Can 4.) Maldonat. (Excus. Mussiponti, A. C. 1596.) in Joh. 6. 53. p.</HI> 717, 718, 719.</NOTE> <HI>Au|stin</HI>
+and <HI>Pope Innocent the third,</HI>) and for <HI>six hun|dred
+years together,</HI> (if<NOTE N="a" PLACE="marg2">Non potest pro|ba<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">i <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">um <HI>[i. e. Augu|stinum]</HI> existimasse h&icirc;c de Eucharisti&acirc; non agi, cum tam multis locis aliis probet ex hoc <HI>Johannis</HI> Testi|monio, <HI>Eucharistiam etiam Infantibus esse Necessariam;</HI> idque non ut opinionem su|am sed ut <HI>Fidei &amp; Totius Ecclesiae Dog|ma:</HI> ad res<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">llendos Pelagianos dicat: <HI>&amp; paul&ograve; post</HI>&mdash;Missam facio <HI>Augustini</HI> &amp; <HI>Innocentii</HI> primi sen|tentiam, quae <HI>sexcen|tos circiter annos viguit</HI> in Ecclesi&acirc;, <HI>Eu|charistiam etiam In|fantibus necessariam.</HI> Res jam ab Ecclesi&acirc;, &amp; Mul<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">orum seculorum usu, &amp; <HI>Decreto Synodi Tridentinae</HI> explicata est, <HI>non so<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">&ugrave;m necessariam illis non esse,</HI> sed ne decere quid<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">m dari. <HI>(Sess. 21 c. &amp; Can 4.) Maldonat. (Excus. Mussiponti, A. C. 1596.) in Joh. 6. 53. p.</HI> 717, 718, 719.</NOTE> <HI>Maldonate</HI> the <HI>Iesuit</HI>
+may be believ'd) thought the <HI>Sacrament</HI> of <HI>Eu|charist</HI>
+to have been <HI>necessary</HI> to <HI>Infants,</HI> as well
+as to men of the <HI>ripest Age:</HI> and yet (as <HI>Maldo|nate
+confesseth</HI> at the very same time,) it was so
+<HI>plain</HI> and so <HI>grosse</HI> an <HI>Error,</HI> that notwithstand|ing
+St. <HI>Austin</HI> did endeavour to <HI>confute</HI> the <HI>Pe|lagians</HI>
+by it, as by a <HI>Doctrin</HI> of <HI>Faith,</HI> and of
+the <HI>whole Church of God;</HI> yet the <HI>Council of
+Trent</HI> was of a <HI>contrary mind,</HI> and did accor|dingly
+in a <HI>Canon</HI> declare <HI>against</HI> it.</P>
+<P>3. Pass we on to the Doctrine of <HI>Tran|substantiation,</HI>
+which (if its <HI>Age</HI> may be mea|sur'd
+by the very first <HI>date</HI> of its <HI>Definition,</HI>) may
+be allow'd to be as <HI>old</HI> as the <HI>Lateran<NOTE N="*" PLACE="marg">Cujus corpus &amp; san<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">guis in Sacramento altaris sub speciebus P<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">nis &amp; Vini veraci|ter continentur, <HI>tran|substantiatis</HI> Pane in Corpus, &amp; Vino in sanguinem, potestate divin&acirc;. <HI>Conc. Later. c.</HI> 1. In Synaxi ser&ograve; Transubstantiationem definivit Eccle|sia. Diu sa<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">is erat credere, sive sub Pane consecrato, sive quocunque modo adesse verum Corpus Christi. <HI>Erasm. Annot. in 1. Cor.</HI> 7. Saltem ab annis 500 dogma Transubstantiationis sub Anathemate stabili|tum, ut ait ipse <HI>Bellarminus de Eucharist. l. 3. c.</HI> 21. Cujus etiam confessionem videre est, l. 3. c. 23.</NOTE> Council,</HI>
+<PB N="24" REF="17">
+a Council held under Pope <HI>Innocent</HI> the
+Third; since whom are somewhat more
+then 400 years: But <HI>from the beginning it was
+not so.</HI> For besides that our Saviour, just
+as soon as he had said, <HI>This is my Blood,</HI> ex|plain'd
+himself in the same Breath, by calling
+it expresly <HI>the fruit of the Vine,</HI> and such as <HI>He
+would drink new in the Kingdom of God, (Mat. 26.
+29. Mark</HI> 14. 15.) there needs no more to
+make the Romanists even <HI>asham'd of that Do|ctrine,</HI>
+then the <HI>Concession</HI> of <HI>Aquinas,</HI> and <HI>Bel|larmine's
+Inference</HI> thereupon.<NOTE N="a" PLACE="marg">Corpus Christi non est co modo in <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">oc Sa|cramento sicut Corpus in loco, quod suis Dimensionibus loco commensuratur; sed quodam special<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> modo, qui est proprius huic Sacramento. Unde dicimus, qu&ograve;d Corpus Christi est in diversis altaribus, non sicut in diversis locis, sed si|cut in Sacramento. Nullo enim <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">odo Cor|pus Christi est in hoc Sacramento localiter, quia si <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">sset, dividere|tur &agrave; scipso. <HI>Aquin. Oper. Tom. 12. S<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">m. part. 3. q. 75. art. 1. ad 3. p. 23 2. col. 2. et q. 76. art. 3 et 5. ex. Edit. Antwerp.</HI> 1612.</NOTE> <HI>Aquinas</HI> so ar|gues,
+as to imply it is <HI>Impossible,</HI> and im|ports
+a <HI>Contradiction,</HI> for <HI>one body</HI> to be <HI>locally</HI> in
+<HI>more</HI> places then <HI>one,</HI> and in <HI>all at once.</HI> But
+<NOTE N="b" PLACE="marg">Si non posset esse u|num Corpus local<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ter in duobus locis, quia di<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ideretur &agrave; <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">eipso, profect&ograve; nec esse posset Sacramentaliter e&acirc;dem ratione. <HI>Bellar. de Eucharisti&acirc;, lib. 3. cap. 3. p. 511. Tom. 3, Controvers&punc; ex Edit. Paris. A. C.</HI> 1620.</NOTE> <HI>Bellarmine</HI> (at this) is so very <HI>angry,</HI> that
+in a kind of <HI>Revenge</HI> upon <HI>Aquinas,</HI> (though
+held to be <HI>the Ang<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">lical Doctor,</HI>) he needs will
+<HI>inf<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">r</HI> 'tis <HI>as Impossible,</HI> and equally implies a
+<HI>Contradiction,</HI> for any <HI>one</HI> body at <HI>once</HI> to be
+so much as <HI>Sacramentally</HI> in <HI>more</HI> Places then
+<HI>one.</HI> And therefore it cannot now be won|der'd
+concerning <HI>Transubstantiation,</HI> if so long
+ago as in the time of Pope <HI>Nicolas</HI> the Second,
+either the <HI>Novelty</HI> was not <HI>forg'd</HI> and <HI>hammer'd
+out</HI> into the <HI>shape</HI> in which we find it, or not
+at all understood by the <HI>Pope Himself.</HI> For <HI>one</HI>
+<PB N="25" REF="17">
+of the <HI>two</HI> is very clear by the famous<NOTE N="c" PLACE="marg">Coactus es<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> Beren|garius public&egrave; profi<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">e|ri, <HI>Panem &amp; Vinum,</HI> quae in altari <HI>ponun|tur,</HI> post consecrationem non sol&ugrave;m <HI>Sacramen|tum,</HI> sed etiam <HI>verum Corpus &amp; Sangui|nem</HI> Domini nostri <HI>Jesu Christi</HI> esse: &amp; <HI>sensualiter</HI> non sol&ugrave;m Sacramento, sed in ve|ritate manibus sacer|dotum tractari, frangi, &amp; fidelium dentibus atteri, Confer <HI>Floria|cens. Histor. fragmenta &agrave; P. Pichaeo edit. inter Franc. Script.</HI> (Excus. Francof. A. C. 1596.) p. 86. cum <HI>Lanfranc. lib. cont. Berengar. &amp; Guitmund. de Sacram. l. 1. &amp; Alger. de Sacram. l. 1. c.</HI> 19.</NOTE> <HI>Sub|mission</HI>
+of <HI>Berengarius,</HI> wherewith he satisfied
+the<NOTE N="d" PLACE="marg">Sigon. de Regno Ital. l. 9. A. 1509.</NOTE> <HI>Synod</HI> then held at <HI>Rome,</HI> (and in which
+were 113. Bishops,) though not at all unto a
+<HI>Trans,</HI> but rather a <HI>Consubstantiation.</HI> Which
+divers<NOTE N="e" PLACE="marg">Nisi san&egrave; intelligas verba <HI>Berengarii,</HI> in <HI>majorem</HI> incides <HI>Haeresin, qu&agrave;m ipse habuit:</HI> &amp; ideo omnia referas ad species ipsas, nam de Christi Corpore partes non facimus. <HI>Johan. Semeca</HI> Glossator in <HI>Gratian. de Consecrat. Dist. 2. cap. Ego Berengarius.</HI></NOTE> <HI>Romanists themselves</HI> have not been
+able not to Censure, though it was <HI>pen'd</HI> by a
+<NOTE N="f" PLACE="marg"><HI>A Car|dinale, scil.</HI> Humber<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">e<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">to Sylvae Candidae Episcopo. Guitmundus ubi supra.</NOTE> <HI>Cardinal,</HI> and <HI>approved</HI> of by a <HI>Council,</HI> and
+very glibly <HI>swallow'd down</HI> by the <HI>Pope himself.</HI></P>
+<P>4. 'Tis very true that their withholding the
+<HI>Cup of blessing</HI> in the <HI>Lord's Supper</HI> from the <HI>se|cular</HI>
+part of their <HI>Communicants,</HI> hath been in
+practice little less then 400 years. But <HI>from the
+beginning it was not so.</HI> For in our Saviour's <HI>Insti|tution</HI>
+we find it intended for<NOTE N="g" PLACE="marg"><HI>Concil. Constant. Can. 13. p. 88<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">.</HI> In Ecclesi&acirc; Latin&aacute; 1000. amplius annis ten<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">it, ut tam Populo quam Clero in celebratione Massarum post mysteri|orum consecrationem scorsum Corpus &amp; se|orsum Sanguis Domiai praeberetur. <HI>Cassan. Consult. 22. Vas&abque;. cap. 3. Disp. 216. c. 3. n</HI> 38. Secundum antiquam Ecclesi<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">e co<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">su<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">fudinem, omnes sicut communicabant Corpori, it a communi|cabant &amp; Sanguini, q<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">od etiam adh<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">c in quibusdam Eccles<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">is servat<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">. <HI>Aquinas in Comment. in Joh.</HI> 6.</NOTE> <HI>every Guest.</HI>
+<GAP DESC="foreign"> is the word, <HI>Drink ye all of this Cup.</HI>
+(Mat. 26. 27.) And S. <HI>Paul</HI> to the <HI>Corinthians</HI>
+(consisting most of <HI>Lay-men</HI>) speaks as well of
+their <HI>drinking</HI> the mystical <HI>blood,</HI> as of their <HI><GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ating</HI>
+the <HI>Body</HI> of Christ. (<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> <HI>Cor.</HI> 11. 26, 27, 28, 29.) Nay
+'tis <HI>confest</HI> by learned <HI>Vasquez</HI> (as well as by
+<PB N="26" REF="18">
+<HI>Cassander,</HI> and <HI>Aquinas</HI> Himself, to be a Truth
+<HI>undeniable,</HI> That the <HI>giving of both Elements</HI> in the
+<HI>Roman Church it self,</HI> until the time of <HI>Aquinas,</HI>
+did still continue to be in use.</P>
+<P>5. The Church of <HI>Rome</HI> for several Ages
+hath restrain'd the Holy Scriptures from the
+perusal of the People. <HI>But from the beginning
+it was not so.</HI> For <HI>Hebrew</HI> to the <HI>Iews</HI> was
+the <HI>Mother-Tongue,</HI> and in <HI>that</HI> 'twas read
+weekly before the People. It pleased God
+the <HI>New Testament</HI> should be first writen in
+<HI>Greek,</HI> because a Tongue the <HI>most known</HI> to
+the <HI>Eastern world.</HI> And to the end that this
+<HI>Candle</HI> might not be <HI>hid under a Bushel,</HI> it was
+translated by St. <HI>Ierome</HI> into the<NOTE N="daggar" PLACE="marg">Sixt. Senens. Bib|liothec. l. 4. <HI>Ipse</HI> Hieron. in Epist. ad Sophron. Tom. 3.</NOTE> <HI>Dalmatick</HI>
+Tongue, by Bishop <HI>Vulphilas</HI> into the<NOTE N="*" PLACE="marg">Socrat. Hist Eccles. lib. 4. c. 17. Niceph. Hist. Eccles. l. b. 11. c. 48. Bonav. Vulcan. in Praefat. d<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> Liturg. &amp; lingu&acirc; Getarum.</NOTE> <HI>Go|thick,</HI>
+by St. <HI>Chrysostom</HI> into<NOTE N="a" PLACE="marg">Roccha in Biblio. thec&acirc; Vatican. p. 155, 157.</NOTE> <HI>Armenian,</HI> by
+<HI>Athelstan</HI> into <HI>Saxon,</HI> by<NOTE N="b" PLACE="marg">Aventin. Annal. lib. 4.</NOTE> <HI>Methodius</HI> into <HI>Scla|vonian,</HI>
+by <HI>Iacobus de Voragine</HI> into<NOTE N="c" PLACE="marg">Sixt. Senens. Bibl. <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">&punc; 4.</NOTE> <HI>Italian,</HI>
+by <HI>Bede</HI> and <HI>VVicl<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">f</HI> into<NOTE N="d" PLACE="marg">Vide Authores citat. ap&uacute;d <HI>Brerew. Inqu. c. 26. p.</HI> 192.</NOTE> <HI>English.</HI> And not
+to speake of the <HI>Syriack, Aethiopick, Arabick,
+Persian,</HI> and <HI>Chaldee Versions,</HI> (which were all
+for the use of the <HI>common people</HI> of those Coun|tries,)
+the<NOTE N="*" PLACE="marg"><HI>Confer.</HI> Blond. Ital. Illustrata, in Marchia Trivisana, <HI>&amp;</HI> Tinto de la Nobilt&agrave; di Verona, lib. 2. cap. 2. <HI>cum Hieronymi Temporibus apud</HI> Bellarm. de Script. <HI>Eccles.</HI> p. 104.</NOTE> <HI>Vulgar Latine</HI> was <HI>then</HI> the <HI>Vulgar
+Language</HI> of the <HI>Italians,</HI> when the <HI>Old</HI> and <HI>New
+Testament</HI> were turn'd into it.</P>
+<P><PB N="27" REF="18">
+6. The <HI>publique Prayers</HI> of the <HI>Romanists</HI>
+have been a very long time in an <HI>unknown
+Tongue,</HI> (I mean <HI>unknown</HI> to the <HI>common People,</HI>)
+even as long as from the times of Pope <HI>Gregory</HI>
+the Great. <HI>But from the beginning it was not so.</HI>
+For 'tis as scandalously opposite to the <HI>plain
+sense of Scripture,</HI> as if it were done in a meer
+<HI>despight</HI> to the 14^t^h <HI>Chapter</HI> of the <HI>first Epistle</HI> to
+the <HI>Corinthians,</HI> especially from the 13. to the 17.
+<HI>ver.</HI> Not to speak of what is said by the<NOTE N="*" PLACE="marg"><GAP DESC="foreign">. <HI>Origen. contra Celsum</HI> (ex Edit. Ho<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">schelii, Au|gus<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ae Vindelicorum, 1605. <HI><GAP DESC="illegible" RESP="tech" EXTENT="1 letter">lib. 8. p.</HI> 414.</NOTE> Pri|mitive
+Writers:<NOTE N="&dagger;" PLACE="marg"><HI>Cum</HI> Aquinate <HI>&amp;</HI> Ly<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">&acirc; <HI>confer</HI> Cajeta|num in 1 Cor. 14. sententiae nostrae suf|fragantem.</NOTE> <HI>Aquinas</HI> and <HI>Lyra</HI> do both con|fess
+upon the place, That the <HI>common Service</HI> of
+the Church in the Primitive times, was in the
+<HI>common language</HI> too. And as the Christians of
+<NOTE N="a" PLACE="marg">Angelus Roccha in Bibl. Vatic. p. 157.</NOTE> <HI>Dalmatia,</HI><NOTE N="b" PLACE="marg">Biblioth. Vet. Patrum, Tom 6. p. 55.</NOTE> <HI>Habassia,</HI><NOTE N="c" PLACE="marg">Bellonius in Observ. l. 3. c. 12. &amp; Vitriacus in H<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">st. Orient. cap. 79. <HI>Broca<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">dus non <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ullibi in su<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> Descriptione Terrae Sanctae.</HI></NOTE> <HI>Armenia,</HI><NOTE N="d" PLACE="marg1">Pos<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ev<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">nus de Reb. <HI>Mose</HI> p 4. And. Thevetus Cos. l. 19. c 12.</NOTE> <HI>Muscovia,</HI><NOTE N="e" PLACE="marg">Bapt. Pa|lat. de rat. Scrib. Ang. Roccha B<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">blioth. Vatic p. 162.</NOTE> <HI>Scla|vonia,</HI>
+<NOTE N="d" PLACE="marg2">Pos<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ev<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">nus de Reb. <HI>Mose</HI> p 4. And. Thevetus Cos. l. 19. c 12.</NOTE> <HI>Russia,</HI> and all the Reformed parts of
+Christendom, have the Service of God in
+their vulgar Tongues, so hath it been in divers
+Places by<NOTE N="f" PLACE="marg">Aventin. Annal. 1. 4. Aeneas Sylvius in Hist. Bohem. cap. 1 <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">. Concil Bin. Tem. 3. <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">. 9<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">0. <HI>Vide e<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">iam Decret. l. 1. Tit. 31. cap. 14. et quicquid Authorum videre est in <GAP DESC="illegible" RESP="tech" EXTENT="1 word">. laq<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">. c.</HI> 26.</NOTE> <HI>Approbation</HI> first had from the <HI>Pope
+himself.</HI></P>
+<P>7. Another Instance may be gi<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">en in
+their <HI>Prohibiting of Marriage to men in Orders,</HI>
+which is deriv'd by <HI>some</HI> from the <HI>third<NOTE N="a" PLACE="marg">Nempe &agrave; Papi Ca|lixto, qui. floruit A&punc; D. 2<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">0. Consule <HI>Thu|anum. in<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">. 36. p.</HI> 305.</NOTE> Cen|tury</HI>
+after <HI>Christ;</HI> by<NOTE N="b" PLACE="marg"><HI>Bishop</HI> Hall, 3. E|pist. 2. Decad.</NOTE> <HI>others</HI> from the <HI>eighth;</HI> and
+<PB N="28" REF="19">
+in the rigour that now it is, from <HI>Pope Gregory</HI>
+the Seventh. <HI>But from the beginning it was not so.</HI>
+For <HI>Priests</HI> were permitted to have <HI>wives,</HI> both
+in the <HI>Old</HI> and <HI>New Testament;</HI> (as <HI>Maximilian</HI>
+<NOTE N="c" PLACE="marg"><HI>Ubi supra apud</HI> Thuanum, p. 305. &amp; 306.</NOTE> the Second did rightly urge against the <HI>Pope:</HI>)
+And the <HI>blessed Apostles</HI> (many of them) were
+<HI>married men:</HI> for so I gather from<NOTE N="d" PLACE="marg">Euseb. l. 3 c. 13.</NOTE> <HI>Eusebius</HI> out
+of <HI>Clemens Alexandrinus:</HI> and from the<NOTE N="e" PLACE="marg">Constat Apostolos ip|sos, paucis exceptis, co<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">juges habuisse. Ubi supra apud <HI>Thua|num.</HI></NOTE> <HI>Letter</HI>
+of <HI>Maximilian,</HI> who did not want the Advice
+of the <HI>learnedst</HI> persons in all his Empire; and
+from 1 <HI>Cor.</HI> 9. 5. where St <HI>Paul</HI> asserts his liber|ty
+to carry a <HI>VVife</HI> along with him, as well as
+<HI>Cephas.</HI> And 'tis the Doctrine of <HI>that Apostle,</HI>
+that a <HI>Bishop</HI> may be an <HI>Husband,</HI> although he
+may not be the Husband of more then <HI>one Wife.</HI>
+(1 <HI>Tim. 3. 2. Tit.</HI> 1. 6.) Besides, the <HI>Marriage</HI> of the
+<HI>Clergy</HI> was asserted by<NOTE N="f" PLACE="marg">Ibid. apud Thua|num.</NOTE> <HI>P<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">phnutius</HI> in the <HI>Coun|cil
+at Nice;</HI> and even by one of <HI>those</HI><NOTE N="g" PLACE="marg"><GAP DESC="foreign">, Canon. Apo|stol. 5. <GAP DESC="foreign">. Zonaras in Can. Apost. 5. p. 4. Edit. Pari. 1618.</NOTE> <HI>Canons</HI>
+which the <HI>Romanists themselves</HI> do still avow
+for <HI>Apostolical.</HI> And the <HI>forbidding men to marry</HI>
+(with <HI>Saturninus,</HI> and the Gnosticks,) is worthi|call'd
+by God's Apostle, <HI>The Doctrine of Devils.</HI>
+(1 Tim. 4. 1. 3.)<NOTE N="h" PLACE="marg">Irenaeus, l. 1. c. 22. <GAP DESC="foreign">. Clem. Alex. Strom. l. 3.</NOTE></P>
+<P><PB N="29" REF="19">
+8. I shall conclude with that Instance
+to which our Saviour in my Text does
+more peculiarly allude; I mean the <HI>Liberty
+of Divorce</HI> betwixt Man and Wife, for many
+<HI>more Causes</HI> then the Cause of <HI>Fornication.</HI> For
+so I find it is<NOTE N="k" PLACE="marg"><HI>Siquis dixerit Ec|clesiam errare, c&ugrave;m</HI> ob multas Causas <HI>se|parationem inter con|juges</HI> quoad totum, <HI>seu quoad</HI> cohabita|tionem, <HI>ad</HI> certum incertumve tempus, <HI>fieri <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">osse decernit, Anathema sit.</HI> Con|cil. Trident. Sess. 24. Can 8. p. 411. Edit. Bin. Tom. 9. Paris.</NOTE> <HI>decreed</HI> by the <HI>Church of Rome,</HI>
+with an <HI>Anathema</HI> to all that shall contradict
+it. <HI>But from the Beginning it was not so.</HI> For 'tis
+as opposite to the <HI>will</HI> of our Blessed Saviour
+revealed to us <HI>without a Parable,</HI> (in the next
+verse after my Text) as if they meant nothing
+more, then the opening of a <HI>way</HI> to <HI>rebel a|gainst</HI>
+him. For besides that in the <HI>Canon</HI> of
+the <HI>Council</HI> at <HI>Trent,</HI> a Divorce <HI>quoad Torum / Totum
+ob multas Causas</HI> was <HI>decreed</HI> to be <HI>just</HI> in
+the <HI>Church of Rome,</HI> although our Lord had
+twice confin'd it to the <HI>Sole Cause</HI> of <HI>Fornica|tion,
+(Matth. 5. 32. &amp;</HI> 19. 9.) And besides
+that the word <HI>Totu<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">n</HI> was constantly reteined.
+in<NOTE N="l" PLACE="marg"><HI>Scil. (praeter Edit. jam nomiuatam) Edit.</HI> Col. Ag<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">p. Tom 4. part 2. p. 332. <HI>Sum. Concil. Edit. Franc. Longii &agrave; Coriolano,</HI> Antverp. A. C. 1623. p. 1024. <HI>Item Concil. General.</HI> Pauii Quin|ti Auctorit. Edit. Romae, A. C. 1628. Tom 4. p. 273.</NOTE> four <HI>Editions,</HI> (particula<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ly in <HI>That,</HI> which
+had the <HI>Care</HI> and <HI>Command</HI> of Pope <HI>Paul</HI> the
+Fifth,) Let it be granted that the <HI>Council</HI> did
+mean no more, then a meer <HI>Sequestration</HI> from
+<HI>Bed</HI> and <HI>Board,</HI> to endure for a <HI>certain</HI> or <HI>un|certain time;</HI> and not an <HI>absolute Dissolution</HI> of
+the <HI>Conjugal Knot;</HI> yet in the Judgment of
+<HI>Chemnitius,</HI> yea and of <HI>Maldonat</HI> Himself,
+(who was as <HI>learned</HI> a <HI>Iesuite</HI> as that Society
+ever had,) it would be opposite <HI>(even so</HI>) to
+<PB N="30" REF="20">
+the <HI>Law</HI> of <HI>Christ.</HI> For <HI>he<NOTE N="m" PLACE="marg">Si ob aliam Causam qu&agrave;m ob Fornicationem dimiserit, quamvis aliam non duxerit, moechatur; quia ux|orem suam moechari facit. <HI>Maldonat. (ex|cus&punc; Mogunt. A. D. 1624.) in Matth. 19. 9. p.</HI> 392.</NOTE> who putteth away his
+VVife for any Cause whatsoever, besides the Cause
+of Fornication, commits Adultery</HI> (saith the <HI>Ie|suit</HI>)
+even for this very reason, <HI>because he
+makes Her commit it, whom he unduly putteth a|way.</HI>
+<NOTE N="n" PLACE="marg"><P><HI>Atqui in Ponti<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">icid ill&acirc; Separatione (nem|pe</HI> &agrave; Toro &amp; Mens&acirc;, ad certum ince<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">tum|ve&punc; tempus,) <HI>Vincu|lum Conjugii mul<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">is &amp; variis modis solvi|tur &amp; disrumpitur. Nam ad Vinculum Matrimonii pertinent hae sententae.</HI></P>
+<P>Et adhaerebit Uxori suae. Faciamus ei adjutorium quod sit coram ipso. Mu|lier non habet potestatem sui Corporis, sed vir. Iterum convenite, ne tentet vos Satan, propter Incontinentiam vestram. Non sunt Duo, sed una Caro. <HI>Et ipsum</HI> Matrimonium <HI>d <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">initu<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">,</HI> Individu&acirc; vit<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> Consuetudine. <HI>Haec v<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ro vincula Co<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">jugii in Pontisici&acirc; separatione, quoad Tor<GAP DESC="illegible" RESP="tech" EXTENT="2 letters"> et Cohabitationem, solvuntur et dirumpuntur. Homines igitur,</HI> contra Decretum Div<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">nitatis. se|parant, quod Deus conju<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">xit. Chemn<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">t. in Exam. Concil. Tr<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">dent. <HI>(Excus. Genev. A. D. 16&punc; 4&punc;</HI>) p. 437.</P></NOTE> Nay, <HI>Chemnitius</HI> saith <HI>farther;</HI> That the
+<HI>Papal Separation from Bed and Board, is many
+ways a Dissolution of the Conjugal Tye.</HI> Nor does
+he content himself to <HI>say,</HI> or <HI>affirm</HI> it only,
+but by a <HI>Confluence of Scriptures</HI> does <HI>make</HI> it
+<HI>good,</HI> That against the Command of our
+blessed Saviour (in the verse but one before
+my Text,) <HI>That which God hath joyned together,
+the men of Rome do put asunder.</HI></P>
+<P>By <HI>these</HI> and many more <HI>Corruptions</HI> in
+point of <HI>Practice</HI> and <HI>Doctrine</HI> too, which
+were no more then <HI>Deviations</HI> from what had
+been from the <HI>Beginning,</HI> and which the
+learned'st Sons of the Church of <HI>Rome</HI> have
+been forced to <HI>confess</HI> in their <HI>publick writings;</HI>
+the <HI>awakened</HI> part of the Christian world were
+<HI>compell'd</HI> to look out for a <HI>Reformation.</HI> That
+there was in the <HI>See of Rome</HI> the most <HI>abomi|nable
+Practice</HI> to be imagin'd, we have the
+<PB N="31" REF="20">
+liberal<NOTE N="o" PLACE="marg"><HI>Vix ull<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">m peccatum cogitari potest, (sol&acirc; Haeresi except&acirc;) quo illa sedes turpiter ma|culata non fuerit, maxim&egrave; ab Ann:</HI> 800. Staplet. Oper. Tom. 1. Cont. 1. q. 5. art. 3. pag. 597. excus. Paris. 1620.</NOTE> <HI>Confesson</HI> of zealous <HI>Stapleton himself;</HI>
+and of those that have <HI>publisht</HI> their<NOTE N="p" PLACE="marg"><HI>Consule</HI> Canonas Poenitentiales Roma|nas, Bedae, Rabani Mauri, &amp;c. <HI>cum notis</HI> Antonii Augustini; Archiepiscopi Tar|raconensis, Excus. Venetiis, 1584.</NOTE> <HI>Peniten|tials.</HI>
+We have the published Complaints of
+<HI>Armachanus,</HI> and <HI>Grostead,</HI> and <HI>Nicolas de Cle|mangis,
+Iohn of Hus,</HI> and <HI>Ierome of Prague,</HI>
+Chancellor <HI>Gerson,</HI> and <HI>Erasmus,</HI> and the <HI>Arch|bishop
+of Spalato. Ludovicus Vives,</HI> and <HI>Cassan|der,</HI>
+who are known to have died in the same
+<HI>Communion,</HI> did yet <HI>impartially complain</HI> of some
+<HI>Corruptions.<NOTE N="q" PLACE="marg">Ludov. Vives in St. August. de Civit. Dei, l. 8. c. 27.</NOTE> Vives</HI> of their <HI>Feasts</HI> at the
+<HI>Oratories of Martyrs,</HI> as being too much of kin
+unto the <HI>Gentiles Parentalia,</HI> which in the
+judgment of<NOTE N="r" PLACE="marg">Parentatio Mo<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">tuis species est Idololatri<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">, quoniam &amp; Idololatria Parentationis est speci|es. <HI>Tertul. de Specta<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">. cap.</HI> 12.</NOTE> <HI>Tertullian</HI> made up a <HI>species</HI> of
+<HI>Idolatry.</HI> And <HI>Cassander</HI><NOTE N="s" PLACE="marg">&mdash;<HI>Ita ut ad</HI> Summam adorationem, <HI>quae vel &agrave;</HI> Paganis <HI><GAP DESC="illegible" RESP="tech" EXTENT="1 letter">uis simula|cris exhiberi consuevit, &amp; ad</HI> extremam vani|tatem <HI>quam</HI> Ethnici <HI>in suis simulacris exor|nan <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">is admiserunt,</HI> nil &agrave; nostris <HI>reliqui fa|ctum esse <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ideatur.</HI> Geo. Cassander in Consult de Imag. &amp; Simulacris m<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">hi pag. 175, 176.</NOTE> confesses plainly,
+that the Peoples <HI>Adoration</HI> paid to <HI>Images</HI> and
+<HI>Statues,</HI> was equal to the <HI>worst</HI> of the ancient
+<HI>Heathen.</HI><NOTE N="t" PLACE="marg">Thuan. l. 25. pag. 760, &amp;c.</NOTE> So the <HI>buying</HI> and <HI>selling</HI> of Papal
+<HI>Indulgences</HI> and <HI>Pardons</HI> ('tis a little thing to
+say of <HI>Preferments</HI> too) was both <HI>confest</HI> and
+<HI>inveigh'd against</HI> by <HI>Popish</HI> Bishops in <HI>Thuanus.</HI></P>
+<P>Now if with all their <HI>Corruptions</HI> in point of
+<HI>Practice,</HI> which <HI>alone</HI> cannot justifie a People's
+<HI>Separation</HI> from any <HI>Church,</HI> (though the <HI>Ca|thari</HI>
+and the <HI>Donatists</HI> were heretofore of that
+opinion,) we compare their <HI>Corruptions</HI> of
+<HI>Doctrine</HI> too, and that in matter of <HI>Faith,</HI> (as
+<PB N="32" REF="21">
+hath been shewed,) Corruptions <HI>intrenching
+on Fundamentals;</HI> it will appear that That <HI>door</HI>
+which was <HI>open'd</HI> by <HI>Vs</HI> in our <HI>first Reformers,</HI>
+was not at all to <HI>introduce,</HI> but to <HI>let out</HI><NOTE N="*" PLACE="marg">De Hildebrando in haec verba sententiam <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">erunt Episcopi Ger|manici qui <HI>Concilio Wormatiensi</HI> inter|<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">uerunt. Dum <HI>pro|fanis</HI> studes <HI>Novitati|bus,</HI> dum magis amplo qu<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">m bono nomine de|lectaris, dum inaudita Elatione distenderis, velut quidam <HI>Signifer Schismatis,</HI> om<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ia membra Eccl<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">sia super|b&acirc; crudelitate &amp; cru|deli superbi&acirc; lacerasti: flammasque Discordiae quas in Romana Eccle|sia diris factionibus excitasti, per omnes Ec|clesias Italiae, Galliae, &amp; Hispaniae, furiali dementia sparsisti.&mdash;Per gloriosa tua Decreta (quod sine lachrymis dici non potest) Christi ser&egrave; nomen per<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">it. <HI>Im|perial. Statut. &agrave; Gol|dasto edit. Tom. 1. p.</HI> 47.</NOTE> Schism.
+For the <HI>schism</HI> must needs be <HI>Theirs</HI> who <HI>give</HI>
+the <HI>Cause</HI> of the Separation, not <HI>Theirs</HI> who
+do but <HI>separate</HI> when <HI>Cause</HI> is <HI>given.</HI> Else S. <HI>Paul</HI>
+had been to blame, in that he said to his <HI>Co|rinthians,
+Come ye out from among them, and be
+ye separate.</HI> (2 Cor. 6. 17.) The <HI>actuall</HI> De|parture
+indeed was <HI>Ours,</HI> but <HI>Theirs</HI> the <HI>causal;</HI>
+(as our immortal Arch-Bishop does fitly
+word it:) we <HI>left</HI> them indeed when they
+<HI>thrust</HI> us <HI>out;</HI> (as they cannot but <HI>go</HI> whom
+the Devil <HI>drives;</HI>) But in propriety of speech,
+we left their <HI>Errors,</HI> rather then <HI>Them.</HI> Or if
+a <HI>Secession</HI> was made from <HI>them,</HI> 'twas in <GAP DESC="illegible" RESP="tech" EXTENT="1 word">
+very same measure that <HI>they</HI> had made one
+from <HI>Christ.</HI> (Whereas <HI>they,</HI> by their <HI>Hostilities</HI>
+and their <HI>Excommunications,</HI> departed properly
+from <HI>us,</HI> not from any <HI>Errors</HI> detected <HI>in us.</HI>
+And the <HI>wo</HI> is to <HI>them by whom the offence co|meth,
+(Matth.</HI> 18. 7.) not to <HI>them</HI> to whom 'tis
+<HI>given.</HI> If when <HI>England</HI> was in a <HI>Flame</HI> by
+<HI>Fire</HI> sent out of <HI>Italy,</HI> we did not abstein from
+the <HI>quenching</HI> of it, until <HI>water</HI> might be drawn
+from the <HI>River Tiber;</HI> it was because our own
+<HI>Ocean,</HI> could not only do it <HI>sooner,</HI> but <HI>better</HI>
+too; that is to say (without a Figure,)</P>
+<P><PB N="33" REF="21">
+It did appear by the <HI>Concession</HI> of the <HI>most
+learned Popish Writers,</HI> that particular Nations
+had still a power to purge themselves from
+their <HI>corruptions,</HI> as well in the <HI>Church,</HI> as in
+the <HI>State,</HI> without leave had from the <HI>See</HI> of
+<HI>Rome;</HI> and that 'twas commonly put in
+practice above a <HI>thousand</HI> years since.<NOTE N="&dagger;" PLACE="marg"><P>Ex co quo Williel|mus No<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">manaiae Co|mes Terram illam de|bella<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">do sibi subegi<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">, N<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">mo in <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">d Episcopus vel Abbas ante Ans<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">l|mum f<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ctus est, qui non primo suerit Homo Reg<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">s, ac de manu ill<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">us E<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">iscopat&uacute;s vel Abbatiae Investituram per dationem Virgae Pastoralis suscepit, &amp;c. <HI>Eadmerus Monach. Cant<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">in Praef. ad Hist. Nov. pag.</HI> 2.</P>
+<P>Sed nec ex co sol&ugrave;m t<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">mpore mos hic obti|nuit; Nem ante Nor|ma<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">no um etiam ad|ventum hic <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">sitatissi|mus, ut majorum Gen|tium Antis<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ites sacri, Episco<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">i nimirum &amp; Coenobiarchae (qui sal. tem in <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> Re|gi&acirc;) &agrave; Sacris Eccl<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">si|arum Co<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">oribus <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">|lecti, quin saepius etiam, spretis omnin&ograve; Corporum Sacrorum suffragiis, in Aul&acirc; designati, Annuli &amp; Bac<GAP DESC="illegible" RESP="tech" EXTENT="2 letters"> Pastoral<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">s, <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ive Pedi traditione, in Dignitatis Possessionem &agrave; Regibus nostris, <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> av<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">o nixis, <GAP DESC="illegible" RESP="tech" EXTENT="1 word">. <HI>Joh. Selden. in suis ad Eadmer. Notis et Spicilegio, p.</HI> 142. Hujus rei exemplum vider<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> est apud <HI>G Malmesburiensem de Gest<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">s Re|gum, lib 2. cap</HI> 8. Quin et illud aliquando vid<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">tur dignius quod hoc in loco notetur. Pontifici <HI>Hilde|<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">rando</HI> Fidelitatis Iuramentum, &agrave; <HI>Guilielmo No<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">manno,</HI> exigenti, Guil elmum Regem respondisse&mdash;<HI>Fi|<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">elitatem facere non volo, quin nec ego promisi, nec Antecessores meos Antecessoribus tuis id fecisse <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">omperio. Baron. Ad An. 10<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">6. Guilielmus Rufus</HI> pros<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ssus est, <HI>Quod nullus Arch. episcopus aut <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">piscopus Regni sui, Curiae Romanae vel Papae subesset. Matth Paris. Hist An.</HI> 1094. Vid&eacute;sis etiam, <GAP DESC="illegible" RESP="tech" EXTENT="2 letters">peratores, et Reges Galliarum, jura sua asser<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ntes, apud <HI>Othonem Frisingensem, S<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">gibertum,</HI> cosque <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> Historicos qui Res H<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">nrici Quarti Imperatoris, et ejusdem nominis Primi R<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">gis Anglorum con|<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ips&ecirc;re. Inprimis ver&ograve; <HI>Sigon<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">um de Reg Ital. l. 4, 9, 10, et 11. Baron. Tom. 11. A C. 1077. Cherubi|<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">m de Nar<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ia in Bul<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">arii Tom. 1. p. 16. et 17. Bin Concil. Tom. 3. part. 2. in U<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">bano, Calixto, et <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">schall Secundis. Renatum Choppinum de Domanio Franciae, l. 2. tit. 1 sect.</HI> 6, &amp;c. <HI>Et de Sacra <GAP DESC="illegible" RESP="tech" EXTENT="2 letters">ti&acirc;, l 1. tit. 7. Sect. 22, <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">t</HI> 23. ad haec, <HI>Theodor Balsamon Patriarch. Antioch. in Concil. Chalced. <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">n. 4. Joh. Naucler. Chronograph. Generat. 39. et H. Mutium Chron. German. l.</HI> 18.</P></NOTE> It did
+appear that the <HI>Kings of England</HI> (at least as
+much as those of <HI>Sicily,</HI>) were ever held to be
+<GAP DESC="foreign">, and that by the <HI>Romanists themselves;</HI>
+until by gaining from <HI>Henry</HI> the First, the
+<HI>Investiture</HI> of <HI>Bishops;</HI> from <HI>Henry</HI> the Second,
+an <HI>Exemption</HI> of the <HI>Clergy</HI> from <HI>Secular Courts,</HI>
+and from easie <HI>King Iohn,</HI> an unworthy <HI>Sub|mission</HI>
+to <HI>forreign Power;</HI> the Popes became
+strong enough to <HI>call their strength the Law of
+Iustice&punc;</HI> And yet their <HI>Incroachments</HI> were still
+<HI>oppos'd,</HI> by the most <HI>pious</HI> and the most <HI>learned</HI>
+in every Age. Concerning which it were
+<PB N="34" REF="22">
+easie to give a satisfactory account, if it were
+comely for a <HI>Sermon</HI> to exceed the limits of an
+<HI>hour.</HI> In a word, it did appear from the
+<HI>Code</HI> and <HI>Novels</HI> of<NOTE N="a" PLACE="marg"><GAP DESC="foreign">. <HI>&amp;c.</HI> Justin, Novel Const. 131. cap. 2. <HI>Vide eti|am</HI> de mandatis Principum, Tit. 4. Novel. 17. c. 7 &amp; 11.</NOTE> <HI>Iustinian,</HI> from the
+<GAP DESC="foreign"> set out by the <HI>Emperour<NOTE N="b" PLACE="marg">Evagr. l. 3. c. 14. in Mag. Biblioth. Vet. Patr. Tom. 6. Part. 2. p. 655.</NOTE> Zeno,</HI> from
+the <HI>practice</HI> of<NOTE N="c" PLACE="marg">Sigon de Reg. Ital. li. 4. ad A. C. 801. &amp; Eginhard in vit. Car. Mag. &amp; Baron. Annal. Tom 9. ad A. C. So<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> p. 542. ad 545. &amp; Tom. 10. <HI>ad</HI> A. C. 845. p. 34. Excus. Colon. Agrip. 1609.</NOTE> <HI>Charles</HI> the Great, (which
+may be judged by the <HI>Capitulars</HI> sent abroad
+in <HI>his Name,</HI>) from the <HI>designs</HI> and <HI>endeavours</HI>
+of two late Emperors, <HI>Ferdinand</HI> the First,
+and <HI>Maximilian</HI> the Second, from all the <HI>com|mended
+Kings</HI> of <HI>Iudah,</HI> from the <HI>most pious</HI>
+Christian Emperours as far as from <HI>Con|stantine</HI>
+the Great, and from many <HI>Kings</HI> of
+<HI>England</HI> in<NOTE N="d" PLACE="marg">Edward the co<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">|fessor, William 1. <HI>H. 1. H</HI> 3. Edw. 1. Edw. 2. Edw. 3. Rich. 2. H<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">n. 4. <HI>H. 5. H.</HI> 6. Edw. 4. Rich. 3. Hen 7. <HI>H.</HI> 8. for all which at <GAP DESC="illegible" RESP="tech" EXTENT="1 word">, See <HI>Coke's Reports, par. 5. fol. 1. Caudre<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">'s Case, or De Ju<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">e Re|gis Ecclesiastico. <GAP DESC="foreign">. Balsam. in Conc. Ca<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">th. Can.</HI> 16.</NOTE> <HI>Popish times</HI> too; that the work of
+<HI>Reformation</HI> belong'd especially to <HI>them</HI> in
+their <HI>several Kingdoms.</HI> And <HI>this</HI> is <HI>certain;</HI>
+that neither <HI>Prescription</HI> on the <HI>Pope</HI>'s side, nor
+<HI>Discontinuance</HI> on the <HI>Kings,</HI> could <HI>add</HI> a <HI>Right</HI>
+unto the <HI>one,</HI> or any way <HI>lessen</HI> it in the <HI>other.</HI>
+For it implies a <HI>contradiction,</HI> that what is
+<HI>wrong</HI> should grow <HI>right,</HI> by being <HI>prosperous</HI>
+for a <HI>longer</HI> or <HI>shorter</HI> season.</P>
+<P>Had the <HI>Pope</HI> been contented with his
+<NOTE N="*" PLACE="marg"><GAP DESC="foreign">. Concil. Constantinop. Oecu<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">. <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> Can. 3. <GAP DESC="foreign">. Justinian. Imp. Novel. Const. 131. c. 2&punc;</NOTE> <HI>Primacy</HI> of <HI>Order,</HI> and not ambitiously af|fected
+<PB N="35" REF="22">
+a <HI>Supremacy</HI> of <HI>Power,</HI> and over <HI>all other
+Churches</HI> besides his <HI>own;</HI> we never had <HI>cast
+off</HI> a <HI>Yoke</HI> which had never been <HI>put</HI> upon our
+<HI>Necks:</HI> And so 'tis plain that the <HI>Usurper</HI> did
+make the <HI>Schism</HI> If <HI>Sacrilege</HI> anywhere, or
+<HI>Rebellion,</HI> did help reform <HI>Superstition; That</HI>
+was the Fault of the <HI>Reformers,</HI> not at all of
+the <HI>Reformation;</HI> not of <HI>all</HI> Reformers neither.
+For the <HI>most</HI> that was done by <HI>some, was</HI> to
+<HI>write</HI> after the <HI>Copy</HI> which had been <HI>set</HI> them
+in my Text, by the Blessed <HI>Reformer</HI> of all
+the World; which was <HI>so</HI> to <HI>reform,</HI> as not to
+<HI>innovate,</HI> and to accommodate their Religion
+to what they found <HI>in the Beginning.</HI></P>
+<P>Nay, if I may speak an <HI>Important Truth,</HI>
+(which being unpassionately consider'd, and
+universally laid to heart, might possibly
+tend to the Peace of Christendom;) seeing it
+was not so much the <HI>Church</HI> as the <HI>Court</HI> of
+<HI>Rome,</HI> which proudly <HI>t<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">od</HI> upon <HI>Crowns</HI> and
+<HI>Scepters,</HI> and made <HI>Decrees</HI> with a<NOTE N="*" PLACE="marg">Apostolic&acirc; Potestate declaramus &amp; defini|mus, et ab omnibus judicari d<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">bere man|damus atque statui|mus, <HI>decernentes irri|tum</HI> et <GAP DESC="illegible" RESP="tech" EXTENT="1 word">, fi quid secus &agrave; <HI>quoquam quacunque Dignitate,</HI> Auctoritate, <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> <HI>Potestate</HI> praedito co<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">tig<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">r<GAP DESC="illegible" RESP="tech" EXTENT="2 letters"> iudicari, <HI>Non obstantibus Constitut. onibus et Ordinatio|nibus Apostol<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">cis,</HI> A<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">isque in <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">word facicutibus <HI>Qui<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">useunque.</HI> Vule I<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ullam <HI>Piiquarti, Concil. Bin. Edit. Par<GAP DESC="illegible" RESP="tech" EXTENT="2 letters"> Tom 9 p.</HI> 444. <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> <HI>Christus</HI> post C<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">nam <HI>instituerit,</HI> et suis Discip<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">lis <HI>administra|veri<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"></HI> sub u<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">raque speci<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> et Vini <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">oc <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> Sacrementum, <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> <HI>hoc non obstante,</HI> &amp;c. Licet in Primiti<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">&acirc; Ecclesi&aacute; <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> s<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">odi Sacramentum reciperctur &agrave; Fidelibus sub <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> sp<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">ie; <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> &agrave; con|fici<GAP DESC="illegible" RESP="tech" EXTENT="3 letters">ibus sub <GAP DESC="illegible" RESP="tech" EXTENT="1 word">, et &agrave; laicis tantummodo sub specie Panis suscipi<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">tur. <HI>Concil. Constant. Bin. Tom. 3. Pa<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">t. 2. Sess. 13. p. 880. excus. Colon. Ag<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ippinae,</HI> 1618.</NOTE> <HI>non ob|stante</HI>
+to <HI>Apostolical Constitutions,</HI> or <HI>whatsoever</HI>
+had been enacted <HI>by any Authority whatsoever,</HI>
+(the <HI>Commandments of Christ</HI> being <HI>not excepted;</HI>)
+<PB N="36" REF="23">
+we originally departed with higher Degrees
+of Indignation, from the Insolent <HI>Court,</HI> then
+<HI>Church</HI> of <HI>Rome.</HI> Nor <HI>protested</HI> we so <HI>much</HI>
+against the <HI>Church,</HI> (though against the
+<HI>Church too,</HI>) as against the Cruel <HI>Edict</HI> first
+made at<NOTE N="daggar;" PLACE="marg"><P>Ibi (<HI>i. e. Spirae,</HI> ubi erat Conventus or|dinum Imperii;) De|cretum factum est, ut Edictum <HI>Wormati|ense</HI> observaretur contra Novatores, ut omnia in <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ategrum re|stituantur. Contra hoc Edictum solen<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">is fait <HI>Protestat. o,</HI> April: 16. A. D. 1529. &amp; hinc ortum pervulgatum il|lud nomen <HI>Protestan|tium. Sethus Calvis. in Chron. ad A. C.</HI> 1529.</P>
+<P>Lutherus impulit Io|hannem Saxo<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">iae Se|p<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">emvirum, aliosque Principes Germanicos, protestaricont<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">a Decreta Ratisbonae &amp; Spirae de Religione <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">acta. U<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">de Nomen <HI>Protestantium</HI> crevit. <HI>Cluverius ad</HI> A. C. 1529. <HI>p.</HI> 705.</P></NOTE> <HI>VVorms,</HI> and after cruelly <HI>re-inforced</HI>
+at <HI>Spire</HI> and <HI>Ratisbone,</HI> for the <HI>confirming</HI> of
+those 1 <HI>Corruptions</HI> from which the 2 <HI>Church</HI>
+was to be <HI>cleans</HI>'d. To the 1 <HI>former</HI> we declar'd
+a <HI>Vatinian Hatred;</HI> but to the 2 <HI>latter</HI> of the
+two, we have the Charity to wish for a <HI>Recon|cilement.</HI>
+That we who differ upon the <HI>way</HI>
+in which we are <HI>walking</HI> towards <HI>Ierusalem,</HI>
+may so look back on <HI>the Beginning</HI> from
+whence at first we <HI>set out,</HI> (and from which
+our <HI>Accusers</HI> have foulely <HI>swerv'd,</HI>) as to <HI>agree</HI>
+in our <HI>Arrival</HI> at the same <HI>Iourney's end.</HI></P>
+<P>But God forbid that our <HI>Love</HI> to <HI>the Peace
+without,</HI> should ever tempt us to a loss of <HI>the
+Peace within us.</HI> God forbid we should <HI>return
+with the Dog to his vomit, or with the Sow</HI> in the
+Hebrew Proverb (which is cited by <HI>S. Peter</HI>
+in his <HI>Epistle,</HI><NOTE PLACE="marg">2. Pet. 2. 22.</NOTE>) <HI>to her wallowing in the mire.</HI>
+When I wish for a <HI>Reconcilement,</HI> I do not
+mean by <HI>our Compliance</HI> with any the <HI>least</HI> of
+<HI>their Defilements,</HI> but by <HI>their Harmony</HI> with <HI>us</HI>
+in our being <HI>Clean.</HI></P>
+<P><PB N="37" REF="23">
+On this<NOTE N="*" PLACE="marg">Ab Ecclesi&acirc; Roman&acirc; non alio discessimus animo, qu&agrave;m ut, si correcta ad Priorem Ecclesiae sormam re|deat, nos quoque ad Illam rev<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">rtamur, &amp; Communionem cum Ill&acirc; in suis porr&ograve; Coe|tibus habeamus. <HI>Apud Grot: D<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">scuss. p. 14&punc;</HI> &amp; apud ipsum <HI>Zanch. in Confess. Art. 19. p.</HI> 157.</NOTE> Condition and Supposal; Our
+<HI>Church</HI> is open to <HI>receive</HI> the bitterest <HI>Enemies</HI>
+of our Church. Our <HI>Arms</HI> are open to <HI>embrace</HI>
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">hem, with <HI>Love,</HI> and <HI>Honour.</HI> Our <HI>Hearts</HI>
+and <HI>Souls</HI> are <HI>wide open</HI> in fervent <HI>Prayers</HI> and
+<HI>Supplications</HI> to the <HI>God of Purity</HI> and of <HI>Peace,</HI>
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">hat (in his own good time) he will <HI>bind up</HI>
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">he <HI>Breaches,</HI> and <HI>wipe off</HI> the <HI>stains,</HI> and <HI>raise
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">p</HI> the lapsed <HI>Reputation,</HI> of his <HI>divided, defiled,
+<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">sgraced</HI> Spouse; And all for the <HI>Glory,</HI> as well
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">s <HI>Merits,</HI> of the ever-blessed <HI>Bridegroom</HI> of all
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ur <HI>Souls,</HI></P>
+<P>To <HI>whom,</HI> with the <HI>Father,</HI> in the Unity of
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">he <HI>Spirit,</HI> be ascribed by <HI>us,</HI> and by <HI>all the
+World.</HI></P>
+<P><HI>Blessing,</HI> and <HI>Glory,</HI> and <HI>Honour,</HI> and <HI>Power,</HI>
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">nd <HI>Wisdom,</HI> and <HI>Thanksgiving,</HI> from this time
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">orwards for evermore.</P>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

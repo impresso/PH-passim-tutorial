@@ -1,0 +1,726 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD EEBOPROOF 2.0//EN">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-08-07</DATE>
+<RESPSTMT>
+<NAME>Sara Gothard</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TEMPHEAD, check ID, and add TYPEs to DIVs in order to validate. Proof title page. Check ^s. Review structure. Check placement and completeness of PBs. Check for damage GAPs, #s, @s, &mdash;, --s, and UNCLEARs. Corrected 7 $s. Check spacing of foreign GAPs. Check for startqs, endqs and Qs. Check proofsheets and make corrections. Sample: 15 minutes. Proofing: 15 minutes. Tag review and corrections: 45 minutes. I edited the DIVstructure to eliminate redundant DIV1s.  Changed what was tagged as HEAD in the dedication to OPENER SALUTE. DONE.</ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="A19556">
+<STC T="S">5986</STC>
+<BIBNO T="umi">99844671</BIBNO>
+<VID>9504</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1" MS="y">
+<PB REF="1">
+<P>THE
+VVORKES
+OF
+<HI>MERCY,</HI>
+BOTH
+CORPORALL,
+AND
+SPIRITVALL.</P>
+<P>LONDON,
+<HI>Printed by</HI> G. Eld <HI>and</HI> M. Flesher.
+1621.</P>
+</DIV1>
+<DIV1 TYPE="list of works of mercy">
+<PB REF="2">
+<LIST>
+<HEAD>Mercies Workes corporall.</HEAD>
+<ITEM>TO feede the Hungry.</ITEM>
+<ITEM>To giue drinke to the Thirsty.</ITEM>
+<ITEM>To clothe the Naked.</ITEM>
+<ITEM>To ransome the Captiues.</ITEM>
+<ITEM>To harbour the Harbourlesse.</ITEM>
+<ITEM>To visit the Sicke.</ITEM>
+<ITEM>To bury the Dead.</ITEM>
+</LIST>
+<LIST>
+<HEAD>Mercies Workes spirituall.</HEAD>
+<ITEM>TO correct the Sinner.</ITEM>
+<ITEM>To instruct the Ignorant.</ITEM>
+<ITEM>To counsell the Doubtfull.</ITEM>
+<ITEM>To comfort the Sorrowfull.</ITEM>
+<ITEM>To beare Wrongs patiently.</ITEM>
+<ITEM>To forgiue all Men.</ITEM>
+<ITEM>To pray for others, euen our Enemies.</ITEM>
+</LIST>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="2">
+<OPENER><SALUTE>To the truly Noble in Ver|tues
+(the perfection of Noblenesse)
+the most Illustrious Honor of his
+noble House and Name,
+The Right Honourable,
+Iohn Earle of Bridgwater:</SALUTE></OPENER>
+<P>This Sacred Poem is most humbly conse|crated,
+as a Testimony of his especiall
+loue and seruice,</P>
+<CLOSER>BY
+<SIGNED>Your Lordships faithfull honorer, <HI>RAPHE CRANE.</HI></SIGNED></CLOSER>
+</DIV1>
+<DIV1 TYPE="author's preface">
+<PB REF="3">
+<PB REF="3">
+<HEAD>THE AVTHORS
+PREFACE.</HEAD>
+<L>THe <HI>Citie</HI> had my Birth, my Father (free</L>
+<L>Of a much fam'd, &amp; royall<NOTE N="*" PLACE="marg">Marchant-Taylors.</NOTE> Company)</L>
+<L>With good esteeme bore offices of worth:</L>
+<L>My education past, I then went forth,</L>
+<L>And tride the Aire of diuers noble <HI>Counties,</HI></L>
+<L>There tasted some free fauours, gen'rous bounties.</L>
+<L><PB REF="4"><HI>Much variation</HI> I haue had since then</L>
+<L>With one blest Gift, <HI>A Ready Writers Pen,</HI></L>
+<L>(The vse whereof (without vaine-glory told)</L>
+<L>It not extinguish'd yet, though I am old.)</L>
+<L>First was I seuen yeares Seruant, painfull <HI>Clarke,</HI></L>
+<L>Vnto a <HI>Clarke o'th' Counsell,</HI> and did marke</L>
+<L>Within the circuit of those hopefull yeares,</L>
+<L>The <HI>goodnesse</HI> and <HI>nobilitie</HI> o'th' <HI>Peeres,</HI></L>
+<L>Those reuerend <HI>Lords,</HI> those <HI>Counsellors of State,</HI></L>
+<L>Vpon whose <HI>vertues</HI> I must meditate</L>
+<L>While I haue breath; and praise while I am able,</L>
+<L>Each gracious<NOTE N="*" PLACE="marg">Cl: of the Couns:</NOTE> <HI>Second</HI> of that <HI>honour'd Table.</HI></L>
+<L><PB REF="4">And (as a thankefull <HI>Riuer,</HI> that doth send</L>
+<L>His <HI>Tribute</HI> to the <HI>Ocean)</HI> I commend</L>
+<L>One speciall <HI>Sacrifice</HI> (with heart sincere)</L>
+<L>Vnto his worth whom I call'd <HI>Master (there.)</HI></L>
+<L>That (haplesse) <HI>thence</HI> I sl<GAP DESC="illegible" EXTENT="1 letter">pt, (wanting firme hold)</L>
+<L>I only sigh the fate, but leaue 't vntold.</L>
+<L>The <HI>Signet</HI> and the <HI>Priuie-Seale</HI> was next,</L>
+<L>(Those deare <HI>Colleagues)</HI> who giue me for my Text</L>
+<L>A <HI>Field of honour,</HI> and shall be my Song,</L>
+<L>Whilst <HI>Fame</HI> a Trumpet hath, or I a Tongue.</L>
+<L>Some gentlenesse from <HI>thence</HI> I still possesse,</L>
+<L>Which makes their <HI>goodnes</HI> more, my <HI>sorrowes</HI> lesse.</L>
+<L><PB REF="5">To th' <HI>Tribe of Leuy</HI> (heauens chiefe <HI>Miracles</HI>)</L>
+<L>I haue done seruice, writ their <HI>Oracles;</HI></L>
+<L>Which so diuine Instinction doth infuse,</L>
+<L>(For their blest sakes) Ile make my Soule their <HI>Muse,</HI></L>
+<L>And pray with the best power my zeale affords,</L>
+<L>All happy Gifts, to crowne their sacred words:</L>
+<L>The <HI>Holy Ghost,</HI> in <HI>Clouen Tongues</HI> and <HI>Fire,</HI></L>
+<L>Descend on them, when they good things desire.</L>
+<L>But most of all doth my laborious hand</L>
+<L>'Mongst the renown'd and learned <HI>Lawyers</HI> stand</L>
+<L>A Monument; each <HI>Office,</HI> and each <HI>Court</HI></L>
+<L>Vouchsafing me such matter of Report,</L>
+<L><PB REF="5">That if my voice to th' utmost world could stretch,</L>
+<L>Eu'n thither should their fames and honours reach.</L>
+<L>And some imployment hath my vsefull <HI>Pen</HI></L>
+<L>Had 'mongst those ciuill, well-deseruing <HI>men,</HI></L>
+<L>That grace the <HI>Stage</HI> with <HI>honour</HI> and <HI>delight,</HI></L>
+<L>Of whose true honesties I much could write,</L>
+<L>But will comprise't (as in a Caske of Gold)</L>
+<L>Vnder the <HI>Kingly Seruice</HI> they doe hold.</L>
+<L>Should there be here a harsh obiection cast,</L>
+<L>Why (hauing tride so many wayes, and past</L>
+<L>So many places) All, or none of these,</L>
+<L>Could me establish: (oh) let them but please</L>
+<L><PB REF="6">To note what I haue heard some <HI>Merchants</HI> say,</L>
+<L>That what they'ue got on Land, they'ue lost at Sea;</L>
+<L>'Twill stop the current of that crook'd conceit,</L>
+<L>And light vnto constructions farre more streight:</L>
+<L>For so (God knowes) haue I by Stormes and Floud</L>
+<L>Of Time and Sicknesse, lost my Land-got good.</L>
+<L>Loe, this hath beene my lifes sad Pilgrimage,</L>
+<L>Vnto this houre (the Euening of my Age)</L>
+<L><HI>Citie</HI> and <HI>Countries</HI> I haue seene, and <HI>Court,</HI></L>
+<L>And in them some of each degree, each sort,</L>
+<L>Of each <HI>Sex</HI> too (for eu'n my willing duties</L>
+<L>Reflected haue vpon some <HI>Female Beauties)</HI></L>
+<L><PB REF="6">To whom my <HI>Soule</HI> hath vow'd such deare affection,</L>
+<L>I shall not giue it ample satisfaction,</L>
+<L><HI>If</HI> Deaths darke-night, <HI>my</HI> sight-depriued eyes,</L>
+<L><HI>A shaking hand,</HI> or ought else should arise,</L>
+<L>Ere I had consecrated (with my Name)</L>
+<L><HI>Some</HI> speaking honour <HI>to their</HI> liuing Fame.</L>
+<L>And 'mongst all them, whom I haue (thus) obseru'd,</L>
+<L><HI>You</HI> stand in a chiefe place, and are (thus) seru'd:</L>
+<L>True worth <HI>will neu'r esteeme't a</HI> wandring Shift,</L>
+<L>For a poore man, in a poore <HI>well-meant Gift,</HI></L>
+<L>To tender his <HI>hearts-zeale;</HI> but take't aright,</L>
+<L>As <HI>Christ</HI> accepted the <HI>poore Widowes</HI> Mite.</L>
+<L><PB REF="7">Doe you but so, and of the <HI>Leapers</HI> ten,</L>
+<L>Ile be the <HI>Tenth,</HI> and humbly come agen,</L>
+<L>And pay my <HI>vowes,</HI> and in <HI>a way more knowne</HI></L>
+<L>Sing <HI>double honour</HI> to your <HI>vertues</HI> showne.</L>
+<CLOSER><SIGNED>The humbly deuoted,
+R. CRANE.</SIGNED></CLOSER>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="poem">
+<PB REF="7">
+<HEAD>The Works of MERCY,
+BOTH
+Corporall and Spirituall.</HEAD>
+<L>MAn of polluted lips, dar'st thou aspire</L>
+<L>So high a Worke? Call for celestiall fire:</L>
+<L>Inuoke some holy hand to guide thy pen,</L>
+<L>Some circumcized heart, to teach thee <GAP DESC="illegible" EXTENT="1 letter">  when</L>
+<L>Thou but conceiu'st a verse, sett'st downe a line,</L>
+<L>Sigh for thy state, weepe for those sinnes of thine</L>
+<L>Those Actuall ones, that <HI>Iustice</HI> haue cald downe,</L>
+<L>And made th' Almightie with an angrie frowne</L>
+<L>Fright <HI>Blessednesse</HI> from thee, making thy life</L>
+<L>A Vale of miserie, a Den of strife;</L>
+<L>Scarce suffring thee, in almost sixtie yeeres,</L>
+<L>See ought but dangers, mischiefes, <HI>debts,</HI> and feares;</L>
+<L>Laying on thy Soule such heauinesse, such woe,</L>
+<L>As, but his <HI>Mercy</HI> helpe thee, thou must goe</L>
+<L>(And speedily) vnto a Graue, forlorne,</L>
+<L>Wayling, and wishing thou hadst neu'r beene borne.</L>
+<L><PB REF="8">Alas, but what am I, that he should daigne</L>
+<L>In his abundant Grace, to raise againe</L>
+<L>Me (groueling earth) that in confusion lies,</L>
+<L>Not daring to his Throne erect mine eyes?</L>
+<L>O my deiected Spirit, rowse thy selfe,</L>
+<L>Be not with cares (as worldlings are with pelfe)</L>
+<L>Wholly be-numm'd: thy God (benigne, and good)</L>
+<L>Knowes eu'n for thee, thy <HI>Sauiour</HI> shed his bloud:</L>
+<L>Be thou but penitent, and he will smile;</L>
+<L>Wash thee with Teares, and he with sacred Oyle</L>
+<L>Will cheere thy lookes, and thou shalt cleerely see</L>
+<L>The louing kindnesse he intends to thee.</L>
+<L>The Scales are falne already: I behold</L>
+<L>Diuine Infusion (happy man) am told</L>
+<L>That his blest <HI>Prouidence</HI> (neuer forsaking)</L>
+<L>Did first excite thee to this Vndertaking:</L>
+<L>He bids thee write; relie on him, and send</L>
+<L>Thy prayers vp, and he will fairely end</L>
+<L>This thy designe, and thou shalt comforts finde,</L>
+<L>Both to thy trauaild life, and troubled minde.</L>
+<L>Lead by this <HI>Fiery-Conduct</HI> (this darke night)</L>
+<L>Loe thus I wander, (hopefull <HI>Israelite</HI>)</L>
+</DIV1>
+<DIV1 TYPE="poem">
+<PB REF="8">
+<DIV2 N="1" TYPE="poem">
+<HEAD>MERCIES
+FIRST WORKE
+CORPORALL: To feede the Hungrie.</HEAD>
+<L>WEll may this Worke ('mongst all true
+Christians blest)</L>
+<L>Be plac'd as a Fore-runner to the rest;</L>
+<L>By night the Pillar, and the Cloud by day,</L>
+<L>By which all <HI>Mercies</HI> Workes may finde their way:</L>
+<L><PB REF="9">For the sharpe sting of <HI>Hunger</HI> to asswage,</L>
+<L>Being an affliction that feeles greatest rage,</L>
+<L>Off-spring of Famine, that, of Plagues the third,</L>
+<L>Threatned for sinne, in the most sacred Word,</L>
+<L>By how much it appeares the bitt'rer griefe,</L>
+<L>The fairer <HI>Mercie</HI> shines in the reliefe:</L>
+<L>Then, to giue Bread, implies Gods worke in heauen,</L>
+<L>Since <HI>Christ</HI> (the <HI>Bread of life)</HI> was to vs giuen,</L>
+<L>When we had staru'd Soules: dutie bindes vs then</L>
+<L>To comfort the necessities of men:</L>
+<L>And while w' haue time our charitie must be showne</L>
+<L>Not leaue it to be done after wee're gone,</L>
+<L><PB REF="9">By the slow bountie of anothers aid,</L>
+<L>Who perhaps too, by thy example swaid,</L>
+<L>Will part from nothing till his dying day,</L>
+<L>So may thy Goodnesse be lost euery way,</L>
+<L>And tost from ones Trust to anothers care,</L>
+<L>Till there be nothing to trust to but Aire.</L>
+<L><HI>Christ</HI> is the <HI>Bread of life;</HI> Dole then at death</L>
+<L>Is but dead charitie: whilst God giues breath,</L>
+<L>Be thou a giuer to those stand in need,</L>
+<L>And with thine owne eye see the <HI>hungrie</HI> feede:</L>
+<L>Then on the next thou canst not chuse but thinke,</L>
+<L>Feeding the <HI>Staru'd,</HI> thou'lt giue the <HI>Thirstie</HI> drinke.</L>
+<L><PB REF="10">So by one step of <HI>Mercy,</HI> thou'lt ascend</L>
+<L>To the full height of goodnesse in the end:</L>
+<L>Climbing the <HI>Corporall Workes,</HI> there will appeare</L>
+<L><HI>Then</HI> Iacobs Ladder (<HI>the</HI> Spirituall) <HI>cleere.</HI></L>
+</DIV2>
+<DIV2 N="2" TYPE="poem">
+<PB REF="10">
+<HEAD>MERCIES
+SECOND VVORKE
+CORPORALL: To giue drinke to the Thirstie.</HEAD>
+<L>ANother raging enemie, like the first,</L>
+<L>Sets vpon man (afflicted) and that's <HI>Thirst,</HI></L>
+<L>Terror of Surfets, and that plague his fell</L>
+<L>Vpon full bowles; witnesse that wretch in hell,</L>
+<L>(Who shewes the torment best) when all his song</L>
+<L>Was but for one poore drop to <HI>coole his tongue:</HI></L>
+<L><PB REF="11">But <HI>Christ,</HI> that sets reward to him that giues</L>
+<L>But a poore <HI>cup of water,</HI> and releeues</L>
+<L>His Christian brothers want, his thirst t' appease,</L>
+<L>Held it too deare for that rich Gluttons ease.</L>
+<L>What charitie can lesse, then to afford</L>
+<L>A cup of water? <HI>Yet with</HI> Christ <HI>thy Lord</HI></L>
+<L>It has a rich acceptance: which shewes plaine,</L>
+<L>Mans poorest Almes are not bestow'd in vaine.</L>
+<L>Marke but the Blessings that are showr'd from heauen</L>
+<L>On this (the feeblest bountie can be giuen)</L>
+<L>The Lord shall satisfie thy soule in <HI>Drought,</HI></L>
+<L>Make fat thy bones, thy courage bold and stout,</L>
+<L><PB REF="11">And like a watred Garden thou shalt grow,</L>
+<L>Nay like a Spring, whose waters euer flow.</L>
+<L>Thy Barnes shall cracke with plentie for the first,</L>
+<L>For this, thy Presses with new wine shall burst.</L>
+<L>Here are two Steps: if thou canst get so farre,</L>
+<L>I know thou'lt <HI>cloath Need</HI> when thou seest it bare</L>
+</DIV2>
+<DIV2 N="3" TYPE="poem">
+<PB REF="12">
+<HEAD>MERCIES
+THIRD VVORKE
+CORPORALL: To clothe the Naked.</HEAD>
+<HEAD></HEAD>
+<L>HE that did first vncouer <HI>Nakednesse,</HI></L>
+<L>Had the first curse from man, whose tongue did blesse</L>
+<L>At the same instant his two other <HI>Sonnes,</HI></L>
+<L>In whose acts the first modest <HI>Storie</HI> runs.</L>
+<L>We're taught by Gods Law, we should not with-hold</L>
+<L>Our brothers <HI>garment,</HI> (his defence from cold)</L>
+<L><PB REF="12">And call'd his <HI>couering:</HI> which instructs vs still</L>
+<L>How well this worke is pleasing to Gods will,</L>
+<L>To <HI>clothe</HI> the <HI>Naked:</HI> To incite vs more</L>
+<L>To this most seemely Mercy to the poore,</L>
+<L>The Lord himselfe the first example show'd</L>
+<L>On our first Parents, whom he <HI>(naked) cloath'd.</HI></L>
+<L>Humanitie instructs vs to this care,</L>
+<L>And creatures that no name of Reason beare:</L>
+<L>That gentle Bird (tender and kinde to man)</L>
+<L>Seeing the <HI>barenesse</HI> of a Christian,</L>
+<L>Will <HI>couer</HI> him ore with leaues before it rest,</L>
+<L>Then sing a dirge vpon his mossie brest.</L>
+<L><PB REF="13">Who can so dull a Charitie professe,</L>
+<L>But will, of all wants, pittie Nakednesse?</L>
+<L>If nothing stirre him vp, this only can,</L>
+<L>He sees his first Shame in an Vncloath'd man.</L>
+<L>That thought I hope will raise him to this deed,</L>
+<L>To which, being mounted, he will still proceed;</L>
+<L>And hauing got three steps vp, he will see</L>
+<L>In what distresse and wants poore <HI>Prisoners</HI> be.</L>
+</DIV2>
+<DIV2 N="4" TYPE="poem">
+<PB REF="13">
+<HEAD>MERCIES
+FOVRTH VVORKE
+CORPORALL: To ransome Captiues.</HEAD>
+<L>THe more the charitable man proceeds,</L>
+<L>Flow greater miseries to meet his deeds:</L>
+<L>If he looke now with <HI>Mercies</HI> melting eye</L>
+<L>Into the Gaoles where wretched Prisoners lie,</L>
+<L>Foure miseries ioyn'd in one he there shall see,</L>
+<L>Hunger, Thirst, Barenesse, and Captiuitie:</L>
+<L><PB REF="14">He then that truly cleeres this combinde griefe,</L>
+<L>Fairely sets off foure workes in one reliefe.</L>
+<L>This (amongst all afflictions) most extends,</L>
+<L>When man lies lock'd both from his meanes &amp; friends:</L>
+<L>Sure, from th' infernall Lake 'twas first deriu'd,</L>
+<L>For so, lost-Soules lie of all ioyes depriu'd:</L>
+<L>'Twas the most cruell punishment indeed</L>
+<L>That euer was deuis'd to vex true Need;</L>
+<L>To make Necessitie more helplesse; Want</L>
+<L>More miserable; Scarcitie, more scant:</L>
+<L>As who should say, Wee'll inuent plagues anew,</L>
+<L>Wee'll barre all meanes, and see what heau'n will doe.</L>
+<L><PB REF="14">Such are the mercilesse Creditors, that ioyne</L>
+<L>Miserie to want, as they doe bloud to coyne</L>
+<L>Deuouring widowes houses vnder colour</L>
+<L>Of long lip-praying, making their plague fuller.</L>
+<L>Let <HI>Prisons</HI> swallow needie Soules no more,</L>
+<L>But rich <HI>Trust-Breakers</HI> that haue made 'em poore:</L>
+<L>On this thy <HI>Charitie</HI> may boldly venture,</L>
+<L>Cleere 'hem of <HI>True-men,</HI> that <HI>great Theeues</HI> may enter;</L>
+<L>For now there is no roome, nor would it hold,</L>
+<L>To put vp <HI>Sheepe</HI> and <HI>Goats</HI> both in one <HI>Fold.</HI></L>
+<L>If thou desir'st this wrong but to redresse,</L>
+<L>Ile trust thy <HI>Mercy</HI> for the <HI>Harbourlesse.</HI></L>
+</DIV2>
+<DIV2 N="5" TYPE="poem">
+<PB REF="15">
+<HEAD>MERCIES
+FIFT VVORKE
+CORPORALL: To harbour the Harbourlesse.</HEAD>
+<L>THis hospitable <HI>Mercy</HI> stands in need</L>
+<L>Of small incitement, it has beene a Deed</L>
+<L>So gloriously requited, that none can</L>
+<L>Denie that succour to a Christian;</L>
+<L>If he remember how the times of old</L>
+<L>Haue beene rewarded, he will neu'r grow cold:</L>
+<L><PB REF="15">For Truth proclaimes it (then to be beleeu'd)</L>
+<L>In Strangers shapes Angels haue beene receiu'd:</L>
+<L>So <HI>Abrahams</HI> Hospitalitie was blest,</L>
+<L>And the like charitie in <HI>Lot</HI> exprest,</L>
+<L>Which past not vnrewarded, for next Morne</L>
+<L>From burning Sodome he was safely borne.</L>
+<L>This were enough (from all) this worke t' extract,</L>
+<L>Seeing such Blessings purchas'd by the act:</L>
+<L>Say we receiue not Angels, we are sure</L>
+<L>To entertaine <HI>Christ,</HI> which is farre more pure,</L>
+<L>(In his afflicted members) this too we win,</L>
+<L>Letting in Charitie, we shut out Sin;</L>
+<L><PB REF="16">And this good more: if cheerefully thou impart</L>
+<L>Thy house to Christ, hee'll come into thy heart:</L>
+<L>Then putt'st thou on all workes of blessed kindes,</L>
+<L>Thou'lt run to <HI>visit</HI> those whom <HI>Sicknesse</HI> bindes.</L>
+</DIV2>
+<DIV2 N="6" TYPE="poem">
+<PB REF="16">
+<HEAD>MERCIES
+SIXTH VVORKE
+CORPORALL: To visit the Sicke.</HEAD>
+<L>THe motiues that should most perswade dull minds</L>
+<L>To offices of <HI>Mercy</HI> of all kindes,</L>
+<L>Are to consider well how like they looke</L>
+<L>To all Gods Workes, the Glasse, the sacred Booke,</L>
+<L>Which shewes 'hem cleerely to mans mortall eye</L>
+<L>That he might follow 'hem more effectually.</L>
+<L><PB REF="17">Here is a <HI>Mercy</HI> (though it seeme a paine)</L>
+<L>Which God begins, to draw vs on againe,</L>
+<L>The <HI>Sicke</HI> to him, the healthfull to the <HI>Sicke,</HI></L>
+<L>Both for his glory, to keepe <HI>Mercy</HI> quicke.</L>
+<L>We say of them which haue a <HI>Sicknesse</HI> on 'hem,</L>
+<L>These words, <HI>Gods visitation is vpon 'hem:</HI></L>
+<L>Shall not we <HI>visit</HI> whom he <HI>visits</HI> then?</L>
+<L>What worke can be a glory more to men,</L>
+<L>Then reuerently to second (yet most free)</L>
+<L>Gods <HI>visitation</HI> with our companie?</L>
+<L>To be a <HI>visitant</HI> there where God is chiefe,</L>
+<L>And the first <HI>visitor,</HI> can this be griefe?</L>
+<L><PB REF="17">Or Shame? or Danger? Say the last it be,</L>
+<L>Thy comfort is, the same God <HI>visits</HI> thee:</L>
+<L>And when thy health's restor'd, more care thou'lt haue</L>
+<L>Both of the <HI>Sicke,</HI> and those that want a <HI>Graue.</HI></L>
+</DIV2>
+<DIV2 N="7" TYPE="poem">
+<PB REF="18">
+<HEAD>MERCIES
+SEVENTH WORK
+CORPORALL: To burie the Dead.</HEAD>
+<L>WIth this fit care did <HI>Abraham</HI> first begin,</L>
+<L>And bought a <HI>Field</HI> to <HI>burie</HI> his <HI>Dead</HI> in:</L>
+<L>And <HI>Ioseph</HI> was the first that honour gaue</L>
+<L>To the <HI>dead Corps,</HI> embalm'd it for the <HI>Graue:</HI></L>
+<L>Nay <HI>God himselfe</HI> (which should moue most of all)</L>
+<L>Gaue <HI>Moses</HI> in a valley <HI>Buriall.</HI></L>
+<L><PB REF="18">More: marke the glorious promise of his Truth,</L>
+<L>No Blessing beares a fairer spring, or youth</L>
+<L>In the most beautifull Word: marke it agen,</L>
+<L>Let it be grauen on the hearts of men;</L>
+<L>Where ere thou find'st the dead, haue this regard,</L>
+<L>Take 'hem, and burie 'hem; and for reward,</L>
+<L><HI>Ile giue thee</HI> (in this gift comes all in one)</L>
+<L>The first place in my Resurrection.</L>
+<L><HI>Tobit,</HI> amidst his precepts to his Sonne,</L>
+<L>Gently warnes this, as needfull to be done,</L>
+<L>When I' me dead, burie me: <HI>and next of all,</HI></L>
+<L>(As if he scarce had spoke of <HI>Buriall</HI>)</L>
+<L><PB REF="19">Bids the same Care he of his <HI>Mother</HI> haue,</L>
+<L>Whom, when She dies, seale vp in the same <HI>Graue.</HI></L>
+<L>Thus, when thou hast perform'd the last request</L>
+<L>To the <HI>Works Corporall,</HI> and <HI>Interr'd,</HI> in rest,</L>
+<L>With a cleere Conscience, and vntroubled heart,</L>
+<L>Thou maist lay claime to the <HI>Spirituall part.</HI></L>
+</DIV2>
+</DIV1>
+<DIV1 TYPE="table">
+<PB REF="19">
+<HEAD>These made Paralells.</HEAD>
+<P><TABLE>
+<ROW>
+<CELL ROLE="label">Corporall.</CELL>
+<CELL ROLE="label">Spirituall.</CELL>
+</ROW>
+<ROW>
+<CELL>To feede the Hungrie.</CELL>
+<CELL>To correct the Sinner.</CELL>
+</ROW>
+<ROW>
+<CELL>To giue drinke to the
+Thirstie.</CELL>
+<CELL>To instruct the Ignorant.</CELL>
+</ROW>
+<ROW>
+<CELL>To clothe the Naked.</CELL>
+<CELL>To counsell the Doubtfull.</CELL>
+</ROW>
+<ROW>
+<CELL>To ransome the Captiues.</CELL>
+<CELL>To comfort the sorrowfull.</CELL>
+</ROW>
+<ROW>
+<CELL>To harbour the Harbour|lesse.</CELL>
+<CELL>To beare wrongs patiently</CELL>
+</ROW>
+<ROW>
+<CELL>To visit the Sicke.</CELL>
+<CELL>To forgiue all men.</CELL>
+</ROW>
+<ROW>
+<CELL>To burie the Dead.</CELL>
+<CELL>To pray for others, euen
+our Enemies.</CELL>
+</ROW>
+</TABLE></P>
+</DIV1>
+<DIV1 TYPE="poem">
+<PB REF="20">
+<PB REF="20">
+<DIV2 N="1" TYPE="poem">
+<HEAD>MERCIES
+FIRST VVORKE
+SPIRITVALL: To correct the Sinner.</HEAD>
+<L>TO <HI>feede</HI> the <HI>Hungrie, Mercies</HI> first degree,</L>
+<L>May with this first <HI>Spirituall</HI> par aleld be:</L>
+<L>For a <HI>Stray-Sinners-Soule</HI> that long hath
+swaru'd</L>
+<L><HI>From</HI> Christ (lifes Bread) <HI>may be cald</HI> hunger-staru'd.</L>
+<LG>
+<PB REF="21">
+<L>Then to <HI>Correct,</HI> and turne that Soule to Good,</L>
+<L>Is rightly said to giue <HI>Spirituall Food.</HI></L>
+<L>So much for the Coherence: and through All</L>
+<L>The <HI>Corporall Workes</HI> so meet <HI>Spirituall.</HI></L>
+</LG>
+<LG>
+<L><HI>GOd</HI> rebuk'd <HI>Laban,</HI> 'cause he did pursue</L>
+<L>Iacob; Christ Paul; Paul <HI>rebuk'd</HI> Peter <HI>too</HI></L>
+<L>Boldly and openly&punc; which shewes we ought</L>
+<L>To reproue <HI>Sinne</HI> in any: 'tis so taught</L>
+<L>Throughout the word, by <HI>Law,</HI> and by the <HI>Lambe,</HI></L>
+<L>Who <HI>all-obedient,</HI> for the <HI>obedient</HI> came.</L>
+<L>List to the counsell of the <HI>Holy Ghost,</HI></L>
+<L>Where dwels all goodnesse plentifully most,</L>
+<L><PB REF="21">If thy weake brother through temptation fall,</L>
+<L>Restore him, ye that are Spirituall.</L>
+<L>So sayes the Spirit of all comforts beautie,</L>
+<L>Which shewes this worke is a <HI>Spirituall</HI> dutie:</L>
+<L>It is a <HI>Mercy</HI> to the <HI>Soules</HI> of men,</L>
+<L>And brings 'hem to the way of life agen.</L>
+<L>One dutie so depends vpon another,</L>
+<L>He that <HI>Corrects,</HI> will sure <HI>Instruct</HI> his Brother:</L>
+<L>(Coheres with <HI>that before,</HI> for he that <HI>feedes</HI></L>
+<L>The <HI>hungrie,</HI> will giue <HI>drinke</HI> to him that needes)</L>
+<L>'Tis such a Golden-chaine, so linck'd together,</L>
+<L>In <HI>Soule,</HI> and <HI>Body,</HI> 'tis the same in either.</L>
+</LG>
+</DIV2>
+<DIV2 N="2" TYPE="poem">
+<PB REF="22">
+<HEAD>MERCIES
+SECOND VVORKE
+SPIRITVALL: To instruct the Ignorant.</HEAD>
+<L>TO giue the Thirstie Drinke, <HI>the second Act</HI></L>
+<L>Of <HI>Mercy Corporall,</HI> is this <HI>Mercies</HI> Tract:</L>
+<L>For what is <HI>Ignorance</HI> but the fearefull <HI>Thirst</HI></L>
+<L>And <HI>drought</HI> of <HI>knowledge,</HI> in Gods wrath oft curst,</L>
+<L>Swearing the <HI>Erring</HI> and <HI>Idolatrous</HI> Brest</L>
+<L><HI>Should neuer</HI> enter into his faire Rest.</L>
+<L><PB REF="22">In warres of <HI>Ignorance</HI> they are said to liue,</L>
+<L>And Fire and <HI>Thirst</HI> are the fair'st fruits wars giue.</L>
+<L>I giue you <HI>Milke</HI> to <HI>drinke</HI> (saith <HI>Paul</HI>) not <HI>Meat,</HI></L>
+<L>Which shewes the faintn<GAP DESC="illegible" EXTENT="1 letter">sse of an <HI>Ignorant heat.</HI></L>
+<L>God cals the <HI>Glory</HI> of the <HI>Ignorant, Drought,</HI></L>
+<L>And like men famish'd their lifes ioyes goe out.</L>
+<L><HI>Instruction,</HI> like a Riuer, then let in,</L>
+<L>Waters the Soule that lay eu'n parch'd with Sin:</L>
+<L>And marke their glorious reward that doo't,</L>
+<L>They that to right wayes turn the wandrers foot,</L>
+<L>Themselues like fixed Stars <HI>(who</HI> Erring <HI>neuer)</HI></L>
+<L>Shall in th' eternall kingdome shine for euer.</L>
+<L><PB REF="23">'Twas the Command <HI>Christ</HI> his Disciples gaue,</L>
+<L>Goe teach all Nations <HI>(willing all to saue)</HI></L>
+<L>And what makes perfect his Command, <HI>Baptize,</HI></L>
+<L>That in their <HI>Soules</HI> a heauenly <HI>Spring</HI> might rise.</L>
+<L><HI>Then</HI> to instruct the Ignorant, <HI>is to giue</HI></L>
+<L><HI>Spirituall Drinke,</HI> by which the Soule may liue.</L>
+<L>When <HI>Food</HI> and <HI>Drinke's</HI> giuen, diuine Charitie saith</L>
+<L>Counsell the Doubtfull, clothe the bare in Faith.</L>
+</DIV2>
+<DIV2 N="3" TYPE="poem">
+<PB REF="23">
+<HEAD>MERCIES
+THIRD VVORKE
+SPIRITVALL: To counsell the Doubtfull.</HEAD>
+<L><HI>TO clothe</HI> the <HI>Naked,</HI> (that third Step in Grace)</L>
+<L>With this <HI>Spirituall Worke</HI> may ranke in place:</L>
+<L>There's <HI>Nakednesse</HI> in <HI>Soule,</HI> which is in Man</L>
+<L>The greatest want, when <HI>Christ</HI> is not put on;</L>
+<L>His Sufferings, his Righteousnesse, his Merits,</L>
+<L>Which are the <HI>vestments</HI> that adorne meeke Spirits.</L>
+<L><PB REF="24">Those <HI>Soules</HI> are <HI>deckt</HI> with <HI>Graces,</HI> and shine most,</L>
+<L>Set with the <HI>Counsels</HI> of the <HI>Holy Ghost.</HI></L>
+<L>Then to be <HI>Doubtfull,</HI> and of hard beliefe,</L>
+<L>Is miserable <HI>Nakednesse:</HI> a griefe</L>
+<L>Which most needs <HI>Counsell,</HI> and best power of Man,</L>
+<L>Since it first prou'd <HI>the Iewes Reiection.</HI></L>
+<L><HI>Faith</HI> is that <HI>Wedding Robe;</HI> in which not drest,</L>
+<L>We are disgrac'd, and turn'd out from the <HI>Feast:</HI></L>
+<L>Which still confirmes th'vnseemelinesse of <HI>Doubt:</HI></L>
+<L><HI>Faith's</HI> call'd a <HI>Brest-plate:</HI> if we walke without,</L>
+<L>We are not only <HI>bare,</HI> but want Defence,</L>
+<L>And euery <HI>Euill</HI> knowes our <HI>Indigence.</HI></L>
+<L><PB REF="24">Euery temptation wounds, with the least touch,</L>
+<L>The force, though weake, the <HI>Doubter</HI> helps it much,</L>
+<L>And sticks-in his owne Arrow; his flesh cleaues</L>
+<L>Wide ope to Ills, whose heart no <HI>Faith</HI> receiues:</L>
+<L>He that to this <HI>Soules Succour</HI> lends a hand,</L>
+<L>Helpes to remoue this house, built vpon Sand,</L>
+<L>And sets it on a <HI>Rocke,</HI> (his <HI>Sauiours</HI> Trust)</L>
+<L>To the next Worke of <HI>Comfort</HI> hee'll be iust.</L>
+</DIV2>
+<DIV2 N="4" TYPE="poem">
+<PB REF="25">
+<HEAD>MERCIES
+FOVRTH VVORKE
+SPIRITVALL: To comfort the Sorrowfull.</HEAD>
+<L>TO Ransome Captiues, <HI>the fourth</HI> Mercy <HI>plac'd</HI></L>
+<L>In the <HI>first Ranke,</HI> may with this Work be grac'd.</L>
+<L>There are <HI>Spirituall Captiues,</HI> when within</L>
+<L><HI>The</HI> Soule <HI>lies geyu'd with</HI> Fetters made of Sin,</L>
+<L>Chain'd to despaire, and Guilt of ill demerit,</L>
+<L>To <HI>Comfort,</HI> is to <HI>Ransome</HI> such a Spirit:</L>
+<L><PB REF="25">Or at the least, to set the minde in frame</L>
+<L>With the sweet thought of their <HI>Redeemers</HI> name:</L>
+<L>That sacred <HI>Ransome</HI> for all <HI>penitent</HI> men,</L>
+<L>Loaden with <HI>Sorrow,</HI> for their load of <HI>Sin.</HI></L>
+<L>To this most beautious <HI>Mercy</HI> (saith Saint <HI>Paul)</HI></L>
+<L>Gods speciall <HI>Attribute,</HI> may moue vs all.</L>
+<L>The God of <HI>comfort,</HI> being Gods glorious name,</L>
+<L>Whence we receiuing <HI>ours,</HI> must giue the same</L>
+<L>To the afflicted <HI>Conscience,</HI> ease her load</L>
+<L>With what our selues are <HI>comforted of God.</HI></L>
+<L><HI>Christ</HI> in sweet words makes knowne himselfe to be</L>
+<L><HI>The Lord of</HI> Comfort, <HI>saying,</HI> Come to me</L>
+<L><PB REF="26"><HI>You heauy loaden:</HI> what can more be nam'd?</L>
+<L>The <HI>Holy Ghost,</HI> hee's generally proclaim'd</L>
+<L>A <HI>Comforter:</HI> his speciall worke on Earth,</L>
+<L>Is to raise <HI>Ioy</HI> vpon our second Birth.</L>
+<L>Well with a <HI>Christian</HI> may this Worke agree,</L>
+<L>So Starre-like fixt in the whole <HI>Trinitie,</HI></L>
+<L>To light and guide <HI>Compassion</HI> in Mankinde,</L>
+<L>That the next Worke it may the easier finde.</L>
+<L><HI>He that lends</HI> pittie <HI>to</HI> griefes mournfull song,</L>
+<L><HI>Patience</HI> will blesse his Soule to <HI>beare a wrong.</HI></L>
+</DIV2>
+<DIV2 N="5" TYPE="poem">
+<PB REF="26">
+<HEAD>MERCIES
+FIFT VVORKE
+SPIRITVALL: To beare Wrongs patiently.</HEAD>
+<L>TO giue to those a <HI>harbour</HI> that haue none,</L>
+<L>Was a <HI>Worke Corporal</HI> in the fift place shown;</L>
+<L>As <HI>Patience</HI> now in this <HI>Spirituall</HI> forme,</L>
+<L>Which has a welcome for <HI>wrongs</HI> sharpest storme:</L>
+<L>And to giue <HI>Iniuries</HI> house-roome, is no more</L>
+<L>Then to lodge <HI>Enemies,</HI> distressd and poore;</L>
+<L><PB REF="27">Which makes our Acts the nobler in their course,</L>
+<L>And puts our Euils to the weaker force:</L>
+<L>"As wrath consumes it selfe, oppos'd by none,</L>
+<L>"So <HI>Iniuries</HI> endur'd, their stings are gone.</L>
+<L>That God, which (last) of <HI>Comfort</HI> held the name,</L>
+<L>Is (here) the God of <HI>Patience;</HI> both the same:</L>
+<L>By his long-suffring, <HI>Penitence</HI> workes our peace,</L>
+<L>And by our <HI>Patience</HI> we our Soules possesse:</L>
+<L>Our <HI>Patience</HI> hauing a possession then,</L>
+<L>Who should <HI>lodge</HI> there, but <HI>Iniuries</HI> of men?</L>
+<L>That place to <HI>Euils</HI> properly belongs,</L>
+<L>"<HI>The</HI> house <HI>of</HI> Patience, <HI>is the</HI> Inne <HI>of</HI> wrongs.</L>
+<L><PB REF="27">The holy <HI>Prophets</HI> are before vs plac'd,</L>
+<L>As precedents of <HI>Patience;</HI> but most grac'd</L>
+<L>By <HI>Christ,</HI> and his <HI>Endurings:</HI> witnesse <HI>Scornes,</HI></L>
+<L>Spight, Blasphemies, Reproches, Buffets, Thorns,</L>
+<L>Last his most pretious <HI>Suffring,</HI> that excels,</L>
+<L>And has rais'd <HI>Patience</HI> 'boue all <HI>Vertues</HI> else;</L>
+<L>And for the <HI>Thornie-Crowne,</HI> prickt it with <HI>Stars</HI></L>
+<L><HI>Shining through</HI> Corporall <HI>or</HI> Spirituall Wars.</L>
+<L>Who would not <HI>beare wrongs,</HI> since i'th' end they proue</L>
+<L>All <HI>Iewels,</HI> set about their <HI>Crowne</HI> aboue?</L>
+<L>Without the next, impossible he should liue;</L>
+<L>He that <HI>beares wrongs,</HI> will graciously <HI>forgiue.</HI></L>
+</DIV2>
+<DIV2 N="6" TYPE="poem">
+<PB REF="28">
+<HEAD>MERCIES
+SIXT VVORKE
+SPIRITVALL: To Forgiue all men.</HEAD>
+<L>THe Visitation of the sicke, <HI>the sixt</HI></L>
+<L>Of <HI>Corporall Workes,</HI> is with this <HI>Mercy</HI> fixt:</L>
+<L>For on the Bed of <HI>Sicknesse,</HI> harshest men</L>
+<L>Will both <HI>forgiue,</HI> and aske <HI>forgiuenesse</HI> then:</L>
+<L>That time, the most reuengefull Spleene will melt,</L>
+<L>In teares, and not in bloud, his Reuenge felt.</L>
+<L><PB REF="28">The motiue then to draw this good Worke on vs,</L>
+<L>Is to thinke still that <HI>Sicknesse</HI> were vpon vs:</L>
+<L>And as the <HI>Worldling</HI> when hee's sure to die,</L>
+<L>Will then giue all, no man more liberally;</L>
+<L>For reason of his Bountie this we giue him,</L>
+<L>Because he can nor keepe, nor carry with him:</L>
+<L>So he that's most reuengefull, most malitious,</L>
+<L>Will shew himselfe in that kinde then least vitious:</L>
+<L><HI>When</HI> Visitation, <HI>like a</HI> frostie Night,</L>
+<L>Bindes vp the <HI>Riuers</HI> of his <HI>Bloud</HI> and <HI>Spight,</HI></L>
+<L>If he be good, and a right Christian,</L>
+<L>He will <HI>forgiue</HI> (as Charitie ties man)</L>
+<L><PB REF="29">If he be neu'r so vilde, hee'll <HI>forgiue</HI> then,</L>
+<L>In that he has no power to iniure men.</L>
+<L>Howeuer, by this blest example liue,</L>
+<L>Because our <HI>Christ forgaue,</HI> let vs <HI>forgiue:</HI></L>
+<L>For his sake honour it; and in this respect,</L>
+<L>It being the speciall marke of <HI>Gods Elect:</HI></L>
+<L>The next will sweetly fall into thy way,</L>
+<L>For he that <HI>pardons,</HI> will be apt to <HI>pray&punc;</HI></L>
+</DIV2>
+<DIV2 N="7" TYPE="poem">
+<PB REF="29">
+<HEAD>MERCIES
+SEVENTH WORK
+SPIRITVALL: To pray for others, euen our enemies</HEAD>
+<L>THe burying of the dead, <HI>not disagrees</HI></L>
+<L><HI>With this Worke,</HI> Praying for our Enemies:</L>
+<L>For as <HI>Obliuion's</HI> said to be a <HI>Graue,</HI></L>
+<L>And <HI>Ills (forgotten)</HI> their true <HI>buriall</HI> haue;</L>
+<L>So when we <HI>pray for foes,</HI> we there comprise</L>
+<L>The <HI>funerall</HI> of all our <HI>Iniuries,</HI></L>
+<L><PB REF="30">Neuer in life to be remembred more,</L>
+<L>But like things buried, seal'd, and couer'd ore:</L>
+<L>This <HI>praying-loue,</HI> which makes vp Charitie best,</L>
+<L>And both, faire <HI>Mercy</HI> in this Tract exprest,</L>
+<L>Is like a <HI>Toombe-stone</HI> here vpon <HI>Deaths Inne,</HI></L>
+<L>And couers the great multitude of Sin.</L>
+<L>Blessed <HI>Saint Steuen</HI> thus with loud voice cride,</L>
+<L>And <HI>buried</HI> his <HI>foes wrongs</HI> before he dide,</L>
+<L>Lord, lay not to their charge this sin <HI>(though deep)</HI></L>
+<L>And when he had thus spoke, is said to <HI>sleepe,</HI></L>
+<L>To shew the <HI>meeknesse</HI> of his death, and that</L>
+<L><HI>Wrongs</HI> were no sooner <HI>pardon'd,</HI> but <HI>forgot.</HI></L>
+<L><PB REF="30">It is a <HI>Mercy</HI> that <HI>Christ</HI> lights vs to,</L>
+<L>Forgiue them, for they know not what they doe:</L>
+<L>Your enemies loue, do well to the~ that spight you,</L>
+<L>Blesse the~ that curse, &amp; pray for the~ that smite you</L>
+<L>Mongst <HI>Mercies</HI> works this shines the speciall Iem,</L>
+<L>Both to bring <HI>wrongs</HI> to th' Graue, and pray for them:</L>
+<L>As Christian Charitie vses this remorse,</L>
+<L><HI>Prayers</HI> are oft said ouer an ill mans coarse</L>
+<L>(To the worlds iudgement) which this worke implies,</L>
+<L>We ought to <HI>pray</HI> eu'n for our <HI>Enemies.</HI></L>
+<L>Who loues these <HI>Works</HI> (both wayes in number seuen)</L>
+<L>Will shine 'mongst men, and be a <HI>Starre</HI> in heauen.</L>
+</DIV2>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

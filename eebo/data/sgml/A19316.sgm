@@ -1,0 +1,1066 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD EEBOPROOF 2.0//EN">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-09-07</DATE>
+<RESPSTMT>
+<NAME>Mona Logarbo</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>*Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate.
+*Checked for GROUP tags.
+*Proofed title page(s).
+On title page, replaced a P withQ (removed HIs from this Q).
+*Checked ^s.
+*Checked I / J.
+*Checked oe for ae ligatures.
+*Reviewed structure.
+Added HEAD TYPE="illustration" with FIGURE / P to PB REF="2".
+Made "to the reader" BACK matter.
+*Checked placement and completeness of PBs.
+*Checked for duplicate pages.
+*Checked for missing pages.
+*Checked spacing of foreign GAPs.
+*Checked for damage GAPs, #s, @s, &mdash;, --s, <ABBR>Esq</ABBR> and UNCLEARs.
+*Corrected $word$s, $span$s, and $s by inserting the appropriate character(s) and / or GAP DESC(s).
+*Checked for &amp;cs with incorrect spacing.
+*Checked for OPENERs, SALUTEs, CLOSERs, DATEs, DATELINEs, SIGNEDs, BYLINEs, TRAILERs, etc.
+*Checked for TABLEs and LISTs.
+*Checked for LBs.
+*Checked for startqs, endqs and Qs.
+*Checked proofsheets and made corrections.
+DONE 09-07-03.</ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="A19316">
+<STC T="S">573</STC>
+<BIBNO T="umi">99850487</BIBNO>
+<VID>15695</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1">
+<PB REF="1">
+<P>THE
+COLDE SPRING
+OF KINGHORNE
+CRAIG,
+HIS ADMIRABLE AND NEW
+TRYED PROPERTIES, SO FAR
+foorth as yet are found true by
+<HI>Experience.</HI></P>
+<P>Written
+BY PATRIK ANDERSON D. of Physick.</P>
+<Q>Disco Orbi, quod quis&abque; sibi.</Q>
+<P>EDINBURGH,
+Printed by THOMAS FINLASON, Printer to
+<HI>the Kings most excellent Majestie.</HI> 1618.</P>
+</DIV1>
+<DIV1 TYPE="epigraph">
+<PB REF="2">
+<Q><BIBL>Psalme 78. vers. 15 and 16.</BIBL>
+<P N="15">The Lord claue the Rocks in the wildernesse, and gaue the
+people to drinck, as of the great deepes.</P>
+<P N="16">16. Hee broght floodes also out of the stonie Rock, so that
+hee made the waters to descend like the rivers.</P>
+<P N="17">17. Yet they sinned still against him, and provoked the hi|ghest
+in the wildernesse.</P></Q>
+<P><FIGURE>
+<FIGDESC>Kinghorn crag</FIGDESC>
+</FIGURE></P>
+<Q><BIBL>Wisedome of Solom. Cap. 11.</BIBL>
+<P>When they were thristie they called vpon thee, and thou
+gaue them water out of the high Rock, and their thirst was
+quenched out of the hard stone.</P></Q>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="2">
+<HEAD TYPE="illustration"><FIGURE>
+<P>AA</P>
+</FIGURE></HEAD>
+<HEAD>TO
+THE RIGHT NOBLE
+AND ILLUSTRIOUS LORD,
+IOHNE ERLE OF MAR,
+LORD ERSKINE AND GARIOCH, &amp;c.
+Lord high Thesaurer of SCOTLAND,
+Knight of the most noble ordor of the
+Garter, and one of his Maiesties most
+honorable Privie Counsell, of both
+Kingdomes.</HEAD>
+<HEAD TYPE="sub">My singulare good Lord, and Patrone.</HEAD>
+<OPENER><SALUTE>Right noble Lord,</SALUTE></OPENER>
+<P>_THought Water bee but a wairsh and tai|stles
+subject, whereof manie lyke litle to
+heare, far less to taist; yet is it of great
+worth and so necessare an element, that
+without it the most eminent could not
+Well consist. The great Emperour of <HI>Per|sia</HI>
+welcomed hairtlie one of his meane sub|jects,
+who in his progresse propyned him with a drinck of cold wa|ter,
+having no other riches whereby hee might acknowledge his
+Prince. And I hope your L. as willinglie will accept from
+your owne servand not a drinck, but a discourse of that rare
+water, which long hide, hath beene of lait discouered for the
+good of manie. But perhaps I haue vndertaken a warre when
+I this way aduentured to thrust my selfe into a Printers presse,
+<HI>ad praelum quasi ad praelium,</HI> a plaine discouerie, perchance,
+<PB REF="3">
+of my owne ignorance. For to speake in Print is to vndergoe a
+publick censure. Yet I hope that such as mislyke it, shall either judge
+fauorablie, or produce a better as speedilie, Why may not meane wits
+in their folies haue equall paines with learned Clerks in their
+fancies? <HI>Apollo</HI> yeelded Oracles as well to poore men for pray+ers,
+as to Princes for their propynes&punc; starres haue their lightes
+and Heires their shadowes; And meane scholars haue even
+high mynds, although low fortunes. But being loath to wearie
+your L. with a long letter, I am thus emboldned to recomend this
+vnworthie pamphlete to your Honours patronage. For that a
+greater motiue then that you are your selfe, needeth not to en|courage
+mee to this dedicatioun, so far is my loue engaged to
+your L. most honourable &amp; auncient house. If it appeare presump|tioun
+in mee to show my loue, my duetie vrgeth mee to it. But
+setting a part neidlesse feare, and resoluing couragiouslie vpon
+your wounted and vndeserued fauour, I would euen but request
+your L. to receaue that which is not, for that which I would
+it were, letting my insufficiencie bee measured be my goodwill: that
+so weghing the mynd and not the matter, my simple abilities
+may thryue vnder your L. protectioun, and happilie lead mee
+on to some worthier attempt. Take it then my noble Lord, in
+good pairt; it being from one who honoureth your worth, oweth
+you his loue, and hath altogidder so resolued, and vowed him
+selfe to doe your L. and all yours, true seruice all the dayes of his
+lyfe. And thus from my hart wishing your L. and your most noble
+Ladie a great portion of <HI>Methusalems</HI> yeeres for this lyfe, and
+after it, eternall lyfe. I humblie rest</P>
+<CLOSER><DATELINE>From my house at Edinb.
+<DATE>the 8. of October 1618.</DATE></DATELINE>
+<SIGNED>Your L. most willing Physition,
+and obedient Servitour&punc;
+<HI>P. Anderson D.</HI></SIGNED></CLOSER>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="part">
+<PB REF="3">
+<HEAD>THE CAVLD SPRING
+OF KINGHORNE CRAIG
+HIS ADMIRABLE AND NEW
+tryed properties, so far as yet are found
+true by experience.</HEAD>
+<P>_HARD by the shore syde of <HI>King|horne,</HI>
+within a bow-draught or
+more to the heaven of <HI>Prettie-cur</HI>
+where the Botes arriue, direct
+west the Sands, is a great round
+steip Rock, whose fore-front ly|ing
+so oppen to the Sea, and opposite to the wea|ther,
+is so beatten therewith, as that his superficiall
+parts are become so friable, and as it were rotten to
+everie light twitching of ones hand.</P>
+<P>All this whole craig from the top to the foun|dation,
+is so seamed, and as it wer embroydered with
+a number of whyte veines much resembling a soft
+&amp; bruckle <HI>Alabast,</HI> &amp; in many places glau~cing in the
+night, not vnlyk to <HI>Cristall</HI> or some bastard <HI>Diama~t.</HI></P>
+<P>This white spar is accompanied (although but
+poore) with some mixture of sundrie starnie metalls,
+whereof the greatest pieces aboundes of a certaine
+glauncing, cleir, &amp; skelflie stone called <HI>Gypsum,</HI> wel
+<PB REF="4">
+knowne of the <HI>Apothecareis,</HI> yea and is verie pon|derous
+and weghtie.</P>
+<P>Upon the east syde of the same Rock, in a hol|low
+corner is perceived a certaine white cleir congea+led
+water snotting through the moyst clifts of the
+Craig&punc; much resembling the geile of fishe, or repre|senting
+the stryne of ane evill rosted egge, called
+of those who are skilfull in metalles, <HI>Sperma, seu ma|ter
+Metallorum.</HI></P>
+<P>&rindx; Out of the broade face of this foresaid Rock,
+springs most plesandly a verie cleir, &amp; delicate cauld
+<HI>VVater,</HI> which being drunk in great measure is neuer
+for all that, felt in the belly.</P>
+<P>This faire Spring (albeit but laitlie knowne) is
+approved by the people which drink thereof, to be
+one of the most rare remedies for the <HI>Stomach</HI> in
+the world, gives a good appetit to meate, maketh
+one that loaths of his meate to be hungrie, and is
+the onlie remedie for <HI>Chronick,</HI> &amp; lingring disseases,
+specialie in those who having spoilled their stomach
+by superfluous drying of Cuppes.</P>
+<P>It is a most confortable &amp; refreshing drink in all
+hote fevers, pestilential agues, &amp; where drouth most
+abounds.</P>
+<P>It refresheth and cooleth a hott distemper of ye
+<HI>Lever,</HI> helpes all disseases proceeding therethrough,
+dryeth vp the <HI>Youk,</HI> and vniversall <HI>Skab,</HI> purgeth &amp;
+correcteth all salt flegme, abaiteth and tempereth
+the heat of the <HI>Reines,</HI> a great cause of confirmed
+stones: and is a most soveraine remedie for the pai|nes
+<PB REF="4">
+of the <HI>Back,</HI> proceeding of <HI>Gravell</HI> or sand, cau|sing
+the patient to pisse out many small stones, and
+making them to discend without paine.</P>
+<P>To some it louseth the belly verie freelie, but not
+at the first. Others thinks it bindeth them. Yet it see|meth
+to louse moe then it bindeth.</P>
+<P>I haue knowne some vomit therewith, but that
+I suspect proceedeth of surfet: for that the people
+doe as yet vse it, without rule or praescription.</P>
+<P>It helpeth many that haue a dimme <HI>Sight,</HI> for being
+wel put in the eyes, it is more sharpe and byting the~
+commoun water; &amp; is a singular remedie for those
+which are molested with <HI>Lippitudo</HI> or bleir-eyed, &amp;
+stayeth <HI>itching</HI> and <HI>heat.</HI></P>
+<P>No liquor hath been tryed more excellent for
+itching, and heat of the face with plouks, &amp; pustuls
+then this water, it being both drunck and put ther|vpon.
+And is also good for singing of the eares.</P>
+<P>It is powerfull in helping extenuat and leane per|sons
+who are troubled with difficultie of drawing
+their <HI>Brath:</HI> gives vigour and strength to vithered
+and debilitat members; and is the onlie last remedie
+for all debilities which haue long vexed the body
+through a hote distemper of the Lever, such as a hote
+<HI>Gutte;</HI> it allayeth all <HI>Inflamations</HI> inward &amp; outward.</P>
+<P><HI>Guarisce encora il cancaro, i caruoli, i porri fighi
+della verga, &amp; la scolatione virolenta di rene, Ambas|ciatori
+certi del mal Francese, ma non val niente a i
+tenconi, overo panochie nell inguinaglia.</HI></P>
+<P>The <HI>geallie</HI> water, that sweateth out of the craig
+<PB REF="5">
+coolleth &amp; dryeth being gathered at tymes when it
+falleth, and the hands &amp; face rubbed therwith, doth
+procure a verie faire &amp; beautiefull skinne.</P>
+<P>These bee the Physical properties of this faire
+Spring, so far foorth as the disseased haue as yet tryed
+by experience, &amp; in whose companie I was somtimes
+present my selfe.</P>
+<P>Now, what should bee the Physicall and naturall
+cause of those wonderfull effects, diverse of the lear+ned
+are of diverse judgments. For my owne part,
+because I was the first of my profession that crossed
+the Forh to that Spring, being moved partlie to sa|tisfie
+the desire of my freinds and acquaintence, &amp;
+partlie to content my owne curiositie in naturall
+things, wherunto from my youth I haue euer bein
+bent, as weell at home as abroad: I will onlie write
+my opinioun without contentioun, reserving the
+resolution thereof to my most learned colleagues,
+much more judicious than my selfe.</P>
+<P>I, at the first, as also many others, thought it but
+ane idle toy, &amp; a conceit of the people, and as some
+think it yet. Others, thought it a trick devysed by the
+Ferriers onlie for gaine. But seeing the fame there|of
+incresse and that not by the meanest, but euen
+of those of best credit, who long disseased, wonder|fullie
+recovered their vnexpected health in their
+owne persons. At length I begoud to think that al|beit
+it was no vncouth thing in others countreyes
+to haue such minerall waters, yet rare &amp; but of laite
+knowne amongst vs. And althogh I call this a mi|nerall
+<PB REF="5">
+water: yet my meaning is not to conclude that
+it proceedeth of metall alone: for that as appeareth is
+very poore in this craige: Notwithstanding that al
+those riches of goulde and silver which are come
+into <HI>Spaine</HI> since the west <HI>Indies</HI> were discovered,
+haue beine drawne out of such barrane places which
+are full beare and fruitles, as this rotten rock seims
+to bee. Yea all the ponderous spar inclyneth rather
+towards the bottome, a signe doutles which argueth
+no rich metall.<NOTE PLACE="marg"><HI>Ioseph Acesta</HI> Hist. natur. and Moral. <HI>Lib. 3. Cap.</HI> 3.</NOTE> <HI>For it is found be experience that where
+minerals are most ryfe, the higher the veines bee to
+the superfice of the earth, the more rich they find it,
+and the deiper it goeth, the poorer it is.</HI></P>
+<P>Further, if this water produce such Physicall pro|perties
+be reason of metals, Then all springs taking
+their course through the richest metals should far
+excell this, which runneth but through a verie poor
+metall by appearence: yea that wholsome &amp; cauld
+spring of the brayes of <HI>Arthrey,</HI> perteining to the
+right honourable The Earle of <HI>Montrose</HI> should far
+excell this of <HI>Kinghorne.</HI> I haue drunk of both wa+ters,
+and in my opinion the one, might by the like
+tryall prove as good as the other, &amp; perhaps better.</P>
+<P>For there, (no doubt) is a riche metall whose
+seame and greate bodie reacheth directlie vpward
+to the superfice of the mountaine, and there visi|blie
+vncovers it selfe towards the South, the seame
+whereof is neere a foot and ane halfe in breadth, &amp;
+consisteth in my judgement of <HI>Iron, Copper,</HI> and
+<HI>Vitrioll,</HI> and no doubt of some <HI>Silver,</HI> accompanied
+<PB REF="6">
+also with aboundance of a weghtie whyte spar, to|gidder
+with that glancing and emplastie stone cal|led
+<HI>Gypsum,</HI> verie vsuall amongst the learned for
+externall ruptures: which minerall spring (for no
+doubt it is one amongst diverse others in this land)
+if it ran as pleasandlie from the Rock as that of <HI>Kin|ghorne,</HI>
+would be in as great request ere it were long.</P>
+<P>I must confesse that all springs having their course
+through sto~nie grounds and rocks, minerals &amp; privie
+veines of the earth, cannot but contract &amp; participat
+of one Phisicall qualitie or other, resembling the
+nature of the mettall through which it runneth.</P>
+<P>Neither needeth any man of solid judgement to
+doubt, but that all springs of water taking their ishue
+and race through a hard rock, are to be preferred to
+any other water, taking way throgh a muddie earth:
+so consequentlie all springs passing through a mi|nerall
+Rock, (by reason) must farre excell that of no
+minerall, I meane for curing of disseases: for such
+waters are no wayes fit for dressing of meates, much
+lesse to bee mixed with wine, because no minerall
+water feedeth the bodie.</P>
+<P>Now that mettals haue beene of old used for phy|sick,
+&amp; yet are wonderfull in curing disseases, is no
+new thing, as lykewise the infinite works of lear|ned
+Physitions yet extant doe testifie.</P>
+<P>For <HI>Iron,</HI> or <HI>Steell</HI> rightly prepared, then mixed
+either in liquid or solid forme, and given at con|venient
+houres, and tymes, after due preparation of
+the bodie, opneth all obstructions, opilations, &amp; stop|pings
+<PB REF="6">
+of the noble parts, <HI>speciallie when the meseraick
+veines,</HI> betwix the <HI>Lever, gall</HI> &amp; <HI>splen,</HI> are stuffed with
+a tuich, gla<GAP DESC="illegible" EXTENT="2 letters">use &amp; vilccus flegme: and is a most so|veraine
+medecin, recomended of all the learned by
+long experience, for the vnplesand <HI>peale coloures</HI> in
+virgins, and other such lyke whatsomever, either in
+widowes or maried wyfes. <HI>Iron,</HI> or <HI>Steell</HI> haue also
+power to stop the <HI>Lask</HI> or <HI>Dysenterie</HI> and to heale
+inward <HI>Apostumes.</HI> And what I haue said of <HI>Iron</HI> or
+<HI>Steel,</HI> the lyke effects are to bee vnderstude of all
+springing waters running through the same.</P>
+<P>Springes of <HI>Vitrioll,</HI> helpes too greate moysture
+of the <HI>Stomach,</HI> being moderatlie vsed stayes <HI>Nau|sea</HI>
+a continuall preasse to vomite, and vomiting it
+selfe: but being vsed in larger measure, provoketh
+vomite, and cleingeth the <HI>Stomach</HI> of whatsomever
+noysome humors. It healeth <HI>Stranguria,</HI> a painefull
+and faschious dissease, when one cannot pish but by
+drope and drope.</P>
+<P>Springes of <HI>Silver,</HI> doe coole and drye.</P>
+<P>Springs of <HI>Bruntstone</HI> are hote and whytish, smel|ling
+thereof, and the water boyleth hote. They ease
+cold disseases, heats the sinewes, consume humors
+betwix the skinne and the flesh. They cure the host.
+Helpe those who haue the falling siknesse, Heale
+scabbes, resiste venome, awaik men of the sleeping
+evill, and doe helpe the Gutt and Palsie. They cure
+inveterat vlcers, the hardnes of the Melt, Lever, and
+Matrice. But Springs of <HI>Bruntstone</HI> be not good for
+the Stomach.</P>
+<P><PB REF="7">
+<HI>Brassie</HI> Springs are not so wholsome, but they are
+good for disseases of the eyes, vlcers of the mouth,
+palate, or rufe thereof.</P>
+<P><HI>Copper</HI> Springs are good for dolors of the <HI>Gutte,
+short Braith,</HI> doloures of the <HI>Reins,</HI> and doe heale
+<HI>Vlcers.</HI></P>
+<P><HI>Alume</HI> Springs, doe stay the <HI>spitting of Blood,</HI> stay
+<HI>Vomiting,</HI> stoppes immoderat flowing of the <HI>Hemor|rhoides,</HI>
+and hinders weomen to part with Chyld.</P>
+<P>Springs of <HI>Tinne</HI> or <HI>Lead,</HI> doe heale all cancerous
+<HI>Vlcers, Schirrs</HI> or hard <HI>Tumoures,</HI> and are most pro|per
+for all disseases of the <HI>Skinne.</HI></P>
+<P>That <HI>Tinne</HI> or <HI>Lead</HI> be in this craig I greatlie dout,
+because <HI>Tinne</HI> nor <HI>Lead</HI> worke no such effects as this
+water doeth, neither are they so wholsome taken
+inwardlie as are any of the other, notwithstanding
+their cooling and detersive qualities externalie vsed,
+wherein verely they wo~derfully excell. And althogh
+it hath beene ane old custome to make springes of
+water runne through spoutes of Lead, &amp; that Tin
+bee lesse hurtfull, yea, neerer the qualitie of Silver,
+Yet neither Tin nor Lead are vsuallie taken at the
+mouth, as most of other metals bee, graunting that
+it participat some-what of <HI>Mercurie,</HI> whereof it is
+never a graine the better, but rather the more per|nicious
+for this pourpose.</P>
+<P>Heurnius <HI>a man of great experience,</HI><NOTE PLACE="marg">Institut. Med.</NOTE> <HI>thoght never
+much of water whose course was through Lead, &amp;
+speaking</HI> De potu communi <HI>these bee his words,</HI> At
+quae per tubulos plumbeos invehuntur pessimae habentur
+<PB REF="7">
+nam plumbi vim perniciosam corpori invehunt, vnde
+viscerum gravitates &amp; dysenteria: <HI>etiam</HI> Columella
+prohibet Gallinas potari ex plumbeis vasis. <HI>And ci|ting</HI>
+Galen <HI>who componing a medicine</HI> ex capitibus
+papaveris, aquam pluvialem commendat quae non per
+plumbeos tubulos fluxit: qu&ograve;d recrementa quaedam plum+bi
+illi immittantur, vnde inquit, eo utentibus dysente|riam
+adfert, cerussam enim habet. Hinc mal&egrave; medici eli|quant
+remedia per plumbea <HI>vasa:</HI> etenim Galenus stan|nea
+vasa vitat ad conservationem remediorum. <HI>Thus
+far</HI> Heurnius.</P>
+<P><HI>And</HI> Fallopius <HI>ane Italian Phisition who verie
+skilfull of metals in his tyme,</HI><NOTE PLACE="marg">Cap. 11. de ther. Met.</NOTE> <HI>in his most learned
+and Philosophicall discourses of</HI> Minerall <HI>waters,
+sayeth cleirlie that Leaden springs ar no wayes whol|some
+taken inwardlie:</HI> Dicimus, <HI>(inquit)</HI> in vniver|sum
+omnes illas aquas, quae habent in se metallicum ali|quid
+noxium, esse omnino ineptas in potu, cujusmodi sunt
+quae habent plumbum, quales sunt Thermales aquae in
+<HI>Germania</HI> plumbeae vel plumbares vocatae, quae in po|tum
+nullo modo sunt exhibendae, quia periculum est ne
+naturae plumbi conversa vel in Lithargyrum, vel in
+aliud simile, vt solet, hominem enecet, &amp; ideo caveatis
+a potu talium aquarum, quae habent in se plumbum, <HI>&amp;</HI>
+quae tamen ad purgandos morbos exteriores &amp; insana|biles
+sunt praestantissimae, ita vt nihil reperiatur prae|stantius.
+<HI>&amp; Cap.</HI> 7. Si velletis cognoscere quae sit sub|stantia
+aquae plumbeae, &amp; stanni, qui sapor, qui&abque; odor,
+&amp; reliqua, possetis gustare, &amp; videre, aquam illam fri|gidam
+&amp; non medicatam. Sed nuncquid &amp; aqua medica|ta
+<PB REF="8">
+reperiatur, quae haec in se contineat, equidem prorsus
+ignoro.</P>
+<P>But least I digresse too far, I say that this water
+cannot but participat of mo metalles than one:<NOTE PLACE="marg">Ios. Acosta Lib&punc; 4 cap. 5</NOTE> <HI>For
+where ever one mettall is found, there is also some o|ther
+with it.</HI> And althogh it seeme poore to our
+eyes without due tryall: yet the whole craige being
+of a straunge and vncouth mixture, and the sparre
+so ponderous and weghtie, might perchance after
+exquisit tryall, prove more heirin then is looked for.</P>
+<P>Wee reade these words in the book of that holy
+man <HI>Iob,</HI><NOTE PLACE="marg">Chap. 28.</NOTE> <HI>That stone being molten with heat, is turned
+into Copper.</HI><NOTE PLACE="marg">Idem lib 4. <GAP DESC="illegible" EXTENT="1 letter">. 9</NOTE> Finalie <HI>metals ar of diverse colours which
+seeme to such as knowe them not, to bee stones of no
+value.</HI> But the <HI>Miners</HI> doe presentlie know his qua|litie
+and perfection, by certaine signes &amp; small vei|nes
+they find into them.</P>
+<P>Now because (as I said before) the scaircetie of
+this metall (as appeareth) is not liklie to commu|nicate
+such Physicall faculties to this water alone,
+without some more helpe than the metall. What
+then? I take it to bee rather a kynd of doulce <HI>Ni|truse</HI>
+&amp; semi-minerall mixture, wherwith these <HI>Cry|stalline</HI>
+and glauncing stones are obscurelie possessed,
+naturalie inherent &amp; engendred, by long protract of
+tyme, within the whole bowels of the craige, from
+the top to the bottome.</P>
+<P>This <HI>Nitre</HI> in substance,<NOTE PLACE="marg">Nitre</NOTE> differs but litle from our
+<HI>Salpeter,</HI> and oftymes vsed in Physick the one for
+the other, the proofe whereof I haue often had. And
+<PB REF="8">
+it is of sundrie kynds, whereof one is minerall, one
+other artificiall,<NOTE N="*" PLACE="marg">Pars est <HI>nitri</HI> Opt. natura pro+ducta &amp; non at te parata <GAP DESC="illegible" EXTENT="1 word"> fal|so putavit <HI>Mes.</HI></NOTE> <HI>Aphronitrum</HI> or <HI>spuma Nitri, Flos pa+rietis
+&amp; flos Salis: Galen</HI> maketh mention of <HI>Nitru~
+Bernicum,</HI> vsed of old in Bathes, which hath great
+power to extenuat thick and viscous humors,<NOTE N="*" PLACE="marg">Auicenn.</NOTE> and
+so doeth our refined <HI>Salpeter.</HI> Hee speaketh also of
+a red <HI>Nitrum,</HI> whereof if any such bee in this Rock,
+I dar not affirme: onlie I see in a great hollow caue
+neer to the Spring, a red moyst tincture wherewith
+the vault within is all coloured, which appearantly
+cannot proceed from <HI>Tinne.</HI><NOTE PLACE="marg">Antidotar.</NOTE> <HI>Luminare majus</HI> spea|king
+of the kynds of <HI>Nitrum</HI> calleth them <HI>species
+Baurach,</HI><NOTE PLACE="marg">Arab. <HI>Bau<GAP DESC="illegible" EXTENT="1 letter">ach</HI> absolute dici|tur.</NOTE> &amp; minerae ipsius sunt sicut minerae salis:
+Nam ex eo est admodum aquae fluens, deinde petrifica|tur,<NOTE PLACE="marg">Borax non ex|coct. <HI>nitri</HI> genus est fossile.</NOTE>
+&amp; ex eo est quod est in minera sua sicut lapis, &amp;
+ex eo est rubeum, &amp; ex eo est album, &amp; pulverulentu~,
+&amp; multorum colorum.</P>
+<P>This Craig is also indued but with a soft <HI>Crystall.</HI>
+The reason hereof I conjecture to bee the low si|tuation
+thereof lying too warme, and often opposite
+to the Sunne, the speciall cause of the same.<NOTE PLACE="marg">Hist. Simp. apud Indos nascent. 48.</NOTE> <HI>Gar|cias
+ab Orta</HI> a curious &amp; learned Spainyard, speaking
+of the true <HI>Crystall,</HI> writeth thus: <HI>Amat</HI> inquit <HI>Cry|stallus
+loca frigida qualia sunt</HI> Alpes, Germaniam
+<HI>ab</HI> Itali&acirc; <HI>separantes.</HI> And as another of the learned
+sayeth:<NOTE PLACE="marg">Andern.</NOTE> <HI>Gignitur ex humore omnium purissimo in ter|rae
+visceribus condito; necnon marinorum metallorum
+fodinis</HI> Germaniae &amp;c. So that <HI>Crystall</HI> is made of wa+ter
+materiallie, and that water of it selfe is fleeting:
+but by vehement cold is made stedfast <HI>Crystall.</HI> For
+<PB REF="9">
+so it is writen in <HI>Ecclesiasticus.</HI> Cap. 44. <HI>The north
+wind blew &amp; made Crystall to frize.</HI> The experience
+whereof, wee may often see in water dropped from
+a Rock or other high place, which turneth into sto+nes
+of diverse colours, caused by vertue of the vre
+and cold in that place, frizing the water the mate|riall
+substance of such stones. A number of visible
+proofes heirof wee haue at home amongst our sel|fes;<NOTE PLACE="marg">Rattray cave.</NOTE>
+Such as in <HI>Rattray</HI> cave in the Barrnie of <HI>Slains</HI>
+perteining to the right Honourable the Earle of
+<HI>Erroll,</HI> high L. Constable of SCOTLAND.</P>
+<P>The lyke also I remember this present yeere, by
+accident,<NOTE PLACE="marg">Roslin chap.</NOTE> visiting that rare peece of Architecture,
+the old Chappell of <HI>Rosline,</HI> nothing inferiour to
+the old <HI>Roman</HI> worke, it was my good luck there, to
+meet with that honourable &amp; auncient Baron, who
+(although vnacquented) amongst other courtesies,<NOTE PLACE="marg">Roslin castel</NOTE>
+shewed me the double vaults of his Castell most curi|ouslie
+hewed out of a solid Rock; where admiring
+the work, I beheld the water by dropping congea|led
+into hard stones; a thing no lesse commone than
+true, as weel at home as abroad.</P>
+<P>Also in <HI>Peru</HI> where the mines of quick-silver bee,<NOTE PLACE="marg">Acosta Hist. natr. &amp; mor. Lib. 3. cap. 17</NOTE>
+their is a fountaine that casteth foorth hote water,
+which presentlie turneth into a Rock, wherwith the
+people of that land doe build their houses. This
+stone is soft, and is cutte as wode with Iron. And
+if either men or beasts drinck thereof, they die, be+cause
+it congealeth in their intralls and turneth into
+a stone. In a Farme neere <HI>Cusco,</HI> springeth a fou~tane
+<PB REF="9">
+of Salt, which as it runneth, turneth into salt verie
+whyte &amp; exceeding goode. The waters which run
+in <HI>Guajaquell</HI> in <HI>Peru,</HI> almost vnder the equinoctial
+lyne, are wholsome for the frensh pocks and such
+lyke, by reason of the aboundance of <HI>Sarsa-parilla</HI>
+growing in that place, and the people come thither
+a far off to be cured. At the Bathes of <HI>Ingua</HI> is a
+cou<GAP DESC="illegible" REASON="missing" EXTENT="1 letter">se of water which runneth foorth all boylling,
+and joyning to it is ane other as cold as yee. They
+vse to temper the one with the other. At <HI>Dunbri|tone</HI><NOTE PLACE="marg">Dunbritone.</NOTE>
+Castle vpon that monstrous steep Rock, there
+bee two fountaines, distant two or three fute the
+one from the other. The vppermost course wherof
+springing from North to South, is a verie salt wa|ter.
+The other springing from south to north as ap|peareth,
+is a faire fresch water: A straung thing to
+see Springes of contrarie qualities so neere others.
+Morouer betwix the two great Rocks within the said
+Castle, is a Lake or standing pond of water, distant
+neere 50. fadoms from the Sea, yet no man seeth
+from whence it commeth. A wonderfull thing in
+nature,<NOTE PLACE="marg">Ma<GAP DESC="illegible" EXTENT="1 letter">g. Philos.</NOTE> although weel knowne amongst vs.</P>
+<P>And in <HI>Boetia</HI> are two springes, the one helpeth
+the memorie, the other ingenders forgetfulnes.</P>
+<P>In <HI>Cicilia</HI> are two springs, the one maketh weo|men
+barren, the other able to conceaue. In <HI>Idu|mea</HI>
+is a spring which chaungeth colour foure tyms
+a yeere: for three moneths it seemeth troubled:
+three moneths red as blood: three moneths green:
+and three moneths blewish. The cuntrye-men ther
+<PB REF="10">
+call it <HI>Iobs</HI> Well. And haue wee not heere neere by
+our chiefe Citie of <HI>Edinburgh,</HI> the oylie Well, cal|led
+S: <HI>Margarits</HI> well, the fatte whereof is almost
+equall to naturall <HI>Baulme,</HI> and whose power hea|leth
+all aching of the bones, &amp; all kinds of outbrea|king
+of the skinne. one of the rarest things in this I|sland.
+Also in <HI>Siloa</HI> at the foote of mont <HI>Syon,</HI> is a
+Well, which runneth not alway, but certaine dayes
+and houres. And many moe Springes drawing their
+medicinall and divers qualities from the vaines of
+minerals, or semi-minerals wherethrough they tak
+their course: now hote, now cold, some binding,
+some lowsing, others smelling of <HI>Bruntstone,</HI> some
+troubled, some cleir, some sharp, some sweet, or of
+no taist the most wholsome water of all</P>
+<P>These waters ar not lyk the superstitious or mud|earth
+Wells of <HI>Menteith,</HI> or Lady Well of <HI>Strath-Erne,</HI>
+and our Ladie Well of <HI>Ruthven,</HI> with a num|ber
+of others in this cuntrie, all tapestried about with
+old rags, as certaine signes &amp; sacraments wherwith
+they arle the divell with ane arls-pennie of their
+health; so subtile is that false knaue, making them
+beleeue, that it is only the vertue of the water, and
+no thing els. Such people can not say with <HI>David,
+The Lord is my helper,</HI> but the D.</P>
+<P>Now after this long digression, having first exa|mined
+the materiall substance of this Rock: nixt
+declared the tryed power of this water. And third|lie
+as I promest giuen my opinion of the Metall,
+or semi-minerall wherwith this Rock seemeth to
+bee spirituallie tempered.</P>
+<P><PB REF="10">
+No thing resteth now, but to show by probable
+conjctures, how this sweet saltish <HI>Nitrositie,</HI> may
+agrie with the late effects of this cold spring.</P>
+<P>To cleir this then, our disccurse shallbe vpon <HI>Cry+stall,
+Gypsum,</HI> &amp; <HI>Nitrum:</HI> Because in this Rock litle
+more is seene, &amp; I feare the <HI>Italian</HI> proverb be true,
+<HI>Tutto quell' che luc&egrave; non &egrave; oro,</HI> It's not all goulde
+that glisters. The <HI>Crystall</HI> &amp; <HI>Gypsum</HI> is visible. The
+<HI>Nitre</HI> is occult &amp; not seene: yet all three concur|ring
+&amp; most sensiblie felt in operation: But some|what
+different in their particular qualities, yet litle
+or nothing by their mutuall co~munication to this wa+ter;<NOTE PLACE="marg">Crystall.</NOTE>
+And so this way mixed, turneth all to one effect.</P>
+<P>1 <HI>Crystall</HI> after the learned is naturally cold, with
+a drying &amp; binding facultie, almost lyke vnto <HI>Gyp|sum,</HI>
+(but more wholsome) and doeth all what cold
+thing may doe. It helpeth against thrist &amp; burning
+heat in fevers.<NOTE PLACE="marg">Matheol. &amp; Andern.</NOTE> A button of <HI>Crystall</HI> holden in the
+mouth when the tongue is hask and dry in fevers,
+presentlie cooleth &amp; moystneth the same, the expe+rience
+whereof is tryed in this water.<NOTE PLACE="marg">w<GAP DESC="illegible" EXTENT="2 letters">ker. antid. de Lap. <GAP DESC="illegible" EXTENT="2 letters">g. Ca. 6.</NOTE> It helpeth the
+<HI>Dysenterie</HI> or bloodie <HI>Flux,</HI> given with old red vine.
+It stoppeth &amp; dryeth vp the faschious Q. F. in weo|men
+a greate lett to conception. The lyke doeth
+this water skilfullie vsed. It engendreth milk in nur|ses
+breasts&punc; and tempereth the hote qualitie thereof,
+chaiffed by toomuch drincking of vnnecessarie li|cour
+which is a nurses co~moun fault, &amp; the death of
+many young infants.</P>
+<P>2 <HI>Gypsum</HI> is a skelfie,<NOTE PLACE="marg">Gypsum&punc;</NOTE> cleir, &amp; whyte emplasticke
+<PB REF="11">
+stone, verie commonlie found in minerall rocks of
+<HI>Copper,</HI> and <HI>Iron,</HI> and is of a verie binding and dry|ing
+qualitie onlie for externall things. <HI>It helpeth
+the Rupture of the Bowells when they fall doune,</HI><NOTE PLACE="marg">Hernel. meth. med. Lib. 6 cap. 12.</NOTE> <HI>it
+stayeth great sweatings, and all defluxions falling doun
+vpon the eyes in Opthalmia.</HI></P>
+<P><HI>Nitre</HI> after the auncients, hath beene a warsh &amp;
+sweetish salt,<NOTE PLACE="marg">Dioscorides.</NOTE> differing litle or nothing from our
+most refined <HI>Salpeter.</HI> And howbeit some of our
+<NOTE N="*" PLACE="marg">Tag<GAP DESC="illegible" EXTENT="2 letters">t. &amp; VVe<GAP DESC="illegible" EXTENT="1 letter">ker. &amp;c.</NOTE> <HI>Neotericks</HI> haue beene somewhat scrupulous to vse
+the one for the other: Yet by co~moun experience
+in our dayes wee haue observed neither danger nor
+difference, but that <HI>Salpeter</HI> most exquisitlie re+fined,<NOTE PLACE="marg">Mes. Lib. 2. cap&punc; 12.</NOTE>
+may weel serve for the same. <HI>It is of a deter|siue,
+scouring, and drying qualitie,</HI> inclined somewhat
+to heat, which notheles mixed with cooling and re|freshing
+things, worketh many cold effects. <HI>It exte|nuateth
+and cutteth flegme,</HI><NOTE PLACE="marg">Dioscorides Lib. 5. cap 78.</NOTE> <HI>purgeth grosse and cla~mie
+humors, even some tyme by vomite, evacuateth crude
+and raw humors cleeving fast to the entrals, and is ve|rie
+good to giue for the Colick, &amp; grinding of the belly
+through wind.</HI></P>
+<P><HI>Penotus &agrave; Portu,</HI> &agrave; learned and famouse <HI>Chymist,</HI><NOTE PLACE="marg">Lib. de vera prepar. Nitri.</NOTE>
+amongst his other Philosophicall extractiouns, so
+vseth this <HI>Nitre,</HI> as that hee maketh it a salue for al
+sores. Hee calcineth it, prepareth it, draweth the oyle
+of it, and fixeth it. Jn end, hee concludeth with these
+words. <HI>Nitrum inquit ad haec omnia praestantissimum re|medium
+esse experimento constat, sive fumatur intern&egrave;,
+sive adhibeatur in fomentationibus, balneis, seu empla|stris
+<PB REF="11">
+dividit, discutit, subtiliat, laxat, rarificat, ampliat,
+extenuat, aperit, lubricat.</HI> And besyde all this, so far
+doeth hee extoll it for procuring of a good appe|tite,
+(a power proclaimed peculiarlie to this water)
+that hee is not aschamed to prescryue it for this same
+purpose, to bee given to a horse.</P>
+<P>To bee short, there is no propertie which the an+cients
+hath attribute to <HI>Nitre,</HI> which with the helpe &amp;
+cooling qualities of <HI>Crystall,</HI> &amp; <HI>Gypsum,</HI> may not bee
+appropriat to this cold Spring: for what can this
+water doe as yet, which is not in them; or what can
+these simples doe, which in some measure this wa|ter
+doeth not performe.</P>
+<P><HI>Is Niter,</HI><NOTE PLACE="marg">Penotus de viribus Nitri.</NOTE> <HI>deulie prepared, good to expell gravel and
+sand both from the reines &amp; blader?</HI> so is this water.
+<HI>Is it good being disolved to apply outwardlie and for
+heat in those parts?</HI> This water doeth even the same.
+<HI>Hath not N<GAP DESC="illegible" EXTENT="1 letter">tre a Diaphoretick power, and maketh
+some to breck out?</HI> so also proveth this water but in
+some. <HI>And doeth Niter composed and applyed to the
+stones, stay their inflammation?</HI> No lesse power hath
+this water.<NOTE PLACE="marg">Dioscorides Lib. 5. cap, 78.</NOTE> <HI>Is it not good for the Hydropsie, the Colik
+and Iliack passion? Is it not good, I say, for the dure|tie
+of the Splen or Milt given with steiled water, for
+oppilations or obstructions of the Lever, paines of the
+Stomach, and suffocations of the lungs or lights?</HI> So
+no doubt may this water bee found.</P>
+<P>I heare also this cold Spring hath helped paraly|tick
+members, the stupiditie, and inhabilitie of the
+sinewes, contractions of the nerves in the fingers,
+<PB REF="12">
+and such lyke, by bathing and drinking thereof. And
+that it hath a coroboratiue power to strenthen all
+the nervall and ligamentall parts of the bodie, mo|ving
+also a gentle <HI>Diaphoretick</HI> &amp; evaporatiue sweat,
+which (maketh me yet suspect that the Rock is po+ssessed
+with some silver, althogh but litle to our eyes;
+for silver even Philosophicallie prepared, is likwayes
+<HI>Diaphoretick,)</HI> confirmeth also weried &amp; feble mem|bers,
+yea &amp; hath ane occult propertie to stay much
+sweating in tabide and consumed bodies, and that
+because of his mixt qualities with <HI>Gypsum,</HI> both coo|ling
+and drying, and which two qualities to this
+effect are verie requisite.</P>
+<P>Further, hath it not vnstopped the Lunges to ma|ny
+persons, and helped a short braith? How many
+people haue beene helped this same last yeere there
+with, and oppenlie affirmed against all those who
+say the co~trarie?<NOTE PLACE="marg">P<GAP DESC="illegible" EXTENT="1 span"></NOTE> <HI>Now why may not Niter doe all this?
+and what simple or miner all doeth so much agree with
+these properties as Niter?</HI> And who doubteth what
+refreshing power this cold Spring hath in hote fe|vers,
+in thirst, and in all internall and externall in|flammations?<NOTE PLACE="marg">Fallo<GAP DESC="illegible" EXTENT="1 letter">. VV<GAP DESC="illegible" EXTENT="2 letters">ker.</NOTE>
+<HI>and may not water taking his course
+through cold Crystalline stones, haue more cooling &amp;
+refreshing qualities than commoune water, may it not
+coole, I say, all inflammations and heat of the Lever?</HI>
+And doeth not common water even coole &amp; ease
+inward paines?<NOTE PLACE="marg"><GAP DESC="illegible" EXTENT="2 letters">nsil. med. ex Schol.141.</NOTE> then let vs see if the words of that
+Imperiall Physition <HI>Crato</HI> bee true, speaking <HI>De do|loribus
+renum: Multi (inquit) post primum somnum,
+<PB REF="12">
+jam perfecta coctione, hauriunt aquam frigidam, &amp; in
+signe juvamentum percipiunt.</HI><NOTE PLACE="marg">Ze<GAP DESC="illegible" EXTENT="1 letter">chil conf. Med. cap. 13.</NOTE> And ane Italian Phy|sition
+sayeth by his common practick in Nephre|tick
+dolours, <HI>Illud nunquam &egrave; memoria excidat, nihil
+praestantius pro arcendis renum calculis esse, quam aqua
+tepida quinque vel sex vnciarum mensura, immedia|t&egrave;
+ante cibum mane, &amp; vesperi modic&egrave; calidum pota|tum.</HI>
+And a litle after speaking of thirst, hee sayeth
+<HI>A pastu ventriculo valde sitiente &amp; astuante gelide mo+dic&egrave;
+binas tantum vel ternas ad summum vncias bi|bere
+licebit.</HI></P>
+<P>Morover, common water tempereth great heat,
+and conserveth the naturall humiditie of the body:
+for which cause <HI>Hippocrates</HI> calleth water, the bodies
+temper. And auncient histories sufficientlie testifie,
+that water was the first drinck that men vniuersalie
+vsed of old, &amp; wherewith they contented them selues
+a long tyme, to vse it onlie for quenshing of their
+thirst&punc; but afterwards when voluptuousnes seased
+vpon mens appetites, they invented &amp; set before
+them diuerse sorts of drincks, because they thoght
+water but a taistles and vnsavorie thing. And yet if
+wee will giue credite to experience and heare but
+what the writes of the learned doe say,<NOTE PLACE="marg">Ro<GAP DESC="illegible" EXTENT="1 letter">e<GAP DESC="illegible" EXTENT="1 letter">. a Fon<GAP DESC="illegible" EXTENT="1 letter"> Lusitan. de tuend. valetu. Cap. 12.</NOTE> <HI>That water
+not onlie groweth the bodie, but euen maketh men to
+liue longer, &amp; in better health, yea, and to haue a quic|ker
+fight, than wine.</HI> But now a dayes our queasie sto|maches
+are become so tender, and so kitle, that if
+wee but ones in a yeere taiste water, wee are in dan|ger
+to catch the <HI>Colick;</HI> no, we must haue a litle Seck
+<PB REF="13">
+and Sugger, or else our stomach is gone; let <HI>Ma|noahs</HI>
+wife drinck what shee pleaseth,<NOTE PLACE="marg">I<GAP DESC="illegible" EXTENT="1 letter">dg. cap. 13.</NOTE> the bellie now
+a dayes hath no eares for such grammer rules. And
+yet to speake the truth; cold water is as vnfit for a wo|man
+with childe and for such as are accustomed with
+frequent birth, as strong wine is vnmixed.</P>
+<P>Then seing that co~moun water, either cold or
+hote, hath such evident, and <HI>anodine</HI> properties:
+what shall wee thinck of the best sort of these wa|ters
+correspondent in all respects to the true nottes
+which <HI>Dioscorides</HI> hath left vnto vs? and what ac|compt
+shall wee make of this crystalline or semi|minerall
+water,<NOTE PLACE="marg">Lib. 5. cap. 9.</NOTE> which not onlie is answerable <HI>om|ni-modo</HI>
+to the best? but also excelleth so far footth
+as the qualities of these forsaid mixtures may mak it.</P>
+<P>But to returne to our purpose concerning <HI>Niter.</HI>
+Who then thincks that these <HI>Nitrous</HI> qualities, for
+the most part doe not agree competentli with this
+faire Spring; hath not well remarcked the obser|vations
+of the disseased: for how oppenlie is it known
+to expell sand, and bring doune small stones both
+from the reines and bladder, to coole the heate of
+the back, burning of the vrine, and to aswage all pai|nes
+thereabout? experience of the people can testi|fie,
+and which <HI>aperitiue</HI> and <HI>diuretick</HI> power belon|geth
+both to <HI>Crystall,</HI> and <HI>Niter.</HI> I haue knowne
+it to helpe <HI>Sciatick</HI> dolours given warme in a Cly|ster
+with Salt. To helpe sore eyes, clenge a dimme
+sight, to aswage the paines and singing of the eares,
+and to scoure them from filth: all which doe well
+<PB REF="13">
+aggree with <HI>Niter.</HI> It helpeth the dolour of the head
+drawen vp as an <HI>Errhin</HI> at the nose, &amp; clengeth the
+teeth more then co~moun water, maketh the haire
+faire and cleene, healeth a reiffie and leprouse skine,
+and in a word, maketh even Ladyes faire.</P>
+<P>Why may not then, I say, such detersiue and scou|ring
+qualities appeare rather to proceed of a drying
+and saltish <HI>Nitrositie,</HI> than of any apparent mettall
+in that place; in respect it not onlie purgeth, and
+clengeth the bodie, as well inward as outward, but
+also clengeth and purgeth tasches and spottes, both
+from linning &amp; wollen, and which detersive power
+doeth more agree with the vse of <HI>Niter,</HI> than with
+any metall that can bee found in a Rock.</P>
+<P><HI>Monavius</HI> ane expert and learned Physition wri|ting
+of the qualities of Salt,<NOTE PLACE="marg">Epist. med. Craton. 215.</NOTE> sayeth thus: <HI>Salem (in
+quit) detergere, &amp; salsa nitrosa omnia, non solum intra
+corpus sumpta, sed &amp; extra admota, praeter experien|tiam
+quotidianam in eluendis sordium strigmentis, etia~
+vnanimis medicorum consensus testatur.</HI> The which
+also the holie Scripture approveth by the mouth of
+the Prophet saying, <HI>Etiamsi laveris te nitro, &amp; mul|tiplicaueris
+tibi herbam Borith, tamen signata est ini|quitas
+tua</HI> &amp;c.<NOTE PLACE="marg">I<GAP DESC="illegible" EXTENT="4 letters">. cap. 2. Saponaria.</NOTE></P>
+<P>But which is worse of all, I heare it hath swelled
+the bellie of <HI>Cacochymick</HI> and vnwholsome people,
+and stopped their water: So doeth <HI>Niter</HI> take~ before
+the bodie bee well prepared and purged. And hath
+it done good to one, and evill to another? So will
+any good thing doe, (although good in it selfe) if
+<PB REF="14">
+it bee not vsed with rule and moderation&punc; yea &amp; to
+some also, <HI>one man's meate is another man's poyson,</HI>
+a proverb co~moun amongst vs.</P>
+<P>And hath it constipat some, and loosed others?
+No wonder, for the Spring is possessed with con|trarie
+qualities, a vertue proper to best medecines:
+for if it did not bind, it could not helpe the lask &amp;
+<HI>Dysenterie:</HI> And if it did not loose, it could not re|moue
+their causes. Hath it not cured some without
+preparation, and others which Physitions could not
+cure? let them thank GOD and sing, <HI>Te Deum lau|damus:
+Vna enim Hyrundo non facit ver:</HI> Then blesse
+the Spring with a famous report, and say, <HI>Beatus
+medicus qui venit in fine morbi.</HI></P>
+<P>Then to conclude, I perceiue my verie lerned frend
+and old Parisien acquentance <HI>M^r VVilliam Barclay,</HI>
+wold haue all the effects of this water to proceede
+from <HI>Tinne:</HI><NOTE PLACE="marg">Fallop. de foss. atque metal. cap. 22.</NOTE> which effects, sayeth hee, the <HI>Paracel|sians
+ascryue to Saturne,</HI> and so concludeth, <HI>Sacha|rum
+Saturni</HI> to bee the Salt of <HI>Tinne,</HI> confounding
+two metalls in one, as if <HI>Iupiter</HI> were <HI>Saturne,</HI> and
+<HI>Saturne Iupiter: Stannnm Plumbum,</HI> and <HI>plumbum
+stannum.</HI> Tinne to bee Lead, and Lead to be Tin,
+Which ouersight I can not think to haue proceided
+of ignorance, because I know him to bee more ler|ned
+than my selfe. I suspect it may bee imputed to
+his haist (as hee writeth to the Printer) in making
+for the tyde. Or else it may bee that hee thinketh
+the difference betwix <HI>stannum</HI> &amp; <HI>plumbum</HI> to bee so
+litle, that <HI>propter similitudinem in ardore scribendi,</HI> hee
+<PB REF="14">
+might vse the name of the one for the other without
+scruple, because of their affinitie; which if so bee, as
+it is liklie, I think there is no oversight at all.</P>
+<P>Finalie amongst all the wholsum qualities where
+with this water seemeth to bee so secreitlie indued,
+the corroboration of the <HI>Stomach</HI> is not the least:
+a great ayde in curing of all disseases, and a power
+so oppenlie knowne in this water to steir vp lust to
+meate, that few or none haue as yet retourned with
+out the proofe heirof.</P>
+<P>But that Springs taking their course through <HI>Tin</HI>
+or <HI>Lead,</HI> can giue appetite to the <HI>Stomach,</HI> I ca~not
+beleeue: nether hath any of the learned ever as yet
+remarked such a thing. For <HI>Fuschius</HI> the most lear|ned
+<HI>German</HI> Physition in his dayes,<NOTE PLACE="marg">De co~po<GAP DESC="illegible" EXTENT="2 letters">. Med cap. 20</NOTE> recompting the
+Physicall properties of minerall waters both into
+<HI>France</HI> and <HI>Germanie,</HI> writeth thus of the <HI>Plumbiers</HI>
+or leaden Baines of <HI>Loraine.</HI><NOTE N="*" PLACE="marg">Baignes of Loraine.</NOTE> <HI>In Lotharingiae, inquit
+montanis,</HI> Balnea <HI>sunt quae</HI> plumbiers, <HI>quasi plumbea,
+ob nimirum copiosam plumbi mixturam, vocantur. Con|stant
+ex plumbi, Sulphuris &amp; Aluminis commixtione.</HI></P>
+<P><HI>Auxiliatur malignis &amp; curatu difficilibus vlceribus
+cancro, phaged<GAP DESC="illegible" EXTENT="1 letter">nis, fistulis, elephantiae recens caeptae, &amp;
+omnibus cutis vitiis.</HI> Heir is no mention made of the
+<HI>stomach,</HI> much lesse of other inward infirmities this
+way cured, either by <HI>Tinne</HI> or <HI>Lead.</HI></P>
+<P>How then can it bee any thing, but a detersiue &amp;
+drying semi-minerall <HI>Nitrositie,</HI> which this water
+seemeth to haue spirituallie contracted, whose na|turall
+&amp; sweetish scharpnes is so tempered by com|munication
+<PB REF="15">
+of the refreshing qualities of <HI>Crystall</HI>
+and <HI>Gypsum,</HI> and whose qualities are also detersiue
+and drying. The effects whereof bewrayeth it selfe
+more in bellifying, and skouring the superficiall de|formities
+of the skinne, (then in curing of vlcers
+proper to <HI>Tinne</HI> or <HI>Lead)</HI> such as are pustules, red
+plowks of the face, ytching, and roughnes of the
+skinne, proceeding of a dry melancholious &amp; salt
+blood, <HI>Tetters, Ring wormes,</HI> and that sort which the
+<HI>Frensh men</HI> call <HI>les Dartres de Naples,</HI> the <HI>Graecians</HI>
+<GAP DESC="foreign">, the <HI>Latines Impetigines,</HI> and with our selfs
+is a dry ytching scruffe, or hote fla, oftymes chan|cing
+on the face, or on the back of ones hand, which
+(as <HI>Paulus, Aegineta</HI> testifieth) turneth to those of an
+ill dyet, into a scabbe or leprosie.<NOTE PLACE="marg">Lib. 6. meth. med. cap. 20.</NOTE> The which also that
+most eloquent and learned Physition <HI>Fernel,</HI> hath
+well remarked in the properties of <HI>Niter,</HI> in these wor|des
+<HI>Nitrum,</HI> inquit, <HI>quanquam vehementer tergit, non
+tamen vlceribus, sed lepris, alphis, impetiginibus, aliis&abque;
+cutis vitiis expurgandis aptum.</HI></P>
+<P>And old <HI>Plinius</HI> who was so curious in naturall
+things, sayeth, it <HI>heateth, biteth,</HI> and <HI>vlcerateth.</HI> Which
+affects, say our Chyrugions, are no way fit for vl|cers:
+&amp; therefore may be the cause, perchance, why
+<HI>Tabide</HI> or co~sumed people by an vlcer of the lungs,
+after the immoderat vse of this water, became day|lie
+worse and worse by too muche loosing of thee
+bellie (a power proper in this water to some,<NOTE PLACE="marg">Hippocrates.</NOTE> albeit
+vnproper for <HI>Tabides) Phthisici enim per alvum rar&ograve;
+aut nuncquam purgandi.</HI></P>
+<P><PB REF="15">
+Now because that some may object: if this water
+had any <HI>Nitrous</HI> qualitie, it wold (no dout) bewray
+it self, either in taist, colour, or savour? to which
+I answer, that Physicall waters possesse either spiri|tuall
+qualities, or substantiall quantities, &amp; as there
+bee diverse kynds of Salt, so are they diverse kynds
+of saltish waters, which differ in their qualities by
+degreis. For some be stronger, others mylder, some
+sharper, and some sweeter, &amp; others so insipide that
+skairslie are they felt on the tongue. And least I
+shuld seeme to bee alone of this opinion without
+warrand of the learned,<NOTE PLACE="marg">Cap. 9. de Therm. atque Metallis.</NOTE> Heare what <HI>Fallopius</HI> say|eth
+of this same subject: <HI>Nitrum quidem ipsum, gustu
+cognoscitur: difficile tamen est ex gustu discernere, an
+aqua habeat in se Nitrum, quia Nitri sapor in ejusmo|di
+aquis frigidis, non discernitur. Item visu nec olfactu
+vllo modo cognoscitur aquam habere Nitrum. Tactu au|tem
+aliquo modo, quia aquae Nitrosae detergunt nec re|linquunt
+aliquam asperitatem.</HI></P>
+<P>Againe hee sayeth in an other place:<NOTE PLACE="marg">Idem.</NOTE> <HI>Saepe enim
+Sal</HI> &amp; <HI>Alumen sunt cum aquis ita commixta vt im|possile
+sit per dissolutionem naturalem ipsa cognoscere.
+Item Nitrum non cognscimus in aliqua aqua esse, nisi
+insit ipsamet Nitri substantia.</HI><NOTE PLACE="marg">Idem.</NOTE></P>
+<P>To bee short then let none think, but Springs of
+waters may bee indued with diverse Physicall pro|perties,
+minerall or semi-minerall qualities, althogh
+they nether bewray them selfes in taist, colour, nor
+savour.</P>
+<P>But how the, say others, can waters possessed
+<PB REF="16">
+with saltish and <HI>Nitrous</HI> faculties, refresh, moysten,
+and coole? I answer that a thousand effects in na|turall
+causes, may also proceed of co~trarie qualities:
+for there be many exceptions even in naturall rules,
+so that sometymes wee see by experience subtile na|ture
+so to ouerreach and surpasse the skill of arte
+in these kynds of mixtures, that simples, natuallie
+hote &amp; dry of them selfes, by the companie of others
+which coole and refresh, are sensiblie felt to excute
+colde ffects.</P>
+<P><HI>Iosephus Acosta</HI> a worthie and judicious Spanyard
+in his naturall and morall historie which he writeth
+of the East and West <HI>Indies,</HI><NOTE PLACE="marg">Cap. 11, Natur Hist.</NOTE> discoursing vpon the
+naturall qualitie of the Sea, writteth in these termes:
+Althogh, sayeth hee, the water bee salt, yet it is al|wayes
+water, whose nature is ever to coole, and it
+is a remarkable thing in nature, that in the midst
+of the deepe of the Oceane, the water is not made
+hote, by the violent heat of the Sunne, as in rivers:
+even as <HI>Salpeter</HI> (sayeth hee) althogh it bee natu|rallie
+salt) hath a propertie to coole water, even so
+wee see by experience, that in some ports and hea|vens,
+the salt water refresheth, which wee haue ob|served
+in that of <HI>Callao</HI> in <HI>Peru,</HI> whereas they put
+the water or wyne which they drinck into the Sea
+in flaggons to bee refreshed, whereby wee may vn|doubtedlie
+beleeue, that the Ocean hath this pro|pertie,
+to temper and moderat the excessiue heate:
+for this cause wee find greater heat at land then at
+sea, (<HI>caeteris paribus</HI>) and co~monlie countryes lying
+<PB REF="16">
+neere the Sea, ar colder the~ those that ar foorther off.</P>
+<P>But to illustrat this by many examples, wer no
+lesse needlesse then endlesse: for the mater is cleer
+of it selfe: and therefore I will ende this colde
+discourse, contenting me onlie with the experience
+of that famous &amp; learned Empyrick <HI>Rulandus</HI> in
+his tract at which hee writeth <HI>de curatione luis Hun|garicoe,</HI>
+whose words are these: <HI>Inflamationi inquit,</HI><NOTE PLACE="marg">Cap. 6.</NOTE>
+<HI>scabritieique faucium &amp; confinium parcium extinguen|dae,
+tum aestui restinguendo nullum efficatius remedium
+nostrates putant insequenti.</HI></P>
+<P>Cape Nitri puri albiss. q. v. pila munda in tenuem pulv.<NOTE PLACE="marg">Trochis. de Nitro <GAP DESC="illegible" EXTENT="1 letter">ord<GAP DESC="illegible" EXTENT="1 letter">.</NOTE>
+comminuito: adsit sartago aenea fundi crassiss. hanc pru|nis
+impone, donec incanduerit tota: injice Nitri tusi M.
+vnum. Ilico liquatur aquae limpidiss. instar, &amp; dum ita
+bullit, injice sulphuris puri &amp; triti, zs. elicies flamma~.
+caerulei coloris: quae vbi evanuerit, &amp; tertio bullire Ni|trum
+videris, repete Sulphuris adjectionem, &amp; hoc ter
+tium reiterato. Demum pilae mundae, aut vasi figulino
+pedetentim infundito, exsurgent albi trochisci seu rotu|lae
+coagulatae. Has denno terito in pulvere~ tenuiss. vsus
+Conserv. Rosar. cochleari pulveris adde triplum ejus
+quanto satis ovo satiendo adhibetur.</P>
+<P>Praebeatur aegro aestu fere enecto, quoties voluerit.
+Nostratum quidam multis in aqua fontana frigid. dis|soluti
+hujus ex Nitro remedii portiunculam, iterum at&abque;
+iterum exhibendo, multos se sanitati restituisse pristinae
+gloriantur, parantes idem remedium &amp; secretum sibi
+imaginantes. Minim&egrave; aspernandum est remedium nobis
+nec aliis esse debet, nisi Nitri qualitates ignorantibus:
+<PB REF="17">
+modo rit&egrave; administretur &amp; curandi methodus potior non
+susque deque habeatur.</P>
+<P>Goe then with boldnesse, &amp; drinck of this whol|some
+and Physicall water, and say not to your selfs,
+the Physitions envyeth it, speaketh against it, they
+approve it not, and it hindereth their gaine. Onlie
+but carie with you these few directions following.
+and so faire yee well.</P>
+</DIV1>
+<DIV1 TYPE="part">
+<PB REF="17">
+<HEAD>&rindx; What wee shoud obserue, before wee goe
+to drinck of such Waters.</HEAD>
+<P>_THat none drinck of such waters, who haue their
+back and reines verie hote,<NOTE PLACE="marg">Fallopi<GAP DESC="illegible" EXTENT="1 letter">s de Th<GAP DESC="illegible" EXTENT="1 span"> c. 31.</NOTE> and the stomach and
+whole habite of the bodie cold. For that were euen
+as much to destroy a whole ludging, for the gaine
+onlie of one co~modious chamber.</P>
+<P>2 That no disseased person drinck thereof, before his bodie bee
+well prepared and purged, for by this meanes no man shall haue
+harme therby, and it is the counsell of the learned. But aboue
+all things,<NOTE PLACE="marg">Idem.</NOTE> and which most importeth, that none drinck of the
+same w<GAP DESC="illegible" REASON="missing" EXTENT="1 letter">th a bund bellie: for I haue not obserued it as yet, to
+doe harme to any so much as to those. To he<GAP DESC="illegible" REASON="missing" EXTENT="1 letter">pe this then, and
+for such as can take no Physick, no thing is more excellent or
+more reddie for this pourpose, then to carie with you a box of
+<HI>Grana Angelica,</HI> and to swellou viij&punc; or ix. of them hid in a
+vere or potched egg, which you may doe without harme at any
+tyme a day, but especiallie at meate in the beg<GAP DESC="illegible" EXTENT="1 letter">nning or mids
+of dinner or supper: for then they work best the next day ther|after,
+and make not the bodie seike, &amp; is a most familiare &amp; so|ueraine
+remedie for all disseases proceeding of constipation.</P>
+<P>3 It is not good to take it cupe,<NOTE PLACE="marg">Idem.</NOTE> for cupe, without intermis|sion
+but to walk moderatlie vp and doune, betwix each draucht,
+and that yee grow nether hote nor sweat.</P>
+<P>4 It wold bee onlie taken in the morning fasting,<NOTE PLACE="marg">Idem.</NOTE> and not at
+mea<GAP DESC="illegible" EXTENT="1 letter">es, as many er<GAP DESC="illegible" EXTENT="1 letter">oniouslie doe, for it is <HI>diuretick.</HI></P>
+<P>5 It is not so good being caryed a farr of,<NOTE PLACE="marg">Idem.</NOTE> as taken from the Rok
+althogh it bee tryed to keep longer vncorrupt then other water.</P>
+<P>6 The seike should drinck it seaven dayes togidder at least,
+and some longer as the di<GAP DESC="illegible" EXTENT="2 letters">ease requyreth, eating in the meane
+tyme meat o<GAP DESC="illegible" EXTENT="1 letter"> easie digest<GAP DESC="illegible" REASON="missing" EXTENT="1 letter">on.</P>
+<P>7 It wold be onlie taken (as the learned doe prescriue) in the
+hotest moneths,<NOTE PLACE="marg">Idem.</NOTE> specialie in <HI>Iune, Iulie,</HI> and <HI>August:</HI> Yea euen in
+<PB REF="18">
+the verie tyme of our dogg-dayes, so much regairded of amongst
+vs without cause. The reason of this is not onlie because the wa|ter
+is best then: but also for that it is requisite, the whole ha|bite
+of the bodie bee patent and oppen, that such cold springes
+may haue the more frie passage without stoppe, which opning &amp;
+free Ishue in our bodies (as the learned say) is not but in hotest
+moneths and seasons, and which heate with vs is but a tempe|rat
+heat in regaird of that of other nations.</P>
+</DIV1>
+</BODY>
+<BACK>
+<DIV1 TYPE="to the reader">
+<HEAD>TO THE COURTEOUS READER.</HEAD>
+<P>_GEntle Reader, this Discourse hath beene the
+birth of my Idle houres this last vacance, which
+I penned more for your particular vse, then
+for any gaine to my selfe. If you haue found
+any thing heerein to your content, think well of the Au|thor
+for his paines. If nothing which you haue red hath ly|ked
+you, my luck hath beene naught: for in nothing, there
+can bee no great thing. An other before me hath writen
+his opinion, and so haue I. if I haue erred &amp; said amisse,
+I am but a man. If not well ynough, I wish it were bet|ter.
+But if well and truelie, GOD bee praised, I deserue
+no blame. I haue done offence to none, but showne
+my mynd, for the which I craue no man pardon, nor fur|ther
+freindship then I deserue, nor greater thankes then
+may requyte goodwill, who wisheth well to you all that
+are well mynded, crauing onlie your courtesie to comend
+what yee think worthie, and not to disdaine without de|sert.
+So if I haue offended in any thing that the wyse can
+mislyke, I am reddie to make a mends accordinglie, and
+shall Godwilling drinck to you at the Well the nixt So|mer,
+with a promesse also to doe you greater service heir
+after, and so I end.</P>
+</DIV1>
+</BACK>
+</TEXT>
+</EEBO>
+</ETS>

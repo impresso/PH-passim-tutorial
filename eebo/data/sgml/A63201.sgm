@@ -1,0 +1,321 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD EEBOPROOF 2.0//EN">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-08-20</DATE>
+<RESPSTMT>
+<NAME>Jonathan Blaney</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TYPEs to DIVs in order to validate. Proofed title page(s). Checked for N=""s. Checked for GROUP tags. Checked ^s. Reviewed structure. Checked division-marking material at heads and feet of divisions (HEADS, etc.). Checked for signatures. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected 10 $s and $$word$$s etc. of 18. Converted 8 $$s to GAP DESC="illegible" RESP="OXF". Checked spacing of foreign GAPs. Checked for EPIGRAPHs and ARGUMENTs. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs, endqs, oes, q;s, and Qs. Checked proofsheets and made corrections found there. Checked for CLOSERs, TRAILERs, and BYLINEs. Checked for missing page GAPs. DONE.</ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="OX" ID="A63201">
+<STC T="W">T223</STC>
+<BIBNO T="oclc">17286991</BIBNO>
+<VID>106310</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1">
+<P>LONDON'S Tryumph, CELEBRATED <HI>The Nine and Twentieth day of October, in the Year</HI> 1659.</P>
+<P>In Honour of the much Honoured, Thomas Allen, Lord Mayor of the said City.</P>
+<P>Presented and personated by an Europian, <HI>an</HI> Egyptian, <HI>and a</HI> Persian. And done at the Costs and Charges of the ever to be Honoured Company of <HI>GROCERS.</HI></P>
+<P><FIGURE>
+</FIGURE></P>
+<P><HI>London,</HI> Printed by <HI>Thomas Mabb,</HI> 1659.</P>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="2">
+<PB REF="2">
+<HEAD>To the Right Honourable, THOMAS ALLEN, Lord Mayor of the City of LONDON.</HEAD>
+<OPENER><SALUTE>My Lord,</SALUTE></OPENER>
+<P>_ALthough I may seem a stranger to your Person, I am not so to your Worth and Goodnes, which have so generally spread themselves, they are rooted in mens hearts and Affections: As the glory of a City, consists in the Prudence and Magnani|mity of her Governor; so she ought to be well read and ac|quainted with his Vertues, whom she chooseth. This be|gat such Acclamations of joy
+<PB REF="3">
+at your Election; witness your Honourable Companies, and indeed (I may speak it without Flattery) the Voice and Heart of the whole City; My Lord, these motives have induced or rather encouraged me to make this my Address &amp; Presentati|on, not dispairing of your graci|ous Acceptance; since things of this nature have been by use, partly made customary: How|ever, I hope, the transgression (if any) carries not so ill an A|spect, but that it may come within the Verge of your Can|dor, whereby I may be licensed to subscribe my self,</P>
+<CLOSER>My Lord, Your Honours most Humble and Faithfull Servant,
+<SIGNED>Iohn Tatham.</SIGNED></CLOSER>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="3">
+<HEAD>TO THE Worshipfull Company OF GROCERS,</HEAD>
+<P>THe Commons of <HI>Rome</HI> con|ceiving some distast against their Senators, under pretence of some great Oppression, did in a mutenous manner depart to the Mount <HI>Aventine;</HI> but things being brought to a head, by Ar|guments of Reason and Power, they were reconciled; And in memory thereof, they Celebrated their Games or Tryumphs; It is also reported by <HI>Macrobeus</HI> that the <HI>Romans</HI> in the very heat of of their Games Celebrated to <HI>Apollo;</HI> were suddenly inva|ded, and forced to betake them to
+<PB REF="4">
+<GAP DESC="illegible" RESP="OXF" EXTENT="1 span">, and returning Conquerours, assisted by an un|known hand; Clouds of Arrows and Darts, having covered their Enemies, they found an old man dancing, and their sports in some manner continued, whereat with much joy they uttered forth, <HI>Sal|va res est, saltat senex,</HI> which afterwards became a Proverb, &amp; is properly spoken when a sud|den evill is seconded with a good event, beyond Hope or Expecta|tion. Gentlemen, the inference needs little explanation; tis suf|ficient Providence affords us that happinesse to return to our Try|umphs, the glory of the City, an encouragement to Arts, and an Obliger of,</P>
+<CLOSER>Gentlemen, your humble Servant,
+<SIGNED>JOHN TATHAM.</SIGNED></CLOSER>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="text">
+<PB N="1" REF="4">
+<HEAD><HI>Londons Tryumph,</HI> Presented by <HI>An</HI> European, <HI>an</HI> Egyptian, <HI>and a</HI> Persian; Performed at the Costs and Charges of the ever <HI>to be honoured Company of</HI> GROCERS.</HEAD>
+<P>October 29. 1659.</P>
+<P>THe whole Body appointed for the ser|vice of the day, being met together at <HI>Grocers</HI>-Hall; that is to say:</P>
+<LIST>
+<ITEM>1. The Master, Wardens, and Assistants in their Gowns, faced with Foyns, and Hoods.</ITEM>
+<ITEM>2. The Livery in Gowns, faced with Budge, and their Hoods.</ITEM>
+<ITEM>3. The Foyns Batchellors in Gowns with Hoods.</ITEM>
+<ITEM>4. The Budge Batchellors in their Gowns with Sattin Hoods.</ITEM>
+<ITEM>5. The Gentlemen Ushers with Gold Chains
+<PB N="2" REF="5">
+about their Shoulders, and white Staves in their Hands.</ITEM>
+<ITEM>6. Eighteen Trumpeters.</ITEM>
+<ITEM>7. Four Ensigns.</ITEM>
+<ITEM>8. Fourteen Drums and Fifes.</ITEM>
+<ITEM>9. The Master of Defence, and his Eight At|tendants.</ITEM>
+<ITEM>10. The Banners and Standard Bearers in White Coats and Red Caps.</ITEM>
+<ITEM>11. The Pentioners in Blew Gowns and Red Caps, each of them a Javelin in one hand, and a Target in the other, wherein is painted the se|veral Coats of Arms of the Aldermen, Assistants and Benefactors.</ITEM>
+<ITEM>12. The Foot-Marshall and his Six Atten|dants, in Fustion Dublets and White Stockins.</ITEM>
+<ITEM>13. Four Pages with White Hats and Cas|sacks, each of them a Truntion in one hand and a Target in the other, wherein is painted the Coats of Arms of the present Master and War|dens.</ITEM>
+</LIST>
+<DIV2 TYPE="part">
+<HEAD>About Eight of the Clock the said Foot-Marshal Ranks out the said Company two by two.</HEAD>
+<DIV3 TYPE="subpart">
+<HEAD>Beginning,</HEAD>
+<P N="1">1. WIth the said Pentioners, after them the Standard and Banner Bearers, and in the Front of the said Pentioners, placeth four Drums, Two Fifes, and two Ensigns.</P>
+<P N="2"><PB N="3" REF="5">2. In the second Division falls in six Drums, two Fifes more, and two other Ensignes; after them falls in six Gentlemen Ushers, and after them the Budge Batchellors.</P>
+<P N="3">3. In the third Division fals in six Trumpets, after them the Banners of St. <HI>George,</HI> in the rear of which fals in eight more of the Gentlemen Ushers, and after them the Foynes Batchellors.</P>
+<P N="4">4. In the fourth Division, fals in six other Trumpets, after them the Companies Ban|ners, in the rear of which, fals in ten other of the Gentlemen Ushers, and after them the Livery.</P>
+<P N="5">5. In the fifth Division, fals in six other Trumpets, after them the Lord Mayors and Ci|ties Banners, after them ten other Gentlemen Ushers, and after them the Assistants.</P>
+<P N="6">6. In the sixt or last Division, fals in foure Pages, each of them a Truntion in one hand, and a Target in the other; wherein is painted the Coats of Arms of the present Master and War|dens, after them fals in eight other Gentlemen Ushers, and after them the present Master and Wardens.</P>
+<P>In this equipage of ranks two by two, they march from <HI>Grocers</HI>-hall towards the Lord Mayors house, the Foot Marshall and his At|tendants removing, the first two Ensignes, foure Drums and two Fifes next the Ma|ster and Wardens, placing himself and his At|tendants in the front, doe lead the way, till ei|ther they meet his Lordship or come to his Gate; and then removing the said Ensignes,
+<PB N="4" REF="6">
+Drums, and Fifes to their first place or head of the Pentioners, placing himself in the Front; they led back down <HI>Cornhill</HI> and the <HI>Old-jury,</HI> by <HI>Guild-Hall</HI> Gate, there taking in the old Lord Mayor, do march up <HI>Lawrence</HI> Lain, down <HI>Soper</HI> Lain, <HI>Cloak</HI> Lain, <HI>Colledge</HI> Hill; and at the foot of the said Hill, the said Pentioners, Standard, and Banner bearers, doe open to the right and left, making a Gallory, through which the Budge and Foynes Batchellors doe pass to the place as|signed for them to dine at, the Livery, Assistants, the Master, the Wardens, and their attendant Ushers (except Pages) together with their Trumpets pass through the said Gallory to <HI>Mer|chant Taylor</HI> Stairs (at the East end of <HI>Three-Crain</HI> Wharf) into their several Barges.</P>
+<P>The Lord Mayors&punc; Aldermen and their attendants into their Barge; and being so, all convenient speed is made towards <HI>Westminster</HI> by them and the severall Companies of <HI>London,</HI> in Barges adorned with Streamers and Banners, Wind-musick, Drums, and Trumpets, where by the way severall peeces of Ordnance are dis|charged; but the Banner and Standard Bearers, with the Pentioners, Pages, Drums, Fifes, En|signes, Foot Marshall and his attendants repaire towards <HI>Baynards Castle,</HI> there waiting his Lord|ships and the Companies return.</P>
+<P>The Companies being landed, they set them|selves as a Guard on both sides, from <HI>Westmin|ster Bridge</HI> round <HI>Westminster Hall,</HI> through which the Company of <HI>Grocers</HI> do pass, likewise
+<PB N="5" REF="6">
+the Lord Mayor, Aldermen and their attendants, but the Livery and their attendants doe return to their Barge, the Assistants the Master and Wardens and their severall attendants march up the <HI>Chequer</HI> staires, making a Guard from the <HI>Chequer</HI> Barr to the stayrs head, through which the Lord Mayor and Aldermen doe passe (the new Lord Mayor on the right, the old on the left of the Recorder toward the said Barr) and after a speech made by the said Recorder, shew|ing the cause of their addresses, &amp; answer made by the Lord Cheif Barron, his Lordship is Sworn; and being so, the Company fall in as before, leading to the <HI>Chancery,</HI> the <HI>Upper-Bench,</HI> and the <HI>Common-Pleas</HI> Barrs, Seales a Writ at each Court, and presently the whole Body march|eth to their Barges, and being entred and the se|verall Barges on floate, the former Ordnance (as a token of joy) are again discharged, all con|venient speed being likewise made by that body towards <HI>Baynards Castle;</HI> but the severall Com|panies to <HI>Pauls Wharfe,</HI> and other places in or|der to their making of a Guard or Gallory from the top of <HI>Pauls Wharfe,</HI> or <HI>Pauls Chaine</HI> hill, through <HI>Pauls</HI> Church yard, <HI>Cheap-side, Corn|hill,</HI> &amp; <HI>Leaden-hall-street,</HI> to his Lordships House; through which said Gallory the Company of <HI>Grocers,</HI> the Lord Mayor, Aldermen and their attendants are to passe.</P>
+<P>The Lord Mayor, Aldermen and their atten|dants being landed at the foresaid place; doe meet the Foot-Marshall, the Drums, Fifes, Trum|pets,
+<PB N="6" REF="7">
+Ensignes, Silk-worke, Pentioners, Pages, Gentlemen Ushers, Budge and Foynes Bachel|lers, set in order as at first, and ready to March, and placing himself and Company in the Front, marcheth up <HI>Pauls Wharfe-hill</HI> through <HI>Pauls</HI> Church yard into <HI>Cheap-side,</HI> and between <HI>Foster,</HI> and <HI>Gutter-laine</HI> is saluted by one Sceane, flankt with two <HI>Griffins,</HI> on the back of one is placed a Negar, on the other an Indian with Banners in the hands of both: The Sceane representeth <HI>Commerce</HI> in the figure of a young man sitting under a Canopy, supported by foure figures or young persons, holding Pendants and Sheilds in their hands, wherein is painted the badges of the foure parts of the world; his Lordship drawing nigh the said Sceane, <HI>Commerce</HI> salutes him in these words.</P>
+</DIV3>
+<DIV3 N="1" TYPE="speech">
+<HEAD>The first Speech.</HEAD>
+<LG>
+<L>MY Lord, 'tis thought the world was but a plain</L>
+<L>Levell, or Champion, whil'st men did remain</L>
+<L>In idleness, the Nurse of Ignorance;</L>
+<L>Which lulls mens braines, in a Lethergean Trance;</L>
+<L>At th' last <HI>Necessity</HI> seem'd to infuse</L>
+<L>In them the Art of Arthitect, the use</L>
+<L>Of Huts and Houses; every one began</L>
+<L>To shew himself or more, or lesse a Man.</L>
+<L>Left their wilde kinde of living, and did build</L>
+<L>Cities for safety, in the which they held,</L>
+<L><PB N="7" REF="7">A Civiliz'd comunication, each</L>
+<L>By a Divine instinct the Arts did teach;</L>
+<L>Nor did they perish when the World was drown'd</L>
+<L>Their Hyrogliphicks were in pillars found,</L>
+<L>That by degrees succeeding ages did</L>
+<L>Reveale to one another secrets hid;</L>
+<L>Which though before were seeds in them, yet they</L>
+<L>Shew'd not untill Experience taught the way.</L>
+<L>Then did the Navigator search the Mayne,</L>
+<L><HI>How</HI> to steere forth, how to return again</L>
+<L>With prize and safety? straight that art was hurld,</L>
+<L>Into our lap, the center of the World,</L>
+<L>By divine hand; that we in a short time,</L>
+<L>Made our selves countrymen of every clymb,</L>
+<L>Searching the spacious Universe, our skill,</L>
+<L>And courage did the mouth of wonder fill,</L>
+<L>Riding on dangers neck, as though t'were meant,</L>
+<L>We should be Lords of the whole Continent.</L>
+<L>Such were our darings, that, what, Histories</L>
+<L>Forget to speak of our discoveries.</L>
+<L><HI>Greenland, Lapland, Michar, Isles</HI> remote</L>
+<L>And many more, which later times denote,</L>
+<L>Unto our Countryes glory, we made ours,</L>
+<L>By the direction of fore-seeing <HI>Powers:</HI></L>
+<L>Thus are we nourish't from the breasts encrease;</L>
+<L>Could we among our selves but mediate peace.</L>
+<L>The antient <HI>Poets Pyramids</HI> of praise,</L>
+<L>Did to the Honour of their Countryes rayse,</L>
+<L>In all my reading, or my travells (Sir)</L>
+<L>I must our own above the rest preferr.</L>
+<L>For as th' Magnetique Courts, the Adamant</L>
+<L>With her Simphatick faculty, the want</L>
+<L><PB N="8" REF="8">Of whose Assotiation makes her seem</L>
+<L>Uselesse, regardlesse, as of small esteeme:</L>
+<L>So we from most parts of the Universe</L>
+<L>Are sought, rather petitioned for <HI>Commerce.</HI></L>
+<L>Traffique brings profit, towards which they bend,</L>
+<L>As though their welfare did on ours depend:</L>
+<L>Thus doe we (Sir) still by our patriots care,</L>
+<L>Or'e take their riches at their full Carreire.</L>
+<L>My Lord, you are <HI>Our Cities Hope,</HI> whereon</L>
+<L>She doth rely, her <HI>Father</HI> and her <HI>Son;</HI></L>
+<L>Shee gave you breath, and education too,</L>
+<L>Which made you fit for whats conferr'd on you:</L>
+<L>Then since th' extention of <HI>Her</HI> love was such;</L>
+<L>Your care of <HI>Her,</HI> cannot be shewn too much:</L>
+<L>Which, as shee doubts not of, so we rejoyce,</L>
+<L>And celebrate <HI>Your</HI> Triumphs in <HI>Her</HI> Uoice.</L>
+</LG>
+<P>The Speech ended, the Scene quits the place, and (hastning towards his Lordships House) is placed in the rear of a Ship, not yet visible to his Lordship, and his Lordship, the Aldermen and their attendants pass through <HI>Cheap-side,</HI> and the <HI>Poultry;</HI> towards the <HI>Exchange</HI> they meet another Scean, representing several of the pla|ces or Countries, in which the Commodities be|longing to the <HI>Grocers</HI> trade doe grow, and the natives disporting therein, in habits of each Na|tion; on one part of the said Stage is placed a <HI>Clove</HI> Tree, in another a <HI>Nutmeg</HI> Tree and a <HI>Cur|rent</HI> Tree, on another part thereof is planted <HI>Rice, Rasons, Figgs,</HI> and <HI>Druggs;</HI> and in the Front is placed or fixed a <HI>Crockadile,</HI> with an <HI>Egyptian</HI>
+<PB N="9" REF="8">
+on his back, a banner in his hand, at each Angle of the Stage a Nymph; when his Lordship draws nigh, the <HI>Egyptian</HI> salutes him in these words:</P>
+</DIV3>
+<DIV3 N="2" TYPE="speech">
+<HEAD>The second Speech.</HEAD>
+<LG>
+<L>WHere am I? What auspicious wind convey'd</L>
+<L>Me to this Isle? what sudden thoughts in|vade</L>
+<L>My faculties? Egyptian darkness, hence,</L>
+<L>I now discern the cause and th' influence;</L>
+<L>It was the soft and winning breath of Fame,</L>
+<L>Fanning the way unto the honoured name</L>
+<L>Of him, that this dayes Tryumphs wait upon,</L>
+<L>Wafted me hither, and hath put me on</L>
+<L>This bold attempt. My Lord, all Nations are</L>
+<L>Bound to this Seat, and must Concenter here</L>
+<L>In point of Traffique; other parts but stand</L>
+<L>Like Marginal Notes, directing to this Land:</L>
+<L>Or, as in times past <HI>Mercurie's</HI> Statues were</L>
+<L>Fixt in high-wayes by th' hand of Publique care,</L>
+<L>To point at consequents, this little Round</L>
+<L>Is in it self a World; <HI>Istmus</HI> and <HI>Sound,</HI></L>
+<L><HI>Memphis</HI> no more of your fain'd <HI>Rampiers</HI> boast;</L>
+<L><HI>Lysbone</HI> your <HI>Tagus, Caria</HI> your <HI>Coasts</HI></L>
+<L><HI>Persia, Scythia, Parthia, Thratia,</HI></L>
+<L><HI>Lydia, Syria, Syberia, Caspia,</HI></L>
+<L>Ty up your numerous Glories, with your Tongue,</L>
+<L>That heretofore the want on Muses sung;</L>
+<L>For in this Inch of Earth's comprized more,</L>
+<L>Than all the Poets fanoi'd yours before.</L>
+<L><PB N="10" REF="9">It is Our wishes (<HI>Sir</HI>) your belov'd Name,</L>
+<L>May adde a breathing to the breath of Fame;</L>
+<L>To sound you Great and Good, that your just Fate</L>
+<L>May fix you a firm Pillar to this State:</L>
+<L>May <HI>You</HI> in <HI>Her,</HI> and <HI>She</HI> in <HI>You</HI> this year</L>
+<L>Propitious be, as th' <HI>Motion</HI> of a <HI>Sphere.</HI></L>
+</LG>
+<P>The Speech ended, this Scene likewise quits the place, and is conveyed through <HI>Leaden Hall</HI> street toward his Lordships House, where mee|ting with the former, is divided into two parts; that Stage whereon the <HI>Spaniards</HI> and <HI>Negars</HI> are, being placed on the Right hand of <HI>Commerce,</HI> the <HI>Persians</HI> and <HI>Indians</HI> on the Left, and the <HI>Griffins</HI> Flanking of each; In the Front is pla|ced the Ship, and on the Right wing thereof is the <HI>Crookodile</HI> placed, and on the Left a <HI>Camel,</HI> with a <HI>Negar</HI> on his back, having a Pendent in the one hand, and with the other takes out of his Dorcers&punc; <HI>Cloves, Currence</HI> and other Fruit, and throwes among the people; and on the head of that Stage stands one in a <HI>Persian</HI> habit, with a two Attendants, on each side: The several Scens thus placed, and his Lordship with the Alder|men and their attendants coming nere, the Ma|riners presented his Lordship wi<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">h this Song:</P>
+</DIV3>
+<DIV3 TYPE="song">
+<HEAD>The Marriners Song.</HEAD>
+<LG>
+<L>SInce the <GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">pan<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter"> reap,</L>
+<L>By Hazard grows cheap;</L>
+</LG>
+<LG>
+<PB N="11" REF="9">
+<L>And that we are now within <HI>Ken,</HI> boyes:</L>
+<L>Let's cast Anchor here,</L>
+<L>No City more freer,</L>
+</LG>
+<LG>
+<L>To Harbour sueh Iovial Men boyes:</L>
+<L>Then merily sing, and as merily quaf't,</L>
+<L>Let's drink up the Riches of th' World in a draught.</L>
+</LG>
+<P>The Song ended, the Foot Marshal with his Company, and likewise the Pentioners, being come nere to the Lord Mayors doore, the Foot Marshal placeth the said Pentioners in a single File, on the North side the said street, and caus|eth every man to hang his Target on the top of his Javelin, then openeth the remaining part of the said Company to the Right and Left, him|self and Company passeth through, till they come to the Masters and Wardens, and then Marcheth them, and the whole Body through that Intervail, placing the Master at the Lord Mayors Gate, and the whole Body successively, on the Wing each of other, before the said Pen|tioners, and the Drums, Fises, Trumpets, En|signes, Banners, and Streamer bearers, in equall divisions as a Front Guard before them, who as the Lord Mayor, Aldermen, and their atten|dants pass&punc; do each one perform his part; but the Lords being come nere, the Scenes being placed as aforesaid, the person representing a <HI>Persian</HI> Merchant, makes his address in this man|ner:</P>
+</DIV3>
+<DIV3 N="3" TYPE="speech">
+<PB N="12" REF="10">
+<HEAD>The third Speech.</HEAD>
+<OPENER><SALUTE>My Lord,</SALUTE></OPENER>
+<LG>
+<L>THe European Traveller with Experienc'd Keyes&punc;</L>
+<L>Open&punc;d the Gate to his Discoveries,</L>
+<L>Sh<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">wing th' essentiall species of Commerce</L>
+<L>The very hinges to the Universe.</L>
+<L>The <HI>Egyptian</HI> seem'd in his discourse to Treate</L>
+<L>Of places, and for Trade made this the Seate.</L>
+<L>And now my Lord to amplyfy what they</L>
+<L>Before have spoke, the Candid winds this day</L>
+<L>Set me on Shore, as though the Twins had known,</L>
+<L>What Tyumphs to your Honour would be shewn.</L>
+<L>The <HI>Marriners</HI> their severall voices reare</L>
+<L>For joy they safely have arrived here;</L>
+<L>And brought their Vessell to their wisht for home</L>
+<L>Laden with Easterne Treasure, Spice and Gum;</L>
+<L>The Dulcid Trees, whose substances do bear,</L>
+<L>Heart pleasing Synamon, Cloves, Mace Nutmeggs are</L>
+<L>From fam'd <HI>Arabia</HI> brought, likewise from thence</L>
+<L>Comes Casia, Myrrh, and precious Frankinsence,</L>
+<L>From <HI>Pharo</HI> Figgs; <HI>Zant,</HI> Currans; <HI>Maligo,</HI></L>
+<L>Affords you Reasons; Dates and Pepper grow</L>
+<L>In other places; Sugar and what not</L>
+<L>But brings a benefit unto this Spot.</L>
+<L>The manner how they grow (my Lord) you'l see,</L>
+<L>In th' perfect Figure of each branch and tree.</L>
+<L>Then <HI>Sena, Rhuberb, China,</HI> Rootes that doe</L>
+<L>Not onely purify, but strengthen too,</L>
+<L><HI>Sarsaparella, Aggrick,</HI> then comes in</L>
+<L>Storax, Aloes, Indico, Benjamin,</L>
+<L><PB N="13" REF="10">And hundreds more, that th' <HI>Indies</HI> and the <HI>Streights</HI></L>
+<L>Heape in to add unto your wealth by freights,</L>
+<L>As though the <HI>Company</HI> of which y'are free</L>
+<L>With your own <HI>Trade</HI> twisted <HI>Society</HI></L>
+<L>In their <HI>Commerce</HI> and profits doubtles so</L>
+<L>And may that linck and firme affection flow</L>
+<L>T'inrich this Citie, that the Nation may</L>
+<L>Participate the comfort of this day;</L>
+<L>For (Sir) the Causes our disturbance bred</L>
+<L>Are now Composed, rage and fury fled</L>
+<L>To their dark Celles; That by your light we move</L>
+<L>The second Subject of Our Hopes and Love.</L>
+<L>May to th' addition of your Name and Blood</L>
+<L>Be attributed all that fame speaks good;</L>
+<L>That so your praises may like lynes from hence</L>
+<L>The Center, fill the worlds circumference.</L>
+</LG>
+<P>The Speech ended, and my Lords and their company within the Gate; the foot Marshall ranks the whole body as before; and placing himself and Attendants in the Front, do lead towards <HI>Grocers</HI> Hall, and the Sceanes or Pa|geants make what haste or speed, they possibly can after them.</P>
+</DIV3>
+</DIV2>
+<DIV2 TYPE="part">
+<PB N="14" REF="11">
+<LG N="1">
+<HEAD>1.</HEAD>
+<L>FRom th' <HI>Indies</HI> and th' <HI>Streights,</HI></L>
+<L>We come with full freight,</L>
+<L>To add to your Wealth,</L>
+<L>Your Pleasure, and Health,</L>
+<L>Ingrediences such,</L>
+<L>Would puzle one much:</L>
+<L>To search out their Natures, and define their Names:</L>
+<L>For their growth, and their places;</L>
+<L>Hard things, as the case is,</L>
+<L>Ye must Travell further than th' River of <HI>Thames.</HI></L>
+</LG>
+<LG N="2">
+<HEAD>2.</HEAD>
+<L>Your Currans from <HI>Zant,</HI></L>
+<L>When your Worships want,</L>
+<L>Come flying as wood,</L>
+<L>In Vessels so good:</L>
+<L>And Reason you know</L>
+<L>Come from <HI>Maligo;</HI></L>
+<L>Dates, Figs, Cloves, and Nutmegs, with Sugar and Rice:</L>
+<L>Then Pepper and Ginger,</L>
+<L>That Nose <GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">osting twinger,</L>
+<L>Then <GAP DESC="illegible" RESP="OXF" EXTENT="1 word"> and mace <GAP DESC="illegible" RESP="OXF" EXTENT="1 span"> spice.</L>
+</LG>
+<LG N="3">
+<HEAD>3.</HEAD>
+<L>Then Casia and Myrrh,</L>
+<L>We next must prefer,</L>
+<L>With fine Francking sense,</L>
+<L>That doth cost you pence:</L>
+<L>Then sweet <HI>Bejamine</HI></L>
+<L>Doth draw <HI>Storax</HI> in</L>
+<L>With <HI>Seva,</HI> and <HI>China,</HI> and <HI>Rhuberb</HI> so good:</L>
+<L>All the next I can tell a,</L>
+<L>Is <HI>Sarsaparella</HI></L>
+<L>Which strengthens the body and cleanseth the blood.</L>
+</LG>
+<P><PB N="15" REF="11">This was an Entertainment to the Committee Appointed for carrying on the Charge of the whole businesse; and presented before them on <HI>Thursday</HI> night last at <HI>Gresham</HI> Colledge.</P>
+<P>Although the Gentleman whose singular judgment de|signed and Modelled the se|veral Fabricks, Structures and Sceanes of this days Tryumph, desired to have his Name con|cealed; I hold it a piece of pre|judice to omit theirs imployed by him; In the performance thereof, as Capt. <HI>Andrew Da|kers</HI> and Mr. <HI>William Light|foot,</HI> Painters: Mr. <HI>Thomas Whiting,</HI> Ioyner: Mr. <HI>Richard Clear,</HI> Carver, each of them in their qualities deserving ample commendations.</P>
+</DIV2>
+<TRAILER>FINIS.</TRAILER>
+<PB REF="12">
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

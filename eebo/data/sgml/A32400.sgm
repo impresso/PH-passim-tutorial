@@ -1,0 +1,40 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD EEBOPROOF 2.0//EN">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-08-21</DATE>
+<RESPSTMT>
+<NAME>Emma Leeson Huber</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TYPEs to DIVs in order to validate.  Reviewed structure. Checked division-marking material at heads and feet of divisions (HEADS, etc.). Checked for signatures. Checked placement and completeness of PBs. Checked for GAPs, #s, @s. Checked spacing of foreign GAPs. Corrected 0 $s of 0. Checked for EPIGRAPHs and ARGUMENTs. Checked for startqs, endqs, oes, q;s, and Qs. Checked proofsheets and made corrections found there. Checked for CLOSERs, TRAILERs, and BYLINEs. DONE.</ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="OX" ID="A32400">
+<STC T="W">C3288</STC>
+<BIBNO T="oclc">15608556</BIBNO>
+<VID>104096</VID>
+</IDG>
+<TEXT LANG="eng">
+<BODY>
+<DIV1 TYPE="text">
+<PB REF="1" MS="y">
+<HEAD>By the King. A PROCLAMATION Declaring the Confirmation of the Treaties, and continuance of the Amity and Commerce between the Crowns of <HI>ENGLAND</HI> and <HI>PORTVGAL.</HI></HEAD>
+<OPENER><SIGNED>CHARLES R.</SIGNED></OPENER>
+<P>_WHEREAS at Our happy arrival in this Kingdom, We found Our good Subjects in a full Possession of a Fre&eacute; Trade with <HI>Portugal,</HI> and of many Priviledges and Im|munities granted to this Nation, by some Treaties made with those who were possessed of the Power here. And the Ambassador of the King of <HI>Portugal</HI> hath applied himself to Us for renewing and confirming the said Treaties; To which end and purpose, We appointed several of the Lords of Our Privy Council to treat with him, who have made a good Progress therein; But the said Ambassador not being able to attend the Conclusion of the said Treaty (which cannot be spe&eacute;dily finished) but necessitated to return home, by which, many of Our Subjects may apprehend that there is some Obstruction in that Alliance and Trade. We have thought fit to Publish and Declare to all Our loving Subjects, That they may without any Fear or Apprehension, continue their Trade and Concern in <HI>Portugal</HI> and the Dominions thereof, according to the late Treaties; and that We are well assured, that they shall enjoy all the Priviledges and Immunities granted to them by the said Treaties; Albeit, we have not yet proceeded so far as to a full Ratifica|tion thereof, the said Ambassador undertaking to Us for the observation of the same in <HI>Portugal.</HI></P>
+<CLOSER><DATELINE>Given at Our Court at <HI>Whitehall,</HI>
+<DATE>the Sixth day of <HI>October,</HI> in the Twelfth year of Our Reign, 1660.</DATE></DATELINE></CLOSER>
+<CLOSER>GOD SAVE THE KING.</CLOSER>
+</DIV1>
+</BODY>
+<BACK>
+<DIV1 TYPE="colophon">
+<P><HI>LONDON,</HI> Printed by <HI>Iohn Bill</HI> and <HI>Christopher Barker,</HI> Printers to the Kings most Excellent Majesty, 1660.</P>
+</DIV1>
+</BACK>
+</TEXT>
+</EEBO>
+</ETS>

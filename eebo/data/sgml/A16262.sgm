@@ -1,0 +1,1240 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD EEBOPROOF 2.0//EN">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-08-19</DATE>
+<RESPSTMT>
+<NAME>Jonathan Blaney</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TYPEs to DIVs in order to validate. Proofed title page(s). Checked for N=""s. Checked for GROUP tags. Checked ^s. Reviewed structure. Checked division-marking material at heads and feet of divisions (HEADS, etc.). Checked for signatures. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected 27 $s and $$word$$s etc. of 37. Converted 10 $$s to GAP DESC="illegible" RESP="OXF". Checked spacing of foreign GAPs. Checked for EPIGRAPHs and ARGUMENTs. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs, endqs, oes, q;s, and Qs. Checked proofsheets and made corrections found there. Checked for CLOSERs, TRAILERs, and BYLINEs. Checked for missing page GAPs. DONE.</ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="OX" ID="A16262">
+<STC T="S">3184.6</STC>
+<BIBNO T="umi">99857449</BIBNO>
+<VID>23189</VID>
+</IDG>
+<TEXT LANG="eng">
+<BODY>
+<DIV1 TYPE="title page">
+<PB REF="1" MS="y">
+<PB REF="1">
+<P>The most wonderful and plea|saunt History of Titus and Gisip|pus, whereby is fully declared the figure of perfect frendshyp, drawen into English metre.</P>
+<P>By Edwarde Lewicke.</P>
+<P>Anno. 1562.</P>
+<Q><LG>
+<HEAD>Aristotell.</HEAD>
+<L>Frendshyppe is a vertue, <NOTE PLACE="marg">Aristo,</NOTE></L>
+<L>For all men to take holde,</L>
+<L>Frendshypp ioyned with vertue,</L>
+<L>Passeth syluer and golde.</L>
+</LG></Q>
+<Q><LG>
+<L>As fyer and heate <NOTE PLACE="marg">Seneca.</NOTE></L>
+<L>Are in seperable alwaye</L>
+<L>So are the hartes of frendes</L>
+<L>From daye to daye.</L>
+</LG></Q>
+</DIV1>
+<DIV1 TYPE="poem">
+<PB REF="2" MS="y">
+<LG>
+<PB REF="2">
+<L>THere was in the city of Rome,</L>
+<L>A noble man hight fulnius:</L>
+<L>A Senatour of great wisdome,</L>
+<L>One of the chiefest the truth is thus.</L>
+<L>He had a sonne named Titus,</L>
+<L>An apter child could not be found,</L>
+<L>(As witty men did their discus)</L>
+<L>For learnyng, going on the ground.</L>
+</LG>
+<LG>
+<L>Fulnius loue did so abound,</L>
+<L>To Titus for his natiue grace:</L>
+<L>That to athenes he sent him rounde,</L>
+<L>Because he should learninge enbrace.</L>
+<L>Wherof Athenes was the best place.</L>
+<L>With one Chremes, Titus did host,</L>
+<L>Who had a sonne so like of face</L>
+<L>To Titus that Chremes <GAP DESC="illegible" RESP="OXF" EXTENT="1 word">.</L>
+</LG>
+<LG>
+<L>Knew not his sonne, his marke was lost?</L>
+<L>For their statures and age were one,</L>
+<L>Their garmentes both a like did cost,</L>
+<L>On all the earth lo there were none:</L>
+<L>So like of beautye blood and bone.</L>
+<L>Gysippus hight Chrimes sonnes name:</L>
+<L>Together still wolde they haue gone,</L>
+<L>To scole, to meales, to play or game.</L>
+</LG>
+<LG>
+<L>Their willes &amp; wits both, like did frame,</L>
+<L>In oue doctrine they did delite,</L>
+<L>What one did tone, the very same,</L>
+<L>The other loued with all his might,</L>
+<L><PB REF="3">
+In learning they were iustly pight,</L>
+<L>For yer that they much time did spende,</L>
+<L>In Athenes was not manie a wight,</L>
+<L>Would in learning with them contend<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">.</L>
+</LG>
+<LG>
+<L>At last when God by deth did sende,</L>
+<L>For Chremes, in his auntient age,</L>
+<L>Gysippus goodes was without ende,</L>
+<L>He was of noble parentage,</L>
+<L>And eke a propre personage:</L>
+<L>Wherfore his frendes did him allure,</L>
+<L>And stil prouoke to mariage,</L>
+<L>Saying thereby you may be sure.</L>
+</LG>
+<LG>
+<L>Your progenie shall long endure,</L>
+<L>To your great honour and comfort,</L>
+<L>Thus daily they did him procure.</L>
+<L>But Gisippus (for to be short,)</L>
+<L>To their counsell woulde not resort:</L>
+<L>For he was wedded to studie,</L>
+<L>Philosophy was all his sport,</L>
+<L>Except Titus, his frende onelse:</L>
+</LG>
+<LG>
+<L>Whom he so loued, that (well nie)</L>
+<L>For other thinges he did not care.</L>
+<L>Titus also (a good cause whye)</L>
+<L>Would for Gisippus his life spare,</L>
+<L>Suche frendship hath bene sene but rare.</L>
+<L>Gisippus fearinge that a wife,</L>
+<L>Should cause their fre~dship sone to ware,</L>
+<L>Whiche he had leuer lose his life.</L>
+</LG>
+<LG>
+<PB REF="3">
+<L>Then with his frend to fall at strife:</L>
+<L>Fearing left through mariage also,</L>
+<L>Which caused him to be penife,</L>
+<L>Philosophie he should forgoe,</L>
+<L>(And leaue his scole alas for wo)</L>
+<L>Which thoughts made him for to abstain</L>
+<L>As much as in him lay to doe,</L>
+<L>His kinsemens aduise to refraine.</L>
+</LG>
+<LG>
+<L>But yet they did him so constraine,</L>
+<L>By calling on so importaunt,</L>
+<L>That nedes he must (though to his paine</L>
+<L>Seing they cried incessaunt)</L>
+<L>To all their requestes throughlie graunt:</L>
+<L>Titus also did him desire,</L>
+<L>That he would not be repugnaunt,</L>
+<L>But doe as they did him require.</L>
+</LG>
+<LG>
+<L>Or els said he their feruent ire,</L>
+<L>Against you alway shalbe bent,</L>
+<L>As furious as the fretting fire:</L>
+<L>Therfore it is expedient,</L>
+<L>(Deare frende Gysippus) to content</L>
+<L>Your selfe: and set your hart at rest,</L>
+<L>Chouse you a wyfe by mine assent,</L>
+<L>Euen such a one as you like best.</L>
+</LG>
+<LG>
+<L>Gysippus with this meke request,</L>
+<L>To his frend Titus did agree:</L>
+<L>What nede much talke to be exprest,</L>
+<L>His frendes a maiden did forsee,</L>
+<L><PB REF="4">
+No meter match they thought mought be</L>
+<L>Then she, for suche a worthy wight,</L>
+<L>In beautye bright, peareles was she,</L>
+<L>Sophronia this mayden hight.</L>
+</LG>
+<LG>
+<L>When they and her frendes had full right</L>
+<L>The couenaunt of this marriage knitte,</L>
+<L>Gysippus then to haue the sight</L>
+<L>Of this lady they thought it fitt,</L>
+<L>And saide also, that best were it,</L>
+<L>For him, this mayden to beholde,</L>
+<L>Whom when he sawe in shape and wit,</L>
+<L>Like him, his ioyes could not be tolde.</L>
+</LG>
+<LG>
+<L>He louid her so that oft he woulde</L>
+<L>Resort vnto her secretlye,</L>
+<L>Leauing Titus his louer olde</L>
+<L>Behinde, applying his studye.</L>
+<L>Yet at the last he did descrye,</L>
+<L>himselfe, and told Titus his minde.</L>
+<L>How that her gentle courtesye.</L>
+<L>And beautye cleare, had him enclinde.</L>
+</LG>
+<LG>
+<L>So on a time he had assinde,</L>
+<L>To haue his frende Titus with him,</L>
+<L>To se Sephronia so kinde,</L>
+<L>Which to Gysippus semed trim,</L>
+<L>And as well shapt in euery lim.</L>
+<L>When Titus came in her presence,</L>
+<L>His will aboue his witt did swim.</L>
+<L><PB REF="4">
+To se her good entelligence.</L>
+</LG>
+<LG>
+<L>And how at their engredience,</L>
+<L>She did Gisippus entertaine,</L>
+<L>With courtesye and reuerence.</L>
+<L>With rare and sober talke righte plaine,</L>
+<L>So well placed and not in vaine,</L>
+<L>The swete and pleasaunt countenaunce,</L>
+<L>That in her visage did remaine,</L>
+<L>With louelye lookes and temperaunce.</L>
+</LG>
+<LG>
+<L>So that he fell into a traunce,</L>
+<L>Beholding of her swete visage.</L>
+<L>And sore abashed at the chaunce,</L>
+<L>That frendshippe could it not asswage,</L>
+<L>Nor yet Philosophy the rage?</L>
+<L>Of pricking with blinde Cupides dart,</L>
+<L>For in beholding her image,</L>
+<L>Her beautye perced him to the heart.</L>
+</LG>
+<LG>
+<L>But yet he shewed not his smart,</L>
+<L>Till they to their lodginges were gone:</L>
+<L>Then Titus drewe himselfe apart,</L>
+<L>His miserie for to bemone:</L>
+<L>And when he was himselfe alone,</L>
+<L>Uppon a bed there downe he lay,</L>
+<L>For other helpe he loked none,</L>
+<L>But onely death his care to stay.</L>
+</LG>
+<LG>
+<L>Ther cursed he the time and daye,</L>
+<L>That he into this world was borne,</L>
+<L><PB REF="5">
+O deth saide he, fetch me away, <NOTE PLACE="marg">The com|plaininge of Titus.</NOTE></L>
+<L>would god I were with tirantes torne,</L>
+<L>O that Rhynos with his sharpe horne,</L>
+<L>Would rid me of my miserye:</L>
+<L>Oh cursid Titus and forlorne, <NOTE PLACE="marg">Rhinos is a certaine beast in the coun|treise of India ha|uinge a sharpe horne gro wing out of the nos trilles of his nose, and an o|ther in his neck, this beast is as big as an Elephant and is na|turally an enemye to the Ele|phant.</NOTE></L>
+<L>Why swaruest thou so sore awry.</L>
+</LG>
+<LG>
+<L>Oh traytour Titus well worthy,</L>
+<L>For thy treason to Gysippus,</L>
+<L>A miserable death to dye.</L>
+<L>Thus wept and wayled poore Titus.</L>
+<L>No man in the cause that coulde descus,</L>
+<L>Nor whereof his care did depende,</L>
+<L>But alwayes Titus would say thus,</L>
+<L>Would god my life were at an ende.</L>
+</LG>
+<LG>
+<L>With that the salt teares would dessend,</L>
+<L>Downe by his chekes like flouds of raine,</L>
+<L>The depe sightes fro~ his hart wold wend,</L>
+<L>Which well declared his mortall paine.</L>
+<L>But at the last for to be plaine,</L>
+<L>For lacke of slepe and sustinaunce,</L>
+<L>Soe feblenes did him constrayne,</L>
+<L>To kepe his bed this was his chaunce.</L>
+</LG>
+<LG>
+<L>He was so hurt with Cupides launce,</L>
+<L>That nought his paines mought pacifie.</L>
+<L>When Gysippus (to his greuaunce)</L>
+<L>Hearde that Tytus was like to dye,</L>
+<L>He ran in all hast by and by,</L>
+<L>God knoweth with a wofull heart,</L>
+<L><PB REF="5">
+But yet he loked cherefullye,</L>
+<L>To comfort him as was his part.</L>
+</LG>
+<LG>
+<L>But when he saw the coloure swart.</L>
+<L>Which had bene like the ruddye rose,</L>
+<L>Titus said he, whe~ce cometh your smart,</L>
+<L>Deare frende to me se you disclose.</L>
+<L>And though that I do spende and lose,</L>
+<L>My goodes and landes your care to slake,</L>
+<L>My life from me will I depose,</L>
+<L>Deare Titus for your onely sake.</L>
+</LG>
+<LG>
+<L>Then Titus as his hart had brake,</L>
+<L>The teares afresh he did renue.</L>
+<L>Which made Gisippus heart to ake,</L>
+<L>Seing more doloure still ensue.</L>
+<L>Deare frend said he no more rescue,</L>
+<L>Nor hide your mortall paines from me:</L>
+<L>But shew that I may them subdue,</L>
+<L>Yf any helpe for you may be.</L>
+</LG>
+<LG>
+<L>Thus wise Titus constrained he,</L>
+<L>Which all blushing and ashamed,</L>
+<L>Talking with great difficultye,</L>
+<L>Shamefastly holding downe his hed.</L>
+<L>My most deare louing frend he fed, <NOTE PLACE="marg">The wor+des of Ti+tus to Gi<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">sippus.</NOTE></L>
+<L>Withdrawe youre gentle courtesie,</L>
+<L>Let no mo teares for me be shed,</L>
+<L>But slay me rather where I lye.</L>
+</LG>
+<LG>
+<L>Or otherwise on me hardlye,</L>
+<L><PB REF="6">
+Take vengeaunce most writched villaine</L>
+<L>And of all other most worthy,</L>
+<L>I am to suffer death and paine,</L>
+<L>For wheras God of nature plaine,</L>
+<L>In one likenes hath both vs made,</L>
+<L>So had he trapped in one traine,</L>
+<L>Our wils that we in weale should wade.</L>
+</LG>
+<LG>
+<L>So that the like recourse and trade,</L>
+<L>Of concord that hath bene betwene</L>
+<L>Us two, ye and so stedfastlye layde,</L>
+<L>I do suppose hath neuer bene,</L>
+<L>The like in louers euer sene:</L>
+<L>Yet notwithstanding all this loue,</L>
+<L>This faith this truste is wasted cleane,</L>
+<L>A womans looke hath gone aboue.</L>
+</LG>
+<LG>
+<L>Alas what wicked spright did moue,</L>
+<L>Your minde to bring me in presence,</L>
+<L>Of her whom ye (as I can proue)</L>
+<L>Beholding beawtye and prudence,</L>
+<L>Could not with hold by no defence,</L>
+<L>Youre minde from rauishinge with luste,</L>
+<L>Alas where was youre sapyence,</L>
+<L>That you in such thinges wold me trust.</L>
+</LG>
+<LG>
+<L>Wist you not that our windes were iust?</L>
+<L>Forgat ye quight our like nature,</L>
+<L>Which thinge ye ought to haue discusse?</L>
+<L>This is the cause I you ensure</L>
+<L><PB REF="6">
+Of this mischiefe that I endure.</L>
+<L>Youre truste haue trapt me in the rayes,</L>
+<L>That issue from her eyen demure,</L>
+<L>Remembring eke her vertuous layes.</L>
+</LG>
+<LG>
+<L>Which perceth my heart a thousa~d waies</L>
+<L>So that of all thinges I desire,</L>
+<L>Sharpe death to end my dolefull dayes,</L>
+<L>Confusion eke to be my hire.</L>
+<L>Sith I against you did conspire,</L>
+<L>Such treason so vnnaturall:</L>
+<L>Desiring so iustlye youre ire,</L>
+<L>Shame and reproche perpetuall.</L>
+</LG>
+<LG>
+<L>Unworthy am I for to call</L>
+<L>Or say Gisippus is my frende,</L>
+<L>Syth frendshippe in me is so small,</L>
+<L>With those wordes Titus made &amp; ende,</L>
+<L>The sighes that from his heart did wend</L>
+<L>So heauie were and so profounde,</L>
+<L>The teares from his eyes dessend,</L>
+<L>As he to salt drapes mought redounde</L>
+</LG>
+<LG>
+<L>Gysippus then with cherefull sound,</L>
+<L>And with a louelye countenaunce,</L>
+<L>Not raginge rashlye in that stounde,</L>
+<L>Although he sorowed at the chaunce: <NOTE PLACE="marg">The aun|swere of Gisippus to Titus.</NOTE></L>
+<L>But with a frendly affiaunce.</L>
+<L>Enbracinge him and sothlye saide,</L>
+<L>Why Titus is this your greuaunce,</L>
+<L><PB REF="7">
+That you so long from me haue stayed?</L>
+</LG>
+<LG>
+<L>I haue (it can not be denayed)</L>
+<L>Offended as I here confesse,</L>
+<L>In that whiche you did me enbrayde,</L>
+<L>I acknowledge my folishnesse.</L>
+<L>Deare frende Titus, ye are faultlesse,</L>
+<L>For truth it is that I forgate,</L>
+<L>(In f<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">we wordes brefely to expresse,)</L>
+<L>The vnitye of oure astate.</L>
+</LG>
+<LG>
+<L>For what I loue you do not hate,</L>
+<L>But loue it in as high degree:</L>
+<L>Our constellacion or fate</L>
+<L>Is one, I knowe it so to be.</L>
+<L>Therefore the fault lyes all in mee,</L>
+<L>(No man the contrarye can proue,</L>
+<L>Sith that I caused you to see,</L>
+<L>Sophronia whom I do loue.)</L>
+</LG>
+<LG>
+<L>Sith that ye haue so stoutlye stroue,</L>
+<L>Against the powre of Cupides might,</L>
+<L>Which hath so many nobles droue,</L>
+<L>And slaine them quite in his dispight?</L>
+<L>Thinke you (deare frend) my wit so light,</L>
+<L>That I knowe not how that venus,</L>
+<L>Wil wou~d those, against whom she fight,</L>
+<L>With deadly dent? yes yes Titus.</L>
+</LG>
+<LG>
+<L>Haue ye not well stroue that haue thus,</L>
+<L><PB REF="7">
+Resisted suche a great Goddes,</L>
+<L>Almost to death for Gysippus?</L>
+<L>Was not this very noblenes?</L>
+<L>What frendship could you more expresse,</L>
+<L>Then to withstand such violence?</L>
+<L>Am I so vertuous to distresse,</L>
+<L>Or stoppe the heauenly influence.</L>
+</LG>
+<LG>
+<L>Preordinate by prouidence,</L>
+<L>Diuine? what were (if I so thought)</L>
+<L>My time of longe and large expence,</L>
+<L>What were my learning dearlie bought,</L>
+<L>Or yet the wisdome I haue sought?</L>
+<L>In dede Titus I loued the maide,</L>
+<L>As much as any wise man mought,</L>
+<L>And had my harte vnto her slayde.</L>
+</LG>
+<LG>
+<L>I was of her better apaid.</L>
+<L>Then of all my treasure and land,</L>
+<L>But yet what though, what may be sa<GAP DESC="illegible" RESP="OXF" EXTENT="2 letters">,</L>
+<L>Sith that your loue (I understand)</L>
+<L>Doth farre surmount if it were scand,</L>
+<L>A boue the compasse of nature?</L>
+<L>I knowe you can not slake the band</L>
+<L>Of venus, it is knitte so sure.</L>
+</LG>
+<LG>
+<L>What shal I iudge, a mind vnpure,</L>
+<L>That you do this of wanton lust?</L>
+<L>Nay Titus I will not procure,</L>
+<L>Such thinges against you so vniust,</L>
+<L><PB REF="8">
+Deare frend in this you may me trust.</L>
+<L>For how shoulde I of right contend,</L>
+<L>Except that good reason should rust,</L>
+<L>And soo oure frendshippe come to an end:</L>
+</LG>
+<LG>
+<L>Sith that we neuer yet did spende,</L>
+<L>One worde in malice daye nor night:</L>
+<L>So to be still else god defende,</L>
+<L>And bringe the errour sone to light.</L>
+<L>Nay nay Titus I haue done righte,</L>
+<L>The prouidence of god onelye,</L>
+<L>Hath wrought this thing with his great might</L>
+<L>That she shuld be your owne lady</L>
+</LG>
+<LG>
+<L>For such loue entreth not but by,</L>
+<L>A disposicion diuine,</L>
+<L>Into a wise mans memorye:</L>
+<L>I can it no wayes els define.</L>
+<L>Whereat if I should now repine,</L>
+<L>I shoulde seme stout and obstinate,</L>
+<L>Against that god doth determine,</L>
+<L>And rightes from you to seperate.</L>
+</LG>
+<LG>
+<L>Which neuer shall early nor late,</L>
+<L>Be found in me therefore I say,</L>
+<L>Deare frend Titus and louing mate,</L>
+<L>Let not this chaunce your mind dismay.</L>
+<L>Put sorow from you quight awaye,</L>
+<L>Reioice now and no more be sad,</L>
+<L>Let not this wo your welth decay,</L>
+<L><PB REF="8">
+For certeinely I am right glad</L>
+</LG>
+<LG>
+<L>That such a wyfe is to be had, <NOTE PLACE="marg">In those dayes not withstan|ding anie ceremony done at the church, the mar|riage was not con|firmed vn till night that the husband had put a ringe on the brides finger, and losed the girdle of hir vir|ginitie, &amp;ech of the~ promissyd loyalte one to a|nother.</NOTE></L>
+<L>And that it is my chaunce to find,</L>
+<L>Her, with whom your life may be lad,</L>
+<L>In ioy according to your minde,</L>
+<L>Whereby you maye encrease your kinde,</L>
+<L>To the comforte of your lignage,</L>
+<L>I haue to you my right resinde,</L>
+<L>Of her: therefore your old courage.</L>
+</LG>
+<LG>
+<L>Take vnto you and your visage</L>
+<L>all to be wept, wash it right cleane,</L>
+<L>For now the daye of oure mariage</L>
+<L>approcheth nigh, therefore sum meane,</L>
+<L>Let vs (this time and that betwene)</L>
+<L>Deuise, how that you may attaine,</L>
+<L>Your whole desires which haue bene,</L>
+<L>The onely patron of your paine.</L>
+</LG>
+<LG>
+<L>Marke wel, this is mine aduice plaine,</L>
+<L>You knowe well that our shape is so,</L>
+<L>That in like garmentes of vs twaine,</L>
+<L>Few men do scant know who is who.</L>
+<L>Although that we together go.</L>
+<L>Much les a part and liklye dight</L>
+<L>Shall they desearne ech of vs two,</L>
+<L>And brifelye of vs iudge the right.</L>
+</LG>
+<LG>
+<L>Also ye know that vntill night,</L>
+<L><PB REF="9">
+The marriage is not confirmed,</L>
+<L>That they their trouthes haue playnlye plight,</L>
+<L>And that a ring there prepared,</L>
+<L>On her finger be fastened,</L>
+<L>Her girdle then must be vntide,</L>
+<L>And then may they two go to bed,</L>
+<L>And perfourme the partes of a bride.</L>
+</LG>
+<LG>
+<L>This meanes for you I will prouide:</L>
+<L>Untill that day be past and gone,</L>
+<L>In sum close place you shall abide,</L>
+<L>Beinge prepared for you alone.</L>
+<L>When night is come feately anone.</L>
+<L>To her chamber your self conuey,</L>
+<L>Of maides nor wifes there is not one,</L>
+<L>that for our shap shall you bewray.</L>
+</LG>
+<LG>
+<L>Then quicklye do your selfe vnray,</L>
+<L>And vno bed, bouldly prepare,</L>
+<L>Your ring on her finger assay.</L>
+<L>Louse her girdle and do not spare,</L>
+<L>But yet be circumspect and ware,</L>
+<L>That no fonde thing in you appeare,</L>
+<L>Whereby you may augment your care,</L>
+<L>Now frend Titus be of good cheare.</L>
+</LG>
+<LG>
+<L>Let no thinges be for you to deare,</L>
+<L>Take good refections and solace,</L>
+<L>For to amend your lothlye leare,</L>
+<L>Your wan and pale coloured face,</L>
+<L>That it be not in any cace,</L>
+<L><PB REF="9">
+The cause of your discouering.</L>
+<L>I knowe within this litle space,</L>
+<L>That you your pourpose thus hauinge.</L>
+</LG>
+<LG>
+<L>My frendes will hate me and thinking</L>
+<L>Me to disgrace my familye.</L>
+<L>But let god worck I care nothing,</L>
+<L>Though I be had in obloquye,</L>
+<L>Encreasing your felicity.</L>
+<L>At those wordes Titus then began</L>
+<L>To mone, as on my fantasie,</L>
+<L>He though Gysippus spake not than</L>
+</LG>
+<LG>
+<L>But thought he did a vision scan,</L>
+<L>As one adremed in a slepe,</L>
+<L>Lay still as an abashed man.</L>
+<L>But when he sawe Gysippus wepe,</L>
+<L>And teares by his chekes down did stepe,</L>
+<L>Perceyuinge loue in explicable:</L>
+<L>He gaue him thankes w^t groninges depe,</L>
+<L>For his kindnesse incomperable.</L>
+</LG>
+<LG>
+<L>And said it were more reasonable,</L>
+<L>That such vnkinde wretches as I,</L>
+<L>Should perish with some death notable&punc;</L>
+<L>Then that you should sustaine thereby,</L>
+<L>Anye reproche or iniurie.</L>
+<L>Eftsone Gysippus did protest:</L>
+<L>And kissed Titus louingly,</L>
+<L>Saying deare frend be you at rest.</L>
+</LG>
+<LG>
+<PB REF="10">
+<L>For loke what thinges I haue protest,</L>
+<L>Faine would I haue accomplished,</L>
+<L>And thereto will I do my best,</L>
+<L>At those wordes Titus perceaued,</L>
+<L>That his frendshipe was not fained,</L>
+<L>And starte vp then as one not sicke,</L>
+<L>But from sleape he had waked,</L>
+<L>his blood resorted sum what quicke.</L>
+</LG>
+<LG>
+<L>For good eates then he did not sticke,</L>
+<L>But toke thinges his health to restore,</L>
+<L>So that shortelye he waxed tricke,</L>
+<L>In figure as he was before,</L>
+<L>To health was turned all his sore,</L>
+<L>Shorte tale to make, the mariage drue,</L>
+<L>The widdinge wedes, Gysippus wore,</L>
+<L>Of costly coloured, cloth of hue.</L>
+</LG>
+<LG>
+<L>And did as vnto him was due,</L>
+<L>His frendes he accompanied,</L>
+<L>The damuseles house they did cusue,</L>
+<L>Where they were ioyouslye feasted.</L>
+<L>Gysippus was entertayned,</L>
+<L>So louingly of his fayre maide,</L>
+<L>That all the people there praised,</L>
+<L>To se that sight were well apayde.</L>
+</LG>
+<LG>
+<L>And ech vnto his felow saide,</L>
+<L>(Praysing the vertue and beautye,</L>
+<L>Wherwith those parsons were araide.</L>
+<L><PB REF="10">
+And eke their gentle courtesie)</L>
+<L>That neuer erst they could espye,</L>
+<L>Their vertues rare, so excellente,</L>
+<L>In anye creatures saue onelye,</L>
+<L>Those two which then were there present</L>
+</LG>
+<LG>
+<L>What nede much talke for to be spent,</L>
+<L>The wedding day away did passe.</L>
+<L>Their frendes also, away they went,</L>
+<L>The bride eke as the custome was,</L>
+<L>Was brought with many a louely las,</L>
+<L>To a chamber most freshlye dight,</L>
+<L>Gysippus then returned as,</L>
+<L>He tould Titus he would that night.</L>
+</LG>
+<LG>
+<L>Then Titus he stept in full light,</L>
+<L>Anon to bed he did prepare,</L>
+<L>The maide assone eke as she might,</L>
+<L>Lay downe by Titus naked bare,</L>
+<L>Not knowing of the subtill stare,</L>
+<L>But thought it had bene Gisippus,</L>
+<L>Then Titus ending all his care,</L>
+<L>Demaunded of her saying thus.</L>
+</LG>
+<LG>
+<L>Sophronia floure of Uenus,</L>
+<L>Do you loue me and not disdayne,</L>
+<L>That in this bargayne betwene vs,</L>
+<L>I shall your husband styll remaine?</L>
+<L>In helth and welth, in ioy and payne?</L>
+<L>Wherewith she smiled all blushinge,</L>
+<L><PB REF="11">
+Her maydenhode lyke to refrayne,</L>
+<L>With eyes half laughing, half murning.</L>
+</LG>
+<LG>
+<L>To his reqnestes she affirminge,</L>
+<L>Eftsone he asked her also,</L>
+<L>Yf that she wolde receyue his ringe,</L>
+<L>Anone she dyd consent theretoe,</L>
+<L>Her girlde then he dyd vndoe,</L>
+<L>His ringe he put vpon her hande,</L>
+<L>What elles he dyd, non, but they twoe</L>
+<L>Knewe that, yet this I vnderstande.</L>
+</LG>
+<LG>
+<L>That all the treasure in the lande,</L>
+<L>Could not haue pleased him half so well,</L>
+<L>As dyd the lousinge of the bande,</L>
+<L>Whiche made him suffre paines of hell.</L>
+<L>When morrow came, the truth to tell.</L>
+<L>Gisippus thought expedient.</L>
+<L>That people knew what had befell.</L>
+<L>Wherefore bye his owne appointment.</L>
+</LG>
+<LG>
+<L>For all the noble men he sent,</L>
+<L>Home to his place of habitation,</L>
+<L>Where Titus came for this entent,</L>
+<L>In breake his mynde with an oration,</L>
+<L>And after their good recreation,</L>
+<L>He sayd to them, my deare frendes all, <NOTE PLACE="marg">The ora|tion of Titus to <GAP DESC="illegible" RESP="OXF" EXTENT="1 word"> Ath|<GAP DESC="illegible" RESP="OXF" EXTENT="2 letters">ensis.</NOTE></L>
+<L>Ye no<GAP DESC="illegible" RESP="OXF" EXTENT="3 letters">s of this famous nation,</L>
+<L><HI>A</HI> wondrrous thinge declare I shall.</L>
+</LG>
+<LG>
+<L>What is in Athenes now befall,</L>
+<L><PB REF="11">
+To youre perpetuall prick and prayse&punc;</L>
+<L>Of loue, whose power is misticall,</L>
+<L>Wherefore he ought to take alwayse,</L>
+<L>Great comfort fith in those your dayse,</L>
+<L>Such loue amonge you doth remayne,</L>
+<L>As hath bene seene in no countrayse,</L>
+<L>So well approuid with ease and payne.</L>
+</LG>
+<LG>
+<L>For what more prayse is their certayne,</L>
+<L>Then constance and beneuolence.</L>
+<L>Without who~ no kyngdome may raine,</L>
+<L>Uoyde of muche inconuenience:</L>
+<L>Where constance hath the preminence,</L>
+<L>The countrey is in muche solace,</L>
+<L>Through it they haue alwaye defence,</L>
+<L>And comfort in eche heauye cace.</L>
+</LG>
+<LG>
+<L>What nede I tarye longer space,</L>
+<L>In this contectinge mine entent,</L>
+<L>You know from Rome vnto this place</L>
+<L>I was by my deare parantes sent.</L>
+<L>And streight to Chremes house I went,</L>
+<L>UUhere that I founde by aduenture,</L>
+<L>Gisippus propre and prudent.</L>
+<L>Of mine owne age this is most sure.</L>
+</LG>
+<LG>
+<L>We were so lyke of moode demure,</L>
+<L>That none of his frendes neither mine,</L>
+<L>(It was so harde and so obscure,)</L>
+<L>Coulde say to vs (loe) this is thine,</L>
+<L><PB REF="12">
+But as we shewed by sum sine,</L>
+<L>Oure personages to declare:</L>
+<L>What mutuall loue eight yeares or nine,</L>
+<L>Hath bene betwene vs euery where?</L>
+</LG>
+<LG>
+<L>Ye your owne selfes the witnes are,</L>
+<L>Which haue beheld and sene vs both,</L>
+<L>This to affirme right well I dare,</L>
+<L>Yet certainly I would be loth,</L>
+<L>To speake such thinges should make you wroth,</L>
+<L>But for my part by your licence,</L>
+<L>I will declare the verye troth,</L>
+<L>Desiring you of pacience.</L>
+</LG>
+<LG>
+<L>When that (by diuine prouidence)</L>
+<L>My father dyed who left to me,</L>
+<L>Possessions such, that in expence,</L>
+<L>Few with me mought compared be,</L>
+<L>Beinge eke of so high degre:</L>
+<L>Also I being called home,</L>
+<L>By my frendes whom (right wel knowe ye</L>
+<L>Are of the noblest men in Rome.</L>
+</LG>
+<LG>
+<L>And men also of ripe wisdome&punc;</L>
+<L>Offring me the highest dignitye:</L>
+<L>But when they saw I would not come,</L>
+<L>At their requestes they maruayled why.</L>
+<L>And wild my mother instantlye,</L>
+<L>(To whose beck nature hath me bent)</L>
+<L>In her letters to certifye,</L>
+<L><PB REF="12">
+Me, that therbye I mought relent.</L>
+</LG>
+<LG>
+<L>Whose blotted billes with teares be spe~t,</L>
+<L>Accusing me of vnkindenes,</L>
+<L>For my beinge so longe absent,</L>
+<L>From her, sith she is comfortles,</L>
+<L>I say (in few wordes to expresse)</L>
+<L>Could not withold or pull me back,</L>
+<L>From Gisippus, although riches,</L>
+<L>I was behest neuer to lack.</L>
+</LG>
+<LG>
+<L>But liesier to be clothed with sack</L>
+<L>I had, then parte from such a frende,</L>
+<L>For wordely welth oft windes to wrack,</L>
+<L>But faithfull frendship hath none ende,</L>
+<L>I can not from his presence wende,</L>
+<L>Except he thereto will agre:</L>
+<L>As long as I haue breath to spende,</L>
+<L>His seruaunt gladlye will I be:</L>
+</LG>
+<LG>
+<L>Ye more gladly I promise ye,</L>
+<L>Then of Rome to be the consul,</L>
+<L>My loue requited well hath he,</L>
+<L>In sauinge me from death so dull,</L>
+<L>And of all other most painefull,</L>
+<L>No death that may be so cruell,</L>
+<L>Though one were torne w^e beare or bull,</L>
+<L>No paygnes more dreadfull are in hell.</L>
+</LG>
+<LG>
+<L>You merualle I perceyue right well,</L>
+<L><PB REF="13">
+What personne owth me such malice,</L>
+<L>Or who dare be so ferse and fell,</L>
+<L>To attempt such an enterprice,</L>
+<L>(Reiectinge natures preindice)</L>
+<L>Against me being a Romayne,</L>
+<L>And of the noblest blod certice,</L>
+<L>Who think ye the~ would me haue slaine:</L>
+</LG>
+<LG>
+<L>I perceaue ye would know full faine,</L>
+<L>Who wrought me such cruell dispite,</L>
+<L>It was loue, yea, I tel you plaine,</L>
+<L>Which (as your Poetes do resite)</L>
+<L>Did wound your gods with loues delite, <NOTE PLACE="marg">The dis|cripcion of the mighye poure of loue.</NOTE></L>
+<L>Made Iupiter chaunce his figure,</L>
+<L>Like a bull or swan full white,</L>
+<L>Or to sum other thinges obscure.</L>
+</LG>
+<LG>
+<L>The same loue which (I am full sure)</L>
+<L>Made Hercules spin on a rock,</L>
+<L>Sittinge among maidens demure,</L>
+<L>Wearing next to his skin a smok,</L>
+<L>And vpon that a womans frock,</L>
+<L>Yea though he were so puissaunt,</L>
+<L>That through his strength &amp; sturdy strok,</L>
+<L>He could slay Monstre and Giaunt.</L>
+</LG>
+<LG>
+<L>The same loue which made assemblaunt,</L>
+<L>The Grecien lordes in fieldes of Troy,</L>
+<L>With Geldinges gay, &amp; Glaues gallaunt</L>
+<L>Which did the Traianes sore anoy</L>
+<L><PB REF="13">
+In ten yeres Grekes did them distroy,</L>
+<L>And beate their citye downe to grounde,</L>
+<L>Perpetuallye ended their ioy,</L>
+<L>Their honour neuer shall resounde.</L>
+</LG>
+<LG>
+<L>The same loue I say did me wounde,</L>
+<L>Sodaynlye with such vehemence,</L>
+<L>(Against whose assaultes may be founde,</L>
+<L>No helpe (no comforte nor defence)</L>
+<L>That in shorte space with violence</L>
+<L>Of feruent tourmentes I had died,</L>
+<L>Had not Gysippus resistence,</L>
+<L>The bande of my sorow vntied.</L>
+</LG>
+<LG>
+<L>I se you would faine haue discried,</L>
+<L>Who I so loued: without delaye,</L>
+<L>With truth you shal be certyfied,</L>
+<L>It is (I wyll it not denay)</L>
+<L>Sophronia the lady gay,</L>
+<L>Whom Gisippus had chose to wife,</L>
+<L>And whom he loued I dare say,</L>
+<L>As much as he dyd his owne lyfe.</L>
+</LG>
+<LG>
+<L>But when he sawe that Cupides knife,</L>
+<L>Had hurt me with a healthles bloe,</L>
+<L>Most frendly then, to end my strife,</L>
+<L>Perceauynge (as I trust you doe.)</L>
+<L>That gods prouision wrought it soe,</L>
+<L>Through his deuine almightie grace,</L>
+<L>That she shoulde be my wyfe, wheretoe</L>
+<L><PB REF="14">
+He gladly geuinge roume and place.</L>
+</LG>
+<LG>
+<L>True frendshyp he dyd more enbrace,</L>
+<L>Then womans loue thereto forced,</L>
+<L>And not constrayned by Cupides mace,</L>
+<L>(From whom no way is to be fled)</L>
+<L>As I was, wherefore he graunted</L>
+<L>To me, his right in the damosell,</L>
+<L>And euen I Titus dyd her wed,</L>
+<L>Her shamefastnes I dyd expell.</L>
+</LG>
+<LG>
+<L>I laye with her, this marke ye wel,</L>
+<L>Confirminge the matrimonie.</L>
+<L>At those wordes they began to swell,</L>
+<L>And loked most disdaynefullye,</L>
+<L>Upon Gisippus by and bye.</L>
+<L>Then Titus spake to them sayinge,</L>
+<L>Leaue of your frettinge and furye,</L>
+<L>Leaue youre spitefull menasinge.</L>
+</LG>
+<LG>
+<L>Leaue (I say) your murmuringe,</L>
+<L>Leaue of youre greuous countenaunce,</L>
+<L>For Gisippus hath done nothinge,</L>
+<L>That shalbe to your hinderaunce.</L>
+<L>But your honour he doth aduaunce.</L>
+<L>For well he knew, that he mought finde,</L>
+<L>Another mayden that (perchaunce)</L>
+<L>Mought be more better to his minde.</L>
+</LG>
+<LG>
+<L>But such a frend to him enclind,</L>
+<L>Hauynge respect to myne astate,</L>
+<L><PB REF="14">
+So lyke to him in euery kynde)</L>
+<L>As I was, was not ventilate.</L>
+<L>Also the mayde doth not abate,</L>
+<L>Or take dispergement in her blood,</L>
+<L>For (no dispraise to my deare mate)</L>
+<L>Her mariage nowe is euen as good.</L>
+</LG>
+<LG>
+<L>And better if ye vnderstoode,</L>
+<L>All that doth to me appertayne,</L>
+<L>For I exceade her in liuelood,</L>
+<L>And passe her in possessions playne.</L>
+<L>The noblest men that doth remayne,</L>
+<L>In Rome and in all Italye,</L>
+<L>Did wil myne alyaunce verye vayne,</L>
+<L>Wherefore ye ought to magnifie.</L>
+</LG>
+<LG>
+<L>Gisippus, and be not auctrie</L>
+<L>With him, but to exto (I saye)</L>
+<L>his kindnes towardes me, whereby</L>
+<L>you, and your citie safelye maye</L>
+<L>Be descended, and kept awaye:</L>
+<L>I saye he hath well deserued,</L>
+<L>A monument of golde so gaye,</L>
+<L>To be set vp and honoured.</L>
+</LG>
+<LG>
+<L>His loue ought to be remembred,</L>
+<L>For good that it may to you bringe</L>
+<L>But yf you be not parswaded,</L>
+<L>Deuising anye euyll thinge,</L>
+<L>To him after my departinge,</L>
+<L><PB REF="15">
+I make auowe to the creature,</L>
+<L>And maker of ech thing liuinge,</L>
+<L>That with the inuincible poure.</L>
+</LG>
+<LG>
+<L>Of Romaines, to your dishonour,</L>
+<L>Perpetuall reproch and blame,</L>
+<L>I will resort for his socoure,</L>
+<L>In such wyse that your fatall fame,</L>
+<L>Shall sounde in all greece to your shame.</L>
+<L>Therwith all them that were present,</L>
+<L>Dessembled their malice with game,</L>
+<L>As though they had bene well content.</L>
+</LG>
+<LG>
+<L>Sone after by the appoinctement,</L>
+<L>Of all the Senatours of Rome,</L>
+<L>Titus was sente for to frequent,</L>
+<L>An office fit for such a grome.</L>
+<L>Then he prepared to go home,</L>
+<L>But to depart it did him greue,</L>
+<L>From Gisippus, also to whom,</L>
+<L>He graunted gladly for to geue,</L>
+</LG>
+<LG>
+<L>Halfe of his substaunce to atcheue,</L>
+<L>Onlye to haue his companye.</L>
+<L>But Gisippus did wel perceue,</L>
+<L>How nedefull and necessarye,</L>
+<L>His counsell was to that citye,</L>
+<L>Wherfore he would not therhens wend,</L>
+<L>Although aboue all thinges earthlye,</L>
+<L>He ioyed in Titus his frend.</L>
+</LG>
+<LG>
+<PB REF="15">
+<L>When Titus with his ladye hend,</L>
+<L>UUere gone to Rome for their repast,</L>
+<L>Gysippus ioyes were at an end,</L>
+<L>His frendes and felowship did wast.</L>
+<L>His kinsmen spared not in hast,</L>
+<L>To exclude him from their counsell,</L>
+<L>And did prohibite at the last,</L>
+<L>That he should not in Athenes dwell.</L>
+</LG>
+<LG>
+<L>And yet with this they were not well,</L>
+<L>But (comptinge his loue vaine frendship)</L>
+<L>From all his landes they did him expell,</L>
+<L>Out of his robes they did him whipp,</L>
+<L>And out of Athenes did him whippe,</L>
+<L>Full poorely went Gisippus tho,</L>
+<L>Hauing nought but a stasse and skrippe,</L>
+<L>And nedes a begginge must he go.</L>
+</LG>
+<LG>
+<L>Gysippus wandringe to and fro,</L>
+<L>Could finde no man him to sustaine,</L>
+<L>This was his chaunce, alas for who</L>
+<L>Necessitye did him constr<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">ine.</L>
+<L>Thus late welthye he did remaine,</L>
+<L>And now banished his owne countray,</L>
+<L>Neuer must he come there againe,</L>
+<L>His kind heart brought him to that bay.</L>
+</LG>
+<LG>
+<L>He wandred he wist not which way,</L>
+<L>Lamentably still did he mone,</L>
+<L>He knewe no place where he might stay,</L>
+<L>For hope of helpe he hears of none.</L>
+<L><PB REF="16">
+At last his pleasures past and gone,</L>
+<L>To his greate grefe, he remembred,</L>
+<L>With Titus, for whome he alone,</L>
+<L>Had all those damages suffered.</L>
+</LG>
+<LG>
+<L>To goe to Roome he concluded,</L>
+<L>His euill fortune to declare</L>
+<L>To Titus, whom he supposed</L>
+<L>Would for him sum redres prepare</L>
+<L>So then with hunger cold and care.</L>
+<L>To Roome he ran, through mud &amp; mire,</L>
+<L>When he came thither pore and bare,</L>
+<L>For Titus house he did enquire.</L>
+</LG>
+<LG>
+<L>When he sawe it, he did retire,</L>
+<L>Because it semed so princely,</L>
+<L>He was ashamed to aspire,</L>
+<L>Or in such rayment approch nie,</L>
+<L>But stoode that if Titus came by,</L>
+<L>Himself he mought to him present,</L>
+<L>Thus thinking, he and his ladye</L>
+<L>Came walking forth incontinent.</L>
+</LG>
+<LG>
+<L>Gisippus was so ragd and rent,</L>
+<L>That when Titus did him behold,</L>
+<L>He knew him not, but forth he went,</L>
+<L>Not regarding his garmentes old.</L>
+<L>Gisippus hart was then full cold.</L>
+<L>Thinking that Titus did him hate,</L>
+<L>Because no comfort shew he would,</L>
+<L><PB REF="16">
+To him which stoode so at his gate.</L>
+</LG>
+<LG>
+<L>Then in a sorie simple state,</L>
+<L>Gisippus thence away did trudge.</L>
+<L>Cursinge his chaunce infortunate.</L>
+<L>Oh lord thought he, what ma~ wold iudge</L>
+<L>Titus to haue bene suche a snudge,</L>
+<L>For whome I suffre all this smart.</L>
+<L>Gisippus thus at him did grudge,</L>
+<L>Thinking for euer to depart.</L>
+</LG>
+<LG>
+<L>From Roome, and wander the desert</L>
+<L>As a beast with madnes possest,</L>
+<L>But yet he was well faine to start</L>
+<L>(Being with werines opprest)</L>
+<L>Into an old barne to take rest:</L>
+<L>Where he fallinge flat on the ground,</L>
+<L>Drew out his knife and thought it best,</L>
+<L>To geue himself a deadly wounde.</L>
+</LG>
+<LG>
+<L>But wisdome did his wil so drounde,</L>
+<L>That from that act it did him kepe.</L>
+<L>Until he fell into a sounde,</L>
+<L>Or (as god would, as he did slepe)</L>
+<L>Into a sad and slumbring slepe,</L>
+<L>His knife wherwith he would haue slain</L>
+<L>himself, downe by his side did stepe.</L>
+<L>In the meane time a thefe certaine.</L>
+</LG>
+<LG>
+<L>Which was a commen Ruffian playne:</L>
+<L><PB REF="17">
+And had both robbed and slaine a man,</L>
+<L>Thought in that barne for to remaine,</L>
+<L>To hide him selfe that night. But whan</L>
+<L>He sawe a wretch bewept and wan.</L>
+<L>On slep and a knife by his side,</L>
+<L>He toke the knife, and quicklye than,</L>
+<L>Towardes the dead man, he did glide.</L>
+</LG>
+<LG>
+<L>Into his wound, both depe and wide,</L>
+<L>(Which at that time did freshlye blede)</L>
+<L>He put the knife thinkinge to hide,</L>
+<L>His owne vile acte, and mischeuous dede,</L>
+<L>And brought it all blodye with spede,</L>
+<L>To poore Gysippus where he laye,</L>
+<L>Aslepe, and put it (without drede)</L>
+<L>Into his hand and went his way.</L>
+</LG>
+<LG>
+<L>Sone after whan that it was daye,</L>
+<L>The dead man being founde: anon</L>
+<L>The officers all in araye,</L>
+<L>Made earnest search for the felon,</L>
+<L>And finding in the barne vpon,</L>
+<L>The grounde, a man on slepe which ha<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter"></L>
+<L>A blody knife: suspection</L>
+<L>They had, thinking him to be mad.</L>
+</LG>
+<LG>
+<L>And waked him of his slepe so bad,</L>
+<L>Saying arise thou murderarre,</L>
+<L>With that Gysippus was right glad,</L>
+<L>Thinking his death not to be farre.</L>
+<L><PB REF="17">
+Before thy Senate to the barre,</L>
+<L>They brought him to haue his iudgeme~t</L>
+<L>With billes and battes like men of war,</L>
+<L>Yet he (poore soule) was innocent.</L>
+</LG>
+<LG>
+<L>Titus at that time was present</L>
+<L>Who beholding Gisippus well,</L>
+<L>Lept from the bench incontinent.</L>
+<L>And downe vpon his knees he fell</L>
+<L>Sayinge geue eare what I shall tell</L>
+<L>Ye nobles all, and then discus,</L>
+<L>This haynous murther so cruell</L>
+<L>Committed was, by me Titus.</L>
+</LG>
+<LG>
+<L>For old malice (the truth is thus)</L>
+<L>Which I a longe time did him owe,</L>
+<L>For thinges that haue bene betwene vs,</L>
+<L>This straunger (as ye may well knowe,</L>
+<L>Is desperate (god knoweth howe)</L>
+<L>And doth this act gladly expresse</L>
+<L>His care with deth to ouerthrowe,</L>
+<L>Yet certainlye he is giltlesse:</L>
+</LG>
+<LG>
+<L>Reward me for my wickednes,</L>
+<L>For I it is that ought to dye.</L>
+<L>Gisippus did again profes,</L>
+<L>(Seing Titus was contrary</L>
+<L>To his aspecte) and still did crye.</L>
+<L>To the Senatours to proceade,</L>
+<L><PB REF="18">
+In sudgement on him bie and by,</L>
+<L>For I said he haue done the dede.</L>
+</LG>
+<LG>
+<L>Titus denied it in that stede:</L>
+<L>Thus they a long time did contend</L>
+<L>Ech of them for the others mede:</L>
+<L>Who for thoffence should his life ende,</L>
+<L>Abundantlye teares they did spend,</L>
+<L>The Senatours abashed were,</L>
+<L>None wist whereof it did depende,</L>
+<L>That those two such frendship did beare.</L>
+</LG>
+<LG>
+<L>The very these, bichaunce was there,</L>
+<L>Amid the prease that time standinge,</L>
+<L>Who when he heard with snob and teare</L>
+<L>Those two personnes thus disputinge.</L>
+<L>Which both were giltles of the thinge:</L>
+<L>His heart could not make his tong slake,</L>
+<L>To kepe truth from discoueringe,</L>
+<L>Wherfore quite through y^e prease he brak.</L>
+</LG>
+<LG>
+<L>Before the Senate thus he spake,</L>
+<L>Most noble fathers euery one, <NOTE PLACE="marg">The con|fession of the these.</NOTE></L>
+<L>I am approched peace to make:</L>
+<L>I am knowen to be a persone.</L>
+<L>Whiche haue manye bie theft vndone,</L>
+<L>Titus you knowe assuredlye,</L>
+<L>Pleasure in malice he hath none,</L>
+<L>But is of much simplisitie:</L>
+</LG>
+<LG>
+<PB REF="18">
+<L>This straunger eke which standeth by,</L>
+<L>Semeth to be with care compact,</L>
+<L>And disperate god knoweth why,</L>
+<L>His wittes from him being subtract:</L>
+<L>They both are gilties of this acte,</L>
+<L>The truth plainly I will disclose,</L>
+<L>I did that most vngracious fact,</L>
+<L>The man from his life to depose.</L>
+</LG>
+<LG>
+<L>I smot him that he neuer rose,</L>
+<L>Then to the barne Iran full right,</L>
+<L>Thinking to hide me from my foes:</L>
+<L>But when I sawe this wofull wight,</L>
+<L>A slepe, thinking myselfe to quight</L>
+<L>A policy I thought full good</L>
+<L>I tooke his knife, and did it dight,</L>
+<L>Both hafte &amp; blade, in the mannes blood.</L>
+</LG>
+<LG>
+<L>When I had done, in that mad woode,</L>
+<L>I brought his blodye knife agayne,</L>
+<L>This feate my reason vnderstode</L>
+<L>Was best your iudgement to refrayne.</L>
+<L>But concience now, doth me constrayne,</L>
+<L>To put the giltlesse out of dout,</L>
+<L>At your iugdement, will I remaine</L>
+<L>Abiding death, though it be stout.</L>
+</LG>
+<LG>
+<L>The Senate then and all the rout,</L>
+<L>Reioyced and toke good comfort,</L>
+<L><PB REF="19">
+In all the court, there was a shout,</L>
+<L>Ther neuer was a gladder sort,</L>
+<L>To make the tale, more brefe and shorte,</L>
+<L>Gysippus was, discouered,</L>
+<L>Titus did their frendshippe report,</L>
+<L>The felon, he was pardoned.</L>
+</LG>
+<LG>
+<L>Titus beinge aduertised</L>
+<L>Of his most deare frendes banishment,</L>
+<L>He vowed to be auenged,</L>
+<L>On Athenes yer long time were spent,</L>
+<L>So then he tooke incontinent,</L>
+<L>His frend Gysippus with him home,</L>
+<L>Where that the lady excellent,</L>
+<L>Most louingly, bad him welcome.</L>
+</LG>
+<LG>
+<L>His fame was spred throughout al Rome</L>
+<L>With reuerence, and with honoure,</L>
+<L>For his frendship, and his wisdome,</L>
+<L>And for his louely behauioure:</L>
+<L>Titus beinge a Senatoure,</L>
+<L>With assistince, he did prepare,</L>
+<L>A mightye armie to sucoure</L>
+<L>His frend and to aduenge his care.</L>
+</LG>
+<LG>
+<L>To Athenes ferslye he did fare,</L>
+<L>With all his souldiours on a thronge,</L>
+<L>On his frendes foes he did not spare,</L>
+<L>But with a courage stoute and stronge,</L>
+<L><PB REF="19">
+Requited al Gisippus wronge,</L>
+<L>Restoringe him his goodes certayne</L>
+<L>Stablishinge him, his frendes amonge</L>
+<L>And so returned to Roome agayne.</L>
+</LG>
+<CLOSER>FINIS. <SIGNED>QVOD EDWARDE LEWICK.</SIGNED></CLOSER>
+</DIV1>
+</BODY>
+<BACK>
+<DIV1 TYPE="colophon">
+<P>Imprinted at London by Thomas Hacket, and are to be solde at hys shop in Lumbarde streete.</P>
+</DIV1>
+</BACK>
+</TEXT>
+</EEBO>
+</ETS>

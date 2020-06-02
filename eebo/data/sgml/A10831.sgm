@@ -1,0 +1,2280 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD EEBOPROOF 2.0//EN">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-08-13</DATE>
+<RESPSTMT>
+<NAME>Judith Siefring</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TYPEs to DIVs in order to validate. Proofed title page(s). Checked for N=""s. Checked for GROUP tags. Checked ^s. Reviewed structure. Checked division-marking material at heads and feet of divisions (HEADS, etc.). Checked for signatures. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected 16 $s and $$word$$s etc. of 444. Converted 428 $$s to GAP DESC="illegible" RESP="apex". Checked spacing of foreign GAPs. Checked for EPIGRAPHs and ARGUMENTs. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs, endqs, oes, q;s, and Qs. Checked proofsheets and made corrections found there. Checked for CLOSERs, TRAILERs, and BYLINEs. Checked for missing page GAPs. DONE.</ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="OX" ID="A10831">
+<STC T="S">21105</STC>
+<BIBNO T="umi">99846051</BIBNO>
+<VID>10989</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1">
+<PB REF="1">
+<PB REF="2">
+<PB REF="2" MS="y">
+<PB REF="3" MS="y">
+<PB REF="3">
+<P>A Handefull of pleasant delites, Containing sundrie new Sonets <HI>and delectable Histories, in</HI> diuers kindes of Meeter. Newly deuised to the newest tunes <HI>that are now in vse, to be sung:</HI> euerie Sonet orderly pointed to his proper Tune. <HI>With new additions of certain Songs,</HI> to verie late deuised Notes, not commonly knowen, nor vsed heretofore,</P>
+<P><HI>By</HI> Clement Robinson, and diuers others.</P>
+<P>&para; AT LONDON Printed by Richard Ihones: dwel|ling at the signe of the Rose and Crowne, neare Holburne Bridge 1584.</P>
+</DIV1>
+<DIV1 TYPE="printer to the reader">
+<PB REF="4">
+<HEAD>The Printer to the Reader.</HEAD>
+<LG>
+<L>YOu that in Musicke do delight your minds for to solace:</L>
+<L>This little booke of Sonets m<GAP DESC="illegible" REASON="in gutter" EXTENT="2 letters"> wel like you in that case,</L>
+<L>Peruse it wel ere you passe by, here may you wish and haue,</L>
+<L>Such pleasaut songs to ech new tune, as lightly you can craue.</L>
+<L>Or if fine Histories you would reade, you need not far to seek:</L>
+<L>Within this booke such may you haue, as Ladies may wel like.</L>
+<L>Here may you haue such pretie thinges, as women much desire:</L>
+<L>Here may you haue of sundrie sorts, such Songs as you require.</L>
+<L>Wherefore my friend, if you regard, such Songs to reade or heare:</L>
+<L>Doubt not to buy this pretie Booke, the price is not so deare.</L>
+</LG>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="poem">
+<PB REF="4">
+<HEAD>A Nosegaie alvvaies sweet, for Louers to send for Tokens, of loue, at Newyeres tide, or for fairings, as they in their minds shall be disposed to write.</HEAD>
+<LG>
+<L>A Nosegaie lacking flowers fresh, to you now I do send.</L>
+<L>Desiring you to look thereon, when that you may intend:</L>
+<L>For flowers fresh begin to fade, and <HI>Boreas</HI> in the field,</L>
+<L>Euen with his hard con<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">ealed frost, no better flowers doth y&eacute;eld:</L>
+</LG>
+<LG>
+<L>&para; But if that winter could haue sprung, a sw&eacute;eter flower than this,</L>
+<L>I would haue sent it presently to you withouten misse:</L>
+<L>Accept this then as time doth serue, be thankful for the same,</L>
+<L>Despise it not, but k&eacute;ep it well, and marke ech flower his name.</L>
+</LG>
+<LG>
+<L>&para; <HI>Lauander</HI> is for louers true, which euermore be faine:</L>
+<L>Desiring alwaies for to haue, some pleasure for their pain:</L>
+<L>And when that they obtained haue, the loue that they require,</L>
+<L>Then haue they al their perfect ioie, and quenched is the fire.</L>
+</LG>
+<LG>
+<PB REF="5">
+<L>&para; <HI>Rosemarie</HI> is for remembrance, betw&eacute;ene vs daie and night:</L>
+<L>Wishing that I might alwaies haue, you present in my sight.</L>
+<L>And when I cannot haue, as I haue said before.</L>
+<L>Then <HI>Cupid</HI> with his deadly dart, doth wound my heart full sore.</L>
+</LG>
+<LG>
+<L>&para;Sage is for sustenance, that should mans life sustaine,</L>
+<L>For I do stil lie languishing, continually in paine,</L>
+<L>And shall do stil vntil I die, except thou fauour show:</L>
+<L>My paine and all my greeuous smart, ful wel you do it know.</L>
+</LG>
+<LG>
+<L>&para;<HI>Fenel</HI> is for flaterers, an euil thing it is sure:</L>
+<L>But I haue alwaies meant truely, with constant heart most pure:</L>
+<L>And will continue in the same, as long as life doth last,</L>
+<L>Still hoping for a ioiful daie, when all our paines be past.</L>
+</LG>
+<LG>
+<L>&para;<HI>Violet</HI> is for faithfulnesse, which in me shall abide:</L>
+<L>Hoping like wise that from your heart, you wil not let it slide.</L>
+<L>And wil continue in the same, as you haue nowe begunne:</L>
+<L><PB REF="5">And then for euer to abide, then you my heart haue wonne.</L>
+</LG>
+<LG>
+<L>&para;<HI>Time</HI> is to trie me, as ech be tried must,</L>
+<L><GAP DESC="illegible" RESP="apex" EXTENT="3+ letters">ting you know while life doth last, I wil not be vniust,</L>
+<L>And if I should I would to God, to hell my soule should beare.</L>
+<L>And eke also that <HI>Belzebub,</HI> with t&eacute;eth he should me teare.</L>
+</LG>
+<LG>
+<L>&para;<HI>Roses</HI> is to rule me. with reason as you will,</L>
+<L>For to be still obedient, your minde for to fulfill:</L>
+<L>And thereto will not disagr&eacute;e, in nothing that you say:</L>
+<L>But will content your mind truely, in all things that I may.</L>
+</LG>
+<LG>
+<L>&para;<HI>Ieliflowers</HI> is for gentlenesse, which in me shall remaine:</L>
+<L>Hoping that no sedition shal, depart our hearts in twaine.</L>
+<L>As soone the sunne shal loose his course, the moone against her kinde,</L>
+<L>Shall haue no light, if that I do once put you from my minde.</L>
+</LG>
+<LG>
+<L>&para;<HI>Carnations</HI> is for gratiousnesse, marke that now by the way,</L>
+<L>Haue no regard to flatterers, nor passe not what they say.</L>
+<L><PB REF="6">For they will come with lying tales, your eares for to fulfil:</L>
+<L>In anie case do you consent, nothing vnto their wil.</L>
+</LG>
+<LG>
+<L>&para;<HI>Marigolds</HI> is for marriage, that would out minds suffise,</L>
+<L>Least that suspition of vs twaine, by anie meanes should rise:</L>
+<L>As for my part, I do not care, my self I wil stil vse.</L>
+<L>That all the women in the world, for you I will refuse.</L>
+</LG>
+<LG>
+<L>&para;<HI>Peniriall</HI> is to print your loue, so d&eacute;ep within my heart:</L>
+<L>That when you look this Nosegay on, my pain you may impart,</L>
+<L>And when that you haue read the same, consider wel my wo,</L>
+<L>Think ye then how to recompence, euen him that loues you so.</L>
+</LG>
+<LG>
+<L>&para; <HI>Cowsloppes</HI> is for counsell, for secrets vs betw&eacute;en,</L>
+<L>That none but you and I alone, should know the thing we meane:</L>
+<L>And if you wil thus wisely do, as I think to be best:</L>
+<L>Then haue you surely won the field, and set my heart at rest.</L>
+<L>I pray you k&eacute;ep this Nosegay wel, and set by it some store:</L>
+<L><PB REF="6">And thus farewel, the Gods thee guide, both now and euermore.</L>
+<L>Not as the common sort do vse, to set it in your brest:</L>
+<L>That when the smel is gone away, on ground he takes his rest.</L>
+</LG>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+<DIV1 TYPE="poem">
+<HEAD>L. Gibsons Tantara, wherin Danea wel|commeth home her Lord Diophon fro~ the war.</HEAD>
+<OPENER>To the tune of, Down right Squire.</OPENER>
+<SP>
+<LG>
+<L>YOu Lordings, cast off your w&eacute;edes of wo</L>
+<L>me thinks I heare</L>
+<L>A tru~pet shril which plain doth show</L>
+<L>my Lord is neare:</L>
+<L>Tantara&punc;tara tantara,</L>
+<L>this trumpet glads our hearts,</L>
+<L>Therefore to welcome home your King,</L>
+<L>you Lordings plaie your parts,</L>
+<L> Tantara tara tantara, &amp;c.</L>
+</LG>
+<LG>
+<L>&para; Harke harke, me thinkes I heare again,</L>
+<L>this trumpets voice,</L>
+<L>He is at hand this is certaine,</L>
+<L>wherefore reioice.</L>
+<L>Tantara tara tantara, &amp;c.</L>
+<L>this trumpet still doth say,</L>
+<L>With trumpets blast, all dangers past,</L>
+<L>doth shew in Marshall ray.</L>
+</LG>
+<LG>
+<PB REF="7">
+<L>&para;A ioifull sight my hearts delight,</L>
+<L>my <HI>Diophon</HI> d&eacute;ere:</L>
+<L>Thy comely grace, I do embrace,</L>
+<L>with ioiful ch&eacute;ere:</L>
+<L>Tantara tara tantara,</L>
+<L>what pleasant sound is this,</L>
+<L>Which brought to me with victorie,</L>
+<L>my ioy and onely blisse.</L>
+<L> Tantara tara tantara, &amp;c.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Diophon.</SPEAKER>
+<LG>
+<L>My Qu&eacute;ene and wife, my ioy and life</L>
+<L>in whom I minde:</L>
+<L>In euery part, the trustiest hart,</L>
+<L>that man can finde.</L>
+<L>Tantara tara tantara,</L>
+<L>me thinks I heare your praise,</L>
+<L>Your vertues race in euerie place,</L>
+<L>which trumpet so doth raise.</L>
+<L> Tantara tara tantara, &amp;c.</L>
+</LG>
+<LG>
+<L>&para; Now welcome home to <HI>Siria</HI> soile,</L>
+<L>from battered field:</L>
+<L>That valiantly thy foes did foile,</L>
+<L>with speare and shield:</L>
+<L>Tantara tara tantara,</L>
+<L>me thinks I heare it still,</L>
+<L>Thy sounding praise, abroad to raise,</L>
+<L>with trump that is most shrill, </L>
+<L>Tantara tara tantara, &amp;c.</L>
+</LG>
+<LG>
+<L>&para; If honour and fame, O noble Dame,</L>
+<L>such d&eacute;eds do aske:</L>
+<L><PB REF="7">Then <HI>Diophon</HI> here to purchasr fame,</L>
+<L>hath done this taske:</L>
+<L>Tantara tara tantara,</L>
+<L>returnd he is againe,</L>
+<L>To leade his life, with th&eacute;e his wife,</L>
+<L>in ioie without disdaine.</L>
+<L> Tantara tara tantara, &amp;c.</L>
+</LG>
+</SP>
+<TRAILER>Finis.</TRAILER>
+<CLOSER><SIGNED>L. G.</SIGNED></CLOSER>
+</DIV1>
+<DIV1 TYPE="poem">
+<HEAD>&para; A proper new Song made by a Studient in Cambridge,</HEAD>
+<OPENER>To the tune of I wish to see those happie daies.</OPENER>
+<LG>
+<L>I Which was once a happie wight, and hie in Fortunes grace:</L>
+<L>And which did spend my golden prime, in running pleasures race,</L>
+<L>Am now enforst of late, contrariwise to mourne,</L>
+<L>Since fortune ioies, into annoies, my former state to turne.</L>
+</LG>
+<LG>
+<L>&para; The toiling oxe, the horse, the asse, haue time to take their rest,</L>
+<L>Yea all things else which Nature wrought, sometimes haue ioies in brest:</L>
+<L>Saue onelie I and such which vexed are with paine:</L>
+<L>For still in teares, my life it weares, and so I must remaine.</L>
+</LG>
+<LG>
+<L>&para;How oft haue I in folded armes, enioied my delight,</L>
+<L><PB REF="8">How oft haue I excuses made, of her to haue a sight?</L>
+<L>But now to fortunes wil, I caused am to bow.</L>
+<L>And for to reape a hugie heape, which youthful yeares did sow.</L>
+</LG>
+<LG>
+<L>&para; Wherefore all ye which do as yet, remaine and bide behind:</L>
+<L>Whose eies dame beauties blazing beams, as yet did neuer blind.</L>
+<L>Example let me be, to you and other more:</L>
+<L>Whose heauie hart, hath felt the smart, subdued by <HI>Cupids</HI> lore.</L>
+</LG>
+<LG>
+<L>&para; Take heed of gazing ouer much, on Damsels faire vnknowne:</L>
+<L>For oftentimes the Snake doth lie, with roses ouergrowde:</L>
+<L>And vnder fairest flowers, do noisome Adders lurke:</L>
+<L>Of whom take h&eacute;ed, I th&eacute;e ar&eacute;ed: least that thy cares they worke.</L>
+</LG>
+<LG>
+<L>&para;What though that she doth smile on th&eacute;e, perchance shee doth not loue:</L>
+<L>And though she smack th&eacute;e once or twice, she thinks th&eacute;e so to prooue,</L>
+<L>And when that thou dost thinke, she loueth none but thee:</L>
+<L>She hath in store, perhaps some more, which so deceiued be,</L>
+</LG>
+<LG>
+<PB REF="8">
+<L>&para; Trust not therefore the outward shew beware in anie case:</L>
+<L>For good conditions do not lie, where is a pleasant face:</L>
+<L>But if it be thy chaunce, a louer true to haue:</L>
+<L>Be sure of this, thou shalt not misse, ech thing that thou wilt craue.</L>
+</LG>
+<LG>
+<L>&para; And when as thou (good Reader) shalt peruse this scrole of mine:</L>
+<L>Let this a warning be to thee, and saie a friend of thine,</L>
+<L>Did write thee this of loue, and of a zealous mind:</L>
+<L>Because that he sufficiently, hath tried the female kind.</L>
+</LG>
+<LG>
+<L>&para; Here <HI>Cambridge</HI> now I bid farewell, adue to Students all:</L>
+<L>Adue vnto the Colledges, and vnto <HI>Gunuil</HI> Hall:</L>
+<L>And you my fellowes once, pray vnto <HI>Ioue</HI> that I</L>
+<L>May haue rel&eacute;ef, for this my grief, and sp&eacute;edie remedie.</L>
+</LG>
+<LG>
+<L>&para;And that he shield you euerichone, from Beauties luring looks:</L>
+<L>Whose baite hath brought me to my baine, and caught me from my Books:</L>
+<L>Wherefore, for you, my praier shall be, to send you better grace,</L>
+<L><PB REF="9">That modestie with honestie, may guide your youthfull race.</L>
+</LG>
+<TRAILER>Finis </TRAILER>
+<CLOSER><SIGNED>quod Thomas Richardson, sometime Student in Cambridge.</SIGNED></CLOSER>
+</DIV1>
+<DIV1 TYPE="poem">
+<ARGUMENT>
+<L>&para; The scoffe of a Ladie, as pretie as may be,</L>
+<L> to a yong man that went a wooing:</L>
+<L>He we~t stil about her, &amp; yet he we~t without her,</L>
+<L> because he was so long a dooing.</L>
+</ARGUMENT>
+<LG>
+<L>ATtend th&eacute;e, go play th&eacute;e,</L>
+<L>Sw&eacute;et loue I am busie:</L>
+<L> my silk and twist is not yet spun:</L>
+<L>My Ladie will blame me,</L>
+<L>If that the send for me,</L>
+<L> and find my worke to be vndun:</L>
+<L> How then?</L>
+<L>How shall I be set me?</L>
+<L>To say loue did let me?</L>
+<L>Fie no, it will not fit me,</L>
+<L>It were no scuse for me.</L>
+</LG>
+<LG>
+<L>&para; If loue were attained,</L>
+<L>My ioies were vnfained,</L>
+<L> my seame and silke wil take no hold:</L>
+<L>Oft haue I b&eacute;ene warned,</L>
+<L>By others proofe learned:</L>
+<L> hote wanton loue soone waxeth cold,</L>
+<L> Go now:</L>
+<L>I say go pack th&eacute;e,</L>
+<L>Or my n&eacute;edle shal prick th&eacute;e:</L>
+<L><PB REF="9">Go s&eacute;eke out Dame Idle:</L>
+<L>More fit for thy bridle,</L>
+<L>More fit for thy bridle.</L>
+</LG>
+<LG>
+<L>&para; Wel worthie of blaming,</L>
+<L>For thy long detaining, </L>
+<L>all vaine it is that thou hast done:</L>
+<L>Best now to be wandring,</L>
+<L>Go vaunt of thy winning,</L>
+<L> and tell thy Dame what thou hast won:</L>
+<L> Say this:</L>
+<L>Then say as I bade th&eacute;e:</L>
+<L>That the little dogge Fancie,</L>
+<L>Lies chaste without moouing,</L>
+<L>And needeth no threatning,</L>
+<L>For feare of wel beating.</L>
+<L>For feare of wel beating.</L>
+</LG>
+<LG>
+<L>&para; The boy is gone lurking,</L>
+<L>Good Ladies be working,</L>
+<L> dispatch a while that we had done,</L>
+<L>The tide will not tarrie,</L>
+<L>All times it doth varie,</L>
+<L>The day doth passe, I s&eacute;e the Sun,</L>
+<L>The frost bites faire flowers,</L>
+<L>Lets worke at due howres,</L>
+<L>Haste, haste, and be merie,</L>
+<L>Till our n&eacute;edles be werie.</L>
+<L>Till our needles be werie,</L>
+</LG>
+<LG>
+<L>&para; Now Ladies be merie,</L>
+<L>Because you are werie:</L>
+<L>leaue worke I say, and get you home,</L>
+<L><PB REF="10">Your businesse is slacking,</L>
+<L>Your louer is packing:</L>
+<L> your answer hath cut off his comb.</L>
+<L> How then?</L>
+<L>The fault was in him sir,</L>
+<L>He <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> it so trim sir,</L>
+<L>Alas poore feelie fellow,</L>
+<L>Make much of thy pillow.</L>
+<L>Make much of thy pillow.</L>
+</LG>
+<TRAILER>Finis.</TRAILER>
+</DIV1>
+<DIV1 TYPE="poem">
+<ARGUMENT>
+<LG>
+<L>An answer as pretie to the scof of his Lady,</L>
+<L> by the yongman that came a wooing,</L>
+<L>Wherein he doth flout her,</L>
+<L> Being glad he went without her,</L>
+<L>Misliking both her and her dooing.</L>
+</LG>
+</ARGUMENT>
+<LG>
+<L>ALas Loue, why chafe ye?</L>
+<L>Why fret ye, why sume ye? to me it seemeth verie strange,</L>
+<L>Me thinks ye misuse me,</L>
+<L>So soone to refuse me,</L>
+<L> vnlesse you hope of better change:</L>
+<L> Wel, wel:</L>
+<L>Wel now, I perceiue ye,</L>
+<L>You are mindful to leaue me:</L>
+<L>Now sure it doth grieue me:</L>
+<L>That I am vnworthie:</L>
+<L>That I am vnworthie.</L>
+</LG>
+<LG>
+<L>&para; I mean not to let ye, nor I can not forget ye</L>
+<L>it wil not so out of my minde:</L>
+<L>My loue is not daintie, I s&eacute;e you haue plenty,</L>
+<L> that set so little by your friend.</L>
+<L><PB REF="10">Goe too spin on now I pray you, I list not to stay,</L>
+<L>I will goe play me:</L>
+<L>I am vnfit for you, &amp;c.</L>
+<L>Leaue off to flout now, &amp; prick on your clout now </L>
+<L>you are a daintie Dame ind&eacute;ed,</L>
+<L>And thogh of your tau~ting, I may make my vaunting</L>
+<L> as bad or worse tha~ I shal speed:</L>
+<L>Sweet heart, though now you forsake it.</L>
+<L>I trust you wil take it:</L>
+<L>and sure I spak it, ss fine as you make it, &amp;c</L>
+<L>Now wil I be trudging, without anie grud|ging</L>
+<L> I am content to giue you ground:</L>
+<L>Good reson doth bind me, to leue you behind me,</L>
+<L> for you are better lost than found:</L>
+<L>To play, go seeke out Dame, pleasure:</L>
+<L>You are a trim treasure,</L>
+<L>Wise women be daintie,</L>
+<L>Of fooles there be plentie, &amp;c.</L>
+</LG>
+<LG>
+<L>&para; If I might aduise ye, few words shuld suf|fice y</L>
+<L>e &amp; yet you shold bestow them wel:</L>
+<L>Maids must be manerly, not ful of scurility,</L>
+<L> wherein I s&eacute;e you do excel,</L>
+<L>Farewel good <HI>Nicibicetur,</HI></L>
+<L>God send you a sw&eacute;eter,</L>
+<L>A lustie lim lifter, you are a trim shifter, &amp;c.</L>
+</LG>
+<TRAILER>Finis.</TRAILER>
+<CLOSER><SIGNED>Peter Picks.</SIGNED></CLOSER>
+</DIV1>
+<DIV1 TYPE="poem">
+<HEAD>&para; Dame Beauties replie to the Louer late at libertie: and now complaineth himselfe to be her captiue, Intituled: Where is the life that late I led.</HEAD>
+<LG>
+<PB REF="11">
+<L>THe life that erst thou ledst my friend, was pleasant to thine eies:</L>
+<L>But now the losse of libertie, thou seemest to despise.</L>
+<L>Where then thou ioiedst thy will, now thou doest grudge in heart:</L>
+<L>Then thou no paine nor grief didst f&eacute;ele, but now thou pinest in smart.</L>
+<L>What mooued thee vnto loue, expresse and tell the same:</L>
+<L>Saue fancie thine, that heapt thy paine, the follie learne to blame.</L>
+</LG>
+<LG>
+<L>&para; For when thou freedome didst enioie, thou gauest thy selfe to ease,</L>
+<L>And letst self-will the ruling beare, thy fancie fond to please:</L>
+<L>Then stealing <HI>Cupid</HI> came, with bow and golden dart:</L>
+<L>He struck the stroke, at pleasure he that now doth&punc; paine thy hart:</L>
+<L>Blame not the Gods of loue, But blame thy self thou maist:</L>
+<L>For fr&eacute;edome was disdaind of thee, and bondage more thou waiest.</L>
+</LG>
+<LG>
+<L>&para; Who list, thou saist. to liue at rest, and freedome to possesse:</L>
+<L>The sight of gorgeous Dames must shun, least loue do them distresse:</L>
+<L>Thou blamest <HI>Cupidoes</HI> craft, who strikes in stealing sort:</L>
+<L><PB REF="11">And sets th&eacute;e midst the princely Dames, of Beauties famous fort:</L>
+<L>And meaning wel thou saiest, as one not bent to loue,</L>
+<L>Then <HI>Cupid</HI> he constrains th&eacute;e y&eacute;eld, as thou thy self canst prooue.</L>
+</LG>
+<LG>
+<L>&para; Faire Ladies lookes in libertie, enlarged not thy paine:</L>
+<L>Ne yet the sight of gorgeous Dames, could cause th&eacute;e thus complaine.</L>
+<L>It was thy self ind&eacute;ed, that causd thy pining woe,</L>
+<L>Thy wanton wil, and idle minde, causd <HI>Cupid</HI> strike the blow:</L>
+<L>Blame not his craft, nor vs that Beauties darlings be,</L>
+<L>Accuse thy selfe to seeke thy rare, thy fancie did agree.</L>
+</LG>
+<LG>
+<L>&para; There is none thou saist, that can more truely iudge the case:</L>
+<L>Than thou that hast the wound receiu'de, by sight of Ladies face.</L>
+<L>Her beautie th&eacute;e bewitcht, thy minde that erst was fr&eacute;e:</L>
+<L>Her corps so comely framd, thou saiest, did force th&eacute;e to agr&eacute;e:</L>
+<L>Thou gauest thy self it s&eacute;emes, her bondman to abide,</L>
+<L>Before that her good willingnesse, of thee were knowen and tride.</L>
+<L><PB REF="12">What iudgement canst thou giue: how dost thou plead thy case:</L>
+<L>It was not she that did th&eacute;e wound, although thou seest her face:</L>
+<L>Ne could her beautie so, inchaunt or vex thy sprites,</L>
+<L>Ne feature hers so comely framde, could weaken so thy wits.</L>
+<L>But that thou mightest haue showile the cause to her ind&eacute;ede,</L>
+<L>Who spares to speak, thy self dost know, doth faile of grace to sp&eacute;ede.</L>
+</LG>
+<LG>
+<L>&para; By this tho<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> safest, thou soughtss y^e means of torments that you beare,</L>
+<L>By this thou wouldest men take heede, and learne of loue to feare:</L>
+<L>For taking holde thou telst, to slie it is too late,</L>
+<L>And no where canst thou shrowd thy self, but Ca<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">e must be thy mate.</L>
+<L>Though loue do pleasure seeme, yet plagues none such there are:</L>
+<L>Therefore all louers now thou <GAP DESC="illegible" RESP="apex" EXTENT="1 word">, of liking to beware.</L>
+</LG>
+<LG>
+<L>&para; Thy self hath sought the meane and way, and none but thou alone:</L>
+<L>Of all the grief and care you beare, as plainely it is showne:</L>
+<L>Then why should men take h&eacute;ed, thy counsell is vnfit:</L>
+<L><PB REF="12">Thou sparedst to speak, and faildst to sp&eacute;ed, thy will had banisht wit.</L>
+<L>And now thou blamest loue, and Ladies faire and fr&eacute;e:</L>
+<L>And better lost than found my frind, your cowards heart we see.</L>
+</LG>
+<TRAILER>Finis.</TRAILER>
+<CLOSER><SIGNED>I.P.</SIGNED></CLOSER>
+</DIV1>
+<DIV1 TYPE="poem">
+<HEAD>A new Courtly Sonet, of the Lady Green sleeues.</HEAD>
+<OPENER>To the new tune of Greensleeues.</OPENER>
+<LG>
+<L><HI>Greensleeues was all my ioy,</HI></L>
+<L><HI>Greensleeues was my delight:</HI></L>
+<L><HI>Greensleeues was my hart of gold,</HI></L>
+<L><HI>And who but Ladie Greensleeues.</HI></L>
+</LG>
+<LG>
+<L>ALas my loue, ye do me wrong,</L>
+<L> to cast me off discurteously:</L>
+<L>And I haue loued you so long,</L>
+<L> Delighting in your companie.</L>
+<L>Gr&eacute;ensl&eacute;eues was all my ioy,</L>
+<L> Gr&eacute;ensl&eacute;eues was my delight:</L>
+<L>Gr&eacute;ensl&eacute;eues was my heart of gold,</L>
+<L> And who but Ladie Gr&eacute;ensl&eacute;eues.</L>
+</LG>
+<LG>
+<L>&para; I haue been readie at your hand, </L>
+<L>to grant what euer you would craue.</L>
+<L>I haue both waged life and land, </L>
+<L>your loue and good will for to haue. </L>
+<L>Gr&eacute;ensl&eacute;eues was all my ioy, &amp;c.</L>
+</LG>
+<LG>
+<L>&para; I bought th&eacute;e kerchers to thy head,</L>
+<L> that were wrought fine and gallantly:</L>
+<L><PB REF="13">
+<GAP DESC="duplicate" EXTENT="1 page">
+<PB REF="13">
+<GAP DESC="duplicate" EXTENT="1 page">
+<PB REF="14">I kep<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> th&eacute;e both at boord and bed, </L>
+<L>Which cost my purse wel fauouredly, </L>
+<L>Gr&eacute;ensl&eacute;eues was al my toie, &amp;c.</L>
+</LG>
+<LG>
+<L>&para; I bought thee peticotes of the best, </L>
+<L>the cloth so fine as fine might be:</L>
+<L>I gaue th&eacute;e iewels for thy chest, </L>
+<L>and all this cost I spent on th&eacute;e. </L>
+<L>Gr&eacute;ensl&eacute;eues was all my ioie, &amp;c.</L>
+</LG>
+<LG>
+<L>&para; Thy smock of silk, both faire and white, </L>
+<L>with gold embrodered gorgeously:</L>
+<L>Thy peticote of Sendall right: a</L>
+<L>nd thus I bought th&eacute;e gladly. </L>
+<L>Gr&eacute;ensl&eacute;eues was all my ioie, &amp;c.</L>
+</LG>
+<LG>
+<L>&para; Thy girdle of gold so red, </L>
+<L>with pearles bedecked sumptuously:</L>
+<L>The like no other lasses had, </L>
+<L>and yet thou wouldst not loue me,</L>
+<L>Greensl&eacute;eues was all my ioy, &amp;c.</L>
+</LG>
+<LG>
+<L>&para; Thy purse and eke thy gay g<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">ilt kniues, </L>
+<L>thy pincase gallant to the eie:</L>
+<L>No better wore the Burgesse wiues, </L>
+<L>and yet thou wouldst not loue me. </L>
+<L>Gr&eacute;ensl&eacute;eues was all my ioy, &amp;c.</L>
+</LG>
+<LG>
+<L>&para; Thy crimson stockings all of silk, </L>
+<L>with golde all wrought aboue the kn&eacute;e,</L>
+<L>Thy pumps as white as was the milk, </L>
+<L>and yet thou wouldst no&punc; loue me.</L>
+<L>Gr&eacute;ensl&eacute;eues was all my ioy, &amp;c.</L>
+</LG>
+<LG>
+<L>&para; Thy gown was of the grossie gr&eacute;en,</L>
+<L>thy sl&eacute;eues of Satten hanging by:</L>
+<L><PB REF="14">Which made th&eacute;e be our haruest Qu&eacute;en,</L>
+<L> and yet thou wouldst not loue me.</L>
+<L> Gr&eacute;ensl&eacute;eues was all my ioy, &amp;c.</L>
+</LG>
+<LG>
+<L>&para; Thy garters fringed with the golde,</L>
+<L> And siluer aglets hanging by,</L>
+<L>Which made thee blithe for to beholde,</L>
+<L> And yet thou wouldst not loue me.</L>
+<L> Gr&eacute;ensl&eacute;eues was all my ioy, &amp;c.</L>
+</LG>
+<LG>
+<L>&para; My gayest gelding I th&eacute;e gaue,</L>
+<L> To ride where euer liked thee,</L>
+<L>No Ladie euer was so braue, </L>
+<L>And yet thou wouldst not loue me.</L>
+<L> Gr&eacute;ensl&eacute;eues was all my ioy, &amp;c.</L>
+</LG>
+<LG>
+<L>&para; My men were clothed all in gr&eacute;en,</L>
+<L> And they did euer wait on th&eacute;e:</L>
+<L>Al this was gallant to be s&eacute;en,</L>
+<L> and yet thou wouldst not loue me.</L>
+<L> Gr&eacute;ensl&eacute;eues was all my ioy, &amp;c.</L>
+</LG>
+<LG>
+<L>&para; They set th&eacute;e vp, they took th&eacute;e downe,</L>
+<L> they serued th&eacute;e with humilitie,</L>
+<L>Thy foote might not once touch the ground,</L>
+<L> and yet thou wouldst not loue me.</L>
+<L> Gr&eacute;ensl&eacute;eues was all my ioy, &amp;c.</L>
+</LG>
+<LG>
+<L>&para; For euerie morning when thou rose,</L>
+<L> I sent th&eacute;e dainties orderly:</L>
+<L>To cheare thy stomack from all woes,</L>
+<L> and yet thou wouldst not loue me.</L>
+<L> Gr&eacute;ensl&eacute;eues was all my ioy, &amp;c.</L>
+</LG>
+<LG>
+<L>&para; Thou couldst desire no earthly thing.</L>
+<L> But stil thou hadst it readily:</L>
+<L><PB REF="15">Me thinks they do resound,</L>
+<L> with doleful tunes, me to lament,</L>
+<L>And in my sl&eacute;ep vnfound, alas,</L>
+<L>Me thinks such dreadful things to passe:</L>
+<L> that out I crie in midst of dreames,</L>
+<L>Wherwith my tears run down as streams,</L>
+<L>O Lord, think I,</L>
+<L>She is not here that should be by:</L>
+<L>What chance is this,</L>
+<L>That I embrace that froward is?</L>
+</LG>
+<LG>
+<L>&para; The Lions noble minde,</L>
+<L>His raging mood (you know) oft staies,</L>
+<L>When beasts do y&eacute;eld by kinde,</L>
+<L>On them (forsooth) he neuer praies:</L>
+<L>Then sithence that I am your thrall,</L>
+<L>To ease my smart on you I call.</L>
+<L>A bloudie conquest is your part,</L>
+<L>To kill so kind a louing heart:</L>
+<L>Alas remorce,</L>
+<L>Or presently I die perforce:</L>
+<L>God grant pitie,</L>
+<L>Within your breast now planted be.</L>
+</LG>
+<LG>
+<L>&para; As nature hath you deckt,</L>
+<L> with worthie gifts aboue the rest,</L>
+<L>So to your praise most great,</L>
+<L>Let pitie dwell within your brest,</L>
+<L>That I may sa<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">e with heart and wil,</L>
+<L>Lo, this is she that might me kil:</L>
+<L>For why&punc; in hand she held the knife,</L>
+<L>And yet (forsooth) she saued my life.</L>
+<L><PB REF="15">Hey-ho, darling:</L>
+<L>With lustie loue, now let vs sing,</L>
+<L>Plaie on, Minstrel,</L>
+<L>My Ladie is mine onelie girle.</L>
+</LG>
+</DIV1>
+<DIV1 TYPE="poem">
+<HEAD>The Historie of Diana and Acteon.</HEAD>
+<OPENER>To the Quarter Braules.</OPENER>
+<LG>
+<L><HI>DIana</HI> and her darlings deare,</L>
+<L>Walkt once as you shall heare:</L>
+<L>Through woods and waters cleare, themselues to play:</L>
+<L>The leaues were gay and green,</L>
+<L>And pleasant to be seen:</L>
+<L>They went the tr&eacute;es betw&eacute;en, i<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> coole aray,</L>
+<L>So long, that at the last they found a place, of waters full cleare:</L>
+<L>So pure and faire a Bath neuer was found many a yeare.</L>
+<L>There shee went faire and gent,</L>
+<L>Her to sport, as was her wonted sort:</L>
+<L>In such desirous sort:,</L>
+<L>Thus g<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">eth the report:</L>
+<L><HI>Diana</HI> dainteously began her selfe therein to bathe</L>
+<L>And her body for to l<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">ue,</L>
+<L>So curious and braue.</L>
+</LG>
+<LG>
+<L>&para; As they in water stood,</L>
+<L>Bathing their liuelie blood:</L>
+<L><HI>Acteon</HI> in the wood, chaunst to come by:</L>
+<L>And vewe<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> their bodies bare,</L>
+<L><PB REF="16">Maruailing what they weare,</L>
+<L>And stil deuoid of care, on them cast his eie:</L>
+<L>But when the Nymphs had perceiued him, aloud then they cried,</L>
+<L>Enclosed her, and thought to hide her skin, which he had spied:</L>
+<L>But too true I tell you,</L>
+<L>She seene was,</L>
+<L>For in height she did passe,</L>
+<L>Ech Dame of her race,</L>
+<L>Harke then <HI>Acteons</HI> case:</L>
+<L>Whe~ Diana did perceue, where <HI>Acteon</HI> did stand,</L>
+<L>She took bowe in her hand,</L>
+<L>And to shoot she began.</L>
+</LG>
+<LG>
+<L>&para; As she began to shoot, <HI>Acteon</HI> ran about,</L>
+<L>To hide he thought no boote, his sights were dim:</L>
+<L>And as he thought to scape,</L>
+<L>Changed was <HI>Acteons</HI> shape,</L>
+<L>Such was vnluckie fate, y&eacute;elded to him:</L>
+<L>For <HI>Diana</HI> brought it thus to passe, and plaied her part,</L>
+<L>So that poore <HI>Acteon</HI> changed was to a <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">ugie Hart,</L>
+<L>And did beare, naught but haire:</L>
+<L>In this change,</L>
+<L>Which is as true as strange,</L>
+<L>And thus did he range,</L>
+<L><PB REF="16">So that his sorrowes importunate,</L>
+<L>Had ended his life incontinent,</L>
+<L>Had not Lady <HI>Venus</HI> grace, Lady Lady,</L>
+<L>Pitied her poore seruants case, My d&eacute;er Ladie.</L>
+</LG>
+<LG>
+<L>&para; For when she saw the torments strong,</L>
+<L>Wherewith the Knight was sore opprest,</L>
+<L>Which he God knowes had suffered long,</L>
+<L>Al through this Ladies mercilesse,</L>
+<L>Of their desires she made exchange, Ladie, Ladie.</L>
+<L>And wrought a myracle most strange, My deer Ladie.</L>
+</LG>
+<LG>
+<L>&para; So that this Ladie faithfully,</L>
+<L>Did loue this Knight aboue all other:</L>
+<L>And he vnto the contrarie,</L>
+<L>Did hate her then aboue all measure,</L>
+<L>And pitifull she did complaine: ladie, ladie.</L>
+<L>Requiring fauour, and might not obtaine. My d&eacute;er ladie.</L>
+</LG>
+<LG>
+<L>&para; But when she saw, that in no case,</L>
+<L>She might vnto his loue attaine:</L>
+<L>And that she could not finde some grace,</L>
+<L>To ease her long enduring paine,</L>
+<L>And y^<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> his hart wold not remoue.</L>
+<L>Without all cure he died for loue, My d&eacute;er. Lady, ladi<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"></L>
+</LG>
+<LG>
+<L>&para; Besides these matters maruelous,</L>
+<L>One other thing I wil you tell:</L>
+<L>Of one whose name was <HI>Narcissus,</HI></L>
+<L>A man whose beautie doth excel&punc;</L>
+<L><PB REF="17">Of natures gifts he had no misse, Lady, lady</L>
+<L>He had y^<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> whole of beauties blisse, My d&eacute;ere.</L>
+</LG>
+<LG>
+<L>&para; So that out of manie a far Countrey,</L>
+<L>I reade of manie a woman faire,</L>
+<L>Did come this <HI>Narcislus</HI> to s&eacute;e,</L>
+<L>Who perished when they came there,</L>
+<L>Through his default I say in fine, lady, lady</L>
+<L>Who vnto loue would not incline. My deer.</L>
+</LG>
+<LG>
+<L>&para; Whose disobedience vnto loue,</L>
+<L>When vnto <HI>Venus</HI> it did appeare.</L>
+<L>How that his hart would not remoue,</L>
+<L>She punisht him as you shal heare:</L>
+<L>A thing most strange forsooth it was, Ladie, Ladie.</L>
+<L>Now harken how it came to posse, My d&eacute;er.</L>
+</LG>
+<LG>
+<L>&para; For when he went vpon a daie,</L>
+<L>With other me in strange disguise,</L>
+<L>Himself forsooth he did aray</L>
+<L>In womans attire of a new deuise,</L>
+<L>And ouer a bridge as he did go. Ladie, ladie.</L>
+<L>In the water he sawe his own shadow, My.</L>
+</LG>
+<LG>
+<L>&para; Which when he did perceiue and see,</L>
+<L>A Ladie faire he saith it s&eacute;emeth:</L>
+<L><GAP DESC="illegible" RESP="apex" EXTENT="1 word"> himself that it was he,</L>
+<L>And iudgde that it was <HI>Dianaes</HI> Nymph,</L>
+<L>Who in the waters in such fashion, Lady, la</L>
+<L>Did vse themselues for recreation, My deer.</L>
+</LG>
+<LG>
+<L>&para; And through the beautie of whose looks,</L>
+<L>Taken he was with such sond desire,</L>
+<L>That after manie humble sutes,</L>
+<L><PB REF="17">Incontinent he did aspire.</L>
+<L>Unto her grace him to refer,</L>
+<L>Trusting y^<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> merrie was in her, My d&eacute;er, &amp;c. Ladie, Ladie</L>
+</LG>
+<LG>
+<L>&para; With armes displaid he took his race,</L>
+<L>And leapt into the riuer there,</L>
+<L>And thought his Ladie to imbrace,</L>
+<L><GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">eing of himselfe, d<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">uoid of feare,</L>
+<L>And there was drownd without redresse, Ladie, Ladie.</L>
+<L>His crueltie rewarded was, with such follie.</L>
+</LG>
+<LG>
+<L>&para; Loe, hereby you may perceiue,</L>
+<L>How <HI>Venus</HI> can, and if she please,</L>
+<L>Her disobedient Subiects grieue,</L>
+<L>And make them drinke their owne disease,</L>
+<L>Wherfore rebel not I you wish Lady, lady.</L>
+<L>Least that your chaunce be worse than <GAP DESC="illegible" RESP="apex" EXTENT="1 word">, if worse may be.</L>
+</LG>
+<TRAILER>Finis.</TRAILER>
+</DIV1>
+<DIV1 TYPE="poem">
+<HEAD>The Louer co~plaineth the losse of his Ladie</HEAD>
+<OPENER>To Cicilia Pauin.</OPENER>
+<LG>
+<L>HEart, what makes th&eacute;e thus to be,</L>
+<L> in extreame heauinesse?</L>
+<L>If care do ca<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">se all thy distresse,</L>
+<L>Why seekest thou not some redresse,</L>
+<L> to ease thy carefulnesse?</L>
+<L>Hath <HI>Cupid</HI> stroke in Uenerie,</L>
+<L>Thy wofull corps in ieoperdie:</L>
+<L> right wel then may I sob and crie,</L>
+<L>Til that my Mistresse <GAP DESC="illegible" RESP="apex" EXTENT="1 word">,  my faith may <GAP DESC="illegible" RESP="apex" EXTENT="1 word"></L>
+<L>Why would I cloake from her presence,</L>
+<L>My loue and faithfull diligence?</L>
+<L><PB REF="18">And cowardly thus to die.</L>
+<L>And cowardly thus to die.</L>
+</LG>
+<LG>
+<L>&para; No, no, I wil shew my woe,</L>
+<L> in this calamitie.</L>
+<L>To her whom Nature shapte so fr&eacute;e:</L>
+<L>With all <HI>Dianaes</HI> chastitie,</L>
+<L> or <HI>Venus</HI> rare beautie:</L>
+<L>Then shall I brace felicitie,</L>
+<L>And liue in all prosperitie.</L>
+<L> then leaue off this woe, let teares go,</L>
+<L> thou shalt embrace thy Ladie deer <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> ioy&punc;</L>
+<L>In these thy armes so louingly,</L>
+<L>As <HI>Paris</HI> did faire <HI>Helenie.</HI></L>
+<L>By force of blinded boy.</L>
+<L>By force of blinded boy.</L>
+</LG>
+<LG>
+<L>&para; If <HI>Venus</HI> would grant vnto me,</L>
+<L> such happinesse:</L>
+<L>As she did vnto <HI>Troylus,</HI></L>
+<L>By help of his friend <HI>Pandarus,</HI></L>
+<L>To <HI>Cre<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">sids</HI> loue who worse,</L>
+<L>Than all the women certainly:</L>
+<L>That euer liued naturally.</L>
+<L>Whose slight falsed faith, the storie saith,</L>
+<L>Did br&eacute;ed by plagues, her great and sore di|stresse,</L>
+<L>For she became so leprosie,</L>
+<L>That she did die in penurie:</L>
+<L>Because she did transgresse.</L>
+<L>Because she did transgresse.</L>
+</LG>
+<LG>
+<L>&para; If she, I saie, wil me regard,</L>
+<L> in this my ieoperdie,</L>
+<L><PB REF="18">I wil shew her fidelitie,</L>
+<L>And eke declare her curtesie,</L>
+<L> to Louers far and nie:</L>
+<L>O heart how happie shouldst thou be,</L>
+<L>When my Ladie doth smile on me:</L>
+<L>Whose milde merie cheare,</L>
+<L>Wil driue away feare,</L>
+<L>Cleane from my brest, and set ioy in y^<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> plac<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"></L>
+<L> when I shall kisse so tenderly:</L>
+<L>Her fingers small and slenderly,</L>
+<L> which doth my heart solace, &amp;c.</L>
+<L>Therefore ye amorous imps who burne</L>
+<L> so stil in <HI>Cupids</HI> fire,</L>
+<L>Let this the force of my retire</L>
+<L>Example be to your desire,</L>
+<L>That so to loue aspire:</L>
+<L>For I did make deniance,</L>
+<L>And set her at defiance:</L>
+<L>Which made me full wo, it chanced so,</L>
+<L>Because I look at my mistresse so coy:</L>
+<L>Therefore, when she is merily</L>
+<L>Disposed, look you curteously:</L>
+<L>Receiue her for your ioy.</L>
+<L>Receiue her for your ioy.</L>
+</LG>
+<TRAILER>Finis.</TRAILER>
+<CLOSER><SIGNED>I. Tomson.</SIGNED></CLOSER>
+</DIV1>
+<DIV1 TYPE="poem">
+<HEAD>The Louer compareth some subtile Suters to the Hunter.</HEAD>
+<OPENER>To the tune of the Painter.</OPENER>
+<LG>
+<L>WHen as the Hunter <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">oeth <GAP DESC="illegible" RESP="apex" EXTENT="1 word">, with <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> in brace.</L>
+<L><PB REF="19">The Hart to hunt, and set about, with wilie trace,</L>
+<L>He doth it more to see and view,</L>
+<L>Her wilinesse (I tell you true.)</L>
+<L>Her trips and skips, now here, now there,</L>
+<L>With squats and flats, which hath no pere.</L>
+</LG>
+<LG>
+<L>&para; More than to win or get the game to beare away:</L>
+<L>He is not greedie of the same, (thus Hunters saie:</L>
+<L>So some men hunt by hote desire,</L>
+<L>To <HI>Venus</HI> Dames, and do require</L>
+<L>With fauor to haue her, or els they wil die,</L>
+<L> they loue her, &amp; prooue her, and wot ye why?</L>
+</LG>
+<LG>
+<L>&para; Forsooth to see her subtilnesse, &amp; wily way,</L>
+<L>Whe~ they (God knows) mean nothing lesse than they do say:</L>
+<L>For when they s&eacute;e they may her win,</L>
+<L>They leaue then where they did begin</L>
+<L>. they pra<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">e and make the matter nice,</L>
+<L>And leaue her in fooles paradice.</L>
+</LG>
+<LG>
+<L>&para; Wherefore of such (good Ladie now) wisely beware,</L>
+<L>Least flinging fancies in their brow, do breed you care:</L>
+<L>And at the first giue them the checke,</L>
+<L>Least they at last giue you the geck,</L>
+<L>And scornfully disdaine ye then,</L>
+<L>In faith there are such kind of men.</L>
+</LG>
+<LG>
+<PB REF="19">
+<L>&para; But Iam none of those ind&eacute;ed,</L>
+<L> bel&eacute;eue me now:</L>
+<L>I am your man if you me n&eacute;ed,</L>
+<L>I make a vow:</L>
+<L>To serue you without doublenesse:</L>
+<L>With feruent heart my owne mistresse,</L>
+<L>Demaund me, commaund me,  what please ye, and whan,</L>
+<L>I wil be stil readie, as I am true <GAP DESC="illegible" RESP="apex" EXTENT="1 word">.</L>
+</LG>
+</DIV1>
+<DIV1 TYPE="poem">
+<HEAD>A new Sonet of Pyramus and Thisbie.</HEAD>
+<OPENER>To the, Downe right Squier.</OPENER>
+<LG>
+<L>YOu Dames (I say) that climbe the mount of <HI>Helicon,</HI></L>
+<L>Come on with me, and giue account, what hath b&eacute;en don:</L>
+<L>Come tell the chaunce ye Muses all, and dolefull newes,</L>
+<L>Which on these Louers did befall, which I accuse.</L>
+<L>In <HI>Babilon</HI> not long agone, a noble Prince did dwell:</L>
+<L>whose daughter bright dimd ech ones sight, so farre she did excel.</L>
+</LG>
+<LG>
+<L>&para; An other Lord of high reuowne, who had a sonne:</L>
+<L>And dwelling there within the towne, great loue begun<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">e:</L>
+<L><HI>Pyramus</HI> this noble Knight,</L>
+<L>I tel you true:</L>
+<L><PB REF="20">Who with the loue of <HI>Thisbie</HI> bright, did cares renue:</L>
+<L>It came to passe, their secrets was, beknowne vnto them both:</L>
+<L>And then in minde, they place do finde, where they their loue vnclothe.</L>
+</LG>
+<LG>
+<L>&para; This loue they vse long tract of time, till it befell:</L>
+<L>At last they promised to m&eacute;et at prime, by <HI>Minus</HI> well:</L>
+<L>Where they might louingly imbrace, in loues delight:</L>
+<L>That he might s&eacute;e his <HI>Thisbies</HI> face, and she his sight&punc;</L>
+<L>In ioyful case, she approcht the place, where she her <HI>Pyramus</HI></L>
+<L>Had thought to viewd, but was renewd, to them most dolorous.</L>
+</LG>
+<LG>
+<L>&para; Thus while she staies for <HI>Pyramus,</HI> there did proc&eacute;ed:</L>
+<L>Out of the wood a Lion fierce, made <HI>Thisbie</HI> dr&eacute;ed:</L>
+<L>And as in haste she fled awaie, her Mantle fine:</L>
+<L>The Lion tare in stead of praie, till that the time</L>
+<L>That <HI>Pyramus</HI> proc&eacute;eded thus, and s&eacute;e how lion tare</L>
+<L>The Mantle this of <HI>Thisbie</HI> his, he <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">esperately doth fare.</L>
+</LG>
+<LG>
+<PB REF="20">
+<L>&para; For why he thought the lion had, faire <HI>Thisbie</HI> slaine.</L>
+<L>And then the beast with his bright blade, he slew certaine:</L>
+<L>Then made he mone and said alas, (O wretched wight)</L>
+<L>Now art thou in a woful case for <HI>Thisbie</HI> bright:</L>
+<L>Oh Gods aboue, my faithfull loue shal neuer faile this n&eacute;ed:</L>
+<L>For this my breath by fatall death, shal weaue <HI>Atropos</HI> thr&eacute;ed.</L>
+</LG>
+<LG>
+<L>&para; Then from his sheathe he drew his blade, and to his hart</L>
+<L>He thrust the point, and life did vade, with painfull smart:</L>
+<L>Then <HI>Thisbie</HI> she from cabin came with pleasure great,</L>
+<L>And to the well apase she ran, there for to treat:</L>
+<L>And to discusse, to <HI>Pyramus</HI> of al her former feares.</L>
+<L>And when slaine she, found him truly, she shed foorth bitter <GAP DESC="illegible" RESP="apex" EXTENT="1 word">.</L>
+</LG>
+<LG>
+<L>&para; When sorrow great that she had made, she took in hand</L>
+<L>The bloudie knife, to end her life, by fatall hand.</L>
+<L>You Ladies all, peruse and s&eacute;e, the faithfulnesse,</L>
+<L><PB REF="21">How these two Louers did agr&eacute;e, to die in distresse:</L>
+<L>You Muses waile, and do not faile, but still do you lament:</L>
+<L>These louers twaine, who with such paine, did die so well content.</L>
+</LG>
+<TRAILER>Finis.</TRAILER>
+<CLOSER><SIGNED>I. Tomson.</SIGNED></CLOSER>
+</DIV1>
+<DIV1 TYPE="poem">
+<HEAD>A Sonet of a Louer in the praise of his lady.</HEAD>
+<OPENER>To Calen o Custure me: sung at euerie lines end.</OPENER>
+<LG>
+<L>WHe~ as I view your comly grace, <HI>Ca. &amp;c</HI></L>
+<L>Your golden haires, your angels face:</L>
+<L>Your azured veines much like the skies,</L>
+<L>Your siluer t&eacute;eth your Christall eies.</L>
+<L>Your Corall lips, your crimson ch&eacute;eks,</L>
+<L>That Gods and men both loue and l&eacute;ekes.</L>
+</LG>
+<LG>
+<L>&para; Your pretie mouth with diuers gifts,</L>
+<L>Which driueth wise men to their shifts:</L>
+<L>So braue, so fine, so trim, so yong,</L>
+<L>With heauenlie wit and pleasant tongue,</L>
+<L>That <HI>Pallas</HI> though she did excell,</L>
+<L>Could frame ne tel a tale so well.</L>
+</LG>
+<LG>
+<L>&para; Your voice so sw&eacute;et, your necke so white,</L>
+<L> your bodie fine and small in sight:</L>
+<L>Your fingers long so nimble be,</L>
+<L>To vtter foorth such harmonie,</L>
+<L>As all the Muses for a space:</L>
+<L>To sit and heare do giue you place.</L>
+</LG>
+<LG>
+<L>&para; Your pretie foot with all the rest,</L>
+<L>That may be seene or may be gest:</L>
+<L><PB REF="21">Doth beare such shape, that beautie may</L>
+<L>Giue place to th&eacute;e and go her way:</L>
+<L>And <HI>Paris</HI> nowe must change his doome,</L>
+<L>For <HI>Venus</HI> lo must giue thee roome.</L>
+</LG>
+<LG>
+<L>&para; Whose gleams doth heat my hart as fier,</L>
+<L>Although I burne, yet would I nier:</L>
+<L>Within my selfe then can I say:</L>
+<L>The night is gone, behold the day:</L>
+<L>Behold the star so cleare and bright,</L>
+<L>As dimmes the sight of <HI>Phoebus</HI> light:</L>
+</LG>
+<LG>
+<L>&para; Whose fame by pen for to discriue,</L>
+<L>Doth passe ech wight that is aliue:</L>
+<L>Then how dare I with boldned face,</L>
+<L>Presume to craue or wish your grace?</L>
+<L>And thus amazed as I stand,</L>
+<L>Not f&eacute;eling sense, nor moouing hand.</L>
+</LG>
+<LG>
+<L>&para; My soule with silence moouing sense,</L>
+<L>Doth wish of God with reuerence,</L>
+<L>Long life, and vertue you possesse:</L>
+<L>To match those gifts of worthinesse,</L>
+<L>And loue and pitie may be spide,</L>
+<L>To be your chief and onely guide.</L>
+</LG>
+</DIV1>
+<DIV1 TYPE="poem">
+<HEAD>&para; A proper Sonet, Intituled, Maid, wil yon marrie.</HEAD>
+<OPENER>To the Blacke Almaine.</OPENER>
+<LG>
+<L>MAid, wil you marie? I pray sir tarie,</L>
+<L>I am not disposed to wed a:</L>
+<L>For he y^<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> shal haue me, wil neuer deny me</L>
+<L> he shal haue my maide~hed a.</L>
+<L>Why then you wil not wed me?</L>
+<L>No sure sire I haue sped me,</L>
+<L><PB REF="22">You must go s&eacute;eke some other wight,</L>
+<L>That better may your heart delight.</L>
+<L>For I am sped I tell you true,</L>
+<L>bel&eacute;eu me it gr&eacute;eus me, I may not haue you,</L>
+<L>To wed you &amp; bed you as a woman shold be</L>
+</LG>
+<LG>
+<L>&para; For if I could, be sure I would,</L>
+<L> consent to your desire:</L>
+<L>I would not doubt, to bring about,</L>
+<L> ech thing you would require:</L>
+<L>But promise now is made,</L>
+<L>Which cannot be staide:</L>
+<L>It is a womans honestie,</L>
+<L>To k&eacute;ep her promise faithfully.</L>
+<L>And so I do meane til death to do.</L>
+<L>Consider and gather, that this is true:</L>
+<L>Choose it, and vse it, the honester you.</L>
+</LG>
+<LG>
+<L>&para; But if you s&eacute;ek, for to misl&eacute;eke,</L>
+<L> with this that I haue done:</L>
+<L>Or else disdaine, that I so plaine</L>
+<L> this talke with you haue begone:</L>
+<L>Farewell I wil not let you,</L>
+<L>He <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> wel that gets you.</L>
+<L>And sure I thinke your other friend,</L>
+<L>Wil prooue a Cuckold in the end:</L>
+<L>But he wil take h&eacute;ed if he be wise,</L>
+<L>To watch you &amp; catch you, with <HI>Argus</HI> eies,</L>
+<L>Besetting and letting your wonted guise.</L>
+</LG>
+<LG>
+<L>&para; Although the Cat doth winke a while,</L>
+<L> yet sure she is not blinde:</L>
+<L><PB REF="22">It is the waie for to beguile,</L>
+<L> the Mice that run behind:</L>
+<L>And if she s&eacute;e them runniug,</L>
+<L>Then straightway she is comming:</L>
+<L>Upon their head she claps her foote,</L>
+<L>To striue with her it is no boote.</L>
+<L>The seelie poore Mice dare neuer play,</L>
+<L>She catcheth and snatcheth them euery day,</L>
+<L>Yet whip they, &amp; skip they, whe~ she is away.</L>
+</LG>
+<LG>
+<L>&para; And if perhaps they fall in trap,</L>
+<L> to death then must they yeeld:</L>
+<L>They were better the~, to haue kept their den</L>
+<L> than straie abroad the field:</L>
+<L>But they that will be ranging,</L>
+<L>Shall soone repent their changing:</L>
+<L>And so shall you ere it be long,</L>
+<L>Wherefore remember well my song:</L>
+<L>And do not snuffe though I be plaine,</L>
+<L>But cherily, merily, take the same.</L>
+<L>For huffing &amp; snuffing deserueth blame.</L>
+</LG>
+<LG>
+<L>&para; For where you say you must obay,</L>
+<L> the promise you haue made,</L>
+<L>So sure as I wil neuer flie,</L>
+<L> from that I haue said:</L>
+<L>Therefore to them I leaue you,</L>
+<L>Which gladly wil receiue you:</L>
+<L>You must go choose some other mate,</L>
+<L>According to your own estate.</L>
+<L>For I do meane to liue in rest,</L>
+<L><PB REF="23">Go s&eacute;ek you, and l&eacute;ek you an other guest,</L>
+<L>And choose him, and vse him, as you like best.</L>
+</LG>
+</DIV1>
+<DIV1 TYPE="poem">
+<HEAD>The ioy of Virginitie:</HEAD>
+<OPENER>to, The Gods of loue</OPENER>
+<LG>
+<L>I Iudge and finde, how God doth minde,</L>
+<L> to furnish, to furnish</L>
+<L> his heauenly throne aboue.</L>
+<L>With virgins pure, this am I sure,</L>
+<L> without misse, without misse:</L>
+<L> with other Saints he doth loue:</L>
+<L>It is allowed as you may reade,</L>
+<L>And eke auowed by <HI>Paul</HI> ind&eacute;ede,</L>
+<L><HI>Virginitie</HI> is accepted, </L>
+<L>a thing high in Gods sight:</L>
+<L>Though marriage is selected,</L>
+<L> a thing to be most right:</L>
+<L> yet must I praise <HI>Virginitie,</HI></L>
+<L>For I would faine a Uirgin be.</L>
+</LG>
+<LG>
+<L>&para; You Uirgins pure, your selues assure,</L>
+<L> and credite, and credite:</L>
+<L> great ioy you shall possesse,</L>
+<L>Which I (God knows) cannot disclose,</L>
+<L> nor spreade it, nor spreade it,</L>
+<L> ne yet by pen expresse.</L>
+<L>Nor halfe the ioies that you shall finde,</L>
+<L>I can not iudge for you assignde:</L>
+<L>When hence your ghost shall y&eacute;elded be, </L>
+<L>into the throne of blisse:</L>
+<L>In chaste and pure Uirginitie,</L>
+<L> for thought or deed y wisse:</L>
+<L>Wher you shal raign, with God on hie</L>
+<L>For euermore eternally.</L>
+</LG>
+<LG>
+<PB REF="23">
+<L>&para; And when doubtlesse, you shal possesse,</L>
+<L> with Iesus, with Iesus,</L>
+<L> these ioies celestiall.</L>
+<L>Then Ladie Fame, wil blaze your name,</L>
+<L> amongst vs, amongst vs,</L>
+<L> which then on earth raigne shal.</L>
+<L>She wil resound in euerie coast,</L>
+<L>By trumpet sound, and wil you boast?</L>
+<L>So that although you do depart</L>
+<L>This mortall life so vaine:</L>
+<L>Your chastitie in euerie heart,</L>
+<L> by memorie shall remaine.</L>
+<L>But hard it is, I saie no more,</L>
+<L>To finde an hundreth in a score.</L>
+</LG>
+<TRAILER>Finis.</TRAILER>
+</DIV1>
+<DIV1 TYPE="poem">
+<HEAD>&para; A warning for Wooers, that they be not ouer hastie, nor deceiued with womens beautie.</HEAD>
+<OPENER>To, Salisburie Plaine.</OPENER>
+<LG>
+<L>YE louing wormes come learne of me</L>
+<L>The plagues to leaue that linked be:</L>
+<L>The grudge, the grief, the gret anoy,</L>
+<L>The fickle faith, the fading ioy:</L>
+<L> in time, take b&eacute;ed,</L>
+<L>In fruitlesse soile sow not thy seed:</L>
+<L> buie not, with cost,</L>
+<L> the thing that y<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">elds but labour lost.</L>
+</LG>
+<LG>
+<L>&para; If <HI>Cupids</HI> dart do chance to light,</L>
+<L>So that affection dimmes thy sight,</L>
+<L>Then raise vp reason by and by,</L>
+<L>With skill thy heart to fortifie</L>
+<L><PB REF="24">Where is a breach,</L>
+<L>Oft times too late doth come the Leach:</L>
+<L>Sparks are put out,</L>
+<L> when fornace flames do rage about.</L>
+</LG>
+<LG>
+<L>&para; Thine owne delay must win the field,</L>
+<L>When lust doth leade thy heart to yeeld:</L>
+<L>When steed is stolne, who makes al fast,</L>
+<L>May go on foot for al his haste:</L>
+<L>In time shut gate,</L>
+<L>For had I wist, doth come too late,</L>
+<L>Fast bind, fast find,</L>
+<L>Repentance alwaies commeth behind.</L>
+</LG>
+<LG>
+<L>&para; The <HI>Syrens</HI> times oft time beguiles,</L>
+<L>So doth the teares of Crocodiles:</L>
+<L>But who so learnes <HI>Vlysses</HI> lore,</L>
+<L>May passe the seas, and win the shore.</L>
+<L>Stop eares, stand fast,</L>
+<L>Through <HI>Cupids</HI> trips, thou shalt him cast:</L>
+<L>Flie baits, shun hookes,</L>
+<L>Be thou not snarde with louely lookes.</L>
+</LG>
+<LG>
+<L>&para; Where <HI>Venus</HI> hath the maisterie,</L>
+<L>There loue hath lost her libertie:</L>
+<L>where loue doth win the victorie,</L>
+<L>The fort is sackt with crueltie.</L>
+<L>First look, then leap,</L>
+<L>In suretie so your shinnes you k&eacute;epe:</L>
+<L>The snake doth sting,</L>
+<L>That lurking lieth with hissing.</L>
+<L>UUhere <HI>Cupids</HI> fort hath made a waie,</L>
+<L>There graue aduise doth beare no swaie,</L>
+<L><PB REF="24">Where Loue doth raigne and rule the roste,</L>
+<L>There reason is exilde the coast:</L>
+<L>Like all, loue none, except ye vse discretion.</L>
+<L>First try, the~ trust, be not deceiued with sinful lust,</L>
+</LG>
+<LG>
+<L>&para; Marke <HI>Priams</HI> sonne, his fond deuise</L>
+<L>When <HI>Venus</HI> did obtaine the price:</L>
+<L>For <HI>Pallas</HI> skil and <HI>Iunoes</HI> strength,</L>
+<L>He chose that bred his bane at length.</L>
+<L>Choos wit, leaue wil, let <HI>Helen</HI> be w^t <HI>Paris</HI> stil:</L>
+<L>Amis goeth al, wher fa~cie forceth fooles to fall.</L>
+</LG>
+<LG>
+<L>&para; Where was there found a happier wight,</L>
+<L>Than <HI>Troylus</HI> was til loue did light?</L>
+<L>What was the end of <HI>Romeus.</HI></L>
+<L>Did he not die like <HI>Piramus</HI></L>
+<L>who baths in blis? let him be mindful of <HI>Iphis</HI></L>
+<L>who s&eacute;eks to plese, may ridde~ be like <HI>Hercules.</HI></L>
+</LG>
+<LG>
+<L>&para; I lothe to tel the p&eacute;euish brawles,</L>
+<L>And fond delights of <HI>Cupids</HI> thrawles,</L>
+<L>Like momish mates of <HI>Midas</HI> mood,</L>
+<L>They gape to get that doth no good:</L>
+<L>Now down, now vp as tapsters vse to tosse y^e Cup</L>
+<L>One br&eacute;edeth ioy, another breeds as great anoy</L>
+</LG>
+<LG>
+<L>&para; Some loue for wealth, and some for hue,</L>
+<L>And none of both these loues are true.</L>
+<L>For when the Mil hath lost hir sailes,</L>
+<L>Then must the Miller lose his vailes:</L>
+<L>Of grasse commeth hay,</L>
+<L>And flowers faire wil soon decay:</L>
+<L>Of ripe commeth rotten,</L>
+<L>In age al beautie is forgotten.</L>
+<L><PB REF="25">Some loueth too hie, and some too lowe,</L>
+<L>And of them both great griefs do grow,</L>
+<L>And some do loue the common sort:</L>
+<L>And common folke vse common sport.</L>
+<L>Looke not too hie,</L>
+<L>Least that a chip fall in thine eie:</L>
+<L>But hie or lowe,</L>
+<L>Ye may be sure she is a shrow.</L>
+</LG>
+<LG>
+<L>&para; But sirs, I vse to tell no tales,</L>
+<L>Ech fish that swims doth not beare scales,</L>
+<L>In euerie hedge I finde not thornes:</L>
+<L>Nor euerie beast doth carrie hornes:</L>
+<L>I saie not so,</L>
+<L>That euerie woman causeth wo:</L>
+<L>That were too broad,</L>
+<L>Who loueth not venom must shun the tode.</L>
+</LG>
+<LG>
+<L>&para; Who vseth still the truth to tel,</L>
+<L>May blamed be though he saie wel:</L>
+<L>Say Crowe is white, and snowe is blacke,</L>
+<L>Lay not the fault on womans backe,</L>
+<L>Thousands were good,</L>
+<L>But few scapte drowning in <HI>Noes</HI> flood:</L>
+<L>Most are wel bent,</L>
+<L>I must say so, least I be shent.</L>
+</LG>
+<TRAILER>Finis.</TRAILER>
+</DIV1>
+<DIV1 TYPE="poem">
+<HEAD>&para; An excellent Song of an outcast Louer.</HEAD>
+<OPENER>To, All in a Garden green.</OPENER>
+<LG>
+<L>MY fancie did I fixe, in faithful forme and frame:</L>
+<L>in hope ther shuld no blustring blast haue power to moue the same.</L>
+</LG>
+<LG>
+<PB REF="25">
+<L>&para; And as the Gods do know, and world can witnesse beare:</L>
+<L>I neuer serued other Saint, nor Idoll other where.</L>
+</LG>
+<LG>
+<L>&para; But one, and that was she, whom I in heart did shrine:</L>
+<L>And made account that pretious pearle, and iewel rich was mine.</L>
+</LG>
+<LG>
+<L>&para; No toile, nor labour great, could wearie me her<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">in:</L>
+<L>For stil I had a <HI>Iasons</HI> heart, the golden fleece io win.</L>
+</LG>
+<LG>
+<L>&para; And sure my sute was hearde, I spent no time in vaine:</L>
+<L>A grant of friendship at her hand, I got to quite my paine.</L>
+<L>With solemne vowe and othe. was knit the True-loue knot,</L>
+<L>And friendly did we treat of loue, as place and time we got.</L>
+</LG>
+<LG>
+<L>&para; Now would we send our sighes, as far as they might go,</L>
+<L>Now would we worke with open signes, to blaze our inward wo.</L>
+</LG>
+<LG>
+<L>&para; Now rings and tokens too, renude our friendship stil,</L>
+<L>And ech deuice that could be wrought, exprest our plaine goodwill,</L>
+<L>True meaning went withall, it cannot be denide:</L>
+<L><PB REF="26">Performance of the promise past, was hopte for of ech side:</L>
+</LG>
+<LG>
+<L>&para; And lookt for out of hand: such vowes did we two make,</L>
+<L>As God himself had present been, record thereof to take.</L>
+</LG>
+<LG>
+<L>&para; And for my part I sweare, by all the Gods aboue,</L>
+<L>I neuer thought of other friend, nor sought for other loue.</L>
+</LG>
+<LG>
+<L>&para; The same consent in her, I saw ful oft appeare,</L>
+<L>If eies could s&eacute;e, or head could iudge, or eare had power to heare.</L>
+</LG>
+<LG>
+<L>&para; Yet loe words are but winde, all other new come guest,</L>
+<L>Hath won her fauour (as I feare) as fancies rise in brest.</L>
+<L>Her friend that wel deserues, is out of countenaunce quite,</L>
+<L>She makes the game to s&eacute;e me shoot, while others hit the white.</L>
+<L>He way wel beat the bush, as manie thousands doo:</L>
+<L>And misse the birds, and haply loose his part of feathers too.</L>
+</LG>
+<LG>
+<L>&para; He hops without the ring, yet daunceth on the trace,</L>
+<L>When some come after soft and faire, a heauie hobling pace.</L>
+</LG>
+<LG>
+<PB REF="26">
+<L>&para; In these vnconstant daies, such troth these women haue:</L>
+<L>As wauering as the aspen leaf they are, so God me sane.</L>
+</LG>
+<LG>
+<L>&para; For no deserts of men are weid, what ere they be:</L>
+<L>For in a mood their minds are led with new delights we s&eacute;e.</L>
+</LG>
+<LG>
+<L>&para; The guiltlesse goeth to wrack, the gorgeous peacocks gay:</L>
+<L>They do est&eacute;em vpon no cause, and turne their friends away.</L>
+</LG>
+<LG>
+<L>&para; I blame not al for one, some flowers grow by the w&eacute;eds,</L>
+<L>Some are as sure as lock and key, and iust of words and deeds.</L>
+</LG>
+<LG>
+<L>&para; And yet of one I waile, of one I crie and plaine:</L>
+<L>And for her sake shall neuer none, so nip my heart againe:</L>
+</LG>
+<LG>
+<L>&para; If for offence or fault, I had b&eacute;en floong at h&eacute;ele:</L>
+<L>The lesse had b&eacute;en my bitter smart, and gnawing greefe I feele.</L>
+</LG>
+<LG>
+<L>&para; But being once reteind, a friend by her consent:</L>
+<L>And after that to be disdaind, when best good will I ment,</L>
+</LG>
+<LG>
+<L>&para; I take it nothing well, for if my power could show,</L>
+<L><PB REF="27">With Larum bel and open crie, the world should throughly know.</L>
+</LG>
+</DIV1>
+<DIV1 TYPE="poem">
+<HEAD>The complaint of a woman Louer,</HEAD>
+<OPENER>To the tune of, Raging loue.</OPENER>
+<LG>
+<L>THough wisdom wold I should refrain,</L>
+<L>My heaped cares here to vnfold:</L>
+<L>Good Ladies yet my inward paine,</L>
+<L>So pricketh me I haue no holde:</L>
+<L>But that I must my griefe bewray,</L>
+<L>Bedewed in teares with doleful tunes,</L>
+<L>That you may heare, and after say,</L>
+<L>Loe, this is she whom loue consumes.</L>
+</LG>
+<LG>
+<L>&para; My grief doth grow by my desire.</L>
+<L>To fancie him that <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">ormes my woe:</L>
+<L>He naught regards my flaming fire,</L>
+<L>Alas why doth he serue me so?</L>
+<L>Whose fained teares I did bel&eacute;eue,</L>
+<L>And wept to heare his wai<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">ing voice,</L>
+<L>But how, alas, too soon I preeue,</L>
+<L>Al men are false, there is no choice.</L>
+</LG>
+<LG>
+<L>&para; Had euer woman such reward,</L>
+<L>At anie time for her goodwill?</L>
+<L>Had euer woman hap so hard,</L>
+<L>So cruelly for loue to spill?</L>
+<L>What paps (alas) did giue him food,</L>
+<L>That thus vnkindly workes my wo?</L>
+<L>What beast is of so cruell moode,</L>
+<L>to hate the hart that loues <GAP DESC="illegible" RESP="apex" EXTENT="1 word">&punc;</L>
+</LG>
+<LG>
+<L>&para; Like as the simple <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> tr<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">e,</L>
+<L>An mourning <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> spend the day.</L>
+<L><PB REF="27">My daily cares night <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">ooth <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">enew,</L>
+<L>To thin<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">e how he did <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> betray:</L>
+<L>And when my weary <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">ommes wol<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> re<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">t,</L>
+<L>My <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> hath dreadfull <GAP DESC="illegible" RESP="apex" EXTENT="1 word">,</L>
+<L>Thus <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> gree<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">es my hart doth <GAP DESC="illegible" RESP="apex" EXTENT="1 word"></L>
+<L>That <GAP DESC="illegible" RESP="apex" EXTENT="1 word">&punc; <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> run down like <GAP DESC="illegible" RESP="apex" EXTENT="1 word">&punc;</L>
+</LG>
+<LG>
+<L>&para; And yet, full oft it dooth me good,</L>
+<L>To <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> the place where he hath beene,</L>
+<L>To kisse the ground whereon he stoode,</L>
+<L>When he (alas) my loue did win.</L>
+<L>To kisse the Bed wheron we laye<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"></L>
+<L>Now may I thinke vnto my paine&punc;</L>
+<L>O <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> place full oft I say:</L>
+<L>Render to me my loue againe,</L>
+</LG>
+<LG>
+<L>&para; But all is lost that may not be,</L>
+<L>Another dooth possesse my right&punc;</L>
+<L>His cruell hart, d<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">sdaineth me,</L>
+<L>New loue hath put the olde, to flight:</L>
+<L>He loues to see my watered eyes,</L>
+<L> and laughes to see how I do pine:</L>
+<L>No words can well my <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">oes comprise,</L>
+<L> alas what griefe is like to mine?</L>
+</LG>
+<LG>
+<L>&para; You comly <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> beware by me,</L>
+<L>To r<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">e sweete words of fickle trust:</L>
+<L>For I may well example <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">e,</L>
+<L>How filed talke oft prooues vniust</L>
+<L>But <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> deceipt <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> to my pay,</L>
+<L>Good Ladyes helpe my <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> <GAP DESC="illegible" RESP="apex" EXTENT="1 word">,</L>
+<L>That you may here and after say:</L>
+<L>Lo<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> this is she whom loue consumes&punc;</L>
+</LG>
+</DIV1>
+<DIV1 TYPE="poem">
+<PB REF="28">
+<HEAD>A proper sonet, Intituled: I smile to see how you deuise.</HEAD>
+<OPENER>To anie pleasant tune.</OPENER>
+<LG>
+<L>I Smile to s&eacute;e how you deuise,</L>
+<L>New masking nets my eies to bleare:</L>
+<L>Your self you cannot so disguise:</L>
+<L><GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">ut as you are, you must appeare.</L>
+</LG>
+<LG>
+<L>&para; your priuie winkes at boord I s&eacute;e,</L>
+<L>And how you set your rouing mind:</L>
+<L>your selfe you cannot hide from me,</L>
+<L>Although I wincke, I am not blind.</L>
+</LG>
+<LG>
+<L>&para; The secret sighs and fained cheare,</L>
+<L>That oft doth paine thy carefull brest:</L>
+<L>To me right plainly doth appeare,</L>
+<L>I s&eacute;e in whom thy hart doth rest.</L>
+</LG>
+<LG>
+<L>&para; And though thou makest a fained vow,</L>
+<L>That loue no more thy heart should nip,</L>
+<L>yet think I know as well as thou,</L>
+<L>The fickle helm doth guide the ship.</L>
+</LG>
+<LG>
+<L>&para; The Salamander in the fire,</L>
+<L>By course of kinde doth bathe his limmes:</L>
+<L>The floting Fish taketh his desire,</L>
+<L>In running streams whereas he swimmes.</L>
+</LG>
+<LG>
+<L>&para; So thou in change dost take delight,</L>
+<L>Ful wel I know thy slipperie kinde:</L>
+<L>In vaine thou s&eacute;emst to dim my sight,</L>
+<L>Thy rowling eies bewraieth thy minde.</L>
+</LG>
+<LG>
+<L>&para; I s&eacute;e him smile <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">hat doth possesse</L>
+<L>Thy loue which once I honoured most:</L>
+<L>If he be wise, he may well gesse,</L>
+<L><GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">hy lo<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">e soon <GAP DESC="illegible" RESP="apex" EXTENT="1 word">, wil soon <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">e <GAP DESC="illegible" RESP="apex" EXTENT="1 word">.</L>
+</LG>
+<LG>
+<PB REF="28">
+<L>&para; And <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">ith thou canst no man intice,</L>
+<L>That he should stil loue thee alone:</L>
+<L>Thy beautie now hath lost her price,</L>
+<L>I see thy sauorie sent is gone.</L>
+</LG>
+<LG>
+<L>&para; Therefore leaue off thy wonted plaie,</L>
+<L>But, as thou art, thou wilt appeare,</L>
+<L>Unlesse thou canst deuise a waie,</L>
+<L>To dark the Sun that shines so cleare.</L>
+</LG>
+<LG>
+<L>&para; And k&eacute;ep thy friend that thou hast won,</L>
+<L>In trueth to him thy loue supplie,</L>
+<L>Least he at length as I haue done,</L>
+<L>Take off thy Belles and let th&eacute;e fl&eacute;e.</L>
+</LG>
+</DIV1>
+<DIV1 TYPE="poem">
+<HEAD>A Sonet of two faithfull Louers, exhorting one another to be constant.</HEAD>
+<OPENER>To the tune of Kypascie.</OPENER>
+<LG>
+<L>THe famous Prince of <HI>Macedon,</HI></L>
+<L> whose wars m<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">rest his worthy <GAP DESC="illegible" RESP="apex" EXTENT="1 word"></L>
+<L>Triumph<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">n not so, when he had won</L>
+<L>By conquest great, immortall fame,</L>
+<L>As I re<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">oice, reioi<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">e,</L>
+<L>For th&eacute;e, my choice, with heart and voic<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">,</L>
+<L>Since thou art mine,</L>
+<L>Whom, long to loue, the Gods assigne.</L>
+</LG>
+<LG>
+<L>&para; Th<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> secret flames of this my loue,</L>
+<L>The stars had wrought ere I was born<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">,</L>
+<L>Whose <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> force my hart doth moue,</L>
+<L>And eke my will so sure hath sworne&punc;</L>
+<L> that Fortunes lore, no more,</L>
+<L> though I therefore, did life abhore:</L>
+<L>Shall neuer make,</L>
+<L>Forgetful dewes my heat to slake.</L>
+</LG>
+<LG>
+<PB REF="29">
+<L>&para; If that I false my faith to the<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">,</L>
+<L>Or seeke <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">o chaunge for any newe:</L>
+<L>If thoughts appeare so ill in me,</L>
+<L>If thou thy life shall iustly <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">ew,</L>
+<L>Such <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> of woe, of woe:</L>
+<L>As friende or <GAP DESC="illegible" RESP="apex" EXTENT="1 word">, might to me showe:</L>
+<L>Be<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">de <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> <GAP DESC="illegible" RESP="apex" EXTENT="1 word"></L>
+<L>Or muste if it may <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">y to man.</L>
+</LG>
+<LG>
+<L>&para; Then let vs ioy in this ou<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">oue:</L>
+<L>In spi<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">e of Fortunes wrath <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> <GAP DESC="illegible" RESP="apex" EXTENT="1 word">:</L>
+<L><GAP DESC="illegible" RESP="apex" EXTENT="1 line">,</L>
+<L>One <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">oue in <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> still appeare:</L>
+<L><GAP DESC="illegible" RESP="apex" EXTENT="1 line"></L>
+<L><HI>Pi<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">sus</HI> <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> my <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">ne <HI>T<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">isbie,</HI></L>
+<L>So thou againe&punc;</L>
+<L><GAP DESC="illegible" RESP="apex" EXTENT="1 line">.</L>
+</LG>
+</DIV1>
+<DIV1 TYPE="poem">
+<HEAD>A proper new Dity Intituled <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> Loue and al his lawes.</HEAD>
+<OPENER>To <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">mber me.</OPENER>
+<LG>
+<L>SUch <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> from thy loue vp<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> y&eacute;elde,</L>
+<L>Such broken <GAP DESC="illegible" RESP="apex" EXTENT="1 word">, such hope <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">sure,</L>
+<L>Thy call <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> hath me <GAP DESC="illegible" RESP="apex" EXTENT="1 word">.</L>
+<L>That I vn<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">th <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">an well i<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">dure:</L>
+<L>But <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> (<GAP DESC="illegible" RESP="apex" EXTENT="1 word">) as I haue <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">use,</L>
+<L>F<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> vpon Loue and all his <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">awes.</L>
+</LG>
+<LG>
+<L>&para; Like <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> and g<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">ue,</L>
+<L><GAP DESC="illegible" RESP="apex" EXTENT="1 word"> St<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">e wa<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">s, k&eacute;ep<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> from his loue,</L>
+<L>And as the <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> <HI><GAP DESC="illegible" RESP="apex" EXTENT="1 word"></HI> <GAP DESC="illegible" RESP="apex" EXTENT="1 word">,</L>
+<L>A thousand <GAP DESC="illegible" RESP="apex" EXTENT="1 word">, for th<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">e I <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">oue,</L>
+<L>Yet thou a <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">uelt <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">igers&punc; <GAP DESC="illegible" RESP="apex" EXTENT="1 word">,</L>
+<L>All <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> the hart, whom thou maist h<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">lp.</L>
+</LG>
+<LG>
+<PB REF="29">
+<L>&para; A craggie <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">ocke, thy Cra<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">e, was,</L>
+<L>And Tigers milke s<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">e was thy foode.</L>
+<L><GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">herby <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">ame Nature br<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">ought to passe,</L>
+<L>That like the Nu<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">se should be thy <GAP DESC="illegible" RESP="apex" EXTENT="1 word">:</L>
+<L><GAP DESC="illegible" RESP="apex" EXTENT="1 word"> and vn<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">inde, <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> and fell,</L>
+<L>to <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> that loues th<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">e well.</L>
+</LG>
+<LG>
+<L>&para; The Cro<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">ile with <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> teares,</L>
+<L>The <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">ot so <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> <GAP DESC="illegible" RESP="apex" EXTENT="1 word">:</L>
+<L>As thou <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> <GAP DESC="illegible" RESP="apex" EXTENT="1 word">.</L>
+<L><GAP DESC="illegible" RESP="apex" EXTENT="1 line"></L>
+<L>that I may <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> <GAP DESC="illegible" RESP="apex" EXTENT="1 word">,</L>
+<L>UUo worth the <GAP DESC="illegible" RESP="apex" EXTENT="1 word">, <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">o loue.</L>
+</LG>
+<LG>
+<L>&para; Si<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> th<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">ast <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> t<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> worke my <GAP DESC="illegible" RESP="apex" EXTENT="1 word"></L>
+<L>And h<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">st <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> will my wealth to way:</L>
+<L>Farewell <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">kinde, I <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">ill keepe <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">acke&punc;</L>
+<L>Such toyes as may my helth decay:</L>
+<L>and <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> will cry as I haue cause.</L>
+<L>Fie vpon Loue and all his lawes.</L>
+</LG>
+</DIV1>
+<DIV1 TYPE="poem">
+<HEAD>The Louer being wound<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> with his <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> beut<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> requireth <GAP DESC="illegible" RESP="apex" EXTENT="1 word"><GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">o</HEAD>
+<OPENER>To the tune of Apelle<GAP DESC="illegible" RESP="apex" EXTENT="1 letter">.</OPENER>
+<LG>
+<L>THe <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> sparkes of th<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">se two eyes,</L>
+<L> my wounded hart hath <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">et on <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> <GAP DESC="illegible" RESP="apex" EXTENT="1 word"></L>
+<L><GAP DESC="illegible" RESP="apex" EXTENT="1 line"></L>
+<L><GAP DESC="illegible" RESP="apex" EXTENT="1 line">,</L>
+<L>with sighs and <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> tears I <GAP DESC="illegible" RESP="apex" EXTENT="1 word"></L>
+<L>my deare on me some pitie han<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">.</L>
+</LG>
+<LG>
+<L>&para; In <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> th&eacute;e, I <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> such ioy,</L>
+<L>As one that sought his quiet rest:</L>
+<L>Untill I felt the <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">oy,</L>
+<L><PB REF="30">Ay <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">lickring in my captiue brest:</L>
+<L>Since that time loe, in d<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">epe dispaire,</L>
+<L>all voide of ioy, my time I weare.</L>
+</LG>
+<LG>
+<L>&para; The wofull prisoner <HI>Palemon.</HI></L>
+<L>And <HI>Troylus</HI> eke kinge <HI>Pyramus</HI> sonne,</L>
+<L>Constrained by loue did neuer mone:</L>
+<L>As I my d&eacute;er for th&eacute;e haue done.</L>
+<L>Let pitie then requite my paines,</L>
+<L>My life and death in th&eacute;e remaines.</L>
+<L>&para; If constant loue may reap<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> his hire,</L>
+<L>And faith vnfained may purchace:</L>
+<L>Great hope I haue to my desire.</L>
+<L>Pour gentle hart wil grant me g<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">ace,</L>
+<L>Til then (my d&eacute;er) in few ward <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> plaine,</L>
+<L>In pensiue thoughts I shall remaine.</L>
+</LG>
+</DIV1>
+<DIV1 TYPE="poem">
+<HEAD>The lamentation of a woman being wrong|fully de<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">med.</HEAD>
+<OPENER>To the tune of Damon &amp; Pi<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">ias.</OPENER>
+<LG>
+<L>YOu Ladies falsly d&eacute;emd, of anie fault or crime:</L>
+<L>Command your pensiue harts to help this <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">olefull tune of mine:</L>
+<L>For spitefull men there are, that faults would fain e<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">pie:</L>
+<L>Alas, what heart would heare their talke, but willingly would die.</L>
+</LG>
+<LG>
+<L>&para; I waile o<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">t times in woe, and curse mine houre of birth,</L>
+<L>Such slanderous pangs do me oppresse, when others ioy in mirth:</L>
+<L><PB REF="30">Belike it was ordaind to be my destinie.</L>
+<L>Alas what heart would heare their talk, &amp;c.</L>
+</LG>
+<LG>
+<L>&para; A thousand good women, haue guiltlesse b&eacute;en accusde:</L>
+<L>For verie spite, although that they, their bodies neuer abusde:</L>
+<L>the godly <HI>Susa~na</HI> accused was falsly alas &amp;c.</L>
+</LG>
+<LG>
+<L>&para; The poisoned <HI>Pancal ier,</HI> ful falsly did accuse</L>
+<L>The good Dutchesse of <HI>Sauoy,</HI> <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">ecause she did refuse.</L>
+<L>To grant vnto his loue, that was so vngodlie. Alas what, &amp;c</L>
+</LG>
+<LG>
+<L>&para; Such false dissembling men, stoong with <HI>Alectos</HI> dart:</L>
+<L>Must needs haue place to spit their spite, vpon some guiltlesse hart:</L>
+<L>Therefore, I must be pleasde, that they triumph on me, Alas, &amp;c.</L>
+</LG>
+<LG>
+<L>&para; Therefore, Lord, I thee pray, the like death downe to send,</L>
+<L>Upon these false suspected men, or else their minds t'amend:</L>
+<L>As thou hast done <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">ofore, vnto these persons thr&eacute;e. Alas what, &amp;c.</L>
+</LG>
+</DIV1>
+<DIV1 TYPE="poem">
+<HEAD>A proper Song, Intituled: Fain wold I haue a pretie thing to giue vnto my Ladie.</HEAD>
+<OPENER>To the tune of lustie Gallant.</OPENER>
+<ARGUMENT>
+<LG>
+<L>&para; Fain would I haue a pretie thing,</L>
+<L> to giue vnto my Ladie:</L>
+<L><PB REF="31">I name no thing, nor I meane no thing,</L>
+<L> But as pretie a thing as may bee.</L>
+</LG>
+</ARGUMENT>
+<LG>
+<L>TWentie iorneyes would I make,</L>
+<L> and twentie waies would hie me,</L>
+<L>To make aduenture for her sake,</L>
+<L> to set so<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">e matter by me:</L>
+<L>But I would <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">aine haue a pretie thing, <GAP DESC="illegible" RESP="apex" EXTENT="1 word">,</L>
+<L>I name nothing, nor I meane nothing, &amp;c.</L>
+</LG>
+<LG>
+<L>&para; Some do long for pretie <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">nackes,</L>
+<L> and some for straunge deuices:</L>
+<L>God send me that my Ladie lackes.</L>
+<L>I care not what the price is, thus <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">aine <GAP DESC="illegible" RESP="apex" EXTENT="1 word"></L>
+</LG>
+<LG>
+<L>&para; Some <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">oe here, and some go there,</L>
+<L> wheare ga<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">es <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">e not geason:</L>
+<L>And I goe gaping euery where,</L>
+<L> but still come out of season. Yet faine, &amp;c.</L>
+</LG>
+<LG>
+<L>&para; I walke the towne, and tread the streete, </L>
+<L>in euery corner seeking:</L>
+<L>The pretie thinge I cannot m&eacute;ete,</L>
+<L> <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">hats for my Ladies liking. Faine, <GAP DESC="illegible" RESP="apex" EXTENT="1 word"></L>
+</LG>
+<LG>
+<L>&para; The Merce<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">s <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">ull me <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">oing by, </L>
+<L>the Silkie wiues say what lacke <GAP DESC="illegible" RESP="apex" EXTENT="1 word"></L>
+<L>The thing you haue not, then say I</L>
+<L> ye foolish f&oacute;oles, go packe <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">e. But fai<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> <GAP DESC="illegible" RESP="apex" EXTENT="1 word"></L>
+</LG>
+<LG>
+<L>&para; It is not all the Silke in Cheape, </L>
+<L>nor all the golden treasure:</L>
+<L>Nor twen<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">e Bushels on a heape,</L>
+<L> <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">o my Ladie <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">e asure. Put <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">aine, &amp;c.</L>
+</LG>
+<LG>
+<L>&para; The Grauers of the golden showes,</L>
+<L> with Iuelles <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">o <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> me.</L>
+<L><PB REF="31">The <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> in the shappes that <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">owes,</L>
+<L> they do nothing but let me: But faine, &amp;c.</L>
+</LG>
+<LG>
+<L>&para; But were it in the wit of man, </L>
+<L>by any meanes to make it.</L>
+<L>I c<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">ld for Money buy it than,</L>
+<L> and say, fai<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">e <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">ake it. Thus, fain, &amp;c.</L>
+</LG>
+<LG>
+<L>&para; O Lady, what <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">ke is this:</L>
+<L> that my <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> willin<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">isse t<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">:</L>
+<L>To finde what pre<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">ie thing it is,</L>
+<L> that my good Lady <GAP DESC="illegible" RESP="apex" EXTENT="1 word">.</L>
+<L>Thus fain wold I haue had this preti thing</L>
+<L> to giue vnto my Ladie <GAP DESC="illegible" RESP="apex" EXTENT="1 word"></L>
+<L><GAP DESC="illegible" RESP="apex" EXTENT="1 line"></L>
+<L> <GAP DESC="illegible" RESP="apex" EXTENT="1 line"></L>
+</LG>
+</DIV1>
+<DIV1 TYPE="poem">
+<HEAD>A proper wooing Song in<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">tuled: Ma<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">de <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> a loue me: ye or no?</HEAD>
+<OPENER>To the tune of the M<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">rchaunts Daug<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">ter went ouer the <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">elde.</OPENER>
+<LG>
+<L>My <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">yde will ye loue me yea or no?</L>
+<L> tell me the trothe, and let me go<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">.</L>
+<L>It can be no <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">esse th<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">n a sinfull deed,</L>
+<L> trust me truely.</L>
+<L>To <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">inger a Louer that lookes to <GAP DESC="illegible" RESP="apex" EXTENT="1 word">,</L>
+<L> in due time <GAP DESC="illegible" RESP="apex" EXTENT="1 word">.</L>
+</LG>
+<LG>
+<L>&para; <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">ou Maids that thinke your <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> as <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">ne,</L>
+<L>As Venus and all the Ma<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">es <GAP DESC="illegible" RESP="apex" EXTENT="1 word"></L>
+<L>The father himselfe whe~ he first made ma~</L>
+<L> trust me truely:</L>
+<L>Made you for his help whe~ the world began</L>
+<L> in due time duely.</L>
+</LG>
+<LG>
+<PB REF="32">
+<GAP DESC="duplicate" EXTENT="1 page">
+<PB REF="32">
+<GAP DESC="duplicate" EXTENT="1 page">
+<PB REF="33">
+<L>&para; Then sith Gods wil was euen so.</L>
+<L>Why should you disdaine you Louer the&punc;</L>
+<L>But rather with a willing heart,</L>
+<L>Loue him truely?</L>
+<L>For in so doing, you do but your part,</L>
+<L>Let reason rule ye.</L>
+</LG>
+<LG>
+<L>&para; Consider (sw&eacute;et) what sighs and sobbes,</L>
+<L>Do nip my heart with cruell throbbes,</L>
+<L>And al (my deer) for the loue of you,</L>
+<L>Trust me truly:</L>
+<L>But I hope that you wil soone mercie show,</L>
+<L>In due time duely.</L>
+</LG>
+<LG>
+<L>&para; If that you do my case well way,</L>
+<L>And show some signe whereby I may</L>
+<L>Haue some good hope of your good grace,</L>
+<L>Trust me truely:</L>
+<L>I count my selfe in a blessed case,</L>
+<L>Let reason rule ye.</L>
+</LG>
+<LG>
+<L>&para; And for my part, whilst I do liue,</L>
+<L>To loue you most faithfully, my ha~d I giue,</L>
+<L>Forsaking all other, for your sw&eacute;et sake,</L>
+<L>Trust me truly:</L>
+<L>In token whereof, my troth I betake,</L>
+<L> to your selfe most duely.</L>
+</LG>
+<LG>
+<L>&para; And though for this time we must depart,</L>
+<L>yet k&eacute;ep you this ring tru token of my hart,</L>
+<L>Til time do serue, we meet againe,</L>
+<L>Let reason rule ye.</L>
+<L>Whe~ an answer of co~fort, I trust to obtain,</L>
+<L>In due time duly.</L>
+<L><PB REF="33">Now must I depart with sighing teares,</L>
+<L>With sobbing heart and burning eares:</L>
+<L>Pale in the face, and faint as I may,</L>
+<L> trust me truly:</L>
+<L>But I hope our next m&eacute;eting, a ioyfull day,</L>
+<L> in due time duly.</L>
+</LG>
+</DIV1>
+<DIV1 TYPE="poem">
+<HEAD>The painefull plight of a Louer oppressed with the beautifull looks of his Lady.</HEAD>
+<OPENER>To the tune of, I loued her ouer wel.</OPENER>
+<LG>
+<L>VVHe~ as thy eies, y^e wretched spies</L>
+<L> did breed my cause of care:</L>
+<L>And sisters thr&eacute;e did full agr&eacute;e,</L>
+<L> my fatall thr&eacute;ed to spare.</L>
+<L>Then let these words ingrauen be,</L>
+<L> on toomb whereas I lie,</L>
+<L>That here lies one whom spiteful loue,</L>
+<L> hath caused for to die.</L>
+</LG>
+<LG>
+<L>&para; Somtimes I spend the night to end,</L>
+<L> in dolors and in woe:</L>
+<L>Somtime againe vnto my pain,</L>
+<L> my chiefest ioy doth grow.</L>
+<L>When as in minde, thy shape I finde,</L>
+<L> as fancie doth me tell:</L>
+<L>Whome nowe I knowe, as proofe, doth show</L>
+<L>I loued th&eacute;e ouer wel.</L>
+</LG>
+<LG>
+<L>&para; How oft within my wreathed arme,</L>
+<L> desired I to folde:</L>
+<L>Thy Christall corps, of whom I ioyed,</L>
+<L> more dearer than of golde,</L>
+<L><PB REF="34">But now dosdaome, dooth breede my paine,</L>
+<L> and thou <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">anst not denie:</L>
+<L>But that I loued th&eacute;e ouer well:</L>
+<L> that caused me to d<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">e.</L>
+<L>The <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> that serut<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters"> his <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> will,</L>
+<L> in <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> here and there&punc;</L>
+<L>The moyling Horse, that labours still,</L>
+<L> his burthen great to <GAP DESC="illegible" RESP="apex" EXTENT="1 word"></L>
+<L>In <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">ew of pain<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">&punc; <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> againe,</L>
+<L> of him which did him owe:</L>
+<L>As Natures heast, <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> and lea<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">t</L>
+<L> them thank of <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> of to show<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">.</L>
+</LG>
+<LG>
+<L>&para; The Lyon and the <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> <GAP DESC="illegible" RESP="apex" EXTENT="1 word">,</L>
+<L> as Nature doth then <GAP DESC="illegible" RESP="apex" EXTENT="1 word">:</L>
+<L>For <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> like loue <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> gaine:</L>
+<L> in Stories <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> finde::</L>
+<L>Those <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> both <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> &amp; <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">ame,</L>
+<L> of <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> <GAP DESC="illegible" RESP="apex" EXTENT="1 word">:</L>
+<L>But thy reply, willis <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> to <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">ie.</L>
+<L> that loued thee ouer <GAP DESC="illegible" RESP="apex" EXTENT="1 word">.</L>
+</LG>
+<LG>
+<L>&para; Therfore, my deare <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> Darling <GAP DESC="illegible" RESP="apex" EXTENT="1 word">,</L>
+<L> ensample <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> <GAP DESC="illegible" RESP="apex" EXTENT="1 word">&punc;</L>
+<L>Which equally wi<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">h <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> <GAP DESC="illegible" RESP="apex" EXTENT="1 word">,</L>
+<L> their louing <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> <GAP DESC="illegible" RESP="apex" EXTENT="1 word"></L>
+<L>And giue him <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> death we</L>
+<L> <GAP DESC="illegible" RESP="apex" EXTENT="1 line"></L>
+<L><GAP DESC="illegible" RESP="apex" EXTENT="1 line"></L>
+<L> which loued <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> <GAP DESC="illegible" RESP="apex" EXTENT="1 word">.</L>
+</LG>
+<LG>
+<L>&para; Then shall thy <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> same,</L>
+<L> where euer that they goe:</L>
+<L><PB REF="34">And wish for ay, as for thy pay,</L>
+<L> all <HI>Nestors</HI> yeares to know:</L>
+<L>And I no lesse then all the rest,</L>
+<L> should wish th&eacute;e health for aye:</L>
+<L>Because thou hast heard my request,</L>
+<L> and saued me from decay.</L>
+</LG>
+</DIV1>
+<DIV1 TYPE="poem">
+<HEAD>A faithfull vow of two constant Louers</HEAD>
+<OPENER>To the new Rogero.</OPENER>
+<LG>
+<L>SHall distance part our loue,</L>
+<L> or daily choice of chaunge?</L>
+<L>Or sprites below, or Gods aboue,</L>
+<L> haue power&punc; to ma<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">e vs straunge:</L>
+</LG>
+<LG>
+<L>&para; No nothing here on earth,</L>
+<L> that kinde hath made or wrought,</L>
+<L>Shall force me to forget.</L>
+<L> goodwill so dearely bought,</L>
+</LG>
+<LG>
+<L>&para; And for my part I vow,</L>
+<L> to serue for terme of life:</L>
+<L>Which promise may compare with her,</L>
+<L> which was <HI>Vlisses</HI> wife.</L>
+</LG>
+<LG>
+<L>&para; Which vow if I <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> breake,</L>
+<L> let vengeance on me fall,</L>
+<L>Eche plague that on the earth may raigne,</L>
+<L>I aske not one, but all.</L>
+</LG>
+<LG>
+<L>&para; Though time may br&eacute;ede suspect,</L>
+<L> to fill your hart with <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">oyes:</L>
+<L>And absence may a <GAP DESC="illegible" RESP="apex" EXTENT="1 word"> breede,</L>
+<L> to let your wished ioyes:</L>
+</LG>
+<LG>
+<L>&para; Yet thinke I haue a <GAP DESC="illegible" RESP="apex" EXTENT="1 word">,</L>
+<L> and honesty to keepe:</L>
+<L><PB REF="35">And weigh the time your loue hath dwelt,</L>
+<L> within my hart so deep.</L>
+</LG>
+<LG>
+<L>&para;And peise the words I spake,</L>
+<L> and marke my countenance then:</L>
+<L>And let not slip no earnest sigh,</L>
+<L> if thou remember can.</L>
+</LG>
+<LG>
+<L>&para; At least forget no teares,</L>
+<L> that trickled downe my face:</L>
+<L>And marke howe oft I wroong your hand,</L>
+<L> and blushed all the space.</L>
+</LG>
+<LG>
+<L>&para;Remember how I sware,</L>
+<L> and strook therewith my brest:</L>
+<L>In witnesse when thou partst me fro,</L>
+<L> my heart with th&eacute;e should rest.</L>
+</LG>
+<LG>
+<L>&para;Thinke on the eger lookes,</L>
+<L> full loth to leaue thy sight,</L>
+<L>That made the signes when that she list,</L>
+<L> to like no other wight.</L>
+</LG>
+<LG>
+<L>&para;If this be out of thought,</L>
+<L> yet call to minde againe,</L>
+<L>The busie sute, the much adoe,</L>
+<L> the labour and the paine,</L>
+</LG>
+<LG>
+<L>&para;That at the first I had,</L>
+<L> <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">re thy good will I gate:</L>
+<L>And think how for thy loue alone,</L>
+<L>I purchase partly hate.</L>
+</LG>
+<LG>
+<L>&para;But all is one with me,</L>
+<L> my heart so setled is:</L>
+<L>No friend, nor foe, nor want of wealth,</L>
+<L> shall neuer hurt in this.</L>
+</LG>
+<LG>
+<PB REF="35">
+<L>&para;Be constant now therefore,</L>
+<L> and faithfull to the end?</L>
+<L>Be carefull how we both may do,</L>
+<L> to be ech others friend.</L>
+</LG>
+<LG>
+<L>&para;Wish fr&eacute;e and cleane consent,</L>
+<L> two hearts in one I knit:</L>
+<L>Which for my part, I vow to k&eacute;ep,</L>
+<L> and promise not to flit,</L>
+</LG>
+<LG>
+<L>&para;Now let this vow be kept,</L>
+<L> exchange thy heart for mine:</L>
+<L>So shal two harts be in one breast,</L>
+<L> and both of them be thine.</L>
+</LG>
+</DIV1>
+<DIV1 TYPE="poem">
+<HEAD>A sorrowfull Sonet,</HEAD>
+<BYLINE>made by M. George Mannington, at Cambridge Castle.</BYLINE>
+<OPENER>To the tune of Labandala Shot.</OPENER>
+<LG>
+<L><HI>I</HI> Waile in wo, I plunge in pain,</L>
+<L>with sorowing sobs, I do complain,</L>
+<L>With wallowing waues I wish to die,</L>
+<L>I languish sore whereas I lie,</L>
+<L>In feare I faint in hope I holde,</L>
+<L>With ruthe I runne, I was too bolde:</L>
+<L>As lucklesse lot assigned me,</L>
+<L> in dangerous dale of destinie:</L>
+<L>Hope bids me smile, Feare bids me w&eacute;ep,</L>
+<L>My s&eacute;elie soule thus Care doth k&eacute;ep,</L>
+</LG>
+<LG>
+<L>&para;Yea too too late I do repent,</L>
+<L> the youthful yeares that I haue spent,</L>
+<L>The retch lesse race of carelesse kinde,</L>
+<L> which hath bewitcht my woful minde.</L>
+<L><PB REF="36">Such is the chaunce, such is the state,</L>
+<L>Of those that trust too much to fate.</L>
+<L>No braggiug boast of gentle blood,</L>
+<L>What so he be, can do thee good:</L>
+<L>No wit, no strength, nor beauties hue,</L>
+<L>No friendly sute can death eschue.</L>
+</LG>
+<LG>
+<L>&para;The dismall day hath had his wil,</L>
+<L>And iustice seekes my life to spill:</L>
+<L>Reuengement craues by rigorous law,</L>
+<L>Whereof I little stood in a we:</L>
+<L>The dolefull doom to end my life,</L>
+<L>Bedect with care and worldlie strife:</L>
+<L>And frowuing iudge hath giuen his doome.</L>
+<L>O gentle death thou art welcome:</L>
+<L>The losse of life, I do not feare.</L>
+<L>Then welcome death, the end of care.</L>
+</LG>
+<LG>
+<L>&para;O prisoners poore, in dungeon d&eacute;ep,</L>
+<L>Which passe the night in slumbring sleep:</L>
+<L>Wel may you rue your youthful race.</L>
+<L>And now lament your cursed cace,</L>
+<L>Content your selfe with your estate,</L>
+<L>I mpute no shame to fickle fate:</L>
+<L>With wrong attempts, increase no wealth,</L>
+<L>Regard the state of prosperous health:</L>
+<L>And think on me, when I am dead:</L>
+<L>Whom such delights haue lewdly led.</L>
+</LG>
+<LG>
+<L>&para;My friend and parents, where euer you be</L>
+<L>Full little do you thinke on me:</L>
+<L>My mother milde, and dame so d&eacute;er:</L>
+<L>Thy louing childe, is fettred h&eacute;er:</L>
+<L><PB REF="36">Would God I had, I wish too late,</L>
+<L>Been bred and borne of meaner estate:</L>
+<L>Or else, would God my rechlesse eare,</L>
+<L>Had b&eacute;en obedient for to heare,</L>
+<L>Your sage aduice and counsel true:</L>
+<L>But in the Lord parents adue.</L>
+</LG>
+<LG>
+<L>&para;You valiant hearts of youthfull train,</L>
+<L>Which heard my heauie heart complain:</L>
+<L>A good example take by me,</L>
+<L>Which runne the race where euer you be:</L>
+<L> trust not too much to bilbow blade,</L>
+<L> nor yet to fortunes fickle trade.</L>
+<L>Hoist not your sailes no more in winde,</L>
+<L>Least that some rocke, you chaunce to finde,</L>
+<L> or else be driuen to <HI>Lybia</HI> land,</L>
+<L> whereas the Barque may sinck in sand.</L>
+</LG>
+<LG>
+<L>&para;You students all that present be,</L>
+<L>To view my fatall destinie,</L>
+<L> would God I could requite your pain,</L>
+<L> wherein you labour, although in vain,</L>
+<L> if mightie God would think it good,</L>
+<L> to spare my life and vitall blood,</L>
+<L><GAP DESC="illegible" REASON="blotted" EXTENT="1+ words">  your profered curtesie,</L>
+<L><GAP DESC="illegible" REASON="blotted" EXTENT="2+ letters">ld remaine most stedfastly,</L>
+<L>Your seruant true in deed and word,</L>
+<L>But welcome death as please the Lord.</L>
+</LG>
+<LG>
+<L>&para;Yea welcome death, the end of woe,</L>
+<L>And farewell life, my fatall soe:</L>
+<L>Yea welcome death, the end of strife,</L>
+<L>Adue the care of mortall life,</L>
+<L><PB REF="37">For though this life doth fl&eacute;et away,</L>
+<L>In heauen I hope to liue for ay:</L>
+<L>A place of ioy and perfect rest,</L>
+<L>Which Christ hath purchaste for the best:</L>
+<L>Til that we m&eacute;et in heauen most hiest:</L>
+<L>Adue, farewell in Iesu Christ.</L>
+</LG>
+</DIV1>
+<DIV1 TYPE="poem">
+<HEAD>A proper Sonet, of an vnkinde Damsell, to to her faithful Louer.</HEAD>
+<OPENER>To, the nine Muses.</OPENER>
+<LG>
+<L>THe ofter that I view and s&eacute;e,</L>
+<L>That pleasant face and faire beautie,</L>
+<L> whereto my heart is bound:</L>
+<L>The n&eacute;er my Mistresse is to me,</L>
+<L>My health is farthest off I see:</L>
+<L> and fresher is my wound:</L>
+<L>Like as the flame doth quench by fire, </L>
+<L>or streams consume by raigne,</L>
+<L>So doth the sight that I desire,</L>
+<L> appease my grief and paine:</L>
+<L>Like a flie that doth hie,</L>
+<L> and haste iuto the fire:</L>
+<L>So in brief, findes her grief,</L>
+<L> that thought to sport aspire.</L>
+</LG>
+<LG>
+<L>&para; When first I saw those Christal <GAP DESC="illegible" RESP="apex" EXTENT="1 word"></L>
+<L>I little thought on beauties beams:</L>
+<L> sw&eacute;et venom to haue found,</L>
+<L>But wilful wil did prick me foorth,</L>
+<L>Perforce to take my grief in woorth,</L>
+<L> that causd my mortall wound:</L>
+<L>And <HI>Cupid</HI> blind compeld me so,</L>
+<L> my fruitlesse hope to hide?</L>
+<L><PB REF="37">Wherein remaind my bitter wo:</L>
+<L> h<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">hus stil he did me guide &punc;</L>
+<L>Then his dart, to my hart,</L>
+<L> he slung with cruell fist:</L>
+<L>Whose poison fel, I know right wel,</L>
+<L> no louer may resist.</L>
+</LG>
+<LG>
+<L>&para; Thus vainly stil, I frame my sute,</L>
+<L>Of ill sowen seeds, such is the frute, </L>
+<L>experience doth it show:</L>
+<L>The fault is hers the pain is mine,</L>
+<L>And thus my sentence I define,</L>
+<L>I hapned on a shrow:</L>
+<L>And now beware, ye yongmen all,</L>
+<L>Example take by m&eacute;e:</L>
+<L>Least beauties bait in <HI>Cupids</HI> thrall, </L>
+<L>do catch you priuily:</L>
+<L>So stay you, I pray you,</L>
+<L> and marke you my great wrong,</L>
+<L>Forsaken, not taken,</L>
+<L> thus end I now my song.</L>
+</LG>
+</DIV1>
+<DIV1 TYPE="poem">
+<HEAD>The Louer complaineth the absence of his Ladie, wisheth for death.</HEAD>
+<OPENER>To, the new Almaine.</OPENER>
+<LG>
+<L>SIth spitefull spite hath spide her time,</L>
+<L> my wished ioies to end:</L>
+<L>And drowping dread hath driuen me now</L>
+<L> from my new chosen friend:</L>
+<L>I can but waile the want,</L>
+<L> of this my former ioie:</L>
+<L>Sith spiteful force hath sought so long,</L>
+<L> my blisse for to annoie.</L>
+</LG>
+<LG>
+<PB REF="38">
+<L>&para; But though it be our chance</L>
+<L> asunder for to be,</L>
+<L>My heart in pawne til we do m&eacute;et,</L>
+<L>Shal stil remaine with thee:</L>
+<L>And then we shall <GAP DESC="illegible" RESP="apex" EXTENT="1 word">,</L>
+<L> our sugred pleasures past:</L>
+<L>And loue that loue, that s&eacute;ekes no change,</L>
+<L> whilst life in vs do last.</L>
+</LG>
+<LG>
+<L>&para; Perhaps my absence may,</L>
+<L> or else some other let:</L>
+<L>By choi<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">e of change, cause th&eacute;e my d&eacute;er,</L>
+<L> out former loue forget:</L>
+<L>And thou renounce the oth,</L>
+<L> which e<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">st thou vowdst to me:</L>
+<L>My d&eacute;erest blood in recompence,</L>
+<L> thou sure s<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">onldst shortly see.</L>
+<L>A thousand sighs to se~d to thee I wil not let,</L>
+<L>Ne to be waile the l<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">sse of thee, I neuer will forget</L>
+<L>But stil suppose I see,</L>
+<L> the same before my face:</L>
+<L>And louingly betw&eacute;en my armes,</L>
+<L> thy corps I do embrace.</L>
+</LG>
+<LG>
+<L>&para; Thus fe<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">d I fancie stil, </L>
+<L>for lacke of greater ioy:</L>
+<L>With such like thoughts, which daily doth,</L>
+<L> my wo<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">ull heart annoy:</L>
+<L> thus stil in hope I liue,</L>
+<L> my wished ioies to haue:</L>
+<L>And in dispaire oft time I wish,</L>
+<L> my feeble Corps in graue.</L>
+</LG>
+<LG>
+<PB REF="38">
+<L>&para; This is the life I leade, til I th&eacute;e s&eacute;e again</L>
+<L>And so wil do, til dreadful death,</L>
+<L> do seek to ease my paine,</L>
+<L>who~ rather I do wish, by force to end in wo,</L>
+<L> than for to liue in happie state, thy loue for to forgo.</L>
+</LG>
+<LG>
+<L>&para; And thus farewell my d&eacute;er,</L>
+<L> with whom my heart shall rest,</L>
+<L>Remember him that this did write,</L>
+<L> sith he doth loue th&eacute;e best:</L>
+<L>And wil <GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">il gr&eacute;edie death,</L>
+<L> my daies do shorten now:</L>
+<L>Farewel my dear, loe here my faith</L>
+<L> and troth to thee I vow.</L>
+</LG>
+<TRAILER>Finis.</TRAILER>
+</DIV1>
+<DIV1 TYPE="poem">
+<HEAD>The Louer compareth him self to the pain|ful Falcouer.</HEAD>
+<OPENER>To the tune, I loued her ouer wel.</OPENER>
+<LG>
+<L>THe soaring hawk from fist that flies, her Falconer doth constraine:</L>
+<L>Sometime to range the ground vn|known, to find her out againe:</L>
+<L>And if by sight or sound of vell, his falcon he may s&eacute;e:</L>
+<L>wo ho he cries, with cheerful voice, the gladdest man is he.</L>
+</LG>
+<LG>
+<L>&para; By Lure then in finest sort, he seekes to bring her in:</L>
+<L>But if that she, ful gorged be, he can not so her win:</L>
+<L>Although her becks and ven<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">ing ele<GAP DESC="illegible" RESP="apex" EXTENT="1+ letters">, she manie proffers makes:</L>
+<L><PB REF="39">Wo ho ho he cries, awaie she flies, and so her leaue she takes.</L>
+</LG>
+<LG>
+<L>&para; This wofull man with wearie limmes, runnes wandring round about:</L>
+<L>At length by noise of chattering Pies, his hawke againe found out</L>
+<L>His heart was glad his eies had seen, his falcon swift of flight:</L>
+<L>Wo ho ho he cries, she emptie gorgde, vpon his Lure doth light.</L>
+</LG>
+<LG>
+<L>&para; How glad was then the falconer there, no pen nor tongue can tel:</L>
+<L>He swam in blisse that lately felt like paines of cruel hel.</L>
+<L>His hand somtime vpon her train, somtime vpon her brest:</L>
+<L>Wo ho ho he cries with chearfull voice, his heart was now at rest,</L>
+</LG>
+<LG>
+<L>&para; My d&eacute;er likewise, beholde thy loue, what paines he doth indure:</L>
+<L>And now at length let pitie moue, to stoup&punc; vnto his Lure.</L>
+<L>A hood of silk, and siluer belles, new gifts I promise thee:</L>
+<L>Wo ho ho, I crie, I come then saie, make me as glad as h&eacute;e.</L>
+</LG>
+<TRAILER>FINIS.</TRAILER>
+<PB REF="39">
+<PB REF="40" MS="y">
+<PB REF="40" MS="y">
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

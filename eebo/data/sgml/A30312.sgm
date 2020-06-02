@@ -1,0 +1,3793 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD EEBOPROOF 2.0//EN">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-09-18</DATE>
+<RESPSTMT>
+<NAME>Emma Leeson Huber</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TYPEs to DIVs in order to validate. Proofed title page(s). Checked for TYPE="book". Checked ^s. Reviewed structure. Checked division-marking material at heads and feet of divisions (HEADS, etc.). Checked for signatures. Checked placement and completeness of PBs. Checked for GAPs, #s, @s. Checked spacing of foreign GAPs. Corrected 10 $s of 31. Converted 21 $s to GAP DESC="illegible" RESP="oxf". Checked for EPIGRAPHs and ARGUMENTs. Checked for startqs, endqs, oes, q;s, and Qs. Checked proofsheets and made corrections found there. Checked for CLOSERs, TRAILERs, and BYLINEs. DONE.</ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="OX" ID="A30312">
+<STC T="W">B5745</STC>
+<BIBNO T="oclc">11626094</BIBNO>
+<VID>47921</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1">
+<P><PB REF="1">THE Reform'd Wife. A COMEDY: As it is Acted, At the <HI>THEATRE-ROYAL,</HI> in <HI>Drury-Lane.</HI></P>
+<P>LONDON, Printed for <HI>Thomas Bennet,</HI> at the <HI>Half-Moon,</HI> in St. <HI>Paul</HI>'s Church-Yard, 1700.</P>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="2">
+<PB REF="2">
+<HEAD>TO THE Right Honourable JOHN LORD <HI>LORN.</HI></HEAD>
+<P>I Impute it to my good Fortune, My Lord, that the first appearance of this Play was on a <HI>Wednesday</HI> in <HI>Lent</HI>; for then (it seems) the Town look for a bad Entertainment, and if they met with any thing they did not expect; it was a disappointment that, I presume; they'll forgive.</P>
+<P>I confess it has succeeded beyond my Expectation, since I understand that Your Lordship also has been plea|sed to speak in it's Favour. But You did not apprehend what You drew upon Your Self when you was doing so, and little thought, from commending the Brat, to have it laid at Your Door.</P>
+<P>But tho' your approbation in Publick makes me proud, yet the delicacy of your Judgment in private keeps me humble; your Understanding discovers all faults, but your good breeding will not let you take Notice of any, and you can discourage no body, but when they attempt to imitate you.</P>
+<P>If I had oftener had the honour to have been near your Lordship; the Conversation of the Comedy wou'd have discover'd it; and tho' it be my misfortune to be
+<PB REF="3">
+almost a stranger to your Person. Yet I may safely affirm, that I am throughly acquainted with your Character, and to speak but truth of you, wou'd look too like a De|dication.</P>
+<P>I might inlarge upon the Antiquity of your Race, were I so vain, as to hope to add any thing to the honour of what's recorded in our Annals; I might dwell upon those Qualifications, that render you so amiable to all that know you, the Unaffected sincerity of your Nature, your Zeal for the welfare of your Country; your exem|plary Bravery, and just Sence of true Honour; but to do this, my Lord, wou'd be to entertain you with the daily Discourse of your Friends; as for Enemies, you have none but those you found in <HI>Flanders,</HI> where you were giving Commands to a Regiment, at an Age that others are receiving Precepts from a Tutor.</P>
+<P>I dare say no more, tho' at the same time I disoblige one, I gratifie a thousand; for you are the only Person that can't bear to hear the Lord <HI>Lorn</HI> well spoke of: But since I would not purchase their approbation at the rate of your displeasure, I must relieve your Lordship from the pain of hearing what's your due, and only tell you that I am,</P>
+<CLOSER><SIGNED>Your Lordship's Most Devoted Humble Servant.</SIGNED></CLOSER>
+</DIV1>
+<DIV1 TYPE="preface">
+<PB REF="3">
+<HEAD>THE PREFACE.</HEAD>
+<P><HI>I</HI> don't know whether I have more reason to be pleas'd or griev'd at the Fate of this Play; for the World is ve|ry jealous of applause, and he is sure to make a great many Enemies, that is so unfortunate to succeed.</P>
+<P>Some have already done me the Honour to say, that it was not all Mine; tho' I am surpriz'd at the imputation, that what I once believed too great a Dowdy to belong to ev'n my self; should deserve to be thought another's! But the uneasy Criticks, upon a nearer view of its Features, have mortify'd me, and more judiciously concluded, that no Body wou'd own it but my self.</P>
+<P>All that I shall say to these last is, that I did not design a just Play, and that I am as well pleas'd as they are, that I had no regard to the Vnities of Action, <HI>&amp;c.</HI> but if I di|verted my Friends, without offending the Ladies, I have my wish.</P>
+<P>These angry Gentlemen, I presume, will thank me for one thing, in the Third Act, and that is, I have put a Pun in the Mouth of the fine Lady; a Gentleman very remarkable for his good Nature and good Sence; told me of it before it was Acted, but he agreed with me, to allow the Folly, for the sake of the Diversion; it succeeded as we guest, and was always Clap'd.</P>
+<P><PB REF="4">I confess I have had some grave Thoughts on the Occasion of such Labours, and methinks 'tis very strange, that the chief thing, that flatters the vanity of most Writers, is, what they can't know, for Fame is a good that never arrives to us till we are past injoying it, and we are only immortal when we are no more; as for my self, I presume, it will appear by what I have done, that I as little value, as deserve, that Honour, notwithstanding I don't doubt, but I shall be yet be|liev'd to have my share of the vanity; and that 'twill always be one reason of writing, to be thought a little wiser than we are
+<Q><L>&mdash;Vivimus ambitiosa,</L>
+<L>Paupertate omnes&mdash;</L></Q></P>
+</DIV1>
+<DIV1 TYPE="prologue">
+<PB REF="4">
+<HEAD>PROLOGUE.</HEAD>
+<L>SInce Novelties your Palates still pursue,</L>
+<L>You have to Night, both Play and Poet new:</L>
+<L>From whence alone his hopes of pleasing grew.</L>
+<L>For so much this prevailing Passion thrives,</L>
+<L>Each for his future Appetite contrives,</L>
+<L>New Friends, new Favourites, and of late&mdash;new Wives.</L>
+<L>You Criticks only keep your Old disease,</L>
+<L>When Authors please you least, you're most at ease.</L>
+<L>Our Poet's therefore glad of a pretence,</L>
+<L>To be insipid, in his own defence,</L>
+<L>And if you hiss, 'tis still at your Expence.</L>
+<L>Often for change the meanest things are good,</L>
+<L>Thus tho' the Town all delicates afford,</L>
+<L>A Kit-cat is a Supper for a Lord.</L>
+<L>But if your Nicer tast resolves to Day,</L>
+<L>To have no relish for our Author's Play.</L>
+<L>Place some diverting Scene before your Mind,</L>
+<L>And think of that, to which you will be kind.</L>
+<L>So thus when heavily the moments pass,</L>
+<L>Toaster's to Circulate the lazy Glass</L>
+<L>By nameing some bright Nymph their draughts refine,</L>
+<L>And tast at once the joys of Love and Wine.</L>
+</DIV1>
+<DIV1 TYPE="dramatis personae">
+<PB REF="5">
+<HEAD>Personae Dramatis.</HEAD>
+<LIST>
+<HEAD>MEN.</HEAD>
+<LABEL>SIR <HI>Solomon Empty.</HI></LABEL>
+<ITEM>Mr. <HI>Iohnson.</HI></ITEM>
+<LABEL>Freeman.</LABEL>
+<ITEM>Mr. <HI>Wilks.</HI></ITEM>
+<LABEL>Careless.</LABEL>
+<ITEM>Mr. <HI>Toms.</HI></ITEM>
+<LABEL>Cleremont.</LABEL>
+<ITEM>Mr. <HI>Mills.</HI></ITEM>
+<LABEL><HI>Ned,</HI> Servant to <HI>Cleremont.</HI></LABEL>
+<ITEM></ITEM>
+<LABEL>Doctor.</LABEL>
+<ITEM>Mr. <HI>Haines.</HI></ITEM>
+<LABEL>Astrologer.</LABEL>
+<ITEM>Mr. <HI>Fairbanck.</HI></ITEM>
+<LABEL><HI>Apothecary,</HI> a <HI>Hawker,</HI> and <HI>Three-Footmen.</HI></LABEL>
+<ITEM></ITEM>
+</LIST>
+<LIST>
+<HEAD>WOMEN.</HEAD>
+<LABEL>Astrea.</LABEL>
+<ITEM>Mrs. <HI>Knight.</HI></ITEM>
+<LABEL>Clarinda.</LABEL>
+<ITEM>Mrs. <HI>Rogers.</HI></ITEM>
+<LABEL>Sylvia.</LABEL>
+<ITEM>Mrs. <HI>Temple.</HI></ITEM>
+<LABEL>Lady Dainty.</LABEL>
+<ITEM>Mrs. <HI>Verbruggen.</HI></ITEM>
+<LABEL>Mrs. <HI>Friendlove.</HI></LABEL>
+<ITEM>Mrs. <HI>Powell.</HI></ITEM>
+<LABEL><HI>Fidelia,</HI> Maid to <HI>Astrea.</HI></LABEL>
+<ITEM>Mrs. <HI>Moor.</HI></ITEM>
+<LABEL><HI>Cloe, Lady Dainty</HI>'s Woman.</LABEL>
+<ITEM>Mrs. <HI>Stephens.</HI></ITEM>
+<LABEL><HI>Pert,</HI> Exchange-Woman.</LABEL>
+<ITEM>Mrs. <HI>Baker.</HI></ITEM>
+</LIST>
+</DIV1>
+<DIV1 TYPE="erratum">
+<P>PAge 5 line 29 for the two grand Lotteries, read the grand Lotteries.</P>
+</DIV1>
+</FRONT>
+<BODY>
+<HEAD><PB N="1" REF="5">THE Reform'd Wife, &amp;c.</HEAD>
+<DIV1 N="1" TYPE="act">
+<HEAD>ACT I.</HEAD>
+<HEAD>SCENE I.</HEAD>
+<STAGE>Astrea <HI>and</HI> Clarinda.</STAGE>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>YOU manage this Husband of yours very dextrously.</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>While you live observe this; that the only way to rule a conceited Fool, is to seem to be rul'd by him.</P>
+</SP>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>I am convinc'd, but still admire by what strange Art you keep him at this distance, for I have hear'd that your Old Men, like those that have stinking Breaths, will always be drawing closer than other Folks!</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>Why, by a pretended distast of all Men, I have secur'd my self a|gainst one that I hate in earnest, so that now &mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>He avoids you to gain your Esteem!</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>And 'tis his only way to gain it, for trust me <HI>Clarinda,</HI> there is no|thing so distastful as a Husband's fondness, and you had better be hated of the Man you Love, than Lov'd of the Man you hate.</P>
+</SP>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>Then we must hate if we Marry!</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>You'll find it difficult to Love, for Marriage sets the Object too near us, and Love is a fine Flower, that loses its Scent if we keep it always at our Nose.</P>
+</SP>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>Where is the fault then?</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>Perhaps 'tis in our selves&mdash;our Pleasures languish when they become familiar to us, and 'tis in Love as in Ambition, our thirst is still for some|thing that we have not.</P>
+</SP>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>I fansie the Dominion they pretend over us, may be one reason, and methinks the slavery's misplac'd, for the Government of Love shou'd be in the Women; They always make the Lover happy in his Chains; but&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>Husbands, alas! Are like other Tyrants, the greatest good we ex|pect from 'em, is to do no harm.</P>
+</SP>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>You indeed have reason to think so, for to a Woman of any Spleen, Sir <HI>Soloman</HI> must needs be of a very unlucky temper, and seems to have some|thing peculiar in him to Create aversion, for he is always talking, and al|ways giving his impertinent Advice.</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>And you can't oblige him more than to ask it.</P>
+</SP>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>He has all the ridiculous extremes of the Gay and the Grave, but I like nothing in him so much as his pretending to understand the World&mdash;he is so wise an Owl!</P>
+</SP>
+<SP>
+<PB N="2" REF="6">
+<SPEAKER>Ast.</SPEAKER>
+<P>Nay since he has been, as he calls it, of the party, he has taken new Airs upon him; all my Family, forsooth, are order'd by rules of State, and he is grown so important to himself, that he's affraid the Cook or the Butler should Poyson him&mdash;but here he comes.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>No, no, no, Friend, I understand the World, I understand the World&mdash;.</P>
+</SP>
+<STAGE><HI>Enter Sir</HI> Solomon Empty, <HI>followed by a Hawker with Pamphlets.</HI></STAGE>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>What's the matter? Sir <HI>Solomon.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>Nothing Cousin, nothing, only this Fellow (suborn'd as I guess by the Ministry) had a mind to corrupt my Judgment, with an Argument for a standing Army.</P>
+</SP>
+<SP>
+<SPEAKER>Haw.</SPEAKER>
+<P>Sir <HI>Solomon,</HI> if you don't like that, I have Books of the other Party.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>Hast thou so Friend let's see 'em&mdash; <STAGE>[Aside.]</STAGE> I believe this Fellow's some broken Counsellour for he's of both sides&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Haw.</SPEAKER>
+<P>Here Sir!</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<STAGE>[Reads.]</STAGE>
+<P>A Proposal to take the Lace off the Soldiers Cloaths, and put it on our Wives Petty-Coats&mdash;Hah! hah! This is a foolish Project for they'll give it 'em again.</P>
+</SP>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>There may be some danger Sir <HI>Solomon.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>No, No &mdash; I don't like that, any thing belonging to Soldiers shou'd come so near 'em&mdash;what's this <STAGE>[Reads.]</STAGE> A useful Discourse con|cerning the management of Husbands&mdash;here, here, put this up Friend, Women know too much already&mdash;well, leave the first&mdash;and if I like it&mdash; <STAGE>[Aside.]</STAGE> I'll read it, and give it you again &mdash; <STAGE><HI>Exit</HI> Hawker.</STAGE> But now for my own Family&mdash;come, My Dear, the Coach is ready.</P>
+</SP>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>I have been perswading her, ever since you went, but she is so unwil|ling! &mdash; pray, Madam, gratify Sir <HI>Solomon,</HI> and go to the Play.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>Ay do, My Dear, gratify me as my Cousin says, and go to the Play, you must not deny your self all the Pleasures of the World, for your Love of me, come it will divert you.</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>Divert me! Is it possible, Sir <HI>Solomon,</HI> you shou'd have so little Re|ligion, as to fancy the Entertainment of that place cou'd give a Civil Wo|man any Pleasure? Not that I think, all are otherwise that go there, but the dishonest Liberties of the Stage are such, that we seldom hear any thing, that diverts without something that offends.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<STAGE>[Aside.]</STAGE>
+<P>Poor Fool! But 'tis a wicked place!</P>
+</SP>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>But the Moral, Madam, often leaves us a quite different impression.</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>Nay there you are lost <HI>Clarinda,</HI> for tell me a Play in which there is not for a Moral, if you Marry you're a Cuckold, and Woman's Virtue is a <HI>Chimara.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<STAGE>[Aside.]</STAGE>
+<P>Well I am certainly the only Husband in this Town, that is not one&mdash;How happy am I in a Wife&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>The Licence is indeed too great, yet the fault is equal in the Town, and the Poet who only shows us the World a little too near, for, turn but your Eyes off the Stage, and you shall see that your agreeable Woman is a Coquet, and your agreeable Man an Athiest, and the first step to be very witty, is (it seems) to be very wicked.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>Bless us all! But the World Cousin is very bad, very bad <STAGE>[Aside.]</STAGE>
+<PB N="3" REF="6">
+('tis good to encourage Women in their Innocence) &mdash;but you need not ap|prehend now <HI>Astrea,</HI> for this is a New Play, and the Author advised with me in the thing&mdash;I protest he's a Pretty smart Man.</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>I don't understand those things, but am sorry you Converse with such People, for the next Scandal to the being a Poet, is to keep 'em Com|pany.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>Alas, My Dear, you don't take it&mdash;we that wou'd understand the World; must make it our business to read Men &mdash; I mingle with such People indeed, and can hear 'em Crack a jest or so, and now and then put in a joke my self, but Sir <HI>Solomon Empty,</HI> is not to be fathom'd by ev'ry Bo|dy, I defy 'em to get any thing out of me!</P>
+</SP>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<STAGE>[Aside.]</STAGE>
+<P>I'll Answer for it.</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>I did not apprehend it, but the World, that seldom makes a true Judgment, content themselves with the appearances of things, and your Cha|racter is drawn from the Airs that you make in make in Publick.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>Looky' Wife, I wou'd be mistaken in some things, a good States Man, like a good Wrestler, conceals his strength for an opportunity, and my Capacity is a Secret&mdash;but you are Women and don't understand things.</P>
+</SP>
+<STAGE><HI>Enter</HI> Foot-Man.</STAGE>
+<SP>
+<SPEAKER>Foot.</SPEAKER>
+<P>Sir, The Coach is at the Door.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>Very well&mdash;I don't like that Fellow's Face, he looks as if he was a Spy upon my Actions&mdash;so now you are kind!</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>I shall always prefer Obedience to inclination.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>I'll lead you to your Coach.</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>Why won't you go with us?</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>No, no, my dear, they stay for me at the Fountain, and I wou'd not miss a Night to be made a Privy-Councellor.</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>You always find reasons to leave me.</P>
+</SP>
+<STAGE><HI>Exit Sr.</HI> Solomon <HI>and</HI> Astrea.</STAGE>
+<SP>
+<SPEAKER>Clarinda <HI>Sola.</HI></SPEAKER>
+<P>Well thou art a Machiavil, <HI>Astrea,</HI> I am astonish'd, she longs to go, and by a Counterfeit unwillingness makes him against his own inclination press her to go, and how happy he thinks himself in having perswaded her to do what he wou'd not have her do.</P>
+</SP>
+<STAGE>Exit.</STAGE>
+<STAGE>The SCENE changes to the Street.</STAGE>
+<STAGE><HI>Re-enter Sir</HI> Solomon.</STAGE>
+<SP>
+<P>There is no blessing like a Virtuous Wife! No Comfort beyond it! To see her fears and her Caution, to tell me I should please her more if I wou'd lead her to the Church&mdash;Poor fool! She thinks of nothing but me and her Prayer-Book, then she is so tender of her Fame, that she is never guilty of an indecency so great as to Kiss me in Company; and this Conduct has pre|vailed with her so much, that she has a sort of unwillingness, and fear to do it, even when we are alone, and so Chast!&mdash;Well I am the happiest Man! Ha! who have we here my Noble Captain.</P>
+</SP>
+<STAGE><PB N="4" REF="7"><HI>Enter</HI> Freeman.</STAGE>
+<SP>
+<SPEAKER>Freem.</SPEAKER>
+<P>Sir <HI>Solomon Empty</HI>!</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>Welcome from <HI>Flanders</HI> Tom, welcome from <HI>Flanders</HI>&mdash;What ne'er a Wooden Leg yet! Why thou art the unluckiest Fellow in the World! Not an Ear, or an Eye, or a peice of thy Nose off, but return'st to thy Friends like an ordinary Man!</P>
+</SP>
+<SP>
+<SPEAKER>Free.</SPEAKER>
+<STAGE>(Sighs.)</STAGE>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>Come don't be Melancholly but tell us, what weeping Orphans, and smiling Widows thou hast made, what Towns demolish'd this Cam|pain!</P>
+</SP>
+<SP>
+<SPEAKER>Free.</SPEAKER>
+<P>Faith, Sir <HI>Solomon,</HI> I have demolish'd nothing but my Commission, and made no Orphans but my self, I am broke that's all.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>Ay, and enough too&mdash;but how so <HI>Tom</HI>! Do you know&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Free.</SPEAKER>
+<P>Prithee lay this aside, all I know is, that I am come from starving, in a Crowd to starve in a Corner.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>Starve! A young Fellow, and talk of starving!</P>
+</SP>
+<SP>
+<SPEAKER>Free.</SPEAKER>
+<P>I know thou understand'st Men, make me a little acquainted with my self, and tell me what I am fit for&mdash;I have been thinking a great while, and can find no Virtue to lay to my charge.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>O! You are modest <HI>Tom,</HI> you are modest&mdash;but let me see&mdash;fit for! Thou hast a good Voice, I have heard, upon a Muster, and wert of the Temple before the War&mdash;what dost thou think of the Law.</P>
+</SP>
+<SP>
+<SPEAKER>Free.</SPEAKER>
+<P>Very well, but I know nothing of it, but what I have got from be|ing Arrested.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>Enough, enough <HI>Tom,</HI> I knew several Eminent Pleaders that got Estates with as little&mdash;'tis but talking on and loud.</P>
+</SP>
+<SP>
+<SPEAKER>Free.</SPEAKER>
+<P>But we Soldiers, Sir <HI>Solomon,</HI> are so us'd to dispatch a business at a blow, that I should starve before I cou'd arrive at their secret of perplexing a matter, and spining out a cause, beside, I want all the requisites, the double Dealing, the Impudence! The Lungs! The Conscience!&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>Conscience! Nay, <HI>Tom,</HI> if thou hast that in thy Head!&mdash;thou wert born to be a Beggar&mdash;but is there no way&mdash;hark ye, <HI>Tom,</HI> thou art a very Clean Shap'd-Fellow, what if you went into the Playhouse, and turn'd Actor! Ha! ha! I thought I shou'd make thy Fortune at last! Why thou may'st come to be a King in time, and keep Company with Princes! I'll warrant, they shall make thee an Alderman the first dash.</P>
+</SP>
+<SP>
+<SPEAKER>Free.</SPEAKER>
+<P>I'd rather be his Horse.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>They'll try your Talent, <HI>Tom,</HI> not but thou may'st get as much honour from acting a Cobler, as acting a Lord, as an old Moralist said of the World, and I had rather see a Scaramouch than an Emperor! for there's that Dog! that sly Rogue, that arch Son of a Whore, that <HI>Pinkethman,</HI> there's always more in that Fellows Face than his words, and to see that Rascal Act does me more good than railing against the Court party&mdash;well, <HI>Tom,</HI> how do ye like a Player.</P>
+</SP>
+<SP>
+<SPEAKER>Free.</SPEAKER>
+<P>As ill as I do a Lawyer, and I am quite as unfit for it, I cou'd no more listen to the dull Chat of every Fop behind the Scenes, than I cou'd bear his slinking Breath&mdash;then I shou'd scarce be imploy'd enough to live by it, for I cou'd not act in a dull Play, because I hate to speak any Bodies non|sence
+<PB N="5" REF="7">
+but my own, and to be Hist off the Stage, or punish'd for an others Crime&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>Is the Devil&mdash;but that would never happen, if these silly Fel|lows, the Poets, would be rul'd; they are still aiming at Wit&mdash;If I was to write a Play&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>You wou'd not split upon that Rock.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>No, no, <HI>Tom,</HI> I'd have something to divert every Body. I'd have your Atheism to please the Wits&mdash;some affectation to entertain the Beaux, a Rape or two to engage the Ladies; and I'd bring in the Bears, before every Act, to secure an interest in the Upper Gallery.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>You have forgot one Range, what wou'd you do for the Cits in the Middle?</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>Why I'd raise 'em a Ghost to tell their Children of when they come home &mdash; but now you speak of Cits, <HI>Tom,</HI> I have an imployment that will fit thee. The Ladies, <HI>Tom,</HI> the Ladies, there's the Treasure at last&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>Ay, such a Treasure as I shall spend my own before I shall find.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>Why what charges can there be when you Factor for your self?</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>O the greater&mdash;He that won't imploy a Procuress out of good Hus|bandry, is like him that shoots his Wild-fowl to save money, when he reckons the Powder, the Shot, and other Expences; he'll find that he might a had 'em cheaper of a Poulterer.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>I see, <HI>Tom,</HI> thou run'st into the common error of ingenious Men, who think the World is govern'd by reason&mdash;you may perhaps come to live happy in it with your reason; but the way to be a great Man, is to be enterprizing.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>Indeed I am apt to think he'll never do Miracles that does nothing but what he should do.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>In that thought I leave you, <STAGE>(<HI>going</HI>)</STAGE> But one hint more&mdash;The two grand Lotteries, <HI>Tom,</HI> in this Town, for broken Officers and Lovers, are the Prayers and the Play, &mdash; go try your Fortune my <HI>Hercules!</HI> &mdash; I warrant you're happy &mdash;the Prayers and the Play. </P>
+</SP>
+<STAGE><HI>[Aside.] Exit Sir</HI> Sol.</STAGE>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>If I was sure of meeting any of thy Relations there, it might tempt me to go&mdash;Now this old Rascal thinks a Soldier fit for any thing that's mean, and values himself upon his Riches that we have secur'd to him with our Blood&mdash;What Gallant Spirit would move a Finger for such Slaves!&mdash;To bear all hardships, and stand intrepid midst a thousand horrours, where Glory pushes us beyond our selves to be despised when we return, and among the very People he has sav'd, with all his wounds, the tatter'd <HI>Hero</HI> starves&mdash;but Ingratitude's a humane Virtue, no Beast ever pretended to it, and it is so perfectly in our Nature, that we may observe no People hate so heartily as those that have been highly obliged &mdash; as for us, it seems there is no Rogue like a Soldier; we are a sort of Vagabonds, that are fit indeed, upon occasion, to stand between sober folks and danger, and are us'd just like a Militia Officer's Sword, when training day's over 'tis thrown aside&mdash;O such Worthies!</P>
+</SP>
+<STAGE>Exit.</STAGE>
+<STAGE><HI>Re-enter Sir</HI> Solomon.</STAGE>
+<SP>
+<P>Ha, ha, ha, Woe be to some poor Dog of a Husband &mdash; who knows now whose fate may depend upon this advice of mine&mdash;some Lord or Alderman,
+<PB N="6" REF="8">
+or perhaps some industrious Merchant, that may be sweating at the <HI>Indies,</HI> while his Wife&mdash;ha, ha, ha,&mdash;well, I am a mischievous Dog, but let 'em take what follows.</P>
+<STAGE><HI>Enter</HI> Cleremont.</STAGE>
+<P>[Ha, my Friend <HI>Cleremont,</HI> the Spirit of Mirth and Wickedness!</P>
+</SP>
+<SP>
+<SPEAKER>Cle.</SPEAKER>
+<STAGE>(<HI>Singing</HI>)</STAGE>
+<P>Drink and drive care away.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>Now this Fellow's Merry will I sift him&mdash;'twas <HI>Machiavil</HI>'s way <STAGE>(<HI>aside</HI>)</STAGE> &mdash; I read Joy in thy Face, has thy pony Mistress been kind, hast thou Cur'd her of all Distempers, and made her say, Yes.</P>
+</SP>
+<SP>
+<SPEAKER>Cle.</SPEAKER>
+<P>Ah don't speak of her, Sir <HI>Solomon,</HI> don't Name her, 'tis touching upon ones madness in an interval of Sence, and enough to make me rave in Flames, and darts and Charms, and so forth&mdash;I have been drinking all day to forget her, and now you must lay her in my way.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>And is this all the use you make of a Lady, that lies in your way? If I was in thy place!</P>
+</SP>
+<SP>
+<SPEAKER>Cle.</SPEAKER>
+<P>Ay, thou wou'd'st lay about thee&mdash; Thou art a Dangerous Fellow&mdash;I find I must take care when I am Married.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>O I never wrong my Friend, never wrong my Friend!</P>
+</SP>
+<SP>
+<SPEAKER>Cle.</SPEAKER>
+<P>'Tis good to be sure, Sir <HI>Solomon,</HI> I'll take her out of thy Neighbour|hood&mdash;such a vigorous Rogue! Why they say, thou art worse than St. <HI>George</HI>'s Dragon, a Virgin a day won't satisfy thee, besides Wives and Traders.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>Ha! Ha! People will say any thing &mdash; though faith one can do nothing in this Town, but its presently Whisper'd about.</P>
+</SP>
+<SP>
+<SPEAKER>Cle.</SPEAKER>
+<STAGE>[Aside.]</STAGE>
+<P>here's a Rogue! I find to be unable's ashame at 60.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>But these things must not be talk'd of, Love and Cheating shou'd be always private&mdash;But prethee tell me something of thy Courtship, does thy Sickly Lady listen to thee yet?</P>
+</SP>
+<SP>
+<SPEAKER>Cle.</SPEAKER>
+<P>No, nor ever will, without I cou'd appear to her in the shape of a Consumption, or Appoplexy &mdash; she's in Love with nothing but Ghosts&mdash;Flesh and Blood are not gentile enough for her.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>You wou'd never be advised&mdash;you shou'd Court her, in her own way, when she is Grip'd, you shou'd have the Chollick, when she begins to faint, you shou'd fall in a Swoon&mdash;Cough, Sigh and Complain, just as you see her, what doest ever think to gain a Woman by opposing her?</P>
+</SP>
+<SP>
+<SPEAKER>Cle.</SPEAKER>
+<P>Ay, ay, the best way to gain her at her own Weapon, Contra|diction.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>Look ye Friend, be rul'd by me&mdash;(there is a Policy in Life, and ev'ry Man is a State to himself) now wou'd I have you be acquainted with her Doctor&mdash;Fee him as often as she does.</P>
+</SP>
+<SP>
+<SPEAKER>Cle.</SPEAKER>
+<P>I'd as soon take Physick of him as often as she does, why he's with her Morning, Noon and Night, and has more Guinea's in a Day than Meals&mdash;No, no, Sir <HI>Solomon,</HI> I have taken a Cheaper way, a Poets sooner Fee'd than a Physician, I'll besiege her so with Songs and Sonnets, that she shall surren|der for her own quiet.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>And have you lay'd in a Magazin of these Stores?</P>
+</SP>
+<SP>
+<SPEAKER>Cle.</SPEAKER>
+<P>I am providing my self with a Song to day, I sent my Man at Noon to hire a Poet, and he stay's as long as if he had imploy'd the City Laureat&mdash;but see the Rascal's come&mdash;well what heavy Rhymer did you meet with that
+<PB N="7" REF="8">
+kept you thus long?</P>
+</SP>
+<STAGE><HI>Enter</HI> Ned <HI>out of Breath.</HI></STAGE>
+<SP>
+<SPEAKER>Ned.</SPEAKER>
+<P>Sir, 'twas a long time before I cou'd find one.</P>
+</SP>
+<SP>
+<SPEAKER>Cle.</SPEAKER>
+<P>A long time! Why you might a beat all the Garrets, from <HI>Will</HI>'s Coffee-House to <HI>Aldgate</HI> in half the time.</P>
+</SP>
+<SP>
+<SPEAKER>Ned.</SPEAKER>
+<P>Then I was with Three, Sir, before I met One&mdash;that wou'd be at leisure.</P>
+</SP>
+<STAGE>Clerimont <HI>Reading to himself.</HI></STAGE>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>What were they doing <HI>Ned</HI>?</P>
+</SP>
+<SP>
+<SPEAKER>Ned.</SPEAKER>
+<P>One, Sir <HI>Solomon,</HI> was writing a Lampoon for a Lady of Quality, in which he was to commend her and abuse all her Aquaintance.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>Nay, she ought to be prais'd if she pay'd for it, 'but what were the rest upon?</P>
+</SP>
+<SP>
+<SPEAKER>Ned.</SPEAKER>
+<P>One, Sir, was writing a Poem upon the Tyger that was baited, in which he pretends to prove, that he was of the Court-Party.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>Ha!&mdash;that's some Cabal Poet, that's let into the secret of the Government.</P>
+</SP>
+<SP>
+<SPEAKER>Ned.</SPEAKER>
+<P>The last, Sir <HI>Solomon,</HI> was making a Prayer for a Religious old Gen|tlewoman, but that business not being in much hast, I prevail'd with him to do mine.</P>
+</SP>
+<SP>
+<SPEAKER>Cle.</SPEAKER>
+<P>I can hardly read this Fellows hand&mdash;</P>
+<STAGE>Reads.</STAGE>
+<LG>
+<HEAD>A SONG upon a Sickly Lady.</HEAD>
+<LG N="1">
+<HEAD>(1.)</HEAD>
+<L><HI>COrinna</HI> with a graceful Air</L>
+<L>Her Symptoms does reveal</L>
+<L>Such Charms adorn the Sickly fair.</L>
+<L>We scarce can wish her well.</L>
+</LG>
+<LG N="2">
+<HEAD>(2.)</HEAD>
+<L>How does the pale Complexion please!</L>
+<L>Faint looks and Languid Eye!</L>
+<L>New Beauties rise with her disease,</L>
+<L>And when she's Sick we die.</L>
+</LG>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>Very pretty, Faith&mdash;When she's Sick we die.</P>
+</SP>
+<SP>
+<SPEAKER>Cle.</SPEAKER>
+<P>'Tis very little for the Money!</P>
+</SP>
+<SP>
+<SPEAKER>Ned.</SPEAKER>
+<P>For five Shillings more, Sir, he wou'd a put in the Similitude of a Bee, that kills while he's a dying.</P>
+</SP>
+<SP>
+<SPEAKER>Cle.</SPEAKER>
+<P>Pox take him, and his Bee&mdash;an unreasonable Son of a Whore, a Crown for a Bee! 'sbud I can buy a Hive for half the Money&mdash;this is some saucy Rogue that eat's every Day&mdash;well now, Sir <HI>Solomon,</HI> against these Arms what Woman can defend her self?</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>They are unaccountable Creatures indeed, and very likely may be sooner Fidled than reason'd out of their favours.</P>
+</SP>
+<SP>
+<SPEAKER>Cle.</SPEAKER>
+<P>There is no best way to get a Woman. Some whine, some dance, some dress, and some prate; but wiser Women, at last, considers a Man's Make rather than his words or actions; nay, or his Face.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>'Tis your interest they shou'd.</P>
+</SP>
+<SP>
+<PB N="8" REF="9">
+<SPEAKER>Cle.</SPEAKER>
+<P>Looky', Sir <HI>Solomon,</HI> the Woman that falls in Love with a Man for his Face, may find her self as much disappointed as the Man that believes a Woman for her Tears&mdash;they are false Signs.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>But they are persuading ones.</P>
+</SP>
+<SP>
+<SPEAKER>Cle.</SPEAKER>
+<P>Pshaw! Pshaw! they move only Children: but come along, and see your mistake.</P>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE><HI>Enter</HI> Astrea <HI>and</HI> Freeman.</STAGE>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>I vow my heart's at my mouth!</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>There, let me seize my own.
+<STAGE>Kisses her.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>You are sure he did not see us?</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>Certain of it.</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>Then I am happy. 'Twere very unlucky to be surpriz'd the first time we meet.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>Fortune, Madam, has a greater care of Lovers.</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>Now pray let me know how to call you; for in a little time we must begin to lay aside the Titles of Sir and Madam.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>And substitute those of my Dear and my Life!&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>Ay! ay! for our Seasons of Love, but what if we should forget our selves, and fall to the dull indifference of Man and Wife?</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>Why then I must be call'd <HI>Freeman,</HI> and you&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<STAGE>(<HI>Aside.</HI>)</STAGE>
+<P>I must not tell him right &mdash; <HI>Caelia.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>I fansie you'r a Coward, my Dear! I observe the first thing you pro|vide for is a retreat.</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>I'm afraid, my Hero! you'll have the first occasion to use it.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>I don't know what a long War may produce, but&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>Have a care Servant, don't soil your Merit with handling it&mdash;I dare not stay now, but to Morrow</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>At Six &mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>I'll meet you in the Field.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>Nay, your Honour's at stake, and if you disappoint&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>I can't spare a Glove, but be that my security&mdash;</P>
+</SP>
+<STAGE>Throws a purse of Money.</STAGE>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>Ha!&mdash;but&mdash;remember the Hour.</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>And you the occasion. Adieu, Servant.</P>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>Freeman </SPEAKER>
+<STAGE>alone opening the Purse.</STAGE>
+<P>I came! I saw! I conquer'd! Gold bright as her self! This is the luckyest adventure! Others Solicite, Bribe, Rise early, haunt Courts and great Men's <HI>Levees,</HI> and follow Fortune in the servile Crowd, but I meet the Goddess less ingag'd, and court her in her lovelyest shape, a Woman; a Woman too that has more Wit and Beauty, than Riches ever gave, or Poverty took away &mdash; but what now can this Woman be! She has too much Wit to come from the City, and too much Money to come from the Court &mdash;but to Morrow must unriddle all &mdash; I feel my Soul rise with my Pocket &mdash; <STAGE>(<HI>looks on the Gold</HI>)</STAGE> Thou lovely God that hast no Atheist! Thou art the Courtiers Promise, the Lawyers Honesty, the Soldiers Courage, and the Widow's Tears &mdash; but here is now a Fellow <STAGE>[<HI>Enter</HI> Cleremont.]</STAGE> whose Life is a study'd Idleness&mdash;Well, <HI>Cleremont,</HI> the report is true!
+<PB N="9" REF="9">
+I see Marriage writ in thy Face; and after railing at <GAP DESC="illegible" RESP="OXF" EXTENT="1 span"> thou art resolv'd to fall into the Noose at last.</P>
+</SP>
+<SP>
+<SPEAKER>Cler.</SPEAKER>
+<P>'Tis the properest time to fall into one.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>Then you begin to have nothing in your head now, but <GAP DESC="illegible" RESP="OXF" EXTENT="1 span"> Children, and the Main Chance.</P>
+</SP>
+<SP>
+<SPEAKER>Cle.</SPEAKER>
+<P>Nothing less, but instead of that, I have Pills, Elixers, Bolus's, Pti|zans, and Gallipots.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>Why, is the Lady you court an Apothecaries Widow?</P>
+</SP>
+<SP>
+<SPEAKER>Cle.</SPEAKER>
+<P>No, but she is an Apothecaries Shop, she holds all his Drugs, she has her Physick for every hour of the Day and Night &mdash; her Bed is lin'd with Poppies, the black Boys at the Feet, that the vulgar imploy to bear Flowers in their Arms, she loads with <HI>Diascordium,</HI> and other sleepy Potions, that the little Devils seem to nod o'er their Charge &mdash; her sweet Bags are not perfum'd with such common stuff, and offensive to the Brain, as Musk and Amber; but they breath the Delightful and Salubrious Scents of Hartshorn, Rue, and <HI>Assefetida.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>Why, she's fit to be the Consort of <HI>Hippocrates!</HI> but what other Charms has this extraordinary Lady?</P>
+</SP>
+<SP>
+<SPEAKER>Cle.</SPEAKER>
+<P>She has one, <HI>Tom,</HI> that a Man may relish without being so deep a Physician.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>What's that?</P>
+</SP>
+<SP>
+<SPEAKER>Cle.</SPEAKER>
+<P>Why 2000<HI>l.</HI> a Year.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>No vulgar Beauty indeed! but canst thou for any consideration join thy self to this Hospital, this Box of Physick, and be forc'd to lye all Night like Leaf-gold upon a Pill?</P>
+</SP>
+<SP>
+<SPEAKER>Cle.</SPEAKER>
+<P>Alas, <HI>Tom,</HI> this is not half the Evil, her humour is as strange as her Dyet &mdash; all about her must have fine Airs, and if she cou'd, her Posti|lion shou'd be a Gentleman &mdash; she setled a Pension upon one of her Foot|men for losing a Foretooth, and said he was maim'd in her service.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>I'm afraid you'll come to your Pension too for a more consi|derable maim &mdash; but what can you do with her, and her Physick; in a little time she'll grow like an Antimonial Cup, and a kiss will be able to work with you!</P>
+</SP>
+<SP>
+<SPEAKER>Cle.</SPEAKER>
+<P>The best way to avoid that danger, wou'd be to marry her; for most Wives may be Antimonial Cups long enough, without being found out of their Husbands; but to prevent that, <HI>Tom,</HI> I design to break all the Glasses, and kick the Doctor down Stairs, on the Wedding day; and so I have told her.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>That's very familiar; are you so near Man and Wife?</P>
+</SP>
+<SP>
+<SPEAKER>Cle.</SPEAKER>
+<P>O! nearer, we begin to hate one another already.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>I find then you'd Cure her of her Physick by a Counter-Poyson&mdash;but prithee <HI>Cleremont</HI> let me prevail with you to leave this humour of abusing Marriage; 'tis a mean Entertainment, and there's not a Porter in Town but can be too witty for you in it.</P>
+</SP>
+<SP>
+<SPEAKER>Cle.</SPEAKER>
+<P>You see then I am o' th' right side, for their sence can't rise above speaking Truth.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>Then to scorn Marriage while you desire it, is to treat your Mistress
+<PB N="10" REF="10">
+like a common Dame that will be kickt into humour; and you'll be thought to know no other way that only strive to huff her to it.</P>
+</SP>
+<SP>
+<SPEAKER>Cle.</SPEAKER>
+<P>Perhaps it might be the best.</P>
+<L>For Women born to be controul'd,</L>
+<L>Stoop to the forward and the bold.</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+</DIV1>
+<DIV1 N="2" TYPE="act">
+<HEAD>ACT II.</HEAD>
+<HEAD>SCENE I.</HEAD>
+<STAGE><HI>Enter Lady</HI> Dainty <HI>and</HI> Cloe, <HI>followed by two Foot-Men.</HI></STAGE>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<P>PEace good Impertinence, I tell thee no Woman of Quality is, or should be in perfect health; hah! hah!&mdash; <HI>Tom.</HI></P>
+</SP>
+<SP>
+<SPEAKER>1 <HI>Foot.</HI></SPEAKER>
+<P>Madam.</P>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<P>Go to my Lady <HI>Formals,</HI> ask how she rested, and tell her the vio|lence of my cold is abated&mdash;
+<STAGE>Exit Footman.</STAGE></P>
+<P>To be always in health is as insipid as to be always in humour; one is the effect of too little Breeding, as the other of too little Wit, and sit only for the Clumsy State of a Citizen &mdash; I am ready to faint under the very Idea of such a vulgar Life. Hah! hah! hah!&mdash;<HI>Will.</HI></P>
+</SP>
+<SP>
+<SPEAKER>2 <HI>Foot.</HI></SPEAKER>
+<P>My Lady!</P>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<P>Run to my Lady <HI>Lovevisit,</HI> and tell her Ladyship, that I am so imbarrast with the Spleen this Morning, I can't tell whether I shall be able to stir abroad; and know how she rested after the fatiegue of yesterday&mdash;hah! hah! hah! hah!</P>
+</SP>
+<STAGE><HI>Exit</HI> Foot-Man.</STAGE>
+<SP>
+<SPEAKER>Cloe.</SPEAKER>
+<STAGE>[Aside.]</STAGE>
+<P>These Ladies make themselves Sick, to make themselves business, and are well or ill, only in Ceremony to each other.</P>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<P>What doest mutter?</P>
+</SP>
+<SP>
+<SPEAKER>Cloe.</SPEAKER>
+<P>The new Foot-Man is not return'd.</P>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<P>'Tis indeed a strange Lump, I wonder the good, Lady <HI>Prayseall,</HI> shou'd recommend him to me, he is not fit to carry a Disease to any Body; I sent him t'other Day with the Chollick to some Ladies, and he put it into his own Language it seems, and call'd it the Belly-Ach! I was under the greatest Confusion! for the same Afternoon, two or three of 'em, in the Pub|lick China-House, Saluted me upon it,&mdash;I was forc'd to explain the Booby's meaning, else I had suffered the imputation of so vulgar a Disease! Hah! hah! hah!</P>
+</SP>
+<SP>
+<SPEAKER>Cloe.</SPEAKER>
+<P>I wish your Ladyship had not Occasion to send any: for my part&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<P>Thy part! Why thou wer't made, I think of the Masculine kind&mdash;'tis betraying our Sex, not to be Sickly and Tender! Whence came it, think'st thou, that we first were serv'd and attended, by Men of our own Rank, but that it was the good breeding of our Mothers to be Feeble.</P>
+</SP>
+<SP>
+<SPEAKER>Cloe.</SPEAKER>
+<P>I finding my Mother was a Clown.
+<STAGE>Aside.</STAGE></P>
+</SP>
+<SP>
+<PB N="11" REF="10">
+<SPEAKER>Lady.</SPEAKER>
+<P>Observe but the Families I visit, they have all something deriv'd to 'em, from the Elegant, Nice State of Sickness, you may see even in the Males, a Genteel, as it were stagger or twine of their Bodies&mdash;As they were not yet confirm'd enough, for the Rough, Laborious Exercise of Walking; a Saunter in their Motion, that is, so like Quality! And their Voice, is so soft and low, you'd think they were asleep, that are so very Delicate.</P>
+</SP>
+<SP>
+<SPEAKER>Cloe.</SPEAKER>
+<P>Methinks, Madam, it wou'd be better if the Men were not altoge|ther so tender.</P>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<P>Indeed, I have sometimes wish'd that they were not, but, it is to distinguish 'em from the gross Education of the Commons, and it is fit, since they differ so much by Nature, in their Spirit and their Form; Nay, most of their very Diseases, are not Prophaned by the Crowd, the Apoplexy and Gout, are peculiar to the Nobility, and I cou'd wish that Colds also were only ours, for there is something in 'em, so genteel and becoming! &mdash; Hah! hah! hah!</P>
+</SP>
+<SP>
+<SPEAKER>Cloe.</SPEAKER>
+<STAGE>[Aside.]</STAGE>
+<P>That I hope I shall never be fit for 'em&mdash;Your Ladyship forgot the Spleen.</P>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<P>O my Dear Spleen, I grudge even some of us; that ingenious Disease visits only the most Delicate.</P>
+</SP>
+<SP>
+<SPEAKER>Cloe.</SPEAKER>
+<P>I knew a Tradesman's Wife, that was mightily troubled with it.</P>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<P>A Tradesman's Wife! Ha! ha! Nay, those little Creatures, like the Monkey among Beasts, do follow us in ev'ry thing&mdash;They Dress! They Game! They have their Cold-Tea! Give Airs! Intriegue! And go as far as simple Nature can. Hah! hah! Never think it <HI>Cloe,</HI> a Meer Com|moner cou'd not be so honoured, as a Lyon they say will Fawn upon nothing but a King; so this Elegant distemper submits its self to none, but the well descended&mdash;I profess&mdash;I Feel it, while I commend it&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Cloe.</SPEAKER>
+<P>Will your Ladyship take some Steel drops, or some Bolus! or E|lectuary! or&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<P>This Wench will kill me with Questions, hah! hah! bring any of 'em.
+<STAGE><HI>Exit</HI> Cloe.</STAGE></P>
+<P>These healthy Sluts are too Boisterous for the Tender Frame of a Well-Bred Woman&mdash;I am resolv'd if there be a decay'd Person of Quality to be got in Town, I'll have her&mdash;ever since this Noisy Creature has been in my House, it has been taken for an Inn&mdash;Well the Commons of <HI>England</HI> are the strangest Creatures! Hah! hah!</P>
+</SP>
+<STAGE><HI>Re-enter</HI> Cloe.</STAGE>
+<SP>
+<SPEAKER>Cloe.</SPEAKER>
+<P>Madam, the Doctor, the Apothecary, the Exchange-Woman, and the Cunning-Man; that your Ladyship calls, Stro-strologer are below.</P>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<P>Bid 'em come up, they may divert my Spleen, better than the Me|dicine&mdash;Hah! hah! Well, the regularity of Life is certainly the happiest thing that belongs to it.</P>
+<STAGE><HI>Enter</HI> Cloe, Doctor, <HI>&amp;c.</HI></STAGE>
+<P>I am glad you 're come <HI>Doctor,</HI> for to live without you, is Sailing without a Compass; Mrs <HI>Pert,</HI> let me see how you have ordered those Ruffles.</P>
+</SP>
+<SP>
+<PB N="12" REF="11">
+<SPEAKER>Pert.</SPEAKER>
+<P>Madam, your Ladyship, I am sure will be in Love with 'em, I have made 'em to the Newest Fashion; some <HI>French</HI> Ladies were at my Shop Yesterday, and I cut 'em exactly with theirs.
+<STAGE>Opening a Box.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Dr.</SPEAKER>
+<P>How did your Ladyship rest?</P>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<P>Never worse <HI>Dr.</HI> but I know the reason, it was my Visiting-Night, and my Old Lady <HI>Linger</HI> stay'd after all were gone, and unmercifully kept me up, at least half an hour beyond my time.</P>
+</SP>
+<SP>
+<SPEAKER>Dr.</SPEAKER>
+<P>'Twas unsufferable, Madam, but I'll order something to compose your Ladyship, and repair that misfortune.</P>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<P>I like the Air of this Ruffle mightily &mdash; The <HI>French</HI> are certainly the most agreeable People upon Earth &mdash; Do they wear 'em so low?</P>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<P>Exactly, an' please your Ladyship&mdash;the Bottom of the Lace must agree with the Tip of your Ladyship's little Finger &mdash; To wear it higher, wou'd show too much of your Ladyship's Arm.</P>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<P>Which I wou'd not do by any means&mdash;it looks like a Washerwoman, to bare above the Ring&mdash;<HI>Dr.</HI> I long to enter on my New course of Phy|sick, but Pray let me have nothing in it, that may any way interrupt the or|der of my Visits, for I wou'd not purchase health so dear, as with the loss of one Days agreements.</P>
+</SP>
+<SP>
+<SPEAKER>Dr.</SPEAKER>
+<P>I shall be careful.</P>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<P>Mrs. <HI>Pert</HI>&mdash;Be sure you get me the Lace, for I'll wear none but what is Prohibited.</P>
+</SP>
+<SP>
+<SPEAKER>Pert.</SPEAKER>
+<P>I'll search all the Merchants Pockets, as diligently as their Wives do, but I'll have it for your Ladyship.</P>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<P>Mr. <HI>Rubarb,</HI> I must Quarrel with you&mdash;you don't enough disguise the Medicin's you send me &mdash; I can tast they are Physick&mdash;in a little time, you'll bring me to take plain Jalap? hah! hah!</P>
+</SP>
+<SP>
+<SPEAKER>Rub.</SPEAKER>
+<P>To alter it more, might offend the Operation.</P>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<P>I don't care what is offended, so my tast is not.</P>
+</SP>
+<SP>
+<SPEAKER>Dr.</SPEAKER>
+<P>Hark y' Mr. <HI>Rubarb,</HI> withdraw the Medicine <STAGE><HI>Lady</HI> Dainty <HI>turning to the</HI> Astrologer.</STAGE> rather than not make it pleasant, I'll find a reason for the Operation.</P>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<P>And is it possible, Sir, that the Stars shou'd have such Power over us, methinks they live at too great a distance.</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>All things here are rul'd by unseen ways, and what Physicians vainly ascribe to Drugs, is done by the Stars.</P>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<P>Well this is a divine Art, but, Sir, have the Stars any respect for a Face, or a Complexion?</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>Oh! Madam! More immediately as lying nearest their Orbs.</P>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<P>Well certainly this is the genteelest way of Curing that ever was invented, and seems design'd for the ease for the Nobility&mdash;To take our Medicines at the Mouth, is indeed so like a Horse! Hah! hah!</P>
+</SP>
+<SP>
+<SPEAKER>Dr.</SPEAKER>
+<STAGE>[<HI>Aside,</HI> to <HI>Rubarb.</HI>]</STAGE>
+<P>I have drain'd the Catalogue of Diseases already, and can't think what to put in her Head.</P>
+</SP>
+<SP>
+<SPEAKER>Rub.</SPEAKER>
+<P>Nay, Sir, if we don't look about us, sh'll grow well upon our Hands.</P>
+</SP>
+<SP>
+<SPEAKER>Dr.</SPEAKER>
+<P>Never fear that.</P>
+</SP>
+<STAGE><PB N="13" REF="11"><HI>Enter</HI> Clerimont.</STAGE>
+<SP>
+<SPEAKER>Cle.</SPEAKER>
+<P>So! here's the <HI>Levee!</HI> Doctor and Apothecary in close Consultation! They are worse than a Jury upon Life and Death &mdash; But yonders my En|gine at Work; the Stargazer has got her by the Ear &mdash; I must retreat and give him the sign.</P>
+</SP>
+<STAGE><HI>Goes behind the Scenes, and Sings</HI>&mdash;Corinna <HI>with a graceful Air,</HI> &amp;c.</STAGE>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<P>Ha!&mdash;'Tis a good Voice.</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>(Between the Stanza's) I foresee that some rude influence will sud|dainly assault you&mdash;I can't tell in what manner, but the same thing will prove afterwards very happy to you.</P>
+</SP>
+<STAGE><HI>The Song ended, Enter</HI> Clerimont.</STAGE>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<P>Ay, Sir: How true you speak!</P>
+</SP>
+<SP>
+<SPEAKER>Cle.</SPEAKER>
+<P>You see, Madam, what pains I take to contrive your diversion.</P>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<P>You take a very Preposterous way.</P>
+</SP>
+<SP>
+<SPEAKER>Cle.</SPEAKER>
+<P>I can't tell how I succeed, but I am sure I endeavour right, for I study every Morning new impertinence, to entertain you.</P>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<P>You need not study for it, Nature, Sir, will never fail you.</P>
+</SP>
+<SP>
+<SPEAKER>Cle.</SPEAKER>
+<P>But if she shou'd one day, the misfortune may be irreparable! You might forget to faint to be Shagreen, to have the Spleen, and all those agreeable things that distinguish a Woman of Quality.</P>
+</SP>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<P>I am perfectly confounded! Certainly there are some People too impudent for our resentment, but I shall leave him.</P>
+</SP>
+<STAGE><HI>Exeunt all but</HI> Clerimont.</STAGE>
+<SP>
+<SPEAKER>Cle.</SPEAKER>
+<P>All this shan't make me out of Love with my Virtue&mdash;Impudence, was ever a successful Quality, and 'twou'd be very unlucky, if I shou'd be the first that did not thrive by it.</P>
+</SP>
+<STAGE>Exit.</STAGE>
+<STAGE><HI>Enter</HI> Clarinda <HI>and</HI> Astrea.</STAGE>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>I find then, you are a true Politician, <HI>Astrea,</HI> and by an extraordinary Conduct have secur'd your self against the Curiosity of the World, the inso|lence of Servants, and what methinks a Woman most shou'd fear, the Ma|lice of revolting Favourites.</P>
+</SP>
+<SP>
+<SPEAKER>Astre.</SPEAKER>
+<P>That indeed is the most certain danger, for its grown the manner of the Fashionable Men, to recommend themselves to new Mistresses, by a Sacrifice of the Old, and make other surrender with the Barbarities they use to the Conquer'd.</P>
+</SP>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>Well! That one Rock now wou'd keep me from venturing to Sea.</P>
+</SP>
+<SP>
+<SPEAKER>Astre.</SPEAKER>
+<P>You will not be without dangers ashore, for there are some disa|greeable Puppies, that report a Woman ill because she wou'd not be so, but the real happy, like the real rich, seldom make a noise of it.</P>
+</SP>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>At this rate, the only way to preserve our Virtue, is to give it up like throwing away our Money, for fear we shou'd be rob'd of it &mdash; I find in a Poor Woman's Affairs, the Publick are very humorous, if she ventures she's lost, if she don't she is not safe, well I'm very honest yet, and&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Astre.</SPEAKER>
+<P>This is not generous, <HI>Clarinda</HI>&mdash;You see the Confidences I make you&mdash;Tell me, was you never in Love?</P>
+</SP>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>I don't know what Love is, but I like a Fellow mightily, that I saw at the Play last night.</P>
+</SP>
+<SP>
+<PB N="14" REF="12">
+<SPEAKER>Astre.</SPEAKER>
+<P>Ha! What sort of Man?</P>
+</SP>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>Nay, I can't tell, but he chas'd you, for as soon as you went, I miss'd him.</P>
+</SP>
+<SP>
+<SPEAKER>Astre.</SPEAKER>
+<STAGE>(<HI>Aside.</HI>)</STAGE>
+<P>'Tis too sure&mdash;His Heart fail'd him if he did, for he never came up with me&mdash;But where did he sit?</P>
+</SP>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>Just before our Box, in Red.</P>
+</SP>
+<SP>
+<SPEAKER>Astre.</SPEAKER>
+<STAGE>(<HI>Aside.</HI>)</STAGE>
+<P>'Tis he, what must I do!</P>
+</SP>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>You are Alarm'd!</P>
+</SP>
+<SP>
+<SPEAKER>Astre.</SPEAKER>
+<P>No, I am thinking if I know him.</P>
+</SP>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>He seem'd to be an agreeable idle Fellow, and his Conversation I o|verheard, was full of unusual Generosity.</P>
+</SP>
+<SP>
+<SPEAKER>Astre.</SPEAKER>
+<STAGE>(<HI>Aside.</HI>)</STAGE>
+<P>I have it, it may help my own design &mdash; What wou'd you give to see him?</P>
+</SP>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>Why, is it in your Power?</P>
+</SP>
+<SP>
+<SPEAKER>Astre.</SPEAKER>
+<P>Very much&mdash;But come into my Room, and there &mdash; I'll contrive your happiness &mdash; <STAGE>(<HI>Aside.</HI>)</STAGE> Or secure my own to deceieve my Ri|val's, an allowable Cheat.</P>
+<L>Th<GAP DESC="illegible" RESP="OXF" EXTENT="2 letters"> Nature, Friendship, Honour we remove,</L>
+<L>And no regards are prevalent in Love.</L>
+</SP>
+<STAGE><HI>Enter Sir</HI> Solomon <HI>and</HI> Freeman.</STAGE>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>Ha, ha, ha, to reach <HI>Peru</HI> in an hour, my happy <HI>Mariner</HI>!</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>My North Star!</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>Did not I tell you, <HI>Tom,</HI> I understood the World&mdash; Ha, ha, ha, but thou think'st she's a Wife?</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>Ay, and so Charming, that each Dart she shoots is big with double Death, and Kills at once with Love and Jealousy&mdash;She's a Blessing too great for any one Mortal.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>Ha, ha, that's pretty plain, <HI>Tom.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>A pretty Blush still rises in her Cheeks, her looks are Modest, and her Speech is Comely, a touch of her wou'd move you more than all the soft imbraces <HI>Venus</HI> us'd to warm the God of War!</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>You make my Blood boil with the Description, and throw me ten Years back to Youth&mdash;but how did'st attack her, I warrant she was mighty careful of her Honour?</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>No, she had too much Sence, for in these matters, those extraordi|nary Fears <GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">look more like a Gilt than Piety, and there's none so free of their Honour, as those that are very tender of it.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>Nay, I am apt to think, that the Women that talk of their Ho|nour, like the Men that talk of their Courage, are the People that least value it&mdash;But prethee, <HI>Tom,</HI> how was it then.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>Why, I fix'd my self near the Box.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>Ha!&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>Where I met an honest Fellow of our Regiment.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>Ha!&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>I observ'd she listen'd to our talk, and form'd my discourse accord|ingly.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>Sly Dog!</P>
+</SP>
+<SP>
+<PB N="15" REF="12">
+<SPEAKER>Fre.</SPEAKER>
+<P>She took occasion to go out before the Play was done.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>Ha! you Rogue!</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>And sent a Chair-man to me.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>Hark 'ye, <HI>Tom,</HI> did not I tell you I understand the World &mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>You did, Sir <HI>Solomon.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>You'll be rul'd by me another time?</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>Always, always.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>Looky, <HI>Tom,</HI> I am acquainted with these things, and if I please, cou'd tell you those that have been kept by Countesses &mdash; but let that pass&mdash; I always lov'd intrieguing &mdash; now what wou'd I give to know who the poor Dearee at home is. Ha! ha! ha! did she tell you that?</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>No, but I shall know all to day.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>I wou'd fain find him out to share with you the pleasure of laugh|ing at him; ha! ha! who can it be, perhaps some Old&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>Paralitick &mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>Driveling&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>Miser&mdash; that wou'd keep his Wife as he does his Money, as much from other Peoples use as his own.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>But you ask his Pardon there &mdash; I told you how 'twould be! Now, <HI>Tom,</HI> don't you, like some Generals, half flush'd with Victory, loose the Day by being too sure of it: There is Conduct to be used in Love as well as War, and you should pursue as well as Conquer&mdash; It was <HI>Pompey</HI>'s Character, to be able to get a Battle, but not to keep it; but be you a <HI>Caesar</HI> in Love, and trust not your Enemy out of your sight; the next thing you do, is to get acquainted with her Husband.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>That's the Old way; but methinks it is drawing the Danger too near his Eyes.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>Ay, so near, that he'll near be able to see it.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>Yet it is better done by a Friend&mdash; for first, if I keep him Com|pany abroad, I but make Opportunities that I can't use.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>Then you should drink him down at home.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>And so while I am qualifying him for a Cuckold, put it out of my Power to make him one.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>Talk what you will, <HI>Tom,</HI> ones bosom Friend is the properest Person to make one a Cuckold: then I'd fain have you acquainted with him, if it be only to see if there is any truth in that Old saying, that they are al|ways fond &mdash; My dear Rogue! of them that make 'em&mdash;He'll have an ex|tream Affection for thee.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>I suppose, according to the degree of mine, for his Wife; for Na|ture, is very grateful, before it is corrupted with Knowledge.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>Ha! ha! Well, certainly the Life of a Cuckold is a very happy one, as long as he does not know it&mdash; for all that do him the favour, are still ready to wait on him, and to humour him; and he, without knowing why, is mightily in love with them&mdash; Well, <HI>Tom,</HI> you do nothing with|out you bring this about&mdash; besides, I wou'd not be so unfashionably wicked, as not to make a Friend where I made a Cuckold.</P>
+</SP>
+<STAGE><PB N="16" REF="13"><HI>Enter</HI> Careless.</STAGE>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<STAGE>(<HI>Pulling</HI> Freeman)</STAGE>
+<P>Sir, Sir Captain.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>Ha, my Voluntier.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P><HI>Careless</HI> here, why thou art as generous as his Dog, and follow'st him in all Fortunes&mdash;But one wou'd a thought, tho' he was broke, you might a' been a Cadee, and rose in a standing Regiment.</P>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<P>What now there's a Peace, Sir <HI>Solomom</HI>?</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>Ay, ay, a common thing, but I see you have business &mdash; your Servant.</P>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>Sir <HI>Solomon,</HI> I Kiss your hands&mdash;What's the matter?</P>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<P>Don't stay a Minute, Sir; your Fortunes made.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>Prithee, unriddle first.</P>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<P>Nay, you'll slip the Opportunity.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>No matter, I'll hear it.</P>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<P>Why then, Sir, I have been Walking in the Mall&mdash; (as I usually do, till Dinner time is over) where I over-hear'd a Young Lady commend you at an unreasonable&mdash;
+<STAGE>Fre. <HI>Frowns.</HI></STAGE></P>
+<P>Extraordinary rate I mean, Captain, I took her at first to be one of those Military Ladies, that us'd to fight their way through Gowns and Pet|ticoats, under your Commission; but meeting your Friend, Capt. <HI>Blunt,</HI> he told me 'twas a Lady of 500 <HI>l.</HI> a Year.</P>
+</SP>
+<SP>
+<SPEAKER>Free.</SPEAKER>
+<P>500 <HI>l.</HI> a Year, Come! Come lets go&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<P>Nay, won't you hear it?</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>S'death, you unseasonable Dog, come along.</P>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE><HI>Enter</HI> Clarinda <HI>and</HI> Sylvia.</STAGE>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>Puh! go fetch the Book, then good Cousin!
+<STAGE><HI>Exit</HI> Sylvia.</STAGE></P>
+<P>Love, what a strange betwitching ill art thou! That those who feel thy Torments, wish no cure&mdash;I am Sick, and all I Hear, or See, or Dream of, is my Soldier&mdash;Yet I'm to be near him soon&mdash;But if I am, he perhaps mayn't Love, or at least mayn't know that I do&mdash;Or while in tedious Civil|lities, he Racks my heart&mdash;it will be Death to me&mdash;Happy ignorant Man! Have you found it?</P>
+</SP>
+<STAGE><HI>Re-enter</HI> Sylvia.</STAGE>
+<SP>
+<SPEAKER>Sylvia.</SPEAKER>
+<P>Yes.</P>
+</SP>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>Prithee Sing it, while we walk, for 'tis the only Song I can listen to.</P>
+</SP>
+<SP>
+<STAGE><HI>Sylvia</HI> Sings.</STAGE>
+<LG N="1">
+<HEAD>(1.)</HEAD>
+<L> Fond Woman with mistaken Art,</L>
+<L>Does on her self impose,</L>
+<L>She feels with grief the secret smart,</L>
+<L>Nor will the wound disclose.</L>
+</LG>
+<LG N="2">
+<HEAD>(2.)</HEAD>
+<L>We Sigh, we Burn, we Rage, we Die,</L>
+<L>Yet must the Curse indure,</L>
+<L>To see the Lov'd Physician nigh,</L>
+<L>And dare not ask the Cure.</L>
+</LG>
+</SP>
+<SP>
+<STAGE><HI>Cla.</HI> Sings.</STAGE>
+<LG>
+<L>And dare not ask the Cure. </L>
+</LG>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE><PB N="17" REF="13"><HI>Enter</HI> Freeman <HI>and</HI> Careless.</STAGE>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<P>Here, they went this way.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>Hold, we'll wait for 'em in this Double&mdash;500 <HI>l.</HI> a Year you say.</P>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<P>Ay, besides a great deal of ready Money.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>I did not see her Face, but 'tis the Tallest? Pray don't let me fail in Love with the wrong&punc; Woman.</P>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<P>Never apprehend it &mdash; A Man of your Necessities, methinks might know a Fortune by instinct&mdash;But hark ye, the Maid I hope is to be my Prize!</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>No, no, Sir, I won't have my Family Corrupted.</P>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<P>Nay, Sir, I have kept a Plaguy Long-Lent, and it won't be much in danger yet a while.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>Well, <HI>Iack,</HI> I have a Carnival for thee in my Pocket, and if <HI>I</HI> succeed in this Adventure, you shall never know another Lent.
+<STAGE>Strikes his Pocket.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<P>That indeed is Musick, and I'm recover'd with the Sound&mdash;'Zbud! We won't value the Fortune with that about us&mdash;But here they come.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>Ha! I have seen that Face.</P>
+</SP>
+<STAGE><HI>Enter</HI> Clarinda <HI>and</HI> Sylvia.</STAGE>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>Here again! Well if he has but Courage to advance, I have at pre|sent so little Hypocrisie about me, I shou'd surrender upon any Terms&mdash;Ha! he comes, my Resolution totters, and I find the Woman return upon me very Powerfully&mdash;I'm affraid I shall deny him.</P>
+</SP>
+<SP>
+<SPEAKER>Syl.</SPEAKER>
+<STAGE>(<HI>Aside.</HI>)</STAGE>
+<P>If I were sure the other was not a Servant! I cou'd like him mightily&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<STAGE>(<HI>to</HI> Cla.)</STAGE>
+<P>Madam, in these Familiar Walks, this Liberty's so common, that had I no business&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<STAGE>(<HI>Aside.</HI>)</STAGE>
+<P>Ay! Business!&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>You have taken away the Life of an Innocent Gentleman, who can find no quiet in his Grave, but sends me, Madam, who am all that can ap|pear of him, his restless Ghost!&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>A Ghost! Ha! ha! ha! Pray how long have you been dead?</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>Ever since last Night at the Play&mdash;I did but see you, and was lost.</P>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<P>Ah, Poor Man! Ghost I mean, but I am idle.
+<STAGE><HI>Goes to</HI> Sylvia.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>Nay, there you over did it, die in earnest&mdash;What part did you Act?</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>A Lovers, Madam.</P>
+</SP>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>No wonder you're a weary of your Coffin &mdash; But I warrant you wou'd make me some discovery&mdash;Well, where is your hidden Treasure?</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>Madam, you must follow me to find it&mdash;
+<STAGE>Offering at her Hand.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>O! No I dare not trust my self with a Ghost.</P>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<STAGE><HI>to</HI> Sylvia.</STAGE>
+<P>Nay, Madam, tho' the Captain is, as a Man may say, a Ghost; yet your Humble Servant, I assure you is Flesh and Blood, and the Worms have not had a Meal of me yet.</P>
+</SP>
+<SP>
+<SPEAKER>Syl.</SPEAKER>
+<P>I am sorry for it.</P>
+</SP>
+<SP>
+<PB N="18" REF="14">
+<SPEAKER>Car.</SPEAKER>
+<P>And cou'd you be so Barbarous to wish, This Face&punc; This Shape! These Limbs! To be thrown under ground.</P>
+</SP>
+<SP>
+<SPEAKER>Syl.</SPEAKER>
+<P>Ay! For they're fit for nothing above&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>Well, that I mayn't be troubled more with People of the other World&mdash;Say, I wish'd to lay you, what shou'd I do?</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<STAGE>(<HI>seizing on her Hand.</HI>)</STAGE>
+<P>Oh! Madam, you do it while you wish it, behold the Magick force of one kind Word, I'm all restor'd! The Life you give runs thrilling to my Heart, and I'm no more a shade.</P>
+</SP>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>What have I done! Nay, be a Ghost again or we part.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<STAGE>(<HI>Kneeling.</HI>)</STAGE>
+<P>Ah! Madam, don't repent your Bounty, that from a shadow rais'd a glowing Lover&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<STAGE>(<HI>to</HI> Sylvia.)</STAGE>
+<P>You're affraid I warrant to be talkt of, for Loving at first sight&mdash;Come it will be but a Nine-days Wonder&mdash;I shall see&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Syl.</SPEAKER>
+<P>All Puppies do in that time.</P>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<P>I find we shall have rare witty Children!</P>
+</SP>
+<SP>
+<SPEAKER>Syl.</SPEAKER>
+<P>'Twill Cross the Proverb else, if you are the Father.</P>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<STAGE>(<HI>Aside.</HI>)</STAGE>
+<P>'Tis likely to be a Match by her Natural aversion to me&mdash;Look ye, Madam, you may disguise your Inclinations if you please; indeed, if you had fallen in Love with an <HI>Aesop,</HI> or a <HI>Creon,</HI> you might have had scruples to own it, But&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Syl.</SPEAKER>
+<P>Well, certainly thou art the vilest Ragamuffin, that ever trotted af|ter a Soldier; Thou not only wearest thy Masters old Clothes, but the worst of Scraps; his ends of Sentences, and cast wit too.</P>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<P>And thou art certainly the most ignorant, <HI>Abigal,</HI> that ever snear'd behind a Lady, parts and Learning are lost upon thee, and thou understand'st nothing but a Bribe.</P>
+</SP>
+<SP>
+<SPEAKER>Syl.</SPEAKER>
+<P>I see then I'm in no danger of being talk'd to in my own Language.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<STAGE><HI>to</HI> Cla.</STAGE>
+<P>I find we may as soon meet an Ugly Woman without Affecta|tion, as a Pretty one without Cruelty, let some Passion prevail, be Merciful and hate me.</P>
+</SP>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>Nay, I'll rather glory in my indifference, and as a farther Proof of it, I walk here every Evening, and you shall see that you are not considera|ble enough to make me forbear one Day. Adieu!</P>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>Free.</SPEAKER>
+<P>May you be as Happy as you are Cruel!&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<P>Or as she is Kind.
+<STAGE>Aside.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Syl.</SPEAKER>
+<P>Farewel Frightful!</P>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<P>Farewel <HI>Mopsa!</HI></P>
+</SP>
+<SP>
+<SPEAKER>Free.</SPEAKER>
+<P>What's the matter.</P>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<P>All the matter is, that no Woman will be pleas'd with plain dealing, you have got a Mistress by being a Ghost, and I have lost one, by being Flesh and Blood, well, I see he that wou'd get a Woman must&mdash;</P>
+<L>With her own Arts the Hippocrite betray,</L>
+<L>For Woman ne'er was catch'd but her own way.</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+</DIV1>
+<DIV1 N="3" TYPE="act">
+<PB N="19" REF="14">
+<HEAD>ACT III.</HEAD>
+<HEAD>SCENE I.</HEAD>
+<STAGE><HI>Enter</HI> Astrea.</STAGE>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>HE stays very long &mdash; if <HI>Clarinda</HI> comes first, I shan't have time for my purpose &mdash; but what am I going to do? &mdash;to bring my Gallant to one that admires him&mdash; a pretty undertaking &mdash; but I have engag'd, and can't withdraw. Yet stay, by this I shall lay the Fame of the Intriegue upon her, and like a wise Monarch, make others fight for what I only enjoy&mdash; 'tis rare&mdash; but if he should like her I am lost.</P>
+</SP>
+<STAGE><HI>Enter</HI> Fidelia.</STAGE>
+<SP>
+<SPEAKER>Fid.</SPEAKER>
+<P>Madam, there's a Gentleman below, Mrs. <HI>Friendlove</HI> calls Captain.</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>Oh 'tis well &mdash; Hark ye, <HI>Fidelia,</HI> you must respect this Gen|tleman.</P>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>Fid.</SPEAKER>
+<P>Certainly my Lady is the happiest Woman in the World, and the greatest Politician: she does every thing with such an Air, that ev'n I that am privy to her Intriegues, dare not seem to know 'em; and the Fame of her Virtue protects her against all discoveries&mdash; She's grown a Proverb, the Citizens preach her to their Wives, and the Courtiers to their Daugh|ters, and now 'tis granted, that there is a pitch of Virtue secure against re|proach&mdash;but I must go to divert the Woman of the House; for Lovers are best Company with one another; and she'll tell 'em a story of her Fa|mily, till they wish her at the Devil. Well! there is one happiness in be|ing a Ladies Woman, it instructs us in the Fashionable Mysteries of Lying, Hypocrisy, and Intriegue: so that half a Years Service, I'll maintain, shall teach a Woman to Cuckold her Husband, with more dexterity, than ten Years practice.</P>
+</SP>
+<STAGE>Exit.</STAGE>
+<STAGE><HI>Enter</HI> Freeman <HI>and</HI> Astrea.</STAGE>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>I'm in a Wood.</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>To bring you out I must tell you &mdash; that 'tis with a great deal of difficulty I stir abroad, and that I have contriv'd your acquaintance with her, who is my Relation, and Neighbour, in order to gain more opportunities for my self, and under that colour make our affair as lasting as secure.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>I begin to understand you &mdash; I must publickly declare my self, Madam <HI>Clarinda</HI>'s Lover, while&mdash;an excellent Plot&mdash;which if you thought of it?</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>You are Mad &mdash; I tell you she's in earnest; she saw you, lik'd you, and would not rest till I had told her a possibility of seeing you again, which I promis'd for the reasons I have given&mdash; now d'ye think I han't made a great venture?</P>
+</SP>
+<SP>
+<PB N="20" REF="15">
+<SPEAKER>Fre.</SPEAKER>
+<P>Is she very handsome?</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>If she were, I find I should be in danger.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>No, but I should then convince you, nothing could shake your inter|est in my heart.</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>Well, some People do think her handsome, I wish you mayn't: but have a care how you move, I shall be very Jealous!</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>I'm afraid I shall do it so awkardly &mdash; she'll find me out.</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>Trust nature: but I have one scruple just comes into my head that will spoil all.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>Nay then we are lost, what is it?</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>I'm afraid we shall lose the pleasure of the adventure, to think that it will not be in our own power to discover it.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>That indeed is a scruple I should not have thought of, but we must bear our misfortune as well as we can; and let us not be the first instance of Lovers that could not brook adversity.</P>
+</SP>
+<STAGE><HI>Enter</HI> Fidelia.</STAGE>
+<SP>
+<SPEAKER>Fid.</SPEAKER>
+<P>Madam, Mrs <HI>Clarinda</HI> is at the Door.</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>Very well.
+<STAGE><HI>Exit.</HI> Fidelia&punc;</STAGE></P>
+<P>Stay here while I prepare her, and in the mean time I'll send Mrs. <HI>Friendlove</HI> the Woman of the House, to entertain you with her Pedigree and Imper|tinence.</P>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>Freeman <HI>Solus.</HI></SPEAKER>
+<P>This is an Excellent Wench, and I Love her Heartily, but 500 <HI>l.</HI> a Year I don't know what to do, let me consider, if I Marry there's a Pretty Wo|man, and 500 <HI>l.</HI> a Year, which are not often together&mdash;Hum! If I don't, here's the most agreeable Creature in the World, and &mdash; Hum&mdash;A Poor Lover is the Devil&mdash;No Bankrupt ever found a fair one Kind. Now for this Well-wisher to the Mathematicks:</P>
+</SP>
+<STAGE><HI>Enter</HI> Friendlove.</STAGE>
+<SP>
+<SPEAKER>Friend.</SPEAKER>
+<P>A lack-a-Day! Here's the Poor Gentleman alone.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>This is kindly done, Madam:</P>
+</SP>
+<SP>
+<SPEAKER>Friend.</SPEAKER>
+<P>You and I Captain must be acquainted it seems.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>You make me proud:</P>
+</SP>
+<SP>
+<SPEAKER>Friend.</SPEAKER>
+<P>I knew one of your Name in <HI>Nottingham,</HI> I believe we are a little related&mdash;For you must know Captian, as I told you within, I am some way a Kin to most of the great Families in <HI>England,</HI> and I never was two Minutes with any Body of Pedigree, but I found out that I was their Cousin.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>Very likely, Madam&mdash;(This is an Original)
+<STAGE>Aside.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Friend.</SPEAKER>
+<P>For which reason, Captain, out of pure respect to my Relations, I make all my Servants call me at every Word, My Lady, and your Ladyship.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>Your Ladiship is extremely in the right.</P>
+</SP>
+<SP>
+<PB N="21" REF="15">
+<SPEAKER>Friend.</SPEAKER>
+<P>Ha! ha! ha! I'll tell you a very pretty Accident, where I was visiting t'other Day, came in three Welch Ladies, who pretend (forsooth) to be above other Folks for Family, and to be related to none but themselves&mdash;But in a quarter of an hour's time, Captain, nothing was so great, as I and my Cousins, for upon a Comparison of our Pedigree, it appear'd, that we all came from a Marriage of the <HI>Ap Shinkins,</HI> and the <HI>Ap Shones,</HI> but you don't mind Me, you are thinking of Miss.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>Miss!</P>
+</SP>
+<SP>
+<SPEAKER>Friend.</SPEAKER>
+<P>Ay, my Cousin <HI>Caelia,</HI> I call her Miss, because, I knew her from a Child, It was the neatest best humour'd thing &mdash; But pray, Captain how long have you been in <HI>Flanders.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>Three Years, Madam&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Friend.</SPEAKER>
+<P>She always delighted in her Chamber, and plac'd every thing in such order! I warrant you have a Mistress in every Town!</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>Yes, Madam.</P>
+</SP>
+<SP>
+<SPEAKER>Friend.</SPEAKER>
+<P>Poor Gentleman! You can't think how Miss would work, she made me the Prettiest Purse, and I lost it, going with some Ladies to a For|tune-Tellers.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>This is design'd Murder.
+<STAGE>Holding his Ears aside.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Friend.</SPEAKER>
+<P>But now you talk of Fortune-Tellers, Captain, I know some Peo|ple laugh at 'em, but as sure as you are there, he told me every thing so ex|actly, that I was forc'd to give him t'other, Shilling to hold his Tongue.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>You did very prudently, Madam.</P>
+</SP>
+<SP>
+<SPEAKER>Friend.</SPEAKER>
+<P>Are the Women in <HI>Flanders</HI> very handsome.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>No, but to make amends they are very Kind.</P>
+</SP>
+<SP>
+<SPEAKER>Friend.</SPEAKER>
+<P>Huh! Are they so&mdash;Well I Love sincerity.</P>
+</SP>
+<SP>
+<SPEAKER>Free.</SPEAKER>
+<P>No Body dies there of any thing but Bullets.</P>
+</SP>
+<STAGE><HI>Enter</HI> Clarinda <HI>and</HI> Astrea.</STAGE>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>Here's a Man!</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>Ha! Here will be fine Work!
+<STAGE>Aside.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Friend.</SPEAKER>
+<P>Come Ladies don't be frighten'd, here's enough of us to deal with one Man&mdash;'Tis Capt. <HI>Freeman,</HI> a Cousin of Mine, who has been giving me an account of his Travels, which is so diverting.</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>He looks alarm'd, I'll watch Him.
+<STAGE>Aside.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Friend.</SPEAKER>
+<P>He says the Women in <HI>Flanders,</HI> Miss, are not half so handsome, as they are here.</P>
+</SP>
+<SP>
+<SPEAKER>Free.</SPEAKER>
+<P>These Ladies will Justify it.</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>I find there are Courtiers in <HI>Flanders,</HI> if there are no Beauties.</P>
+</SP>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>You're the first Traveller, Sir, that did not highten the Rarities of of the Place&mdash;I'll warrant there are handsome Women.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>There may, Madam, but they don't do so much mischief as in <HI>England</HI> &mdash; They know the danger of letting 'em be seen, and kindly keeping 'em up in Nunneries, and Convents.</P>
+</SP>
+<SP>
+<SPEAKER>Friend.</SPEAKER>
+<P>I Love 'em for that truly &mdash; I am glad I was not born there, a Woman must spend her Youth and Beauty, over a String of Beads, or a
+<PB N="22" REF="16">
+piece of Needle-Work, a pretty diversion, we know better things in <HI>England.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>It may be a cunning, Sir, to encrease that danger you speak of, for what is always before us, does not affect us so much; and where Beauty is so common, I fansie it does little harm.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>Against that, Madam, you are an instance.</P>
+</SP>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>Mrs. <HI>Friendlove,</HI> your Relation has Travel'd farther than <HI>Flanders.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Friend.</SPEAKER>
+<P>Pardon me, Madam, my Cousin knows a pretty Lady, and if he had turn'd his Eyes off you, might have seen more instances.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<STAGE>[turning to her.]</STAGE>
+<P>(O dear Madam) <STAGE>[Aside.]</STAGE> A good occasion to Court my Mistress.</P>
+</SP>
+<SP>
+<SPEAKER>Friend.</SPEAKER>
+<P>Oh good, Sir&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>I must have confess'd&mdash;that thou art a Monster.
+<STAGE>Aside.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Friend.</SPEAKER>
+<P>Sweet, Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<STAGE>[<HI>looking upon</HI> Clarinda, <HI>all the while.</HI>]</STAGE>
+<P>So much Youth and Beauty.</P>
+</SP>
+<SP>
+<SPEAKER>Friend.</SPEAKER>
+<P>Oh dear, Sir&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Free.</SPEAKER>
+<P>The most agreeable Air&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Friend.</SPEAKER>
+<P>The civilest, best bred Gentleman&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>And Wit, that would have Kill'd, without the Assistance of your Eyes.</P>
+</SP>
+<SP>
+<SPEAKER>Friend.</SPEAKER>
+<P>Well I Love, Truth and Honour!</P>
+</SP>
+<SP>
+<SPEAKER>Cla. Ast.</SPEAKER>
+<P>Ha! ha! ha! He manages it rarely.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>The genteelest Woman in the World&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Friend.</SPEAKER>
+<P>And do you really think so?&mdash;Well, Cousin <HI>Clarinda,</HI> you'll be reconcil'd to the Captain, one would not think he had Travel'd at all by his sincerity&mdash;Sweet Captain.</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<STAGE><HI>aside to</HI> Cla.</STAGE>
+<P>O the Beast!</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>And were you half so cruel as you are fair, I were lost.</P>
+</SP>
+<SP>
+<SPEAKER>Friend.</SPEAKER>
+<P>'Twould be pity so worthy a Gentleman.</P>
+</SP>
+<SP>
+<SPEAKER>Free.</SPEAKER>
+<STAGE>[Aside.]</STAGE>
+<P>She'll consent before I have half done &mdash; From the first minute I saw you, you have been present to my Thoughts.</P>
+</SP>
+<SP>
+<SPEAKER>Friend.</SPEAKER>
+<P>Poor Gentleman, one does not know one's Power.
+<STAGE>aside.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>And I should think of you, though I were speaking to a Monster.</P>
+</SP>
+<SP>
+<SPEAKER>Friend.</SPEAKER>
+<P>Well, he is a charming Man! &mdash;
+<STAGE>aside.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>I behold that beauteous Face and blooming Youth, though a nauseous Hag, and wither'd Age were before me&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Friend.</SPEAKER>
+<STAGE>(<HI>Pulls out a glass aside.</HI>)</STAGE>
+<P>I do look killing to day &mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>Is it possible, my lovely Unbeliever, you should see me, and suspect your interest in my heart.</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<STAGE>(<HI>Aside.</HI>)</STAGE>
+<P>I can't bear it tho' in jest&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>'Twould be cruel in her to do so, let me perswade.</P>
+</SP>
+<SP>
+<SPEAKER>Friend.</SPEAKER>
+<P>One must not believe all that Men say, Cousin, they are very de|ceitful&mdash;tho' I must needs own, the Captain is a worthy Gentleman, and very Judicious.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>Oh! Madam, let me Kneel to thank you&mdash;continue, most distin|guishing Lady, to pity me, and move that stubborn Fair One in my Favour. You never pleaded in so just a Cause, nor is any so fit to argue it as you&mdash;O
+<PB N="23" REF="16">
+that I could but manifest my Breast, you would see the Pains I feel, that I Sigh, that I Burn, that I could Die, to Merit the Heart of the Lovely <HI>Clarinda.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Friend.</SPEAKER>
+<P><HI>Clarinda</HI>!</P>
+</SP>
+<SP>
+<SPEAKER>Cla. Ast.</SPEAKER>
+<P>A Pleasant mistake.</P>
+</SP>
+<SP>
+<SPEAKER>Friend.</SPEAKER>
+<P>A strange mistake!</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>'Tis so usual with Lovers, Madam, that I have known some make Love in Jest, till they forget the Occasion.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<STAGE>(<HI>Aside.</HI>)</STAGE>
+<P>A touch for me, I must take care&mdash;And where it was in the Heart before, Madam, 'tis an easier mistake.</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>I own it&mdash; <STAGE>(<HI>Aside to him.</HI>)</STAGE> But you do it very Passionately.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>I think of you.</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>You was affraid you shou'd be so awkard.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>You can't be jealous&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>I don't know what <HI>I</HI> am, but <HI>I'm</HI> in pain&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<P>The violence of his Love to you made him forget himself&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Friend.</SPEAKER>
+<P>Very likely, nay, it must be so.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>You are generous, Madam, to excuse an unhappy Lover.</P>
+</SP>
+<STAGE><HI>Enter</HI> Fidelia.</STAGE>
+<SP>
+<SPEAKER>Fid.</SPEAKER>
+<P>Madam, the Chocolate is ready.</P>
+</SP>
+<SP>
+<SPEAKER>Friend.</SPEAKER>
+<P>Come, come, Cousins all! We'll talk more within&mdash;Well, <HI>I</HI> shan't find in my Heart to let him live in Pain&mdash;Poor Man! <STAGE>(<HI>Looking on the Glass.)</HI></STAGE> Very well! Mighty pretty! I'm overjoy'd!</P>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE><HI>Enter</HI> Cleremont <HI>and</HI> Doctor, <HI>and Drawer with Wine, Table and Chairs.</HI></STAGE>
+<SP>
+<SPEAKER>Cle.</SPEAKER>
+<P>Bring the Wine into this Room, it is more private: soh! leave us&mdash;
+<STAGE>Exit Drawer.</STAGE></P>
+<P>Now Doctor, you fully know my grief&mdash;There's nought without the Compass of your Art&mdash;That subtle Art, that pierces deeper than the Skin, and views a Ladies Mind as well as Body; sees all the secret Motions of her Heart, and every Passion there: Can direct their violence, or, if it pleases, make new Impressions&mdash;But first your Health&mdash; <STAGE>(<HI>drinks.</HI>)</STAGE> Come, Doctor, this is Physick you may take.
+<STAGE>Fills.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Dr.</SPEAKER>
+<P>Sir, I'll do you reason&mdash;Sir.
+<STAGE>(<HI>Drinks.</HI>)</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Cle.</SPEAKER>
+<P>If one Deity can inspire another, speak my Oracle, shall <HI>I</HI> live, or die?&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Dr.</SPEAKER>
+<P>I have told you, Sir, <HI>I</HI> cannot help you&mdash;There's not a Lady at Court wou'd trust me after, Betray the Counsels of my Patients!&mdash;Sir, 'Tis from their Opinion of our secrecy we live&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Cle.</SPEAKER>
+<P>And 'tis from a no less confidence of that virtue in you, Doctor, that I open my self thus, Do ye think a secret of this nature &mdash; but, Sir, my service to you &mdash; <STAGE>(<HI>Drinks.</HI>)</STAGE> I assure you, Doctor, if I had not an Opi|nion of your honour&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Dr.</SPEAKER>
+<P>You would doubt it very much if <HI>I</HI> did this, <STAGE>Drinks.</STAGE> 'tis impossible, Sir, <HI>I</HI> dare not venture.
+<STAGE>Sees his Hand in his Pocket.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Cle.</SPEAKER>
+<P>Come, Doctor, you are too Scrupulous&mdash;
+<STAGE>Gives him Money.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Dr.</SPEAKER>
+<P>Alas, Sir, <HI>I</HI> would do any thing to serve you&mdash;But you cann't blame my fears, when my Honour, Fame, and future Fortune depend on the success.</P>
+</SP>
+<SP>
+<PB N="24" REF="17">
+<SPEAKER>Cle.</SPEAKER>
+<P>Nay, I must needs commend your caution, and blame my self for not considering that you would use it&mdash;But your secret will be safe&mdash;It is my interest, and in that Doctor, all Men are sincere.</P>
+</SP>
+<SP>
+<SPEAKER>Dr.</SPEAKER>
+<P>Worthy, Sir, I am intirely yours, but now, Sir, the first difficulty will be the greatest&mdash;How to break it.</P>
+</SP>
+<SP>
+<SPEAKER>Cle.</SPEAKER>
+<P>Oh! there are a thousand ways&mdash;You must think of some Distemper, and prescribe me to her as Physick: She'll take me as a Potion at least, tho' she won't as a Lover&mdash;Come, Doctor, here's to her new disease&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Dr.</SPEAKER>
+<P>You are pleasant, Sir,</P>
+</SP>
+<SP>
+<SPEAKER>Cle.</SPEAKER>
+<P>If you could but make her Sick in half the time that you have made me well&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Dr.</SPEAKER>
+<P>I'll pawn my Art for the success.</P>
+</SP>
+<SP>
+<SPEAKER>Cle.</SPEAKER>
+<P>Why now, my Doctor speaks like the Off-Spring of <HI>Aesculaepius</HI>&mdash;This indeed is Physick&mdash;There's balm in every Word, that new creates my Soul&mdash;But, Dear Doctor, let me not delay your Art with praising it&mdash;go and be immortal.</P>
+</SP>
+<SP>
+<SPEAKER>Dr.</SPEAKER>
+<P>I fly; and if I don't effect her way, all my Patients die when <HI>I</HI> come near 'em&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Cle.</SPEAKER>
+<P>Or which is as bad&mdash;may they all grow well with the first Dose&mdash;Few People know the true use of a Physician, were they well apply'd&mdash;But how stubborn this Rascal was, before he felt the Gold&mdash;well there's no Cor|dial like this grand <HI>Elixir!</HI> This is the true <HI>Panacaea!</HI> The Food of your Physician, which the unknowing Patint parts with for Drugs and Death&mdash;But I must follow him&mdash;</P>
+</SP>
+<STAGE>Exit.</STAGE>
+<STAGE><HI>Enter</HI> Astrea <HI>and</HI> Clarinda.</STAGE>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>Ha! ha! ha! Was there ever such a Monster!</P>
+</SP>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>Not to perceive so plain a Cheat&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P><HI>It</HI> was pleasant enough to see how fast she melted, and how much he labour'd to prevent it&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>But the Beast, in half an hour to consent to Marry him.</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>Old Women are always tender-hearted, and their Experience makes 'em know how to value Opportunities.</P>
+</SP>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>Well, sure I shall never be such a Creature.</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>You can't tell, <HI>Clarinda</HI>; for the Opinion of our Beauty is the last thing that leaves us.</P>
+</SP>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>I believe indeed a Woman sees her Decays sooner in the Mens Faces than her own.</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>But no Body minds a true Mirrour.</P>
+</SP>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>Yet sure it must be very unhappy to keep up the Opinion of our Beauty, after every body else has laid it down: And the Humour of the Town is very quick in these Cases, for when a Woman is Thirty&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>She grows a very discreet sort of a Body!&mdash;Well, it must needs grate a fine Creature, that is just declining, and still perhaps with all her Loevrs glowing in her Thoughts, to see the Tide pass by her, and hear the Mortifying Sound&mdash;<HI>She was!</HI></P>
+</SP>
+<STAGE><PB N="25" REF="17"><HI>Enter</HI> Fidelia.</STAGE>
+<SP>
+<SPEAKER>Fid.</SPEAKER>
+<P>Madam, my Lady <HI>Dainty</HI> is inquiring for your Ladiship.</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>I hope she will do me the Honour to come up.</P>
+</SP>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>My Lady <HI>Dainty?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>I believe you don't know her Person, but you must her Character.</P>
+</SP>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>I warrant this is she that thinks it the truest Mark of Quality to be Nice and Sickly; and is as much afraid of looking well, as other Folks are fond of it.</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>Many People are Fops in their Mien and Habit, but her Ladiship is so in her Understanding, and takes as much Pains to punish her Inside, as to adorn her Out.</P>
+</SP>
+<STAGE><HI>Enter the Lady</HI> Dainty.</STAGE>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<P>Well, I am the happiest Woman in finding your Ladiship at home!</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>You do me an Honour&mdash;Madam, a Relation of mine.</P>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<P>I shall strive to be of her Acquaintance &mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>Your Ladiship makes me proud.</P>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<P>I have made at least twenty Visits to day, and not above Ten were at home, which I take to be a great good Fortune, in having my Day's Journey so happily shortned to your Ladiship, for in you I terminate my Evening: And 'tis so bless'd a thing to arrive where one loves, after the tedious Endearments of so many one hates in a Day's visiting. Huh! Huh! &mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Ast,</SPEAKER>
+<P>Your Ladiship is certainly the most obliging thing!</P>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<P>Meeting with a Reasonable Creature at last, is like unlacing after being squeez'd up in a strait Pair of Boddice. Huh! Huh!</P>
+</SP>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>You must needs be very much fatigu'd.</P>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<P>O quite spent! Not but my Coach is very easie, yet repeating so many <HI>How d'ye's</HI> in a Day is enough to kill a Horse.</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>Pray where was your Ladiship last?</P>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<P>Why, Madam, at my Lady <HI>Thrivewell</HI>'s in the City, who knows no other Happiness, and thinks there is no other Welcome but Eating and Drinking! At the Sight of her Table I was ready to swoon, coming out of the Air! Huh!</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>How was it spread, Madam?</P>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<P>At the upper End sat her Ladiship, and at each Elbow a Daughter with Arms like Plough-Men, and Cheeks like Milk-Maids &mdash; They were enough to beat one down with their Breath &mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>Ha, ha! a goodly Appearance!</P>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<P>The Table, (or rather Larder) was fill'd with <HI>Westphalia</HI> Hams, Pullets, and Turkey-Pies; with a great <HI>Cheshire</HI> Cheese, that rival'd every one in bulk but her Ladiship; and a large Tankard of Ale, enough to de|stroy a Dozen Porters. Huh! Huh! &mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Cla. Ast.</SPEAKER>
+<P>Ha! ha! ha!</P>
+</SP>
+<SP>
+<PB N="26" REF="18">
+<SPEAKER>Lad.</SPEAKER>
+<P>She forc'd me to sit down, and put enough upon my Plate to serve me my whole Life &mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>She design'd you a Complement &mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<P>To see the Titles of Quality join'd with such Mob Dispositions! Well, there's nothing distinguishes the Commons so much as their Eating; and I never knew a true Plebeian but was a hungry &mdash; Huh! huh!</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>Your Ladiship knows the Elegance of Life.</P>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<P>I aim at it a little &mdash; But there is one Mark by which you may know such Creatures, tho' you don't see 'em; for it is the most Essential Property of the Vulgar to speak loud; their common Discourse is some Degrees above the Noise of a Drum. For which Reason, when any raises their Voice above a Whisper, I strait conclude, That they are either no Quality, or at most but half Blood; and 'tis likely the Fault might be of the Side of the Mother.</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>Ha, ha! Your Ladiship is certainly the most entertaining Creature!</P>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<P>But now Ladies, exactly opposite to this, is the Life of the Refin'd and Well-bred part of the Creation. The Vulgar, like other Beasts, are up and Feeding before it is Day; but about a Delicate Creature every thing is slow and solemn.</P>
+</SP>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>The Noises of the Streets, Madam, must be great Enemies to that Quiet.</P>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<P>So great, that I have often wonder'd why the Government don't provide against so manifest a Barbarism. They should defend our Ears against offensive Sounds, and banish all that had the little Breeding to rise before Eleven a Clock.</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>I shou'd vote for that Law; for I'm a mighty Friend to my Pillow&mdash;But pray, Madam, go on with your Description.</P>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<P>Here then, Ladies, I must needs lament that we are in some respects not unlike the Crowd; And that it is still a Custom among us to go upon our own Legs. I have often admir'd the <HI>Chinese</HI> Nobility; who, to prevent the Infamy of so Vulgar an Exercise, contract the Feet of their Infant-Quality, and keep 'em so little, that when they are of Age they may not use 'em; and never cut their Nails that they might not be suspected to work with a Needle &mdash; Is it not a Scandal to the Nobles of <HI>Eng|land,</HI> to let a <HI>Barbarian</HI> transcend 'em in so high a point of Elegance?</P>
+</SP>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>That, indeed, is one step to take away the Trouble of moving at all, and make 'em live the Life of a Plant.</P>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<P>Which wou'd be truly, bless'd! For methinks People of Quality shou'd be known more by their Passions than their Figure; and that is al|ways a certain Way: For our Joy never rises above a Smile, nor our Sor|row above the Decency and Colour of our Clothes.</P>
+</SP>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>So that when a dear Friend dies &mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<P>To shed Tears is the Grief of a Peasant.</P>
+</SP>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>It discovers our Love at least.</P>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<P>As ill as it does our Breeding; For our Love for the Dead is best shown in our Respect to the Living, and there the Fashion is against it; be|sides Tears are the worst Wash one can possibly use for the Complexion &mdash;
+<PB N="27" REF="18">
+Huh, Huh!--But to make an end of this Subject; There is one thing that more remarkably distinguishes Persons of Rank from the Commons, and that is our Natural Contempt of Business. Now the Vulgar, like a Hackney-Horse, never stir abroad without something to do; and they visit, like a Merchant upon <HI>Change,</HI> for their Profit more than their Pleasure. But it is a Reproach to the Honour of a Well-bred <HI>Woman,</HI> to have any thing in her Head but the Fashions, or to know any Fatigue but <GAP DESC="illegible" RESP="OXF" EXTENT="1 word"> Idleness.</P>
+</SP>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>Does your Ladiship never go to the Play?</P>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<P>Often, Madam, but not to mind the Actors, for it is common to love Sights &mdash; My great Diversion is to turn my Eyes upon the Middle Gallery;&mdash;or when a Citizen crowds her self in among us, 'tis an unspeak|able Pleasure to contemplate her Airs and her Dres&mdash;And they never escape me; for I am as apprehensive of such Creatures coming near me, as some People are when a Cat is in the Room&mdash;Huh! huh! But the Play is be|gun, and, if you please, we'll leave the Discourse, and go to the Things.</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>We are glad of the Occasion.</P>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<P>For the Audience is much the more Entertaining Sight, and tho' they call the Stage the Image of the World, yet the Box and the Gallerys are certainly the truer Picture; For you may observe, in all Nations, the Mobb, when they pl<GAP DESC="illegible" RESP="OXF" EXTENT="2 letters">se, are uppermost so there.</P>
+<L>Those Greasie Rulers sit above, below</L>
+<L>The Fine-Nice-Tender-Powder'd Thing, a <HI>Beau.</HI></L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+</DIV1>
+<DIV1 N="4" TYPE="act">
+<PB N="28" REF="19">
+<HEAD>ACT IV.</HEAD>
+<HEAD>SCENE I.</HEAD>
+<STAGE><HI>Enter Sir</HI> Solomon Empty <HI>and</HI> Freeman.</STAGE>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>WHy <HI>Tom,</HI> as great Capacities are requir'd in a Lover as a Privy Councellour, and nothing looks so dull in a young Man as not to aim at Intrigue in all he does &mdash; my Rule was always to steal in at a Window and out at a Trap-door.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>When there is no other way &mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>Other way! If there was I wou'd not use it &mdash; tis the Diffi|culty and the Danger that make it pleasing and like design &mdash; I'd come if I cou'd thro' the Tyles and fall like <HI>Iove</HI> into her Lap.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>Such thundring Gamesters as you and <HI>Iupiter,</HI> Sir <HI>Solomon</HI> maybe pleas'd with Difficulties, but a Puny Loyer as I am wou'd lose his Stomach if there was any thing to be done but directly falling to&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>Well I see <HI>Tom,</HI> thou hast not a Spirit, a Genius for Intrigue &mdash;there is often more Pleasure in the Design than the thing &mdash; now shou'd I never rest till I had made the Husband accessary, it sweetens the Stealth, and makes it more secure, or if no Husband a Brother that is Jealous of the Honour of his Family &mdash; why <HI>Tom,</HI> I have imploy'd Fathers and Mothers in this Business!</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>Nay Sir <HI>Solomon,</HI> there is none so fit to take care of 'em as they that get 'em.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>Ha! ha! My witty Rogue&mdash;sure she's mightily pleas'd with you!</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>She tells me so.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>Ye happy Dog! &mdash; but prithee <HI>Tom</HI> tell me a little more for I love to find my Plots Succeed, what sort of Wench is it &mdash; ha!</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>A Beauty able to renew the long lost Fire in your Heart, and turn you to a Rival.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sal.</HI></SPEAKER>
+<P>Egad sirrah, I'd Cuckold ye if I knew her, for this Libel &mdash;hah! Hem! I'am as Strong as you are &mdash; but no more of that, kneel down and thank me for my Advice &mdash; I understand the World <HI>Tom!</HI> But go on, is she Black or Fair, Tall or Short? Ha!</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>She's neither, but agreeably divided between 'em all &mdash; her Mien is easie without Affectation, and in her Face a pretty Haughtiness appears that melts it self into a Smile, and every Heart that sees it into Love.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>But Dear <HI>Tom,</HI> how was she set off, what Rigging had she? Ha!</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>I was not so Idle as to make a Critick on her Dress, but I think she had a Yellow Gown &mdash;</P>
+</SP>
+<SP>
+<PB N="29" REF="19">
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>Yellow Gown! &mdash;Pray Heaven it's not my Wife all this time.
+<STAGE>aside.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>Ay Yellow! Why don't you like that Colour?</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>O very well, very well <HI>Tom</HI> &mdash; Yellow you say? And what else? &mdash; it must be she.
+<STAGE>aside.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>And Black upper Petty-coat &mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>Upper Petty-coat?&mdash;then he has too&mdash;
+<STAGE>aside.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>What's the matter Sir <HI>Solomon,</HI> you're Concern'd?</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>No, no, no, not at all <HI>Tom</HI> &mdash; Black upper Petty-coat! <STAGE>aside.</STAGE> you meet her at six you say, Ha! <HI>Tom!</HI></P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>Ay, Sir <HI>Solomon,</HI> there's the Challenge she sent me next my Heart.</P>
+</SP>
+<STAGE>gives him a Letter.</STAGE>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<STAGE>Aside</STAGE>
+<P>S'death! this is confirmation! The Gypsy's own Hand!</P>
+<STAGE>Reads Trembling.</STAGE>
+<STAGE><HI>The Garden Door &mdash; open &mdash; and &mdash;exactly at six &mdash; your &mdash;&mdash; Expecting</HI> Caelia.</STAGE>
+<P><HI>Caelia!</HI> Ay that's her Contrivance &mdash; <HI>Cockatrice!</HI>
+<STAGE>aside.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<STAGE>Aside.</STAGE>
+<P>There must be something in this Disorder, <HI>Cleremont</HI> told me he was Married &mdash; I have gone too far &mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<STAGE>Aside.</STAGE>
+<P>This is her Devotion! Well I'll know more, and if she has &mdash; Ha! Ha! Ha! <HI>Tom,</HI> this is very kind, you must not disappoint her for the World.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>No, Sir <HI>Solomon,</HI> I'm a Man of Honour &mdash;but the unluckyest Dog that ever was.
+<STAGE>aside.</STAGE></P>
+</SP>
+<STAGE><HI>Enter</HI> Cleremont.</STAGE>
+<SP>
+<SPEAKER>Cle.</SPEAKER>
+<P>My Friend and Councellour, Sir <HI>Solomon Empty!</HI> Ha! Ha! Ha!</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<STAGE>Aside.</STAGE>
+<P>Ay I have Counsell'd &mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Cler.</SPEAKER>
+<P>I follow'd your Instructions and am Happy &mdash; I melted the Do|ctor, and He my Mistress; all her Aversions to me are over, her Pukings, her Spleen, her Swoonings, her Cholick! And now I am as well-come and agreeable to her as a Dose of Physick &mdash; all this my Councellour and deep Politician in Love I owe to thy sage Advice &mdash; Thou doest in|deed understand the World, and in all Love Intrigues I'll be rul'd by no other &mdash; but what's the matter, are you both Dumb?</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol. Fre.</HI></SPEAKER>
+<P>Me?</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>No, no, I was only thinking of a Business of <HI>Freeman</HI>'s&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>Which I must mind Gentlemen, and so your Servant.</P>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>And I too &mdash;
+<STAGE>going.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Cler.</SPEAKER>
+<P>Hold Sir <HI>Solomon</HI> you must stay and hear my success.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>I can't, I have Business.</P>
+</SP>
+<SP>
+<PB N="30" REF="20">
+<SPEAKER>Cle.</SPEAKER>
+<P>A Pox, O' Business &mdash; Ha! Ha! Ha! You can't think what a change of Affairs it wrought.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>Puh! &mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Cle.</SPEAKER>
+<P>I find the Plain Honest Way never does it, and a Man may throw a|way as much Money upon a Mistress as a Place at Court, and never be the nearer.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<STAGE>Aside</STAGE>
+<P>Upper Petty-coat! &mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Cle.</SPEAKER>
+<P>A little bribe well Plac'd &mdash; but Sir <HI>Solomon</HI> methinks you are not pleas'd enough with the success of your Counsels.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>If I an't, I'm in the wrong, for they have took mightily, mightily!</P>
+</SP>
+<SP>
+<SPEAKER>Cle.</SPEAKER>
+<P>O beyond expectation!</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<STAGE>Aside</STAGE>
+<P>Ay with a Pox! &mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Cle.</SPEAKER>
+<P>She receiv'd me with all the Ease and Satisfaction that desiring Lo|vers use, all her talk was with regard to me and all her Appeals were to me &mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<STAGE>Aside.</STAGE>
+<P>Your Expecting <HI>Caelia</HI>! &mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Cle.</SPEAKER>
+<P>Cou'd you a' Dreamt that it wou'd come to this?</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>No Faith I cou'd not &mdash; not in the least Mr. <HI>Cleremont,</HI> not in the least!</P>
+</SP>
+<SP>
+<SPEAKER>Cle.</SPEAKER>
+<P>Why thou deservest a Statue to thy Memory.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>I do indeed deserve one &mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Cle.</SPEAKER>
+<P>Thou doest &mdash; why some have been worship'd for half thy Saga|city &mdash; you don't know your self.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>Yes, yes, I do, I am wiser than ever, Mr. <HI>Cleremont,</HI> and know my self intimately! &mdash;
+<STAGE>rubbing his forehead.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Cle.</SPEAKER>
+<P>All the distress'd Lovers in Town will fly to you for Succour.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>Very likely &mdash; The Garden door at Six? <STAGE>Aside.</STAGE> &mdash; I won't, I can't, I must not, dare not stay any longer.</P>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>Cle.</SPEAKER>
+<P>What a Devil's the Matter now? But thou art an Extraordinary old Fellow &mdash;</P>
+</SP>
+<STAGE>Exit.</STAGE>
+<STAGE><HI>Enter</HI> Careless <HI>in Disguise.</HI></STAGE>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<P>So! My Disguise sits well he'll never know me &mdash; now let me consider &mdash; what strange Story must I tell him to get him out of the way &mdash; but I shan't want invention; I'll tickle his Ears as I us'd to do the Commisarys when we made up a false Muster.</P>
+</SP>
+<STAGE>Exit.</STAGE>
+<STAGE><HI>Enter Sir</HI> Solomon Empty.</STAGE>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>Jezebel! Harlot! This is her Aversion to Men! Her Praying! Her Piety! &mdash; but this is my Advice too. I must be giving Counsel! &mdash; hum &mdash;
+<STAGE><HI>Enter</HI> Careless.</STAGE></P>
+<P>But what Fellow's that? I don't like him &mdash; he may be a Cuckold|maker too for ought I know.</P>
+</SP>
+<SP>
+<PB N="31" REF="20">
+<SPEAKER>Car.</SPEAKER>
+<STAGE>Aside.</STAGE>
+<P>Here he is, now for my Plot &mdash;Sir, Is your Name Sir <HI>Solomon Empty?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Sir. <HI>Sol.</HI></SPEAKER>
+<P>Yes 'tis &mdash; what then? &mdash; Thou art a Rogue I believe.
+<STAGE>aside.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<P>Do you know one Sir <HI>Humphrey Afterwit?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>Sir <HI>Humphrey Afterwit</HI>! &mdash; No not I &mdash; not I Fellow &mdash; I know none of your Sir <HI>Humpherys</HI> &mdash; <STAGE>(<HI>aside</HI>)</STAGE> some poor Dog or other in Prison &mdash; there's such new ways of begging since the War &mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<P>I don't know how 'tis Sir, but he said he was near related to the Family of the <HI>Emptys,</HI> and dyed at my House Yesterday.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>Why then you must bury him Friend &mdash; don't trouble me with your dead Men &mdash; Upper Pettycoat.
+<STAGE>aside.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<P>But a little before he dy'd, he bid me go to Sir <HI>Solomon Empty,</HI> and pay him a considerable Sum of Money that he ow'd him.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>Adds me! &mdash; Harkee Friend &mdash; Sir <HI>Humphery Afterwit</HI>! &mdash;what an unlucky Brain have I! Ha! ha! ha! My dear Friend &mdash; <HI>Afterwit!</HI> that ever I should be puzzled to remember Thee! &mdash; and I protest to you he was as perfectly out of my Head, as if he had never been there.</P>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<P>Very likely Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>Why we are first Cousens &mdash; but he is not dead sure, he can't be dead!</P>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<P>Indeed Sir he is &mdash; he just came to Town, fell sick and dy'd in two Hours.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>Tell me no more! The News goes to my Heart &mdash; poor Have &mdash; Wit!</P>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<P>Sir, he said his Name was <HI>Afterwit.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>Right, right, <HI>Afterwit!</HI> But Grief, 'tis Grief makes me forget what I say &mdash; I have lost the best Friend!</P>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<P>I suppose you know how much it is?</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>No Friend, I can think of nothing now &mdash; poor <HI>Numps</HI> Dead! &mdash; go in and pay it any of my Servants.</P>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<P>Sir, he charg'd me to pay it none but you, and I was afraid to ven|ture so much about me, but if you'll do me the Honour to go to my House.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>Well, come lets go then, I shall be out of Pain the sooner&mdash;Ho! my dear Friend gone &mdash; poor <HI>Lackwit.</HI></P>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE><HI>Enter</HI> Freeman <HI>and Astrea.</HI></STAGE>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>Your too great Care has ruin'd us! &mdash; had you not conceal'd your Name &mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>Who cou'd ha' thought that Sir <HI>Solomon</HI> had been your intimate Ac|quaintance &mdash; I never heard him speak of such a Man &mdash; but I'm undone, past Redemption lost.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>Sure there's a way.</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>O! none, never think on't&mdash;had you not shown the Letter&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>That unfortunate Letter!</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>Cursed Letter! &mdash; if you had delay'd your Discovery two Hours, I had prevented it by telling you all &mdash; I had begun with your Man,
+<PB N="32" REF="21">
+and sent him to draw Sir <HI>Solomon</HI> out of the way, which now I suppose he can't compass&mdash;and if you had seen him first.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>How unlucky it was!</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>But we must do something&mdash;let me consider&mdash;He'll certainly be there&mdash;hum&mdash;O I have it.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>How, how dear Creature!</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>O! Sir you'll tell.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>You are unkind, but I deserve it&mdash;yet pray tell me.</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>I have thought of a Device that must bring us off, let me see the Letter.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>Here ! here!</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<STAGE>(Reads to her self.)</STAGE>
+</SP>
+<SP>
+<SPEAKER>Fre:</SPEAKER>
+<STAGE>(Aside)</STAGE>
+<P>I never knew a Woman plung'd at an Excuse; now were I to be hang'd, I cou'd not think of an Expedient, I see so many Dan|gers&mdash;but Woman!&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>'Tis well &mdash; leave me &mdash; (<HI>gives him back the Letter.</HI>)</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>Must I not know your Plot?</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>Ask me nothing, but come at the Hour, and behave your self as you wou'd ha' done, had this not happen'd; leave the rest to me.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>I go. &mdash;</P>
+</SP>
+<STAGE><HI>Exit</HI> Fre.</STAGE>
+<STAGE><HI>Enter</HI> Fidelia.</STAGE>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>I'm glad you're here; run immediately and call my Cousen&mdash;</P>
+<STAGE><HI>Exit.</HI> Fid.</STAGE>
+<P>I have a thousand Fears &mdash; I wish it were over &mdash; let <GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">e see &mdash;she loves him too! it distracts me &mdash; was ever Woman so reduc'd! &mdash;but there's no other way. I must lose my Lover or my &mdash; Honour! Quiet! every thing! the fame of so much Vertue and be expos'd &mdash; I can't think on't.</P>
+</SP>
+<STAGE>Exit.</STAGE>
+<STAGE><HI>Enter</HI> Careless <HI>and</HI> Freeman.</STAGE>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<P>Sir, I ply'd him every Minute with fresh Storys, and told more lyes than are pardon'd at a Jubilee.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>I am glad they did not, but how came they not to succeed?</P>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<P>I can't tell what was in his Head, but I had not got half way when he turn'd short, and bid me be at home to morrow, for he had extraordina|ry Business.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>Damn his Business.</P>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<P>And him too. Sir for a Dog&mdash;a <HI>French</HI> Husband wou'd a been better bred than to look into the Affairs of his Wife&mdash;but we have nothing in that Perfection as abroad, and our Cuckolds as well as our Grapes are but half ripen'd.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<STAGE>(Looks at him)</STAGE>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<P>Nay Sir, the things that are most cultivated, our very Fops in <HI>England</HI> are not to be nam'd with theirs &mdash; a true bred <HI>English</HI> Beau has indeed the Powder, the Essence, the Tooth-pick, the Snuff-box, and is as
+<PB N="33" REF="21">
+Idle, but the fault is in the Flesh, he has not the motion, and looks stiff under all this&mdash;Now a <HI>French</HI> Fop, like a Poet, is born so, and wou'd be known with|out Cloaths, it is in his Eyes, his Nose, his Fingers, his Elbows, his Heels; they Dance when they Walk, and sing when they speak &mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>You're extreamly Diverting.</P>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<P>I wou'd fain drive this ugly Business out of your Head, for it puts you as much out of humour as a Dun in a Morning.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>And as much at a loss, as when I have no Money for him.</P>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<P>Never fear Sir, if she has undertook to bring you off.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>Why are you acquainted with her Skill in these Matters?</P>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<P>No Sir, but I never knew a Design fail where a Woman was the In|gineer &mdash; the Plots that don't succeed are made by Men.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>Ay, but there is more in that it Thou art aware of &mdash; how if it shake my Interest with the Fortune?</P>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<P>'Tis impossible, for when once a Woman loves, nothing Cures her but Glutting.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>Yet a modest Woman will be startl'd at such Galantries.</P>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<P>In appearance she may, but a wild Man has always their secret ap|probation, and every Woman has the Vanity to think she can keep him to her self.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>Do'ye think so?</P>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<P>And hope you'll find so &mdash; I never doubt a thing that depends on a Woman's Opinion of her self, for Nature has so order'd it that every one is prepar'd to believe whatever we can say of 'em.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>Did you find her Maid of that Humour?</P>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<P>She wou'd not listen to me because she did not like me (I pity her Judgment) but I never knew a Woman refuse a Man that she lik'd &mdash;when they don't Fancy, they are very Saucy and very Vertuous.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>Prithee <HI>Careless,</HI> leave this Libel and Mind the present Business &mdash;'tis pretty near the Time, go to the <HI>Mall</HI> and wait for orders &mdash; you'll find me in this Walk.</P>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<P>Yonder's one that will divert you in the mean time, the Charming Mrs. <HI>Friendlove.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>Her Impertinence was never so unseasonable.</P>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<P>Faith Sir, according to the present Posture of Affairs, I fancy she might be very seasonable.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>How do ye mean?</P>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<P>Why thus; &mdash; You are not sure they will succeed in their Plot upon Sir <HI>Solomon,</HI> now it will at least perplex the Matter if you can draw her thither about that time, to consummate the Wedding that you have put in her Head.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>But if they should succeed it might raise new Jealousies in him.</P>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<P>To prevent that I may be ready to lead her another way.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>I like it, let's meet her.</P>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE><PB N="34" REF="22"><HI>Enter Lady</HI> Dainty, Clarinda <HI>and</HI> Cleremont.</STAGE>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<P>Well, I must confess Mr. <HI>Cleremont</HI> you are the most Diverting Man in the World, and the best Company when one has taken the Waters, and I have drank <HI>Epsome</HI> this Morning.</P>
+</SP>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>His Discourse Madam; seems more peculiar to a Steel Mineral; for Reproach and Scandal, at which he is very happy, eases us of Spleen and Dissatisfaction with our selves, and might be very proper to assist the ope|rations of <HI>Tunbridge.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<P>You are extreamly in the Right, and that must be the reason that makes <HI>Tunbridge</HI> so Fruitful of Lampoons, for that Mineral not being strong enough to make the crudities of Ill-nature pass, they are forc'd to bring 'em up in Verse.</P>
+</SP>
+<SP>
+<SPEAKER>Cle.</SPEAKER>
+<P>Upon which Account Madam, all the Nice Women in the Town go thither to divert their Spleen, and be abus'd, for Detraction is always so en|tertaining to the Ladies, that rather than want it they will have it at their own Expence.</P>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<P>Well, you are certainly a Living Lampoon.</P>
+</SP>
+<SP>
+<SPEAKER>Cle.</SPEAKER>
+<P>Since then Madam, you acknowledge me so Medicinal to you, throw away your Juleps, Cordials, Slops, and take me all at once.</P>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<P>No Mr. <HI>Cleremont,</HI> that's too Bitter a Potion to be taken so sud|dainly.</P>
+</SP>
+<SP>
+<SPEAKER>Cle.</SPEAKER>
+<P>Oh! The rather Madam, the rather; for if you stand making Faces at what goes against you, it does but increase your Aversion and delay the Cure &mdash; Come, you must be Advis'd.
+<STAGE>presses her.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<P>What mean you Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Cle.</SPEAKER>
+<P>To banish all your Ails and be my self your universal Medicine.</P>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<P>Impudent robust Man! &mdash; I protest did not I know his Rela|tions, I-shou'd think his Parents had not liv'd in Chairs and Coaches, but had us'd their Limbs all their Lives &mdash; Huh! Huh! But I begin to be perswaded Health is a great Blessing &mdash;
+<STAGE>aside.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Cle.</SPEAKER>
+<P>My Limbs Madam, were convey'd to me from before the use of Chairs and Coaches, and it might lessen the Dignity of my Ancestors no<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter"> to use 'em as they did.</P>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<P>Was ever such a rude Understanding? To value himself upon the Barbarism of his Fore-fathers? Indeed I have heard of Kings that were bred to the Plough and fancy you might Descend from such a Race, for you Court as if you were behind one &mdash; Huh! Huh! Huh! &mdash; to treat a Woman of Quality like an Exchange Wench, and express your Passion with your Arms, unpolish'd Man!</P>
+</SP>
+<SP>
+<SPEAKER>Cle.</SPEAKER>
+<P>I was willing Madam, to take from the Vulgar the only desireable thing amongst 'em, and show you how they live so Healthy &mdash; for they have no other Remedy.</P>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<P>A very rough Medicine! Huh! Huh!</P>
+</SP>
+<SP>
+<SPEAKER>Cle.</SPEAKER>
+<P>To those that never took it, it may seem so &mdash;
+<STAGE>pressing her.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<P>Abandon'd Ravisher! Leave the room, and see my Face no more &mdash;</P>
+</SP>
+<SP>
+<PB N="35" REF="22">
+<SPEAKER>Cle.</SPEAKER>
+<STAGE>(<HI>Bows and is going.</HI>) &mdash;</STAGE>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<P>And harkee Sir <GAP DESC="illegible" RESP="OXF" EXTENT="1 word"> Bribes, no Mediations to my Woman.</P>
+</SP>
+<SP>
+<SPEAKER>Cle.</SPEAKER>
+<STAGE>(<HI>Bows and sighs.</HI>)</STAGE>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<P>Thou Profligate! To Hug, To Clasp, To Imbrace, And throw your robust Arms about me like a Vulgar and Indelicate! Oh! I faint with Apprehensions of so gross Address.</P>
+</SP>
+<SP>
+<SPEAKER>Cle.</SPEAKER>
+<P>Oh! My offended Fair!</P>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<P>Inhumane! Ravisher! Oh!
+<STAGE>He takes her in his Arms and carries her off, she strugling and embracing him.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Clarinda <HI>alone.</HI></SPEAKER>
+<P>Well this is one of the most extraordinary Scenes of Loves I ever saw, I cou'd never think a Womans Fantask wou'd ever run so high as to oppose her Inclination, and believe her Ladyship wou'd be glad to compound for a little of the Vulgar.</P>
+</SP>
+<STAGE>Exit.</STAGE>
+<STAGE><HI>Enter</HI> Friendlove <HI>and</HI> Maid.</STAGE>
+<STAGE>The Scene a Dressing Room.</STAGE>
+<SP>
+<SPEAKER>Friend.</SPEAKER>
+<P>Confounded Jade, to stay all this while &mdash; I shall be too late &mdash;I warrant the Parson has been there this hour, and 'twas never know that they stayd for the Bride &mdash; Pin up this Favorite better &mdash; Well these Soldiers are dear Creatures and I love 'em all!</P>
+</SP>
+<SP>
+<SPEAKER>Maid.</SPEAKER>
+<P>They'll think your Ladyship was taken by Storm, to dispatch it so suddainly &mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Friend.</SPEAKER>
+<P>They'll rather commend my Conduct, for yielding before I had distress'd the Garrison &mdash; (set this Ribban right) &mdash; let foolish Maids squander their time that don't know the use of it, I'll snatch the precious Minutes as they pass, and ne're stand shilly shally.</P>
+</SP>
+<SP>
+<SPEAKER>Maid.</SPEAKER>
+<P>Methinks my Lady <HI>Empty</HI> takes it very patiently.</P>
+</SP>
+<SP>
+<SPEAKER>Friend.</SPEAKER>
+<P>She dares not do otherwise, for fear I shou'd make Discoveries to Sir <HI>Solomon</HI> &mdash; and truly I think it Just Reprizal, as I us'd to promote her pleasure, to make her accessary to mine.</P>
+</SP>
+<SP>
+<SPEAKER>Maid.</SPEAKER>
+<P>'Twas foolishly done in my Opinion, to trust a Gallant so near your Ladyship.</P>
+</SP>
+<SP>
+<SPEAKER>Friend.</SPEAKER>
+<P>She grew very presuming forsooth, because one or two of her Fellows had the little Sense to prefer her to me &mdash; but the Captain knows how to distinguish Women.</P>
+</SP>
+<SP>
+<SPEAKER>Maid.</SPEAKER>
+<P>He's a fine proper Gentleman.</P>
+</SP>
+<SP>
+<SPEAKER>Friend.</SPEAKER>
+<P>So he is indeed &mdash; nay, we shall be a mighty pretty Couple; but he admires my Wit, it seems, more than my Beauty &mdash; Who'd ha' thought a Soldier had such Judgment &mdash; (this clumsy Carrian runs the Pins into me.)</P>
+</SP>
+<SP>
+<SPEAKER>Maid.</SPEAKER>
+<P>Madam, it bent under my Finger.</P>
+</SP>
+<SP>
+<SPEAKER>Friend.</SPEAKER>
+<P>Bent under your Finger? &mdash; make hast &mdash; now some People live all their Lives without making any Conquests, yet they Dress and are
+<PB N="36" REF="23">
+Pretty Women too, but I can't tell how 'tis, they don't please &mdash; there's Mrs. <HI>Prim,</HI> Mrs. <HI>Giggit</HI> and Mrs. Saint <HI>Looks.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Maid.</SPEAKER>
+<P>They want the Freedom of your Lady<GAP DESC="illegible" RESP="OXF" EXTENT="3 letters">ps Air.</P>
+</SP>
+<SP>
+<SPEAKER>Friend.</SPEAKER>
+<P>Nay every Body does me the Justice, to say that I have very much of Quality in my Manner &mdash; (this new Tower does not please me)</P>
+</SP>
+<SP>
+<SPEAKER>Maid.</SPEAKER>
+<P>He's violently in Love with you.</P>
+</SP>
+<SP>
+<SPEAKER>Friend.</SPEAKER>
+<P>I am no less with him.</P>
+</SP>
+<SP>
+<SPEAKER>Maid.</SPEAKER>
+<P>Before Marriage</P>
+</SP>
+<SP>
+<SPEAKER>Friend.</SPEAKER>
+<P>Oh! 'Tis not the Fashion after, except among your ordinary Peo|ple, as my Cousen my Lady <HI>Dainty</HI> says &mdash; no People of Quality go beyond just being Civil to each other, as <HI>My Lady, Your Ladyship,</HI> Or so &mdash; Well, now am I Dress'd and going to Execution, but I have resign'd my self wholly up to him to do as he pleases, or since it is a sort of War, as he Dares &mdash; (<STAGE>going</STAGE>). Add's my Life I forgot my Bridal Garters &mdash;O, No they're on, what striving there'll be about 'em and pinching ones Leggs? Well this will be a happy Night, a Young Hero and me; that's Courage and Conduct together &mdash; well I always observe that those Women are seldom happy that Wed very Young.</P>
+<L>But in the World they never can Miscarry,</L>
+<L>Who at the Years of full Discretion Marry.</L>
+</SP>
+</DIV1>
+<DIV1 N="5" TYPE="act">
+<PB N="37" REF="23">
+<HEAD>ACT V.</HEAD>
+<HEAD>SCENE I.</HEAD>
+<STAGE><HI>Enter Sir</HI> Solomon Empty <HI>with his Sword drawn.</HI></STAGE>
+<SP>
+<P>DIshonour'd, Ruin'd, Cuckol'd, and by my own Contrivance? I'll ne're out-live it &mdash; <STAGE>(<HI>putting the Sword to his Breast</HI>)</STAGE> my Mind misgives me plaguily I shall never have the Heart to do it &mdash; oh, commit Murder! I shall never enjoy my self after &mdash; I can't do it &mdash; well, tho I am abus'd, yet a living Cuckold is better than a Dead one &mdash; I see if I had been a rash Man, one of the King's Subjects might have been lost without any re|gard to his Person &mdash; but stay, supposing I shou'd ask my self a few Questions; how am I sure I am a Cuckold? &mdash; <STAGE>[changing his Voice.]</STAGE> Oh! Sir, I saw it under her Hand &mdash; but Sir <HI>Solomon</HI> in an Age so full of Plots, how do you know but this may be one to create Diversion? &mdash;Pardon me Sir, I see no Colour to take it that way &mdash; but tis the part of a wise Man to know the bottom before he Determines, and how if Sir <HI>Solomon Empty</HI> shou'd fix himself somewhere to over hear their Meetings
+ and re|ceive Conviction before he concludes her False &mdash;. There you have rea|son Sir, and Sir <HI>Solomon Empty</HI> shall do so, but I have no hope, uot the least Glymps of Comfort, Oh Woman, Woman, Devil, Devil!</P>
+</SP>
+<STAGE>Exit.</STAGE>
+<STAGE><HI>Enter</HI> Astrea <HI>and</HI> Clarinda.</STAGE>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>I confess <HI>Clarinda,</HI> my proceeding does not look very generous, but if you consult your Heart, you'll find when Love has enter'd it, 'tis very little in the Power of Reason.</P>
+</SP>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>You need no more Apologies methinks, I shou'd ha' done so my self.</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>You fir'd me with commending him and Love's a catching Disease,</P>
+</SP>
+<SP>
+<SPEAKER>Sla.</SPEAKER>
+<P>Well it has gone no farther than this Letter?</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>You are Jealous?</P>
+</SP>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>No I wou'd only find the Temper of the Man.</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>You need not fear it; there's but one way; Generosity will oblige a Man of Sense, and nothing move a Fool; besides Marriage is a double se|curity, for it not only is apt to make a Man forget his Galantries abroad but renders him less acceptable there. &mdash; Few Women chuse a Married Man for a Gallant.</P>
+</SP>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>Why not, as well as the Men like a Married Woman?</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>The Cases are very different &mdash; for a designing Woman, tho' she has Affairs with twenty Men, desires to keep 'em all to her self but a
+<PB N="38" REF="24">
+Man that knows ever so many Women does not care if he never see any of 'em again.</P>
+</SP>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>You talk madly; but from that it appears that the Men are the more reasonable, for if those Women had their Desires, in a little time three Parts of the Sex wou'd be forc'd to die Maids.</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>To prevent that Calamity Nature, you see, has made the Men very Fickle.</P>
+</SP>
+<STAGE><HI>Enter</HI> Fidelia.</STAGE>
+<SP>
+<SPEAKER>Fid.</SPEAKER>
+<P>Madam, Sir <HI>Solomon</HI> is gone into the Garden Room, I saw him look behind the Tapestry, and believe he designs to fix himself there.</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>Go, watch when he's hid, and tell me.</P>
+</SP>
+<STAGE><HI>Exit</HI> Fid.</STAGE>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>Pray let me have my Lesson right &mdash; you say I must take this all upon my self.</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>Very well.</P>
+</SP>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>But harkee! How shall I come off with <HI>Freeman?</HI> He'll make me stand to my Word?</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>You'll be pleas'd with that Force.</P>
+</SP>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>I must confess I'm very well inclin'd to him, but I wou'd not go so fast &mdash; well I have but one Scruple.</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>What's that?</P>
+</SP>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>I'm affraid I shall be jealous.</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>I'll soon cure you, and if I get safe over this, will never make ano|ther venture.</P>
+</SP>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>A very Pious Determination!</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>You laugh &mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>For no other reason but because it is my turn.</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>Not <HI>Clarinda</HI> that I would have you think that I am just now frighted into this resolution, or that I have taken it up on the suddain but from a long digested Thought of such a Life &mdash; for however pleasing it may ap|pear there is something so Disturb'd, so Hazardous, so full of Fears and Disappointments; That the faint Pleasures that arise don't half atone for the Anxieties that attend 'em, so that from the sole Motive of good Sense &mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>We must be Sober &mdash; now let me indeed Embrace you: <HI>Ast|rea,</HI> I am glad to find a Woman of Wit own it, that reason brings her to the Interests of Vertue.</P>
+</SP>
+<STAGE><HI>Enter</HI> Fidelia.</STAGE>
+<SP>
+<SPEAKER>Fid.</SPEAKER>
+<P>Madam, the Gentleman is at the Garden-door.</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>Bid him stay, till he has notice to come in &mdash; <STAGE><HI>Exit</HI> Fid.</STAGE> now for this one piece of Hypocrisie <HI>Clarinda,</HI> and then adieu to't.</P>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE><HI>Sir</HI> Solomon <HI>stealing in.</HI></STAGE>
+<SP>
+<P>Thus far 'tis well &mdash; No Body has seen me come in, and here let me
+<PB N="39" REF="24">
+fix my self &mdash; <STAGE>(<HI>goes near the Scenes</HI>)</STAGE> now shall I see with my own Eyes the dishonour of my Family, the Bane of my Quiet! and &mdash; but it turns my Head, and I'm resolv'd to be reveng'd &mdash; 'zbud, I'll have him cut to pieces for a Dog and her Skin pull'd over her Ears and hung up in <HI>Guild-Hall,</HI> as a warning Piece to the rest of the Baggages &mdash; But hark, I hear 'em coming &mdash; my Heart Sinks, and if it be true I shall run Mad &mdash;Ay, now:
+<STAGE><HI>Enter</HI> Astrea <HI>and</HI> Fidelia.</STAGE></P>
+<P>I'll watch every Motion &mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>Are you sure you left the Letter?</P>
+</SP>
+<SP>
+<SPEAKER>Fid.</SPEAKER>
+<P>Yes Madam.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<STAGE>Aside.</STAGE>
+<P>Very well, this is plain &mdash; S'death I've a Mind to go just now and cut her Throat &mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>But 'tis hardly six a Clock.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<STAGE>Aside.</STAGE>
+<P>you're very punctual you Whore &mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>I'm upon Thorns to see her, for I long to know how far this Business is gone.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<STAGE>Aside.</STAGE>
+<P>Ha! What Business? Well I shall find out the whole knot &mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>You say he was with her here, last Night?</P>
+</SP>
+<SP>
+<SPEAKER>Fid.</SPEAKER>
+<P>Yes Madam, and seem'd mighty loving.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<STAGE>Aside.</STAGE>
+<P>I don't know what to make of this &mdash; but I must have Patience &mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>I am extreamly concern'd at her doing so, for it might ha' drawn a reflection upon me &mdash; what wou'd Sir <HI>Solomon</HI> ha' thought of my conduct if he had found a Man in the House?</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<STAGE>Aside.</STAGE>
+<P>Ha: &mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Fid.</SPEAKER>
+<P>O Madam, she knew Sir <HI>Solomon</HI> was too well acquainted with your strict Vertue and unblemisht Life, to believe any thing to the Prejudice of your Honour.</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>Indeed I am pretty well assur'd of my Husband's Love, and 'tis my care next Heaven to deserve it; but the World <HI>Fidelia</HI> is so full of strange Hypocrisies that such an Accident as this might make him very uneasie.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<STAGE>Aside.</STAGE>
+<P>I'm in Heaven: My Wife's Honest and I am no Monster, &mdash; there must be some mistake in this Letter &mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>If my Cousen takes these Libertys I must desire her to forbear her visits; for it shou'd be very modest Woman's care to preserve the reputation as well as the Conscience of Innocence, and I wou'd not for all the World have my Fidelity to my Dear Sir <HI>Solomon</HI> brought in Question.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<STAGE>Aside.</STAGE>
+<P>Poor Fool: If she had heard of my unmerciful resolution to kill my self, twou'd ha' broke her heart.</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>I am ready to sink with Apprehensions of it &mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Fid.</SPEAKER>
+<P>Dear Madam, don't afflict your self so much, you lay it so near your Heart, 'twill kill you &mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>Hold me &mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<STAGE>Aside.</STAGE>
+<P>What shall I do? But I must not stir yet &mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Fid.</SPEAKER>
+<P>Oh: My good Lady take Comfort &mdash; smell to this Bottle &mdash; Oh, Unfortunate Accident, Bear forward dear Madam, &mdash; How unhappy
+<PB N="40" REF="25">
+wou'd it be now if the most Vertuous Lady in the World, The Glory of all good Women, And Pattern of Chastity, shou'd dye here between my Arms: Evil befall Madam, <HI>Clarenda</HI> for this &mdash; to disturb my Lady that is so tender of her Fame and so averse to all such Wicked Practices &mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<STAGE>Aside.</STAGE>
+<P>Ay: So my Dearee is &mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Fid.</SPEAKER>
+<P>Oh, Look up Madam: &mdash; Will your Ladiship give me leave to Pinch your Nose to bring you to Life?</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<STAGE>Aside.</STAGE>
+<P>Now cou'd I kick that civil Jade, she can't bring her to Life without asking her leave.</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>Ho! Ho!</P>
+</SP>
+<SP>
+<SPEAKER>Fid.</SPEAKER>
+<P>Be Comforted good Madam.</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>What cou'd we say if Sir <HI>Solomon</HI> shou'd hear of it? What Excuse cou'd we make?</P>
+</SP>
+<SP>
+<SPEAKER>Fid.</SPEAKER>
+<P>I can't imagin Madam, for as for my self I cou'd not tell a Lie; No not in very jest.</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>And as for me <HI>Fidelia,</HI> I cou'd not forge or report an Untruth, tho' my Life lay on it, and if we can't tell how to hide it, we had better tell him the naked Truth than be catch'd in a Story.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<STAGE>Aside.</STAGE>
+<P>Poor Fool! &mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Fid.</SPEAKER>
+<P>Be satisfy'd Madam, Sir <HI>Solomon</HI> may never know it, or if he shou'd, Heaven I hope will favour the Innocent and direct his Heart to suspect them only that are Guilty.</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>That may be pray'd for, but not hop'd, for Sir <HI>Solomon</HI> is a Man of that nice Discerning and pierces presently into the most difficult Matters, and what interpretation can he make from this; a Man in the House and at so unseasonable a time? It distracts me.</P>
+</SP>
+<SP>
+<SPEAKER>Fid.</SPEAKER>
+<P>O dear Madam; this is the Gentleman.</P>
+</SP>
+<STAGE><HI>Enter</HI> Freeman.</STAGE>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<STAGE>Shrieks.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>Have I surpriz'd you before the time, my Life! My Heaven!</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<STAGE>Aside.</STAGE>
+<P>Villain! Dog! Oh that I durst now run him through the Back &mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Fid.</SPEAKER>
+<STAGE>Trembling</STAGE>
+<P>Speak him fair Madam, for we are but weak Women and and don't know what he may do to us &mdash; he looks like a Cut-throat.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>An Age has slipt between me and your Lips.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<STAGE>Aside.</STAGE>
+<P>Ay, Rogue &mdash; but how will it end? &mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>I am ready to die &mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>How cou'd you be so surpriz'd my Dear, when you were to expect me at this hour?</P>
+</SP>
+<SP>
+<SPEAKER>Fid.</SPEAKER>
+<P>Pray Sir keep off, my Lady never saw you or heard of you in her Life.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>Good Mrs. <HI>Abigail</HI> don't you be so quick, your Lady won't tell me so.</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>Good Sir, go out of my house, you are mistaken and I don't know you, hoe! &mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>How not know me Madam, when I was here with you but last Night?</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<STAGE>Aside.</STAGE>
+<P>Ha! <GAP DESC="illegible" RESP="OXF" EXTENT="1 span">
+<PB N="41" REF="25">
+done very ill, yet I shall own my self obliged to you, if you pursue your Mistake no farther and leave us.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>Nay then I must. &mdash;
+<STAGE>(<HI>Puts his Hand in his Pocket.</HI>)</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Fid.</SPEAKER>
+<P>O good Madam take care of your self, he's going to pull out a Pistol&mdash; <STAGE>(<HI>kneeling</HI>)</STAGE> good Sir don't kill us take all we have and spare our Lives.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<STAGE>(<HI>Aside.</HI>)</STAGE>
+<P>Ay Lord, what shall I do? I stand just against him.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>Yes, yes, Mrs. <HI>Airsmock,</HI> I'le spare your Lives &mdash; but not your Shame, Madam &mdash; there's my Invitation, farewel Jilt &mdash;</P>
+</SP>
+<STAGE>(<HI>throws the Letter.</HI>)</STAGE>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>What's this I see, my Note to my Cousen? how, <HI>Fidelia,</HI> have you betray'd me?</P>
+</SP>
+<SP>
+<SPEAKER>Fid.</SPEAKER>
+<STAGE>(<HI>Trembling.</HI>)</STAGE>
+<P>I know nothing of it, indeed Madam; I left it at her House, as I hope to be Married.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<STAGE>(<HI>Appearing.</HI>)</STAGE>
+<P>Ay, Mrs. <HI>Matchiavel,</HI> is this your Contrivance? but thus I'le reward you for it.
+<STAGE>Draws.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>O! Sir <HI>Solomon,</HI> don't kill her, let us first know the bottom &mdash;but how came you here?</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>I saw something towards, and step'd behind the Hangings, and now <HI>Astrea</HI> I am satisfi'd of your Honour, and nothing shall make me question it &mdash; but this Quean I'll have hang'd; corrupt the Wife of my Bosom, and make her false to my Bed!</P>
+</SP>
+<STAGE><HI>Enter</HI> Clarinda.</STAGE>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>Ha, ha, ha, ha, What's the Matter good People?</P>
+</SP>
+<SP>
+<SPEAKER>Fid.</SPEAKER>
+<P>O pray Madam, satisfie Sir. <HI>Solomon</HI> who will kill me else, did not you receive a Note of my Ladies that I left at your House?</P>
+</SP>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>Ha, ha, is that all?</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>That all? ay Madam, and if you are concern'd in it, pray let me know the meaning of it.</P>
+</SP>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>Indeed Sir <HI>Solomon,</HI> I am sorry I was not a witness of the Mirth.</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>Mirth, Cousen? you wou'd ha' been disappointed &mdash; but pray bring us out of this Confusion, here has been a Man here that wou'd ha' been ve|ry free with me.</P>
+</SP>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>Ha, ha, why that's it.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>That's it, Madam!</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>And to justifie his coming threw me the Note I had sent to you&mdash;I thought I shou'd ha' dy'd, and your Mirth as you call it, might ha' cost me my Life; my Maid murder'd, and Sir <HI>Solomon</HI> remain'd assur'd of my Dis|honour.</P>
+</SP>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>I'm sorry it had so different Effects &mdash; I find I am to ask pardon for what I thought you wou'd thank me &mdash; but to set all right again, this Gentleman is one that I shall Marry to Morrow, and I thought the occasion of a Wedding, and the season of a <HI>Christmass,</HI> might justifie an innocent Frolick; and observing the Note you sent me this Morning with|out
+<PB N="42" REF="26">
+out a Superscription to be so worded, that it might come from me as well as you, and that there was not so much difference between our Persons and Dress, but might deceive him a Minute or two, and not fail, I thought of making a very ridiculous mistake.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>Ha, ha, ha! a very good Plot I' faith, and I'm sorry it did not take; only my Dearee is such a fearful Fool, or it wou'd ha' made good sport &mdash;you must know Cousen, I accidentally coming in, had slipt behind the Tapestry and heard all.</P>
+</SP>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>Then you had all the pleasure of it to your Self &mdash; I design'd to be there too, but was interrupted by an impertinent Visiter, my Lady <HI>Chatt</HI> &mdash; but how came your Sword drawn Sir <HI>Solomon,</HI> you han't kill'd my Lover?</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>No, no, no, he went away before &mdash; but you must know, as the thing appear'd then, I was so foolish as to believe that it was a contri|vance of <HI>Fidelia</HI>'s and in the present Passion Cousen, did'nt know what I did &mdash;</P>
+</SP>
+<SP>
+<SPEAKER>F.d.</SPEAKER>
+<STAGE>(<HI>In a low Voice.</HI>)</STAGE>
+<P>I'm glad the Truth's come to Light &mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>But all's well now Cousen, all's well, and I applaud you for your Plot, I always took you for a sly Baggage &mdash; but come come, we'll send for the Fidles, and you for your Lover, for for ought I know, you have lost him &mdash; he was plaguily snubb'd poor Fellow; come a|long, we'll have the Business done now &mdash; you shan't lose a Night <HI>Coz,</HI> besides to keep you in Countenance, my Lady <HI>Dainty</HI> is doing the same thing, and we'll be merry together &mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<STAGE>(<HI>Aside to Cla.</HI>)</STAGE>
+<P>Rarely come off, the success of this wou'd almost tempt me to break my Vow.</P>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE><HI>Enter the Lady</HI> Dainty <HI>and</HI> Cleremont. <HI>(Hand in Hand) Follow'd by the Dr. and Attendants with Musick, Dancers,</HI> &amp;c.</STAGE>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<P>Well, there is nothing shows so visibly the remaining Footsteps of our primitive Barbarism as the noise at Weddings; huh! huh!&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Cler.</SPEAKER>
+<P>It serves to recommend the Pleasures that succeed, and make us taste the Joys of silence with a higher relish &mdash;
+<STAGE>They sit.</STAGE></P>
+<P>Dr. You'll grieve to see your Art out-done; I bring an approv'd Re|medy.</P>
+</SP>
+<STAGE>(<HI>A Bridal Song, and after it a Mimick Dance.</HI>)</STAGE>
+<STAGE><HI>Enter Sir</HI> Solomon, Astrea, Freeman, Clarinda Sylvia <HI>and</HI> Servants.</STAGE>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>My Lady <HI>Dainty,</HI> I wish you Joy, and you too, dear <HI>Cleremont,</HI> an Hour hence you may wish it these &mdash; we heard of your Lady|ship's design for a Wedding-Jigg to Night, and my Cousen and this hon|est Captain were resolv'd to complement your Ladyship, and join in the same Dance &mdash; I warrant they shake their Heels rarely. &mdash;</P>
+</SP>
+<SP>
+<SPEAKER><PB N="43" REF="26"><HI>Lad.</HI></SPEAKER>
+<STAGE>(<HI>(Aside to Cler.</HI>)</STAGE>
+<P>Methinks the Stile of Sir <HI>Solomon</HI> is very extraor|dinary.&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Ast. Clar.</SPEAKER>
+<P>We wish your Ladyship Joy.</P>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<STAGE>(<HI>Aside.</HI>)</STAGE>
+<P>I wonder People of any Rank should use such vulgar Sa|lutations. &mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Cle.</SPEAKER>
+<P>You see Sir <HI>Solomon</HI> the success of your Counsels.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>Why every thing I do is lucky &mdash; I am the most overjoy'd Man o' this side the Globe &mdash; but you can't imagine what a sly Rogue the Cap|tain has been in this Matter shall I tell him <HI>Tom</HI>?</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>No, Prithee let it alone till after Supper.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>Ay you Dog, your Thoughts ru<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter"> upon nothing but after Sup|per. &mdash; But <HI>Cleremont,</HI> you'll Dye with Laughing, such Plots, and Counterplots. &mdash; Harkee! <HI>Tom,</HI> not a word to the Women of our first Contrivance.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>No, no.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>For if my Dearee shou'd but hear of so irreligious a purpose, it wou'd break her Heart. It seems she is one or other, the most reserv'd, most pious, of such nice Honour, and the fearfull'st Fool, &mdash; well, I am the happiest Man in the World. &mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>In a Wife.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>And next to my own Happiness, I must Congratulate my Friends. &mdash; Dear <HI>Cleremont,</HI> I'm overjoy'd at thy good Fortune &mdash;why thy Wife looks better already &mdash; is it not possible to make her speak like one of us?</P>
+</SP>
+<SP>
+<SPEAKER>Cle.</SPEAKER>
+<P>All things by Degrees, Sir <HI>Solomon,</HI> I must not over-dose her.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>Nothing pleases me so much as to think that all this happen'd thro' my Contrivance &mdash; <HI>Tom, Cleremont.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>Thou art a great Man that's certain.</P>
+</SP>
+<SP>
+<SPEAKER>Cle.</SPEAKER>
+<P>For Intriguing &mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<P>Truly Madam I wonder how this Ill-bred Custom prevails among People of Figure? This Singing, this Dancing and this Tumult, is so like the Mob Solemnities of a <HI>May</HI>-Day, Huh! Huh! Huh!</P>
+</SP>
+<SP>
+<SPEAKER>Clar.</SPEAKER>
+<P>And the Bride is us'd just like their Pole, for all the Town to Dance round.</P>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<P>Directly so; well, certainly if it were not for the Pleasure of ruling after, no Woman of Quality wou'd suffer her self to be treated so like a Commoner.</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>The grosser part of the Ceremony is to come Madam, and that is throwing the Stocking.</P>
+</SP>
+<SP>
+<SPEAKER>Clar.</SPEAKER>
+<P>That indeed is a thing that insults us so near, that I wonder the Men have not thought it their Interest to lay it down.</P>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<P>I suppose it is to take away the rem ins of Modesty in a Married Wo|man all at once, for they think that Quality is properly the Vertue of a Maid &mdash;</P>
+</SP>
+<STAGE><PB N="44" REF="27"><HI>Enter Footman that Whispers Sir</HI> Solomon.</STAGE>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P><HI>Tom,</HI> take hold of your Mistress, the Parson's in the next Room &mdash;let's dispatch that and then for the Supper and then &mdash; for the Posset you Rogue!</P>
+</SP>
+<STAGE><HI>Enter</HI> Careless <HI>and</HI> Friendlove.</STAGE>
+<SP>
+<SPEAKER>Ast. Cla.</SPEAKER>
+<P>Ha! Ha! Ha!</P>
+<P>This is his contrivance.</P>
+</SP>
+<SP>
+<SPEAKER>Friend.</SPEAKER>
+<P>Cousen Sir <HI>Solomon,</HI> I'm your humble Servant, and Miss my Cou|sen, <HI>Clarinda</HI> this is very kindly done.</P>
+</SP>
+<SP>
+<SPEAKER>Cle.</SPEAKER>
+<STAGE><HI>Aside to Sir</HI> Sol.</STAGE>
+<P>what does this old strumpet Mean?</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>Faith I can't tell I suppose some joke of <HI>Freeman's.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Friend.</SPEAKER>
+<P>My Cousen, my Lady <HI>Dainty</HI>! This was extemely obliging, to summon all your Friends to the Celebration of our Nuptials &mdash; I don't know how I shall be able to return this Favour, but the Captain, Madam, must answer for me &mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Lad.</SPEAKER>
+<P>What Captain, and what Nuptials do you speak of, Mrs. <HI>Friend|love?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Friend.</SPEAKER>
+<P>Your Ladyship has a mind to give me some confusions, but your Ladyship need not be told that in half an Hour at most, my Name it is to be <HI>Freeman.</HI></P>
+</SP>
+<SP>
+<SPEAKER><HI>Cle.</HI> Sir <HI>Sol.</HI></SPEAKER>
+<P><HI>Freeman</HI>!</P>
+<P>&mdash; Here's another Plot, another Plot!</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>Ha! Ha! Ha!</P>
+</SP>
+<SP>
+<SPEAKER>Cla.</SPEAKER>
+<P>How Madam, are your pretentions to my Husband?</P>
+</SP>
+<SP>
+<SPEAKER>Friend.</SPEAKER>
+<P>Your Husband? &mdash; why &mdash; am I deceiv'd then? Miss, Captain, pray speak, am I Cheated? Dear Captain Cousen are you a Rogue? Ha! Are you false to me?</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>Why what can be said? you stay'd so long that I was quite out of Patience, and seeing the Parson, the Musick and all things ready, and this Lady in Humour and rather than disappoint my Lady <HI>Dainty,</HI> I ingag'd my self here &mdash; that's all.</P>
+</SP>
+<SP>
+<SPEAKER>Friend.</SPEAKER>
+<P>That's all?</P>
+</SP>
+<SP>
+<SPEAKER><HI>Cle.</HI> Sir <HI>Sol.</HI></SPEAKER>
+<P>Ha! Ha! Ha!</P>
+</SP>
+<SP>
+<SPEAKER>Friend.</SPEAKER>
+<P>You false ungrateful Fellow, to serve a Woman of my Relations so. (<HI>Aside</HI>) But this damn'd Jade to make me wait so long: She was an hour look|ing for my false Teeth, if I had layn in 'em as I us'd to do at my Lady <HI>Topers,</HI> all had been well &mdash; I'll turn her away immediately &mdash; but first I wish you all jealous, when you have no reason, and secure when you have, and may every Body think your Wives Handsome, but your selves; and may your Children be as dull as if they were lawfully begot.</P>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<PB N="45" REF="27">
+<SPEAKER>Cle.</SPEAKER>
+<P>A heavy Curse.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>Farewel Hermaphrodite, &mdash; well this is a night of Intrigues, no|thing but Stratagems; <HI>Tom,</HI> I begin to be in Love with my self, when I think I was the first Ingineer.</P>
+</SP>
+<SP>
+<SPEAKER>Fre.</SPEAKER>
+<P>Nay 'twas all your own Contrivance.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>All things break out so, luckily: But stay there's <HI>Careless</HI> left how shall we provide for him, he's a very honest Fellow.</P>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<P>Don't Name that Sir <HI>Solomon,</HI> if you intend to prefer me &mdash; but now I have no hopes of being a General, I think I must go into the Country, and be my Elder Brother's Butler.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>Ay, thou hadst always a kindness for the Cellar, but if you wou'd make your Fortune under him, get to be his Steward, <HI>Iack,</HI> rather than his Butler, for then you may come to be richer than your Master in a little time if you have any Discretion.</P>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<P>Which I never had &mdash; but there's another way I like better, if you wou'd promise me your Interest.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>If it be not to serve the Court-Party, I promise you.</P>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<P>Not in the least 'tis only to perswade that Lady (who I have found is your Relation) to think better of me than I do of my self, and take me for Life.</P>
+</SP>
+<SP>
+<SPEAKER>Sir <HI>Sol.</HI></SPEAKER>
+<P>That's a long Lease, but she has 200<HI>l.</HI> a Year to keep it in re|pair &mdash; <STAGE>(<HI>Turning to</HI> Sylvia)</STAGE> well Cousen, what think you of this Hand|some Scoundrel? H'as been a Volunteer a great while, let him now fight under a Commission.</P>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<P>You see Madam, how Ominous it was to begin with a Quarrel, I knew 'twou'd be a Match, by our Scolding before hand.</P>
+</SP>
+<SP>
+<SPEAKER>Syl.</SPEAKER>
+<P>If we don't after, 'twill be well enough.</P>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<P>We must not be singular &mdash; now and then 'twill be necessary to be like the rest of the World.</P>
+</SP>
+<SP>
+<SPEAKER>Ast.</SPEAKER>
+<P>Well <HI>Clarinda,</HI> I wish you perfect Joy and must own to you, that your life is the Happiest &mdash; there all is Quiet, all is Peace, there is nothing to steal the Colour from your Cheeks, or betray you to Surprizes, and now I am convinc'd of the Folly, the Confusion and the Adversity of Mine.</P>
+<L>The Guilty still with anxious Cares are prest,</L>
+<L>The truly Good alone are truly Blest.</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+</DIV1>
+<DIV1 TYPE="epilogue">
+<PB REF="28">
+<HEAD>EPILOGUE, By a FRIEND.</HEAD>
+<STAGE>Spoken by the Sickly LADY.</STAGE>
+<L>LET none hereafter Plays Vngodly call,</L>
+<L>For this was writ to mortifie you all.</L>
+<L>No Parson's here expos'd, no Brothel storm'd,</L>
+<L>But a kind handsome keeping <HI>Wife Reform'd.</HI></L>
+<L>A sign the Youth the World n'er understood,</L>
+<L>Or else he would not dare to be so good.</L>
+<L>He must the Fame he aims at quite disown,</L>
+<L>Who draws good Characters to spoil his own.</L>
+<L>This to excuse I thought a Friend he'd need,</L>
+<L>And came &mdash; sick as I am, his Cause to plead:</L>
+<L>'Tis the first Visit I protest I've made.</L>
+<L>You're sometimes kind to what I do before you;</L>
+<L>Pity the Youth, for my sake I implore you,</L>
+<L>Hissing to Death my tender Organ Wounds!</L>
+<L>And a sick Ear abhors ungrateful Sounds:</L>
+<L>Yet can Applause though ne'er so loud give Ease,</L>
+<L>For they who flatter Women always please.</L>
+<L>Then vain Assistance will I now explore</L>
+<L>In Physick and Astrology no more.</L>
+<L>You, dear Physicians, must my Health insure,</L>
+<L>And t'other Visit will confirm my Cure;</L>
+<L>Else what's already done &mdash; is all in vain,</L>
+<L>And I relapse &mdash; till you come here again.</L>
+<L>By you I shall be always to be seen,</L>
+<L>For whate'er ails the <HI>sickly Fair</HI> within,</L>
+<L>The Doctor at all Seasons is let in.</L>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

@@ -1,0 +1,3586 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD EEBOPROOF 2.0//EN">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-08-19</DATE>
+<RESPSTMT>
+<NAME>Marika Ismail</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TYPEs to DIVs in order to validate. Proofed title page(s). Checked for N=""s. Checked for GROUP tags. Checked ^s. Reviewed structure. Checked division-marking material at heads and feet of divisions (HEADS,  CLOSER, OPENER, ARGUMENT, EPIGRAPH, SIGNED, BYLINE, etc.). Checked for signatures. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected ** $s and $word$s etc. of **. Converted __ $$s to GAP DESC="illegible" RESP="[vendor name]". Checked spacing of foreign GAPs.  Checked for LBs. Checked for startqs, endqs, oes, q;s, and Qs. Checked proofsheets and made corrections found there.  Checked for FIGUREs and decorated initials. Checked for missing-page GAPs. Revalidated. </ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="A34999">
+<STC T="W">C694</STC>
+<BIBNO T="oclc">11964034</BIBNO>
+<VID>51648</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1">
+<P>THE
+Heroick-Lover,
+OR, THE
+INFANTA
+OF
+SPAIN.</P>
+<P>By <HI>George Cartwright,</HI> of
+<HI>Fullham,</HI> Gent.</P>
+<P><HI>LONDON,</HI>
+Printed by <HI>R. W.</HI> for <HI>Iohn Symmes,</HI> at
+the <HI>Cross-Keyes</HI> in S. <HI>Pauls</HI> Church-Yard,
+near the little North-door, 1661.</P>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="2">
+<PB REF="2">
+<HEAD>TO THE
+High and Mighty MONARCH
+OF
+GREAT BRITTAIN,
+CHARLES the Second,
+King of England, Scotland, France and
+Ireland, Defender of the Faith, &amp;c.</HEAD>
+<OPENER><SALUTE>Resplendid Sir,</SALUTE></OPENER>
+<P>_I Had both considerati|on,
+and modesty
+enough, to have for|born
+this sawcy at|empt,
+in the Dedication of this
+<PB REF="3">
+<HI>Heroick-Lover,</HI> to Your Royal
+Self; but when I called to mind,
+the many, and extraordinary fa|vours,
+Your Majestie received a<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+the Spanish Court, in Your sad
+necessitated retirement thither
+who next to Heaven, were both
+the Preservers and Restorers o<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+Your Royal Person here: I
+should have committed a double
+sin, in recommending the prote|ction
+of this <HI>Infanta,</HI> to any other,
+but Your Majestie; the one of in|gratitude
+to their unparallel'd
+courtesie; and the other, of injury
+and offence, to Your sacred Ma|jestie;
+in presuming that any was
+<PB REF="3">
+more willing, or more able, to de|fend
+her, then Your Greater Self.
+It is a Poem, consisting more of
+fatal Truth, then flying Fancy:
+penn'd many years ago, but not
+published till now: the Muses
+among our sad misfortunes here,
+suffering an Ecclipse: which I
+hope Your most Illustrious Rayes
+will over-power, and give an en|couragement,
+suitable to so high
+and noble a faculty, as other your
+Majesties Ancestors have done:
+more especially, that never to be
+forgotten Martyr, and Mirror of
+our Age, Your Majesties most
+Resplendent Father. What dis|countenance
+<PB REF="4">
+soever it shall meet
+withall in the world, so it hath but
+the honour of Your Royal appro|bation,
+it will be more then suffici|ent
+to protect</P>
+<CLOSER><SIGNED>Your Majesties most Humble
+and Loyal Subject,
+<HI>George Cartwright.</HI></SIGNED></CLOSER>
+<PB REF="4">
+</DIV1>
+<DIV1 TYPE="dramatis personae">
+<PB REF="5">
+<HEAD>The ACTORS.</HEAD>
+<LIST>
+<HEAD>The Scene in Poland.</HEAD>
+<ITEM>The <HI>King</HI> Of <HI>Poland.</HI></ITEM>
+<ITEM>The <HI>Prince</HI> His Son, in love with <HI>Francina,</HI> but
+married to Princess <HI>Flora</HI> the <HI>I<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">|fanta</HI>
+of <HI>Spain.</HI></ITEM>
+<ITEM>The Princess <HI>Flora,</HI> the <HI>Infanta</HI> of <HI>Spain,</HI> The <HI>Princes</HI> wife.</ITEM>
+<ITEM>The <HI>Cardinal,</HI> The <HI>Kings</HI> Favourite.</ITEM>
+<ITEM><HI>The</HI> Lord High Admiral <HI>Of</HI> Poland.</ITEM>
+<ITEM><HI>The</HI> Lord Marshal <HI>Of</HI> Poland.</ITEM>
+<ITEM><HI>The</HI> Lord Controuler <HI>Of the</HI> Kings <HI>Houshold.</HI></ITEM>
+<ITEM><HI>Zorates</HI> Lord High-Chamberlain.</ITEM>
+<ITEM><HI>Selucious</HI> Lord President.</ITEM>
+<ITEM><HI>Nonantio<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">s</HI> A Noble man, and the <HI>Princes</HI> confi|dent,
+in love with <HI>Francina.</HI></ITEM>
+<ITEM><HI>Bellarious</HI> A young Lord, brother to <HI>Francina,</HI> and
+in love with <HI>Symphrona,</HI> who in his
+return from <HI>France</HI> was took by the
+Turks at Sea, and afterwards escaped,
+and then turned Hermit.</ITEM>
+<ITEM><HI>Francina</HI> A handsom Lady, beloved of the <HI>Prince,</HI>
+who upon the death of <HI>Non<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ntious</HI>
+tu<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ned <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">un.</ITEM>
+<ITEM><HI>Symphrona</HI> A beautiful Lady, Mistress to <HI>Bellarious,</HI>
+who upon the report he was taken
+by the Turks, turned Nun, fearing
+he would never get his freedom.</ITEM>
+<ITEM><HI>Sotus</HI> and <HI>Lycas</HI> Two of the <HI><GAP DESC="illegible" RESP="tech" EXTENT="1 word"></HI> Houshold servants.</ITEM>
+<ITEM><HI>Exped<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">cous</HI> Servant to the Lord Controuler.</ITEM>
+<ITEM><HI>Crocus</HI> Servant to the Lord Chamberlain.</ITEM>
+<ITEM>Guard, and divers other<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">.</ITEM>
+</LIST>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="play">
+<PB N="1" REF="5">
+<HEAD>THE
+Heroick-Lover,
+OR, THE
+INFANTA of Spain.</HEAD>
+<DIV2 N="1" TYPE="act">
+<DIV3 N="1" TYPE="scene">
+<HEAD>The first Act, the first Scene:</HEAD>
+<STAGE>Enter <HI>Lycas</HI> and <HI>Sotus.</HI></STAGE>
+<SP>
+<SPEAKER>Lycas.</SPEAKER>
+<L>KIngs with their Greatness, have their troubles too,</L>
+<L>And many times, are puzled what to do:</L>
+<L>Shifting from place to place, to find out rest,</L>
+<L>So are their heads, with discontent possest.</L>
+<L>According to the Nature of the times,</L>
+<L>Or else proceeding, from their proper crimes:</L>
+<L><PB N="2" REF="6">Requiring sometimes, more then is their due,</L>
+<L>Or else refus'd, what them belongs unto;</L>
+<L>No man, not knowing so, to hold the scale,</L>
+<L>As hinder King, or Subject, to bewail.</L>
+</SP>
+<SP>
+<SPEAKER>Sotus.</SPEAKER>
+<L>Good faith 'twas ever so, and so 'twill be,</L>
+<L>So long as at the Court, dwells Flattery.</L>
+<L>So long as private end, shall challange place</L>
+<L>As only Favourite, unto his Grace.</L>
+<L>How is it likely, he should see aright,</L>
+<L>When he must see, but by anothers sight?</L>
+</SP>
+<SP>
+<SPEAKER>Lycas.</SPEAKER>
+<L>Which is the cause, so many men complain,</L>
+<L>And that so few, do come away with gain.</L>
+<L>Did mens requests, come to the Princes ear,</L>
+<L>More courteous to them, sure he would appear,</L>
+<L>Then let them sue, for that which is but just,</L>
+<L>So many years, as now adayes men must.</L>
+</SP>
+<SP>
+<SPEAKER>Sotus.</SPEAKER>
+<L>The City's weary, and the Countrey too,</L>
+<L>And something shortly, murmure for to do.</L>
+<L>They will no longer, have the King abus'd,</L>
+<L>Nor let themselves, so rigidly be us'd.</L>
+<L>But how to do't, they are not yet agreed,</L>
+<L>Out of the Court, such netles for to weed.</L>
+</SP>
+<SP>
+<SPEAKER>Lycas.</SPEAKER>
+<L>Pray Heaven, they may do all things for the best,</L>
+<L>Procuring to the King, and Kingdom rest.</L>
+<L>Shoo'd they reform things, with too strict a course,</L>
+<L>Instead of mending, they woo'd make things worse.</L>
+<L>It is no small a matter, to know how,</L>
+<L>To win a King, and make a Subject bow.</L>
+</SP>
+<SP>
+<SPEAKER>Sotus.</SPEAKER>
+<L>Report sayes, that they do intend by Bill,</L>
+<L>Unto the King, to shew his Subjects will.</L>
+<L>How that they are, by Taxes so opprest,</L>
+<L>They cannot live, nor in their houses rest,</L>
+<L><PB N="3" REF="6">For Maltuties, which have thereof the charge,</L>
+<L>To scrue the people, by Commission large,</L>
+<L>Gave from the <HI>Cardinal,</HI> whom they'le demand,</L>
+<L>For satisfaction, at his Royal hand.</L>
+</SP>
+<SP>
+<SPEAKER>Lycas.</SPEAKER>
+<L>They may demand, but 'twill be but in vain,</L>
+<L>For of his Grace, they will not him obtain.</L>
+</SP>
+<SP>
+<SPEAKER>Sotus.</SPEAKER>
+<L>If that by fair means, they can't compass it,</L>
+<L>They will by foul, endeavour him to get.</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+</DIV3>
+<DIV3 N="2" TYPE="scene">
+<HEAD>The second Scene:</HEAD>
+<STAGE>Enter <HI>Prince</HI> alone.</STAGE>
+<SP>
+<SPEAKER>Prince.</SPEAKER>
+<L>HAd I my fair one, in this silent Grove,</L>
+<L>To tell my passion, and declare my love</L>
+<L>How short this day, woo'd unto me then seem,</L>
+<L>And how much give, its howers to redeem.</L>
+<L>Where at my ease, I might behold and court,</L>
+<L>And fear no living creature, to report,</L>
+<L>The stolen blisses, which I might receive,</L>
+<L>If she were pleased, so to give me leave.</L>
+<L>Tell her, how ev'ry day augments my flame,</L>
+<L>And that 'tis she alone, can quench the same.</L>
+<L>How much her eyes, have made a Prince a slave,</L>
+<L>Which does rejoyce, that honour for to have.</L>
+</SP>
+<STAGE>Enter <HI>Nonantius.</HI></STAGE>
+<SP>
+<SPEAKER>Non.</SPEAKER>
+<L>The King your Father, sent me you to seek,</L>
+<L>And tell you too, that with you he woo'd speak.</L>
+</SP>
+<SP>
+<SPEAKER>Prince.</SPEAKER>
+<L>I am not lost, except it be in love,</L>
+<L>To tell how much, the object me do's move.</L>
+<L>But where's his Highness? 'tis not long ago,</L>
+<L>I left his Grace, pursuing of a Doe.</L>
+</SP>
+<SP>
+<SPEAKER>Nonant.</SPEAKER>
+<L>He is return'd implease you, and does set,</L>
+<L>Now with his Counsel, of the Cabinet.</L>
+</SP>
+<SP>
+<PB N="4" REF="7">
+<SPEAKER>Prince.</SPEAKER>
+<L>Well, I come, but before I hence depart,</L>
+<L>I must, and will, disclose to thee my heart.</L>
+<L>Of all my Fathers Subjects, thee alone,</L>
+<L>I have pickt out, to make my passion known.</L>
+<L>I doubt not of thy secrecy, and zeal,</L>
+<L>And therefore with thee, I will plainly deal.</L>
+<L>'Tis fair <HI>Francina,</HI> lodges in my brest,</L>
+<L>And moves me so, I cannot take my rest.</L>
+<L>I prethee tell her, that I love her so,</L>
+<L>And press her likewise, to believe me too;</L>
+<L>That for her sake, I value not my Crown,</L>
+<L>Nor yet my Fathers, nor my Subjects frown.</L>
+<L>Nor Heaven it self, shoo'd Heaven oppose my heat,</L>
+<L>My passion is for her, so monstrous great.</L>
+</SP>
+<SP>
+<SPEAKER>Non.</SPEAKER>
+<L>Sir, may I speak, and not your Highness move,</L>
+<L>She merits well, but not from you such love.</L>
+<L>You are a Prince, and heir unto a King,</L>
+<L>Which is upon my word, no little thing.</L>
+<L>Consider well your birth, and your degree,</L>
+<L>And you will yield, 'tis your infirmity,</L>
+<L>To love with passion, one so much below,</L>
+<L>Your rank, and Greatness, as we all do know.</L>
+</SP>
+<SP>
+<SPEAKER>Prince.</SPEAKER>
+<L>Come, come, I know, this is but for to try,</L>
+<L>How hot my flame is, and my constancy.</L>
+<L>Thou lov'st me, and my ease, I know too well,</L>
+<L>In this opinion, ever for to dwell.</L>
+<L>Thought I but otherwise, by my soul I vow,</L>
+<L>One minuit more, I woo'd not thee allow.</L>
+<L>She is a Princess, and of better blood,</L>
+<L>Then I my self, by how much she's more good.</L>
+<L>'Tis not enough, to be a Princess born,</L>
+<L>Except she vertues have, to her adorn.</L>
+<L><PB N="5" REF="7">She's by vertue, what others are by birth,</L>
+<L>Which is we know full well, the nobler earth.</L>
+</SP>
+<SP>
+<SPEAKER>Non.</SPEAKER>
+<L>Without all doubt it is, but you may have,</L>
+<L>A Princess both wayes, and your honour save</L>
+</SP>
+<SP>
+<SPEAKER>Prince.</SPEAKER>
+<L>Think'st thou that I, can any honour loose,</L>
+<L>A handsom, vertuous Lady, for to choose?</L>
+<L>No, no, I cannot, do what I command,</L>
+<L>And I will to the other hazard stand.</L>
+</SP>
+<SP>
+<SPEAKER>Non.</SPEAKER>
+<L>Since that your Highness, is resolv'd to love,</L>
+<L>Make choice of one, that's fitter it to move.</L>
+<L>To tell my own, alas I am too weak,</L>
+<L>How can I then, anothers passion speak?</L>
+</SP>
+<SP>
+<SPEAKER>Prince.</SPEAKER>
+<L>I will not trust another, only thou</L>
+<L>Of all the world, this business best can'st do.</L>
+</SP>
+<SP>
+<SPEAKER>Non.</SPEAKER>
+<L>Then I will do my utmost, though I die,</L>
+<L>Since doing so, I serve your Majestie.</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+</DIV3>
+<DIV3 N="3" TYPE="scene">
+<HEAD>The third Scene:</HEAD>
+<STAGE><HI>Enter</HI> King, Cardinal, Admiral,
+Marshall <HI>and</HI> Controuler, <HI>in Counsel.</HI></STAGE>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>'TIs time my Lords, the Prince shoo'd have a wife,</L>
+<L>To be a stay, and comfort, to his life.</L>
+<L>His age, and Ours, do it require with speed,</L>
+<L>The Kingdom of our issue, having need.</L>
+<L>Wherefore your Counsels, we shall gladly take</L>
+<L>To help us, our election for to make.</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>Sir, like a Father, you do kindly deal,</L>
+<L>Both with the Prince, and with the Common-weal.</L>
+<L>There is no man, but must confess the care,</L>
+<L>Your Grace does take, since all men it must share.</L>
+</SP>
+<SP>
+<SPEAKER>Admiral.</SPEAKER>
+<L>Your goodness likewise, equally commend,</L>
+<L>Since our advice, to ask you condescend.</L>
+</SP>
+<SP>
+<PB N="6" REF="8">
+<SPEAKER>King.</SPEAKER>
+<L>Then freely deal with us, and also plain,</L>
+<L>If 'twill not proper be, to match with <HI>Spain?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Control.</SPEAKER>
+<L>Sir, since that I, may freely speak my heart,</L>
+<L>I think it not convenient, for my part.</L>
+<L>My reason is, that now the King of <HI>Spain,</HI></L>
+<L>Is scarce in case, his Kingdom to maintain.</L>
+<L>How then will he, be able for to lend,</L>
+<L>Succours if need shoo'd be, to help a friend.</L>
+<L>I rather think, the Danish Princess shoo'd</L>
+<L>More sitter be, if that your Highness woo'd,</L>
+<L>Be pleased to accept it at his hand,</L>
+<L>Which by Embassador, he does demand.</L>
+<L>Besides the wealth that Kingdoms does possess,</L>
+<L>With plenty so of all things, in excess,</L>
+<L>To be ally'd, unto that Crown woo'd be,</L>
+<L>More advantagious, to your Majestie.</L>
+<L>He being near, unto you seated so,</L>
+<L>He woo'd no doubt, offend you more being foe.</L>
+<L>And if your friend, he's proper to defend,</L>
+<L>And at an howers warning, succours send.</L>
+<L>But I am weak, and simple, and may err,</L>
+<L>Wherefore it to your judgements, I referr.</L>
+</SP>
+<SP>
+<SPEAKER>Marsh.</SPEAKER>
+<L>My Lord says true, that <HI>Spain</HI> in such a case,</L>
+<L>Can by no means, aid or assist your Grace.</L>
+<L>But that which makes me, chiefly of his mind,</L>
+<L>Is that your Highness, will not Pistols find,</L>
+<L>Which make without dispute, the strongest hold,</L>
+<L>For you can nothing do, without you've gold.</L>
+<L>And if that you have store, your Highness may</L>
+<L>Prevent a foe, your Kingdom to inveigh,</L>
+<L>And with it keep, your Subjects too in awe,</L>
+<L>If they shoo'd chance, to grumble at your Law:</L>
+<L><PB N="7" REF="8">As for to match, into the Danish Land,</L>
+<L>I know not how, it will with honour stand,</L>
+<L>They having broke, their word with you, you know.</L>
+<L>You promising to aide, not long ago.</L>
+<L>Wherein they plainly shew'd, their love and zeal,</L>
+<L>Both to your Highness, and to your Common-weal.</L>
+<L>I rather think, the Swedish Princess might,</L>
+<L>In this your choice, pretend the greatest right;</L>
+<L>For as she's rich, so by the Laws o' the Land,</L>
+<L>She like a Prince, has power to command.</L>
+<L>Which is a thing, not common ev'<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">y where,</L>
+<L>That women to a Scepter, shoo'd be heir.</L>
+<L>In taking her, into the Princes bed,</L>
+<L>A Crown, and Scepter, you will likewise wed.</L>
+</SP>
+<SP>
+<SPEAKER>Admir.</SPEAKER>
+<L>Sir I do think, and likewise will maintain,</L>
+<L>That 'tis most proper, for to match with <HI>Spain.</HI></L>
+<L>'Tis true, the reasons that my Lords do give,</L>
+<L>Are very strong, if <HI>Spain</HI> shoo'd alwayes live</L>
+<L>In war, and never hope to have a peace,</L>
+<L>Which f'rought we know, to mo<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">row next may cease.</L>
+<L>We ought, in weighty maters of the State,</L>
+<L>Wink at the present, and the future wai<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">e:</L>
+<L>Except in case, your Majestie shoo'd be,</L>
+<L>Urg'd to embrace, by some necessity:</L>
+<L>Which as I know, there is none yet so great,</L>
+<L>As off this match, your Majesty to beat.</L>
+<L>The King of <HI>D<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">nmark,</HI> all men know full well,</L>
+<L>So tim'rous is, that hee'd not stick to sell,</L>
+<L>The dearest friend he has, himself to free,</L>
+<L>From the oppression, of an enemy.</L>
+<L>Nor woo'd his friendship, were it firm and good,</L>
+<L>So useful be, as t'other to your blood.</L>
+<L><PB N="8" REF="9">As for the Swedish Princess, who takes her,</L>
+<L>Must look to wed, into a world of stir.</L>
+<L>Except he'le worship, or at least permit,</L>
+<L>That they the Gods, shoo'd serve as they think fit.</L>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<L>These Lords, dread Sir, the business so have scand,</L>
+<L>And argu'd to and fro, we have in hand,</L>
+<L>That they have left, not much for me to say,</L>
+<L>Therein unto your Majesty this day.</L>
+<L>Yet what more I know, I'le be bold to speak,</L>
+<L>Since my advice, it pleases you to seek.</L>
+<L>As I conceive, the matter in debate,</L>
+<L>Is to find out, th' advantage of the State.</L>
+<L>Now Sir, the question that will hence arise,</L>
+<L>Is which of these, you chiefly ought to prise.</L>
+<L>A mighty Monarch, in another sphere,</L>
+<L>Or else a Prince, less powerful that's near.</L>
+<L>As 't has been said, the King of <HI>Spain</HI> 'tis true,</L>
+<L>Is at this present, very hard put to.</L>
+<L>Yet is he not, as men do think so poor,</L>
+<L>But that he can, afford you Pistols store.</L>
+<L>Which is as much, as if he men did lend,</L>
+<L>Were you compel'd, your Kingdom to defend.</L>
+<L>As for the King of <HI>Denmarks</HI> amity,</L>
+<L>So much as 'tother, 'twill not useful be.</L>
+<L>My reason is, that as he has less pow'r,</L>
+<L>So is he false, and changing ev'ry hour.</L>
+<L>The Swedish Princess, as my Lord well said,</L>
+<L>Is most improper, for the Prince to wed,</L>
+<L>By reason of his Faith, and her belief,</L>
+<L>W<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ich doubtless daily, 'twixt them will cause strife.</L>
+<L>Besides the private fears, that will arise,</L>
+<L>That your Grace their Errours, shoo'd favouriz<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">.</L>
+<L><PB N="9" REF="9">Thus all things layd together, sure with <HI>Spain,</HI></L>
+<L>It is most fit to match, their loves to gain.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>We have with great attention, heard you all,</L>
+<L>One word unto the ground, not letting fall,</L>
+<L>Wherein we see, we are not in one thing,</L>
+<L>More happy, then in you, in being King.</L>
+<L>To whom we are obliged very much,</L>
+<L>Your love, and counsel, unto us are such.</L>
+<L>And 'tis resolv'd: but whom shall we ordain,</L>
+<L>Our Lord Ambassador to go to <HI>Spain?</HI></L>
+<L>To let h<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">s Greatness, for to understand,</L>
+<L>That we that Princess, for our Prince demand.</L>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<L>My Lord <HI>Controuler,</HI> please your Grace would be</L>
+<L>Extreamly fit, to tell't his Majestie.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Then you, our Lord Ambassador we chuse,</L>
+<L>Commanding you, your power for to use,</L>
+<L>In our behalf, to compass this affair,</L>
+<L>And for that journey, quickly to prepare.</L>
+<L>As for your full instructions, they are these,</L>
+<L>How that his Highness, woo'd vouchsafe and please,</L>
+<L>To honour us, to match into our Race,</L>
+<L>That we may be, ally'd unto his Grace.</L>
+<L>And thereupon, give him to understand,</L>
+<L>That we the Princess <HI>Flora</HI> do demand,</L>
+<L>In marriage with the Prince, our eldest son,</L>
+<L>Who will be King, when we are dead and gon.</L>
+<L>Thereto, be careful likewise, for to add,</L>
+<L>That with his Highness, we shoo'd be most glad,</L>
+<L>To make 'gainst all, if he'le so please to do,</L>
+<L>A league offensive, and defensive too.</L>
+<L>As for the marriage summ, you shoo'd demand,</L>
+<L>We think it better, to his pleasure stand.</L>
+<L><PB N="10" REF="10">He like himself, if he inclines to hear,</L>
+<L>Without all doubt, will honourably appear&punc;</L>
+<L>Yet if in case, you shoo'd be urg'd the summ,</L>
+<L>Five hundred thousand pounds, woo'd us become.</L>
+<L>Our <HI>Admiral,</HI> will order take you shall,</L>
+<L>For one of our best Ships, not stay at all.</L>
+</SP>
+<SP>
+<SPEAKER>Controul.</SPEAKER>
+<L>Since me your Majesty, has chosen out,</L>
+<L>Of all, the most unworthy without doubt,</L>
+<L>To serve your Highness, in this great affair,</L>
+<L>I will with diligence, my self prepare;</L>
+<L>And do what in me lyes, for to discharge,</L>
+<L>The trust your Grace does put, in me so large.</L>
+<L>Within this two dayes, I will put to Sea,</L>
+<L>If that the wind, shall favourable be.</L>
+</SP>
+</DIV3>
+<DIV3 N="4" TYPE="scene">
+<HEAD>The fourth Scene:</HEAD>
+<STAGE><HI>Enter</HI> Symphrona <HI>and</HI> Francina.</STAGE>
+<SP>
+<SPEAKER>Sym.</SPEAKER>
+<L>NO news dear Madam, of my Lords return?</L>
+<L>But half so much as I, did he but burn,</L>
+<L>No doubt but quickly, he woo'd come away,</L>
+<L>And make more hast, loves tribute for to pay.</L>
+<L>Out of his memory, am I then cast,</L>
+<L>'Cause in my bosom, him I've kept so chast?</L>
+<L>Must I rewarded be, with such neglect,</L>
+<L>Because I've had for him, so much respect?</L>
+<L>'Tis more then cruel, if it must be so,</L>
+<L>But <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">'le not him condemn, until I know.</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>I wonder at his stay, and 'tis most strange,</L>
+<L>But I am sure, his love will never change.</L>
+<L>You are, sweet Madam, plac't too near his heart;</L>
+<L>With his consent, from thence to e're depart.</L>
+<L><PB N="11" REF="10">Some chance or other, may be in the way,</L>
+<L>As often haps, to cause him to delay:</L>
+<L>Which troubles him, no doubt as much as you,</L>
+<L>To which he fears, to make you privy too.</L>
+</SP>
+<SP>
+<SPEAKER>Sym.</SPEAKER>
+<L>What chance can there be, I'de not sooner hear,</L>
+<L>Then so at all, to hear not from my Dear?</L>
+<L>I may imagine, that which is not true,</L>
+<L>In such a case, as often Lovers do,</L>
+<L>A thousand things, present to our belief,</L>
+<L>Which entertain'd, abuse, and mock our grief.</L>
+<L>Were it not better, to hear the truth at large,</L>
+<L>Then with so many doubts, our minds to charge?</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>It is not by your favour, alwayes meet,</L>
+<L>To hear the truth, of what we may regreet:</L>
+<L>Especially for us, who by our sex,</L>
+<L>Are weak, and apt, at little things to vex.</L>
+</SP>
+<SP>
+<SPEAKER>Sym.</SPEAKER>
+<L>Term you that little, which I term my all?</L>
+<L>You will not do so, when in love you fall.</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+</DIV3>
+</DIV2>
+<DIV2 N="2" TYPE="act">
+<DIV3 N="1" TYPE="scene">
+<HEAD>The second ACT, the first Scene:</HEAD>
+<STAGE>Enter <HI>King, Prince,
+Zorates</HI> and <HI>Selucious</HI> with a Petition,
+and divers others.</STAGE>
+<SP>
+<SPEAKER>Zorates.</SPEAKER>
+<L>WE come implease you Sir, for to present,</L>
+<L>As from your loving Subjects, being sent,</L>
+<L>This humble Bill, and to intreat withall,</L>
+<L>You woo'd be pleas'd, to quit the <HI>Cardinal.</HI></L>
+<L>And leave him to the mercy of the Law,</L>
+<L>Which he contemns, and will not stand in awe.</L>
+<L>These twenty years, your people have endur'd,</L>
+<L>Without all hopes, to have their ease procur'd,</L>
+<L><PB N="12" REF="11">With mighty patience, all things at his hands,</L>
+<L>Which he still exercis'd, as your commands.</L>
+<L>Now what with taxes, they are grown so poor,</L>
+<L>They are not able for to give you more:</L>
+<L>Except you'd have, their wives, and children, die,</L>
+<L>For want of bread, to pay your Majestie.</L>
+<L>Which they believe, you woo'd be loth to do,</L>
+<L>Which makes them to your Highness, now to sue.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>D' you know my masters, what you do demand,</L>
+<L>The <HI>Cardinal</HI> requesting at our hand?</L>
+<L>Sure if you did, you woo'd not be so bold,</L>
+<L>To ask the man, which does our Scepter hold.</L>
+<L>Which does from falling off, preserve our Crown,</L>
+<L>And all mens lives, that are in this same Town:</L>
+<L>Who like a faithful Shepherd, watches so,</L>
+<L>Both night and day, to keep us from our foe.</L>
+<L>Where had we been long since, had not his care&punc;</L>
+<L>Preserved us, from falling in the snare,</L>
+<L>The Turk, for want of faith, for us prepar'd,</L>
+<L>The good whereof, you equally have shar'd?</L>
+<L>And woo'd you we shoo'd be so void of sense,</L>
+<L>Him so unlike a King, to recompence?</L>
+<L>No, no, we won't, nor can we yet forget,</L>
+<L>All his past cares, although that you can it.</L>
+<L>And more then that, we make it to be death,</L>
+<L>For any so to us, to 'ope his breath.</L>
+<L>As for your taxes, we will order take,</L>
+<L>That more they shall not make, your heads to ake:</L>
+</SP>
+<SP>
+<SPEAKER>Prince.</SPEAKER>
+<L>What monstrous men, implease your Grace are these,</L>
+<L>Whom nothing but a <HI>Cardinal,</HI> will please!</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Retire, and leave the Prince, and us alone;</L>
+<STAGE>Exeunt.</STAGE>
+<L>We sent for you, to make our pleasure known.</L>
+<L><PB N="13" REF="11">We are you see, already old, and gray,</L>
+<L>And shortly must, our debt to nature pay.</L>
+<L>Before we die, we shoo'd be glad to see,</L>
+<L>You well bestow'd, to have posterity.</L>
+<L>We with our Counsel, have debated which,</L>
+<L>May be the most convenient match, and rich.</L>
+<L>At last, we have concluded, that with <HI>Spain,</HI></L>
+<L>You marry must, if they'le it entertain.</L>
+<L>Besides the private interest of State,</L>
+<L>Which shoo'd perswade you, to imbrace it strait.</L>
+<L>She is extreamly fair, and vertuous too,</L>
+<L>A fitting Princess, ev'ry way for you.</L>
+<L>Witness this Picture, if we say not true,</L>
+<STAGE>Shews picture.</STAGE>
+<L>Which as <HI>Don Stato</HI> sayes, to life he drew.</L>
+<L>We out of hand, have ordered for to go,</L>
+<L>Our Lord Ambassador, their minds to know.</L>
+<L>Who tells us that to morrow, without fail,</L>
+<L>If that the wind holds good, he'le set up sail.</L>
+</SP>
+<STAGE>SIR</STAGE>
+<SP>
+<SPEAKER>Prince.</SPEAKER>
+<L>As you are King, and I your son and heir,</L>
+<L>I shoo'd be sorry, wilful to appear.</L>
+<L>I am your Subject, therefore ought to shew,</L>
+<L>By my example, others what to do.</L>
+<L>Yet Sir, I cannot chuse, but blame my Fate,</L>
+<L>To tye my love, to any act of State.</L>
+<L>In this, although a Prince, I see I have,</L>
+<L>Not freedom, like a Subject, or a slave.</L>
+<L>Command, or order any man, woo'd you,</L>
+<L>To marry one, he had no mind unto?</L>
+<L>I do believe, your Highness is too just,</L>
+<L>To will in such a case, that any must,</L>
+<L><PB N="14" REF="12">For Heaven sake, I intreat you not to be,</L>
+<L>To any, less severe, then unto me.</L>
+<L>I am your son, bone of your very bone,</L>
+<L>And can you be so cruel, to your own?</L>
+<L>You cannot sure, nor will't I hope you move,</L>
+<L>To tell you, that this face I cannot love.</L>
+<L>There's something in her nose, and in her eyes,</L>
+<STAGE>Views <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> picture.</STAGE>
+<L>Which with my fancy, does not sympathize.</L>
+<L>The colour of her hair, is too too brown,</L>
+<L>And by her looks, she seems on me to frown:</L>
+<L>As if that nature, did prognosticate,</L>
+<L>That there woo'd be, 'twixt us, less love then hate.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>We use to say, that men in love are blind;</L>
+<L>You love not, yet you see not, well we find.</L>
+<L>How can that face, in reason you dislike,</L>
+<L>Which with such admiration, us does strike?</L>
+<L>Had you but wit, for to conceive the good,</L>
+<L>That you may reap, to match into that blood:</L>
+<L>Were she deform'd, for that you woo'd not stand,</L>
+<L>But quickly do&punc; what we do you command.</L>
+</SP>
+<SP>
+<SPEAKER>Prince.</SPEAKER>
+<L>There is no good, I value like a wife,</L>
+<L>With whom a man must live with all his life.</L>
+<L>Coo'd I but marry for a day, or two,</L>
+<L>And put her off, when I'de a mind to do:</L>
+<L>To take a creature, that I coo'd not love,</L>
+<L>Woo'd not unto me, inconvenient prove.</L>
+<L>But when I wed her, for an unknown time,</L>
+<L>Knowing that not to love, is no small crime:</L>
+<L>Your Highness shall do well, to let me chuse,</L>
+<L>One I can love, and like a Princess use.</L>
+<L>As for ought else, Heaven knows I'de rather die,</L>
+<L>Then live, and not obey your Majestie.</L>
+</SP>
+<SP>
+<PB N="15" REF="12">
+<SPEAKER>King.</SPEAKER>
+<L>Then do what Heaven commands, for 'tis Heavens will,</L>
+<L>That you your Fathers pleasure, shoo'd fulfill.</L>
+</SP>
+<SP>
+<SPEAKER>Prince.</SPEAKER>
+<L>But shoo'd my Father, bid me do a thing,</L>
+<L>(May I so boldly speak unto the King)</L>
+<L>Which is unjust, or otherwise not fit,</L>
+<L>For me to do, woo'd Heaven allow of it?</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Who shall be judge, of that which you call fit?</L>
+</SP>
+<SP>
+<SPEAKER>Prince.</SPEAKER>
+<L>None but just Heaven, Great Sir, shall judge of it.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>But Heaven ordain'd us here, to judge below,</L>
+<L>Of things as we shall please, we'le have you know.</L>
+</SP>
+<SP>
+<SPEAKER>Prince.</SPEAKER>
+<L>But if you judge amiss, another day,</L>
+<L>As well as others, you must for it pay.</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+</DIV3>
+<DIV3 N="2" TYPE="scene">
+<HEAD>The second Scene:</HEAD>
+<STAGE>Enter <HI>Nonantious</HI> alone, and after|wards
+<HI>Francina,</HI> and hearkens.</STAGE>
+<SP>
+<SPEAKER>Nonant.</SPEAKER>
+<L>DId I but know what I do go about,</L>
+<L>I woo'd not be so forward, without doubt,</L>
+<L>As to pronounce, the sentence of my death,</L>
+<L>As I must do, so with my proper breath.</L>
+<L>To court a Mistress, was it ever known</L>
+<L>To love another, done of one alone?</L>
+<L>Coo'd one example, only be but found,</L>
+<L>I might have cause to think, my sences sound.</L>
+<L>But there is none, none yet was ever known,</L>
+<L>To be so foolish, but my self alone.</L>
+<L>Then do it not, then I shall disobey,</L>
+<L>Do, or not do, criminal ev'ry way.</L>
+<L>Of evils, chuse the lesser of the two,</L>
+<L>They are so equal, I know not which to do.</L>
+<L>My love to fair <HI>Francina,</HI> bids me not;</L>
+<L>My duty to my <HI>Prince,</HI> can't be forgot.</L>
+<L><PB N="16" REF="13">How both, the ballance hold, so just and true,</L>
+<L>That willing both, I know not which to do.</L>
+<L>But why shoo'd I love her, who me does scorn?</L>
+</SP>
+<SP>
+<SPEAKER>Eccho.</SPEAKER>
+<L>Because thy love's no bastard, but true born.</L>
+</SP>
+<SP>
+<SPEAKER>Nonant.</SPEAKER>
+<L>Why do her good, who me does use so ill?</L>
+</SP>
+<SP>
+<SPEAKER>Eccho.</SPEAKER>
+<L>'Cause 'tis thy duty, and thy <HI>Princes</HI> will.</L>
+</SP>
+<SP>
+<SPEAKER>Nonant.</SPEAKER>
+<L>Then I will do<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">t, to make my love appear,</L>
+<L>Both to my <HI>Prince,</HI> and to my Saint so dear.</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>Well, what's your business with me? I was told,</L>
+<L>To ask for me again, you were so bold.</L>
+</SP>
+<SP>
+<SPEAKER>Nonant.</SPEAKER>
+<L>I was implease you Madam, it is true,</L>
+<L>So bold as yesterday, to ask for you:</L>
+<L>But you were not at home, which made me now</L>
+<L>So bold again, which you'le I hope allow.</L>
+<L>I come not now, as I was wont to do,</L>
+<L>My love and passion, to make known to you.</L>
+<L>With chosen words, to court you to be kind,</L>
+<L>And think you cruel, 'cause that I was blind&punc;</L>
+<L>No, no, I know, my merit is too poor,</L>
+<L>For to importune you, so any more.</L>
+<L>I must confess, I soared then too high,</L>
+<L>To let my fancy, after you to fly.</L>
+<L>My business now, is of another kind,</L>
+<L>If you'le have patience, for to hear my mind.</L>
+<L>And faith to credit, what I've charge to say,</L>
+<L>Which, I woo'd rather do, then disobey.</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>And faith to credit, what you ve charge to say?</L>
+<L>Doubt not of that, if me become it may.</L>
+</SP>
+<SP>
+<SPEAKER>Nonant.</SPEAKER>
+<L>To be a Princess, woo'd become you well,</L>
+<L>And in a stately Pallace, alwayes dwell.</L>
+<L>Have maids of Honour, 'bout you to attend,</L>
+<L>And Lords of quality, at hand to send.</L>
+<L><PB N="17" REF="13">On all occasions, to make known your will,</L>
+<L>To such as you woo'd have, it to fulfill.</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>I understand you not; or speak more plain,</L>
+<L>Or else your words, will be but spent in vain.</L>
+</SP>
+<SP>
+<SPEAKER>Nonant.</SPEAKER>
+<L>Then to be brief, and make you understand,</L>
+<L>The <HI>Prince</HI> does love you, and did me command</L>
+<L>On my allegiance, for to tell you so,</L>
+<L>And press you likewise, to believe me too.</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>The <HI>Prince</HI> love me! it cannot be believ'd,</L>
+<L>Unless I had a mind, to be deceiv'd.</L>
+<L>Alas my faith, is not so sawcy yet,</L>
+<L>Into my thoughts, it eas'ly to admit.</L>
+</SP>
+<SP>
+<SPEAKER>Nonant.</SPEAKER>
+<L>You may believe me Madam, it is true,</L>
+<L>And very certain, what I say to you.</L>
+</SP>
+<SP>
+<SPEAKER>Fran</SPEAKER>
+<L>To me my birth, and breeding is so known,</L>
+<L>That if 'twere not but only, that alone,</L>
+<L>It were enough, no doubt, to humble me,</L>
+<L>And me possess, with incredulity.</L>
+</SP>
+<SP>
+<SPEAKER>Nonant.</SPEAKER>
+<L>Were you that, which you say your self to be,</L>
+<L>The <HI>Prince</HI> stands not in need, of dignity.</L>
+<L>He has sufficient, for himself and you,</L>
+<L>Were you less noble, and less vertuous too.</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>I question not the truth thereof; but you</L>
+<L>I rather think, this of your self do do,</L>
+<L>To try if that the name, of Queen can move,</L>
+<L>And tempt my resolution, for to love.</L>
+</SP>
+<SP>
+<SPEAKER>Nonant.</SPEAKER>
+<L>Ah Madam! you are cruel to think so,</L>
+<L>More cruel far, then in the scorn you shew.</L>
+<L>That I shoo'd be so wicked, and so base,</L>
+<L>'Tabuse, not only you, but too his Grace.</L>
+<L>I am no Devil Madam; you may say,</L>
+<L>And think your pleasure, while that I obey,</L>
+<L><PB N="18" REF="14">For had the <HI>Prince,</HI> not urg'd me o're and o're,</L>
+<L>As I have told you Madam, heretofore,</L>
+<L>To make his royal passion, known to you,</L>
+<L>Which then I said, I was unfit to do:</L>
+<L>I nee're had medled, in this love affair,</L>
+<L>The fruit whereof, I coo'd not hope to share.</L>
+<L>Helas! Heaven knows, I careful was to sound,</L>
+<L>And look with diligence, into his wound,</L>
+<L>Shewing unto him, 'twoo'd not fitting be,</L>
+<L>By reason of the great disparity</L>
+<L>'Twixt you, and him, which he did seem to slight,</L>
+<L>And value for your sake, extreamly light:</L>
+<L>To see if it were dangerous, or no,</L>
+<L>Before I woo'd resolve, to let you know.</L>
+<L>When finding it, to be a wound indeed,</L>
+<L>And that he mortally, for you did bleed:</L>
+<L>I feared to be guilty, of his death,</L>
+<L>In such a case, to spare to o'pe my breath.</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>I know not which is greater, of these two,</L>
+<L>Your love, or wisdom, if that you say true.</L>
+<L>But I am firm resolv'd, to wed with none,</L>
+<L>And so unto the <HI>Prince,</HI> pray make it known.</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+</DIV3>
+<DIV3 N="3" TYPE="scene">
+<HEAD>The third Scene:</HEAD>
+<STAGE><HI>Enter</HI> Zorates, Selucious,
+<HI>and</HI> Admiral.</STAGE>
+<SP>
+<SPEAKER>Zorates.</SPEAKER>
+<L>WE must by all means, quickly out of han<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">,</L>
+<L>Seize on the strongest places of the Land.</L>
+<L>Which that we may perform, and better do,</L>
+<L>We must declare, and to the people shew,</L>
+<L>That the Militia, to us does belong:</L>
+<L>And that without our care, they can't be strong,</L>
+<L><PB N="19" REF="14">Nor yet secure, so much as for an how'r,</L>
+<L>From any forreign, or Domestique pow'r.</L>
+<L>Then put in such, in whom we may confide,</L>
+<L>Whose zeal unto the Kingdom has been try'd:</L>
+<L>And thrust out those, whom justly we suspect,</L>
+<L>The common good at all, not to affect.</L>
+</SP>
+<SP>
+<SPEAKER>Admir.</SPEAKER>
+<L>Upon my word, the matter you propose,</L>
+<L>Is not so easly done, as you suppose.</L>
+<L>You'le find a harder business, without doubt,</L>
+<L>Then you conceive, to compass it about.</L>
+<L>You must so many persons discontent;</L>
+<L>Displacing them, without the Kings consent:</L>
+<L>That if you had no other rub alone,</L>
+<L>'Twoo'd hinder your design from going on.</L>
+</SP>
+<SP>
+<SPEAKER>Selu.</SPEAKER>
+<L>If that be all, we have not lost our hold,</L>
+<L>So long as we can compass, store of gold.</L>
+<L>That joyn'd with a pretence, that's somewhat fair,</L>
+<L>Will tempt the vulgar, any thing to dare.</L>
+</SP>
+<SP>
+<SPEAKER>Admir.</SPEAKER>
+<L>That is 'tis true, the life and soul of war;</L>
+<L>But with our King, to wage it be it far</L>
+<L>From us, who are his Subjects, not his foes,</L>
+<L>And are oblig'd, to purchase his repose.</L>
+<L>There may no doubt, a better way be found,</L>
+<L>To heal the Kingdom, and make all things sound,</L>
+<L>Then by so rude a course, to let it blood,</L>
+<L>If that the manner how, we understood.</L>
+</SP>
+<SP>
+<SPEAKER>Zor.</SPEAKER>
+<L>But since the King, refuses our request,</L>
+<L>Which tendeth only, to his Royal rest;</L>
+<L>What other course, can we conceive to take,</L>
+<L>If not by force, his Majesty to make?</L>
+</SP>
+<SP>
+<SPEAKER>Admir.</SPEAKER>
+<L>Intreat him twice, or thrice, and if that then</L>
+<L>He will not grant, beseech him thrice agen.</L>
+<L><PB N="20" REF="15">A Subject, ought to have no other sword,</L>
+<L>To force his Prince, then a submissive word.</L>
+<L>If that will not prevail, we ought to have</L>
+<L>Recourse to Heaven, and his assistance crave</L>
+<L>To sweeten him, and mollifie his heart,</L>
+<L>It not belonging, justly to our part.</L>
+</SP>
+<SP>
+<SPEAKER>Selu.</SPEAKER>
+<L>It by your favour, does belong to those</L>
+<L>Which steer the State, to punish all its foes.</L>
+<L>Now if that he, to save them will pretend,</L>
+<L>We do not ill, our selves for to defend.</L>
+</SP>
+<SP>
+<SPEAKER>Admir.</SPEAKER>
+<L>Do so, but not with his own weapons then,</L>
+<L>Nor so, as misbecomes discreet States-men.</L>
+</SP>
+<SP>
+<SPEAKER>Zor.</SPEAKER>
+<L>What weapons else, have we except the Law,</L>
+<L>Which he esteems, no more then a Jack Daw,</L>
+<L>Because the <HI>Cardinal,</HI> instructs him still,</L>
+<L>That he shoo'd rule, according to his will:</L>
+<L>And know no other Law, but what he makes,</L>
+<L>When, and so often, as his fancy takes.</L>
+<L>VVhom from his ear, we must and will remove,</L>
+<L>Though to the Kingdom, it shall fatal prove.</L>
+<L>You know it well enough, if you'd but speak,</L>
+<L>And us assist, them of their wills to break:</L>
+<L>As it does aptly, in your power fall</L>
+<L>To aid us now, as you are <HI>Admiral:</HI></L>
+</SP>
+<SP>
+<SPEAKER>Admir.</SPEAKER>
+<L>Are you my Lord in earnest, or in jest?</L>
+<L>So strange I vow to me, seems your request!</L>
+</SP>
+<SP>
+<SPEAKER>Zor.</SPEAKER>
+<L>My Lord I am in earnest; 'twere a crime,</L>
+<L>In jesting now, to spend away the time.</L>
+</SP>
+<SP>
+<SPEAKER>Admir.</SPEAKER>
+<L>No, no, I'le not consent, to such a thing,</L>
+<L>VVhen namely so to do, you'de make me King.</L>
+<L>VVere he a Tyrant, or a Prince unjust,</L>
+<L>It were no argument, to break my trust.</L>
+<L><PB N="21" REF="15">Heaven on conditions, gave him not to me,</L>
+<L>Unless it were for me, 't obedient be.</L>
+<L>VVherefore I'le faithful be; be what he will,</L>
+<L>He is my King, and I his Subject still.</L>
+<L>A tye so close, and strong, that one cannot</L>
+<L>Undo it well, except he breaks the knot.</L>
+</SP>
+<SP>
+<SPEAKER>Selu.</SPEAKER>
+<L>'Tis not to break it, for the Kingdoms good,</L>
+<L>'Tis to preserve it, and the Subjects blood.</L>
+<L>VVe will maintain you in a thing so just,</L>
+<L>Into our hands, do but resign your trust.</L>
+<L>VVhat can the King, in his own person do,</L>
+<L>VVithout his Subjects, for to succour you?</L>
+<L>'Tis not the name of King, that makes him strong,</L>
+<L>That only to his people, does belong.</L>
+<L>That Prince upon my word, is most secure,</L>
+<L>VVhich of his Subjects love, is alwayes sure.</L>
+<L>Think you that Heaven, plac't on his head a Crown,</L>
+<L>For to oppress, and keep his people down?</L>
+<L>No, no, you are deceiv'd, if you think so,</L>
+<L>The King is to himself, the greatest foe.</L>
+</SP>
+<SP>
+<SPEAKER>Zor.</SPEAKER>
+<L>And you will be, one of his greatest friends,</L>
+<L>If you will help, for to correct his sins.</L>
+<L>There is no better way&punc; to take him down,</L>
+<L>Then let him know, who 'tis upholds his Crown.</L>
+<L>VVithout a King, there is no question we,</L>
+<L>May live if that we will, most happily:</L>
+<L>So cannot he, without his Subjects live,</L>
+<L>For it is they, which to him life do give.</L>
+</SP>
+<SP>
+<SPEAKER>Admir.</SPEAKER>
+<L>Your Doctrine is of Devils; I fear to name</L>
+<L>The words which you have utter'd&punc; without shame.</L>
+<L>That I shoo'd help, for to correct the King,</L>
+<L>VVere he the worst, of any living thing!</L>
+<L><PB N="22" REF="16">Or were his Royal soul, more black then Hell,</L>
+<L>Far be't in me, such wickedness shoo'd dwell!</L>
+<L>Let Heaven, who sees more clearly then we do,</L>
+<L>And with less passion, his correction shew.</L>
+<L>To us, who cannot judge of common things,</L>
+<L>Does not belong, the judgement of great Kings.</L>
+<L>They shoo'd be like stars, seated in the Sky,</L>
+<L>Far from our reach, though seeming near our eye.</L>
+</SP>
+<SP>
+<SPEAKER>Zor.</SPEAKER>
+<L>But in mean while, wee'le keep you in our reach,</L>
+<L>A<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">d to you better doctrine, likewise teach.</L>
+</SP>
+<STAGE>Enter Guard and carry him to prison.</STAGE>
+</DIV3>
+</DIV2>
+<DIV2 N="3" TYPE="act">
+<DIV3 N="1" TYPE="scene">
+<HEAD>The third ACT, the first Scene:</HEAD>
+<STAGE><HI>Enter</HI> Symphrona
+<HI>and</HI> Francina.</STAGE>
+<SP>
+<SPEAKER>Symphro.</SPEAKER>
+<L>AH Heavens! what change is this! why weep you so,</L>
+<L>Sweet Madam! the occasion let me know;</L>
+<L>Speak quickly then; you kill me with delay;</L>
+<L>My apprehension, will no longer stay.</L>
+<L>There's something 'bout my Lord, I'le lay my life,</L>
+<L>Which causes in your spirits, this same strife.</L>
+<L>Say? is he kill'd? or is he drown'd at Sea?</L>
+<L>Or will he not, no longer faithful be?</L>
+<L>O how I bleed! and how my soul's in pain!</L>
+<L>The reason of these tears, from you to gain.</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>VVhy do I live? or why have I the pow'r,</L>
+<L>To keep this frame, together for an how'r?</L>
+<L>VVere it not better, I were in my Tomb,</L>
+<L>Then live, and thus unfortunate become?</L>
+<L>No doubt it were, if Death woo'd be so kind,</L>
+<L>To take me hence, to ease my troubled mind.</L>
+</SP>
+<SP>
+<PB N="23" REF="16">
+<SPEAKER>Sym.</SPEAKER>
+<L>Good Madam out with it, what e're it be,</L>
+<L>Me of a thousand, thousand doubts to free.</L>
+<L>Be't what it will, to speak it do not fear,</L>
+<L>For I am ready, and prepar'd to hear.</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>You know not what you say, in saying so,</L>
+<L>Unless the thing, you certainly did know.</L>
+<L>Can you be prepared of a friend,</L>
+<L>To hear the story, of his fatal end?</L>
+</SP>
+<SP>
+<SPEAKER>Sym.</SPEAKER>
+<L>To be prepar'd to hear it, is no sin,</L>
+<L>So that no pleasure I do take therein.</L>
+<L>But what mischance, may't be I cannot hear,</L>
+<L>VVithout offence, unto my chaster ear?</L>
+<L>Dear Madam, let me know it, though I die,</L>
+<L>And be partaker, with the Destiny.</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>Then to be brief, and make you understand,</L>
+<L>VVhat I have heard, from one that by did stand,</L>
+<L>VVho had not then, escapt this news to tell,</L>
+<L>Had he not known, to swim exactly well.</L>
+<L>My brother had no sooner put to Sea,</L>
+<L>VVith hope, and joy, to visit you, and me,</L>
+<L>But presently was spy'd, not far to lurk,</L>
+<L>A man of war, belonging to the Turk,</L>
+<L>Which made t'wards him, with all their might and main,</L>
+<L>Not doubting quickly, but their prey to gain.</L>
+<L>The Captain of his Ship, who as I'me told,</L>
+<L>VVas Sea-man good enough, and very bold,</L>
+<L>Thought it more sure, them striving to out-sail,</L>
+<L>Then rashly hope, by fighting to prevail:</L>
+<L>His Vessel being small, and so ill mann'd,</L>
+<L>It 'gainst the other, coo'd not likely stand,</L>
+<L>And thereupon, commanded all his men,</L>
+<L>To stand unto their trackling, stoutly then:</L>
+<L><PB N="24" REF="17">And made all haste they coo'd, to get away,</L>
+<L>If that the wind, their wishes woo'd obey.</L>
+<L>VVhich did for half a d<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">y, hold very good,</L>
+<L>They still escaping, though they were pursu'd.</L>
+<L>At last, the wind whose humour is to change,</L>
+<L>Became <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">o the sudden calm, a thing not strange:</L>
+<L>VVhich hindred them, they coo'd not farther go,</L>
+<L>They in the reach, still being of their foe.</L>
+<L>VVho then were fain to try, to do by force,</L>
+<L>That which they coo'd no longer, by a course:</L>
+<L>But all to little purpose, on my word,</L>
+<L>For they their Vessel, quickly laid aboard.</L>
+<L>Helas! I have not strength to speak the rest,</L>
+<L>VVherefore dear Madam, I leave it to be gest.</L>
+</SP>
+<SP>
+<SPEAKER>Sym.</SPEAKER>
+<L>Ah Heavens! why have you broke my sweet repose?</L>
+<STAGE>Falls in a swound.</STAGE>
+<L>I in this world, have nothing more to lose.</L>
+<L>I've lost my all, and more I do not crave,</L>
+<L>Since that my Dearest, Dear's, become a slave.</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>Sweet Madam be of chear, and grieve not thus,</L>
+<L>Your sighs, and tears, cannot help him, nor us.</L>
+</SP>
+<SP>
+<SPEAKER>Sym.</SPEAKER>
+<L>O give me leave, I pray now at the least,</L>
+<L>To grieve for that, which cannot be exprest.</L>
+<L>Had he been kill'd, or down'd, or had grim Death</L>
+<L>VVhich spareth none, by sickness seiz'd his breath:</L>
+<L>It woo'd have been more welcome, to my ear,</L>
+<L>Then that which from you, Madam, I do hear.</L>
+<L>For then I might have been, extreamly sure,</L>
+<L>More pain, and torment, he coo'd not endure:</L>
+<L>But now I know he lives and lives in pain,</L>
+<L>VVithout all hopes, his freedom for to gain.</L>
+<L>Good Gods! how can I chuse, but sigh and grieve,</L>
+<L>To have no pow'r, my Lord for to relieve.</L>
+</SP>
+<SP>
+<PB N="25" REF="17">
+<SPEAKER>Fran.</SPEAKER>
+<L>I cannot blame you Madam, rather must,</L>
+<L>Commend these tears, and say your sighs are just.</L>
+<L>Yet were he dead, you lesser hope woo'd have,</L>
+<L>Since none e're yet, did ever quit the grave.</L>
+<L>You cannot tell, he may so happy be,</L>
+<L>As by some means procure his liberty.</L>
+</SP>
+<SP>
+<SPEAKER>Sym.</SPEAKER>
+<L>It is not likely&punc; since the Turk lets go,</L>
+<L>No man for love, or money, you do know.</L>
+<L>And he will not commit, a crime so foul,</L>
+<L>As for his freedom, give away his soul.</L>
+<L>Ah Heavens! coo'd but my life his ransom be,</L>
+<L>How with it I woo'd part, most willingly!</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+</DIV3>
+<DIV3 N="2" TYPE="scene">
+<HEAD>The second Scene:</HEAD>
+<STAGE>Enter <HI>Prince</HI> alone.</STAGE>
+<SP>
+<SPEAKER>Prince.</SPEAKER>
+<L>COo'd I but compass, what I so desire;</L>
+<L>And what with reason too, I do admire:</L>
+<L>Then shoo'd I think my self, a <HI>Prince</HI> indeed,</L>
+<L>And to desire, shoo'd never more have need.</L>
+<L>Had I been Childe, unto some Countrey blade,</L>
+<L>Or to some meaner person of a trade,</L>
+<L>I might have chosen, where I might have lov'd,</L>
+<L>And from my Mistriss, never been remov'd:</L>
+<L>VVhereas, being born a <HI>Prince,</HI> and so more free,</L>
+<L>I am less master, of my liberty.</L>
+<L>I cannot marry, but I must ask leave,</L>
+<L>And from my Subjects, order too receive.</L>
+<L>Perhaps take one, I can by no means love,</L>
+<L>Because some reason, in the State does move.</L>
+<L>Unhappy reason, so to force ones faith,</L>
+<L>For one, for whom, he no affection hath.</L>
+<L><PB N="26" REF="18">Princes in love, less happy are I vow,</L>
+<L>Then maids that milk, or men that go to plow.</L>
+<L>And how, and how, does our affair succeed,</L>
+<STAGE><HI>Nonantious</HI> enters.</STAGE>
+<L>Does she believe, my soul for hers does bleed?</L>
+<L>How does she relish, and disgest my love?</L>
+<L>Will she be kind? or will she cruel prove?</L>
+</SP>
+<SP>
+<SPEAKER>Non.</SPEAKER>
+<L>Implease your Highness, I have done my best,</L>
+<L>Not any thing omitting, unexprest;</L>
+<L>Which might perswade, and move her to believe;</L>
+<L>Yet for all that, she cannot it conceive.</L>
+<L>She sayes her faith, is not so sawcy yet,</L>
+<L>To let her entertain, and harbour it.</L>
+<L>That she her birth, and breeding, knows too well,</L>
+<L>To e're permit, in her, such thoughts shoo'd dwell.</L>
+<L>Unto which words, I presently reply'd,</L>
+<L>Your Highness, was so royally ally'd,</L>
+<L>You had enough, both for your self, and her,</L>
+<L>And that you vertue, did 'fore birth prefer.</L>
+</SP>
+<SP>
+<SPEAKER>Prince.</SPEAKER>
+<L>Well, thereunto, what answer did she make?</L>
+<L>Coo'd not that argument, her captive take?</L>
+</SP>
+<SP>
+<SPEAKER>Nonant.</SPEAKER>
+<L>Good faith Sir no, she seem'd thereat to scoff,</L>
+<L>And rather nearer, to be farther off.</L>
+<L>All the fine words, I coo'd invent and make,</L>
+<L>Had not the pow'r, her constancy to shake.</L>
+<L>I told her to be wife, unto a King,</L>
+<L>Was not, no little, nor no common thing:</L>
+<L>No more then for to have, at her command,</L>
+<L>So many Nobles, bare-head for to stand.</L>
+<L>All which she heard, but with so cold an ear,</L>
+<L>That she did seem to hearken, but not hear.</L>
+<L>A Virgin she's resolv'd, to live and die,</L>
+<L>And so she bid me tell, your Majestie.</L>
+</SP>
+<SP>
+<PB N="27" REF="18">
+<SPEAKER>Prince.</SPEAKER>
+<L>Good Heavens! is't possible she can be so,</L>
+<L>Both to her self, and to her <HI>Prince</HI> a foe?</L>
+<L>If that my person, cannot make her love,</L>
+<L>Has not a Crown, the power her to move?</L>
+<L>Of what cold earth, has nature her compos'd,</L>
+<L>Against all reason, so to be dispos'd?</L>
+<L>She will not wed, then wherefore was she made?</L>
+<L>If that she will not, with us mortals trade?</L>
+<L>Yet I will not the siege, raise for this blow,</L>
+<L>But will her mind, in my own person know.</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+</DIV3>
+<DIV3 N="3" TYPE="scene">
+<HEAD>The third Scene:</HEAD>
+<STAGE>Enter <HI>King,</HI> and divers followers.</STAGE>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>GO tell the <HI>Cardinal,</HI> and <HI>Marshal</HI> thus,</L>
+<L>That 'tis our pleasure, they shoo'd come to us.</L>
+<STAGE>Exeunt.</STAGE>
+<L>Leave us alone: that we shoo'd him remove,</L>
+<L>Whom 'bove our life, and Kingdom, we do love!</L>
+<L>No, no, wee'le never do<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">t, wee'le rather die,</L>
+<L>Then either him, or else his Counsel flie:</L>
+<L>My Lord you're welcome, to our Royal ear,</L>
+<STAGE><HI>Cardinal</HI> enters.</STAGE>
+<L>Wee've news to tell you, set you in this Chair.</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>Implease you Sir, I know my duty well,</L>
+<L>And where my distance, likewise ought to dwell.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Set down we say, for 'tis our Princely will,</L>
+<L>That you in this, our pleasure shoo'd fulfill.</L>
+<L>Be cover'd too, and then we will proceed,</L>
+<L>To tell you that, which makes our soul to bleed.</L>
+<L>Our Subjects grieved are, and say the cause,</L>
+<L>Proceeds from you, 'cause you despise our Laws:</L>
+<L>Advising us, to govern them by will,</L>
+<L>Which they to us, presented have by Bill:</L>
+<L><PB N="28" REF="19">That ev'ry day, their taxes more and more</L>
+<L>Do so increase, that they are grown so poor,</L>
+<L>They are not able, by no means to live,</L>
+<L>Nor to their wives, and children, bread to give:</L>
+<L>Which ought to be, most sensible to us,</L>
+<L>To see them for our sakes, to suffer thus.</L>
+<L>We must my Lord, think on some way to ease</L>
+<L>Them out of hand, their fury to appease:</L>
+<L>Lest le<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ting them, so long in vain to waite,</L>
+<L>They shoo'd become, insens'd, and desperate.</L>
+<L>But that which grievs us most, is, they demand,</L>
+<L>Your precious person, at our royal hand&punc;</L>
+<L>And will on no conditions, be at rest,</L>
+<L>Until of you, they fully be possest:</L>
+<L>Which we in justice, cannot yield unto,</L>
+<L>We are my Lord, so much oblig'd to you.</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>In nothing else, I think my self so poor,</L>
+<L>As that I cannot, serve your Highness more.</L>
+<L>It is implease your Majestie, no news,</L>
+<L>To hear the common people, me accuse.</L>
+<L>These many years, they've had at all no shame</L>
+<L>To threaten me, and likewise blast my name.</L>
+<L>But still I have preserv'd me, from their reach,</L>
+<L>And will in time, them better manners teach.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>What can we do, against a multitude?</L>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<L>Do as you've done, use them extreamly rude.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>But that will but provoke them more and more.</L>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<L>The way to keep them down, 's to keep them poor.</L>
+<L>For shoo'd your Highness, let them wealthy grow,</L>
+<L>And suffer them, no misery to know;</L>
+<L>They woo'd on all occasions, able be,</L>
+<L>For to rebell, against your Majestie.</L>
+</SP>
+<SP>
+<PB N="29" REF="19">
+<SPEAKER>King.</SPEAKER>
+<L>But we have pas't our Royal word, to ease</L>
+<L>Them of their taxes, if that, them will please.</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>Then you have done, that which you will repent,</L>
+<L>Think you they will with that, themselves content?</L>
+<L>No no, upon my word, they will pull down,</L>
+<L>If that they can, from off your head your Crown,</L>
+<L>I know too well, the nature of those men,</L>
+<L>How that there's not amongst them, one in ten,</L>
+<L>Which truly loves, the title of a King,</L>
+<L>So is it to them, such an odious thing.</L>
+<L>They woo'd that all men, shoo'd in common live,</L>
+<L>And have no Law, but what themselves do give.</L>
+</SP>
+<STAGE><HI>Marshal</HI> enters.</STAGE>
+<SP>
+<SPEAKER>Marsh.</SPEAKER>
+<L>Your Lord High <HI>Admiral,</HI> implease your Grace,</L>
+<L>Was even now, arrested 'fore my face;</L>
+<L>And carry'd to the Castle, in all hast,</L>
+<L>There close p<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">isoner, to be shut up fast.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>What says our <HI>Marshal?</HI> speak it once again,</L>
+<L>For to conceive you, we have mighty pain.</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>I cannot blame your Highness, 'tis a thing,</L>
+<L>Sufficient to astonish, any King.</L>
+</SP>
+<SP>
+<SPEAKER>Marsh.</SPEAKER>
+<L>Your <HI>Admiral</HI> implease you Sir, I say,</L>
+<L>Was carry'd even now, by force away.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Who is't, that was so sawcy, and so bold,</L>
+<L>Without our order, on him to lay hold?</L>
+</SP>
+<SP>
+<SPEAKER>Marsh.</SPEAKER>
+<L>The men which did the other day, by Bill,</L>
+<L>Present unto your Grace, your peoples will.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Our <HI>Admiral</HI> in prison! can it be!</L>
+<L>Just Heavens, tho't cost our Crown, wee'le set him free:</L>
+<L>We will not long, there suffer him to lie,</L>
+<L>And too much less, consent he e're shall die.</L>
+<L>To us his services, are too well known,</L>
+<L>To let him under, such a burthen groan.</L>
+<L><PB N="30" REF="20">We cannot with him, so un-King-like deal,</L>
+<L>Who has so much oblig'd, our Common-weal.</L>
+<L>No, no, wee'le make, those blacker souls to know,</L>
+<L>That more respect, to us they ought to shew,</L>
+<L>Then to arrest, without our Royal leave,</L>
+<L>Any, which we don't criminal conceive.</L>
+<L>Think they, we hold this Scepter here in vain,</L>
+<L>And over us, will suffer them to raign:</L>
+<L>Men namely which more cruel are, then wise,</L>
+<L>Which God, and all Religion, do despise?</L>
+<L>Or think they, wee'le content us with the name</L>
+<L>Of King, and not in power, be the same?</L>
+<L>No, no, by Heaven, wee'le make their pride to fall,</L>
+<L>And will be King, or else not King at all.</L>
+<L>Go fetch the heads, of those two Monsters straite,</L>
+<L>And clap them fast, upon the City gate,</L>
+<L>To serve for terror, and example too,</L>
+<L>To any that hereafter, so woo'd do.</L>
+<L>And break the prison doors, to set him free,</L>
+<L>For wee'le not stay, until they op'ned be.</L>
+</SP>
+<SP>
+<SPEAKER>Marsh.</SPEAKER>
+<L>Implease your Grace, I'le make what speed I may,</L>
+<L>Your Majesty in this, for to obey.</L>
+<STAGE>Exit&punc;</STAGE>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>This is the language, of a King indeed,</L>
+<L>And of such men, the means for to be free'd.</L>
+<L>Shoo'd not your Highness, with such rigour deal,</L>
+<L>You'de quickly overthrow, your Common-weal.</L>
+<L>It is no little danger, for to give</L>
+<L>The rains to such, which know not how to live.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>'Tis true my Lord, but yet too strict a course,</L>
+<L>Oftimes does make some men, but ten times worse.</L>
+<L>Had we to deal, with men of wit and sence,</L>
+<L>They coo'd not be mis<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ed, by ought pretence.</L>
+<L><PB N="31" REF="20">Pray Heaven, our Kingdom, and our Crown defend,</L>
+<L>From that which we so much, do apprehend.</L>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<L>What can your Highness, apprehend, I'de know,</L>
+<L>Considering that you have, no forraign foe?</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>A Domestick one, is worse my Lord by far,</L>
+<L>Shoo'd we be forced, to a Civil war.</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>That's not likely, they may perchance rebell,</L>
+<L>But long resist, believ't they cannot tell,</L>
+<L>Because you do possess, implease your Grace,</L>
+<L>Ev'ry Town of strength, and war-like place.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>VVell, hap how 'twill, we Heaven to witness take,</L>
+<L>VVe will not strike, until that us they make.</L>
+<L>And 't shall be with regret, and sorrow too,</L>
+<L>So 'gainst our Subjects, to be forc't to do.</L>
+</SP>
+<STAGE>Enter <HI>Spe|dicious</HI>
+with a dispatch from <HI>Spain.</HI></STAGE>
+<SP>
+<SPEAKER>Sped.</SPEAKER>
+<L>My Lord does humbly kiss your Highness hands,</L>
+<L>And too with all, sent me with these commands.</L>
+<L>'Tis news, implease your Majesty from <HI>Spain,</HI></L>
+<L>To tell you how the match, they entertain.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Here, kiss our hand, how does your Master? well?</L>
+<L>Has no mischance, him in the way befell?</L>
+</SP>
+<SP>
+<SPEAKER>Sped.</SPEAKER>
+<L>No, none implease your Majestie, he did</L>
+<L>Arrive with acclamations, at <HI>Madrid:</HI></L>
+<L>So joyful were the people, for to hear,</L>
+<L>The cause, and Subject, of his coming there.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Tis well, our business needs, must take effect,</L>
+<L>Since that the common people, it affect.</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+</DIV3>
+<DIV3 N="4" TYPE="scene">
+<HEAD>The fourth Scene:</HEAD>
+<STAGE>Enter <HI>Francina</HI> alone.</STAGE>
+<SP>
+<SPEAKER>Franc.</SPEAKER>
+<L>THe <HI>Prince</HI> love me! and so against my will,</L>
+<L>Repeat, and urge me, him for to fulfill!</L>
+<L><PB N="32" REF="21">Good Heavens! what kind of man and Lover's he,</L>
+<L>So for another, to transported be,</L>
+<L>As be more earnest, in the <HI>Princes</HI> cause,</L>
+<L>Then in his own, as then I found he was?</L>
+<L>VVas it for want of Love? why then did he,</L>
+<L>Press it with so much importunity?</L>
+<L>Since that he coo'd not chuse, but know the good,</L>
+<L>Must needs redown to me, and all my blood.</L>
+<L>And if he lov'd me, as I do believe,</L>
+<L>VVhy did he seek, a Rival to receive?</L>
+<L>It was because, I might a Princess be,</L>
+<L>No doubt, which is in love a mysterie:</L>
+<L>That on his own content, shoo'd so contem,</L>
+<L>To let his Mistress wear, a Diadem.</L>
+<L>Oh love not to be equall'd! now I must</L>
+<L>Or love again, or else be most unjust,</L>
+<L>He that my scorn, and slight, coo'd not offend,</L>
+<L>Ought in all reason, to my love pretend.</L>
+<L>'Tis not a Crown, can pluck away the dart,</L>
+<L>VVhich love has shot so deep, into my heart.</L>
+<L>Nor yet much less, the name of Queen remove,</L>
+<L>The resolution, I have took to love.</L>
+<L>Such poor respects in love, ought not to be,</L>
+<L>Nor will I suffer, they shall be in me.</L>
+<L>No, no, but I will love, without respect,</L>
+<L>Since he himself for me, can so neglect.</L>
+</SP>
+<STAGE>Prince <HI>enters.</HI></STAGE>
+<SP>
+<SPEAKER>Prince.</SPEAKER>
+<L>Dear Madam all alone&punc; what have you none,</L>
+<L>To tell your grief to, but your self alone?</L>
+<L>Or is't a secret, you will not impart,</L>
+<L>Least you shoo'd meet, with a deceitful heart?</L>
+<L>Trust me sweet Madam with't, I will not deal</L>
+<L>So much unlike a Prince, as it reveal.</L>
+</SP>
+<SP>
+<PB N="33" REF="21">
+<SPEAKER>Fran.</SPEAKER>
+<L>That Sir I hope, you'le think not I do fear&punc;</L>
+<L>Shoo'd I to make it known, to you forbear.</L>
+<L>It may be such a foolish, trifling thing,</L>
+<L>Not worth the ear, of him that will be King.</L>
+</SP>
+<SP>
+<SPEAKER>Prince.</SPEAKER>
+<L>Madam, if it be fit to move you so,</L>
+<L>It cannot be unfit, for me to know.</L>
+<L>Pray tell it me, that I may likewise grieve,</L>
+<L>The matter merits it, I do believe.</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>That which in justice, ought to make me weep&punc;</L>
+<L>Ought not in reason, for to break your sleep.</L>
+<L>For all the world, I woo'd not speak that thing,</L>
+<L>Which might unto your Highness, sorrow bring.</L>
+</SP>
+<SP>
+<SPEAKER>Prince.</SPEAKER>
+<L>Ah dear Madam! your words are killing sweet,</L>
+<L>To make them good, I wish you thought it meet.</L>
+<L>Then shoo'd I happy be, and be at rest,</L>
+<L>Enjoying that, which cannot be exprest.</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>It cannot be exprest, 'tis true indeed,</L>
+<L>The subject which does make, my heart to bleed.</L>
+</SP>
+<SP>
+<SPEAKER>Prince.</SPEAKER>
+<L>You do not, or you will not, me conceive,</L>
+<L>So loth you are, the truth for to believe.</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>Implease you Sir, I neere was backward yet,</L>
+<L>To credit that, which might not be unfit.</L>
+</SP>
+<SP>
+<SPEAKER>Prince.</SPEAKER>
+<L>Ah Heav'ns! but you want faith to credit me;</L>
+<L>Or if you don't, you kill me willingly.</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>How! kill the <HI>Prince!</HI> here take the Traitress life.</L>
+</SP>
+<SP>
+<SPEAKER>Prince.</SPEAKER>
+<L>I ask no more then you, to be my wife.</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>Your wife implease you Sir? and woo'd you be,</L>
+<L>Unto your self, so much your enemy,</L>
+<L>As take a creature, to your Princely bed,</L>
+<L>So little worth? so poorly born and bred?</L>
+<L>No, no, it cannot be; I know you jest.</L>
+</SP>
+<SP>
+<SPEAKER>Prince.</SPEAKER>
+<L>By all the Gods, I do not, I protest.</L>
+</SP>
+<SP>
+<PB N="34" REF="22">
+<SPEAKER>Fran.</SPEAKER>
+<L>Swear what you please, my duty will not let</L>
+<L>My faith be tempted, for to credit it.</L>
+<L>I know&punc; too well, my merit and your own,</L>
+<L>It to admit, into my thoughts alone.</L>
+</SP>
+<SP>
+<SPEAKER>Prince.</SPEAKER>
+<L>Trust me I burn, but with so chaste a flame,</L>
+<L>That Virgins without sin, may have the same.</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>A Princess woo'd, implease your Highness, be</L>
+<L>A fitter object, for your amity.</L>
+</SP>
+<SP>
+<SPEAKER>Prince.</SPEAKER>
+<L>What's fit for me, good Madam, do not so,</L>
+<L>Better then I my self, pretend to know.</L>
+<L>That's not the business, we have now in hand,</L>
+<L>Nor did e're Love, upon such terms yet stand.</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>Although you are a Prince, you are less free,</L>
+<L>Then one of us, which are of low degree.</L>
+<L>You cannot of your self, your self dispose,</L>
+<L>And not the hearts, of all your subjects lose.</L>
+<L>If love be blind, and shoots without respect,</L>
+<L>The King is not, nor will he you neglect,</L>
+<L>To let you marry, where your fancy takes,</L>
+<L>Except he sees, it for the Kingdom makes.</L>
+<L>So are you subject, to the Rules of State,</L>
+<L>And ought in reason, his consent to waite.</L>
+</SP>
+<SP>
+<SPEAKER>Prince.</SPEAKER>
+<L>Madam, as I'me a Prince, so will I be</L>
+<L>As well as others, in affection free.</L>
+<L>I value not the love, and will of those,</L>
+<L>Who for so small a thing, will be my foes,</L>
+<L>Do you but give consent, and I'le not waite</L>
+<L>Nor yet subscribe, to any Rules of State.</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>Woo'd you that I to please you, shoo'd consen<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">&punc;</L>
+<L>And King, and all your Subjects, discontent?</L>
+<L>D'you make so little reck'ning of me Sir,</L>
+<L>As your content, before my good, prefer?</L>
+<L><PB N="35" REF="22">In this appears, you do not truly love,</L>
+<L>For if you did, you woo'd more kinder prove.</L>
+</SP>
+<SP>
+<SPEAKER>Prince.</SPEAKER>
+<L>Is it to hate you Madam, and contem<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">,</L>
+<L>To set upon your head, a Diadem?</L>
+<L>No, no, in it appears, I honour you,</L>
+<L>And that my passion, is both just and true.</L>
+<L>Wherefore fair soul, do not so cruel prove,</L>
+<L>As call that disrespect, which men call love.</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>What glory is't, upon my head to place</L>
+<L>A Crown of gold, and lose it <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ith disgrace?</L>
+<L>A Country Clown, I swear I'de rather wed,</L>
+<L>Then with such fears, approach a Princes bed.</L>
+</SP>
+<SP>
+<SPEAKER>Prince.</SPEAKER>
+<L>These are fantastique fears, which do p<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">oceed</L>
+<L>From want of Love, which make ill humours breed.</L>
+<L>Did but his flames, once warm and heat your brest,</L>
+<L>You of such doubts, woo'd soon be dispossest.</L>
+<L>Dear Madam, make your <HI>Prince</HI> no longer sue,</L>
+<L>For that which is by love, and duty due.</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>I know my duty, bids me to obey,</L>
+<L>But, but, my love, implease you Sir, says nay.</L>
+<L>I cannot give my heart, to more then one,</L>
+<L>Which having done, is now no more my own.</L>
+</SP>
+<SP>
+<SPEAKER>Prince.</SPEAKER>
+<L>What? have I a Rival then? good now tell</L>
+<L>Me Madam where, that sawcy man does dwell?</L>
+<L>That I may make, his passion for to know,</L>
+<L>That to his <HI>Prince,</HI> he more respect does owe,</L>
+<L>Then to presume, to court where I do love,</L>
+<L>Although the object, may him justly move.</L>
+<L>Yet I was told, that no man coo'd perswade,</L>
+<L>You for to break, the vow that you had made,</L>
+<L>Of living chast, and single all your life,</L>
+<L>And to no earthly creature, to be wife.</L>
+</SP>
+<SP>
+<PB N="36" REF="23">
+<SPEAKER>Fran.</SPEAKER>
+<L>You hearing that, why does your Highness seek,</L>
+<L>The oath which I have took, to make me break?</L>
+<L>It is no small offence, to Heav'n above,</L>
+<L>You know, so perjur'd, and forsworn to prove.</L>
+</SP>
+<SP>
+<SPEAKER>Prince.</SPEAKER>
+<L>Were you forsworn, in pitty of my heat,</L>
+<L>Heav'n woo'd forgive you sure, it is so great.</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>'Tis true I said so, but it was to try,</L>
+<L>And exercise his love, and constancy.</L>
+</SP>
+<SP>
+<SPEAKER>Prince.</SPEAKER>
+<L>And who is it? sweet Madam, be not coy</L>
+<L>To name the man, that must those joyes enjoy.</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>A friend of yours, and one that did so plead</L>
+<L>Your cause, that he has made my soul to bleed.</L>
+</SP>
+<SP>
+<SPEAKER>Prince.</SPEAKER>
+<L>A friend of mine? if ever he was so,</L>
+<L>He must henceforward, be my mortal foe.</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>How? his mortal foe Sir? you cannot sure</L>
+<L>Be so ingrate, to him which sought to cure</L>
+<L>Your love-sick soul, with so much care and pains,</L>
+<L>As if that he, thereof shoo'd reap the gains.</L>
+<L>Ah Heav'ns! is't possible that one shoo'd love,</L>
+<L>And yet with zeal, so for another move?</L>
+<L>What said he not, or what did he omit,</L>
+<L>Which might be able, my consent to get?</L>
+</SP>
+<SP>
+<SPEAKER>Prince.</SPEAKER>
+<L>He is a Traytor, Madam, and I must</L>
+<L>Both, to my passion, and his sin be just.</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>He is no Traytour Sir, his honest soul,</L>
+<L>Woo'd rather die, then do a thing so foul.</L>
+</SP>
+<SP>
+<SPEAKER>Prince.</SPEAKER>
+<L>Instead of aid, and giving me relief,</L>
+<L>He has usurp't my place, and mockt my grief.</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>He has not it usurp't, it is his due,</L>
+<L>And fitter too for him, then 'tis for you.</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+</DIV3>
+</DIV2>
+<DIV2 N="4" TYPE="act">
+<DIV3 N="1" TYPE="scene">
+<PB N="37" REF="23">
+<HEAD>The fourth ACT, the first Scene:</HEAD>
+<STAGE><HI>Enter</HI> King,
+<HI>and</HI> Cardinal.</STAGE>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>WE're glad my Lord, our business takes so well,</L>
+<L>With <HI>Spain,</HI> in case our people shoo'd rebell.</L>
+<L>For they will be to us, a prop and stay,</L>
+<L>And on occasion, help us ev'ry way.</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>So that they may the better do, I heare</L>
+<L>For certain, there's a peace concluding there.</L>
+<L>Which for your Majesty, will greatly make,</L>
+<L>By reason of this match, if it does take.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>We must my Lord, a Navy out of hand</L>
+<L>Make fit, to fetch that Princess to our Land,</L>
+<L>Who shortly as our Letters say, will be,</L>
+<L>Prepar'd, and ready for to put to Sea.</L>
+<L>This matter does, our <HI>Admiral</HI> require,</L>
+<L>Of whom to hear no news, we much admire.</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>Perhaps he finds resistance in the way,</L>
+<L>And that by fair means, they will not obey.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>If that by fair means, they will not consent,</L>
+<L>We will make them by foul, it to repent.</L>
+<STAGE>Enter <HI>Marshal.</HI></STAGE>
+<L>How now <HI>Marshal?</HI> what have you done the feat?</L>
+<L>What moves you thus? and makes you have this heat?</L>
+<L>Where's our <HI>Admiral?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Marsh</SPEAKER>
+<L>Implease you Sir</L>
+<L>There's in the City, such a coyle and stir,</L>
+<L>Upon the knowledge, of your Highness will,</L>
+<L>That ev'ry one betakes him, to his Bill,</L>
+<L>And such like weapons, as he can procure,</L>
+<L>To save the one, and keep the other sure.</L>
+<L><PB N="38" REF="24">For to be short, they say they'le sooner die,</L>
+<L>Then give up either, to your Majestie.</L>
+<L>As for your <HI>Admiral,</HI> they are agree'd,</L>
+<L>By law against him, quickly to proceed.</L>
+<L>And if they find him, worthy not of Death,</L>
+<L>They will by no means, take away his breath.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Ah Heav'ns! Ah Earth! will they give us the Law,</L>
+<L>And be obey'd, when they shoo'd stand in awe?</L>
+<L>They shall be so, but they must tarry till</L>
+<L>We power want, to execute our will.</L>
+<L>Go muster up the Countries, ev'ry where,</L>
+<L>And tell them 'tis our pleasure, they appear,</L>
+<L>Before our Royal Pallace, two dayes hence,</L>
+<L>To serve us in a thing of consequence.</L>
+<L>While we in <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">erson, go for to demand,</L>
+<L>My Lord, and those two Traytours, at their hand.</L>
+<L>Whom, if they do refuse us, wee'le proclaim</L>
+<L>Ev'ry several man, to be the same.</L>
+<L>My Lord, wee'le leave the Navy to your care,</L>
+<L>And out of hand, a Fleet for to prepare.</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>Who shall implease your Grace, go out with it?</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>He that shall seem, unto your wisdom fit.</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+</DIV3>
+<DIV3 N="2" TYPE="scene">
+<HEAD>The second Scene:</HEAD>
+<STAGE>Enter <HI>Symphrona</HI> in a Nuns
+habit alone.</STAGE>
+<SP>
+<SPEAKER>Sym.</SPEAKER>
+<L>A Dieu delights, of you I take my leave,</L>
+<L>As of false joyes, which cannot more deceive.</L>
+<L>Farewell fond hopes, to you I bid adieu,</L>
+<L>As foes, which me more mischief cannot do.</L>
+<L>If here below, it is Heav'ns sacred will,</L>
+<L>That I must stay, and so journer be still&punc;</L>
+<L><PB N="39" REF="24">Think not to tempt me, with your golden shews,</L>
+<L>Which seem our friends, but prove our mortal foes.</L>
+<L>No, no, I'le not my heart, on trifles set,</L>
+<L>Which us forsake, so soon as we them get.</L>
+<L>I'le something else, more constant surely chuse,</L>
+<L>Then that which is so given, to abuse.</L>
+<L>A still Religious life, henceforth shall be,</L>
+<L>My Hope, my Joy, my Love, and Liberty.</L>
+<L>All the pastime, and pleasure I will take,</L>
+<L>Shall be with Hallelujahs, Heav'n to shake.</L>
+<L>Before whose Altars, I will daily burn</L>
+<L>Incense, from me, his anger for to turn.</L>
+<L>With watchings, and with fastings, I<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">le subdue,</L>
+<L>The idle thoughts, which I am subject too:</L>
+<L>And have an eye, still on those Joyes above,</L>
+<L>Of which I'me now enamour'd, and in love.</L>
+</SP>
+<STAGE>Francina <HI>enters.</HI></STAGE>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>Dear Madam, why thus cloathed like a Nun,</L>
+<L>As if you were asham'd, to see the Sun?</L>
+<L>Wherefore this longer vail? these blacks and whites,</L>
+<L>Which are Monastick, and Religious Rites;</L>
+<L>And damage much your Beauty, ev'ry way,</L>
+<L>As darkness is injurious, to the day.</L>
+<L>Off, off, with them, and like your self appear,</L>
+<L>And do not thus Ecclipse, our Hemispheare.</L>
+</SP>
+<SP>
+<SPEAKER>Sym.</SPEAKER>
+<L>Madam, I know my beauty too too well,</L>
+<L>To think such pow'r, shoo'd in my person dwell.</L>
+<L>I leave that force, and vertue unto you,</L>
+<L>Which ev'ry one does know, is but your due.</L>
+<L>As for these whites, and blacks, I woo'd not them</L>
+<L>Forsake I vow, to wear a Diadem.</L>
+<L>There's more content, in these poor simple weeds,</L>
+<L>More pleasure <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ar, in saying o<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">re these beads,</L>
+<L><PB N="40" REF="25">Believe me Madam, then in all the sport,</L>
+<L>And brave Apparel, which is worn at Court,</L>
+<L>Those are but trifles, if compar'd with these,</L>
+<L>The thought alone of which, does me displease.</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>Madam, such language yet was never known,</L>
+<L>To part from any, but the spleen alone:</L>
+<L>Especially from one, so young as you,</L>
+<L>Which you shoo'd seek, by Physick to subdue.</L>
+<L>For 'tis a naughty evil, and withall,</L>
+<L>Begets a worse, which we green sickness call.</L>
+<L>'Twere pitty such a handsom piece as you,</L>
+<L>By such rude means, shoo'd so yourself undo.</L>
+<L>Shoo'd by such stricter observations dry,</L>
+<L>That softer skin, so in a Nunnery.</L>
+<L>You may no doubt, please Heav'n another way,</L>
+<L>And in a Congregation, likewise pray,</L>
+<L>As well as Cloyster'd up, within a wall,</L>
+<L>In silks, and sattens too, if that be all.</L>
+<L>Dear Madam, think what you do go about,</L>
+<L>And that 'tis ten to one, if you hold out?</L>
+</SP>
+<SP>
+<SPEAKER>Sym.</SPEAKER>
+<L>There's nothing like, unto a willing mind,</L>
+<L>Which Heav'n be praysed, strong in me I find.</L>
+<L>As for the spleen, I woo'd that you shoo'd know,</L>
+<L>This zeal does nothing, unto that humour owe.</L>
+<L>No, no, sweet Madam, 'tis so pure a flame,</L>
+<L>That if you knew't, you woo'd not blame the same.</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>I do not blame it Madam, but I know</L>
+<L>These holy thoughts, do from my brother grow.</L>
+<L>Had he not been took, by the Turks at Sea,</L>
+<L>You nee're had thought, upon a Nunnery.</L>
+</SP>
+<SP>
+<SPEAKER>Sym.</SPEAKER>
+<L>Heav'n who does so wisely order all,</L>
+<L>To whom we subject are, both great and small:</L>
+<L><PB N="41" REF="25">Decreed'd no doubt, from all Eternity,</L>
+<L>That this my good, from his mischance shoo'd be.</L>
+<L>To whose misfortune, I'me content to owe,</L>
+<L>This resolution, since it must be so.</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>But Madam, 'tis not for devotion sake,</L>
+<L>If ought respect, makes you this course to take:</L>
+<L>That which is pleasing unto Heav'n above,</L>
+<L>Is when one does so, meerly out of love.</L>
+<L>But as I've said, perhaps my brother may,</L>
+<L>By some devise, escape and get away.</L>
+<L>Which if he shoo'd, you'le wish when 'tis too late,</L>
+<L>That e're you enter'd, so severe a Gate.</L>
+</SP>
+<SP>
+<SPEAKER>Sym.</SPEAKER>
+<L>Madam 'tis true, I care not who does know,</L>
+<L>I love my Lord, 'bove ought that's here below,</L>
+<L>Except my honour, which I do esteem,</L>
+<L>Equal with that, which one cannot redeem.</L>
+<L>Yet when in competition, Heav'n shall come,</L>
+<L>Your Brother by your favour, must make room:</L>
+<L>Since that to Heav'n, I do not only owe,</L>
+<L>My present being, but my soul you know:</L>
+<L>To whom I am resolv'd, my self to vow,</L>
+<L>Shoo'd he arrive, for to disswade me now.</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>Look where he is, as if that he were sent,</L>
+<STAGE><HI>Bellarious</HI> enters.</STAGE>
+<L>By kinder Heav'n, to hinder your intent.</L>
+<L>Welcome dear brother, from the Turkish Coast,</L>
+<L>Whom we did fear, for ever we had lost.</L>
+<L>Ah Heav'ns! may I believe, and trust my sight,</L>
+<L>Or is<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">t his spirit, intervenes my light?</L>
+<L>Speak brother, speak, and with your voice make good,</L>
+<L>Tha<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> which your outward shew, makes understood.</L>
+</SP>
+<SP>
+<SPEAKER>Bell.</SPEAKER>
+<L>As men o'recome with Joy do silent seem,</L>
+<L>Until their former spirits, they redeem.</L>
+<L><PB N="42" REF="26">So I dear Sister, with such like excess,</L>
+<L>Am stricken dumb, and cannot it express.</L>
+<L>To see <HI>Symphrona,</HI> whom I long'd to see,</L>
+<L>But with more passion, then can utter'd be.</L>
+<L>Fair <HI>Symphrona,</HI> whose absence was to to me,</L>
+<L>More pain by far, then my captivity.</L>
+<L>What! is my <HI>Symphrona</HI> likewise dumb?</L>
+<L>Or else heard-hearted, is she now become?</L>
+<L>Does my appearance, Madam, trouble you,</L>
+<L>That you so sad, and heavy now do shew?</L>
+<L>Alas! I wisht my freedom, but to have,</L>
+<L>Only the honour, for to be your slave.</L>
+<L>Which if you do deny me, I shall be,</L>
+<L>Sorry that e're I sought, my liberty.</L>
+</SP>
+<SP>
+<SPEAKER>Sym.</SPEAKER>
+<L>The same excess, whereof you spake of now,</L>
+<L>So ev'ry part about me, seiz'd I vow:</L>
+<L>That had the world, the purchase been to speak,</L>
+<L>To purchase it, I had been then to seek:</L>
+<L>So much I do rejoyce, at your return,</L>
+<L>But sorry am, that you for me shoo'd burn.</L>
+</SP>
+<SP>
+<SPEAKER>Bell.</SPEAKER>
+<L>For whom within my breast, shoo'd I have fire,</L>
+<L>If that for you, I may not have desire?</L>
+</SP>
+<SP>
+<SPEAKER>Sym.</SPEAKER>
+<L>For those my Lord, which merit more then I,</L>
+<L>For <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> short, I've vow'd Virginity.</L>
+</SP>
+<SP>
+<SPEAKER>Bell.</SPEAKER>
+<L>Indeed your habit sayes so, but your mind</L>
+<L>I do believe, more gentle and more kind.</L>
+</SP>
+<SP>
+<SPEAKER>Sym.</SPEAKER>
+<L>My inside, and my outside, are alike.</L>
+</SP>
+<SP>
+<SPEAKER>Bell.</SPEAKER>
+<L>Ah Heav'ns! how me with wonder you do strike!</L>
+<L>Recall those words, except it be your will,</L>
+<L>That they forthwith, shoo'd murder me and kill.</L>
+</SP>
+<SP>
+<SPEAKER>Sym.</SPEAKER>
+<L>I woo'd if that I coo'd, but 'tis too late,</L>
+<L>I must not love, and yet I cannot hate.</L>
+<STAGE>aside.</STAGE>
+</SP>
+<SP>
+<PB N="43" REF="26">
+<SPEAKER>Bell.</SPEAKER>
+<L>Good Gods! was ever Lover like to me?</L>
+<L>Compar'd with this, sweet is Captivity.</L>
+<L>Sweet is the usage of a Turk, I swear,</L>
+<L>For half so cruel, they did nee're appear.</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>You are <HI>Symphrona,</HI> too too constant now,</L>
+</SP>
+<SP>
+<SPEAKER>Sym.</SPEAKER>
+<L>Woo'd you with Heav'n, that I shoo'd break my vow?</L>
+</SP>
+<SP>
+<SPEAKER>Bell.</SPEAKER>
+<L>She's rather too inconstant, you may say.</L>
+</SP>
+<SP>
+<SPEAKER>Sym.</SPEAKER>
+<L>Rather but careful, Heav'n for to obey.</L>
+</SP>
+<SP>
+<SPEAKER>Bell.</SPEAKER>
+<L>Heav'n is too just, to bid you do a thing,</L>
+<L>Which to another, will such damage bring;</L>
+<L>And to your self, if you remember how,</L>
+<L>When I departed, you did constant vow.</L>
+</SP>
+<SP>
+<SPEAKER>Sym.</SPEAKER>
+<L>Am I inconstant, 'cause I heard you were&punc;</L>
+<L>Took by the Turks, to be in bondage there?</L>
+<L>Who then believing, you woo'd nee're escape,</L>
+<L>Made me transform my self, into this shape.</L>
+<L>And too likewise, with none but Heav'n to wed,</L>
+<L>So loathsom to me, was anothers bed.</L>
+<L>Which vow now I have made, I mean to keep;</L>
+<L>Did I not know, the profit I shall reap?</L>
+</SP>
+<SP>
+<SPEAKER>Bell.</SPEAKER>
+<L>You were too hasty Madam, for to make,</L>
+<L>A vow, which you did mean, such root shoo'd take,</L>
+<L>As nought but Death, shoo'd cansel and make void.</L>
+<L>Then there's no hopes, by you to be enjoy'd?</L>
+</SP>
+<SP>
+<SPEAKER>Sym.</SPEAKER>
+<L>No, none at all, the most that I can do,</L>
+<L>Is to go home my Lord, and pray for you.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Bell.</SPEAKER>
+<L>Ah Sister! how is it likely, I shoo'd live,</L>
+<L>When she that giveth life, denyes to give!</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>'Tis very strange, that one that did so love,</L>
+<L>Shoo'd to so rash a vow, so constant prove!</L>
+<L>I cannot chuse, but blame in this your chance;</L>
+<L>This had not been, had you not gone to <HI>France.</HI></L>
+</SP>
+<SP>
+<PB N="44" REF="27">
+<SPEAKER>Bell.</SPEAKER>
+<L>But did she love me sister? are you sure?</L>
+<L>Did she for me, ought trouble e're endure?</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>She did upon my word, so much that I,</L>
+<L>Nee're thought shee'd stand to this, so constantly.</L>
+</SP>
+<SP>
+<SPEAKER>Bell.</SPEAKER>
+<L>The greater's my misfortune, if she did,</L>
+<L>Wherefore to grieve, I must not be forbid.</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+</DIV3>
+<DIV3 N="3" TYPE="scene">
+<HEAD>The third Scene:</HEAD>
+<STAGE>Enter <HI>Zorates</HI> and <HI>Selucious.</HI></STAGE>
+<SP>
+<SPEAKER>Zor.</SPEAKER>
+<L>THE City their affection to us shew:</L>
+<L>If that the Countrey, will but do so too,</L>
+<L>We shall be able, to reform the King,</L>
+<L>And in this Kingdom, ev'ry living thing.</L>
+<L>We out of hand, the <HI>Admiral</HI> must try,</L>
+<L>All sorts of people, for to satisfie:</L>
+<L>Whom if we find, by Law to merit Death,</L>
+<L>We must not spare, to take away his breath.</L>
+<L>'Tis better one shoo'd perish, then that all</L>
+<L>Shoo'd run the hazard, utterly to fall.</L>
+</SP>
+<SP>
+<SPEAKER>Selu.</SPEAKER>
+<L>The King this morning, very early went,</L>
+<L>Into the City, with a full intent,</L>
+<L>For to lay hold on us, and set him free,</L>
+<L>Shewing unto them, his authority.</L>
+<L>Who as I hear, what words so e're he us'd,</L>
+<L>Both he, and we, unto him, were refus'd.</L>
+<L>What he will do, it does not yet appear,</L>
+<L>But if the City stand's, we need not fear.</L>
+</SP>
+<SP>
+<SPEAKER>Zor.</SPEAKER>
+<L>My life for yours, they will be to us true,</L>
+<L>And do likewise, what in them lies to do.</L>
+<L>They have already, of their own accord,</L>
+<L>In our defence, pluckt out and drawn their sword.</L>
+<L><PB N="45" REF="27">What will they do, then for the common cause,</L>
+<L>For their Religion, Liberty and Laws?</L>
+<L>That which I fear, and which does give me pain,</L>
+<L>Is this same match, concluded now with <HI>Spain.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Selu.</SPEAKER>
+<L>If that be all, it needs not trouble you,</L>
+<L>Since they have work enough, at home to do.</L>
+<L>That marriage for the present, cannot be,</L>
+<L>Much advantagious; to his Majestie:</L>
+<L>By reason, that they are, so poor become,</L>
+<L>They cannot give, a considerable summ:</L>
+<L>So much the war, betwixt the French and them,</L>
+<L>Has ruined, that glorious Diadem.</L>
+</SP>
+<SP>
+<SPEAKER>Zor.</SPEAKER>
+<L>To try them farther, we must to them make</L>
+<L>A proposition, the <HI>Cardinal</HI> to take:</L>
+<L>Shewing unto them, how we cannot be,</L>
+<L>So long as he does live, in surety:</L>
+<L>Which if with zeal, we find them to embrace,</L>
+<L>We need not fear, to disoblige his Grace:</L>
+<L>For all unto our wishes, woo'd succeed,</L>
+<L>Were we but of that Animal, once rid.</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+</DIV3>
+<DIV3 N="4" TYPE="scene">
+<HEAD>The fourth Scene:</HEAD>
+<STAGE>Enter <HI>Prince</HI> alone.</STAGE>
+<SP>
+<SPEAKER>Prince.</SPEAKER>
+<L>HOw Nature was deceiv'd, when she made me!</L>
+<L>No doubt but her intent, was I shoo'd be,</L>
+<L>Free from all manner, of contempt and scorn,</L>
+<L>When she design'd, a <HI>Prince</HI> I shoo'd be born.</L>
+<L>Unhappy Planet, under whom this earth,</L>
+<L>Received first its form, and then its birth,</L>
+<L>Why did'st thou destine me unto a Crown,</L>
+<L>Yet make me more unhappy, then a Clown!</L>
+<L><PB N="46" REF="28">For which of all my Subjects, I woo'd know,</L>
+<L>Does more then I, unto thy malice owe?</L>
+<L>Or rather, why did Love make me presume,</L>
+<L>To chuse a lodging, w<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ere there was no room?</L>
+<L>To strike so deep, into my brest a Dart,</L>
+<L>For one, that is not Mistress of her heart?</L>
+<L>Ah Heav'ns! have I not reason to complain,</L>
+<L>To be a Prince, and yet to sue in vain?</L>
+<L>To court my Subject, and to be refus'd,</L>
+<L>And by him who I trusted, thus abus'd?</L>
+<L>Good Gods! whom with our secrets, shall we trust,</L>
+<L>If that our bosom friends, prove so unjust?</L>
+<L>To whom shall we our thoughts, communicate,</L>
+<L>If those whom we oblige, prove so ingrate?</L>
+<L>Had he dealt freely with me, and made known,</L>
+<L>His passion to me, but by sign alone:</L>
+<L>I shoo'd have had compassion, on his flame,</L>
+<L>'Tis ten to one, and nee're have mov'd the same.</L>
+<L>Or had I once believ'd, or else but known,</L>
+<L>That Love had but possest, her thoughts alone:</L>
+<L>By all that's just, I do protest and vow,</L>
+<L>I had contemn'd, and scorn'd her long e're now.</L>
+<L>I shoo'd have unto Reason, then obey'd,</L>
+<L>And by my passion, been not so o'resway'd,</L>
+<L>As so against my honour, to commit,</L>
+<L>An action of a <HI>Prince,</HI> so much unfit,</L>
+<L>As love a creature, which can find her heart,</L>
+<L>To any, the least favour to impart.</L>
+</SP>
+<SP>
+<SPEAKER>Non.</SPEAKER>
+<L>Sir 'tis my fortune still, to b'in the way,</L>
+<STAGE>Nona<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">tio<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">s <HI>enters.</HI></STAGE>
+<L>When that the King, has ought to you to say.</L>
+<L>His pleasure is, you shoo'd attend him straite,</L>
+<L>Implease you, at the privy Garden Gate.</L>
+</SP>
+<SP>
+<PB N="47" REF="28">
+<SPEAKER>Prince.</SPEAKER>
+<L>It is thy fortune rather, thou mayst boast,</L>
+<L>To be a Traytor, what face so e're thou shewst.</L>
+</SP>
+<SP>
+<SPEAKER>Non.</SPEAKER>
+<L>A Traytor Sir? It is so rude a sound&punc;</L>
+<L>The name, without the guilt, my soul does wound.</L>
+<L>I hope you think not so, what e're you say,</L>
+<L>Or if you do, here take away my Day.</L>
+<L>Let him not live, a minuit longer Sir,</L>
+<L>That does your life, not 'fore his own prefer.</L>
+<L>But let the Traytor, an example be,</L>
+<L>By your quick vengeance, to posterity.</L>
+</SP>
+<SP>
+<SPEAKER>Prince.</SPEAKER>
+<L>No, no, my friend, 'tis fit thou shoo'dst have time,</L>
+<L>For to repent, and likewise know thy crime.</L>
+<L>I woo'd not do thy soul, such wrong I swear,</L>
+<L>As send it unto Hell, for any Fair.</L>
+</SP>
+<SP>
+<SPEAKER>Non.</SPEAKER>
+<L>For any Fair! good Heav'n who is't I'de know,</L>
+<L>Can be so fair, to make me thither go?</L>
+<L>Where dwells the creature, that I so shoo'd love,</L>
+<L>As for her sake, a Traytor I woo'd prove?</L>
+</SP>
+<SP>
+<SPEAKER>Prince.</SPEAKER>
+<L>Thou know'st her lodging, better then I do,</L>
+<L>VVhat ignorance soever, thou may'st shew.</L>
+<L>Yes, yes, thou do'st, false-hearted as thou art,</L>
+<L>In whom no vertue, ever yet had part.</L>
+<L>Thou know'st <HI>Francina,</HI> do'st not very well?</L>
+<L>'Tis there, 'tis there, thy sawcy love does dwell.</L>
+<L>'Tis there, 'tis there, thy passion does pretend,</L>
+<L>Offending so at once, thy <HI>Prince</HI> and friend.</L>
+<L>Good Heav'ns! who woo'd have thought thou woo'dst have prov'd,</L>
+<L>So much ingrate, as such a thing have mov'd:</L>
+<L>Consid'ring that to thee, I made it known,</L>
+<L>As to a person, I esteem<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">d alone:</L>
+<L>As one I thought, so honest and so true,</L>
+<L>It was but just, and reason so to do.</L>
+<L><PB N="48" REF="29">Yet notwithstanding, thou hast dealt with me,</L>
+<L>As if I had been thy sworn enemy:</L>
+<L>And made no conscience, to betray the trust,</L>
+<L>I put in thee, which I conceiv'd so just.</L>
+<L>Say? didst thou love her? or, did she love thee,</L>
+<L>Fore thee I chose, my messenger to be?</L>
+<L>VVhy did'st thou then, to me not make it known,</L>
+<L>That I might have resolv'd, t'have let't alone?</L>
+<L>Or if thou saw'st, my passion was so great,</L>
+<L>That nought but Death, coo'd take away the heat,</L>
+<L>VVhy did'st thou not, in duty to my flame,</L>
+<L>Hazard thy life, for to maintain the same?</L>
+<L>Prefer thy Princes ease, before <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">hy own?</L>
+<L>Had'st thou been honest, thou woo'dst so have done.</L>
+<L>Speak man! thou waxest pale when thou shood'st blush,</L>
+<L>As if tho<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> car'dst not, for thy sin a rush.</L>
+<L>Ah Heavens! what height of wickedness is this,</L>
+<L>Not to be sorry, when one does amiss!</L>
+<L>Confess thy fault, before I send thy earth,</L>
+<L>Unto the place, where 'twas before thy birth.</L>
+<L>Repent, repent, thou knowest thy offence,</L>
+<L>And at the least, say something in pretence.</L>
+<L>VVhat? art thou deaf? or hast thou lost thy speech?</L>
+<L>Or does thy guilt, to thee this silence teach?</L>
+<L>Speak Traytor, speak, for to prevent my arm,</L>
+<L>Before thou answer'st me, to do thee harm.</L>
+</SP>
+<SP>
+<SPEAKER>Non.</SPEAKER>
+<L>Sir were I guilty, as you think I am,</L>
+<L>I shoo'd be glad, you woo'd correct the same.</L>
+<L>Nor woo'd I speak, your fury to prevent,</L>
+<L>Had I this present, any such intent.</L>
+<L>It woo'd implease you Sir, be somewhat rude,</L>
+<L>Me by my silence, faulty to conclude.</L>
+<L><PB N="49" REF="29">The news you tell me, is to me so strange,</L>
+<L>That quite and clean, it does my nature change:</L>
+<L>As when some sudden mischief, we do hear,</L>
+<L>We pale, and speechless, presently appear.</L>
+<L>I must confess, I have <HI>Francina</HI> lov<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">d,</L>
+<L>And some such thing, unto her likewise mov'd:</L>
+<L>But 'twas before your passion, did appear,</L>
+<L>And for my motion, I was nee're the near:</L>
+<L>For did you know, but with what scorn and pride,</L>
+<L>She answer'd me Sir, and my sute deny'd:</L>
+<L>You'd pitty me, and say she was too blame,</L>
+<L>To use so hardly, such an honest flame:</L>
+<L>Which was the reason, I was loth to move,</L>
+<L>You may be pleas'd to call to mind, your Love:</L>
+<L>For fear Sir, that your business for my sake,</L>
+<L>Might not unto your wishes, fully take.</L>
+</SP>
+<SP>
+<SPEAKER>Prince.</SPEAKER>
+<L>That fear was needless, I must tell thee, since</L>
+<L>It was a message, sent her from a Prince.</L>
+<L>What scorn so e're, she might have us'd to thee,</L>
+<L>Was no conclusion, shee'd do so to me.</L>
+<L>Go, go, this is a very poor pretence,</L>
+<L>And little serves, to colour thy offence.</L>
+</SP>
+<SP>
+<SPEAKER>Non.</SPEAKER>
+<L>Just Heav'n which knows, the hearts of all full well,</L>
+<L>Will never send my soul, for this to Hell.</L>
+<L>VVere I but faulty, only but in this,</L>
+<L>I might presume, I never did amiss.</L>
+<L>As for such fear you say, there was no need,</L>
+<L>How oft are men, forc't for their Right to plead?</L>
+<L>And after all their pains, likewise at last</L>
+<L>For want of a good Pleader, too are cast?</L>
+<L>Yet did you know, or woo'd you but believe,</L>
+<L>The pains I took, to make her to conceive</L>
+<L><PB N="50" REF="30">Her interest, and how you loved her,</L>
+<L>You woo'd not judge so hardly, of me Sir.</L>
+</SP>
+<SP>
+<SPEAKER>Prince.</SPEAKER>
+<L>Men judge thou know'st, of things by the event,</L>
+<L>And I from her own mouth, pass my judgement.</L>
+</SP>
+<SP>
+<SPEAKER>Non.</SPEAKER>
+<L>From her own mouth! what is't implease your Grace?</L>
+</SP>
+<SP>
+<SPEAKER>Prince.</SPEAKER>
+<L>That thou hast in her heart, the chiefest place.</L>
+</SP>
+<SP>
+<SPEAKER>Non.</SPEAKER>
+<L>That she loves me! Oh Sir it cannot be,</L>
+<L>Since she woo'd never marry, she told me.</L>
+<L>I will not say your Highness, is deceiv'd,</L>
+<L>But I may say, 'tis hard to be believ'd.</L>
+<L>D'you think it likely, she woo'd me prefer,</L>
+<L>My birth, and fortune, 'fore your self great Sir?</L>
+<L>No, no, 'tis not: whatever she may say,</L>
+<L>She does but with my former passion play.</L>
+<L>VVomen Sir, too ambitious are you know,</L>
+<L>To let a Crown, and Scepter so to go.</L>
+<L>Had she a mind, to go to any's bed,</L>
+<L>She woo'd no doubt, your Highness quickly wed.</L>
+<L>The name of Queen, is such a pleasing bit,</L>
+<L>That ev'ry one, is greedy after it.</L>
+</SP>
+<SP>
+<SPEAKER>Prince.</SPEAKER>
+<L>VVhich makes me think, thou hast by Magick art,</L>
+<L>Rather abus'd, then fairly got her heart.</L>
+<L>For if 'twere otherwise, why shoo'dst thou gain,</L>
+<L>That with such ease, which I cannot with pain?</L>
+</SP>
+<SP>
+<SPEAKER>Non.</SPEAKER>
+<L>That I to gain her heart shoo'd witchcraft use,</L>
+<L>And so not only her, but you abuse!</L>
+<L>Oh Sir, you told me, you woo'd send this earth</L>
+<L>Unto the place where 'twas before its birth:</L>
+<L>Do, do it quickly, for to rid my pain,</L>
+<L>And me remove from that, which you call gain.</L>
+<L>Let not this body, which is so possest,</L>
+<L>Here in this world Sir, any longer rest:</L>
+<L><PB N="51" REF="30">But send it headlong, quickly down to Hell,</L>
+<L>There with its black Companions, for to dwell.</L>
+<L>Yet 'fore I die, here on my bended knee,</L>
+<L>Do I bequeath <HI>Francina,</HI> willingly.</L>
+<L>All, all the interest, which I have in her,</L>
+<L>Henceforward I do give, unto you Sir.</L>
+<L>And wish she may so to your wishes prove,</L>
+<L>That you may nee're repent you e're did love,</L>
+<L>I know she is too poor, a gift for you,</L>
+<L>But I can do no more, then I can do.</L>
+<L>Since that my life to you, is so suspect,</L>
+<L>'Tis fit my Death, shoo'd witness my respect.</L>
+</SP>
+<STAGE>Stobs himself.</STAGE>
+<SP>
+<SPEAKER>Prince.</SPEAKER>
+<L>Hold goodness, hold, I woo'd not be the cause,</L>
+<L>That thou shoo'dst so transgress, Dame Natures Laws,</L>
+<L>As be unto thy self, so much unkind,</L>
+<L>Because my passion, is so monstrous blind.</L>
+<L>He goes, Ah Heav'ns, woo'd I had now the pow'r,</L>
+<L>To keep Death hence, but only for an how'r.</L>
+<L>To let him see, before he shuts his eyes,</L>
+<L>How this last action, does me sacrifize.</L>
+<L>To thank his kindness, and to let him know,</L>
+<L>How much unto his vertue, I do owe.</L>
+<L>He stirs not yet, good Gods assist my hand,</L>
+<L>To raise him up, and likewise make him stand.</L>
+<L>I was too blame, by Heav'n I was unjust,</L>
+<L>To recompence his pains, with such mistrust.</L>
+<L>I feel no breath, there does no life appear,</L>
+<L>What woo'd <HI>Francina</HI> say, were she now here:</L>
+<L>To see her dearest Dear, thus speechless lye,</L>
+<L>Upon the ground, and I here standing by?</L>
+<L>See where she comes, as if she summon'd were</L>
+<L>By his last breath, this instant to appear.</L>
+</SP>
+<STAGE>Francina <HI>enters.</HI></STAGE>
+<SP>
+<PB N="52" REF="31">
+<SPEAKER>Fran.</SPEAKER>
+<L>I dreamt last night, a very scurvy dream,</L>
+<L>Which strange unto my soul, I vow does seem.</L>
+<L>Which is the cause, of this my coming here,</L>
+<L>Not out of hopes 'tis true, but out of fear.</L>
+<L>At twelve a Clock, the hower I do keep,</L>
+<L>I was no sooner laid, to go to sleep,</L>
+<L>But presently into my thoughts, did come,</L>
+<L>My Lord past by this way, unto his Tomb.</L>
+<L>Something there was, about the <HI>Prince</HI> likewise,</L>
+<L>But in a f<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ight, I striving for to rise,</L>
+<L>Was the occasion, I forgot the rest,</L>
+<L>Being at that time, with too much possest:</L>
+</SP>
+<SP>
+<SPEAKER>Prince.</SPEAKER>
+<L>Something of me! good Madam be so kind,</L>
+<L>As for my sake, to call it unto mind:</L>
+<L>That I may likewise, know my Destine too,</L>
+<L>Since that your dreams, do prove so fatal true.</L>
+<L>Alas! behold him there, that lieth dead,</L>
+<L>And ready for his Tomb, as you have seyd.</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>Ah Heav'ns! my Lord here speechless on the ground,</L>
+<L>And on his body, seems to have a wound!</L>
+<L>Tell me ye stars, who has this mischief done,</L>
+<L>That I may also, him deprive of Sun?</L>
+<L>Ah! speak my Lord? and let me not in vain,</L>
+<L>Thus with my sighs, and tears, you entertain.</L>
+<L>Requite not thus, my former scorn sweet Sir,</L>
+<L>Who does your Love, before her life prefer.</L>
+<L>Who sorry <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">s, that e're she was so blind,</L>
+<L>To have been to <HI>Nonantious,</HI> so unkind.</L>
+<L>Speak, speak, I say, or else give me the pow'r,</L>
+<L>Ye juster Heav'ns, to live not out this how'r.</L>
+<L><GAP DESC="illegible" RESP="tech" EXTENT="1 word"> <HI>Prince!</HI> is this the issue of your flame?</L>
+<L>Did you make love to me, to do the same?</L>
+<L><PB N="53" REF="31">To do a thing, s' unworthy of your Crown,</L>
+<L>And which will blast for ever, your renown?</L>
+</SP>
+<SP>
+<SPEAKER>Non.</SPEAKER>
+<L>Madam, the <HI>Prince</HI> is clear, 'tis only I</L>
+<L>Am guilty of this murther, certainly</L>
+</SP>
+<SP>
+<SPEAKER>Prince.</SPEAKER>
+<L>Oh kindness 'bove expression! to revive</L>
+<L>A purpose only, me for to forgive.</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>The <HI>Prince</HI> is clear? then speak it o're agin,</L>
+<L>For to confirm, he did not do this sin.</L>
+<L>For shoo'd I for once hearing, it believe,</L>
+<L>I might my self, and hearing too deceive.</L>
+</SP>
+<SP>
+<SPEAKER>Non.</SPEAKER>
+<L>He's clear.</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>And I it is that guilty am.</L>
+<L>The <HI>Prince</HI> not any hand, has in the same.</L>
+<L>No, no, the <HI>Prince</HI> is free, and too too good,</L>
+<L>To have a hand, in any Subjects blood.</L>
+<L>To me alone, thou doest this murther owe,</L>
+<L>For 'twas my self, which gave thee this same blow.</L>
+<L>It was my cruelty, made thee dispair,</L>
+<L>And <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">o to live, made thee not much to care.</L>
+<L>How oft hast thou, unworthy as I am,</L>
+<L>Made known to me, the danger of thy flame,</L>
+<L>By thy discourse, discover'd unto me,</L>
+<L>Thy certain ruine of necessity:</L>
+<L>And I more harder, then the marble stone,</L>
+<L>Nee're took so much as notice, of thy moane!</L>
+<L>Forgive me if thou canst, I prethee now,</L>
+<L>For I will for my sin, Religious vow.</L>
+</SP>
+<SP>
+<SPEAKER>Prince.</SPEAKER>
+<L>Religious Madam! do not so I pray,</L>
+<L>If you the Dead, make conscience to obey.</L>
+<L>He has bequeath'd you, unto me by will,</L>
+<L>And I expect, that you shoo'd it fulfill.</L>
+<L><PB N="54" REF="32">Do not to his misfortune, add a worse,</L>
+<L>So by resolving, for to take that course.</L>
+<L>No, no, dear Madam, but resolve to be</L>
+<L>Henceforth more gentle&punc; and more kind to me.</L>
+<L>What pleasure can you take within a wall?</L>
+<L>In whites, and blacks, you must be cloath'd with<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ll&punc;</L>
+<L>So early rise, and go to bed so late,</L>
+<L>And in devotion, all the day to waite?</L>
+<L>To fast so often, and be subject too,</L>
+<L>To those, which are inferiour, unto you.</L>
+<L>And for the least offence, you shall commit,</L>
+<L>B' enjoyn'd a pennance, ten times mo<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">e then it.</L>
+<L>A Crown woo'd be more fitter for you far,</L>
+<L>So young, and beautiful, as now you are.</L>
+<L>For to command, and not commanded be,</L>
+<L>And ev'ry day, feed most deliciously.</L>
+<L>Rise at what how'r you please, and go to bed,</L>
+<L>And there be sported, till you're almost dead.</L>
+<L>Nothing but silks, and sattens, 'bout you wear,</L>
+<L>And next your skin, fine cloth instead of hair.</L>
+<L>The roundest, whitest Pearl, that can be found,</L>
+<L>Either in <HI>Europe,</HI> or in <HI>Asia</HI> ground,</L>
+<L>For to adorn that neck, which is so white,</L>
+<L>Which to behold alone, gives men delight:</L>
+<L>When you are sad, have fools to make you mirth,</L>
+<L>And to content you, riffle the whole earth.</L>
+<L>These woo'd more proper for you, Madam be,</L>
+<L>Then such hard lodging in a Nunnery.</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>Sir for your love, and kindness, I do owe,</L>
+<L>Unto your Princely bounty, much I know:</L>
+<L>Since that my merit, is so poor and small,</L>
+<L><GAP DESC="illegible" RESP="tech" EXTENT="1 word"> at your hands, can challenge nought at all.</L>
+<L><PB N="55" REF="32">Yet am I not, nor House nor Land to be,</L>
+<L>Bequeath'd by Will, unto your Majestie.</L>
+<L>My Love is free, now that my Lord is dead,</L>
+<L>And I may chuse, where I will ever wed.</L>
+<L>As for the life, which seems so hard to you,</L>
+<L>There's nought to me, more easie for to do.</L>
+<L>To rise up early, and go late to bed,</L>
+<L>And nee're with dainties all my life be fed&punc;</L>
+<L>Is that implease you Sir, which I do love,</L>
+<L>Because 'tis pleasing, unto Heav'n above.</L>
+<L>For to be brief, those rigours I prefer,</L>
+<L>Before the pleasures, you have told me Sir.</L>
+<L>And am resolv'd, forthwith to take that course,</L>
+<L>As men do wives, for better or for worse.</L>
+</SP>
+<SP>
+<SPEAKER>Prince.</SPEAKER>
+<L>Since that a Crown, sweet Madam, nor my love</L>
+<L>Has not the pow'r, your purpose to remove:</L>
+<L>Heav'n be your guide, good Madam pray for me,</L>
+<L>And pardon this my importunity.</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+</DIV3>
+</DIV2>
+<DIV2 N="5" TYPE="act">
+<DIV3 N="1" TYPE="scene">
+<HEAD>The fifth ACT, the first Scene:</HEAD>
+<STAGE>Enter <HI>King,</HI>
+and followers.</STAGE>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>LEave us. Just Heav'n to you I owe my Crown,</L>
+<STAGE>Exeunt.</STAGE>
+<L>And when you please, you may too pluck it down.</L>
+<L>'Twas you that put this Scepter in my hand,</L>
+<L>And to you for't alone, I debter stand.</L>
+<L>Instead of making me a mighty King,</L>
+<L>You might have made me, an inferiour thing.</L>
+<L>'Twas all at your dispose, and sacred will,</L>
+<L>And to my nothing, may reduce me still.</L>
+<L><PB N="56" REF="33">Do so kind Heav'n, much rather then permit,</L>
+<L>That to my Subjects, I shoo'd e're submit.</L>
+<L>That e're I shoo'd be subject, to their Law,</L>
+<L>And be compell'd, of them to stand in awe.</L>
+<L>Oh let not after ages, for to come,</L>
+<L>With any such report, molest my Tomb.</L>
+<L>Let not my Epitaph be underwrit,</L>
+<L>Here lies a King, did such a thing commit.</L>
+<L>Here lies a King, which only had the name,</L>
+<L>But not the power, to maintain the same.</L>
+<L>Dishonour not your self, so much in me,</L>
+<L>As suffer such a thing, in Historie.</L>
+<L>But as you have ord<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">in'd me here below,</L>
+<L>Your Deputy, to men your will to shew:</L>
+<L>So give me po<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">er, likewise to subdue,</L>
+<L>Such as refuse, your pleasure for to do:</L>
+<L>And help my arm, to make them for to <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">eel,</L>
+<L>What 'tis with your Anointed, so to deal.</L>
+</SP>
+<STAGE>Prince <HI>enters.</HI></STAGE>
+<SP>
+<SPEAKER>Prince.</SPEAKER>
+<L>I h<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ard not long since from a servants hand,</L>
+<L>How th<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> you<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> Maj<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">tie, did me demand.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>'Tis true, 'twas that you might your self prepare,</L>
+<L>To meet the Spanish Princess, at <HI>Gomare.</HI></L>
+<L>The <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> she will strike in at, without faile,</L>
+<L>Within th<GAP DESC="illegible" RESP="tech" EXTENT="2 letters"><GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> t<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">o dayes, if she have a Gale.</L>
+</SP>
+<SP>
+<SPEAKER>Prince.</SPEAKER>
+<L>To do your pleasure Sir, I'le make me <GAP DESC="illegible" RESP="tech" EXTENT="1 word">,</L>
+<L>And to that purpose, all things ready get.</L>
+<L>I had no <GAP DESC="illegible" RESP="tech" EXTENT="1 span">, h<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">retofore 'tis true,</L>
+<L>But now see my fault, and error too:</L>
+<L>And do th<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">eof, repent with all my soul,</L>
+<L>My dis<GAP DESC="illegible" RESP="tech" EXTENT="2 letters"><GAP DESC="illegible" RESP="tech" EXTENT="1 letter">dience, seems to me so foul.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>We Fathers better then our Children know,</L>
+<L>VVhat's good for them, how rough so e're we show.</L>
+<L><PB N="57" REF="33">Pray be not sparing, of our purse at all,</L>
+<L>That no discredit, to us may befall.</L>
+<L>But use such Pomp, and State, as shall be due,</L>
+<L>Both to her Person, and likewise to you.</L>
+</SP>
+<SP>
+<SPEAKER>Prince.</SPEAKER>
+<L>There shall be nothing wanting, on my part,</L>
+<L>Implease you Sir, to testifie my heart.</L>
+<L>And to report, your Greatness ev'ry where,</L>
+<L>If Art, or Cost, can make it to appear.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Unhappy <HI>Prince,</HI> for to be heir unto</L>
+<L>My Crown, and Scepter, and to have to do</L>
+<L>VVith such rebellious people, as he must,</L>
+<L>VVhen I shall be returned, to my Dust.</L>
+<L>Coo'd I but once, them to obedience bring,</L>
+<L>How I shoo'd think my self, a happy King!</L>
+</SP>
+<STAGE>Lycas <HI>enters.</HI></STAGE>
+<SP>
+<SPEAKER>Lycas.</SPEAKER>
+<L>Implease you Sir, I'me sorry for to bring,</L>
+<L>Such heavy tydings, to so great a King.</L>
+<L>I 'fore I came, did with my self dispute,</L>
+<L>Whether or no, I shoo'd presume to do't.</L>
+<L>But when I call'd to mind, it woo'd be known,</L>
+<L>I thought I coo'd, but make my duty shown.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>What? more misfortune yet? when shall I be,</L>
+<L>Ye Gods, I faign woo'd know, from trouble free?</L>
+<L>Am I the mark, of all your rage and scorn?</L>
+<L>Or with such jewels, do ye Crowns adorn?</L>
+<L>Well, out with it, for I am sure at worst,</L>
+<L>It cannot be well worser, then the first.</L>
+</SP>
+<SP>
+<SPEAKER>Lycas.</SPEAKER>
+<L>The <HI>Cardinal</HI> just now, implease your Grace,</L>
+<L>Was apprehended, in his own Pallace.</L>
+<L>And carry'd by the people, thence away,</L>
+<L>Unto the Castle, for to die men say.</L>
+<L>In going thither, he was shrewdly hurt,</L>
+<L><GAP DESC="illegible" RESP="tech" EXTENT="1 letter">o did the vulgar sort, throw stones and dirt.</L>
+</SP>
+<SP>
+<PB N="58" REF="34">
+<SPEAKER>King.</SPEAKER>
+<L>The <HI>Cardinal</HI> us'd thus! good Heav'n is't true?</L>
+<L>Then give me over, to their malice too.</L>
+<L>Oh give me not a being, worse then Death,</L>
+<L>For so 'twill be, when he shall lose his breath.</L>
+<L>Here take your Crown, and Crown your self with it,</L>
+<L>For on my head, it can no longer sit.</L>
+<L>Next unto you, 'twas he that kept it on,</L>
+<L>And 'twill fall off no doubt, when he is gone,</L>
+<L>Where is the man, so able and so wise,</L>
+<L>On all occasions, me for to advise?</L>
+<L>Who understands, and too withall is true,</L>
+<L>To that which he does undertake to do:</L>
+<L>To whom may I with safety, now impart,</L>
+<L>The dearest thought, that lodges in my heart?</L>
+<L>Ah Heav'ns! is't possible you shoo'd forget,</L>
+<L>Your Greatness so, as such a thing permit?</L>
+<L>Let him, who offers incense at your Altars be</L>
+<L>Us'd by the people, so irreverently!</L>
+<L>Rowse up your self, and do not fall asleep,</L>
+<L>When you shoo'd wake, your servants for to keep:</L>
+<L>And work with me, these Rebels to subdue,</L>
+<L>Which do not care a rush, for me nor you.</L>
+</SP>
+<STAGE>Marshal <HI>enters.</HI></STAGE>
+<SP>
+<SPEAKER>Marsh.</SPEAKER>
+<L>'Bove twenty thousand men well chosen Sir,</L>
+<L>Which do your ease, before their lives prefer,</L>
+<L>Are marching t'wards your Pallace with all speed,</L>
+<L>To help your Majestie, if there be need.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>What man! twenty thousand men! this is news</L>
+<L>Which likes us well, if you don't us abuse:</L>
+<L>We are not yet, so ill belov'd we see,</L>
+<L>Nor yet so poor, as we were thought to be,</L>
+<L>If this be certain, which Heav'n grant it may,</L>
+<L>And that before we strike, they may obey.</L>
+</SP>
+<STAGE><PB N="59" REF="34">Sotus <HI>enters.</HI></STAGE>
+<SP>
+<SPEAKER>Sotus.</SPEAKER>
+<L>Implease you Sir, the <HI>Prince</HI> sent me in post,</L>
+<L>To tell you, that on this Polonian Coast,</L>
+<L>Is safe arrived with a mighty Train,</L>
+<L>The Princess <HI>Flora,</HI> so belov'd in <HI>Spain.</HI></L>
+<L>Fifty sail of Ships, of a thousand Tuns,</L>
+<L>Each carr'ing threescore Tire, of brasen Guns,</L>
+<L>Are full of souldiers, for to help your Grace,</L>
+<L>In case, your subjects, shoo'd not give you place.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Fifty sail of Ships! and so many men!</L>
+<L>Is news which does exceed, the first agen.</L>
+<L>Kind Heav'n forgive me, if I did contemn,</L>
+<L>Before I was aware, my Diadem.</L>
+<L>It was my passion, made me to despair,</L>
+<L>But now I see, you have of me a care.</L>
+<L>Here, kiss our hand, come <HI>Marshal</HI> let us go,</L>
+<L>And see what we can do, to win our foe.</L>
+<L>If that by fair means, they will yield those Lords,</L>
+<L>We will not notwithstanding, draw our swords.</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+</DIV3>
+<DIV3 N="2" TYPE="scene">
+<HEAD>The second Scene:</HEAD>
+<STAGE>Enter <HI>Zorates</HI> and <HI>Selucious.</HI></STAGE>
+<SP>
+<SPEAKER>Zor.</SPEAKER>
+<L>THE <HI>King</HI> I hear is, twenty thousand strong,</L>
+<L>Besides the guard, which to him does belong:</L>
+<L>And does intend, within an how'r or two,</L>
+<L>To storm the City, if report sayes true.</L>
+<L>We must forthwith, give order to unarm,</L>
+<L>All those, which we suspect may do us harm.</L>
+<L>Lest that a factious party, shoo'd arise,</L>
+<L>Within the City, and so it surprize.</L>
+<L>Whil'st that the Train-bands, issu'd forth shall be,</L>
+<L>To hinder, and keep out, the enemy.</L>
+</SP>
+<SP>
+<PB N="60" REF="35">
+<SPEAKER>Selu.</SPEAKER>
+<L>Your care is good, and in it does appear,</L>
+<L>The love unto your Countrey, you do bear.</L>
+<L>But I do wonder, how the <HI>King</HI> shoo'd be,</L>
+<L>So strong as you do say, so suddenly.</L>
+<L>Since that the Country, seem'd with as much zeal,</L>
+<L>To be transported, for the Common-weal,</L>
+<L>As e're the City did, awhile ago,</L>
+<L>Who now are fallen off, if it be so.</L>
+</SP>
+<SP>
+<SPEAKER>Zor.</SPEAKER>
+<L>Fallen off they are not, perhaps some few,</L>
+<L>For want of means, despairing what to do,</L>
+<L>Do hope hereafter, for to bear full saile,</L>
+<L>If that the <HI>King,</HI> against us, shoo'd prevaile.</L>
+<L>And so grow rich, who was before so poor,</L>
+<L>By the assistance, of anothers store.</L>
+<L>Were it not so, they woo'd not take that course,</L>
+<L>They knowing at the worst, they can't be worse.</L>
+</SP>
+<SP>
+<SPEAKER>Selu.</SPEAKER>
+<L>The scurvy news, that I did lately hear,</L>
+<L>Does with good reason, me possess with fear.</L>
+<L>I hear the King of <HI>France,</HI> has sign'd a Peace,</L>
+<L>And that the wars, 'twixt him and <HI>Spain</HI> do cease:</L>
+<L>Which is a thing, we ought to lay to heart,</L>
+<L>Since neither, I am sure, will take our part.</L>
+<L>As for the King of <HI>Spain,</HI> he will be sure,</L>
+<L>To act his part, our ruine to procure,</L>
+<L>By reason of the match, not made long since,</L>
+<L>Between the Princess <HI>Flora,</HI> and our <HI>Prince.</HI></L>
+<L>We shall do well, unto the <HI>King</HI> to send,</L>
+<L>Propositions, if he his ear will lend:</L>
+<L>To make a way, unto a happy peace,</L>
+<L>And that our Arms, without a blow may cease:</L>
+<L>For shoo'd we stay, until he has more pow'r,</L>
+<L>We may perchance, repent we lost this how'r.</L>
+<L><PB N="61" REF="35">We know not what a King, incens'd may do,</L>
+<L>Especially when he, has power too.</L>
+<L>Wherein, wee'le humbly shew unto his Grace,</L>
+<L>That for the Kingdoms good, he must displace,</L>
+<L>The Lord High <HI>Admiral,</HI> and too withall,</L>
+<L>Prohibit from the Court, the <HI>Cardinal.</HI></L>
+<L>How that we are so tender, of his ease,</L>
+<L>And so unwilling, him for to displease,</L>
+<L>That though by his own Laws, they ought to die,</L>
+<L>They shall not suffer, that extremity.</L>
+<L>But only out of hatred, to their crime,</L>
+<L>Be banisht out the Kingdom, for a time.</L>
+<L>To which, if he shoo'd please for to consent,</L>
+<L>We ought therewith, our selves for to content.</L>
+<L>What good wil't do us for to see them die?</L>
+<L>'Twill but proclaim to men, our cruelty:</L>
+<L>And set the <HI>King</HI> against us, more and more,</L>
+<L>In doing so, then e're he was before.</L>
+<L>The chance of war's uncertain, he may get,</L>
+<L>The better on't, for ought that we know yet:</L>
+<L>Which if he shoo'd, what woo'd become of us,</L>
+<L>Him having treated, with all rigour thus?</L>
+</SP>
+<SP>
+<SPEAKER>Zor.</SPEAKER>
+<L>This fear to tell you plainly, is not just,</L>
+<L>Nor is it safe, you any more to trust.</L>
+<L>Your language is flegmatick, like your Age,</L>
+<L>And speaks you Coward, and not very sage.</L>
+<L>Shoo'd <HI>France,</HI> and <HI>Spain,</HI> and all the world conspire,</L>
+<L>To ruine us, and frustrate our desire,</L>
+<L>VVe will go on, and make them for to know,</L>
+<L>They never yet encounter'd, such a foe.</L>
+<L>After such sins, d' you think wee'le be content,</L>
+<L>To let them live, although in banishment.</L>
+<L><PB N="62" REF="36">No, no, the only way to be secure,</L>
+<L>Is now we have them, for to make them sure.</L>
+<L>A coal but left unquench't, may fire a Town,</L>
+<L>And wee'le dispatch them, though the King does frown&punc;</L>
+<L>For fear hereafter, they shoo'd come again,</L>
+<L>And so reform the Kingdom, but in vain.</L>
+<L>VVhat need we fear his anger? 'tis the Law,</L>
+<L>VVe ought to apprehend, and stand in awe.</L>
+<L>VVhich Law, so long as we do but obey,</L>
+<L>VVe need not care, what men of us do say.</L>
+<L>Nor fear ought forraign, or domestick force,</L>
+<L>For Heav'n's too just, to prosper such a course.</L>
+</SP>
+<STAGE>Crocus <HI>enters.</HI></STAGE>
+<SP>
+<SPEAKER>Cro.</SPEAKER>
+<L>'Tis over all the Town, that with a Pow'r,</L>
+<L>The Spanish Princess's landed at this how'r:</L>
+<L>And's marching withall speed, unto the <HI>King,</HI></L>
+<L>Unto his Highness, succours for to bring.</L>
+<L>The City's at their wits end, what to do,</L>
+<L>And do desire, for to advise with you.</L>
+</SP>
+<SP>
+<SPEAKER>Selu.</SPEAKER>
+<L>What think you now? my fear was it now just?</L>
+<L>Another time, will you my counsel trust?</L>
+</SP>
+<SP>
+<SPEAKER>Zor.</SPEAKER>
+<L>Ah Heav'ns! who woo'd have thought we e're shoo'd be,</L>
+<L>Reduc'd, to any such perplexity?</L>
+<L>VVho woo'd have thought, thou woo'dst have left us so,</L>
+<L>To be thus put to't, by a forraign foe?</L>
+<L>How many say they's landed on our shore?</L>
+</SP>
+<SP>
+<SPEAKER>Cro.</SPEAKER>
+<L>Forty thousand armed men; some say more.</L>
+</SP>
+<SP>
+<SPEAKER>Zor.</SPEAKER>
+<L>Forty thousand! a little number too.</L>
+<L>And we must think too, what we have to do.</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+</DIV3>
+<DIV3 N="3" TYPE="scene">
+<PB N="63" REF="36">
+<HEAD>The third Scene:</HEAD>
+<STAGE><HI>Enter</HI> Bellarious.</STAGE>
+<SP>
+<SPEAKER>Bell.</SPEAKER>
+<L><HI>SYmphrona</HI> turn Religious! can it be?</L>
+<L>Ah Heav'ns! why gave ye me my liberty?</L>
+<L>VVhy to my prayers, did ye bend your ear,</L>
+<L>VVhen that ye knew, <HI>Symphrona</HI> woo'd not hear?</L>
+<L>VVhen that ye knew, <HI>Symphrona's</HI> cruel mind,</L>
+<L>VVhy to my wishes, did ye prove so kind?</L>
+<L>VVoo'd I among the Turks, had stay'd till now,</L>
+<L>And never to come thence, had made a vow:</L>
+<L>I shoo'd have been more quiet in my mind,</L>
+<L>Then now I am, to see her thus unkind.</L>
+<L>Ah Love! is this the Joy you promis'd me?</L>
+<L>Reward you thus, a Lovers constancy?</L>
+<L>Is this the recompence, of all my pain?</L>
+<L>Of all my sighs, and tears, is this the gain?</L>
+<L>Then henceforth Lovers, warned be by me,</L>
+<L>VVith women never more, in love to be.</L>
+<L>But why blame I <HI>Symphrona?</HI> no, thy choice</L>
+<L>As't makes me sad, so does it me rejoyce.</L>
+<L>Thou'st chosen well <HI>Symphrona,</HI> and I am</L>
+<L>Contented to be rival'd, by thy flame.</L>
+<L>And Love, as she's resolv'd, so am I too,</L>
+<L>Nee're with thy weapons, more to have to do.</L>
+<L>But quietly, into some silent wood,</L>
+<L>VVhere noise of birds, is only understood,</L>
+<L>VVill I retire my self, to live and die,</L>
+<L>And meditate upon Eternity;</L>
+<L>Calling to mind, the shortness of this life,</L>
+<L>How full it is of Evils, and of strife.</L>
+<L><PB N="64" REF="37">How ev'ry thing, which we court here below,</L>
+<L>VVith so much passion, soon away does go.</L>
+<L>Come, come, my soul, and let us search a Cell,</L>
+<L>VVhere thee, and I, most lovingly will dwell.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+</DIV3>
+<DIV3 N="4" TYPE="scene">
+<HEAD>The fourth Scene:</HEAD>
+<STAGE>Enter <HI>Francina</HI> alone.</STAGE>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>HOw quiet are my thoughts, me thinks since I</L>
+<L>Resolv'd to go, into a Nunnery!</L>
+<L>Since I resolv'd, to bid this world adieu,</L>
+<L>And with its follies, have no more to do.</L>
+<L>The time that I have spent, to make me brave,</L>
+<L>And nee're so much as thought, upon a Grave.</L>
+<L>Nee're call'd to mind, this body which I fed</L>
+<L>VVith so much care, must one day Earth re-wed.</L>
+<L>The howers I at Cards, have play'd away,</L>
+<L>And never thought, upon my latter day!</L>
+<L>Nee're thought upon, the Count which I must give,</L>
+<L>For all my actions, when I cease to live!</L>
+<L>How I have study'd, mortals for to move,</L>
+<L>And been with ev'ry thing, but Heav'n in love!</L>
+<L>Kind Heav'n forgive me, and accept the vow</L>
+<L>VVhich I intend to make, unto you now.</L>
+<L>Madam, the business I do come about,</L>
+<STAGE>Symphrona <HI>enters.</HI></STAGE>
+<L>VVill make you wonder, and admire no doubt.</L>
+<L>It is a thing, so hard for to believe,</L>
+<L>That you'le have pain, it meerly to conceive.</L>
+</SP>
+<SP>
+<SPEAKER>Sym.</SPEAKER>
+<L>Pray save me so much pain, and let me hear</L>
+<L>That which you think, will so much stun my ear.</L>
+<L>Yet if that one may judge, by outward show,</L>
+<L>Your habit speaks you, to this world a foe.</L>
+</SP>
+<SP>
+<PB N="65" REF="37">
+<SPEAKER>Fran.</SPEAKER>
+<L>You have it Madam, I am so indeed,</L>
+<L>And so will make it, to appear with speed.</L>
+<L>I hate this world, and all that is in it,</L>
+<L>And am resolv'd, it utterly to quit.</L>
+<L>The sweet discourse, you made of Heav'n above,</L>
+<L>Did take me so, that I'me thereof in love.</L>
+<L>And do intend, to pass my dayes with you,</L>
+<L>If you so Madam, please to let me do.</L>
+</SP>
+<SP>
+<SPEAKER>Sym.</SPEAKER>
+<L>With all my soul sweet Madam, I rejoyce</L>
+<L>That you at last, have made so good a choice.</L>
+<L>And cannot chuse, but wonder as you say,</L>
+<L>That you shoo'd fancy, so divine a way.</L>
+<L>You may be sure, the husband you do take,</L>
+<L>Will use you well, and never you forsake,</L>
+<L>As other husbands, too too often do,</L>
+<L>To such as merit otherwise you know.</L>
+<L>Besides for Dowry, he will give you Heav'n,</L>
+<L>Which is the gr<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">atest gift, that can be g'ven.</L>
+<L>Not for a moment, but for e'<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">e and e're,</L>
+<L>Which is a term, 'mongst men you<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">le meet with nee'r<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">.</L>
+<L>Come sister, let us go, and make an end,</L>
+<L>Of that which you do tell me, you intend.</L>
+<L>For that's the name I'le henceforth call you by,</L>
+<L>Since you resolve, to vow Virginity.</L>
+</SP>
+<SP>
+<SPEAKER>Fran.</SPEAKER>
+<L>'Tis too much honour Madam, to be so,</L>
+<L>Pray Heav'n in vertue, I may like you grow.</L>
+</SP>
+</DIV3>
+<DIV3 N="5" TYPE="scene">
+<PB N="66" REF="38">
+<HEAD>The fifth Scene:</HEAD>
+<STAGE>Enter <HI>King,</HI>
+and followers.</STAGE>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>REtire&punc; Ah Heav'ns you know how 'gainst my will,</L>
+<STAGE>Exeunt.</STAGE>
+<L>I go about, my Subjects blood to spill.</L>
+<L>With what remorse, this sword of mine I draw,</L>
+<L>To make my people, to obey my Law.</L>
+<L>Woo'd they woo'd see their folly, and let go</L>
+<L>Those Lords which I demand, without a blow.</L>
+<L>Or woo'd you'd be so kind, as tell me how,</L>
+<L>My honour I might save, and fight not now.</L>
+<L>For what can I, by such a battle get,</L>
+<L>Although I conquer, but a sad regret!</L>
+</SP>
+<STAGE>Marshal <HI>enters.</HI></STAGE>
+<SP>
+<SPEAKER>Marsh.</SPEAKER>
+<L>A hundred thousand men, implease your Grace,</L>
+<L>Are marching out the Town a mighty pace;</L>
+<L>With an intent the Spanish force to meet,</L>
+<L>And home again, them back again to beat.</L>
+<L>As many too behind, are said to be,</L>
+<L>Provided well, to charge your Majestie,</L>
+<L>In case you shoo'd Sir, with your Royal force,</L>
+<L>Go forward, for to interrupt their course.</L>
+<L>My opinion, the best way you can take,</L>
+<L>Is with them, an agreement for to make:</L>
+<L>And condescend, to that they stand upon,</L>
+<L>If to no easier terms, they can't be won:</L>
+<L><GAP DESC="illegible" RESP="tech" EXTENT="1 letter">or all the common people, with one heart,</L>
+<L>Resolve with goods, and lives, to take their part.</L>
+<L>I've divers re<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">sons, which <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> perswade,</L>
+<L>'Tadvise your Majestie, as I have said.</L>
+<L>But that which chiefly moves me, I protest,</L>
+<L>Is that the <HI>Prince,</HI> will fight amongst the rest&punc;</L>
+<L><PB N="67" REF="38">Now as the chance of war's, not sure at all,</L>
+<L>So may it be his fortune, for to fall.</L>
+<L>Which if he shoo'd, I'me sure that you woo'd give,</L>
+<L>Those Lords, and Kingdom too, to make him live.</L>
+<L>Besides the Princess, whom you tender so,</L>
+<L>If that she shoo'd be taken, by the foe,</L>
+<L>You are not certain, how they'le use her Sir,</L>
+<L>Which may hereafter, cause an endless stir</L>
+<L>Between your Highness, and the King of <HI>Spain,</HI></L>
+<L>Treating so ill, his daughter and her Train.</L>
+<L>Shoo'd you o'recome, which is the most you can</L>
+<L>Expect, or look for, at the hands of man:</L>
+<L>D' you think a stranger, having taken foot,</L>
+<L>Will home return, without some other boot?</L>
+<L>No, no, believe me, he will make you <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ight,</L>
+<L>Before hee'le go, for that which is your Right&punc;</L>
+<L>The French likewise Sir, having nought to do,</L>
+<L>Will lose no time, you may be sure on't too:</L>
+<L>But will make hay, whil'st that the Sun shall shine,</L>
+<L>Pretending to your party, to encline:</L>
+<L>But when they're in, the way to get them out,</L>
+<L>Will be no easie matter too, no doubt.</L>
+<L>In story we may read, some such event,</L>
+<L>When King, and Subject, have had discontent:</L>
+<L>Whereas if you your peoples, love coo'd gain</L>
+<L>You need not care a fig, for <HI>France</HI> nor <HI>Spain.</HI></L>
+<L>There's nee're a stroke struck yet, one word may now,</L>
+<L>Do that which one day, you may not know how.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>What sayes the Traytor? take him hence to dwell,</L>
+<L>With those infernal fire-brands of Hell.</L>
+<L>What mak'st thou me? a Coward? or a King?</L>
+<L>Thou foul-mouth'd-fellow, to utter such a thing.</L>
+<L><PB N="68" REF="39">Doest think thou Traytor, that we bear this sword,</L>
+<L>To cut off those, that do obey our <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ord?</L>
+<L>No, no, thou worst of men, wee'le make thee know,</L>
+<L>Those Rebels too, what duty they do owe:</L>
+<L>And not so eas'ly yield, unto their lust,</L>
+<L>Those men that to our Crown, have prov'd so just.</L>
+<L>That Prince's not fit, a Scepter for to hold,</L>
+<L>That will be by his Subjects, so controul'd:</L>
+<L>And since that Heav'n, has put it in our hand,</L>
+<L>Wee'le sway it to the terrour, of the Land.</L>
+<L>Wee'le sway it to the terrour, of all those,</L>
+<L>That do appear, to be our Kingdoms foes:</L>
+<L>Whereof with reason, we suspect you one,</L>
+<L>VVherefore secure him, till our pleasure's known.</L>
+<STAGE>Carried to prison.</STAGE>
+<L>The greatest treason, commonly comes in</L>
+<L>Maskt with advice, upon our souls to win</L>
+<L>The easier acceptation, and so trappans</L>
+<L>Our very reason, into our enemies hands.</L>
+</SP>
+<STAGE><HI>Sotus</HI> enters.</STAGE>
+<SP>
+<SPEAKER>Sotus.</SPEAKER>
+<L>The <HI>Prince</HI> implease you Sir, sent me in haste,</L>
+<L>To tell you that more time, he will not waste,</L>
+<L>But without fail, will through the foe make way,</L>
+<L>To kiss your Royal hands, this very day.</L>
+<L>The Cavilry, together with the foot,</L>
+<L>Are in a fighting posture, ready put.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Heav'n prosper his advance, wee're ready too,</L>
+<L>And will endeavour likewise, to cut throw,</L>
+<L>And clear his passage, to our Royal Place;</L>
+<L>VVherefore my Lords, let's more then go apace.</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+</DIV3>
+<DIV3 N="6" TYPE="scene">
+<PB N="69" REF="39">
+<HEAD>The sixth Scene:</HEAD>
+<STAGE>Enter <HI>Zorates</HI> and <HI>Selucious.</HI></STAGE>
+<SP>
+<SPEAKER>Selu.</SPEAKER>
+<L>BUT what if the King o'recomes, and gets the day,</L>
+<L>VVhat will become of us? we cannot run away.</L>
+<L>The Sea-ports ev'ry where are so secur'd,</L>
+<L>VVe cannot hope t'escape, be you assur'd.</L>
+<L>Nor in the City, can we shelter have,</L>
+<L>For ev'ry man himself will strive to save;</L>
+<L>And rather then their lives, and fortunes loose,</L>
+<L>Be ready for us, for to make a noose.</L>
+</SP>
+<SP>
+<SPEAKER>Zor.</SPEAKER>
+<L>Still fears, and doubts, 'tis ominous I swear,</L>
+<L>And does presage our ruine I do fear.</L>
+<L>Success in ought attempt, is only when,</L>
+<L>VVe march on boldly, and nee're look back agen.</L>
+<L>The Gods are just, and will reward our care,</L>
+<L>Much better then you think for, never fear.</L>
+<L>Besides, do not the Prophets of our Age,</L>
+<L>Tell us, we shall prevail against their rage,</L>
+<L>They know the mind of Heav'n, to which we must,</L>
+<L>And ought in reason too, for to give trust.</L>
+</SP>
+<SP>
+<SPEAKER>Selu.</SPEAKER>
+<L>Were not our cause, much better then their skill,</L>
+<L>For all their Art, I shoo'd be fearfull still.</L>
+<L>Their knowledge is not certain, so to be,</L>
+<L>Nor trusted too, as infallibility.</L>
+<L>They oft'ner miss, then hit the mark I know,</L>
+<L>How e're the vulgar sort, they cozen so.</L>
+</SP>
+<STAGE><HI>Crocus</HI> enters.</STAGE>
+<SP>
+<SPEAKER>Cro.</SPEAKER>
+<L>The King is victor, and the City flies</L>
+<L>To him for mercy, with exceeding cryes.</L>
+<L>There's nought discours<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">d, but Presents for the King,</L>
+<L>And how they may, contentment to him bring.</L>
+<L><PB N="70" REF="40">How that they may, procure his wonted grace,</L>
+<L>And like loyal Subjects, look him in the face.</L>
+</SP>
+<SP>
+<SPEAKER>Zor.</SPEAKER>
+<L>Then we are lost, and by the people too,</L>
+<L>We shall be left, which is our double wo.</L>
+<L>They that to a multitude, will trust,</L>
+<L>Are worse then mad, although the cause be just.</L>
+<L>Just, or unjust, to them it is all one,</L>
+<L>Success having pow'r, to make it so alone.</L>
+</SP>
+<SP>
+<SPEAKER>Selu.</SPEAKER>
+<L>'Tis true it has, amongst the vulgar sort,</L>
+<L>But with the best, it has but mean report.</L>
+<L>Men that have reason, for to judge aright,</L>
+<L>In ought success, take not so much delight,</L>
+<L>So to abuse their judgement, as conclude,</L>
+<L>The cause is just, cause conquest is refus'd.</L>
+<L>Well, be't how 'twill, how ever I have been</L>
+<L>Drawn in by you my Lord, thus overseen,</L>
+<L>I ever thought, the course that we did take,</L>
+<L>Woo'd one day make your head, and mine to ake,</L>
+</SP>
+<SP>
+<SPEAKER>Cro.</SPEAKER>
+<L>What? no reward for this so happy news?</L>
+<STAGE>aside.</STAGE>
+<L>I've known the time, my pains not so to loose.</L>
+</SP>
+<SP>
+<SPEAKER>Zor.</SPEAKER>
+<L>I ever thought, your fear woo'd us undo,</L>
+<L>Wherefore my Lord, farewell, farewell, adieu.</L>
+</SP>
+<STAGE>Offers to go.</STAGE>
+<STAGE>Enter the Maior of the City, with his Common-Council, and Officers.</STAGE>
+<SP>
+<SPEAKER>Maior.</SPEAKER>
+<L>Stay Traytors, stay, and leave your heads behind,</L>
+<L>To pacifie, an'appease, his Graces mind.</L>
+<L>We had not thus resisted, had not you,</L>
+<L>With your perswasions, urg'd us thereunto.</L>
+<L>You've drawn us in, and we will draw you out,</L>
+<L>And leave you to his mercy, without doubt.</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<STAGE><PB N="71" REF="40">Enter <HI>King,</HI> with his Life-Guard.</STAGE>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Break down the City Gates, and likewise then</L>
+<L>Bring us the heads, of those rebellious men.</L>
+<L>My Lords that are restrain'd, at freedom set,</L>
+<L>With fire, and sword, make way to all that let.</L>
+</SP>
+<STAGE>Sotus <HI>enters.</HI></STAGE>
+<SP>
+<SPEAKER>Sotus.</SPEAKER>
+<L>Implease you Sir, now at your Palace Gate,</L>
+<L>The City with those Traytors, now do wait,</L>
+<L>With halters 'bout their necks, to testifie,</L>
+<L>Their true compunction, to your Majestie.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>This forc't repentance, never can be good,</L>
+<L>'Tis as un<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">holsom, as water in the blood.</L>
+<L>Where is the man, to save himself will not</L>
+<L>Counterfeit a grief, so to be forgot?</L>
+<L>That is a baite, Rebellion layes to catch</L>
+<L>An easie faith, a greater harm to watch.</L>
+<L>VVe will not so be cosen'd, they must die,</L>
+<L>Not our will so much, as our necessity.</L>
+<L>My Lord you're welcome, to us once agen,</L>
+<STAGE>Cardinal <HI>and</HI> Admiral <HI>enters.</HI></STAGE>
+<L>VVhom never more, we ever thought t'have seen.</L>
+<L>Such was the fury, of this peoples rage,</L>
+<L>VVhich nothing but a Crown, coo'd them asswage.</L>
+<L>Or your dear lives, which are to us so dear,</L>
+<L>Rather then lose&punc; our Crown wee'd never wear.</L>
+</SP>
+<SP>
+<SPEAKER>Card.</SPEAKER>
+<L>Sir such expressions, we do not deserve,</L>
+<L>But from our duty, we will never swerve.</L>
+<L>Restraint, nay life it self, is too too low,</L>
+<L>A pledge of that allegiance, we do owe.</L>
+<L>Our being here, woo'd but a burthen be</L>
+<L>To us, wer't not to <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> your Majestie.</L>
+</SP>
+<STAGE><PB N="72" REF="41">Enter <HI>Prince,</HI> and Princess <HI>Flora,</HI> with the Spanish Train, and the rest
+of the Officers of the Army.</STAGE>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>There comes th' <HI>I<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">anta</HI> whom we long'd to see,</L>
+<L>And did expect, with such impatiency.</L>
+<L>VVelcome fair <HI>Flora,</HI> welcome to our Land,</L>
+<L>VVe, and all our Subjects, are at your Command.</L>
+<L>No wonder at our conquest, since your eyes,</L>
+<L>Have pow'r alone, to kill and sacrifice.</L>
+</SP>
+<SP>
+<SPEAKER>Princess.</SPEAKER>
+<L>VVrong not the valour; of these Heroes so,</L>
+<L>As that this Conquest, ought to me does owe</L>
+<L>Nor yet the justness, of your cause Great Sir,</L>
+<L>Which now has ended, all this coyle and stir.</L>
+<L>Though cause thereof, I shoo'd be glad to be,</L>
+<L>Withall my soul, to serve your Majestie:</L>
+<L>All my ambition is, implease your Grace,</L>
+<L>In your favour, to have a servants place.</L>
+<L>And to your Laws, so like a Subject live,</L>
+<L>That to your people, I may pattern give.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>You are not only fair, but humble too,</L>
+<L>But such humility, becomes not you.</L>
+<L>It does become you better, ev'ry way</L>
+<L>Sweet Madam, to command, then to obey.</L>
+<L>Which like a Princess, freer then in <HI>Spain,</HI></L>
+<L>You in our Kingdom, shall command and raign.</L>
+<L>But what can we, unto these Grandees say,</L>
+<L>For all the pains, that they have took this day!</L>
+<L>And to these Beauties, which have left <HI>Spain</HI> sad,</L>
+<L>And full of tears, and sighs, to make us glad:</L>
+<L>But bid them welcome, to our Royl Cou<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">t,</L>
+<L>And study how, to make their time seem short!</L>
+</SP>
+<CLOSER><SIGNED>G. C.</SIGNED></CLOSER>
+<TRAILER>FINIS.</TRAILER>
+</DIV3>
+</DIV2>
+</DIV1>
+<DIV1 TYPE="poems">
+<DIV2 TYPE="poem">
+<PB N="73" REF="41">
+<HEAD>UPON
+Hells High-Commission Court,
+set to Judge the King. <DATE>Ian. 1648.</DATE></HEAD>
+<L>JUst as I enter'd that Majestick Hall,</L>
+<L>Where <HI>Gog</HI> and <HI>M<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">gog,</HI> must be Judge and all,</L>
+<L>Upon the Person, of a King so good,</L>
+<L>His only fault was, he was not understood.</L>
+<L>Where to my view, the first thing did present</L>
+<L>(With such excess of sad astonishment)</L>
+<L>Just at the upper end, a scarlet Throne,</L>
+<L>Dy'd with the blood, of many a loyal one.</L>
+<L>Oh horrid&punc; I cannot go no f<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">rther,</L>
+<L>Their intent is, his Majestie to m<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">rther.</L>
+</DIV2>
+<DIV2 TYPE="poem">
+<PB N="74" REF="42">
+<HEAD>UPON
+The horrid, and unheard of Murther, of
+CHARLES the First, King of England,
+Scotland, France and Ireland, the
+<DATE>30^t^h of Ianu. 1648.</DATE></HEAD>
+<L>WHy how now <HI>George?</HI> where is thy Muse become?</L>
+<L>Or is't thy sorrow&punc; mak'st thee thus so dumb?</L>
+<L>Shall Heav'n, and Earth, the Death of <HI>Charles</HI> deplore,</L>
+<L>And thou as unconcern'd, not say no more?</L>
+<L>Or is the matter, of so high a strain,</L>
+<L>Thou can'st not reach it, with thy weaker brain?</L>
+<L>Then sigh it out, and with a lusty tear,</L>
+<L>Threaten a Flood, to this unlucky year:</L>
+<L>Insatiate men! insatiate did I say?</L>
+<L>Blood-thirsty men I meant, to take away</L>
+<L>The best of men, the best of Kings e're raign'd,</L>
+<L>VVho liv'd a life unspotted, and unstain'd.</L>
+<L>VVhose vertue was his fall: for had he bin,</L>
+<L>In love with any thing but like a sin,</L>
+<L>He had escaped, their Tyrannique Laws,</L>
+<L>'Cause he'was bad, and for no other cause.</L>
+<L>But he was good, nay Goodness it self he was,</L>
+<L>And why they murther'd him, that was the cause&punc;</L>
+</DIV2>
+<DIV2 TYPE="poem">
+<PB N="75" REF="42">
+<HEAD>TO
+CHARLES the Second,
+King of England, Scotland, France and
+Ireland, upon his thrice happy return into
+England, after twelve years Banishment.</HEAD>
+<L>AS in a tedious Winter, ev'ry Plant,</L>
+<L>Seems dead, and out of life, and all for want</L>
+<L>Of the Suns presence; so Great <HI>Charles</HI> did we,</L>
+<L>Like dead men seem, and all for want of thee.</L>
+<L>But when the Winter's over, and the Sun,</L>
+<L>Returns again, to this our Horizon,</L>
+<L>How ev'ry thing revives, which we call Spring,</L>
+<L>Ev'n such is the return, of <HI>Charles</HI> our King!</L>
+<L>But Heav'n is kinder to these Plants below,</L>
+<L>'Cause innocence, is all that they do know:</L>
+<L>Their Winter therefore, is but short to ours,</L>
+<L>We having had dayes, unto their howers:</L>
+<L>Which is no less a wonder that we live,</L>
+<L>Wanting so long that influence, that shoo'd give</L>
+<L>Us life, and vigour, lying in the Root,</L>
+<L>Which was grub'd up, 'cause we no more shoo'd shoot.</L>
+<L>But as it happens, oftentimes we see,</L>
+<L>In taking up of Roots, that there will be,</L>
+<L>An off-set, two, or three, left in the ground,</L>
+<L>Which by some skilful, honest hand, if found,</L>
+<L>And planted carefully, from thence may spring,</L>
+<L>Stock sufficient, as may from <HI>Charles</HI> our King.</L>
+<L>Which Heav'n we supplicate, that <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> may raign,</L>
+<L>He, and his Off-spring, till <HI>Shilo</HI> com<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">s again.</L>
+</DIV2>
+<DIV2 TYPE="poem">
+<PB N="76" REF="43">
+<HEAD>UPON
+King CHARLES the Second,
+His Birth-day, and his happy return
+in <DATE>May, 1660.</DATE></HEAD>
+<L>THrice happy day, and happy Moneth to be,</L>
+<L>Thus twice, so great a friend to Monarchi<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">.</L>
+<L>The very Moneth, that gave Great <HI>Charles</HI> his breath,</L>
+<L>Gave breath to us, redeeming us from Death.</L>
+<L>From Death said I? from dying ev'ry day,</L>
+<L>And yet to die, coo'd not find out the way.</L>
+<L>Grim Death compar'd, to what we suffer'd then,</L>
+<L>So great a kindness was, Those Tyrant-men</L>
+<L>Woo'd not allow us, but by little, and little,</L>
+<L>T'increase our pain, and so consume our mettle.</L>
+<L>This was th' Egyptian bondage, we lay under,</L>
+<L>Which made the Lord come in, with such a wonder:</L>
+<L>That, without one drop of blood, or one tear,</L>
+<L>Has re-inthron'd, our lawful Prince this year.</L>
+<L>So great a mercy, that we may deserve,</L>
+<L>From Heav'n, nor him, in du<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">y may we swerve.</L>
+</DIV2>
+<DIV2 TYPE="poem">
+<PB N="77" REF="43">
+<HEAD>TO MY
+Lord General MONCK,
+Upon his opportune coming
+into England.</HEAD>
+<L>THou great Restorer of our antient Laws,</L>
+<L>To whom we cannot give, too great applause:</L>
+<L>Ride on victorious, in thy great design,</L>
+<L>Gods real foes, and ours, to undermine.</L>
+<L>Where had we been by this time, hadst not thou,</L>
+<L>Just in the nick of time come in? I vow</L>
+<L>We had been lost, and utterly undone,</L>
+<L>And which is worse, Religion had been gone.</L>
+<L>But Heav'n be praised, for this happy change,</L>
+<L>Though to fanatique men, it seemeth strange.</L>
+<L>Well; do the rest, that we expect from thee,</L>
+<L>And second of this Kingdom, thou shalt be:</L>
+<L>Which will more honour be, unto thy name,</L>
+<L>So for to live, then die with dirty fame.</L>
+</DIV2>
+<DIV2 TYPE="poem">
+<PB N="78" REF="44">
+<HEAD>UPON
+The Death of the most Illustrious, and
+unparallel'd Prince, HENRY
+Duke of Glocester.</HEAD>
+<L>THou that hast been my Companion all my life,</L>
+<L>Leave me not now, I prethee in my grief.</L>
+<L>Leave me not now, in this great time of need,</L>
+<L>To help t'express the Cause that makes us bleed.</L>
+<L>No wonder that the <HI>Court,</HI> is now so sad,</L>
+<L>And that the Country everywhere is clad</L>
+<L>With Sighs and Tears, the cause thereof being known,</L>
+<L>Is able to dissolve the hardest stone.</L>
+<L>Hard Fate! you might have well forborn this spight,</L>
+<L>And not have rob'd us of so great a Light.</L>
+<L>A lesser might as well have serv'd your turn,</L>
+<L>But that you had a mind, to make us mourn;</L>
+<L>But that you had a mind, to make us grieve,</L>
+<L>And all our expectations, to deceive.</L>
+<L>For one, so young, so wise, was never known,</L>
+<L>So grave in carriage sure, but he alone.</L>
+<L>So sound in judgement, and so great a reach</L>
+<L>In State-affairs, the wisest he might teach.</L>
+<L>So humble too withall, so well did pla<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">e</L>
+<L>What e're he said, and spake with such a grace,</L>
+<L>He took his Hearers, with a double band,</L>
+<L>Of Love, and Reason, and so amaz'd, woo'd stand.</L>
+<L>This is our grief, our sorrow, and sad loss,</L>
+<L>Pray Heaven his Death, prove not to us a cross.</L>
+</DIV2>
+<DIV2 TYPE="poem">
+<PB N="79" REF="44">
+<HEAD>Upon the just Judgement, of His Majesties
+unjust JUDGES.</HEAD>
+<L>BUT now they're come to Judgement, Heav'n is just,</L>
+<L>And tho't be long, before he questions Dust,</L>
+<L>They shall not go unpunish't, for that thing,</L>
+<L>That horrid thing, of murthering their King.</L>
+<L>'Tw<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">s bad enoug<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">, against the<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">r King to rise,</L>
+<L>But ten times worse, their King to sacrifise;</L>
+<L>But worst of all, under a shew of Zeal,</L>
+<L>To rob the Church, and spoyl the Common-weal:</L>
+<L>And so make God, the Author of their ill,</L>
+<L>Pretending 'twas his pleasure, and his will.</L>
+<L>Thus, how from sin, to sin, the Devil draws</L>
+<L>Ambitious spirits, to infringe Gods Laws;</L>
+<L>Still prompting them, from what is bad, to worse,</L>
+<L>Until they're fitted, for his heavy Curse.</L>
+<L>Mercy is an Attribute, it is true,</L>
+<L>VVhich properly to Heav'n, belongs unto:</L>
+<L>And he that shews it, shews himself like God,</L>
+<L>Yet God is said, to have an Iron Rod.</L>
+<L>VVhen he vouchsafes to pardon, 'tis to those</L>
+<L>Will never more offend him, which he knows:</L>
+<L>And yet some sins, he will not pardon neither,</L>
+<L>That 'gainst the Holy-Ghost, and <HI>Abels</HI> brother&punc;</L>
+<L>Nor those that shall so eas'ly pardon those,</L>
+<L>That still continue, his obdurate foes.</L>
+<L>Blood requires blood, but oh! holy murther,</L>
+<L>Is that which Heav'n it self, will never smurther&punc;</L>
+<L>Nor can we hope a blessing f<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">om above,</L>
+<L>So long as one alive, among us move.</L>
+</DIV2>
+<DIV2 TYPE="poem">
+<PB N="80" REF="45">
+<HEAD>UPON
+Her Majesties, the Queen MOTHER
+Return into England, in <DATE>October, 1660.</DATE></HEAD>
+<L>GReat <HI>Queen</HI> of vertue, and of all that's good,</L>
+<L>VVho never yet was rightly understood:</L>
+<L>Can you the wrongs you have receiv'd, forget?</L>
+<L>You must be more then woman, to do it:</L>
+<L>Nay if such sins by you, can be fo giv'n,</L>
+<L>'Tis more Great soul, then we can hope from Heav'n.</L>
+<L>And yet we've mo<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">e then hopes, you can and will,</L>
+<L>Or else in <HI>France,</HI> you woo'd have stayed still:</L>
+<L>And not have ventur'd, o're this Ocean more,</L>
+<L>But that you had a mind, to clear our score:</L>
+<L>And wipe away, all sorrow from our eyes,</L>
+<L>As fogs do vanish, when the Sun does rise.</L>
+<L>Great Star! which from th' East and by South dost come,</L>
+<L>How much are we engaged to thy womb!</L>
+<L>Thy fruitful womb, that with no little pain,</L>
+<L>Hast stockt our Iland, with no little gain.</L>
+<L>Three Princes, which the world so much admire,</L>
+<L>And we at last, with Reason do desire.</L>
+<L>Two Beauties too; they must not be forgot,</L>
+<L>VVhom Christendom admires, the like has not.</L>
+<L>Welcome Great <HI>Queen,</HI> welcome to our shore,</L>
+<L>I fear to make amends, we shall adore</L>
+<L>Your sacred Presence, since that ever since,</L>
+<L>We have been curst, that you were forced hence.</L>
+</DIV2>
+<TRAILER>FINIS&punc;</TRAILER>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

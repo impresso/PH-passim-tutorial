@@ -1,0 +1,1751 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD EEBOPROOF 2.0//EN">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-09-30</DATE>
+<RESPSTMT>
+<NAME>Olivia Bottum</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TYPEs to DIVs in order to validate. Proofed title page(s). Checked for N=""s. Checked for GROUP tags. Checked ^s. Reviewed structure. Checked division-marking material at heads and feet of divisions (HEADS,  CLOSER, OPENER, ARGUMENT, EPIGRAPH, SIGNED, BYLINE, etc.). Checked for signatures. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Converted 265 $-groups to GAP DESC="illegible" RESP="tech". Checked spacing of foreign GAPs.  Checked for LBs. Checked for startqs, endqs, oes, q;s, and Qs. Checked proofsheets and made corrections found there.  Checked for FIGUREs and decorated initials. Checked for missing-page GAPs. Revalidated. </ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="A09538">
+<STC T="S">19818</STC>
+<BIBNO T="umi">99845981</BIBNO>
+<VID>10915</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1">
+<PB REF="1">
+<P>Times iourney to seeke
+<HI>his Daughter
+Truth:</HI></P>
+<P>And
+<HI>Truths Letter to Fame</HI>
+of Englands Excel|lencie.</P>
+<P><GAP DESC="foreign">.</P>
+<P>AT LONDON
+<HI>Imprinted by</HI> F. K. <HI>for</HI> Hum|frey
+Lownes.
+1599.</P>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="2">
+<PB REF="2">
+<HEAD>TO THE RIGHT HONO|RABLE
+AND MY SINGVLAR
+GOOD LORD, CHARLES EARLE OF
+Notingham, Baron of Effingham, Knight of the most
+noble order of the Garter, Lord high Admirall
+of England, Ireland and Wales, &amp;c. and
+one of her Maiesties most
+Honorable priuie
+Councell.</HEAD>
+<P>_YOur late fauourable intertaine|ment
+(Right Honorable) vouch|safed
+to this my hard fauoured
+Childe, is now my incourage|ment
+againe to present her to
+you, clad in this new habite. She
+hath cause to shroude her selfe vnder Honours
+wing: for so rude is her habite, and so meane her
+parentage; that were not such patronage a safe
+refuge to her, when the malicious shall persecute
+her: I feare she would be accounted a roague; and
+for wandring abroad in so vnfauourable a time,
+be scourged with the whip of disgrace, and lashed
+<PB REF="3">
+with the sharpe rod of euery Criticks censure.</P>
+<P>Those many fauours, which you honourably
+extended to my father, whilst he liued, and still
+continue to his name and children; claime a farre
+greater testimony of gratefulnes, then the greatest
+of my small indeuours can affoord: notwithstan|ding,
+accept a dutifull minde, witnessed in a rude
+sort; and when <HI>Time</HI> shall with some of his fea|thers,
+better cloath my scarce-feathered <HI>Muse:</HI>
+she will better testifie how highly she honours and
+admires your worth. In meane time pardon her
+present vnworthines, and once againe take in
+good worth this mine vnworthy present: where|of,
+hauing reason to rest perswaded, I leaue further
+to interrupt your serious affayres, and so humbly
+take my leaue.</P>
+<CLOSER><SIGNED>Your Honours in all dutie,
+<HI>Peter Pett.</HI></SIGNED></CLOSER>
+</DIV1>
+<DIV1 TYPE="to the reader">
+<PB REF="3">
+<HEAD>To the Reader.</HEAD>
+<P>_TO intreate their fauour that cannot be
+discourteous, were superfluous: to craue
+fauour of the churlish, were friuolous.
+VVhat thou art, I know not; but if thou
+meanest to peruse my <HI>Muses</HI> labour, ex|pect
+no great matters, least thy expectation be frustrated.
+It were folly to tell thee of my weakenes, hauing laide it
+open to euery eye: neither will I excuse it to thee; because
+I am ignorant of thy disposition. I am no <HI>Satyre</HI> to
+scourge thee, if thou snarle at me: yet feare I not the most
+piercing fang of peeuish enuie; being sufficiently armed
+against all censures, and therefore not to be harmed by
+thy censure.</P>
+<CLOSER><SIGNED>Peter Pett.</SIGNED></CLOSER>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="poem">
+<PB REF="4">
+<PB REF="4">
+<HEAD>TIMES IOVRNEY TO
+SEEKE HIS DAVGHTER
+TRVETH.</HEAD>
+<LG>
+<L>_AMidst some gra<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">er studies taking pause,</L>
+<L>To giue my tyred spirits some delight,</L>
+<L>And to refresh my wearie minde, because</L>
+<L>Sometime repose is very requisite:</L>
+<L>That I might take a little breathing flight,</L>
+<L>I left a while to trace <HI>Philosophie,</HI></L>
+<L>To please my selfe with harmlesse <HI>Poetrie.</HI></L>
+</LG>
+<LG>
+<L>With harmlesse <HI>Poetrie,</HI> not otherwise,</L>
+<L>Lasciuious writing doth not please my vaine&punc;</L>
+<L>For vaine it is, such matters to deuise,</L>
+<L>As nothing else but note of folly gaine,</L>
+<L>A bootlesse labour, and a fruitlesse paine,</L>
+<L>Offensiue to the wise, and likte of none,</L>
+<L>But those which in their hearts make <HI>Follies</HI> throne.</L>
+</LG>
+<LG>
+<L>Disgrace to <HI>Poets</HI> commendable Art,</L>
+<L>Making that loath'd, which euery man would loue,</L>
+<L>If loue, and <HI>Cupids</HI> arrowes wanton smart,</L>
+<L>Were not the greatest motiue that doth moue</L>
+<L><HI>Poets</HI> their wits, in sugred verse to proue.</L>
+<L>Ah, that to proue their wits most excellent,</L>
+<L>To such base meanes their wils should so be bent.</L>
+</LG>
+<LG>
+<PB REF="5">
+<L><HI>Loue</HI> is too base a <HI>Subiect</HI> now to write of,</L>
+<L>Common to euery ballad-makers time,</L>
+<L>And farre vnfit for <HI>Scholers</HI> to indite of,</L>
+<L>For they should holde more pretious their time;</L>
+<L>And sure there cannot be a greater crime,</L>
+<L>Then to mispend time in so lewd a wise,</L>
+<L>As if we did the price thereof despise.</L>
+</LG>
+<LG>
+<L>For doe not men the pretio<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">s time mispend,</L>
+<L>Whilst they discourse of loues and louers <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">one?</L>
+<L>That cannot sort to any other end,</L>
+<L>Then make the hart of man soule <HI>Vices</HI> throne,</L>
+<L>That of it selfe to lewdnesse is so prone:</L>
+<L>Adding to smoaking flaxe a burning flame,</L>
+<L>Which at first touch doth set on fire the same.</L>
+</LG>
+<LG>
+<L>Not such was my intent or purposde drift,</L>
+<L>Pleasing to me was alwayes <HI>Poes<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">:</HI></L>
+<L>A soule-infused faire celestiall gift,</L>
+<L>In rauishing with <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">eauenly harmony.</L>
+<L>But <HI>Loue</HI> vntunes that pleasant melody,</L>
+<L>Makes sweetest tunes to iarre and disagree,</L>
+<L>Makes <HI>Art</HI> a thrall, but <HI>Arte</HI> loues to be free.</L>
+</LG>
+<LG>
+<L>And therefore when I meant in measur'd style,</L>
+<L>To please my selfe and other not offend,</L>
+<L>I thought loue-matters ouer base and vyle,</L>
+<L>Nor of such toyes to write I did intend,</L>
+<L>But other wayes my cogitations bend,</L>
+<L>Three speciall sorts of writ I then did find,</L>
+<L>All which I well approued in my mind.</L>
+</LG>
+<LG>
+<PB REF="5">
+<L>The first is morall, and that sort indeed</L>
+<L>To carpe at <HI>Vices</HI> profitable is:</L>
+<L>To shew amongst good corne the noysome weed,</L>
+<L>And tell the <HI>World</HI> wherein it doth amis:</L>
+<L>For though the <HI>VVorld</HI> doth little count of this,</L>
+<L>Yet he that herein well imployes his pen,</L>
+<L>Well pleaseth <HI>God,</HI> and merits prayse with men.</L>
+</LG>
+<LG>
+<L>The second sorte is call'd historicall,</L>
+<L>That tells of sundry lamentable fates,</L>
+<L>Declares the life, the death, the pompe, the fall,</L>
+<L>Of <HI>Emperours,</HI> and mghty <HI>Potentates,</HI></L>
+<L>Of <HI>Princes,</HI> and of other <HI>Magistrates:</HI></L>
+<L>And this in it much profit doth contayne,</L>
+<L>By others harmes to warne them that remayne.</L>
+</LG>
+<LG>
+<L>The third sort that is allegoricall;</L>
+<L>Which vnder <HI>Metaphors,</HI> and couert phrase,</L>
+<L>Proposeth <HI>Vertue</HI> to the vew of all,</L>
+<L>Clad in a rich attyre: that whilst men gase</L>
+<L>Vpon the same, and on her beauties blase:</L>
+<L>Vnwares they learne to know fayre <HI>Vertues</HI> price,</L>
+<L>And see the foule deformity of <HI>Vice.</HI></L>
+</LG>
+<LG>
+<L>And he that in this kynd can temper well</L>
+<L>Profit with sweet delight: vnto his prayse</L>
+<L>Well may we yeeld, and say he doth excell,</L>
+<L>And for his skill his fame to heauen vp rayse.</L>
+<L>So may we speake of <HI>Spe<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">sers</HI> golden layes,</L>
+<L>Whome neuer any man could equall yet,</L>
+<L>That in our tongue hath as a <HI>Poet</HI> writ.</L>
+</LG>
+<LG>
+<PB REF="6">
+<L>On these three sorts whilst I did ruminate,</L>
+<L>As taking respite which of them to chuse,</L>
+<L>That (when I should my selfe thus recteate)</L>
+<L>That little time I might not vainely vse,</L>
+<L>Nor such a pretious gift of <HI>God</HI> abuse:</L>
+<L>I found my wit more dull then it was wont,</L>
+<L>And myne <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> seemed very blunt.</L>
+</LG>
+<LG>
+<L>Therefore I left my melancholy cell,</L>
+<L>To set an edge on myne inuention,</L>
+<L>Streight went I to a walke that likte me well,</L>
+<L>That I might make some disposition</L>
+<L>In order, of those things I thought vpon.</L>
+<L>For many thoughts (<HI>Maze</HI>-lyke) the mynd inclose</L>
+<L>Confusedly, till order them dispose.</L>
+</LG>
+<LG>
+<L>No sooner to this walke I entred then&punc;</L>
+<L>But that a <HI>Subiect</HI> for my <HI>Muse</HI> I found,</L>
+<L>And presently gan fit it for my pen:</L>
+<L>For when I markt how chearefully the ground,</L>
+<L>The herbes, the plants&punc; the trees about me round,</L>
+<L>Praysd their <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> in their seuerall kynd,</L>
+<L>Thus I began to reason in my mynd:</L>
+</LG>
+<LG>
+<L>All creatures of th<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> Eternall <HI>God</HI> but <GAP DESC="illegible" RESP="tech" EXTENT="1 word">,</L>
+<L>In seuerall sorts doe glorify his name<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"></L>
+<L>Things dumbe, and <GAP DESC="illegible" RESP="tech" EXTENT="4 letters">ely sencelesse (as they ca<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">)</L>
+<L>Yet seeme to prayse and magnify the same&punc;</L>
+<L>Is it not then an <GAP DESC="illegible" RESP="tech" EXTENT="1 span"></L>
+<L>That man should be <GAP DESC="illegible" RESP="tech" EXTENT="1 span"></L>
+<L>Of whome <HI>God</HI> <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> him Lord <GAP DESC="illegible" RESP="tech" EXTENT="1 span"></L>
+</LG>
+<LG>
+<PB REF="6">
+<L>Each tree doth seeme tenne thousand tongues to haue,</L>
+<L>With them to laude the Lord omnipotent:</L>
+<L>Each leafe, that with Windes gentle breath doth waue,
+Seemes as a tongue to speake to this intent,</L>
+<L>In language admirably excellent.</L>
+<L>Leaues better tongues, then tongues that leaue their duty,</L>
+<L>And loue to talke of nothing but of beauty.</L>
+</LG>
+<LG>
+<L>The sundry sorts of fragrant floures doe seeme,</L>
+<L>Sundry discourses <HI>God</HI> to glorify,</L>
+<L>Far sweeter volumes may we them esteeme,</L>
+<L>Then such as handle with diuersity,</L>
+<L>The traynes and stratagems of fantasy:</L>
+<L>For all these creatures in their seuerall sorte,</L>
+<L>Prayse <HI>God,</HI> and man vnto the same exhort.</L>
+</LG>
+<LG>
+<L>But man (his nature is so strangely dull,</L>
+<L>And yet so prone to wickednes and sinne)</L>
+<L>As that (vnlesse <HI>God</HI> forcibly him pull,</L>
+<L>And plucke him from himselfe) h'will nere begin</L>
+<L>To thinke on <HI>God,</HI> that doth inclose him in</L>
+<L>With hourely blessings, (for man is so rude,</L>
+<L>He renders nothing but ingratitude.)</L>
+</LG>
+<LG>
+<L>On this I thought to set my <HI>Muse</HI> on worke,</L>
+<L>And on this matter largely to dilate:</L>
+<L>To shew how in mans hart this vice doth lurke,</L>
+<L>And to vpbrayde each sorte and each estate,</L>
+<L>That for <HI>Gods</HI> benefits are so ingrate.</L>
+<L>As thus I thought, I playne me thought did heare,</L>
+<L>A voyce that seemed to be vtterd neare.</L>
+</LG>
+<LG>
+<PB REF="7">
+<L>Distinct it was, and thus it playnely spake:</L>
+<L>Take hold of Time when Time approacheth <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ye,</L>
+<L>For time doth very little tari<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">nce make,</L>
+<L>VVith soaring wings&punc; he soone from thee will fly.</L>
+<L>No sooner was this spoke, but by and by</L>
+<L><HI>Time</HI> stood by me, and least he should be gone,</L>
+<L>I stayd him with this sodayne question.</L>
+</LG>
+<LG>
+<L><HI>Time</HI> whether doest thou hast? tell me I pray,</L>
+<L>And (if thou wilt) I'le thee accompany:</L>
+<L>No (answered he) for <HI>Time</HI> must not delay,</L>
+<L>Thou wantest wings with aged <HI>Time</HI> to fly.</L>
+<L>This sayd, away he turnd: but sodaynly,</L>
+<L>I tooke fast hould vpon his front of hayre,</L>
+<L>And straight he mounted me into the <HI>Ayre.</HI></L>
+</LG>
+<LG>
+<L>Wherein I was deceiued: for I thought</L>
+<L>Onely by force, to make him intermit</L>
+<L>A while his course: but that auayled nought,</L>
+<L>Nought forceth it him to inforce a whit;</L>
+<L>For <HI>Time</HI> doth alwayes hould delay vnfit.</L>
+<L>But when I saw my selfe deluded so,</L>
+<L>I prayd ould <HI>Time,</HI> that he would let me go.</L>
+</LG>
+<LG>
+<L>No (answered <HI>Time</HI>) for sith I haue thee heere,</L>
+<L>Thou shalt be now ould <HI>Times</HI> companion:</L>
+<L>And <HI>Time</HI> shall make vnto thy <HI>Muse</HI> appeare,</L>
+<L>A <HI>Subiect</HI> fit for her to vary on:</L>
+<L>Then seate thy selfe myne aged backe vpon,</L>
+<L>And take thou note of that which thou shalt see,</L>
+<L>As in this iourney thou shalt passe with mee.</L>
+</LG>
+<LG>
+<PB REF="7">
+<L>Content (sayd I) and vp my selfe I reared,</L>
+<L>In hope to see some accident most strange:</L>
+<L><HI>Time</HI> had so cheard me that I no thing feared,</L>
+<L>And therefore car'd not whether <HI>Time</HI> did range:</L>
+<L>Nor did it grieue me, that he made me change</L>
+<L>My first intent to write in former strayne,</L>
+<L>For that I meant it to resume agayne</L>
+</LG>
+<LG>
+<L>But now I meane to tell what then I saw,</L>
+<L>(Laying aside that purpose for a while.)</L>
+<L>Things that perhaps might admiration draw,</L>
+<L>If I could cunningly compose my stile,</L>
+<L>Or eloquently my designements file;</L>
+<L>Herein my want I freely doe confesse,</L>
+<L>But from the matter I too much digresse.</L>
+</LG>
+<LG>
+<L>Already had we left fayre <HI>Europes</HI> clyme,</L>
+<L>And lost the sight of <HI>Englands</HI> watry sands:</L>
+<L>Now o're the <HI>Oceans</HI> mayne gan flitter <HI>Time,</HI></L>
+<L>And straight we were in vew of other lands,</L>
+<L>Perceauing kenne of other sundry strands,</L>
+<L>Aswell of Ilands as of continent;</L>
+<L>The sight whereof my mind did much content.</L>
+</LG>
+<LG>
+<L>Of sundry wonders I could make report,</L>
+<L>That in these places <HI>Time</HI> did shew to me:</L>
+<L>Of sauage men, and of a thousand sort</L>
+<L>Of monsters, which (but that I them did see)</L>
+<L>I would haue thought impossible to bee.</L>
+<L>Some brutish beasts I saw in forme of men,</L>
+<L>Of stranger shape then can be shewd by p<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">.</L>
+</LG>
+<LG>
+<PB REF="8">
+<L>But one thing did I marke especiallie:</L>
+<L>As <HI>Time</HI> flew on with swift and winged speede,</L>
+<L>Great multitudes, did still together <GAP DESC="illegible" RESP="tech" EXTENT="1 word">,</L>
+<L>With such vnwonted sight their eyes to <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">eede:</L>
+<L>And many knew not what <HI>Time</HI> was in deede,</L>
+<L>But as they gaz'd on him, they changed were:</L>
+<L>The maner how you presently shall heare.</L>
+</LG>
+<LG>
+<L>Young babes that sucked at their mothers breast,</L>
+<L>That late in tender wombe did them conceaue,</L>
+<L>Could in their laps no longer take their rest,</L>
+<L>But presently their mothers bosome leaue;</L>
+<L>And in a moment doe they strength receiue,</L>
+<L>That but euen now could neither goe nor stand,</L>
+<L>And were inwrapped in their cradle band.</L>
+</LG>
+<LG>
+<L>And streight they grow vnto perfection,</L>
+<L>In wit, in strength, and euery other thing:</L>
+<L>But this their prime is very quickly gon;</L>
+<L><HI>Time</HI> vnto them a suddaine change doth bring.</L>
+<L>For as he further flies with nimble wing,</L>
+<L>Their glorie presently begins to quaile,</L>
+<L>Their sences to decay, their strength to faile.</L>
+</LG>
+<LG>
+<L>And then become they as they were at first:</L>
+<L>For ere that <HI>Time</HI> was yet gone out of sight,</L>
+<L>Children againe, and fitter to be nurst;</L>
+<L>Then otherwise they were, betest of might;</L>
+<L>Nothing was left them for their lifes delight.</L>
+<L>And <HI>Time</HI> no sooner was quite fled away,</L>
+<L>But presently they were transformd to clay.</L>
+</LG>
+<LG>
+<PB REF="8">
+<L>Some also lost the sight of flying <HI>Time</HI></L>
+<L>In chiefest strength: for <HI>Time</HI> oft made such hast,</L>
+<L>That when they were amidst their chiefest prime,</L>
+<L>He left them: then their glorie was disgraste,</L>
+<L>Their life was perioded, their strength defaste.</L>
+<L>Their springing flowres, <HI>Time</HI> cropt vncourteouslie,</L>
+<L>As he did from them so vntimely flie.</L>
+</LG>
+<LG>
+<L>So haue I seene a lillie-colonrd ro<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">e;</L>
+<L>(A bud at morne, more beautifull at noone)</L>
+<L>Clad in as glorious vest<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">res as are those,</L>
+<L>That doe intobe the siluer-cloathed <HI>Moone:</HI></L>
+<L>When as the same is plucked ouer soone,</L>
+<L>The beautie fades, it withereth and dyes,</L>
+<L>Though clad in <HI>Floraes</HI> fairest liueries.</L>
+</LG>
+<LG>
+<L>And euery sort of men (what ere they were,</L>
+<L>Of what so ere condition or estate)</L>
+<L>That thus on <HI>Time</HI> stood gazing euery where,</L>
+<L>When <HI>Time</HI> was fled, then came their dr<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ery fate,</L>
+<L>For to recall him then it was too late:</L>
+<L>And many knew him not, till he was gone,</L>
+<L>When for his want they made their dying mone.</L>
+</LG>
+<LG>
+<L>This seemed strange to me, and made me aske</L>
+<L>Of aged <HI>Time</HI> how these things came to passe:</L>
+<L><HI>Time</HI> answering sayd, it's my appointed taske.</L>
+<L>And, for all flesh is like to fading grasse,</L>
+<L>And mans state farre more brittle then is glasse:</L>
+<L>In me life doth begin, in me it ends,</L>
+<L>And on me as my seruant it attends.</L>
+</LG>
+<LG>
+<PB REF="9">
+<L>For euer since the euer-liuing <HI>God</HI></L>
+<L>Gaue me beginning at the first to be,</L>
+<L>He charged me no where to make a<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">od,</L>
+<L>And charged <HI>Life</HI> that it should follow me:</L>
+<L>Hence doe proceed the changes that you see.</L>
+<L><HI>Time</HI> being fled, <HI>Life</HI> is concluded euer,</L>
+<L>Longer then <HI>Time</HI> stayes, <HI>Life</HI> continues neuer.</L>
+</LG>
+<LG>
+<L>Yet thousand thousands are, that doe not know</L>
+<L>The mighty power <HI>God</HI> to <HI>Time</HI> doth giue:</L>
+<L>Though <HI>Time</HI> be able soon to ouerthrow</L>
+<L>The strongest thing, that on the earth doth liue.</L>
+<L>But that which principally doth me greiue</L>
+<L>Is mans contempt of me: and this indeed</L>
+<L>Makes me to fly from them with swifter speed.</L>
+</LG>
+<LG>
+<L>For otherwise perhaps I would aduise me,</L>
+<L>And though I needs must hast, yet would I not</L>
+<L>Make so much hast, if they did not dispise me:</L>
+<L>But when I see on them contempts foule blot,</L>
+<L>So great a stayne, and such a gracelesse spot,</L>
+<L>The hare ne're faster fleeth when she's pursude,</L>
+<L>Then I doe fly from those that are so rude,</L>
+</LG>
+<LG>
+<L>By this, <HI>Time</HI> hauing left our hemispheare,</L>
+<L>With <HI>Phoebus</HI> fiery steeds kept equall pace:</L>
+<L>Now to myne eyes another did appeare,</L>
+<L>Wherein the <HI>Sun</HI> did take another race,</L>
+<L>As in this our <HI>Horison</HI> he doth trace:</L>
+<L>Nor doth he euer rest as <HI>Poets</HI> faigne;</L>
+<L>That course once done, he straight returnes agayne.</L>
+</LG>
+<LG>
+<PB REF="9">
+<L>All this time, had I not of <HI>Time</HI> inquired,</L>
+<L>Toward what place his winged course he bent:</L>
+<L>Which thing because to know I much desyred,</L>
+<L>I gan to question him of his intent,</L>
+<L>And prayd him tell mee to what place he went:</L>
+<L>I long (sayd I) good father <HI>Time</HI> to know,</L>
+<L>Whether thou flyest now, and hastest so.</L>
+</LG>
+<LG>
+<L>I fly (said <HI>Time</HI>) and restlesse neuer cease,</L>
+<L>About the World, and as thou seest the <HI>Sonne,</HI></L>
+<L>Euen so my sonne doth <HI>Time:</HI> nor doth decrease</L>
+<L>His force, but as when first his course begonne,</L>
+<L>It shall continue till his course be donne.</L>
+<L>For time shall come, when <HI>Time</HI> himselfe must dy,</L>
+<L>And that time now approacheth very ny.</L>
+</LG>
+<LG>
+<L>But vntill then, this course I still must keep:</L>
+<L>For to this day I nere repose did take,</L>
+<L>Nor since the world began did euer sleep,</L>
+<L>(For then my charge imposde I should forsake)</L>
+<L>Vntill my death I euer must awake.</L>
+<L>Thus haue I done fiue thousand yeares, and more,</L>
+<L>And till I leaue to be, thus must I sore.</L>
+</LG>
+<LG>
+<L>But when I thee did my companion take,</L>
+<L>I meant to leade thee to the house of <HI>Fame,</HI></L>
+<L>Where I must shortly inquisition make,</L>
+<L>For a pure virgin of vnblemisht name:</L>
+<L>Whose great perfection (though some dare to blame)</L>
+<L>Is admirable, and beyond <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ompare,</L>
+<L>Most excellent, most exqu<GAP DESC="illegible" RESP="tech" EXTENT="3 letters">te, and rare.</L>
+</LG>
+<LG>
+<PB REF="10">
+<L>I meane vnspotted <HI>Truth,</HI> whom many deeme</L>
+<L>My daughter: and because when she was yong</L>
+<L>I fostred her, they therefore doe esteeme,</L>
+<L>(Yet falsely) that from my loynes she is sprong.</L>
+<L>But <HI>Truth</HI> (though wicked men she liue among)</L>
+<L>Is of no mortall powers borne or bred;</L>
+<L>Bu<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> calld my child, cause I her nourished.</L>
+</LG>
+<LG>
+<L>And though her foster-father <HI>Time</HI> must dy,</L>
+<L>When once his race appointed is expired;</L>
+<L>Yet <HI>Truth</HI> shall euer liue immortally.</L>
+<L>And shortly shall her beauty be admired,</L>
+<L>And euery where the same shall be desired.</L>
+<L>Then they which haue so much prophan'd her name,</L>
+<L>Shall reape disgrace, &amp; well deserued shame.</L>
+</LG>
+<LG>
+<L>And for I know that <HI>Fame</HI> can well declare,</L>
+<L>To me where my supposed daugh<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">er is:</L>
+<L>To her I therefore now doe make repaire.</L>
+<L>And when <HI>Fame</HI> hath acquainted me with this,</L>
+<L>I thinke thou then wilt nothing thinke amis,</L>
+<L>Thou ca<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">st with me: that thou mayst make it known,</L>
+<L>Where <HI>Truth</HI> remaynes, and where her face is shown.</L>
+</LG>
+<LG>
+<L>But loe, I now discerne farre of the ken,</L>
+<L>Of <HI>Fames</HI> great castle; whence she takes her flight,</L>
+<L>To trumpet sundry newes in eares of men&punc;</L>
+<L>Some of great moment, others of delight,</L>
+<L>And others tragicall, which doe affright.</L>
+<L>Then gan we nearer to the <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> to draw,</L>
+<L>And I will tell you what I further saw.</L>
+</LG>
+<LG>
+<PB REF="10">
+<L>Amongst th' <HI>Antipodes</HI> there is a hill,</L>
+<L>Which farre beyond the cloudes it selfe doth stretch.</L>
+<L>And farre beyond that region, which still</L>
+<L>Is fild with vapors which the <HI>Sun</HI>-beames fetch,</L>
+<L>And from the earth exhale. That monstrous wretch,</L>
+<L>Which gainst the heauens did wage persumptuous warre,</L>
+<L>Is not ore whelmd with such an hill by farre.</L>
+</LG>
+<LG>
+<L>No not <HI>Olimpus</HI> may with it compare,</L>
+<L>Which farre aboue the middle region goes,</L>
+<L>And penetrates the liquid cloudes that are</L>
+<L>About the same, and doe the same inclose:</L>
+<L>Though on the same (as <HI>Plinie</HI> sayth) there growes,</L>
+<L>Of tender plants, and fruitfull trees great store;</L>
+<L>That are so high, no cold can make them hore.</L>
+</LG>
+<LG>
+<L>On highest top of this great hill there stood,</L>
+<L>A goodly <HI>Pallace</HI> framed large and wide:</L>
+<L>At foot of this same hill, a spatious wood,</L>
+<L>That <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">emd this mountaine in on euery side.</L>
+<L>Moreouer in this <HI>Pallace</HI> I espyde,</L>
+<L>A thousand windowes open euery way,</L>
+<L>And many doores nere shut by night or day.</L>
+</LG>
+<LG>
+<L>At euery one of which there thrungd a prease,</L>
+<L>Of rumours, and reports: Some of debates,</L>
+<L>Some told of warres, and others blabd of peace.</L>
+<L>Some talk tof <HI>Empyers,</HI> and of ruind states;</L>
+<L>And some of men whome <HI>Fortunes</HI> malice mates,</L>
+<L>Such a confusion neuer did I see,</L>
+<L>In one conclusion did not two agree.</L>
+</LG>
+<LG>
+<PB REF="11">
+<L>Vpon this castles toppe of christall gl<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">sse</L>
+<L>Stood a fayre turre<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">: where <HI>Fame</HI> had <GAP DESC="illegible" RESP="tech" EXTENT="1 span"></L>
+<L>There sate shee, and in hand a <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> of brass<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"></L>
+<L>Shee held, and therewith to the world made knowne,</L>
+<L>The sundry newes, and tales of euery one</L>
+<L>Of those <HI>Reportes,</HI> that to her castle came;</L>
+<L>And as they b<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ought them, shee disperst the <GAP DESC="illegible" RESP="tech" EXTENT="1 word">.</L>
+</LG>
+<LG>
+<L>Her trumpets sound was loud, and very <GAP DESC="illegible" RESP="tech" EXTENT="1 word">:</L>
+<L>Reporting euery matter very cleare;</L>
+<L>Which when it once was sounded forth, did fill</L>
+<L>The wood which to that hill adioyned neare;</L>
+<L>In which a thousand tatling <HI>Ec<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">h<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">es</HI> were,</L>
+<L>That iterated euery vttered sound,</L>
+<L>And made the same throughout the world rebound&punc;</L>
+</LG>
+<LG>
+<L>And euen as many streames (that ioyne at last)</L>
+<L>From many sundry parts doe meet together,</L>
+<L>Till all in selfe same current <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> on fast,</L>
+<L>Vnto the wide vast boundlesse <HI>Ocean&punc;</HI> whether</L>
+<L>Their course them leades (for they are charged <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> her)</L>
+<L>So all reports flow swiftly vnto <HI>Fame,</HI></L>
+<L>Who to the worlds great <HI>Sea</HI> straight sends the <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ame&punc;</L>
+</LG>
+<LG>
+<L>Now aged <HI>Tim<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"></HI> nigh to this castle drew,</L>
+<L>Where all these things I orderly did note,</L>
+<L>(As in so short a <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">pace I could them vew,</L>
+<L>For else I might haue had more things to quote)</L>
+<L>And now that <HI>Time</HI> about the <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ame did flote,</L>
+<L>He asked some <HI>Reportes</HI> that thronged there,</L>
+<L>If they could tell where <HI>Truth</HI> his daughter were.</L>
+</LG>
+<LG>
+<PB REF="11">
+<L>One answered, shee was of late in <HI>Spay<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">e:</HI></L>
+<L>Another sayd, shee was exilde from <HI>Fra<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">ce:</HI></L>
+<L>Another sayd, shee no where did remayne:</L>
+<L>Another sayd some her did countenaunce:</L>
+<L>Another sayd, so tragicke was her chaunce,</L>
+<L>Her sacred body was of life bereauen,</L>
+<L>And her sweet soule fled vnto <HI>God</HI> in heauen.</L>
+</LG>
+<LG>
+<L>When <HI>Time</HI> saw in them such vncertainty,</L>
+<L>Of them no longer would he thus inquire:</L>
+<L>But (soaring vp) he vnto <HI>Fame</HI> did hye,</L>
+<L>Who at his sudden comming did admire.</L>
+<L>But her <HI>Time</HI> earnestly did then desire,</L>
+<L>To fly with him, because he might not stay,</L>
+<L>And many things he must vnto her say.</L>
+</LG>
+<LG>
+<L>Straight <HI>Fame</HI> attyr'd her in her wingd array,</L>
+<L>And from her backe layd downe her costly weed:</L>
+<L>And for <HI>Time</HI> would admit of no delay,</L>
+<L><HI>Time</HI> flew before, <HI>Fame</HI> followed with speed;</L>
+<L>And as shee flew, it seemed shee did reed,</L>
+<L>What you shall heare anon; meane time giue eate,</L>
+<L>And what first past you shall in order heare.</L>
+</LG>
+<LG>
+<L>At last <HI>Fame</HI> ouertooke vs, and then sayd,</L>
+<L><HI>God</HI> saue thee <HI>Time:</HI> what wouldst thou <HI>Fame</HI> command?</L>
+<L>(Regreeting made) <HI>Time</HI> instantly her prayd,</L>
+<L>That shee would make knowne to him out of hand,</L>
+<L>Where <HI>Truth</HI> his daughter was, and in what land</L>
+<L>Shee now remayn'd: I haue not seen her long,</L>
+<L>And I doe feare (saith he) shee suffreth wrong.</L>
+</LG>
+<LG>
+<PB REF="12">
+<L>Knowest thou not that (then answerd to him <HI>Fam<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"></HI>)</L>
+<L>Which throughout euery land my trumpets ro<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">e,</L>
+<L>Hath sounded forth, and hath disperst the same:</L>
+<L>No accident that hapned hertofore,</L>
+<L>What ere it were, haue I reported more.</L>
+<L>Doth <HI>Truth</HI> her face so much in <HI>England</HI> maske,</L>
+<L>That <HI>Time</HI> of me should such a question aske?</L>
+</LG>
+<LG>
+<L>No (<HI>Time</HI>) her bea<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">tyes are not hid I know,</L>
+<L>No more then is the <HI>Sun</HI> in clearest <HI>Sky:</HI></L>
+<L>When as no gloomy cloud lets him to show</L>
+<L>His goulden light; but thou so swift doest fly,</L>
+<L>As that <HI>Trueths</HI> mansion thou canst not descry,</L>
+<L>Marke and Ile tell thee where thy daughter is,</L>
+<L>And make thee glad to heare thy daughters blisse.</L>
+</LG>
+<LG>
+<L>When <HI>Henry</HI> liu'd <HI>Truths</HI> farre-renowned frend,</L>
+<L>In <HI>Englan<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"></HI> highly then she honourd was:</L>
+<L>And so continu'd she till thou didst end</L>
+<L>His life, and worthy <HI>Edwards</HI> life alas.</L>
+<L>Then <HI>Enuy</HI> so her purpose brought to passe,</L>
+<L><HI>England</HI> disgraced all her glory, and</L>
+<L>Misled by <HI>Enuy</HI> banisht truth her land.</L>
+</LG>
+<LG>
+<L>All comfortlesse, sad and disconsolate,</L>
+<L>Poo<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">e <HI>Truth</HI> opprest to take her passage hyde:</L>
+<L>She tooke her barke alone, and (scorning mate,</L>
+<L>Where she was so abu'sd) was brought with tyde.</L>
+<L>At last into the <HI>Ocean</HI> gulfe so wyde:</L>
+<L>Where many waues her little barke did crosse,</L>
+<L>And many billowes bitterly it tos<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">e.</L>
+</LG>
+<LG>
+<PB REF="12">
+<L>And fayne she would swift flying <HI>Time</HI> haue seene,</L>
+<L>To him of this her sorrow to complaine</L>
+<L>(Now banished, late honoured as a Queene)</L>
+<L>But when she saw her wishes were but vayne,</L>
+<L>She left to wish, yet could not greife restrayne.</L>
+<L>At last I chauncing nigh that way to fly,</L>
+<L>Her thus oppressed did I then espy.</L>
+</LG>
+<LG>
+<L>Her cheekes were blubbered, her hayre was torn<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"></L>
+<L>Her garments <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ent, and all besprent with teares,</L>
+<L>Her hands she wrung, and looked all forlorne,</L>
+<L>Her heart was full of agonyes and feares,</L>
+<L>And euery while her eyes to heauen she <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">eares.</L>
+<L>Soone as she saw me, she did comfort take:</L>
+<L>Aud from her passions did her selfe awake.</L>
+</LG>
+<LG>
+<L>She askt if I could tell her, where <HI>Time</HI> were:</L>
+<L>I answerd, that I had not seen him long;</L>
+<L>But that I merueiled to see her there.</L>
+<L>Fayre Lady <HI>Truth,</HI> who hath done you this wrong,</L>
+<L>(Sayd I) but griefe then <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">e<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">ered her tongue.</L>
+<L>At last she (sobbing) sayd she was misused,</L>
+<L>Iniustly, and <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> abused.</L>
+</LG>
+<LG>
+<L>Then offred I my selfe on her t'attend,</L>
+<L>That if I could, I might her somewhat cheare:</L>
+<L>But on the suddayne did from heauen descend</L>
+<L>A glorious Angel, bright and very cleare,</L>
+<L>Whome <HI>God</HI> (for that he houldeth <HI>Truth</HI> most-deare)</L>
+<L>Did send to comfort her in this distresse,</L>
+<L>Least too much griefe, would her too much oppresse.</L>
+</LG>
+<LG>
+<PB REF="13">
+<L>And thus he spake: sweet Goddesse without spot,</L>
+<L>Feare not fayre virgin, be not so dis<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ayd:</L>
+<L>Thinke not that <HI>God</HI> hath sacred <HI>Truth</HI> forgot,</L>
+<L>Or that h'will suffer thee to be betrayd:</L>
+<L>Cheare vp thy selfe let passion be allayd.</L>
+<L>Most pleasing newes, <HI>God</HI> now by me hath sent thee,</L>
+<L>Which when thou knowest, I know it will content thee.</L>
+</LG>
+<LG>
+<L>Thine enemies in <HI>England</HI> now are dead;</L>
+<L>(For thy sake <HI>God</HI> hath made their liues but short)</L>
+<L>And <HI>Englands</HI> crowne set on a virgins head,</L>
+<L>In whome of graces such a sort consort,</L>
+<L>That no tongue her perfections can report.</L>
+<L>Hast thither, and though <HI>England</HI> wronged thee,</L>
+<L>Thy wrongs redresse <HI>Elizabeth</HI> will see.</L>
+</LG>
+<LG>
+<L>This sayd, he takes the guiding of the helme:</L>
+<L>And <HI>Truth</HI> reioyc'd that shee such comfort had,</L>
+<L>(Whome late a <HI>Sea</HI> of griefe seemd to o<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ewhelme)</L>
+<L>And now shee was as ioyfull, and as glad,</L>
+<L>As shee before was comfortlesse and sad:</L>
+<L>Shee thanked <HI>God</HI> for this great benefit,</L>
+<L>And backe to <HI>Englands</HI> shore her barke doth flit.</L>
+</LG>
+<LG>
+<L>I flew before, as swift as roules the <HI>Sky:</HI></L>
+<L>And on my trumpet did I sound aloud,</L>
+<L>That <HI>Truth</HI> approached&punc; presently did hy,</L>
+<L>To euery shore, a prease, and thronging croud,</L>
+<L>To see where <HI>Truths</HI> barke would it selfe inshroude.</L>
+<L><HI>Elizabeth</HI> no sooner heard of this,</L>
+<L>But that shee sayd shee had obtaynd her wish.</L>
+</LG>
+<LG>
+<PB REF="13">
+<L>For when <HI>Truth</HI> was <GAP DESC="illegible" RESP="tech" EXTENT="1 word">, this matchlesse Queene,</L>
+<L>Did her imbrace, and <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> graciously:</L>
+<L>The people which not lo<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">g her face had se<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">e,</L>
+<L>Witnest their ioy by an applauding cry,</L>
+<L>And fayre <HI>Eliza</HI> thank't <HI>God</HI> hartily,</L>
+<L>That <HI>T<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">th</HI> againe in safety was re<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ou<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ned,</L>
+<L>For whose long absence shee so long had mourned.</L>
+</LG>
+<LG>
+<L>And as when <HI>Tully</HI> was recal'd agayne</L>
+<L>From wrongfull banishment, <HI>Rome</HI> did reioyce:</L>
+<L>In euery street there followd him a trayne,</L>
+<L>To welcome him with glad and ioyfull voyce,</L>
+<L>Of whome they thought their <HI>Gods</HI> made speciall choyce</L>
+<L>To doe <HI>Rome</HI> good; so <HI>England</HI> weclom'd <HI>Truth,</HI></L>
+<L>And made her quite forget her former ru<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">th.</L>
+</LG>
+<LG>
+<L>And now with chast <HI>Elizabeth</HI> shee dwels,</L>
+<L>Highly adored, and admir'd of all:</L>
+<L>My trompe abroad her rare perfection tels,</L>
+<L>Whereby in many lands shee holds the ball,</L>
+<L>And multitudes are subiect to her call:</L>
+<L>For though in <HI>England</HI> shee hath residence,</L>
+<L>In other lands shee hath prehemince.</L>
+</LG>
+<LG>
+<L>And thus good <HI>Time</HI> I vnto thee haue tolde,</L>
+<L>Where sacred <HI>Truth</HI> thy daughter's intertayned:</L>
+<L>No point in this my tale can be controlde;</L>
+<L>No sentence in the same is false or fayned;</L>
+<L>Vpon sure grounds the same is all sustayned.</L>
+<L>And that no place of doubting may remayne,</L>
+<L>Behold a witnesse to confirme it playne.</L>
+</LG>
+<LG>
+<PB REF="14">
+<L>See here a <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> from thy daughters <GAP DESC="illegible" RESP="tech" EXTENT="1 word">:</L>
+<L>Who for she heard of <GAP DESC="illegible" RESP="tech" EXTENT="1 span">,</L>
+<L>The brood of <HI>E<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">y</HI> that most loathsome else,</L>
+<L>Did spread of <HI>England</HI> in malicious sort:</L>
+<L>That shee might me from blasing it dehort:</L>
+<L>(Least I should giue th<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">m credence, to preuent me)</L>
+<L>Of <HI>Englands Excelle<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ce,</HI> this writ shee sent me.</L>
+</LG>
+<LG>
+<L>Wherein thou mayst confirmed playnly <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ee,</L>
+<L>By testimonie of <HI>Truths</HI> sacred pen,</L>
+<L>All which I now haue vttered to thee,</L>
+<L>And daily sounds my trompe in ea<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">e<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> of men.</L>
+<L>Heare thou this letter read good <HI>Time,</HI> and then</L>
+<L>Iudge thou of <HI>Fame,</HI> as thou shalt find iust cause<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"></L>
+<L>Fault her, if shee haue spoke one faul<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">y clause.</L>
+</LG>
+<LG>
+<L>This was the letter which I sayd before,</L>
+<L>It seemed <HI>Fame</HI> did read on as shee flew,</L>
+<L>And to o're take swift-paced <HI>Time</HI> did so're:</L>
+<L>And here in following termes it doth insue,</L>
+<L>Declaring <HI>Fames</HI> report to be most true,</L>
+<L>And with it witnessing the great renowne.</L>
+<L>Of glorious <HI>England&punc;</HI> and <HI>Elizaes</HI> crowne&punc;</L>
+</LG>
+</DIV1>
+<DIV1 TYPE="poem">
+<PB REF="14">
+<HEAD>TRVTHS LETTER TO
+FAME OF ENGLANDES
+EXCELLENCIE.</HEAD>
+<LG>
+<L>ADmired <HI>Fame,</HI> by all men honoured:</L>
+<L>Thou due rewarder of all great desarts:</L>
+<L>Thou that doest make men liue when they are dead;</L>
+<L>Thou cherisher of honour-breathing harts:</L>
+<L>Parent of valour: Nurse of sacred <HI>Arts;</HI></L>
+<L>Take thou a little truce with false surmises,</L>
+<L>And marke what <HI>Truth</HI> thee to report aduises.</L>
+</LG>
+<LG>
+<L>Speake thou of <HI>England,</HI> and her <HI>excellence:</HI></L>
+<L>Straine thou aloft thy trompets roaring blast:</L>
+<L>Tell thou to all her great preheminence;</L>
+<L>And (as through euery land thou flyest fast)</L>
+<L>Let <HI>Englands</HI> worth be neuer ouerpast,</L>
+<L>That all the <HI>VVorld</HI> may wonder much at this,</L>
+<L>That such a wonder in the <HI>VVorld</HI> there is.</L>
+</LG>
+<LG>
+<L>And first declare in what an high account,</L>
+<L>Shee houldeth <HI>Truths</HI> most sacred deity:</L>
+<L>Her kindnesse now to me doth farre surmount,</L>
+<L>Her late vnkindnesse shewd to me, when I</L>
+<L>Was forced into banishment to fly:</L>
+<L>The chiefe efficient of which direfull woe,</L>
+<L>Was cruell <HI>Enuy</HI> my malicious foe.</L>
+</LG>
+<LG>
+<PB REF="15">
+<L>But now, no <GAP DESC="illegible" RESP="tech" EXTENT="1 span"></L>
+<L>(What ere they were in ages <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ou<GAP DESC="illegible" RESP="tech" EXTENT="2 letters"> of <GAP DESC="illegible" RESP="tech" EXTENT="1 word">,</L>
+<L>Amongst whome I in greatest honour <GAP DESC="illegible" RESP="tech" EXTENT="1 word">)</L>
+<L>Did e<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">er prize me <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> a higher rate,</L>
+<L>Then <HI>England</HI> doth, or more increase my state.</L>
+<L>No nation <GAP DESC="illegible" RESP="tech" EXTENT="1 span"> more,</L>
+<L>Then glorious <HI>Engl<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">nd</HI> doth <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> now adore.</L>
+</LG>
+<LG>
+<L>Thou sawst how shee did welcome me, when as</L>
+<L>Vpon her shore I was agayne arriued:</L>
+<L>Thou sawst how great my intertainment was,</L>
+<L>(Though <HI>Enuy</HI> late had me of right depriued,</L>
+<L>And to disgrace me stra<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">agems contriued)</L>
+<L>But I haue greater arguments to proue,</L>
+<L>The greatnesse of her kindnesse and her loue.</L>
+</LG>
+<LG>
+<L>For when my former griefe was quite disperst,</L>
+<L>And thought of former wrong farre cha'sd away,</L>
+<L>My graces (which with cloudes were hidden erst)</L>
+<L>Gan to disclose, and suddenly display</L>
+<L>Themselues, and all their beauty to be wray</L>
+<L>In great perfection, which when <HI>England</HI> saw,</L>
+<L>Great admiration from her did it draw.</L>
+</LG>
+<LG>
+<L>Astonisht with my graces most diuine,</L>
+<L>(For <HI>Truth,</HI> of <HI>Truth,</HI> may iustly speake the truth)</L>
+<L>And rauisht with fayre <HI>Truths</HI> rare beauties shine;</L>
+<L>It grieued her that my so grieuous ruth,</L>
+<L>Shee so had suffred: and to me shee su<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">h,</L>
+<L>That I no longer would retayne in mind,</L>
+<L>My late disgrace which prou'd her too vnkind.</L>
+</LG>
+<LG>
+<PB REF="15">
+<L>Which easily obtaind, shee promist mee,</L>
+<L>And with a solemne oath her selfe shee bound:</L>
+<L>That I should presently perceiue and see,</L>
+<L>How glad shee was, she had my fauour found.</L>
+<L>Immediatly in selfe same minutes stound,</L>
+<L>Into my hands shee freely did deliuer</L>
+<L>Two elfes that were my vowed en'mies euer.</L>
+</LG>
+<LG>
+<L><HI>Enuy</HI> the one, and <HI>Superstition</HI></L>
+<L>The other was: both these two did procure,</L>
+<L>Those iniuries poore <HI>Truth</HI> to fall vpon,</L>
+<L>I meane those wrongs which I did late indure:</L>
+<L>For so fayre <HI>England</HI> did me then assure,</L>
+<L>They my disastres and distresses bred,</L>
+<L>By their sole meanes I so was iniured.</L>
+</LG>
+<LG>
+<L><HI>Enuy</HI> shee tolde good <HI>England</HI> that I sought,</L>
+<L>To circumuent her by some treachery:</L>
+<L>And so to bring her glorious state to nought.</L>
+<L>For sure shee sayd (there was no remedy)</L>
+<L>If still shee intertayn'd me courteously,</L>
+<L>Her glory of necessity must fall,</L>
+<L>And all her pompe be perioded withall.</L>
+</LG>
+<LG>
+<L>And <HI>Superstition</HI> shee her selfe inuested,</L>
+<L>In a rich habite; which was not her owne:</L>
+<L>For well shee knew that shee should be det<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">sted,</L>
+<L>If what she were indeed it should be knowne,</L>
+<L>And so might all her drifts be ouerthrowne.</L>
+<L>She deckt her selfe with many a pretious gemme,</L>
+<L>And on her head shee set a diademme.</L>
+</LG>
+<LG>
+<PB REF="16">
+<L>And thus to <HI>England</HI> came shee, and to hir</L>
+<L>Sayd shee was <HI>Truth,</HI> and <HI>Truth</HI> did but deceaue hir&punc;</L>
+<L>And shee with <HI>Enuy</HI> kept so foule a stir,</L>
+<L>That <HI>England</HI> fear'd I would of life bereaue hir:</L>
+<L>For still they tolde hir, I nere meant to leaue hir,</L>
+<L>Till I had made hir stat<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> most miserable,</L>
+<L>Which only <HI>Truth</HI> makes truly admirable.</L>
+</LG>
+<LG>
+<L>All this did <HI>England</HI> vnto me declare,</L>
+<L>And sayd these twayne hir sutly did beguile,</L>
+<L>(For <HI>Superstition</HI> durst with me compare,</L>
+<L>And <HI>E<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">uy</HI> robd me of my rightfull stile,</L>
+<L>To grace therewith hir mate that wretch so vile.)</L>
+<L>Fayre <HI>Truth</HI> (saith shee) know surely this for truth,</L>
+<L>Had not these been, nere should haue been thy ruth.</L>
+</LG>
+<LG>
+<L>Their subtilty simplicity abused,</L>
+<L>And by their craft they did me ouer reach:</L>
+<L>Or else thou nere shouldst haue been so misused:</L>
+<L>But now these hellish caitifes I will <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">each,</L>
+<L>What t'is t'wixt thee and mee to make a breach.</L>
+<L>For now I know them, and here captiues haue them,</L>
+<L>Appoint their doomes, not all the World shall saue them.</L>
+</LG>
+<LG>
+<L>The which when I did to hir selfe referre,</L>
+<L>And tolde hir <HI>Truth</HI> doth not delight in blood:</L>
+<L>Shee sayd that <HI>Enuy</HI> shee would quick interre,</L>
+<L>And that same other wretch foe to my good,</L>
+<L>Should steruing pine, and dy for want of food,</L>
+<L>Thus <HI>Truth</HI> (saith shee) I will reuenge thy wrong,</L>
+<L>And for my fault make full amends ere long.</L>
+</LG>
+<LG>
+<PB REF="16">
+<L>This said, shee pluckt from <HI>Superstitions</HI> backe,</L>
+<L>My glorious ornaments, and gorgeous weeds:</L>
+<L>For mine they were, and to supply her lacke,</L>
+<L>Shee stole them from me: and such lewd misdeeds</L>
+<L>It is by which, hir progeny still speeds.</L>
+<L>Thus stript, a foule deformed hagge shee seemd,</L>
+<L>I wondred how shee could be <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">o esteemd.</L>
+</LG>
+<LG>
+<L>Then straight shee led them both vnto their doome,</L>
+<L>And thus shee vsde <HI>Truths</HI> greatest enemies:</L>
+<L>Though <HI>Superstitions Sonne</HI> still liue at <HI>Rome,</HI></L>
+<L>Yet (for my many grieuous iniuries,</L>
+<L>And for shee wrought me such indignities)</L>
+<L>Her selfe was staru'd, and <HI>Enuy</HI> felt such paine,</L>
+<L>As shee deseru'd; though still hir brood remaine.</L>
+</LG>
+<LG>
+<L>Thus <HI>England</HI> dealt for me, and more then so;</L>
+<L>Her loue yet further did it selfe extend:</L>
+<L>Shee did not onely thus reuenge my woe,</L>
+<L>But also gainst my foes my right defend:</L>
+<L>Listen good <HI>Fame,</HI> and with attention lend</L>
+<L>Thine eare vnto my tale, whilst I declare,</L>
+<L>Her loue to me, her kindnes, and her care.</L>
+</LG>
+<LG>
+<L>Proud <HI>Superstitions Sonne,</HI> soone as he knew,</L>
+<L>His mothers death was onely for my sake:</L>
+<L>He gathered an host a mighty crew,</L>
+<L>With which he ment gainst <HI>England</HI> warre to make,</L>
+<L>And forcibly me from her hands to take.</L>
+<L>So great and puissant his forces were,</L>
+<L>He thought her hart would be o'rewhelmd with feare.</L>
+</LG>
+<LG>
+<PB REF="17">
+<L>For with him ioyned was his cursed sister,</L>
+<L>That odious and notorious whore of <HI>Babet:</HI></L>
+<L>Her mothers death shee knew, and likewise mist her</L>
+<L>Aswell as he. And with her such a <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">able</L>
+<L>Of paramours she had, as seemed able</L>
+<L>The greatest state on earth to ru<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">nate,</L>
+<L>And bring to greatest pompe a tragicke fate.</L>
+</LG>
+<LG>
+<L>Thus mand began to manage forth his warre,</L>
+<L>And proudly sent to <HI>England</HI> this defiance,</L>
+<L>That shee should looke for enemies from farre,</L>
+<L>If still with <HI>Truth</HI> shee kept so great allyance:</L>
+<L>Such warre in auntient times did wage those giants,</L>
+<L>That gainst the heauenly powers as <HI>Poets</HI> wright,</L>
+<L>Opposd themselues and their presuming might.</L>
+</LG>
+<LG>
+<L>Yet (if shee would deliuer to his hand,</L>
+<L><HI>Truth</HI> that he might on her reuengement take,)</L>
+<L>He sent her word he would not hurt her land:</L>
+<L>But if shee did this profer made forsake,</L>
+<L>Then should his wrath it selfe vp-rouse and wake,</L>
+<L>To which he thought shee could make no resistance,</L>
+<L>Though <HI>God</HI> from heauen should giue her his assistance.</L>
+</LG>
+<LG>
+<L>These menaces not feared her a whit,</L>
+<L>Shee weighd them not but bid him doe his worst,</L>
+<L>In spight of him <HI>Truth</HI> should in safety sir;</L>
+<L>(She sayd) nor should a monster so acucrst,</L>
+<L>Make her to satiate his bloody thurst.</L>
+<L><HI>Truth</HI> loue I well (saith shee) and well I know,</L>
+<L><HI>Truths</HI> champions <HI>God</HI> will sheild from ouerthrow.</L>
+</LG>
+<LG>
+<PB REF="17">
+<L>This answer made <HI>Truth<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"></HI> enemies inraged,</L>
+<L>And foming poyson swore that <HI>Truth</HI> should dye,</L>
+<L>Or <HI>England<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"></HI> li<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">e should be for hers ingaged:</L>
+<L>Not knowing <HI>Truth</HI> <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ust liue immorally,</L>
+<L>And liue to see the cu<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">sed progeny</L>
+<L>Of <HI>Superstition,</HI> consumed quite,</L>
+<L>Though now against me they are bold to fight.</L>
+</LG>
+<LG>
+<L>Towards <HI>England</HI> straight they hye in furious hast,</L>
+<L>Intending to destroy <GAP DESC="illegible" RESP="tech" EXTENT="1 word">,</L>
+<L>To leaue her land all desolate and wast,</L>
+<L>And bring her selfe into captiuitye&punc;</L>
+<L>And thus resolu'd, i<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> swarmes they <GAP DESC="illegible" RESP="tech" EXTENT="1 span">&punc;</L>
+<L>The <HI>Diuill</HI> lent them <GAP DESC="illegible" RESP="tech" EXTENT="1 span">:</L>
+<L>But <HI>God</HI> from <GAP DESC="illegible" RESP="tech" EXTENT="1 span"></L>
+</LG>
+<LG>
+<L>When <HI>England</HI> heard my foes <GAP DESC="illegible" RESP="tech" EXTENT="1 span">,</L>
+<L>Together gathred she her <GAP DESC="illegible" RESP="tech" EXTENT="1 span"></L>
+<L>To fight for <HI>Truth</HI> whome <GAP DESC="illegible" RESP="tech" EXTENT="1 span"></L>
+<L>Meaning to shew no pitty, <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">o <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">emo<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">e,</L>
+<L>To them that sought <GAP DESC="illegible" RESP="tech" EXTENT="1 span"></L>
+<L>Away with me shee hasts my foes to <GAP DESC="illegible" RESP="tech" EXTENT="1 word">,</L>
+<L>In little kindnesse m<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">ning them to greet&punc;</L>
+</LG>
+<LG>
+<L>At last they met in a large spatious playne,</L>
+<L>Wholy vnlyke in shew: their troupes did pa<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">e&punc;</L>
+<L>For multitude, the drops in showers of <GAP DESC="illegible" RESP="tech" EXTENT="1 word">&punc;</L>
+<L>The other sorte was nothing so alas,</L>
+<L>Compar'd to them&punc; like some small <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">idge of grasse</L>
+<L>In field of come: or more for my intent,</L>
+<L>As seems least <HI>yle,</HI> to larg<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">st conti<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ent.</L>
+</LG>
+<LG>
+<PB REF="18">
+<L>As those small troupes with which the <HI><GAP DESC="illegible" RESP="tech" EXTENT="1 word"></HI></L>
+<L>Did braue and dare <HI>Darins</HI> in the field,</L>
+<L>Compar'd to those o're who<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">e he conquest wo<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">,</L>
+<L>(When proud <GAP DESC="illegible" RESP="tech" EXTENT="1 span"> <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">as to yield,</L>
+<L>Ma<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ger the force he had himselfe to shield)</L>
+<L>Such <HI>England</HI> had, compared in the power,</L>
+<L>That now prepared was her to <GAP DESC="illegible" RESP="tech" EXTENT="1 word">.</L>
+</LG>
+<LG>
+<L>Or as thos<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> little force<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">, once oppos<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">d</L>
+<L>Against great <HI>Xerxes</HI> nauy) which was though<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"></L>
+<L>Impossible by force to be <GAP DESC="illegible" RESP="tech" EXTENT="1 span"></L>
+<L>Or vnto any hazard to be brought)</L>
+<L>Such <HI>England</HI> had, compar'd with their<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> that sough<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"></L>
+<L>To bring her state to ruin for my sake;</L>
+<L>Because she would not <HI>Truth<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"></HI> defence <GAP DESC="illegible" RESP="tech" EXTENT="1 word">.</L>
+</LG>
+<LG>
+<L>Yet <HI>England</HI> <GAP DESC="illegible" RESP="tech" EXTENT="1 span">,</L>
+<L>Nor terrefide by their <GAP DESC="illegible" RESP="tech" EXTENT="1 span">:</L>
+<L>Couragiously her <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> she forw<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">d led,</L>
+<L>And did her selfe midst th<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ckest th<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ong intrude,</L>
+<L>That with their <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> her ha<GAP DESC="illegible" RESP="tech" EXTENT="2 letters"> <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> be imb<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">de.</L>
+<L>Straunge that a <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> should so valiant be,</L>
+<L>And such an anci<GAP DESC="illegible" RESP="tech" EXTENT="3 letters"> <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> as is <GAP DESC="illegible" RESP="tech" EXTENT="1 word">.</L>
+</LG>
+<LG>
+<L>Backt with such helpe as I to her could yield,</L>
+<L>At the first on <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">er, and first furious shocke,</L>
+<L>So fiercely she he<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> brandisht blade did wield;</L>
+<L>That they who first her little force did mocke,</L>
+<L>And thought, they might their harts securely rocke</L>
+<L>On sleep, were made from <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> to run, and stray,</L>
+<L>Her force, and feircene<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> did the<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> so dismay.</L>
+</LG>
+<LG>
+<PB REF="18">
+<L>But <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">o, a new supply did them renew&punc;</L>
+<L>For as they thus were da<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">ted and dismayd,</L>
+<L>An host of <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">eends we might approaching vew&punc;</L>
+<L>That tow'rds vs came with enlignes all displayd,</L>
+<L>Fearing their kingdome should be sore decayd,</L>
+<L>If <HI>England</HI> o're <HI>Truths</HI> enmyes should preuaile,</L>
+<L>They hastned thus, to make her courage quaile.</L>
+</LG>
+<LG>
+<L>But <HI>God</HI> (which alwaies doth <HI>Truths</HI> cause defend)</L>
+<L>Our prayers to him most benignely hard,</L>
+<L>And downe from heauen he gratiously did send,</L>
+<L>Legions of Angels, that they might me gard.</L>
+<L>And <HI>England</HI> from all daungers safely ward.</L>
+<L>So soone as <HI>England</HI> saw, <HI>God</HI> help'd her so&punc;</L>
+<L>She cared nor for <GAP DESC="illegible" RESP="tech" EXTENT="1 word">, no<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> any foe,</L>
+</LG>
+<LG>
+<L>Straight <HI>Superstitions Sonne</HI> she doth dismou<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">t,</L>
+<L>From of his palfrey where he proudly sa<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">e,</L>
+<L>Commaunding him to render an account</L>
+<L>Of his presumption; and to tell her what</L>
+<L>Made him so bolde whilst this I wondred a<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">&punc;</L>
+<L>His sister managing a monstrous beast,</L>
+<L>With murther and with bloud her hate did fea<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">t.</L>
+</LG>
+<LG>
+<L>Which (when I saw) to her in<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ag'd I hide,</L>
+<L>But presently she trembling turnd her backe&punc;</L>
+<L>In no wise she my presence would abide.</L>
+<L>I followed amayne her monsters tracke,</L>
+<L>Nor did I meane my swift pursuite to slacke.</L>
+<L>Still did she runne, to shunne my fierce incounter,</L>
+<L>For well she knew I did in force surmount her.</L>
+</LG>
+<LG>
+<PB REF="19">
+<L>As flees the sable <HI>Night</HI> from dayes approach,</L>
+<L>Fearing to looke <GAP DESC="illegible" RESP="tech" EXTENT="1 span"> in the f<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ce,</L>
+<L>(For when <GAP DESC="illegible" RESP="tech" EXTENT="1 span"> her siluer <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">oach,</L>
+<L><HI>Night</HI> trips apace, and leaues to her the place)</L>
+<L>So fled this str<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">pet from me in thi<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> <GAP DESC="illegible" RESP="tech" EXTENT="1 word">,</L>
+<L>Nor durst <GAP DESC="illegible" RESP="tech" EXTENT="1 span"> to look on mee,</L>
+<L>But posting <GAP DESC="illegible" RESP="tech" EXTENT="1 span"></L>
+</LG>
+<LG>
+<L>I follow'd her to <GAP DESC="illegible" RESP="tech" EXTENT="1 span">,</L>
+<L>Thinking to ouertake her, but in <GAP DESC="illegible" RESP="tech" EXTENT="1 word">&punc;</L>
+<L>Which place <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> it my <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> and hates)</L>
+<L>Did make mee presently <GAP DESC="illegible" RESP="tech" EXTENT="1 span"></L>
+<L>Or else this strump<GAP DESC="illegible" RESP="tech" EXTENT="2 letters"> had not <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> vn<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">l<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">y<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">e.</L>
+<L>Backe I retu<GAP DESC="illegible" RESP="tech" EXTENT="2 letters"> <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> <HI>England,</HI> whome I found</L>
+<L>Mongst slaughterd <GAP DESC="illegible" RESP="tech" EXTENT="1 span"></L>
+</LG>
+<LG>
+<L>For <HI>Superstitio<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">s</HI> <GAP DESC="illegible" RESP="tech" EXTENT="1 span">,</L>
+<L>Yet wounded so that presently he dyed,</L>
+<L>Or seemd to dye: <GAP DESC="illegible" RESP="tech" EXTENT="1 span"></L>
+<L>And closely got himselfe <GAP DESC="illegible" RESP="tech" EXTENT="1 span"></L>
+<L>Repenting that <GAP DESC="illegible" RESP="tech" EXTENT="1 span"></L>
+<L>Disrob'd, and naked, was he glad <GAP DESC="illegible" RESP="tech" EXTENT="1 span"></L>
+<L>That <GAP DESC="illegible" RESP="tech" EXTENT="1 span"></L>
+</LG>
+<LG>
+<L>His forces also all dispersed <GAP DESC="illegible" RESP="tech" EXTENT="1 word">,</L>
+<L>And cut in pieces, or else <GAP DESC="illegible" RESP="tech" EXTENT="1 span"></L>
+<L>Nothing but bloudy <GAP DESC="illegible" RESP="tech" EXTENT="1 span"></L>
+<L>And thus for <HI>Trueth</HI> <GAP DESC="illegible" RESP="tech" EXTENT="1 span"></L>
+<L>Ayded by <HI>God,</HI> <GAP DESC="illegible" RESP="tech" EXTENT="1 span"></L>
+<L>To <GAP DESC="illegible" RESP="tech" EXTENT="1 span"></L>
+<L>And say<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> <GAP DESC="illegible" RESP="tech" EXTENT="1 span">.</L>
+</LG>
+<LG>
+<PB REF="19">
+<L>This victory thus happily obtained,</L>
+<L>Triumphant backe with <HI>Englan<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"></HI> <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> I led,</L>
+<L>Hoping shee now had firmely me regained:</L>
+<L>A crowne imperiall plac'd she on my head,</L>
+<L>And promist I should not be <GAP DESC="illegible" RESP="tech" EXTENT="1 word">;</L>
+<L>Though with her bloud shee did reuenge my wrong,</L>
+<L>For well shee knew that <HI>God</HI> would make her strong.</L>
+</LG>
+<LG>
+<L>And now these forty yeares I haue remayned</L>
+<L>With her in honour, and in maiesty:</L>
+<L>And as when shee at first mee intertayned,</L>
+<L>(I meane first after my great misery)</L>
+<L>Shee welcomd me (thou knowest) most louingly;</L>
+<L>So still her loue continueth the same,</L>
+<L>And still <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> doth adore <HI>Truths</HI> sacred name.</L>
+</LG>
+<LG>
+<L>And is not this good <HI>Fame</HI> an excellence?</L>
+<L>Did euer any nation more for me?</L>
+<L>Or stand more stoutly to my rightes defence?</L>
+<L>And righteous quarrell? Surely if it be</L>
+<L>An excellence, to <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> <HI>Truth:</HI> then shee</L>
+<L><HI>Fames</HI> approbation deserueth well;</L>
+<L>For in this excellence <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> doth excell.</L>
+</LG>
+<LG>
+<L>Of Englands matchlesse Queene make next report,</L>
+<L>A matchlesse the ame, and <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> fitting Fame:</L>
+<L>A matter of high m<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ment, great import:</L>
+<L>Elizabeth no sooner <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> thou name,</L>
+<L>But Enuyes brood will hyde their heads for shame,</L>
+<L>Not daring once her worth to fault or blame,</L>
+<L>When worthily thou shalt declare the same.</L>
+</LG>
+<LG>
+<PB REF="20">
+<L>Now could I wish some sacred <HI>Muses</HI> skill,</L>
+<L>In sugred tunes her excellence to tell:</L>
+<L>Then should my tale with admiration fill</L>
+<L>Thine eares, to heare how much she doth excell:</L>
+<L>For Excellence it selfe in her doth dwell.</L>
+<L>What should I say? Ah I want words to say,</L>
+<L>What one she is, her graces to display.</L>
+</LG>
+<LG>
+<L><HI>Religion</HI> hath in her such interest,</L>
+<L>For her sake <HI>Truth</HI> intirely doth she loue,</L>
+<L>And such possession in her sacred brest</L>
+<L>Hath <HI>Pietie,</HI> that vnto God aboue,</L>
+<L>Her thoughts and her affections soaring moue:</L>
+<L>As if she did terrestriall things despise,</L>
+<L>And scornd the world and worldly things to prise.</L>
+</LG>
+<LG>
+<L>Strange in a Monarch of such maiesty:</L>
+<L>For humane nature is so fraile by kinde;</L>
+<L>That being once aduanced, by and by</L>
+<L><HI>God</HI> we forget, no<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> will retayne in minde</L>
+<L>Those benefits from him we still doe finde.</L>
+<L>But she of honour and of dignitie,</L>
+<L>Maketh a step therewith to mount on hie.</L>
+</LG>
+<LG>
+<L>As towres aloftie Eagle, still alo<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">&punc;</L>
+<L>And doth to take a lower flight d<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">daine,</L>
+<L>When as to pierce the cloudes she seemeth <GAP DESC="illegible" RESP="tech" EXTENT="1 word">,</L>
+<L>As if she sought some sacred seate to gaine,</L>
+<L>Amongst the Star<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">es in glory to remaine:</L>
+<L>Euen so <HI>Eliza</HI> striues aloft to mount,</L>
+<L>And of these baser things makes none account.</L>
+</LG>
+<LG>
+<PB REF="20">
+<L>True, prince-ennobling, faite celestiall grace:</L>
+<L>Infusde by God himselfe into the minde:</L>
+<L>Inforcing nature to resigne her place,</L>
+<L>That otherwise is of her selfe inclinde:</L>
+<L>Happy are they from God such fauour finde;</L>
+<L>Ah happie, yea thrice happie sure are those,</L>
+<L>Whose minds thus graciously God doth dispose.</L>
+</LG>
+<LG>
+<L>And happie <HI>England,</HI> to whome God hath graunted</L>
+<L>A Princesse so religiously deuoted:</L>
+<L>For else might <HI>Truth</HI> still haue remayned daunted,</L>
+<L>And <HI>England</HI> still on <HI>Superstition</HI> doted.</L>
+<L>And happely so soone had not been noted</L>
+<L>Her slie deceit, had not <HI>Eliza</HI> beene,</L>
+<L>Whom God made chiefest meanes to make it seene.</L>
+</LG>
+<LG>
+<L>But ah I faint, I finde my selfe too weake,</L>
+<L>To beare so great a burthen, or to treat</L>
+<L>Of such rare excellence: though <HI>Truth</HI> can speake</L>
+<L>Nothing but truth, her taske is ouer great,</L>
+<L>To tell <HI>Elizaes</HI> worth, or shew the seat,</L>
+<L>That euery speciall grace hath in her hart,</L>
+<L>In minde, in body, and in euery part.</L>
+</LG>
+<LG>
+<L><HI>Poets</HI> of <HI>Pallas</HI> oft reported much,</L>
+<L>And would <HI>Fame</HI> know what they did meane thereby?</L>
+<L>In auncient times ne're liued any such,</L>
+<L>But they of <HI>Englands</HI> Queene did prophecy.</L>
+<L>Compare their writings with her worth, to try</L>
+<L>The trueth hereof, then shalt thou plainely see,</L>
+<L>Neuer was any <HI>Pallas,</HI> if not shee.</L>
+</LG>
+<LG>
+<PB REF="21">
+<L><HI>Pallas</HI> from <HI>Ioue</HI> himselfe drew her <GAP DESC="illegible" RESP="tech" EXTENT="1 word">,</L>
+<L>And is not <HI>Englands</HI>-Queene <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> child?</L>
+<L>Else sure shee could not <GAP DESC="illegible" RESP="tech" EXTENT="1 span"></L>
+<L>So vertuous, religious, and mild,</L>
+<L>T' were hard if <HI>Truth</HI> should be herein beguild.</L>
+<L>Immortall <HI>Pallas</HI> they declar'd to be,</L>
+<L>This <HI>Queenes</HI> immortall falne <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> did <GAP DESC="illegible" RESP="tech" EXTENT="1 word">.</L>
+</LG>
+<LG>
+<L><HI>Pallas,</HI> those <GAP DESC="illegible" RESP="tech" EXTENT="1 span">,</L>
+<L>For depth of wisedome, and lot <GAP DESC="illegible" RESP="tech" EXTENT="1 span">,</L>
+<L>And doe not <GAP DESC="illegible" RESP="tech" EXTENT="1 span">,</L>
+<L>Wayting vpon her as her handmaydes still,</L>
+<L>To execute her pleasure and her <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ill&punc;</L>
+<L><HI>Eliza</HI> they could not haue <GAP DESC="illegible" RESP="tech" EXTENT="1 span">,</L>
+<L><HI>VVisedome</HI> and learning both support her <GAP DESC="illegible" RESP="tech" EXTENT="1 word">.</L>
+</LG>
+<LG>
+<L>Her Wisedome, is as farre beyond compare,</L>
+<L>With most of weaker <GAP DESC="illegible" RESP="tech" EXTENT="1 word">, or <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> kynd:</L>
+<L>As brightest <GAP DESC="illegible" RESP="tech" EXTENT="1 word">, that in the heauens are,</L>
+<L>Comparde with <GAP DESC="illegible" RESP="tech" EXTENT="1 span"> that euer shinde:</L>
+<L>Or smallest glo-wormes men by night doe finde.</L>
+<L>What talke I of her <GAP DESC="illegible" RESP="tech" EXTENT="1 word">? such Wisedome can,</L>
+<L>Be very hardly found in any man.</L>
+</LG>
+<LG>
+<L>Witnesse her gouerment this forty yeares,</L>
+<L>So wonderfull <GAP DESC="illegible" RESP="tech" EXTENT="1 word">, and ra<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ely wise.</L>
+<L>Wise is the <HI>Pylot</HI> that his <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> then steeres</L>
+<L>In safety, when as greatest stormes arise,</L>
+<L>And euery billow mounteth to the <HI>Skies,</HI></L>
+<L>And wise <HI>Eliza,</HI> that <GAP DESC="illegible" RESP="tech" EXTENT="1 span"> so guydes,</L>
+<L>In spite of sternest foes, <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">e <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> betydes.</L>
+</LG>
+<LG>
+<PB REF="21">
+<L>Millions of billowes menace the decay</L>
+<L>Of <HI>Englands</HI> common wealth; yet not preuayle,</L>
+<L>Nor can they make her giue them any way,</L>
+<L>Or any whit to beare the lesser sayle;</L>
+<L>They can not hurt her, for their force doth fayle:</L>
+<L><HI>God</HI> teacheth her, to rule the helme so well,</L>
+<L>Her barke doth breake them, when they proudest swell.</L>
+</LG>
+<LG>
+<L>And as for Learnings admirable graces,</L>
+<L>Let <HI>Learnings</HI> selfe her learning testifie:</L>
+<L>That pen which in this <HI>Subiect</HI> largely traces,</L>
+<L>At full herein her worth to amplifie,</L>
+<L>In many volumes need historifie.</L>
+<L>Her excellence in excellentest <HI>Artes,</HI></L>
+<L>Requires more skill, then <HI>Arte</HI> to me imparts.</L>
+</LG>
+<LG>
+<L>In sacred letters she so skilfull is,</L>
+<L>So expert, and so well experienced:</L>
+<L>Her match to find<GAP DESC="illegible" RESP="tech" EXTENT="2 letters"> is difficult (Iwis)</L>
+<L>(I meane a prince that is so deeply red,</L>
+<L>In holy writ) for nere was registred,</L>
+<L>By auntient <HI>Time</HI> in any monument,</L>
+<L>One prince in sacred skill more excellent.</L>
+</LG>
+<LG>
+<L>List her, but speake, or write what tongue she will,</L>
+<L>Of sacred languages, or other wise;</L>
+<L>Her talke, her stile, appeare so full of skill,</L>
+<L>As all the <HI>Muses</HI> did the same deuise.</L>
+<L>But how alas can lines such worth comprise?</L>
+<L>Her talke, her stile, are both celestiall,</L>
+<L>Her wisedome, and her skill angelicall,</L>
+</LG>
+<LG>
+<PB REF="22">
+<L><HI>Pallas</HI> moreouer they declar'd to be</L>
+<L>Victorious <GAP DESC="illegible" RESP="tech" EXTENT="1 span">:</L>
+<L>And may not one meere blind perceiue and see,</L>
+<L>They prophecide of <HI>Englands</HI> princely head?</L>
+<L>All whose deseignes so prosp'rously haue sped,</L>
+<L>She neuer went without the Victorie,</L>
+<L>Since she obtaind the English monarchie.</L>
+</LG>
+<LG>
+<L>Thus <HI>Fame</HI> (thou seest) that <HI>Englands</HI> gouerness<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"></L>
+<L>Is <HI>Pallas</HI> selfe, for Wisedome, learning, and</L>
+<L>For faire victorious fortunate successe,</L>
+<L>In euery action which she takes in hand.</L>
+<L>Oh happy common wealth, oh happy land.</L>
+<L><HI>Pallas</HI> she is, and <HI>Vertues Palla<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">e</HI> eke,</L>
+<L>What theme more glorious needeth <HI>Fa<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">e</HI> to seeke?</L>
+</LG>
+<LG>
+<L>Her <HI>Fortitude,</HI> her neuer dauntedmind,</L>
+<L>Contemning troubles of aduersity,</L>
+<L>(Which all that liue sometime of <GAP DESC="illegible" RESP="tech" EXTENT="1 span">)</L>
+<L>Her worthy princely <HI><GAP DESC="illegible" RESP="tech" EXTENT="1 word"></HI></L>
+<L>Her <HI>Temperance</HI> in calme prosperity&punc;</L>
+<L>Are such that no pen <GAP DESC="illegible" RESP="tech" EXTENT="1 word"></L>
+<L>Expresse the sam<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> or praise them <GAP DESC="illegible" RESP="tech" EXTENT="1 word">.</L>
+</LG>
+<LG>
+<L>And yet two <GAP DESC="illegible" RESP="tech" EXTENT="1 span"> by,</L>
+<L>More then by all these that haue yet been named.</L>
+<L>And as those two great <GAP DESC="illegible" RESP="tech" EXTENT="1 span">,</L>
+<L>Which for the worlds two <GAP DESC="illegible" RESP="tech" EXTENT="1 span"> first were named,</L>
+<L>Whose presence <GAP DESC="illegible" RESP="tech" EXTENT="1 span">;</L>
+<L>Euen so <HI>E<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">iza</HI> is adorned by</L>
+<L>Her <HI>Chastity,</HI> and <GAP DESC="illegible" RESP="tech" EXTENT="1 span">.</L>
+</LG>
+<LG>
+<PB REF="22">
+<L>Should I her <HI>Chastity</HI> striue to declare?</L>
+<L>So pure? so matchlesse so immaculate?</L>
+<L>So spotlesse? and so admirably rare?</L>
+<L>Nere should I satisfie, or satiate</L>
+<L>My thirsty pen herein; nor moderate</L>
+<L>My wandring <HI>Muse,</HI> that would too tedious be,</L>
+<L>And so perhaps too troublesome to thee.</L>
+</LG>
+<LG>
+<L>This gemme of price, this ornament of worth,</L>
+<L>This precious pearle, this <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ewell of esteeme,</L>
+<L>I leaue to thee at full to set it forth:</L>
+<L>That to the World <HI>Elizabeth</HI> may seeme,</L>
+<L><HI>Dianaes</HI> selfe; and all the World may deeme,</L>
+<L>The paragon of <HI>Chastity</HI> she is,</L>
+<L>Whome neuer any could excell in this.</L>
+</LG>
+<LG>
+<L>And yet her <HI>Equity</HI> it equalleth,</L>
+<L>And is as excellent and rare as that:</L>
+<L>Hon'ring asmuch diuine <HI>Elizabeth:</HI></L>
+<L>For this makes also her admired at,</L>
+<L>Asmuch as any prince that euer sat</L>
+<L>On Regall throne, and hard it is to name,</L>
+<L>One liuing now her equall in the same.</L>
+</LG>
+<LG>
+<L>Iustice and mercy she in ballance layeth,</L>
+<L>The<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">e equally to counterpoyse each other,</L>
+<L>And with them all her actions wisely wayeth,</L>
+<L>Not suffring one to ouerpoise another:</L>
+<L>So deales with dearest children tender mother.</L>
+<L>Her iustice great, her mercy is as great,</L>
+<L><HI>Iustice,</HI> and <HI>Mercye,</HI> both wait on her seat.</L>
+</LG>
+<LG>
+<PB REF="23">
+<L>There wait they, and when she determines ought,</L>
+<L>Both of them plead: and both their sentences</L>
+<L>She wisely makes together to be brought,</L>
+<L>And by them both deemes what most fitting is:</L>
+<L>Taking away from them all diffrences;</L>
+<L>And so in one she both of them combines,</L>
+<L>And both together in one band conioynes.</L>
+</LG>
+<LG>
+<L>When <HI>Iustice</HI> strikes then <HI>Mercie</HI> tells her how,</L>
+<L>And shewes her whome she with her sword should smite;</L>
+<L><HI>Eliza</HI> made to <HI>Equity</HI> a vow,</L>
+<L>By heauens, by earth, and by her scepters right,</L>
+<L>Iustice and mercy she would counite:</L>
+<L>Sacred and mild is that seuerity,</L>
+<L>When Iustice linked is with clemency.</L>
+</LG>
+<LG>
+<L>Canst thou this <HI>Excellence Fame</HI> too much prise?</L>
+<L>For <HI>England</HI> such a worthy prince to haue?</L>
+<L>So learned? and so admirably wise?</L>
+<L>So vertuous? religious? and graue?</L>
+<L>So chast? so iust? so mercifull to saue?</L>
+<L>Speake what thou canst, for this, <HI>Truth</HI> dares auer,</L>
+<L>Thou canst not speake too worthily of her&punc;</L>
+</LG>
+<LG>
+<L>And next adioyne her worthy <HI>Senatours:</HI></L>
+<L>Declare their Wisedome, and their grauity:</L>
+<L>I meane <HI>Elizabeth's</HI> wise <HI>Counsailours,</HI></L>
+<L>Supporting stayes to <HI>Englands</HI> pollicy,</L>
+<L>Vpholding it as <HI>Atlas</HI> doth the <HI>sky.</HI></L>
+<L>A speciall <HI>Excellence</HI> thou shouldst omit,</L>
+<L>If mention of their worth thou shouldst forget.</L>
+</LG>
+<LG>
+<PB REF="23">
+<L>For their graue wisedome, and wise grauity,</L>
+<L>Tell thou the world that they fage <HI>Catoes</HI> are:</L>
+<L><HI>Nestors</HI> in Counsell, when they prudently</L>
+<L>What best doth fit for <HI>Englands</HI> good declare.</L>
+<L>For loue vnto their Countrey, them compare</L>
+<L>To Parents in their childrens tender loue,</L>
+<L>Which neuer from them will the same remoue.</L>
+</LG>
+<LG>
+<L>And well thou maist to Parents loue compare</L>
+<L>Their tender loue vnto their nation:</L>
+<L>So fatherly it is, so great their care;</L>
+<L>It seemeth greater then th'affection,</L>
+<L>That Parents beare their best indeared Sonne,</L>
+<L>A happie blessed <HI>Aristocratie,</HI></L>
+<L>In such a farre-excelling <HI>Monarchie.</HI></L>
+</LG>
+<LG>
+<L>I tell thee <HI>Fame</HI> their worthie names will grace</L>
+<L>Thy tale, and thy discourse in euery eare:</L>
+<L>And therefore in thy swift continuall race,</L>
+<L>Forget thou not the same: but let all heare,</L>
+<L>And let it to succeeding times appeare,</L>
+<L>(As thou through euery land shalt swiftly passe)</L>
+<L>How farre herein faire <HI>England</HI> doth surpasse.</L>
+</LG>
+<LG>
+<L>Next speake of <HI>Englands</HI> dauntlesse <HI>Warriours,</HI></L>
+<L>(T'will grace thy trumpe to grace them with her sound)</L>
+<L>Braue <HI>Martialists,</HI> victorious <HI>Conquerours,</HI></L>
+<L>Worthy eternally to be renound,</L>
+<L>And with immo<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">tall glorie to be cround.</L>
+<L>Tell their deserts, and fame-deseruing laude,</L>
+<L>That all the world may to their worth applaud<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">.</L>
+</LG>
+<LG>
+<PB REF="24">
+<L>Vpon their plumed crests doth <HI>Honour</HI> fit</L>
+<L>In glorious weeds, as great <GAP DESC="illegible" RESP="tech" EXTENT="1 word">,</L>
+<L>Instructing them as pupils what is fit,</L>
+<L>Whilst they to her obedience professe:</L>
+<L>In all their actions she is gouernesse,</L>
+<L>Nor will they once from <HI>Honours</HI> precepts swer<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">e,</L>
+<L>Whome whilst they serue, all honour they deserue.</L>
+</LG>
+<LG>
+<L>On <HI>Honour</HI> still attendeth <HI>Victory,</HI></L>
+<L>To grace their deeds with prosperous euent:</L>
+<L>Directing them to wield couragiously,</L>
+<L>Their conqu'ring blades to foes astonishment,</L>
+<L>(Who thinke <HI>Reuenge</HI> her selfe mongst them is sent,</L>
+<L>Whilst <HI>Englands</HI> worthies fury they doe see,</L>
+<L>And feele their force from which they would be free.)</L>
+</LG>
+<LG>
+<L>Their looks, as lightning dwell foemens eyes,</L>
+<L>Their hands forge thunder to their warlike looke,</L>
+<L>Their swordes from hands send foes their destinyes,</L>
+<L>Writ by the <HI>Fates</HI> in neuer fayling booke:</L>
+<L>And <HI>Victory</HI> their swords ne're yet forsooke.</L>
+<L>Their lookes, their swords, make enemies to wonder,</L>
+<L>Their looks are swords, their sword<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> <GAP DESC="illegible" RESP="tech" EXTENT="1 word"> them in sunder.</L>
+</LG>
+<LG>
+<L>How many times <HI>Truths</HI> battailes haue they fought,</L>
+<L>To tame my haughty aduersaryes pride?</L>
+<L>How many times (their drifts to period brought)</L>
+<L>Haue I triumphant them returning spide,</L>
+<L>Charged with en'mies spoyles on euery side?</L>
+<L>Erect thou <HI>Fame</HI> due trophees to their prayse,</L>
+<L>That meriteth to match thy selfe in dayes.</L>
+</LG>
+<LG>
+<PB REF="24">
+<L>Great <HI>Rome</HI> in pride and prime of her estate,</L>
+<L>Whome many histories doe honour so,</L>
+<L>(Though now she is become degenerate)</L>
+<L>Was ne're so glorious for her <HI>Scipio,</HI></L>
+<L>For <HI>Caesar Pompey</HI> and for others moe:</L>
+<L>As <HI>England</HI> is for her braue warriours,</L>
+<L>That are to these far<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">e farre superiours.</L>
+</LG>
+<LG>
+<L><HI>Fame</HI>-hon'red <HI>Anniaball,</HI> that could commaund</L>
+<L>Coy <HI>Fortune,</HI> and could haue her at his becke.</L>
+<L>(When as it seemed shee vpon him faund,</L>
+<L>And humbled at his feet her scornfull necke,</L>
+<L>As if she feared him to counterchecke)</L>
+<L>Made ne're so glorious <HI>Carthage</HI> lofty walls,</L>
+<L>As <HI>England</HI> is for many <HI>Anniballs.</HI></L>
+</LG>
+<LG>
+<L>Leaue then to talke of famous <HI>Scipio,</HI></L>
+<L>Report no more the worthy facts at all</L>
+<L>Of <HI>Caesar, Pompey,</HI> that excelled so,</L>
+<L>And once grac'd auntient <HI>Rome</HI> before her fall:</L>
+<L>Talke nor of <HI>Carthaginian Anniball.</HI></L>
+<L>At least (<HI>Fame</HI>) if thou needs their worth wilt praise,</L>
+<L>See that aboue them, thou these worthies rayse.</L>
+</LG>
+<LG>
+<L>As when the radiant <HI>Sun</HI> shines in the <HI>sky,</HI></L>
+<L>The lesser starres giue place that grac'd the night:</L>
+<L>Euen so (<HI>Fame</HI>) when as thou shalt worthily</L>
+<L>Declare their worths, that <HI>Englands</HI> battails fight,</L>
+<L>Their splendour will obscure the others light.</L>
+<L><HI>Eos</HI> may shine a time, but when the <HI>Sunne</HI></L>
+<L>Guilds the <HI>Hor<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">son,</HI> then his light is donne.</L>
+</LG>
+<LG>
+<PB REF="25">
+<L>Sawst thou their valour shew it selfe but once,</L>
+<L>Against the enemies of <HI>Englands</HI> good,</L>
+<L>How many of them they destroy at once,</L>
+<L>And how they bathe their brandisht blades in blood,</L>
+<L>Wading in gore, as in some watry flood:</L>
+<L>Then wouldst thou say, and boldly wouldst auerre,</L>
+<L>Iustly before all, <HI>Truth</HI> doth them preferre.</L>
+</LG>
+<LG>
+<L>Mounted vpon <HI>Bell<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">naes</HI> chariot,</L>
+<L>(<HI>Honor</HI> their guide, their handmayd <HI>Victory,</HI></L>
+<L>Like to fierce Lions all inrag'd, and hot</L>
+<L>With anger, they amongst their foes doe flie,</L>
+<L>Dispersing all their force immediately:</L>
+<L>As oft the <HI>Sun</HI> dissolues some sullen cloude,</L>
+<L>That dares presume his beautie to inshroude.</L>
+</LG>
+<LG>
+<L>Their feete, they still vpon the necks aduaunce</L>
+<L>Of <HI>Englands</HI> proudest foes, and tread them downe,</L>
+<L>Inforcing them their glory to inhaunce,</L>
+<L>And knowledge dutie to <HI>Elizaes</HI> Crowne:</L>
+<L>Thus <HI>Englands</HI> Worthies spread her great renowne,</L>
+<L>Now tell me <HI>Fame,</HI> if in this excellence</L>
+<L><HI>England</HI> hath not the sole preheminence.</L>
+</LG>
+<LG>
+<L>A greater <HI>Excellence</HI> doth still remaine;</L>
+<L><HI>Englands</HI> faire daughters, (yet vnmentioned)</L>
+<L>Whose beautie no deformitie doth staine:</L>
+<L>Once <HI>Learning</HI> with her nursing milke them fed,</L>
+<L>But now by them is <HI>Learning</HI> nourished.</L>
+<L>Their excellence makes <HI>England excellent,</HI></L>
+<L>For that she hath so great an ornament.</L>
+</LG>
+<LG>
+<PB REF="25">
+<L>But of their worth, now to make worthy mention</L>
+<L>And euery other <HI>Excellence</HI> to tuch</L>
+<L>Of matchles <HI>England;</HI> is not my intention,</L>
+<L>Already I haue prou'd there is none such,</L>
+<L>Hereafter I (perhaps) will shew, how much</L>
+<L>For euery other thing she doth surmount,</L>
+<L>And all her <HI>Excellence</HI> I will recount.</L>
+</LG>
+<LG>
+<L>In meane time, <HI>Fame</HI> (now meane I to be short)</L>
+<L>Say bouldly, that no nation doth excell</L>
+<L>Great <HI>England:</HI> for thou bouldly mayst report,</L>
+<L>What faultlesse <HI>Truth</HI> desireth thee to tell:</L>
+<L>So doing <HI>Fame</HI> thou canst not doe but well.</L>
+<L>If <HI>Enuies</HI> brood affirme thy tale not true,</L>
+<L>Tell them <HI>Truth</HI> saith all this is <HI>Englands</HI> due.</L>
+</LG>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+<DIV1 TYPE="conclusion">
+<HEAD>The Conclusion.</HEAD>
+<LG>
+<L>VVHen <HI>Fame</HI> to <HI>Time</HI> had read this letter ouer,</L>
+<L><HI>Time</HI> was well pleasd, such pleasing newes to heare,</L>
+<L><HI>Fame</HI> tooke her leaue and backe againe did houer,</L>
+<L><HI>Time</HI> still flew on; and now gan to appeare</L>
+<L>Bright <HI>Phoebus</HI> rayes in this our hemispheare:</L>
+<L>With whome we all this while our course did take,</L>
+<L>And <HI>Fame</HI> now gone <HI>Time</HI> thus vnto me spake.</L>
+</LG>
+<LG>
+<PB REF="26">
+<L>Loe how the heauen (that late so much did droupe,</L>
+<L>For <HI><GAP DESC="illegible" RESP="tech" EXTENT="1 letter">itans</HI> forced absence) now doth cleare:</L>
+<L>How fast the gloomy cloudes away doe troupe;</L>
+<L>Behould how <HI>Tellus</HI> (on whose cheekes appeare</L>
+<L>Sad drops of late shed teares) her selfe doth cheare;</L>
+<L>And glad to see the <HI>Suns</HI> so fayre vprise,</L>
+<L>Smyleth, and seems to wipe her weeping eyes.</L>
+</LG>
+<LG>
+<L>As ioyfull as these seeme, so glad am I:</L>
+<L>Yea and more ioyfull farre beyond compare,</L>
+<L>Then for the <HI>Suns</HI> faire light, seeme <HI>Earth</HI> or <HI>Sky,</HI></L>
+<L>To heare that sacred <HI>Truth</HI> so well doth fare.</L>
+<L>This hath disburthened my hart of care,</L>
+<L>That lately much misdoubted her estate,</L>
+<L>Whome well I knew the World did causeles hate.</L>
+</LG>
+<LG>
+<L>Now well I see that all commaunding <HI>Ioue,</HI></L>
+<L>(That rules and ouer-rules in euery thing)</L>
+<L>Vnspotted <HI>Truth</HI> doth most intirely loue.</L>
+<L>How then can she be made an vnderling,</L>
+<L>That is the dearling to so great a king?</L>
+<L>Now sure I am she neuer shall decay,</L>
+<L>Though all the World conspire her to betray.</L>
+</LG>
+<LG>
+<L>Ah <HI>England,</HI> keep her still, and loue her still,</L>
+<L>And she will be a staffe vnto thine age.</L>
+<L>Preserue her still in honour, and she will</L>
+<L>Preserue thee safe against thine en'myes rage.</L>
+<L>What ere they be that warre gainst thee shall wage,</L>
+<L>Sh'will hemme thee in as with a brasen wall,</L>
+<L>To liue secure and none shall make thee thrall.</L>
+</LG>
+<LG>
+<PB REF="26">
+<L>No sorrowes blemish shall thy beauty staine,</L>
+<L>Nor <HI>Age</HI> character wrinckles on thy brow:</L>
+<L>So long as <HI>England</HI> shall <HI>Truths</HI> right maintayne,</L>
+<L>So long to none her princely neck shall bow;</L>
+<L>Safe shall she dwell, and this I dare auow,</L>
+<L>(<HI>Truth</HI> countenanced) <HI>Peace,</HI> or <HI>Victory,</HI></L>
+<L>Shall <HI>England</HI> euermore accompany.</L>
+</LG>
+<LG>
+<L>As <HI>Time</HI> thus spake, (I tir'd with watching long,</L>
+<L>And ouerweari'd with this wandering)</L>
+<L>Mine eyes complaynd that they had suffred wrong,</L>
+<L>Which had no rest in all this iourneying:</L>
+<L>Whilst thus mine eyes their rights were chalenging,</L>
+<L>I drousie waxing, fell at last on sleep;</L>
+<L>Yet aged <HI>Time</HI> his passage on did keep.</L>
+</LG>
+<LG>
+<L>What past whilst thus I slept I know not well:</L>
+<L>But when I wak'd, my selfe I strangely found</L>
+<L>Amidst that walke, where (as I first did tell)</L>
+<L>I heard the voice that <HI>Times</HI> approach did sound.</L>
+<L>Vp I arose, <HI>Times</HI> absence did me wound,</L>
+<L>At last I spide him flying yet in fight,</L>
+<L>And home I hide these accidents to wright.</L>
+</LG>
+<LG>
+<L>What censure passe hereon, I greatly care not:</L>
+<L>If thou my noble <HI>Patron</HI> pardon me,</L>
+<L>Let other readers carpe at me and spare not:</L>
+<L>Sith these vnpolisht lines must publisht be,</L>
+<L>For euery criticks eye my faults to see;</L>
+<L>Let them detract, and blame my skills defect,</L>
+<L>And scorne my <HI>Muse,</HI> so thou wilt me protect.</L>
+</LG>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

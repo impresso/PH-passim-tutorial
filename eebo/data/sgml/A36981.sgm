@@ -1,0 +1,645 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD EEBOPROOF 2.0//EN">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-09-22</DATE>
+<RESPSTMT>
+<NAME>Judith Siefring</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TYPEs to DIVs in order to validate. Proofed title page(s). Checked for N=""s. Checked for GROUP tags. Checked ^s. Reviewed structure. Checked division-marking material at heads and feet of divisions (HEADS, etc.). Checked for signatures. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected 1 $s and $$word$$s etc. of 1. Checked spacing of foreign GAPs. Checked for EPIGRAPHs and ARGUMENTs. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs, endqs, oes, q;s, and Qs. Checked proofsheets and made corrections found there. Checked for CLOSERs, TRAILERs, and BYLINEs. Checked for missing page GAPs. DONE.</ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="OX" ID="A36981">
+<STC T="W">D2730</STC>
+<BIBNO T="oclc">11791128</BIBNO>
+<VID>49202</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1">
+<PB REF="1">
+<P><HI>GLORIANA.</HI> A FUNERAL Pindarique Poem: Sacred to the BLESSED MEMORY Of that Ever-admir'd and most Excellent PRINCESS, Our late Gracious Soveraign LADY Queen MARY.</P>
+<P>Written by <HI>T. D' URFEY.</HI></P>
+<Q><L>TU Decus Omne tuis postquam te fata tulerunt,</L><L> Ipsa <HI>Pales</HI> agros, atque Ipse reliquit</L> <BIBL>Apollo. Virg. Ecc. V.</BIBL></Q>
+<P><HI>LONDON,</HI> Printed for <HI>Samuel Briscoe,</HI> in <HI>Russel-street,</HI> in <HI>Covent-Garden.</HI> 1695. <HI>Price One Shilling.</HI></P>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="2">
+<PB REF="2">
+<HEAD>TO HIS Illustrious Highness, WILLIAM Duke of <HI>Gloucester,</HI> &amp;c.</HEAD>
+<P>This <HI>Funeral Pindarique POEM,</HI> Sacred to the Blessed MEMORY of that Ever&punc; admir'd and most Excellent PRINCESS, Our late Soveraign LADY QUEEN MARY, Is, with all Duty, most Humbly Dedicated,</P>
+<CLOSER><SIGNED>BY Your Highness's most Obedient And Devoted Servant, T. D'URFEY.</SIGNED></CLOSER>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="poem">
+<PB REF="3">
+<PB N="1" REF="3">
+<HEAD>A FUNERAL Pindarique Poem.</HEAD>
+<LG>
+<HEAD>The INTRODUCTION.</HEAD>
+<L>I That so often in soft Lyrick Strains,</L>
+<L>Was us'd to please the mirthful Nymphs and Swains;</L>
+<L>My Lute and Harp upon the Willows hung,</L>
+<L>Like the sad <HI>Iews,</HI> now tune my mournful Song.</L>
+<L>Forc'd from Delight, and Musick's sprightly Joys,</L>
+<L>In Grief's hoarse Voyce to chaunt sad Obsequies:</L>
+<L>Oh! therefore Thou, who nobly canst inspire</L>
+<L>A frozen <HI>Genius</HI> with Poetick Fire;</L>
+<L>Who <HI>Pegasus</HI> a lofty Flight canst Wing,</L>
+<L>And teach thy Bard of mighty Deaths to sing;</L>
+<L>With thy best Influence my Brain refine,</L>
+<L>And let my Thought be like the Theme Divine;</L>
+<L>Heart-wounding Sorrow let my Verse infuse,</L>
+<L>And in this Work assist me, <HI>Sacred Muse.</HI></L>
+</LG>
+<LG N="1">
+<PB N="2" REF="4">
+<HEAD>I.</HEAD>
+<L>NOW from the Ruins of destroying Time,</L>
+<L>And mouldring Flaws of craz'd Antiquity,</L>
+<L>Had that fam'd <NOTE N="*" PLACE="marg"><HI>Hampton-Court</HI> first built by Car|dinal <HI>Wolsey.</HI></NOTE> Palace, which to fix his Praise,</L>
+<L>That Potent Prelate built in our VIII. <HI>Henry</HI>'s days,</L>
+<L>Begun anew to be sublime,</L>
+<L>And raise from falling State her glittring Turrets high:</L>
+<L>Now had each thoughtful Head, and skilful Hand</L>
+<L>Of the best Architects throughout the Land,</L>
+<L>Obey'd their Soveraign Lady's dread Command,</L>
+<L>With busie Industry to join</L>
+<L>United Art, and make the Building fine.</L>
+<L>And <HI>Adam</HI>'s truest Sons their Work had done;</L>
+<L>So far excelling all in other Gardens shewn,</L>
+<L>As if he there Himself had us'd his Primitive Spade,</L>
+<L>And from his Maker had just learn'd the Trade.</L>
+<L>Grotto's, to pass the Summer's scorching Hours;</L>
+<L>Cool Walks, Ascents, Labyrinths of choicest Flowers;</L>
+<L>With curious Fountains, ravishing the Eye,</L>
+<L>With artificial Springs in sweet variety.</L>
+<L>Nor was Art's chiefest Labour seen</L>
+<L>Less, in the Rooms within,</L>
+<L>Since <HI>England</HI>'s best of Beauties grac'd th'Apartment of the <HI>Queen,</HI></L>
+<L>By <HI>Kneller</HI>'s famous Pencil, made t'enfold</L>
+<L>Their Charms, as great <HI>Vandike,</HI> or as <HI>Apelles</HI> did of old:</L>
+<L><PB N="3" REF="4">And She herself in Splendor there</L>
+<L>Divinely bright would oft appear,</L>
+<L>The Influencer of the Spring, and Goddess of the Year.</L>
+<L>When the unusual Rayes that shone</L>
+<L>From the blest Window Rivalling the Sun,</L>
+<L>Caus'd Reverend <HI>Thames</HI> from his Green Oozy Bed,</L>
+<L>To lift his dropping Head,</L>
+<L>And make his Stream with a slow pace glide on,</L>
+<L>Unwilling from that glorious sight to run;</L>
+<L>Whilst wanton Billows dash'd the Wall's strong Side,</L>
+<L>Proud to embrace each Marble there with a full swelling Tide:</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>This Glorious Fabrick whose Renown</L>
+<L>Had oft from each adjacent Town</L>
+<L>Drawn Crowds, whose itching Curiosity</L>
+<L>Prest daily on to see</L>
+<L>Some new Additions made,</L>
+<L>The Master-piece of every Trade;</L>
+<L>Each Room contriv'd, each Office fashion'd right</L>
+<L>For Use as well as Pleasure and Delight.</L>
+<L>Products of nicest Wit, and more of <HI>Royal Huswifry.</HI></L>
+<L>One fatal Day damn'd in the Book of Fate,</L>
+<L>A Day henceforth horrid as that to come</L>
+<L>When Sinners shall receive their dreadful doom,</L>
+<L>And Nature crawls from its sad gloomy home,</L>
+<L><PB N="4" REF="5">Body'd anew, and form'd in second Birth,</L>
+<L>From Ashes that a Thousand Years had lain confus'd in Earth.</L>
+<L>The Sacred Writ of Resurrection to fulfil,</L>
+<L>And God's Almighty Will</L>
+<L>This Day had lent its fatal Light to more</L>
+<L>Then usually came there to gaze before.</L>
+<L>The <HI>London</HI> Silks, mixt with the Country Friez,</L>
+<L>Dull clouted Peasants throng'd like swarms of Bees;</L>
+<L>All Sects, Distinctions, and Degrees,</L>
+<L>Chattering their various Opinions loud;</L>
+<L>With these too came a grumbling Crowd</L>
+<L>Of envious Spies, the Sons of Shame,</L>
+<L>Whose vile inveterate and inbred Hate,</L>
+<L>Curst even each Wall, and every Gate,</L>
+<L>Adorn'd with <HI>Caesar</HI>'s and bright <HI>Gloriana</HI>'s Name:</L>
+<L>Their Faces all by Nature stigmatiz'd,</L>
+<L>All ominous; each Look some future Ill advis'd:</L>
+<L>So once when Glory sounded to Alarms,</L>
+<L>And call'd hot-blooded Warriours to their Arms;</L>
+<L>When Two great Hosts of equal Power</L>
+<L>Were ready to engage, and Ruine to devour,</L>
+<L>Flocks of portentous Crows did hovering wait</L>
+<L>Upon the Butchery of Fate,</L>
+<L>With Croaks proclaim'd th' expected Hour of Jubile,</L>
+<L>To gorge upon the Feast of Death which quickly was to be.</L>
+</LG>
+<LG N="3">
+<PB N="5" REF="5">
+<HEAD>III.</HEAD>
+<L>For lo, whilst on this happy Place,</L>
+<L>With sullen Aspect, and Hearts void of Grace,</L>
+<L>They cast around their envious Eyes,</L>
+<L>Like Mizers on another's Golden Joyes;</L>
+<L>Or <HI>Satan,</HI> when he first saw Paradise,</L>
+<L>A Trumpet loud was heard to sound,</L>
+<L>Which echoing from the vaulted Ground,</L>
+<L>Made known to each Spectator there,</L>
+<L>The Royal Mistress of the Pile was near:</L>
+<L>Scarce could they look but th' glittering Coach was seen,</L>
+<L>Dazling all Eyes with its rich weight the <HI>Queen.</HI></L>
+<L>Who came to view the pleasurable Seat,</L>
+<L>Where she design'd in Summer her retreat;</L>
+<L>And now the Buds that Frosty Winter aw'd,</L>
+<L>Blest by her Beams, began to peep abroad;</L>
+<L>The Earth felt genial heat, and every Flower</L>
+<L>Sprung forth, to prove Her influencing Power:</L>
+<L>Each Statue seem'd to bow its humble Head,</L>
+<L>And as some new <HI>Pigmalion</HI> had made</L>
+<L>More Images, and did some God invoke</L>
+<L>To give 'em Breath, and every one had spoke:</L>
+<L>Such face of lively utterance had they,</L>
+<L>Whilst every speaking Gesture seem'd to say,</L>
+<L><PB N="6" REF="6"><HI>Enter bright Goddess here, and bless your Throne,</HI></L>
+<L><HI>Fix'd now for Ages, enter to your own.</HI></L>
+<L>She did, and now there was no need to be</L>
+<L>As in old Times, a Houshold Deity:</L>
+<L>Defence more strongly was prepar'd,</L>
+<L>She was the Mansion's Sacred Guard:</L>
+<L>Her Eyes were <HI>Lares</HI> and <HI>Penates</HI> too,</L>
+<L>That upon all around auspicious Blessings threw.</L>
+<L>Then straight the bustling Train about her throng,</L>
+<L>Watching each Nod or Accent of her Tongue.</L>
+<L>The happy Creatures by her influence bred,</L>
+<L>That daily on her Bounty fed,</L>
+<L>With an officious Dilligence strove</L>
+<L>T' express their Duty and their Love,</L>
+<L>By entertaining her with talk</L>
+<L>Of this or t'other Walk;</L>
+<L>How Artful the Contrivance was, how Good:</L>
+<L>Or from some Window where She stood,</L>
+<L>Of such sweet Flowers, rarely seen,</L>
+<L>This pleasant Tree, that pretty Green;</L>
+<L>Whilst She, full of Humility's best Grace,</L>
+<L>An easie Goodness shining in her Face,</L>
+<L>Answers returns, so soft and free,</L>
+<L>So far from Pride, or thought of Dignity,</L>
+<L>As if all Speakers there were of the same Degree.</L>
+<L>Each Word She spoke, like Magick charm'd,</L>
+<L>And every Hearer's Bosom warm'd;</L>
+<L>The glad Attendants list'ning'all stood by;</L>
+<L><PB N="7" REF="6">All bless'd jointly with silent Joy,</L>
+<L>All basking in Her Gracious Beams, amongst the rest was I.</L>
+</LG>
+<LG N="4">
+<HEAD>IV.</HEAD>
+<L>An humble Off-spring of <HI>Apollo</HI>'s Race,</L>
+<L>I, fortunate, had in Her Eyes found Grace;</L>
+<L>And to each sacred <HI>Muse</HI>'s Ear</L>
+<L>The joyful News could bear,</L>
+<L>That SHE</L>
+<L>Not only was Goddess of Vertue, Clemency,</L>
+<L>Of Beauty; but, what's more, <HI>a Patroness of Poetry.</HI></L>
+<L>My Lyrick <HI>Genius</HI> Honour'd with Her Praise,</L>
+<L>My Tow'ring Thoughts so high did raise,</L>
+<L>How poor to me seem'd Publick Fame! How wither'd look'd the Bays!</L>
+<L>Dramatick Fancy too could cause,</L>
+<L>From Her Angelick Courtesie, Applause,</L>
+<L>When on the Stage at <HI>Sancho</HI>'s Comick Toil,</L>
+<L>She graciously would condescend to smile:</L>
+<L>And whilst Her Mirth did th' Crowding Court engage,</L>
+<L>I, in my turn, laugh'd too, at the poor Snarler's of the Age.</L>
+<L>Nor was Her Praise, like others, only Sound;</L>
+<L>But with a full Hand back'd, and Royal Bounty crown'd,</L>
+<L>Far more than my Ambition could desire,</L>
+<L>Or my few Services require.</L>
+<L>Hold here, my Muse; pull back thy Reins;</L>
+<L>Let <HI>Pegasus</HI> no longer here take pains,</L>
+<L><PB N="8" REF="7">Her numerous Vertues, or my Loss t'express;</L>
+<L>Let those be storied in another place,</L>
+<L>Whilst downward falling from this Mount of Joy,</L>
+<L>Where thou hast long been Revelling so high,</L>
+<L>And with exalted Fancy strove t'express</L>
+<L>Great <HI>Gloriana's,</HI> and in Hers, thy Happiness.</L>
+<L>In Words of deepest Horrour now relate</L>
+<L>The End of that sad Day, and all the Accidents of Fate.</L>
+</LG>
+<LG N="5">
+<HEAD>V.</HEAD>
+<L>The Sun now posting to his wat'ry Bed,</L>
+<L>The Evening was with gloomy Clouds o'er-spread,</L>
+<L>The <HI>Queen,</HI> that saw his Race was almost run,</L>
+<L>In hast prepar'd too to be gone:</L>
+<L>The Charioteer obeys, the Horses proudly Neigh.</L>
+<L>And now, as if they knew</L>
+<L>The Glorious Weight they drew,</L>
+<L>With an unusual Swiftness cut the yielding Way:</L>
+<L>I homewards too retir'd;</L>
+<L>But found my self, alas! not now inspir'd</L>
+<L>With any <HI>Genius</HI> for Poetry,</L>
+<L>Such as they on these Occasions us'd to be.</L>
+<L>But ominous Melancholy press'd</L>
+<L>My Spirits, and with strange Infection fill'd my Breast.</L>
+<L>The Faculties and Orders of my Soul,</L>
+<L>Thoughts sad as Death did now controul:</L>
+<L><PB N="9" REF="7">I hastned to my Bed, but could not rest,</L>
+<L>Till with long Watching tir'd, a troubled Slumber eas'd</L>
+<L>My weary'd Sense, or rather fatal Numbness seiz'd</L>
+<L>My vital Parts all o'er, whilst to my Eye</L>
+<L>In visionary Scenes was shewn this Prodigy.</L>
+</LG>
+<LG N="6">
+<HEAD>VI.</HEAD>
+<L>A Royal Banquet in a spacious Place,</L>
+<L>Hung round with Arras, figuring the Race</L>
+<L>Of Gods, of Hero's, and of Kings,</L>
+<L>And wondrous Stories of most wondrous Things,</L>
+<L>Methought I saw prepar'd; at which, in State,</L>
+<L>The Gracious <HI>Gloriana</HI> sate;</L>
+<L>Around her all the Nobles of the Land,</L>
+<L>Those that bore Office and Command,</L>
+<L>Place, or Dependance from the Crown,</L>
+<L>With others also that had none.</L>
+<L>In order were grave Heads that Miters wore,</L>
+<L>Grandees that held White Rods, Judges in Robes with Furr;</L>
+<L>And round the Hall on large Degrees rais'd high,</L>
+<L>Another August Company,</L>
+<L>The great Supporters of the Diadem,</L>
+<L>And of the Nations Glory and Esteem.</L>
+<L>The <HI>English</HI> Commons sate,</L>
+<L>Like the Disposers of Resolving Fate,</L>
+<L><PB N="10" REF="8">Who from the prying Crowd did Reverence draw,</L>
+<L>By Looks with signs of Knowledge grac'd, and Legislative Awe.</L>
+<L>Next these were mix'd a Number more</L>
+<L>Promiscuously, that Office bore;</L>
+<L>And each in's happy Station did reveal</L>
+<L>The secret Joy his Heart did feel,</L>
+<L>Down from the Pages that attend, up to the Potent Seal.</L>
+<L>And now the tuneful Fancy's chief Delight,</L>
+<L>Musick, made brisk the Pleasure of the Night:</L>
+<L>Rare Comick Artists enter straight the Place,</L>
+<L>Creatures of <HI>Harlequin's</HI> diverting Race,</L>
+<L>And skill'd in Gesture, Humour, and Grimace,</L>
+<L>And to the Pleasure of the Feast.</L>
+<L>Next these, to entertain the Royal Guest,</L>
+<L>A Troop of Youths, all like <HI>Adonis</HI> dress'd,</L>
+<L>When <HI>Venus</HI> first her warm Desire express'd,</L>
+<L>A Bevy of sweet Virgins led to Dance,</L>
+<L>Young, innocent, and fair,</L>
+<L>As Nature's primitive Off-spring were.</L>
+<L>An artful Measure newly taught from <HI>France,</HI></L>
+<L>The Flutes and Hautboys proving still,</L>
+<L>Their charming Notes and choicest Skill;</L>
+<L>Action and Musick striving there to be</L>
+<L>Best in their kind; yet to divert, agree.</L>
+<L>And now sweet Air the Prize obtains, now mirthful mimick Buf|foonry.</L>
+</LG>
+<LG N="7">
+<PB N="11" REF="8">
+<HEAD>VII.</HEAD>
+<L>But whilst this Scene of General Joy</L>
+<L>In ev'ry Face appear'd,</L>
+<L>All bless'd with <HI>Gloriana's</HI> gracious Eye,</L>
+<L>Who, pleas'd with what she saw and heard,</L>
+<L>With freedom gave her Satisfaction Vent,</L>
+<L>And full of easie Goodness, shew'd her Pleasure and Content;</L>
+<L>From the swoln Bosom of a gloomy Cloud,</L>
+<L>A Thunder-Clap was heard so loud,</L>
+<L>With such a frightful Sound,</L>
+<L>As when the Mighty SAVIOUR dy'd,</L>
+<L>The Sacred Temple did divide;</L>
+<L>And Divine Vengeance rent the trembling Ground;</L>
+<L>Amazing Horrour straight surpriz'd each Face,</L>
+<L>Nor now could that Majestick Grace</L>
+<L>That late in <HI>Gloriana</HI> shon, appear;</L>
+<L>For even She grew chang'd with Fear;</L>
+<L>Her charming Face with deadly Pale o'er-cast,</L>
+<L>Look'd like a beautious Flower struck with a withering Blast:</L>
+<L>Then streight, methought, the Room was seen to cleave,</L>
+<L>Rafters torn out, the tottering Building leave:</L>
+<L>Whilst Eastward from the Sky,</L>
+<L>A radiant Form descending, charm'd each Eye,</L>
+<L>With Glories of immense Divinity.</L>
+<L><PB N="12" REF="9">Four Cherubs that on th' Angel came to wait,</L>
+<L>Whose awful Looks a Power display'd, superiour to Fate,</L>
+<L>Went up where <HI>England's</HI> Guardian Regent sate,</L>
+<L>Her seiz'd; then with their precious Load withdrew,</L>
+<L>And thro' the wide expanding Air, to their Third Heaven flew:</L>
+<L>Whilst <HI>Uriel,</HI> for now might each one see</L>
+<L>By his bright glittering Form and lucid Front, 'twas He;</L>
+<L>One of the Glorious Seven that always stand</L>
+<L>In sight of God's high Throne, on his Right-hand,</L>
+<L>And to the Lower World still bears his dread Command;</L>
+<L>With Sacred Voice thus spoke, whilst every stander by,</L>
+<L>On the blest Orator fix'd an heedful Eye,</L>
+<L>All charm'd with the Embassador, and thirsting all to hear his Embassy.</L>
+</LG>
+<LG N="8">
+<HEAD>VIII.</HEAD>
+<L>Not yet, Oh sinful People, are your Crimes</L>
+<L>Blotted from the Eternal's Memory;</L>
+<L>The faults of past and present Times,</L>
+<L>In the Omnipotent's all-seeing Eye,</L>
+<L>Bear yet too fresh and deep a Dye,</L>
+<L>To let his Justice grant ye true Felicity.</L>
+<L>Instead of that your vile Offences are</L>
+<L>Writ in so large a Scrowl, he must prepare</L>
+<L>Severest Vengeance, greater far, and more</L>
+<L>Then e'er yet scourg'd your stubborn Land, or <HI>Egypt</HI> heretofore.</L>
+<L>The Plague of Frogs, of Locusts, and of Lice,</L>
+<L><PB N="13" REF="9">Or Crystal Currents turn'd to Blood;</L>
+<L>Where all the fetter'd Fish in vain devis'd,</L>
+<L>With Finny Wings to scape the goary Mud,</L>
+<L>Equals not half the Wrath to you is bent,</L>
+<L>Not half the Curse, not half the Punishment.</L>
+<L>Your <HI>Queen,</HI> your Earthly Goddess here below,</L>
+<L>To whose excelling Vertue you your Blessings owe;</L>
+<L>Whose Smile, like the bright Ruler of the Day,</L>
+<L>When he on Nature does his Beams display,</L>
+<L>Made all things flourish, all things grow.</L>
+<L>Your <HI>Gloriana</HI> whom you so adore,</L>
+<L>(Ah wretch'd beyond thought) shall bless your Eyes no more.</L>
+<L>Thus has the angry Maker doom'd, and His Decree</L>
+<L>Is thus pronounc'd by me;</L>
+<L>The dear-lov'd <HI>Genius</HI> of your Land shall die,</L>
+<L>And pass thro' Nature to Eternity;</L>
+<L>From Mortal Cares, Immortal Blessings prove,</L>
+<L>And leave a fading Glory here for lasting Joys above.</L>
+<L>But ah, even I must grieve to tell the rest,</L>
+<L>E'er her bright Soul is dispossess'd,</L>
+<L>Her Body must a dreadful Trial Taste,</L>
+<L>And cruel and remorsless Fate,</L>
+<L>Upon her Mortal part shew his extreamest Hate.</L>
+<L>This spoke, the glittering Angel disappear'd;</L>
+<L>And now methought was heard</L>
+<L>A confuss'd horrid Noise</L>
+<L>Of Shrieks, and Groans, and Cries;</L>
+<L><PB N="14" REF="10">The glorious Scene too chang'd, and in it's stead,</L>
+<L>Infernal Night her blackest Fogs had spread</L>
+<L>Over the baleful Place, dark as the Regions of the Dead.</L>
+</LG>
+<LG N="9">
+<HEAD>IX.</HEAD>
+<L>Till by some Flashes of Aetherial Fire,</L>
+<L>And fatal Fulgur glimmering Light was lent,</L>
+<L>Which shew'd a Cavern where the Fates retire,</L>
+<L>And where in dreadful Shades their horrid Hours are spent;</L>
+<L>Around the Place were ugly shapes of Death,</L>
+<L>Raw Skelletons; and all the Floor beneath</L>
+<L>With heaps of Skulls and Bones was scatter'd o'er</L>
+<L>Of Men that had been mighty heretofore,</L>
+<L>Mingl'd with Scrolls of Human Names, spotted and stain'd with Gore;</L>
+<L>Brought thither by a grisly Train,</L>
+<L>Which for that Work the Sisters entertain;</L>
+<L><HI>Diseases</HI> call'd, a foul mishapen Crew,</L>
+<L>That Thousands daily to Destruction drew;</L>
+<L>And first with numerous Scrolls came <HI>Feaver,</HI> witherd, lean,</L>
+<L>His heart and Entrails scorch'd within,</L>
+<L>With unseen Fire that long had flaming been.</L>
+<L>Next him remorsless <HI>Plague</HI> his Charge resign'd:</L>
+<L>Swoln <HI>Dropsie</HI> then with slow <HI>Consumption</HI> joyn'd,</L>
+<L>Their deadly Labels brought; more loyter'd too behind.</L>
+<L>Chattring with one that stood, as I look'd back,</L>
+<L>Attir'd in a Physicians Robe, but was, I found, a Quack:</L>
+<L><PB N="15" REF="10">In Physick or in Metaphysick Sence,</L>
+<L>And only fam'd for lucky Impudence,</L>
+<L>Proud, Drunken, Noisie, still unus'd to Cure,</L>
+<L>Here therefore known to be</L>
+<L>A nearer Favourite of the Fatal Three,</L>
+<L>For practising the Art of Killing, sure.</L>
+<L>But amongst all that on this Office came,</L>
+<L>Death's Friends and Agents, Gouty, Blind, and Lame,</L>
+<L>I saw, methought, one bring a Scroll,</L>
+<L>That with new Terror fill'd my Soul,</L>
+<L>A Scroll where in large Characters was <HI>Gloriana</HI>'s Name.</L>
+<L>Trembling at this, I nearer prest,</L>
+<L>And saw all full of Sores, his Head, Hands, Breast,</L>
+<L>More foul and loathsome he than all the rest;</L>
+<L>His odious Name <HI>Small-Pox,</HI> whom when pleas'd <HI>Clotho</HI> saw,</L>
+<L>She streight a slender Thread was seen to draw.</L>
+<L>Which envious <HI>Lachesis</HI> soon on the Distaff put;</L>
+<L>And <HI>Atropos</HI> as soon prepar'd with bloody Shears to cut:</L>
+<L>Then each with dismal yelling Voice,</L>
+<L>And hellish Grin seem'd to rejoyce,</L>
+<L>To know the World should lose such an inestimable Prize.</L>
+</LG>
+<LG N="10">
+<HEAD>X.</HEAD>
+<L>'Twas here the Vision left my fetter'd Sence,</L>
+<L>Here Fears anew 'gan to commence,</L>
+<L>And Grief straight follow'd close; for scarce my Eyes</L>
+<L>Had made their Opticks free from Sleep's surprize,</L>
+<L><PB N="16" REF="11">But to my Ears the Horror enter'd in</L>
+<L>Of dreadful News, the Sickness of the <HI>Queen;</HI></L>
+<L>And that a fatal Cold in her late Journey caught,</L>
+<L>A terrible Distemper brought:</L>
+<L>Too true 'twas found; for now each Hour, accurst,</L>
+<L>Flew with more fatal Tidings than the first;</L>
+<L>From bad to worse, till the Third dismal Day,</L>
+<L>We heard the Life of our <HI>Britannia</HI> lay,</L>
+<L>The Prize of Death, just languishing away:</L>
+<L>That darling Life more precious than the store</L>
+<L>Of <HI>India</HI>'s Gemms, or universal Oar.</L>
+<L>Oh Heaven! Maugre all our Tears,</L>
+<L>Our fervent Wishes, and our Prayers,</L>
+<L>The Skill which all the poring Sons of Art</L>
+<L>With nicest Judgment could impart,</L>
+<L>One ravenous Disease had power,</L>
+<L>In a few Moments to devour,</L>
+<L>And by Commission from Eternal Will,</L>
+<L>Mock'd the Divines, and the Physicians Skill.</L>
+<L>Thus when Omnipotence does Blessings give,</L>
+<L>He thus asserts His High Prerogative;</L>
+<L>When serv'd, bestows the Gifts we all partake;</L>
+<L>And when his Grace we lose, he calls 'em back:</L>
+<L>Wisely demonstrating Superiour Right,</L>
+<L>The Creature's Merit, the Creator's Might.</L>
+<L>But now, O Muse! how can thy Influence</L>
+<L>So far inspire my Sense!</L>
+<L><PB N="17" REF="11">How shall my ill-performing Pen and Hand,</L>
+<L>Describe the gushing Sorrows of the Land!</L>
+<L>Paint <HI>Europe</HI>'s general Woe, and of that Woe the Chief,</L>
+<L>Our <HI>CAESAR</HI>'s boundless and unequall'd Grief!</L>
+<L>See on the Ground the Godlike Hero laid,</L>
+<L>Struck with the Thunder of the Sound, <HI>SHE's Dead!</HI></L>
+<L>That Royal Heart unus'd to fear,</L>
+<L>When dreadful Danger was most near,</L>
+<L>Like <HI>Sampson,</HI> when he lost the Guardian Hair,</L>
+<L>One Word has almost weaken'd to despair.</L>
+<L>Now did his Eyes, whom Courage could inspire,</L>
+<L>To gaze on th' dreadful Cannons Burst of Fire;</L>
+<L>That Wars most horrid Face unfear'd could see,</L>
+<L>And Friends and Kinsmen stain'd in Gore with Manly Bravery,</L>
+<L>Melt into Showres of Tears, which in big Drops did fall,</L>
+<L>Springing for <HI>England</HI>'s Loss, as well as Passion Conjugal.</L>
+<L>Now the Majestick Purple that he wore,</L>
+<L>Each Hour encreas'd his Sorrow more;</L>
+<L>Which with the Train of Mourners that stood by,</L>
+<L>Each with a frightful Look and wat'ry Eye,</L>
+<L>Made the vast Deluge swell so universally,</L>
+<L>That all around Grief so immense appears,</L>
+<L>As if the World a modern way, were to be drown'd in Tears;</L>
+<L>Our hapless Land, a Woe particular,</L>
+<L>Beyond the rest of Nations did prefer;</L>
+<L>And whilst new Seas of Brine surround our chalky Shore,</L>
+<L><HI>Albion</HI> was ne'er so true an Isle before.</L>
+</LG>
+<LG N="11">
+<PB N="18" REF="12">
+<HEAD>XI.</HEAD>
+<L>Oh, <HI>Albion!</HI> in Thy Loss more curst by far,</L>
+<L>Than in all Ruines of thy Civil War!</L>
+<L>Thy flourishing Soil's a barren Desart now,</L>
+<L>Sad as thy Native's Weeds, and clowded as each Brow;</L>
+<L>Bend thy aspiring Head, let Ashes crown</L>
+<L>Thy haughty Front, and for past Crimes attone;</L>
+<L>That like offending <HI>Nineveh</HI> of old,</L>
+<L>Dire Desolation by this Blow foretold,</L>
+<L>May, by thy humble Sackcloth, be delay'd,</L>
+<L>And Heav'ns consuming Vengeance by Repentance stay'd.</L>
+<L>Ah! now my drooping Muse is at a stand,</L>
+<L>My Pen shakes in my trembling Hand,</L>
+<L>At my bold daring thus my Thoughts to raise,</L>
+<L>On <HI>Gloriana</HI>'s Theme, or Praise,</L>
+<L>Vertues that ne'er have equall'd been, nor will in future Days.</L>
+<L>That Royal Virgin that so long maintain'd</L>
+<L>The <HI>English</HI> Cross, and with such Judgment Reign'd;</L>
+<L>That Forty Years the Joys and Toyls of glorious Empire knew,</L>
+<L>Ne'er such Applause or Adoration drew,</L>
+<L>As Matchless <HI>Gloriana</HI> in Her few.</L>
+<L>That happy Princess Govern'd when</L>
+<L>Obedience was a Gift in Men;</L>
+<L>When mild Allegiance bow'd to Soveraign Awe,</L>
+<L>And Duty was contiguous with Law.</L>
+<L><PB N="19" REF="12">But <HI>Gloriana,</HI> when forc'd to put on</L>
+<L>The weighty Trouble of a Crown,</L>
+<L>For the Peoples Satisfaction, not her own,</L>
+<L>In a hot Ferment found the State</L>
+<L>Perplex'd with Factions, Jarring, and Debate;</L>
+<L>And with sad Heart submits to Heav'n's Decree,</L>
+<L>Tortur'd between Her Country's Cause, and filial Piety.</L>
+<L>Yet still encourag'd by celestial Aid,</L>
+<L>The Royal Shepherdess divinely sway'd,</L>
+<L>Held out Her Crook, and the rude Herd obey'd,</L>
+<L>And as the famous <HI>Thracian</HI> Poet once</L>
+<L>Drew to his Lyre Brutes, Birds, and Trees, and Stones;</L>
+<L>So th' Savage <HI>English</HI> by mild Arts she tam'd;</L>
+<L>Some curst the Cause, but none the Conduct blam'd;</L>
+<L>Her Foes her charming Grace so much had won,</L>
+<L>The worst but faintly envy'd Her the Throne.</L>
+</LG>
+<LG N="12">
+<HEAD>XII.</HEAD>
+<L>So <HI>Hester,</HI> who her Nation's Rights restor'd,</L>
+<L>For Piety and Wisdom was ador'd;</L>
+<L>And so will <HI>Gloriana</HI>'s Name eterniz'd be,</L>
+<L>Through future Years to all Posterity.</L>
+<L>Who now, sad <HI>Britain,</HI> can protect thy State</L>
+<L>Like Her, from publick Feuds, and private Hate,</L>
+<L>When <HI>Caesar (tho' predestin'd Conquerour)</HI> goes</L>
+<L>To meet our foreign Foes?</L>
+<L><PB N="20" REF="13">Who with a Look effectual as Law,</L>
+<L>(As she still did) the stubborn Crowd can awe.</L>
+<L>Yoke their rebellious Necks, and make 'em draw.</L>
+<L>Or who like Her could e'er support</L>
+<L>The Cares of State, the Management o'th' Court,</L>
+<L>For Her dear Lord abroad, the fear,</L>
+<L>And for her People's Safety here?</L>
+<L>Ah, none! She was the only Last and Best;</L>
+<L><HI>The Saint is gone, and Miracles are ceas'd.</HI></L>
+<L>And well might She the Name of Saint deserve,</L>
+<L>Who the Almighty did so truly serve:</L>
+<L>Her regular Devotion ev'ry Day,</L>
+<L>Might even teach Piety it self to Pray.</L>
+<L>None could be wicked in Her Service blest,</L>
+<L>Her Holy Flame divinely warm'd each Breast:</L>
+<L>Example thus, the Good began, and Shame perform'd the rest.</L>
+<L>Nor was Her Wife-like Vertue less admir'd,</L>
+<L>But every Breast where Honour was, inspir'd;</L>
+<L>So much, that even our sensual Nation,</L>
+<L>Began their Brutal Crimes to see,</L>
+<L>And honest Wedlock-Amity</L>
+<L>Began again to be in fashion.</L>
+<L>Thus all Her Hours did strict Goodness sway;</L>
+<L>Angelically thus She spent each Day,</L>
+<L>Thoughtless of Ill, unless 'twere to prevent;</L>
+<L>Her mirthful Minutes too, so innocent,</L>
+<L><PB N="21" REF="13">As if a Life divine She meant to try,</L>
+<L>Before She came to die,</L>
+<L>And th' Great Disposer of Her Soul were alway standing by.</L>
+</LG>
+<LG N="13">
+<HEAD>XIII.</HEAD>
+<L>For Pity too, and Heav'nly Charity,</L>
+<L>None ever so renown'd as She;</L>
+<L>So mildly th' Scales of Justice did Command,</L>
+<L>And held the Sword in such a guiltless Hand,</L>
+<L>That even the Malefactors of the Land,</L>
+<L>In Murders train'd, and Traitors made for Hire;</L>
+<L>Nay, tho' they durst against her precious Life conspire,</L>
+<L>And thereby Punishment more justly drew,</L>
+<L>Than th' rest of the incorrigible Crew,</L>
+<L>She ne'er was found the more severe,</L>
+<L>Nor ever Deaths Black Warrant sign'd, but wet it with a Tear.</L>
+<L>Then, were that great Apostle here to see</L>
+<L>(That preach'd Salvation, gain'd, by Works of Charity)</L>
+<L>Her wondrous Mercies in that kind,</L>
+<L>And the unweary'd Bounties of Her Mind,</L>
+<L>Far above all the rest,</L>
+<L>He'd soon pronounce Her blest,</L>
+<L>And fix for her a Heavenly Seat next the most High Degree.</L>
+<L>She needed but a small Translation there;</L>
+<L>The Angel was more than half perfect here.</L>
+<L><PB N="22" REF="14">Poor <HI>Hugonots,</HI> by the <HI>French</HI> Tyrant driven</L>
+<L>From their Abodes, for the dear sake of Heaven,</L>
+<L>Forlorn, and starving in the Fields,</L>
+<L>Her pitying Bosom sacred Manna yields.</L>
+<L>In Numbers from the giving Angel they receiv'd,</L>
+<L>And Numbers daily her blest Hand reliev'd.</L>
+<L>Nay, even the Obstinate that ne'er would own</L>
+<L>Allegiance, or Her Title to the Throne,</L>
+<L>In spight of stubborn Nature forc'd have been</L>
+<L>To grant, a Goodness so serene</L>
+<L>Their better <HI>Genius</HI> was, if not their <HI>Queen.</HI></L>
+<L>O sacred Vertue! there is still in Thee</L>
+<L>So sweet a Charm, such true Divinity,</L>
+<L>That when Thou wilt unfold Thy beauteous Face,</L>
+<L>And with Thy Beams frail Human Nature Grace:</L>
+<L>How pall'd to Thee the World's best Pleasures are!</L>
+<L>How sickly do they taste! How wretchedly appear!</L>
+<L>Thou (Divine Essence) always didst inspire</L>
+<L>Blest <HI>Gloriana</HI> with Thy hallow'd Fire;</L>
+<L>The Royal Saint was still a Type of Thee,</L>
+<L>As Thou art of Angelick Piety.</L>
+</LG>
+<LG N="14">
+<HEAD>XIV.</HEAD>
+<L><HI>Mighty in Power, yet mild still as a Dove;</HI></L>
+<L><HI>Not proud, yet Charming as the Queen of Love;</HI></L>
+<L><PB N="23" REF="14"><HI>Devout as</HI> Deb'rah <HI>at a Sacrifice;</HI></L>
+<L><HI>Chaste like</HI> Susanna, <HI>and like</HI> Sheba <HI>Wise;</HI></L>
+<L><HI>Like</HI> Michol <HI>kind and dutious to Her Lord;</HI></L>
+<L><HI>And like a Saviour lost, lamented and ador'd.</HI></L>
+<L>More Attributes, much more might be exprest,</L>
+<L>But Sorrow stops my Pen, and Sighs the rest;</L>
+<L>My Muse grows weary with this Glut of Woe,</L>
+<L>And now no more can do;</L>
+<L>Only, methinks, I see from high</L>
+<L>A radiant Cherub soaring through the Sky,</L>
+<L>Saying, Let Women be no more defam'd,</L>
+<L>Nor ever henceforth for past Frailty blam'd;</L>
+<L>Th'unbounded Vertues of this <HI>ONE,</HI></L>
+<L>Do amply for their Faults attone,</L>
+<L>With the Eternal Compensation make,</L>
+<L>And all the rest of Female kind are pardon'd for Her sake.</L>
+</LG>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

@@ -1,0 +1,775 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD EEBOPROOF 2.0//EN">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-08-20</DATE>
+<RESPSTMT>
+<NAME>Judith Siefring</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TYPEs to DIVs in order to validate. Proofed title page(s). Checked for N=""s. Checked for GROUP tags. Checked ^s. Reviewed structure. Checked division-marking material at heads and feet of divisions (HEADS, etc.). Checked for signatures. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected 9 $s and $$word$$s etc. of 31. Converted 22 $$s to GAP DESC="illegible" RESP="apex". Checked spacing of foreign GAPs. Checked for EPIGRAPHs and ARGUMENTs. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs, endqs, oes, q;s, and Qs. Checked proofsheets and made corrections found there. Checked for CLOSERs, TRAILERs, and BYLINEs. Checked for missing page GAPs. DONE.</ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="OX" ID="A18740">
+<STC T="S">5237</STC>
+<BIBNO T="umi">99847834</BIBNO>
+<VID>12896</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1" MS="y">
+<PB REF="1" MS="y">
+<P>A HANDEFVL OF GLADSOME VERSES, giuen to the Queenes Maiesty at Woodstocke this Prograce. 1592.</P>
+<P>By THOMAS CHVRCHYARDE.</P>
+<P>At Oxforde printed by IOSEPH BARNES, <HI>Printer to the Vniuersitie.</HI> 1592.</P>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="2">
+<PB REF="2">
+<HEAD>TO THE QVEENES MOST EXCELLENT <HI>MAIESTY.</HI></HEAD>
+<P>_MOST gratious and sacred Soueraigne, if hope of your princely fauour did not car+ry me beyond the compasse of my ordinary iudgement, I had long a goe surceased the common course of writing in verse to your Maiestie, But a sweete and comfortable conceite of your gracious goodnes towards me, euer and at all times commanded my muse, my pen, and vttermost power, to goe about no other earthly felicity then the ser|uing and pleasing of the onely Phoenix of this world, my betters farre haue beene ful of that fortunate humor, and thriuen well thereby, &amp; my selfe desires neuer to be discharged of that sweet seruitude, pleasa~t to the mind, pro|fitable to the body, and a safety for the soule. Now in this quenchles desire of mine that en+creaseth a continuall thirst to doe well, there riseth a restles cogitation, making me think, that verse, that booke, or that peece of ser|uice (as oft I haue put in practice) will be hap|pely accepted, But beholding (most redoub|ted Queene) a multitude of people as well de|sposed
+<PB REF="3">
+as my selfe, that are ru~ning &amp; preasing apace before me, some with rare inuentions &amp; some with deepe deuices to the honouring of your Maiestie. I feare they haue carried cleane away so much knowledge fro~me, that ther is left no deuice, nor matter to study on, such is the bounty of our time, &amp; forwardnes of their wittes which are learned, that all fine inuentions are smoothly reaped from my reach, &amp; cunningly raked away from my vse or commoditie. Then am I forced, to search what substa~ce or sle~der stuffe of poetrie lyes cowching in mine owne shallow head, and so hapning on a few voluntary rimes I haue as it were by good fortune, peeced or co~pounded vp a booke, which I cal a handful of gladsome verses, God graunt they be pleasing, but the best is they are deuised for a pastime, inue~ted for a merry conceyt, and presented of a harm les mind, to the sweete and sacred considera|tion of your Maiestie. Thus hoping they shal haue free passage to your princely presentes I pray humbly for the preservation of your most Royall person.</P>
+<CLOSER><SIGNED>Your Maiesties dutiful and loyall seruant, THOMAS CHVRCHYARD.</SIGNED></CLOSER>
+</DIV1>
+<DIV1 TYPE="to the reader">
+<PB REF="3">
+<HEAD>A few volu ntary verses to the general readers.</HEAD>
+<LG>
+<L>IF aged daies, had dryed vp my Muse</L>
+<L>As summer drouth, hath partcht both hearb and grasse</L>
+<L>Yet now compeld, my pen againe to vse</L>
+<L>That world shall see, my minde is as it was</L>
+<L>Looke for no gold, when I can giue but glasse</L>
+<L>My morning dew, sun beames hath taken hence</L>
+<L>And troubled springs, yeelds puddle water sence.</L>
+</LG>
+<LG>
+<L>Take edge away, the knife can cut no more</L>
+<L>Hard stony ground, can beare but little corne</L>
+<L>Old appels sone, are rotten at the kore</L>
+<L>Ne Figs nor Grapes, can come from pricking thorne</L>
+<L>The glasse soone goes, from silke that long is worne</L>
+<L>Hope for no fruit, when leaues forsakes the tree</L>
+<L>So falleth out, betweene my verse and me.</L>
+</LG>
+<LG>
+<L>When youth was fresh, and florisht as a flowre</L>
+<L>The wits were quicke, and ready to conceiue</L>
+<L>When age did frowne, and browes began to lowre</L>
+<L>My skill grue scant, the muses did me leaue</L>
+<L>Then tract of time, in head did cobwebs weaue</L>
+<L>So rusty grew, the reason of the braine</L>
+<L>And euer since, I lost my Poets vaine.</L>
+</LG>
+<LG>
+<L>What though ripe wit, be now but bare and blunt</L>
+<L>And fine deuice, of head is farre to seeke</L>
+<L>And age can not, doe that which youth was wont</L>
+<L>And pen scarce makes, a verse in halfe a weeke</L>
+<L>And all my workes, not worth a little leeke</L>
+<L>Yet what I doe, but bad or worthy praise</L>
+<L>I neuer robd, no writer in my daies.</L>
+</LG>
+<LG>
+<L>It is mine owne, I bring to Printers Presse</L>
+<L>I haue by happe, a Hatchet in my hand</L>
+<L>To hew the wood, (let it be more or lesse)</L>
+<L>In what strange forme, I list to let it stand</L>
+<L>though some be chips, let all bee iustly scand</L>
+<L><PB REF="4">Ne chips ne choice, nor nothing els I knew</L>
+<L>But was well ment, and may abide the vew.</L>
+</LG>
+<LG>
+<L>A Booke in Presse, that I my challenge name</L>
+<L>Shall tell you more, of workes that I haue done</L>
+<L>But blame me not, (since each man striues for fame)</L>
+<L>To holde on right, the course wherein I runne</L>
+<L>I ought to weare, the cloth my fingers spunne</L>
+<L>I will so Iowd, for bookes and verses crie</L>
+<L>That sure no bird, shall with my feathers flie.</L>
+</LG>
+<LG>
+<L>Some Peakocks then, will spread their tailes no more</L>
+<L>Small boast is best, let touchstone trie out golde</L>
+<L>I haue as yet, some tragedies in store</L>
+<L>That like Shores wife, in verses shalbe tolde</L>
+<L>Condemne no man, though he be waxen olde</L>
+<L>A rough barkt tree, whose bowes but crooked grow</L>
+<L>When season serues, some mellowd fruit may show.</L>
+</LG>
+<LG>
+<L>A great olde Oake, long time will akornes beare</L>
+<L>And small young graffes, are long in sprouting out</L>
+<L>Some saie old wine, is liked euerie where</L>
+<L>And all men knowes, new ale is full of grout</L>
+<L>Old horse goes well, young tits are much to doubt</L>
+<L>But sure old golde, is more esteemd then new</L>
+<L>No Hawke compares, with Hagard in the mew.</L>
+</LG>
+<LG>
+<L>Old men know much, though young men cal them fooles</L>
+<L>Old bookes are best, for there great learning is</L>
+<L>Old authours too, are daily read in Schooles</L>
+<L>New sectes are nought, olde knowledge can not misse</L>
+<L>Old guyes was good, and nothing like to this</L>
+<L>Where fraude and craft, and finenesse all would haue</L>
+<L>And playnest men, can neither pole nor shaue.</L>
+</LG>
+<LG>
+<L>Olde fathers built, faire Colledges good store,</L>
+<L>And gaue great goods, and landes to bring vp youth</L>
+<L>Young men thinke skorne, to make of little more</L>
+<L>And spends away, their thrift to tell the truth</L>
+<L><PB REF="4">Olde mindes were full, of mercie grace and ruth</L>
+<L>And pitty tooke, of those that seemd to lacke</L>
+<L>Young gallants gay, from poore doe turne their backe.</L>
+</LG>
+<LG>
+<L>Olde customes good, at length becam good lawes</L>
+<L>Olde lawes are likte, and honourd of the wise</L>
+<L>Good men obey, the euils olde order drawes</L>
+<L>Newe fond delights, olde fathers did despise</L>
+<L>In olde graue heads, great skill and wisedome lies</L>
+<L>Sounde councell comes, from age in time of neede</L>
+<L>Olde mens aduice, is that which doth the deede.</L>
+</LG>
+<LG>
+<L>Olde beaten waies, are readie still to hit</L>
+<L>These new by-paths, leades men on many stiles</L>
+<L>An olde prouerbe, hath no more wordes then wit</L>
+<L>Newe fangled heades, at each light fancie smiles</L>
+<L>Olde wisedome farre, surmounts young fondlings wiles</L>
+<L>Experience is, the doctor eury daie</L>
+<L>That carries close, all knowledge cleane away.</L>
+</LG>
+<LG>
+<L>Young houndes are fleete, the olde hunts slowe and true</L>
+<L>Olde dogges bite sore, if all his teeth be sound</L>
+<L>Olde auncient friends, are better then the newe</L>
+<L>In younglings loue, there is small suretie found</L>
+<L>For like a toppe, fine fancie turneth round</L>
+<L>Olde colth or silke, made in our elder daies</L>
+<L>Weares long and firme, when new things soone decaies.</L>
+</LG>
+<LG>
+<L>No further nowe, of age but to my taske</L>
+<L>I tooke in hand, to shewe my duety throw</L>
+<L>Yet licker sweete, comes none from emptie kaske</L>
+<L>With vargis sowre, is fild olde barrell now</L>
+<L>But reason must, inuent the meane and howe</L>
+<L>I doe discharge, my duety as I ought</L>
+<L>To make a booke, shall answere writers thought.</L>
+</LG>
+<LG>
+<L>Nowe must my Muse, goe borrowe if I may,</L>
+<L>My betters workes, to fill my matter full</L>
+<L><PB REF="5">Tush world growes hard, each man will say me nay</L>
+<L>Some cannot spare, a little locke of wooll</L>
+<L>So greedely, for pealfe they plucke and pull</L>
+<L>But namely some, so watch and pry for fame</L>
+<L>That they with wordes, will hinder mens good name.</L>
+</LG>
+<LG>
+<L>Spite is a sparke, of fire that flies in thaire</L>
+<L>And makes a cracke, like pouder in a dagge</L>
+<L>Spite hides foule thoughts, in lookes and speeches faire</L>
+<L>Whose wordes rests not, as long as tongue may wagge</L>
+<L>Spite of himselfe, will boldly boast and bragge</L>
+<L>To hurt by hate, the hart that harmeles is</L>
+<L>For spite like snake, in euery hedge can his.</L>
+</LG>
+<LG>
+<L>Who flings a stone, at euery dogge that barkes</L>
+<L>A wearie arme, is surelie like to haue</L>
+<L>Though enuy shootes, his bolts at many markes</L>
+<L>Pride wins not all, the glory he doth craue</L>
+<L>Some will not giue, the dead good words in graue</L>
+<L>Howe should the quicke, then get bad worlds goodwill</L>
+<L>When hollowe harts, but harbours hatred still.</L>
+</LG>
+<LG>
+<L>March on plaine booke, although thou passe the pikes</L>
+<L>Some marshall man, will saue a souldiers life</L>
+<L>Holde in thy head, from those that thee mislikes</L>
+<L>In skornefull daies, I knowe disdaine is riefe</L>
+<L>Thy gladsome verse, stirs vp more mirth then strife</L>
+<L>So Prince thou please, thine owne desire thou hast</L>
+<L>Come cleare from court, care not for enuies blast.</L>
+</LG>
+<LG>
+<L>Thus Readers all, I bid you heere farewell</L>
+<L>And to the Prince, a simple tale I tell.</L>
+</LG>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="text">
+<PB REF="5">
+<HEAD>A HANDEFVLL OF GLADSOME <HI>UERSES GIVEN TO THE QUEENS</HI> Maiesty at Woodstocke this prograce.</HEAD>
+<LG>
+<L>I Most presume of all</L>
+<L>(A boldnes more then needs)</L>
+<L>To come where flowers sweet sent lets fall</L>
+<L>And I bring nought but weeds.</L>
+</LG>
+<LG>
+<L>But though the fountaine springs</L>
+<L>From whence all learning flowes</L>
+<L>By study great, great science brings</L>
+<L>And therewith duety showes.</L>
+</LG>
+<LG>
+<L>The barraine ground of mine</L>
+<L>That seld sweet roses beares</L>
+<L>May yeeld some word or pleasant line</L>
+<L>Shall please your Princely eares.</L>
+</LG>
+<LG>
+<L>But as an Oaten pipe</L>
+<L>When shepheard plaies a round</L>
+<L>Can moue no matter of delite.</L>
+<L>By strangnes of the sound.</L>
+</LG>
+<LG>
+<L>So verse puft vp with quill</L>
+<L>And cunning sleight of braine</L>
+<L>(Where swift conceite conceiues at will</L>
+<L>Some grace of Poets vaine.)</L>
+</LG>
+<LG>
+<L>No pearsing passage findes</L>
+<L>To enter as it would</L>
+<L>In great estates, whose noble mindes</L>
+<L>Knowes quickly glasse from gould.</L>
+</LG>
+<LG>
+<L>A tale of plaine plowe man</L>
+<L>That roughly runneth on</L>
+<L>Finds frowns for fauor now and than</L>
+<L>When gracious lokes are gone.</L>
+</LG>
+<LG>
+<PB REF="6">
+<L>What meanes my Muses weake,</L>
+<L>In heate of humor newe:</L>
+<L>So neere graue heads to write or speake,</L>
+<L>Of things I seldome knewe.</L>
+</LG>
+<LG>
+<L>As one start out of sleepe,</L>
+<L>Tels dreames and visions rare,</L>
+<L>To those that talke of dreames no keepe,</L>
+<L>Nor doth for fancies care.</L>
+</LG>
+<LG>
+<L>Our english Idle rimes,</L>
+<L>To this is here compard:</L>
+<L>Whose rouing reasons often times,</L>
+<L>Reapes nought but small regard.</L>
+</LG>
+<LG>
+<L>For learned sages wies,</L>
+<L>That much haue seene and red:</L>
+<L>Who knowes the course of stars in skies,</L>
+<L>And what may well be sed.</L>
+</LG>
+<LG>
+<L>And all the liberall artes,</L>
+<L>Haue at their fingers ends:</L>
+<L>They for their giftes and speciall partes,</L>
+<L>Which God to scholers sendes.</L>
+</LG>
+<LG>
+<L>Are worthie hearing still,</L>
+<L>They bring the sugred cuppe:</L>
+<L>They are the nurses of good skill,</L>
+<L>That fosters children vppe.</L>
+</LG>
+<LG>
+<L>They with the muses talke</L>
+<L>As all things were their owne</L>
+<L>And like the Gods doe closely walke</L>
+<L>In secret clouds vnknown</L>
+</LG>
+<LG>
+<L>Uaine verses haue no power</L>
+<L>Great vertue to perswade</L>
+<L>They are but blossomes of a flowre</L>
+<L>(Whose beauty soone doth fade)</L>
+</LG>
+<LG>
+<PB REF="6">
+<L>That pleaseth men a while,</L>
+<L>with wordes of no great weight:</L>
+<L>A speech that may some eares beguie</L>
+<L>A fine and pretty sleight.</L>
+</LG>
+<LG>
+<L>A ripe inuention rare,</L>
+<L>That springs on deepe deuice:</L>
+<L>But verse is worne so weake and bare,</L>
+<L>It beares but little price.</L>
+</LG>
+<LG>
+<L>Because so many braines,</L>
+<L>Runnes verses out of breath:</L>
+<L>And posting wits with thankeles paines,</L>
+<L>Hath ridden rime to death.</L>
+</LG>
+<LG>
+<L>Though Poets in time past,</L>
+<L>As Virgill and the rest:</L>
+<L>Go<GAP DESC="illegible" EXTENT="1 letter">e crownes and many a famous blast,</L>
+<L>To make them hold vp crest.</L>
+</LG>
+<LG>
+<L>Yet most of them poore men,</L>
+<L>Like byrdes but newely pluckt:</L>
+<L>For Ovid that through gift of pen,</L>
+<L>Did seeme that drye he suckt.</L>
+</LG>
+<LG>
+<L>The springes of learned lore,</L>
+<L>He had hard hap withall:</L>
+<L>Homer had no great golde in store,</L>
+<L>Nor worldly wealth at call.</L>
+</LG>
+<LG>
+<L>And since, fewe Poets rose,</L>
+<L>To any worthy place:</L>
+<L>And some scarce got meate drink &amp; clothes</L>
+<L>So poore was Poets case.</L>
+</LG>
+<LG>
+<L>If Poets lucke be such,</L>
+<L>That daily they decline:</L>
+<L>And writers neuer can be rich,</L>
+<L>For all their flourish fine.</L>
+</LG>
+<LG>
+<PB REF="7">
+<L>Then seeke a better trade,</L>
+<L>And fling away thy quill:</L>
+<L>And take a mattoke and a spade,</L>
+<L>And digge downe Maulvorne hill.</L>
+</LG>
+<LG>
+<L>Twere better labour so,</L>
+<L>By sweat of browes to liue:</L>
+<L>Then like a threedbare Poet goe:</L>
+<L>That hath no bread to giue.</L>
+</LG>
+<LG>
+<L>Yet men may seeke to thriue,</L>
+<L>By verse or stately prose:</L>
+<L>Against ill chaunce, or streame to striue,</L>
+<L>Both strength and time we lose.</L>
+</LG>
+<LG>
+<L>Uerse well deuisde and framde,</L>
+<L>Wins friends and feareth foes</L>
+<L>So writer shape, vnharmd or blamd,</L>
+<L>For treading on mens toes.</L>
+</LG>
+<LG>
+<L>Where angry cornes doth growe,</L>
+<L>Yea verse breedes merry bloud:</L>
+<L>When each sad word to world doth showe</L>
+<L>A liuely sentence good.</L>
+</LG>
+<LG>
+<L>Uerse maketh many knowen,</L>
+<L>That els forgotten are:</L>
+<L>Who brings odde versis of their owne,</L>
+<L>And prints no borrowd ware.</L>
+</LG>
+<LG>
+<L>Who watcheth not their hours,</L>
+<L>To steale and picke away:</L>
+<L>From others gardens goodly flowres,</L>
+<L>To make their posies gay.</L>
+</LG>
+<LG>
+<L>Thus some doe borrowe much,</L>
+<L>And then on braues doe stand:</L>
+<L>A begger so may soone be rich,</L>
+<L>Ne borne to rent nor land.</L>
+</LG>
+<LG>
+<PB REF="7">
+<L>Great princes haue made verse,</L>
+<L>And favred poetrie well:</L>
+<L>Uerse hath a grace the clouds to pearce,</L>
+<L>And clime where Gods doe dwell.</L>
+</LG>
+<LG>
+<L>In verse great vertue is,</L>
+<L>If worke well passe the <GAP DESC="illegible" EXTENT="1 letter">ile:</L>
+<L>And verse gets grace, with that or this,</L>
+<L>To make the Prince to smile.</L>
+</LG>
+<LG>
+<L>Then many knacks we proue,</L>
+<L>Our credite well to keepe:</L>
+<L>And tell how Lords for Ladies loue,</L>
+<L>Will lie all day a sleepe.</L>
+</LG>
+<LG>
+<L>And faine when they awake,</L>
+<L>In verse or letters long:</L>
+<L>That they doe die for mistresse sake,</L>
+<L>And suffer too much wrong.</L>
+</LG>
+<LG>
+<L>A large discourse thereof,</L>
+<L>Twere good to tell in deede:</L>
+<L>But some would say I iest and scoffe,</L>
+<L>And speake more wordes then neede.</L>
+</LG>
+<LG>
+<L>Nay better talke of bogges,</L>
+<L>That walkes in dead mens shapes:</L>
+<L>Or tell of little pretty pogges,</L>
+<L>As Monkies Owles and Apes.</L>
+</LG>
+<LG>
+<L>A tale of two ours long,</L>
+<L>Blinde peoples eares to please</L>
+<L>Nay that were like a Syreins song,</L>
+<L>That shipmen heares on seas.</L>
+</LG>
+<LG>
+<L>Strange Farlees fathers tolde,</L>
+<L>Of feendes and hagges of hell:</L>
+<L>And how that Syrses when she would,</L>
+<L>Could skill of sorcerie well.</L>
+</LG>
+<LG>
+<PB REF="8">
+<L>And how old thin faste wiues</L>
+<L>That rosted crabs by night</L>
+<L>Did tell of monsters in their liues</L>
+<L>That now proue shadowes light.</L>
+</LG>
+<LG>
+<L>And told what Marlin spoke</L>
+<L>Of world and times to come</L>
+<L>But all that fire doth make no smoke</L>
+<L>For in mine eare doth home.</L>
+</LG>
+<LG>
+<L>Another kinde of Bee</L>
+<L>That sounds a tune most strange</L>
+<L>A trembling noise, of words to me</L>
+<L>That makes my countenance change.</L>
+</LG>
+<LG>
+<L>Of old Hobgoblings guise</L>
+<L>That walkt like ghost in sh<GAP DESC="illegible" EXTENT="1 letter">etes</L>
+<L>With maides that would not early rise</L>
+<L>For feare of Bugs and spreets</L>
+</LG>
+<LG>
+<L>Some say the fayres faire</L>
+<L>Did daunce on bednall greene,</L>
+<L>And fine familiars of the aire</L>
+<L>Did talke with men vnseene.</L>
+</LG>
+<LG>
+<L>And oft in moone shine nights</L>
+<L>When each thing draws to rest</L>
+<L>Was seene dum shoes and vggly sights</L>
+<L>That feared evry guest.</L>
+</LG>
+<LG>
+<L>Which lodged in the house</L>
+<L>And where good cheere was great</L>
+<L>Hodgepoke would come &amp; drink carows</L>
+<L>And mounch vp all the meat.</L>
+</LG>
+<LG>
+<L>But where foule sluts did dwell</L>
+<L>Who vsde to sit vp late</L>
+<L>And would not scowre their pewter well</L>
+<L>There came a mirrie mate.</L>
+</LG>
+<LG>
+<PB REF="8">
+<L>To kitchin or to haule,</L>
+<L>Or place where spreets resort:</L>
+<L>Then downe went dish &amp; platters all,</L>
+<L>To make the greater sport.</L>
+</LG>
+<LG>
+<L>A further sport fell out,</L>
+<L>When they to spoile did fall:</L>
+<L>Rude Robin good fellow the lowt,</L>
+<L>Would skime the milke bowls all.</L>
+</LG>
+<LG>
+<L>And search the cream pots too,</L>
+<L>For which poore milke maide weepes,</L>
+<L>God wot what such mad gests will doe:</L>
+<L>When people soundly sleepes.</L>
+</LG>
+<LG>
+<L>Then world full merry was,</L>
+<L>And gossips made good glee:</L>
+<L>And men for wealth did little passe,</L>
+<L>Good mindes were franke and free.</L>
+</LG>
+<LG>
+<L>And some found heapes of gold,</L>
+<L>Long hid in hollow ground:</L>
+<L>And tript with timbrels where they would</L>
+<L>Full many a frisking round.</L>
+</LG>
+<LG>
+<L>These are but fabuls faind,</L>
+<L>Because true stories old:</L>
+<L>In doubtfull daies are more disdaind.</L>
+<L>Then any tale is tolde.</L>
+</LG>
+<LG>
+<L>These toies cuts of the cares,</L>
+<L>That worldly causes brings:</L>
+<L>And drawes the heauy mind vnwares,</L>
+<L>To thinke on better things.</L>
+</LG>
+<LG>
+<L>As when a may game comes,</L>
+<L>Before a sort of states:</L>
+<L>With morrice daunsers flutes and drums</L>
+<L>That common weals debates.</L>
+</LG>
+<LG>
+<PB REF="9">
+<L>The motion of the mirth</L>
+<L>Though simple be the show</L>
+<L>May moue the saddest man on earth</L>
+<L>To gladsome thoughts I trow.</L>
+</LG>
+<LG>
+<L>But how farre of am I</L>
+<L>Now brought from wit and sence</L>
+<L>To tell a tale smels like a lie</L>
+<L>Before so great a Prince,</L>
+</LG>
+<LG>
+<L>O pardon my rash wit</L>
+<L>Sweete Queene and soueraigne deare</L>
+<L>For he that doth in heauen sit</L>
+<L>Knowes mine intent is cleare.</L>
+</LG>
+<LG>
+<L>From all offence in minde</L>
+<L>For when I tooke this taske</L>
+<L>Each toy and fancy head could finde</L>
+<L>(as man disguisde in maske.)</L>
+</LG>
+<LG>
+<L>To make you laugh or smile</L>
+<L>I tooke in hand to write</L>
+<L>But now with troth another while</L>
+<L>(And banish fables quite.)</L>
+</LG>
+<LG>
+<L>My pen shall armed be</L>
+<L>In this sweete cause and soile</L>
+<L>To sheeld my muse, my verse and me</L>
+<L>From blemish blot or foile.</L>
+</LG>
+<LG>
+<L>Now as by heaunly grace</L>
+<L>You past through many a sheere</L>
+<L>So Roial Prince this auncient place</L>
+<L>Path hap to haue you heere.</L>
+</LG>
+<LG>
+<L>Old Woodstocke house is glad</L>
+<L>It shall haue stone and lime</L>
+<L>That long with Iuy hath bin clad</L>
+<L>To shew the ruen of time.</L>
+</LG>
+<LG>
+<PB REF="9">
+<L>This seat nay sure this shrine,</L>
+<L>That thousands now doth praise:</L>
+<L>That did preserue, by power diuine,</L>
+<L>The Phoenix of our daies.</L>
+</LG>
+<LG>
+<L>And in a cruell age,</L>
+<L>When might did right great wrong:</L>
+<L>This house was made the Phoenix cage,</L>
+<L>And held her here so long.</L>
+</LG>
+<LG>
+<L>That no proude tyrants power,</L>
+<L>Had force to touch her then:</L>
+<L>True harted people eury houre,</L>
+<L>And prayers of good men.</L>
+</LG>
+<LG>
+<L>Kept Phoenix safe and sound,</L>
+<L>And brought her to the crowne:</L>
+<L>Who doth in vertues so abound,</L>
+<L>Shee raignes with great renowne.</L>
+</LG>
+<LG>
+<L>And further flies her fame,</L>
+<L>And spreads for gifts most rare:</L>
+<L>Then all the princes we can name,</L>
+<L>Let foes speake what they dare.</L>
+</LG>
+<LG>
+<L>Nowe humble subiects true,</L>
+<L>Whereof you haue great store:</L>
+<L>A triple crowne, presents to you,</L>
+<L>Of fame for euer more.</L>
+</LG>
+<LG>
+<L>And such as neuer sawe,</L>
+<L>Your Maiestie till nowe:</L>
+<L>Full neare the coatch do daily drawe,</L>
+<L>We see wherefore and howe.</L>
+</LG>
+<LG>
+<L>The people swarmes like Bees</L>
+<L>When Prince abroad doth ride:</L>
+<L>And some climes vp to tops of trees,</L>
+<L>As soone as shee is spied.</L>
+</LG>
+<LG>
+<PB REF="10">
+<L>Yea such as saw her first</L>
+<L>Doe after trudge a maine</L>
+<L>Who haue in hart, so great a thirst</L>
+<L>To see her once againe.</L>
+</LG>
+<LG>
+<L>That they stand gazing still</L>
+<L>A fresh on Phoenix face</L>
+<L>As though they neuer had there fill</L>
+<L>Of looking on her grace.</L>
+</LG>
+<LG>
+<L>Comes this of custome old</L>
+<L>That subiects ows a king</L>
+<L>No sure it rather doth vnfolde</L>
+<L>An inward secreet thing.</L>
+</LG>
+<LG>
+<L>Of kindely zeale they beare</L>
+<L>By nature not by art</L>
+<L>Ioynd fast with duty loue and feare</L>
+<L>That flowes from faithfull hart.</L>
+</LG>
+<LG>
+<L>A speciall warme goodwill</L>
+<L>For neuer King was seene</L>
+<L>More truely serude, more followd still</L>
+<L>More honord then our Queene.</L>
+</LG>
+<LG>
+<L>Some noble cause there is</L>
+<L>That workes such wonder now</L>
+<L>Then who hath sence to vew of this</L>
+<L>And can search causes throw.</L>
+</LG>
+<LG>
+<L>Discus this cause a right</L>
+<L>But if world credit me</L>
+<L>In liuely sort, and open sight</L>
+<L>I doe such graces see.</L>
+</LG>
+<LG>
+<L>In your most gratious raigne</L>
+<L>That daily shines so cleare</L>
+<L>As neuer none shall reach or staine</L>
+<L>Nor euer could come neare.</L>
+</LG>
+<LG>
+<PB REF="10">
+<L>This grace which God doth giue</L>
+<L>Whereon great graces groe</L>
+<L>Makes Prince loue peace and long to liue</L>
+<L>And long a prograsse goe.</L>
+</LG>
+<LG>
+<L>This grace great Ioue hath sent</L>
+<L>To garde your grace from harme</L>
+<L>That Practise foule, nor false intent</L>
+<L>Nor wordes nor deedes nor charme.</L>
+</LG>
+<LG>
+<L>Nor forraine force nor warres</L>
+<L>Nor proude attempts shall feare</L>
+<L>For God that guides sun moone and stars</L>
+<L>Shall saue you eury where.</L>
+</LG>
+<LG>
+<L>O sacred Soveraigne sweete,</L>
+<L>Our faire red rose and white</L>
+<L>We fall on knees at Cesars feete</L>
+<L>To see our worlds delite.</L>
+</LG>
+<LG>
+<L>And on her life depend</L>
+<L>That now the sworde doth swaie</L>
+<L>The Lord of hosts doth her defend</L>
+<L>In such a kinde of way.</L>
+</LG>
+<LG>
+<L>That nothing may impeach</L>
+<L>Her heaunly graces great</L>
+<L>For sure it passeth humane reach</L>
+<L>To touch her sacred seat.</L>
+</LG>
+<LG>
+<L>So raigne good Queene in rest</L>
+<L>Full free from all anoye,</L>
+<L>As one the Lord aboue hath blest,</L>
+<L>To be all Englandes ioye.</L>
+</LG>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+</BODY>
+<BACK>
+<DIV1 TYPE="poem">
+<PB REF="11">
+<HEAD><GAP DESC="illegible" EXTENT="1 letter">erse of variety to all those that honors the onely Phoenix <HI>of the worlde, which verses are but xx. lines and hath in them</HI> ten waies, finde out the same who <HI>pleaseth.</HI></HEAD>
+<LG>
+<L><GAP DESC="illegible" EXTENT="1 letter">Y PHOENIX <HI>feathers faire,</HI> as Phebus beames bespreades the skie</L>
+<L>Shades face from partching aire, in hoat extreames and wether dry</L>
+<L><GAP DESC="illegible" EXTENT="1 letter">t by the aire shee liues, dame kinde her selfe will haue it so</L>
+<L><GAP DESC="illegible" EXTENT="1 letter">nd life and breath shee giues, as farre as Phoenix force may go</L>
+<L><GAP DESC="illegible" EXTENT="1 word"> them shee lists aduance, the faurets of our happy time</L>
+<L><GAP DESC="illegible" EXTENT="1 word"> whom her eie doth glance, vnto the clowds shee makes them clime</L>
+<L><GAP DESC="illegible" EXTENT="2 letters">t where doth Phoenix frowne, as fortunes wheele were turned quite</L>
+<L><GAP DESC="illegible" EXTENT="1 letter">e flings proud Pecockes downe, some fauls in lash and worlds despite</L>
+<L><GAP DESC="illegible" EXTENT="1 word"> Eagle mounting skies, in roiall sort like stately King</L>
+<L><GAP DESC="illegible" EXTENT="1 letter">oth daunt each bird that flies, if hee but clap his feathred winge</L>
+<L><GAP DESC="illegible" EXTENT="1 letter">nd where hee lists to pray, on any foule that life doth beare</L>
+<L><GAP DESC="illegible" EXTENT="1 letter">o Hawke makes flight that day, nor dare come well in presens there)</L>
+<L><GAP DESC="illegible" EXTENT="1 word"> Phoenix in her guies, with princely pompe as you may see,</L>
+<L><GAP DESC="illegible" EXTENT="1 letter">oth dazell clearest eies, and dailye conquers each degree:</L>
+<L><GAP DESC="illegible" EXTENT="1 letter">nd strikes base people blinde, that makes their God of worldly drosse:</L>
+<L><GAP DESC="illegible" EXTENT="1 letter">ho beares no noble minde, and digges and delues for mucke and mosse:</L>
+<L><GAP DESC="illegible" EXTENT="1 letter">herefore you courtiers nowe, the prime and buds of youthfull blisse:</L>
+<L><GAP DESC="illegible" EXTENT="1 letter">onfesse your duetie throwe, if you can iudge what vertue is.</L>
+<L><GAP DESC="illegible" EXTENT="1 letter">ut one in these our daies, and shee a Queene nowe note it well:</L>
+<L><GAP DESC="illegible" EXTENT="1 letter">eserues immortall praise, that doth in worthy Brittaine dwell.</L>
+</LG>
+<PB REF="11">
+</DIV1>
+</BACK>
+</TEXT>
+</EEBO>
+</ETS>

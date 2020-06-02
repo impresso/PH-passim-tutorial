@@ -1,0 +1,4769 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD EEBOPROOF 2.0//EN">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-08-22</DATE>
+<RESPSTMT>
+<NAME>Rina Kor</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TYPEs to DIVs in order to validate. Proofed title page(s). Checked for TYPE="book". Checked ^s. Reviewed structure. Checked division-marking material at heads and feet of divisions (HEADS, etc.). Checked for signatures. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected ** $s of **. Converted __ $s to GAP DESC="illegible" RESP="pdcc". Checked spacing of foreign GAPs. Checked for EPIGRAPHs and ARGUMENTs. Checked for startqs, endqs, oes, q;s, and Qs. Checked proofsheets and made corrections found there. Checked for CLOSERs, TRAILERs, and BYLINEs. Sample: ** minutes. Proofing: ** minutes. Tag review and corrections: ** minutes. DONE.</ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="A55548">
+<STC T="W">P3058</STC>
+<BIBNO T="oclc">12013024</BIBNO>
+<VID>52466</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1">
+<PB REF="1">
+<P>A Very Good WIFE. A COMEDY, As it is Acted by Their MAJESTIES SERVANTS. At the Theatre-Royal.</P>
+<P>LONDON, Printed for <HI>Samuel Briscoe,</HI> over against <HI>Will</HI>'s Coffee-House, in <HI>Russel-Street,</HI> in <HI>Covent-Garden,</HI> 1693.</P>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="2">
+<PB REF="2">
+<HEAD>To the Honour'd <HI>ALEXANDER POPHAM,</HI> <ABBR>Esq</ABBR></HEAD>
+<OPENER><SALUTE>SIR,</SALUTE></OPENER>
+<P>WHEN I reflect upon the vast Endow|ments, that inrich the Souls of Poets, and the unlimited Power of Poetry it self; how (by a Noble Conversation with the Immor|tal Labours of Antiquity) they turn the Glass of Time, and make it often run the Golden Age ag&eacute;n; Poetry, whose almost Creating Pow'r, out-strips the slower Race of Nature, to the forming, if possible, of Worlds unknown, and animating even Beings yet Unborn. And if Oblivion, the sole Death of Merit, shoots her ill-aim'd Arrows at the Memory of Vir|tuous and Noble Actions in vain; 'tis only, when they are guarded by such a Quill, whilst Deathless Worth stands transmitted to latest Ages by such Re|cording Hands.</P>
+<P>When I consider this, I am obliged (so poor my weak pretensions) to renounce the Name of Poet, so far from being intituled to any legitimate Favours from
+<PB REF="3">
+any one of the Fair Inspirers, that I have rather com|mitted a barbarous Rape upon the whole Nine.</P>
+<P>And now, Sir, when my too daring Confidence enboldens me, to lay this homely piece at your Feet; whatever I may hope from your own pardoning Good|ness, how will the World forgive me such a presump|tion? However, as self-preservation, my only Ex|cuse, has induced me to the Affixing so Great a Name to so worthless a Trifle, for borrowing the Umbrage of so Generous a Protectour: Believe me, Sir, that enter'd under your Honourable Roof, I survey such infinite Merits shine before me. But here let my Unhallow'd Pen advance no farther; 'tis enough my Veneration strikes me silent. And indeed such High Desert, is as much above the want of a Panegyrick, as I am unworthy the writing it. Not, Sir, that such conspicuous Virtues are unknown, but that I am known too much. The greatest justice therefore I can do your Memory, is to let your Name be men|tion'd, and let this Presumption tell Posterity, that nothing could awe a Player into Modesty.</P>
+<P>But, Sir, to speak a word of this undeserving Off|spring that begs your Patronage. It is a common vanity amongst Dramatick Writers, to ascribe that Approbation which often is due alone to the Actors, to the Merit of their Pen, when one Man's Grimace
+<PB REF="3">
+shall sometimes betray an Audience into a general Applause; and thus no one can be sure he is inno|cent of Errors, till some Impartial Iudge has heard his Cause.</P>
+<P>As the unexpected success of this Play does not add much, so neither does it take from its worth; there|fore it is as yet unsentenc'd, and tho' perhaps its Er|rors may condemn it, 'tis possible, a free Confession may gain half its Pardon: If your Goodness can forgive my Presumption in this Dedication, the World will pardon the Errors of the Play, since I send it abroad, under the Protection of so Honourable a Pa|tron. To whose Eternal Service, I Dedicate both This and my Self.</P>
+<CLOSER><SALUTE>SIR,</SALUTE> <SIGNED>Your most Obedient, and most Humble Servant. <HI>George Powell.</HI></SIGNED></CLOSER>
+</DIV1>
+<DIV1 TYPE="prologue">
+<PB REF="4">
+<HEAD>PROLOGUE: By Mr. <HI>Congreve.</HI></HEAD>
+<BYLINE>Written for Mr. <HI>Hains,</HI> and spoken by him.</BYLINE>
+<L>HEre's a young Fellow here&mdash;an Actor&mdash;<HI>Powel</HI></L>
+<L>One whose <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">erson, perhaps, you all may know well,</L>
+<L>And he has writ a Play&mdash;this very Play</L>
+<L>Which you are all come here to see, to day;</L>
+<L>And so it being an usual thing, to speak</L>
+<L>Something or other, for the Author's sake,</L>
+<L>Before the Play (in hopes to make it take)</L>
+<L>I'm come, being his Friend and Fellow Play'r,</L>
+<L>To say what (if you please) you're like to hear.</L>
+<L>First know, that favour which I'd fain have shown,</L>
+<L>I ask not for, in his Name, but my own;</L>
+<L>For, without Vanity, I'm better known.</L>
+<L>Mean time then, let me beg you would forbear</L>
+<L>Your Cat-calls, 'and the Instruments of War;</L>
+<L>For Mercy, Mercy, at your Feet we fall,</L>
+<L>Before your roaring Gods destroy us all,</L>
+<L>I'll speak with words sweet as distilling Honey,</L>
+<L>With words,&mdash;as if I meant to borrow Money;</L>
+<L>Fair, gentle Sirs, most soft, alluring Beatis,</L>
+<L>Think 'tis a Lady, that for pity sues.</L>
+<L>Bright Ladies&mdash;but to gain the Ladies Grace,</L>
+<L>I think I need no more than shew my Face.</L>
+<L>Next then you Authors, be not you severe;</L>
+<L>Why, what a swarm of Scriblers have we here!</L>
+<L>One, Two, Three, Four, Five, Six, Seven, Eight, Nine, Ten,</L>
+<L>All in one row, and Brothers of the Pen.</L>
+<L>All, wou'd-be-Poets, well, your favour's due</L>
+<L>To this days Author; for he's one of you.</L>
+<L>Among the few, which are of noted Fame</L>
+<L>I'm safe; for I my self am one of them.</L>
+<L>You've seen me Smoak at <HI>Will</HI>'s, among the Wits;</L>
+<L>I'm witty too, as they are&mdash;that's by fits.</L>
+<L>Now, you our City Friends, who hither come</L>
+<L>By three a Clock, to make sure Elbow-room:</L>
+<L>While Spouse, tuckt up, does in her Pattens trudge it</L>
+<L>With Hankerchief of prog, like Prull with Budget,</L>
+<L>And here, by turns, you eat Plumb-Cake, and judge it.</L>
+<L>Pray be you kind, let me your Grace importune,</L>
+<L>Or else&mdash;Igad I'll tell you all your Fortune.</L>
+<L>Well now, I have but one thing more to say,</L>
+<L>And that's in reference to our third day;</L>
+<L>An odd request&mdash;may be you'll think it so;</L>
+<L>Pray come, whether you like the Play, or no:</L>
+<L>And if you'll stay, we shall be glad to see you,</L>
+<L>If not&mdash;leave your Half-Crowns, and peace be wi' you.</L>
+</DIV1>
+<DIV1 TYPE="epilogue">
+<PB REF="4">
+<HEAD>EPILOGUE.</HEAD>
+<BYLINE>Spoken by Mrs. <HI>Knight.</HI></BYLINE>
+<L>TRoth, Gentlemen, there's such an Itch in Scribling,</L>
+<L>That even our puny Whisler must be nibbling.</L>
+<L>What though he had seen what stronger Pens had writ,</L>
+<L>With all the Nerves of Sense, and Brawn of Wit,</L>
+<L>His Pigmey Muses narrower Dimensions,</L>
+<L>To that vast Bulk, have no such fair Pretensions.</L>
+<L>Well, then, for our small Poet, what Defence?</L>
+<L>Troth, none at all. He owns his Impudence:</L>
+<L>And if he thought 'twou'd do him any good,</L>
+<L>He vows he wou'd be Modest, if he cou'd:</L>
+<L>Swears he wou'd blush, with all the signs of Grace,</L>
+<L>Only a Blush wou'd spoil his Players Face,</L>
+<L>And that were a sad mortifying Case.</L>
+<L>But hang't, for once, good Sirs, let his Play hit,</L>
+<L>And, if 'tis possible, allow him Wit:</L>
+<L>Not that he has it, only you must know</L>
+<L>That Wit goes a great way to make a Beau.</L>
+<L>Nor can you guess how pressing an Occasion</L>
+<L>He has for such a spruce Qualification.</L>
+<L>For could he once write Beau, Oh the fine things,</L>
+<L>Laces, and Linnen, Points, and Cravat strings,</L>
+<L>Would all come trouling in, a Lumping Bargain,</L>
+<L>From the Fair Votaries of <HI>Covent Garden.</HI></L>
+</DIV1>
+<DIV1 TYPE="dramatis personae">
+<PB REF="5">
+<HEAD>Dramatis Personae.</HEAD>
+<LIST>
+<LABEL><HI>Mr.</HI> Powell&mdash;Courtwitt.</LABEL>
+<ITEM>A Gentleman, who by his Generous Temper, has wasted his Fortunes, and put to his shifts.</ITEM>
+<LABEL><HI>Mr.</HI> Hodgson,&mdash;Wellborn.</LABEL>
+<ITEM>A Gentleman in Love with the Widow.</ITEM>
+<LABEL><HI>Mr.</HI> Alexander,&mdash;Bonavent.</LABEL>
+<ITEM>A Blunt <HI>Cornish</HI> Gentleman.</ITEM>
+<LABEL><HI>Mr.</HI> Bowen,&mdash;Squeezwit.</LABEL>
+<ITEM>A Foolish Citizen, very desirous of being thought a Wit.</ITEM>
+<LABEL><HI>Mr.</HI> Bright,&mdash;Venture.</LABEL>
+<ITEM>One that keeps g<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">od Company, bearing the Port of a Gentleman but is indeed a Pickpocket, and a Coward.</ITEM>
+<LABEL><HI>Mr.</HI> Trafusis,&mdash;Hickman.</LABEL>
+<ITEM>A Linnen Draper.</ITEM>
+<LABEL><HI>Mr.</HI> Hains,&mdash;Sneaksby.&mdash;</LABEL>
+<ITEM>A Foolish Hen peck'd City Ieweller.</ITEM>
+<LABEL><HI>Mr.</HI> Cibber,&mdash;Aminadab.</LABEL>
+<ITEM>His Son, somewhat soft, but by Money has purchased a Place at Court.</ITEM>
+<LABEL><HI>Mr.</HI> Lee,&mdash;Ieremy.</LABEL>
+<ITEM>Servant to <HI>Courtwitt,</HI> who puts on the Disguise of a Woman, to serve his Master.</ITEM>
+<LABEL><HI>Mr.</HI> Lawson,&mdash;Crack.</LABEL>
+<ITEM>Brother to <HI>Ieremy.</HI></ITEM>
+</LIST>
+<LIST>
+<HEAD>WOMEN.</HEAD>
+<LABEL><HI>Mrs.</HI> Mountfort,&mdash;Annabella.</LABEL>
+<ITEM>A very vertuous Woman, Wife to
+<HI>Courtwit.</HI></ITEM>
+<LABEL><HI>Mrs.</HI> Knight&mdash;<HI>Widow</HI> Lacy.</LABEL>
+<ITEM>A Humorous Lady, never long in one Mind.</ITEM>
+<LABEL><HI>Mrs.</HI> Lassels,&mdash;Carroll.</LABEL>
+<ITEM>Her Cozen.</ITEM>
+<LABEL><HI>Mrs.</HI> Lee,&mdash;<HI>Mrs.</HI> Sneaksby.</LABEL>
+<ITEM>A Woman of an Eternal Tongue.</ITEM>
+</LIST>
+<P>SCENE the <HI>Park.</HI></P>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="play">
+<PB N="1" REF="5">
+<HEAD>A Very Good Wife.</HEAD>
+<DIV2 N="1" TYPE="act">
+<HEAD>ACT I.</HEAD>
+<DIV3 N="1" TYPE="scene">
+<HEAD>SCENE I.</HEAD>
+<STAGE><HI>Enter</HI> Courtwit <HI>and</HI> Ieremy.</STAGE>
+<SP>
+<SPEAKER>Cour.</SPEAKER>
+<P>AND is this all her Answer, <HI>Ieremy</HI>?</P>
+</SP>
+<SP>
+<SPEAKER>Ier.</SPEAKER>
+<P>All, Sir, I cou'd obtain from her.</P>
+</SP>
+<SP>
+<SPEAKER>Cour.</SPEAKER>
+<P>Unconscionable Widow! what not one Thousand Pounds more?</P>
+</SP>
+<SP>
+<SPEAKER>Ier.</SPEAKER>
+<L>Not a penny.</L>
+<L>She says, she takes more pride in your undoing,</L>
+<L>Than ever she cou'd do in her own Riches,</L>
+<L>And vows to take the forfeit of your Mortgage:</L>
+</SP>
+<SP>
+<SPEAKER>Cour.</SPEAKER>
+<P>A plague upon her, this is to refuse any Courtesie to a Widow. A small slip of frailty now, might have soften'd all this indignation; but <HI>Iery,</HI> thou shou'dst have told her, the Debts due to me, wou'd, when pay'd, almost redeem my Mortgage.</P>
+</SP>
+<SP>
+<SPEAKER>Ier.</SPEAKER>
+<P>I did so, Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Cour.</SPEAKER>
+<P>Well, and what said she then?</P>
+</SP>
+<SP>
+<SPEAKER>Ier.</SPEAKER>
+<P>She said, 'twas as impossible to know when that time wou'd be, as 'twas for a Navigator to discover the Creeks and Sounds of the <HI>North-East,</HI> and <HI>North-West</HI> passages: And tho' you were so unwise, begging your Honour's pardon, to part with your Money, without good assurance of the return on'<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters"> she was not; no, Sir, she says, she has hook'd in your Estate, and swears she'll quickly have it above water.</P>
+</SP>
+<SP>
+<SPEAKER>Cour.</SPEAKER>
+<P>The Devil sink her for't; but <HI>Ieremy,</HI> what says my Mother in Law?</P>
+</SP>
+<SP>
+<SPEAKER>Ier.</SPEAKER>
+<P>More in a moment, than I cou'd Study in a week; her words crowd so thick on one another, that 'tis impossible for the Art of Man to distinguish 'em<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"> Her Tongue's nimbler than the Poet's <HI>Mercury,</HI> and her Voice lowder than a <HI>Demiculverin</HI>; I dare Swear, she'd Out-scold ten Carted Bawds when she's sober;
+<PB N="2" REF="6">
+and Out-chat fifteen Midwives, tho' fourteen of 'em were half Drunk: But in her confused Chaos of words, I cou'd find this, and this only, that she'll not part with a penny of Mony.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Plague on her Gibship; what course must I take? Mony I have none, Credit I have none, Friends I have none, and Igad, if it continues thus for one week longer, I may safely say, Honestly I have none.</P>
+</SP>
+<SP>
+<SPEAKER>Iery.</SPEAKER>
+<P>Sir, here comes some of your Debtors, accost them.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>For what? I have not Impudence enough to ask, tho' for my own; wou'd I were a Citizen now for one half hour, only to obtain that excellent Art of Dunning; what Face shall I put on? Plague on't, wou'd my Taylor had made me a visit this Morning, I might have taken a pattern from him.</P>
+</SP>
+<STAGE><HI>Enter</HI> Bonavent, <HI>and</HI> Squeezwitt.</STAGE>
+<STAGE>Your Servant, Gentlemen.</STAGE>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Ha! Noble Mr. <HI>Courtwitt!</HI> how fares the world with you; by the Ho|nour of <HI>Cornwall,</HI> the Rose has wither'd, for want of being sprinkled with the Dew of your Wit. Gadzooks we have.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Yes really, Mr. <HI>Courtwit,</HI> we have been, as the saying is, Like Bees without Stings, or a Whore without Cully, Like Plays without Wit, or a Bawd without Bully, For want of your sweet Society.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Why you impudent, impertinent Dog, how dare you offer to interrupt me? Must that fountain of Nonsence be eternally running?</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Why, look you now, I never saw such a Man as this Mr. <HI>Bonavent</HI> is, since I was Born, he'll allow no Man to have any Wit but himself.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Wit! dost thou pretend to Wit?</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Wit! ay, good substantial City Wit; why not? I'me a Scholar, a man of an Estate, and have Wit enough to keep it.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Well, Sir, the better your Estate, the more able you are to do me a Curtesie; I have now an urgent occasion to make use of you, my free Temper has brought me to so low an ebb, that I'm oblig'd to ask for Mony; which is a thing my Nature so abhors, that tho' 'tis for my own, I blush to do it.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>'Sdiggers, forgive me for Swearing, I hope he don't design to dunn me.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>You know, Mr. <HI>Squeezwitt,</HI> I lent you 200 Guineas, but my Occasi|ons being urgent, I'le quit you for a Hundred.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Seignior, no, 'tis thought by the malicious, who envy the Wisdom of the City, that I have a tender <HI>Pericranium</HI>; but they shall find, I have not only Wit enough to keep my own Mony, but other mens too. And for your comfort, Mr. <HI>Courtwitt,</HI> I'le give you a very Learned saying, I learnt of my Grannum. He that is poor in Appetite, may quickly be Rich in Purse, desire little, covet little, no not so much as your own, and then you'l have enough.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Enough!</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Yes marry, little enough. I know, I owe you 200 and odd Pounds, you have need on't, who has not? you have need to have it, I have need to pay it, here's need of all hands, and to prevent any further discourse of the matter, I have great need to be gone: And so farewell.</P>
+</SP>
+<STAGE><HI>Exit</HI> Squeezwit.</STAGE>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Mr. <HI>Bonavent.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>What, does thy Fist gape for Mony from me too?</P>
+</SP>
+<SP>
+<PB N="3" REF="6">
+<SPEAKER>Court.</SPEAKER>
+<P>You know, Sir, I lent you a Hundred Pound upon your single word; I'me sure you are so much a Gentleman, as not to deny me at such a time as this.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>You sure? pray, Sir, be not so sure, lest you shou'd be mistaken. What, dost thou take me for a worse Coxcomb, than that General of Fools that just now left us? But however, when I am flush, you may hear from me, so farewel. A Handsome Young Fellow, Marry'd to a Beautiful Wife, (for whom I have no small Affection) and talk of Poverty, be ruled by me, get Mony, do,</P>
+</SP>
+<STAGE><HI>Aside.</HI> And keep it when thou hast it, if thou wou'dst thrive; be rather a Knave than a Fool; how much dost say, I owe thee?</STAGE>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>A Hundred Pound.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Thou'rt in my Debt, I have given thee Counsel worth a Hundred and Fifty, dog cheap, but I'le bate thee the odd Mony.</P>
+</SP>
+<STAGE><HI>Ex.</HI> Bon.</STAGE>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Is this the end of unsuspicious Friends; my generous Goodness, and too open Hands, rewarded thus?</P>
+</SP>
+<STAGE><HI>Enter</HI> Hickman, <HI>Singing.</HI></STAGE>
+<SP>
+<SPEAKER>Hick.</SPEAKER>
+<P>Good morrow, Mr. <HI>Courtwitt,</HI> good morrow, good morrow.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>You're very merry, Mr. <HI>Hickman.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Hick.</SPEAKER>
+<P>You're very melancholly, Mr. <HI>Courtwitt.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>I have Reason for my melancholly.</P>
+</SP>
+<SP>
+<SPEAKER>Hick.</SPEAKER>
+<P>And I for my mirth.</P>
+</SP>
+<STAGE>Sings.</STAGE>
+<L>There's no Man more Happy than he,</L>
+<L>That's free from a troublesome Wife;</L>
+<L>A Whore at Command</L>
+<L>And a Glass in his Hand,</L>
+<L>Are the three chief Blessings of Life.</L>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Sir, I must acknowledge my self a very happy man, for meeting you in this good Humour; and wish the business I have to deliver, may not in the least discommode it; I hope, Sir, you won't deny me a favour?</P>
+</SP>
+<SP>
+<SPEAKER>Hick.</SPEAKER>
+<P>Not I, what is't? what is't?</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>You had once a Jewel of me, which you now wear on your Finger, worth a Hundred and Fifty Pound, for which I have your Bond for 300, at your day of Death or Marriage; If you will now, because I want present Mony, give me a Hundred, I'le acquit you.</P>
+</SP>
+<SP>
+<SPEAKER>Hick.</SPEAKER>
+<P>Why, my good Friend, Mr. <HI>Courtwitt,</HI> I have no tricks, nor jerks, to come over you, not I; I know a plain Bargain, is a plain Bargain, and that Wit is never good till it be bought, if a Hundred Pound will do you any kindness, you shall have it, Mr. <HI>Courtwitt.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>I thank you, Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Hick.</SPEAKER>
+<P>You shall indeed, two if you please.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Agen I thank you, Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Hick.</SPEAKER>
+<P>Upon good Security, mark me Mr. <HI>Courtwitt,</HI> otherwise you must ex|cuse me, I am a poor Tradesman, Mr. <HI>Courtwitt,</HI> keep a Linnen and a Woollen Draper's Shop, Mr. <HI>Courtwitt,</HI> and wou'd be loath to lend my
+<PB N="4" REF="7">
+Mony without Security, to be laugh'd at among my Neighbours, a<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"> you are Mr. <HI>Courtwit,</HI> and so fare you well, good Mr. <HI>Courtwit</HI>; Mony, no, no.</P>
+</SP>
+<STAGE>Sings.</STAGE>
+<L>Youth keep, oh keep thy Mony fast,</L>
+<L>And tye it in thy Purse;</L>
+<L>For that must be thy Friend at last,</L>
+<L>For better, and for worse.</L>
+<STAGE><HI>Exit</HI> Hickman.</STAGE>
+<SP>
+<SPEAKER>Iery.</SPEAKER>
+<P>There's a hundred and 50 pounds worth more, Sir, but see here comes your Mother, now for the noise of 50 Paper-mills.</P>
+</SP>
+<STAGE><HI>Enter Mr.</HI> Sneaksby, <HI>and Mrs.</HI> Sneaksby.</STAGE>
+<SP>
+<SPEAKER>Mrs. Sne.</SPEAKER>
+<P>Oh, Sir, are you here? you have spun a fair thread, here's much ado and little help, we can find neither head nor foot in your business, my Daughter and I may curse the time that e're we saw thee.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Sir, you have the Civil Vertue of Patience in you, good Sir hear me.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. Sne.</SPEAKER>
+<P>He says he does hear thee, and is ashamed to see thee, hast not, un|done our Daughter, spent her Portion, deceived our Hopes, wasted thy For|tune, ha&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>All was but my kind heart in trusting, in trusting, Father.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. Sne.</SPEAKER>
+<P>Kind Heart! what shou'd Courtiers do with kind Hearts, or trust|ing in any thing but sure Preferment, and ready Mony.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>What wou'd you, dear Father, that I shou'd now?</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. Sne.</SPEAKER>
+<P>Marry depart in peace, Sir, vanish in silence, Ill keep my Daughter at home, she shan't Beg with you.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Be you but pleas'd to answer me, dear Sir, may not an honest Man&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. Sne.</SPEAKER>
+<P>Honest man, who the Devil bid thee be an Honest Man? Here's my Worshipful Husband, <HI>Mr. Sneaksby,</HI> from a poor Ieweller is come to be a Iustice of Peace, and what as An Honest Man! he grew to be able to give Six Thousand Pounds with my Daughter, and what as an honest Man! He bought my Son <HI>Aminidab</HI> a Place at Court, but not by Honesty; what shou'd any one Man do with Honesty, when 'tis enough to undoe a whole Corporation.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>If my uncunning disposition be my only Vice, then Father&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>Sne.</HI></SPEAKER>
+<P>Nay, and thou hast been Marry'd three years to my Daughter, and hast not got her with Child yet.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>It may be defect in your Daughter, as probable as in me.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>Sne.</HI></SPEAKER>
+<P>Defect in my Daughter? Oh horrible indignity, defect in my Daughter, Sirrah, Sirrah, 'tis well known before ever thou saw'st her, there was <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">o defect in my Daughter.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Well, if to be Honest, be to be a Fool, my utmost Ambition is a Cox|comb. Sir, I crave your farewell.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>Sne.</HI></SPEAKER>
+<P>Marry and have it, Sir, with all his heart; my Husband's a Man of few words, and has committed his Tongue to me, and I hope I shall use it to his honour, fare you well, Sir.</P>
+</SP>
+<STAGE><HI>Exit Mr. and Mrs.</HI> Sne.</STAGE>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Now mercy on me, but I had rather end my Life in Poverty, than en|dure the noise of that Larum-Bell one half hour longer; there is a desperate Palsie on her Lips, and an everlasting Feaver on her tongue.</P>
+</SP>
+<STAGE><PB N="5" REF="7"><HI>Enter Annabella.</HI> My Love!</STAGE>
+<SP>
+<SPEAKER>Ann.</SPEAKER>
+<P>My Life! why thou look'st melancholly.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Faith my Dear, it ought not to seem strange, having so narrowly scaped the loss of one of my Senses.</P>
+</SP>
+<SP>
+<SPEAKER>Ann.</SPEAKER>
+<P>Prithee what Sense?</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>The Sense of hearing, Love; thy Mother&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Ann.</SPEAKER>
+<P>Was she here?</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Just parted from me, that Eternal Mil-clack.</P>
+</SP>
+<SP>
+<SPEAKER>Ann.</SPEAKER>
+<P>What was the matter with her?</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Nothing but her old Disease, a fit of noise. My Creditors were with me too this morning, Went in a rage, and swear they'll take their Course. Some of my Debtors too I saw, who laugh'd at me, Made me their sport, and for my ready Mony Gave me their damn'd unseasonable Counsel.</P>
+</SP>
+<SP>
+<SPEAKER>Ann.</SPEAKER>
+<P>Some of your Debtors too have sent to me. Prithee peruse these Papers.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Hows this! from <HI>Bonavent,</HI> and <HI>Squeezewit</HI>?</P>
+</SP>
+<SP>
+<SPEAKER>Ann.</SPEAKER>
+<P>Even so, did ever <HI>Leander</HI> write more moving to his <HI>Hero?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Plague of their Rogueships, why they proffer highly.</P>
+</SP>
+<SP>
+<SPEAKER>Ann.</SPEAKER>
+<P>And can you be melancholly, when your Wife has such a brace of Lo|vers to maintain her. I warrant you now, you'd think much to be a Cuckold for all these high Proposals?</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Why, faith, my Dear, I'm one of those Courtiers that wou'd not wil|lingly be sent of a Journey to <HI>Monte Cornetto,</HI> but however, I am of an Opinion she is most Chast, that's left to her own will, Confin<GAP DESC="illegible" RESP="pdcc" EXTENT="3 letters">nt gives a Woman time to think, And mu<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters">r up those wanton Vanities, Which modest Recreation wou'd expell. Were they in <HI>Italy,</HI> or <HI>Spain</HI> less Jealous, Their Wives wou'd covet less the things forbidden, For Womens' Souls are bent to Contradiction.</P>
+</SP>
+<SP>
+<SPEAKER>Ann.</SPEAKER>
+<P>Then you dare trust me, <HI>Phil</HI>?</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>That I dare, faith, for if thou art a Sinner, thou'rt a very private one, and that's half as commendable as Vertue.</P>
+</SP>
+<SP>
+<SPEAKER>Ann.</SPEAKER>
+<P>Then if I do not trick this Brace of Fools, May I live Poor, die Infamous, and be The publick scorn of every Vertuous Wife. But, my Love, has <HI>Ieremy</HI> brought you any News from my Aunt the Widow?</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Yes, he has brought a Message as comfortable to me, as, You must re|turn to the place from whence you came, and so forth, is to a Malefactour at the Bar; I may Hang, Drown, Burn, Poyson, Stab my self, and be Damn'd, before she'll part with a Penny of Mony.</P>
+</SP>
+<SP>
+<SPEAKER>Ann.</SPEAKER>
+<P>But cannot she be made to part with it, why thou hast wit?</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Yes, and the Nation Gibbets, what woud'st thou have me rob her?</P>
+</SP>
+<SP>
+<SPEAKER>Ann.</SPEAKER>
+<P>No, no, my Dear, I'm not so weary of thee. But will not the Law help?</P>
+</SP>
+<SP>
+<PB N="6" REF="8">
+<SPEAKER>Court.</SPEAKER>
+<P>Yes, to undoe us, the Law, 'tis oftner Debauch'd than Strumpets, and foul Oppression thrust into its room.</P>
+<L>Law was an Angel once, and sent amongst us,</L>
+<L>Made with <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">eek Looks, and all perswading Actions;</L>
+<L>Its voice was not then loud, but like a Virgins,</L>
+<L>Which speaks all modesty, and never rails,</L>
+<L>But now by Mercinary Slaves, and Bribes,</L>
+<L>A Suit hangs longer than a Man in Chains.</L>
+</SP>
+<SP>
+<SPEAKER>Ann.</SPEAKER>
+<P>Give me thy hand then, <HI>Phill,</HI> I have a trick without the help of Law, or fear of Gibbits, to over reach this Widow, get thy Mortgage, and make thee out of the Court fashion.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Get my Mortgage from the Widow, Chymeras and Impossibilities.</P>
+</SP>
+<SP>
+<SPEAKER>Ann.</SPEAKER>
+<P>Impossibilities! Why is there any thing impossible to a Woman's Wit? never despair, by this hand I'll get thee thy Lands releas'd; I tell thee, <HI>Phill,</HI> this angry Widow shall be so Chuckled, and so wheedled out of her Reason; nay, rather than fail, I'll kiss her out of her little Senses, but thou shalt have thy Mort|gage given up.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Presto <HI>Mephistophilous,</HI> here's Conjuration in the Name of <HI>Beelzebub.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Ann.</SPEAKER>
+<P>Conjuration indeed, if you knew all; for look you, <HI>Phill,</HI> to tell thee a Secret, this ill natur'd unconscionable Widow is desperately and damnably falln in Love with the sweet face of thy <HI>Annabella.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Love in the Devil's name, prithee what Love?</P>
+</SP>
+<SP>
+<SPEAKER>Ann.</SPEAKER>
+<P>What Love? why fond Love, doating Love, hot Love, Carnal Love; what Love would'st thou have a Buxome Widow fall into else?</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Prithee my little <HI>Oedipus</HI> in Petticoats, speak English, and tell me the meaning of all this Gibberish?</P>
+</SP>
+<SP>
+<SPEAKER>Ann.</SPEAKER>
+<P>Then to be plain with you, you remember my Cousin <HI>Ienny Fa<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters">|Love</HI> and I went to a Masquerade t'other Night together.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>What then?</P>
+</SP>
+<SP>
+<SPEAKER>Ann.</SPEAKER>
+<P>Why, truly in a maggot I borrow'd her Brother's Lac'd Coat, and other Masculine Accoutrements, and who shou'd I meet there but thy Widow, and wou'd you believe it, I made such an absolute Beau, such an impudent Smock|fac'd young Spark, that the Widow grew down-right enamour'd of me; so pas|sionately enamour'd, and I so push'd on the Frolick, that I durst be hang'd if I had not tempted her to Signing and Sealing, without the Ceremony of a Black Coat.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>By the Honour of Knight Errantry, a very Comical Adventure.</P>
+</SP>
+<SP>
+<SPEAKER>Ann.</SPEAKER>
+<P>Nay, and what's the best jest on't, the Amorous Fit has lasted ever since; for by some Spies about her, I'm inform'd, she does so rave after that bewitching Incognito she saw at the Masquerade, that if I don't take a time to mannage such a Plot for thee, as shall retrieve all, may I be the last of my Sex that e're has the honour of wea<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters">ng the Breeches.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Well, success and thy kind Stars attend thee, nor will I lead my Life in Idleness, something I'll do, but what, the Fates direct me; my Dear, I would have thee continue at thy Mothers; I have a Plot, which if it take effect, I may break Jests on them that laugh'd at me.</P>
+</SP>
+<SP>
+<SPEAKER>Ann.</SPEAKER>
+<L>One Kiss for good luck then, and let us part,</L>
+<L>You to your Project, <HI>Phil,</HI> and I to mine.</L>
+<L><PB N="7" REF="8">And if our Fortune favours us at last,</L>
+<L>We will forgive all her unkindness past.</L>
+</SP>
+<STAGE><HI><GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"></HI> Ann.</STAGE>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Well, go thy ways, the best of Women, and the truest Wife. <HI>Ieremy.</HI></P>
+</SP>
+<STAGE><HI>Enter</HI> Ieremy.</STAGE>
+<SP>
+<SPEAKER>Ier.</SPEAKER>
+<P>Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Boy, thou hast serv'd me long and faithfully. I'm sorry I'me oblig'd to part with thee, Poverty shall serve it self; yet prithee do one thing for me.</P>
+</SP>
+<SP>
+<SPEAKER>Ier.</SPEAKER>
+<P>Any thing, Sir, that lies in my poor power.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>If ever thou hast it in thy Ability, use thy wit, to abuse all things that have but sence of wrong, for without mercy, all Men have injur'd thy mistrustless Master; Cheat, Cozen, live by thy Wits, 'tis most Man-like, therefore most No|ble. Horses get their living by their Backs, Oxen by their Necks, Swine, and Women by their Flesh, only Man by his Brain. In fine, be a Knave and pros|per, for Honesty has Beggar'd me.</P>
+</SP>
+<SP>
+<SPEAKER>Ier.</SPEAKER>
+<P>Farewell then Master, and if I do not put tricks on some of 'em, let me live the disgrace of all Pages.</P>
+</SP>
+<STAGE><HI>Exit</HI> Ieremy.</STAGE>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>I am resolved upon Revenge, I never provok'd my Brain yet, but now if I clap not fire in the Tails of some of these <HI>Sampson</HI>'s Foxes, it shall be my de|fect of Wit, not Will.</P>
+<L>They shall find by deceit, deceit is known,</L>
+<L>'Tis honest Craft by Wit to get our own.
+<STAGE>Exit.</STAGE></L>
+</SP>
+</DIV3>
+<DIV3 TYPE="scene">
+<HEAD>SCENE <HI>Sneaksby</HI>'s House.</HEAD>
+<STAGE><HI>Enter</HI> Well-born, Squeezewit, Bon. <HI>and</HI> Carroll.</STAGE>
+<SP>
+<SPEAKER>Carro.</SPEAKER>
+<P>Gentlemen, in this Gallery you may walk or sit 'till my Cousin comes.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Or lie down, if we please.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>If you do, pray take care of the Ladies Couch, for your Shooes are none of the cleanest.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Peace Baboon, 'sdeath I cou'd find in my heart to Cudgel thee before thy Mistress. I have been acquainted with the Mungrel but two days, and I've found him beating-ripe above a score of times, I con'd find in my heart to bestow one on him now.</P>
+</SP>
+<SP>
+<SPEAKER>Well.</SPEAKER>
+<P>Not for a thousand pound.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>That's a great deal of Mony, but I cou'd find in my heart to do it, tho'.</P>
+</SP>
+<SP>
+<SPEAKER>Well.</SPEAKER>
+<P>We're all undone then.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>He sets my teeth an edge every time I see him, he looks so like a wilding Crab, good neither for Drink, nor Sauce.</P>
+</SP>
+<SP>
+<SPEAKER>Carro.</SPEAKER>
+<P>Come, for my sake forbear.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Let him stand farther then.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Well, this is no time nor place to quarrel in, but&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>What says he?</P>
+</SP>
+<SP>
+<SPEAKER>Carro.</SPEAKER>
+<P>Nothing, you see he whistles t'other way.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>But pray what makes your Lady stay so long? if she continue busie, I'll not wait for her if she were ten rich Widows, or one as big as twenty, for all she's my Mistress.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Mr. <HI>Bonavent</HI>'s Complements are as course as his habit, and his Wit as small as his Civility.</P>
+</SP>
+<SP>
+<PB N="8" REF="9">
+<SPEAKER>Bon.</SPEAKER>
+<P>How now! what says that Go<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">ing?</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Igad, Mr. <HI>Bonavent,</HI> I beg your pardon, but I can't help letting my Mistress see my Wit, if I were to be Hang'd for't.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Ounds, you Dog-bolt.</P>
+</SP>
+<SP>
+<SPEAKER>Carro.</SPEAKER>
+<P>Pray, Sir, forbear; but Mr. <HI>Wellborn,</HI> when will you bring that fine Civil Gentleman, Mr. <HI>Venture,</HI> that maintains himself so Gallantly by Picture drawing.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Here's a new business, farewell; pray tell your Cousin, I come not from <HI>Pensas</HI> to grow here.</P>
+</SP>
+<SP>
+<SPEAKER>Carro.</SPEAKER>
+<P>Nay, pray Sir, stay, there's only the talking Gentlewoman, her Sister, with her, as soon as ever she can get rid of her, she'll wait on you; but will not Mr. <HI>Venture</HI> be here, Mr. <HI>Wellborne.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Well.</SPEAKER>
+<P>I expect him presently.</P>
+</SP>
+<SP>
+<SPEAKER>Carro.</SPEAKER>
+<P>I'le see then if their Conference be ended, or break it if I can, and send my Cousin to you.</P>
+</SP>
+<STAGE><HI>Exit</HI> Carro.</STAGE>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>A good humour'd sort of a Wench this.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Oh, ay, and Witty to a Miracle, poor Fool she Loves me mightily.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Love thee! for what? to keep her Monky company. But prithee, what <HI>Venture</HI> is this, she talks of so affectionately?</P>
+</SP>
+<SP>
+<SPEAKER>Well.</SPEAKER>
+<P>Faith, a Gentleman that Lives at a good rate, very Civil in Conversati|on, and keeps good Company; yet none of his Companions that I am acquainted with, know either his beginning or his present State.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>A Gentleman Born?</P>
+</SP>
+<SP>
+<SPEAKER>Well.</SPEAKER>
+<P>I know no more but by his Port and Fashion, you saw him with me last Night.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Was't he?</P>
+</SP>
+<SP>
+<SPEAKER>Well.</SPEAKER>
+<P>He was at the Play with us too, don't you remember that?</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Yes, I remember I was at the Play, by a sure Token, and a sad one.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>He a Gentleman! no, no, I'le tell you what he is.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Now that Ass begins to bray.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>He's no Gentleman; marry, a fine headed, and a fine Handed Man he may be, and pretends great Skill in Picture drawing, Watch-making, and such like, only for his Diversion; he says he don't Live on't, but 'sdiggers he does Live on't, or else he has some secret way, as Pimping, or Stealing, for ought I know.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>There's another Humour I could beat thee for, with all all my Heart, thou wilt speak scurri<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">ously of all Mankind, behind their backs, and darest not say Ba&mdash; to the Face of a Sheep.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Why, if he don't Pimp or Steal, or something worse, his Taylor and Sempstress, must have a woundy stock of Faith, if he can spend so high, and go so fine out of nothing.</P>
+</SP>
+<SP>
+<SPEAKER>Well.</SPEAKER>
+<P>Here comes the Gentleman.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Is he here?</P>
+</SP>
+<STAGE><HI>Enter</HI> Venture, <HI>with a Paper.</HI> Mr. <HI>Venture</HI> your humble Servant, we have been all wishing for your Company mainly, adad.</STAGE>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Ounds, what a Spaniel's this.</P>
+</SP>
+<SP>
+<SPEAKER>Vent.</SPEAKER>
+<P>Gentlemen, I beg your pardon, I was staid by the way upon the Receipt of Mony, or I had waited on you sooner; have you seen the Widow yet?</P>
+</SP>
+<SP>
+<PB N="9" REF="9">
+<SPEAKER>Well.</SPEAKER>
+<P>No, but her Cousin was here just now, who informs us, she's a little busie, and withal, was much impatient for the sight of you; she Loves you <HI>Ven|ture,</HI> Faith, I say no more, but thou'rt a Happy Man, to Love, and be Be|loved.</P>
+</SP>
+<SP>
+<SPEAKER>Vent.</SPEAKER>
+<P>A Happy Man! Gentlemen, I'le give you the Picture of a Happy Man, I was turning some leaves over this Morning, and found it, an Excellent <HI>Italian</HI> Painter drew it; if I have it in the right Colours, I'le present it to you.</P>
+</SP>
+<SP>
+<SPEAKER>Well.</SPEAKER>
+<P>You will oblige us.</P>
+</SP>
+<STAGE>Well: <HI>Reads, and as he's Reading,</HI> Vent. <HI>Picks <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"> Pockets.</HI></STAGE>
+<L>He that makes Gold his Wife, but not his Whore,</L>
+<L>He that at Noon-day, walks by th' Prison Door,</L>
+<L>He that i'th' Sun is neither Beam nor Mote,</L>
+<L>He that's not mad after a Pettycoat,</L>
+<L>He for whom Poor Mens Curses dig no Grave,</L>
+<L>He that is neither Lords nor Lawyers Slave,</L>
+<L>He that makes this his Sea and that his Shore,</L>
+<L>He that's in's Coffin<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">s Richer than before,</L>
+<L>He that counts Youth his Sword, and Age his Staff,</L>
+<L>He whose Right Hand Carves his own Epitaph,</L>
+<L>He that upon his Death-Bed is a Swan,</L>
+<L>And Mourn'd when Dead, he is a Happy Man.</L>
+<SP>
+<SPEAKER>Well.</SPEAKER>
+<P>An Excellent Piece indeed, and on my word you have Copy'd it Inge|niously.</P>
+</SP>
+<SP>
+<SPEAKER>Vent.</SPEAKER>
+<P>I boast no Skill nor Practice, but I have drawn some Pieces, that have been worth my pains in my Reward. But Gentlemen, are you for the Play to Night?</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Pox o' the Play, and the Play-House, I was there too lately at my Cost, I lost my Purse there, but hang't, let it go, there was 15 Guineas in't for all that.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>'Sdiggers, forgive me for Swearing, my Pocket has been pick'd too of 5 Guineas, and 4 Crown Pieces, I have only this <HI>Edward</HI> Shilling left.</P>
+</SP>
+<SP>
+<SPEAKER>Vent.</SPEAKER>
+<P>Sure you have been in some ill Company?</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Pox of ill Company, I say, adsniggs, my Watch is gone too.</P>
+</SP>
+<SP>
+<SPEAKER>Vent.</SPEAKER>
+<P>Were you in no Crowd, nor Quarrel?</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Quarrel, not I, prithee, I never was in any Quarrel in my Life, I alwaies run from 'em.</P>
+</SP>
+<SP>
+<SPEAKER>Well.</SPEAKER>
+<P>I dare Swear thou dost.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>I only stood at the Bookseller's Shop to Read the last great News, and I remember, I was hoop'd in by some that seem'd to wonder as much as I.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Then certainly there was a Pickpocket amongst 'em.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>I'le go to honest <HI>Drinkwater</HI> about it presently.</P>
+</SP>
+<SP>
+<SPEAKER>Vent.</SPEAKER>
+<P><HI>Drinkwater,</HI> prithee what's he?</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>One that will undertake, if you can get a Pattent, for a Cut-purse Hall, or Office, to help all Men to their own agen, allowing but the Tythes of their Losses, and freeing the offending Parties.</P>
+</SP>
+<SP>
+<SPEAKER>Well.</SPEAKER>
+<P>Hold thy Fools Tongue, let every Man be wise enough to look to his Pocket, and there will be no Cut-purses I'le warrant you, nor need of your Pattent.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Why, Sir, as wise a Man as you may lose his Purse, as I have done my self in a crowd.</P>
+</SP>
+<SP>
+<PB N="10" REF="10">
+<SPEAKER>Well.</SPEAKER>
+<P>He puts me in mind of a Crowd I was in to day, of Company I did not like: Ha! by this Light 'tis gone, and I dare not discover it, for fear of being laugh'd at.</P>
+</SP>
+<STAGE><HI>Enter</HI> Carrol.</STAGE>
+<SP>
+<SPEAKER>Carro.</SPEAKER>
+<P>Gentlemen, my Cousin cannot get rid of her talking Sister yet: She's now following of her into this Room; pray walk into the next, there you'l find a small Collation, and Servants to Attend you, you know the Custom of the House, Mr. <HI>Wellborne.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Well.</SPEAKER>
+<P>Come, Gentlemen, let's walk.</P>
+</SP>
+<STAGE><HI>As they are going off,</HI> Vent. <HI>takes</HI> Carrol <HI>from</HI> Squeezwitt: <HI>Ex. Om. Praeter</HI> Squeezwitt.</STAGE>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Pox o' that Picture-drawer, he's alwaies putting me out of Counte|nance before my Mistress; the Rogue knows I'm a Coward, and can't endure the sight of a Sword. 'Sbud, if there were no more danger in that than Fifty-Cuffs,</P>
+</SP>
+<L>Adsdiggers, I'de Fight like stout <HI>Hector</HI> to please her,</L>
+<L>Then Conqueror like, from my Rival I'de seize her,</L>
+<L>And March off in Triumph, like Great <HI>Iulius Caesar.</HI></L>
+<STAGE>Exit.</STAGE>
+<TRAILER>The End of the First Act.</TRAILER>
+</DIV3>
+</DIV2>
+<DIV2 N="2" TYPE="act">
+<HEAD>ACT II</HEAD>
+<DIV3 N="1" TYPE="scene">
+<HEAD>SCENE I. <HI>The out-parts of</HI> Moorfields.</HEAD>
+<STAGE><HI>Enter</HI> Courtwitt, <HI>like a Madman.</HI></STAGE>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>SO, in this Disguise will I accost those of my Debtors which I meet; 'tis neither Theft nor Sin, if I by cunning slights can gain my own; here comes one of'em, now Luck of my side.</P>
+</SP>
+<STAGE><HI>Enter</HI> Squeezwit, <HI>with a Paper.</HI></STAGE>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>So, now I have furnish'd my self with Wit and Mony, I am resolv'd to get introduced to Mrs. <HI>Annabella</HI>; for tho' I do design to Marry, yet 'sdiggers, I cannot fast till the Bridal Feast, and if she has not a Heart of Stone, here<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">s that will move her, I'me sure.</P>
+<STAGE>Reads.</STAGE>
+<L>A Thing there is, which thou shou'dst only crave,</L>
+<L>Thou Pomroy, or thou Apple of mine Eye.</L>
+<L>A Thing there is, which thou shou'dst long to have,</L>
+<L>A pretty thing it is, that Thing am I.</L>
+<P>Well, if this won't take, I'le never trust Poetry more; but say it fail, here's a hundred pieces, and she's a hard hearted Female, will neither be caught with Wit nor Gold.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Who's he that talks of Gold, bring him before me.</P>
+</SP>
+<STAGE>Counterfeits a Madman.</STAGE>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Bless me! what's that? in the Name of Sanctity, I conjure you, tell me what you are?</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Sings.</P>
+<L><HI>Plutus</HI> I am, the mighty God of Gold,</L>
+<L>By Nations worshipp'd, priz'd by all;</L>
+<L>The Young Adore me, and the Old,</L>
+<L>And court the Deity which makes 'em fall.</L>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Bless us! he's franticle, good day to you, Sir, I never cou'd indure mad Company, since Old <HI>Tom</HI> bit a piece of my Ear off.</P>
+</SP>
+<SP>
+<PB N="11" REF="10">
+<SPEAKER>Court.</SPEAKER>
+<P>Sings.</P>
+<L>Why dost thou make such haste,</L>
+<L>I'le not forsake thee?</L>
+<L>Run'st thou ne're so fast,</L>
+<L>I'le over-take thee.</L>
+</SP>
+<STAGE><HI>Gets between</HI> Squeez <HI>and the Door, and Draw<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters">.</HI> What sawcy Mortal art thou, which presum'st to fly the presence of the Great God <HI>Plutus</HI>?</STAGE>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Presence, a pox o' presence, wou'd I were in the Lobby.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Come hither, Mortal, place they self before me; I think I heard thee talk of Gold, produce it; thou'rt a Thief, hast Robb'd my Treasury; lay it before me.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>A Thief! as I hope to be Saved, Mr. <HI>Plutus,</HI> I came Honestly by it; I pawn'd my Diamond Ring for it, but just now.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>'Tis false, I know thee for a subtle Knave; speak, did I never see thee&punc; on Mount <HI>Lathmos</HI>?</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>No, as I hope to get rid of your Mightiness; I was never farther from <HI>London,</HI> than <HI>Barnet</HI> in my Life; Mount <HI>Lathmos</HI> quoth a! sdiggers, wou'd I were among the Mountains in <HI>Wales,</HI> or any where out of sight, from this Mad Rag-Man.</P>
+</SP>
+<STAGE>Aside.</STAGE>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<L>Never upon Mount <HI>Lathmos!</HI> come with me,
+<STAGE>Puts up his Sword.</STAGE></L>
+<L>Ile carry thee up to <HI>Hymettus</HI>'s top,</L>
+<L><HI>Athos,</HI> or <HI>Pindus,</HI> where we'll take the Air.</L>
+<P>Or, stay a little, shall we Hunt to day, l'th' Woods of <HI>Merathon,</HI> or <HI>Erymanthus</HI>?</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Sir, I thank you, but I don't care for such long Journies; tho' I'de go ten times as far to get rid of this Lunatick Bellswaggerer.</P>
+</SP>
+<STAGE>Aside.</STAGE>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>What's that you mutter, ha! pull forth thy Gold.
+<STAGE>Draws again.</STAGE></P>
+<L>Lay it before me to appease my fury, my Wrath boils up, my Blood is all on fire,</L>
+<P>And I'le consume the Covetous Race of Mortals.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Oh, mercy on me, there, Sir, there; and I beseech you put up your murdering Weapon.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Why, what a precious damning sight is this! hast any more?</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Not a Halfpenny more, on the Faith of a Citizen; the last Shilling I had, I gave to Honest <HI>Drinkwater,</HI> to give me an account of him that pick'd my Pocket, without my knowledge; but your Greatness has sav'd me the Labour and Charge, I thank you.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Tell me, great <HI>Cressus,</HI> where hadst thou this Treasure?</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Why, an't please thee, great <HI>Plutus,</HI> I just now receiv'd it, of Old <HI>Vermin</HI> the Pawn-Broker.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>I am mistaken then, thou art not <HI>Craesus</HI>?</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>No, no, sure enough, I am not <HI>Craesus,</HI> for I am not so Rich at pre|sent, as to purchase Oyl enough for a Pickled-Herring.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Then tell me what thou art, speak to me quickly.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Alack, I know not what I am, an't please your fierceness; I was <HI>Paul Squeezwitt,</HI> the Rich Salter's Son, when I came hither, and well season'd with a Hundred Guineas, but since my Encounter with your Madnessship, I am poor stink|ing <HI>Paul,</HI> without Wit or Mony.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Ha! without Mony! hence, avant thou Miscreant; dare Poverty appear i'th' Court of <HI>Plutus</HI>? Nay, do your Office then, my trusty Blade, cut Limb by Limb, this piece of Beggary.</P>
+<STAGE><PB N="12" REF="11">Sings.</STAGE>
+<L>First with his Head,</L>
+<L>I'le exercise my Blade.</L>
+<L>His Arms shall next be mine too.</L>
+<L>Those Legs that brought him hither,</L>
+<L>I'le take off both together;</L>
+<L>What may not one Divine do?</L>
+</SP>
+<STAGE><HI>Offers to strike,</HI> Squeezwitt <HI>runs off.</HI></STAGE>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Oh help! Murder, Murder.</P>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Nay, less speed will serve your turn, for I'me in no such haste to follow you; I am resolv'd, I'le rid 'em one after another, till they shall stink worse than <HI>Iews</HI>; but this is not a time for me to stand prating in, I must be gone, lest my plunder'd Citizen, return with the power of the County upon me.
+<STAGE>Exit.</STAGE></P>
+</SP>
+<STAGE><HI>Enter Widdow, and Mr.</HI> Carrol.</STAGE>
+<SP>
+<SPEAKER>Widd.</SPEAKER>
+<P>Prithee Cousin perswade me not, I wou'd not live a week more in the House to gain the <HI>Turkish</HI> Empire; what tho' she be my Sister, must I for that con|fine my self to a perfect Hell? the noise of <HI>Bedlam</HI> is still Musick to't; and her continual Visits, are more troublesome, than an unwelcome Suitor.</P>
+</SP>
+<SP>
+<SPEAKER>Carro.</SPEAKER>
+<P>Well, Madam, I'le not endeavour to dissuade you.</P>
+</SP>
+<SP>
+<SPEAKER>Widd.</SPEAKER>
+<P>No, prithee do not; but <HI>Carrol,</HI> I have observed thee melancholly of late; art thou in Love, or hast thou committed any fault?</P>
+</SP>
+<SP>
+<SPEAKER>Carro.</SPEAKER>
+<P>Do you Read any, Madam, in my looks? I never was in Love much with my Face, nor never hated it; but if I thought it had on it any Trespass, these Nails shou'd scratch it out.</P>
+</SP>
+<SP>
+<SPEAKER>Widd.</SPEAKER>
+<P>Nay, be not passionate Cousin, I know, you cannot forget the care I have ever had of you.</P>
+</SP>
+<SP>
+<SPEAKER>Carro.</SPEAKER>
+<P>I am most sensible of your kindness, Madam.</P>
+</SP>
+<SP>
+<SPEAKER>Widd.</SPEAKER>
+<P>But I am resolved to have a Husband for thee, I have already made my choice of one; what think you of your Lover, <HI>Squeezwitt,</HI> he makes most Court|ship to you; he has a good Estate, none of the worst Persons, and has Wit enough on Conscience for a Husband?</P>
+</SP>
+<SP>
+<SPEAKER>Carro.</SPEAKER>
+<P>I find no fault in all these, Madam, but he's so base a Coward, he may soon be beaten out of his Mony and Wit too, if he had any.</P>
+</SP>
+<SP>
+<SPEAKER>Widd.</SPEAKER>
+<P>But what if he shou'd prove Valiant?</P>
+</SP>
+<SP>
+<SPEAKER>Carro.</SPEAKER>
+<P>If he were Valliant now, I cou'd say something; but to wait for his growing to't, will be such loss of time!</P>
+</SP>
+<SP>
+<SPEAKER>Widd.</SPEAKER>
+<P>What think you then of <HI>Bonavent,</HI> my blunt suitor?</P>
+</SP>
+<SP>
+<SPEAKER>Carro.</SPEAKER>
+<P>He's as much the other extream; I might seat him perhaps, but I shou'd never love him.</P>
+</SP>
+<SP>
+<SPEAKER>Widd.</SPEAKER>
+<P>What say you to Mr. <HI>Wellborne</HI>?</P>
+</SP>
+<SP>
+<SPEAKER>Carro.</SPEAKER>
+<P>As of a Courtier, Madam, who has tasted so much of all Waters, that when he has a Fountain of his own, he'll be Jealous, and think every man will drink of his Cup, when perhaps none wou'd touch it, were it I.</P>
+</SP>
+<SP>
+<SPEAKER>Widd.</SPEAKER>
+<P>What say you to <HI>Venture</HI> then, the Curious Limner?</P>
+</SP>
+<SP>
+<SPEAKER>Carro.</SPEAKER>
+<P>I wou<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">d not willingly bely my Heart, he is indeed the Man.</P>
+</SP>
+<SP>
+<SPEAKER>Widd.</SPEAKER>
+<P>Well I'le take this Cause in hand, and thou sha't have him.</P>
+</SP>
+<STAGE>Enter Boy.</STAGE>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<P>Madam, there's Mr. <HI>Bonavent,</HI> and Mr. <HI>Wellborne,</HI> below.</P>
+</SP>
+<SP>
+<SPEAKER>Carro.</SPEAKER>
+<P>Is Mr. <HI>Venture</HI> there?</P>
+</SP>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<P>No, Madam.</P>
+</SP>
+<SP>
+<SPEAKER>Widd.</SPEAKER>
+<P>Go, bid 'em walk in.</P>
+</SP>
+<STAGE>Exit Boy:</STAGE>
+<STAGE><PB N="13" REF="11"><HI>Enter</HI> Bon. <HI>and</HI> Well-borne.</STAGE>
+<P>Gentlemen you're wellcome, I have been troubled with an over-talking Sister, that has quite wound me into melancholly.</P>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>I wish you mirth, Madam, with all my heart, but I don't come as one of your Fools to make you any, tho'.</P>
+</SP>
+<SP>
+<SPEAKER>Wid.</SPEAKER>
+<P>Be not so brief, let me speak with you, tho'.</P>
+</SP>
+<STAGE>Offers to go.</STAGE>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Ounds do you mock me?</P>
+</SP>
+<SP>
+<SPEAKER>Wid.</SPEAKER>
+<P>Mistake me not, sweet Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Wid.</SPEAKER>
+<P>Fie Mr. <HI>Bonavent,</HI> you are too blunt a Suitor for our City Ladies, they have been us'd to a soft way of Wooing, and cannot brook this harshness.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>A soft way of Wooing, 'shud I'de as lieve hear a Monkey chatter, as one of you Courtiers make Love. Madam, believe me, I like you, I have 600 <HI>l.</HI> a year, and if you will I'll Marry you, if you'll take me so, if not, I must seek out those that will.</P>
+</SP>
+<SP>
+<SPEAKER>Wid.</SPEAKER>
+<P>Pithy and short; then to be plain, as you are, I neither like, nor will I marry you; why did you ever think I cou'd affect, of all men living, such a thing as thou art?</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>A thing, why what thing am I?</P>
+</SP>
+<SP>
+<SPEAKER>Wid.</SPEAKER>
+<P>Nay, faith I know not, I'm sure thou art not any thing for a Woman to delight in, what cou'd she do with thee?</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>'Ouns, can you find nothing to do with me?</P>
+</SP>
+<SP>
+<SPEAKER>Wid.</SPEAKER>
+<P>To find my Monkey Spiders, were an Office perhaps you wou'd not execute.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Go, y'are a Gipsy, and none of the 12 <HI>Caesars</HI> in a Tavern has such a tann<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">d Complexion; tell me of Spiders, 'sbud I'll wring your Monkey's neck off.</P>
+</SP>
+<SP>
+<SPEAKER>Wid.</SPEAKER>
+<P>And then puzzle your self to make an Elegy, which shall be Sung to the dismal Tune of Squire <HI>Wickham</HI> and the Baker.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>I cou'd find in my heart to tear her Topping; wou'd she were a Whore, then I'de be reveng'd, and bring the Prentices to Arraign her on <HI>Shrove-Tuesday.</HI> Farewell, a pox upon you.</P>
+</SP>
+<STAGE><HI>Exit</HI> Bon.</STAGE>
+<SP>
+<SPEAKER>Well.</SPEAKER>
+<P>Come, come, thou hast said enough, dear Widow.</P>
+</SP>
+<SP>
+<SPEAKER>Wid.</SPEAKER>
+<P>To him. What I warrant you'd come for your part too?</P>
+</SP>
+<SP>
+<SPEAKER>Well.</SPEAKER>
+<P>You retain I see your unkind temper, will no thought soften your Soul? Disdain agrees but ill with so much Beauty, if you'd perswade me not to love you, strive to be less Fair, undoe that Beauteous face, shrow'd those bright Eyes, and make those fair Enchanters, those Twins of Light, less Lovely.</P>
+</SP>
+<SP>
+<SPEAKER>VVid.</SPEAKER>
+<P>Flights, and Raptures, here's Romantick Gibberish for you; thou a Suitor to a young Widow, such a high-flown Romantick Fopling? If it were pos|sible I ever shou'd be so mad to Love; to which I thank my Stars I'm not inclined, I wou'd not hold such a Servant worth my Garters, tho' he wou'd put me in se|curity to hang himself, and ease me of his Visits.</P>
+</SP>
+<SP>
+<SPEAKER>VVell.</SPEAKER>
+<P>You are a strange Lady; but look you, Widow, as Romantick as you think me, I have no such extravagant Opinion of your good humour, for let me tell you, barbarous Woman, y'are&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>VVid.</SPEAKER>
+<P>Ay, ay, as you hope for any good, Rail now a little.</P>
+</SP>
+<SP>
+<SPEAKER>VVell.</SPEAKER>
+<P>Rail<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"> yes, and you deserve it, so deserve it, that shou'd I tell you truth, I cou'd provoke you.</P>
+</SP>
+<SP>
+<SPEAKER>VVid.</SPEAKER>
+<P>To laugh, but not lie down, believe me.</P>
+</SP>
+<SP>
+<SPEAKER>VVell.</SPEAKER>
+<P>Go, y'are a foolish Creature, and not woth the Love I bear you.</P>
+</SP>
+<SP>
+<PB N="14" REF="12">
+<SPEAKER>Wid.</SPEAKER>
+<P>Aloud that all may hear, the more merrier, I'll take't as kindly as if you'd gi|ven me the whole Exchange; what all this storm without a shower, my <HI>Carido<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"></HI><GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"></P>
+</SP>
+<SP>
+<SPEAKER>Well.</SPEAKER>
+<P>Y'are most ungrateful.</P>
+</SP>
+<SP>
+<SPEAKER>Wid.</SPEAKER>
+<P>Good; abominable peevish, and a Wench that shou'd be beaten; beaten black and blue. Come, you can't Scold with confidence, you shou'd look big, strut, and cry damn her, confound the jilting, lying, cozening Sex.</P>
+</SP>
+<SP>
+<SPEAKER>Well.</SPEAKER>
+<P>Is she not mad?</P>
+</SP>
+<SP>
+<SPEAKER>VVid.</SPEAKER>
+<P>To shew I have my Reason, I'll give you some good Counsel. None that have Eyes will follow the Direction of a Blind Guide, and what do you think of <HI>Cupid</HI>? Women are either Fools, or very wise, take that from me; the foolish Women are not worth your Love, and if a Woman know how to be wise, she will not care for you.</P>
+</SP>
+<SP>
+<SPEAKER>VVell.</SPEAKER>
+<P>And do you give all this good Counsel without a Fee? Come be less wild, I know you cannot be so hard of Soul.</P>
+</SP>
+<SP>
+<SPEAKER>VVid.</SPEAKER>
+<P>Oh pray let my Body alone, go, go, go home and say your Prayers, I won't look for thanks 'till seven years hence.</P>
+</SP>
+<SP>
+<SPEAKER>VVell.</SPEAKER>
+<P>I know not what to say, but home I will go, and think a Satyr against your jilting Sex.</P>
+<L>Was ever Man thus used for Loving well?</L>
+<L>Who Courts a Widow, needs no greater Hell.</L>
+</SP>
+<STAGE><HI>Exit</HI> Well.</STAGE>
+<SP>
+<SPEAKER>VVid.</SPEAKER>
+<P>Well, I am a Jade to treat him thus, for I do love the Rogue spight of dissembling; what a strange thing is Woman, who, whilst wooed, teems to shun that she most desires to have;</P>
+<L>But 'tis the nature of us all to fly</L>
+<L>From those that Love, and Court them that deny.</L>
+</SP>
+<SP>
+<SPEAKER>Carro.</SPEAKER>
+<P>But, Cousin, as much as you say you love this <HI>VVell-born,</HI> if your young Masquerader shou'd come across you, I wou'd not swear for your fidelity to him.</P>
+</SP>
+<SP>
+<SPEAKER>VVid.</SPEAKER>
+<P>O do not name that darling Masquerader, ah Girl, 'twas only a delu|ding Vision, seen but just long enough to Charm my Eyes, and warm my Soul, then disappear'd and vanish'd; that Dear, that Angel Youth.</P>
+</SP>
+<SP>
+<SPEAKER>Carro.</SPEAKER>
+<P>Where's the high flown Romantick Raptures now?</P>
+</SP>
+<SP>
+<SPEAKER>VVid.</SPEAKER>
+<P>No, Girl, I wou'd not swear for my own self, shou'd I e're meet that face, but the poor <HI>VVell-born</HI></P>
+<L>Is now past any danger from that Coast,</L>
+<L>The Charm's dissolv'd, and Airy Rival lost.</L>
+</SP>
+<STAGE>Exit.</STAGE>
+</DIV3>
+<DIV3 TYPE="scene">
+<HEAD>SCENE <HI>the Street, Enter</HI> Courtwitt <HI>like a Physician:</HI></HEAD>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Thus far my Fortune has dealt kindly with me, let my last Scene end with the like success, and I deserve applause. But to my business, these Letters from my Wife, must serve to draw the VVoodcocks <HI>Bonavent</HI> and <HI>Squeezewit</HI> in, and since they must be leaping, they shall find it is unsafe to venture in my Pa|sture.
+<STAGE><HI>Enter</HI> Bonavent, <HI>and</HI> Venture.</STAGE>
+Ha! here comes one, how, earnest in Discourse; I'll step aside, it may be worth my hearing.</P>
+</SP>
+<STAGE>Goes aside.</STAGE>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>A VVidow! what is she, or of whence?</P>
+</SP>
+<SP>
+<SPEAKER>Vent.</SPEAKER>
+<P>A lusty young wench, they say, able to wrestle down stronger Chines th<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters"> <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">ither of ours.</P>
+</SP>
+<SP>
+<PB N="15" REF="12">
+<SPEAKER>Bon.</SPEAKER>
+<P>But ho<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"> is she Purs'd Man? How strong is she that way?</P>
+</SP>
+<SP>
+<SPEAKER>Vent.</SPEAKER>
+<P>VVhy they say she's worth at least Ten Thousand Pound.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>How Man!</P>
+</SP>
+<SP>
+<SPEAKER>Vent.</SPEAKER>
+<P>Even so, I have Intelligence that never fails; she came to Town but lately, and Lodges at Old <HI>Hickman</HI>'s the Draper.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Plague on him, an Old Amorous Stock-Jobber, he'll go near to aim at her himself</P>
+</SP>
+<SP>
+<SPEAKER>Vent.</SPEAKER>
+<P>Like enough, he may aim at her, but she will be hit by none but a Gentleman; that I hear too; oh she's a fierce Ambition to be of Quality, tho' her first Husband was but a Tanner.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>A Tanner! Plague on't, I shall be loath to venture on her, she'll kill me, or any Man, at her Husband's Occupation, before I shou'd be able to make her Hide gentle.</P>
+</SP>
+<SP>
+<SPEAKER>Vent.</SPEAKER>
+<P>Nay, thou wilt find a piece of tough Currier's work of her, but how|ever, were not my heart ingaged to the dear Charming <HI>Carrol,</HI> her Mony wou'd make me aim at her, but I'll help thee all I can.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>I thank thee, tho', I have had but small incouragement from Widows, yet I'll have one fling more, but who comes here?</P>
+</SP>
+<STAGE><HI>Enter</HI> Hickman, <HI>and</HI> Aminadab Sneaksby.</STAGE>
+<SP>
+<SPEAKER>Hick.</SPEAKER>
+<P>Truly, Mr. <HI>Aminadab,</HI> I think I find an alteration in my self already.</P>
+</SP>
+<SP>
+<SPEAKER>Amin.</SPEAKER>
+<P>Nay, I told you if you give your mind to't, you'd be a <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">entleman presently.</P>
+</SP>
+<SP>
+<SPEAKER>Vent.</SPEAKER>
+<P>How's this! let's stand aside a little.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>I believe he's about to turn himself into a Gentleman, to win the Widow.</P>
+</SP>
+<SP>
+<SPEAKER>Vent.</SPEAKER>
+<P>And what a Tutor he has pick'd out to instruct him!</P>
+</SP>
+<SP>
+<SPEAKER>Hick.</SPEAKER>
+<P>Methinks I love the name of a Gentleman a great deal better than I did.</P>
+</SP>
+<SP>
+<SPEAKER>Amin.</SPEAKER>
+<P>But can you find in your heart to lend a Gentleman 20 Pieces upon his word?</P>
+</SP>
+<SP>
+<SPEAKER>Hick.</SPEAKER>
+<P>Humh, no, no, it is not so far gone upon me yet.</P>
+</SP>
+<SP>
+<SPEAKER>Amin.</SPEAKER>
+<P>Oh, but it must, I know it; a Citizen, can never be a Gentleman, till he has lent all, or almost all his Mony, to Gentlemen. Why, when I was a Gentleman first, my Mony did so burn in my Pocket, that it cost me all that ever I cou'd borrow or steal from my Mother.</P>
+</SP>
+<SP>
+<SPEAKER>Hick.</SPEAKER>
+<P>But, Mr. <HI>Aminadab,</HI> a Man may be a Country Gentleman, and keep his Mony, may he not?</P>
+</SP>
+<SP>
+<SPEAKER>Amin.</SPEAKER>
+<P>But you see the Widow is removed from the Country into the City, to avoid those Country Gentleman that made their Addresses to her; I tell you, you must be a Courtier.</P>
+</SP>
+<SP>
+<SPEAKER>Hick.</SPEAKER>
+<P>But I can see no Courtiers, but what are apter to borrow, than lend Mony.</P>
+</SP>
+<SP>
+<SPEAKER>Amin.</SPEAKER>
+<P>Ay, those that are bred or born Courtiers, I grant you: But to come to't at your Years.</P>
+</SP>
+<SP>
+<SPEAKER>Hick.</SPEAKER>
+<P>Why, I can the sooner learn then; what is't that makes a Courtier?</P>
+</SP>
+<SP>
+<SPEAKER>Amin.</SPEAKER>
+<P>Why, I'le tell you in brief, as my Tutors told me. Speak nothing that you mean, perform nothing that you promise, pay nothing that you owe, flatter all above you, scorn all beneath you, deprave all in private, praise all in publick, keep no Truth in your Mouth, no Faith in your Heart, no Health in your Bones, no Friendship in your Mind, no Mo<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">esty in you Face, no Religion in your Con|science, and to be sure, no Mony in your Pocket.</P>
+</SP>
+<SP>
+<SPEAKER>Hick.</SPEAKER>
+<P>Pish, that last Article spoils all.</P>
+</SP>
+<SP>
+<SPEAKER>Amin.</SPEAKER>
+<P>Ha, ha, ha&mdash;</P>
+</SP>
+<STAGE>[<HI>Aside.</HI>] Vent. <HI>and</HI> Bon. <HI>come forward.</HI></STAGE>
+<SP>
+<PB N="16" REF="13">
+<SPEAKER>Vent.</SPEAKER>
+<P>Mr. <HI>Hickman,</HI> well met, how does your fair Guest at home? Mrs. <HI>Flammum.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Hick.</SPEAKER>
+<P>How the Devil shou'd he come to the knowledge of her? Some of these Sparks will snatch her up, if I don't prevent 'em speedily.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Why dost not speak, Old Boy, how does the Widow?</P>
+</SP>
+<SP>
+<SPEAKER>Hick.</SPEAKER>
+<P>Truly not well, whether it be weariness of her Journey, change of Air or Diet, or what else, I know not, something has distemper'd her.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Or Love perhaps of you, Mr. <HI>Hickman.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Hick.</SPEAKER>
+<P>Me! no, no, I look like no such Man.</P>
+</SP>
+<SP>
+<SPEAKER>Vent.</SPEAKER>
+<P>A word in private, Mr. <HI>Hickman.</HI> How is't Mr. <HI>Aminadab,</HI> what are you acquainted with this Rich Widow?</P>
+</SP>
+<STAGE><HI>Steps aside, and as they talk,</HI> Vent <HI>Picks</HI> Hick|man's <HI>Pocket.</HI></STAGE>
+<SP>
+<SPEAKER>Amin.</SPEAKER>
+<P>Acquainted! Why man, I design to marry her, she's worth Ten Thou|sand Pound, and is resolv'd she'll have none but a Gentleman, and I think I have beat him off that scent with a false Character, Heaven, and the Court forgive me.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Thou hast, Faith, and on purpose to have her thy self, I perceive it.</P>
+</SP>
+<SP>
+<SPEAKER>Amin.</SPEAKER>
+<P>Ay, but he does not, he's an Ass.</P>
+</SP>
+<SP>
+<SPEAKER>Vent.</SPEAKER>
+<P>Mr. <HI>Hickman,</HI> I wish you had her with all my heart, you shan't want my good word, and best wishes.</P>
+</SP>
+<SP>
+<SPEAKER>Hick.</SPEAKER>
+<P>Do you speak this in earnest, Sir, or as you are a Courtier?</P>
+</SP>
+<SP>
+<SPEAKER>Vent.</SPEAKER>
+<P>In earnest, Sir, and as I am a Gentleman.</P>
+</SP>
+<SP>
+<SPEAKER>Hick.</SPEAKER>
+<P>Why then in earnest, Sir, and as I am an honest Man, I don't believe you; Mr. <HI>Aminadab Sneaksby</HI> has told me what Gentlemen are too lately.</P>
+</SP>
+<STAGE><HI>Enter</HI> Crack, <HI>Singing.</HI></STAGE>
+<SP>
+<SPEAKER>Crack.</SPEAKER>
+<P>O here he is. Mr. <HI>Hickman,</HI> as ever you hope 'to see my Mrs. your Sweet Heart alive, you must go home presently.</P>
+</SP>
+<SP>
+<SPEAKER>Hick.</SPEAKER>
+<P>My Sweet Heart!</P>
+</SP>
+<SP>
+<SPEAKER>Crac.</SPEAKER>
+<P>I think she is, and that in death she will be so; I speak but what she says, and others think.</P>
+</SP>
+<SP>
+<SPEAKER>Amin.</SPEAKER>
+<P>This is the Widows Boy.</P>
+</SP>
+<SP>
+<SPEAKER>Hick.</SPEAKER>
+<P>Is she Sicker than she was?</P>
+</SP>
+<SP>
+<SPEAKER>Crac.</SPEAKER>
+<P>Oh she is almost speechless, names nothing but you, I am going to fetch a Doctor to her. <HI>Mr. Bombast</HI> has made her Will too.</P>
+</SP>
+<SP>
+<SPEAKER>Hick.</SPEAKER>
+<P>And has she given me any thing?</P>
+</SP>
+<SP>
+<SPEAKER>Crac.</SPEAKER>
+<P>Quickly go and see, Sir, you'll come too late else.</P>
+</SP>
+<SP>
+<SPEAKER>Hick.</SPEAKER>
+<P>Fare you well, Gentlemen.</P>
+</SP>
+<SP>
+<SPEAKER>Omn.</SPEAKER>
+<P>Nay, nay, we'll go with you.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Have you any business with me, Friend?</P>
+</SP>
+<STAGE><HI>As they are going,</HI> Court. <HI>pulls</HI> Bon <HI>who returns; Ex. all but</HI> Court. <HI>and</HI> Bon.</STAGE>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Is not your Name <HI>Bonavent?</HI></P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>It is, what then?</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>I have a private Message to you, Sir, from a Fair Lady.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>You seem by your habit, Sir, to be a Physician, or something that way.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>You have hit my Occupation right, I am to a Fair Lady, that bears you no ill will, Physician, Counsellor, Confident, and &mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Pimp.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>It lights upon me, Sir, some times. You know the Lady <HI>Courtwit</HI>?</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Ha! say'st thou, dost thou belong to her?</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>This Letter, Sir, will shew what Confidence she reposes in me.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Let me see it, thou dear Bawdy Gravity, that I may know what comes from my utmost hope, the end of my Ambition.</P>
+<STAGE>Reads.</STAGE>
+<P><LETTER>
+<PB N="17" REF="13">
+<OPENER><SALUTE>Sir,</SALUTE></OPENER>
+<P>The many Adresses you have made me, ought to soften my Soul; but when I consider, how false the Race of Man is, I cannot forbear checking my Heart, which fai<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"> wou'd yield to what I blush to think on. The Bearer is my Friend and Confident, by his wife Counsel I am wholly guided, therefore deliver all your Thoughts to him, which will faithfully be convey'd to her, that fain wou'd think you Constant.</P>
+<CLOSER><SIGNED>A. Courtwitt.</SIGNED></CLOSER>
+</LETTER></P>
+<P>Thou dear Messenger from Paradise, what shall I do? how shall I require thee? I perceive, old Lad, thou art the Draggon that hast charge of this Golden Fruit, accept this and my thanks; nay, nay, do not shame thy Function by Modesty, but take it.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Well, Sir, not to appear Uncourtly or Uncivil; but, Sir, let me advise you; I have heard her Husband was your Friend, therefore of all Men living you shou<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">d not wrong him.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Her Husband, alas poor Fly, only made to be suck'd and forsaken, his Wife has the Life Blood of his Fortunes in her, and I will be her Cupping Glass.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Nay, I have often heard her say, she had the Wit to preserve for her self; tho' I wonder she cou'd have the Conscience to Rob her Husband.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Rob her Husband! why, all things Rob one another, Churches Poul the People, Princes pill the Church, Minions draw from Princes, Whores suck Mini|ons, and the <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">ox undoes Whores; Physicians plague their Patients, Lawyers their Clyents, Courtiers their Suitors, and the Devil plagues 'em all.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>You have spoken most Edifyingly, Sir, and I believe she may be com|p<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">st, for she is very Covetous; now, if you wou'd but make shew of a Gift, or present one, when once you have obtain<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">d her, they wou'd be all yours agen, and all she has besides.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Why, do'st thou think she's Rich?</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Rich, look you, Sir, here is a Jewel, which I just now fetcht from a<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"> Aunt of hers, where it lay hid from her Husband; this, Sir, is worth the Pur|chase, and she's an easie Female, he that has her, has all.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>What think you then? if by the way of a little Alamode Gallantry, a genteel Initiation to her good Graces, I should send her a small Present, of a Hun|dred broad pieces of Gold, as a Box of Counters to play at <HI>Lantroloo,</HI> or so; what say'st thou?</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>O, Sir, they wou'd be yours agen. This Jewel too, and many more beside. I wou'd not say so much, but that I know she Loves you, and indeed I am glad she has placed her Love on so Generous a Person.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Why then, I'le e'en go home, and rummage up my broad Gold, send 'em, win her, wear her, suck her Purse, recover my own, and laugh at the poor Cuckold her Husband. But how shall I come to her?</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>This Note will direct you, and for my own part, you have shewn your self so Generous to me, that I shall be alwaies ready to serve you.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Thou art a very Honest Fellow, Faith, commend me to the Angel, with my Life's Blood, and Soul's Service. Farewell.</P>
+<STAGE><HI>Exit</HI> Bon.</STAGE>
+<STAGE><HI>Enter</HI> Crack, <HI>Singing.</HI></STAGE>
+<L>He took her about the middle small</L>
+<L>And laid her on the Plain,</L>
+<L>And when he had his Will of her,</L>
+<L>He took her up again.</L>
+<P>And what was she the worse for wearing, can you tell, Mr. Doctor?</P>
+</SP>
+<SP>
+<PB N="18" REF="14">
+<SPEAKER>Court.</SPEAKER>
+<P>What art thou?</P>
+</SP>
+<SP>
+<SPEAKER><HI>Crac<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">.</HI></SPEAKER>
+<P>One, Sir, that can conduct you to as delicious a piece of Womans Flesh, as ever Man laid Lip to.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>A young Pimp, a very sucking Pig Pimp, what an Age is this? when Children play at such great Games? So young, and yet so forward?</P>
+</SP>
+<SP>
+<SPEAKER>Crack.</SPEAKER>
+<P>Sings.</P>
+<L>The Young and the Old, mun to't, mun to't,</L>
+<L>The Young and the Old, mun to it,</L>
+<L>The Young ones will learn to do't, to do't,</L>
+<L>And the Old ones forget not to do it.</L>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>This Infant piece of Impudence amazes me; prithee, what art thou, or whom dost thou serve?</P>
+</SP>
+<SP>
+<SPEAKER>Crack.</SPEAKER>
+<P>A most admirable Woman! O, she is all <HI>Venus,</HI> and to come close to you, she wants a Physician, you are one I take it.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>'Sdeath I'me discover'd, this Habit will betray me. What is she, I say?</P>
+</SP>
+<SP>
+<SPEAKER>Crac.</SPEAKER>
+<P>Sings.</P>
+<L>O she is, she is, a matchless piece,</L>
+<L>Tho' all the World may woo her,</L>
+<L>Not Golden Shower, nor Golden Fleece</L>
+<L>Is Price enough to do her.</L>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>For what wants she a Physician?</P>
+</SP>
+<SP>
+<SPEAKER>Crac.</SPEAKER>
+<P>For what you please, Sir, when you come to her; upon my Life, she's free from any Distemper but the Counterfeits; will you know all, Sir, she wants a Wise Man's Counsel, to assist her in getting of a Husband. I lay hold upon you for that Wiseman, she relies wholy upon your Election; will you go, Sir, 'tis at a very Civil House, Mr. <HI>Hickman</HI>'s the Draper.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>At his House?</P>
+</SP>
+<SP>
+<SPEAKER>Crac.</SPEAKER>
+<P>At his very House.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>What dost call thy Mistress?</P>
+</SP>
+<SP>
+<SPEAKER>Crac.</SPEAKER>
+<P>There she Lies by the Name of Mrs. <HI>Flammum,</HI> a Rich <HI>Cornish</HI> Widow; will you along, Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>'Tis but a weak ingagement, yet I'le go, Needless are Fears, where Fortunes are so low.</P>
+</SP>
+<STAGE><HI>Ex<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">unt.</HI></STAGE>
+<TRAILER>The End of the Second Act.</TRAILER>
+</DIV3>
+</DIV2>
+<DIV2 N="3" TYPE="act">
+<HEAD>ACT III.</HEAD>
+<DIV3 N="1" TYPE="scene">
+<HEAD>SCENE I: Hickman's <HI>House.</HI></HEAD>
+<STAGE><HI>Enter</HI> Ieremy, <HI>and</HI> Courtwit.</STAGE>
+<SP>
+<SPEAKER>Ier.</SPEAKER>
+<P>WEll, Mr. Doctor, what think you of the Sick Widow? has she done her part hithertoo?</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Beyond my Expectation, better than I for a Doctor.</P>
+</SP>
+<SP>
+<SPEAKER>Ier.</SPEAKER>
+<P>You're in the right, and I am e'en the same for a Widow, as you are for a Doctor, do not I know you? Yes, Sir, and will trust you, because you must trust me. Therefore know, that I the Rich Widow, am no better, than a Lady that must live by what I wear about me, the vulgar Translation you know. I have no Lands, and since I'me Born, must be kept, I may make the best use of my own without any Crime, I hope, Mr. Doctor?</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>I collected as much, by your young Whiskin that brought me hither.</P>
+</SP>
+<SP>
+<SPEAKER>Ier.</SPEAKER>
+<P>It was by my direction that he did so, Mr. <HI>Courtwitt</HI>; nay, startle not, nor muse at my Acquaintance with you, I know all the shifts you are put to, and it you'l comply with me, you can be no loser by it; I am grown weary of my old courses, and wou'd sain be wiser, do my self good, before Age or Diseases make it too late.</P>
+</SP>
+<SP>
+<PB N="19" REF="14">
+<SPEAKER>Court.</SPEAKER>
+<P>I will work close and friendly with thee. But see, here comes your Pigwidgeon.</P>
+</SP>
+<STAGE><HI>Enter Widow, and Mrs.</HI> Carrol.</STAGE>
+<SP>
+<SPEAKER>Wid.</SPEAKER>
+<P>I wonder Cousin, we have not heard of <HI>Wellborne</HI> yet, I cou'd hang my self for my Folly, in using him after that barbarous manner.</P>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<P>Indeed, Madam, I pity the poor Gentleman, for I dare swear he Loves you.</P>
+</SP>
+<SP>
+<SPEAKER>Wid.</SPEAKER>
+<P>I can't tell that, a True Lover must be known by his Patience.</P>
+</SP>
+<STAGE><HI>Aside<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">.</HI></STAGE>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<P>Which he that deals with you, ought to be well stock'd with.</P>
+</SP>
+<STAGE>Enter Boy.</STAGE>
+<SP>
+<SPEAKER>Boy.</SPEAKER>
+<P>Madam, here's Mr. <HI>Wellborne</HI> below.</P>
+</SP>
+<SP>
+<SPEAKER>Wid.</SPEAKER>
+<P>Bid him come up.
+<STAGE>Exit Boy.</STAGE>
+Now for a fit of Love, Cousin.</P>
+</SP>
+<STAGE><HI>Enter</HI> Wellborne, and <HI>Exit</HI> Carrol.</STAGE>
+<SP>
+<SPEAKER>Well.</SPEAKER>
+<P>Madam, I am come.</P>
+</SP>
+<SP>
+<SPEAKER>Wid.</SPEAKER>
+<P>I perceive you are, Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Well.</SPEAKER>
+<P>To take my leave.</P>
+</SP>
+<SP>
+<SPEAKER>Wid.</SPEAKER>
+<P>'Tis granted you. Good buoy.</P>
+</SP>
+<SP>
+<SPEAKER>Well.</SPEAKER>
+<P>You must stay yet, and hear a little more. I promise not to trouble you with Courtship, for I'm as weary with't, as you're displeas'd.</P>
+</SP>
+<SP>
+<SPEAKER>Wid.</SPEAKER>
+<P>On these Conditions I wou'd have patience to hear the brazen Head speak.</P>
+</SP>
+<SP>
+<SPEAKER>Well.</SPEAKER>
+<P>How have I labour'd for your good Opinion, I leave the World to judge, and come now only to request, that you would grant in lieu of my true Service, one Boon at parting.</P>
+</SP>
+<SP>
+<SPEAKER>Wid.</SPEAKER>
+<P><HI>Ferboon,</HI> proceed.</P>
+</SP>
+<SP>
+<SPEAKER>Well.</SPEAKER>
+<P>But you must swear to perform truly what I shall desire. And that you may not think I come with any cunning to deceive you, you shall except what e're you wou'd deny me, and after that I'le make my Request.</P>
+</SP>
+<SP>
+<SPEAKER>Wid.</SPEAKER>
+<P>How's this?</P>
+</SP>
+<SP>
+<SPEAKER>Well.</SPEAKER>
+<P>Put it concerns my Life, or what can else be nearer, that you Swear.</P>
+</SP>
+<SP>
+<SPEAKER>Wid.</SPEAKER>
+<P>To what?</P>
+</SP>
+<SP>
+<SPEAKER>Well.</SPEAKER>
+<P>When you have made Exceptions, and thought what thing in all the world you wou'd exempt from my Petition, I'le be Confident, and tell you my Desire.</P>
+</SP>
+<SP>
+<SPEAKER>Wid.</SPEAKER>
+<P>This is fair play.</P>
+</SP>
+<SP>
+<SPEAKER>Well.</SPEAKER>
+<P>I wou'd not for an Empire, by a trick, oblige you to perform what wou'd displease you.</P>
+</SP>
+<SP>
+<SPEAKER>Wid.</SPEAKER>
+<P>This is a very strange Request; e're you begin, shall I except? 'tis odds, but I may include what you have a mind to, then where's your Request.</P>
+</SP>
+<SP>
+<SPEAKER>Well.</SPEAKER>
+<P>I'le run that hazard.</P>
+</SP>
+<SP>
+<SPEAKER>Wid.</SPEAKER>
+<P>You will. Then look you, for a little mirth's sake, and because you shan't say, I am composed of Marble, I do consent.</P>
+</SP>
+<SP>
+<SPEAKER>Well.</SPEAKER>
+<P>Swear.</P>
+</SP>
+<SP>
+<SPEAKER>Wid.</SPEAKER>
+<P>I am not come to that point yet, I'le first set bounds to your Request, and when I have left you nothing worth my grant, I<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">le make a zealous Oath to grant you any thing.</P>
+</SP>
+<SP>
+<SPEAKER>Well.</SPEAKER>
+<P>You have me at your mercy.</P>
+</SP>
+<SP>
+<SPEAKER>Wid.</SPEAKER>
+<P>Well then, in the first place, you shan't desire me to Love you.</P>
+</SP>
+<SP>
+<SPEAKER>Well.</SPEAKER>
+<P>Agreed, go on.</P>
+</SP>
+<SP>
+<SPEAKER>Wid.</SPEAKER>
+<P>No more, but go on? why, do you know what I have said?</P>
+</SP>
+<SP>
+<SPEAKER>VVell.</SPEAKER>
+<P>Yes, very well, I am not to ask your Love.</P>
+</SP>
+<SP>
+<SPEAKER>VVid.</SPEAKER>
+<P>And are you contented?</P>
+</SP>
+<SP>
+<SPEAKER>VVell.</SPEAKER>
+<P>I am obliged to be so.</P>
+</SP>
+<SP>
+<SPEAKER>VVid.</SPEAKER>
+<P>What in the name of wonder will he ask me?
+<STAGE>Aside.</STAGE>
+You shan't desire me to Marry you.</P>
+</SP>
+<SP>
+<SPEAKER>VVell.</SPEAKER>
+<P>That's the second.</P>
+</SP>
+<SP>
+<SPEAKER>VVid.</SPEAKER>
+<P>You shan't directly nor indirectly, ask me to Lye with you.</P>
+</SP>
+<SP>
+<SPEAKER>VVell.</SPEAKER>
+<P>That's the third.</P>
+</SP>
+<SP>
+<SPEAKER>VVid.</SPEAKER>
+<P>That's the third: Is there any thing a young Man wou'd desire of his Mistress, when he must neither Love, Marry, nor Lye with her?</P>
+</SP>
+<SP>
+<PB N="20" REF="15">
+<SPEAKER>Well.</SPEAKER>
+<P>My Suit is still untoucht.</P>
+</SP>
+<SP>
+<SPEAKER>Wid.</SPEAKER>
+<P>I am sure if you have any other Suit, 'tis out of fashion; you wou'd not have me spoil my Face, drink Poison, or kill any Body.</P>
+</SP>
+<SP>
+<SPEAKER>VVell.</SPEAKER>
+<P>Heav'n forbid.</P>
+</SP>
+<SP>
+<SPEAKER>VVid.</SPEAKER>
+<P>You wou'd not have me Ride Naked thro' the City, as once a Princess did thro' <HI>Coventry.</HI></P>
+</SP>
+<SP>
+<SPEAKER>VVell.</SPEAKER>
+<P>All my Desires are Modest.</P>
+</SP>
+<SP>
+<SPEAKER>VVid.</SPEAKER>
+<P>You shan't ask me to Fast, nor wear a Hair Smock.</P>
+</SP>
+<SP>
+<SPEAKER>VVell.</SPEAKER>
+<P>None of these.</P>
+</SP>
+<SP>
+<SPEAKER>VVid.</SPEAKER>
+<P>I wou'd not be confin'd to be ready at Ten, and pray till Dinner.</P>
+</SP>
+<SP>
+<SPEAKER>VVell.</SPEAKER>
+<P>You shall not.</P>
+</SP>
+<SP>
+<SPEAKER>VVid.</SPEAKER>
+<P>Why then I Swear&mdash;Hold&mdash;you shan't ask me before Company, how Old I am. I won't be confined from Spring-Garden, and the Park, I won't be debarr'd the priviledge of jearing my Suitors, amongst which number, your Worship shall be alwaies remember'd.</P>
+</SP>
+<SP>
+<SPEAKER>Well.</SPEAKER>
+<P>To all these I agree.</P>
+</SP>
+<SP>
+<SPEAKER>Wid.</SPEAKER>
+<P>Why then I Swear.</P>
+</SP>
+<SP>
+<SPEAKER>Well.</SPEAKER>
+<P>By what?</P>
+</SP>
+<SP>
+<SPEAKER>Wid.</SPEAKER>
+<P>For once, a Kiss, it may be a parting blow; by that, I will perform what you desire.</P>
+</SP>
+<SP>
+<SPEAKER>Well.</SPEAKER>
+<P>In few words thus receive it, by that Oath I bind you, never to desire my Company, never for any Reason think of Loving me; this I am sure was none of your Exceptions.</P>
+</SP>
+<SP>
+<SPEAKER>Wid.</SPEAKER>
+<P>What has the Man said?</P>
+</SP>
+<SP>
+<SPEAKER>Well.</SPEAKER>
+<P>I am confident, 'tis clear to you. Understanding, and I am sure you will not violate your Oath.</P>
+</SP>
+<SP>
+<SPEAKER>Wid.</SPEAKER>
+<P>Was all this circumstance for this? I never found much inclination to trouble him; but to be limited and be prescribed, would make a Woman mad. This was a poor Trick in him; but I<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">le go study something to forget him.</P>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>Well.</SPEAKER>
+<P>Ha! ha! I do perceive 'twill take; I find she retains a relish of her Pre|decessour <HI>Eve</HI>; and longs to be pidling at the Fruit forbidden.</P>
+</SP>
+<STAGE><HI>Enter</HI> Bonavent, <HI>driving in</HI> Squeezwitt.</STAGE>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Sirrah, dare but contradict me, and I'le cut thee into more pieces, than there are Corns of Powder wasted on a Lord Mayor's day.</P>
+</SP>
+<SP>
+<SPEAKER>Well.</SPEAKER>
+<P>How now, Gentlemen, what's the matter?</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>What the Devil do you there? I thought thou hadst been abused enough, by that Widow weathercock, that's alwaies turning&punc; plague on her, she had her fling at me too. But, thank my Stars, I am here now on another account.</P>
+</SP>
+<SP>
+<SPEAKER>Well.</SPEAKER>
+<P>But, prithee how has <HI>Squeezwit</HI> angred thee?</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Why, Mr. <HI>VVellborn,</HI> forgive me for Swearing, he will have Mr. <HI>Venture</HI> talk to Mrs. <HI>Carroll,</HI> and make Love to her, in spight of my teeth.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Yes, Sirrah, and he shall talk with her his Belly full, and do with her too, her Belly full, for all thee; he's an honest discreet Gentleman, and thou, a Coxcomb, a Coward.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Coward! Pish, that's a common Name, I scorn to answer to't.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Why dost thou wear a Sword, only to hurt Mens feet, that kick thee?</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>A Sword! why, I wear a Sword to fight, when I see Cause.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>What is a Cause to fight for, speak?</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>I won't tell you, it must be found out, and given me, before I ought to take notice.</P>
+</SP>
+<SP>
+<SPEAKER>VVell.</SPEAKER>
+<P>You may safely say, for Religion, King, or Country.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Darest thou fight for Religion? ha!</P>
+</SP>
+<SP>
+<PB N="21" REF="15">
+<SPEAKER>Squeez.</SPEAKER>
+<P>Ha! No; for no man that has any Religion, will fight, I am sure.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>I say thou hast none, speak, hast thou any?</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Why, truly in this wavering World, I cannot tell what to say.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>He'll say he has no King too, rather than Fight.</P>
+</SP>
+<SP>
+<SPEAKER>VVell.</SPEAKER>
+<P>Why, if he won't fight for him, he's no Subject, and no Subject, no King, you know.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>I thank you, Sir, I would have said so.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Oh, thou woud'st make a special Souldier.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Well, Sir, all are not choice Dogs that run, some are taken in to make up the Cry.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>And for thy Country, I dare swear thou woud'st rather run it, than fight for't.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Run my Country I can't, for I was born in the City, I am no Clown to run my Country.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Dare you tell me of Clown, you Cockney Chicken-hearted whelp you?</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Forbear, good Sir, there are Country Gentlemen, as well as Clowns, and for that Rank, I honour you.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Sirrah you lye. Strike me for that, or I will beat thee most abominably.</P>
+</SP>
+<SP>
+<SPEAKER>VVell.</SPEAKER>
+<P>Up to him, man, wist thou suffer this?</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>I, I, I would, but&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>You lie agen.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Well, well, I think I do, and why should I maintain an ill Cause?</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>The Woman you love, and doat upon, is a Whore.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Why, if she be, 'tis none of my fault, nor hers, some body else made her so, I warrant you, but, 'sdiggers, should another Man tell me so!</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>What then, Sirrah?</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Why, I wou'd say as much to him, as I do to you; nor indeed, is any Man's Report of that a sufficient Cause, unless she her self confess it, and then it were no Cause at all.</P>
+</SP>
+<SP>
+<SPEAKER>VVell.</SPEAKER>
+<P>Here's a true City Wit.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>I should have Wit, and am accounted a Wit within the Walls; I'm sure my Father was Master of his Company, and the wisest Company too in the City.</P>
+</SP>
+<SP>
+<SPEAKER>VVell.</SPEAKER>
+<P>What Company's that?</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>The Salters, Sir, for <HI>sal sapit omnia,</HI> you know.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Your Father! your Father was a Cuckold, and you're the Son of a Whore.</P>
+</SP>
+<SP>
+<SPEAKER>VVell.</SPEAKER>
+<P>Death, fight now, or you'll die infamous, was your Mother a Whore?</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Comparatively she might be, in respect of some Holy Women, as the Lady <HI>Ramsey,</HI> Mrs. <HI>Katherine Stubbs,</HI> and such, ha, ha, is that a Cause?</P>
+</SP>
+<SP>
+<SPEAKER>VVell.</SPEAKER>
+<P>What, not to say your Mother was a Whore?</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>He may say his pleasure, it hurts not her, she's dead; besides, at best, she was but a Woman, and at worst she might have her Frailties like other. Wo|men. And shall I fight for the Dead, when we are forbid to pray for 'em?</P>
+</SP>
+<SP>
+<SPEAKER>VVell.</SPEAKER>
+<P>But were your Mother living, what wou'd you say?</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>I wou'd civilly ask her if she were a Whore, or no. If she confest it, then he's i th' right, and <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">ought not to fight with him, because my Cause wou'd be naught. If she deny'd it, then he were in the wrong, and I would not fight, for I had better let him live to repent his Errour, you know.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Nay, now if I don't kill thee, let me be hang'd for idleness.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Hold, I am unprepar'd.</P>
+</SP>
+<STAGE>Draws.</STAGE>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>I care not, unless you swear presently, without all Equivocation, upon this Sword.</P>
+</SP>
+<SP>
+<PB N="22" REF="16">
+<SPEAKER>Squeez.</SPEAKER>
+<P>Scabbard and all, I beseech you, the Cover of the Book is allow'd in all Courts to Swear upon.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Well, Sir, now you must swear to challenge the next Man that wrongs you.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Yes, if the wrong give me sufficient Cause.</P>
+</SP>
+<SP>
+<SPEAKER>Well.</SPEAKER>
+<P>Cause agen.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Suppose that Picture Drawer within should take your Mistress from you, as indeed I believe he has already.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>How, give me the Book, give me the Book, I'll have her from him, or him from her, tho' I change the Nature of a Citizen, and turn valiant.</P>
+</SP>
+<STAGE><HI>Ex.</HI> Squeez.</STAGE>
+<SP>
+<SPEAKER>Well.</SPEAKER>
+<P>I love a Man, whom neither Lye, Kick, Battoon, Friends Scandal, Pa|rents, the wrongs of King, Country, or Religion, can move; that will yet fight for his Mistress.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Oh, a Woman is a very moving Cafe. But I must take my leave; my hour draws on, that I must meet my Charming <HI>Isabella.</HI></P>
+</SP>
+<STAGE><HI><GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">A<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">ide.</HI></STAGE>
+<SP>
+<SPEAKER>VVell.</SPEAKER>
+<P>I have Affairs that call on me too, therefore you have saved me the trou|ble of an Apology<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"> Your Servant.</P>
+</SP>
+<STAGE><HI>Exeun<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"> severally.</HI></STAGE>
+<STAGE><HI>Enter</HI> Annabella, Isabell, <HI>and two Footmen.</HI></STAGE>
+<SP>
+<SPEAKER>Ann.</SPEAKER>
+<P>Be sure to observe punctually my Directions, and when he enters, lay him on without mercy.</P>
+</SP>
+<SP>
+<SPEAKER>Foot.</SPEAKER>
+<P>I warrant you, Madam, we'll have as little compassion for him, as the <HI>Fryars</HI> would have for a Baily.</P>
+</SP>
+<SP>
+<SPEAKER>Ann.</SPEAKER>
+<P>I wonder he comes not, 'tis almost near the hour, a true Lover is seldom found tardy at an Appointment.</P>
+</SP>
+<SP>
+<SPEAKER>Isab.</SPEAKER>
+<P>If Lovers find no better incouragement than he is like to do, 'tis enough to make Men forswear Intriguing.</P>
+</SP>
+<STAGE><HI>Enter</HI> Courtwi<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">t.</STAGE>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Away, away into your Chamber quickly, <HI>Hanavent</HI>'s just turning of the Street, and <HI>Squeezwit</HI> has receiv'd your Letter, who will be here immediately, therefore withdraw.</P>
+</SP>
+<SP>
+<SPEAKER>Ann.</SPEAKER>
+<P>We will obey you, noble Doctor.</P>
+</SP>
+<STAGE><HI>Exeunt <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">mnes pre<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">er</HI> Courtwi<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">t.</STAGE>
+<STAGE><HI>Enter to him</HI> Bonavent <HI>disguised like a Physician.</HI></STAGE>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Honest, honest, dear Noble Dr. is the ready for me?</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Mr. <HI>Bonavent,</HI> I am a Fool if I took you not for a real Physician.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>As I take it, this comes pretty near the Disguise you ordered me.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Oh, Sir, most admirably. 'Tis impossible you shou'd be suspected; for she has feign'd her self Sick, and lies longing and languishing, 'till you come to Minister to her.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>And am I come pat? am I come in the nick?</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Your Fortune Sings in the right Cliff, Sir, a Wench as tender as a City Pullet.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>But I hope not so rotten.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Oh, Sir, Health itself, a very Restorative.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>What are these?</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Prepared for your Entertainment.</P>
+<STAGE>Song, then Dance.</STAGE>
+<LG>
+<L>AS <HI>Strephon,</HI> clasp'd in <HI>Celias</HI> Arms,</L>
+<L>In melting Raptures dy'd;</L>
+<L>Nought but her highest Heaven of Charms,</L>
+<L>By the kind Nymph deny'd.</L>
+</LG>
+<LG>
+<HEAD>II.</HEAD>
+<L>Ah <HI>Celia,</HI> in a murm'ring v<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">ice,</L>
+<L>Tous did the Touth repine<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"></L>
+<L>I've tasted Bliss 'bove H<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">ma<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">e <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">oys,</L>
+<L>Te<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"> <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"> compleat Divine.</L>
+</LG>
+<LG>
+<HEAD>III.</HEAD>
+<L>Way must I only touch the Shear;</L>
+<L>The Out-Land Coast of pleasure;</L>
+<L>Le<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"> to the Ga<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">e that keeps Loves store,</L>
+<L>And yet deba<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">'d the Treasure.</L>
+</LG>
+<P>Will you in, Sir, the way lies open for you.</P>
+</SP>
+<SP>
+<PB N="23" REF="16">
+<SPEAKER>Bon.</SPEAKER>
+<P>Here, Dear, Dr. take you these hundred Pieces, let 'em be your Charge</P>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Well, in spight of the Justice that provok'd me, my Conscience a little turns at these vain tricks. But they have all been ungrateful to me. Ingratitude is a sin should have no mercy. 'Tis the Plague Spot, who has it, should not live.
+<Q><L>If Holy Wisdom from the thundring Cloud,</L>
+<L>Had given more Laws than ten, this had ensu'd,</L>
+<L>Avoid, oh Man, Man's shame, Ingratitude.</L></Q>
+For my poor Lot, I could have sweetly slept in quiet want, had not uncourteous scorn
+<Q><L>Been thrown upon me, now they all shall feel,</L>
+<L>When Honest Men Revenge, their Rods are Steel.</L></Q></P>
+</SP>
+<STAGE><HI>Enter</HI> Annabela, Isabell, <HI>two Footmen beating on</HI> Bonavent.</STAGE>
+<SP>
+<SPEAKER>Ann.</SPEAKER>
+<P>Out you Villain, do you think to dishonour me!</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Hold, good Lady, I am&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Ann.</SPEAKER>
+<P>A sawcy Rascal thou art, take that in remembrance.</P>
+</SP>
+<STAGE><HI>Exeunt</HI> Annab.</STAGE>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Hold, good Lady.</P>
+</SP>
+<STAGE>Isab. <HI>and Footmen.</HI></STAGE>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>I thank you, good Mr. Dr.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Oh, 'tis not so much worth, Sir, verily.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Oh, but it is, Sir. Rogue, Dog&mdash; Nay, prithee dear Rascal, pox on thee, I meant thee no hurt, my honest Vagabond. But tell me, dear Rogue, tell me who put this Trick upon me, tell me whose Plot was it, at whose suit was I Cudgel'd? Why was I made to feign my self a Physician, 'till I am forced to go to the Surgeons; tell me, if thou darest?</P>
+</SP>
+<STAGE><HI>Draws his Sword from under his Gown.</HI> Courtwitt <HI>closes, and disarms him.</HI></STAGE>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Why then I will tell you, this Beating was procured you by your Com|panion, and Rival, Mr. <HI>Squeezewit.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>How, by that City Sheep's-face!</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Even he; his Gold, and fair Promises wrought upon me.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>'Oons, I'll grind the Dog to Powder.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Have patience, I'll put you in a way how you may take your Revenge with more safety.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Tell me then, dear Rogue, and I will not only forgive thee, but Re|ward thee Richly.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Why then, because I would have both your shoulders go in one Livery, I will assist you. Why, Sir, Knavery is as Restorative to me, as Spiders to Monkeys; the Poison of Wit feeds me.</P>
+</SP>
+<STAGE><HI>Enter</HI> Squeezwit. Look you, Sir, here he comes, take this Cudgel, and stand close, and when you see him hang by the middle in a Rope; let your Fist and Cudgel fall heavy.</STAGE>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Ay, and soundly; my ambitious blows shall strive which shall go foremost.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>You will do well, Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Be sure draw him up but half way.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>I warrant you, Sir, but I must up to receive him.</P>
+</SP>
+<STAGE>Exit. Courtwitt</STAGE>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Do so: now will I be so reveng'd, he had better been taken by in Bed with <HI>Annabella,</HI> than have prevented me thus.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>I am sure this is the Window her Letter appointed me to come to, to be drawn up with a Rope. 'Sdiggers, forgive me for Swearing, 'twou'd scarce vex a Man to be hang'd in a Rope for such a delicious Morsel.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>But to be bang'd in a Rope, perhaps may somewhat provoke you; wou'd
+<PB N="24" REF="17">
+they would begin once, that I might be at work, I don't love to stand idle in the Cold, thus.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Honest, honest, Dr. <HI>Pundor<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters">,</HI> Dr.</P>
+</SP>
+<STAGE>Courtwitt <HI>above.</HI></STAGE>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Here, Sir, here, I watch to do you a good turn, will you mount, Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Mount! ay, I will mount, remount, and furmount; I will dance in a Rope to the Mistress of my affections, and afterwards bequeath it to the Cuckold, her Husband.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Now mount, Sir, I pluck Couragiously. <HI>Pray Hercules</HI> my strength fail me not.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Up, up, Sir.</P>
+</SP>
+<STAGE><HI>Cudgels</HI> Squeezewit.</STAGE>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Pox, and Pain. Pull, pull, Dr.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Save you, Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>I am most sensible of your Sal<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters">ation; pluck, Dr.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Alas, the Cord sticks, I'll call some help.</P>
+</SP>
+<STAGE>Exit from above.</STAGE>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Death, and Devils.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Fists, and Cudgels.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Hearts, Lungs, Lights.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Arms, Shoulders, Sides.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Help, help, Murther.</P>
+</SP>
+<STAGE><HI>Enter</HI> Courtwitt.</STAGE>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Passion of me, what's here? a Dr. I'll Dr. You. Away.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Ah, redeem me, redeem me, dear Dr.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Yes, Sir, I come for the same purpose. Alas, me thinks I feel your Blows my self. Are you not sore, Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Sore, Sir, a Pox on thee, cou'dst not thou pluck?</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Sure I was Planet-struck, the Rope stuck in a slit, Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>A Pox of the slit, I say.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Do you know this mad Dr. or do you owe a Dr. any thing?</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>I know no Dr. but thy self, and thou hast been a damn'd unlucky Ac|quaintance to me hitherto. Nor did I ever owe any thing to a Dr. only I am indebted to my Barber-Surgeon for a Diet-Drink.</P>
+</SP>
+<STAGE><HI>Enter</HI> Bonavent <HI>in his own Cloaths.</HI></STAGE>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Put your F<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">ce in order, here comes Company.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Ha! <HI>Squeezwit,</HI> heartily how is't?</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>As heartily as you please, but not so hard; prithee.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Why, what's the matter, Man?</P>
+</SP>
+<SP>
+<SPEAKER>Squeeze.</SPEAKER>
+<P>I run against a Post just now, and bruis'd my sides.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Parmasity is very good for a Bruise, or the Skin of a flead Cat.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>A flead Cat!</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>The Fly-blows of a dead Dog made into Oil, and spread upon the Skin of a measled Hog. Come, <HI>Squeezwit,</HI> come with me, I have a Remedy shall Cure thee, presently. Farewell, Dr.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Unbruised Bones, and a smooth Forehead, to you, Dr.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Your Servant, Gentlemen.</P>
+</SP>
+<STAGE><HI>Exeunt</HI> Bon. <HI>and</HI> Squeez. Why, I have got more Mony in this one days Cozenage, than ever I did in my whole Life of Honesty. But least my Fortune cool, I'll make use of each momen<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"> nor will I miss a Path that leads to my advantage.&mdash;My Mother, right, she must be drawn in next. Nor am I even with my Draper. But the Princi|pal Affair, my Mortgage from the Widow, there I am foundred. O Fortune, Fortune, stand my Friend in that, and I'll forgive the rest.</STAGE>
+<STAGE>Exit.</STAGE>
+</DIV3>
+<DIV3 TYPE="scene">
+<PB N="25" REF="17">
+<HEAD>SCENE Changes.</HEAD>
+<STAGE><HI>Enter</HI> Mr. <HI>and</HI> Mrs. <HI>Sneaksby.</HI></STAGE>
+<SP>
+<SPEAKER>Mrs. <HI>Snea.</HI></SPEAKER>
+<P>VVEll Sir, Now to what you have to say to me, His Ma|jesty you say wou'd buy some Jewels, shall I deal plainly with you, my Husband has quite left off his Trade, and disposed so of his Goods, that we have not a Jewel left.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>I am very sorry for't. It was your Son's earnest Request to His Majesty that his Father should be sent for.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>Snea.</HI></SPEAKER>
+<P>Shall I tell you Sir, (<HI>pray Husband stand aside</HI>) My Son-in-Law <HI>Courtwitt,</HI> whom I hope wou'd have proved a crafty Courtier, proved an honest Man, by Consequence a Beggar; which when I perceived, and that every Stranger abused him, I having more Wit than he, fell to, and Cozen'd him my self, and pretending to go to a Ball, borrowed of him two Jewels of great Value. Now Sir, I come to you.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Ay! Now you come to the point.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>Snea.</HI></SPEAKER>
+<P>Right Sir, for there is no Woman, though she use never so many By-Words, but yet in the End will come to the point. Now Sir, I having these Jewels will send 'em by my Husband, a poor easie weak Man as you see, but very Obedient in Truth.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Very good.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>Snea.</HI></SPEAKER>
+<P>So you shall present 'em, praise 'em, and raise 'em, the King pays, my Husband returns, and we'll share; d'ye Mark!</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Nay I admire.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>Snea.</HI></SPEAKER>
+<P>Away then, no Compllments; my Husband shall come early in the Morning.</P>
+</SP>
+<STAGE><HI>Exit</HI> Courtwitt.</STAGE>
+<P>Come your ways hither Husband, put off your Hat, make a Leg, Look simply&mdash;why so&mdash;I have Jewels for you to carry to the King.</P>
+<SP>
+<SPEAKER>Mr. <HI>Snea.</HI></SPEAKER>
+<P>Yes forsooth I'le carry 'em.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>Snea.</HI></SPEAKER>
+<P>Look you Sir, you are so quick. I have charg'd you not to shoot your Bolt before you know your Mark. You shall carry 'em, sell 'em at my price; and now cast no farther. You see the Limits of your Commission. Now Sir, how will you behave your self to the King, how will you bear your self at Court.</P>
+</SP>
+<SP>
+<SPEAKER>Snea.</SPEAKER>
+<P>I hope I am not too wise to Learn.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>Snea,</HI></SPEAKER>
+<P>Why, that's well spoken. Now mark, I will instruct you. When you come at the Court-Gate, neither knock, nor make water. You must go thro' the Hall cover'd, thro? the Presence bare, thro' the Privy Lob|by cover'd, to the King bare.</P>
+</SP>
+<SP>
+<SPEAKER>Snea.</SPEAKER>
+<P>I'le do't, I warrant you. Let me see; at the Court Gate neither knock nor piss. May not a man break wind!</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>Snea. Ump<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">.</HI></SPEAKER>
+<P>Yes, but then it must be like the <HI>Encbiqu<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">r</HI> payment somewhat abated.</P>
+</SP>
+<SP>
+<SPEAKER>Snea.</SPEAKER>
+<P>Through the Hall bare.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>Snea.</HI></SPEAKER>
+<P>Cover'd.</P>
+</SP>
+<SP>
+<SPEAKER>Snea.</SPEAKER>
+<P>Cover'd, through the Presence Cover'd.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>Snea.</HI></SPEAKER>
+<P>Bare.</P>
+</SP>
+<SP>
+<SPEAKER>Snea.</SPEAKER>
+<P>Bare. Well I will put it down in my Table Book, and con it by the way.</P>
+</SP>
+<SP>
+<PB N="26" REF="18">
+<SPEAKER>Mrs: Snea.</SPEAKER>
+<P>Well thought on. Something I see he has in him like my Hus|band. But now you come before the Brow of Royalty. Now for your Carriage there. Suppose me the King. Come in, and present, here sits Royalty.</P>
+</SP>
+<STAGE><HI>a Chair.</HI> There Enters the Jeweller, make your Honours, let me see you do it hand|somely.</STAGE>
+<SP>
+<SPEAKER>Snea.</SPEAKER>
+<P>Yes now I come in, make my three Legs, and then&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>Snea.</HI></SPEAKER>
+<P>Kneel.</P>
+</SP>
+<SP>
+<SPEAKER>Snea.</SPEAKER>
+<P>Yes and say</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>Snea.</HI></SPEAKER>
+<P>What</P>
+</SP>
+<SP>
+<SPEAKER>Snea.</SPEAKER>
+<P>I can't tell</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>Snea.</HI></SPEAKER>
+<P>And please your Majesty, may I have certain Jewels to present liking.</P>
+</SP>
+<SP>
+<SPEAKER>Snea.</SPEAKER>
+<P>And please your Majesty I have certain Jewels to present to your liking,</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>Snea.</HI></SPEAKER>
+<P>Sirrah, you are a Cuckoldy Knave, and have often abused me with false and deceitful Jewels.</P>
+</SP>
+<SP>
+<SPEAKER>Snea.</SPEAKER>
+<P>I sell none but Right, e'ne please your Majesty.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>Snea.</HI></SPEAKER>
+<P>Why then, that's well, very well, something I see he has in him like my Husband; come I'le Disguise you, and then for the Court<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"></P>
+</SP>
+<SP>
+<SPEAKER>Snea.</SPEAKER>
+<P>Truly Wife I fear I shall be discover'd among the Gallants pre|sently.</P>
+</SP>
+<STAGE><HI>Ex.</HI> End <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"> Act.</STAGE>
+</DIV3>
+</DIV2>
+<DIV2 N="4" TYPE="act">
+<HEAD>ACT IV.</HEAD>
+<STAGE><HI>Enter</HI> Courtwitt <HI>and</HI> Jeremy, <HI>with a Let<GAP DESC="illegible" RESP="pdcc" EXTENT="3 letters">.</HI></STAGE>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>VVEll <HI>Doll,</HI> for that thou sayest is thy Name; though I have forgotten thee I protest, about <HI>London</HI> VVell was it sayest thou? VVell, I can't but highly commend thy VVit in this, that hast so well mended thy Election; for being a Fountain of Aches, Bald Brows and broad, Plaisters, thus to remember thy Creation.</P>
+</SP>
+<SP>
+<SPEAKER>Iery.</SPEAKER>
+<P>I did consider, and I think rightly what I was, and that Men who loved my Use, loved it but to loath me; therefore I changed my self into the shape of a demure Country VVidow; that had scarce Beauty enough to be tempted, and quite forsook the path I trod in, and betook me to this private way of Cozenage.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>But all my VVonder is at the means, how thou gottest into this and Reputation, and to be held a VVoman of such an Estate.</P>
+</SP>
+<SP>
+<SPEAKER>Iery.</SPEAKER>
+<P>That shall be made plain hereafter.</P>
+</SP>
+<STAGE><HI>Enter</HI> Crack. Now Brother, where did you leave Mr. <HI>Hickman?</HI></STAGE>
+<SP>
+<SPEAKER>Crack.</SPEAKER>
+<P>Amongst the Mercers Madam, so troubled as if all the Silk in <HI>Pater-Noste<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">-Row</HI> were not enough to make your VVedding Gown. He is over|joyed that his Happy Day is at Hand. I once heard him invite one special Friend to his Nuptials, he cannot contain himself: On a sudden he fell a sing|ing. Oh she's a dainty VVidow, <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">eark, I think I hear him coming.</P>
+</SP>
+<STAGE><HI>Enter</HI> Hickman <HI>Singing.</HI></STAGE>
+<SP>
+<SPEAKER>Lady.</SPEAKER>
+<P>VVhere are you VVidow? Sweet VVidow where are you? Look you VVidow, how do you like these Patterns?</P>
+</SP>
+<SP>
+<PB N="27" REF="18">
+<SPEAKER>Ierem.</SPEAKER>
+<P>Sir, here's a Gentleman has a Letter for you, he tells me it concerns the making or undoing his dearest Friend.</P>
+</SP>
+<SP>
+<SPEAKER>Hick.</SPEAKER>
+<P>From whom is your Letter Friend?</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>From one Mr. <HI>Courtwitt</HI> Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Ierem.</SPEAKER>
+<P>It will take Effect doubt not.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>He scratches his Head tho&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Ierem.</SPEAKER>
+<P>He had as lieve part with his Blood as his Mony.</P>
+</SP>
+<SP>
+<SPEAKER>Hick.</SPEAKER>
+<P>Mr. <HI>Courtwitt</HI> writes to me for a hundred and fifty pounds. The Value of a Ring I had of him, I grant I am to pay him three hundred at my day of Marriage but we are all mortal, and who knows but I may dye to Night.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>VVhy then your Bond is due, for 'tis equally payable at your hour of Death or Marriage.</P>
+</SP>
+<SP>
+<SPEAKER>Hick.</SPEAKER>
+<P>Ay! but such payments never trouble a man.</P>
+</SP>
+<SP>
+<SPEAKER>Ierem.</SPEAKER>
+<P>Are you in Bonds Mr. <HI>Hickman</HI> for your day of Marriage.</P>
+</SP>
+<SP>
+<SPEAKER>Hick.</SPEAKER>
+<P>Only 300 <GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters">, 'tis for that Ring I gave you upon our Contract, it is worth a hundred and fifty ready mony.</P>
+</SP>
+<SP>
+<SPEAKER>Ierem.</SPEAKER>
+<P>Then when you're Marry'd, you may say you paid the rest for your VVife. Pray Sir, make even Reckonings before you VVed, 'twill show No|bly in you to your poor Creditor, and be a special Argument of your Love to me. Pray discharge it. I shan't think you love me else</P>
+</SP>
+<SP>
+<SPEAKER>Hick.</SPEAKER>
+<P>Hark you Friend, if you'll take a hundred and fifty pound in full payment, and give me in my Bond, here's your mony, 'tis your best Course; alas, I am an unlikely fellow for VVedlock. Do take a 150 <HI>l.</HI></P>
+</SP>
+<STAGE>aside to Court.</STAGE>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>If you'll please to befriend Mr. <HI>Courtwitt</HI> with 150 <HI>l.</HI> I'le set it received on the Bond; here it is, and he shall demand no more till it be due.</P>
+</SP>
+<SP>
+<SPEAKER>Ierem.</SPEAKER>
+<P>Pish, pray Sir, pay it all and take in your Bond, I'le pay it else upon my word, 'Tis but 300 <HI>l.</HI> you say Friend;</P>
+</SP>
+<SP>
+<SPEAKER>Hick.</SPEAKER>
+<P>Sayest thou so VVidow. Come Sir, come in and tell your Mo|ney.</P>
+</SP>
+<STAGE><HI>Exeunt</HI> Hickman <HI>and</HI> Jeremy.</STAGE>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>And thank you good Mr. <HI>Hickman,</HI> that knew so well a Bargain was a Bargain, and not part with your Money to be laugh'd at amongst your Neigbours. I would Laugh heartily now if I durst, but I must Pocket your Mony, and then about my Court Affairs. This VVench I am infinitely be|holding to; she remembers some old kindness that I have forgot. Perhaps I piddled with her when I was a School boy.</P>
+<P>See my worshipful Father-in-Law. Now the Woodcocks shoot in the glade.</P>
+</SP>
+<STAGE>Exit.</STAGE>
+<STAGE><HI>Enter</HI> Sneaksby <HI>to him</HI>; <HI>re-enter</HI> Courtwitt <HI>in <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">aste.</HI></STAGE>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Mr. <HI>Sneaksby</HI>; is one Mr. <HI>Sneaksby</HI> here?</P>
+</SP>
+<SP>
+<SPEAKER>Snea.</SPEAKER>
+<P>Yes, here is Mr. <HI>Sneaksby</HI> for a need Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Well said, be bold, let nothing daunt you. Here give me the Jewels.</P>
+</SP>
+<SP>
+<SPEAKER>Sneak.</SPEAKER>
+<P>Yes Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Let me alone to present 'em to His Majesty, and praise 'em before you come.</P>
+</SP>
+<SP>
+<SPEAKER>Sneak.</SPEAKER>
+<P>Will you do so Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>But betwixt us both, we'll make a shift to Cozen him. Stay you here I'le return presently.</P>
+</SP>
+<SP>
+<PB N="28" REF="19">
+<SPEAKER>Sneak.</SPEAKER>
+<P>Peace Son peace; the Jewels are sent in: I shall be sent for to His Majesty presently.</P>
+</SP>
+<SP>
+<SPEAKER>Amin.</SPEAKER>
+<P>Midsummer Moon, Midsummer Moon.</P>
+</SP>
+<SP>
+<SPEAKER>Sneak.</SPEAKER>
+<P>Nay indeed Son, happen as it will, we are both obliged to Mr. <HI>Ho|lywater.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Amin.</SPEAKER>
+<P><HI>Holywater.</HI> The Devil take me if I don't understand the Baboons mumping better than your Speech. Why, you are more dark than <HI>Delphos.</HI> What <HI>Holywater</HI><GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"></P>
+</SP>
+<SP>
+<SPEAKER>Sneak.</SPEAKER>
+<P>VVhy<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"> the Gentleman that you sent to bring me to serve the King with Jewels. VVhy Son, you need not be afraid, your Mother has told me how to behave my self.</P>
+</SP>
+<SP>
+<SPEAKER>Amin.</SPEAKER>
+<P>Father, Heav'n pardon me, for I have a great desire to call you Coxcomb. I sent no Man, nor is there any so Styled as <HI>Holywater</HI> about the Court.</P>
+</SP>
+<SP>
+<SPEAKER>Sneak.</SPEAKER>
+<P>Oh Law!</P>
+</SP>
+<SP>
+<SPEAKER>Amin.</SPEAKER>
+<P>Don't you want Sleep Sir, or han't you seen a Spirit! Or has not my Mother over beaten you. You may tell me Father.</P>
+</SP>
+<SP>
+<SPEAKER>Sneak.</SPEAKER>
+<P>Son, I am not so very a Fool, but I perceive I am made a s<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">ark Ass. Oh Son, thy Father is Cozen'd, and thy Mother will beat me indeed, unless you can conceal me in the Court till her Fury be over.</P>
+</SP>
+<SP>
+<SPEAKER>Amin.</SPEAKER>
+<P>Come come, don't weep Father, I'le lock you in my Lodging while I go and beg your Pardon of my Mother.
+<STAGE>Exit.</STAGE></P>
+</SP>
+<STAGE><HI>Enter</HI> Courtwitt <HI>disguis'd like a French Dancing Master.</HI></STAGE>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Now whilst my politick Mother-in-Law is in expectation of her great Adventure, and my worshipful Father-in-Law stinks at Court for fear, I in this last Disguise will persue my New Affairs: Methinks these Jewels Smile on me, now more chearfully, than when they were my own before. Pirst to my honest Punk.</P>
+</SP>
+<STAGE>knocks.</STAGE>
+<STAGE><HI>Enter</HI> Crack <HI>with a Letter.</HI></STAGE>
+<SP>
+<SPEAKER>Crack.</SPEAKER>
+<P>VVho wou'd you speak with Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>VVhy, thy Sister, dost not know me, prethee look better on me.</P>
+</SP>
+<SP>
+<SPEAKER>Crack.</SPEAKER>
+<P>Oh is't you! Hang me if I knew you in this Habit, though I was left here on purpose to watch for you.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>VVhat's the matter <HI>Ieffery</HI>?</P>
+</SP>
+<SP>
+<SPEAKER>Crack.</SPEAKER>
+<P>Sir she's fallen into a New Fit of melancholy; some New Project she has in her Noddle. But she desires you to work upon this.</P>
+<STAGE>gives a Paper</STAGE>
+<P>I dare not be seen to talk with any Body. Farewel.
+<STAGE>Exit</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>VVhat New Device is this?</P>
+</SP>
+<STAGE>Reads <HI>Since I last saw your Mother-in-Law Mrs.</HI> Sneaksby, <HI>she has mightily Solicited me for a Bride to her Son</HI> Aminadab. <HI>If there may be any wrought out of it to benefit you, I will suddenly take oc|casion to break with the Fool</HI> Hickman, <HI>of whom</HI> I <HI>am hear|tily weary; and afterwards be wholly disposed by you.</HI></STAGE>
+<P>Sure this VVench studies nothing but my profit. Let me see I have thought already how to make the best of her, and will about it instantly. That is my Reverend Mothers House.</P>
+<STAGE>Knocks.</STAGE>
+<STAGE><PB N="29" REF="19"><HI>Enter</HI> Issabella.</STAGE>
+<SP>
+<SPEAKER>Iss.</SPEAKER>
+<P>VVou'd you speak with any here, Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>VVe Madame, me wou'd speak wid Metress <HI>Sneaksby.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Iss.</SPEAKER>
+<P>May not I deliver your mind to her Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Me have a de bisness is of grand Secresie.</P>
+</SP>
+<SP>
+<SPEAKER>Iss.</SPEAKER>
+<P>Be pleas'd then Monsieur to walk in with me, and I'le Conduct you to her.</P>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<DIV3 TYPE="scene">
+<HEAD>SCENE Changes.</HEAD>
+<STAGE><HI>Re-enter</HI> Courtwitt <HI>and Mrs</HI><GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"> Sneaksby <HI>Reading a Letter.</HI></STAGE>
+<SP>
+<SPEAKER>Mrs. <HI>Sneak.</HI></SPEAKER>
+<P>Am I then Cheated; my VVit begins to be out of Counte|nance: Oh the Plague that hangs over her Head who has a Fool to her Husband. But I forget my self. VVell Monsieur your business with me.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Madam, me have here de grand Character of your Vit, and admi|rable understanding. Me have likewise hear of your Jenerosity, and Court|like Behaviour, de which has embolden me to make my Application to you, ma<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">oy.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>Sneak.</HI></SPEAKER>
+<P>Monsieur I am very glad that the world conceives that just Opinion of me; for indeed 'tis such a malicious Age we live in, that do what we can to merit Praise, the ingratitude of our Neighbours casts Ca|lumny upon us, which makes us obnoxious to the Eyes of the world.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>But your La&mdash;ship&mdash;<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"></P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>Sneak.</HI></SPEAKER>
+<P>Pardon me Monsieur, if I speak beyond your Capacity of understanding. How happy are the Ladies of <HI>France,</HI> that continually enjoy the Society of well bred Gentlemen. Have you any Fools in <HI>France,</HI> pray Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Indeed Madame.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>Sneak.</HI></SPEAKER>
+<P>Forgive me if I have ask'd an Improper Question. But pray Sir to your Business.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Madam, I am a decay Gentleman dat now profess Dancing.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>Sneak.</HI></SPEAKER>
+<P>Good lack a day, what pity 'tis such an abrodietical Person should want wherewith to accrew. But pray go on Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Now me have by boon Carriage, and modest behaviour won up|on de Affection of a fair Lady, but me no having de convenience of some Friend to Countenance me, and some fit housing to bring her to, she hold off from consummating our Marriage; now if your La&mdash;ship&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>Sneak.</HI></SPEAKER>
+<P>I apprehend you Sir, bring her to me, Lodge her with me, I'le call you Cozen. Is she very rich!</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Garsoon wort ten tousand pound. She be de VVidow, she lye over de way at Monsieur, vat you call him!</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>Sneak.</HI></SPEAKER>
+<P><HI>Hickman.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>VVe Madame, Monsieur <HI>Hickman.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>Sneak.</HI></SPEAKER>
+<P>By<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"> Lady, a Match for my Son and Heir, bear a Brain Mon|sieur Dancer, or I may chance shew you a cross Caper. Sir bring your VVidow, and swear to your self my House is yours.</P>
+</SP>
+<STAGE>aside.</STAGE>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Madame, me tendra my tank, and am your mush Oblige Vassal, begar.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>Sneak.</HI></SPEAKER>
+<P>So, this is some amends for the loss of my Jewels. If I can but obtain this VVidow for my Son, I am a made VVoman.</P>
+</SP>
+<STAGE>Exit.</STAGE>
+<STAGE><PB N="30" REF="20"><HI>Enter</HI> Bon. <HI>and</HI> Squeezwit.</STAGE>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Sirrah, 'tis in vain to pine, for I must and will take you in hand.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>There's most admirable News come from <HI>Flanders,</HI> they say.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Tell me that I know not, and prepare to answer my Questions.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>I believe there will be a rare Army there this Summer.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Leave your By Fly-flams, and speak to the purpose.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Why, I have sworn; don't you know I have sworn.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>To live and die a beaten Ass, have you not?</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Sdiggers! Forgive me for Swearing. What makes you so angry?</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Angry! why, you Sheepshead, is every Schoolmaster angry that gives Discipline with Correction.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Pox on him, wou'd he were at <HI>P<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">nsans</HI> again.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Didst not thou tell the Widow that I was a Coward in my own Country, and kick'd out of <HI>Cornwall.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Comparatively I did, in respect of St. George, that <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"> Giant<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">, and flew Dragons.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Pox of your comparative Lies. And did you not tell her, that I was pepper'd to full of the Whatd'ecallums, that I was able to poison <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"></P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Why, that was comparatively too, in respect of a pure Virgin, <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"> Chrisom Child, or so.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Incorrigible Coward, I will provoke thee, if it is possible, a So<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">un|drel, nay, I say now, art not thou a Pickpocket, speak.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Why, comparatively it may be said I am to a Church warden, a Collector for the poor, or so.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>The Conclusion is, that if ever I hear you mention my Name in any <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">a<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">e whatsoever, I'll beat thee into Mummy.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>In my good Wishes and Prayers I may. Heaven forbid else.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>No, not in your Prayers, I won't have you mention me, you Dog; you'd better never pray.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Well, Heaven forbid I shou'd then.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>And make thy Oath good on that Fellow that has ta'he thy <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"> from thee, or&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Why he has not taken her yet, has he?</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>You have not seen him nor her these two hours. Besides the Widow has call'd for her, and she is not to be found.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>True, true, and if I be nor revenged.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Do't then, now whilst thou art hot. See here they come. how mind, or by my Sword.</P>
+</SP>
+<STAGE><HI>Enter</HI> Venture <HI>and</HI> Carroll.</STAGE>
+<SP>
+<SPEAKER>Vent.</SPEAKER>
+<P>Believe me' Madam, there is no Danger whatsoever, but I wou'd willingly hazard for the possession of your dear self.</P>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<P>I must confess you have shewn your self in all things a worthy Gentleman, and one that I had never much dislike to. I have been soli|cited by many, especially that <HI>Squeezwit,</HI> whom I hate for his abomi<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">able Cowardise.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Coward, Madam! you are mistaken. I am no Coward, sdiggers, forgive me for swearing, I am as good a Man, no Dispraise to any one, as he that talked with you last. And <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">gad, for all his fierce Look, I have you, and I'll keep you, and <HI>Lucifer</HI> himself shan't take you from me.</P>
+</SP>
+<SP>
+<PB N="31" REF="20">
+<SPEAKER>Car.</SPEAKER>
+<P>Heyday, you're valiant of a sudden<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"></P>
+</SP>
+<STAGE><HI>Takes her from</HI> Venture.</STAGE>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Valiant<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"> Madam, I have cause to be valiant, and I will be valiant, s<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">iggers, I'll fight to die, and die to fight again.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Death! go take her from him. What, afraid! By this Light he's a <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"> Coward than <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">'ot<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">er<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"> <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">id, what a terrible Rage he's in that is Vanquisher.</P>
+</SP>
+<SP>
+<SPEAKER>Vent.</SPEAKER>
+<P>Sir, she is mine by promise.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>She's mine by Act and Deed, according to the Flesh, do you deny it, Sir<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">aho if you dare <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"></P>
+</SP>
+<SP>
+<SPEAKER>Vent.</SPEAKER>
+<P>That shall be tryed by Law.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>By Law of Hands and Arms is shall: take that and be sa|<GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"></P>
+</SP>
+<STAGE>Boxes him.</STAGE>
+<SP>
+<SPEAKER>Vent.</SPEAKER>
+<P>Bear witness, he struck me.</P>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<P>O pityful Picture drawer.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>What, won't he draw, then I am resolved I will.</P>
+</SP>
+<STAGE>Draws.</STAGE>
+<SP>
+<SPEAKER>Vent.</SPEAKER>
+<P>What would you have, Sir, if she be yours, take her.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>No, no, that won't do. I'll make thee fight. Sdiggers, what <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"> I <GAP DESC="illegible" RESP="pdcc" EXTENT="1 span"> but be valiant to be <HI>Cesar.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<P>Oh brave <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"></P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Why dost <GAP DESC="illegible" RESP="pdcc" EXTENT="1 span"> thou Fellow thou!</P>
+</SP>
+<SP>
+<SPEAKER>Vent.</SPEAKER>
+<P>She'<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters"> <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"> thy, and she does not deny it; wou'd you have me fight with <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"></P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>I'll make you fight, or cut you into pieces.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>By this Light he's turning my Words over to him.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P><GAP DESC="illegible" RESP="pdcc" EXTENT="1 span"> for, Snivel, to hurt Mens Feet tha<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"> <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"></P>
+</SP>
+<STAGE>Kicks him</STAGE>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Nay, now thou art too severe.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Hold your peace, I'll <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">ou<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"> your Heads together else, and so beat t'one with <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"></P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>'Slife! he'll beat me too.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>What do you wear a Sword for, I say! speak, or by my terrible Fit of Valour, I'll rip thee up as <HI>Ne<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"></HI> did his Mother, and hang thee up for a Sign, with a Cord made of thy small Guts.</P>
+</SP>
+<SP>
+<SPEAKER>Vent.</SPEAKER>
+<P>Some other time, and in a fitter place.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Sirra, you lie, strike me for that, or I'll dig thy Brains out, and make a Punch Bowl of thy Skull.</P>
+</SP>
+<SP>
+<SPEAKER>Vent.</SPEAKER>
+<P>You see this, Mr. <HI>Bonavent.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<P>Ay, and I see it too. Was ever any Woman so cozened in a Man!</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Hark, you Sheeps face, the Woman you love and doat upon is a Whore.</P>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<P>How's that?</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Hold, hold, that was wrong. Your Father was a Whore&mdash; no your Father was a Cuckold though, and you're the Son of a Whore.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Rare! I shall love this Fellow.</P>
+</SP>
+<SP>
+<SPEAKER>Vent.</SPEAKER>
+<P>Well, Sir, I can take all this upon Account.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>You count all this is true then. Go, you're an incorrigible Coward, you're a&mdash;what was the last ugly Name you called me, Mr. <HI>Bo|nave<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">nt.</HI> Oh I remember now. Sirrah, you're a Pickpocket.</P>
+</SP>
+<SP>
+<PB N="32" REF="21">
+<SPEAKER>Vent.</SPEAKER>
+<P><GAP DESC="illegible" RESP="pdcc" EXTENT="1 span"> I am discouered <GAP DESC="illegible" RESP="pdcc" EXTENT="1 span"></P>
+</SP>
+<SP>
+<SPEAKER><HI>Squeez<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"></HI></SPEAKER>
+<P>What do you start? Nay then I say <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"> you're a Pickpoket, and give me my Money, and him his, <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"> I'll cut your Body into <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"> of Salt, and make a pickle for your Soul, you Dog</P>
+</SP>
+<SP>
+<SPEAKER>Vent.</SPEAKER>
+<P>Hold, hold, Sir, pray. Gentlemen, <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"> you will grant me pardon, and forbear the Law, I'll answer you.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Agreed, agreed.</P>
+</SP>
+<SP>
+<SPEAKER>Vent.</SPEAKER>
+<P>Why then indeed I am a Pickpocket.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Comparatively or positively? speak positively, or Ill beat thee su|perlatively.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>By this Hand, a brave Boy.</P>
+</SP>
+<SP>
+<SPEAKER>Vent.</SPEAKER>
+<P>Here is your Watch, and Money: and here is yours. Now as you're Gentlemen, use no Extremity.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Beyond all expectation.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Miraculous! Oh the Effects of Valour.</P>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<P>Was ever Woman so mistaken on both sides.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>But dost thou think thou'rt really valiant?</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>You had best try. Sdiggers come both of you, I'll send you into the other World as easily as that Fellow picks a Pocket.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Nay faith, I'll not put thee out of this honour.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Is this your Picture drawing? Are you the King's Picture drawer? A very pretty Denomination for a Curpurse, that draws the Kings Pictures out of Mens Pockets. Come, Sir, come in with us.</P>
+</SP>
+<SP>
+<SPEAKER>Vent.</SPEAKER>
+<P>Pray use me kindly, Gentlemen.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Yes, we will use you in your kind. Oh that I cou'd meet with that mad God <HI>Plutus</HI> now that took my Money from me.</P>
+</SP>
+<STAGE>Sings.</STAGE>
+<L>First with his Head</L>
+<L>I'd Exercise my Blad<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">.</L>
+<P>'Sbud, I wou'd not be a Coward again to be made Lord May<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">r.</P>
+<STAGE>Ex.</STAGE>
+<P><HI>Enter</HI> Widow <HI>and Maid.</HI></P>
+<SP>
+<SPEAKER>Wid.</SPEAKER>
+<L>I cannot be easie till I have seen this <HI>Wellborne.</HI></L>
+<L>I never thought to trouble him with too much Love.</L>
+<L>Why should he bind me from it, and make me Swear,</L>
+<L>Never to Love him? It has vext me strangely.</L>
+<L>See, is not that <HI>Wellborne</HI> coming.</L>
+</SP>
+<SP>
+<SPEAKER>Mayd.</SPEAKER>
+<P>Yes Madam</P>
+</SP>
+<SP>
+<SPEAKER>Wid.</SPEAKER>
+<P>I must talk with him.</P>
+</SP>
+<SP>
+<SPEAKER>Mayd.</SPEAKER>
+<P>Before he speaks to you!</P>
+</SP>
+<SP>
+<SPEAKER>Wid.</SPEAKER>
+<P>Ay ay, and better so then lose him.</P>
+</SP>
+<STAGE><HI>Enter</HI> Wellborne.</STAGE>
+<P>You're well met Sir; are you not a strange man, what can you mean! Is it because I have dealt justly by you! told you my heart without Flattery, that you take these wicked Courses.</P>
+<SP>
+<SPEAKER>Well.</SPEAKER>
+<P>What the Devil, is she run mad since I last talked with her.</P>
+</SP>
+<SP>
+<SPEAKER>Wid.</SPEAKER>
+<P>Indeed you are to blame; because I can't love you, you'd be des|perate.</P>
+</SP>
+<SP>
+<SPEAKER>Well.</SPEAKER>
+<P>And hang my self for Love.</P>
+</SP>
+<SP>
+<SPEAKER>Wid.</SPEAKER>
+<P>I am much afraid on't. 'T would be a fine Credit for you but it may be you'll go to Hell to be Reveng'd of me. Is this all your Christianity.
+<STAGE>Reads.</STAGE>
+<PB N="33" REF="21">
+But if you have such impious Intentions, why do you send to me to fright me thus! Is this a Letter for a Mistress.</P>
+</SP>
+<SP>
+<SPEAKER>Well.</SPEAKER>
+<P>I send a Letter.</P>
+</SP>
+<SP>
+<SPEAKER>Wid.</SPEAKER>
+<P>You had best deny your' Hand.</P>
+</SP>
+<SP>
+<SPEAKER>Well.</SPEAKER>
+<P>My Name is subscribed; who has done this!</P>
+<STAGE>Reads</STAGE>
+<L>Rivers of Hell I come, <HI>Charon,</HI> thy Oar</L>
+<L>Is needless, I will swim unto the shore,</L>
+<L>And beg of <HI>Pluto</HI> and of <HI>Proserpine</HI></L>
+<L>The Torments of the Damn'd may all be mine.</L>
+<L>Wub <HI>Tantalus</HI> I'le stand up to the Chin,</L>
+<L>In Waves, upon <HI>Ixions</HI> Wheel I'le Spin,</L>
+<L>I'le hang my self a hundred times a day.</L>
+</SP>
+<SP>
+<SPEAKER><HI>W<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters">.</HI></SPEAKER>
+<P>There are very short days in Hell.</P>
+</SP>
+<SP>
+<SPEAKER>Well.</SPEAKER>
+<P>And drown my self as often, if you say, The word.</P>
+</SP>
+<SP>
+<SPEAKER>Wid.</SPEAKER>
+<P>Alas, not I.</P>
+</SP>
+<SP>
+<SPEAKER>Well.</SPEAKER>
+<L>And if I ever chance to come</L>
+<L>Within the Confines of <HI>Elyzium.</HI></L>
+<L>The amaz'd Ghosts shall stand aghast to see,</L>
+<L>How I will hang my self on every Tree.</L>
+<L>Yours till his Neck be broke</L>
+<L>Wellborne.</L>
+<L>Here's a strange Resolution.</L>
+</SP>
+<SP>
+<SPEAKER>Wid.</SPEAKER>
+<P>Ay, is it not. <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"> Sir, I wou'd not for the world you should come to any danger for me. I can delight in no mans Ruin. Therefore to pre|vent yours, I'le frame my self so Love you.</P>
+</SP>
+<SP>
+<SPEAKER>Well.</SPEAKER>
+<P>You will!</P>
+</SP>
+<SP>
+<SPEAKER>Wid.</SPEAKER>
+<P>I will.</P>
+</SP>
+<SP>
+<SPEAKER>Well.</SPEAKER>
+<P>I thank you Madam. I see then you have Charity for a need.</P>
+</SP>
+<SP>
+<SPEAKER>Wid.</SPEAKER>
+<L>I'le loose my humour to preserve a Life</L>
+<L>You might have met with some hard hearted Miss;</L>
+<L>That wou'd have suffer'd you to hang or drown your self.</L>
+</SP>
+<SP>
+<SPEAKER>VVell.</SPEAKER>
+<P>I might indeed.</P>
+</SP>
+<SP>
+<SPEAKER>VVid.</SPEAKER>
+<P>And carried News to the distressed Ghosts. But for all this you must believe, that what I do is only to save your Life. There are so many convenient Beams. That you may slip out of the world before any one's aware. Besides you dwell near the River, and if you should be me ancholy, you'd come in after some Tides, and be more talked on than a monstrous <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word">, which to prevent well Marry instantly.</P>
+<P>Come shall we to the Priest.</P>
+</SP>
+<SP>
+<SPEAKER>VVell.</SPEAKER>
+<P>By your good favour, no, I am in no such humour.</P>
+</SP>
+<SP>
+<SPEAKER>VVid.</SPEAKER>
+<P>I warrant you, you suspect I am not in earnest; by my troth I am.</P>
+</SP>
+<SP>
+<SPEAKER>VVell.</SPEAKER>
+<P>To save my Life then, you're content to marry me.</P>
+</SP>
+<SP>
+<SPEAKER>VVid.</SPEAKER>
+<P>Yes.</P>
+</SP>
+<SP>
+<SPEAKER>VVid.</SPEAKER>
+<P>To save thy Life I'de not be troubled with the.</P>
+</SP>
+<SP>
+<SPEAKER>VVell.</SPEAKER>
+<P>How.</P>
+</SP>
+<SP>
+<SPEAKER>VVid.</SPEAKER>
+<L>No, Madam, jeer on. I am now resolved.</L>
+<L>Talk, and talk out thy Heart, I will not lose</L>
+<L>My self a scruple. Have you no more Letters.</L>
+<L><PB N="34" REF="22">I am so far from hanging of my self</L>
+<L>That I will live yet to be thy Tormentor.</L>
+<L>And so farewel then, sickle foolish Widow.</L>
+</SP>
+<SP>
+<SPEAKER>VVid.</SPEAKER>
+<P>Nay, hear me first, upon my Life I Love you.</P>
+</SP>
+<SP>
+<SPEAKER>VVell.</SPEAKER>
+<P>I hope thou dost, that'l may plague thy Soul out.</P>
+</SP>
+<SP>
+<SPEAKER>VVid.</SPEAKER>
+<L>My heart is full, and Modesty forbids</L>
+<L>I should use many Words; I see my Folly.</L>
+<L>You may be just and plague me with like Cruelty.</L>
+</SP>
+<SP>
+<SPEAKER>VVell.</SPEAKER>
+<P>It would be Justice.</P>
+</SP>
+<SP>
+<SPEAKER>VVid.</SPEAKER>
+<P>Come I know you Love me, do not refuse but take me in the Hu|mour. If I go once more back, you ne're recover me.</P>
+</SP>
+<SP>
+<SPEAKER>VVell.</SPEAKER>
+<P>I am as ticklish as you can be.</P>
+</SP>
+<SP>
+<SPEAKER>VVid.</SPEAKER>
+<P>Then let's be wise, and clap it up whilst we are both in the mind. Say, is't a Match? Speak quickly, or for ever hereafter hold your Peace.</P>
+</SP>
+<SP>
+<SPEAKER>VVell.</SPEAKER>
+<P>'Tis done.</P>
+</SP>
+<SP>
+<SPEAKER>VVid.</SPEAKER>
+<P>Agreed.</P>
+</SP>
+<SP>
+<SPEAKER>VVell.</SPEAKER>
+<P>Seal and Deliver:</P>
+</SP>
+<SP>
+<SPEAKER>VVid.</SPEAKER>
+<P>My Hand and Heart:</P>
+</SP>
+<SP>
+<SPEAKER>VVell.</SPEAKER>
+<P>Should you be false now</P>
+</SP>
+<SP>
+<SPEAKER>VVid.</SPEAKER>
+<P>Hold me not worth the Hanging.</P>
+</SP>
+<STAGE><HI>Enter</HI> Annabella <HI>in Mens Cloaths.</HI></STAGE>
+<SP>
+<SPEAKER>Ann.</SPEAKER>
+<P>Stay, stay, thou Cruel fair.</P>
+</SP>
+<SP>
+<SPEAKER>VVid.</SPEAKER>
+<P>My Masquerader.</P>
+</SP>
+<STAGE>aside</STAGE>
+<SP>
+<SPEAKER>Ann.</SPEAKER>
+<L>Oh thou dear all my Bliss and all my Misery</L>
+<L>This is the second time I ever saw</L>
+<L>That Angel Face; and was your poor Adorer</L>
+<L>So blest the first soft hour, to be thus Curst the second!</L>
+<L>Whilst these poor blasted Eyes were only given me</L>
+<L>To see that Beauty lost, for ever lost</L>
+</SP>
+<SP>
+<SPEAKER>VVid.</SPEAKER>
+<L>Oh Heaven! That dear, that Charming Vision</L>
+<L>At this unlucky Hour!</L>
+</SP>
+<SP>
+<SPEAKER>Ann.</SPEAKER>
+<P>But Oh dear Madam.</P>
+</SP>
+<STAGE>Embracing her.</STAGE>
+<SP>
+<SPEAKER>VVell.</SPEAKER>
+<P>Dear Coxcomb. Prethee young Impertinence stand off.</P>
+</SP>
+<SP>
+<SPEAKER>Ann.</SPEAKER>
+<L>Nay, stand thou off, Usurping Ra<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">isher,</L>
+<L>By all my Vows, by all my bleeding Sighs</L>
+<L>For that Dear Sacred Idol of my Soul,</L>
+<L>Thou art a Thief, a Traytor, a vile Traytor,</L>
+<L>Hast busely Robb'd me of this dearest Jewel, &mdash;</L>
+</SP>
+<SP>
+<SPEAKER>VVell.</SPEAKER>
+<P>Nay, hold my little Whipper Snapper; fair and softly Gossiping Knight Errant. In the Name of Impudence, who the Devil art thou?</P>
+</SP>
+<SP>
+<SPEAKER>Ann.</SPEAKER>
+<L>I am to thy Confusion, Barbarous Rival,</L>
+<L>A Vassa<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"> to those Eyes. But Divine Madam</L>
+<L>If in those Heavens there shines one Beam of Mercy</L>
+<L>As you would Guard my Everlasting Peace,</L>
+<L>Remember all those Charms that Seal'd my Heart.</L>
+<L>Those Smiling, promising, protesting Eyes</L>
+<L>That drew my Soul away.</L>
+</SP>
+<SP>
+<SPEAKER>Wid.</SPEAKER>
+<P>Oh! how he talks?</P>
+</SP>
+<SP>
+<SPEAKER>Well.</SPEAKER>
+<P>Hark you, Sitrah, hang Dog, one word more of this c<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters">ting, and
+<PB N="35" REF="22">
+by all the Bones in thy skin, I'le cut thy Ears off; I tell thee young Ras|cal&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Ann.</SPEAKER>
+<P>How, dost thou threaten! Darest thou think to fright me.</P>
+</SP>
+<SP>
+<SPEAKER>Wid.</SPEAKER>
+<P>Dear Creature!</P>
+</SP>
+<SP>
+<SPEAKER>Ann.</SPEAKER>
+<L>No Sir, to enjoy that sweetness</L>
+<L>I'de pass an Ordeal, walk o're burning Irons</L>
+<L>Meet Thunder, face a Basilisk, Kiss Lightning&mdash;</L>
+</SP>
+<SP>
+<SPEAKER>Well.</SPEAKER>
+<P>Hey my furious <HI>Iehu,</HI> you drive on at a Galloping Pace&mdash; But hark you my Dear, methinks you are very silent in the matter. Pray, do you incourage this young Dandypra<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"> to talk at this insolent rate.</P>
+</SP>
+<SP>
+<SPEAKER>VVid.</SPEAKER>
+<P>Insolent! did you say! nay indeed Sir 'tis a bold Boy.</P>
+</SP>
+<SP>
+<SPEAKER>VVell.</SPEAKER>
+<P>Bold,</P>
+</SP>
+<SP>
+<SPEAKER>VVid.</SPEAKER>
+<P>But the Boldness becomes it so prettily.</P>
+</SP>
+<SP>
+<SPEAKER>VVell.</SPEAKER>
+<P>Death and the Devil.</P>
+</SP>
+<SP>
+<SPEAKER>VVid.</SPEAKER>
+<P>So Sweet an Air it has and talks so winningly.</P>
+</SP>
+<SP>
+<SPEAKER>VVell.</SPEAKER>
+<P>Confusion!</P>
+</SP>
+<SP>
+<SPEAKER>Ann.</SPEAKER>
+<L>Nay Sir, do not think to ravish</L>
+<L>This Treasure from my Arms: She's mine by Contract</L>
+<L>By all the Bonds of Love. Nor hope to marry her,</L>
+<L>For if thou dost, I'le plague thy very Soul out,</L>
+<L>I'le watch and haunt her where so e're she goes</L>
+<L>Meet her at every turn: Seize my Fair Prize,</L>
+<L>Fly to her Lips, and run into her Arms.</L>
+</SP>
+<SP>
+<SPEAKER>VVid.</SPEAKER>
+<P>VVhy, truly Mr. <HI>VVellborne</HI> the young, Gentleman speaks a great deal of Reason; for if you should force me to break my Vows and Oaths, and Marry you. And the young lovely Youth should afterwards be so fond, or so indiscreet, as to haunt me up and down, as for Example from St. <HI>Ma<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">|tius</HI> Lecture to <HI>Covent-Garden</HI> Prayers; to this Musick meeting, and that New Play, or to this Ball, or that Masquerade and I shou'd be so weak as to suf|fer him, as indeed I fear I shall; really Mr. <HI>VVellborne</HI> you wou'd grow Jea|lous, and lead a very uneasie Life.</P>
+</SP>
+<SP>
+<SPEAKER>VVell.</SPEAKER>
+<P>Say you so <HI>Syren</HI>!</P>
+</SP>
+<SP>
+<SPEAKER>VVid.</SPEAKER>
+<P>Nay, Truly Mr. <HI>VVellborne,</HI> I shou'd be loath he shou'd do all this, but, alass, if he should be importunate in his Addresses, and I should not have the heart to deny him those innocent favours, as really I am but Flesh and Blood, and dare not Swear for my own strength in such a Temptation, indeed Mr. <HI>VVellborne,</HI> your Life wou'd be strangely unhappy, and therefore might I advise&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>VVell.</SPEAKER>
+<P>You'd have me quit my Claim, Renounce my Right, Give up my Title to a Beardless Boy; and yield you to the Arms of that young Devil. Damnation!</P>
+</SP>
+<SP>
+<SPEAKER>VVid.</SPEAKER>
+<P>Not that I'de have you do all this&mdash;I Vow I wou'd not for the whole World advise you to any such thing, but only for your Peace Mr. <HI>VVell|borne.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Well.</SPEAKER>
+<P>My Peace, Eternal Furies. Hell and Fire-brands.</P>
+</SP>
+<SP>
+<SPEAKER>Ann.</SPEAKER>
+<P>Nay Sir, why all this raving. You had better Resign her <HI>Galmly.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Well.</SPEAKER>
+<P><HI>Calmly,</HI> Traytor Impudence! I'de swear that he were not in the Park&mdash;</P>
+</SP>
+<SP>
+<PB N="36" REF="23">
+<SPEAKER>Ann.</SPEAKER>
+<L>Nay, dear Sir, no hard words, suppose she should</L>
+<L>Be so hard-hearted to renounce your Love.</L>
+<L>And embrace mine. Suppose all this. Alas</L>
+<L>Impute her Frailty to your unkind Destiny.</L>
+<L>Think we were born for one anothers Arms,</L>
+<L>And blame your Stars, not her.</L>
+</SP>
+<SP>
+<SPEAKER>Wid.</SPEAKER>
+<L>Yes truly, Sir.</L>
+<L>The Fault were none of mine, indeed it were not.</L>
+<L>For oh dear <HI>Wellborne,</HI> pity and forgive me,</L>
+<L>This only Darling of Mankind excepted,</L>
+<L>Not all the World beside cou'd e'er have made the false.</L>
+</SP>
+<SP>
+<SPEAKER>Well.</SPEAKER>
+<L>Nay then, I find I am jilted and betrayed.</L>
+<L>But for thee, fair Barbarian, perjured Infidel</L>
+<L>Expect to hear to thy eternal Brand,</L>
+<L>Thy ecchoing Infamy so proclaimed, so blazoned,</L>
+<L>Till thou shalt tremble at thy own loud shame</L>
+<L>And for that Minion see you lodge him safe</L>
+<L>In your Traytress Arms. For by my wrongs,</L>
+<L>And your own burning Hells, thou fair She-Lucifer&mdash;</L>
+<L>I'll find a time to cut that Villains Throat.</L>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>Ann.</SPEAKER>
+<L>Ay, let the poor Fool talk. But oh my Life.</L>
+</SP>
+<STAGE>Embracing.</STAGE>
+<SP>
+<SPEAKER>Wid.</SPEAKER>
+<L>My Soul&mdash;thou naughty Thing how I cou'd chide thee!</L>
+<L>Had these dear Eyes but blest me one hour sooner,</L>
+<L>From how much Folly had thy Charms preserv'd me?</L>
+<L>And I have hoped t' have seen that Face once more,</L>
+<L>Not all Mankind should e'er have touch'd that Heart</L>
+<L>Which had been all entire reserv'd for thee.</L>
+</SP>
+<SP>
+<SPEAKER>Ann.</SPEAKER>
+<L>But, my dear Widow, if the Wings of Love</L>
+<L>Have brought me here no sooner, yet I hope,</L>
+<L>Slow tho I come, I am not come too late.</L>
+</SP>
+<SP>
+<SPEAKER>Wid.</SPEAKER>
+<L>Too late; ah no, thou cam'st to my Deliverance,</L>
+<L>To rescue that, the Prize is all thy own.</L>
+<L>No Ties can hold me from these dearest Arms,</L>
+<L>I'd break a thousand Bars to meet such Charms.</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+</DIV3>
+</DIV2>
+<DIV2 N="5" TYPE="act and scene">
+<HEAD>ACT V. SCENE I.</HEAD>
+<STAGE>SCENE Mr. Sne's House.</STAGE>
+<STAGE><HI>Enter Mrs.</HI> Sne, Jery, Ammin, <HI>and</HI> Court.</STAGE>
+<SP>
+<SPEAKER>Iery.</SPEAKER>
+<L>OH thou, persidious Fellow, hence, avaunt,</L>
+<L>Didst thou not swear thou wert of Noble Race?</L>
+<L>That thou hadst Lands and Honors, oh my Fortune!</L>
+<L>That I should give my self to such a Villain.</L>
+</SP>
+<SP>
+<PB N="37" REF="23">
+<SPEAKER>Mrs. Sne.</SPEAKER>
+<P>Nay, a Fellow that has not a Hole to put his Head in, but upon my Courtesie.</P>
+</SP>
+<SP>
+<SPEAKER>Iery.</SPEAKER>
+<L>How much am I obliged to this good Gentlewoman,</L>
+<L>That wou'd not let my easie Nature suffer,</L>
+<L>Under the Cozenage of such a Monster?</L>
+<L>But here bestows her generous Son upon me.</L>
+</SP>
+<SP>
+<SPEAKER>Mrs. Sne.</SPEAKER>
+<P>Ay Madam, and I hope a Gentleman of another Sphere Than you are Mr. <HI>Skipjack.</HI> That shall have Three hundred a year in
+<HI>Esse,</HI> and Five in <HI>Posse.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Amin.</SPEAKER>
+<P>That has had the Honour to break Windows with young Lords.</P>
+</SP>
+<SP>
+<SPEAKER>Iery.</SPEAKER>
+<P>And to this elegant Spirit and Choice, hope, am I and my For|tune contracted.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Garzoon, vat you say! contracted?</P>
+</SP>
+<SP>
+<SPEAKER>Iery.</SPEAKER>
+<P>Yes Sir, contracted, and dare seal it before your Face.</P>
+</SP>
+<STAGE><HI>Kisses</HI> Amin.</STAGE>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Hey, Morblew, vat dam Trick be dis!</P>
+</SP>
+<SP>
+<SPEAKER>Amin.</SPEAKER>
+<P>She's mine Sir, mine, d'ye see, and I dare seal it likewise</P>
+</SP>
+<STAGE><HI>Kisses</HI> Iery.</STAGE>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Hark you Madam <HI>Sneaksby,</HI> is dere honesty in dis doing.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. Sne.</SPEAKER>
+<P>No matter for that, Im sure there's a great deal of Profit in this doing</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<L>Ver good, ver good begar, if dere be no Law upon Precontract<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">.</L>
+<L>Vords, Odes, and Vitness, if I shall spend Two hundred Pounds upon</L>
+<L>A Viddow, have her made a sure to me before Vitness,</L>
+<L>And den have a my Nose wiped of her, 'tis ver good, ver good, jerny.</L>
+</SP>
+<SP>
+<SPEAKER>Iery.</SPEAKER>
+<L>Why indeed my dear, and my most honored Mother,</L>
+<L>There have been some Words past between us, and indeed</L>
+<L>I'm afraid I have been too liberal in my speech, I think</L>
+<L>It would not be amiss, considering his Expence and Interest.</L>
+<L>To come to some slight Composition, a Brace of</L>
+<L>Hundred Pieces I believe would satisfie him, and</L>
+<L>Make him quit his Claim to me</L>
+</SP>
+<STAGE><HI>Aside to Mrs.</HI> Sne. <HI>and</HI> Aminada<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">.</STAGE>
+<SP>
+<SPEAKER>Amin.</SPEAKER>
+<L>Mother, Mother, let's be wise Mother, fetch 200 Pieces presently,</L>
+<L>That upon his first consent he may be satisfied,</L>
+<L>And silenced.</L>
+</SP>
+<SP>
+<SPEAKER>Iery.</SPEAKER>
+<P>For if he chance to be delayed till he ask Counsel.</P>
+</SP>
+<SP>
+<SPEAKER><HI>Mrs.</HI> Sne.</SPEAKER>
+<P>Mum. A word to the wise.</P>
+</SP>
+<STAGE><HI>Exit Mrs.</HI> Sne.</STAGE>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<L>Nay begar, as long as me live peaceably in <HI>England,</HI></L>
+<L>Me no make a de doubt but me fall have a de Law.</L>
+</SP>
+<SP>
+<SPEAKER>Iery.</SPEAKER>
+<L>Come, Sir, you shall have no great reason to complain of.</L>
+<L>My forsaking you, for our former Love I have</L>
+<L>Procured you Two hundred Pounds.</L>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>For vat Morblew?</P>
+</SP>
+<SP>
+<SPEAKER>Iery.</SPEAKER>
+<P>Why, to disclaim your Right in me.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Vid all mine Heart, come gi'me, gi'me, here is My Hand, I vill take it.</P>
+</SP>
+<SP>
+<SPEAKER>Amin.</SPEAKER>
+<P>Pox how my Mother stays.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<L>Scorn my Poverty, because me have no de muck</L>
+<L>Of de varle, here de mony, gi'me de mony.</L>
+</SP>
+<STAGE><HI>Enter Mrs.</HI> Sne. <HI>with a Purse.</HI></STAGE>
+<SP>
+<SPEAKER>Mrs. Sne.</SPEAKER>
+<P>Here Sir, upon this consideration, that you di<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">claim And renounce all Interest.</P>
+</SP>
+<SP>
+<PB N="38" REF="24">
+<SPEAKER>Court.</SPEAKER>
+<L>Jerny, vid all mine art.</L>
+<L>Begar me do, and&mdash;</L>
+</SP>
+<SP>
+<SPEAKER>Amin.</SPEAKER>
+<L>No, no, we'll have no ands nor ifs, you have</L>
+<L>Received the mony, and we have no more to say</L>
+<L>To you, come my Dear, say black's thy Eye who</L>
+<L>Dare, Mother I'll be marry'd to night and to Bed</L>
+<L>Presently</L>
+</SP>
+<SP>
+<SPEAKER>Iery.</SPEAKER>
+<L>To night, pray stay till morning, 'tis too late.</L>
+</SP>
+<SP>
+<SPEAKER>Amin.</SPEAKER>
+<L>No, no, never too late to be wise.</L>
+<L>Adieu Monsieur Fop, ha, ha, ha.</L>
+</SP>
+<STAGE><HI>Ex. Mrs.</HI> Sne. Jery. <HI>and</HI> Amin.</STAGE>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<L>Ha, ha, ha. Gramercy Punck, a witty Wench is an</L>
+<L>Excellent help at a dead Lift, but now my Mortgage,</L>
+<L>Oh my <HI>Annabella</HI>!</L>
+<L>If thou succeed'st in that, eternal praise</L>
+<L>Shall wait upon thee, every vile prophaner,</L>
+<L>Of Hymencal Rights shall then declare,</L>
+<L>They'll live no longer in that Heresie,</L>
+<L>But marry all, cou'd they have Wives like thee.</L>
+</SP>
+<STAGE><HI>Enter</HI> Hickman <HI>and</HI> Crac <HI>with a Lute.</HI></STAGE>
+<SP>
+<SPEAKER>Hick.</SPEAKER>
+<L>She's gone, she's gone, was ever man so cheated, 300 pound for</L>
+<L>A Ring, and the Ring gone too, besides the Charge of Physick and Attendants,</L>
+<L>I am undone, broke, bankrupt, but</L>
+<L>Thou, Sirrah, sha't smart for all, now I have caught thee.</L>
+</SP>
+<SP>
+<SPEAKER>Crac.</SPEAKER>
+<P>Mercy, dear Sir, mercy.</P>
+</SP>
+<SP>
+<SPEAKER>Hick.</SPEAKER>
+<P>Were you a packing up your Awls to be gone too?</P>
+</SP>
+<SP>
+<SPEAKER>Crack.</SPEAKER>
+<P>Nothing but my own, Sir, my Lute, and a few Musick Books.</P>
+</SP>
+<SP>
+<SPEAKER>Hick.</SPEAKER>
+<L>You and your Mistress have made sweet Musick with me.</L>
+<L>Are the Beadles gone for<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"></L>
+</SP>
+<SP>
+<SPEAKER>Servant within.</SPEAKER>
+<P>Yes, Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Hick.</SPEAKER>
+<P>As you have been an Actor in this Cozenage, bring her to Light or &mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Crac.</SPEAKER>
+<P>She has cozened me of half a years Service, and do you Think I knew of her running away?</P>
+</SP>
+<SP>
+<SPEAKER>Hick.</SPEAKER>
+<P>Are the Beadles come there? I'll make you sing another Song. Come in Beadles.</P>
+</SP>
+<SP>
+<SPEAKER>Crac.</SPEAKER>
+<P>O good Sir, hold, and let your Justice fall on the right Shoulders, I'll confess all.</P>
+</SP>
+<SP>
+<SPEAKER>Hick.</SPEAKER>
+<P>O, will you so, Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Crac</SPEAKER>
+<P>'Tis true, Sir, the Woman I call'd Mistress, is a most cunning Whore, and a notorious Cheat.</P>
+</SP>
+<SP>
+<SPEAKER>Hick.</SPEAKER>
+<P>These are good Words indeed.</P>
+</SP>
+<SP>
+<SPEAKER>Crac.</SPEAKER>
+<P>She came to your House with Four Men in Liveries.</P>
+</SP>
+<SP>
+<SPEAKER>Hick.</SPEAKER>
+<P>Ay, pox on her, what of that?</P>
+</SP>
+<SP>
+<SPEAKER>Crac.</SPEAKER>
+<P>They were all hired Pimps, Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Hick.</SPEAKER>
+<P>And she came with divers Trunks of supposed Treasure, which I find to be Bags of Nails, and other old Iron.</P>
+</SP>
+<SP>
+<PB N="39" REF="24">
+<SPEAKER>Crack.</SPEAKER>
+<P>Your own Covetousness co<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters">en'd you, but if I don't bring you into a place where you shall see how she is since bestowed, and that you find not hearty Cause to rejoyce, you were co<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">ened of her, let me be whip'd to death, Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Hick.</SPEAKER>
+<P>Well, come along then, but for all that I'll have a Guard upon you</P>
+</SP>
+<SP>
+<SPEAKER>Crac.</SPEAKER>
+<P>What Guard you please, Sir, so my poor Skin escapes the Lash.</P>
+</SP>
+<STAGE><HI>Exeunt</HI> Hick <HI>and</HI> Crac.</STAGE>
+<STAGE><HI>Enter</HI> Wellbourne <HI>and</HI> Courtwitt. <HI>Scene, the Street.</HI></STAGE>
+<SP>
+<SPEAKER>Wellb.</SPEAKER>
+<L>By Heaven the <HI>Ephesian</HI> Matron was a Saint;</L>
+<L>A puny Jilt to this Infernal Traytress,</L>
+<L>The very Breath scarce Cold that Sign'd and Sealed,</L>
+<L>Her Hand and Heart both mine, in the same Minute</L>
+<L>To run all Perjur'd to that Minions Arms,</L>
+<L>Now all the Torture of insatiate Lust,</L>
+<L>In her hot Veins, and Impotence in his,</L>
+<L>Reward this Brace of Monsters.</L>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Now does thy foolish Tongue run on as impertinently, as a Trunk|makers Hammer, Nay, thou art as snappish as a Dog in a Coach Box. But what the Devil Dost thou rave at <GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters"> to see a Woman false.</P>
+<L>Woud'st thou have stay'd till thou hadst seen one true:</L>
+<L>That were a Prodigy worth wond'ring at.</L>
+</SP>
+<SP>
+<SPEAKER>Wellb.</SPEAKER>
+<L>Are Faith and Vertue Names so quite forgotten?</L>
+<L>And Truth and Honour, these Eternal Strangers,</L>
+<L>To that betraying Sex.</L>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<L>Strangers! Ay; all the Reason in the World, nay, 'tis the Civility</L>
+<L>Of the Sex to make 'em so, for a Woman to admit the</L>
+<L>Pretences of Vertue and Honour under her Roof, is as</L>
+<L>Bad as to invite a Vessel o're a Quicksand, they are</L>
+<L>Certain to sink there; and what can be fairer plain dealing,</L>
+<L>Than downright to keep 'em at distance, and utterly Renounce 'em.</L>
+</SP>
+<SP>
+<SPEAKER>Wellb.</SPEAKER>
+<P>Oh! I could Curse her,</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Why?</P>
+</SP>
+<SP>
+<SPEAKER>Wellb.</SPEAKER>
+<P>Have I not Reason!</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<L>No, for consider, is she not a Widow?</L>
+<L>That Ravenous, Voracious Creature Widow!</L>
+<L>A thing that has already tasted Man,</L>
+<L>And therefore like a Cunning Purveyor,</L>
+<L>After she'as lost her first dear Feast of Love,</L>
+<L>All Keen and Hungry, ever wisely Chooses,</L>
+<L>Her second Dish a stout substantial one,</L>
+<L>Able to hold a braving Stomach rugg.</L>
+<L>And has not she in your young Rivals Arms,</L>
+<L>The Drudgery often whole years th'aduantage of thee</L>
+<L>Then prithee pine no more, but rest contented.</L>
+</SP>
+<SP>
+<SPEAKER>Willb.</SPEAKER>
+<L>Contented! No Preach Patience to a Storm,</L>
+<L>'Sdeath I cou'd Rail so Loud, till I awaked Thunder;</L>
+<L>And call'd down all the Plagues of Heav'n to punish her.</L>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Yet spight of all this High Tempestuous Fury, this Random Chain Shot at the whole Sex, shou'd this false Jilting Widow return to her first Faith
+<PB N="40" REF="25">
+and Allegiance, and Cry Dear <HI>Wellborne,</HI> Oh! forgive my Folly, and <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">ake a poor Repentant to thy Bosom; <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"> as much as thou hast <GAP DESC="illegible" RESP="pdcc" EXTENT="2 words"> thou woud'st Relent, and take her into Mercy, prithee under the Seal of Confes|sion, tell Truth and shame the Devil; upon such ample satisfaction made thee, thou wou'd be kind, and Marry, woud'st thou not.</P>
+</SP>
+<SP>
+<SPEAKER>Wellb.</SPEAKER>
+<P>Troth <HI>Courtwitt,</HI> thou hast put me that hard Question<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters"></P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Which thus I'le Answer for thee; thou saidst this Widow wou'dst marry her; nay, by my Life shall Marry her.</P>
+</SP>
+<SP>
+<SPEAKER>Well.</SPEAKER>
+<P>Shall Marry her!</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>False as she is, by this right hand, this Night, this very Night, I'le Charm her back from her young Sorcerers Arms, and bring her to thy Bo|som and thy Bed.</P>
+</SP>
+<SP>
+<SPEAKER>Wellb.</SPEAKER>
+<P>This indeed my Champion would be a Master-piece, but <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">is im|possible to perform this promised wonder.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Oh! doubt not my performance, I have a Plot so laid, not all the Malice of thy Stars shall have the power Cross.</P>
+</SP>
+<SP>
+<SPEAKER>Wellb.</SPEAKER>
+<P>Do this my Friend, and Claim my Soul thy Slave, my Life's 100 poor to pay thee for that Service.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>But before I can Imbarque in the design, I have a Boon to beg.</P>
+</SP>
+<SP>
+<SPEAKER>Wellb.</SPEAKER>
+<P>What is't?</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Thou knowest I owe this VVidow 2000 pounds, charg'd upon any Estate.</P>
+</SP>
+<SP>
+<SPEAKER>Wellb.</SPEAKER>
+<L>Make but the VVidow mine,</L>
+<L>And the Redemption of thy Mortgag'd Lands,</L>
+<L>So poor a trifling Sum to such a Friend,</L>
+<L>Will be too small an Off'ring.</L>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<L>Mistake me not, I am no Marriage Broker.</L>
+<L>And scorn so poor a Thought to sell my Favours</L>
+<L>No Friend. I'le make her mine on easier Terms,</L>
+<L>But to my Boon, thou'rt Heir to a Rich Uncle</L>
+</SP>
+<SP>
+<SPEAKER>Wellb.</SPEAKER>
+<P>The Richer He, the Happier I, to enable me to pay the Debt I owe.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>This Uncle of thine has a Jewel by him, pawn'd to him for <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">000 Pounds.</P>
+</SP>
+<SP>
+<SPEAKER>Wellb.</SPEAKER>
+<P>You mean the rich Sword set with Diamonds, that Cost at first 4000 Lewidores; a present from the <HI>French</HI> King to a Noble English Embas|sador.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>The very same, now must I beg the Favour, to use thy Interest with thy kind Uncle, to lend me that rich Sword.</P>
+</SP>
+<SP>
+<SPEAKER>Wellb.</SPEAKER>
+<P>With all my Heart.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>The use that I shall make of it is this, with that <GAP DESC="illegible" RESP="pdcc" EXTENT="1 span"> will I redeem my Mortgage from the VVidow, and if afterwards I find a Plot, honestly to make thee a Deed of Gift, both of the Sword, and VVidow; I've done my part, but if I only return thee the VVidow without the Sword, (as her I've fast enough, not Fate can hinder,) I here ingage upon <GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters"> Ho|nour, to pledge my Estate to thy Uncle to An<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">wer his Jewel'</P>
+</SP>
+<SP>
+<SPEAKER>Wellb.</SPEAKER>
+<L>Oh, no matter; upon Condition thou<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"> get me the VVidow, thou</L>
+<L>sha't have the Sword without that Clause in thy Articles,</L>
+<L>Now <HI>Courtwin</HI>; speed thy Plot, and make her mine,</L>
+<L><PB N="41" REF="25">As false as she has play'd me, yet 'twould please me,</L>
+<L>Cou'd I the wand'ring Fugitive recover,</L>
+<L>A Prize too fair to lose, and I too fond a Lover.
+<STAGE>Exeunt</STAGE></L>
+</SP>
+<STAGE><HI>Enter</HI> Squeezewirt <HI>and</HI> Carrol. <HI>Scene, the Sweet.</HI></STAGE>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>And was it possible you should believe I had no Courage?</P>
+</SP>
+<SP>
+<SPEAKER>Carr.</SPEAKER>
+<P>Oh, a perfect Coward till you gave me Demonstration of your Vallour.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Lord what Ignorance and Confidence is this World made of, to talk so scandalously of my Prowis and Magnaminity.</P>
+</SP>
+<STAGE><HI>Enter</HI> Venture <HI>disguised like an Irish Doctor.</HI></STAGE>
+<SP>
+<SPEAKER>Vent.</SPEAKER>
+<P>VVhoop. Mr. <HI>Squeezwit,</HI> I am very glad to see thy sweet Faash by St. <HI>Patrick</HI>; but am very sorry to hear dis doleful News of thee Dear Joy.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Hear News of me, why, who the Devil art thou?</P>
+</SP>
+<SP>
+<SPEAKER>Vent.</SPEAKER>
+<P>Oh by my shoul Mr. <HI>Squeezwit,</HI> to be a Man of thy Sense and Edu|cation, and to have no more Graash and Religion before thy Face and Eyes, then to take VVife, and make Marriage upon her, before thou be cure of thy fait and trot.</P>
+</SP>
+<SP>
+<SPEAKER>Carr.</SPEAKER>
+<P>How! Disease.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>VVhat the Devil does this fellow mean?</P>
+</SP>
+<SP>
+<SPEAKER>Vent.</SPEAKER>
+<P>Nay, and what be still worst of all, to make Matrimony upon a young Beautiful Lady, a sweet little Creature, that might live to make Child and Grand-Child upon her Body.</P>
+</SP>
+<SP>
+<SPEAKER>Carr.</SPEAKER>
+<P>VVhat's this I hear?</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Ay, what indeed Madam?</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Pray Friend explain your self, that we may unriddle all this My|stery.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Ay, with all my Heart, let him tell out his Romance, that we may find the bottom of his Roguery, 'sdigers Madam, forgi me for Swearing, he has made my Ears tingle to hear him.</P>
+</SP>
+<SP>
+<SPEAKER>Vent.</SPEAKER>
+<P>Den by my Gossips Hand, I will tell thee the trute, and de whole truite by my Fait, from de first end to de last beginning Dere Joy. Den first dere Lady, let thy sweet Faash understand, that I was borne in the Kingdom of <HI>Ireland,</HI> my Name Sir <HI>Feezil Mackafarty,</HI> of the Noble Science of Physick and Astrology, and does make study into Plaister Box and Glister Pipe.</P>
+</SP>
+<SP>
+<SPEAKER><HI>Car<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"></HI></SPEAKER>
+<P>So Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Vent.</SPEAKER>
+<P>VVorthy Sir <HI>Feez-lle,</HI> said he, as I was making VValk one day in de Green Field, behind de great House in de little Path, beside de great Road, I did meet vid de very great VVhore on my Shalvation, and den I did put lye upon in de Great Ditch, and she did put de Great Pock upon Dere Joy, an't please thy Sweet Faalh.</P>
+</SP>
+<SP>
+<SPEAKER>Carr.</SPEAKER>
+<P>Oh Villany and VVickedness!</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>I lye with a VVhore in a Ditch, and get the Pox; 'sdiggers, here's an impudent Devil and his Dam: Madam, as I hope to enjoy your Lady|ships Favour I'm<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"> a pure Virgin, and there's not one Syllable of Truth in all this wicked Villain has said,</P>
+</SP>
+<SP>
+<SPEAKER>Vent.</SPEAKER>
+<P>Oh! by my Shoul dere Madam, heare what hard Name he call up|on me Villain, and Rogue Dere Joy, but do not take Notice what he say, for de Mercury of his Physick be got into his Head, and turn his Brain Fair and Trot.</P>
+</SP>
+<SP>
+<PB N="42" REF="26">
+<SPEAKER>Squeez.</SPEAKER>
+<P>Oh wicked and abominable, my patience can hold No longer, as I'me a true Christian Man, Madam, This abominable bogtrotting Rogue, is a perfect. Irish Evidence, a Poult<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">oo<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">, a Sco<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters">drel, a Cheat, And a Vagabond.</P>
+</SP>
+<SP>
+<SPEAKER>Vent.</SPEAKER>
+<P>Hubbub Loo<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"> Did I not tell you the <HI>Mercury</HI> was got into His Head, and make him run Mad, but I defie all He can say against me. I am a Person of Quality And please your Ladyship, and speak my Conscience.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>A Knigh<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"> of the Post and please your Rogueship, and Tell nothing but damn'd Lyes.</P>
+</SP>
+<SP>
+<SPEAKER>Carr.</SPEAKER>
+<P>O Mr. <HI>Squeezwit,</HI> did I think there could be so much Treachery in the World. To have condescended to Marry A Beggar with truth and honesty, had been a Pardonable fault in me, but to run into the Arms of Lew<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">ness and Diseases. O filthy Creature, To expose my sweet Health, and ruine both Soul and Body.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Ah Madam! are you my Enemy too?</P>
+</SP>
+<SP>
+<SPEAKER>Carr.</SPEAKER>
+<P>Ay, ay, make much of your Infamous Vi<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">e Creatures, And hug the Fruits of your Sin, your Foul Diseases, but Hope not to del<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">de an innocent harmless Virgin.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Madam, Madam, I beseech you but to hear me.</P>
+</SP>
+<SP>
+<SPEAKER>Carr.</SPEAKER>
+<P>No, I have heard too much; O blest discovery <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"> What Aprecipice have I escaped.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Dear Madam, hear me but one word in my defence.</P>
+</SP>
+<SP>
+<SPEAKER>Carr.</SPEAKER>
+<P>Defence! Oh do not name it, thou Wicked, Vile, Deceitful, Barbarous Man.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Nay Madam, as you're a Gentlewoman hear me But one word; If you sat Lord Chief Justice over me, And both my Thumbs were tied up to the doleful Tune of Take him Jaylor to the place of Execution, you Could not be so cruel a Judge as not to hear me Speak before you hang'd me.</P>
+</SP>
+<SP>
+<SPEAKER>Carr.</SPEAKER>
+<P>Well, what can you say for yourself?</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Why I say, and say again, that this Irish Loon, is an Impudent Imposter, and every word he has said against me is Rank Forgery. Tell me I have got the Pox! he lyes in His Heart, and his Soul, and I'le send for a Jury of Midwives, and be search'd immediately; Besides, you say you're a Knight you Poultroon, why don't you wear a Sword to vindicate your Knighthood, that I may fight you like a Man, And cut your Throat like a Dog and a Scoundrel.</P>
+</SP>
+<SP>
+<SPEAKER>Vent.</SPEAKER>
+<P>Fe<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">ght, de Eerish Man and de Physitian Feeght I by my Shoule it neither belong to my Country nor my Profession To Feeght; but I will do better then Feeghting, for I will Take my Corporal O<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">e upon the 4 Apostle, dat every Sillable I have spoke be all Trute dear Joy.</P>
+</SP>
+<SP>
+<PB N="43" REF="26">
+<SPEAKER>Squeez.</SPEAKER>
+<P>Trute, I'le trute you in the Devils name.</P>
+</SP>
+<STAGE><HI><GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"> upon</HI> Vent. <HI>And gets him down.</HI></STAGE>
+<SP>
+<SPEAKER>Vent.</SPEAKER>
+<P>Help help de Physitian.</P>
+</SP>
+<SP>
+<SPEAKER>Carr.</SPEAKER>
+<P>Hold, no more for shame.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>No Madam, I'le fetch him out of his Poxes and his Plagues too.
+<STAGE><HI>In the Scuffle,</HI> Vent. lose his Must<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">choes.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Vent.</SPEAKER>
+<P>Help, murder, death and the Devil, I have lost my Must<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">choes, And if he discovers me, I'me a dead Man.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>What are you ashamed to shew your Face?</P>
+</SP>
+<SP>
+<SPEAKER>Vent.</SPEAKER>
+<P>Yesh, I am ashamed, and have very great reason by St. <HI>Patrick,</HI> for thou hast broke my Bone out of my Skin, and my Toot out of my Head, and I will make Law upon thee for this wicked Affront.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Law you Dog, I'le Law you
+<STAGE><HI>Goes to strike him, and disc<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">|vers his Mustachoe lost.</HI></STAGE> Oh Madam, the Rogue has got A false Beard, who are you, shew your Face, confess And be hang'd.&mdash;Mr. <HI>Venture.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Carr.</SPEAKER>
+<P><HI>Venture!</HI></P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Whoop, by my Shoul, Sir <HI>Freezel Mackafarta,</HI> where be de great House, and de great Ditch, and de great Whore, and de great Pock now, you Son of a great Irish Bogtrotting Bitch.</P>
+</SP>
+<SP>
+<SPEAKER>Vent.</SPEAKER>
+<P>Nay you may laugh, but what I've done I'de do again.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Oh wou'd you so my dear Sir <HI>Fee<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">ell,</HI> well I'le have one Frolick too in this Masquerade, you shall have an Irish Song for Musick, and after that an English Horsepond to cool wild Irish Rage; and, my dear, you shall go with me and see Justice executed.</P>
+</SP>
+<SP>
+<SPEAKER>Carr.</SPEAKER>
+<P>Nay such a Rogue deserves it.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>And so a'nt please your English Rogueship, and Irish Doctorship, march on Rascal.
+<STAGE>Exeunt.</STAGE></P>
+</SP>
+<STAGE><HI>Enter</HI> Annabella <HI>and Widow. Scene,</HI> Sne's <HI>House, a Table set forth with a H<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">t, Sword, Gloves, and a Light on's.</HI></STAGE>
+<SP>
+<SPEAKER>Wid.</SPEAKER>
+<L>Be sure you use me well, for never Woman</L>
+<L>Play'd half so fond a part as I have done,</L>
+<L>To throw my Love and Fortunes to your Arms,</L>
+<L>E're I have ask'd to whom I make the present.</L>
+</SP>
+<SP>
+<SPEAKER>Ann.</SPEAKER>
+<L>O ne're repine at so much generous goodness,</L>
+<L>For when I'me Lord of this fait Treasure, doubt not,</L>
+<L>My Love nor Gratitude to the dear Foundress</L>
+<L>Of so Divine a <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">east.
+<STAGE><HI>Enter</HI> Courtwit.</STAGE></L>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<L>By'<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"> leave young Bridegroom,</L>
+<L>For tho' I am a Stranger to your Person,</L>
+<L>I am not to your happiness, this night</L>
+<L>If Fame Speaks true you seal that fair possession.</L>
+</SP>
+<SP>
+<SPEAKER>Ann.</SPEAKER>
+<P>Yes Sir, Fame tells you truth, the Envious World This night will see me blest.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<L>Soe blest I hope,</L>
+<L>To stand above the want of my poor ruins.</L>
+<L>To Enlarge your Hoard of blessings,</L>
+</SP>
+<SP>
+<SPEAKER>Ann.</SPEAKER>
+<L>Heaven forbid Else</L>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Then Sir, be pleased to know I owe that Lady 2000 <HI>l.</HI></P>
+</SP>
+<SP>
+<PB N="44" REF="27">
+<SPEAKER>Wid.</SPEAKER>
+<P>Honestly borrow'd of her.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>For which my <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">and stand seiz'd?</P>
+</SP>
+<SP>
+<SPEAKER>Wid.</SPEAKER>
+<L>But not so seiz'd,</L>
+<L>But that I here disclaim the mean advantages</L>
+<L>Of Penalties, and Forfeitures, I confess,</L>
+<L>I must not give 2000 <HI>l.</HI> away.</L>
+<L>All else you may Command, you have full freedom,</L>
+<L>Of making your Redemption when you please.</L>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<L>I ask no more, but take you at your word,</L>
+<L>'Tis true I have not Mony for redemption.</L>
+<L>But I've a Jewel more then worth that Sum,</L>
+<L>And if that satisfaction&mdash;</L>
+</SP>
+<SP>
+<SPEAKER>Wid.</SPEAKER>
+<P>'Tis enough.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<L>Then Madam see this Sword, th' Original purchase,</L>
+<L>Four thousand Lewidores, the present value,</L>
+<L>A price which outweighs my Debt, which to confirm</L>
+<L>Your Landlord the rich Jeweller&mdash;but see,</L>
+<L>He comes uncall<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">d. Oh Mr. <HI>Sneaksby.</HI></L>
+<STAGE><HI>Enter</HI> Mr. Sneaksby.</STAGE>
+<P>I was just talking of you.</P>
+</SP>
+<SP>
+<SPEAKER>Mr. <HI>Sne.</HI></SPEAKER>
+<P>Ay that may be, <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"> you may talk what you will of me, but I can talk but very little of you, for my Wife talks all for me.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>No matter Sir, few words will serve my business. Pray what do you value this Jewel at?</P>
+</SP>
+<SP>
+<SPEAKER>Mr. <HI>Sne.</HI></SPEAKER>
+<P>Oh the French Sword! this gay Spark and I have been old Ac|quaintance.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>I hope then you're no stranger to its worth.</P>
+</SP>
+<SP>
+<SPEAKER>Mr. <HI>Sne.</HI></SPEAKER>
+<P>No saith, 'tis worth 2000 Guinea's of my Money, and 50 more for a pair of Gloves to the Bargain maker.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Do you hear Widow.</P>
+</SP>
+<SP>
+<SPEAKER>Wid.</SPEAKER>
+<P>Yes, and am satisfied <HI>Ienny,</HI> take this Key, and fetch me the Writing in the upper Drawer of my Scrutore.
+<STAGE><HI>Ex.</HI> Jen.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Well Sir, you are come just in the Ni<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">k to see me Barter sparkling Jems for homely Cl<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">y, this rich Jewel for a few dirty Acres this Lady holds from me.</P>
+</SP>
+<SP>
+<SPEAKER>Wid.</SPEAKER>
+<P>Yes Sir, you bid me like a Chapman, I accept this Jewel in full satis|faction of your 2000 <HI>l.</HI> Mortgage,
+<STAGE>[<HI>Enter</HI> Jenny <HI>with the Writings.</HI>]</STAGE> Here are the Deeds of your Estate, and here your Mortgage, which thus I ca<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters">e', and farther promise you upon a fair balance between us, whatever your Jewel outweighs the Debt, to give you the overplus.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>You are all goodness.</P>
+</SP>
+<SP>
+<SPEAKER>Wid.</SPEAKER>
+<P>And now Mr. <HI>Sneaksby</HI> as you have seen this General Release be|tween Mr. <HI>Courtwit</HI> and me, I must beseech you to be Witness to a new Act which thus I sign and seal before you both, as my kind Nuptial Present, I make a Deed of Gift of this poor Trisle, to the dear Man that shall this night possess me.</P>
+</SP>
+<SP>
+<SPEAKER>Ann.</SPEAKER>
+<P>Oh Madam you confound me with this Goodness.
+<STAGE><HI>Gives</HI> Ann <HI>the Sword.</HI></STAGE>
+But Madam, do you consider what 'tis you give, a Jem of that vast Price.</P>
+</SP>
+<SP>
+<PB N="45" REF="27">
+<SPEAKER>Wid.</SPEAKER>
+<L>A Toy, a Baw<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">le, Sir, not worth you Thanks.</L>
+<L>Give me the Bride cou'd play a <HI>Cleopatra,</HI></L>
+<L>And quaff a Jem to her darling <HI>Anthony,</HI></L>
+<L>A Province in a Pearl.</L>
+</SP>
+<SP>
+<SPEAKER>Ann</SPEAKER>
+<L>Enough, enough.</L>
+<L>Step forth, step forth thou more then happy Bridgegroom.</L>
+<STAGE><HI>Enter</HI> Wellborn, Ann <HI>gives him the Sword, which he immediately puts on.</HI></STAGE>
+<L>And thus Adorn'd, thus girl for thy proud Brydall,</L>
+<L>Wear thy fair Prize, and shine in Nuptial Glories.</L>
+</SP>
+<SP>
+<SPEAKER>Wid.</SPEAKER>
+<P>Ha! What's all this!</P>
+</SP>
+<SP>
+<SPEAKER>Ann.</SPEAKER>
+<P>Look you Madam, to make short work of the great Ceremony in hand, your unfortunate Masquerader lying under a certain natural infirmity, called a moral Apprehension of High Altars and Matrimony, humbly offers you the Hardier, more Courageous Mr. <HI>Wellb<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">rn,</HI> as a bolder Knight Errant for so Heroick an Adventure.</P>
+</SP>
+<SP>
+<SPEAKER>Wid.</SPEAKER>
+<P>All Treason, all Conspiracy.</P>
+</SP>
+<SP>
+<SPEAKER>Ann.</SPEAKER>
+<P>The Treason Madam wou'd be of my side shou'd I presume to Marry you; and therefore you had better upon wiser thoughts, return to this kind worthy Gentleman; this more deserving, heartier, Manly Lover, and think no more of my poor Blushing Weakness.</P>
+</SP>
+<SP>
+<SPEAKER>Wid.</SPEAKER>
+<P>What shall I say, Oh my Confusion!</P>
+</SP>
+<SP>
+<SPEAKER><HI>We<GAP DESC="illegible" RESP="pdcc" EXTENT="3 letters">.</HI></SPEAKER>
+<P>Yes, dear Madam, return to these Imbraceing Armys, to him, who faithless as you are thus humbly kneels to Court you back to truth.</P>
+</SP>
+<STAGE><HI>Enter Mrs.</HI> Sne. Amin, <HI>and</HI> Jery.</STAGE>
+<SP>
+<SPEAKER>Mrs. <HI>Sne.</HI></SPEAKER>
+<P>Why, how now Mr. <HI><GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"></HI> what upon your Knees; Fi<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"> for shame Sister, will you always be hard-hearted to the Man that loves you,</P>
+</SP>
+<SP>
+<SPEAKER>Ann.</SPEAKER>
+<P>Come no more da<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters">ying, but take him to your Arms, and to remove all Fondling Thoughts, and Dreams of Forms and Phantoms, see here your Masquerader.
+<STAGE>Pulls of her Wig.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Amin.</SPEAKER>
+<P><HI>Annabella!</HI></P>
+</SP>
+<SP>
+<SPEAKER>Ann.</SPEAKER>
+<P>The very same</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>Sne.</HI></SPEAKER>
+<P>Hey day! my Daughter turn'd Bridegroom.</P>
+</SP>
+<SP>
+<SPEAKER>Wid.</SPEAKER>
+<P>Thou malicious Creature, to abuse my Cheated Innocence thus barb<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">|rously.</P>
+</SP>
+<SP>
+<SPEAKER>Ann.</SPEAKER>
+<P>No Madam, neither an Abuse nor Malice, only a little harmless Ral|lory, in a poor Husbands Cause, an innocent Fraud to disingage his poor in|cumber'd Acres.</P>
+</SP>
+<SP>
+<SPEAKER>Wid.</SPEAKER>
+<P>I'me cheated and betray'd.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<L>Yes my fair Userer.</L>
+<L>This little Privateer with her false Colours,</L>
+<L>Has been so kind as to reprize a Cargo,</L>
+<L>Of Two fair thousand Pounds, but not to grieve,</L>
+<L>Too much, here, take this worthy Gentleman,</L>
+<L>A Gift will more then Recompence that Loss.</L>
+</SP>
+<SP>
+<SPEAKER>Wid.</SPEAKER>
+<P>Yes, I will take him, if it be but only to list him a kind Champion in my Cause, and take revenge of thee, thou Cheating Cozoner.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>If that be all my danger&mdash;</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>Sne.</HI></SPEAKER>
+<P>No dear Sister, ne're think of revenge, a kind Bedfellow, and a soft Marriage-Bed, will quickly put all thoughts out of your Head. Nay,
+<PB N="46" REF="28">
+here's my Son <HI>Ami<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters">da<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"></HI> too, pray wish him Joy, for he has Married a Rich Widow.</P>
+</SP>
+<STAGE><HI>Enter</HI> Hickman <HI>and</HI> Crack.</STAGE>
+<SP>
+<SPEAKER>Hickm.</SPEAKER>
+<P>Not so rich I suppose as you imagine.</P>
+</SP>
+<SP>
+<SPEAKER>Amin.</SPEAKER>
+<P>What's that you say Sir?</P>
+</SP>
+<SP>
+<SPEAKER>Iery.</SPEAKER>
+<P>Nothing but truth Sir. Why, you Coxcomb, do you think much to be a Cuckold? You Blockhead, if you have but as much Brains as a Battledare, you may make a fair Revenue of me; Have you not a place at Court, can't you lodge me there, and prove weak sighted, thick of hearing, sleepy after Dinner; and s<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">ort when others Entertain and Court me?</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>Snea.</HI></SPEAKER>
+<P>O, horrible Impudence!</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Faith, Mother-in-law, I must beg your Pardon, and canot help letting you know, I found out all your Roguery: And, in revenge, procured this Wife for your Son</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>Snea.</HI></SPEAKER>
+<P>Ah, So<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"> <HI>Courtwit</HI>! We have all wrong'd thee <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"> we know it thou hast reveng'd it for my Son and Heir is utterly undoue.</P>
+</SP>
+<SP>
+<SPEAKER>Amin.</SPEAKER>
+<P>Oh, I am quite cast away</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Why, Faith, Mother, I can't help you, he has paid for her dearly, and 'tis pity they should be parted.</P>
+</SP>
+<SP>
+<SPEAKER>Mrs. <HI>Snea.</HI></SPEAKER>
+<P>Woman, We do pray thee, we do beseech thee, even upon our Knees, have pity on the House of the <HI>Sneaksby</HI>'s, spare my Son, relin|quish thy Right, and look thee before these Witnesses, we heartily forgive all, and will freely bestow this Chain upon thee.</P>
+</SP>
+<SP>
+<SPEAKER>Iery.</SPEAKER>
+<P>I do receive it.</P>
+</SP>
+<SP>
+<SPEAKER>Amin.</SPEAKER>
+<P>She does receive it. Bear Witness all, she does receive it.</P>
+</SP>
+<SP>
+<SPEAKER>Iery.</SPEAKER>
+<P>And look you, Madam, to speak plain English, I am just as substan|tial a Bride as my Mistress <HI>Annabella</HI> was a Bridegroom; E'en just such another Masquerader.
+<STAGE>Pulls of his Topping.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER><HI>O<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters">.</HI></SPEAKER>
+<P><HI>Ieremy.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>My Boy <HI>Ieremy.</HI></P>
+</SP>
+<SP>
+<SPEAKER>Ier.</SPEAKER>
+<P>Yes, Master, the same pretious Stick of Wood.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Well, Give me thy<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">Hand, I will love thee as long as there is Swift|ness in Meditation, smoothness in Flattery, and Constancy in Malice.</P>
+</SP>
+<SP>
+<SPEAKER>Crae.</SPEAKER>
+<P>Pray, Brother, take care to release me from this Man's Malice.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Is this thy Brother?</P>
+</SP>
+<SP>
+<SPEAKER>Iery.</SPEAKER>
+<P>Yes, Sir.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Believe me, thou sha't be my Charge.</P>
+</SP>
+<SP>
+<SPEAKER>Crae.</SPEAKER>
+<P>I only desire to be free from this Man's Fury,</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>He shall have nothing to say to thee.</P>
+</SP>
+<SP>
+<SPEAKER>Hick.</SPEAKER>
+<P>I will have nothing to say to Man, Woman, or Child while I live agen.
+<STAGE>Ex. Hickman.</STAGE></P>
+</SP>
+<STAGE>Enter <HI>Squeez. Carr. Bo<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">,</HI> and <HI>Vent.</HI> with two Dancers.</STAGE>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Save you, save you all, have you any Room for a New Married Pair.</P>
+</SP>
+<SP>
+<SPEAKER>Wid.</SPEAKER>
+<P>Why, how now Cozen, are you entered into the Bonds of Matri|mony?</P>
+</SP>
+<SP>
+<SPEAKER>Carr.</SPEAKER>
+<P>My Destiny has so Allotted it.</P>
+</SP>
+<SP>
+<SPEAKER>Wellb.</SPEAKER>
+<P>Why how now <HI>Venture,</HI> what makes you in this Disguise?</P>
+</SP>
+<SP>
+<PB N="47" REF="28">
+<SPEAKER>Squeez.</SPEAKER>
+<P>Disguise, no, you're mistaken, he's now in his true shape, he was in Disguise when he past for a Gentleman. But now he Wears his own Co|lours, you'll find him as Ranck a Pick-pocket Scoundrel, as ever made his Exit from under a Gibbet. Did not you lose a Purse to day?</P>
+</SP>
+<SP>
+<SPEAKER>Wellb.</SPEAKER>
+<P>I did, what then?</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Why this Picture Drawer drew it, and has drawn more of the Kings Pictures than all the Limners about the Town.</P>
+</SP>
+<SP>
+<SPEAKER>Bon.</SPEAKER>
+<P>Sirrah give the Gentleman his Purse.</P>
+</SP>
+<SP>
+<SPEAKER>Wellb.</SPEAKER>
+<P>No let him keep it, 'twas my Fault to be so negligent to lose it, not his that stole i<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Have you <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"> another Purse to lose?</P>
+</SP>
+<SP>
+<SPEAKER>Wellb.</SPEAKER>
+<P>I have another Purse; which if I lose; I'le blame my self, none else.</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Let him but come so near as to ask forgiveness for the last, and if he dont take the next, tho 'it be fifteen Fathom deep in your Pocket, I'le hang for him when his turn comes.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>What dost des<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">g<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"> to do with him?</P>
+</SP>
+<SP>
+<SPEAKER>Squeez.</SPEAKER>
+<P>Why, I was a going to give him the Ceremony of the Horsepond. But that the two Friends of his met in by the way, and promis'd to Dance his Pardon out.</P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>And Faith they're come very <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"> to grace your Nuptials strike up Musick.
+<STAGE>Dance.</STAGE></P>
+</SP>
+<SP>
+<SPEAKER>Court.</SPEAKER>
+<P>Why how now Mother! struck dumb<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"> Why then to make a per|fect Cure upon that Eternal Tongue, and lu<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">l you silent for ever; be plea|sed to understand that between myself, my dear <HI>Anabella,</HI> and my honest <HI>Iere|my,</HI> I have Rev<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">ng'd my self on the Ingratitude of all mankind, and Tri|umph in the honest Rods <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"> sco<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters">g'd lern with. First for my Jewels, which you my sweet Mother-in-Law made bold to Cozen me of by the help of Mr. <HI>Holym<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">ter</HI> I have given you a <HI>Rowland</HI> for your <HI>Oliver,</HI> Mr. <HI>Ladyman</HI> for his Diamond Ring, <HI>Mr. Bonavens</HI> and <HI>Mr. Squeezwite</HI> for their kind Pre|<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">ents to my Wife, the Widow for her Mortgage.
+<Q><L>In short, the whole false World is all Deceit,</L>
+<L>And I've made bold <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"> to retrieve the Chest,</L>
+<L>Think not of L<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">sses <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">h<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">refore where there's none,</L>
+<L>For all my Care was but <GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters"> get my own. <STAGE>Exeunt omnes.</STAGE></L></Q></P>
+</SP>
+</DIV2>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+<DIV1 TYPE="advert for face powder">
+<HEAD>ADVERTISEMENT.</HEAD>
+<P>_THat Famous Powdr, called <HI>Arcanum Magnum,</HI> formerly Prepared by the Learned <HI>Riverius</HI> Physician Regent to the French King; and approved by most Persons of Quality in Christendom for Preserving and Beautifying the Face, even to Old Age: It Cures Red Faces; Morphew; it prevents, and takes away Superfluous Hair growing on the Face; In short it adds more Lu|stre and Beauty than any Powder or Wash known, as many Persons of Quality can Testifie, who daily use it with the greatest, Approbation. It is prepared only by <HI>J. H.</HI> Doctor in Physick, in great <HI>Knight Rider-street</HI> near <HI>Doctors Commons Gate</HI>&punc; a <HI>Blew Ball</HI> being over the Door where it may be bad for 2. <HI>S.</HI> 6 <HI>d.</HI> the Paper with Directions for its Use.</P>
+</DIV1>
+<DIV1 TYPE="publisher's advertisement">
+<PB REF="29">
+<HEAD>A Catalogue of Books, some of them Newly Printed for <HI>Sam. Briscoe</HI> over against <HI>Will's</HI> Coffee-House in <HI>Russel-Street,</HI> in <HI>Coven-Garden.</HI></HEAD>
+<P>THE History of <HI>Polybius</HI> the <HI>Megal<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">politan,</HI> containing a general Account of the Transa|ctions of the World, and prin|cipally of the Roman People, du|ring the First and Second Punick Wars with Maps: describing the Places where the most conside|rable Engagements and Battles were Fought, both by Sea and Land: Also an Account of their Policies and Stratagems of War, of the Antient Romans, in Conquering the greatest Part of the then known World in Fif|ty three years: Translated by Sir <HI>H. S</HI> to which is added, a Character of <HI>Bolybius,</HI> and his Writings: By Mr. <HI>Dryden,</HI> in two Volumes, <HI>Octav.</HI> Pri<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters"> <GAP DESC="illegible" RESP="pdcc" EXTENT="3 letters">.</P>
+<P>The Lives of the twelve <HI>C<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">|sars</HI> the first Emperors of <HI>Rome,</HI> Written in Latin by <HI>C. Suetonius Tranquilius.</HI> Translated into <HI>En|glish</HI> by several Eminent Hands, with the Heads of the Emperors on Copper Plates.</P>
+<P>Advice to a Young Lord, Written by his Father, under these following Heads, <HI>Viz. Re|ligion, Study</HI> and <HI>Exercise, Travel, Marriage, House-keeping, Hospita|li<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">,</HI> of the <HI>Court,</HI> of <HI>Friendship,</HI> of <HI>Pleasure</HI> and <HI>Idleness,</HI> of <HI>Conver|sation.</HI></P>
+<P>The Art of Heraldy, in two Parts. The first containing (in a Concise, but Methodical Me|thod, by Rules and Explanations of Bearings) the Body of Heral|dy, the sscond Honour Civil and Military, being a Treatise, of the Nobility and Gentry of <HI>Eng|land,</HI> as to their Priviledges and Dignities, <HI>&amp;c.</HI> according to the Laws and Customs of our Realm. The whole Illustrated with vari|ety of a<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">t and proper Sculp|tures for the better Explanation thereof The Second Edition.</P>
+<P><HI>Aristotle</HI>'s Rhetorick, or the true Grounds and Principles of of Oratory, shewing the Right Art of Pleading and Speaking in full Assemblies and Courts of Judicature. In four Books se|cond Edition</P>
+<P>The Religious St<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">ick: O<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">, a short Discourse on several Sub|jects, <HI>Viz.</HI> Of Atheism, Super|stition, the World's Creation, Eternity, Providence, Theolo|gy, Strictness of Churches, of the Scriptures, of the Moral and Judaical Law, of Monsters, of Man and his Creation, of the Immortality of the Soul, of Faith and Reason, of the Fall Angels; and what their Sin was, of Mans Fall, of the Stile of <HI>Ge|nesis,</HI> why Man felt, with a Re|futation of the <HI>Millinaries,</HI> with a Friendly Address to the Fana|ticks of all Sex<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">ts and Sorts. The Second Edition, by Sir <HI>George Mackenzie.</HI></P>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

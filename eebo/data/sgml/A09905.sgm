@@ -1,0 +1,1581 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD EEBOPROOF 2.0//EN">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-09-09</DATE>
+<RESPSTMT>
+<NAME>Olivia Bottum</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TYPEs to DIVs in order to validate. Proofed title page(s). Checked for N=""s. Checked for GROUP tags. Checked ^s. Reviewed structure. Made DIV3s into DIV2s to represent parallel structure. Checked division-marking material at heads and feet of divisions (HEADS,  CLOSER, OPENER, ARGUMENT, EPIGRAPH, SIGNED, BYLINE, etc.). Removed EPIGRAPH tags from introductory lines of several poems. Checked for signatures. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs.  Converted 224 $-groups to GAP DESC="illegible" RESP="pdcc". Checked spacing of foreign GAPs.  Checked for LBs. Checked for startqs, endqs, oes, q;s, and Qs. Checked proofsheets and made corrections found there.  Checked for FIGUREs and decorated initials. Checked for missing-page GAPs. Revalidated. </ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="A09905">
+<STC T="S">20167</STC>
+<BIBNO T="umi">99846047</BIBNO>
+<VID>10984</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1">
+<PB REF="1" MS="y">
+<P>THE Passionate Poet.</P>
+<P>With a Description of the Thracian Ismarus.</P>
+<P>By T.P.</P>
+<P>Pallas habet plures spurios qu&agrave;m genuinos <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word">.</P>
+<P>LONDON Printed by Valentine Simmes, dwelling on Adling hill at the signe of the white Swanne. 1601.</P>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="2" MS="y">
+<PB REF="2">
+<HEAD>To the Right honorable and my most vertuous Ladie, The Ladie Frauncis Countesse of Kildare. T. P. wisheth all perseuerance, with soules happynes.</HEAD>
+<L>_THrice did we read what passion wrought at once,</L>
+<L>It pleas'd, displeas'd vs, and it pleas'd againe.</L>
+<L>Front-fallowed Athens ministred in frownes,</L>
+<L>Which Ismarus to Comick aid reclaime.</L>
+<L>May she propugne those wronges, and onely those,</L>
+<L>But Thracian refuge do not we propose.</L>
+<L>They weare not Athens furrowes that offended,</L>
+<L>And be she powerfull in her reprehension,</L>
+<L>But want of worthines to thee <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">ntended,</L>
+<L>To thee (great Ladie) life of mine inuention.</L>
+<L>Tis from thy fauour, or seuerer sence,</L>
+<L>We s<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">yle or take acquaintance with offence.</L>
+<L>Vouchsafe (thou fairest of <HI>Elisaes</HI> trayne)</L>
+<L>From bewties e<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters">ment one gratious dymple,</L>
+<L>Th'immensiuenes whereof shall entertayne</L>
+<L>And countenance the errour of the symple.</L>
+<L>If thou be pleas'd, then all are satisfide,</L>
+<L>Or be thou pleas'd, so frowne the world beside.</L>
+<CLOSER><SIGNED>Your Ladyships in all dutifull office Tho. Powell.</SIGNED></CLOSER>
+</DIV1>
+<DIV1 TYPE="to the reader">
+<PB REF="3">
+<HEAD>To the Reader.</HEAD>
+<P>_IT may be, some <HI>Rhetoric<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters"></HI> Praelector holdes it enquirable for the Title, as professing too much of affectation thereunto. Nor do I blame him, when, conferring the importance ther|of with our impotence, he deprehend not a reason in the very front, or first face of my Booke. It shall suffice, for thy better satisfaction, I was most inward with mine owne defects: which I studied to preserue from seuerer exposition, as thus: If any challenge me for dis|membring a good history, which might better haue beene continuated from the beginning, it was not I, but Passion. If, that my Introduction be somewhat too prolix, in respect of the maine sub<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">ect proposed. All this was of Passion, that once enlargde, is hardly called in and restrained. If that in many of these Plants, I obserue no strict methode or time; I aun|swere still, it was of Passion: One that neuer speakes in numbers, neuer beginnes with a <HI>Quande<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">uidem,</HI> or <HI>Quemadmodum,</HI> one that respectes not the preparatiue complement of hemming or spitting, the authenti<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">ue stroaking of the beard, or your demure winking. Briefly, one of the most licentious, irregular, and vnformall Libertines of this Age, and notwith|standing as cur<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">ant for excusable, as the loosers language, or some preua|ricator in a learned assembly. From hence I was aduised to assume his sh<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">pe, as a most spatious protection, which the rather I made personate in the Poet, as well for suggestion of his office, which ought to bee most conuersant in P<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">ssion out of the abuses of these times, as for conciliation of our true Diuines, whome I onely admire, and not of arrogance, as be|ing sensible of any thing in m<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">e, which might maintaine such profest im|po<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">tance. He that vrgeth <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"> further herein, giues me cause, if vnlearned, to suspect his iudgement; if learned, his seueritie.</P>
+<CLOSER>Farewell.</CLOSER>
+</DIV1>
+<DIV1 TYPE="encomium">
+<PB REF="3">
+<HEAD><HI>I. P.</HI> to the Author.</HEAD>
+<L>ONe is the streame that flowes in both our vaynes,</L>
+<L>Our name, our fortunes, blind of disproportion:</L>
+<L>And shall a kinsmans interest restraine?</L>
+<L>Thy due forbids suspect such darke extortion.</L>
+<L>I le straine my selfe to prai<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">e, and not exceed</L>
+<L>Th abounded boundes of thy deseruing meed.</L>
+<L>How well these <HI>Haemaroides</HI> of thy wit</L>
+<L>Decipher to our Artists Artes true vices!</L>
+<L>How well do<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">st thou thy selfe, thy selfe acquit,</L>
+<L>Assuming that contempt which thence ariseth!</L>
+<L>Laying thy stage in <HI>Thracian Ismarus,</HI></L>
+<L>A modell of this vniuerse diffu<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">e;</L>
+<L>In it conuai'd a Theme of seriou<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">nes,</L>
+<L>Of weilding common and the states affaires&punc;</L>
+<L>Pretending fable, where lies nothing lesse,</L>
+<L>Onely to call away seuerer eares.</L>
+<L>What need<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"> he couch in morall, or els feare,</L>
+<L>Whose lines are modest to the most seuere?</L>
+<L>And such are thine from meeker spirit flowing&punc;</L>
+<L>Cherish that spirit in her towardnesse:</L>
+<L>So shall thy labors with my praises growing</L>
+<L>Be registred, (suspition in recesse.)</L>
+<L>Beleeue <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"> I suspire no fresher aire,</L>
+<L>Then are my hopes of thee, and they stand faire.</L>
+</DIV1>
+<DIV1 TYPE="poem">
+<PB REF="4">
+<HEAD>Lectori de &amp; Poesi &amp; Poeta
+Ogdoasticon.</HEAD>
+<L>VIlia qua mi<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">atur i<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">ers <GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters">dibriae vulg<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">t,</L>
+<L>Qui petis <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word">, opera hac dictio meta tuae,</L>
+<L>L<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">tera <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"> habet: Nec, habet quod litera, po<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">dus</L>
+<L>Litera sola d<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">cet: lecti<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"> sana dabit.</L>
+<L>Ergo ab <HI>Atlante</HI> nepes, cerebro <HI>Iouis</HI> edita virgo,</L>
+<L><GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"> &amp; pende<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">s agmen ab ore, legant.</L>
+<L>Cateraturt a tua<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"> muscas venare. Ministr<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"></L>
+<L><GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"> hac valido propria prada. Val<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">.</L>
+<CLOSER><SIGNED>G. O.</SIGNED></CLOSER>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="poem">
+<PB REF="4">
+<HEAD>The Passionate Poet.</HEAD>
+<L>_WIth that <HI>Ioues</HI> yssue did prouoke the God,</L>
+<L>Whose visage is compact of salarode&punc;</L>
+<L>To leaue his throne of waters and descend;</L>
+<L>To giue their serious Controuersie end,</L>
+<L>Vrging being vrg'd herselfe by hope of fame,</L>
+<L>The yong <HI>Ionsa</HI> might affect hir name.</L>
+<L><HI>Neptune</HI> his dangling bawdricke cast aside,</L>
+<L>Which to a well tun<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">d Lyre his hand did guide.</L>
+<L>And then sustaines his scepter, which to beare</L>
+<L>Is Isthmian labor; Thus <HI>Trident<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">fer</HI></L>
+<L>Gazing at honors worth&punc; forsakes his Court,</L>
+<L>Where Mermaids do for choristers resort,</L>
+<L>Whose diuidence incestuous and vnchaste</L>
+<L>Rauisht the Citizens of seas laid waste.</L>
+<L>Vpon a faire find Dolphin did he ride,</L>
+<L>While blew <HI>Nereides</HI> lackey by his side,</L>
+<L>And with their measuring feet checke corall beds,</L>
+<L>The richest meteor that the Ocean breeds:</L>
+<L>The Godhead that in shape of Bull did lie,</L>
+<L>Had not a carriage of such Maiestie.</L>
+<L>By this the Seas great Arbiter attain'd</L>
+<L>The farthest bounds <HI>Oceanus</HI> had gain'd,</L>
+<L>And now the yeelding sand did testifie</L>
+<L>That earth shooke vnderneath his surquedrie.</L>
+<L>The azure God at Agas strond arriued,</L>
+<L><PB REF="5">The sta<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters"> from whence his Nerean steeds <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"></L>
+<L>Their thriftie <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">odder, Agas well suruaid</L>
+<L>The faire <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">onicke structure vnde<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">laid:</L>
+<L>This infant citie pl<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">c't in A<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">rica,</L>
+<L>Was proud of his accesse, there did he stay.</L>
+<L>There <HI>Pallas</HI> and <HI><GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">al<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">mon</HI> do allow</L>
+<L>The moderation of their randeuow.</L>
+<L>The disputants thus haue they both decreed,</L>
+<L>That humane censure shall preferre the deed</L>
+<L>Whereby their deities may best disclose,</L>
+<L>Who ought so faire a title to impose.</L>
+<L>His mother <HI>Vestaes</HI> sonne did inuocate,</L>
+<L>And on her bosome laid his scepters waight:</L>
+<L>Thus the desire of <HI>Flamen</HI> and of <HI>Phane,</HI></L>
+<L>Causde him to wound her breast coniure her name:</L>
+<L>Out of whose entralls did prosiliate</L>
+<L>A horse from whom his kind is propagate.</L>
+<L>Hereby he woed the suffrage of mankind,</L>
+<L>And made <HI>Hyppona</HI> Goddesse of that shrine:</L>
+<L>She that vnknowne by <HI>Trytons</HI> side did sit,</L>
+<L>Contemn'd the God and counterpois'd the gift,</L>
+<L><HI>Stirculeus</HI> did inspire her with his Arte,</L>
+<L>Diuiding natures influence apart.</L>
+<L>For <HI>Neptune</HI> cald him Sire f<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters">cipotent,</L>
+<L>And when he stood pros<GAP DESC="illegible" RESP="pdcc" EXTENT="3 letters">pt to banishment:</L>
+<L>Did he diuide his heauen wrackt soule from harmes,</L>
+<L>And vnto <HI>Latium</HI> beares him in his armes,</L>
+<L>Lamenting him and his attending feares,</L>
+<L>Made the worldes greater part a sea of teares:</L>
+<L>Whose teares the faire <HI>Hyperion</HI> from his checkes</L>
+<L>Extracts, and swolne with moysture kindly weepes&punc;</L>
+<L>The God that chang'd his Scepter for a scythe,</L>
+<L>Inspird the Dame that did with <HI>Neptune</HI> striue:</L>
+<L>He taught her exorcisines and practicke skill</L>
+<L>To make the earth obsequious to her will.</L>
+<L>In honor of <HI>Minerua</HI> did it yeild</L>
+<L><PB REF="5">An Oliue tree, the first that grac't the field:</L>
+<L>For this the Consistorie did assigne</L>
+<L>To gratifie him with Ionicke shrine.</L>
+<L>There the <HI>Filamines</HI> with temples bound,</L>
+<L>Present large Vrnes that are with incense crownd,</L>
+<L>Whose flame with soueraigne liquor they infuse</L>
+<L>Conuerts to smoke and makes the ayre obtuse.</L>
+<L>Hereat the enuious Saturnist repinde,</L>
+<L>His weake assumption retrograde enclinde:</L>
+<L>Albeit they gaue him temple and a flame,</L>
+<L>Yet fortune had not equall<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">sde their fame.</L>
+<L>His comicke Alcoran was desolate,</L>
+<L>VVhilst hers with Nardus fumes did suffocate:</L>
+<L>His Priests their emptie challices extend,</L>
+<L>Her Ministers ammonius sente commend;</L>
+<L>And through their nostthrils conduit entertaine</L>
+<L>The gentle odor they expire againe:</L>
+<L>From hence <HI>Ennosigaus</HI> did acquest</L>
+<L>The motiue which his drooping soule deprest;</L>
+<L>And this the rather aggrauates the same,</L>
+<L>That Athens should affect <HI>Athenaes</HI> name.</L>
+<L><HI>Ioue</HI>-lou'd <HI>Athena</HI> great in Athens loue</L>
+<L>Aspir'd the spheare where <HI>Ions</HI> starre did moue,</L>
+<L>And forc't him from his separable orbe,</L>
+<L>whose exhalation <HI>Neptune</HI> did absorbe:</L>
+<L>wherewith enrag'd the furious Orgist raues,</L>
+<L>And with his head subornd the purple waues.</L>
+<L>This <HI>exit</HI> introduct a second stage,</L>
+<L>where Athens did intend the vmpirage</L>
+<L>Of her <HI>Athena,</HI> in whose breast appears</L>
+<L>Legends of acts, deceiptfull characters:</L>
+<L>There Athens in abrasiue lines did write</L>
+<L>A borrowed name with brittle Chyrsolite:</L>
+<L>In Times compendious booke did she ymprage</L>
+<L>A name vnguiltie of succeeding age&punc;</L>
+<L>VVhy then, O name recorded to misprision,</L>
+<L><PB REF="6">O time-bred shame: O booke of de<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters">nition.</L>
+<L>Their mutuall loue susp<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">r'd a liuely heate,</L>
+<L>When misaffecting rites were incomplete:</L>
+<L>For many rites are intercedent there,</L>
+<L>Where loue with arts and arts with loue conspire:</L>
+<L>So <HI>Athens</HI> loude <HI>Athena</HI> for her name,</L>
+<L>And so for loue was she turnd Artisane.</L>
+<L>O happie change if neuer to returne,</L>
+<L><HI>Thyn<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">si<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters"></HI> mount with arts might euer burne.</L>
+<L>The seeing Goddesse vsd a seemely might</L>
+<L>To make her <HI>Athens</HI> see with learnings light:</L>
+<L>But eyes that trauaile vnderneath her zone</L>
+<L>Sustaine ecclypse of reputation:</L>
+<L>And such as are to schollership enclind,</L>
+<L>Learne best to see how they may best be blind.</L>
+<L>Her <HI>Athens</HI> was the Mu<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">es <HI>He<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters">con,</HI></L>
+<L>For there she raisd a second <HI>Hieron</HI>&punc;</L>
+<L>That <HI>Gy<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters">afie</HI> which platane shades enchase,</L>
+<L>Concealing it from each celestiall face.</L>
+<L>O had it bin immur'd with reputation,</L>
+<L>Or had it not such ciuill intimation,</L>
+<L>Then vile respect that child of ignorance.</L>
+<L>Had not conspird with learned arrogance.</L>
+<L>But woe is me for arte lies prostitute</L>
+<L>While ignorance doth tread her vnder foote.</L>
+<L>The <HI>Phocion</HI> is insatiate in his lust,</L>
+<L>Whose hot coniunction makes my muse combust:</L>
+<L>Thus is she most vnhappie of the nine,</L>
+<L>Thus is her ill made worse by being thine.</L>
+<L>Like chaste <HI>Euridice</HI> she flies from fate,</L>
+<L><HI>Euridice</HI> faire and infortunate.</L>
+<L>VVhile he pursues with Aristaean will</L>
+<L>My muse from whom this passion doth distill.</L>
+<L>Yet were she free from any serpents sting,</L>
+<L>If sanctuarie were an holy thing:</L>
+<L>But faction abrogates her holy vse,</L>
+<L><PB REF="6">Arte is opposd to arte and Muse to muse:</L>
+<L>She harbors enuie and not emulation,</L>
+<L>Sinceritie is made selfe affectation.</L>
+<L>Beleeue mee <HI>Athens,</HI> this imputes thy worth,</L>
+<L>That monster faction was by thee brought forth.</L>
+<L>The loue of him hath made thee arrogant,</L>
+<L>He hath betraid thee to the ignorant.</L>
+<L>By faction didst thou fall from thy estate.</L>
+<L>T'was faction made thee first infortunate:</L>
+<L>That all in ill and ill in euery part,</L>
+<L>Hath made thee factious <HI>Athens</HI> as thou art:</L>
+<L>T'is arte indeed whom thou hast wrong'd in this;</L>
+<L>T'is I for loue of both made Bigamis.</L>
+<L>I flie contempt of learning it is I</L>
+<L>That cannot meete with true sinceritie:</L>
+<L>To me the vice of schollership belongs,</L>
+<L>I haue an inward feeling of her wrongs:</L>
+<L>T'is I whom learning tempts to imprecation,</L>
+<L>Being impatient of her estimation.</L>
+<L>I challenge faction for her vile estate.</L>
+<L>And cursing it, I still asseuerate,</L>
+<L>Since arte from <HI>Athens</HI> tooke her opprobrie,</L>
+<L>And both their ills did transmigrate in me&punc;</L>
+<L>It was because I plac't my loue amisse,</L>
+<L>Where no respect nor good opinion is.</L>
+<L>For louing her am I opinions grate&punc;</L>
+<L>And out of loue become thus passionate:</L>
+<L>If this be made the vmpire of her liking,</L>
+<L>May faint defection practise mine acquiting.</L>
+<L>I'le change this arte for some mechanicke skill,</L>
+<L>And <HI>Athens</HI> for a moderne <HI>Thracian</HI> hill:</L>
+<L>A Muse-forsaken <HI>Thrace,</HI> an <HI>Ismarus,</HI></L>
+<L>Long lif'd by memorie of <HI>Orpheus</HI>;</L>
+<L><HI>Orpheus,</HI> who dignified with legacie</L>
+<L><HI>Hebrus</HI> and heauen for head and choristrie.</L>
+<L>What imputation is familiar,</L>
+<L><PB REF="7">If I <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"> this <GAP DESC="illegible" RESP="pdcc" EXTENT="1 span">,</L>
+<L>If borrow wings to flie from <HI>Mercurie</HI>;</L>
+<L>T'is but defection not Apostasie.</L>
+<L>When hea<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">'n was <GAP DESC="illegible" RESP="pdcc" EXTENT="3 letters">bulent with <HI>Io<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">ia<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"></HI> pride,</L>
+<L>Li<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">'d not <HI>Apollo</HI> by <HI>Amphry<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">us</HI> side<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"></L>
+<L>For there he did auoid a troubled aire,</L>
+<L>And here <HI>A<GAP DESC="illegible" RESP="pdcc" EXTENT="3 letters">etus</HI> he was passing faire.</L>
+<L>At <HI>Thracian Ismarus</HI> will I repose</L>
+<L>Within the mount <HI>Hermaphrodite,</HI> that knows</L>
+<L>Two parts distinguisht, and as different</L>
+<L>In qualitie for their distract intent.</L>
+<L>Whats <HI>Ismarus,</HI> thou'<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">rt so rapt with seeing?</L>
+<L>T'is any thing but that which hath no beeing.</L>
+<L><HI>Europe</HI> of her descent doth vainely boast,</L>
+<L>Much owes she vnto <HI>Thrace,</HI> to <HI>England</HI> most.</L>
+<L>The Countrie loues this faire <HI>Hermaphrodite,</HI></L>
+<L>The Citie knowes her for the Cities type,</L>
+<L>In Court a Courtie<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">, and the Courtier, it</L>
+<L>Is nothing but a somewhat <HI>Ismari<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">,</HI></L>
+<L>In liuing there I shall not liue abstract,</L>
+<L>No<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"> to one residence my selfe contract:</L>
+<L>Since <HI>Ismarus</HI> each Nation doth affine,</L>
+<L>Saue <HI>Athens</HI> onely all the world is mine.</L>
+<L>The world is mine in natures sympathie&punc;</L>
+<L>For both sustaine but contrarietie:</L>
+<L>So <HI>Ismarus</HI> earths partie coloured kertle,</L>
+<L>Hath one side barren and the other fertle.</L>
+<L>Her barren part that's bare in all good parts,</L>
+<L>Whether from outward cause or els desarts,</L>
+<L>Or from a well beseemd distinguishment,</L>
+<L>Or all, I doubt how safely to assent.</L>
+<L>This onely doth his steril mold suggest,</L>
+<L>Each land of euery plant is not possest;</L>
+<L>For this blame Nature, and yet blame her not,</L>
+<L>Shee's better idle then <HI>Halsphl<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters">t.</HI></L>
+<L>If Nature were alike industrious,</L>
+<L><PB REF="7">Th'indifferent arbiter of <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word">,</L>
+<L>Each part were reconcil'd, and <GAP DESC="illegible" RESP="pdcc" EXTENT="1 span">&punc;</L>
+<L>Should le<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">ell with the e<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters">th of <GAP DESC="illegible" RESP="pdcc" EXTENT="1 span">.</L>
+<L>But she in wisedome thought it no offence,</L>
+<L>By rest to giue to shrubs preeminence:</L>
+<L>So we vphold the state of gouernement,</L>
+<L>As Natures instance makes vs prouident.</L>
+<L>Admit that either side of <HI>Ismarus</HI></L>
+<L>VVere equall apt in his materiall drosse</L>
+<L>To entertaine each forme that's vegitant</L>
+<L>Of herbe or tree or whatsoeuer plant.</L>
+<L>Nature being prodigall of inst<GAP DESC="illegible" RESP="pdcc" EXTENT="3 letters">ce,</L>
+<L>Should yeeld her wisdome to suspicious sense.</L>
+<L>Giue vnto heauen alike in euery part.</L>
+<L>Like grosse densation, and <HI>Apollo<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"></HI> harpe,</L>
+<L>Shall be as pale an obiect in the eie,</L>
+<L>(Though set with gold) as brasse pa<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">'d <HI>Galaxie,</HI></L>
+<L>And it, as much vnable to reflect,</L>
+<L>As where the <HI>Cynthides</HI> make breach vncheck<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">.</L>
+<L>Repine at this, so shalt thou call in question</L>
+<L>Natures decree and by strong insurrection</L>
+<L>Be openly rebellious to that state,</L>
+<L>VVhereby thou wert thy selfe predestinate:</L>
+<L>So shalt thou in thine owne immodestie</L>
+<L>Looke vppon heauen with a <HI>Promethean</HI> eie,</L>
+<L>Endeuour to reduce the earth againe</L>
+<L>Into her ancient indigested frame,</L>
+<L>Rob heauen of stars, stars their intelligence,</L>
+<L>The world of motion, light and influence.</L>
+<L>Of this repining sect, two sects there are,</L>
+<L>VVhose fortunes (albeit vnfamiliar)</L>
+<L>Coniure herein. The one is Atheist:</L>
+<L>The other thinks that God is onely his.</L>
+<L>Atheisme an <HI>Ismarite</HI> and Politician,</L>
+<L>Being rich in generall for his condition<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"></L>
+<L>So giues all franchisement of libertie</L>
+<L><PB REF="8">T'aspire through an ambitious industrie,</L>
+<L>Disputes that <HI>Mighti<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">es</HI> must be attaind</L>
+<L>Through broken vowes through faith and conscience staind.</L>
+<L>These darke endeuors are religion</L>
+<L>To Atheisme, other faith he knoweth none:</L>
+<L>But making of deuotion an extent,</L>
+<L>Exceeds a <HI>Democraticke</HI> gouernement,</L>
+<L>As not sufficient spacious to admit</L>
+<L>A generall weale of equalli<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">de conscript.</L>
+<L>So he repines the poorest rational</L>
+<L>Should dwell contented by his natiue thrall,</L>
+<L>Since in ambition lies his remedie,</L>
+<L>And by neglecting curious pollicie&punc;</L>
+<L>He leaues the meanes whereby he may inuite</L>
+<L>Fortune that's flexible to all alike.</L>
+<L>Precisianisme whose zeal's at interest,</L>
+<L>Who of himselfe doth selfe conceit it best,</L>
+<L>Exemplifies his instance in proces,</L>
+<L>And wils an vn<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters">ersall barrenness</L>
+<L>Forbids the day producing chariot,</L>
+<L>To draw about the all suruaying God:</L>
+<L>Because his seruile hand doth well sustaine</L>
+<L>The needie traces of a <HI>Lyd<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters"></HI> wai<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">e:</L>
+<L>Enuies the gouernement that's <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">emporall.</L>
+<L>Repines at order <HI>hierarchicall,</HI></L>
+<L>And in his scruple doth extenuate</L>
+<L>Whateuer office fortune or estate.</L>
+<L>Yee faithfull vnto orthodoxall terror,</L>
+<L>Religious authors of religious error,</L>
+<L>Vsing her proper organs and protect</L>
+<L>In selfe conspiracie which you affect,</L>
+<L>O wherefore is the name of Magistrate</L>
+<L>So harsh of cadence? wherefore doe you hate</L>
+<L>The purple garment or the scarlet mantle?</L>
+<L>How ill beseemes it those rude palmes to handle</L>
+<L>The scepter or the sword, how more then ill</L>
+<L><PB REF="8">To slay the Iudge vnroyallize the King?</L>
+<L>The price of this strong heresie contriu'd,</L>
+<L>Thy faith must be deprau'd, thy selfe depriu'd</L>
+<L>Of all commercement with sincere deuotion,</L>
+<L>For thou art mou'd vnto that violent motion</L>
+<L>Of Atheisme blind of God, and both agree</L>
+<L>By different meanes to worke equalitie:</L>
+<L>The one commends the Sunne for his accesse,</L>
+<L>What he elates, the other doth depresse,</L>
+<L>And what they both preferre, it is to all,</L>
+<L>Each season for an Equinoctiall,</L>
+<L>Improouing the premist necessitie</L>
+<L>Of <HI>Ismarus</HI> dispo'sd so diuersly.</L>
+<L>This <HI>Thracia<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"></HI> hill contends to imitate</L>
+<L>Man in his liuely forme and inward state:</L>
+<L>And how conuenient is the presidence</L>
+<L>Of soule and mind and intellectuall sense</L>
+<L>Before the bodie that affects but clay,</L>
+<L>Let the repiner in his manhood say:</L>
+<L>Then shall he seriously affirme with me,</L>
+<L>That speake out of mine owne necessitie</L>
+<L>I speake the necessary barrennesse</L>
+<L>Of <HI>Ismarus</HI> and natures inaccesse:</L>
+<L>Albeit I do preferre her fruitfull side,</L>
+<L>Not led by discontent that child of pride,</L>
+<L>But by innated loue of selfe well willing,</L>
+<L>We wish all fruitfull parts within our dwelling.</L>
+<L>There dwell where <HI>Ismarus</HI> in iocund sense</L>
+<L>Of Natures hand commends her excellence.</L>
+<L>Vnto that fertile part her fairer field,</L>
+<L>Will I my poesie and my passion yield:</L>
+<L>Faire is that field which richly shal infuse</L>
+<L>Nature for arte, spirit for <HI>Genius.</HI></L>
+<L>Into her <HI>Orpheus</HI> did she breath such spirit</L>
+<L>And nature such as none since did inherit.</L>
+<L>For since his time all studie was disposd</L>
+<L><PB REF="9">To the ob<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">cu<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters">ties which Artes disclose.</L>
+<L>Who cares for simples skill? or who is he,</L>
+<L>That vnto trees will play his mi<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">stre<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters">ie?</L>
+<L>Arte beares a nimbler wing the Lupricall</L>
+<L>Is made the pearch where Learning loues to fall.</L>
+<L>Then so are aloft and shadow with your wings</L>
+<L>A cash't <HI>Athenian,</HI> who in passion sings</L>
+<L>To <HI>Ismarus</HI> exceeding in the fertle</L>
+<L>Of Vine and Oliue, and the conquerors Mirtle,</L>
+<L>The Rose, the Tamarix, and the <HI>Iouian</HI> Oake,</L>
+<L>The Laurell vnacquainted with the stroake</L>
+<L>Of thunder the <HI>Italian</HI> Cyprus tree,</L>
+<L>The Pine, the Poplar and the Mulberie:</L>
+<L>Lethiferous Ewe, whose nature euer craues</L>
+<L>Some <HI>Golgotha</HI> or seat of dead mens graues:</L>
+<L>I'le sing to Plants of others and of these,</L>
+<L>And call no auditorie but of trees.</L>
+<L>The fruitfull <HI><GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">smarus</HI> did iustly boast</L>
+<L>That she exceld in Vine and Oliue most:</L>
+<L>Then let thy song measure her symphony</L>
+<L>In time as semblable: that thou thereby</L>
+<L>Maist make their donatiue the former place</L>
+<L>To giue vnto thy verse a measures grace.</L>
+<DIV2 TYPE="poem">
+<HEAD>The Vine.</HEAD>
+<LG>
+<L>Sing vnto her generous selfe,</L>
+<L>Sing her pleasance and of health:</L>
+<L>To th'innated <HI>Ipes</HI> sing,</L>
+<L>And the Orgists reuelling.</L>
+</LG>
+<L>SOme call her Vine, as if she were inuited,</L>
+<L>Borne and yet taught, though willing, yet incited</L>
+<L><PB REF="9">To industrie, and some do well <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"></L>
+<L>She were no Vine, did she not apprehend</L>
+<L>What euer neighbouring tree within her tendrels,</L>
+<L>When neighbourhood is dead and trees are friendles.</L>
+<L>But I must blesse her by no other name</L>
+<L>Then that of Vine, because she is the same.</L>
+<L>Because shee's vitall in mortalitie,</L>
+<L>By whose well tempered heat they liue and be.</L>
+<L>They liue and be where honor health and pleasure</L>
+<L>Admit no emulation, meane nor measure.</L>
+<L>Of Plants, the Vine is onely generous,</L>
+<L>Powerfull in medicine and Physicks vse,</L>
+<L>So is she pleasures bed, trees chiefest beautie,</L>
+<L>For at her feete they prostitute all dutie.</L>
+<L>Delight, whose complacence is gracious,</L>
+<L>Proues her the Maiestie of <HI>Ismarus</HI>;</L>
+<L>Honor of Plants, and syluane Emperie,</L>
+<L>A gracious Vine, a pleasing Maiestie.</L>
+<L>Assist me, O thou spirit once traduc'te</L>
+<L>From nature of a more heroick Muse.</L>
+<L>Thou soule of musicke houering in the ayre,</L>
+<L>Vnto thy <HI>Ismarus</HI> at length repaire,</L>
+<L>Returne and stand my strong intelligence,</L>
+<L>That I may sing the Vines faire presidence:</L>
+<L>Excusse my feare, lest fearing I do faint</L>
+<L>In the cold blood which shall my heart attaint:</L>
+<L>Preuent it, O preuent it, and repute me</L>
+<L>Able to sing her greatnesse worth and beautie.</L>
+<L>That she is generous, the vse makes good;</L>
+<L>It fils the veines of Kings with royall blood.</L>
+<L>No liquor but that of the purple grape,</L>
+<L>Makes blood so pure&punc; so fresh, so roseate,</L>
+<L>T'is that extracted and essentiall spirit,</L>
+<L>Which from the foure a second place doth merit:</L>
+<L>T'is euer such, as euer is the same,</L>
+<L>So lustre fresh, as moyst within the veine.</L>
+<L><PB REF="10">For why the Vine, as <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"> and age aspire,</L>
+<L>So no<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters">ll good doth excellence acquire.</L>
+<L>So is it pure as fresh, and who not knowes,</L>
+<L>That pure and fresh do both affect the Rose?</L>
+<L>All celebrations do preferre the Vine:</L>
+<L>The festall and the sacrificing shrine.</L>
+<L>In it the deities are reconcil'd.</L>
+<L>It makes the countenance of Gods more milde,</L>
+<L>And well deserues of men, whose feastes do know,</L>
+<L>Th'administred wine addes royaltie thereto,</L>
+<L>And grace, whereof those feasts may glory most,</L>
+<L>Which in the knowledge of their Vine do boast.</L>
+<L>O do not thou this grace and man disseuer,</L>
+<L>But make the Gods propitio<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">s, O for euer.</L>
+<L>Shee's generous, that's most vnto her selfe,</L>
+<L>But shee's more soueraigne within the health</L>
+<L>Of others, hauing both the power and will,</L>
+<L>To search and cleanse all crude infectious ill:</L>
+<L>And to confirme those necessary parts,</L>
+<L>Whose dissolution vtterly subuerts</L>
+<L>The bodies state. My verse may be replete</L>
+<L>With faire distinguishment of formes concrete,</L>
+<L>To whose dissent the Vine doth moderate</L>
+<L>In kind obseruance of the better state,</L>
+<L>Contending to make actiue her intent</L>
+<L>In homogeneall and in excrement</L>
+<L>Diuided: Neither could I not relate,</L>
+<L>How tis the vine that doth assimilate</L>
+<L>The better nutritiues, how it is shee,</L>
+<L>That purgeth the corrupting reliquie,</L>
+<L>Disioynes the good from bad, digesteth all,</L>
+<L>To proue it so, is no prouinciall.</L>
+<L>Thou soueraigne Plant, O cleanse this body still,</L>
+<L>Be euer Iudge betwixt the good and ill.</L>
+<L>Shee's generous great: and in salubritie</L>
+<L>Vnto that greatnesse she doth multiplie</L>
+<L><PB REF="10">More worth: O but the Vine's most worthie then,</L>
+<L>Her excellence preferd into the Scene.</L>
+<L>I do pretend that beautie whose delight</L>
+<L>In faire applause commends it to the sight.</L>
+<L>Pleasure the subiect of true complacence,</L>
+<L>There hath she laid her primate residence.</L>
+<L>Sing ye of this, that in aduersitie</L>
+<L>Make her your refuge and your sanctuarie:</L>
+<L>That vnderneath her capreols do debar</L>
+<L>The scorching heat of a Meridian star,</L>
+<L>And with her leauie <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">eguments elate</L>
+<L>The cold of ayre admoued and dislocate.</L>
+<L>Your testimonie is requir'd herein,</L>
+<L>That euer liu'd securely by the Vine.</L>
+<L>Yee <HI>Catadupae</HI> deafe vnto the fall</L>
+<L>Of <HI>Nilus,</HI> or the spheres so musicall</L>
+<L>Acknowledge thy securer Lethargie,</L>
+<L>As from the Vine and not a Poppie tree:</L>
+<L>Thy great dimension howsoeuer great,</L>
+<L>Is by the Vine conceald from cold and heat;</L>
+<L>To the secur'd, distrest, or whomsoeuer,</L>
+<L>Tis in the vse of refuge or of pleasure.</L>
+<L>The body of this tree it selfe is small,</L>
+<L>But notwithstanding it hath armes withall,</L>
+<L>Whose faire extent so large, so spacious</L>
+<L>Shadowes the Citizens of <HI>Ismarus,</HI></L>
+<L>Not borrowing light or lustre from the great,</L>
+<L>But as the Sunne which makes each star repleat</L>
+<L>With light of his, so doth she lend to all,</L>
+<L>And hence it is some do her <HI>Cynthia</HI> call,</L>
+<L>But that's in heau'n: They know her on the earth,</L>
+<L>The chaste <HI>Alph<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">a</HI> or <HI>Latonaes</HI> birth;</L>
+<L>Vnder her shade <HI>Apollo</HI> well discloses</L>
+<L><HI>Diana</HI> sleeping on a bed of Roses:</L>
+<L>Sleep on, and sleepe securely, for thy bed</L>
+<L>Is all of Roses, mixt with white and red.</L>
+<L><PB REF="11">O how shall I acquite me of this tree,</L>
+<L>Being so engag'd to her amenitie?</L>
+<L>If flie from inward pleasance, tis in vaine,</L>
+<L>Her outward greatnesse meets thee there againe&punc;</L>
+<L>If I reuerse my sight as blind of these,</L>
+<L>Her soueraigne hand is seene on other trees:</L>
+<L>That hand whose Generous beautie led me forth,</L>
+<L>And now confounds me in her Soueraigne worth.</L>
+<L>As moderne Painters in their arras story</L>
+<L>Shew many arches vnderneath one body:</L>
+<L>So fares this Ode referd vnto the Vine,</L>
+<L>Whose many heads one body must conioyne,</L>
+<L>Being all imperfect and impertinent,</L>
+<L>As meere position and no argument.</L>
+<L>The subtill matter is so implicit,</L>
+<L>I suffocate in condigesting it;</L>
+<L>And then I faint, and so did <HI>Cissus</HI> die,</L>
+<L>She fell before the vine, and so must I.</L>
+<L>She (by the earths aduice) embrac't the tree,</L>
+<L>With iuie leaues and such like borderie,</L>
+<L>In token of her loue in ages past,</L>
+<L>And with such iuie is our vine enchast.</L>
+<L>With loue of <HI>Cissus Cissos</HI> euer liues,</L>
+<L>And life and loue in vines are relatiues.</L>
+<L>From this relation many do pretend</L>
+<L>A zealous loue, when life's proposd the end,</L>
+<L>The scope the exigent, and destinie,</L>
+<L>Of all their saffron guilded obsequie.</L>
+<L>And such the vermin of these subtill times,</L>
+<L>Such are th'innated <HI>Ipes</HI> of our vines,</L>
+<L>Bred of the bodies thrift and fat increase,</L>
+<L>Begotten by the Sunne that shines in peace:</L>
+<L>Like the Egyptian frie when <HI>Amphyt<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">ite</HI></L>
+<L>Giues slimy <HI>Nilus</HI> to the <HI>Theorite</HI>:</L>
+<L>As Sunne and slime engender those <HI>Nilites,</HI></L>
+<L>So hot and moyst begets our ages <HI>Ipes.</HI></L>
+<L><PB REF="11">Our husbandmen which trauaile much herein,</L>
+<L>Do find this woorme obnoxious to the vine;</L>
+<L>Yea some suggest that are more <HI>Chymicke</HI> wise,</L>
+<L>These are the <HI>Ipes</HI> that anotomize</L>
+<L>This goodly tree, that feed vpon her leaues,</L>
+<L>And whats without the rinde, this worme bereaues,</L>
+<L>And but that <HI>Hydraes</HI> waues are of such force,</L>
+<L>That no obiection counterchecks her course,</L>
+<L>Time might produce a some-Herculean wit,</L>
+<L>Which by elaborate hand might limit it.</L>
+<L>Besides these <HI>Ipes,</HI> there are <HI>Orgists</HI> too,</L>
+<L>which to the world the shapes of men do show:</L>
+<L>But O how much inhumane are they then,</L>
+<L>whom wholesome wine makes monsters, and no men?</L>
+<L>Too much haue th<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">y, that are immoderate,</L>
+<L>And change the vines true vse appropriate,</L>
+<L>That surfet in her bountie, and beguile</L>
+<L>Their senses with the too much sweet of wine,</L>
+<L>That being drunke dares wrong the innocent,</L>
+<L>And in his outrage be incontinent,</L>
+<L>Aduance th unworthie rich: what dares he not</L>
+<L>In frenzie to deuise? contriue, complot,</L>
+<L>And yet the Vine is not in cause of it,</L>
+<L>The draft is all vnguiltie of the drift:</L>
+<L>Their fu<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">ie is the better argu<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">st,</L>
+<L>To proue her powerfull where she doth insist:</L>
+<L>So best <GAP DESC="illegible" RESP="pdcc" EXTENT="3 letters">xers make compendious breath,</L>
+<L>And fairest obiect soonest rauisheth.</L>
+<L>I dare sustaine that no infectious ayre</L>
+<L>Can penetrate the Moones more solid spheare<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"></L>
+<L>Nor prophanation in a borrowed shape</L>
+<L>Be entertaind within the temples gate.</L>
+<L>So are my thoughts secure. Great God secure them,</L>
+<L>That Vines conceale no serpents to inure them;</L>
+<L>But make this tree the fairest of our time,</L>
+<L>Like Sphere and Temple solid and diuine;</L>
+<L><PB REF="12"><GAP DESC="illegible" RESP="pdcc" EXTENT="1 line"></L>
+<L><GAP DESC="illegible" RESP="pdcc" EXTENT="1 line"></L>
+<L><GAP DESC="illegible" RESP="pdcc" EXTENT="1 line"></L>
+<L>To <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"> th innated <HI>Ipes</HI> of our Vine.</L>
+<L>May <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"> Monster <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"> of able power,</L>
+<L>Nor serpent-<GAP DESC="illegible" RESP="pdcc" EXTENT="3 letters">e in all her <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">ights, deuoure</L>
+<L>This goodly tree, <GAP DESC="illegible" RESP="pdcc" EXTENT="1 span"> prostrate</L>
+<L><GAP DESC="illegible" RESP="pdcc" EXTENT="1 line"></L>
+</DIV2>
+<DIV2 TYPE="poem">
+<HEAD>The Oliue.</HEAD>
+<LG>
+<L>Here is Oliues <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word">,</L>
+<L>And the <GAP DESC="illegible" RESP="pdcc" EXTENT="1 span"></L>
+<L><GAP DESC="illegible" RESP="pdcc" EXTENT="1 line"></L>
+<L><GAP DESC="illegible" RESP="pdcc" EXTENT="1 span"> complete.</L>
+</LG>
+<L>WHil'st yet these outward senses all surchargd,</L>
+<L>With the <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"> of <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"> Arte enlargd</L>
+<L>Beyond the <GAP DESC="illegible" RESP="pdcc" EXTENT="1 span"> Nature knowes,</L>
+<L>And Arte with Nature <GAP DESC="illegible" RESP="pdcc" EXTENT="1 span">,</L>
+<L>The sens<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters">e <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"> and the mysterie,</L>
+<L>As yet her workemanship we did applie.</L>
+<L>But when this <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"> ayre was so dispergd,</L>
+<L>We saw the Vine with <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"> i<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">vergd.</L>
+<L>Here written Bountie ma<GAP DESC="illegible" RESP="pdcc" EXTENT="3 letters"> with Prouidence,</L>
+<L>Vnder this offered dutie did commence.</L>
+<L>Within a girdle was the Vine empa<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">ld,</L>
+<L>Much like that A<GAP DESC="illegible" RESP="pdcc" EXTENT="3 letters">y<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">thian star entaild</L>
+<L>In her discoulored cyrcle, <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"> the <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"></L>
+<L>Which once <HI><GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"></HI> sire bestowed vpon</L>
+<L>The vaporous <HI><GAP DESC="illegible" RESP="pdcc" EXTENT="1 word">.</HI> This faire Coronet</L>
+<L>Was of the choysest Oliue trees complet</L>
+<L>That tree which most affects her, and from hence</L>
+<L><PB REF="12">We view that part of Natures prouidence.</L>
+<L>Of many Oliues she compos'd the same,</L>
+<L>And here Th'assumption is requir'd againe,</L>
+<L>Vnto her bountie multiplied thus,</L>
+<L>Vpon this little hill of <HI>Ismarus.</HI></L>
+<L>If Nature be so rich in donatiue,</L>
+<L>If see the thing that yet is blind of life,</L>
+<L>Then may I liue to her that so aduerts</L>
+<L>When I am dead to <HI>Athens</HI> and to Arts.</L>
+<L>And from a liberall hand with bountie crownd,</L>
+<L>The Oliue and her lenitie resound.</L>
+<L>To sing of faire accord and mutuall vse</L>
+<L>In Wine and Oyle the Oliues exprest iuice.</L>
+<L>At <HI>Ismarus</HI> this is a worthie tree,</L>
+<L>For ther's her <HI>Tryne</HI> or best triplicitie.</L>
+<L>Since to the Vine it holds a neere accesse,</L>
+<L>T'is high, t'is; O but do not thou impresse</L>
+<L>Thy lowly selfe within descriptions weight,</L>
+<L>For honor is a slight suspending bayt.</L>
+<L>And how vnworthy might I there insist,</L>
+<L>That am the Vineyards yongest herborist.</L>
+<L>My skil's my counterfait within this act,</L>
+<L>And both as yet of genuine infract.</L>
+<L>But shee's suggestiue to selfe-flatterie,</L>
+<L>Soothing her imperfections to soothe me.</L>
+<L>And when I say the Oliue tree is tall,</L>
+<L>Of faire dimension, beautifull withall,</L>
+<L>Her oft diuided roote so deepely laid,</L>
+<L>And head like blossomes on the Palme displaid:</L>
+<L>If say her pyth is rare, and so disperst</L>
+<L>T'is seldome seene, though many times trauerst:</L>
+<L>This flattering Giglot susurrates as much,</L>
+<L>And sweares this accent is a Doricke touch&punc;</L>
+<L>Though harsh of musicke, and of measuring,</L>
+<L>Yet stops and strikes vnto the selfe same string.</L>
+<L>This delinition stimulates vs on,</L>
+<L><PB REF="13">And bids me set a nice diuision</L>
+<L>In gardaine Oliues, and be discrepant</L>
+<L>Betwixt the melancholie stipticke Plant</L>
+<L>And the fat Oliue, from whose subtill parts</L>
+<L>We drayne the oyle of many chearefull hearts.</L>
+<L>This was the suffrage spousall which the Dame</L>
+<L>Propos'd to <HI>Athens</HI> for her borrowed name,</L>
+<L>When strife was vnder wing, and since that time</L>
+<L>Her branches well beseemeth <HI>Ionicke</HI> shrine.</L>
+<L>This tree, as of it selfe is so abounding</L>
+<L>In thriftie fat, that added moystur's drowning&punc;</L>
+<L>And suffocates the pure and subtill oyle:</L>
+<L>wherefore the fattest's not the fittest soyle</L>
+<L>where to insert this Oliue: O but yet</L>
+<L>It withers, if the Sunne be opposit.</L>
+<L>For wisely say our ancient her borists,</L>
+<L>It is affected to the rorall mists:</L>
+<L>And bee't, with limitation that her seat</L>
+<L>Be not exempt from sense of heauenly heat&punc;</L>
+<L>which may be able to extenuate,</L>
+<L>And lay her foggie moisture separate,</L>
+<L>which in a moderne heat an <HI>Aprils</HI> Sunne</L>
+<L>Is powerfull to attract, but not consume;</L>
+<L>Her beries yet on tree are immature,</L>
+<L>And (though by many yeeres) they so endure.</L>
+<L>which that they may attaine a sauorie taste,</L>
+<L>Our skilfull husbandmen do vse to place</L>
+<L>A modest quantitie of riper ones,</L>
+<L>In a congested pile whereon enthrones</L>
+<L>Such fauourable and conforting shine,</L>
+<L>As some makes timely ripe, some fore their time.</L>
+<L>But in confirmed iuice the oyle is best,</L>
+<L>That's drayn'd and separated easiest</L>
+<L>From purse or huske, and such like iuice as this,</L>
+<L>Is not with earth or earthly parts commist;</L>
+<L>The most experienc't husbandman sustaines;</L>
+<L><PB REF="13">Bad Oliues aske no soyle, the good no paines:</L>
+<L>Good needes nor scythe nor pruning instrument,</L>
+<L>For so vnskilfull husbandmen preuent</L>
+<L>Th'increase of after seasons, and such bleeding</L>
+<L>Ads detriment vnto the yeeres succeeding.</L>
+<L>This tree requires no hands applied to wound it.</L>
+<L>No trident rake, nor trenching spade to sound it;</L>
+<L>She needes not these, nor needs it vs to wrong her,</L>
+<L>Disclose the roote, but take we nothing from her.</L>
+<L>Perhaps we may the earth discumulate,</L>
+<L>Descrie some gowte or branch adulterate,</L>
+<L>Some tuberous prim, or superfluitie</L>
+<L>About the root of her vnwittingly;</L>
+<L>(As not a tree in fruitfull <HI>Ismarus,</HI></L>
+<L>But these attempt t'infect and choake her thus&punc;</L>
+<L>And fairest Plants conceals the fowlest weed)</L>
+<L>If any such in Oliue be descried,</L>
+<L>Incision must be vsde, yet warilie:</L>
+<L>Cut off th'adulterate branch, but touch no tree.</L>
+<L>For why it well deserues, that well discernes</L>
+<L>Preseruatiue for good, and cure for harmes.</L>
+<L>From hence the Romanes had it still in vse,</L>
+<L>When <HI>Ianus</HI> gates were ope and when occluse.</L>
+<L>For with her taglets did they stephanize</L>
+<L>Their peace-affected heads in ciuill wise.</L>
+<L>And in a forraigne expedition,</L>
+<L>When fire e<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">d war had leaue to looke vpon</L>
+<L>Their neighbouring Prouinces, as to preuent</L>
+<L>And obuiate defection imminent;</L>
+<L>Their s<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">ore in wine and oyle did they propose,</L>
+<L>And where these wanted, there supplied their woes.</L>
+<L>And such was Oyle. But this is serious,</L>
+<L>I rather do propose her homely vse:</L>
+<L>To speake her as the cause of permanence</L>
+<L>In colour, light&punc; or such familiar sense.</L>
+<L>For when the industrious hand would faine pretend</L>
+<L><PB REF="14">Some <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"> worke vnto whose end</L>
+<L>No later age aspires, t'is layd in Oyle,</L>
+<L>Whose durance neither time nor age assoyle.</L>
+<L>And when our Lampes are niggard of their light,</L>
+<L>Th'infused Oyle makes smoake to burne more bright.</L>
+<L>This liquor's of an ayerie qualitie,</L>
+<L>And still aspires to principalitie:</L>
+<L>T'is liquids president, t'is auersate</L>
+<L>With other moists to be incorporate,</L>
+<L>Albeit that moyst and dry and euery thing</L>
+<L>Reteine the fauor of her moystening.</L>
+<L>So doth it penetrate and finde euasion</L>
+<L>Throughout the incompacted pores dilation:</L>
+<L>And therefore we appoint his proper place,</L>
+<L>The solid matter of this brittle glasse:</L>
+<L>This brittle glasse. And what's not glasse and brittle?</L>
+<L>The flower that scapes the sythe shall meete the sickle.</L>
+<L>From glasse this precious vnguent we extract,</L>
+<L>Though it be brittle, yet is it compact;</L>
+<L>So should it be transparent with the eyes</L>
+<L>Of worthie patients, not of Polities:</L>
+<L>Because the constant vessell of our oyle,</L>
+<L>In whose behalfe may all these senses toyle,</L>
+<L>Much to her selfe, but more for sympathie</L>
+<L>With wine and the viniferous qualitie.</L>
+<L>For Vine and Oliue knowes one horoscope,</L>
+<L>Albeit the Vine first answered Natures hope</L>
+<L>Their sometimes mother vnder timely birth,</L>
+<L>And therefore iustly held the heire of earth.</L>
+<L>Yet in their mutuall vse we find that meane,</L>
+<L>That's equall different from each extreame.</L>
+<L>The Vine is Physicks powerfull Emperie,</L>
+<L>The Oliue of a yeelding lenitie,</L>
+<L>T'is milde in practise as a soueraigne thing</L>
+<L>Her too much vse is too much nourishing</L>
+<L>In the rancke feeding bodies of our state,</L>
+<L><PB REF="14">Whose commessation is immoderate,</L>
+<L>Their senses languishing in excrement,</L>
+<L>The stomacke opilate and findes no vent,</L>
+<L>If wine not interuent, and well decide it;</L>
+<L>And to such maladie we must prescribe it.</L>
+<L>When oyle makes ranck, and rancour so possest</L>
+<L>By powerfull wine his station is deprest;</L>
+<L>The sword of Physicke purging remedie,</L>
+<L>To indigested parts which excrefie,</L>
+<L>T'is like the wealth of many Seas enlarg'd,</L>
+<L>Whose all-conspiring waues together charg'd,</L>
+<L>Disfound the highest arches and defence,</L>
+<L>Preferring all before their violence:</L>
+<L>Such is th'abstracted wine, as in it selfe,</L>
+<L>That will not daine t'intreat the bodies health,</L>
+<L>When it hath power to search the very raines,</L>
+<L>Th'interimies, and all that life sustaines.</L>
+<L>T'is in the simple practize ouer strong,</L>
+<L>Vnlesse some other mixture do prolong,</L>
+<L>Call backe, and mitigate the violence</L>
+<L>Which her sequestred spirits shall commence.</L>
+<L>And what is so competible concreat?</L>
+<L>What more restringing the intentiue heat</L>
+<L>Of cleansing wine, when wine admits restraint,</L>
+<L>(As Votaries sometime direct their Saint)</L>
+<L>Then smooth and gentle Oyle of milde aspect,</L>
+<L>That wine represt by it, may it erect?</L>
+<L>T'is milde: so is the wine that's ministred</L>
+<L>At sound mens tables, not the sicke mans bed:</L>
+<L>To well disposed bodies soueraigne Wine,</L>
+<L>But in prescript of potion t'is enclind</L>
+<L>To Emperie, where the disease requires</L>
+<L>Extinguishment to opilations fires.</L>
+<L>But oyle alone infus'd relieues the same,</L>
+<L>Where Oyle with Wine hath power to quench his flame.</L>
+<L>Or rather soueraigne Wine as it doth tend</L>
+<L><PB REF="15">To maintenance and a preseruing end.</L>
+<L>For when it cleanseth, nothing is subiected,</L>
+<L>But some vnnecessaries which infected</L>
+<L>The better parts: and when Purgations force</L>
+<L>Moues other loyall members with the sourse</L>
+<L>And strength thereof, th'enacted violence</L>
+<L>Sauors of nothing more than prouidence,</L>
+<L>That lowly rectifies by inquisition,</L>
+<L>Least they retaine some tincture from Ambition</L>
+<L>So doth in search them and so rectifie,</L>
+<L>That pure may sauor nought but puritie.</L>
+<L>So is it soueraigne Wine, and so alone,</L>
+<L>As to the sound, and in abstraction:</L>
+<L>And notwithstanding of it selfe consisting</L>
+<L>T<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">is great in Medicine, yet in commixing</L>
+<L>With gentle Oyle it is more general,</L>
+<L>For wine and oyle are Phisicks all in all.</L>
+<L>It is her gouernement of Optimate<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"></L>
+<L>Who vnder presidence confirme a State.</L>
+<L>The vulgar Plants out of this Emperie</L>
+<L>Reseruing but a modest libertie,</L>
+<L>Be they applied vnto the outward parts,</L>
+<L>When wine erects or inwardly subuerts</L>
+<L>Out of occasion: when the Wine with oyle</L>
+<L>Is more of power t'establish or assoyle,</L>
+<L>More victuall: wherefore sometimes guilded age</L>
+<L>Held their inseparable equipage,</L>
+<L>Prescribing Wine and Oyle to euery griefe,</L>
+<L>The one to cleanse, the other for reliefe.</L>
+<L>For both may this griefe-labouring <HI>Ismarus</HI></L>
+<L>Vpon her arbitrating power infuse</L>
+<L>Myriads of mulsiue Orasons whose sense</L>
+<L>May giue to wine and oyle long residence.</L>
+<L>That after seasons may present them yet</L>
+<L>To purge and rectifie each <HI>Ismar<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters">.</HI></L>
+</DIV2>
+<DIV2 TYPE="poem">
+<PB REF="15">
+<HEAD>The Myrtle.</HEAD>
+<LG>
+<L><HI>Myrsine</HI> occupies the stage,</L>
+<L>Freshly bleeding to our age.</L>
+<L>Th'incensed Goddesse in remorse</L>
+<L>Here imposed <HI>Athens</HI> curse.</L>
+</LG>
+<L>AT <HI>Athens:</HI> who names <HI>Athens</HI> here in <HI>Thrace<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"></HI></L>
+<L>Licentious Fame that holds her still in chace.</L>
+<L>And is there yet conceal'd some obscure deed</L>
+<L>From Ages past, which makes her now to bleed.</L>
+<L>Shall <HI>Athens</HI> (O shall shee) with infa<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters">e</L>
+<L>Stand vpright in this last Chronologie?</L>
+<L>And shall these dayes of ours speake <HI>Myrsines</HI> death,</L>
+<L>The long since <HI>Myrsine,</HI> that dispos'd a wreath</L>
+<L>In those enacted lustes and Tournament,</L>
+<L>VVhat time the Arbitrate indifferent</L>
+<L>Ex<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">ending Garlands to th'applauded head,</L>
+<L>Distinguisht Conqueror and the conquered?</L>
+<L>At <HI>Athens</HI> there the faire <HI>Myrsina</HI> liu'd,</L>
+<L><HI>Athens</HI> the same that <HI>Myrsines</HI> life depriu'd.</L>
+<L>An enuious <HI>Athens</HI> that proscribes her best;</L>
+<L>Expels her Bees that Drones may be possest.</L>
+<L>Do greater lights obscure thy glymmering?</L>
+<L>Or makes it way vnto thy Soueraigning.</L>
+<L>Amongst the blind that know not to descrie</L>
+<L>Thy infinite abuse of Monarchie?</L>
+<L>Such is their gouernement, and so austere,</L>
+<L>That they expose the man whom they but feare;</L>
+<L>Feare him that but obserues; and if he see;</L>
+<L>That e<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">e of his peruerts his destinie.</L>
+<L>And those faire hopes which Nature did inscoffe,</L>
+<L><PB REF="16">Adapting fortunes equall to his Birth.</L>
+<L>And though thou laydst a most repining hand</L>
+<L>Vpon thy child, (act worthie to be scand</L>
+<L>By after houres from intermitted ages,</L>
+<L>Which shall declare to them these natiue strages)</L>
+<L>Yet see thy Goddesse, whose Imagerie,</L>
+<L>Thou more esteem<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">st then others deitie,</L>
+<L>Abhors this deed that cannot hate thy name,</L>
+<L>Shee'l challenge thee, thy infamie disclame.</L>
+<L>See how shee weeps vpon <HI>Myrsinaes</HI> breast.</L>
+<L>And swears that <HI>Athens</HI> thenceforth, dispossest</L>
+<L>Of her belou'd, should to the selfe same fate</L>
+<L>Commit all knowledge of the publike state.</L>
+<L>What els from learning? By her selfe she swore,</L>
+<L>That <HI>Athens</HI> should be <HI>Athens</HI> and no more:</L>
+<L>Arte should discerne of nought but what was right,</L>
+<L>And Schollers meerely seene in schollership.</L>
+<L>Besides she swore, that Arte when at the height,</L>
+<L>Euen then her reputation to be light:</L>
+<L>Then least of estimate least priz<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">d; and why?</L>
+<L>It erres in too much popularitie.</L>
+<L>Yet she continued in this imprecation,</L>
+<L>And yet enioyn'd her to selfe affectation,</L>
+<L>To discontentment which shall carry her</L>
+<L>Through stranger Nations and <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">e<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">oted far:</L>
+<L>Her better wits to be the most vns<GAP DESC="illegible" RESP="pdcc" EXTENT="3 letters">de,</L>
+<L>In giddie action venturous to wade</L>
+<L>Beyond themselues, yea and her grauest h<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">d</L>
+<L>Strong in eroticke sects opinioned:</L>
+<L>To many mo of Arts the proper vices</L>
+<L>Disease<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"> as manifold, which thence arises,</L>
+<L>As Melancholy, Rheume, a hollow <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">ie,</L>
+<L>A downeward looking, and the maladie</L>
+<L>Of head and head-ach, leane and pale aspect,</L>
+<L>A backe inur'd to bend and to de<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">lect,</L>
+<L>A stomacke nice, and apt to be offended,</L>
+<L><PB REF="16">Diseases to th'extreamer parts extended,</L>
+<L>With twice as many griefes, which Arte best knowes,</L>
+<L>All these th incensed Goddesse did impose</L>
+<L>At <HI>Myrsines</HI> death, and Learning since her wracke,</L>
+<L>Mournes for the fayre <HI>Myrsina</HI> all in blacke,</L>
+<L>To expiate the sinne whose memorie</L>
+<L>Is lif<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">d in Statua of a Myrtle tree.</L>
+<L>For so the weeping Goddesse did allow</L>
+<L>No more a <HI>Myrsine</HI> but a Myrtle now.</L>
+<L>A tree, whose better kind is very rare:</L>
+<L>A tree, that can abide no vncouth ayre:</L>
+<L>A marrish, but no muddie tegument</L>
+<L>About the roote to hinder her ascent,</L>
+<L>A tree that's choakt with too much manurie,</L>
+<L>Yet neuer thriues but by seueritie:</L>
+<L>That at the bitter roote is somewhat flow,</L>
+<L>But in maturitie it doth outgrow</L>
+<L>All other Plants, and of these trees we find</L>
+<L>Two diuers sorts, and of a differing kind:</L>
+<L>Of which the greater is not held the best,</L>
+<L>Nor that of earthly parts the most possest.</L>
+<L>For earth restraines the spirits industrie,</L>
+<L>Assimulating to her qualitie,</L>
+<L>And but what's sensuall from the sense bereaues,</L>
+<L>Nor is that best, which shewes the blackest leaues.</L>
+<L>For is there any braine so foule with sud.</L>
+<L>But knowes the fiend may vse a Friers hood?</L>
+<L>Nor is that best, which first puts forth her flower,</L>
+<L>Being all as apt to wither in an hower:</L>
+<L>Or that, whose branching armes are euer greene,</L>
+<L>Yet neuer fruite on armes or branches seene.</L>
+<L>Some Myrtle showes her fruite vnto the Sunne,</L>
+<L>And shuts her flower but in such Horizon.</L>
+<L>Yea, some performes it by the silent night;</L>
+<L>And they are such, whose deeds do hate the light.</L>
+<L>Some in continuall labor, some in rest,</L>
+<L><PB REF="17">But yet no any of these kinds is best:</L>
+<L>And that in Myrtles holds the Primacie,</L>
+<L>That knowes no dayly toyle nor Lethargie;</L>
+<L>That brookes the day by night, and night by day;</L>
+<L>That's timely ripe, true colour'd, free from clay.</L>
+<L>And such a Myrtle's manifold in vse,</L>
+<L>If so th<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">incensed powers can reduce&punc;</L>
+<L>Reuerse, and nullifie th'imposed cur<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters">.</L>
+<L>If they be reconcil<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">d, it is of force</L>
+<L>Within the bodies cure: In other termes,</L>
+<L>T'is not of vertue to relieue her harmes.</L>
+<L>In fields t'is Myrtle, and in <HI>Athens</HI> yet</L>
+<L>Schollers discerne of nought but Schollership.</L>
+<L>Whereas enlarg'd the Myrtle's physical,</L>
+<L>And Learning manumist most meet instal'd</L>
+<L>In publike office. Be not this offence.</L>
+<L>I wish to Learning some experience.</L>
+</DIV2>
+<DIV2 TYPE="poem">
+<HEAD>The Rose.</HEAD>
+<LG>
+<L>White is here vermillioned,</L>
+<L>Mutuall strife of white and red:</L>
+<L>Here an arbitrating field,</L>
+<L>Both the Roses reconcil'd.</L>
+</LG>
+<L>HOw much inconstancie, what Innouation?</L>
+<L>Hath wizzard Time seene since the worldes creation.</L>
+<L>Many September Moones which haue recanted,</L>
+<L>Transported Monarchies, and states suppl<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">nted.</L>
+<L>VVhat change in others, and what personate,</L>
+<L>How much varietie might Time dilate?</L>
+<L>There was a time, fore Gods did disaccord,</L>
+<L>Obscru'd none els but the first moouing Orbe,</L>
+<L><PB REF="17">Then errant stars, and then the firmament</L>
+<L>No Motion knew, but what was violent</L>
+<L>And from an outward cause: Yet was it thus,</L>
+<L>Till Sonnes of heauen became licentious.</L>
+<L>First was Monarchall rule, but Tyrannie,</L>
+<L>VVhich now no longer had his sufferancie.</L>
+<L>Then they enquir'd into their optimates,</L>
+<L>And held it for a too ambiguous state:</L>
+<L>And then anon was f<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">re Democracie</L>
+<L>Turnd Pop'lar licence and free Libertie:</L>
+<L>Then subiects spheres turn'd head against their Mouer;</L>
+<L>Some err'd, some in their doubtfulnesse discouer</L>
+<L>A voluntary course and free incesse,</L>
+<L>To which they toyle in moouing tardinesse.</L>
+<L>And semble laggie spiders most in this,</L>
+<L>That slow, do yet aspire the Pyramis</L>
+<L>Of some erected spoke within the wheele</L>
+<L>That's downeward driu'n, or Mariners in keele,</L>
+<L>VVhere sayles are spread before some boysterous gale;</L>
+<L>They backeward walke, with face on wind and saile,</L>
+<L>And like rebellious Libertines insist</L>
+<L>To make the primate violence remisse:</L>
+<L>It forceth them, they him againe recall,</L>
+<L>And still the while, Time must obserue them all.</L>
+<L>Looke downe on <HI>Ismarus,</HI> and Time well knowes,</L>
+<L>That in his memorie it had a Rose,</L>
+<L>An only Rose, and that, as onely white,</L>
+<L>Amongst the rest her fayrest <HI>Ismarite.</HI></L>
+<L>It saw one age in white, so had it more,</L>
+<L>Had not this Rose bin steep't in royall gore:</L>
+<L>Vntill the greatest of Nobilities</L>
+<L>Did gaze on beauties worth with lustfull eyes;</L>
+<L>Till Lust or'ecame, and Beautie rauished,</L>
+<L>Then was the white turn'd to vermillion red.</L>
+<L>Some say loues Queene pursuing her belou'd,</L>
+<L>Despair'd, because vntimely death improu'd</L>
+<L><PB REF="18">And check't her in the course of fairest hope,</L>
+<L>She gaue her swelling heart a pulsiue scope:</L>
+<L>And all enrag'd, all naked, all vnmaskt,</L>
+<L>Vpon a rose<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">t bed herselfe she cast;</L>
+<L>And the vermilion drops which issued,</L>
+<L>Tinguisht the palefac't Rose in deepest red.</L>
+<L>Others say it was Nectar from aboue,</L>
+<L>Which when the wanton boy in dalliance stroue</L>
+<L>To free him from his mothers armes yfolding,</L>
+<L>Checkt with his wings the faire Mounteagle holding</L>
+<L>An ample Coenophron with Nectar crownd,</L>
+<L>Which from his hand admou'd, bedewd the ground,</L>
+<L>And sperst his moyst vpon a roseat bed,</L>
+<L>What time her white was all vermillioned.</L>
+<L>Hower'e it was, lust caus<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">d them both to fall,</L>
+<L>And Beauties wracke was the Prouinciall:</L>
+<L>And now the Rose was red, and now the rather</L>
+<L>Men lou'd it for the shape then for the sauor.</L>
+<L>For though it had the shape of seeming Rose,</L>
+<L>It sauour'd but of some Abrotonos.</L>
+<L>The sent was of a practicke deepe intention,</L>
+<L>When swelling blood exceeding veines dimension,</L>
+<L>By strong eruption sought to coole their heate,</L>
+<L>And turne the sourse out of his current quite.</L>
+<L>T'was deadly imposition to the braine</L>
+<L>Of vertue to enrage, infect, inflame:</L>
+<L>Besides it had such strong intent of taste</L>
+<L>As families extinguisht, and layd waste</L>
+<L>The fruitfull <HI>Ismarus.</HI> This Age of red,</L>
+<L>Long kept the Rose, and long continued;</L>
+<L>Vntill the earth fearing her owne estate,</L>
+<L>Least such continuance might depopulate</L>
+<L>Herselfe: least Time protracted might discouer</L>
+<L>Her nakednesse to those which liue aboue her,</L>
+<L>Coniur'd the faire assisting hand of Nature,</L>
+<L>By laying forth, how but a subiect Creature,</L>
+<L><PB REF="18">Inspir'd by Arte, had brought vpon her head</L>
+<L>Strong imputation, chang'd her white to red.</L>
+<L>How red had stain'd her with discoloured gore:</L>
+<L>And any thing she spake, which might implore</L>
+<L>Or call reliefe; and powerfully she spake.</L>
+<L>For now the rose and red were separate.</L>
+<L>And now the earth prepar'd a subiect matter,</L>
+<L>Able to entertaine, not Arte, but Nature:</L>
+<L>A speciall forme which might distinguish it,</L>
+<L>From flowers of other kind, not of her sect;</L>
+<L>A rose in which there was no ministrie</L>
+<L>For colour to detaine the busied eie.</L>
+<L>But yet the while, Art out of sound inuention,</L>
+<L>Contriu'd to abrogate her owne suspension,</L>
+<L>Applying colour of the deepest graine,</L>
+<L>That euer did this <HI>Microcosme</HI> sustaine.</L>
+<L>Much matter of her owne she ministred&punc;</L>
+<L>With more supplie of bloud disentralled,</L>
+<L>Much more in vaine of wealthy veines made poore,</L>
+<L>Which to this worke did emptie all their store,</L>
+<L>And all to little conquest or successe:</L>
+<L>For now no tinguishment might here impresse,</L>
+<L>And euery present might haue beene the same;</L>
+<L>And had not white blusht at such homebred shame,</L>
+<L>Now did she blush, that could not yet forbeare,</L>
+<L>To looke vpon this natiue massacre,</L>
+<L>This Summers heate gaue wings vnto the red.</L>
+<L>Which warre ycleept and earst discomfited,</L>
+<L>That warre I count, that vnto this dissent,</L>
+<L>Prescrib'd a rule and strong arbitrement:</L>
+<L>I count it warre, the rather for his might,</L>
+<L>That powerfully call'd backe the red to white.</L>
+<L>Thus mutually the roses d<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">micate:</L>
+<L>Now this aspir'd&punc; or that held principate,</L>
+<L>Till white at length assum'd a paler forme,</L>
+<L>(O crooked age! where whites in white forlorne&punc;)</L>
+<L><PB REF="19">And borrowes terrible, aspect from death,</L>
+<L>Who whilom her of soueraigntie bereft.</L>
+<L>This pale-fac't Rose was fearefull to her selfe,</L>
+<L>Vntimely borne a Rose, and borne by stealth.</L>
+<L>T&punc;extirp the good<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">est plants that beutifide</L>
+<L>The Tharcian <HI>Ismarus</HI> on fruitfull side.</L>
+<L>How like a Boare enlarg'd and free of head,</L>
+<L>Ranging through desert soile vnpeapleld,</L>
+<L>Where not the wandring Pilgrime hath accesse.</L>
+<L>Applies his fangs with doubled meagernesse</L>
+<L>On trees and mushrom shrubs, dissheuering them,</L>
+<L>Euen from the highest capreolls to the stem?</L>
+<L>So did he tyrannize: yet seems it me,</L>
+<L>To speake of satiue Rose in modesty:</L>
+<L>Sufficeth that the Bor's incontinent,</L>
+<L>Prowd of his prey, yea, and so insolent,</L>
+<L>That now insulting pride seemd to implore,</L>
+<L>Some venturous Knight t'encounter with the bore.</L>
+<L>This cal'd the worlds assoyler from a farre,</L>
+<L>Who now to <HI>Erymanthus</HI> did repaire,</L>
+<L>By <HI>Iunoes</HI> imposition, so to free,</L>
+<L>Th' <HI>Arcadian</HI> hill, from death and tyrannie.</L>
+<L>This was the worlds rich Rose, and fairest red,</L>
+<L>That euer palled Monster sequestred.</L>
+<L>And now the Bore espied his Hunteresse,</L>
+<L>Who<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"> (fearing lest her promised successe</L>
+<L>Might intercept his friends and call supplie</L>
+<L>From other beastes of his conspiracie)</L>
+<L>Vpon a champion strond he her accoasted,</L>
+<L>With doubled strength, vnworthie to be boasted,</L>
+<L>Vnworthie any glory, had it bin,</L>
+<L>Had he stood Epilogue vnto this Scene,</L>
+<L>That vnder retinue seem'd to containe</L>
+<L>The greatest ones that did possesse the plaine.</L>
+<L>How much the greater was that Victory,</L>
+<L>Where Red or'ecame in his minority;</L>
+<L><PB REF="19">And wrought more wonders in his pupill age,</L>
+<L>Than euer was presented to this stage;</L>
+<L>That reconcil'd the simple to her red,</L>
+<L>Mixture that might not be distinguished;</L>
+<L>And this was neither red nor white I weene,</L>
+<L>But that of <HI>Prouince</HI> or the Damas<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">ene:</L>
+<L>That Rose, whose zulape in the fourth degree,</L>
+<L>Is much astringent for her qualitie;</L>
+<L>The Floramour of fields, that sists the course</L>
+<L>Of bloods incontinence and liberall sourse;</L>
+<L>That fans exulcerations feruencie,</L>
+<L>Calls hot to temperate, cold and moist to drie:</L>
+<L>Such is our Rose. O Gods may neuer shee</L>
+<L>Exceed her Prouince or the fourth degree.</L>
+</DIV2>
+<DIV2 TYPE="poem">
+<PB REF="20">
+<HEAD>The Tamarix.</HEAD>
+<LG>
+<L>Mutuall parts and Symphonie</L>
+<L>Of the Vine and Tamarix tree.</L>
+</LG>
+<L>I Sing of <HI>Tamarix</HI> that <HI>Thracian</HI> Plant,</L>
+<L>A tree which all vnciuill Nations want:</L>
+<L>For why? in peacefull soyle t'is onely found,</L>
+<L>And cannot prosper in dissentious ground.</L>
+<L>It growes at <HI>Thrace,</HI> yet not aboundantlie,</L>
+<L>For husbandmen do much mistake this tree:</L>
+<L>Because there are so many sembling kinds,</L>
+<L>Whose searie truncks no Myricke sap designes.</L>
+<L>There is one noble <HI>Tamarix,</HI> for her site,</L>
+<L>No vpland <HI>Thracian</HI> but an <HI>I mar<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">te.</HI></L>
+<L>There thriues it best, and in her better thriuing,</L>
+<L>Requires to ripenesse mickle times detriuing;</L>
+<L>And when maturitie presents it selfe</L>
+<L>In flowers, which are her only Myricke wealth,</L>
+<L>Some enuious blast disseuers all her leaues,</L>
+<L>And on his wings transfers them to the Seas.</L>
+<L>Through many tedious seasons shee presents them,</L>
+<L>And still the Wind or reaues or els preuents them.</L>
+<L>Some say our <HI>Tamarix</HI> doth insert the Rose.</L>
+<L>As doth the Sea that by obseruance flowes</L>
+<L>Or ebs vnto the Moone, that that affects</L>
+<L>No tree so much, as this of <HI>Tamarix,</HI></L>
+<L>Yea, and they be so mutually affi<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">'d,</L>
+<L>That either seemes on other to depend;</L>
+<L>Nor can the Rose vnto her selfe so wither,</L>
+<L>As that our <HI>Tamarix</HI> perish not together;</L>
+<L>Nor Myricke so improp<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters">ate in his fall,</L>
+<L><PB REF="20">But Rose must needs be inward therewithall.</L>
+<L>Well may the <HI>Curclew</HI> yeeld herselfe reliefe,</L>
+<L>But these implore as they impart their griefe.</L>
+<L>The one vnable to erect his head,</L>
+<L>If not suffulc't, suborn'd and furthered,</L>
+<L>By his correllatiue; such sympathie</L>
+<L>Confirmes them both, when in their seigniorie.</L>
+<L>And now it seemes to me yong Herborist.</L>
+<L>That Rose and <HI>Tamarix</HI> should be at the highest,</L>
+<L>As I confer this season with times past,</L>
+<L>Not that my hopes expected haue their last.</L>
+</DIV2>
+<DIV2 TYPE="poem">
+<PB REF="21">
+<HEAD>The Oake.</HEAD>
+<LG>
+<L>Th' I<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters">i<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters"> tytle plac's amisse,</L>
+<L>H<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters"> ragged ry<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">d, hir Cantharis.</L>
+</LG>
+<L>SCarce is the breath dis<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">ol<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">'d to subtill ayre,</L>
+<L>wherewith I cald it <HI>Ionian</HI>: O how far</L>
+<L>D<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters"> I mistake, when not a liuing tree</L>
+<L>More subiect to loues thunder than is he.</L>
+<L>Shall I respire and call it back againe?</L>
+<L>No, first preuaricate, and maist thou faine:</L>
+<L>Say any thing, but doe not temporize,</L>
+<L>Though all the world be bent to poetize.</L>
+<L>As sayes the world, loue to the Oak assignd&punc;</L>
+<L>His name in smoother bark, not ragged rynd&punc;</L>
+<L>I say the bark is smooth and euen set,</L>
+<L>Where the seuerer naile can find no fret.</L>
+<L>The world but now allowde distinguishment,</L>
+<L>And now attributes al to his ascent.</L>
+<L>Is't but a ascent? and is it not accesse,</L>
+<L>If it reserue but a respectiuenes?</L>
+<L>Why Ioue allowes a competence to state,</L>
+<L>But the accesse he can not tollerate.</L>
+<L>How continent is he, would he were many&punc;</L>
+<L>Supplies, but not exceedes of dutyes any?</L>
+<L>The cause may be from forme, or height, or station,</L>
+<L>If these dumbe shewes haue ought of inuocation.</L>
+<L>For Thunders either free, and such is tending</L>
+<L>Onely t'assoyle the ayre without offending:</L>
+<L>Or cald from Heauen by some significance</L>
+<L>Of Characters, such as the Romanes once</L>
+<L><PB REF="21">By power of Kinglie office might produce,</L>
+<L>Or by attractiue vertue thats infuse</L>
+<L>Into some hearb or tree, which may inuoke;</L>
+<L>The like instinct is powerfull in the Oake;</L>
+<L>Whose greatnes doth inuite like <HI>Hostils</HI> charmes,</L>
+<L>That answered nothing but his proper harmes</L>
+<L>By strong attraction: Or the Prophetesse</L>
+<L>That promis<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">d others what was hir successe.</L>
+<L>Yt now succeeds. This Plant extends as far</L>
+<L>In earth, as it's incorporate to ayre.</L>
+<L>Heer other some do challenge hir of pride,</L>
+<L>That one ambitious tree should so bestride</L>
+<L>This litle <HI>I<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">mar<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters"></HI>: how far remote,</L>
+<L>Is this ambition from the <HI>Ionian</HI> Oake,</L>
+<L>That growes on sandy soyle, as heath, or plaine?</L>
+<L>What presidence can such ambition gaine,</L>
+<L>That others can suborn&punc; hir selfe subdue,</L>
+<L>To whom the least of enuie doth accrue,</L>
+<L>That onely hates the Persick plant: and why?</L>
+<L>It doth pertake his birthrights seigniorie,</L>
+<L>His greatest style; (vice thats familliar,</L>
+<L>Being extraduc't from parents and from state.)</L>
+<L>Greatnes will enuie greatnes to the end,</L>
+<L>And <HI>Ionian</HI> with the <HI>Ionian</HI> will contend.</L>
+<L>Hir leaues haue deepe incision, and the barkt,</L>
+<L>When aged once, tis craz'd and roughlie crackt.</L>
+<L>It shewes hir fruite when Sunne exceedes the twinnes,</L>
+<L>And sleepes till the solstitian heat begins:</L>
+<L>When it puts forth hir gall, or akernell&punc;</L>
+<L>Which yet sustein<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">d these earthlie bodies well,</L>
+<L>In vse of bread being ignorant of graine,</L>
+<L>From whence some say the Oake assum<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">d hir name:</L>
+<L>And not because the Gentile Gods replied,</L>
+<L>From the concealing Oake so deified,</L>
+<L>When wizzard Seers enquir'd: nor is't approu'd,</L>
+<L>For louers sought the names of their belou'd</L>
+<L><PB REF="22">Ycaru'd in Oake it had hir name from hence,</L>
+<L>Being more of accent in the former sense.</L>
+<L>The vulgar sort that neuer speculate</L>
+<L>Beyond obseruance, do prognosticate</L>
+<L>By the innated brood of Oaken gall,</L>
+<L>Of after accidents which shall befall</L>
+<L>Vnto the land: If Flie, or Ant, or Spider;</L>
+<L>Or war, or famine shall, or plague betyde her.</L>
+<L>I looke not on the fruit that hangs aloft,</L>
+<L>Nor euery thing within the senses brought.</L>
+<L>Much lesse of diuination; onely this,</L>
+<L>Within the Oake I view a <HI>Canthari<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"></HI>;</L>
+<L>A feeding flie: And this I dare diuine,</L>
+<L>That flie shall make hir wither ere hir time.</L>
+</DIV2>
+<DIV2 TYPE="poem">
+<PB REF="22">
+<HEAD>The Bay.</HEAD>
+<LG>
+<L>Lawrels sinewes withered.</L>
+<L>Sleeping Fame with worthies dead.</L>
+</LG>
+<L>WAs this that <HI>Ismarus,</HI> or this that tree,</L>
+<L>To whom the <HI>Lyrick</HI> tuned his minstrelsie&punc;</L>
+<L>Was this the price of vertue and the breath,</L>
+<L>Which it suspir'd amidst a sea of death,</L>
+<L>The Poets grace, <HI>Apolloes</HI> sometimes mynion?</L>
+<L>To see the errour of this foole opinion!</L>
+<L>And shall the vilest spirit choose his seat,</L>
+<L>Where to repose for moysture and for heat;</L>
+<L>The whil'st our generall soule shall animate</L>
+<L>A saples trunck, and be incorporate</L>
+<L>To abstract earth? Such is erotick Loue,</L>
+<L>Whose dotage still opinion must approue.</L>
+<L>Thou Soule, which animat'st empiricie,</L>
+<L>And makes hir out side seeme sinceritie;</L>
+<L>That with thy ignorance and strong conceipt</L>
+<L>Maintein'st his life, and dailie dost beget</L>
+<L>More bastard Lawreats than the world implores,</L>
+<L>Mig<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">t all the world consist of theators:</L>
+<L>Out on thee foole, blind of thy impotence,</L>
+<L>Thou dost admire but in a popular sense;</L>
+<L>Esteeming more a Pasquils harsher lines,</L>
+<L>Then <HI>Iliads</HI> worth which Chapmans hand refines.</L>
+<L>What might perswade opinion, but for thee,</L>
+<L>The <HI>Lyrick</HI> sung to such an out side tree;</L>
+<L>Or Poets glory in their Lawracie,</L>
+<L>When <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">awrels haue their veines shrunck vp and drie&punc;</L>
+<L>And yet herhaps the seasons are inuerted,</L>
+<L>Ours differs from the Lawrels first inserted.</L>
+<L><PB REF="23">The <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"> God admiring <HI>Daphnes</HI> worth,</L>
+<L>Out of hi<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"> <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"> drayn<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"> the spirit forth.</L>
+<L>This season yeelds more Bayes then did the first,</L>
+<L>But all things neer the end grow near the worst:</L>
+<L>Witnes the withered Bay that wants hir iuice;</L>
+<L>Be more of witnes they that are obtuse</L>
+<L>To penetrate, and call from monument</L>
+<L>The sleeping worth of such whose soules were spent.</L>
+<L>In honorable termes to terminate</L>
+<L>And yeeld their memory with life to fate;</L>
+<L>Y d<GAP DESC="illegible" RESP="pdcc" EXTENT="3 letters">e rob'd, and bodyes yet vnpurg'd:</L>
+<L>O how accommodate might this be vrg d!</L>
+<L>Once was there such a <HI>Sidney.</HI> It sufficeth,</L>
+<L>That from the graue his onely name reuiueth.</L>
+<L>So had this age a <HI>Burrowes.</HI> O but he</L>
+<L>Sleepes with his fame in lasting lethargie.</L>
+<L><HI>Norri<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">,</HI> and <HI>Morgan</HI> sleepe, and still the while,</L>
+<L>Our better Lawreats studie to compile</L>
+<L>Some thing prospectiue, and obserue the time:</L>
+<L><HI>Heroes</HI> yet neglected in their shrine.</L>
+<L>And since it was deni'd me to assoile</L>
+<L>The times; I therefore studied to report</L>
+<L>Of what was past, vnable ought to wage</L>
+<L>With the inuention of this nymble age.</L>
+<L>May others make the eares euapo<GAP DESC="illegible" RESP="pdcc" EXTENT="3 letters">e,</L>
+<L>When they vnmask the times and worlds estate:</L>
+<L>I will admire, yet neuer will in<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">ect,</L>
+<L>I am not prone but onely to reflect.</L>
+<L>I'le write vnto the dead amongst the liuing,</L>
+<L>Take <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"> peculiar theam without cornuing.</L>
+<L>Enab<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters"> <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"> Gods as I pretend,</L>
+<L>Wh<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">n ye acquite and giue this passion end.</L>
+</DIV2>
+<DIV2 TYPE="poem">
+<PB REF="23">
+<HEAD>The Cyprus.</HEAD>
+<LG>
+<L>Sca<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">e resound the policie,</L>
+<L>Of th&punc; Italian Cyprus tree.</L>
+</LG>
+<L>IT was no <HI>Thracian</HI> tree before our time,</L>
+<L><GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">ut forraigne <HI>Cyprus</HI> and a transmarine,</L>
+<L>Transfer'd from <HI>Italy</HI> to <HI>I<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">marus,</HI></L>
+<L>Or from those parts <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">f <HI>France</HI> which are adust</L>
+<L>With heat and bee<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">t I am no Florentine,</L>
+<L>Ile speake the pollicie thats <HI><GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">upres<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">ne.</HI></L>
+<L>This stranger tree, it is a Plant for kind,</L>
+<L>That from an others roote doth euer climbe</L>
+<L>Ingraf<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">ed and it growes as secretly,</L>
+<L>Yea, makes no outward shew of surquedrie:</L>
+<L>Disce<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">n'd from other trees and specifi<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">d,</L>
+<L>For speciall subtiltie that's vndescn<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">d:</L>
+<L>Of body naked, while t'is yet vpright,</L>
+<L>But when she shall aspire her greatest height,</L>
+<L>She apprehends the opportunest wether,</L>
+<L>And then puts forth her branch and fruit together:</L>
+<L>To hide that indirectnes she applies,</L>
+<L>Whil'st in concealing <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">eguments it lies.</L>
+<L>How like an Ad<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">er wreathing many wayes,</L>
+<L>Compells her length when she expects her prayes,</L>
+<L>Administring the more encouragement,</L>
+<L>To traine him in the circuite of extent?</L>
+<L>So manifolded is the <HI>Cipru<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"></HI> tree</L>
+<L>Vnder those branches: such her obloquie&punc;</L>
+<L>That wealth compos'd fils vp the continent&punc;</L>
+<L>Which none but the discernes or deprehend.</L>
+<L><PB REF="24">T'is sweet in sente, O who can feed vpon</L>
+<L>Perfumed words, but some Cameleon?</L>
+<L>It is no restauration, nor receiu'd</L>
+<L>Into the body when it is agrieu'd:</L>
+<L>T'is brieflie to her selfe most prouident,</L>
+<L>But vnto others alwayes fraudulent;</L>
+<L>Professing what it is dem'd to be,</L>
+<L>And still concealing her abilitie.</L>
+<L>The heathen Gentiles only vs'd the same,</L>
+<L>When they consum'd their dead in <HI>Cyprus</HI> flame,</L>
+<L>Or made them Idols out of <HI>Cyprus</HI> tree,</L>
+<L>As best beseeming such Imagerie.</L>
+<L>Time was they vsde it, and t'was onely Gentile,</L>
+<L>And then Religion was but in the simple,</L>
+<L>And knew not how for disputations sake,</L>
+<L>T'impugne the Godhead or religious state:</L>
+<L>But now religious and the most prophane</L>
+<L>Partake one Idol and one <HI>Cyprus</HI> flame.</L>
+<L>Such are these latter times, that would improue</L>
+<L>More constancie then all the Spheres they moue.</L>
+<L>I blame the times, and wreake that ill on them,</L>
+<L>That appertaines vnto the sonnes of men,</L>
+<L>Time-studious men: O had I libertie</L>
+<L>To reprehend them, as I challenge thee.</L>
+</DIV2>
+<DIV2 TYPE="poem">
+<PB REF="24">
+<HEAD>The Ewe.</HEAD>
+<LG>
+<L><HI>Taxus</HI> fatall and relieuing</L>
+<L><HI>Cyprus</HI> tree by her exceeding.</L>
+</LG>
+<L>ANd why should Rome call <HI>Nero</HI> from his graue,</L>
+<L>And terme him good, whom earst they did depraue?</L>
+<L>Or why should I but now impute that tree,</L>
+<L>Which now I must commend respectiuelie?</L>
+<L><HI>Nero</HI> was hatefull <HI>Nero,</HI> and despis'd&punc;</L>
+<L>Till the succeeding <HI>Galba</HI> tyranniz'd:</L>
+<L><HI>Cyprus</HI> engag<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">d, till <HI>Taxu<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"></HI> tree relieu'd it:</L>
+<L>And drownd his blacke in <HI>Eben</HI> that exceeds it.</L>
+<L><HI>Cyprus</HI> is onely practicke in the senses,</L>
+<L>Makes sowre seeme sweet, and varnisheth offences;</L>
+<L>When eyes see double subiects, and not see</L>
+<L>The double dealings of the <HI>Cyprus</HI> tree.</L>
+<L>But Ewe is fatall in the very notion,</L>
+<L>The same <HI>Cicuta</HI> of Th'athe<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">ian potion,</L>
+<L>Extending to the life by taste or sauour,</L>
+<L>To them that sleepe in shade or els receiue her</L>
+<L>Into the body; yet reseruing force,</L>
+<L>When spirits are from heart and heat diuorc't.</L>
+<L>The <HI>Cyprus</HI> is as index to the page,</L>
+<L>Where Ewe capitulates his fatall rage.</L>
+<L>Both know one <HI>Ismaru<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">,</HI> one <HI>Italie</HI>;</L>
+<L>Both vs'd in flame and in Imagerie:</L>
+<L>Onely the Ewe for greatnes and intension,</L>
+<L>Exceeds the <HI>Cyprus</HI> and my reprehension.</L>
+</DIV2>
+<DIV2 TYPE="poem">
+<PB REF="25">
+<HEAD>The Pine.</HEAD>
+<L>TH'Egyptians did bedew their mountaine Pine,</L>
+<L>Not with the moyst of Nilus; but of wine.</L>
+<L>How can that Pine but prosper then and flourish,</L>
+<L>Whose tender roote the purest wine doth nourish?</L>
+<L>Shall it not thriue manur<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">d with gracious hands?</L>
+<L>Shall it not make a <HI>Rich-mount</HI> where it stands?</L>
+</DIV2>
+<DIV2 TYPE="poem">
+<HEAD>The Fig-tree and the Palme.</HEAD>
+<L>THeir fruit is se<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">suall, pleasing for the time,</L>
+<L>But softnes doth the sense <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">nd soule deline.</L>
+<L>The present pleasure hath an after vice;</L>
+<L>The Date her leprie, and the Figge breeds lyce.</L>
+</DIV2>
+<DIV2 TYPE="poem">
+<HEAD>The Poplar.</HEAD>
+<L><HI>HErcul<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters">nish,</HI> what Conquest is in that,</L>
+<L>When <HI>Hercules</HI> himself's essen i<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters">te?</L>
+</DIV2>
+<DIV2 TYPE="poem">
+<PB REF="25">
+<HEAD>The Lotus.</HEAD>
+<L>I Passe <HI>Celaster,</HI> for it is selfe-willd,</L>
+<L>That neuer thriues but in the fairest field:</L>
+<L>The more I write vnto the Mulberrie,</L>
+<L>The lesse opinion's mine, if any be.</L>
+<L>I<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">e blame no Ashe for <HI>Hypermnestraes</HI> fate,</L>
+<L>I know the foolish girle was desperate.</L>
+<L>Let Cedar be ambitious in her height;</L>
+<L>Yet be not thou in passion infinite,</L>
+<L>And reprehend each, that is offered, vice,</L>
+<L>Lest others thinke thy verses morallize:</L>
+<L>Or rather for I feare a Symphonie</L>
+<L>Of <HI>Ismarites</HI> wanting varietie,</L>
+<L>And change of argument delights vs best,</L>
+<L>Where Scenes affin'd induce but tediousnes.</L>
+<L>And what in trees praise-worthie is deriu'd,</L>
+<L>From beautie of the outward parts contriu'd;</L>
+<L>Or some inherent Vertue, so againe</L>
+<L>In the vnworthie Plants we alwayes draine</L>
+<L>Inuectiue&punc; either from th'ingratefull sente,</L>
+<L>From shape, or from the quallities intent,</L>
+<L>Or other such like vices: now the while</L>
+<L>Good do the bad, and both themselues beguile.</L>
+<L>Some one thats generall good hauing his due,</L>
+<L>Preuents the praise belongs to them ensue:</L>
+<L>So is't in bad, and so it shall suffice,</L>
+<L>Onely to speake of one in contraries.</L>
+<L>Vertue illustrates vice, describes defines it,</L>
+<L>What<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">s not of her, she vnto vice assignes it,</L>
+<L>Hence is't, this spatiou<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter"> subiect I sustaind,</L>
+<L>Is now at length abridg'd and much restraind</L>
+<L><PB REF="26">Of scope, which here I studied to compresse,</L>
+<L>And it compell, <GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">earing to be distrest</L>
+<L>Of sentence, and of words equiuocate.</L>
+<L>Vnles I streine the sense, or iterate;</L>
+<L>When words and sentence&punc; and the selfe same sense,</L>
+<L>Are oft required in the subsequents.</L>
+<L>Of many trees I haue reserued one,</L>
+<L>Some call it Lotus, others Citragon&punc;</L>
+<L>Hir fruit is enuious to the memorie,</L>
+<L>Conducing all things vnto fantasie.</L>
+<L>Belieue it, sometimes hath my selfe co<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">uerst</L>
+<L>With such as wot not what they were at first,</L>
+<L><HI>Lot<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">pha<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters">,</HI> who rauished by tast,</L>
+<L>Forget them selues, friends, countrie, and what's past.</L>
+<L>This fruit receiu'd shall make me quite forget,</L>
+<L>I was in p<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">ssion, or an <HI>I mar<GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters">.</HI></L>
+<L>And now me thinkes she practiseth hir force</L>
+<L>Vpon these senses: now she doth discurse,</L>
+<L>Now seperates what sorrow did attone,</L>
+<L>Making it but some <HI>Hemeridi<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">n.</HI></L>
+<L>My day is done, now is my passion ended,</L>
+<L>And but hir reliques on myne eyes suspended.</L>
+</DIV2>
+<DIV2 TYPE="poem">
+<PB REF="26">
+<HEAD>Baccharis Coronaria.</HEAD>
+<LG>
+<L>THe toyled lims and senses earst opprest,</L>
+<L>Do now aduise <GAP DESC="illegible" RESP="pdcc" EXTENT="1 word"> where to rest.</L>
+<L>Vnder <HI>Baccharis</HI> go shade thee,</L>
+<L>Where no Serpent shall inuade thee,</L>
+<L>Where the Viper cannot liue,</L>
+<L>Nothing enuious may corriue.</L>
+<L>Strowe the Carpet all about,</L>
+<L>With her flowers to keepe them out:</L>
+<L>Bind thy Temples with the wreathes,</L>
+<L>Pleated in <HI>Chiroticke</HI> leaues:</L>
+<L>Browes and eye-lids faine of rest,</L>
+<L>With the iuice may they be sperst.</L>
+<L>Here repose, for here assure thee,</L>
+<L>Thou sh<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">lt sleepe, and sleepe securelie.</L>
+<L>Stand hope of mine confirm<GAP DESC="illegible" RESP="pdcc" EXTENT="1 letter">d&punc; and let me rest</L>
+<L>In Castell guarded with a Lionesse.</L>
+</LG>
+<LG>
+<L>&mdash;Cum tonat ocyus Ilex</L>
+<L>Sulphure discutitur sacro quam tu&abque; domus&abque;.</L>
+</LG>
+</DIV2>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

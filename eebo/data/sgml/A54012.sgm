@@ -1,0 +1,4250 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD EEBOPROOF 2.0//EN">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-09-17</DATE>
+<RESPSTMT>
+<NAME>Emma Leeson Huber</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TYPEs to DIVs in order to validate. Proofed title page(s).  Checked for GROUP tags. Checked ^s. Reviewed structure. Checked division-marking material at heads and feet of divisions (HEADS, etc.). Checked for signatures. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected 16 $s and $$word$$s etc. of 31. Converted 15 $$s to GAP DESC="illegible" RESP="oxf". Checked spacing of foreign GAPs. Checked for EPIGRAPHs and ARGUMENTs.  Checked for LBs. Checked for startqs, endqs, oes, q;s, and Qs. Checked proofsheets and made corrections found there. Checked for CLOSERs, TRAILERs, and BYLINEs. Checked for missing page GAPs. DONE.</ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="OX" ID="A54012">
+<STC T="W">P1142</STC>
+<BIBNO T="oclc">11877087</BIBNO>
+<VID>50271</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1">
+<PB REF="1">
+<P><HI>PENDRAGON;</HI> OR, THE Carpet Knight HIS KALENDAR.</P>
+<Q><L>&mdash;Rubet Auditor cui frigida Mens est</L>
+<L>Criminibus, tacit&acirc; sudant praecordia</L>
+<L>Culp&acirc;.</L><BIBL>Juv. Sat. 1.</BIBL></Q>
+<Q><L>Why, let the strucken Deer go weep,</L>
+<L>The Hart ungall'd go play:</L>
+<L>For some must watch, while some must sleep&punc;</L>
+<L>So runs the World away.</L>
+<BIBL>Hamlet.</BIBL></Q>
+<P><HI>LONDON,</HI> Printed for <HI>Iohn Newton</HI> at the <HI>Three Pigeons</HI> over against the <HI>Inner-Temple</HI> Gate in <HI>Fleet-street,</HI> 1698.</P>
+</DIV1>
+<DIV1 TYPE="preface">
+<PB REF="2">
+<PB REF="2">
+<HEAD>ADVERTISEMENT.</HEAD>
+<P>BEcause it looks too naked to fall immediately from Title-page to Page the First, the Reader, in lieu of Fig-leaves, or a Screen to come betwixt, is presented with a short <HI>Advertisement</HI> concerning the Nature, Powers, and Pri|vileges of <HI>Burlesque Verse.</HI></P>
+<P>The <HI>Remarks</HI> thereupon, which the late Learned and Ingenious Sir <HI>Thomas Pope-Blount</HI> has collected from the Opinions of several Men, signifie little more than that it is not to be meddled with for fear of doing Mischief: And so it is shamefully discouraged and Brow-beaten by the <HI>Cri|ticks,</HI> because indeed they themselves are afraid of it.</P>
+<P>Should we suppose the Chief of our dead <HI>English Poets</HI> holding a <HI>Sessions</HI> with those who are now living, I cannot imagine where they would place the Au|thor of <HI>Hudibras:</HI> To set him at the
+<PB REF="3">
+Upper End of the Table, above the Prin|ces of <HI>Epick</HI> and <HI>Heroick,</HI> would be ri|diculous; and no less so, to place him at the Bottom. In my Opinion he ought to be set, like <HI>Apemantus</HI> in the Play, at a Side-board by himself. <HI>Burlesque</HI> ta|king the Privileges of that surly <HI>Phi|losopher,</HI> no wonder if it is treated like him, but scurvily. But for the same Rea|son, why do not Men of the profoundest Literature and deepest Science fall foul on <HI>Cornelius Agrippa,</HI> for his ridiculing and shewing the <HI>Vanity of Arts and Sci|ences;</HI> or on <HI>Solomon</HI> himself, for his Divine Book of the <HI>Ecclesiastes?</HI> But not to go too far that way, I would rather here speak of the Laws of <HI>Burlesque,</HI> (if I knew any it had:) It stands indeed upon Four Feet; but its Liberties and Privile|ges are unbounded; and those Four Feet are, I think, by no means oblig'd to be but Eight Syllables; for in place of the Last, it is a part of its Excellency some|times
+<PB REF="3">
+to have Two, Three, or Four Syllables (like so many Claws) crowded into the Time of One Foot. The Duple and Triple <HI>Rhyme,</HI> in some other <HI>Poetry</HI> much bla|mable, are Beauties in this: And <HI>Bur|lesque</HI> esteems it no Fault, for <HI>Rymes</HI> sake, to borrow from any Language what|soever.</P>
+<P>Its Nature is to Ridicule, Flatter, Huff, and Banter, by turns; to Scratch and Claw now, and anon to Grin and Bite like a <HI>Satyr.</HI></P>
+<P>I am ignorant of the true Reason why it is call'd <HI>Doggerel;</HI> but I know a witty young Gentlewoman, who has a small Ta|lent that way, and she calls her own <HI>Bur|lesque, Bitcherel.</HI></P>
+<P>It is wonderful to traverse its Arbitrary Power, how it proceeds without regard to <HI>Periods, Colons,</HI> or <HI>Comma's:</HI> How some|times it will change <HI>Accents</HI> for the sake of <HI>Rhyme,</HI> and, according to the most vulgar and careless Pronunciation, leave
+<PB REF="4">
+out what <HI>Consonants</HI> it pleases. It will end the Verse with a <HI>Preposition,</HI> and make <HI>Interjections</HI> at its own <HI>Libitum.</HI> It often uses <HI>Grammar</HI> so ill, that it will baulk <HI>Orthography</HI> it self, rather than not assert its own Prerogative. All the <HI>Tropes, Figures,</HI> and <HI>Flowers</HI> in <HI>Rhe|torick</HI> bend beneath it. The <HI>Synaelepha</HI> and <HI>Apostrophe,</HI> like two Executioners, are continually waiting upon its Absolute Will and Pleasure. Refining and Polish|ing, which gives Beauty to other <HI>Poetry,</HI> spoils this: As if the <HI>Printer</HI> should leave out the Flat Nose, Goggle Eyes, Hump Back, and Distorted Limbs, and call it <HI>The Picture of Aesop.</HI> It will break a Word in Two, and gather up the latter Part of it a good while after, when one would think it was quite lost. Sometimes it goes on with a long Bead-row of <HI>Mono|syllables</HI> together, and esteems it no Ble|mish; at another time, one single Word, or two at most, shall compose the whole
+<PB REF="4">
+Line. Endless it would indeed be to re|count its various Qualifications and wild Vagaries, or to say how many different Things it is like.</P>
+<P>As true <HI>Heroick</HI> may be compar'd to a Beautiful Well-dress'd Lady, who, when she pays her Visit, lets down her Train at length, and advances with an even and graceful Motion; so <HI>Burlesque</HI> may be likened to her wanton Chamber-maid, with her Petti|coats tuck'd up, in her Masque and Pat|tens, who walks, runs, stumbles, stops, looks about, and laughs, and perhaps all in less than a Minute.</P>
+<P>Among many other Comparisons, (which are Odious) one of the worst Things <HI>Bur|lesque</HI> may be likened to, is Mr. <HI>Bays's</HI> fierce <HI>Heroe</HI> in the <HI>Rehearsal;</HI> who frights his Mistriss, snubbs up Kings, baf|fles Armies, and does what he will, with|out regard to Numbers, Good Manners, or Iustice: And yet after all, this frightful Thing does no more harm, when set up|on
+<PB REF="5">
+proper Subjects, than Dogs that kill Vermin.</P>
+<P>If the Author of <HI>Hudibras</HI> had a right or took liberty to ridicule particular Fa|ctions and Perswasions, as he thought them faulty, sure another Man must needs have the same Privilege to expose those who are apparently mischievous to Society, and de|structive to good Establish'd Government. Though I doubt whether ever any Man will arise with so transcendent a <HI>Genius</HI> and happy Talent for this purpose, as Mr. <HI>Butler;</HI> and great Pity it was, as well as Shame, that in one respect he was suffer'd to fall so low at the last.</P>
+<P>If our <HI>Author</HI> be mistaken in his Con|ceipts about <HI>Burlesque,</HI> he presumes his Errors are of no dangerous Consequence; and for that Reason, is little concern'd about them. Therefore, without detaining the <HI>Reader</HI> any longer, he is desir'd to fall to the following <HI>Pages,</HI> and make the best of them.</P>
+</DIV1>
+</FRONT>
+<BODY>
+<HEAD><PB N="1" REF="5"><HI>PENDRAGON;</HI> OR, THE Carpet Knight HIS KALENDAR.</HEAD>
+<DIV1 N="1" TYPE="canto">
+<HEAD>January's <HI>CANTO.</HI></HEAD>
+<ARGUMENT>
+<HEAD>ARGUMENT.</HEAD>
+<LG>
+<L>After a decent Introduction,</L>
+<L>Our <HI>Muse</HI> for better Satisfaction,</L>
+<L>Craves Aid and begs Assistances</L>
+<L>From the most valu'd Friend she has;</L>
+<L>Then gives <HI>Pendragon's</HI> Character</L>
+<L>While he sate writing in his Chair.</L>
+</LG>
+</ARGUMENT>
+<HEAD><PB N="2" REF="6">CANTO.</HEAD>
+<LG>
+<L>I Sing the Man of strange Renown,</L>
+<L>For Letters, not for Warfare known;</L>
+<L>Who did his Reputation raise</L>
+<L>From Skill in Style and Languages;</L>
+<L>From ranging Words in Order, and</L>
+<L>Keeping o'r Alphabet's Command,</L>
+<L>Which far and wide dispers'd his Name,</L>
+<L>And got him Dignity and Fame.</L>
+<L>For Knighthood (the Reward of Fighting)</L>
+<L>Was given him only for his writing.</L>
+</LG>
+<LG>
+<L>Not but the Gown does oft afford</L>
+<L>As Noble Honours as the Sword;</L>
+<L>The Gown distinguishes Degrees</L>
+<L>Of Men, in different Faculties,</L>
+<L>And tells us at a distance who</L>
+<L>Is walking off, or coming to;</L>
+<L>And <HI>Ermins,</HI> Scarlet Robes and Furs,</L>
+<L>Are deem'd as worshipful as Spurs:</L>
+<L><PB N="3" REF="6">Yet our fam'd Knight ow'd his Preferments</L>
+<L>To none of these exalted Garments;</L>
+<L>For his Advancement came alone,</L>
+<L>From's Morning, Night, or Studying-Gown.</L>
+</LG>
+<LG>
+<L>In former Days when Times were scurvy,</L>
+<L>And Government turn'd Topsie-turvy:</L>
+<L>When Rulers who should give Protection,</L>
+<L>Sate to administer Destruction;</L>
+<L>To change establish'd Property</L>
+<L>To Bigottry and Slavery:</L>
+<L>When Pulpit <HI>Bout'feu's</HI> beat Alarms,</L>
+<L>And Evidences rose in Swarms;</L>
+<L>Whose Business was to cut the Weazon</L>
+<L>Of others differing in Persuasion:</L>
+<L>Tho' in declaring Overt Acts,</L>
+<L>Like makers of our Almanacks,</L>
+<L>In giving Judgment of the Weather,</L>
+<L>No two of them Agreed together:</L>
+<L>When greatest Virtues did but render</L>
+<L>The Man the greater an Offender:</L>
+<L><PB N="4" REF="7">When <HI>Scribere</HI> in a Private Nature,</L>
+<L>Was <HI>Agere</HI> to make a Traytor:</L>
+<L>When Lord Chief Justices had Claws,</L>
+<L>And Daggers lay wrapt up in Laws;</L>
+<L>Then did Sir Knight, put Flame to Taper,</L>
+<L>Elbow to Board, and Pen to Paper.</L>
+</LG>
+<LG>
+<L>Now, tho' 'twas very Cold, he wrote</L>
+<L>As if the Season had been Hot;</L>
+<L>Tho' <HI>Sol</HI> thro' <HI>Capricorn</HI> was hying,</L>
+<L>His Brains were still in <HI>Cancer</HI> frying;</L>
+<L>He would maintain there could no Fault</L>
+<L>Possess a Minister of State,</L>
+<L>Who acting by his Prince's Will,</L>
+<L>By that was safe from doing Ill;</L>
+<L>Nor was he fit to be restrain'd</L>
+<L>By any publick Laws o'th' Land:</L>
+<L>He taught all Subjects to obey,</L>
+<L>Dispensing, Arbitrary Sway;</L>
+<L>And who this Doctrine drust deny</L>
+<L>He'd prove a Foe to Monarchy:</L>
+<L><PB N="5" REF="7">He chiefly bent the Nib of's Pen</L>
+<L>To write against the Golden Mean;</L>
+<L>To prove Men Wise and Moderate</L>
+<L>Were Enemies to Church and State;</L>
+<L>That to be still, and void of Action,</L>
+<L>Sedition was and downright Faction;</L>
+<L>And who in Speech was ne'er so silent,</L>
+<L>In Thought was represented Violent.</L>
+<L>'Twas thus his Fingers sought to cripple,</L>
+<L>And ham-string the King's best Leige-People,</L>
+<L>By laying about him might and Main,</L>
+<L>Daily with Paper, Ink and Pen.</L>
+<L>Whence (tho' the Sound be somewhat <HI>Pagan</HI>)</L>
+<L>Came his acquir'd Name <HI>Pendragon.</HI></L>
+<L>And who but he in that vile Age</L>
+<L>In such Designs so fit t' engage?</L>
+<L>A plyant Tool, oblig'd with Knighthood</L>
+<L>And large Rewards, he was excited</L>
+<L>To serve the Times through all Excesses,</L>
+<L>And on foul Deeds to put fair Faces,</L>
+<L>Untill he grew to be the great</L>
+<L>Prevaricator of the State:</L>
+<L><PB N="6" REF="8">Thus all true <HI>Englishmen</HI> he found,</L>
+<L><HI>Pendragon</HI> with his Pen <HI>dragoon'd.</HI></L>
+<L>Success in Sham and Banter made him</L>
+<L>Proceed where-e'er the Maggot led him;</L>
+<L>That Maggot which doth turn and wind</L>
+<L>The greatest Part of Humane Kind.</L>
+</LG>
+<LG>
+<L>All hail thou mighty Worm which reigns</L>
+<L>Lord-Paramount in Mortals Brains,</L>
+<L>Patron of Whimseys, and the Itches</L>
+<L>Of Fancy, and the Mind's Capriches;</L>
+<L>Who grave Philosophers and wise</L>
+<L>Hast made to write in Praise of Lice,</L>
+<L>Fleas, Asses, Dogs, and Cats, and Owls,</L>
+<L>Hermaphrodites, and Apes, and Fools:</L>
+<L>Thou who inspir'st Disease and Phrensy,</L>
+<L>Grief and old Age with Wit and Fancy,</L>
+<L>Canst teach Men tortur'd with the Pox,</L>
+<L>To ease their Pain by breaking Jokes;</L>
+<L>And make the Raging of the Gout</L>
+<L>Into Poetick Rage break out:</L>
+<L>Thou who giv'st Coronets of Bays</L>
+<L>To Lords and to Apprentices;</L>
+<L><PB N="7" REF="8">And hast thy Garlands ready made</L>
+<L>And siz'd to every fashion'd Head,</L>
+<L>I beg th' Assistance all along</L>
+<L>To the Conclusion of my Song:</L>
+<L>Teach me new Notes, and as I do sing,</L>
+<L>To think well of my own Composing.</L>
+<L>Let me be positive and bold,</L>
+<L>As <HI>Bays</HI> of late, and <HI>Ben</HI> of old;</L>
+<L>And whatsoever Self brings forth,</L>
+<L>Applaud it as a thing of Worth:</L>
+<L>And as with a Crane-neck the Chariot</L>
+<L>Makes shorter Turns and quicker for it,</L>
+<L>So give me the <HI>bein Tourn</HI> of Doggerel,</L>
+<L>That Muse may drive on, and not clog her Wheel:</L>
+<L>Send me one Rag of <HI>Butler</HI>'s Mantle,</L>
+<L>And I can never fail to Cant well:</L>
+<L><HI>Butler!</HI> the best of <HI>Buccaneers,</HI></L>
+<L>Who taught us Pyracy in Verse;</L>
+<L>From whom the boldest Criticks run,</L>
+<L>And dare not stay to fire a Gun:</L>
+<L>May they no less my Rhymes come near,</L>
+<L>Or I their <HI>Patarero's</HI> fear.</L>
+<L><PB N="8" REF="9">But if our Sense obtains, and Measures</L>
+<L>Contribute to a Prince's Pleasures;</L>
+<L>If he esteem 'em worth Recital,</L>
+<L>We hope he'll think 'em worth Requital;</L>
+<L>And not let (<HI>Butler-like</HI>) the Founder</L>
+<L>Neglected live, and run aground here.</L>
+</LG>
+<LG>
+<L>So much by way of Invocation:</L>
+<L>Now we'll proceed, without a Passion,</L>
+<L>And suffer no warm Thoughts to hurry us,</L>
+<L>While the <HI>Sun</HI>'s tugging through <HI>Aquarius;</HI></L>
+<L>While nipping Frosts, and Snows, and Hail,</L>
+<L>With Cold, and piercing Winds, prevail;</L>
+<L>While the Nights yet continuing long,</L>
+<L>Yield no good Subject for a Song.</L>
+</LG>
+<LG>
+<L>Let there a rowsing Fire be made:</L>
+<L>Suppose it done as soon as said:</L>
+<L>Then draw the folding Table near,</L>
+<L>And place by that an Elbow-Chair;</L>
+<L>To which be Sir <HI>Pendragon</HI> put in,</L>
+<L>With all his Magazines about him,</L>
+<L><PB N="9" REF="9">Of Paper, Wax, Wafers, and Sand,</L>
+<L>A well-cut Pen in his Right-hand,</L>
+<L>On his contracted Brows he wears</L>
+<L>A goodly Cap of Sable Furs;</L>
+<L>A Neckcloth round his Neck is ty'd</L>
+<L>Of finest Muslin flying wide;</L>
+<L>From Head to Foot he's cover'd down</L>
+<L>With the said gawdy Studying Gown,</L>
+<L>Made of a Flower'd Silk, whose Kind is</L>
+<L>Richest of <HI>Persia</HI>'s or th' <HI>East-Indies;</HI></L>
+<L>Which, with his Slippers of the same,</L>
+<L>To publick view was all that came.</L>
+</LG>
+<LG>
+<L>His Person's very tall and straight,</L>
+<L>Exceeding much the common Height,</L>
+<L>Could we but make him stand upright.</L>
+<L>His Body, had it been exhibited</L>
+<L>Naked, One might have told each Rib it had:</L>
+<L>A Man so Lathy, long, and lean,</L>
+<L>Is very rarely to be seen.</L>
+<L>The Figure of his Face is Oval,</L>
+<L>Not broad at bottom, like a Shovel;</L>
+<L><PB N="10" REF="10">Though on sinister part of Gullet</L>
+<L>Appears a Poke, or fleshy Wallet,</L>
+<L>A strongly radicated Tumour,</L>
+<L>Caus'd by an old Malignant Humour,</L>
+<L>Which he who skill'd in Physicks Trade is,</L>
+<L>Doth term the <HI>Scrophula,</HI> or <HI>Chaerades:</HI></L>
+<L>Yet if our Knight did ever shew</L>
+<L>In <HI>Lombards</HI> Vale at <HI>Bergamo</HI></L>
+<L>His Visage, with this Modish Swelling,</L>
+<L>No Man would there advise its Healing:</L>
+<L>For 'tis in Fashion so, the same is</L>
+<L>Esteem'd an Ornament, no Blemish;</L>
+<L>And one would swear, he had so far gone</L>
+<L>Being vers'd in their peculiar Jargon,</L>
+<L>Which imitated very much is</L>
+<L>By fam'd <HI>Buffoons</HI> and <HI>Scaramouches.</HI></L>
+<L>But not to suffer a Digression</L>
+<L>To put us by our proper Lesson:</L>
+<L>After the Colour of his Hair,</L>
+<L>We term him of Complexion Fair;</L>
+<L>His Eyes were of the lively Hazel,</L>
+<L>And Eye-brows large became his Face well;</L>
+<L><PB N="11" REF="10">His Nose well-shap'd, on Top of which</L>
+<L>Was fix'd the <HI>Ciceronian</HI> Fetch,</L>
+<L>An <HI>Index</HI> of his Rhetorick,</L>
+<L>That is of Eloquence and Trick.</L>
+<L>His Visage wore an eager Air,</L>
+<L>Keen as the Season of the Year;</L>
+<L>His Forehead shone like Burnish'd Brass;</L>
+<L>Bright and Case hardned was his Face,</L>
+<L>Which nothing Foul could touch or take,</L>
+<L>But worse it still reflected back:</L>
+<L>Such was the Nature of the Mirrour,</L>
+<L>To render no Idea's fairer.</L>
+<L>But the best Part about the Man</L>
+<L>Many will have to be his Brain,</L>
+<L>Always a working, never idle,</L>
+<L>Ev'n when he takes in hand the Fiddle.</L>
+<L>In vain the Harmony's design'd</L>
+<L>To quell the Discords of his Mind;</L>
+<L>The Faculties whereof were strong,</L>
+<L>Though constantly directed wrong.</L>
+<L>His Fancy too was most Luxurious,</L>
+<L>And fertil of an Off-spring spurious.</L>
+<L><PB N="12" REF="11">His Memory had Mansions many,</L>
+<L>And some as fair and large as any;</L>
+<L>But still the fairest and the best</L>
+<L>Were took up by th' foulest Guest.</L>
+<L>For Slanders vile, and lying Stories</L>
+<L>Lodg'd in its choice Repositories,</L>
+<L>Whilst all their Doors were shut and barr'd</L>
+<L>Gainst Worth and Merit very hard.</L>
+<L>His Reason which of Right should Reign</L>
+<L>The lawfull Monarch of his Brain,</L>
+<L>Was by his Will depos'd, whose Rule</L>
+<L>Despotick was as Great <HI>Mogul,</HI></L>
+<L>Would not be bound in any Case</L>
+<L>By any Reasonable Laws,</L>
+<L>Nor other <HI>Magna Charta</HI> own,</L>
+<L>Than <HI>what I please, That shall be done.</HI></L>
+<L>Thus Qualify'd (while we take Breath)</L>
+<L>Let him write Dagger out of Sheath:</L>
+<L>Under Pretence of pulling down</L>
+<L>The Enemies to Church and Crown,</L>
+<L>He proves the worker of the Fall</L>
+<L>Of Scepter, Diadem and Ball:</L>
+<L><PB N="13" REF="11">While those <HI>Regalia</HI> he would pitch</L>
+<L>So high above all Humane Reach,</L>
+<L>They are but lodg'd the less secure,</L>
+<L>And can't from Age to Age endure.</L>
+</LG>
+</DIV1>
+<DIV1 N="2" TYPE="canto">
+<HEAD>February's <HI>CANTO.</HI></HEAD>
+<ARGUMENT>
+<HEAD>ARGUMENT.</HEAD>
+<LG>
+<L>The Squire comes next as necessary,</L>
+<L>To serve the Knight to fetch and carry:</L>
+<L>His Name is told, with a Relation</L>
+<L>Of Person, Birth, and Education.</L>
+<L>All Things succeed to both their Wishes,</L>
+<L>While the Sun flounders on thro' <HI>Pisces.</HI></L>
+</LG>
+</ARGUMENT>
+<HEAD>CANTO.</HEAD>
+<LG>
+<L>HE wants no Campany's Enjoyment,</L>
+<L>Whose Mind affords him full Employment.</L>
+<L>If then last Month our Knight was shown</L>
+<L>By himself, yet was he not alone;</L>
+<L><PB N="14" REF="12">For he kept e'ry Faculty</L>
+<L>Within him busie as a Bee;</L>
+<L>Which would be glad of an Occasion,</L>
+<L>To get a little Recreation:</L>
+<L>Such constant Labour, and Turmoyling</L>
+<L>Without Relief's enough to spoil one;</L>
+<L>To fetch Materials, and imploy 'em,</L>
+<L>Are two Men's Work, who e'er injoys 'em;</L>
+<L>As Sir <HI>Pendragon</HI> best can tell,</L>
+<L>Who by Experience sensible,</L>
+<L>Performing both, found the Fatigue</L>
+<L>Was even for himself too big;</L>
+<L>When Fortune pitying his Condition,</L>
+<L>Sent him Help meet without Petition.</L>
+</LG>
+<LG>
+<L>For Fame did now the Labours bear,</L>
+<L>Of Sir <HI>Pendragon</HI> far and near;</L>
+<L>Whose writings took a larger Flight,</L>
+<L>Than e'er was reach'd by Paper-Kite:</L>
+<L>Each Week produc'd an Observator,</L>
+<L>Stuff'd with variety of Matter;</L>
+<L><PB N="15" REF="12">Which rais'd much Dust, and made a Noise</L>
+<L>'Mongst Men of shallow Thoughts, and Boys:</L>
+<L>'Twas a supply to Womens Prattle,</L>
+<L>At Gossipings, and half their Tattle;</L>
+<L>Besides the Capers, and the Fleurets,</L>
+<L>It gave to little Priests and Curates;</L>
+<L>It rais'd the Passions and the Spleen,</L>
+<L>By various Means, in divers Men;</L>
+<L>Some wept, some laught, and that which tickl'd</L>
+<L>One Sort, by others was ridicul'd;</L>
+<L>Run down, and mockt, and much despis'd,</L>
+<L>Howe'er by th' adverse Party priz'd:</L>
+<L>For no small Numbers were of those</L>
+<L>Who fancy'd them of wondrous Use;</L>
+<L>'Mongst whom there was a certain Squire</L>
+<L>Whose Elements were all of fire.</L>
+<L>His Salt, and Sulphur, acted by</L>
+<L>His sublimated Mercury,</L>
+<L>Dispos'd him to Euthusiasticks,</L>
+<L>Of different Kinds to <HI>Pryn</HI>'s or <HI>Bastwick</HI>'s:</L>
+<L>Who would his Thoughts sometimes express</L>
+<L>In stiff Bombast, affected Phrase;</L>
+<L><PB N="16" REF="13">And at another time he'd talk</L>
+<L>As blundringly as other Folk.</L>
+<L>Reading the Doctrine of the Knight,</L>
+<L>He strangely was affected by 't,</L>
+<L>Broke out into <HI>Soliloquy's,</HI></L>
+<L>Of which, 'mongst others, one was this&punc;</L>
+<L>"Were Fortune in my Power, or wou'd</L>
+<L>"She condescend to what I sew'd,</L>
+<L>"O make (quoth he) 'tis all I ask her,</L>
+<L>"<HI>Pendragon</HI> King of <HI>Madagascar,</HI></L>
+<L>"And let me be the (What d' ye call it?)</L>
+<L>"His Vice-Roy there, the <HI>Athe'madoulet.</HI></L>
+<L>But upon second Thoughts he found</L>
+<L>Such idle Wishes wanted Ground;</L>
+<L>That the Conceit was vain and airy,</L>
+<L>And a fantastical Chimaera:</L>
+<L>Wherefore resolves on Application</L>
+<L>To th' Knight, and takes the first Occasion.</L>
+<L>He all Impediments removes,</L>
+<L>Calls for his Sword, and Hat, and Gloves,</L>
+<L>And his best Wigg; then out he goes,</L>
+<L>To find <HI>Pendragon</HI> at his House.</L>
+<L><PB N="17" REF="13">The Walk could not be very far</L>
+<L>To <HI>Old-Bourn</HI> High, from <HI>Old-Bourn</HI> Bar.</L>
+<L>How he was introduc'd, the Greeting,</L>
+<L>And Complements at their first Meeting,</L>
+<L>I chuse to pass: Let it suffice,</L>
+<L>That after two or three Replies,</L>
+<L>The Squire declares the vast Deserts</L>
+<L>Of Sir <HI>Pendragon,</HI> and those Parts</L>
+<L>Which all the Kingdom so admires,</L>
+<L>Brought him to pay him his Devoirs,</L>
+<L>To tell him, none could truly blazon</L>
+<L>His great Atchievements, or do Reason</L>
+<L>To such a Pillar of the Nation,</L>
+<L>Unless the King of Arms, the <HI>Garter,</HI></L>
+<L>Would make his Hand and Pen Supporter.</L>
+<L>Fie, (cry'd <HI>Pendragon</HI>) Sir, forbear</L>
+<L>To talk of things I must not hear;</L>
+<L>Your Goodness sets too great a Value</L>
+<L>On my poor Labours; yet I'll tell you,</L>
+<L>There are some think the things I write here</L>
+<L>Do Service both to Crown and Mitre,</L>
+<L><PB N="18" REF="14">Because considerable Gains</L>
+<L>Are sent me to reward my Pains,</L>
+<L>Which are not little, (tho' I say't)</L>
+<L>And sometimes press me with their Weight,</L>
+<L>That I have very often wisht,</L>
+<L>I had a Friend, who could assist</L>
+<L>Me with Intelligence, and give notice</L>
+<L>Concerning some who live remotest.</L>
+<L>Sir, quoth the Squire, (for it was that</L>
+<L>He came on purpose to be at)</L>
+<L>I'll undertake in all reality</L>
+<L>Of Truth, Affection, and Fidelity,</L>
+<L>If you dare let on me the Trust lie,</L>
+<L>This Province to discharge most justly.</L>
+<L>I thank you, Sir, with all my Heart,</L>
+<L>(<HI>Pendragon</HI> said) then e'er we part,</L>
+<L>'Tis needful we confer about</L>
+<L>What Method's best to prosecute.</L>
+<L>For, <HI>Two Heads better are than one,</HI></L>
+<L>And, <HI>Bow&punc; long bent, will weaken soon.</HI></L>
+</LG>
+<LG>
+<L>The Squire then elevates his Poll,</L>
+<L>And with the Knight lays Cheek by Jowl;</L>
+<L><PB N="19" REF="14">Mean while they're set so closely to't,</L>
+<L>And wink, and nod, and scowl, and plot,</L>
+<L>We'll leave 'em making scurvy Faces,</L>
+<L>And tell you what the Squire's Case is.</L>
+</LG>
+<LG>
+<L>Tho' Critick, with Objection smartest,</L>
+<L>Crys out, This is not like an Artist,</L>
+<L>Some other Person should be near</L>
+<L>In call, to give the Character:</L>
+<L>We'll grant, perhaps 'tis better so;</L>
+<L>Howe'er, let Master Critick know,</L>
+<L>The Thing lies properly before us;</L>
+<L>For <HI>Muse</HI> and <HI>Author</HI> make a <HI>Chorus.</HI></L>
+<L>But if it be a weighty Matter,</L>
+<L>It shall be otherwise hereafter:</L>
+<L>For this Time we'll take special care</L>
+<L>In managing the Squire's Affair.</L>
+</LG>
+<LG>
+<L>Whose Name on Working-days was <HI>Hugh&punc;</HI></L>
+<L>But, not to curtail what's his Due,</L>
+<L>With loftier Tone, and better Phrase,</L>
+<L>He's <HI>Hugo</HI> call'd on Holy-days:</L>
+<L><PB N="20" REF="15">Which signifies to slash, and cut,</L>
+<L>And to bring comfort ev'ry foot:</L>
+<L>It double Myst'ry does reveal,</L>
+<L>Of Power as well to wound as heal.</L>
+</LG>
+<LG>
+<L>As for his Person, (not to flatter)</L>
+<L>He was excessive low of Stature;</L>
+<L>The true Reverse to's Knight in that,</L>
+<L>Not only short, but thick and fat.</L>
+<L>'Twas not his Fault, but his Mishap,</L>
+<L>To be of <HI>Pun<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">henello</HI>'s Shape.</L>
+<L>But what in's outward Man Offence is,</L>
+<L>His inward highly recompences.</L>
+<L>To give you therefore but a Glance,</L>
+<L>Or Copy of his Countenance:</L>
+<L>You ne'er a Feature in't behold,</L>
+<L>But what is masculine and Bold,</L>
+<L>Much like the Sign of <HI>Saracin,</HI></L>
+<L>With formidable Laugh and Grin,</L>
+<L>Which shew'd as fine a Set of Teeth</L>
+<L>As Chaps were ever furnish'd with;</L>
+<L><PB N="21" REF="15">No Lady's, nor her Dog's, were seen</L>
+<L>More even, elegant, and clean.</L>
+<L>No better hung, or fashion'd Ear,</L>
+<L>E'er was, (allowing Wear and Tare:)</L>
+<L>For one with <HI>Spanish</HI> VVooll was stopt,</L>
+<L>The other by Offences cropt:</L>
+<L>Both which his Perriwig does hide,</L>
+<L>Unless in Puff behind 'tis ty'd.</L>
+<L>For (tho' in Years) he wore his Clothes</L>
+<L>After the Fashion of the <HI>Beaux.</HI></L>
+</LG>
+<LG>
+<L>His Birth was very Mean, his Father</L>
+<L>By Trade, was one that dealt in Leather;</L>
+<L>Of honest Calling, had his End</L>
+<L>Been so, and without Reprimend:</L>
+<L>But Discontents afforded String,</L>
+<L>To give himself a mortal Swing.</L>
+</LG>
+<LG>
+<L>Let no Man <HI>Hugh</HI> for this deride,</L>
+<L>VVho got the Proverb on his Side,</L>
+<L>VVhich says, <HI>That happy Son shall live well,</HI></L>
+<L><HI>Whose Father goes before to th' Devil.</HI></L>
+<L><PB N="22" REF="16"><HI>Latin</HI> he got (at School a Novice)</L>
+<L>More than he needed in his Office:</L>
+<L>Bred up he was at Inn call'd <HI>Thavy's,</HI></L>
+<L>(VVhich (some say) ne'r without a Knave is)</L>
+<L>VVhere <HI>Hugh</HI> got Skill enough in Law,</L>
+<L>Both to find out, and make a Flaw:</L>
+<L>Could raise a drooping Cause, 'twas known,</L>
+<L>By <HI>Affidavits</HI> of his own;</L>
+<L>And tho' he found it in the wrong,</L>
+<L>His Client's Cause would still prolong;</L>
+<L>And when at last he brought his Bill in,</L>
+<L>Could change a Groat into a Shilling:</L>
+<L>Defective Settlements could <HI>Fumpus,</HI></L>
+<L>And make Will valid of <HI>Non compos.</HI></L>
+<L>So qualifi'd, he bent his Labours</L>
+<L>To grind and terrifie his Neighbours;</L>
+<L>VVhich soon enrich'd him to that height,</L>
+<L>To purchase Mannor with Estate:</L>
+<L>VVhen out there comes a Tax on Poll,</L>
+<L>VVhich asks Five Pounds from willing Fool;</L>
+<L><HI>Hugh</HI> paid it by his own desire,</L>
+<L>And from that Hour commenc'd Esquire;</L>
+<L><PB N="23" REF="16">(Tho' paying Money on that Score,</L>
+<L>Makes no Man that he wan't before.)</L>
+</LG>
+<LG>
+<L>I've heard of three Degrees of Squireship,</L>
+<L>VVhich canvass'd, bear not equal VVorship.</L>
+<L><HI>Hugo</HI> was Squire, Squiret, or Squirt;</L>
+<L>But which, let <HI>Bluemantle</HI> concert,</L>
+<L><HI>Rouge Croix, Rouge Dragon,</HI> or <HI>Portcullis,</HI></L>
+<L>Or any else, in whom true Skill is.</L>
+</LG>
+<LG>
+<L>Next, when the Hunt in every Quarter</L>
+<L>VVas up 'gainst Corporations Charter,</L>
+<L>None made more loud and hideous Noise,</L>
+<L>VVith open and extended Jaws;</L>
+<L>None set them on, and cry'd <HI>Haloo,</HI></L>
+<L>More frightfully and fierce than <HI>Hugh:</HI></L>
+<L>If willingly you make Surrender,</L>
+<L>'Twill be receiv'd with greatest <HI>Tendeur;</HI></L>
+<L>And for your old and mouldy Charter,</L>
+<L>You shall have new one, with new Fair t' her:</L>
+<L>But some o' th' Privileges you had,</L>
+<L>You must acknowledge forfeited:</L>
+<L><PB N="24" REF="17">VVhich, if y' are stubborn, and will stand to</L>
+<L>Defend; the dreadful <HI>Quo Warranto</HI></L>
+<L>Shall come, and make upon't a Seizure;</L>
+<L>And then reduc'd to VVill and Pleasure,</L>
+<L>Ye Rebel Rogues, who merit none,</L>
+<L>May ev'n go whistle for 't, when gone.</L>
+</LG>
+<LG>
+<L>Hard VVords put many into Frights,</L>
+<L>And Knaves and Fools gave up our Rights;</L>
+<L>VVho both of Sense and Conscience void,</L>
+<L>The Birth-rights of Unborn betray'd.</L>
+</LG>
+<LG>
+<L>In Management of these Affairs</L>
+<L><HI>Hugh</HI> and <HI>Pendragon</HI> bore their Shares:</L>
+<L><HI>Hugh</HI> terrified them like a Beadle,</L>
+<L><HI>Pendragon</HI> did both threat and wheadle.</L>
+</LG>
+<LG>
+<L>By this time the Politick Scheme</L>
+<L>VVas finish'd betwixt both of them:</L>
+<L><HI>Pendragon</HI> had his Part, and <HI>Hugh</HI></L>
+<L>VVas taught as well to know his Cue:</L>
+<L>VVhen in there breaks a sweaty Fellow,</L>
+<L>And crys, Sir, I've good News to tell you;</L>
+<L><PB N="25" REF="17">I've brought you Three and thirty Pound,</L>
+<L>From Town where <HI>Tory</HI> Fools abound:</L>
+<L>I wish 'twas double, for your sake;</L>
+<L>The Parsons gave you half the Stake.</L>
+<L>I thank you, Friend, (quoth Knight) and star'd;</L>
+<L>Go out, and thou shalt find Reward.</L>
+</LG>
+<LG>
+<L>Applying then to trusty <HI>Hugo,</HI></L>
+<L>Sir, let me tell you, before you go,</L>
+<L>VVe'll manage Matters well betwixt us,</L>
+<L>And be reveng'd of all that vex't us.</L>
+<L>You see a Sample here is sent me,</L>
+<L>(Tho' I confess 'tis somewhat scanty)</L>
+<L>VVhich does afford us fine Refreshings;</L>
+<L>But greater Towns send greater Blessings.</L>
+<L>The Universities have sent me</L>
+<L>Of <HI>Guineas</HI> and Crown-pieces plenty.</L>
+<L>The next Purse we together share.</L>
+<L>Quoth <HI>Hugh,</HI> Your humble Servant, Sir:</L>
+<L>And left (when he had took his leave)</L>
+<L><HI>Pendragon</HI> laughing in his Sleeve.</L>
+</LG>
+</DIV1>
+<DIV1 N="3" TYPE="canto">
+<PB N="26" REF="18">
+<HEAD>March's <HI>CANTO.</HI></HEAD>
+<ARGUMENT>
+<HEAD>ARGUMENT.</HEAD>
+<LG>
+<L><HI>Sol</HI> having now bestrid the <HI>Ram,</HI></L>
+<L>The Lady next our Verse does claim;</L>
+<L>Of whom to give Account at large,</L>
+<L><HI>Laurence</HI> the Curate takes in Charge:</L>
+<L>Who quits himself so well i' th' Matter,</L>
+<L>He sets <HI>Pendragon's</HI> Chaps a water.</L>
+</LG>
+</ARGUMENT>
+<HEAD>CANTO.</HEAD>
+<LG>
+<L>NO longer can our Muse forbear</L>
+<L>To sing the charming Lady fair:</L>
+<L>The Lady fair would think it VVrong</L>
+<L>To be neglected in our Song;</L>
+<L>VVhen such a Subject ought to raise</L>
+<L>Our Measures, and our Roundelays.</L>
+</LG>
+<LG>
+<PB N="27" REF="18">
+<L>Some sing in lamentable Strains,</L>
+<L>Of Shepherdesses and their Swains,</L>
+<L>VVho cry to <HI>Echo</HI> for Relief,</L>
+<L>And after Heart-stealer, <HI>Stop Thief.</HI></L>
+<L>Others sing merry drunken Catches,</L>
+<L>Of beating Constables and VVatches.</L>
+<L>One in Heroick Numbers sings</L>
+<L>Of Lovers, Battels, Hero's, Kings,</L>
+<L>Of Sieges, Conquests, Fire, and Sword,</L>
+<L>Of Storms, and Throwing over Board,</L>
+<L>(The dreadful Ornaments of Story.)</L>
+<L>Another sings plain <HI>Tory-Rory.</HI></L>
+<L>The first is of too mournful Nature,</L>
+<L>And far too trivial is the latter,</L>
+<L>To be the Subject of our Muse,</L>
+<L>VVho rather is dispos'd to chuse</L>
+<L>This happy late-successful Track,</L>
+<L>Than a long painful Journey take,</L>
+<L>In search of Chronicles and Legends</L>
+<L>Of ancient Times, and distant Regions,</L>
+<L><PB N="28" REF="19">For One whose mighty Deeds are yet hid,</L>
+<L>And in no Measures celebrated.</L>
+<L>Here's nothing tore from tatter'd Hist'rys;</L>
+<L>But 'tis a Modern Knight and Mistriss</L>
+<L>We sing, whose powerful Charms and Wheadles</L>
+<L>Encrease Love's Mysteries and Riddles;</L>
+<L>Whose airy Mein, and amorous Glances,</L>
+<L>Out-vie the Beauties of Romances;</L>
+<L>Who with small Love-tricks makes more Conquests</L>
+<L>Than they can when their Charms are strongest;</L>
+<L>Which more agreeable may be</L>
+<L>Than Hum-drum Love and Constancy.</L>
+</LG>
+<LG>
+<L>For when the curious <HI>Calprenedy,</HI></L>
+<L>Or <HI>Scudery,</HI> hath fram'd a Lady</L>
+<L>Of finest Beauty, Shape, and Wit,</L>
+<L>To captivate a Heroe fit,</L>
+<L>Yet then is this Celestial Creature</L>
+<L>(Maugre the private Pulls of Nature)</L>
+<L>Ty'd up by Gallantrys to move</L>
+<L>In the Religious Laws of Love;</L>
+<L><PB N="29" REF="19">Not budge a Step from Honour's Post,</L>
+<L>But to maintain't at any Cost.</L>
+<L>A more severe and rigid Duty</L>
+<L>Than ought to be impos'd on Beauty;</L>
+<L>Beauty, which should be free as Air,</L>
+<L>And, as <HI>SELENA,</HI> void of Care.</L>
+<L>For She does all Restraint abolish,</L>
+<L>As a thing troublesom and foolish.</L>
+<L>In spite of Love, she'll have her Humour,</L>
+<L>And Frolicks, in despite of Rumour.</L>
+<L>She's strangely various in her Actions,</L>
+<L>As in her Will, and her Affections:</L>
+<L>She's merry, sullen, prays, or swears,</L>
+<L>According as her Maggot steers:</L>
+<L>For almost all she does perform,</L>
+<L>Is under Conduct of the Worm.</L>
+</LG>
+<LG>
+<L>Cease, cease, my Muse, to take upon ye</L>
+<L>That which requires more Ceremony:</L>
+<L>'Tis fitting you proceed no further,</L>
+<L>Without the Help of Man in Orders,</L>
+<L><PB N="30" REF="20">Who more o'th' Sisters can command,</L>
+<L>And has the Graces too at hand.</L>
+</LG>
+<LG>
+<L>And such there was in <HI>Grays-Inn</HI> Walk</L>
+<L>At this time, busie held in talk</L>
+<L>With Sir <HI>Pendragon,</HI> whom he claw'd</L>
+<L>With Flattery, and fulsom Laud.</L>
+<L>Beside, the Clapper of his Tongue</L>
+<L>On Twenty other Subjects rung.</L>
+<L>But with the most delight, his Chimes</L>
+<L>Were tun'd to th' Changes of the Times:</L>
+<L>He told him, he was overjoy'd</L>
+<L>That Places were so well imploy'd</L>
+<L>In Church and State, and all Promotions</L>
+<L>Giv'n to the Followers of his Notions.</L>
+<L><HI>Pendragon</HI> exercis'd Forbearance,</L>
+<L>While thus he was address'd by <HI>Laurence,</HI></L>
+<L>So was he call'd, a Curate, (yet</L>
+<L>A Bishop in his own Conceit)</L>
+<L>When happily a sudden Object</L>
+<L>Diverts them from the present Subject.</L>
+<L><PB N="31" REF="20">Pray (quoth <HI>Pendragon</HI>) who was that</L>
+<L>Whom you saluted with your Hat?</L>
+<L>She seems as brisk as she is fine.</L>
+<L>Sir, 'tis one Mistris <HI>Thomasine,</HI></L>
+<L><HI>Laurence</HI> reply'd; she serves a Lady,</L>
+<L>The fair <HI>Selena.</HI> Hah! what said ye?</L>
+<L><HI>Selena!</HI> She's a <HI>Nonparielle,</HI></L>
+<L>I'm told, by those that know her well.</L>
+<L>Quoth <HI>Laurence,</HI> Let me tell you, Sir,</L>
+<L>She gives me leave to visit her:</L>
+<L>She's certainly the charming, prettiest,</L>
+<L>The sweetest Creature, and the wittiest</L>
+<L>Of all her Sex that e'er was known.</L>
+<L>Then, prethee, let us both sit down,</L>
+<L>(Quoth Knight) and favour me to hear</L>
+<L>Her true impartial Character,</L>
+<L>That I may gratifie a Friend.</L>
+<L>Quoth <HI>Laurence,</HI> That you may command.</L>
+</LG>
+<LG>
+<L>She's very slender, clean, and straight,</L>
+<L>Rather above the common Height,</L>
+<L><PB N="32" REF="21">And of as delicate a Shape,</L>
+<L>Perhaps, as ever suffer'd Rape:</L>
+<L>Somewhat short-wasted if she is,</L>
+<L>She has't again in Legs and Thighs;</L>
+<L>These round and large, those long and neat,</L>
+<L>With very pretty little Feet.</L>
+</LG>
+<LG>
+<L>How, (said <HI>Pendragon</HI>) Sir, d'you know't?</L>
+<L>Ha' you been beneath her Pettycoat?</L>
+</LG>
+<LG>
+<L>Not so, Sir, neither, (<HI>Laurence</HI> said)</L>
+<L>I learnt it lately from her Maid,</L>
+<L>And therefore give me leave to know:</L>
+<L>But to her upper Parts I'll go,</L>
+<L>Where nothing can be fansied faulty;</L>
+<L>Her Forehead, as it should be, 's haughty;</L>
+<L>Her Eye-brows cut, and gumm'd, and laid well,</L>
+<L>According to the newest Model.</L>
+</LG>
+<LG>
+<L>Her Eyes, those flattering Looking-glasses,</L>
+<L>Make Bearded Men's, seem Baby's Faces;</L>
+<L><PB N="33" REF="21">Whate'er Deformities inspect them,</L>
+<L>All Prettiness they back reflect them;</L>
+<L>And 'tis the easiest thing they do,</L>
+<L>They can be kind, and cruel too</L>
+<L>At the same time, and with a Twinkle</L>
+<L>Give Life, and Death when she don't think ill.</L>
+<L>Poetick Rapture now would swear,</L>
+<L>The God of Love himself comes there,</L>
+<L>To point his Darts, that in her Eyes</L>
+<L>His Arms and Ammunition lies,</L>
+<L>Ready to do on Lookers-on</L>
+<L>All killing Execution.</L>
+<L>But when sh' has no Design to slay,</L>
+<L>They can send forth a gentler Ray,</L>
+<L>And with short Looks, and languishing,</L>
+<L>Revive the miserable Thing.</L>
+</LG>
+<LG>
+<L>Her Air's agreeable, and each Feature</L>
+<L>Extremely Beautiful, or better:</L>
+<L>The length and largeness of her Nose,</L>
+<L>Her strength of Constitution shows:</L>
+<L><PB N="34" REF="22">The Heat and Redness of her Lips</L>
+<L>Gives balmy Kiss, when Lover sips;</L>
+<L>The rising Plumpness of her Breast,</L>
+<L>Argues its fitness to be prest.</L>
+<L>Sh' has not a Pimple, Mole, or Wart,</L>
+<L>Without a Cause sufficient for't.</L>
+</LG>
+<LG>
+<L>These are peculiar Charms, (quoth Knight)</L>
+<L>Which you as pleasantly recite:</L>
+<L>But I'll not break the well-spun Thread</L>
+<L>Of your Discourse: Sir, pray proceed.</L>
+</LG>
+<LG>
+<L>Her Hair is of a lovely Brown,</L>
+<L>So too is her Complexion,</L>
+<L>Which she can, with the greatest ease,</L>
+<L>Correct, and alter, as she please,</L>
+<L>By mixing Red and White, and look as</L>
+<L>Fair as she list, by help of <HI>Fucus:</HI></L>
+<L>(Who, since she so does still appear,</L>
+<L>She may be call'd the Lady Fair.)</L>
+<L>Nor is she less acquainted with</L>
+<L>The Arts of Patching, Cleansing Teeth,</L>
+<L><PB N="35" REF="22">Scenting, Perfuming, making sweet</L>
+<L>Her Breath, and keeping clean her Feet;</L>
+<L>All which, with nipping out of Worms,</L>
+<L>She most judiciously performs.</L>
+<L>She's knowing in all sorts of Dresses,</L>
+<L>Tippets, Commodes, and Points, and Laces,</L>
+<L>And wearies out her poor Tire-woman</L>
+<L>With Language understood by no Man.</L>
+<L>For many times she doth affect</L>
+<L>A most peculiar Dialect,</L>
+<L>Which is good <HI>English</HI> slic't and mash't,</L>
+<L>With dry <HI>French</HI> Scraps together hash't,</L>
+<L>Before 'tis modify'd enough</L>
+<L>For fair <HI>Selena</HI>'s pretty Mouth;</L>
+<L>And then she lisps it out, and breaks</L>
+<L>It 'twixt her Teeth the while she speaks.</L>
+<L>After this manner of Preparing,</L>
+<L>The Substance of't is worth the Hearing.</L>
+<L>She'll talk of Lovers Services,</L>
+<L>How some with furious Address</L>
+<L>Attack her; others fawn and creep,</L>
+<L>Complain, and always whine and weep.</L>
+<L><PB N="36" REF="23">She'll tell sad Stories, how her cruel</L>
+<L>Beauties have caused many a Duel;</L>
+<L>What Huffing, Tilting, has been for her,</L>
+<L>By this and that emag'd Adorer;</L>
+<L>What witty Verses have been made</L>
+<L>Upon her, and what fine things said;</L>
+<L>How <HI>Beaux's</HI> in Songs have often own'd her</L>
+<L>Their Mistriss, and how some Lampoon'd her:</L>
+<L>Who, cause she is not to be caught</L>
+<L>By them, do call her all to naught:</L>
+<L>A Trick, which tho' so many have,</L>
+<L>'Tis ungenteel, and like a Knave.</L>
+</LG>
+<LG>
+<L>She knows each wanton Artifice,</L>
+<L>To wheadle, vex, delight, and teaze;</L>
+<L>With Subtilty and gentle Art</L>
+<L>To squeeze the Hand, and bruise the Heart;</L>
+<L>To throw Pretender off with Scorn,</L>
+<L>Then draw him on like Shooing-horn.</L>
+</LG>
+<LG>
+<L>When Fingers, Countenance, and Speech</L>
+<L>Act contradictory to each,</L>
+<L><PB N="37" REF="23">How can the cunning'st Lover know</L>
+<L>Which of them to give Credit to?</L>
+</LG>
+<LG>
+<L>Of all the Town-Accomplishments,</L>
+<L>There's none of any Worth she wants;</L>
+<L>She dances rarely well, and plays at</L>
+<L>The fashionable Game of <HI>Basset.</HI></L>
+<L>But wherein most she doth exceed,</L>
+<L>She sings extremely fine indeed:</L>
+<L>Nor is 't so difficult a thing</L>
+<L>In Company to make her sing;</L>
+<L>She seldom pleads the want of Use,</L>
+<L>A Cold, or Hiccough, for Excuse;</L>
+<L>That she has lately lost her Voice,</L>
+<L>And shall but fright you with the Noise:</L>
+<L>Delays which very oft the Pretty</L>
+<L>Will practise when they love Intreaty;</L>
+<L>'Cause that which hardest Labour cost</L>
+<L>In getting, 's always valu'd most.</L>
+<L>The gay <HI>Selena</HI>'s never wont to</L>
+<L>Strain for a Nicety or Punto;</L>
+<L><PB N="38" REF="24">But as her present Humour is,</L>
+<L>Acts pleasantly, or otherwise:</L>
+<L>For if she says, she will not do't,</L>
+<L>The Devil's self can't bring her to't.</L>
+<L>She's worth Five thousand Pounds for certain;</L>
+<L>But it may be too long t' entertain</L>
+<L>You with the Means how she came by't.</L>
+<L>I'll look upon my Watch (quoth Knight.)</L>
+<L>Odds Bobbs! crys he, 'tis after Four,</L>
+<L>I've slipt my Time above an Hour.</L>
+<L>I find she's of transcendent Worth,</L>
+<L>And you, in setting of it forth.</L>
+<L>Much thanks t' you for this great Diversion:</L>
+<L>Better Acquaintance with your Person</L>
+<L>I covet; and good Luck be wi' you;</L>
+<L>Pray be so kind to let me see you.</L>
+<L>Quoth <HI>Laurence,</HI> I shall soon find Leisure</L>
+<L>To give my self so great a Pleasure&punc;</L>
+<L>So they shook Hands, when at the Parting</L>
+<L><HI>Pendragon</HI> felt unusual Smarting</L>
+<L>About his Heart; beside, he itch'd</L>
+<L>All o'er, as if h' ad been bewitch'd.</L>
+<L><PB N="39" REF="24">Little (thought he) did I conjecture</L>
+<L>To be affected with his Lecture</L>
+<L>To such Degree; it fires my Blood:</L>
+<L>I'll get Acquainted with the Toad;</L>
+<L>And must (if possible) possess</L>
+<L>The pretty charming Sorceress.</L>
+</LG>
+<LG>
+<L>Love bears an universal Sway,</L>
+<L>Whom Swains and Emperors obey:</L>
+<L>The wise Philosopher, and Fool,</L>
+<L>Bows to his Epidemick Rule.</L>
+</LG>
+</DIV1>
+<DIV1 N="4" TYPE="canto">
+<PB N="40" REF="25">
+<HEAD>April's <HI>CANTO.</HI></HEAD>
+<ARGUMENT>
+<HEAD>ARGUMENT.</HEAD>
+<LG>
+<L>The Knight takes little Ease and Pleasure</L>
+<L>With Thoughts of Madam, till he sees her.</L>
+<L><HI>Cutbeard</HI> the Barber comes to shave him,</L>
+<L>Who some Account of <HI>Laurence</HI> gave him:</L>
+<L>And (<HI>Cutbeard</HI> having told him where)</L>
+<L>Knight finds the Lady out at Pray'r.</L>
+</LG>
+</ARGUMENT>
+<HEAD>CANTO.</HEAD>
+<LG>
+<L>NOthing compleatly proves a Boon</L>
+<L>Without Alloy, beneath the Moon:</L>
+<L>Either the Cook, or Meat, or Sawce,</L>
+<L>Yields somewhat to disrelish us.</L>
+<L>The Curate's Tale, which struck the Knight</L>
+<L>At first with&punc; Pleasure and Delight,</L>
+<L><PB N="41" REF="25">Afforded him Proportion equal</L>
+<L>Of Grief and Trouble in the Sequel:</L>
+<L>For Love, which enter'd like an Earwig,</L>
+<L>Teaz'd him on th' inside of his Perr'wig,</L>
+<L>And, like an Humble-Bee, it does</L>
+<L>Occasion mighty <HI>Hum</HI> and <HI>Buz.</HI></L>
+</LG>
+<LG>
+<L>He takes quick Turns about the Room;</L>
+<L>Then stopping short, t' himself cries, Hum!</L>
+<L>Am I a Man reputed Great</L>
+<L>For Learning, Loyalty, and Wit?</L>
+<L>Who Complements receive, and Pence,</L>
+<L>From People, Parsons, Peers, and Prince;</L>
+<L>Presents of Puddings, Pigs, and Pies,</L>
+<L>From kind Inhabitants o' th' Skies,</L>
+<L>Or more obliging mortal Dames,</L>
+<L>Who all conceal from me their Names:</L>
+<L>Variety of such Good Things</L>
+<L>Still one or other Porter brings,</L>
+<L>Tho' none of them will tell the Sign</L>
+<L>So much as of the Carrier's Inn.</L>
+<L><PB N="42" REF="26">I say, I, who have been carest</L>
+<L>So greatly, find my self distrest;</L>
+<L>Amidst a Multitude of Friends,</L>
+<L>I want to bring about my Ends;</L>
+<L>I want to know how, where, and when a</L>
+<L>Sight may be got of this <HI>Selena:</HI></L>
+<L>Then I shall want as much to chat,</L>
+<L>And hold Discourse with the Prit-prat,</L>
+<L>To get Acquaintance more familiar,</L>
+<L>That I might play with her, and bill her,</L>
+<L>And bite, and pinch, and pull, and towze.</L>
+<L>But then reflecting, he cry'd <HI>Buz.</HI></L>
+<L>The thinking on these wanton Tricks</L>
+<L>Puts me beside my Politicks,</L>
+<L>Makes Head to ake, and Heart to beat</L>
+<L>Confoundedly, like Drums i' th' Street.</L>
+<L>I can't divert my self alone</L>
+<L>I find, nor do as I have done.</L>
+<L>My Beard's grown long, which makes me fretful,</L>
+<L>Uneasie, peevish, and forgetful.</L>
+<L>Sirrah, (cry'd he to's Boy) go, fly,</L>
+<L>Fetch me the Barber presently.</L>
+<L><PB N="43" REF="26">A Body's fill'd with Discontents</L>
+<L>By nourishing ones Excrements.</L>
+<L>Our Grandsires sure were ne'er in very</L>
+<L>Good Humour, or extremely merry,</L>
+<L>Who wore such Beards, the hairy Fardle</L>
+<L>Were fit to tuck within their Girdle.</L>
+<L>Yet for the same we have no Reason</L>
+<L>To tax them of an Indiscretion,</L>
+<L>If Beards then bore a Price, and th' Hairs</L>
+<L>Thereof were Merchantable Wares.</L>
+</LG>
+<LG>
+<L><HI>Don Iohn de Castro</HI> sent and pawn'd</L>
+<L>A few of his, which rais'd a Fund</L>
+<L>Sufficient to re-build a Fortress;</L>
+<L>The Certainty of which Report is</L>
+<L>Confirm'd, for that his Grandson hid</L>
+<L>Them in a Crystal Pyramid,</L>
+<L>Set in a Silver Foot, or Basis,</L>
+<L>Engrav'd with Verse, which told the Praises</L>
+<L>Of the fam'd Action, and set forth</L>
+<L>No less that Noble Hero's Worth:</L>
+<L><PB N="44" REF="27">Which Relique his Posterity</L>
+<L>Preserves in Pious Memory.</L>
+</LG>
+<LG>
+<L>Such Thoughts to th' Knight gave Recreation,</L>
+<L>When enters <HI>Cutbeard</HI> with a Bason,</L>
+<L>Who made low Bow, and having drawn</L>
+<L>An Elbow-Chair, the Knight sate down.</L>
+<L>While Barber gets all Things prepar'd</L>
+<L>For Circumcision of his Beard,</L>
+<L>And fitted Linen Cap to's Head,</L>
+<L><HI>Pendragon</HI> hawk'd, and spat, and said,</L>
+<L>Dost know by Hear-say, or by Sight,</L>
+<L>A Clergy-man, one <HI>Laurence,</HI> (hight?)</L>
+<L>Yes, Sir, I knew him in this Town</L>
+<L>Some Years before he wore a Gown,</L>
+<L>When he appear'd a tearing Blade,</L>
+<L>And went most fashionably clad:</L>
+<L>I've sold him more than once or twice</L>
+<L>Long Wiggs of Eight or Ten Pounds price.</L>
+</LG>
+<LG>
+<L>How, <HI>Cutty!</HI> (quoth <HI>Pendragon</HI>) prithee</L>
+<L>Go on; it seems h' as Dealings with thee.</L>
+<L><PB N="45" REF="27">Ay, (quoth the Barber, and he sobbs)</L>
+<L>He's in my Book for several Bobbs,</L>
+<L>And tells me, I shall ne'er be paid</L>
+<L>Till he's preferr'd, marry'd, or dead.</L>
+</LG>
+<LG>
+<L>But, (quoth Sir Knight) let me request,</L>
+<L>What made him turn from Spark to Priest?</L>
+</LG>
+<LG>
+<L>That same which has no Law for what.</L>
+<L>It does, and makes the Old Wife trot;</L>
+<L>Necessity, and want of Bread,</L>
+<L>Or rather want of Wine indeed:</L>
+<L>For Custom is a Second Nature,</L>
+<L>And he was never us'd to Water.</L>
+<L>Oh! with your Wit (quoth Knight) and Razor</L>
+<L>Together, you have cut my Face, Sir,</L>
+<L>I know not which of them's the sharper.</L>
+<L>I'm sorry for it, (quoth the Barber.)</L>
+<L>Your Worship smil'd, and so it were done</L>
+<L>By a Touch; I beg your Worship's Pardon.</L>
+<L><PB N="46" REF="28">It scarcely bleeds, and can't be seen;</L>
+<L>I'll cure it streight with Benjamin.</L>
+<L>Well, (quoth Sir Knight) if it don't bleed,</L>
+<L><HI>Sans</HI> Ceremony pray proceed.</L>
+<L>Then <HI>Cutbeard:</HI> Sir, I know his Fortune</L>
+<L>Was large, before he made it shorten,</L>
+<L>Paid him in ready Cash, as soon</L>
+<L>As he attain'd to Twenty one,</L>
+<L>At least Three thousand Pounds of <HI>Sterling,</HI></L>
+<L>So much was he an Uncle's Darling,</L>
+<L>Who rais'd a plentiful Estate</L>
+<L>From Wrangling and eternal Prate,</L>
+<L>And whileom had in's Life-time been</L>
+<L>A Bencher sage of <HI>Lincolns-Inn;</HI></L>
+<L>Who kept a memorable Reading,</L>
+<L>For Nosegays, Pot-herbs, Law, and Feeding;</L>
+<L>Descended from the ancient famous</L>
+<L>Conveyancer, (hight) <HI>Ignoramus.</HI></L>
+<L>But to the Nephew, Mr. <HI>Laurence,</HI></L>
+<L>Altho' his Fortune was so fair once,</L>
+<L>He learn't at University</L>
+<L>To make no little part on't fly;</L>
+<L><PB N="47" REF="28">Where when his Wit and Humour ripe was,</L>
+<L>In's younger days, they made him <HI>Tripos;</HI></L>
+<L>Renown'd for Bottle, and for Jest,</L>
+<L>He was at ev'ry Treat a Guest.</L>
+<L>Then taking leave of <HI>Alma Mater,</HI></L>
+<L>He came (to learn the <HI>Cinque</HI> and <HI>Quatre</HI>)</L>
+<L>To Town, the <HI>Palm</HI> and <HI>Slurr</HI> to know,</L>
+<L><HI>Tatt</HI>'s, Doctor, <HI>Fulham</HI>'s High and Low:</L>
+<L>Tho' all this Knowledge but increast</L>
+<L>His Sorrow much the more at last.</L>
+<L>Yet while he was the 'foresaid Blade,</L>
+<L>No Man more Reputation had</L>
+<L>For Wit, in all the Town, than he,</L>
+<L>And the fine Turn in Poetry;</L>
+<L>Whose Talent being less laborious,</L>
+<L>Became the Envy of old <HI>Laurus;</HI></L>
+<L>Tho' many, with good Reasons, will</L>
+<L>Have it, they both pist in a Quill.</L>
+<L>But being a Man of various Fancies,</L>
+<L>And in at all Extravagances,</L>
+<L>In less than three Years Time, that I know,</L>
+<L>He made a Hand of ready <HI>Rhino,</HI></L>
+<L><PB N="48" REF="29">And brought himself to worse than Nothing.</L>
+<L>At length, grown shabby in his Cloathing,</L>
+<L>When all th' Attendants on his Folly</L>
+<L>Were Want, and Rags, and Melancholy,</L>
+<L>And all the Hopes he had were vain ones,</L>
+<L>How to get rid of these Companions,</L>
+<L>Unless it were by means of Halter,</L>
+<L>Or flying to the Horns of th' Altar;</L>
+<L>Which Course he steer'd to cure <HI>moerores,</HI></L>
+<L><HI>Et nunquam sera ad bonos mores.</HI></L>
+</LG>
+<LG>
+<L>You've satisfy'd me, (quoth the Knight)</L>
+<L>A Wit's a perfect <HI>Het'roclite.</HI></L>
+<L>None but sheer Wit could give Defeat</L>
+<L>With such Dispatch to an Estate.</L>
+<L>In thy Profession there was never</L>
+<L>So expeditious a Shaver,</L>
+<L>Who did's own Business quick and clear</L>
+<L>As thou hast mine, not left a Hair.</L>
+</LG>
+<LG>
+<L>But, mark me; hast thou ever seen a</L>
+<L>Fair Lady, who is call'd <HI>Selena?</HI></L>
+<L><PB N="49" REF="29">No, but I've heard Discourses somewhere</L>
+<L>Much of her Beauty and her Humour.</L>
+<L>Could not you get me Information</L>
+<L>Where 'tis she dwells, upon occasion?</L>
+<L>That I can eas'ly compass, Sir;</L>
+<L>It is not far from <HI>Westminster.</HI></L>
+</LG>
+<LG>
+<L>Then (quoth <HI>Pendragon</HI>) two days hence</L>
+<L>(Now the Spring-Season does advance,</L>
+<L>And the <HI>Sun</HI>'s got so far in <HI>Taurus,</HI></L>
+<L>Phlebotomy being needful for us)</L>
+<L>Here let me see your Face again;</L>
+<L>But come betimes, to spring a Vein.</L>
+<L>Mean while, you, like a trusty <HI>Trojan,</HI></L>
+<L>Cannot forget the Lady's Lodging.</L>
+</LG>
+<LG>
+<L><HI>Cutbeard</HI> did every thing fulfil</L>
+<L>In time, according to his Will.</L>
+</LG>
+<LG>
+<L>And now <HI>Pendragon</HI> having learn'd</L>
+<L>The Thing for which he was concern'd,</L>
+<L><PB N="50" REF="30">And got thereby a Wrinkle more</L>
+<L>About him than he had before;</L>
+<L>Knowing that this same Lady fair</L>
+<L>Went frequently to Morning-Pray'r,</L>
+<L>A Coach was call'd without delay,</L>
+<L>Which hurry'd him to Church away.</L>
+<L>His Boy being sent that very Hour</L>
+<L>To watch, and play about her Door,</L>
+<L>And mark her Motions, found her Chair</L>
+<L>And Men stood ready to convey her.</L>
+<L>Away they trotted to St. <HI>Martin</HI>'s,</L>
+<L>Where tho she has no Place ascertain'd,</L>
+<L>Yet can her Silver Key undo</L>
+<L>In all the Church the fairest Pew.</L>
+<L>Church Turn-keys make ungodly Wages,</L>
+<L>Like their Great Grand-sire <HI>Simon M<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">gus.</HI></L>
+<L>A Shame, that ev'ry under Clerk yet</L>
+<L>In Pray'r-time keeps his highest Market.</L>
+</LG>
+<LG>
+<L>Noting the Seat in which she fixt,</L>
+<L><HI>Pendragon</HI> gets into the next,</L>
+<L><PB N="51" REF="30">Where he had full View of her Favour:</L>
+<L>But overlooking her Behaviour,</L>
+<L>He spy'd occasion to arraign her</L>
+<L>As guilty of a Misdemeanour.</L>
+<L>For when the rest t' appearance were</L>
+<L>Standing, or on their Knees at Pray'r,</L>
+<L>Our Lady's Posture too does show,</L>
+<L>She does the same that others do;</L>
+<L>Devoutly turning up her Eyes,</L>
+<L>Who at a distance could surmise</L>
+<L>That her fair Hand held in the place</L>
+<L>Of Pocket Pray'r-book, Pocket-Glass?</L>
+<L>Or that she naughtily, instead</L>
+<L>Of Collects, Dress and Visage read?</L>
+<L>And sticking on her Cheek a Patch,</L>
+<L>Made the Responsal, <HI>We beseech, &amp;c.</HI></L>
+<L>And after Benediction,</L>
+<L>She shook her Head, and sigh'd, <HI>Amen.</HI></L>
+<L>Moving her Limbs, to stand upright,</L>
+<L>With Amber Scent she struck the Knight:</L>
+<L>And turning round, her Skin or Clothes</L>
+<L>Gave him a Whiff of <HI>Tuberose.</HI></L>
+<L><PB N="52" REF="31">At her Go-off, she cast a Smile;</L>
+<L>He quite confounded all the while,</L>
+<L>Did like a Marble Statue stand,</L>
+<L>Or like one Planet-struck remain'd,</L>
+<L>Till every Body else was gone,</L>
+<L>Except the Clerk and he alone:</L>
+<L>Who coming to himself, did find</L>
+<L>The Danger of being left behind,</L>
+<L>Which he, by going out, declin'd.</L>
+<L>Tho's Heart was wounded, yet his Head</L>
+<L>Variety of Fancies fed.</L>
+<L>Reflecting that her Thoughss were roving,</L>
+<L>He deem'd her the more fit for Loving:</L>
+<L>And from the Mixture of the Sinner,</L>
+<L>Conceiv'd the greater Hopes to win her.</L>
+<L>For tho' in Faith he was not weak,</L>
+<L>Yet but for Hope his Heart must break.</L>
+<L>If the fam'd Knight o' th' <HI>Mancha</HI> knew well</L>
+<L>To feed his Flames with Fancy's Fuel,</L>
+<L>And burn outrageously for one</L>
+<L>Whose Visage was to him unknown,</L>
+<L><PB N="53" REF="31">What fiercer Flames, and greater Raging,</L>
+<L>Must our Knight feel? (you may imagine)</L>
+<L>Who took the Philters charming Dose</L>
+<L>In at his Ears, and Eyes, and Nose?</L>
+<L>Which strongly seizing on his Heart,</L>
+<L>Diffus'd it self thro' ev'ry Part,</L>
+<L>That in this manner, as he walk'd,</L>
+<L>Disturb'dly to himself he talk'd.</L>
+</LG>
+<LG>
+<L>On me the Pow'rs above have laid</L>
+<L>Enough to make another mad.</L>
+<L>If I'm the <HI>Atlas</HI> and the Prop</L>
+<L>O' th' Government, why let it drop.</L>
+<L>Let <HI>Whiggs</HI> and <HI>Trimmers</HI> take their ease,</L>
+<L>And set at Liberty their Bees,</L>
+<L>Go water their <HI>Ranunculus's,</HI></L>
+<L>And other Plants, in Pots and Cases:</L>
+<L>Let them pursue their Sports, make Play-day</L>
+<L>Until a good while after <HI>May day,</HI></L>
+<L>While I go in pursuit of Lady.</L>
+<L>Each Man has Bus'ness of his own,</L>
+<L>To be dispatch'd, or left undone.</L>
+</LG>
+</DIV1>
+<DIV1 N="5" TYPE="canto">
+<PB N="54" REF="32">
+<HEAD>May's <HI>CANTO.</HI></HEAD>
+<ARGUMENT>
+<HEAD>ARGUMENT.</HEAD>
+<LG>
+<L><HI>Selena</HI> as she lies in Bed</L>
+<L>Holds Conversation with her Maid:</L>
+<L>A Visit puts her out of Order.</L>
+<L>Taking the Air, who then should board her,</L>
+<L>But Sir <HI>Pendragon,</HI> by the Way?</L>
+<L>All in the merry Month of <HI>May.</HI></L>
+</LG>
+</ARGUMENT>
+<HEAD>CANTO.</HEAD>
+<LG>
+<L>TIs sit the Business of the State</L>
+<L>On that of mightier Love's should wait;</L>
+<L>While we are treating of Amours,</L>
+<L>On Politicks to shut the Doors,</L>
+<L>And not to suffer them to enter</L>
+<L>At Times when they impertinent are.</L>
+</LG>
+<LG>
+<PB N="55" REF="32">
+<L>The glorious Lamp of Heaven, the <HI>Sun,</HI></L>
+<L>Bright in at Chamber&punc; window shone,</L>
+<L>E'er Madam does one Ray disclose,</L>
+<L>But fast lock'd up in deep Repose</L>
+<L>Senses and Beauties all lay hid,</L>
+<L>In Blankets, Sheets, and Coverlid.</L>
+</LG>
+<LG>
+<L>Mean while her Handmaid, who lay nigh,</L>
+<L>In a small dark Apartment by,</L>
+<L>From out her Bed in silence slips,</L>
+<L>With Petty-coats about her Hips;</L>
+<L>Softly she came, and draws the Curtain,</L>
+<L>Finding her Mistriss fast and snorting,</L>
+<L>In a low Voice she Madam cries,</L>
+<L>Good Madam, when d' you mean to rise?</L>
+<L><HI>Selena</HI> then stirr'd, and began</L>
+<L>To stretch her self, and sigh, and yawn,</L>
+<L>To scratch her Bosom, Arms, and Neck,</L>
+<L>And opening of her Eyes, she spake;</L>
+<L>Curse on you for a silly Whore;</L>
+<L>Speak, What a Devil d' wake me for?</L>
+<L><PB N="56" REF="33">Troth, Madam, then quoth <HI>Thomasine,</HI></L>
+<L>I'll take my Oath, 'tis after Nine;</L>
+<L>But if you find your Eye-lids heavy,</L>
+<L>I'll go away again, and leave you.</L>
+</LG>
+<LG>
+<L>No, Housewife, you can do no worse;</L>
+<L>Judge if you don't deserve a Curse.</L>
+<L>Ah Wench! but just before you wak'd me,</L>
+<L>Methoughts a War-like Man attack'd me;</L>
+<L>Fierce, like the fam'd St. <HI>George,</HI> when I</L>
+<L>Did, like the Dragon at him fly,</L>
+<L>Tearing and biting with my Teeth,</L>
+<L>And grappling till I wanted Breath.</L>
+<L>Quite tir'd, I by main Strength was thrown</L>
+<L>Flat underneath the Champion:</L>
+<L>And who knows what had been my Doom,</L>
+<L>Had not you come into the Room?</L>
+</LG>
+<LG>
+<L>'Twas in good time (quoth <HI>Thom'sine</HI>) then,</L>
+<L>Or my poor Lady had been slain.</L>
+<L>In stead of raising of your Anger,</L>
+<L>Thank me, that you are out of danger.</L>
+<L><PB N="57" REF="33">But may I speak my Mind t' you freely?</L>
+<L>This Dreaming, Madam, 's very silly,</L>
+<L>And only serves to make you talk,</L>
+<L>Like one who feeds on Dirt and Chalk.</L>
+<L>Was Beauty giv'n you, and warm Blood,</L>
+<L>Nor for your own nor others good?</L>
+<L>In such a Frolick Age as this,</L>
+<L>Who durst report, you do amiss?</L>
+<L>As if the sooty Pottage-pot</L>
+<L>Would mock the Kettle for its Smut.</L>
+<L>Not, Madam, but one would abhor</L>
+<L>The broad and common Name of Whore,</L>
+<L>That's seldom giv'n, but to the Poor.</L>
+<L>'Tis thousand Pities you should cumber</L>
+<L>Your self with your Virgin'ty's Lumber,</L>
+<L>And carry ev'ry Night to Bed</L>
+<L>An aking, irksom Maidenhead,</L>
+<L>Which plagues its Keeper, but when gone</L>
+<L>Nor troubles her, nor any one.</L>
+<L>Are not you pleas'd with this Advice?</L>
+</LG>
+<LG>
+<L>Softly, the Lady then replies,</L>
+<L><PB N="58" REF="34">By this Instruction one may guess well</L>
+<L>The Frailty of thy Earthen Vessel;</L>
+<L>And thy Advice most plainly speaks,</L>
+<L>Thy Pitcher's crackt, and therefore leaks:</L>
+<L>But, <HI>Thomasine,</HI> she foully does ill,</L>
+<L>Who measures mine by her own Bushel.</L>
+<L>Thou mak'st Reflections on thy Mistriss,</L>
+<L>As if she was reduc'd to Distress.</L>
+<L>Has any one more Liberty</L>
+<L>Or Freedom in her Choice than I?</L>
+<L>Whether my Fortune 'tis, or Favour,</L>
+<L>Or something else which has the Savour</L>
+<L>To draw so many Supplicants</L>
+<L>Upon me, to relieve their Wants,</L>
+<L>And daily bring me in Addresses,</L>
+<L>Both from the smooth and wither'd Faces,</L>
+<L>'Tis not so easie to discover</L>
+<L>The Cause that animates the Lover.</L>
+<L>However, know, that 'tis decreed</L>
+<L>By Fate, (with all convenient speed)</L>
+<L>Nought shall resist my Vows to wed.</L>
+<L><PB N="59" REF="34">I'll see them all; to whom I find</L>
+<L>My self most furiously inclin'd,</L>
+<L>Him from among the Heard I'll chuse, and</L>
+<L>Ev'n take him for my Wedded Husband:</L>
+<L>Rather the Hazard run of Marriage,</L>
+<L>Than of a Clap, or a Miscarriage.</L>
+<L>If Matrimony, in conclusion,</L>
+<L>Agrees not with my Constitution,</L>
+<L>Then I'll turn Tail against its Force,</L>
+<L>And take a clear contrary Course.</L>
+</LG>
+<LG>
+<L>This Resolution's very sudden</L>
+<L>(Quoth <HI>Thom'sine</HI>) and perhaps a good one:</L>
+<L>For Wedlock is (tho so sought after)</L>
+<L>The greatest Lottery in Nature.</L>
+</LG>
+<LG>
+<L>Let Fools depend (Madam replies)</L>
+<L>Upon their Luck in Lotteries:</L>
+<L>If any thing occurs of ill,</L>
+<L>By my Prerogative, my Will,</L>
+<L>I'll either overcome it quite,</L>
+<L>Or move my self out of its sight.</L>
+<L><PB N="60" REF="35">Since almost every Faculty</L>
+<L>But Will, to Woman they deny,</L>
+<L>Can they expect she'll That surrender</L>
+<L>To their imperious Masc'line Gender?</L>
+<L>Or less than unto Death maintain</L>
+<L>It, tho' fantastical and vain.</L>
+</LG>
+<LG>
+<L>Quoth <HI>Thomasine,</HI> these strange Perswasions</L>
+<L>Will plague you upon all Occasions;</L>
+<L>Let them seem ne'er so Great and Noble,</L>
+<L>You'll find them bring prodigious Trouble.</L>
+<L>For while without Controll, Dispute,</L>
+<L>Or Whartle, you rule Absolute,</L>
+<L>What precious Qual'ties would you have</L>
+<L>Endow your conjugated Slave?</L>
+</LG>
+<LG>
+<L>I'd have him (quoth <HI>Selena</HI>) be</L>
+<L>In his own Government as free;</L>
+<L>Our Wills act in a diff'rent Sphere,</L>
+<L>And one to th' others ne'er come near.</L>
+<L>Then, to be sure, he must be rich:</L>
+<L>Poverty's worse than Pox or Itch,</L>
+<L><PB N="61" REF="35">Palsie, Deformity, or Frenzy,</L>
+<L>Folly, or Insufficiency.</L>
+<L>Of ancient Family descended,</L>
+<L>Or by his Money so befriended,</L>
+<L>To buy himself Titles of Worth,</L>
+<L>To hide th' Obscurity of Birth.</L>
+</LG>
+<LG>
+<L>Sir <HI>Grog'ram</HI>'s such a piece of Stuff;</L>
+<L>He's rich, and passable enough;</L>
+<L>And there's least Cause to be afraid</L>
+<L>Of marrying one who drives a Trade;</L>
+<L>When there's no danger of his Failure,</L>
+<L>I shall not stand in awe of's Valour.</L>
+</LG>
+<LG>
+<L>Young <HI>Parrot</HI> has a fair Estate;</L>
+<L>But 'tis a Fop so full of Prate,</L>
+<L>So disagreeable a Person,</L>
+<L>He very much is my Aversion.</L>
+</LG>
+<LG>
+<L>There's no Man pays me such Devoirs</L>
+<L>As Serjeant <HI>Wigeon,</HI> 'mongst the Lawyers;</L>
+<L><PB N="62" REF="36">But wo be to his wedded Wife,</L>
+<L>Now he has laid aside his Coif,</L>
+<L>And spends whole Nights in Broils and Roaring,</L>
+<L>In Taverns, and in double Whoring.</L>
+</LG>
+<LG>
+<L>Since Age (if not too much decay'd)</L>
+<L>You can dispense with, (quoth the Maid)</L>
+<L>Pray, Madam, how d' you like Squire <HI>Hugh?</HI></L>
+</LG>
+<LG>
+<L>Fough! Nasty Fellow, I shall spue,</L>
+<L>(Quoth she.) Nay, (answer'd <HI>Thomasine</HI>)</L>
+<L>You wrong him; for he's very clean,</L>
+<L>And neither Money wants, nor Wit.</L>
+</LG>
+<LG>
+<L>No matter, do not make me spit,</L>
+<L>(Said she.) And going on with more,</L>
+<L>They hear a Rapping at the Door.</L>
+<L>Up <HI>Thomasine</HI> starts, holds fast the Latch,</L>
+<L>And crys, Who are you there? A Wretch,</L>
+<L>(Quoth Voice without) an humble Slave,</L>
+<L>The very'st. Vassal that you have.</L>
+<L><PB N="63" REF="36">(Which Voice betray'd, it being a hoarse one,</L>
+<L>The Devil they did last discourse on.</L>
+</LG>
+<LG>
+<L>Hah! <HI>Hugo!</HI> (then the Lady said)</L>
+<L>Enter not here; I'm in my Bed:</L>
+<L>Without another VVord be gone,</L>
+<L>And leap from Top to Bottom down.</L>
+<L>This is no time a Day to visit,</L>
+<L>Unless y' had Bus'ness to sollicit.</L>
+</LG>
+<LG>
+<L>And so I have (quoth he:) My Heart</L>
+<L>Is wholly yours. (Quoth she) A Fart;</L>
+<L>And swell'd, as if she'd burst with Choler,</L>
+<L>For want of utt'rance of her Dolour.</L>
+</LG>
+<LG>
+<L>While <HI>Hugh</HI> without doors says he'll thank her</L>
+<L>If she'll assuage her cruel Rancour;</L>
+<L>And promis'd, he would straightways leave her,</L>
+<L>Provided she will grant the Favour</L>
+<L>To condescend to bless his Eyes</L>
+<L>VVith a View of her as she lies:</L>
+<L><PB N="64" REF="37">Engaging not t' advance one Step.</L>
+<L><HI>Selena</HI> agrees to let him peep:</L>
+<L>But tipt the VVink, and made a Sign</L>
+<L>VVell understood by <HI>Thomasine;</HI></L>
+<L>VVho plaid her part, and pinch'd full sore</L>
+<L>His Noddle 'twixt the Post and Door;</L>
+<L>But let him draw it back, for fear</L>
+<L>Of damaging the surdous Ear.</L>
+<L>Now while the Maid secures the Lock,</L>
+<L>The Lady leaps out in her Smock</L>
+<L>VVith all speed possible, puts on</L>
+<L>Her Shooes, and her loose-body'd Gown,</L>
+<L>Advancing, threw the Door wide open,</L>
+<L>And bid her Maid she should not stop him.</L>
+<L>Enrag'd, she vents her fell Displeasure,</L>
+<L>Thus rounding him beyond all Measure.</L>
+</LG>
+<LG>
+<L>Can you conceive that I'll dispense</L>
+<L>VVith this unequal'd Impudence,</L>
+<L>To me, of making your Pretence?</L>
+<L><PB N="65" REF="37">As well the Cobler might address</L>
+<L>Himself with Passion to Queen <HI>Bess,</HI></L>
+<L>And hope from her as good Success.</L>
+<L>Thy Phiz, more tough than Parents Leather,</L>
+<L>Is able to out-wear the Weather,</L>
+<L>Out-face the bright Meridian <HI>Sun,</HI></L>
+<L>When lowing Herds to Coverts run:</L>
+<L>'Tis such, no Scandal, Guilt, nor Shame,</L>
+<L>Can pump up Blush into the same.</L>
+</LG>
+<LG>
+<L>Hold, and contain your self, (quoth he)</L>
+<L>You're out of Breath with Raillery:</L>
+<L>Come, pretty Lady, you must lack it;</L>
+<L><HI>A Virgin may say Nay and take it.</HI></L>
+</LG>
+<LG>
+<L>(Quoth she) Be gone, thou filthy Monster</L>
+<L>Fly from my sight; for if I once stir</L>
+<L>My Foot, and on the Board stamp thrice,</L>
+<L>Footmen with Cudgels shall arise,</L>
+<L>To give the swinging Bastinado,</L>
+<L>For which if thou art pleas'd to stay, do.</L>
+</LG>
+<LG>
+<PB N="66" REF="38">
+<L>(Quoth he) Since you're so humoursom,</L>
+<L>Farewell; I say no more but, <HI>Mum.</HI></L>
+<L>I know you'll look, for all you're vext,</L>
+<L>More kindly when I see you next.</L>
+<L>And Mistriss <HI>Thomasine,</HI> with a P&mdash;x,</L>
+<L>I sha'n't forget your Christmas-Box.</L>
+<L>And thus compell'd the Field to quit,</L>
+<L>He made inglorious Retreat.</L>
+</LG>
+<LG>
+<L>So <HI>Tory,</HI> when he would prevail</L>
+<L>For kind Caresses, waggs his Tail;</L>
+<L>But when his Master chides, he flags,</L>
+<L>And sneaking claps it 'twixt his Legs.</L>
+</LG>
+<LG>
+<L><HI>Selena</HI> too as much put out is</L>
+<L>Of humour; first i' th' Hoititoities</L>
+<L>She rants, and swears, and stares, and flings</L>
+<L>About her Clothes, and tears her Things;</L>
+<L>Breaks <HI>China,</HI> clatters Looking-glasses,</L>
+<L>And calls him Twenty thousand Asses.</L>
+<L><PB N="67" REF="38"><HI>Thom'sine,</HI> to put her by this Chafing,</L>
+<L>Set Thumbs to Sides, and fell a laughing.</L>
+<L>At that, the Lady on a sudden</L>
+<L>Chang'd her bad Humour for a good one;</L>
+<L>Bursts out into a Fit of Laughter,</L>
+<L>And eas'd her self by making Water.</L>
+<L>Gets on her Clothes with little pains,</L>
+<L>Drest <HI>a-la-mode en negligence,</HI></L>
+<L>With a lac'd Scarf and Vizor-Masque on,</L>
+<L>She gathers up her Galligascoins,</L>
+<L>And in St. <HI>Iames</HI>'s Park she walks,</L>
+<L>Where, by the Ponds of Ducks and Drakes,</L>
+<L>By lucky Chance, and help of Scout,</L>
+<L>Bold Sir <HI>Pendragon</HI> finds her out;</L>
+<L>Who bearing up unto her close,</L>
+<L>Strikes Sail, and then attack's her thus:</L>
+</LG>
+<LG>
+<L>Sweet Lady, whose Perfumes environ</L>
+<L>Your Slaves, and draw like Grapling-iron,</L>
+<L>When you have boarded us <HI>per</HI> Force,</L>
+<L>Pray how d' you use your Prisoners?</L>
+</LG>
+<LG>
+<PB N="68" REF="39">
+<L>Those who have Worth (quoth she) I rifle,</L>
+<L>Others I value not a trifle.</L>
+</LG>
+<LG>
+<L>Being yours (quoth he then) by Reprisal,</L>
+<L>Tell me my Doom. (Quoth she) Go whistle</L>
+<L>For I believe you have no Treasure</L>
+<L>Of value, nor in Weight, nor Measure.</L>
+</LG>
+<LG>
+<L>And so, perhaps, you'll lose (quoth he)</L>
+<L>A Prize, thro' Infidelity.</L>
+</LG>
+<LG>
+<L>I may (said she) do so, perhaps;</L>
+<L>But Taste is flat in wither'd Grapes:</L>
+<L>And no Knight ever won my Grace</L>
+<L>Of th' Order of th' <HI>Ill-favour'd Face.</HI></L>
+</LG>
+<LG>
+<L>Well, (quoth Sir Knight) this your Reflexion,</L>
+<L>I grant, would be enough to vex one</L>
+<L>Who has no other able Talents,</L>
+<L>That may with handsom Features balance.</L>
+<L><PB N="69" REF="39">But Worth in Secret often lies.</L>
+</LG>
+<LG>
+<L>You'd fain insinuate (she replies)</L>
+<L>That you're possest of Treasure hidden,</L>
+<L>Which is too good to be forbidden,</L>
+<L>And bear about you conceal'd Merit,</L>
+<L>Relating to your Flesh, or Spirit.</L>
+<L>The first I must suppose but weak;</L>
+<L>The latter for its self can speak:</L>
+<L>For Nothing's less a Secret, than</L>
+<L>The vast Productions of your Brain;</L>
+<L>Which, like a common Prostitute,</L>
+<L>Yields daily most unwholesom Fruit:</L>
+<L>Of which throughout the Kingdom surfeits;</L>
+<L>And it encreases, not cures her Fits;</L>
+<L>Altho' the Press no Prints produces</L>
+<L>For more Variety of Uses.</L>
+<L>To Pies and Tarts your Papers cling,</L>
+<L>And make Band-boxes Covering;</L>
+<L>Beside the many thousand Pages</L>
+<L>Back-side receives, and Privy lodges.</L>
+<L><PB N="70" REF="40">Since then sufficiently you're known,</L>
+<L>I need not bid you to be gone,</L>
+<L>And haste home to your Pen and Ink-horn.</L>
+<L>He star'd like Devil over <HI>Lincoln,</HI></L>
+<L>His Speech being stopp'd thro' Wrath &amp; Wonder.</L>
+<L>They parted several Ways asunder.</L>
+<L>Thus Days, and Hours, and Minutes fly,</L>
+<L>While the <HI>Sun</HI> goes thro' <HI>Gemini,</HI></L>
+<L>To all alike not pleasantly.</L>
+<L><HI>Great Wits,</HI> as well as <HI>Heroe's</HI> Great,</L>
+<L><HI>Are never always Fortunate.</HI></L>
+</LG>
+</DIV1>
+<DIV1 N="6" TYPE="canto">
+<PB N="71" REF="40">
+<HEAD>June's <HI>CANTO.</HI></HEAD>
+<ARGUMENT>
+<HEAD>ARGUMENT.</HEAD>
+<LG>
+<L><HI>Selena's</HI> well, never look'd finer,</L>
+<L>Laugh'd more, nor eat a heartier Dinner.</L>
+<L>Sir <HI>Grog'ram</HI> wooes with costly Present:</L>
+<L>With other Matters not unpleasant;</L>
+<L>Which as you find them represented,</L>
+<L>Are very eas'ly apprehended.</L>
+</LG>
+</ARGUMENT>
+<HEAD>CANTO.</HEAD>
+<LG>
+<L>AT the <HI>Sun</HI>'s entring into th' <HI>Crab,</HI> he</L>
+<L>Makes the long Day of bright <HI>Barnaby:</HI></L>
+<L>When our fam'd Lady, no less bright,</L>
+<L>Triumphs o'er both the Squire and Knight.</L>
+<L>The first repuls'd with Box o' th' Ear,</L>
+<L>The latter struck with Shame and Fear</L>
+<L><PB N="72" REF="41">Of losing what he never had,</L>
+<L>His Heart was sunk and very sad,</L>
+<L>Which drove him almost to Despair,</L>
+<L>(I say, Not quite, but very near)</L>
+<L>Of ever getting Ladies Favour,</L>
+<L>At least so as to Hold and Have her.</L>
+<L>Whom for a time we leave to forage</L>
+<L>On his own preternat'ral Courage,</L>
+<L>And keep th' Head-Quarters of Affliction</L>
+<L>In Philosophy's Jurisdiction;</L>
+</LG>
+<LG>
+<L>While we shall, without Breach of Charity,</L>
+<L>Attend the Lady in Prosperity:</L>
+<L>Who th' other Day, tho' down in Crest,</L>
+<L>Behold her now compleatly drest;</L>
+<L>Her sullen Dumps, and lowring Powts,</L>
+<L>Transform'd to Waggery and Flouts.</L>
+<L>All Spirit, Life, and Air possess her,</L>
+<L>In stead of Chagrin and Displeasure:</L>
+<L>And tho' in Habit lately careless,</L>
+<L>Now her Attire was rich and peerless.</L>
+</LG>
+<LG>
+<PB N="73" REF="41">
+<L>And strange Conjectures may be made,</L>
+<L>According as a Woman's clad;</L>
+<L>The Body being much inclin'd</L>
+<L>To wear the Liv'ry of the Mind:</L>
+<L>And as the first is mobb'd or drest,</L>
+<L>The others Humour may be guest.</L>
+</LG>
+<LG>
+<L>Those Looking-glasses, which she threw</L>
+<L>About before are plac'd in view,</L>
+<L>And the Resemblance proudly bear</L>
+<L>Of gay <HI>Selena,</HI> lovely Fair.</L>
+<L>Charm'd with her Features in the Mirrour,</L>
+<L>She owns her self a Conqueror,</L>
+<L>Laughs at the Names of fam'd <HI>Statira,</HI></L>
+<L>Of <HI>Parisatis, Albemira;</HI></L>
+<L>The proper Lustre of her Eyes</L>
+<L>Strike such Reflexions, which despise</L>
+<L>The Poet's Fopperies and Stories</L>
+<L>Of <HI>Phillis, Amoret,</HI> and <HI>Chloris:</HI></L>
+<L>Because she thinks her self possest</L>
+<L>Of Charms as powerful as the best.</L>
+<L><PB N="74" REF="42">Which pleasing Images are brought</L>
+<L>By needful Train of flatt'ring Thought,</L>
+<L>First kindled at the sight of Skin,</L>
+<L>To blow up Self-conceit within:</L>
+<L>Which can be reckon'd no Crime at all,</L>
+<L>If it be of <HI>Necessity Fatal.</HI></L>
+</LG>
+<LG>
+<L>Many Conveniencies beside</L>
+<L>To Woman-kind accrue from Pride.</L>
+<L>'Tis that keeps Ladies under Switch,</L>
+<L>It dares not scratch where it does itch,</L>
+<L>Preserves the stagg'ring Reputation</L>
+<L>Of many a Lady in the Nation,</L>
+<L>And that no more of them fall down</L>
+<L>To th' Lacquey, Groom, or Countrey Clown;</L>
+<L>That makes them splendidly accouter'd,</L>
+<L>And always sets the best Side outward,</L>
+<L>Appearing to the Stranger's Eye</L>
+<L>Of good sufficient Quality,</L>
+<L>When Wits Contrivance is put to 't</L>
+<L>To compass Morsel for the Gut:</L>
+<L><PB N="75" REF="42">That hides Infirmities, Defects,</L>
+<L>And common Blemishes of Sex.</L>
+<L>That makes them, on occasion, swear</L>
+<L>Themselves much younger than they are;</L>
+<L>And when the Fortieth Year is gone,</L>
+<L>But Eight or Nine and twenty own.</L>
+<L>And that the same Assistance lends</L>
+<L>To Mankind, for the self-same Ends.</L>
+</LG>
+<LG>
+<L>Now tho' <HI>Selena</HI> all this while</L>
+<L>Was pleas'd to have her Thoughts recoil,</L>
+<L>Yet so many strong Excellencies</L>
+<L>Tir'd almost her Intelligences:</L>
+<L>Variety new Pleasure brings;</L>
+<L>She trips about the Room, and sings</L>
+<L>To her soft Pendent-bearing Ears,</L>
+<L><HI>Hence, hence ye vain fantastick Fears</HI></L>
+<L><HI>Of Ills to come</HI>&mdash;And so to th' end on't,</L>
+<L>In Airs melodiously transcendent.</L>
+<L>When <HI>Thom'sine</HI> came in to acquaint her,</L>
+<L>The Dinner on the Board did want her.</L>
+</LG>
+<LG>
+<PB N="76" REF="43">
+<L>Of which to make exact Relation,</L>
+<L>Would be below the Reputation</L>
+<L>Of any of the High-born Muses,</L>
+<L>Such Common Work about the House is,</L>
+<L>Too sordid for the Child of <HI>Iove,</HI></L>
+<L>Got on <HI>Mnemosyne</HI> his Love.</L>
+<L>Ours therefore does forbear to treat</L>
+<L>Of the choice Bits the Lady eat;</L>
+<L>Or to demean her self to wait</L>
+<L>Behind a Chair to change a Plate;</L>
+<L>Or talk o'er all the Tittle-tattle</L>
+<L>Of Womens Table-talk and Prattle:</L>
+<L>For ev'n <HI>Selena</HI> the Accomplish'd</L>
+<L>Sometimes talks idlely, and is nonplus'd.</L>
+<L>Let it suffice for us to tell,</L>
+<L>After sh' had din'd extremely well,</L>
+<L>Victual, and Cloth, and all being gone,</L>
+<L>Grace, after new Mode, they had none;</L>
+<L>That still her Humour she maintains</L>
+<L>In Frolicks and Extravagance.</L>
+<L><PB N="77" REF="43">She pinches her Companions Cheeks,</L>
+<L>And plays them twenty wanton Tricks;</L>
+<L>She gets across a Chair to ride,</L>
+<L>With her divided Legs astride;</L>
+<L>She challenges them All to leap,</L>
+<L>And straddle widest at a Step;</L>
+<L>From that, to molding Cockle&punc;bread:</L>
+<L>When in Sir <HI>Grog'ram</HI> puts his Head.</L>
+<L><HI>Selen</HI>' who first cast Eyes on him,</L>
+<L>Set her self right, by saying <HI>Prim.</HI></L>
+<L>The rest surpriz'd, ran helter-skelter,</L>
+<L>As Shame does always seek for Shelter.</L>
+<L>He, seeing Coast on all Sides clear,</L>
+<L>Thus spake, advancing up to her.</L>
+</LG>
+<LG>
+<L>Madam, I fear my bold Intrusion</L>
+<L>Has put the Ladys in confusion:</L>
+<L>But you may pardon the Surprise,</L>
+<L>Knowing the Vigour of your Eyes,</L>
+<L>And the Grand Embassage I carry</L>
+<L>From Love, Plenipotentiary.</L>
+<L><PB N="78" REF="44">Sent hither solely on his Errand,</L>
+<L>Permit my Lips to kiss your bare Hand;</L>
+<L>And know, this silent eager Breath</L>
+<L>Plights Love and everlasting Faith,</L>
+<L>Passes my Worth, and all I am,</L>
+<L>Over to you, without a Sham.</L>
+</LG>
+<LG>
+<L>Quoth she, Sir <HI>Grog'ram,</HI> you're mistaken;</L>
+<L>I'm not the Person as you reckon.</L>
+<L>But setting Raillery apart,</L>
+<L>Suppose I should accept your Heart,</L>
+<L>With its Appurtenances, then</L>
+<L>You'd gladly eat your Words agen;</L>
+<L>Or if we were about t' Indent,</L>
+<L>And Article for Settlement,</L>
+<L>The Terms on which I should insist,</L>
+<L>Would fright you like a <HI>Will i' Wisp;</HI></L>
+<L>And at the Matrimonial Noose</L>
+<L>You'd be as daunted, I suppose.</L>
+</LG>
+<LG>
+<L>To which he answer'd, I imagine</L>
+<L>The Worst you'd have me to engage in:</L>
+<L><PB N="79" REF="44">Hap what hap may, Fall Back fall Edge,</L>
+<L>Madam, I say, I do engage;</L>
+<L>Be your Conditions what they will,</L>
+<L>I'll to a Tittle them fulfil,</L>
+<L>If you with Matrimony close:</L>
+<L>Now, Lady, pray where's your Suppose?</L>
+</LG>
+<LG>
+<L>She not expecting him so ready</L>
+<L>In his Compliance, cry'd, God speed ye,</L>
+<L>Sir <HI>Grog'ram;</HI> for I shall require</L>
+<L>Wainscot of Cedar, Cedar Fire,</L>
+<L>Gold never to desert my Pockets,</L>
+<L>Nor Pearl my Neck, nor Arms rich Lockets:</L>
+<L>For other Parts, if ill supply'd,</L>
+<L>I shall, as Need requires, provide:</L>
+<L>And, to that End, I shall demand</L>
+<L>A Coach and Six always at hand,</L>
+<L>With Foot-men, Liveries, and Pages,</L>
+<L>Kept, as the Mode is, at Board-wages.</L>
+<L>Nor would I have you take 't in dudgeon,</L>
+<L>I tell you of a Blot in Scutcheon.</L>
+<L><PB N="80" REF="45">Your Aunt, the Daughter of your Grannum,</L>
+<L>To whom y' allow Two Pound <HI>per Annum,</HI></L>
+<L>Let her complain no more, nor mention</L>
+<L>The backward Payment of your Pension.</L>
+</LG>
+<LG>
+<L>Sir <HI>Grog'ram,</HI> tho' the thing was true,</L>
+<L>Was more concern'd because she knew</L>
+<L>His mean Original and Kindred,</L>
+<L>Lest by 't his Marriage should be hindred;</L>
+<L>And fearing such another Bob,</L>
+<L>He steals his Fingers into Fob,</L>
+<L>And then reply'd, Madam, I'm sorry</L>
+<L>You're troubl'd at an idle Story:</L>
+<L>Alas! What has a viler Name</L>
+<L>For Lying, than <HI>Report</HI> and <HI>Fame?</HI></L>
+<L>And he who credits all he hears,</L>
+<L>Prostrates his Faith, and fools his Ears.</L>
+<L>Pray let us talk no more about</L>
+<L>A thing so frivolous. Then out</L>
+<L>Drawing his clumsie Fingers forth,</L>
+<L>Madam, (says he) tho' 'tis not worth</L>
+<L><PB N="81" REF="45">Th' acceptance of so fair a Lady,</L>
+<L>Yet 'tis presented to perswade you</L>
+<L>That He who gives it does bestow</L>
+<L>His Heart intirely with it too.</L>
+</LG>
+<LG>
+<L><HI>Selena</HI> thought not sit to dally</L>
+<L>With any thing of such a value;</L>
+<L>And having well the Necklace ey'd,</L>
+<L>Truly, Sir <HI>Grog'ram,</HI> she reply'd,</L>
+<L>I thank you for your Heart; but since</L>
+<L>When you depart you take that hence,</L>
+<L>This may content me for a Pawn,</L>
+<L>Or a Remembrance when you're gone.</L>
+</LG>
+<LG>
+<L>The secret Joy that he conceiv'd</L>
+<L>Hereat, was scarce to be believ'd;</L>
+<L>Concludes himself cock-sure to have her,</L>
+<L>Since she accepted what he gave her.</L>
+<L>Delighted with these happy Thoughts,</L>
+<L>Taking his Leave, away he trots.</L>
+</LG>
+<LG>
+<PB N="82" REF="46">
+<L><HI>Selena,</HI> no less gratify'd,</L>
+<L>Her Speech thus to her self apply'd:</L>
+<L>"A Present of Five hundred Pound</L>
+<L>"Affords a comfortable Sound,</L>
+<L>"And is a most substantial Proof</L>
+<L>"The Donor loves me well enough.</L>
+<L>"There's nothing makes the Purse-strings fly</L>
+<L>"Of an old Fool, like Letchery.</L>
+<L>"But in return what must I do?</L>
+<L>"Marry, and kiss, and cokes him? Fogh!</L>
+<L>"That's but an awkerd sort of Pleasure:</L>
+<L>"I'll think upon it more at leisure.</L>
+<L>"Honey has Stings.&mdash;With that she stopt here,</L>
+<L>For in they came to interrupt her,</L>
+<L>To make a Jest and Sport about her,</L>
+<L>Having Sir <HI>Grog'ram</HI> for a Suitor.</L>
+<L><HI>Selena</HI> no less merry was,</L>
+<L>And laught most, having the most Cause.</L>
+</LG>
+<LG>
+<L>But let us leave her in fruition</L>
+<L>Of present prosperous Condition;</L>
+<L><PB N="83" REF="46">And make a Visit to the Knight,</L>
+<L>Too long left out of Mind and Sight.</L>
+<L>(Note, When we say <HI>The Knight,</HI> we mean</L>
+<L>Sir <HI>Pendragon</HI> <GAP DESC="foreign">.)</L>
+<L>With whom the Curate, having heard</L>
+<L>How he in late Adventure far'd,</L>
+<L>Does with submission offer Solace,</L>
+<L>In most obliging Terms, as follows.</L>
+</LG>
+<LG>
+<L>Sir, What the Lady to you said</L>
+<L>So smartly, was in Masquerade.</L>
+<L>Tho' she knew you, you can't infer</L>
+<L>From thence, She knew that you knew her.</L>
+<L>And 'twas but Raillery, to try</L>
+<L>Your Courage, or your Constancy.</L>
+<L>Had her own Father been in place,</L>
+<L>She'd not ha' bated him an Ace;</L>
+<L>But as she found him a-transgressing,</L>
+<L>Backward she would have ask'd him Blessing.</L>
+<L>Or had he attempted to abridge</L>
+<L>Her of her Sexes Privilege,</L>
+<L><PB N="84" REF="47">To lay Restraint on <HI>Lingua Franc,</HI></L>
+<L>She would have conn'd him scurvy Thank.</L>
+</LG>
+<LG>
+<L>Alas! (quoth Sir <HI>Pendragon</HI>) I</L>
+<L>With ease could bear her Raillery;</L>
+<L>But by some Words she did impart,</L>
+<L>I fear that she's a <HI>Whigg</HI> at Heart:</L>
+<L>She told me, as I understood,</L>
+<L>My Writing did more Harm than Good;</L>
+<L>Wherein the Want of Jest does shew</L>
+<L>The rather, she believes it True.</L>
+<L>If so, 'tis fit she should be mumbled,</L>
+<L>And in all sort of Senses humbled.</L>
+</LG>
+<LG>
+<L>Quoth <HI>Laurence,</HI> If she be a <HI>Whigg,</HI></L>
+<L>Then I'm a very <HI>Putt,</HI> a <HI>Prigg.</HI></L>
+<L>I know she very often speaks</L>
+<L>Perversely, for the nonce to vex;</L>
+<L>And nothing in the World's more pleasing</L>
+<L>To her, than being Cross and Teazing.</L>
+<L>Whate'er her Words may sound, she means</L>
+<L>Things of a clean contrary Sense,</L>
+<L><PB N="85" REF="47">And must have almost all her Speeches</L>
+<L>Read backwards, like to other Witches.</L>
+</LG>
+<LG>
+<L>Here, to the Curate, and the Knight</L>
+<L>Enters the Squire, in dismal Fright,</L>
+<L>Upon whose Perriwig did stand</L>
+<L>The Hairs, quite out of Curl, on end;</L>
+<L>And told them, (being ask'd, What News?)</L>
+<L>Worse than if Hell it self broke loose.</L>
+<L>The Stubborn Prelates, late committed,</L>
+<L>Have all been Try'd, and are Acquitted.</L>
+<L>One Minute bore the cursed Shout</L>
+<L>Of <HI>Mob</HI> for sev'ral Miles about.</L>
+<L>We teach to Lay-men <HI>Loyalty,</HI></L>
+<L>Which Clergy, when concern'd, defie:</L>
+<L><HI>Passive Obedience</HI> ne'er begot 'em;</L>
+<L>And They, or We, are in wrong Bottom.</L>
+</LG>
+<LG>
+<L>Quoth Sir <HI>Pendragon,</HI> 'Tis amazing,</L>
+<L>And sets my inward Lights a-gazing.</L>
+<L>Too strong Convulsions needs must loosen</L>
+<L>The <HI>Macro,</HI> as the <HI>Microcosm:</HI></L>
+<L><PB N="86" REF="48">And Griping in the Guts does boad ill,</L>
+<L>Because it may affect the Noddle.</L>
+<L>Let us advise upon this Junto,</L>
+<L>Consider what it may amount to:</L>
+<L>For when Times wear a Face of Trouble,</L>
+<L>Then should our Diligence be Double.</L>
+</LG>
+<LG>
+<L>Quoth <HI>Hugo, Si non sero sapis,</HI></L>
+<L>I hope you'll prove an <HI>Aesculapius.</HI></L>
+<L>A Cloudy Morning may grow clear,</L>
+<L>And make an Evening Bright and Fair.</L>
+</LG>
+</DIV1>
+<DIV1 N="7" TYPE="canto">
+<PB N="87" REF="48">
+<HEAD>July's <HI>CANTO.</HI></HEAD>
+<ARGUMENT>
+<HEAD>ARGUMENT.</HEAD>
+<LG>
+<L>Knight, Squire, and Curate hold Debate</L>
+<L>Concerning&mdash;None of them know what.</L>
+<L>Yet each one eagerly maintains</L>
+<L>His own peculiar Sentiments:</L>
+<L>And many are severely chidden,</L>
+<L>Who will not do as they are bidden.</L>
+</LG>
+</ARGUMENT>
+<HEAD>CANTO.</HEAD>
+<LG>
+<L>OLD <HI>Bays,</HI> according to his Name,</L>
+<L>Had long wo<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">e Chaplet of the same,</L>
+<L>That gracefully his Temples-crown'd:</L>
+<L>But when Times chang'd, his Brows were bound</L>
+<L>With <HI>Rosary</HI> thereof in stead,</L>
+<L>Which caus'd new Singing in his Head.</L>
+</LG>
+<LG>
+<PB N="88" REF="49">
+<L>As he the famous Fable forges</L>
+<L>Of Beasts, and Birds, and Men, and Churches,</L>
+<L>He a new Method institutes,</L>
+<L>In managing his several Brutes:</L>
+<L>Which <HI>bona fide</HI> he commends</L>
+<L>To <HI>Smith</HI> and <HI>Iohnson,</HI> two old Friends.</L>
+<L>For out he brings his Wolf and Boar,</L>
+<L>And shew'd them; but he did no more:</L>
+<L>He would by no means let them fight,</L>
+<L>Which nor instructs, nor yields Delight;</L>
+<L>But when he 'ad giv'n the Character</L>
+<L>Of Hind and Panther, Fox and Bear,</L>
+<L>And all sufficiently were seen,</L>
+<L>He wisely shut them up again.</L>
+</LG>
+<LG>
+<L>So pardon if we imitate</L>
+<L>One of Authority so great:</L>
+<L>We shall not let our Hero's deal</L>
+<L>Either with Powder or with Steel;</L>
+<L>Tho' they may snarl, talk high, and chafe,</L>
+<L>Yet all the while we'll keep them safe.</L>
+<L><PB N="89" REF="49">They really shall do no hurt;</L>
+<L>For, <HI>Mischief always spoileth Sport.</HI></L>
+<L>But when they've run their Risque, and try'd</L>
+<L>(While they had with them Wind and Tide)</L>
+<L>What they'd be at, by change of Wind</L>
+<L>We'll send them Puff as far behind;</L>
+<L>We'll make them scour (when the time's come)</L>
+<L>Abroad, or be confin'd at home.</L>
+</LG>
+<LG>
+<L>Such is the Contest in the Game,</L>
+<L>Of so much celebrated Fame;</L>
+<L>Which we in <HI>English</HI> call <HI>The Goose,</HI></L>
+<L>And <HI>Rome</HI>'s Wise Conclave did compose:</L>
+<L>Where ev'ry Party still does strive</L>
+<L>(Preserv'd by equal Hopes alive)</L>
+<L>To compass that, which can be done,</L>
+<L>In the conclusion, but by one.</L>
+<L>He that's repell'd, as much of Chance has,</L>
+<L>As he who the mean while advances:</L>
+<L>And he that's laid in Custody,</L>
+<L>Looks for a Time to be set free,</L>
+<L><PB N="90" REF="50">And feeds on Expectation</L>
+<L>To rise from Prison to a Throne,</L>
+<L>Till by the strong decisive Cast,</L>
+<L>The Fortunate confounds the rest.</L>
+<L>But 'tis not fit too long Preamble</L>
+<L>Should from the present Bus'ness ramble.</L>
+</LG>
+<LG>
+<L>In <HI>Grays-Inn</HI> Walks we lay the Scene</L>
+<L>Where Knight, Squire, Curate met again,</L>
+<L>And reassum'd Discourse once more</L>
+<L>On that they enter'd on before.</L>
+<L><HI>Pendragon</HI> first did Silence break,</L>
+<L>And thus from Second Thoughts he spake.</L>
+</LG>
+<LG>
+<L>The Changes which are rung from Steeple</L>
+<L>Are always pleasing to the People:</L>
+<L>And the most dangerous Commotion</L>
+<L>Is kindled from too hot Devotion.</L>
+<L>But the poor Priest is more the Zealot:</L>
+<L>We seldom find it in the Prelate,</L>
+<L>Who having got a bigger Share</L>
+<L>Of this Worlds Goods, divides his Care,</L>
+<L><PB N="91" REF="50">And makes him hold the Balance even</L>
+<L>As e'er he can, 'twixt Earth and Heaven:</L>
+<L>Yet spite on's Teeth, he'll be inclin'd</L>
+<L>To th' Scale where lies the Earth refin'd:</L>
+<L>While poorer Wretches, less content</L>
+<L>With that which Providence has sent,</L>
+<L>Raise Faction, and tear all in pieces,</L>
+<L>In hopes of better Benefices.</L>
+<L>But as for want of a Supply</L>
+<L>Of Fuel, Flames do quickly die;</L>
+<L>So will your formidable Shout</L>
+<L>In <HI>Fumo</HI> vanish, and go out.</L>
+</LG>
+<LG>
+<L>My Shout! Deliver me! (quoth <HI>Hugh</HI>)</L>
+<L>It does as much belong to you.</L>
+<L>What Hurt can I sustain, should all</L>
+<L>The Bishops in the Kingdom fall?</L>
+<L>And yet, on th' other Side, what Good</L>
+<L>Will that be to my Livelihood?</L>
+<L>Who am as firm a Son o' th' Church,</L>
+<L>Tho' I say 't my self, as D&mdash;<HI>B</HI>&mdash;&mdash;</L>
+<L><PB N="92" REF="51">Or as your Worship's self, Sir Knight,</L>
+<L>Tho you get much, I nothing by't.</L>
+</LG>
+<LG>
+<L>Nay, quoth <HI>Pendragon,</HI> if you're teasty,</L>
+<L>Try what you'll get by riding resty;</L>
+<L>And if you fancy you have far'd ill,</L>
+<L>Go turn the Buckle of your Girdle.</L>
+<L>Howsoe'er my self I have acquitted,</L>
+<L>Let me be envy'd, and not pitied.</L>
+</LG>
+<LG>
+<L>Pray, quoth the Curate, give me leave</L>
+<L>This sudden Squabble to retrive,</L>
+<L>And offer something in due season</L>
+<L>To Men of so much Worth and Reason;</L>
+<L>Who both are real Friends to th' Church,</L>
+<L>And scorn to leave her in the Lurch.</L>
+<L>(By <HI>Church,</HI> I mean the <HI>Hierarchy,</HI></L>
+<L>Its Grandeur, Power, and Dignity.</L>
+<L><HI>Coetus fidelium</HI> is the <HI>Mobb,</HI></L>
+<L>Who may our Shrines and Altars rob.)</L>
+<L>Therefore to you I dare appeal,</L>
+<L>If what those Bishops did was well.</L>
+<L><PB N="93" REF="51">I judge them damnably mistaken,</L>
+<L>Tho' by good Luck they sav'd their Bacon.</L>
+<L>The Crime was very great and foul,</L>
+<L>The Prince's Pleasure to controul.</L>
+<L>Whatever he would have them read,</L>
+<L>They ought to do't; and so I did;</L>
+<L>And so should ev'ry Loyal Priest,</L>
+<L>Without Refusal, or Contest.</L>
+<L>If we have any who profess</L>
+<L>Supremacy beyond the Seas,</L>
+<L>In this they may comply, the rather,</L>
+<L>Because approv'd by Holy Father;</L>
+<L>With whom the Church in this our Nation</L>
+<L>Might meet with Reconciliation,</L>
+<L>If 'twas not kept at such a Distance</L>
+<L>By those who love to make Resistance.</L>
+<L>Why should we not in Manners come</L>
+<L>As near as e'er we can to <HI>Rome?</HI></L>
+<L>Since she upon the Hills is high</L>
+<L>In Honour and in Quality,</L>
+<L>It is more reasonable and fitter</L>
+<L>That we should first advance to meet her:</L>
+<L><PB N="94" REF="52">And if we're not too proud to stoop,</L>
+<L>VVith open Arms she'll take us up,</L>
+<L>Never reproach our going astray</L>
+<L>So long, and being out o' th' VVay;</L>
+<L>But bid us VVelcome, and caress</L>
+<L>Us with the greatest Tenderness.</L>
+<L>The <HI>Papist,</HI> and the <HI>Protestant,</HI></L>
+<L>Exploded Terms of foolish Cant,</L>
+<L>VVhen once made Friends, whoever thinks on,</L>
+<L>This or that Name for a Distinction,</L>
+<L>I'd have him hang'd up by the Neck,</L>
+<L>Or Spitcock'd for a Heretick.</L>
+<L>And here, Great Sir <HI>Pendragon,</HI> you</L>
+<L>May justly claim our Thanks as due,</L>
+<L>That the <HI>Church-Trimmers</HI> (who the while</L>
+<L>VViden what we would reconcile)</L>
+<L>Have that Nick-name preserv'd alive,</L>
+<L>To make their Infamy survive.</L>
+<L>In all your VVritings your strong Reasons</L>
+<L>Have strangely mended my Perswasions.</L>
+<L>That which we call <HI>The Reformation,</HI></L>
+<L>Is but a Scandal to the Nation;</L>
+<L><PB N="95" REF="52">And for <HI>Iohn Calvin</HI> and <HI>Mart. Luther,</HI></L>
+<L>I won't say what I think they both were.</L>
+</LG>
+<LG>
+<L>Hold, quoth <HI>Pendragon,</HI> you say more</L>
+<L>Than e'er you had my Warrant for:</L>
+<L>You never met with such Expressions</L>
+<L>In all my First or Second Lessons.</L>
+</LG>
+<LG>
+<L>That's true, you are too wise a Man</L>
+<L>(Quoth he) to speak your Mind so plain:</L>
+<L>But you'll allow me so much Sense,</L>
+<L>From Doctrine to raise Inference.</L>
+</LG>
+<LG>
+<L>(Quoth <HI>Hugh</HI>) Methinks you both are in, and</L>
+<L>Out too, by turns, with your Opinion.</L>
+<L>Quicksilver's very hard to fix,</L>
+<L>It has so many shifting Tricks:</L>
+<L>And Weather-glasses fall or rise</L>
+<L>According to the Clouds i' th' Skies.</L>
+<L>I've hearken'd to you till I'm giddy,</L>
+<L>And do but grow the more unsteady.</L>
+<L><PB N="96" REF="53">Could I discern wherein you differ,</L>
+<L>My Thoughts were easier to deliver.</L>
+<L>You, Master <HI>Laurence,</HI> very fairly</L>
+<L>Seem to be bound for <HI>Rome</HI> thus early;</L>
+<L>And tho' I can't keep equal Pace,</L>
+<L>I love a Man that shews his Face;</L>
+<L>But wish your Riding so Tantivy</L>
+<L>(As the <HI>Whiggs</HI> call it) don't deceive you.</L>
+<L>If Sir <HI>Pendragon</HI> would unveil</L>
+<L>Himself as far, 'twould please me well;</L>
+<L>And not converse with us, when he has</L>
+<L>A Misty Cloke on, like <HI>Aeneas.</HI></L>
+</LG>
+<LG>
+<L>Good Squire, compose your self to rest,</L>
+<L>(The Knight reply'd) Repeal of <HI>Test</HI></L>
+<L>We all are for, and think it just</L>
+<L>To gratifie the Royal Lust.</L>
+<L>There's none of us would make Defeisance</L>
+<L>Of <HI>Active,</HI> or <HI>Passive Obeysance.</HI></L>
+<L>And sure my Writings clear this Case</L>
+<L>Plain as the Nose upon your Face.</L>
+<L><PB N="97" REF="53">All People that on Earth do dwell,</L>
+<L>But those who purpose to rebell,</L>
+<L>Without Conditions should obey</L>
+<L>What Rulers bid them do or say.</L>
+</LG>
+<LG>
+<L><HI>Hamlet,</HI> because he was a Prince,</L>
+<L>The Lord <HI>Polonius</HI> could convince,</L>
+<L>That the same Cloud was like in all</L>
+<L>T' a Camel, Weezel, and a Whale:</L>
+<L>And make another (spite of Thought)</L>
+<L>Say as he pleas'd, 'twas Cold or Hot.</L>
+</LG>
+<LG>
+<L><HI>Indostan</HI>'s Greatest Emperor</L>
+<L>Rules with so uncontrol'd a Power,</L>
+<L>That if at Noon, when Sun shines bright,</L>
+<L>He says, 'tis middle of the Night,</L>
+<L>His Courtiers dare not for their Ears</L>
+<L>But cry, <HI>Behold the Moon and Stars.</HI></L>
+</LG>
+<LG>
+<L>No Monarch in the Universe</L>
+<L>Has more his Peoples Dread and Fears,</L>
+<L><PB N="98" REF="54">Than <HI>Boutan</HI>'s Arbitrary Lord,</L>
+<L>Who's like a Deity ador'd.</L>
+<L>Being set, or Justice to dispense,</L>
+<L>Or to give needful Audience,</L>
+<L>Whos'e'er into his Presence goes</L>
+<L>Must clap his Hands together close</L>
+<L>Above his Forehead, then fall down</L>
+<L>At a good distance from the Throne.</L>
+<L>Thus prostrate on the Ground when laid,</L>
+<L>He dares not once rear up his Head;</L>
+<L>Which humble Posture and Condition</L>
+<L>Those use too, who prefer Petition;</L>
+<L>And he that makes Retirement quite,</L>
+<L>Moves backwards till he's out of sight.</L>
+</LG>
+<LG>
+<L>But what is yet more strange, and greater&punc;</L>
+<L>When e'er their King has eas'd his Nature,</L>
+<L>They carefully preserve his Ordure,</L>
+<L>And dry it like to Sneezing-Powder;</L>
+<L>Then, as we Snuff in Boxes shut,</L>
+<L>So they the choice Provant do put,</L>
+<L><PB N="99" REF="54">And with them ev'ry Market-day</L>
+<L>They carry that, to give away</L>
+<L>To Men of Wealth, with whom they Trade;</L>
+<L>Which Kindness is by them repaid.</L>
+<L>Who thus possest of Good so rare,</L>
+<L>Convey it home with no less Care;</L>
+<L>And when they invite their Friends to eat,</L>
+<L>They strew the Powder on their Meat.</L>
+<L>Two <HI>Boutan-Merchants,</HI> says my Author,</L>
+<L>Shew'd me their Boxes, and the Powder.</L>
+<L>These Eastern People can digest</L>
+<L>What ours would not vouchsafe to taste:</L>
+<L>They swallow a Sir-Reverence</L>
+<L>With greediness, that comes from Prince.</L>
+<L>Nothing goes down with us, forsooth,</L>
+<L>But what is pleasing to the Tooth.</L>
+<L>And more he was about to say,</L>
+<L>When he was call'd in haste away:</L>
+<L>The Squire and Curate at the Gate</L>
+<L>Parted too, without further Chat.</L>
+</LG>
+<LG>
+<PB N="100" REF="55">
+<L>'Twas now the Time the Politicians</L>
+<L>Seem'd wondrous full of good Conditions,</L>
+<L>Made Proffers very much obliging</L>
+<L>To All of different Religion.</L>
+<L>And tho' Dispensing Power they held,</L>
+<L>Yet they in Loving-kindness yield</L>
+<L>To have all Penal Laws repeal'd,</L>
+<L>Which gave the Subject any Grief</L>
+<L>Concerning Matters of Belief.</L>
+<L>Some eagerly catch't at the Bait,</L>
+<L>And with the Sugar-plums were caught;</L>
+<L>But others more considerate,</L>
+<L>At distance having spy'd the Trap,</L>
+<L>Sought Means the strong-laid Snare to scape.</L>
+<L>While those who were possest of Places</L>
+<L>Found themselves driven to Distresses,</L>
+<L>From which they could have no Release,</L>
+<L>Unless they left behind their Fleece.</L>
+</LG>
+<LG>
+<L>For when the Question once was put,</L>
+<L><HI>Yes,</HI> you must answer, or turn out.</L>
+</LG>
+<LG>
+<PB N="101" REF="55">
+<L><HI>Will you at Call of Parliament</HI></L>
+<L><HI>Give Vote for such who will consent</HI></L>
+<L><HI>To take off Test and Penal Laws?</HI></L>
+<L>He that said <HI>Yes,</HI> was where he was:</L>
+<L>He that unhappily said <HI>No,</HI></L>
+<L>Was us'd untowardly, like a Foe;</L>
+<L>Threatn'd with Fines on Goods and Chattels,</L>
+<L>Confinement, and the Lord knows what else.</L>
+<L>Which Method, needs must be confest,</L>
+<L>Was driving out of <HI>Test</HI> with <HI>Test.</HI></L>
+</LG>
+<LG>
+<L>The Thoughts of riding in the Saddle</L>
+<L>Made weak Dissenter's Brains turn addle;</L>
+<L>He could not see (he grew so blind)</L>
+<L>The Jesuit getting up behind;</L>
+<L>Who soon with unexpected Flirt</L>
+<L>Would throw his Worship in the Dirt.</L>
+</LG>
+<LG>
+<L>Many they were to whom the Question</L>
+<L>Was boldly put: Among the rest, one,</L>
+<L><PB N="102" REF="56">A stout and valiant Son of <HI>Mars,</HI></L>
+<L>Who had spent all his Days in Wars,</L>
+<L>Regardless of Religion,</L>
+<L>'Twas thought that any might go down.</L>
+<L>Therefore they pray'd him (with his leave)</L>
+<L>That he'd the <HI>Romish</HI> Faith receive.</L>
+</LG>
+<LG>
+<L>'Tis true (said he) that saying Pray'rs</L>
+<L>Has been the least of all my Cares;</L>
+<L>But if I ever change from That</L>
+<L>Wherein I first was bred and taught,</L>
+<L>My Honour is engag'd t' embrace</L>
+<L>That of the Emperor's of <HI>Fez,</HI></L>
+<L>Who shew'd me Death, and Blood, and Wounds,</L>
+<L>Yet could not get me to renounce.</L>
+<L>Poor Slaves were brought into his Court,</L>
+<L>And murder'd, only to make Sport:</L>
+<L>The Agonies I saw, and Twitches,</L>
+<L>Of miserable dying Wretches,</L>
+<L>Yet I ne'er turn'd my Head awry,</L>
+<L>Nor frown'd, nor ask'd that Monarch, Why</L>
+<L><PB N="103" REF="56">He caus'd the needless Execution.</L>
+<L>Who when he saw my Resolution,</L>
+<L>And found me not inclin'd to Pity,</L>
+<L>Cry'd, Our Religion best would fit you.</L>
+<L>(You Christians use to shew Remorse)</L>
+<L>Your Faith should be the same with ours,</L>
+<L>If I chang'd mine, I promis'd then</L>
+<L>That I would turn <HI>Mahometan.</HI></L>
+</LG>
+<LG>
+<L>Their Wisdoms had as ill Success</L>
+<L>With other Closettings, as this;</L>
+<L>And <HI>Corporations Regulator</HI></L>
+<L>Prov'd a good Subject, fit for Laughter.</L>
+</LG>
+<LG>
+<L>In Man no greater Folly is,</L>
+<L>Than that of being over-wise.</L>
+</LG>
+</DIV1>
+<DIV1 N="8" TYPE="canto">
+<PB N="104" REF="57">
+<HEAD>August's <HI>CANTO.</HI></HEAD>
+<ARGUMENT>
+<HEAD>ARGUMENT.</HEAD>
+<LG>
+<L>By Curate's Help, the Knight and Lady</L>
+<L>Meet merrily, and Days are gaudy</L>
+<L>A while, too hot to hold; Cold Dew</L>
+<L>Is usher'd in by <HI>Barthol'mew.</HI></L>
+<L>But yet the Curate's Heat does grow</L>
+<L>Towards <HI>Thomasine,</HI> and warms her too.</L>
+</LG>
+</ARGUMENT>
+<HEAD>CANTO.</HEAD>
+<LG>
+<L>THO' Hero's Pictures best do show</L>
+<L>In Shades of Misery and Woe,</L>
+<L>And more the Lustre shines when set</L>
+<L>In Frame of Ebony or Jet,</L>
+<L>As all our <HI>Logicks</HI> tell us, else</L>
+<L>Their Rules of <HI>Opposites</HI> are false:</L>
+<L><PB N="105" REF="57">Yet, on the other Hand, if they</L>
+<L>Should never see one happy day,</L>
+<L>Meet with no comfortable Chequer,</L>
+<L>Their very Vigour would grow weaker,</L>
+<L>And from the greatest Wits and Braves,</L>
+<L>Become the meerest Sots and Slaves.</L>
+</LG>
+<LG>
+<L>Poor Sir <HI>Pendragon</HI> yet has had</L>
+<L>His Love-Concerns run Retrograde,</L>
+<L>Without Support of one kind Look,</L>
+<L>Which any other Heart had broke</L>
+<L>But his, that lay so fortifi'd,</L>
+<L>Entrench'd in Self-conceit and Pride.</L>
+<L>Now therefore 'tis extremely fit</L>
+<L>To let him lie no longer by 't,</L>
+<L>And for his Sally to set ope</L>
+<L>Altho' but a Trap&punc; door of Hope.</L>
+</LG>
+<LG>
+<L><HI>Laurence,</HI> to further this Intent,</L>
+<L>Proves a successful Instrument;</L>
+<L>Who, big with joyful Tidings, came</L>
+<L>In so much haste to tell the same,</L>
+<L><PB N="106" REF="58">That all in Sweat the thick round Drops</L>
+<L>Cours'd one another down his Chops.</L>
+<L>Some Time he took to gather Wind</L>
+<L>Sufficient to express his Mind.</L>
+<L>He to <HI>Pendragon</HI> then imparts</L>
+<L>That his unparallell'd Deserts</L>
+<L>Were to <HI>Selena</HI> truly known,</L>
+<L>Which she in sober Mood did own;</L>
+<L>That all was Banter in the Park,</L>
+<L>And Random-shot beside the Mark.</L>
+<L>Nay, she requested me, moreover,</L>
+<L>(Quoth <HI>Laurence</HI>) very like a Lover,</L>
+<L>That I'd engage, without Delays,</L>
+<L>T' oblige her with the Happiness</L>
+<L>Of making you and her acquainted,</L>
+<L>And promis'd I should ne'er repent it,</L>
+<L>And made me in a manner swear</L>
+<L>That you should come and visit her.</L>
+</LG>
+<LG>
+<L>I thank you (quoth <HI>Pendragon</HI>) if</L>
+<L>'Tis safe to be of your Belief:</L>
+<L><PB N="107" REF="58">Yet 'tis not strange; for there's no doubt</L>
+<L>But Weather-cocks may turn about:</L>
+<L>Methinks 'tis worth my while to go</L>
+<L>And try if she continue so</L>
+</LG>
+<LG>
+<L>Ay, (quoth the Curate) pray be gone</L>
+<L>This instant, while the Day's your own;</L>
+<L>For to the Gods belongs to morrow,</L>
+<L>And who knows whether Joy or Sorrow?</L>
+</LG>
+<LG>
+<L><HI>Cutbeard</HI> was call'd to cure Excrescence,</L>
+<L>And bring his <HI>Iass'mins</HI> choicest Essence;</L>
+<L>To fill his Perriwig with Powder,</L>
+<L>And dab it round about his Shoulder.</L>
+<L>Thus very smug, and very sweet,</L>
+<L>Drest in all Circumstances neat,</L>
+<L>He sallies forth on bold Adventure,</L>
+<L>The charming Lady to encounter;</L>
+<L>And <HI>Laurence</HI> with him takes along,</L>
+<L>To be his Guarrantee from Wrong,</L>
+<L>That he receive no further Harms</L>
+<L>Than what come fairly from her Charms:</L>
+<L><PB N="108" REF="59">And neither could th' Advantage carry</L>
+<L>By their Perfumes Auxiliary.</L>
+<L>After Attack betwixt their Cheeks,</L>
+<L>(As fitting) first <HI>Pendragon</HI> speaks.</L>
+</LG>
+<LG>
+<L>Madam, To Master <HI>Laurence</HI> I</L>
+<L>Pay Thanks for this Felicity;</L>
+<L>That he has brought me to salute you</L>
+<L>With all Devoir, and do my Duty</L>
+<L>Unto the fairest of the Sex</L>
+<L>Which our Horizon circumspects.</L>
+<L>Beauty and Wit surround your Throne,</L>
+<L>And you, like both the Sun and Moon,</L>
+<L>Maintain an equal Power and Right</L>
+<L>To govern us by Day and Night.</L>
+</LG>
+<LG>
+<L>Quarter, (Dread Sir) <HI>Selena</HI> cry'd;</L>
+<L>I can't so fierce a Charge abide:</L>
+<L>I'm altogether insufficient</L>
+<L>To prove your Stock of Ammunition,</L>
+<L>And do confess my self unfit</L>
+<L>T' engage with such a Fund of Wit,</L>
+<L><PB N="109" REF="59">VVhose strong Redoubts make all Opposers</L>
+<L>Retreat, and turn away the Losers.</L>
+</LG>
+<LG>
+<L>I bear no Terrors (quoth the Knight)</L>
+<L>VVhich may your Ladiship affright.</L>
+<L>VVhat I pretend to of Abilities,</L>
+<L>VVith all th' Efforts of my Virilities,</L>
+<L>A Sacrifice without Reserve is</L>
+<L>Devoted solely to your Service.</L>
+</LG>
+<LG>
+<L>Beasts were for Sacrifice of old,</L>
+<L>(<HI>Selena</HI> said) as I've been told,</L>
+<L>Creatures with Horns and cloven Feet,</L>
+<L>VVhich after that were exc'lent Meat,</L>
+<L>First broyl'd on th' Altar of Devotion,</L>
+<L>Then serv'd at Supper for Collation;</L>
+<L>VVherewith not only hungry Priest,</L>
+<L>But VVife and Children made a Feast.</L>
+<L>Now to suppose that you were slain</L>
+<L>On such account, 'twould be profane;</L>
+<L>Or were you to be carbonado'd,</L>
+<L>He gad! I could not be perswaded</L>
+<L><PB N="110" REF="60">To suffer come betwixt my Lips</L>
+<L>The tightest Bit about your Hips.</L>
+<L>And tho' my Kindness may be great t' you,</L>
+<L>Yet not to that degree to eat you.</L>
+</LG>
+<LG>
+<L>(VVhen <HI>Laurence</HI> thus engag'd did see</L>
+<L>Them in slap-dash at Repartee,</L>
+<L>He slipt out of the Room unseen</L>
+<L>To find out Mistriss <HI>Thomasine.</HI>)</L>
+</LG>
+<LG>
+<L>Quoth Knight, Dear Madam, have a care;</L>
+<L>You drive the Metaphor too far.</L>
+<L>In Lit'ral Sense I should be sorry</L>
+<L>To verifie the Allegory,</L>
+<L>And run into that rash Mistake</L>
+<L>VVhich pious <HI>Origen</HI> did make;</L>
+<L>VVho, to become more good and gracious,</L>
+<L>Parted with Movables so precious.</L>
+<L>To complement away my Gender,</L>
+<L>My self incapable would render</L>
+<L>To pleasure You, and do that Duty</L>
+<L>Which I in special manner vow t' you.</L>
+</LG>
+<LG>
+<PB N="111" REF="60">
+<L>Thank you (quoth she) that I'm befriended</L>
+<L>With so much kindness but intended;</L>
+<L>Altho' your promis'd Resolution</L>
+<L>Be frustrate of its Execution:</L>
+<L>For 'tis a Truth, <HI>That</HI> Ferdinando</L>
+<L><HI>Can do no more than what he can do.</HI></L>
+<L>And you shall find me so well bred,</L>
+<L>As to accept the Will for Deed.</L>
+</LG>
+<LG>
+<L>That's kindly said, (quoth he) Dear Lady:</L>
+<L>But it behoves me to perswade you</L>
+<L>(For Credits sake, without Denial)</L>
+<L>To have this Business put to Trial.</L>
+<L>Suffer my Love to take its Course,</L>
+<L>And prove its energetick Force.</L>
+</LG>
+<LG>
+<L>Softly, good Sir, <HI>Selena</HI> cries;</L>
+<L>We 're merry, and we should be wise.</L>
+<L>Determination of this Matter</L>
+<L>May be made time enough hereafter.</L>
+<L><PB N="112" REF="61">We have advanc'd as far as fitting</L>
+<L>For any Two at their first Meeting.</L>
+<L>Blind Love ought to be gently led,</L>
+<L>And taught to step, and taught to tread.</L>
+</LG>
+<LG>
+<L>Mean while <HI>Pendragon</HI> slily strove</L>
+<L>To pull from off her Hand a Glove.</L>
+<L>She ask'd him if he meant by that</L>
+<L>To have it fastned in his Hat,</L>
+<L>And wore thereon, like Wedding-Garter,</L>
+<L>To shew the Passion he did bear t' her;</L>
+<L>As <HI>Brunswick</HI>'s Duke the like was seen</L>
+<L>To do for the <HI>Bohemian</HI> Queen.</L>
+</LG>
+<LG>
+<L>(Quoth he) That famous Duke of <HI>Brunswick</HI></L>
+<L>Saving his Love, was mad and Brain-sick;</L>
+<L>All whose frenetick Actions shew'd</L>
+<L>Him Cruel, Barbarous, and Lewd:</L>
+<L>And scarce, since <HI>Iulian</HI> that <HI>Apostate,</HI></L>
+<L>Has the Church known a Foe more cross to't:</L>
+<L>For if on Steeple high as <HI>Paul</HI>'s</L>
+<L>He spy'd a Work-man stopping Holes,</L>
+<L><PB N="113" REF="61">He ne'er ceast pelting him with Stone,</L>
+<L>Until he foully fetch'd him down;</L>
+<L>And such a Fall from Top of Steeple</L>
+<L>Must beat out Brains, or make a Creeple.</L>
+</LG>
+<LG>
+<L>In <HI>Munsters</HI> sacred <HI>Dome</HI> he sees</L>
+<L>The Twelve Apostles Images,</L>
+<L>All of substantial massie Plate;</L>
+<L>When pond'ring well their Worth and Weight,</L>
+<L>After reproachful Speech to th' Statues,</L>
+<L>For keeping idle Station <HI>gratis,</HI></L>
+<L>He swore he'd make them travel thro'</L>
+<L>All Countries, as th' were bid to do.</L>
+<L>Then with them (coin'd into Rix-Dollars)</L>
+<L>He paid his Army off, and Followers.</L>
+</LG>
+<LG>
+<L>To Priests he bore such fell Antipathy,</L>
+<L>He caus'd them to be smitten Hip and Thigh:</L>
+<L>Deaf to their miserable Moans,</L>
+<L>Either he cut their Throats or Stones.</L>
+<L>But I run on with a Discourse</L>
+<L>Unsuitable to Love-Affairs.</L>
+</LG>
+<LG>
+<PB N="114" REF="62">
+<L>She (looking round her with a Frown)</L>
+<L>Perceiving <HI>Laurence</HI> was withdrawn,</L>
+<L>Inquir'd, and found him not within,</L>
+<L>But gone abroad with <HI>Thomasine;</HI></L>
+<L>Replies, O rare! Your Curate-Thief</L>
+<L>Has stole away, without my leave,</L>
+<L>Not only his own Logger-head,</L>
+<L>But hers whom I do call my Maid:</L>
+<L>On what particular Pretence,</L>
+<L>A little Time will evidence.</L>
+<L>At present I'm become uneasie.</L>
+<L>Since then my Company can't please ye,</L>
+<L>You being a most accomplish'd Courtier,</L>
+<L>Will cut your Visit so much shorter.</L>
+</LG>
+<LG>
+<L>Madam (quoth he) I'll ne'er dispute,</L>
+<L>Your Will and Pleasure's absolute.</L>
+<L>Then bowing low, with a loud Smack</L>
+<L>He kiss'd her Hand, and turn'd his Back.</L>
+</LG>
+<LG>
+<PB N="115" REF="62">
+<L>Your Servant, Sir, (quoth she) God b' ye;</L>
+<L><HI>Adieu to Love and my Dear Ioy</HI>&mdash;</L>
+<L>She softly sung in silent Tone,</L>
+<L>Till he was out of hearing gone.</L>
+<L>Then smiling said, I've seen enough</L>
+<L>Of this Sir <HI>Curly-murly Puff,</HI></L>
+<L>Whose Screams (I'm told) are cursed loud</L>
+<L>'Gainst Patriots for the Publick Good:</L>
+<L>I'm sure his making Love's a Farce,</L>
+<L>In Strains untunable and harsh.</L>
+<L>If with his Quail-pipe he decoys</L>
+<L>Some heedless o'er-grown Scholar-Boys,</L>
+<L>Who with their Money part, to buy</L>
+<L>Dear Pen'worths of false Loyalty;</L>
+<L>Let him not think that I'll be fed</L>
+<L>With his gilt printed Ginger-bread.</L>
+</LG>
+<LG>
+<L>Infallibly that Man's in fault</L>
+<L>Who calls his Neighbours all to naught.</L>
+<L><HI>Trim-tram,</HI> such as this Master <HI>Tory,</HI></L>
+<L>Such Man Squire <HI>Hugh,</HI> such Chaplain <HI>Laury.</HI></L>
+<L><PB N="116" REF="63">Then fretting at the Misbehaviour</L>
+<L>Of <HI>Thomasine,</HI> a while we leave her</L>
+<L>Riding on <HI>Grubb,</HI> a Trot most sore hard,</L>
+<L>And put the Clock a little forward,</L>
+<L>To make it just the Time o' th' Year</L>
+<L>Of famous <HI>Bartholmaean</HI> Fair.</L>
+<L>Not that we mean to sing the Matter</L>
+<L>Of such Variety for Laughter;</L>
+<L>But in brief only to disclose,</L>
+<L>Among the many Raree-Shows</L>
+<L>Then met to make all <HI>London</HI> Town stare,</L>
+<L>There was a Female <HI>German</HI> Monster</L>
+<L>Had Scales on one Side, like a Fish,</L>
+<L>T' other clear-skinn'd as one would wish;</L>
+<L>One Buttock was just like a Horse's,</L>
+<L>T' other like other Humane Arses;</L>
+<L>Mis-shapen Leggs, and on Feet grows</L>
+<L>Members too big for Petit-Toes.</L>
+<L>She, the Chief Princess of this Sort,</L>
+<L>Could never fail of a full Court,</L>
+<L>To pay a Courtier's Complement,</L>
+<L>Brought Sir <HI>Pendragon</HI> to her Tent.</L>
+<L><PB N="117" REF="63"><GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">t the same time, to gratifie</L>
+<L><GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">n Itch of Curiosity,</L>
+<L><GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">nto the same identick Place</L>
+<L><GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">lindfolded wanton Chance conveys</L>
+<L><HI>Selena,</HI> splendid as the Moon,</L>
+<L>Well guarded by a <HI>Beau Garconne.</HI></L>
+<L>The Knight, thro' his Sagacity,</L>
+<L>Had quickly got her in his Eye;</L>
+<L>When moving forward to salute her,</L>
+<L><GAP DESC="illegible" RESP="OXF" EXTENT="2 letters">e as quickly turn'd about, Sir.</L>
+<L><GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">t that, he chang'd his Course; she then</L>
+<L><GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">s nimbly tack'd about agen;</L>
+<L><GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">s he to get the nearer strove,</L>
+<L>Perceiv'd she hitch'd the further off.</L>
+<L>He sate him down, o'er-whelm'd with Grief,</L>
+<L>Despairing of the least Relief,</L>
+<L>Because his Noble Heart was sunk</L>
+<L>Down to the bottom of his Trunk.</L>
+<L>While thus in melancholy mood</L>
+<L>He chew'd Tobacco and the Cud,</L>
+<L>And at a distance, with her Centry,</L>
+<L><HI>Selena</HI> looks for Monster's Entry,</L>
+<L><PB N="118" REF="64"><HI>Laurence</HI> and <HI>Thomasine</HI> were got</L>
+<L>More close together, piping hot:</L>
+<L>Not in a Booth of Monsters frightful,</L>
+<L>But where they found it more delightful.</L>
+<L>No Puppet-Shews, nor Dancing Bears,</L>
+<L>Nor merry Drolls of Strouling Players;</L>
+<L>No Tumbling <HI>Andrew,</HI> nor <HI>Iean Pudding,</HI></L>
+<L>Could please them, who were set a brooding,</L>
+<L>And hov'ring o're each others Love,</L>
+<L>In Box as warm as any Stove.</L>
+<L>To noisie Jests they bid Defiance</L>
+<L>With Sack and Sugar, Cates and Viands,</L>
+<L>And nothing wanting on the Place</L>
+<L>To make their am'rous Flames encrease;</L>
+<L>Which was perform'd by secret Course,</L>
+<L>Unsearchable as is the Source.</L>
+<L>Great was their mutual Satisfaction,</L>
+<L>Where Passion makes up all the Action,</L>
+<L>And Interjection all the Speech,</L>
+<L>Description is beyond our reach.</L>
+<L>By Thoughts, and in Dumb-shew, the rest</L>
+<L>Is with best Eloquence exprest.</L>
+</LG>
+<LG>
+<PB N="119" REF="64">
+<L><HI>Laurence</HI> thus drawn (as with a Cable)</L>
+<L>By this Importance Comfortable,</L>
+<L>Had all the Faculties of 's Mind,</L>
+<L>To gratifie the Flesh, resign'd;</L>
+<L>And his acute Intelligences</L>
+<L>Were humble Servants to his Senses.</L>
+<L>His Ratiocination far'd ill,</L>
+<L>While his Wit work'd beneath his Girdle:</L>
+<L>And him th' insatiate Gypsie drains</L>
+<L>Of Money, Blood, and Guts, and Brains.</L>
+</LG>
+<LG>
+<L>Among the poignant wise Adages,</L>
+<L>Recorded by th' <HI>Italian</HI> Sages,</L>
+<L>One is, <HI>Priests, Women, and the wide</HI></L>
+<L><HI>Ocean, are never satisfied.</HI></L>
+</LG>
+</DIV1>
+<DIV1 N="9" TYPE="canto">
+<PB N="120" REF="65">
+<HEAD>September's <HI>CANTO.</HI></HEAD>
+<ARGUMENT>
+<HEAD>ARGUMENT.</HEAD>
+<LG>
+<L><HI>Laurence</HI> and <HI>Thomasine's</HI> Proceeding,</L>
+<L>Who make at <HI>Westminster</HI> a Wedding.</L>
+<L>A Letter to the Knight does come,</L>
+<L>With Present, from he knows not whom;</L>
+<L>Which struck him with tormenting Cares,</L>
+<L>And dread of Change in State-affairs.</L>
+</LG>
+</ARGUMENT>
+<HEAD>CANTO.</HEAD>
+<LG>
+<L>TIs plain, by what was lately said,</L>
+<L>That <HI>Thomasine</HI>'s a cunning Jade;</L>
+<L>Who having made a Wit a Fool.</L>
+<L>Had the Sense not to let him cool,</L>
+<L>But ply'd him with warm Clothes and Kisses,</L>
+<L>Till sh' ad accomplished her Wishes,</L>
+<L><PB N="121" REF="65">And got him hamper'd with a Padlock</L>
+<L>As strong as could be made of Wedlock.</L>
+</LG>
+<LG>
+<L>The better to bring this about,</L>
+<L>She most successfully had wrought</L>
+<L>Her self into her Lady's Favour,</L>
+<L>And her good Grace, as firm as ever:</L>
+<L>Which Reconcilement was so hearty,</L>
+<L><HI>Selena</HI> was become a Party,</L>
+<L>An Accessary to the Chouse</L>
+<L>Of drawing Priest into the Noose:</L>
+<L>Who now grown pamper'd with high Feeding,</L>
+<L>Impatient grew to fix his Wedding;</L>
+<L>Of which was held Solemnization</L>
+<L>(Meerly to give gratification</L>
+<L>To his own Humour) on those Days</L>
+<L>When <HI>London-Town</HI> was all on Blaze</L>
+<L>Just Two and twenty Years before,</L>
+<L>And <HI>Rome</HI> did brand her for <HI>The Whore,</HI></L>
+<L>When their St. <HI>Peter</HI> mock'd the Fall,</L>
+<L>And triumph'd over our St. <HI>Paul.</HI></L>
+<L><PB N="122" REF="66">Let <HI>Rome</HI> Burlesque the same, while we</L>
+<L>Regret the sad Calamity.</L>
+<L>The Time's a-coming, not far off,</L>
+<L>When we shall have our Turn to laugh.</L>
+</LG>
+<LG>
+<L>But other Matters press us much</L>
+<L>To give these Nuptials a Dispatch.</L>
+<L>At <HI>Westminster</HI> their Hands were join'd,</L>
+<L>And at a Tavern there they din'd;</L>
+<L>Its Sign (O wonderful in this Age!)</L>
+<L>Was the <HI>Pope's Nuncio, Dada</HI>'s Visage.</L>
+<L><HI>Selena's</HI> Bounty clear'd those Scores,</L>
+<L>Beside a hundred <HI>Loui' d' Ors,</HI></L>
+<L>Oblig'd for Portion of the Spouse,</L>
+<L>On Day of Marriage to depose.</L>
+<L>At Night she gave them a Sack-posset,</L>
+<L>And with the Stockin Bridegroom's Nose hit.</L>
+<L>Then after all the merry Guests</L>
+<L>Their Wits discharg'd in Bawdy Jests,</L>
+<L><HI>Selena</HI> drew the Curtains close,</L>
+<L>And left them to their Discompose,</L>
+<L><PB N="123" REF="66">Not suffering any one to come at</L>
+<L>The marry'd Pair while they consummate.</L>
+</LG>
+<LG>
+<L><HI>Pendragon,</HI> late opprest with Wrong,</L>
+<L>Calls out to have his Cause come on,</L>
+<L>And prays he may no longer wait</L>
+<L>His Hearing in the Court of Fate;</L>
+<L>With Hopes to have from its Decrees</L>
+<L>Allow'd him Costs and Damages</L>
+<L>For Falsehood and injurious Slight,</L>
+<L>Wherewith his Mistriss did requite</L>
+<L>His Love unfeign'd, and so debarr'd</L>
+<L>Both that and him of due Reward.</L>
+<L>Expecting Fortune more benign,</L>
+<L>In haste his Boy came running in,</L>
+<L>Tells him a Parcel's left i' th' Passage,</L>
+<L>By a Porter brought with blund'ring Message,</L>
+<L>Who being ask'd, he would not say</L>
+<L>From whence he came, but run away.</L>
+<L>That 'tis a very handsom Packet,</L>
+<L>And for his Worship's Use directed.</L>
+</LG>
+<LG>
+<PB N="124" REF="67">
+<L>Fetch it up hither, (quoth the Knight)</L>
+<L>I find I'm not forgotten quite:</L>
+<L>When the kind Donor will not tell you</L>
+<L>His Name, the Present's of most value.</L>
+<L>And here's a Parcel which within has</L>
+<L>For certain a good Purse of <HI>Guinea's.</HI></L>
+<L>But first he found, handling the Matter,</L>
+<L>That the Direction was a Letter;</L>
+<L>Which shall be ev'ry Tittle read,</L>
+<L>Without the Breaks <HI>Pendragon</HI> made:</L>
+<L>And after that is fully done,</L>
+<L>We shall impart his Notes thereon.</L>
+</LG>
+<LETTER>
+<DIV2 TYPE="superscription">
+<PB N="125" REF="67">
+<HEAD>THE SUPER-SCRIPTION.</HEAD>
+<P>THESE</P>
+<L>To Sir <HI>Pendragon</HI> be convey'd,</L>
+<L>At the next Door to <HI>Godfrey</HI>'s Head,</L>
+<L>In <HI>Upper Old-bourn,</HI> toward St. <HI>Giles,</HI></L>
+<L>Where there be Two or Three <HI>Turn-Stiles,</HI></L>
+<L>Deliver,</L>
+<L>With a Parcel ty'd,</L>
+<L>Carriage paid and satisfi'd.</L>
+</DIV2>
+<DIV2 TYPE="body of letter">
+<HEAD>The LETTER.</HEAD>
+<OPENER><SALUTE>SIR,</SALUTE></OPENER>
+<LG>
+<L>AFter hearty Commendations</L>
+<L>Tender'd to you and your Relations;</L>
+<L>Hoping your Health's as good a plight in</L>
+<L>As mine is at this present Writing.</L>
+<L><PB N="126" REF="68">Accept these Lines from unknown Hand,</L>
+<L>Yet from a true unfeigned Friend,</L>
+<L>Who doing the Duty of Plain-dealer,</L>
+<L>Treats you with Terms the more familiar,</L>
+<L>To bring y' acquainted with your Sins,</L>
+<L>Which very seldom Favour wins;</L>
+<L>Yet much more Good may work upon you,</L>
+<L>Than gath'ring you a little Money,</L>
+<L>Than hawking for you up and down,</L>
+<L>To pick up here and there a Crown,</L>
+<L>From the unwilling Contributor,</L>
+<L>Who when hard prest, is forc'd to do't, or</L>
+<L>With his Great Neighbour lose his Credit:</L>
+<L>Thus many 'gainst the Hair have paid it,</L>
+<L>And their own Foolery have blam'd,</L>
+<L>For being topp'd upon, and shamm'd.</L>
+</LG>
+<LG>
+<L>Yet to tell Truth, and shame the Devil,</L>
+<L>Scarce Man of Honesty believe will</L>
+<L>The Sums that have been gather'd for you,</L>
+<L>Of which thou art so little worthy,</L>
+<L><PB N="127" REF="68">That put thy Merits, nay, put all</L>
+<L>Thy Loyalty into one Scale,</L>
+<L>And throw a single Brass Half-crown</L>
+<L>In t' other, that shall weigh it down.</L>
+<L>The only Reason, I conceive,</L>
+<L>For your extravagant Relief,</L>
+<L>May be, that when there's a Collection</L>
+<L>Made for the Head of any Faction,</L>
+<L>You always greatest Gathering have</L>
+<L>For him who is the greatest Knave.</L>
+<L>So Beggars raise Supplies for Want,</L>
+<L>By their Felicity of Cant;</L>
+<L>Not he that needs it, most does get,</L>
+<L>But he who best can counterfeit:</L>
+<L>And 'tis a common thing to pay</L>
+<L>False Guides for leading us astray.</L>
+<L>This, to your former Comfort, you</L>
+<L>At others Costs have found so true.</L>
+<L>There's an old Proverb, which doth say,</L>
+<L><HI>That ev'ry Dog shall have his Day.</HI></L>
+<L>You have had many that are past,</L>
+<L>Successful to your Interest;</L>
+<L><PB N="128" REF="69">Crowds of Disciples you have led on,</L>
+<L>Like <HI>Loyola,</HI> or <HI>Iohn of Leyden;</HI></L>
+<L>When many a small High-Priest did watch,</L>
+<L>Thy precious Oracles to catch,</L>
+<L>And preach'd them to their Congregations</L>
+<L>In Doctrines, and in Applications.</L>
+</LG>
+<LG>
+<L>As a fam'd Traveller once had</L>
+<L>His Ordure Sacred Relique made,</L>
+<L>When Votaries scrap'd clean his Breeches,</L>
+<L>So carry'd those to Church thy Speeches,</L>
+<L>And did on Sunday following vent</L>
+<L>For Holy Truth, thy Excrement:</L>
+<L>Which if a wiser Man then blam'd,</L>
+<L>Or disapprov'd of, he was damn'd.</L>
+<L>Till Arbitrary Pow'r, grown strong</L>
+<L>And malapert in doing Wrong,</L>
+<L>Seiz'd on the Properties of Priest:</L>
+<L>Thenceforth thy Oracles have ceast;</L>
+<L>Exploded is thy slavish Lore,</L>
+<L>By those who cry'd it up before;</L>
+<L><PB N="129" REF="69">Who blush to have been led aside</L>
+<L>By such an <HI>Hocus-pocus</HI> Guide.</L>
+<L>The Blaze your Reputation kindled,</L>
+<L>Of late is grown so dim, and dwindled,</L>
+<L>And with that shameful haste declines,</L>
+<L>It with as little Lustre shines</L>
+<L>As Glow-worm, or Tobacco-coal,</L>
+<L>Or rotten Wood in a dark Hole.</L>
+<L>The Time is past which thou hast seen,</L>
+<L>And ne'er to come about agen.</L>
+<L>Let Friar <HI>Bacon's</HI> Brazen Head</L>
+<L>Tell thee, thy Golden Days are fled.</L>
+</LG>
+<LG>
+<L>By this time you may grow impatient</L>
+<L>To be acquainted with your Present,</L>
+<L>(One may presume) and that you're scarce well</L>
+<L>At ease, until you've open'd Parcel.</L>
+<L>Prepare your self then, wipe your Eyes,</L>
+<L>And see how prettily it lies</L>
+<L>In Rolls, and Folds, which you may take</L>
+<L>Perhaps at first sight for a Snake;</L>
+<L><PB N="130" REF="70">Like one in <HI>Timon</HI>'s cover'd Course,</L>
+<L>To sting his vip'rous Senators.</L>
+<L>But ben't affrighted; on my word,</L>
+<L>'Tis but an honest Hempen Cord,</L>
+<L>A Halter, which alone to you</L>
+<L>By your own Hands can Justice do;</L>
+<L>The due Reward of all your Pains,</L>
+<L>And best Cure for your Flux of Brains:</L>
+<L>Before the <HI>Mobb</HI> shall gut your House,</L>
+<L>And greater Troubles interpose;</L>
+<L>With that small Joy you yet possess,</L>
+<L>And ev'ry Day is growing less;</L>
+<L>While you have some Remains of Reason,</L>
+<L>Prethee make use of them in season;</L>
+<L>And without any more delay,</L>
+<L>In secret make thy self away.</L>
+<L>Dear Rogue, go hang thy self; I vow,</L>
+<L>I would not urge thee to it now,</L>
+<L>But that it will so well become you,</L>
+<L>And ev'ry one expects it from you.</L>
+<L>'Twill be the most Heroick thing,</L>
+<L>Resolv'd like a true <HI>Brentford</HI> King,</L>
+<L><PB N="131" REF="70">Who by his own Hands would have fell a</L>
+<L>Sad Sacrifice to dead <HI>Lardella.</HI></L>
+<L>You may give out, <HI>Selena's</HI> Scorn,</L>
+<L>Intolerable to be born,</L>
+<L>Occasion'd it; and you may feign,</L>
+<L>The dire Effects of her Disdain</L>
+<L>Cut you so deeply to the Heart,</L>
+<L>That it was better to depart</L>
+<L>This Life, and end your Miseries,</L>
+<L>Than to die daily by her Eyes.</L>
+</LG>
+<LG>
+<L>You've read o' th' Queen of <HI>Carthage, Dido,</HI></L>
+<L>That dancing, drinking, merry Widow,</L>
+<L>When her belov'd <HI>Aeneas</HI> shook her</L>
+<L>Off, and unworthily forsook her,</L>
+<L>She grew the melancholiest Creature</L>
+<L>On Earth: She'd wring her Hands, and beat her</L>
+<L>Breast, plung'd in ruful Woe: At last,</L>
+<L>Convinc'd all Hopes from him were past,</L>
+<L>An end to her fell Grief she puts,</L>
+<L>By striking Dagger in her Guts.</L>
+<L><PB N="132" REF="71">This useful Halter, if you please,</L>
+<L>Would fain afford you the same Ease,</L>
+<L>And free you by convenient Stretch</L>
+<L>From growing more and more a Wretch.</L>
+<L>Altering the Motion of a Muscle,</L>
+<L>Or so, does it without a Bustle.</L>
+<L>More Instances I dare engage</L>
+<L>To cite, and Arguments alledge,</L>
+<L>To prove this Action truly needful,</L>
+<L>And graceful for you, tho' 'tis dreadful:</L>
+<L>But if you're scrupulous to do't,</L>
+<L>Let these Five Motives press you to't.</L>
+</LG>
+<LG>
+<L>First then, You far in Years are gone,</L>
+<L>And broke in Constitution;</L>
+<L>Your Vigour fails, and Nat'ral Talent,</L>
+<L>Which best should fit you for a Gallant,</L>
+<L>Is now enfeebled, and become</L>
+<L>Already a meer <HI>Pendulum.</HI></L>
+<L>Yet by your Freaks, and Monkey-Tricks,</L>
+<L>Do you debauch the weaker Sex.</L>
+<L><PB N="133" REF="71">Not that the slender Wast of Miss</L>
+<L>By you receives a Prejudice;</L>
+<L>There your Efforts are ineffectual:</L>
+<L>But on their slenderer Intellectual,</L>
+<L>By the Fop doodle of your Wit,</L>
+<L>What horrid Rapes do you commit?</L>
+<L>And Ravishment, you know, is Death,</L>
+<L><HI>Anno Dec. Oct. Elizabeth.</HI></L>
+</LG>
+<LG>
+<L>Secondly, Once for all to dangle,</L>
+<L>Is better than continual Wrangle,</L>
+<L>Than Roguing the King's best Leige people,</L>
+<L>As meriting the Gallow Tripple,</L>
+<L>Without affording the least Proof,</L>
+<L>As if thy Say-so was enough,</L>
+<L>And held by Patent <HI>Ipse dixit,</HI></L>
+<L>Infamy where you please to fix it.</L>
+<L>No Man reputed Loyal was</L>
+<L>For his Obedience to the Laws,</L>
+<L>And therefore ought to be protected,</L>
+<L>But he who did as you directed.</L>
+<L><PB N="134" REF="72">Go hang thy self, since <HI>Caesar</HI>'s Due</L>
+<L>Is not to be purloin'd by you.</L>
+</LG>
+<LG>
+<L>Thirdly, You ought to close your Chaps</L>
+<L>By your own Hand, because, perhaps,</L>
+<L>Transgressions by thee perpetrated</L>
+<L>Are with that Subtilty committed,</L>
+<L>They cannot come within the reach</L>
+<L>Of Laws, or Cognizance of <HI>Ketch;</HI></L>
+<L>Yet, if well-weigh'd in their own Nature,</L>
+<L>They may be judg'd to merit greater,</L>
+<L>And should have Punishment severer,</L>
+<L>Than either Felon or Burglarer.</L>
+<L>Hence therefore you're oblig'd to be</L>
+<L>In Equity <HI>Felo de se.</HI></L>
+</LG>
+<LG>
+<L>Fourthly, You cannot think it strange</L>
+<L>If Times should have a sudden Change:</L>
+<L>Nothing (you know) that's violent</L>
+<L>In Nature, can be permanent.</L>
+<L><HI>Britannia</HI> sore with Wrongs opprest,</L>
+<L>Has her Eyes fix'd towards the East,</L>
+<L><PB N="135" REF="72">And seems with eagerness from thence</L>
+<L>To look for a Deliverance.</L>
+<L>Such Revolution will for certain</L>
+<L>In no wise meliorate your Fortune.</L>
+<L>The Office may your House ensure,</L>
+<L>Yet not your Person be secure:</L>
+<L>For on so great an Alteration</L>
+<L>The Whipping-posts throughout the Nation,</L>
+<L>The Rods and Axes, Pill'ry, Gibbet,</L>
+<L>Will change their Side too, and distribute</L>
+<L>Due Punishments for old Abuses,</L>
+<L>On those who put them to wrong Uses.</L>
+<L>All this may come to pass, and rotten</L>
+<L>Eggs for a little may be gotten.</L>
+<L>Rather than (like Sir <HI>Hudibrass</HI>)</L>
+<L>With Orange-tawny Slime your Face,</L>
+<L>Some bold unlucky Knave should maul,</L>
+<L>Truss up your self for good and all.</L>
+<L>Which brings me to the Fifth and Last</L>
+<L>Motive to make you tie it fast.</L>
+<L>(For do but you secure the Knot,</L>
+<L>I'll pass my Word the Rope holds out.)</L>
+</LG>
+<LG>
+<PB N="136" REF="73">
+<L>Fifthly, You can't for shame refuse</L>
+<L>To thrust your Head into the Noose,</L>
+<L>Because so many of your Followers</L>
+<L>At <HI>Tyburn</HI> have wore Hempen Collars.</L>
+<L>Thither your Devilish Doctrines brought them,</L>
+<L>Meerly for doing as you taught them:</L>
+<L>Your self the Procatarctic Cause</L>
+<L>Of their transgressing of the Laws.</L>
+<L>Your <HI>Will i' Wisp</HI> was their Undoing,</L>
+<L>And led the Wretches to their Ruine.</L>
+<L>Therefore what I advise you, do Man:</L>
+<L>You know 'twas usual with the <HI>Roman;</HI></L>
+<L>Who when he found himself in trouble,</L>
+<L>Esteem'd the Practice Brave and Noble</L>
+<L>Himself by Ponyard to dispatch:</L>
+<L>Why not as Brave, by Rope to stretch?</L>
+<L>Why should the Rope be reckon'd meaner?</L>
+<L>When Sons and Brothers o' th' <HI>Grand Seignior</HI></L>
+<L>Repute it no ignoble thing</L>
+<L>To have Death giv'n them by a String.</L>
+</LG>
+<LG>
+<PB N="137" REF="73">
+<L>For Use then, <HI>Quae cum ita sint,</HI></L>
+<L>You'll hang your self, I'm confident.</L>
+<L>Let not one Doubt or Fear prevail;</L>
+<L>Be res'lute, and you cannot fail.</L>
+<L>Farewell; make haste to Execution;</L>
+<L>Do't handsomly; and, for conclusion,</L>
+<L>When in th' High-way they've made your Grave,</L>
+<L>I'll give you this for <HI>Epitaph.</HI></L>
+</LG>
+<LG>
+<HEAD>EPITAPH.</HEAD>
+<L>HERE lies (take notice you that travel)</L>
+<L>With Stake of Wood drove thro' his Navel,</L>
+<L>That which remains of Sir <HI>Pendragon,</HI></L>
+<L>A famous Writer not long agone;</L>
+<L>Who, when his Ink-bottle was spent,</L>
+<L>Thus perish'd in a Discontent.</L>
+<L>Die with him all Prevarication</L>
+<L>On Laws, Religion, Prince, and Nation.</L>
+</LG>
+<CLOSER><SIGNED>Yours,&mdash;</SIGNED></CLOSER>
+</DIV2>
+</LETTER>
+<PB N="138" REF="74">
+<LG>
+<L><HI>Yours,</HI>&mdash;(quoth the Knight) and there's an end.</L>
+<L>My what?&mdash;<HI>My precious loving Friend.</HI></L>
+<L>A fine Epistle, to collogue</L>
+<L>Me to believe my self a Rogue!</L>
+<L>Nay, 'twould perswade me very fain</L>
+<L>I am so great a Rogue in Grain,</L>
+<L>That I without demurring ought</L>
+<L>Into this Rope to thrust my Throat,</L>
+<L>And (maugre natural Aversion)</L>
+<L>Destroy my goodly proper Person.</L>
+<L>Soft! if I've plaid the Knave, no Rule</L>
+<L>From thence, that I must play the Fool,</L>
+<L>Murder my self, for sneering Knave</L>
+<L>To gibe thereat, and jeer, and laugh.</L>
+<L>I'm not from Glory's Precipice</L>
+<L>So fall'n, to follow this Advice.&mdash;</L>
+<L>And then he paus'd.&mdash;But yet I doubt</L>
+<L>My Candle is a going out.</L>
+<L>This filthy Letter does unfold</L>
+<L>More Truth than's fitting to be told,</L>
+<L><PB N="139" REF="74">And hits some things so devilish pat,</L>
+<L>From <HI>Lapland</HI> it must bear its Date.</L>
+<L>What but some Devil-Scout could tell</L>
+<L>That lately all my Presents fail?</L>
+<L>Because I'm sure no Man alive</L>
+<L>Can ever prove a Negative.</L>
+<L>And what but such could undermine</L>
+<L>Each secret Practice and Design</L>
+<L>That I have driven on of late</L>
+<L>Both in Affairs of Church and State?</L>
+<L>What else could give that shameful Tergi-</L>
+<L>versation to me from the Clergy?</L>
+<L>And some of them who lick'd my Spittle</L>
+<L>Sent me perhaps this very Snittle.</L>
+<L>What made <HI>Selena</HI> (like a Jilt)</L>
+<L>To foster Love, and then to kill't?</L>
+<L>As they who wrote this base Epistle</L>
+<L>Know that she us'd me like a Beast, ill.</L>
+<L>Yet I must yield, for want of Powers</L>
+<L>To force the Sex to pay her Scores.</L>
+<L>Tho' I bristle like a Turkey-cock,</L>
+<L>I have not half so fine a Dock.</L>
+<L><PB N="140" REF="75">'Tis as in vain t'attempt to spread</L>
+<L>My Tail, as it would be to tread:</L>
+<L>I'll walk no more amongst the Hens,</L>
+<L>Lest they find out my Impotence.</L>
+<L>A long Farewell to now the stupid</L>
+<L>And childish Fooleries of <HI>Cupid:</HI></L>
+<L>But I've no Reason to complain</L>
+<L>Of Disabilities of Brain.</L>
+<L>Yet should the Fourth vile Motive prove</L>
+<L>A Truth, I may see Cause enough</L>
+<L>To hang my self; I should be a Man</L>
+<L>In worse Condition than was <HI>Haman:</HI></L>
+<L>The very Thoughts whereof do make</L>
+<L>My Limbs and Faculties to shake;</L>
+<L>Because there flies a strong Report</L>
+<L>Concerning terrible Effort</L>
+<L>Preparing to be made against</L>
+<L>Our <HI>Tory</HI> Friends, and Popish Saints.</L>
+<L>But Hope says, <HI>Accidents may slip</HI></L>
+<L><HI>Betwixt the Cup and upper Lip:</HI></L>
+<L><HI>Let not</HI> (before the time, so soon)</L>
+<L><HI>My noble Courage be cast down;</HI></L>
+<L><PB N="141" REF="75">And let not Fear with wonder gaze</L>
+<L>On what may never come to pass.</L>
+<L>I and my Monarch rest secure,</L>
+<L>Defended by the double Power</L>
+<L>Of potent Army in the Land,</L>
+<L>And Judges, who the Laws command.</L>
+</LG>
+</DIV1>
+<DIV1 N="10" TYPE="canto">
+<PB N="142" REF="76">
+<HEAD>October's <HI>CANTO.</HI></HEAD>
+<ARGUMENT>
+<HEAD>ARGUMENT.</HEAD>
+<LG>
+<L>The Knight and Squire in Coffee-house</L>
+<L>Hear most unacceptable News:</L>
+<L>They meet their Match, be'ng told their own</L>
+<L>By one to both of them unknown.</L>
+<L>Yet <HI>Laurence</HI> Tidings doth impart,</L>
+<L>Which puts them both again in Heart.</L>
+</LG>
+</ARGUMENT>
+<HEAD>CANTO.</HEAD>
+<LG>
+<L><HI>PEndragon,</HI> when we left him last,</L>
+<L>Promis'd Security and Rest</L>
+<L>T' himself, and those of his Adherence;</L>
+<L>But ev'ry Day gave less Appearance</L>
+<L>(From the black Clouds of threatning Storm)</L>
+<L>That he this Promise could perform.</L>
+</LG>
+<LG>
+<PB N="143" REF="76">
+<L>For not a Night he laid him down</L>
+<L>Without deep Sighs, and many a Groan.</L>
+<L>His Anguish sometimes made him Weep;</L>
+<L>And if by chance he fell asleep,</L>
+<L>It yielded melancholy Theams</L>
+<L>Dire Spectres, and most frightful Dreams;</L>
+<L>A formidable <HI>Whigg</HI> Hobgoblin,</L>
+<L>With Sawcer-Eyes, appears to trouble him,</L>
+<L>And running on, with crooked Prongs</L>
+<L>Pok'd at Sir Knight, for former Wrongs.</L>
+<L>If this withdrew, his Fancy next</L>
+<L>A Hempen Apparition vext.</L>
+</LG>
+<LG>
+<L>While <HI>Hugh,</HI> kept waking with like Feats,</L>
+<L>Betimes unto the Knight repairs,</L>
+<L>To ask him whether he could tell</L>
+<L>If what was talk'd was credible;</L>
+<L>Or knew from out what Trumpet came</L>
+<L>This strange Report of tat'ling Fame.</L>
+<L>I'm in great hopes (quoth <HI>Hugh</HI>) it flies</L>
+<L>From that wherewith she scatters Lies.</L>
+</LG>
+<LG>
+<PB N="144" REF="77">
+<L><HI>Pendragon</HI> said, I'm not without</L>
+<L>Some Fears, and Jealousies, and Doubt,</L>
+<L>That such concurring various Causes</L>
+<L>Might contribute some pretty Crosses:</L>
+<L>But saw no danger of Event</L>
+<L>To over-turn the Government:</L>
+<L>Nor did he think the Tales which flew</L>
+<L>About confus'd'ly, could be true.</L>
+<L>Yet that they well might understand too</L>
+<L>The <HI>Quis, Quid, Quomodo, Cur, Quando,</HI></L>
+<L>Of this bold Whisper, Both agreed</L>
+<L>To walk with all convenient speed</L>
+<L>To the next Coffee-house of Fame,</L>
+<L>To learn the Certainty o' th' same.</L>
+</LG>
+<LG>
+<L>Mean while there's not a Word let drop</L>
+<L>About th' Adventure of the Rope;</L>
+<L>Of which the Knight as little said</L>
+<L>As <HI>Hugh</HI> when he was nipt o' th' Head.</L>
+</LG>
+<LG>
+<PB N="145" REF="77">
+<L>Crossing the Street, it so did fall</L>
+<L>By chance, that <HI>Hugh</HI> was next the Wall;</L>
+<L>For which he doth apologize,</L>
+<L>And cries, Sir, let me blush for this;</L>
+<L>'Tis indecorous; nor should I</L>
+<L>Take Place of better Quality,</L>
+<L>But that a Surdity in Ear sinister</L>
+<L>To me much Trouble doth admin'ster.</L>
+</LG>
+<LG>
+<L>The Knight reply'd, Custom and Use</L>
+<L>Was a sufficient full Excuse;</L>
+<L>And bid him speak no more of that,</L>
+<L>But keep the Wall, and put on's Hat.</L>
+</LG>
+<LG>
+<L>When they were come in Coffee-room,</L>
+<L>Thro' misty Clouds of different Fume</L>
+<L>Spying one empty Table there,</L>
+<L>They sat them down with prick'd-up Ear.</L>
+</LG>
+<LG>
+<L>No sooner each had call'd for's Dish,</L>
+<L>But enters one with smiling Phiz,</L>
+<L><PB N="146" REF="78">With Riding-Whip, and dirty Boots,</L>
+<L>And in 'twixt Knight and Squire he puts.</L>
+<L><HI>What News?</HI> was ask'd by ev'ry Body,</L>
+<L>Who had their Answers to't as ready.</L>
+<L>Yet <HI>Hugh</HI> this Stranger pumps beyond</L>
+<L>Good Manners, and the decent Bound</L>
+<L>Of Modesty, that he'd unload</L>
+<L>What he had gather'd on the Road.</L>
+</LG>
+<LG>
+<L>Sir, quoth <HI>Ignotus,</HI> (so an't please ye</L>
+<L>We call the Stranger) You're uneasie</L>
+<L>Methinks, at these Reports which fly</L>
+<L>About our Ears, beneath the Sky:</L>
+<L>Therefore, for Satisfaction, know,</L>
+<L><HI>Arthur</HI> of <HI>Britain,</HI> like a Crow,</L>
+<L>Has gone the World round many a Year,</L>
+<L>And just now we expect him here.</L>
+<L>Which News as sure and certain is,</L>
+<L>As that there was an <HI>Amadis</HI></L>
+<L><HI>De Gaul,</HI> a <HI>Fiarbras,</HI> or <HI>Guy</HI></L>
+<L><HI>Of Warwick,</HI> or of <HI>Burgundy</HI></L>
+<L><PB N="147" REF="78">A <HI>Lanc'lot de Lake,</HI> and Queen <HI>Genover,</HI></L>
+<L>(Who by none living now were seen ever)</L>
+<L>A <HI>British</HI> Lady call'd <HI>Quintanione,</HI></L>
+<L>Who drank as much Wine as did any one:</L>
+<L>Yet, says the Knight o' th' <HI>Mancha,</HI> those</L>
+<L>Must not be reckon'd Fabulous.</L>
+</LG>
+<LG>
+<L>As sure as (I dare boldly say)</L>
+<L><HI>Perseus</HI> reliev'd <HI>Andromeda,</HI></L>
+<L>Prince <HI>Arthur</HI>'s sailing cross the Seas,</L>
+<L>Even now, <HI>Britannia</HI> to release,</L>
+<L>To heal her Wounds, and break the Shackles</L>
+<L>Put on her by unnat'ral Rake-hells;</L>
+<L>Who by pretence of Loyalty,</L>
+<L>Would bring us into Slavery;</L>
+<L>And fain would cokes us, or affright,</L>
+<L>From Liberties, and Law, and Right:</L>
+<L>Who <HI>Rome</HI>'s Religion here would fix,</L>
+<L>In Masses, and the Crucifix;</L>
+<L>And would have nothing more to do</L>
+<L>With the <HI>Old Testament,</HI> or <HI>New:</HI></L>
+<L><PB N="148" REF="79">As <HI>Dunkeld</HI>'s Bishop told Dean <HI>Thomas,</HI></L>
+<L>I've liv'd as comfortably as some has,</L>
+<L>And yet, upon my Word and Troth,</L>
+<L>I ne'er read either of them Both.</L>
+<L>Look you, Sir, whosoe'er you are,</L>
+<L>I know not, and as little care:</L>
+<L>But mind me; We have had of late</L>
+<L>Such precious Ministers of State,</L>
+<L>Such Priests, and Lawyers, who laid by</L>
+<L>Religion, Law, and Property.</L>
+<L>Once cry'd a Priest of ours, Alas!</L>
+<L>Why should we start at hearing Mass?</L>
+<L>We lik'd it once, before we lost it,</L>
+<L>And shall again when we are us'd to't.</L>
+<L>'When introduc'd (over or under)</L>
+<L>Twill give us about Nine Days Wonder.</L>
+<L>As well might the same Gentleman</L>
+<L>Have said Nine more for th' <HI>Alcoran.</HI></L>
+</LG>
+<LG>
+<L>Another, some few Years before,</L>
+<L>Fond of a Popish Successor,</L>
+<L><PB N="149" REF="79">In his Address he makes to th' King,</L>
+<L>Tells him, to fright him from the Thing,</L>
+<L>His next Heir's Disinherison</L>
+<L>Was such, that no Religion,</L>
+<L>No Law, no Fault, no Forfeiture,</L>
+<L>(Take Wind a little, Doctor G&mdash;)</L>
+<L>Could the same alter or diminish:</L>
+<L>And why not, add to, or replenish?</L>
+<L>Such was the Learned Doctor's Speech,</L>
+<L>As Coblers, who when heard to preach,</L>
+<L>Do always go beyond their Last,</L>
+<L>This out run Constable as fast,</L>
+<L>Who might (upon a due Enquiry)</L>
+<L>Have seiz'd him on a <HI>Praemunire.</HI></L>
+<L>Thus 'tis when Priest will blindly rush on</L>
+<L>Things quite beside his Pulpit-Cushion.</L>
+<L>Suppose the next Heir was a Felon,</L>
+<L>And caught i' th' very Act of Stealing;</L>
+<L>Sure that which takes away his Life,</L>
+<L>Will of Succession him deprive.</L>
+<L>Which for a Truth you may rehearse.</L>
+<L>Sir, I love Reasoning in Verse.</L>
+</LG>
+<LG>
+<PB N="150" REF="80">
+<L>All this did Sir <HI>Pendragon</HI> hear,</L>
+<L>Who could not for his Blood forbear</L>
+<L>Longer from giving smart Reply;</L>
+<L>Sir, 'tis a sawcy Liberty</L>
+<L>You take, in making these Reflexions</L>
+<L>On Statesmens, Priests, and Princes Actions.</L>
+<L>You who the Government arraign</L>
+<L>For not conforming to your Brain,</L>
+<L>To know your Duty better ought,</L>
+<L>Or be t' its Rods Submission taught.</L>
+<L>'Tis therefore very fitting I</L>
+<L>Demand of you Security,</L>
+<L>Or make your <HI>Mittimus</HI> unto</L>
+<L>A Place where you'd be loth to go.</L>
+</LG>
+<LG>
+<L>How! (quoth <HI>Ignotus</HI>) What I've told</L>
+<L>Touches your Worships Copy-hold.</L>
+<L>Have I found where the Shooe doth pinch?</L>
+<L>I see I make a gall'd Horse winch.</L>
+<L>On second Thoughts you'll take Advice,</L>
+<L>And e'er you act, consider twice;</L>
+<L><PB N="151" REF="80">Suspend your own Authority</L>
+<L>A while, and lay Resentment by.</L>
+<L>Not that I want sufficient Bail;</L>
+<L>But 'tis at present under Sail.</L>
+<L>I'll be forth-coming, on Parol,</L>
+<L>On day of Trial, safe and whole.</L>
+<L>You hear of strange unusual Lights</L>
+<L>Which in the Skies appear at Nights:</L>
+<L>Some wear a discontented Look,</L>
+<L>That High-Commission Seal is broke,</L>
+<L>Now that Old Charters are restor'd,</L>
+<L>And Councils tend to an Accord.</L>
+<L>He that afresh creates a Squabble,</L>
+<L>Displeases both the Court and Rabble.</L>
+<L>'Tis unsafe to lay a Man by th' Heels</L>
+<L>Now a Day's coming for Appeals.</L>
+</LG>
+<LG>
+<L><HI>Pendragon</HI> gnash'd his Teeth for Anger,</L>
+<L>Not knowing how to deal with Stranger.</L>
+<L><HI>Hugh</HI> bit his Lips with Indignation,</L>
+<L>To hear of Charters Restoration;</L>
+<L><PB N="152" REF="81">Grew pale, lest he who caus'd Surrender</L>
+<L>Should be impeach'd for an Offender.</L>
+<L>But the Knight mutter'd, Talk's but idle,</L>
+<L>Licentious Tongues may meet a Bridle</L>
+<L>When least they think to feel Restraint.</L>
+<L>Then up he rose, and out he went.</L>
+<L><HI>Hugh</HI> stands and strikes his Fist like Muttons</L>
+<L>On his own Breast, against his Buttons.</L>
+<L>Quoth he, No Man that wears a Head</L>
+<L>Durst speak the Things that you have said,</L>
+<L>Without being call'd t' account therefore:</L>
+<L>Then cock'd, and strutted out a-door.</L>
+<L><HI>Pendragon</HI> made a little Stop</L>
+<L>A Pissing-while, till <HI>Hugh</HI> came up;</L>
+<L>Then whisper'd, as along they sawnter'd,</L>
+<L>What a strange Fellow we encounter'd!</L>
+<L>Who, had he what to him belong'd,</L>
+<L>Ought to be whipp'd, and rack'd, and hang'd.</L>
+<L>A Commonwealths-man, you may swear,</L>
+<L>By his unlucky Looks, and Fleer;</L>
+<L>And in Religion his Opinion</L>
+<L>Is <HI>Calvinist,</HI> or else <HI>Socinian.</HI></L>
+<L><PB N="153" REF="81">I hate him for the News he told,</L>
+<L>Which makes my very Blood turn cold,</L>
+<L>Puts me all o'er into a Shiver,</L>
+<L>Like a strong Access of a Fever.</L>
+<L>Nor can I draw a Right Conclusion</L>
+<L>From Things appearing in Confusion.</L>
+</LG>
+<LG>
+<L>O lamentable, Sir, (quoth <HI>Hugh</HI>)</L>
+<L>What we have heard's most certain true;</L>
+<L>And should our Fears too come to pass,</L>
+<L>We're in a miserable Case;</L>
+<L>All of us ruin'd and undone,</L>
+<L>The Father, Mother, Sister, Son.</L>
+<L>Thus with Complaints most dolorous</L>
+<L><HI>Hugh</HI> waits upon the Knight to's House:</L>
+<L>Where <HI>Laurence</HI> met them at the Door,</L>
+<L>And, seeing them look sad and sowre,</L>
+<L>Courage, (he cry'd) my worthy Friends,</L>
+<L>Much better Fortune us attends,</L>
+<L>Perhaps, than may to you be known:</L>
+<L>By an Express this Afternoon</L>
+<L><PB N="154" REF="82">Certain Intelligence is come,</L>
+<L>That adverse Storms have driven home</L>
+<L>Th' <HI>Armado,</HI> which it seems design'd</L>
+<L>To reach our Coasts against the Wind.</L>
+<L>The Fleet which would have been invading</L>
+<L>Our Shore, is on their own unlading.</L>
+<L>Strong <HI>Boreas,</HI> and the gentle <HI>Zephir,</HI></L>
+<L>(Thank them) have done their Bus'ness clever.</L>
+<L>And bravely whistled in the Poop</L>
+<L>Of those who bore so briskly up;</L>
+<L>Who sail without the leave of <HI>Neptune,</HI></L>
+<L>And <HI>Aeole</HI> better might have kept in,</L>
+<L>Than thus to hazard what they've lost,</L>
+<L>That is, their Labour and their Cost.</L>
+<L>A most severe Rebuff from Fortune.</L>
+<L>And now the Days begin to shorten,</L>
+<L>Now <HI>Sol</HI> curtails his daily Journeys,</L>
+<L>No fear in haste of their Return is.</L>
+<L>In Arms next Spring we'll meet our Foes,</L>
+<L>And all the Winter sing <HI>Old Rose.</HI></L>
+</LG>
+<LG>
+<PB N="155" REF="82">
+<L>Your welcom News <HI>(Pendragon</HI> said)</L>
+<L>Revives and makes my Spirits glad.</L>
+<L>In hopes kind Fortune won't forsake us,</L>
+<L>We'll make a Sacrifice to <HI>Bacchus.</HI></L>
+<L>Come in, Friend <HI>Hugh,</HI> and honest <HI>Laurence,</HI></L>
+<L>I'll find a double Flask of <HI>Florence;</HI></L>
+<L>Of which we'll drink first every Man</L>
+<L>A Bumper to the Health of <HI>Pan.</HI></L>
+<L>That down, we'll fill and drink another</L>
+<L>To beauteous <HI>Syrinx,</HI> happy Mother</L>
+<L>Of little <HI>Daphnis;</HI> then a Third</L>
+<L>To that young, thriving, hopeful Bird:</L>
+<L>And then, Confusion to all States,</L>
+<L>Founded on Piles, and Water-Rats.</L>
+<L>So these <HI>Canary</HI>'s of a Feather</L>
+<L>Do for the present flock together.</L>
+<L>And 'tis but reas'nable and fit</L>
+<L>That short-liv'd Pleasures should be sweet.</L>
+<L><HI>Mensis Octobris explicit.</HI></L>
+<L>So was Authentick <HI>Chaucer</HI> wont</L>
+<L>At a full Period or Point&punc;</L>
+<L>Of the same Tale, to close the Joint.</L>
+</LG>
+</DIV1>
+<DIV1 N="11" TYPE="canto">
+<PB N="156" REF="83">
+<HEAD>November's <HI>CANTO.</HI></HEAD>
+<ARGUMENT>
+<HEAD>ARGUMENT.</HEAD>
+<LG>
+<L>The last Months Rumour true in this is:</L>
+<L>And Knight and Squire are broke in Pieces.</L>
+<L>The one the others Woe recites,</L>
+<L>While <HI>Sol</HI> in <HI>Sagitt<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">ry</HI> smites:</L>
+<L>And all unfortunate Presages</L>
+<L>Promise them Payment of their Wages.</L>
+</LG>
+</ARGUMENT>
+<HEAD>CANTO.</HEAD>
+<LG>
+<L>JUst as old Time does Seasons vary,</L>
+<L>So does he all Things Sublunary.</L>
+<L>Fortune stands never at a Bay,</L>
+<L>But dances a continu'd Hay</L>
+<L>To the same Measures, and same Tune;</L>
+<L>As little <HI>Orbis,</HI> Sun and Moon.</L>
+<L><PB N="157" REF="83">Things Good, Bad, and Indifferent are</L>
+<L>Making a Tripartite Indenture.</L>
+<L>Sometimes the Best, and sometimes Worst,</L>
+<L>Are First, and Last; and Last, and First.</L>
+<L>Of some sweet Pleasures the Acquaintance</L>
+<L>Is dearly purchas'd by Repentance.</L>
+<L>Joy ended, turns to Melancholy,</L>
+<L>And Wisdom quits the Chair to Folly.</L>
+<L>Sun-shine doth for a Time prevail,</L>
+<L>Then down it pours in Rain and Hail.</L>
+<L>Riches themselves are brought to (by</L>
+<L>Privation of them) Poverty.</L>
+<L>Long Luxury and Idleness</L>
+<L>Make War succeed inglorious Ease.</L>
+<L>Which Aphorisms, like conj'ring Spells,</L>
+<L><HI>Hebrew</HI> or Pagan Oracles,</L>
+<L>With the same ease may be read backward,</L>
+<L>And teach us how this World is checquer'd.</L>
+<L>As, War brings Poverty and Peace;</L>
+<L>And, When 't has rain'd enough, 'twill cease.</L>
+<L>Health follows Sickness; Plenty, Dearth;</L>
+<L>And, Sorrow is reliev'd by Mirth.</L>
+<L><PB N="158" REF="84">Pleasure arises from Disasters;</L>
+<L>And, Sores are cur'd by healing Plasters.</L>
+<L>Fortune the Riches may encrease</L>
+<L>Of one so poor he scarce can piss,</L>
+<L>And such like intermediate Changes</L>
+<L>Turn on Occasions pliant Hinges.</L>
+<L>An Evil and a Happy Day</L>
+<L>By Turns each other will repay.</L>
+<L>The faulty Curate, Squire, and Knight,</L>
+<L>So lately wrapp'd in false Delight,</L>
+<L>Are now to drink unwelcom Dose;</L>
+<L>And, <HI>Sweet Meat must have sowr Sawce.</HI></L>
+</LG>
+<LG>
+<L>The Mirth which with the Flask was brought,</L>
+<L>Almost as soon as That, was out.</L>
+<L>Approaching Changes in the State</L>
+<L>Alarm'd our wise <HI>Triumvirate,</HI></L>
+<L>And made them shake their Ears, and rise</L>
+<L>From their mistaken Paradise.</L>
+<L>With Consternation they were struck,</L>
+<L>And shew'd it plainly in their Look;</L>
+<L><PB N="159" REF="84">And the most wise amongst them knew</L>
+<L>Not what to think, or say, or do,</L>
+<L>Convinc'd that <HI>Laurence</HI>'s glad Tiding</L>
+<L>They could no longer now confide in;</L>
+<L>Hearing the Wind about had turn'd,</L>
+<L>And quite contrary News confirm'd.</L>
+</LG>
+<LG>
+<L>For Carriers, Travellers, and Post,</L>
+<L>Not only told, that <HI>Arthur</HI>'s Host</L>
+<L>Was landed: but Bells jolly Ringing,</L>
+<L>And Peoples merry Looks and Singing,</L>
+<L>Proclaim'd the glad Intelligence</L>
+<L>Of the Deliverer's Advance.</L>
+</LG>
+<LG>
+<L>As <HI>Hugh</HI> walk'd out, a Raven o'er</L>
+<L>His Head flew croaking,&mdash;<HI>Come a-shore.</HI></L>
+<L>To shun that Sight, he downward looking,</L>
+<L>Spy'd wrong side outward of his Stockin;</L>
+<L>And when at Dinner, by mishap,</L>
+<L>He spilt the Salt in his own Lap.</L>
+<L>Then hastning to <HI>Pendragon</HI>'s House,</L>
+<L>Three Drops of Blood fell from his Nose.</L>
+<L><PB N="160" REF="85">Entring he stumbl'd at the Threshold,</L>
+<L>And had fal'n, had he not caught fresh Hold.</L>
+<L>All which ill <HI>Omens,</HI> so tremendous,</L>
+<L>Made <HI>Hugo</HI> sigh, <HI>Ye Powers defend us.</HI></L>
+</LG>
+<LG>
+<L>The Knight receiv'd him with an Air</L>
+<L>Disclosing Grief and sad Despair;</L>
+<L>Not bid him Welcom, or Sit down;</L>
+<L>But wrapp'd up in his Studying-Gown</L>
+<L>The thoughtful Sir <HI>Pendragon</HI> sate,</L>
+<L>Most wofully disconsolate,</L>
+<L>Depriv'd a while as much from Speech</L>
+<L>As when <HI>Selena</HI> turn'd her Breech.</L>
+<L><HI>Hugo,</HI> no less concern'd, was fretted,</L>
+<L>And felt his Spirits agitated;</L>
+<L>Who thus accosts the Knight, Your Silence</L>
+<L>Was not so great, when but a while hence,</L>
+<L>Sir, you could laugh, and talk, and drink:</L>
+<L>Now, Sweet Sir, tell me what you think.</L>
+<L>They're landed, and advance; I pray,</L>
+<L>What is thy Counsel? Prethee say,</L>
+<L><PB N="161" REF="85">What 'tis that you design to do?</L>
+<L>Sir, (quoth the Knight) What's that to you?</L>
+<L>Your Question's insolent and base;</L>
+<L>I liv'd before I saw your Face,</L>
+<L>And shall know how to steer my Course</L>
+<L>Unaided by your Silver Spurs.</L>
+</LG>
+<LG>
+<L>If this be all that I (quoth <HI>Hugh</HI>)</L>
+<L>Can for an Answer get from you,</L>
+<L>I ask no Succour from your Gilt ones;</L>
+<L>Your Par'dise is as lost as <HI>Milton</HI>'s:</L>
+<L>Your Friend, the Devil, call'd <HI>Old Nick,</HI></L>
+<L>Has serv'd you but a slipp'ry Trick,</L>
+<L>And keeps himself at greatest distance</L>
+<L>When you've most need of his Assistance.</L>
+<L>I thought the Articles, when drawn</L>
+<L>Betwixt you, had been made more strong,</L>
+<L>The mutual Compact and Agreement</L>
+<L>Been seal'd with a more lasting Cement;</L>
+<L>Not to determine at a Day,</L>
+<L>But hold for Ever and for Aye:</L>
+<L><PB N="162" REF="86">So that no Chance of War, no Change</L>
+<L>In Church or State, could make you strange</L>
+<L>To one another, once so loving,</L>
+<L>And in one Int'rest interwoven.</L>
+</LG>
+<LG>
+<L>Quoth Sir <HI>Pendragon,</HI> You're a Puppy</L>
+<L>To talk thus, and 'tis time to stop you.</L>
+<L>A sawcy Jackanapes you are,</L>
+<L>Or turn'd as mad as <HI>March</HI>'s Hare.</L>
+<L>You should be shackl'd, and sent home,</L>
+<L>And lock'd up in a darken'd Room,</L>
+<L>Blooded and purg'd, to keep you quiet,</L>
+<L>With Meal and Water for your Diet;</L>
+<L>Fresh Straw, yout Hair close cut, or Shaving</L>
+<L>Your Coxcomb, to prevent its raving.</L>
+</LG>
+<LG>
+<L>Quoth <HI>Hugh,</HI> You're sooner like to find</L>
+<L>A Lodging of another kind:</L>
+<L>Be sent to the same Place again</L>
+<L>Where you in former Days have lain,</L>
+<L>Safely by Locks and Bars secur'd,</L>
+<L>Betwixt thick Walls of Stone immur'd:</L>
+<L><PB N="163" REF="86">The Room not dark, shall yield you Light</L>
+<L>Enough for you to see to write;</L>
+<L>Where Sun-shine, Rain, Beetles, and Gnats</L>
+<L>Shall play betwixt the Iron Grates.</L>
+<L>The Walls embelisht with the Slime</L>
+<L>Of Snails, which winding upward climb:</L>
+<L>In ev'ry Corner of the Room</L>
+<L>A Spider working at her Loom:</L>
+<L>Visits from Courteous Rats and Mice,</L>
+<L>Millions of Philanthropick Lice,</L>
+<L>Unwillingly will meet abstersion</L>
+<L>From close adherence to your Person:</L>
+<L>With great variety of swarming</L>
+<L>Insects, and pretty sort of Vermin.</L>
+</LG>
+<LG>
+<L>Thou tak'st a wonderful delight</L>
+<L>In thy own Prate, (reply'd the Knight)</L>
+<L>But canst thou think that I shall take it,</L>
+<L>Without belabouring thy Jacket?</L>
+<L>Or fairly breaking of the Scull</L>
+<L>Of such a gross insipid Fool;</L>
+<L><PB N="164" REF="87">Whom nothing can retrieve, so lost in</L>
+<L>His Wits, but Cudgels and Dry-basting.</L>
+</LG>
+<LG>
+<L>(Quoth <HI>Hugh</HI>) before you go to Blows,</L>
+<L>Think what you're like to get or lose.</L>
+<L>Tho' I so Low, and you so Tall,</L>
+<L>Your Haughtiness may catch a Fall;</L>
+<L>And when I've got you underneath,</L>
+<L>Should you escape with any Teeth,</L>
+<L>With Limbs un-broke, or Life, I dare say,</L>
+<L>'Twill be all owing to my Mercy:</L>
+<L>Or if I leave that Nose your Face on,</L>
+<L>Thanks to my Bowels of Compassion.</L>
+</LG>
+<LG>
+<L>Hear me (quoth Knight) e'er Passion rise</L>
+<L>To these most dire Extremities.</L>
+<L>Before you further me provoke</L>
+<L>To such an all-confounding Stroke</L>
+<L>As may prove fatal to Squire <HI>Hugh:</HI></L>
+<L>'Twere better timely he withdrew;</L>
+<L>'Tis worth his while t' avoid the Blow,</L>
+<L>And while Skin's whole, to keep it so;</L>
+<L><PB N="165" REF="87">To fly from Lord and Master's Anger,</L>
+<L>Before 'tis grown to too much Rancour.</L>
+</LG>
+<LG>
+<L>So then (quoth <HI>Hugh</HI>) since both to quarrel</L>
+<L>Are thus agreed, whichever Barrel</L>
+<L>Betwixt us be the better Herring,</L>
+<L>Give me, before we part, a Hearing.</L>
+<L>You've been a sort of Lord and Master</L>
+<L>To me and many in Disaster;</L>
+<L>But such an one as no Description</L>
+<L>Will suit, but that of an <HI>Aegyptian,</HI></L>
+<L>Expecting from us Labour hard,</L>
+<L>And Toil, without the least Reward.</L>
+<L>Thou'rt Author of our Griefs and Ails,</L>
+<L>But never got us any Veils.</L>
+<L>Is it enough to call me Friend,</L>
+<L>Without a Peny Dividend?</L>
+<L>Crosses indeed I've shar'd, but not</L>
+<L>One Cross in all the Coin you've got;</L>
+<L>Maugre your specious Promises,</L>
+<L>And cheating me of all my Fees;</L>
+<L><PB N="166" REF="88">Maugre the Sums that you have gather'd,</L>
+<L>My Nest's not much the better feather'd.</L>
+<L>Take notice, that I let you know,</L>
+<L>I'll not go Snips with you in Woe.</L>
+<L>I doubt not but to make good shift,</L>
+<L>When thou art sadly run a-drift.</L>
+<L>Whatever Turn of Times we see,</L>
+<L>My Legs shall be at Liberty,</L>
+<L>When yours, committed to a Jayl,</L>
+<L>Shall lie without Mainprise or Bail.</L>
+</LG>
+<LG>
+<L>So, (quoth <HI>Pendragon</HI>) like a Dolt</L>
+<L>Thou wisely hast discharg'd thy Bolt:</L>
+<L>'Tis n't strange when Cowards and Poltrons</L>
+<L>The Cause they have espous'd, renounce;</L>
+<L>Who make by their vile treachrous Fears</L>
+<L>The weakest sometimes Conquerors.</L>
+<L>Thou hast betray'd thy self too soon,</L>
+<L>And dost, before thou needest, run:</L>
+<L>You change your Side, before you know</L>
+<L>On which Side Victory will go.</L>
+<L><PB N="167" REF="88">But should the Foe receive Defeat,</L>
+<L>I'll stop you from a fresh Retreat.</L>
+<L>No petty Riot in the West</L>
+<L>Of Loyalty shall me divest;</L>
+<L>Not <HI>Arthur</HI> shall obstruct the Course</L>
+<L>Of my all-conqu'ring Monarch's Force.</L>
+</LG>
+<LG>
+<L>Tho' 't may be so, (quoth <HI>Hugh</HI>) it is</L>
+<L>More likely to be otherwise:</L>
+<L>Because I'm very confident</L>
+<L>You're not so blind and ignorant</L>
+<L>As not to know, Shoals of Deserters</L>
+<L>Run daily into <HI>Arthur</HI>'s Quarters.</L>
+<L>His Army gathers like a Snow-ball,</L>
+<L>While t' other only grows in trouble;</L>
+<L>As plainly may be seen (I' fack!)</L>
+<L>By th' Face of ev'ry <HI>Teague</HI> and <HI>Mac,</HI></L>
+<L>Who frighted, starts at his own Shadow.</L>
+</LG>
+<LG>
+<L>Be gone, thou scoundrel Renegado,</L>
+<L>Take that ill-boading Phiz (quoth Knight)</L>
+<L>Henceforth for ever from my Sight.</L>
+</LG>
+<LG>
+<PB N="168" REF="89">
+<L>For ever th&eacute;n (quoth <HI>Hugh</HI>) farewell;</L>
+<L>And in my Breast, where Love did dwell</L>
+<L>To thankless Knight, let Hatred come,</L>
+<L>With Wrath, and fill up all the Room.</L>
+<L>Let me with Scorn as much despise</L>
+<L>The Blockhead I once thought was wise.</L>
+</LG>
+<LG>
+<L><HI>Pendragon</HI> could for's Skin and Bones</L>
+<L>No longer put up these Affronts,</L>
+<L>Nor more such Provocations bear;</L>
+<L>But up he rises from his Chair,</L>
+<L>(With much ado he did refrain</L>
+<L>From medling with his Sword or Cane)</L>
+<L>Takes <HI>Hugh</HI> by th' Shoulder, and <HI>per</HI> Force</L>
+<L>Thrust him directly out of Doors.</L>
+<L>Which, tho' it vex'd him to the Guts,</L>
+<L>Yet walking forth, he cocks and struts.</L>
+</LG>
+<LG>
+<L><HI>Pendragon,</HI> in distracted Thought,</L>
+<L>Now found it time to cast about</L>
+<L><PB N="169" REF="89">What Course was best to save his Bacon,</L>
+<L>Suppose his Cause should be forsaken.</L>
+<L>Like <HI>Hugh</HI> he could not save himself,</L>
+<L>Because he wanted <HI>Hugo</HI>'s Pelf:</L>
+<L>And, for Offences more notorious,</L>
+<L>He fear'd Catastrophe inglorious.</L>
+<L>The great <HI>Volpone</HI> was at a stand,</L>
+<L>Driv'n, by his Fears, to his Wits end.</L>
+<L>The&punc; crafty, but distress'd <HI>Ulysses</HI></L>
+<L>Himself most wofully bepisses.</L>
+</LG>
+</DIV1>
+<DIV1 N="12" TYPE="canto">
+<PB N="170" REF="90">
+<HEAD>December's <HI>CANTO.</HI></HEAD>
+<ARGUMENT>
+<HEAD>ARGUMENT.</HEAD>
+<LG>
+<L>In haste <HI>Selena</HI> gets a Spouse.</L>
+<L><HI>Laurence</HI> in haste from his gets loose;</L>
+<L>Who cross'd the Seas, with many more,</L>
+<L>Whom guilty Consciences made scowr.</L>
+<L><HI>Hugo</HI> runs in, with Coin compounds.</L>
+<L><HI>Pendragon</HI> in Despair absconds.</L>
+</LG>
+</ARGUMENT>
+<HEAD>CANTO.</HEAD>
+<LG>
+<L>ONE Labour more (Dear <HI>Arethuse</HI>)</L>
+<L>Thou canst perform beyond a <HI>Muse:</HI></L>
+<L>For none of them, like thee, can sing</L>
+<L>Of Scowring and of Scampering;</L>
+<L>Who learnt to play at <HI>Hide-and-Seek</HI></L>
+<L>When <HI>Alpheus</HI> put thee to the Squeek.</L>
+<L><PB N="171" REF="90">Perform this Task which I impose</L>
+<L>Upon thee, and I'll let thee loose.</L>
+<L>But it will prove like that which shuts well</L>
+<L>All <HI>Homer</HI>'s <HI>Iliads</HI> in a Nut-shell.</L>
+</LG>
+<LG>
+<L>Since <HI>Phoebus</HI> last was in the <HI>Balance,</HI></L>
+<L><HI>Selena</HI> had try'd all her Gallants,</L>
+<L>Search'd each Man's Humour, Wit, and Person,</L>
+<L>Estate in Present, and Reversion:</L>
+<L>And having weigh'd them all, she found</L>
+<L>Sir <HI>Grog'ram</HI> heaviest many a Pound;</L>
+<L>Who had not only the best Purse,</L>
+<L>But took the most obliging Course.</L>
+<L>Whats'e'er she ask'd, he granted all;</L>
+<L>His Love was Unconditional.</L>
+<L>She was supply'd of ev'ry Want,</L>
+<L>And unconfin'd without Restraint:</L>
+<L>While he consented to be ty'd,</L>
+<L>And make all binding on his Side.</L>
+<L>What Woman can on Terms like those</L>
+<L>A Husband get among the <HI>Beaus?</HI></L>
+<L><PB N="172" REF="91"><HI>Beau</HI> would be free himself, yet have</L>
+<L>His Wife a perfect <HI>Indian</HI> Slave.</L>
+</LG>
+<LG>
+<L><HI>Pendragon,</HI> grown both Old and Poor,</L>
+<L>She slighted; but a great deal more,</L>
+<L>For that so much concern'd he was</L>
+<L>In the declining <HI>Tory-Cause,</HI></L>
+<L>Now like to bring him to a Noose</L>
+<L>Much worse than that of Married Spouse.</L>
+</LG>
+<LG>
+<L>'Twas she, assisted by <HI>Whigg-Friend,</HI></L>
+<L>Who jointly did compile and send</L>
+<L>That Roguish Letter, and the Cord,</L>
+<L>Which he was told of afterward.</L>
+<L>The more she saw the Times unsettl'd,</L>
+<L>She grew the more agog and nettl'd</L>
+<L>To marry; for her Character</L>
+<L>Was to do nothing Regular.</L>
+<L>Since Hand-maid <HI>Thomasine</HI> was gone,</L>
+<L>Friend, Servant, and Companion</L>
+<L>In her was lost; but yet she found</L>
+<L>No Woman in the versal Round</L>
+<L><PB N="173" REF="91">E'er met Encouragement to Wed</L>
+<L>On Terms so advantageous made:</L>
+<L>So, without any further arguing,</L>
+<L>She boldly struck the Marriage-Bargain,</L>
+<L>And swore she'd try't, whate'er it cost her,</L>
+<L>Tho' undone, as Man undoes Oyster.</L>
+<L>To whom we have no more to say,</L>
+<L>But send the Violins away,</L>
+<L>The Drums, the Trumpets, and Haut-boys,</L>
+<L>To wish them all the thundring Joys.</L>
+</LG>
+<LG>
+<L>Mean time, one melancholy Morn,</L>
+<L>About <HI>Sol</HI>'s entring <HI>Capricorn,</HI></L>
+<L>As <HI>Thomasine</HI> lay fast a snorting,</L>
+<L><HI>Laurence</HI> lay thinking of His Fortune.</L>
+<L>Unwilling to disturb her Sleep,</L>
+<L>He slily out of Bed did creep,</L>
+<L>Groping for Slippers underneath,</L>
+<L>He brought out a Glass-bottle, with</L>
+<L>This Paper Label fix'd thereon,</L>
+<L><HI>Aqua Te-tra-chi-ma-ga-gon:</HI></L>
+<L><PB N="174" REF="92">Which Sentence struck him so, he took hold</L>
+<L>(Being satisfied he was a Cuckold)</L>
+<L>Of <HI>Thom'sine</HI>'s Head-clothes, whom with Shriek</L>
+<L>Most dismal, he compell'd to wake:</L>
+<L>Then cry'd, Look here, (my precious Evil,</L>
+<L>Fit to be married to the Devil)</L>
+<L>What a Discov'ry have I made!</L>
+<L>Thou damnable confounded Jade.</L>
+<L>She soon obtain'd her Breath, and she</L>
+<L>Was not behind in Repartee;</L>
+<L>When the best Words in eithers Speech</L>
+<L>Were <HI>Whore</HI> and <HI>Rogue,</HI> and <HI>Dog</HI> and <HI>Bitch&punc;</HI></L>
+<L>Which Decency will not repeat,</L>
+<L>Nor will our Brevity admit.</L>
+<L><HI>Laurence</HI> grown sensible beside</L>
+<L>Of the quick Turning of the Tide;</L>
+<L>Finding both Spouse and Times too hot</L>
+<L>For his abiding on the Spot;</L>
+<L>Resolv'd, since he could have no Room here,</L>
+<L>Straightways to pack off to <HI>St. Omar.</HI></L>
+<L>And in the Turning of ones Back</L>
+<L>B<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">hold him under Sail of Smack.</L>
+<L><PB N="175" REF="92"><HI>Thom'sine</HI> put Finger in her Eye</L>
+<L>At Parting, but she could not cry;</L>
+<L>When all she said was, Since 'tis so.</L>
+<L><HI>As he came, lightly, let him go.</HI></L>
+</LG>
+<LG>
+<L>Many with <HI>Laurence</HI> put to Sea,</L>
+<L>And some of Highest Quality.</L>
+<L>The Mixture was as universal</L>
+<L>As that of Grand Dance in <HI>Rehearsal.</HI></L>
+<L>Here a fat Friar may be seen</L>
+<L>Shouldring and sidling to a Queen:</L>
+<L>A Foot man there in Cabin thrust is</L>
+<L>With one but late a Lord Chief-Justice.</L>
+<L>A Prelate, lately clad in Purple,</L>
+<L>Stuck 'twixt a Laundress and a Tarpol.</L>
+</LG>
+<LG>
+<L>So may be seen, in the same Cellar,</L>
+<L>In <HI>London-Town,</HI> of some close Dweller,</L>
+<L>Cold Scraps set by, with Shooes and Sandals,</L>
+<L>Raw Joint hung up near Pound of Candles,</L>
+<L>Drink-Barrel, Cobwebs, Culm, and Coal,</L>
+<L>Behind the Door the Privy-hole.</L>
+</LG>
+<LG>
+<PB N="176" REF="93">
+<L>As diff'rent Sort did now embark,</L>
+<L>As once were stow'd in <HI>Noah</HI>'s Ark:</L>
+<L>But only those were Beasts and Fowl,</L>
+<L>And these had once a Humane Soul;</L>
+<L>Which now transform'd to that of Hare,</L>
+<L>Was put in such a Fright and Scare,</L>
+<L>That ev'ry pitiful <HI>Crowdero,</HI></L>
+<L>That could but tune or sing <HI>Burlero,</HI></L>
+<L>Beyond-Sea drove the flying Heroe.</L>
+<L>Ev'n Fear in Triumph rides and seizes</L>
+<L>All Sorts now; (Pardon <HI>Catechresis</HI>)</L>
+<L>Not only those who were surrounded</L>
+<L>With Guilt, were by its Terrors wounded;</L>
+<L>But Men of Honesty <HI>Britannick</HI></L>
+<L>Were strangely struck with Horror Panick,</L>
+<L>As if Old <HI>England</HI> was to perish</L>
+<L>By a small Handful of Wild <HI>Irish;</HI></L>
+<L>Towns burnt, Throats cut i' th' Neighbourhood,</L>
+<L>Tho' no Man saw nor Smoak nor Blood.</L>
+<L>Yet the false terrible Alarms</L>
+<L>Provok'd the Peasant to his Arms.</L>
+<L><PB N="177" REF="93">Great was the Out-cry in its kind,</L>
+<L>Which, carry'd on the Wings o' th' Wind,</L>
+<L>Left Danger, Fears, and Foes behind.</L>
+<L>Tho' soon the frightful Dream was o'er,</L>
+<L>And Foes, Fears, Danger, out of door.</L>
+<L>Who fell on <HI>Thursday</HI> in a Swoon,</L>
+<L>Oppress'd with Laughter, tumbled down</L>
+<L>On <HI>Friday</HI> Morning, for the Cause</L>
+<L>Of Terror so ridiculous.</L>
+<L>So soon the Innocent were freed</L>
+<L>From Harm and Peril, Fear and Dread.</L>
+<L>But to th' Obnoxious, various Ill</L>
+<L>Doth threaten to continue still.</L>
+</LG>
+<LG>
+<L>Tho' <HI>Hugo</HI> was last Month o'er-run</L>
+<L>So far with Superstition,</L>
+<L>Made by ill-boading Birds afraid,</L>
+<L>Which muted (as they flew) on's Head;</L>
+<L>Yet he took Heart-a-grace, and try'd,</L>
+<L>By the quick changing of his Side,</L>
+<L>His Neck and Substance both to save,</L>
+<L>For all he' ad plaid so much the Knave.</L>
+</LG>
+<LG>
+<PB N="178" REF="94">
+<L>Perceiving where his Bread was butter'd,</L>
+<L>(Himself equipp'd and well accouter'd)</L>
+<L>Away he gallops on his Horse,</L>
+<L>Until he met with <HI>Arthur</HI>'s Force;</L>
+<L>Whom he shakes kindly by the Hands,</L>
+<L>And cries, You're welcom, my dear Friends:</L>
+<L>This is the joyful Day indeed</L>
+<L>When we shall be from Bondage freed:</L>
+<L>The Popish Priests and Emissaries</L>
+<L>Rub off in Mists, like juggling Fairies;</L>
+<L>Our Properties are laid a whitning,</L>
+<L>And our Foes fly away like Lightning.</L>
+</LG>
+<LG>
+<L>Strangers believ'd the Man spoke true,</L>
+<L>Because they saw him clad in Blue;</L>
+<L>And if it was Dissimulation,</L>
+<L>He manag'd it with great Discretion.</L>
+<L>He patiently Reproaches bore</L>
+<L>From those who knew him heretofore;</L>
+<L>And if he met with Kick or Cuff,</L>
+<L>Put it up quietly enough.</L>
+<L><PB N="179" REF="94">Who of his past vile Actions told,</L>
+<L>Had his Mouth straightways stopp'd with Gold&punc;</L>
+<L><HI>Hugh</HI>'s open Purse was held in Common,</L>
+<L>And many a Friend he made with <HI>Mammon.</HI></L>
+<L>He now stands (having paid his Fine)</L>
+<L><HI>Rectus in Curia,</HI> by his Coin.</L>
+</LG>
+<LG>
+<L>Not so <HI>Pendragon,</HI> whom we said</L>
+<L>Was sore afflicted and dismay'd:</L>
+<L>He knew not where he best could stay,</L>
+<L>Nor had the Power to run away.</L>
+<L>If seiz'd, he must expect to fare</L>
+<L>Alike with <HI>Aesop</HI>'s Trumpeter:</L>
+<L>His pleading that he ne'er drew Blood,</L>
+<L>Would do him very little good;</L>
+<L>Himself not fighting, only was</L>
+<L>An Aggravation to his Case;</L>
+<L>Because it was most evident,</L>
+<L>That he had been an Instrument</L>
+<L>To blow the Bellows of Destruction,</L>
+<L>Who shares more Guilt than he who looks on.</L>
+</LG>
+<LG>
+<PB N="180" REF="95">
+<L>A Tyrant in his raging Fits</L>
+<L>Owes half the Murders he commits</L>
+<L>To scoundrel Cowards, who incense</L>
+<L>Him with the specious Pretence,</L>
+<L>That Cutting Throats, and Desolation,</L>
+<L>Is for the Publick Good o'th' Nation;</L>
+<L>That driving Subjects from their Dwelling,</L>
+<L>Is but to hinder their Rebelling;</L>
+<L>To burn, and stab, and hang, and flea,</L>
+<L>Means of expelling Heresie;</L>
+<L>And the well-exercis'd Dragoon</L>
+<L>Fittest to plant Religion;</L>
+<L>That Monarchs who the same won't licence</L>
+<L>Ought to be made away with Poysons.</L>
+</LG>
+<LG>
+<L>Sick at the Heart <HI>Pendragon</HI> grew,</L>
+<L>And as unsav'ry as a <HI>Iew:</HI></L>
+<L>It cut him to the very Soul</L>
+<L>To meet with nothing but Controul;</L>
+<L>To find the Politicks he taught</L>
+<L>Were render'd false, and worse than naught.;</L>
+<L><PB N="181" REF="95">His Wit, so sharp in the Lampoon</L>
+<L>On <HI>Mobb,</HI> was by the <HI>Mobb</HI> run down;</L>
+<L>And for the Crimes his Wit committed,</L>
+<L>By <HI>Mobb</HI> he fear'd to be <HI>De Witted.</HI></L>
+<L>All his Offences with his Pen</L>
+<L>VVere by the same paid home again:</L>
+<L>Expos'd and made ridiculous,</L>
+<L>And pepper'd worse than <HI>D'avenant</HI>'s Mouse,</L>
+<L>VVhich got (poor Thing!) a Pocky Clap:</L>
+<L>But a more fatal dire Mishap</L>
+<L>Impended o'er <HI>Pendragon</HI>'s Head;</L>
+<L>For when an Act of Grace was read,</L>
+<L>(Pardon almost for ev'ry Crime</L>
+<L>VVas granted to the present Time)</L>
+<L>He heard (poor harmless VVretch!) by Name</L>
+<L>Himself excepted in the same.</L>
+</LG>
+<LG>
+<L>Nay then (quoth he) where-e'er I go,</L>
+<L>The Halter still does me pursue.</L>
+<L>Of all the Friends I lately had,</L>
+<L>There's none in Circumstance so bad.</L>
+<L><PB N="182" REF="96"><HI>Laurence,</HI> who parted with his Faith,</L>
+<L>VVith a false Consort parted hath;</L>
+<L>VVelcom to his Fraternity,</L>
+<L>He's safe enough, from Hanging free.</L>
+</LG>
+<LG>
+<L>Madam, once Darling of my Soul,</L>
+<L>Has plaid the Jilt, but not the Fool:</L>
+<L>She's married to a wealthy Cit,</L>
+<L>And Money far surpasses VVit.</L>
+</LG>
+<LG>
+<L>Witness that Rogue my <HI>quondam</HI> Squire,</L>
+<L>Lately so much at my devoir,</L>
+<L>Abus'd me grosly to my Throat,</L>
+<L>And turn'd (without a Blush) his Coat.</L>
+<L>His having Money, makes the Knave</L>
+<L>Now in his Life and Fortunes safe.</L>
+<L><HI>Eas'ly that Wretch doth Scandal slight,</HI></L>
+<L><HI>Who saves his Life and Substance by't.</HI></L>
+</LG>
+<LG>
+<L>My Life's on Wing, my Fortune's flown,</L>
+<L>And Infamy survives alone.</L>
+<L><PB N="183" REF="96">A <HI>Diego</HI>'s Will before my Death,</L>
+<L>(When I have Nothing to bequeath)</L>
+<L>Would but expose me to the Mock</L>
+<L>Of all Men for a Laughing-stock.</L>
+</LG>
+<LG>
+<L>Strange Things my Fancy doth presage;</L>
+<L>It sets before my Eyes a Sledge,</L>
+<L>By which there stands, with uncomb'd Hair,</L>
+<L>A Blear-ey'd Executioner,</L>
+<L>With Night-cap, Halter, Saws, and Knife,</L>
+<L>Prepar'd to take away my Life.</L>
+<L>My Ears hear nothing but the Knell</L>
+<L>And Sound of St. <HI>Sepulchre's</HI> Bell.</L>
+</LG>
+<LG>
+<L>The <HI>Turks</HI> believe, and <HI>Tunquinese,</HI></L>
+<L>That Death most Honourable is</L>
+<L>Which sheds no Blood thro' any Hole,</L>
+<L>But keeps the Skin intire and whole:</L>
+<L>Then Hanging they must needs prefer.</L>
+<L>But what make Saws and Hatchets there?</L>
+<L>Avaunt&mdash;My Brains grow hot, and burn;</L>
+<L>And tho' I can't, yet they may turn,</L>
+<L><PB N="184" REF="97">And so may prove the happiest Remedy</L>
+<L>That can assist me in Extremity.</L>
+</LG>
+<LG>
+<L>Mean time, these frightful Sentiments</L>
+<L>Do not become a Man of Sense,</L>
+<L>A celebrated Wit to cry,</L>
+<L>Because he is about to die.</L>
+<L>For shame! Since Pow'r is left me yet</L>
+<L>To walk, and talk, and drink, and eat,</L>
+<L>I Life enjoy, and so long hope</L>
+<L>That I may slip beside the Rope.</L>
+<L>Which to effect, it will be wise</L>
+<L>To put my self in such Disguise</L>
+<L>That none can know me, and then skulk</L>
+<L>Close under a Translator's Bulk.</L>
+</LG>
+</DIV1>
+<DIV1 TYPE="conclusion">
+<PB N="185" REF="97">
+<HEAD>THE CLOSE.</HEAD>
+<LG>
+<L>THE <HI>Farce</HI> is ended: What remains</L>
+<L>Will not become our <HI>Dogg'rel</HI> Strains.</L>
+<L>Let a refin'd Heroick Verse</L>
+<L>Great <HI>Arthur</HI>'s History rehearse:</L>
+<L>Be That committed to the Care</L>
+<L>Of wise <HI>Apollo</HI>'s Son and Heir,</L>
+<L>Who all (so wondrous are his Merits)</L>
+<L>His Father's Faculties inherits.</L>
+<L>His Cures extend to Humane Kind,</L>
+<L>Diseas'd in Body and in Mind;</L>
+<L>Expells the Modern Malady</L>
+<L>Which had o'er-run our Poetry.</L>
+<L>His Verse, so purg'd and fin'd from Dross,</L>
+<L>Exalted, others doth surpass</L>
+<L><PB N="186" REF="98">Far as the <HI>Heroe</HI> whom he sings</L>
+<L>Excells all other Mortal Kings.</L>
+</LG>
+<LG>
+<L><HI>Burlesque</HI> may serve us to remove</L>
+<L>(Wheel-barrow-like) our Dunghills off;</L>
+<L>To clear the Rubbish from our Home:</L>
+<L>But He must sing of <HI>King Dom. Com.</HI></L>
+</LG>
+</DIV1>
+<TRAILER>FINIS.</TRAILER>
+</BODY>
+<BACK>
+<DIV1 TYPE="publisher's advertisement">
+<PB REF="98">
+<HEAD>Books printed for <HI>Iohn Newton</HI> at the <HI>Three Pigeons</HI> in <HI>Fleetstreet.</HI></HEAD>
+<P>THE Honourable <HI>Hugh Hare</HI> <ABBR>Esq</ABBR> his Charge at the General Quarter-Sessions of the Peace for the County of <HI>Surrey,</HI> held at <HI>Darking.</HI> The Second Edition, corrected.</P>
+<P>An Historical Relation of the Conspiracy of <HI>John Louis Count de Fieschi,</HI> against the City of <HI>Genoua,</HI> in the Year 1547. Written in <HI>Italian</HI> by <HI>Augustin Mascardi,</HI> Gentle|man of the Bed-chamber to Pope <HI>Urban</HI> the Eighth. Done into <HI>English</HI> by the Honourable <HI>Hugh Hare</HI> <ABBR>Esq</ABBR></P>
+<P>Dr. <HI>Falle</HI>'s Account of the Isle of <HI>Jersey,</HI> with a New Map, dedicated to the King.</P>
+<P>&mdash;&mdash;His Three Sermons on several Occasions.</P>
+<P>Sir <HI>Francis Bacon</HI>'s Essays.</P>
+<P>A Discourse of Natural and Revealed Religion, in seve|ral Essays: Or, The Light of Nature a Guide to Divine Truth. By Mr. <HI>Timothy Nurse.</HI></P>
+<P>The Anatomy of the Earth. By <HI>Thomas Robinson,</HI> Rector of <HI>Busby</HI> in <HI>Cumberland.</HI></P>
+<P>New Observations on the Natural History of the World of Matter, and this World of Life. In Two Parts. Being a Philosophical Discourse, grounded upon the <HI>Mosaick System</HI> of the Creation and the Flood. To which are added, Some</P>
+<P><PB REF="99">Thoughts concerning Paradise, the Conflagration of the World and a Treatise of <HI>Meteorology.</HI> With Occasional Remark upon some late Theories, Conferences, and Essays. By Mr. <HI>Tho Robinson.</HI></P>
+<P><HI>Pendragon:</HI> Or, The <HI>Carpet-Knight</HI> his <HI>Kalendar</HI> A Poem.</P>
+<P>A <HI>Panegyrick</HI> to the KING on the Peace. By <HI>Jo. Glanvill</HI> <ABBR>Esq</ABBR> of <HI>Lincolns-Inn.</HI></P>
+<P>The History of the Campagne in <HI>Flanders,</HI> for the Years 1692, 1693, 1694, 1695, 1696, and 1697, being the Ye<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter"> of Peace. All written by <HI>Ed. d' Auergne, M. A.</HI> Rector of St. <HI>Brelade</HI> in the Isle of <HI>Jersey,</HI> Chaplain to His Maje|sty's Regiment of <HI>Scots</HI> Guards.</P>
+<PB REF="99">
+</DIV1>
+</BACK>
+</TEXT>
+</EEBO>
+</ETS>

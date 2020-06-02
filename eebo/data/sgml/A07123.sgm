@@ -1,0 +1,975 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD EEBOPROOF 2.0//EN">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-08-18</DATE>
+<RESPSTMT>
+<NAME>Judith Siefring</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TYPEs to DIVs in order to validate. Proofed title page(s). Checked for N=""s. Checked for GROUP tags. Checked ^s. Reviewed structure. Checked division-marking material at heads and feet of divisions (HEADS, etc.). Checked for signatures. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected 6 $s and $$word$$s etc. of 8. Converted 2 $$s to GAP DESC="illegible" RESP="apex". Checked spacing of foreign GAPs. Checked for EPIGRAPHs and ARGUMENTs. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs, endqs, oes, q;s, and Qs. Checked proofsheets and made corrections found there. Checked for CLOSERs, TRAILERs, and BYLINEs. Checked for missing page GAPs. DONE.</ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="OX" ID="A07123">
+<STC T="S">17525</STC>
+<BIBNO T="umi">99847629</BIBNO>
+<VID>12679</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1">
+<PB REF="1">
+<P>NEW EPIGRAMS, AND A SATYRE.</P>
+<P>Written by IOS: MARTYN, <HI>a wel-wisher to study.</HI></P>
+<Q>Est quoddam prodire tenus, si non datur vltra.</Q>
+<P><HI>LONDON,</HI> Printed by G. ELD, dwelling in Little-Britaine. 1621.</P>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="2" MS="y">
+<PB REF="2">
+<HEAD>TO THE RIGHT WORSHIP|full, Sir <HI>Henry Martyn</HI> Knight.</HEAD>
+<L>THree things to euery Action Lustre giue;</L>
+<L>The <HI>Will, Art, Age:</HI> All for Acceptance striue:</L>
+<L>The <HI>Will,</HI> presents things weake, but <HI>Art</HI> supplies them,</L>
+<L><HI>Time</HI> perfits all, and like a Touch-stone tries them:</L>
+<L>Of three I challenge one, and that's the <HI>Will,</HI></L>
+<L>Which I present, for want of <HI>Age</HI> and <HI>Skill:</HI></L>
+<L>Desire to please hath made me bold to sue</L>
+<L>To all for Loue, for patronage to <HI>You.</HI></L>
+<CLOSER><SIGNED>Your Worships in all true deuotion, Ioseph Martyn.</SIGNED></CLOSER>
+</DIV1>
+<DIV1 TYPE="poem">
+<PB REF="3" MS="y">
+<HEAD>A Poeticall insinuation.</HEAD>
+<L><HI>MY Muse,</HI> that for these sixe yeeres day was mute,</L>
+<L>And vnacquainted with those wits acute,</L>
+<L>That doe frequent <HI>Pernassus</HI> sacred Hill,</L>
+<L>And of that horse-bred <HI>Font</HI> doe drinke their fill:</L>
+<L>Addrest like others, to auoid suspition</L>
+<L>Of each inuectiue <HI>Satyrs</HI> disposition,</L>
+<L>Stept forth into the woods, vnseene, (desire</L>
+<L>Presses on those whom Reason bids retire,)</L>
+<L>Twixt <HI>doubt,</HI> and <HI>hope,</HI> much fearing, daring more,</L>
+<L>At length, resolu'd some <HI>Deity</HI> t'implore&punc;</L>
+<L>Vnder Conduct of whose ador'd protection,</L>
+<L>Shee might haue some excuse for imperfection&punc;</L>
+<L>And (being of a high aspiring thought&punc;)</L>
+<L>Left those <HI>Semi-dei,</HI> and soar'd aloft.</L>
+<L>And to that great <HI>Apollo</HI> shepherds God,</L>
+<L>She pow'rd her vowes&punc; at which he seem'd to nod.</L>
+<L>Or at the least (poore <HI>Muse</HI>) she wisht so much,</L>
+<L>Fond hope, what we desire doth promise such,</L>
+<L>Yet herewith all content she doth proceed,</L>
+<L>Fearing no lesse, then hoped happy speed.</L>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="part">
+<PB REF="3">
+<HEAD>EPIGRAMS.</HEAD>
+<DIV2 N="1" TYPE="epigram">
+<HEAD>1. To Time.</HEAD>
+<L>_GRaue Censurer of things long since ore past,</L>
+<L>Of present Actions, and what shall be last;</L>
+<L>Thinke not amisse, that my vnlearned quill,</L>
+<L>Hath spent some <HI>Minuts</HI> of thee, and so ill,</L>
+<L>Ile thanke thy present patience, and in <HI>Time,</HI></L>
+<L>My <HI>Muse</HI> may giue thee thanks in better Rime.</L>
+</DIV2>
+<DIV2 N="2" TYPE="epigram">
+<HEAD>2. To the Gentle Reader.</HEAD>
+<L>MOst welcome <HI>Guest</HI> to these my homely Cates,</L>
+<L>If any thing my barren <HI>Muse</HI> relates</L>
+<L>That may thy Palat or thy Stomacke please;</L>
+<L>I wisht <HI>Ambrosia,</HI> (though a pulse or pease)</L>
+<L>Here is no forc't, but voluntary dish,</L>
+<L>And should be better, had I but my wish.</L>
+</DIV2>
+<DIV2 N="3" TYPE="epigram">
+<HEAD>3. To the vnkind Reader.</HEAD>
+<L>AVthors that write, and Readers that suruey,</L>
+<L>Like <HI>Verbs</HI> do in their kinds themselues dis|play:</L>
+<L><HI>Authors,</HI> we <HI>Actiue, Passiue, Common</HI> call,</L>
+<L><PB REF="4" MS="y">They must <HI>inuent, endure,</HI> be <HI>read</HI> of all.</L>
+<L><HI>Readers</HI> both wise, and weake of each degree,</L>
+<L>In censure must like Verbs <HI>Deponent</HI> be.</L>
+<L>But (fearing, least thy Censure should depraue me)</L>
+<L>No Verbe (vnlesse a <HI>Neuter</HI>) I would haue thee.</L>
+</DIV2>
+<DIV2 N="4" TYPE="epigram">
+<HEAD>4. To the indifferent Reader.</HEAD>
+<L>When as thy leisure (loathing idlenesse)</L>
+<L>From things more serious wils thee to digresse;</L>
+<L>(Desiring change of fare) vouchsafe a looke</L>
+<L>On these vnpolisht lines, which if thou brooke,</L>
+<L>I ioy, yet feare thy expectation's crost,</L>
+<L>Then is thy time, and all thy labour lost.</L>
+</DIV2>
+<DIV2 N="5" TYPE="epigram">
+<HEAD>5. To Opinion.</HEAD>
+<L>I like each mans opinion, (those abated,</L>
+<L>Who wilfull are, and selfe-opinionated,)</L>
+<L>Yet (<HI>Epigram</HI>) if such thou meet'st with any,</L>
+<L>(I feare thou canst not scape them, th'are so many)</L>
+<L>Tell them thine <HI>Author</HI> had a selfe Conceipt,</L>
+<L>And in respect of that, their loues intreat;</L>
+<L>Thus hauing sooth'd them vp, (and they apart)</L>
+<L>Tell others that thou hate'st them with thy heart.</L>
+</DIV2>
+<DIV2 N="6" TYPE="epigram">
+<HEAD>6. To Fame.</HEAD>
+<L>Swift winged <HI>Fame!</HI> the Spur of vertuous Acts,</L>
+<L>The Scourge of Vice, and mischieuous compacts&punc;</L>
+<L>The Messenger of Ioy, and good Intents;</L>
+<L>The true discou'rer of sad Accidents.</L>
+<L>Ile begge a <HI>Nothing</HI> of thee, (to reueale</L>
+<L>Were labour to thee) doe my lines conceale:</L>
+<L>Then if thou ere were't Author of a lye,</L>
+<L><PB REF="4">Ile say for it thou hadst authority.</L>
+</DIV2>
+<DIV2 N="7" TYPE="epigram">
+<HEAD>7. To Desteny.</HEAD>
+<L>You cursed <HI>Fates!</HI> that hinder good Intentions,</L>
+<L>And smother Goodnesse with decree'd preuentions;</L>
+<L>Cease to seduce, set open <HI>Vertues</HI> Gate</L>
+<L>To all that come; be not preiudicate:</L>
+<L>And if you needs of things to come will speake,</L>
+<L>Decree my Worke to perish, t'is so weake.</L>
+</DIV2>
+<DIV2 N="8" TYPE="epigram">
+<HEAD>8. <HI>Mineruaes</HI> Ghost.</HEAD>
+<L>Contending once with <HI>Beauty</HI> and with <HI>Might,</HI></L>
+<L>I was bereft of both, (though both my right:)</L>
+<L>Vnhappy Censure! where the Iudge was blinde,</L>
+<L>And could not see the beauty of the Minde:</L>
+<L>Yet doe not quite neglect your worths (my Muses)</L>
+<L>For he is blinde that should reforme abuses:</L>
+<L>And wonder not though Schollers be so poore,</L>
+<L>Rich <HI>Ignorance</HI> is keeper of their store.</L>
+</DIV2>
+<DIV2 N="9" TYPE="epigram">
+<HEAD>9. To <HI>Venus</HI> Shrine.</HEAD>
+<L>Faire Goddesse <HI>Beauty,</HI> fairest of them all,</L>
+<L>To whom the Shepheard gaue the golden Ball,</L>
+<L>We Virgins (loaden with that name) salute</L>
+<L>Thy <HI>Shrine,</HI> our selues to Lust we prostitute;</L>
+<L>Our Beauties are the fewell, our Desire</L>
+<L>The Bellowes, that doe blow thine Incense fire.</L>
+<L>O! knew they, Flowers once pluckt can grow no more,</L>
+<L>They would not be so lauish of their store.</L>
+<L>And yet (I guesse) tis done to this intent,</L>
+<L>They may the longer time haue to repent.</L>
+</DIV2>
+<DIV2 N="10" TYPE="epigram">
+<PB REF="5" MS="y">
+<HEAD>10. A Drunkard. Aenigma.</HEAD>
+<L>THe more I swallow, I the lighter am,</L>
+<L>the more a Beast, more neare a <NOTE N="*" PLACE="marg">Bacchus.</NOTE> Deity:</L>
+<L>When sober, poore; now wondrous rich I seeme;</L>
+<L>er'st while I swam in drinke, yet now am dry:</L>
+<L>Surely, thou art some Monster, or some Fiend,</L>
+<L>Some monstrous Deuill, or some Deuils Friend.</L>
+</DIV2>
+<DIV2 N="11" TYPE="epigram">
+<HEAD>11. To the poore Cobler.</HEAD>
+<L>DIuine Artificer! our <HI>Soles</HI> he mends,</L>
+<L>that walkt in euill wayes, and went amisse,</L>
+<L>Confirmes their broken states with surer <HI>Ends,</HI></L>
+<L>sets them vpright againe: What pitty tis,</L>
+<L>His peec't estate cannot keepe out the Wether?</L>
+<L>Surely, he too much liquoreth his Lether.</L>
+</DIV2>
+<DIV2 N="12" TYPE="epigram">
+<HEAD>12. A Roaring Boy.</HEAD>
+<L>THou do'st coniure me, I confesse thou art</L>
+<L>a Sparke, or rather Flash of Chiualry;</L>
+<L>If that thou hadst as good, as great a heart,</L>
+<L>or were thy madnesse mixt with modesty:</L>
+<L>Thy best discourses are but complements,</L>
+<L>Thy mighty Oathes confirme small arguments;</L>
+<L>Thou fearst' no mortall wight, and yet we see,</L>
+<L>A silly <HI>Watchman</HI> often <HI>Counters</HI> thee.</L>
+</DIV2>
+<DIV2 N="13" TYPE="epigram">
+<HEAD>13. A Player.</HEAD>
+<L>AS <HI>King,</HI> and <HI>Subiect,</HI> now thou dost command,</L>
+<L>yet now (vnfortunate) dost <HI>Fortune</HI> serue;</L>
+<L>Earst while, thou didst as great as <HI>Caesar</HI> stand,</L>
+<L>now art thou <HI>Irus</HI> (thus the Fates doe swerue)</L>
+<L><PB REF="5">Yet wonder not, thou art not still so gay,</L>
+<L>Of others wits, thou onely art the <HI>Iay.</HI></L>
+</DIV2>
+<DIV2 N="14" TYPE="epigram">
+<HEAD>14. In Cornutum.</HEAD>
+<L>THou dost complaine of ease, and dost neglect</L>
+<L>thy wife, because she's kind, yet didst thou know</L>
+<L><NOTE N="*" PLACE="marg">Bonum quo communius, co~ melius.</NOTE> <HI>A good thing common, is of more respect,</HI></L>
+<L>thou wouldst be kinder vnto her, (I trow.)</L>
+<L>Then maruell not (thy wife be'ing free from scorn)</L>
+<L>Though thou (<HI>her Head</HI>) be subiect to the horne.</L>
+</DIV2>
+<DIV2 N="15" TYPE="epigram">
+<HEAD>15. A Carpet Knight.</HEAD>
+<L>THou like the Fox, the Ape, the Lyon art,</L>
+<L>Thy words are wounds, thy tongue it selfe the dart,</L>
+<L>Thou (like the Fox) dost tell the Crow he'es white,</L>
+<L>To please his eare, and feed thine appetite:</L>
+<L>Thou art the Ape of other mens affection,</L>
+<L>And to their wils, thy words haue still reflexion.</L>
+<L>Hauing beguil'd them thus (like Foxe and Ape)</L>
+<L>Thou dost deuoure them, in a Lyons shape.</L>
+</DIV2>
+<DIV2 N="16" TYPE="epigram">
+<HEAD>16. Mundus immundus.</HEAD>
+<L>THroughly fraught with wracke, and woe,</L>
+<L>Harboring each mortals foe,</L>
+<L>Endlesse in vncertaine End,</L>
+<L>Weaknesse and impatience friend:</L>
+<L>Once vnspotted, pure within,</L>
+<L>Rather now a Sincke of Sinne.</L>
+<L>Let the mysery of this,</L>
+<L>Draw our thoughts to seeke true Blisse.</L>
+</DIV2>
+<DIV2 N="17" TYPE="epigram">
+<PB REF="6" MS="y">
+<HEAD>17. An euill Age.</HEAD>
+<L><HI>VIrgill,</HI> of <HI>Mars,</HI> and ruthfull warres did treate,</L>
+<L><HI>Ouid,</HI> of <HI>Venus</HI> loue, and peace did write,</L>
+<L>Yet <HI>Virgill</HI> for his straine was compted great,</L>
+<L>And <HI>Ouid</HI> for his Loue, was banisht quite,</L>
+<L>No maruell then, if curtesie growe colde,</L>
+<L>When Hate is prais'd, and Loue it selfe contrould.</L>
+</DIV2>
+<DIV2 N="18" TYPE="epigram">
+<HEAD>18. Venus and Adonis.</HEAD>
+<L>WHat is the cause, that <HI>Venus</HI> (beauties Queen)</L>
+<L>Was alwaies with the boy <HI>Adonis</HI> seene?</L>
+<L>I gesse the reasons, thus, because she knowes</L>
+<L>That children cannot womens willes disclose.</L>
+<L>She, that with Horns doth deck her husbands crest,</L>
+<L>For her conuoy, A silly guide is best.</L>
+</DIV2>
+<DIV2 N="19" TYPE="epigram">
+<HEAD>19. Mars and Neptune.</HEAD>
+<L><HI>MArs,</HI> (God of battaile) <HI>Neptune</HI> (of the Seas)</L>
+<L>Falling at Ods, their wrath's nought could ap|pease,</L>
+<L>But sought reuenge on other each to take,</L>
+<L>And by that meanes, their furies rage to slake,</L>
+<L><HI>Mars,</HI> (hauing led his troopes into the fields,</L>
+<L>Which in the Winter, little comfort yeilds)</L>
+<L>By <HI>Neptune</HI> was assaulted, who had made</L>
+<L>The boistrous winds, and waters, to inuade</L>
+<L>His Army, (weakely armed, to preuent</L>
+<L>Those floods, that doe oreflowe the continent)</L>
+<L>At which <HI>Mars</HI> rag'de, And causde that at a sup,</L>
+<L>His <HI>Zerxean</HI> Army, drunke whole riuers vp.</L>
+</DIV2>
+<DIV2 N="20" TYPE="epigram">
+<PB REF="6">
+<HEAD>20. A Gam'ster.</HEAD>
+<L>I Much admir'de, that mong'st all other wights</L>
+<L>Compos'de of earthly mould, and heauenly sprights,</L>
+<L>Others (of all sorts) plentifully liue,</L>
+<L>Yet (most vnhappie) Gamsters neuer thriue;</L>
+<L>I guest the reason, Others: purchase land,</L>
+<L>Their whole estate, on Moueables doth stand.</L>
+</DIV2>
+<DIV2 N="21" TYPE="epigram">
+<HEAD>21. Epigram.</HEAD>
+<L><HI>EGenus</HI> (when his owne estate was spent)</L>
+<L>To raise his Fortunes did a meanes inuent,</L>
+<L>And finding, that by begging, many got</L>
+<L>A faire estate, who scarse were worth a groat,</L>
+<L>Beganne to begge, and got so true a vaine,</L>
+<L>Nothing seem'd hard (by begging) to attaine.</L>
+<L>And where his owne desert was wanting found,</L>
+<L>Vrg'd others bounty (to bestow) a ground,</L>
+<L>But he (that made of misery a sport,)</L>
+<L>Was for his boldnes, whipt out of the Court.</L>
+</DIV2>
+<DIV2 N="22" TYPE="epigram">
+<HEAD>22. Den Fashionista.</HEAD>
+<L>FRench, Spanish, Dutch, Italian, Indian Ape,</L>
+<L>A mighty linguist if his Clothes could speake,</L>
+<L>A man, (yet of a most inhumane shape)</L>
+<L>And wonder not if he his promise breake,</L>
+<L>For he that hath engag'd vnto so many</L>
+<L>His little Faith, hath left himselfe not any.</L>
+</DIV2>
+<DIV2 N="23" TYPE="epigram">
+<HEAD>23. A contented mind.</HEAD>
+<L>I Want and stand in need of <HI>Craesus</HI> store,</L>
+<L>Yet I, then he that hath the most, haue more,</L>
+<L><PB REF="7" MS="y">I subiect am to griefe and sad annoy,</L>
+<L>Yet neuer felt I scarcitie in Ioy:</L>
+<L>He that is blest with true content of Minde,</L>
+<L>No want of wealth, No misery can find.</L>
+</DIV2>
+<DIV2 N="24" TYPE="epigram">
+<HEAD>24. A meere Richman.</HEAD>
+<L>OF what the earth, the Aier, the water can,</L>
+<L>(In their aboundant fulnes) yeild to man,</L>
+<L>I haue the full fruition, And of pleasure,</L>
+<L>I doe pertake in most superfluous measure,</L>
+<L>Yet doe I seeme to pine for want of either,</L>
+<L>The dropsie of my minde, content with neither.</L>
+</DIV2>
+<DIV2 N="25" TYPE="epigram">
+<HEAD>25. A Citizen and a decaied Gentleman.</HEAD>
+<L>Seeing me walke forlorne about the Cittie,</L>
+<L>Thou seem'st to ease my heart with words of pitty,</L>
+<L>And ask'st me what I lacke: yet, when I tell thee,</L>
+<L>The very thought of curtesie do'quell thee,</L>
+<L>Alas, I want releife, and doth implore</L>
+<L>Thy helpe, to lend a mite that ha'st such store,</L>
+<L>Thou answer'st me, with Hence, you hinder those</L>
+<L>Would buy, and for my wares their coine expose.</L>
+<L>I am content with nought, yet say, twere faire,</L>
+<L>Thou did'st not sell thy Conscience with thy ware.</L>
+</DIV2>
+<DIV2 N="26" TYPE="epigram">
+<HEAD>26. A Womans Tailor.</HEAD>
+<L>COmpos'de of many peeces, patch't together,</L>
+<L>Iay-like, from euery bird he snips a feather,</L>
+<L>He doth not cut a shred thats out of fashion,</L>
+<L>To keepe my Ladies woman free from passion,</L>
+<L>Yet hath she reason for to runne ot'h score,</L>
+<L>He neuer makes her loose enough before.</L>
+</DIV2>
+<DIV2 N="27" TYPE="epigram">
+<PB REF="7" MS="y">
+<HEAD>27. The Barbers Office.</HEAD>
+<L>A Circumciser of those excrements,</L>
+<L>Which are enormous, or extrauagant</L>
+<L>On Capitall or Barball lineaments,</L>
+<L>Or wheresoere they are exorbitant.</L>
+<L>And to be plaine; be pleas'd a while t'sit bare,</L>
+<L>He will correct your worship to a Haire.</L>
+</DIV2>
+<DIV2 N="28" TYPE="epigram">
+<HEAD>28. In Catum.</HEAD>
+<L>A Little beast I am, And doe deuour,</L>
+<L>Contagious vermin to the Welchmens Cates,</L>
+<L>A low and louing Creature to my power,</L>
+<L>The first of each lines-letter more relates.</L>
+</DIV2>
+<DIV2 N="29" TYPE="epigram">
+<HEAD>29. Painters and Poets.</HEAD>
+<L>BEtwixt these two there lately grew dissention,</L>
+<L>Whether of twaine, excel'd in his Inuention.</L>
+<L>The Painter, sets a good face on the matter,</L>
+<L>Though not so true, but it might seeme to flatter,</L>
+<L>And yet protests, against it, and disgrace,</L>
+<L>Saying what he doth is before their face.</L>
+<L>The Poet, (in a harsh Satyricke vaine)</L>
+<L>Tels him he dawbes; his own the purest straine;</L>
+<L>Yet yeelds to reason, and (by meerest fortune,</L>
+<L>Meeting with me, my iudgement did importune,</L>
+<L>My answer was; that Painters were confin'd</L>
+<L>Onely to mortall shape, and there resign'd</L>
+<L>But Poets were the Oracles of Fame,</L>
+<L>Who long since dead, had liuing still a name,</L>
+<L>To them I therefore did the conquest yeeld,</L>
+<L>Who did remaine the longest in the Field:</L>
+<L><PB REF="8" MS="y">Yet (gentle Reader) I refer't to thee,</L>
+<L>Whether of twaine shall haue priority.</L>
+</DIV2>
+<DIV2 N="30" TYPE="epigram">
+<HEAD>30. Loues Lunacy.</HEAD>
+<L>BEfore I knew what might belong to warre,</L>
+<L>I was content to suffer many a scarre;</L>
+<L>Yet none could hurt me, till at length a Boy,</L>
+<L>(Disgrace to manhood!) wrought my sad annoy.</L>
+<L>This Lad (though blind) yet did he shoot a dart,</L>
+<L>Which pierc't my brest, and lighted on my heart,</L>
+<L>Yet did I feele no hurt; till from aboue,</L>
+<L>I heard a voice say, Souldier, you must loue.</L>
+<L>I like't it well, and in this pleasing veine,</L>
+<L>I lost my wits, to get my heart againe.</L>
+</DIV2>
+<DIV2 N="31" TYPE="epigram">
+<HEAD>31. A Puritan.</HEAD>
+<L>HIs name, doth shew his nature to be pure,</L>
+<L>And so it seemes indeed, precise, demure;</L>
+<L>And yet, (in very deed) he's not the same,</L>
+<L>Nor doth he brooke himselfe, but in his name.</L>
+<L>He loues his neighbour and his neighbours wife,</L>
+<L>And hates prophanenesse in anothers life.</L>
+<L>He will not sweare an oath, yet to reproue</L>
+<L>Those that doe sweare, the <HI>Spirit</HI> doth him moue;</L>
+<L>I dare not say he will deceiue his Brother,</L>
+<L>Nor were it fitting, when he may another.</L>
+</DIV2>
+<DIV2 N="32" TYPE="epigram">
+<HEAD>32. To Mounsieur Melancholy.</HEAD>
+<L>WHat, not a word? what meanes this sad distra|ction?</L>
+<L>Thou look'st, as if thy brest were in confractio~,</L>
+<L>what hast thou lost of late, som friend? som brother?</L>
+<L>Or (one that is more deare then both) a Mother?</L>
+<L><PB REF="8">Faith none of all, but t'is my pleasing veine,</L>
+<L>I like it well, and would it loth abstaine.</L>
+<L>Fye purge it: Sir I thanke you, yet I feare,</L>
+<L>I should be idle then, as oft you are.</L>
+</DIV2>
+<DIV2 N="33" TYPE="epigram">
+<HEAD>33. To Romista a Traueller.</HEAD>
+<L>O Sir, y'are welcome home; what sodaine change</L>
+<L>Alter'd your minde, that so did loue to range?</L>
+<L>Stood on your worth, as if you promis'd aide</L>
+<L>Vnto those <HI>Gyants</HI> that did <HI>Ioue</HI> vpbraid:</L>
+<L>What meanes this ragged outsid, inside passion,</L>
+<L>Or (whence you came) is this the newest fashion?</L>
+<L>If't be, tis old enough. Good sir forbeare,</L>
+<L>Tis b<GAP DESC="illegible" EXTENT="1 letter">d enough, you need it not to teare,</L>
+<L>He that can liue at home, and thinkes it losse,</L>
+<L>But must abroad, <HI>comes home by weeping Crosse.</HI></L>
+</DIV2>
+<DIV2 N="34" TYPE="epigram">
+<HEAD>34. Elementa non alimenta.</HEAD>
+<L>CLeere springing water, comfortable fire,</L>
+<L>All-clensing Ayre, and fruitfull mother Earth,</L>
+<L>Against their Ruler (Man) they did conspire,</L>
+<L>To punish his ingratitude with dearth.</L>
+<L>The water (that did once refresh) doth chaok him,</L>
+<L>The Fire (that v'sd to warm) doth scorch &amp; smother</L>
+<L>The Ayer (wherein he breathed life) infects him.</L>
+<L>The Earth denies him food (tho once a Mother)</L>
+<L>Then Man repents him of his foule abuses.</L>
+<L>And heauen conuerts them to their former vses.</L>
+</DIV2>
+<DIV2 N="35" TYPE="epigram">
+<HEAD>35. <HI>Gallen</HI> and <HI>Morbosus.</HI></HEAD>
+<L><HI>MOrbosus</HI> doth complaine of strange effects</L>
+<L>Within him; fearing <HI>Gallen</HI> him neglects,</L>
+<L><PB REF="9" MS="y">To Day he feeles no paine, is in good case,</L>
+<L>Tomorrow he'es as sicke as ere he was;</L>
+<L>By chance he meets a friend, and him he prayes,</L>
+<L>To tell him, what he thought of his disease;</L>
+<L>Quoth he, thy purse is sicke o'th <HI>Plurisie,</HI></L>
+<L><HI>Gallen</HI> must first cure that, and then cure thee;</L>
+<L><HI>Morbosus</HI> slights his friend, and waxeth poore,</L>
+<L>And straight is cur'd of <HI>Sicknesse</HI> and of <HI>Store.</HI></L>
+</DIV2>
+<DIV2 N="36" TYPE="epigram">
+<HEAD>36. To Iulia.</HEAD>
+<L><HI>IVlia,</HI> with painting doth her selfe disguise,</L>
+<L>She faine would haue some colour for her <HI>vice,</HI></L>
+<L>And yet if any (spying it) should flout,</L>
+<L>She bids him leaue, for feare she paint him out.</L>
+</DIV2>
+<DIV2 N="37" TYPE="epigram">
+<HEAD>37. Iugatus and Liber,</HEAD>
+<L><HI>IVugatus</HI> by a chance with <HI>Liber</HI> met,</L>
+<L>And counsel'd him a second selfe to get;</L>
+<L>(Quoth <HI>Liber</HI>) I am now my selfe and free,</L>
+<L>Wouldst haue me seuer'd and in mysery?</L>
+<L>No (quoth <HI>Iugatus</HI>) tis sweet harmony,</L>
+<L>Where two affections ioine in vnity:</L>
+<L>I, but (said <HI>Liber</HI>) is there any sence,</L>
+<L>That he should suffer, that doth no offence?</L>
+<L>At last they both agree'd, that <HI>Libers</HI> life,</L>
+<L>Had greatest pleasures, and was free'st from strife,</L>
+<L>Then he that's free, and liberty doth scorne,</L>
+<L>Let him endure the <HI>Yoake,</HI> or (worse) the ( )</L>
+</DIV2>
+<DIV2 N="38" TYPE="epigram">
+<PB REF="9">
+<HEAD>38. To Lucina.</HEAD>
+<L><HI>LVcina,</HI> when her lustfull daies were done,</L>
+<L>Desir'd to liue recluse, and like a <HI>Nunne,</HI></L>
+<L>But yet controlling this her rash intent,</L>
+<L>She findes her liuing so, came by descent,</L>
+<L>Her mother did to her this state <HI>Intaile</HI></L>
+<L>Nor dares she cut it off, for feare she faile.</L>
+</DIV2>
+<DIV2 N="39" TYPE="epigram">
+<HEAD>39. To Flaua of her yellow Band.</HEAD>
+<L><HI>FLaua,</HI> (once pure &amp; white) is now grown yellow,</L>
+<L>To shew her fruitfull Vice is ripe and mellow,</L>
+<L>Ready to fall at euery blast of winde,</L>
+<L>Yet is her wit still greene, she nought but rind.</L>
+<L>Yet <HI>Flaua</HI> this excuse hath still at hand;</L>
+<L>Most brain-sicke men doe weare a yellow band.</L>
+</DIV2>
+<DIV2 N="40" TYPE="epigram">
+<HEAD>40. To Verinus a Tobacco taker.</HEAD>
+<L>WHen first I saw the Chimney of thy nose</L>
+<L>Vent smoke so fast, I then began t'suppose,</L>
+<L>Thy Stomacke all on fire, which I to quench,</L>
+<L>Made hast, and was halfe poysoned with the stench;</L>
+<L>Then blame me not, if that I tak't in snuffe,</L>
+<L>Thou should'st requite my loue with stinking stuff.</L>
+</DIV2>
+<DIV2 N="41" TYPE="epigram">
+<HEAD>41. To Iocosa a Nightwalker.</HEAD>
+<L>I Wonder much, why she in all things Light,</L>
+<L>Should loue to do her Busines in the night,</L>
+<L>The reason; Foule within, without shews faire,</L>
+<L>Though she be light her workes of darkenes are.</L>
+</DIV2>
+<DIV2 N="42" TYPE="epigram">
+<PB REF="10" MS="y">
+<HEAD>42. To the sharking Camelion.</HEAD>
+<L>NEuer the same, yet neuer out of fashion,</L>
+<L>A stranger still, though one of euery Nation,</L>
+<L>Yet this one thing, I wish he would abhor it,</L>
+<L>He alwaies owes his skin, or money for it.</L>
+</DIV2>
+<DIV2 N="43" TYPE="epigram">
+<HEAD>43. Epigram.</HEAD>
+<L>AS true as Turtle to her tender mate,</L>
+<L>Free in good-will, and furthest from debate,</L>
+<L>Regardles of each wrong, or false surmise,</L>
+<L>Easie to be intreated, sober, wise;</L>
+<L>Impatient of delaies that hurt his friend,</L>
+<L>Noe waies in fault, yet willing to amend,</L>
+<L>Discreet, and Constant; Such a one as He,</L>
+<L>Each man should wish his neerest Friend to be.</L>
+</DIV2>
+<DIV2 N="44" TYPE="epigram">
+<HEAD>44. To Experience.</HEAD>
+<L>VVHen first I knew the easie difference,</L>
+<L>Betwixt my right hand, &amp; my left, I thought</L>
+<L>Me wise enough to taxe <HI>Experience,</HI></L>
+<L>And grauely to esteeme my little nought,</L>
+<L>But when I could discerne twixt dark and light,</L>
+<L>I saw my error, and was sorry too,</L>
+<L>And setting weakenesse opposite to might:</L>
+<L>The more I knew the lesse I seem'd to know.</L>
+<L>At last, I was content to be a Page,</L>
+<L>To graue <HI>Experience,</HI> perfited by Age.</L>
+</DIV2>
+<DIV2 N="45" TYPE="epigram">
+<HEAD>45. To Silla a Trader.</HEAD>
+<L>IF it be true, that Promise is a debt,</L>
+<L>Then <HI>Silla</HI> will her freedome hardly get,</L>
+<L><PB REF="10" MS="y">For she hath vow'd her seruice to so many,</L>
+<L>She'l neither pay them all; nor part from any,</L>
+<L>Yet she to satisfie her debts, desires</L>
+<L>To yeeld her Body. (As the Law requires.)</L>
+</DIV2>
+<DIV2 N="46" TYPE="epigram">
+<HEAD>46. In Vrbanum.</HEAD>
+<L><HI>VRbanus,</HI> long had liu'd a single life,</L>
+<L>And could not thriue. At last he gets a wife,</L>
+<L>Yet had he still this care; of euill things</L>
+<L>To chose the least, which least annoyance brings,</L>
+<L>His little wife, (that had lesse modesty,)</L>
+<L>Soone knew her husbands best Commodity,</L>
+<L>And that she vented, at the best increase,</L>
+<L>(She needs must thriue, whose trading neere did cease.)</L>
+<L><HI>Vrbanus</HI> glad, with such a wife he'd met,</L>
+<L>That could by Night or Day their liuing get.</L>
+<L>Neglects his trade, and doth himselfe maintaine,</L>
+<L>By his wifes Commings in, (vnlawfull gaine)</L>
+<L>At last her Trading failes, they both grew poore,</L>
+<L>His little Wife, was prou'd no little ( .)</L>
+</DIV2>
+<DIV2 N="47" TYPE="epigram">
+<HEAD>47. To Auarus of his Argument.</HEAD>
+<L>WHen as I aske thee money, thou repliest,</L>
+<L>Beleeue thou hast, thou hast it, yet deniest,</L>
+<L>What? is to thinke to be? thou saist, I hit,</L>
+<L>Then I beleeue thou <GAP DESC="illegible" EXTENT="1 word"> more wealth, then wit.</L>
+</DIV2>
+<DIV2 N="48" TYPE="epigram">
+<HEAD>48. Of Arnaldo.</HEAD>
+<L><HI>ARnaldo,</HI> free from fault, demands his wife,</L>
+<L>Why he is burthen'd with her wicked life,</L>
+<L>Quoth she? Good husband do not now repent,</L>
+<L>I far more Burthens beare, yet am content.</L>
+</DIV2>
+<DIV2 N="49" TYPE="epigram">
+<PB REF="11" MS="y">
+<HEAD>49. In Prodigum.</HEAD>
+<L>HIs father lately dead, hath left him all,</L>
+<L>(The tallest Cedar to the earth must fall)</L>
+<L>This being knowne, he to the Mercer hies,</L>
+<L>And with his Credit new apparrell buyes,</L>
+<L>His Taylor fits him, and he doth bethinke,</L>
+<L>How he may spend his Fathers masse of chinke,</L>
+<L>Seekes out Companions, who not curious are,</L>
+<L>With him in this his happy lot to share,</L>
+<L>Those, of his Fathers Substance, are the Shadowes,</L>
+<L>(As long as that will last) his neere Comradoes.</L>
+<L>Fitted with those, his Worth desires a Page,</L>
+<L>To light Tobacco for him on the Stage,</L>
+<L>(For there he seldome misses,) next tis meete,</L>
+<L>He haue a Mistres to salute i'th streete,</L>
+<L>He gets a faire one, and I need not faine,</L>
+<L>To say, the man the Mistris doth maintaine,</L>
+<L>Yet is he proud o'th office, and doth get,</L>
+<L>A Coach to keepe her Light-heeles from the wet.</L>
+<L>This world must haue an end, the roring gallant</L>
+<L>Hath spent a good part of his fathers Tallent,</L>
+<L>And now he wants a Chapman for his land,</L>
+<L>And that he sels, (though at the easiest hand)</L>
+<L>To serue his present vse: He spends apace,</L>
+<L>Till all is gone, (excepting his disgrace.)</L>
+<L>Now doth he borrow, what before he gaue,</L>
+<L>And when ther's nothing left would learne to saue,</L>
+<L>His Mistrrs doth complaine, he's growne vnkinde,</L>
+<L>And doth his wonted bounty, wanting finde;</L>
+<L>His tyrant-Tailor, Mercer (merciles)</L>
+<L>Doe haunt his Ghost, and threaten his distresse,</L>
+<L><PB REF="11">With an abridgement of his libertie,</L>
+<L>But he to pay his debts, pleads Pouerty.</L>
+<L>He is arrested, and insteede of baile</L>
+<L>Doth yeild himselfe, for suerty to the Iaile,</L>
+<L>His Mates, and Mistres, all deny releife,</L>
+<L>Onely his Page doth waite vpon his griefe.</L>
+</DIV2>
+<DIV2 N="50" TYPE="epigram">
+<HEAD>50. To Nobodie.</HEAD>
+<L>THou still art in the fault, though neuer knowne,</L>
+<L>Because thou art asham'd thy faults to owne,</L>
+<L>Yet, if thou ere be taken in the fact,</L>
+<L>(Till thou confesse them all) thou shall be rack't</L>
+<L>And though Nobody did the fault commit,</L>
+<L>Yet, Sombody shall surely pay for it.</L>
+</DIV2>
+<DIV2 N="51" TYPE="epigram">
+<HEAD>51. Rusticus and Thraso.</HEAD>
+<L>A Souldier, (for he seem'd to be no lesse,</L>
+<L>By wearing of a sword, and Idlenes.)</L>
+<L>Meeting a Country fellow on the way,</L>
+<L>Tould him he wanted meanes, (being out of paie)</L>
+<L>And that it stood not with his worth to craue it,</L>
+<L>But told him plainely, that of him hee'd haue it.</L>
+<L>The Rusticke Swaine, (insteede of other Armes,)</L>
+<L>Had but a Staffe, to sheild himselfe from harmes.</L>
+<L>Nor would his rudenes suffer him to blush,</L>
+<L>But swore he car'de not for his threats a rush,</L>
+<L>And bid him doe his worst, He would not part</L>
+<L>So easily from that which cost him smart.</L>
+<L>The souldier (thinking much to be denide,)</L>
+<L>Drawes out his sword, And wils him to prouide,</L>
+<L>To yeild his purse, Or (if he thought it good</L>
+<L>To saue his coine) to pay for't with his blood:</L>
+<L><PB REF="12" MS="y">The Country lad, (whose plainenesse did afford,</L>
+<L>To vse a Staffe, as well as he a Sword)</L>
+<L>Laid on apace, and sent his blowes so fast,</L>
+<L>The Souldier had the worst, and at the last,</L>
+<L>Was faine to flye. Then giue me leaue to aske,</L>
+<L>Whether of these perform'd the Souldiers taske.</L>
+</DIV2>
+<DIV2 N="52" TYPE="epigram">
+<HEAD>52. A broken Citizen.</HEAD>
+<L>A Mercer first, And then (the trade him failing</L>
+<L>A Broker, first at whole sale, next retayling,</L>
+<L>Yet still he Broke, nor need he on it stand,</L>
+<L>For still he was a sauer by the hand:</L>
+<L>At length he leaues his Wares, &amp; goes to 'th Wars,</L>
+<L>His broken state, chang'd to skin breaking Scars.</L>
+<L>But there he found, the difference to be great,</L>
+<L>Betweene the City fare, and Souldiers meate,</L>
+<L>Yet now, it was too late to flinch, or stray,</L>
+<L>No man must thence, that once comes vnder pay:</L>
+<L>Nor had he quite forgot his breaking veine,</L>
+<L>But from the Campe, he once more broke againe, much.</L>
+<L>Yet being taken (Martiall-law was such)</L>
+<L>He straight was hang'd, for Breaking once too</L>
+</DIV2>
+<DIV2 N="53" TYPE="epigram">
+<HEAD>53. Of Hircanus.</HEAD>
+<L><HI>HIrcanus</HI> (rather <HI>Hircius</HI>) is of late,</L>
+<L>Growne loose, lasciuious, and effeminate,</L>
+<L>For leauing (what he once delighted) Armes,</L>
+<L>He's drawne to loosenes by lewd womens charmes,</L>
+<L>And in their Company, all day doth lurke,</L>
+<L>Studying of nought but Tent, and Image worke.</L>
+</DIV2>
+<DIV2 N="54" TYPE="epigram">
+<PB REF="12">
+<HEAD>54. Lifes Tragedie.</HEAD>
+<L>FIue Acts, fiue Actors, (and the world the stage)</L>
+<L>Their persons for performance doe engage:</L>
+<L>The <HI>King,</HI> whose watchfull care doth make a crown</L>
+<L>Seeme heauy, and sleepes hard in beds of Downe.</L>
+<L>Th'aspiring <HI>Statesman,</HI> whose ambitious Aime,</L>
+<L>Doth to the highest place in Court lay claime.</L>
+<L>The biting <HI>Vsurer,</HI> that grindes the poore,</L>
+<L>And doth his Idoll-Deuill (Wealth) adore.</L>
+<L>The needy <HI>Scholler,</HI> who himselfe t'aduance,</L>
+<L>Doth flatter Greatnesse, and sooth Ignorance.</L>
+<L>The poore neglected <HI>Begger,</HI> hauing got</L>
+<L>His Almes, that rests contented with his lot.</L>
+<L>But marke the Epilogue; Deaths fatall sting,</L>
+<L>Doth make the <HI>Begger</HI> equall with the <HI>King.</HI></L>
+</DIV2>
+<DIV2 N="55" TYPE="epigram">
+<HEAD>55. To Logista.</HEAD>
+<L>THough guilty, yet in fault he will not be,</L>
+<L>And why? <HI>Lo:</HI> I'me not in fault, the fault's in me;</L>
+<L>He's taken in the fact, and yet denies,</L>
+<L>His Will did act (for who his heart espies)</L>
+<L>And yet he is not freed against his will,</L>
+<L>His heart and hand, doe therefore both act ill.</L>
+</DIV2>
+<DIV2 N="56" TYPE="epigram">
+<HEAD>56. The louing Drunkard.</HEAD>
+<L>THe <HI>Iuy</HI> (wherein <HI>Bacchus</HI> most delights)</L>
+<L>Is consecrate to him, and to his Rights,</L>
+<L>Because her louing nature doth embrace,</L>
+<L>All other trees that grow, but neare her place,</L>
+<L>And so doe those whom <HI>Bacchus</HI> doth infect,</L>
+<L>Professe them loue, whom (sober) they neglect.</L>
+</DIV2>
+<DIV2 N="57" TYPE="epigram">
+<PB REF="13" MS="y">
+<HEAD>57. Times abuse.</HEAD>
+<L>EAch Creature, did complaine of some abuse,</L>
+<L>Offered by others, void of all excuse,</L>
+<L>And vnto Man (as Iudge) they did complaine,</L>
+<L>Of Time, who suffered such abuses raigne,</L>
+<L>Man (an vnfitting Iudge in such an Act)</L>
+<L>Iudgeth Time accessary to the Fact,</L>
+<L>And wisht him to reforme what was amisse,</L>
+<L>(Which Time effecting) made as now it is.</L>
+<L>Then Time complaines of Mans abuses to him,</L>
+<L>And for a reformation oft did moue him,</L>
+<L>But Man that past (though past not for Times pleas)</L>
+<L>Times Precious houres, doth add to wrong delaies;</L>
+<L>And Time incen'st, sends forth his Sergeant, <HI>Death,</HI></L>
+<L>Man to arrest, and stop his vitall breath,</L>
+<L>But Man, (growne old in sinne and age) did faile,</L>
+<L>To make redresse; And Death would take no baile.</L>
+</DIV2>
+<DIV2 N="58" TYPE="epigram">
+<HEAD>58. Of the merry Host.</HEAD>
+<L>MIne Host, to entertaine his weary Guest,</L>
+<L>Would now and then, put forth a merry Iest,</L>
+<L>And did so please him, with his iesting veine,</L>
+<L>His Guest resolu'd a while with him t'remaine.</L>
+<L>But staid so long, vntill his merry Host</L>
+<L>Had left no roome to score vpon the post,</L>
+<L>And calling for a reckoning, Soone he found,</L>
+<L>Hee'd much out stript his ordinary bound,</L>
+<L>But ere he went, by Iesting this he got;</L>
+<L>To leaue his horse (in earnest) for the Shot.</L>
+</DIV2>
+<DIV2 N="59" TYPE="epigram">
+<PB REF="13">
+<HEAD>59. A Seruing man.</HEAD>
+<L>T'Was said, he still was Idle, but we finde,</L>
+<L>He did of late his wits apprentice binde,</L>
+<L>To study Complements, And can relate,</L>
+<L>The newest fashion, which at Courts in date,</L>
+<L>And for his graue discourse, the Coachman said,</L>
+<L>He's growne infauour with my Ladies Maid.</L>
+<L>He is an Imitator of the best,</L>
+<L>But doth mistake a little in the rest,</L>
+<L>Thinking his Maister loues him best of all,</L>
+<L>When prou'd; his Mistris, when fantasticall;</L>
+<L>Yet, this one Rule, seldome admits a <HI>Fallit,</HI></L>
+<L>He's Cast off (being old) to vse a <HI>Wallet.</HI></L>
+</DIV2>
+<DIV2 N="60" TYPE="epigram">
+<HEAD>60. To Superbus.</HEAD>
+<L>THou think'st no man so good, or great as thee,</L>
+<L>Noe mortall, fit for thy society,</L>
+<L>Vnles thou doe vouchsafe to take affection</L>
+<L>To one, perchance will sooth thy imperfection:</L>
+<L>Yet, but a little strike the swelling saile</L>
+<L>Of weake Opinions selfe conceyling vaile,</L>
+<L>And see wheron thou stand'st, (Propt vp by Clay.)</L>
+<L>Thou soone wouldst steere thy Course another way</L>
+<L>O; be not of thy shame, or weaknes proud,</L>
+<L>Which at thy highest pitch, yeilds but a shroud.</L>
+<L>And if thou needs wilt haue thy Birth proclaim'd,</L>
+<L>Ile say, Thou art o'th finest Morter fram'd,</L>
+</DIV2>
+</DIV1>
+<DIV1 TYPE="part">
+<DIV2 TYPE="dedication">
+<PB REF="14">
+<PB REF="14">
+<HEAD>TO THE KIND ACCEPTANCE of his louing Kinsman <HI>William Martyn</HI> of the middle Temple, Gent.</HEAD>
+<LG>
+<HEAD>The Authors Apologie for his Satyre.</HEAD>
+<L>IF any aske, how I, so young, so raw,</L>
+<L>Durst fasten on this head-strong Time a Iaw,</L>
+<L>How I, (that scarce can speak) should dare to write:</L>
+<L>And that a Satyre too, (in times dispite)</L>
+<L>I answere; Loue to <HI>Vertue</HI> (quite defac'd)</L>
+<L>And hate to <HI>Vice,</HI> (that in her roome is plac'd).</L>
+<L>Then call me Child, or Foole, or both, I care not,</L>
+<L>They both doe tell the truth, when wiser dare not</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="poem">
+<HEAD>A Satyre.</HEAD>
+<LG>
+<L>_MY <HI>Muse</HI> (imployment wanting) chanc't to stray</L>
+<L>Out of her beaten path, her common way,</L>
+<L>Walkt from the wood into the wildernesse,</L>
+<L>(I meane the world of wiles, and wickednesse)</L>
+<L>And hating sloth, the Canckerworme of wit,</L>
+<L>She did obserue what might her turne befit.</L>
+<L><PB REF="15" MS="y">First, she espie'd the <HI>Great ones,</HI> (that should be</L>
+<L>So many <HI>Loadstarres</HI> to vulgarity)</L>
+<L>Delight in great offences; and support</L>
+<L>Iniurious rapines, with a friend in Court.</L>
+<L><HI>Vertue</HI> stood bare, whilst <HI>Vice</HI> sate eminent;</L>
+<L><HI>Learned discourse</HI> was turn'd to complement,</L>
+<L><HI>Merit</HI> was rob'd, in seeking of her right,</L>
+<L>And <HI>Goodnesse</HI> ouerpoys'd with greatest <HI>Might.</HI></L>
+<L><HI>Religion</HI> (chiefest Piller of the State,</L>
+<L>The <HI>Square</HI> and <HI>Rule</HI> of things legitimate)</L>
+<L>Grew faint for want of zeale and true Professors,</L>
+<L>And was not able to resist oppressors.</L>
+<L><HI>Valour,</HI> (in Court and Country) was neglected,</L>
+<L>And homebred <HI>Cowardize</HI> alone respected:</L>
+<L>He, that abroad, knew how to lead a Band,</L>
+<L>At home, to Peasants stood, with cap in hand,</L>
+<L>And beg'd an almes; yet went away without,</L>
+<L>Tis fit he should (they say) because he's stout.</L>
+<L>The <HI>Lawes,</HI> (that are the <HI>Cinque Ports</HI> of the Realm</L>
+<L>Lest Outlawes, by their force should it orewhelm.)</L>
+<L>Grew veniall, And where the greatest weight</L>
+<L>Was put into the Scale, t'was iudg'd fgr right.</L>
+<L>Yet still reseru'd a Sting to punish those,</L>
+<L>Which should repine, or (being wrong'd) oppose.</L>
+<L><HI>Conscience</HI> and <HI>Equity,</HI> (the helpes of <HI>Law</HI>)</L>
+<L>Gaue way to Enuies all-deuouring iaw,</L>
+<L>And he that could procvrea Great <HI>Ones</HI> Letter</L>
+<L>To colour wrong, was sure to fare the better.</L>
+<L>But (leauing those, for feare of knowne delay,)</L>
+<L>She went into the City to suruey.</L>
+<L>Till then, she nere was like to loose her sight,</L>
+<L>For euery thing was shew'd her in <HI>False-light.</HI></L>
+<L><PB REF="15">Smooth tongu'd Deceipt, did on her Credit giue it,</L>
+<L>What ere she soulde, to make the world beleiue it.</L>
+<L>The Master, and the seruant, did combine,</L>
+<L><HI>Simplicity</HI> (with Craft) to vndermine.</L>
+<L><HI>Conscience,</HI> was put to wracke, and Faith was sold,</L>
+<L>Whilst Loue of Lucre did the ballaunce hold,</L>
+<L>And they, that scarce were bound to'th occupation,</L>
+<L>Had learn'd (in selling wares) Equiuocation,</L>
+<L>Plaine dealing, was a fashion once in vse,</L>
+<L>But now was alter'd by the Times abuse.</L>
+<L>Femineall Modestie, (that in the shop,</L>
+<L>With her owne presence should the absence prop,</L>
+<L>Of a kind husband) Was conducted forth,</L>
+<L>By a lasciuious Courtiers little worth,</L>
+<L>And vnder colour to bring custome in,</L>
+<L>Gaue way to loosenes, (customary sinne,)</L>
+<L>Hence, <HI>Pride</HI> (the Cities knowne Inheritaunce)</L>
+<L>Became a friend in Court, had countenance,</L>
+<L>Yet so; That still the man of meanest worth,</L>
+<L>Was sure to set the gayest outside forth,</L>
+<L>The Tradesman knowes, That they most freely spend,</L>
+<L>Which doe on others worth and wealth depend.</L>
+<L>But now the Night drewe on, and heau'n orespred</L>
+<L>Her sable Canopy, Starr-lightned,</L>
+<L>And fearing least the Night-owles watchfull-crue,</L>
+<L>Should apprehend her, or disturbe her viewe,</L>
+<L>And knowing that their Censure doth reproue,</L>
+<L>(Whil'st night Crowes scape) the silly harmeles Doue,</L>
+<L>She left the Citie; And her happy lot</L>
+<L>Was, to be lodg'd that night, in <HI>Irus</HI> Cot.</L>
+<L>(A Country Shepheard) who in steed of wealth,</L>
+<L>Made Coursest fare, &amp; Sweat, the props of health,</L>
+<L><PB REF="16" MS="y">Nor did he much dislike his present state,</L>
+<L>Which (though so meane) was free from wrong &amp; rape,</L>
+<L>Nor had he bin so poore, But that of late</L>
+<L>(He said) his Land-lord at higher rate,</L>
+<L>Had rack't his rent, and threatned to vndoe him,</L>
+<L>Vnles (next feast) he brought some Pullen to him;</L>
+<L>She thence arriu'd into a Country towne,</L>
+<L>Where (once their Ioy) the Maypole, was pul'd downe,</L>
+<L>And asking why; Twas told her by a Swaine;</L>
+<L>The better sort, did hold it was prophane,</L>
+<L>And yet (he fearde) themselues had oft done worse,</L>
+<L>In building houses with the poore mans curse.</L>
+<L>Hence being got, She chaunced to arriue,</L>
+<L>Vnder the goodly roofe (the gaudy Hiue.)</L>
+<L>Of a Rich Drone, whose tender homebred skinne,</L>
+<L>Was fed with hony, (Bees had brought him in.)</L>
+<L>Whose griping Penny-father by extortion,</L>
+<L>And robbing others, rais'd his sonne a portion,</L>
+<L>But ere she there could entertainement haue,</L>
+<L>The Beggers Beadle-porter, gan to Craue,</L>
+<L>What made her homely outside be so bolde,</L>
+<L>To craue releife, where Charity was cold;</L>
+<L>She mildely answear'd, That she was a friend</L>
+<L>To Learning, though her selfe, were forc't to spend,</L>
+<L>Her time in idlenes, for want of that,</L>
+<L>Which many onely keepe to wonder at;</L>
+<L>But this reply was made, That none dwelt there,</L>
+<L>That knew what learning meant, Nor need they care</L>
+<L>For he that knew, Ilgotten goods to spare,</L>
+<L>And saue, was wise enough to make an Heire.</L>
+<L>From hence my Muse (neglected) home doth post,</L>
+<L>And (in dispaire to get a kinder Host,)</L>
+<L><PB REF="16">She left her wandring veine, and did retire,</L>
+<L>Againe vnto the Woods, (with new desire.)</L>
+<L>Where she intends to passe her Time in griefe,</L>
+<L>Till frowning Fortune smile, and send Releife.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="poem">
+<HEAD>To his Deare friend the Author.</HEAD>
+<LG>
+<L>THe Martin is turnd Nightingale, strange newes!</L>
+<L>Enuy not little birds: his sweet tun'd Muse,</L>
+<L>Warbles harmonious notes with such true skill,</L>
+<L>As if <HI>Apollo</HI> did direct his quill,</L>
+<L>Though yong, and scarcely fleg'd, he dares be heard,</L>
+<L>Amongst old chanters, that their garlands reard</L>
+<L>To <HI>Cadmus</HI> shaggy woods, be prais'd by them,</L>
+<L>Whom latter times haue stil'd the wittiest men,</L>
+<L>And to their number added, as for others</L>
+<L>(Whose iudgements ranckle toothed enuy smo|thers,)</L>
+<L>He cares not, feares not any, no, not those,</L>
+<L>Whose Eastern-breaths will blast a budding Rose.</L>
+<L>His blooming youth may better things produce,</L>
+<L>Though this be good, yet time and longer vse,</L>
+<L>Will add perfection, Now he hath done well,</L>
+<L>Then in his next indeuors he'le excell.</L>
+<L>But harke! he sings, silence the Titmouse fits,</L>
+<L>When the shrill Nightingall so neere me fits.</L>
+</LG>
+<CLOSER><SIGNED>Rob: Cooke.</SIGNED></CLOSER>
+</DIV2>
+<DIV2 TYPE="poem">
+<HEAD>The Author in answere to his friend.</HEAD>
+<LG>
+<L>WEre I the fowle whom thou wold'st haue trans|formd</L>
+<L>From a black night bird, to a Nightingale:</L>
+<L>Or were my youth with those sweet notes adorn'd,</L>
+<L>Which any censure should delicious call,</L>
+<L><PB REF="17">I might beleeue affection would not flatter,</L>
+<L>Or that my barren Muse deseru'd thy praise</L>
+<L>But tis thy skill, each ill conformed matter,</L>
+<L>So neere perfection as thou canst to raise,</L>
+<L>And herein art thou knowne a Cooke compleate,</L>
+<L>In making sweet sauce for vnsauory meate.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="postscript">
+<HEAD>A Postscript.</HEAD>
+<LG>
+<L>IF any bleere-eyde Carping <HI>Momus,</HI> chance,</L>
+<L>Hoping his owne opinion to aduance,</L>
+<L>In reading these my lines, to taxe my <HI>Muse</HI></L>
+<L>with want of skill, or (which is worse) Abuse</L>
+<L>Of any, who perhaps, deserues worse termes</L>
+<L>Then here my want of age, or Art affirmes:</L>
+<L>First, let him know, that I was neuer stor'd,</L>
+<L>With those rich helpes, which <HI>Athens</HI> doth afford:</L>
+<L>Next, let him lay aside his gally-Spleene,</L>
+<L>And all things else, will without fault be seene.</L>
+</LG>
+</DIV2>
+<TRAILER>FINIS.</TRAILER>
+<PB REF="17">
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

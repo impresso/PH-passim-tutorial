@@ -1,0 +1,100 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD EEBOPROOF 2.0//EN">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-09-22</DATE>
+<RESPSTMT>
+<NAME>Emma Leeson Huber</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TYPEs to DIVs in order to validate. Reviewed structure. Checked division-marking material at heads and feet of divisions (HEADS, etc.). Checked for signatures. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected 0 $s and $$word$$s etc. of 0. Checked proofsheets and made corrections found there.  DONE.</ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="OX" ID="A50592">
+<STC T="W">M1682B</STC>
+<BIBNO T="umi">99826379</BIBNO>
+<VID>30781</VID>
+</IDG>
+<TEXT LANG="eng">
+<BODY>
+<DIV1 TYPE="text">
+<PB REF="1">
+<HEAD>MEMORIAE SACRVM LANCELOTI DAVVES S:T:D:</HEAD>
+<HEAD TYPE="sub">Collegii REGINAE apud <HI>Oxonienses</HI> olim Socii, &amp; <HI>Bartonianae</HI> post Ecclesiae (ubi &amp; Christo prim&ugrave;m nomen Dederat) in agro <HI>Westmorlandiae</HI> per Annos 48 Pastoris, <HI>Car|leolensis</HI> Praebendarii, <GAP DESC="foreign">, qui Anno partae per Christum Salutis 1654, Aetatis Suae 77, Mense Martio, praesenti seculo malo (spe multo melioris) valedixit.</HEAD>
+<DIV2 TYPE="poem">
+<L>_&OHgr;&Sgr; <GAP DESC="foreign">!</L>
+<L><GAP DESC="foreign">!</L>
+<L><GAP DESC="foreign">,</L>
+<L><GAP DESC="foreign">;</L>
+<L><GAP DESC="foreign"></L>
+<L><GAP DESC="foreign">.</L>
+<CLOSER><SIGNED>T. T.</SIGNED></CLOSER>
+</DIV2>
+<DIV2 TYPE="poem">
+<LG>
+<L>_SIstito, quisquis fueris, profanum</L>
+<L>Sistito gressum; miserere mundi,</L>
+<L>Dum simul maerens fibi, Literis&abque;,</L>
+<L>Ipse parentet.</L>
+</LG>
+<LG>
+<L>Ecce! (si ferrent oculi videre)</L>
+<L>Hic jacet per quem Toga stabat; illud</L>
+<L>Quod vides non est Tumulus, Patrum sed</L>
+<L>Bibliotheca.</L>
+</LG>
+<LG>
+<L>Fiet hic quis non Niobe, sibi&abque;</L>
+<L>Flebit unam <HI>Dawesio&abque;</HI> Tumbam?</L>
+<L>Conditum quando sciat hoc pusillo</L>
+<L>Aggere Olympum.</L>
+</LG>
+<LG>
+<L>Fata sic Cygnus sua deprecatur</L>
+<L>Ultimo cantu; moriente Phaebo</L>
+<L>Propria expirans celebrat Poesis</L>
+<L>Naenia luctu.</L>
+</LG>
+<LG>
+<L>Quin sat immenso dedimus dolori;</L>
+<L>Vivit, &amp; lusit mod&ograve; sic sepulchrum</L>
+<L>Major Hic letho, penetrans supremi</L>
+<L>Atria coeli.</L>
+</LG>
+<CLOSER><SIGNED>JOS. WILLIAMSON <HI>A. B. C. R.</HI></SIGNED></CLOSER>
+</DIV2>
+<DIV2 TYPE="poem">
+<L>_HEre lies&mdash;Reader be out of breath &amp; dye,</L>
+<L>Thou'lt read his name best in Eternity.</L>
+<L>Slow, slow, fond Cypres. Tis no youthfull greene</L>
+<L>Speakes an Enamell for this Mournfull Scene:</L>
+<L>First sentence Natures Law, pronounce its doome</L>
+<L>I' th' Contradiction of an Aged bloome;</L>
+<L>Embrace thy gilded Fate, and nee'r take hold</L>
+<L>On Sylver-age, but wither into Gold.</L>
+<L>Is this th'encouragement the Learned have,</L>
+<L>That rev'rend Arts can crawle into a grave?</L>
+<L>Sad newes attend the Learned Regions all,</L>
+<L>When aged Starres thus Bearded Comets fall.</L>
+<L>Spins Age such fine white threds, only t'intreate</L>
+<L>Death to weave all in one sad Winding-sheet?</L>
+<L>Come from the lowring black of shades and night,</L>
+<L>Startled'st not at the Lustre of his White?</L>
+<L>Distracted groanes rank'd in an Alphabet</L>
+<L>Of dying sighs about his Coffin set</L>
+<L>Should thunder out our Sorrowes: but we must</L>
+<L>Tread softly, least we wake his sleeping dust.</L>
+<L>I'l only tell thee that hee's dead: But how?</L>
+<L>The Delphick flame within did melt his Snow.</L>
+<L>How well Deaths watchfull Sythe its Season keeps!</L>
+<L>No sooner comes white Harvest, but it Reaps.</L>
+<CLOSER><SIGNED>C. ELLYS <HI>A. B.</HI> C. R.</SIGNED></CLOSER>
+</DIV2>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

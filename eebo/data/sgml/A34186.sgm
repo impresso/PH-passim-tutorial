@@ -1,0 +1,87 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD EEBOPROOF 2.0//EN">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-08-13</DATE>
+<RESPSTMT>
+<NAME>Mona Logarbo</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>*Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate.
+*Checked for GROUP tags.
+*Proofed title page(s).
+*Checked ^s.
+*Checked I / J.
+*Checked oe for ae ligatures.
+*Reviewed structure.
+Added LABELs to ITEMs.
+*Checked placement and completeness of PBs.
+*Checked for duplicate pages.
+*Checked for missing pages.
+*Checked spacing of foreign GAPs.
+*Checked for damage GAPs, #s, @s,  --s, &mdash;, q;s, <ABBR>Esq</ABBR> and UNCLEARs.
+*Correcedt $s.
+*Checked for &amp;cs with incorrect spacing.
+*Checked for OPENERs, SALUTEs, CLOSERs, DATEs, DATELINEs, SIGNEDs,  TRAILERs, BYLINEs, etc.
+Added DATE to DATELINE.
+*Checked for TABLEs and LISTs.
+*Checked for LBs.
+*Checked for startqs, endqs and Qs.
+*Checked proofsheets and made corrections.
+DONE 08-13-03.</ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="A34186">
+<STC T="W">C5670</STC>
+<BIBNO T="oclc">09790637</BIBNO>
+<VID>44087</VID>
+</IDG>
+<TEXT LANG="eng">
+<BODY>
+<DIV1 TYPE="list of assigned preachers">
+<PB REF="1" MS="y">
+<HEAD>A LIST of the PRAEBENDARIES of S^t <HI>PAUL</HI>'s CHURCH, (And Others) Appointed to PREACH upon the HOLY-DAYS In the Year of our Lord, 1686. At Saint <HI>PETER</HI>'s Church in <HI>Cornhill.</HI></HEAD>
+<LIST>
+<ITEM>ANnunciation, <LABEL>D^r <HI>Tillotson,</HI> Dean of <HI>Cant.</HI></LABEL></ITEM>
+<ITEM>Maundy-Thursday, <LABEL>M^r <HI>Halstead.</HI></LABEL></ITEM>
+<ITEM>Easter-Eve, <LABEL>M^r <HI>Hesketh.</HI></LABEL></ITEM>
+<ITEM>Easter-Monday, <LABEL>M^r <HI>Staynoe.</HI></LABEL></ITEM>
+<ITEM>Easter-Tuesday, <LABEL>M^r <HI>Sill.</HI></LABEL></ITEM>
+<ITEM><HI>St.</HI> Philip, <HI>and St.</HI> James, <LABEL>D^r <HI>Turner.</HI></LABEL></ITEM>
+<ITEM>Ascension-Day, <LABEL>D^r <HI>Stradling,</HI> Dean of <HI>Chi|chester.</HI></LABEL></ITEM>
+<ITEM>Whitsun-Monday, <LABEL>M^r <HI>Williams.</HI></LABEL></ITEM>
+<ITEM>Whitsun-Tuesday, <LABEL>D^r <HI>Holder.</HI></LABEL></ITEM>
+<ITEM><HI>St.</HI> Barnabas, <LABEL>D^r <HI>Godolphin.</HI></LABEL></ITEM>
+<ITEM><HI>St.</HI> John Baptist, <LABEL>M^r <HI>Wiggan.</HI></LABEL></ITEM>
+<ITEM><HI>St.</HI> Peter, <LABEL>M^r <HI>Masters.</HI></LABEL></ITEM>
+<ITEM><HI>St.</HI> Bartholomew, <LABEL>D^r <HI>Cory.</HI></LABEL></ITEM>
+<ITEM><HI>St.</HI> Matthew, <LABEL>M^r <HI>Carter.</HI></LABEL></ITEM>
+<ITEM><HI>St.</HI> Michael, <LABEL>D^r <HI>Sherlock.</HI></LABEL></ITEM>
+<ITEM><HI>St.</HI> Luke, <LABEL>D^r <HI>Freeman.</HI></LABEL></ITEM>
+<ITEM><HI>St.</HI> Simon, <HI>and St.</HI> Jude, <LABEL>D^r <HI>Alston.</HI></LABEL></ITEM>
+<ITEM>All Saints, <LABEL>D^r <HI>Beveridge.</HI></LABEL></ITEM>
+<ITEM><HI>St.</HI> Andrew, <LABEL>D^r <HI>Iane,</HI> Dean of <HI>Glou|cester.</HI></LABEL></ITEM>
+<ITEM><HI>St.</HI> Thomas, <LABEL>M^r <HI>Hotchkis.</HI></LABEL></ITEM>
+<ITEM><HI>St.</HI> John, <LABEL>D^r <HI>Crowther.</HI></LABEL></ITEM>
+<ITEM>Innocents-Day, <LABEL>M^r <HI>Iohn Hall.</HI></LABEL></ITEM>
+<ITEM>Circumcision, <LABEL>D^r <HI>Grove.</HI></LABEL></ITEM>
+<ITEM>Epiphany, <LABEL>D^r <HI>Scot.</HI></LABEL></ITEM>
+<ITEM>Conversion of <HI>St.</HI> Paul, <LABEL>M^r <HI>Isham.</HI></LABEL></ITEM>
+<ITEM>Purification, <LABEL>D^r <HI>Sanders.</HI></LABEL></ITEM>
+<ITEM><HI>St.</HI> Matthias, <LABEL>D^r <HI>Stillingfleet,</HI> Dean of St. <HI>Paul</HI></LABEL>'s.</ITEM>
+</LIST>
+<CLOSER><DATELINE><DATE>Feb. 28. 1685.</DATE></DATELINE>
+<SIGNED>H. LONDON.</SIGNED></CLOSER>
+</DIV1>
+</BODY>
+<BACK>
+<DIV1 TYPE="colophon">
+<P><HI>LONDON,</HI> Printed for <HI>W. Kettilby,</HI> at the Bishop's-Head in St. <HI>Paul</HI>'s Church-Yard. 1686.</P>
+</DIV1>
+</BACK>
+</TEXT>
+</EEBO>
+</ETS>

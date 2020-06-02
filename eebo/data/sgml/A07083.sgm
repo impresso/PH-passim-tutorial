@@ -1,0 +1,3774 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD EEBOPROOF 2.0//EN">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-08-08</DATE>
+<RESPSTMT>
+<NAME>Jonathan Blaney</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TYPEs to DIVs in order to validate. Proofed title page(s). Checked for N=""s. Checked for GROUP tags. Checked ^s. Reviewed structure. Checked division-marking material at heads and feet of divisions (HEADS, etc.). Checked for signatures. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected 53 $s and $$word$$s etc. of 72. Converted 19 $$s to GAP DESC="illegible" RESP="apex". Checked spacing of foreign GAPs. Checked for EPIGRAPHs and ARGUMENTs. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs, endqs, oes, q;s, and Qs. Checked proofsheets and made corrections found there. Checked for CLOSERs, TRAILERs, and BYLINEs. Checked for missing page GAPs. DONE.</ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="OX" ID="A07083">
+<STC T="S">17488</STC>
+<BIBNO T="umi">99847549</BIBNO>
+<VID>12586</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1">
+<PB REF="1">
+<P>THE VVONDER of VVomen Or The Tragedie of Sophonisba, as it hath beene sundry times Acted at the <HI>Blacke Friers.</HI></P>
+<P>Written by IOHN MARSTON.</P>
+<P>LONDON. Printed by <HI>Iohn Windet</HI> and are to be sold neere <HI>Ludgate,</HI> 1606.</P>
+</DIV1>
+<DIV1 TYPE="to the reader">
+<PB REF="2">
+<PB REF="2">
+<HEAD>To the generall Reader.</HEAD>
+<P>_KNow, that I haue not labored in this poeme, to tie my selfe to relate any thing as an historian but to inlarge euery thing as a Poet, To transcribe Authors, quote authorities, &amp; translate Latin prose orations into English black-verse, hath in this subiect beene the least aime of my studies. Then (equall Reader) peruse me with no prepared dislike, and if ought shall displease thee thanke thy selfe, if ought shall please thee thanke not me, for I confesse in this it was not my onely end.</P>
+<CLOSER><SIGNED>Io. Marston.</SIGNED></CLOSER>
+</DIV1>
+<DIV1 TYPE="argument">
+<PB REF="3">
+<LG>
+<HEAD>Argumentum.</HEAD>
+<L>A gratefull harts iust haight: Ingratitude.</L>
+<L>And vowes base breach with worthy shame persu'd</L>
+<L>A womans constant loue as firm as fate</L>
+<L>A blamelesse Counsellor well borne for state</L>
+<L>The folly to inforce free loue, These know</L>
+<L>This subject with full light doth amply show.</L>
+</LG>
+<LIST>
+<HEAD>Interlocutores.</HEAD>
+<ITEM><LIST>
+<HEAD>Kings in Lybia riuals for So|phonisba.</HEAD>
+<ITEM>Massinissa.</ITEM>
+<ITEM>Syphax,</ITEM>
+</LIST></ITEM>
+<ITEM><HI>Asdruball.</HI> Father to So|phonisba.</ITEM>
+<ITEM><HI>Gelosso.</HI> A Senator of Carthage.</ITEM>
+<ITEM><HI>Bytheas.</HI> A Senator of Carthage.</ITEM>
+<ITEM><HI>Hanno Mag|nus.</HI> Captaine for Carthage.</ITEM>
+<ITEM><HI>Iugurth.</HI> Massinissas Ne|phew.</ITEM>
+<ITEM><LIST>
+<HEAD>Generals of Rome.</HEAD>
+<ITEM>Scipio.</ITEM>
+<ITEM>Laelius.</ITEM>
+</LIST></ITEM>
+<ITEM><HI>Vangue.</HI> An Ethiopian slaue.</ITEM>
+<ITEM><HI>Carthalon.</HI> A Senator of Carthage.</ITEM>
+<ITEM><HI>Gisco.</HI> A Surgean of Carthage.</ITEM>
+<ITEM><HI>Nuntius.</HI></ITEM>
+<ITEM><HI>Sophonisba.</HI> Daughter to As|druball of Car|thage.</ITEM>
+<ITEM><HI>Zanthia.</HI> Her maide.</ITEM>
+<ITEM><HI>Erictho.</HI> An Inchantres.</ITEM>
+<ITEM><LIST>
+<HEAD>Waiting women to Sophonisba.</HEAD>
+<ITEM>Arcathia.</ITEM>
+<ITEM>Nycea.</ITEM>
+</LIST></ITEM>
+</LIST>
+</DIV1>
+<DIV1 TYPE="prologue">
+<PB REF="3">
+<HEAD>Prologus. Cornets sound a march.</HEAD>
+<STAGE><HI>Enter</HI> at one dore the <HI>Prologue:</HI> too Pages with torches: <HI>Asdru|bal</HI> and <HI>Iugurth</HI> too Pages with lights: <HI>Massinissa</HI> leading <HI>Sophonisba: Zanthia</HI> bearing <HI>Sophonisbas</HI> traine <HI>Ar|cathia</HI> and <HI>Nicea: Hano</HI> and <HI>Bytheas</HI> At the other dore too Pages with targets and Iauelines, too Pages with lights, <HI>Syphax</HI> armd from top to toe, <HI>Vangue</HI> followes.</STAGE>
+<STAGE>These thus entred, stand still, whilst the <HI>Prologue</HI> resting be|tweene both troups speakes.</STAGE>
+<LG>
+<L>THe Sceane is <HI>Lybia,</HI> and the subiect thus.</L>
+<L>Whilst <HI>Carthage</HI> stoode the onely awe of <HI>Rome,</HI></L>
+<L>As most imperiall seate of <HI>Lybia,</HI></L>
+<L>Gouernd by Statsmen each as great as Kings</L>
+<L>(For 17. Kings were <HI>Carthage</HI> feodars)</L>
+<L>Whilst thus she florishd, whilst hir <HI>Hannibal</HI></L>
+<L>Made <HI>Rome</HI> to tremble, and the Wals yet pale:</L>
+<L>Then in this <HI>Carthage Sophonisba</HI> liu'd</L>
+<L>The farre fam'd daughter of great <HI>Asdruball&punc;</HI></L>
+<L>For whom (mongst others) potent <HI>Syphax</HI> sues</L>
+<L>And well grac'd <HI>Massinissa</HI> riuals him</L>
+<L>Both Princes of proud Scepters: but the lot</L>
+<L>Of doubtfull fauour <HI>Massinissa</HI> grac'd</L>
+<L>At which <HI>Syphax</HI> grows blacke: For now the night</L>
+<L>Yeelds loud resoundings of the nuptiall pompe:</L>
+<L><HI>Apollo</HI> strikes his Harpe: <HI>Hymen</HI> his Torch</L>
+<L>Whilst lowring <HI>Iuno</HI> with ill-boding eye</L>
+<L>Sits enuious at too forward <HI>Venus:</HI> Loe</L>
+<L>The instant night: And now ye worthier minds</L>
+<L>To whom we shall present a female glory</L>
+<L>(The wonder of a constancie so fixt</L>
+<L>That Fate it selfe might well grow enuious)</L>
+<PB REF="4">
+<L>Be pleasd to sit such as may merrit oile</L>
+<L>And holy dew stil'd from diuiner heat,</L>
+<L>For rest thus knowing, what of this you heare,</L>
+<L>The Author lowly hopes, but must not feare.</L>
+</LG>
+<LG>
+<L>For iust worth neuer rests on popular frowne,</L>
+<L>To haue done well is faire deeds onely crowne.</L>
+</LG>
+<STAGE>Nee se quisiuerit extra.</STAGE>
+<STAGE><HI>Cornets</HI> sound a March, the Prologue leads <HI>Massinissas</HI> troupes ouer the Stage, and departs: <HI>Syphax</HI> troupes onely stay.</STAGE>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 N="1" TYPE="act">
+<PB REF="4">
+<HEAD>Actus Primi.</HEAD>
+<DIV2 N="1" TYPE="scene">
+<HEAD>Scena prima.</HEAD>
+<STAGE><HI>Syphax</HI> and <HI>Vangue.</HI></STAGE>
+<SP>
+<SPEAKER>SY:</SPEAKER>
+<LG>
+<L><HI>Syphax, Syphax,</HI> why wast thou cursd a King?</L>
+<L>What angry God made thee so great, so vile?</L>
+<L>Contemd, disgraced, thinke, wert thou a slaue</L>
+<L>Though <HI>Sophonisba</HI> did reiect thy loue</L>
+<L>Thy low neglected head vnpointed at</L>
+<L>Thy shame vnrumord and thy sute vnskoffd</L>
+<L>Might yet rest quiet: <HI>Reputation</HI></L>
+<L>Thou awe of fooles and greatmen: thou that choakst</L>
+<L>Freest addictions, and makst mortals sweat</L>
+<L>Bloud and cold drops in feare to loose, or hope</L>
+<L>To gaine thy neuer certaine seldome worthy gracings.</L>
+<L><HI>Reputation!</HI></L>
+<L>Wert not for thee <HI>Syphax</HI> could beare this skorne</L>
+<L>Not spouting vp his gall among his bloud</L>
+<L>In blacke vexations: <HI>Massinissa</HI> might</L>
+<L>Inioy the sweets of his preferred graces</L>
+<L>Without my dangerous Enuy or Reuenge</L>
+<L>Wert not for thy affliction all might sleepe</L>
+<L>In sweete obliuion: But (O greatnes skourge!)</L>
+</LG>
+<LG>
+<L>We cannot without Enuie keepe high name</L>
+<L>Nor yet disgrac'd can haue a quiet shame.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Va.</SPEAKER>
+<L>Scipio:&mdash;</L>
+</SP>
+<SP>
+<SPEAKER>Sy.</SPEAKER>
+<L>Some light in depth of hell: <HI>Vangue</HI> what hope?</L>
+</SP>
+<SP>
+<SPEAKER>Va.</SPEAKER>
+<LG>
+<L>I haue receaud assur'd intelligence</L>
+<L>That <HI>Scipio Romes</HI> sole hope hath raisd vp men</L>
+<L>Drawne troupes together for inuasion&mdash;</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Sy.</SPEAKER>
+<L>Of this same <HI>Carthage.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Va.</SPEAKER>
+<LG>
+<L>With this pollicie</L>
+<L>To force wild <HI>Hannibal</HI> from <HI>Italy</HI>&mdash;</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Sy.</SPEAKER>
+<L>And draw the war to <HI>Affricke.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Va.</SPEAKER>
+<L>Right.</L>
+</SP>
+<SP>
+<SPEAKER>Sy.</SPEAKER>
+<LG>
+<L>And strik</L>
+<L>This secure countrey with vnthought of armes</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Va.</SPEAKER>
+<LG>
+<L>My letters beare he is departed <HI>Rome</HI></L>
+<L>Directly setting course and sayling vp.&mdash;</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Sy.</SPEAKER>
+<LG>
+<L>To <HI>Carthage, Carthage,</HI> O thou eternall youth</L>
+<PB REF="5">
+<L>Man of large fame great and abounding glory</L>
+<L>Renounefull <HI>Scipio,</HI> spread thy too-necked Eagles,</L>
+<L>Fill full thy sailes with a reuenging wind,</L>
+<L>Strike through obedient Neptune, till thy prows</L>
+<L>Dash vp our <HI>Lybian</HI> ouse, and thy iust armes</L>
+<L>Shine with amazfull terror on these wals,</L>
+<L>O now record thy Fathers honord bloud</L>
+<L>Which <HI>Carthage</HI> drunke, thy Vncle <HI>Publius</HI> bloud</L>
+<L>Which <HI>Carthage</HI> drunke, 30000. soules</L>
+<L>Of choice <HI>Italians Carthage</HI> set on wing:</L>
+<L>Remember <HI>Hannibal,</HI> yet <HI>Hannibal</HI></L>
+<L>The consul-queller: O then inlarge thy hart</L>
+<L>Be thousand soules in one, let all the breath</L>
+<L>The spirit of thy name and nation be mixt strong</L>
+<L>In thy great hart: O fall like thunder shaft</L>
+<L>The winged vengeance of incensed <HI>Ioue</HI></L>
+<L>Vpon this <HI>Carthage:</HI> for <HI>Syphax</HI> here flies off</L>
+<L>From all allegeance, from all loue or seruice</L>
+<L>His (now freed) scepter once did yeeld this Cittie</L>
+</LG>
+<LG>
+<L>Yee vniuersall Gods, <HI>Light, Heate,</HI> and <HI>Ayre</HI></L>
+<L>Proue all vnblessing <HI>Syphax</HI> if his hands</L>
+<L>Once reare them selues for Carthage but to curse it.</L>
+<L>It had beene better they had changd their faith,</L>
+<L>Denide their Gods, then sleighted <HI>Syphax</HI> loue</L>
+<L>So fearefully will I take vengeance.</L>
+<L>I'le interleague with <HI>Scipio. Vangue.</HI></L>
+<L>Deere <HI>Ethiopian Negro,</HI> goe wing a vessell</L>
+<L>And fly to <HI>Scipio.</HI> say his confederate</L>
+<L>Vowd and confirmd is <HI>Syphax:</HI> bidd him hast</L>
+<L>To mix our palmes and armes: will him make vp</L>
+<L>Whilst we are in the strength of discontent</L>
+<L>Our vnsuspected forces well in armes</L>
+<L>For <HI>Sophonisba, Carthage, Asdruball</HI></L>
+<L>Shall feele their weaknes in preferring weaknes</L>
+<L>And one lesse great then we, to our deere wishes</L>
+<L>Haste gentle <HI>Negro,</HI> that this heape may knowe stronge</L>
+<L>Me, and their wronge:</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Ua:</SPEAKER>
+<L>Wronge?</L>
+</SP>
+<SP>
+<SPEAKER>Sy.</SPEAKER>
+<LG>
+<L>I, tho twere not, yet knowe while Kings are</L>
+<PB REF="5">
+<L>What thei'le but thinke and not what is, is wrong</L>
+<L>I am disgrac'd in, and by that which hath</L>
+<L>No reason, <HI>Loue,</HI> and <HI>Woman,</HI> my reuenge</L>
+<L>Shall therefore beare no argument of right</L>
+<L><HI>Passion</HI> is <HI>Reason</HI> when it speakes from Might</L>
+</LG>
+<LG>
+<L>I tell thee, man, nor Kings, nor Gods exempt</L>
+<L>But they grow pale if once they find Contempt: haste.</L>
+</LG>
+</SP>
+<STAGE>Exeunt.</STAGE>
+</DIV2>
+<DIV2 N="2" TYPE="scene">
+<HEAD>Scena Secunda.</HEAD>
+<STAGE><HI>Enter, Arcathia, Nycea</HI> with Tapers <HI>Sophonisba</HI> in her night attyre followed by <HI>Zanthia.</HI></STAGE>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<L>Watch at the dors: and till we be repos'd</L>
+<L>Let no one enter: <HI>Zanthia</HI> vndoe me.</L>
+</SP>
+<SP>
+<SPEAKER>Za.</SPEAKER>
+<L>With this motto vnder your girdle</L>
+<L><HI>You had bin vndone if you had not bin vndone</HI> humblest seruice.</L>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<LG>
+<L>I wonder <HI>Zanthia</HI> why the custome is</L>
+<L>To vse such <HI>Ceremonie</HI> such strict shape</L>
+<L>About vs women: forsooth the Bride must steale</L>
+<L>Before her Lord to bed: and then delaies</L>
+<L>Long expectations all against knowne wishes</L>
+<L>I hate these figures in locution</L>
+<L>These about phrases forc'd by <HI>ceremonie</HI></L>
+<L>We must still seeme to flie what we most seeke</L>
+<L>And hide our selues from that we faine would find vs</L>
+<L>Let those that thinke and speake and doe iust actes</L>
+<L>Know forme can giue no vertue to their actes</L>
+<L>Nor detract vice.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Za.</SPEAKER>
+<LG>
+<L>'las faire Princes, those that are strongly form'd</L>
+<L>And truely shapt may naked walke, but we</L>
+<L>We things cal'd women, onely made for show</L>
+<L>And pleasure, created to beare children</L>
+<L>And play at shuttle-coke, we imperfect mixtures</L>
+<L>without respectiue <HI>ceremonie vs'd</HI></L>
+<L>And euer complement, alas what are we?</L>
+<L>Take from vs formall custome and the curtesies</L>
+<PB REF="6">
+<L>Which ciuill fashion hath still vs'd to vs</L>
+<L>We fall to all contempt, O women how much</L>
+<L>How much are you beholding to <HI>Ceremony,</HI></L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<L>You are familiar. <HI>Zanthia</HI> my shooe,</L>
+</SP>
+<SP>
+<SPEAKER>Za.</SPEAKER>
+<L>Ti's wonder Madam you treade not awry.</L>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<L>Your reason <HI>Zanthia.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Za.</SPEAKER>
+<L>You goe very high.</L>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<L>Harke, Musicke, Musicke.</L>
+</SP>
+<STAGE>The Ladies lay the Princes in a faire bed, and close the curtaines whil'st <HI>Massinissa Enters.</HI></STAGE>
+<SP>
+<SPEAKER>Ni.</SPEAKER>
+<L>The Bridgrome.</L>
+</SP>
+<SP>
+<SPEAKER>Arca.</SPEAKER>
+<L>The Bridgrome</L>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<L>Hast good <HI>Zanthia,</HI> helpe, keepe yet the dores</L>
+</SP>
+<SP>
+<SPEAKER>Za.</SPEAKER>
+<L>Faire fall you Lady, so, admit admit.</L>
+</SP>
+<STAGE><HI>Enter</HI> Foure boyes antiquely attiered with bows and quiuers dauncing to the <HI>Cornets,</HI> a phantastique measure, <HI>Massi|nissa</HI> in his night gowne led by <HI>Asdruball</HI> and <HI>Hanno</HI> followed by <HI>Bytheas</HI> and <HI>Iugu<GAP DESC="illegible" RESP="OXF" EXTENT="2 letters">h,</HI> the boyes draw the Curtaines discoue|ring <HI>Sophonisba</HI> to whom <HI>Massinissa</HI> speakes.</STAGE>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<LG>
+<L>You powers of ioy: Gods of a happie bed</L>
+<L>Show you are pleas'd, sister and wife of <HI>Ioue</HI></L>
+<L>High fronted <HI>Iuno</HI> and thou <HI>Carthage</HI> Patron</L>
+<L>Smoth chind <HI>Appollo,</HI> both giue modest heat</L>
+<L>And temperat graces.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Mass.</SPEAKER>
+<LG>
+<L>drawes a white ribbon forth of the</L>
+<L>bed as from the waste of <HI>Sopho.</HI></L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<LG>
+<L>Loe I vnloose thy waste</L>
+<L>She that is iust in loue is Godlike chaste:</L>
+</LG>
+</SP>
+<STAGE>Io to Hymen.</STAGE>
+<STAGE>Chorus with cornets, Organ, and voices. Io to Hymen.</STAGE>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<LG>
+<L>A modest silence tho'te be thought</L>
+<L>A virgins beautie and hir highest honor</L>
+<L>Though bashfull fainings nicely wrought</L>
+<L>Grace hir that vertue takes not in, but on hir</L>
+<L>What I dare thinke I boldly speake</L>
+<L>After my word my well bold action rusheth</L>
+<PB REF="6">
+<L>In open flame then passion breake</L>
+<L>Where <HI>Vertue</HI> prompts, thought word, act neuer blusheth.</L>
+<L>Reuenging Gods whose Marble hands</L>
+<L>Crush faithlesse men with a confounding terror</L>
+<L>Giue me no mercy if these bands</L>
+<L>I couet not with an vnfained feruor</L>
+<L>Which zealous vow when ought can force me t'lame</L>
+<L>Load with that plague <HI>Atlas</HI> would groane at, shame.</L>
+</LG>
+</SP>
+<STAGE>Io to Hime~&punc;</STAGE>
+<STAGE>Chorus. Io to Hymen.</STAGE>
+<SP>
+<SPEAKER>Asdru.</SPEAKER>
+<LG>
+<L>Liue both high parents of so happy birth</L>
+<L>Your stemms may touch the skies and shaddow earth</L>
+<L>Most great in fame more great in vertue shining</L>
+<L>Prosper O powers a iust, a strong diuining.</L>
+</LG>
+</SP>
+<STAGE>Io to Hymen.</STAGE>
+<STAGE>Chorus. Io to Hymen.</STAGE>
+<STAGE><HI>Enter Carthalo</HI> his sword drawne, his body wounded, his shield strucke full of darts: <HI>Massin.</HI> being reddy for bedde.</STAGE>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<LG>
+<L>To bold harts Fortune, be not you amazd</L>
+<L><HI>Carthage O Carthage:</HI> be not you amazd.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<LG>
+<L><HI>Ioue</HI> made vs not to feare, resolue, speake out</L>
+<L><HI>The highest misery of man is doubt:</HI> Speake <HI>Carthalo.</HI></L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<LG>
+<L>The stooping Sun like to some weaker Prince</L>
+<L>Let his shads spread to an vnnaturall hugenesse</L>
+<L>When we the campe that lay at <HI>Vtica</HI></L>
+<L>From <HI>Carthage</HI> distant but fiue easie leagues</L>
+<L>Discride from of the watch three hundred saile</L>
+<L>Vpon whose tops the <HI>Roman</HI> Eagles streachd</L>
+<L>Their large spread winges, which fan'd the euening ayre</L>
+<L>To vs cold breath, for well we might discerne</L>
+<L><HI>Rome</HI> swam to <HI>Carthage.</HI></L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Asd.</SPEAKER>
+<LG>
+<L><HI>Hanniball</HI> our ancor is come backe, thy slight</L>
+<L>Thy Stratagem to lead warre vnto <HI>Rome</HI></L>
+<L>To quite our selues, hath taught now desperat <HI>Rome</HI></L>
+<L>T'assaile our <HI>Carthage,</HI> Now the warre is here.</L>
+</LG>
+</SP>
+<SP>
+<PB REF="7">
+<SPEAKER>Ma.</SPEAKER>
+<L>He is nor blessd nor honest that can feare.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>I but to cast the worst of our distresse. - -</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<LG>
+<L>To doubt of what shall be is wretchednesse</L>
+<L><HI>Desier, Feare,</HI> and <HI>Hope,</HI> receaue no bond</L>
+<L>By whom, we in our selues are neuer but beyond. <HI>On.</HI></L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<LG>
+<L>Th'allarum beates necessitie of fight</L>
+<L>Th'vnsober euening drawes out reeling forces</L>
+<L>Souldiers halfe men, who to their colors troupe</L>
+<L>With fury, not with valor: whilst our ships</L>
+<L>Vnrigd, vnusd, fitter for fier then water</L>
+<L>We saue in our bard hauen from surprise.</L>
+<L>By this our army marcheth toward the shore,</L>
+<L>Vndisciplind young men most bold to doe</L>
+<L>If they knew how, or what, when we discrie</L>
+<L>A mightie dust beate vp with horses houes</L>
+<L>Straight Roman ensignes glitter: <HI>Scipio.</HI></L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Asd.</SPEAKER>
+<L>Scipio.</L>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<LG>
+<L><HI>Scipio</HI> aduaunced like the God of blood</L>
+<L>Leads vp grim <HI>war,</HI> that father of foule wounds</L>
+<L>Whose finowy feete are steepd in gore, whose hideous voice</L>
+<L>Makes turrets tremble, and whole Citties shake</L>
+<L>Before whose browes flight and disorder hurry</L>
+<L>With whom March <HI>Burnings, murder, wrong, waste, rapes</HI></L>
+<L>Behind whom a sad traine is seene, <HI>Woe, Feares</HI></L>
+<L><HI>Tortures, Leane, Neede, Famine,</HI> and helplesse teares</L>
+<L>Now make we equall stand in mutuall vew</L>
+<L>We iudg'd the <HI>Romans</HI> 18. thousand foote</L>
+<L>5000&punc; Horse, we almost doubled them</L>
+<L>In number not in vertue: yet in heate</L>
+<L>Of youth and wine iolly and full of bloud.</L>
+<L>We gaue the signe of battle: shouts are raisd</L>
+<L>That shooke the heauens: <HI>Pell Mell</HI> our armys ioyne</L>
+<L>Horse, targets, pikes all against each apposd</L>
+<L>They giue fierce shoke, arms thundred as they closd</L>
+<L>Men couer earth which straight are couered</L>
+<L>With men and earth: yet doubtfull stood the fight</L>
+<L>More faire to <HI>Carthage;</HI> when loe as oft you see</L>
+<PB REF="7">
+<L>In mines of gold, when laboring slaues delue out</L>
+<L>The richest ore, being in suddaine hope</L>
+<L>With some vnlookt for vaine to full their buckets</L>
+<L>And send huge treasure vp, a suddaine damp</L>
+<L>Stifles them all, their hands yet stuffd with gold</L>
+<L>So fell our fortunes for looke as yee stood proud</L>
+<L>As hopefull victors, thinking to returne</L>
+<L>With spoiles worth triumph, wrathfull <HI>Syphax</HI> lands</L>
+<L>With full ten thousand strong <HI>Numidian</HI> horse</L>
+<L>And ions to <HI>Scipio,</HI> then loe we all were damp't</L>
+<L>We fall in glusters and our wearied troups</L>
+<L>Quit all: slaughter ran throw vs straight, we flie</L>
+<L><HI>Romans</HI> pursue, but <HI>Scipio</HI> sounds retraite</L>
+<L>As fearing traines and night: we make amaine</L>
+<L>For <HI>Carthage</HI> most, and some for <HI>Vtica</HI></L>
+<L>All for our liues: new force, fresh armes with speed</L>
+<L>You haue said truth of all: no more. I bleede.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>By.</SPEAKER>
+<L>O wretched fortune.</L>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<LG>
+<L>Old Lord spare thy hay<GAP DESC="illegible" RESP="OXF" EXTENT="2 letters">s</L>
+<L>What dost thou thinke baldnesse will cure thy greefe</L>
+<L>What decree the <HI>Senate?</HI></L>
+</LG>
+</SP>
+<STAGE><HI>Enter Gelosso</HI> with Commissions in his hand seald.</STAGE>
+<SP>
+<SPEAKER>Gelo.</SPEAKER>
+<LG>
+<L>Aske old <HI>Gelosso</HI> who returnes from them</L>
+<L>Informd with fullest charge strong <HI>Asdruball</HI></L>
+<L>Great <HI>Massinissa Carthage</HI> Generall</L>
+<L>So speakes the <HI>Senate:</HI> Counsell for this warre</L>
+<L>In <HI>Hanno magnus, Bytheas, Carthalon.</HI></L>
+<L>And vs <HI>Gelosso</HI> rests: Imbrace this charge</L>
+<L>You neuer yet dishonord. <HI>Asdruball</HI></L>
+<L>High <HI>Massinissa</HI> by your vowes to <HI>Carthage</HI></L>
+<L>By God of great-men <HI>Glory,</HI> fight for <HI>Carthage</HI></L>
+<L>Ten thousand strong <HI>Massulians</HI> readie troupt</L>
+<L>Expect their King, double that number waites</L>
+<L>The leading of loud <HI>Asdruball;</HI> beate lowde</L>
+<L>Our <HI>Affrike</HI> drummes, and whil'st our o're-toild foe</L>
+<L>Snores on his vnlacd cask, all faint though proud</L>
+<L>Through his succesfull fight strike fresh allarmes</L>
+<L>Gods are not if they grace not bold iust armes.</L>
+</LG>
+</SP>
+<SP>
+<PB REF="8">
+<SPEAKER>Mass.</SPEAKER>
+<LG>
+<L><HI>Carthage</HI> thou straight shalt know</L>
+<L>Thy fauoures haue beene done vnto a king.</L>
+</LG>
+</SP>
+<STAGE>Exit with Asdruball and the Page.</STAGE>
+<SP>
+<SPEAKER>Soph.</SPEAKER>
+<LG>
+<L>My Lords t,is most vnusuall such sad haps</L>
+<L>Of suddeine horror, should intrude mong beds</L>
+<L>Of soft and priuate loues; but strange euents</L>
+<L>Excuse stra~ge form's. O you that know our bloud</L>
+<L>Reuenge if I doe faine: I here protest</L>
+<L>Though my Lord leaue his wife a very mayde,</L>
+<L>Euen this night instead of my soft armes</L>
+<L>Clasping his well strong lims with glossfull steele,</L>
+<L>Whats safe to <HI>Carthage</HI> shall be sweete to me.</L>
+<L>I must not, nor I am once ignorant</L>
+<L>My choyse of loue hath giuen this suddein da~ger</L>
+<L>To yet strong <HI>Carthage:</HI> t'was I lost the fight,</L>
+<L>My choice vext <HI>Syphax</HI> inrag'd <HI>Syphax</HI> struk</L>
+<L>Armes fate: yet <HI>Sophonisba</HI> not repents,</L>
+<L><HI>O we were Gods if that we knew euents.</HI></L>
+<L>But let me Lord leaue <HI>Carthage,</HI> quit his virtue</L>
+<L>I will not loue him, yet must honor him,</L>
+<L>As still good Subjects must badd Princes: Lords</L>
+<L>From the most ill-grac'd <HI>Hymeneall</HI> bedde</L>
+<L>That euer <HI>Iuno</HI> frown'd at, I intreat</L>
+<L>That you'le collect from our loose form'd speach</L>
+<L>This firme resolue: that no loe Appetite</L>
+<L>Of my sex weaknes, can or shall orecome</L>
+<L>Due gratefull seruice vnto you, or virtue.</L>
+<L>Witnesse ye Gods I neuer vntill now</L>
+<L>Repin'd at my creation; now I wish</L>
+<L>I were no woman, that my armes might speake</L>
+<L>My hart to <HI>Carthage:</HI> but in vaine, my tongue</L>
+<L>Sweares I am woman still: I talke to long.</L>
+</LG>
+</SP>
+<STAGE>Cornets a march. <HI>Enter</HI> two Pages with targets and Iauelins two Pages with torches. <HI>Massinissa</HI> arm'd a cape a pee. <HI>Asdruball</HI> arm'd.</STAGE>
+<SP>
+<PB REF="8">
+<SPEAKER>Ma.</SPEAKER>
+<LG>
+<L>Ye <HI>Carthage</HI> Lords: know <HI>Massinissa</HI> knowes</L>
+<L>Not only terms of honor: but his actions</L>
+<L>Nor must I now inlarge how much my cause</L>
+<L>Hath dangerd <HI>Carthage</HI> but how I may show</L>
+<L>My selfe most prest to satisfaction</L>
+<L>The loathsome staine of Kings <HI>Ingratitude</HI></L>
+<L>From me O much be farre, and since this torrent</L>
+<L>Warres rage admits no Ancor: since the billow</L>
+<L>Is risen so high we may not hull but yeelde</L>
+<L>This ample state to stroke of speedy swords</L>
+<L>What you with sober hast hath well decreed</L>
+<L>Weele put to suddaine armes: no not this night</L>
+<L>These dainties this first fruits of nuptials</L>
+<L>That well might giue excuse for feeble lingrings</L>
+<L>Shall hinder <HI>Massiuissa. Appetite</HI></L>
+<L>Kisses, loues, dalliance and what softer ioyes</L>
+<L>The <HI>Venus</HI> of the pleasingst ease can minister</L>
+<L>I quit you all: <HI>Vertue</HI> perforce is <HI>Vice</HI></L>
+<L>But he that may, yet holds, is manly wise</L>
+<L>Loe then ye Lords of <HI>Carthage,</HI> to your trust</L>
+<L>I leaue all <HI>Massinissas</HI> treasure by the oath</L>
+<L>Of right good men stand to my fortune iust.</L>
+<L><HI>Most hard it is for great harts to mistrust.</HI></L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<L>We vow by all high powers.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<LG>
+<L>No doe not sweare.</L>
+<L>I was not borne so small to doubt or feare.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<L>Worthy my Lord.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<LG>
+<L>Peace my eares are steele</L>
+<L>I must not heare thy much inticing voice.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<LG>
+<L>By <HI>Massinissa, Sophonisba</HI> speakes</L>
+<L>Worthy his wife: goe with as high a hand</L>
+<L>As worth can reare, I will not stay my Lord</L>
+<L>Fight for our country, vent thy youthfull heate</L>
+<L>In field not beds, the fruite of honor <HI>Fame</HI></L>
+<L>Be rather gotten then the oft disgrace</L>
+<L>Of haplesse parents, children, goe best man</L>
+<L>And make me proud to be a soldiers wife</L>
+<L>That valews his renoune aboue faint pleasures</L>
+<L>Thinke euery honor that doth grace thy sword</L>
+<L>Trebbles my loue: by thee I haue no lust</L>
+<PB REF="9">
+<L>But of thy glory: best lights of heauen with thee</L>
+<L>Like wonder stand, or fall, so though thou die</L>
+<L>My fortunes may be wretched, but not I.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<LG>
+<L>Wondrous creature, euen fit for Gods not men</L>
+<L>Nature made all the rest of thy faire sex</L>
+<L>As weake essaies, to make thee a patterne</L>
+<L>Of what can be in woman. Long Farewell.</L>
+<L>Hees sure vnconquer'd in whom thou dost dwell</L>
+<L><HI>Carthage Palladium.</HI> See that glorious lampe</L>
+<L>Whose lifefull presence giueth suddaine flight</L>
+<L>To phansies, togs, feares, sleepe, and slothfull night</L>
+<L>Spreads day vpon the world: march swift amaine</L>
+<L>Fame got with losse of breath is godlike gaine.</L>
+</LG>
+</SP>
+<STAGE>The Ladies draw the curtaines about <HI>Sophonisba,</HI> the rest accompany <HI>Massinissa</HI> forth, the <HI>Cornets</HI> and <HI>Organs</HI> playing loud full Musicke for the Act.</STAGE>
+</DIV2>
+<TRAILER>Actus Primi. FINIS.</TRAILER>
+</DIV1>
+<DIV1 N="2" TYPE="act">
+<HEAD>Actus Secundi.</HEAD>
+<DIV2 N="1" TYPE="scene">
+<HEAD>Scena Prima.</HEAD>
+<STAGE>Whil'st the Musicke for the first <HI>Act</HI> soundes <HI>Hanno, Car|thalo, Bytheas, Gelosso enter:</HI> They place themselues to Counsell, <HI>Gisco</HI> th'impoisner waiting on them, <HI>Han|no, Carthalo,</HI> and <HI>Bytheas,</HI> setting their hands to a writing, which being offer'd to <HI>Gelosso,</HI> he denies his hand, and as much offended impati|ently starts vp and speakes.</STAGE>
+<STAGE><PB REF="9">Gelasso. Hanno. Bytheas. Carthalo.</STAGE>
+<SP>
+<SPEAKER>GEl.</SPEAKER>
+<L>My hand? my hand? rotte first, wither in aged sha<GAP DESC="illegible" RESP="OXF" EXTENT="2 letters"></L>
+</SP>
+<SP>
+<SPEAKER>Han.</SPEAKER>
+<L>Wil you be so vnseasonably wood?</L>
+</SP>
+<SP>
+<SPEAKER>Byt.</SPEAKER>
+<LG>
+<L>Hold such preposterous zeale as stand against</L>
+<L>the full decree of Senate? all think fitte.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<LG>
+<L>Nay most vneuitable necessarie</L>
+<L>For Carthage safty, and the now sole good</L>
+<L>Of present state, that wee must breake all faith</L>
+<L>With <HI>Massinissa:</HI> whilst he fights abroad</L>
+<L>Lets gaine backe <HI>Syphax,</HI> making him our owne</L>
+<L>By giuing <HI>Sophonisba</HI> to his bed.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Han.</SPEAKER>
+<LG>
+<L><HI>Syphax</HI> is <HI>Massinissas</HI> greater, and his force</L>
+<L>Shall giue more side to <HI>Cartthage;</HI> as fors queene</L>
+<L>And her wise father, they loue <HI>Carthage</HI> fate,</L>
+<L>Profit, and Honesty, are one in state.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Gel.</SPEAKER>
+<LG>
+<L>And what decrees our very vertuous senate</L>
+<L>Of worthy <HI>Massinissa</HI> that now fightes</L>
+<L>and (leauing wife and bed) bleeds in good armes</L>
+<L>For right old <HI>Carthage?</HI></L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<LG>
+<L>Thus tis thought fit</L>
+<L>Hir father <HI>Asdruball</HI> on sudeine shall take in</L>
+<L>Reuolted <HI>Siphax;</HI> so with doubled strength</L>
+<L>Before that <HI>Massinissa</HI> shall suspect,</L>
+<L>Slaughter boeth <HI>Massinissa</HI> and his troupes,</L>
+<L>And likewise strike with his deepe stratagem</L>
+<L>A suddeine weaknes into <HI>Scipios</HI> armes,</L>
+<L>By drawing such alim from the maine body</L>
+<L>Of his yet powerfull armie: which being don</L>
+<L>Dead <HI>Massinissas</HI> kingdom we decree</L>
+<L>To <HI>Sophonisba</HI> and great <HI>Asdruball</HI></L>
+<L>For their consent, so this swift plot shall bring</L>
+<L>Two crowns to hir, make <HI>Asdruball</HI> a king.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Gel.</SPEAKER>
+<L>So first faithes breach, adultery, murder, theft,</L>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<L>What els? <HI>Gel.</HI> Nay all is don no mischeifleft</L>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<LG>
+<L>Pish prosperous successe giues blackest actions glory,</L>
+<L>The means are vnremembred in most story.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Gel.</SPEAKER>
+<L>Let me not say Gods are not.</L>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<LG>
+<L>This is fit</L>
+<PB REF="10">
+<L>Conquest by bloud is not so sweet as wit,</L>
+<L>For how so ere nice vertue censures of it,</L>
+<L>He hath the grace of warre, that hath wars profit.</L>
+<L>But Carthage well aduisde, that states comes on,</L>
+<L>With slow aduice, quicke execution,</L>
+<L>Haue here an Engineere long bred for plots,</L>
+<L>Cal'd an impoisner, who knows this sound excuse,</L>
+<L><HI>The onely dew that makes men sprout in Courtes, is vse,</HI></L>
+<L><HI>Be't well or ill, his thrift is to be mute,</HI></L>
+<L><HI>Such slaues must act commands, and not dispute.</HI></L>
+<L><HI>Knowing foule deedes with danger do begin</HI></L>
+<L><HI>But with rewardes do end: Sin is no sin</HI></L>
+<L><HI>But in respects</HI>&mdash;</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Gel.</SPEAKER>
+<LG>
+<L>Politique Lord, speake low tho heauen beares</L>
+<L>A face far from vs, Gods haue most long eares,</L>
+<L><HI>Ioue</HI> has a hundred marble marble hands</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<L>O I, in Poetry or Tragique sceane.</L>
+</SP>
+<SP>
+<SPEAKER>Gel.</SPEAKER>
+<L>I feare Gods onely know what Poets mean.</L>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<LG>
+<L>Yet heare me: I will speake close truth and cease,</L>
+<L>Nothing in Nature is vnseruisable,</L>
+<L>No, not euen <HI>Inutility</HI> it selse,</L>
+<L>Is then for nought dishonesty in beeing,</L>
+<L>And if it be somtines of forced vse,</L>
+<L>Wherein more vrgent then in sauing nations</L>
+<L>State shapes are sodderd vp, with base, nay faulty</L>
+<L>Yet necessary functions; some must lie,</L>
+<L>Some must betray, some murder, and some all,</L>
+<L>Each hath strong vse, as poyson in all purges</L>
+<L>Yet when some violent chance shall force a state,</L>
+<L>To breake giuen faith, or plot some stratagems,</L>
+<L>Princes ascribe that vile necessity</L>
+<L>Vnto Heauens wrath: and sure tho't be no vice,</L>
+<L>Yet t'is bad chance: states must not stick to nice</L>
+<L>For <HI>Massinissas</HI> death sence bids forgiue</L>
+<L>Beware to offend greate men and let them liue</L>
+<L>For tis of empires body the mayne arme,</L>
+<L><HI>He that will do no good shall doe no harme:</HI> yow haue my mind</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Gel.</SPEAKER>
+<LG>
+<L>Although a stagelike passion &amp; weake heate</L>
+<PB REF="10">
+<L>Full of an empty wording might sute age</L>
+<L>Know Ile speake strongly truth: Lordes neere mistrust</L>
+<L>That he who'le not betray a priuate man</L>
+<L>For his country, will neer betray his country</L>
+<L>For priuate men; then giue <HI>Gelosso</HI> faith</L>
+<L>If treachery in state be seruiceable,</L>
+<L>Let hangmen doe it: I am bound to loose</L>
+<L>My life but not my honour for my country;</L>
+<L>Our vow, our faith, our oath, why th'are our selues</L>
+<L>And he thats faithlesse to his proper selfe,</L>
+<L>May be excusd if he breake faith with princes:</L>
+<L>The Gods assist just hearts, &amp; states that trust,</L>
+<L>Plots before <HI>Prouidence</HI> are tost like dust.</L>
+<L>For <HI>Massinissa:</HI> (O let me slake a little</L>
+<L>Aust<GAP DESC="illegible" RESP="OXF" EXTENT="2 letters"> discourse and feele <HI>Humanitie</HI>)</L>
+<L>Me th<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">nkes I heare him cry. O fight for <HI>Carthage,</HI></L>
+<L>Charge home, wounds smart not, for that so just so great</L>
+<L>So good a Citty: me thinks I see him yet</L>
+<L>Leaue his faire bride euen on his nuptiall night</L>
+<L>To buckle on his armes for <HI>Carthage:</HI> Harke-</L>
+<L>Yet, yet, I heare him cry&mdash;<HI>Ingratitude</HI></L>
+<L>Vile staine of man. O ouer be most far</L>
+<L>From <HI>Massinissas</HI> breast: vp, march amaine,</L>
+<L>Fame got with losse of breath, is godlike gaine.</L>
+<L>And see by this he bleedes in doubtfull fight:</L>
+<L>And cries for <HI>Carthage,</HI> whilst <HI>Carthage&mdash;Memory</HI></L>
+<L>Forsake <HI>Gelosso,</HI> would I could not think:</L>
+<L>Nor heare, nor bee, When <HI>Carthage</HI> is</L>
+<L>So infinitely vile: see see looke here,</L>
+</LG>
+<STAGE>Cornets. Enter two Vshers. Sophonisba. Zanthia. Arcathia. Hanno Bytheas and Carthalo present Sophonisba with a paper, which shee hauing perused, after a short silence speakes</STAGE>
+<LG>
+<L>Who speakes? what mute? fair plot: what? blush to breake it?</L>
+<L>How lewd to act when so sham'd but to speake it.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<L>Is this the Senates firme decrees</L>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<L>It is.</L>
+</SP>
+<SP>
+<PB REF="11">
+<SPEAKER>Sopho.</SPEAKER>
+<L>Is this the Senates firme decree?</L>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<L>It is</L>
+</SP>
+<SP>
+<SPEAKER>Sopho.</SPEAKER>
+<L>Hath <HI>Syphax</HI> entertaind the stratagem?</L>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<L>No doubt he hath, or will.</L>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<LG>
+<L>My answers thus,</L>
+<L>Whats safe to <HI>Carthage,</HI> shall be sweet to me</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<L>Right worthy</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>Roialest</L>
+</SP>
+<SP>
+<SPEAKER>Ge.</SPEAKER>
+<L>O very wo+man!</L>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<LG>
+<L>But tis not safe for <HI>Carthage</HI> to destroy,</L>
+<L>Be most vniust, cunninglie politique,</L>
+<L>Your heads still vnder Heauen, O trust to fate,</L>
+</LG>
+<LG>
+<L>Gods prosper more a iust then crafty state.</L>
+<L>Tis lesse disgrace to haue a pitied losse</L>
+<L>Then shamefull victory.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Ge.</SPEAKER>
+<L>O very Angel!</L>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<LG>
+<L>We all haue sworne good <HI>Massinissa</HI> faith,</L>
+<L>Speach makes vs men, and thers no other bond</L>
+<L>Twixt man and man, but words: O equall Gods</L>
+<L>Make vs once know the consequence of vowes&mdash;</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Ge.</SPEAKER>
+<L>And wee shall hate faith-breakers worse then man-eaters</L>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<L>Ha! good <HI>Gelosso</HI> is thy breath not here?</L>
+</SP>
+<SP>
+<SPEAKER>Ge.</SPEAKER>
+<LG>
+<L>You doe me wrong as long as I can die,</L>
+<L>Doubt you that old <HI>Gelasso</HI> can be vile?</L>
+<L>States may afflict, tax, torture, but our mindes</L>
+<L>Are o~ly sworne to <HI>Ioue:</HI> I greiue and yet am proud</L>
+<L>That I alone am honest: high powers you know</L>
+<L>Virtue is seldom seene with troupes to goe.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<LG>
+<L>Excellent man <HI>Carthage</HI> &amp; <HI>Rome</HI> shall fall</L>
+<L>Before thy fame: our Lords know I the worst.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<L>The Gods foresaw, tis fate we thus are forc'd.</L>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<LG>
+<L><HI>Gods naught foresee, but see, for to their eyes</HI></L>
+<L><HI>Naught is to come, or past,</HI> Nor are you vile</L>
+<L>Because the Gods foresee: <HI>for Gods and We</HI></L>
+<L><HI>See as thinges are things are not, for we see</HI></L>
+<L>But since affected wisdom in vs Women</L>
+<L>Is our sex highest folly: I am silent,</L>
+<L>I cannot speake lesse well, vnlesse I were</L>
+<L>More void of goodnesse: Lordes of <HI>Carthage,</HI> thus</L>
+<L>The ayre and earth of <HI>Carthage</HI> owes my body,</L>
+<L>It is their seruant; what decree they of it?</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<LG>
+<L>That you remoue to <HI>Cirta,</HI> to the pallace</L>
+<L>Of well form'd <HI>Syphax,</HI> who with longing eyes</L>
+<L>Meetes you: he that giues way to <HI>Fate</HI> is wise.</L>
+</LG>
+</SP>
+<SP>
+<PB REF="11">
+<SPEAKER>So.</SPEAKER>
+<LG>
+<L>I goe: what power can make me wretched? what euill</L>
+<L>Is there in life to him, that knowes lifes losse</L>
+<L>To be no euill: show, show thy vgliest brow</L>
+<L>O most blacke chaunce: make me a wretched story</L>
+<L><HI>Without misfortune Vertue hath no glorie</HI></L>
+<L>Opposed trees makes tempests show their power</L>
+<L>And waues forc'd back by rocks maks <HI>Neptune</HI> tower</L>
+</LG>
+<LG>
+<L>Tearelesse O see a miracle of life</L>
+<L>A maide, a widdow, yet a haplesse wife.</L>
+</LG>
+</SP>
+<STAGE>Cornets. Sopho. accompanied with the Senators depart, onely Gelosso staies.</STAGE>
+<SP>
+<SPEAKER>Ge.</SPEAKER>
+<LG>
+<L>A prodegy! let nature run crosse legd</L>
+<L><HI>Ops</HI> goe vpon thy head, let <HI>Neptune</HI> burne</L>
+<L>Cold <HI>Saturne</HI> cracke with heate for now the world</L>
+<L>Hath seene a <HI>Woman:</HI></L>
+<L>Leape nimble lightning from <HI>Ioues</HI> ample shield</L>
+<L>And make at length, an end, the proud hot breath</L>
+<L>Of thee contemning <HI>Greatnesse,</HI> the huge drought</L>
+<L>Of sole selfe louing vast <HI>Ambition.</HI></L>
+<L>Th'vnnaturall scorching heate of all those lamps</L>
+<L>Thou reard'st to yeeld a temperate fruitfull heat</L>
+<L>Relentlesse rage whose hart hath no one drop</L>
+<L>Of humane pittie: all all loudly cry</L>
+<L>Thy brand O <HI>Ioue,</HI> for know the world is dry</L>
+<L>O let <HI>A generall end</HI> saue <HI>Carthage</HI> fame</L>
+<L>When worlds doe burne vnseens a Citties flame.</L>
+</LG>
+<LG>
+<L><HI>Phoebus</HI> in me is great: <HI>Carthage</HI> must fall</L>
+<L><HI>Ioue hats all vice but vows breach worst of all.</HI></L>
+</LG>
+</SP>
+<STAGE>Exit.</STAGE>
+</DIV2>
+<DIV2 N="2" TYPE="scene">
+<STAGE>Scena Secunda. Cornets sound a charge: Enter Massinissa in his gorget and shert, shield, sword, his arme transfixt with a dart Iugurth followes with his curaes and caske.</STAGE>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<L>Mount vs againe, giue vs another horse</L>
+</SP>
+<SP>
+<SPEAKER>Iug.</SPEAKER>
+<L>Vncle your bloud flows fast, pray ye withdraw</L>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<LG>
+<L>O <HI>Iugurth</HI> I cannot bleed too fast. too much</L>
+<L>For that so great, so iust so royall <HI>Carthage</HI></L>
+<L>My wound smarts not, blouds losse maks me not faint</L>
+<PB REF="12">
+<L>For that lou'de Citty, O Nephew let me tell thee,</L>
+<L>How good that <HI>Carthage</HI> is: it nourishde me,</L>
+<L>And when full time gaue me fit strength for loue,</L>
+<L>The most adored creature of the citty.</L>
+<L>To vs before great <HI>Syphax</HI> did they yeeld,</L>
+<L>Faire, noble, modest, and boue all, my,</L>
+<L>My <HI>Sophonisba,</HI> O <HI>Iugurth</HI> my strength doubles</L>
+<L>I know not how to turne a coward, drop</L>
+<L>In feeble basenes, I cannot: giue me horse,</L>
+<L>Know I am <HI>Carthage</HI> very creature, and I am gracde,</L>
+<L>That I may bleed for them: giue me fresh horse.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Iug.</SPEAKER>
+<LG>
+<L>He that doth publike good for multitude,</L>
+<L>Findes few are truely gratefull.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<LG>
+<L>O <HI>Iugurth,</HI> fie you must not say so, <HI>Iugurth,</HI></L>
+<L>Some common weales may let a noble hart,</L>
+<L>Too forward bleeds abroad and bleed bemond,</L>
+<L>But not reuengd at home, but <HI>Carthage,</HI> fie</L>
+<L>It cannot be vngrate, faithles through feare,</L>
+<L>It cannot <HI>Iugurth: Sophonisba's</HI> there,</L>
+<L>Beat a fresh charge.</L>
+</LG>
+</SP>
+<STAGE>Enter Asdrubal his sword drawne reading a letter Gisco follows him</STAGE>
+<SP>
+<SPEAKER>Asd.</SPEAKER>
+<LG>
+<L>Sound the retraite, respect your health braue Prince,</L>
+<L>The waste of blood throw's palenes on your face,</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<LG>
+<L>By light, my harts not pale: O my lou'd father,</L>
+<L>We bleed for <HI>Carthage</HI> Balsum to my woundes,</L>
+<L>We bleede for <HI>Carthage:</HI> shals restore the fight?</L>
+<L>My squadron of Massulians yet stands firme.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Asd.</SPEAKER>
+<LG>
+<L>The day lookes off from <HI>Carthage</HI> cease all arms</L>
+<L><HI>A modest temperance is the life of armes,</HI></L>
+<L>Take our best surgeon <HI>Gisco,</HI> he is sent</L>
+<L>From <HI>Carthage</HI> to attend your chance of warre,</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Gis.</SPEAKER>
+<L>We promise sudden ease.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>Thy co~forts good</L>
+</SP>
+<SP>
+<SPEAKER>Asd.</SPEAKER>
+<LG>
+<L>That nothing can secure vs but thy blood:</L>
+<L>Infuse it in his wound, t'will worke amaine,</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Gis.</SPEAKER>
+<L>O <HI>Ioue,</HI></L>
+</SP>
+<SP>
+<SPEAKER>Asd.</SPEAKER>
+<LG>
+<L>What <HI>Ioue?</HI> thy God must be thy gain</L>
+<L>And as for me.</L>
+</LG>
+<STAGE>Apollo Pythean</STAGE>
+<PB REF="12">
+<L>Thou know'st, a statist must not be a man.</L>
+</SP>
+<STAGE>Exit Adru.</STAGE>
+<STAGE>Enter Gelosso disguised like an olde soldier, deliuering to Massinissa (as he preparing to be dressed by Gisco) letter which Massinissa reading, starts and speakes to Gisco.</STAGE>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>Forbeare, how art thou cald?</L>
+</SP>
+<SP>
+<SPEAKER>Gi.</SPEAKER>
+<L><HI>Gisco</HI> my Lord.</L>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<LG>
+<L>Vm, <HI>Gisco,</HI> ha, touch not mine arme, most onely man, <STAGE>to Gelasso.</STAGE></L>
+<L>Sirrha, sirrha, art poore?</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Gi.</SPEAKER>
+<L>not poore.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<LG>
+<L>Nephew co~mand <STAGE>Massinissa begins to drane.</STAGE></L>
+<L>Our troupes of horse make indisgracde retraite,</L>
+<L>Trot easie off: not poore: <HI>Iugurth</HI> giue charge,</L>
+<L>My souldiers stand in square battalia, <STAGE>Exit Iugurth.</STAGE></L>
+<L>Intirely of themselues: <HI>Gisco</HI> th'art old,</L>
+<L>Tis time to leaue off murder, thy faint breath.</L>
+<L>Scarce heaues thy ribs, thy gummy bloud-shut eyes,</L>
+<L>Are sunke a great way in thee, thy lanke skinne,</L>
+<L>Slides from thy fleshlesh veines: be good to men,</L>
+<L>Iudge him yee Gods, I had not life to kill</L>
+<L>So base a Creature, hold <HI>Gisco</HI> () liue,</L>
+<L>The God-like part of Kings is to forgiue,</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Gis.</SPEAKER>
+<L>Command astonishd <HI>Gisco.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<LG>
+<L>No returne.</L>
+<L>Haste vnto <HI>Carthage:</HI> quit thy abiect feares,</L>
+<L><HI>Massinissa</HI> knowes no vse of murderers.</L>
+</LG>
+<STAGE>Enter Iugurth amazde, his sword drawne.</STAGE>
+<LG>
+<L>Speake, speake, let terror strike slaues mute.</L>
+<L>Much danger makes great hartes most resolute,</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Iug.</SPEAKER>
+<LG>
+<L>Vnkle I feare foule armes, my selfe beheld,</L>
+<L><HI>Syphax</HI> on high speed run his well breathde horse,</L>
+<L>Direct to <HI>Cirta</HI> that most beauteous Citty,</L>
+<L>Of all his kingdome: whilst his troupes of horse</L>
+<L>With careles trot pace gently toward our campe,</L>
+<L>As friendes to <HI>Carthage,</HI> stand on guard deere vnckle</L>
+<L>For <HI>Asdrubal</HI> with yet his well rankt armie,</L>
+<L>Bends a deepe threatning brow to vs as if,</L>
+<PB REF="13">
+<L>He waited but to ioyne with <HI>Syphax</HI> horse</L>
+<L>And hew vs all to peeces: O my King</L>
+<L>My Vncle, Father, Captaine O ouer <HI>All</HI></L>
+<L>Stand like thy selfe or like thy selfe now fall</L>
+<L>Thy troups yet hold good ground: Vnworthy wounds</L>
+<L>Betray not <HI>Massinissa.</HI></L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<LG>
+<L><HI>Iugurth</HI> pluck</L>
+<L>Pluck, so, good cuz.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Iug.</SPEAKER>
+<L>O God doe you not feele?</L>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<L>Not <HI>Iugurth</HI> no, now all my flesh is steele.</L>
+</SP>
+<SP>
+<SPEAKER>Gela.</SPEAKER>
+<LG>
+<L>Of base disguise: <HI>High lights</HI> scorne not to vew</L>
+<L>A true old man: vp <HI>Massinissa</HI> throw</L>
+<L>The lot of battle vpon <HI>Syphax</HI> troups</L>
+<L>Before he ioyne with <HI>Carthage:</HI> then amaine</L>
+<L>Make through to <HI>Scipio,</HI> he yeelds safe abods</L>
+<L>Spare treacherie, and strike the very Gods.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<LG>
+<L>Why wast thou borne at <HI>Carthage,</HI> O my fate</L>
+<L>Diuinest <HI>Sophonisba!</HI> I am full</L>
+<L>Of much complaint, and many passions,</L>
+<L>The least of which expresd would sad the Gods</L>
+<L>And strike compassion in most ruthlesse hell</L>
+<L>Vp vnmaimd hart spend all thy greefe and rage</L>
+<L>Vpon thy foe: the fields a soldiers stage</L>
+<L>On which his action shows: If you are iust</L>
+<L>And hate those that contemne you, O you Gods</L>
+<L>Reuenge worthy your anger, your anger, O,</L>
+<L>Downe man, vp hart, stoup <HI>Ioue</HI> and bend thy chin</L>
+<L>To thy large brest, giue signe th'art pleasd, and iust</L>
+<L>Sweare, good mens for heads must not print the dust</L>
+</LG>
+</SP>
+<STAGE>Exeunt.</STAGE>
+</DIV2>
+<DIV2 N="3" TYPE="scene">
+<STAGE>Scena Tertia. Enter Asdruball, Hanno, Bytheas.</STAGE>
+<SP>
+<SPEAKER>As.</SPEAKER>
+<LG>
+<L>What <HI>Carthage</HI> hath decreed, <HI>Hanno</HI> is done</L>
+<L>Aduauncd and borne was <HI>Asdruball</HI> for state</L>
+<L>Onely with it his faith, his loue, his hate</L>
+<L>Are of one peece: were it my daughters life</L>
+<L>That fate hath song to <HI>Carthage</HI> safetie brings</L>
+<L>What deed so red but hath beene done by Kings?</L>
+<PB REF="13">
+<L><HI><GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">phiginia,</HI> he thats a man for men,</L>
+<L>Ambitious as a God, must like a God</L>
+<L>Liue cleare from passions, his full aimde attend</L>
+<L>Immence to others, sole selfe to comprehend</L>
+<L>Round in's own globe, not to bee claps'd but holds</L>
+<L>Within him all, his hart being of more foldes</L>
+<L>Then sheeld of <HI>Telamon</HI> not to be peirced tho struck</L>
+<L>The God of wisemen is themselues, not lucke. <STAGE>Enter Gisco.</STAGE></L>
+<L>See him by whom now <HI>Massiuissa</HI> is not</L>
+<L><HI>Gisco</HI> i'st done?</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Gis.</SPEAKER>
+<LG>
+<L>Your pardon worthy Lord,</L>
+<L>It is not don, my heart sunke in my breast,</L>
+<L>His virtue mazd me, faintnes seasd me all,</L>
+<L><HI>Some Gods in Kinges that will not let them fall.</HI></L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>As.</SPEAKER>
+<LG>
+<L>His virtue mazde thee, (vm) why now I see</L>
+<L>Thart that iust man that hath true touch of blood,</L>
+<L>Of pitty and soft piety: Forgiue?</L>
+<L>Yes honour thee, wee did it but to trye</L>
+<L>What sense thou hadst of blood: goe <HI>Bytheas</HI></L>
+<L>Take him into our priuate treasurie</L>
+<L>And cut his throate, the slaue hath all betraide.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>By.</SPEAKER>
+<LG>
+<L>Are you assured? <HI>As.</HI> A feard for this I know</L>
+<L><HI>Who thinketh to buy villany with golde,</HI></L>
+<L><HI>Shall euer find such faith so bought so solde.</HI></L>
+<L>Reward him thorowly.</L>
+</LG>
+</SP>
+<STAGE>A shoute the Cornets giuing a florish.</STAGE>
+<SP>
+<SPEAKER>Han.</SPEAKER>
+<L>What meanes this shoute?</L>
+</SP>
+<SP>
+<SPEAKER>Asd.</SPEAKER>
+<LG>
+<L><HI>Hanno</HI> tis don: <HI>Scyphax</HI> reuolt by this</L>
+<L>Hath securd Carthage: and now his force come in</L>
+<L>And ioynde with vs giue <HI>Massinissa</HI> charge,</L>
+<L>And assured slaughter: O ye powers forgiue,</L>
+<L>Through rottenst dung best pla~ts both sprout &amp; liue</L>
+<L>By blood vines grow.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<LG>
+<L>But yet thinke <HI>Asdruball</HI></L>
+<L>Tis fit at least you beare greefes outward showe,</L>
+<L>It is your kinsman bleedes: what neede men knowe.</L>
+<L>Your hand is in his wounds, tis well in state,</L>
+<L>To doe close ill; but voide a publique hate&punc;</L>
+</LG>
+</SP>
+<SP>
+<PB REF="14">
+<SPEAKER>Asd.</SPEAKER>
+<LG>
+<L>Tush <HI>Hanno</HI> let me prosper let routs prate,</L>
+<L>My power shall force their silence or my hate.</L>
+<L>Shall skorne their idle malice: men of waight</L>
+<L>Know, he that feares enuy let him cease to raigne,</L>
+<L>The peoples hate to some hath bin their gaine.</L>
+<L>For how so ere a Monarke faines his partes,</L>
+<L>Steale anie thing from Kinges but subiects hartes.</L>
+</LG>
+</SP>
+<STAGE><HI>Enter Carthalo</HI> leading in bound <HI>Gelosso.</HI></STAGE>
+<SP>
+<SPEAKER>Ca.</SPEAKER>
+<L>Gard, gard the campe, make to the trench stand firme</L>
+</SP>
+<SP>
+<SPEAKER>As.</SPEAKER>
+<L>The Gods of boldnes with vs, how runs chance?</L>
+</SP>
+<SP>
+<SPEAKER>Ca.</SPEAKER>
+<LG>
+<L>Think, think how wretched thou canst be, thou art,</L>
+<L>Short wordes shall speake long woes:</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Ge.</SPEAKER>
+<L>marke <HI>Asdruball.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Ca.</SPEAKER>
+<LG>
+<L>Our bloody plot to <HI>Massinissas</HI> eare</L>
+<L>Vntimely by this Lord was all betraide.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Ge.</SPEAKER>
+<LG>
+<L>By me, it was, by mee vile <HI>Asdruball,</HI></L>
+<L><GAP DESC="illegible" RESP="OXF" EXTENT="2 letters">oy to speakt.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>As.</SPEAKER>
+<L>Downe slaue.</L>
+</SP>
+<SP>
+<SPEAKER>Ge.</SPEAKER>
+<L>I cannot fall.</L>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<LG>
+<L>Our traines disclosd, straight to his well vsde armes</L>
+<L>He tooke himselfe, rose vp with all his force,</L>
+<L>On <HI>Syphax</HI> careles troupes (<HI>Syphax</HI> beeing hurried</L>
+<L>Before to Cirta feareles of successe</L>
+<L>impatient <HI>Sophonisba</HI> to inioy.)</L>
+<L><HI>Gelosso</HI> rides to head of all our squadrons</L>
+<L>Commandes make stand in thy name <HI>Asdruball,</HI></L>
+<L>In mine, in his, in all: dull rest our men,</L>
+<L>Whilst <HI>Massinissa</HI> now with more then fury,</L>
+<L>Chargeth the loose and much amazed rankes,</L>
+<L>Of absent <HI>Syphax:</HI> who with broken shoute,</L>
+<L>(In vaine expecting Carthage secondings)</L>
+<L>Giue faint repulse: a second charge is giuen</L>
+<L>Then looke as when a Fawcon towrs alo ft</L>
+<L>Whole shoales of foule and flocks of lesser birdes,</L>
+<L>Crouch fearefully and diue some among sedge,</L>
+<L>Some crepein brakes: so <HI>Massinissas</HI> sword</L>
+<L>Brandisht aloft, tossd'bout his shining cask,</L>
+<L>Made stoope whole squadrons, quick as thought he strikes,</L>
+<L>Here hurles he dartes? and there his rage strong arme,</L>
+<L>Fights foote to foote: heere cryes he strike: they sinke</L>
+<PB REF="14">
+<L>And then grim slaughter followes, for by this</L>
+<L>As men betraide, they curse vs, dye, or flye, or both</L>
+<L>Often sixe thousand fell: Now was I come</L>
+<L>And straight perceaud all Bled by his vile plot.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Ge.</SPEAKER>
+<L>Vile? good plot, my good plot <HI>Asdruball.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Ca.</SPEAKER>
+<LG>
+<L>I forcd our army beat a running march,</L>
+<L>But <HI>Massinissa</HI> strooke his spurs apace</L>
+<L>Vpon his speedy horse, leaues slaughtering</L>
+<L>All flye to <HI>Scipio</HI> who with open rankes</L>
+<L>In view receaues them: Al I could effect</L>
+<L>Was but to gaine him.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>As.</SPEAKER>
+<L>Dye.</L>
+</SP>
+<SP>
+<SPEAKER>Ge.</SPEAKER>
+<LG>
+<L>Do what thou can,</L>
+<L>Thou canst but kill a weake old honest man.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<LG>
+<L><HI>scipio</HI> and <HI>Massinissas</HI> by this strike <STAGE>Gelosso departes guarded</STAGE></L>
+<L>Their clasped palmes, then vow an endles loue,</L>
+<L>straight a ioynt shoute they raise, then turne they breastes</L>
+<L>Direct on vs march strongly toward our campe</L>
+<L>As if they darde vs fight, O <HI>Asdruball.</HI></L>
+<L>I feare theile force our campe&punc;</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>As.</SPEAKER>
+<LG>
+<L>Breake vp and flye,</L>
+<L>This was your plot.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>But t'was thy shame to choose it.</L>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<L>He that forbids not offence he dos it.</L>
+</SP>
+<SP>
+<SPEAKER>As.</SPEAKER>
+<LG>
+<L>The curse of womens <HI>wordes</HI> go vvith you: fly,</L>
+<L>You are no villaines, Gods and men, vvhich vvay?</L>
+<L>Aduise vile thinges.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>Vile?</L>
+</SP>
+<SP>
+<SPEAKER>As.</SPEAKER>
+<L>I.</L>
+</SP>
+<SP>
+<SPEAKER>Ca.</SPEAKER>
+<L>Not?</L>
+</SP>
+<SP>
+<SPEAKER>By.</SPEAKER>
+<L>you did al</L>
+</SP>
+<SP>
+<SPEAKER>As.</SPEAKER>
+<L>Did you not plot?</L>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<L>Yeelded not <HI>Asdruball?</HI></L>
+</SP>
+<SP>
+<SPEAKER>As.</SPEAKER>
+<L>But you intic'd me.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>Hovv?</L>
+</SP>
+<SP>
+<SPEAKER>As</SPEAKER>
+<L>With hope of place.</L>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<L>He that for vvealth leaues faith is abiect.</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>base</L>
+</SP>
+<SP>
+<SPEAKER>As.</SPEAKER>
+<L>Do not prouoke my svvord, I liue.</L>
+</SP>
+<SP>
+<SPEAKER>Ca.</SPEAKER>
+<LG>
+<L>More shame.</L>
+<L>T'out liue thy virtue and thy once great name.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>As.</SPEAKER>
+<L>Vp braide yee me?</L>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<L>Hold.</L>
+</SP>
+<SP>
+<SPEAKER>Car.</SPEAKER>
+<LG>
+<L>Knovv that only thou</L>
+<L>Art treacherous: thou shouldst haue had a crovvne.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Ha.</SPEAKER>
+<LG>
+<L>Thou didst all, all he for vvhome mischiefes don</L>
+<L>He dos it.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Asd.:</SPEAKER>
+<LG>
+<L>&mdash;Brode skorne oppen faind povvers</L>
+<L>Make good the campe, no, fly, yes, vvhat? vvild rage,</L>
+<L>To be a prosperous villane yet some heate some hold,</L>
+<L>But to burne temples and yet freese, O cold,</L>
+<L><HI>Giue me some health, now your bloud sinkes: thus deedes</HI></L>
+<L><HI>Ill nourisht rot, without I oue naught succeedes.</HI></L>
+</LG>
+</SP>
+<STAGE>Exeunt.</STAGE>
+<TRAILER>Actus Secundi. Finis.</TRAILER>
+</DIV2>
+</DIV1>
+<DIV1 N="3" TYPE="act">
+<PB REF="15">
+<HEAD>Actus Tertii</HEAD>
+<DIV2 N="1" TYPE="scene">
+<HEAD>Scena Prima.</HEAD>
+<STAGE><HI>Organ</HI> mixt with Recorders for this Act.</STAGE>
+<STAGE><HI>Syphax</HI> his dagger twon about her haire drags in <HI>So|phonisba</HI> in hir night gowne petticoate and <HI>Zantbia</HI> &amp; <HI>Vaugue following.</HI></STAGE>
+<SP>
+<SPEAKER>Sy.</SPEAKER>
+<LG>
+<L>Must wee intreat? sue to such squeamish eares,</L>
+<L>Know <HI>Syphax</HI> has no knees, his eyes no teares,</L>
+<L>Inraged loue is senseles of remorce,</L>
+<L>Thou shalt, thou must. Kings glory is their force.</L>
+<L>Thou art in Cirta, in my Pallace Foole</L>
+<L>Dost thinke he pittieth teares, that knowes to rule.</L>
+<L>For all thy scornefull eyes thy proud disdaine,</L>
+<L>And late contempt of vs now weele reuenge,</L>
+<L>Breake stubborne scilence: looke Ile tack thy head</L>
+<L>To the low earth, whilst stre~gth of too black knaues,</L>
+<L>Thy limbes all wide shall straine: praier fitteth slaues.</L>
+<L>Our courtship bee our force: rest calme as sleepe,</L>
+<L>Els at this quake, harke, harke, wee cannot weepe.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<L>Can <HI>Sophonisba</HI> bee inforc'd?</L>
+</SP>
+<SP>
+<SPEAKER>Sy.</SPEAKER>
+<L>Can? see.</L>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<L>Thou maiest inforce my body but not mee.</L>
+</SP>
+<SP>
+<SPEAKER>Sy.</SPEAKER>
+<L>Not?</L>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<L>No.</L>
+</SP>
+<SP>
+<SPEAKER>Sy.</SPEAKER>
+<L>No?</L>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<LG>
+<L>No off with thy loathed armes</L>
+<L>That lye more heauy on me then the chaines,</L>
+<L>That weare deepe wrinckles in the captiues limbes</L>
+<L>I do beseech thee.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Sy.</SPEAKER>
+<L>What?</L>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<LG>
+<L>Be but a beast,</L>
+<L>Be but a beast.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Sy</SPEAKER>
+<LG>
+<L>Do not offend a power</L>
+<L>Can make thee more then wretched: yeelde to him</L>
+<L>To whome fate yeeldes: Know <HI>Massinissas</HI> dead,</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<L>dead?</L>
+</SP>
+<SP>
+<SPEAKER>Sy.</SPEAKER>
+<L>dead.</L>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<L>To Gods of goodmen shame</L>
+</SP>
+<SP>
+<SPEAKER>Sy.</SPEAKER>
+<L>Help <HI>vangue</HI> my strong blood boiles.</L>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<LG>
+<L>O saue</L>
+<L>thine owne (yet) fame.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Sy.</SPEAKER>
+<LG>
+<L>All appetite is deafe, I will I must.</L>
+<L>Achilles armour could not beare out lust.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<LG>
+<L>Hold thy strong arme and heare my <HI>Syphax</HI> know,</L>
+<L>I am thy seruant now: I needes must loue thee</L>
+<PB REF="15">
+<L>For (O my sex forgiue) I must confesse,</L>
+<L>Wee not affect protesting feeblenes.</L>
+<L>Intreats faint blushings, timerous modesty,</L>
+<L>We thinke our louer is but little man,</L>
+<L>Who is so full of woman: Know faire Prince</L>
+<L>Loues strongest armes not rude: for we still proue</L>
+<L>Without some fury thers no ardent loue.</L>
+<L>We loue our loues impatience of delay,</L>
+<L>Our noble sex was onely borne t'obay</L>
+<L>To him that dares commaund.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Sy.</SPEAKER>
+<LG>
+<L>Why this is well.</L>
+<L>Th'excuse is good: wipe thy faire eyes our Queene,</L>
+<L>Make proud thy head now feele: more frendly stre~gth</L>
+<L>Of thy Lordes arme: come touch my rougher skin.</L>
+<L>With thy soft lip <HI>Zanthia</HI> dresse our bed,</L>
+<L>Forget ould loues and clip him that through blood,</L>
+<L>And hell acquir's his Wish thinke not but kisse,</L>
+<L>The florish fore loues fight is <HI>Venus</HI> blisse.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<LG>
+<L>Great dreadfull Lord by thy affection</L>
+<L>Grant mee one boone, know I haue made a vow,</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Sy.</SPEAKER>
+<L>Vow? what vow? speake.</L>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<LG>
+<L>Nay if you take offe~ce</L>
+<L>Let my soule suffer first and yet.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Sy.</SPEAKER>
+<LG>
+<L>offence?</L>
+<L>Not <HI>Sophonisba,</HI> hold, thy vow is free,</L>
+<L>As:&mdash;come thy lips.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<LG>
+<L>Alas crosse misery</L>
+<L>As I do wish to liue <HI>I</HI> long to inioy,</L>
+<L>Your warme imbrace, but O my vow tis thus,</L>
+<L>If euer my Lord died I vowed to him,</L>
+<L>A most, most priuate sacrifice, before</L>
+<L>I touched a second spouse: all I implore.</L>
+<L>Is but this liberty:</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Sy.</SPEAKER>
+<LG>
+<L>This goe obtaine</L>
+<L>What time</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<L>One hower.</L>
+</SP>
+<SP>
+<SPEAKER>Sy.</SPEAKER>
+<LG>
+<L>sweet good speed speed adew</L>
+<L>Yet <HI>Syphax</HI> trust no more then thou maist view.</L>
+<L><HI>Vangue</HI> shall stay</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<L>He stayes.</L>
+</SP>
+<STAGE><HI>Enter a Page</HI> deliuering a letter to <HI>Sopho.</HI> which she<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter"> priuately reads.</STAGE>
+<SP>
+<SPEAKER>Sy.</SPEAKER>
+<LG>
+<L><HI>Zanthia, Zanthia</HI></L>
+<L>Thou art not foule, go to, some Lords are oft</L>
+<PB REF="16">
+<L>So much in loue with their knowne Ladyes bodies,</L>
+<L>That they oft loue their vails, hold, hold thou'st find,</L>
+<L>To faithfull care Kinges bounty hath no shore,</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Za.</SPEAKER>
+<L>You may do much.</L>
+</SP>
+<SP>
+<SPEAKER>Sy.</SPEAKER>
+<L>But let my gold do more.</L>
+</SP>
+<SP>
+<SPEAKER>Za.</SPEAKER>
+<L>I am your creature.</L>
+</SP>
+<SP>
+<SPEAKER>Sy.</SPEAKER>
+<LG>
+<L>Bee, get, tis no staine</L>
+<L>The God of seruice is howeuer gaine.</L>
+</LG>
+</SP>
+<STAGE>Exit.</STAGE>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<LG>
+<L><HI> Za~thia,</HI> where are we now? speak worth my seruice</L>
+<L>Ha wee don well?</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Za.</SPEAKER>
+<LG>
+<L>Nay in haight of best.</L>
+<L>I feard a superstitious virtue woulde spoile all,</L>
+<L>But now I finde you aboue woemen rare,</L>
+<L>Shee that can time her goodnesse hath true care</L>
+<L>Of hir best good. Nature at home beginnes</L>
+<L>She whose integritye her selfe hurts sinnes.</L>
+<L>For <HI>Massinissa,</HI> hee was good and so,</L>
+<L>But hee is dead, or worse, distressed, or more</L>
+<L>Then dead, or much distressed, O sad, <HI>poore</HI></L>
+<L>Who euer held such friendes: no let him goe</L>
+<L>Such faith is praisd, then laught at, for still knowe,</L>
+<L>Those are the liuing woemen that reduce,</L>
+<L>All that they touch vnto their ease and vse.</L>
+<L>Knowing that wedlock, virtue or good names,</L>
+<L>Are courses and varietyes of reason</L>
+<L>To vse or leaue as they aduantage them</L>
+<L>And absolute within themselues reposde,</L>
+<L>Onely to <HI>Greatnes</HI> Ope, to all els closde.</L>
+<L>Weake sanguine fooles, are to their owne good nice</L>
+<L>Before I held you vertuous but now wise.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<LG>
+<L><HI>Zanthia</HI> victorious <HI>Massinissa</HI> liu's.</L>
+<L>My <HI>Massinissa</HI> liues: O steddye powers</L>
+<L>Keepe him as safe as heauen keepes the earth.</L>
+<L>Which lookes vpon it with a thousand eyes,</L>
+<L>That honest valiant man and <HI>Zanthia,</HI></L>
+<L>Doe but recorde the iustice of his loue,</L>
+<L>And my for euer vowes, for euer vowes.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Za.</SPEAKER>
+<LG>
+<L>I true Madam: nay thinke of his great minde</L>
+<L>His most iust heart his all of excellence</L>
+<L>And such a virtue as the Gods might enuy</L>
+<L>Againe this <HI>Syphax</HI> is but&punc;&mdash;and you know.</L>
+<PB REF="16">
+<L>Fame lost what can be got thats good: for:</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<LG>
+<L>hence</L>
+<L>Take nay with one hand.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Za.</SPEAKER>
+<L>My seruice.</L>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<LG>
+<L>Prepare</L>
+<L>Our sacrifice.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Za.</SPEAKER>
+<L>But yeeld you, I or no?</L>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<L>Whe~ thou dost know.</L>
+</SP>
+<SP>
+<SPEAKER>Za.</SPEAKER>
+<L>what the~?</L>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<LG>
+<L>then thou wilt know</L>
+<L>Let him that would haue counsell voide th'aduice <STAGE>Exit Zanthia</STAGE></L>
+<L>Of friendes made his with waighty benefites</L>
+<L>Whose much dependance onely striues to fit</L>
+<L>Humor not reason, and so still deuise</L>
+<L>In any thought to make their frieud seeme wise</L>
+<L>But aboue all O feare a seruants toung,</L>
+<L>Like such as onely for their gaine to serue</L>
+<L>Within the vaste capacitye of place</L>
+<L>I know no vilenes so most truly base.</L>
+<L>Their Lordes, their gaine: and he that most will giue,</L>
+<L>With him (they will not dye: but) they will liue.</L>
+<L>Traitors and these are one: such slaues once trust</L>
+<L>Whet swords to make thine own blood lick the dust. <STAGE>Cornets and Organs playing full musick. Enters the solemni|ty of a sacrifice, which beeing entred whilst the attendance furnish the Altar Sopho. Songe: which don shee speakes.</STAGE></L>
+<L>Withdraw, withdraw <HI>All but Zauthia &amp; Vangue depart</HI></L>
+<L>I not invoake thy arme thou God of sound</L>
+<L>Nor thine, nor thine, although in all abound.</L>
+<L>High powers immense: But <HI>Iouiall Mercury</HI></L>
+<L>And thou O brightest femall of the sky</L>
+<L>Thrice modest <HI>Phoebe,</HI> you that iointly fit</L>
+<L>A worthy chastity and a most chast witte</L>
+<L>To you corruptles <HI>Hunny,</HI> and pure dewe</L>
+<L>Vpbreathes our holy fier. Words iust and few</L>
+<L>O daine to heare if in poore wretches cryes</L>
+<L>You glory not: if drops of withered eyes</L>
+<L>Bee not your sport, bee iust: all that I crane</L>
+<L>Is but chast life or an vntainted graue.</L>
+<L>I can no more: yet hath my constant toung</L>
+<L>Let fall no weakenes, tho'my heart were wrung</L>
+<L>VVith pangus worth hell: whilst great thoghts stop our tears</L>
+<L>Sorrowe vnseene, vnpittied in ward wears.</L>
+<L>You see now where I rest, come is my end.</L>
+<PB REF="17">
+<L>Cannot heauen, virtue, against weake chance defend?</L>
+<L>VVhen weakenes hath outborne what weakenes can,</L>
+<L>VVhat should I say tis Ioues, not sinne of man.</L>
+<L>Some stratagem now let wits God be showne,</L>
+<L>Celestiall powers by miracles are knowne.</L>
+<L>I hau't tis don. <HI>Zanthia</HI> prepare our bed</L>
+<L><HI>Vangue</HI></L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Va.</SPEAKER>
+<L>Your seruant.</L>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<LG>
+<L><HI>Vangue</HI> we haue performd</L>
+<L>Due rites vnto the dead. <STAGE><HI>Sopho:</HI> presents a carous to <HI>Vangue</HI> &amp; &amp; &amp;.</STAGE></L>
+<L>Now to thy Lord great <HI>Syphax</HI> healthfull cups: which don,</L>
+<L>The King is right much welcome.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Va.</SPEAKER>
+<L>VVere it as deep as thoght off it should thns&mdash;he drinks</L>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<L>My safety with that draught.</L>
+</SP>
+<SP>
+<SPEAKER>Va.</SPEAKER>
+<L>Close the vaults mouth least we do slip in drinke,</L>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<LG>
+<L>To what vse gentle <HI>Negro</HI> serues this caue</L>
+<L>Whose mouth thus opens so familliarly,</L>
+<L>Euen in the Kings bedchamber?</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Va.</SPEAKER>
+<LG>
+<L>O my Queene</L>
+<L>This vault with hideous darkenes and much length</L>
+<L>stretcheth beneath the earth into a groue</L>
+<L>One league from Cirta (I am very sleepy)</L>
+<L>Through this when Cirta hath beeue strong begirt</L>
+<L>VVith hostile siedge the King hath safely scaped</L>
+<L>To, to,</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<L>The wine is strong.</L>
+</SP>
+<SP>
+<SPEAKER>Va.</SPEAKER>
+<L>strong?</L>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<L>Zanthia</L>
+</SP>
+<SP>
+<SPEAKER>Za.</SPEAKER>
+<L>VVhat meanes my princes?</L>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<LG>
+<L><HI>Zanthia</HI> rest firme</L>
+<L>And scilent, helpe vs: Nay do not dare refuse.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Za.</SPEAKER>
+<L>The <HI>Negros</HI> dead.</L>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<L>No drunke.</L>
+</SP>
+<SP>
+<SPEAKER>Za.</SPEAKER>
+<L>Alas.</L>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<LG>
+<L>Too late,</L>
+<L>Her hand is fearefull whose mindes desperate.</L>
+<L>It is but sleepie <HI>Opium</HI> he hath drunke,</L>
+<L>Helpe <HI>Zanthia,</HI> They lay <HI>Vangue</HI> in <HI>Syphax</HI> bed &amp; draw the cur|taines, there lye <HI>Syphax</HI> bride, a naked man is soone vndrest;</L>
+<L>There bide dishonoured passion they knock within, forth|with <HI>Syphax</HI> comes.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Sy.</SPEAKER>
+<L>VVay for the King.</L>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<LG>
+<L>Straight for the King: I flye</L>
+<L>VVhere misery shall see nought but it selfe.</L>
+<L>Deere <HI>Zanthia</HI> close the vault when I am sunk</L>
+<L>And whilst he slips to bed escape be true</L>
+<L>I can no more, come to me: Harke Gods, my breath</L>
+<L>Scornes to craue life graunt but a well famde death she de|scends</L>
+</LG>
+</SP>
+<STAGE><PB REF="17">Enter Syphax ready for bedd.</STAGE>
+<SP>
+<SPEAKER>Sy.</SPEAKER>
+<LG>
+<L>Each man withdraw, let not a creature stay</L>
+<L>Within large distance.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Za.</SPEAKER>
+<L>Sir?</L>
+</SP>
+<SP>
+<SPEAKER>Sy.</SPEAKER>
+<LG>
+<L>hence <HI>Zanthia,</HI></L>
+<L>Not thou shalt heare, all stand without eare-reach</L>
+<L>Of the soft cries nice shrinking brides do yeeld</L>
+<L>When&mdash;</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Za.</SPEAKER>
+<L>But Sir&mdash;</L>
+</SP>
+<SP>
+<SPEAKER>Sy.</SPEAKER>
+<LG>
+<L>Hence&mdash;stay, take thy delight by steps,</L>
+<L>Thinke of thy joyes, and make long thy pleasures,</L>
+<L>O silence thou dost swallow pleasure right,</L>
+<L>Wordes take avvay some sense from our delight;</L>
+<L>Musique: be proud my <HI>Uenus, Mercury</HI> thy tong,</L>
+<L><HI>Cupid</HI> thy flame, boue all O <HI>Hercules</HI></L>
+<L>Let not thy backe be wanting: for now I leape</L>
+<L>To catch the fruite none but the Gods should reap <STAGE>Offering to leape into bed, he discouers Vangue.</STAGE></L>
+<L>Hah! can any woman turne to such a Diuell?</L>
+<L>Or: or: <HI>Vangue, Vangue</HI>&mdash;</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Van.</SPEAKER>
+<L>Yes, yes.</L>
+</SP>
+<SP>
+<SPEAKER>Sy.</SPEAKER>
+<LG>
+<L>speake slaue,</L>
+<L>How camst thou here?</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Van.</SPEAKER>
+<L>Here?</L>
+</SP>
+<SP>
+<SPEAKER>Sy.</SPEAKER>
+<LG>
+<L><HI>Zanthia, Zanthia,</HI></L>
+<L>Wher's <HI>Sophonisba?</HI> speake at full, at ful,</L>
+<L>Giue me particular faith, or know thou art not&mdash;</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Za.</SPEAKER>
+<L>Your pardon just mou'd prince &amp; priuat eare</L>
+</SP>
+<SP>
+<SPEAKER>Sy.</SPEAKER>
+<L>Ill actions have some grace, that they can feare</L>
+</SP>
+<SP>
+<SPEAKER>Va.</SPEAKER>
+<LG>
+<L>How cam I laid? which way was I made dru~k?</L>
+<L>Where am I? think, or is my state aduanc'd?</L>
+<L>O <HI>Ioue</HI> how pleasant is it but to sleepe</L>
+<L>In a kings bed!</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Sy.</SPEAKER>
+<LG>
+<L>Sleepe there thy lasting sleep</L>
+<L>Improuident, base, o're-thirsty slaue. <STAGE>Sy. killes Va.</STAGE></L>
+<L>Dy pleas'd a kings couch is thy too proud graue.</L>
+<L>Through this vault sayst thou?</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Za.</SPEAKER>
+<LG>
+<L>As you giue me grace</L>
+<L>To liue, tis true.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Sy.</SPEAKER>
+<LG>
+<L>We will be good to <HI>Zanthia;</HI></L>
+<L>Go cheare thy Ladie, and be priuate to vs.</L>
+</LG>
+</SP>
+<STAGE>She descends after Sophonisba.</STAGE>
+<SP>
+<SPEAKER>Za.</SPEAKER>
+<L>As to my life.</L>
+</SP>
+<SP>
+<SPEAKER>Sy.</SPEAKER>
+<LG>
+<L>I'le vse this <HI>Zanthia,</HI></L>
+<L>And trust her as our dogs drink dangerous <HI>Nile,</HI></L>
+<L>only for thirst, the <HI>Flie</HI> the <HI>Crocodile:</HI></L>
+<L>Wise <HI>Sophonisba</HI> knowes loues trickes of art,</L>
+<L>Without much hindrance, pleasure hath no hart;</L>
+<PB REF="18">
+<L>Dispight all vertue or weake plots I must</L>
+<L>Seauen waled <HI>Babell</HI> cannot bear out lust</L>
+</LG>
+</SP>
+<STAGE>Descends through the vault.</STAGE>
+</DIV2>
+<DIV2 N="2" TYPE="scene">
+<STAGE>Scena Secunda. Cornets sound Marches. Enter Scipio and Lelius with the complements of a Roman Generall before them, At the other dore, Massinissa and Iugurth.</STAGE>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<LG>
+<L>Let not the virtue of the world suspect</L>
+<L>Sad <HI>Massinissas</HI> faith: nor once co~demne</L>
+<L>Our just reuolt: <HI>Carthage</HI> first gaue me life,</L>
+<L>Hir ground gaue food, hir aire first lent me breath</L>
+<L><HI>The Earth was made for men, not men for Earth.</HI></L>
+</LG>
+<LG>
+<L><HI>Scipio</HI> I do not thanke the Gods for life,</L>
+<L>Much lesse vile men, or earth: know best of Lords,</L>
+<L>It is a happy being breath well fam'd,</L>
+<L>For which <HI>Ioue</HI> sees these thus; Men be not foold</L>
+<L>With piety to place: traditions feare,</L>
+<L><HI>A iust mans contry Ioue makes euery where.</HI></L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Sci.</SPEAKER>
+<LG>
+<L>Well vrgeth <HI>Massinissa,</HI> but to leaue</L>
+<L>A Citie so ingrate, so faithlesse, so more vile</L>
+<L>Then ciuill speach may name, fear not, such vice</L>
+<L>To scourge is heauens most gratefull sacrifice.</L>
+<L>Thus all confesse first they haue broke a faith</L>
+<L>To the most due, so just to be obseru'd</L>
+<L>That barborousnes it selfe may well blush at them</L>
+<L>Where is thy passio~? they haue shar'd thy crowne</L>
+<L>Thy proper right of birth; contriu'd thy death.</L>
+<L>Where is thy passion? giuen thy beauteous spouse.</L>
+<L>To thy most hated riuall: statue, not man,</L>
+<L>And last thy freind <HI>Gelosso</HI> (man worth Gods)</L>
+<L>With tortures haue they re~t to death.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<LG>
+<L>O <HI>Gel.</HI></L>
+<L>For thee full eyes</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Sci.</SPEAKER>
+<L>No passion for the rest.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<LG>
+<L>O <HI>Scipio</HI> my greefe for him may be expressd by teares</L>
+<L>But for the rest <HI>silence</HI> &amp; secret anguish</L>
+<L>Shall wast: shall wast:&mdash;<HI>Scipio</HI> he that can weepe,</L>
+<L>Greeues not like me priuate deepe inward drops</L>
+<L>Of bloud: my heart&mdash;for Gods rights giue me leaue</L>
+<L>To be a short time <HI>Man.</HI></L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Sci.</SPEAKER>
+<L>stay prince.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<LG>
+<L>I cease;</L>
+<PB REF="18">
+<L>Forgiue if I forget thy presence: <HI>Scipio</HI></L>
+<L>Thy face makes <HI>Massinissa</HI> more then man,</L>
+<L>And here before your steddy power a vow</L>
+<L>As firme as fate I make: when I desist</L>
+<L>To be commaunded by thy virtue, (<HI>Scipio</HI>)</L>
+<L>Or fall from frend of <HI>Romes,</HI> reuenging Gods</L>
+<L>Aflict me worth your torture: I haue giuen</L>
+<L>Of passion and of faith my heart.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Sci.</SPEAKER>
+<LG>
+<L>To counsel then</L>
+<L><HI>Greefe fits weake hearts, reuenging virtue men.</HI></L>
+</LG>
+<LG>
+<L>Thus I thinke fit, before that <HI>Syphax</HI> know</L>
+<L>How deepely <HI>Carthage</HI> sinkes, lets beat swift march</L>
+<L>Vp euen to <HI>Cirta,</HI> and whilst <HI>Syphax</HI> snores</L>
+<L>With his, late thine&mdash;</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<LG>
+<L>With mine? no <HI>Scipio,</HI></L>
+<L><HI>Libea</HI> hath poyson, aspes, kniues, &amp; to much earth</L>
+<L>To make one graue, with mine? not, she can dye,</L>
+<L><HI>Scipio,</HI> with mine? <HI>Ioue</HI> say it thou dost lie.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Sci.</SPEAKER>
+<L>Temperance be <HI>Scipios</HI> honor.</L>
+</SP>
+<SP>
+<SPEAKER>Le.</SPEAKER>
+<LG>
+<L>Cease your strife</L>
+<L>She is a woman.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>But she is my wife.</L>
+</SP>
+<SP>
+<SPEAKER>Le.</SPEAKER>
+<L>And yet she is no god.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<LG>
+<L>And yet she's more</L>
+<L>I do not prayse Gods goodnes but adore.</L>
+<L>Gods cannot fall, and for their constant goodnesse</L>
+<L>(Which is necessited) they haue a crowne</L>
+<L>Of neuer ending pleasures: but faint man</L>
+<L>(Framd to haue his weaknes made the heauens glo|ry</L>
+<L>If he with steddy vertue holdes all seidge</L>
+<L>That power, that speach, that pleasure, that full sweets</L>
+<L>A world of greatnes can assaile him with,</L>
+<L>Hauing no pay but selfe wept miserie,</L>
+<L>And beggars treasure heapt, that man Ile prayse</L>
+<L>Aboue the Gods.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Sc.</SPEAKER>
+<L>The <HI>Libean</HI> speakes bold sense</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<LG>
+<L>By that by which all is, <HI>Proportion,</HI></L>
+<L>I speake with thought.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Sci.</SPEAKER>
+<L>No more.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<LG>
+<L>Forgiue my admiration</L>
+<L>You toucht a string to which my sense was quick,</L>
+<L>Can you but thinke? doe, do; my greefe! my greefe</L>
+<L>Would make a <HI>Saint</HI> blaspheme: giue some releefe,</L>
+<L>As thou art <HI>Scipio</HI> forgiue that I forget,</L>
+<L>I am a Soldier; such woes <HI>Ioues</HI> ribs would burst,</L>
+<L>Few speake lesse ill that feele so much of worst.</L>
+<PB REF="19">
+<L>My eare attends</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Sci.</SPEAKER>
+<LG>
+<L>Beefore then <HI>Syphax</HI> ioine</L>
+<L>With new strength'd <HI>Carthage,</HI> or can once vnwind</L>
+<L>His tangled sense from out so vilde amaze</L>
+<L>Fall we like suddeine lightning fore his eyes;</L>
+<L>Boldnesse and spead are all of victories.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<LG>
+<L><HI>Scipio,</HI> let <HI>Massinissa</HI> clip thy knees;</L>
+<L>May once these eyes vew <HI>Syphax?</HI> shall this arme</L>
+<L>Once make him feele his sinue? O yee Gods</L>
+<L>My cause, my cause! Iustice is so huge odds</L>
+<L>That he who with it feares, Heauen must renounce</L>
+<L>In his creatio~.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Sci.</SPEAKER>
+<LG>
+<L>Beat then a close quicke march</L>
+<L>Before the morne shall shake cold dewes through skyes,</L>
+<L><HI>Syphax</HI> shall tremble at <HI>Romes</HI> thicke allarmes.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<LG>
+<L>Yee powres I challenge conquest to just armes.</L>
+<L><HI>With a full florish of Cornettes they depart.</HI></L>
+</LG>
+</SP>
+</DIV2>
+<TRAILER>Actus Tertii FINIS.</TRAILER>
+</DIV1>
+<DIV1 N="4" TYPE="act">
+<HEAD>Actus Quarti</HEAD>
+<DIV2 N="1" TYPE="scene">
+<HEAD>Scena Prima.</HEAD>
+<STAGE>Organs Violls and Voices <HI>play for this Act.</HI></STAGE>
+<STAGE>Enter Sophonisba and Zanthia as out of a caues mouth</STAGE>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<L>Where are wee <HI>Zanthia?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Za.</SPEAKER>
+<LG>
+<L><HI>Vangue</HI> said the caue</L>
+<L>Op'ned in <HI>Belos</HI> forrest.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<LG>
+<L>Lord how sweete</L>
+<L>I sent the ayre? the huge longe vaultes close vaine,</L>
+<L>What dumps it breathd? In <HI>Belos</HI> forrest sayst?</L>
+<L>Be valiant <HI>Zanthia;</HI> how farr's <HI>Vtica</HI></L>
+<L>From these most heauy shades?</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Zan.</SPEAKER>
+<L>Ten easy leages.</L>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<LG>
+<L>Thers <HI>Massinissa,</HI> my true <HI>Zanthia</HI></L>
+<L>Shals venture nobly to escape, and touch</L>
+<L>My Lordes just armes: Loues winges so justly heaue</L>
+<L>The body vp, that as our toes shall trip</L>
+<L>Ouer the tender and obedient grasse,</L>
+<L>Scarse any drop of dew is dasht to ground.</L>
+<PB REF="19">
+<L>And see the willing shade of friendly night</L>
+<L>Makes safe our instant haste: Boldnesse and speede</L>
+<L>Make actions wost impossible succeede.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Za.</SPEAKER>
+<LG>
+<L>But Madam know the forrest hath no way</L>
+<L>But one to passe the which holds strictest gard.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<L>Doe not betray me <HI>Zanthia.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Za.</SPEAKER>
+<L>I Madam.</L>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<LG>
+<L>No</L>
+<L>I not mistrust thee, yet, but,</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Za.</SPEAKER>
+<LG>
+<L>Here you may</L>
+<L>Delay your time.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<LG>
+<L>I <HI>Zanthia</HI> delay</L>
+<L>By which we may yet hope, yet hope, Alas</L>
+<L>How all be numd's my sense <HI>Chaunce</HI> hath so often</L>
+<L>I scarce ca~ feele: I should now curse the Gods &punc;struck</L>
+<L>Call on the furies: stampe the patient earth</L>
+<L>cleaue my streachd cheeks with sound speake from all sense</L>
+<L>But <HI>loud and full</HI> of players eloquence</L>
+<L>No, no, What shall we eate.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Za.</SPEAKER>
+<LG>
+<L>Madam ile search</L>
+<L>For some ripe Nuts which <HI>Autumn</HI> hath shook down</L>
+<L>From the vnleau'd Hasel, then some cooler ayre</L>
+<L>Shall lead me to a spring: Or I will try</L>
+<L>The courteous pale of some poore forrestres,</L>
+<L>For milke.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<STAGE>Exit Zanthia.</STAGE>
+<LG>
+<L>Do <HI>Zanthia,</HI> O happinesse,</L>
+<L>Of those that know not pride or lust of citty,</L>
+</LG>
+<LG>
+<L><HI>Ther's no man bless'd but those that most men pitty.</HI></L>
+<L>O fortunate poore maides, that are not forc'd,</L>
+<L>To wed for state nor are for state diuorc'd!</L>
+<L>Whome policy of kingdoms doth not marry,</L>
+<L>But pure affection makes to loue or vary,</L>
+<L>You feele no loue, which you dare not to shew,</L>
+<L>Nor show a loue which doth not truely grow:</L>
+<L>O you are surely blessed of the skie,</L>
+<L>You liue, that know not death before you die, <STAGE>Through the vautes mouth in his night gowne, torch in his hand, Syphax enters iust behind Sophon.</STAGE></L>
+<L>You are:</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Sy.</SPEAKER>
+<LG>
+<L>In <HI>Syphax</HI> armes, thing of false lip,</L>
+<L>What God shall now release thee,</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<L>Art a man?</L>
+</SP>
+<SP>
+<SPEAKER>Sy.</SPEAKER>
+<LG>
+<L>Thy limbs shall feele, despight thy vertue know</L>
+<L>I'le thredd thy richest pearle: this forrests deafe,</L>
+<L>As is my lust: <HI>Night</HI> and the God of <HI>scilence,</HI></L>
+<L>Swels my full pleasures, no more shalt thou delude,</L>
+<PB REF="20">
+<L>My easie credence&punc; Virgin of faire brow,</L>
+<L>Well featurde creature, and our vtmost wonder,</L>
+<L>Queene of our youthfull bed be proud, <STAGE>Syphax setteth away his light, &amp; prepareth tin'brace Soph.</STAGE></L>
+<L>Ile vse thee,</L>
+</LG>
+</SP>
+<STAGE>Sopho snatcheth out her knife.</STAGE>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<LG>
+<L>Look thee, view this, show but one strain of force</L>
+<L>Bow but to sease this arme, and by my selfe,</L>
+<L>Or more by <HI>Massinissa</HI> this good steele,</L>
+<L>Shall set my soule on wing&punc; thus formde Gods see,</L>
+<L>And men with Gods worth enuy nought but me.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Sy.</SPEAKER>
+<LG>
+<L>Doe strike thy breast, know being dead, Ile vse,</L>
+<L>With highest lust of sense thy senselesse flesh,</L>
+<L>And euen then thy vexed soule shall see,</L>
+<L>Without resistance, thy trunke prostitute,</L>
+<L>Vnto our appetite.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<LG>
+<L>I shame to make thee know,</L>
+<L>How vile thou speakest: <HI>Corruption</HI> then as much,</L>
+<L>As thou shalt doe: but frame vnto thy lusts,</L>
+<L><HI>Imaginatious vtmost sin: Syphax,</HI></L>
+<L>I speake all frightles, know I liue or die</L>
+<L>To <HI>Massinissa,</HI> nor the force of fate</L>
+<L>Shall make me leaue his loue, or slake thy hate&punc;</L>
+<L>I will speake no more,</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Sy.</SPEAKER>
+<LG>
+<L>Thou hast amazde vs, Womans forced vse,</L>
+<L>Like vnripe fruites, no sooner got but waste,</L>
+<L>They haue proportion, colour but no taste,</L>
+<L>Thinke <HI>Syphax&mdash;Sophonisba</HI> rest thine owne,</L>
+<L>Our Guard, <STAGE>Enter a Guard.</STAGE></L>
+<L>Creature of most astonishing vertue,</L>
+<L>If with faire vsage, loue and passionate courtings,</L>
+<L>We may obtaine, the heauen of thy bed,</L>
+<L>We cease, no sute from other force be free.</L>
+<L>VVe dote not on thy body, but loue thee,</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>So&punc;</SPEAKER>
+<L>Wilt thou keep faith?</L>
+</SP>
+<SP>
+<SPEAKER>Sy.</SPEAKER>
+<LG>
+<L>By thee &amp; by that power</L>
+<L>By which thou art thus glorious, trust my vow,</L>
+<L>Our guard, conuay the roialst excellence</L>
+<L>That euer was cald <HI>Woman,</HI> to our Pallace,</L>
+<L>Obserue her with strict care:</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<LG>
+<L>Dread <HI>Syphax</HI> speak</L>
+<L>As thou art worthy: is not <HI>Zanthia</HI> false&punc;</L>
+</LG>
+</SP>
+<SP>
+<PB REF="20">
+<SPEAKER>Sy.</SPEAKER>
+<L>To thee shee is.</L>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<LG>
+<L>As thou art then thy selfe</L>
+<L>Let hir not bee.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Sy.</SPEAKER>
+<L>Shee is not.</L>
+</SP>
+<STAGE>The gaurd seizeth Zanthia.</STAGE>
+<SP>
+<SPEAKER>Za.</SPEAKER>
+<LG>
+<L>Thus most speed when two foes are growne friends</L>
+<L>Partakers bleed.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Sy.</SPEAKER>
+<LG>
+<L>When Plants must florish</L>
+<L>Their manure must rot.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<LG>
+<L><HI>Syphax</HI> bee recompenced.</L>
+<L>I hate thee not.</L>
+</LG>
+</SP>
+<STAGE>Sopho. Exit.</STAGE>
+<SP>
+<SPEAKER>Sy,</SPEAKER>
+<LG>
+<L>A wasting flame feedes on my amorous bloud</L>
+<L>Which wee must coole or dye? what way all power,</L>
+<L>All speech full Opportunity can make,</L>
+<L>We haue made fruitles trial. Infernall <HI>Ioue,</HI></L>
+<L>You resolute Angels that delight in flames,</L>
+<L>To you all wonder working spirites I flie</L>
+<L>Since heauen helpes not, deepest hell weele trie.</L>
+<L>Here in this desart the great soule of Charmes,</L>
+<L>Dreadfull <HI>Erictho</HI> liues whose dismall brow,</L>
+<L>Contemnes all roofes or ciuill couerture.</L>
+<L>Forsaken graues and tombes the Ghosts forcd out</L>
+<L>Shee ioyes to inhabit.</L>
+</LG>
+<STAGE>Infernall Musicke plaies softly whilst Erich|tho enters and &amp; when she speakes ceaseth.</STAGE>
+<LG>
+<L>A loathsome yellowe leannesse spreades hir face</L>
+<L>A heauy hell-like palenes loades hir cheekes</L>
+<L>Vnknowne to a cleare heauen: but if darke windes.</L>
+<L>Or thick black cloudes driue back the blinded stars</L>
+<L>When her deepe magique makes forc'd heuen quake</L>
+<L>And thunder spite of <HI>Ioue. Erichtho</HI> then</L>
+<L>Fro~ naked graues stalkes out, heaues proud hir head</L>
+<L>With lo~g vnke~de haire loaden, and striues to snatch</L>
+<L>The <HI>Nights quick sulphar:</HI> then she bursts vp tombes</L>
+<L>From half rot searcloaths then she scrapes dry gums</L>
+<L>For hir black rites: but when she findes a corse</L>
+<L>New graud whose entrailes yet not turne</L>
+<L>To fly my filth with greedy hauock then</L>
+<L>she makes fierce spoile: &amp; swels with wicked triumph</L>
+<L>To bury hir leane knuckles in his eyes</L>
+<L>Then doeth she knaw the pale and or'egrowne nailes</L>
+<L>From his dry hand: but if she find some life</L>
+<L>Yet lurking close she bites his gelled lips,</L>
+<PB REF="21">
+<L>And sticking her blacke tongue in his drie throat,</L>
+<L>She breathes dire murmurs, which inforce him beare</L>
+<L>Her banefull secrets to the spirits of horror.</L>
+<L>To her first sound, the Gods yeeld any harme,</L>
+<L>As trembling once to heare a second charme,</L>
+<L>She is:</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Eri.</SPEAKER>
+<LG>
+<L>Here <HI>Syphax</HI> here, quake not, for know</L>
+<L>I know thy thoughts, thou wouldst entreat our power,</L>
+<L>Nice <HI>Sophonisba's</HI> passion to enforce</L>
+<L>To thy affection be al full of <HI>Ioue,</HI></L>
+<L>Tis done, tis done, to vs heaue earth&punc; sea, aire,</L>
+<L>And Fate it selfe obayes, the beastes of death,</L>
+<L>And all the terrors angry Gods inuented,</L>
+<L>(T'afflict th'<HI>ignorance</HI> of <HI>patient man</HI>),</L>
+<L>Tremble at vs: the roulde vp snake vncurlde,</L>
+<L>His twisted knots at our affrighting voice,</L>
+<L>Are we incensd? the King of flames grows pale,</L>
+<L>Least he be choakde with blacke and earthy fumes,</L>
+<L>Which our charms raise: Be ioi'd, make proud thy lust</L>
+<L>I doe not pray you Gods, my breathes: <HI>You must.</HI></L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Sy.</SPEAKER>
+<LG>
+<L>Deepe knowing spirit, mother of all high</L>
+<L>Misterious science, what may <HI>Syphax</HI> yeeld,</L>
+<L>Worthy thy art, by which my soule's thus easde,</L>
+<L>The Gods first made me liue, but thou liue pleasde.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Eri.</SPEAKER>
+<LG>
+<L>Know then our loue, hard by the reuere~t ruines</L>
+<L>Of a once glorious temple rearde to <HI>Ioue,</HI></L>
+<L>Whose very rubbish (like the pittied fall,</L>
+<L>Of Vertue much vnfortunate) yet beares,</L>
+<L>A deathlesse Maiesty though now quite rac'd,</L>
+<L>Hurld downe by wrath, and lust of impious Kings</L>
+<L>So that where holy <HI>Flamins</HI> wont to sing,</L>
+<L>Sweet Hyms to heauen, there the daw and crow,</L>
+<L>The ill voic'de Rauen, and still chattering Pie:</L>
+<L>Send out vngratefull sound, and loathsome filth,</L>
+<L>Where statues and <HI>Ioues</HI> acts were viuely lim'd</L>
+<L>Boyes with blacke coales, draw the vaild parts of nature,</L>
+<L>And leacherous actions of imaginde lust,</L>
+<L>Where tombes and beauteous vrns of well dead men.</L>
+<L>Stoode in assured rest, the shepheard now,</L>
+<PB REF="21">
+<L>Vnloads his belly: Corruption most abhord</L>
+<L>Mingling it selfe with their renowned ashees,</L>
+<L>Our selfe quakes at it.</L>
+<L>There once a <HI>Charnel</HI> house, now a vast caue,</L>
+<L>Ouer whose brow a pale and vnt rod groue</L>
+<L>Throwes out her heauy shade, the mouth thick armes</L>
+<L>Of darksom <HI>Ewe,</HI> (Sun proofe) for euer choake</L>
+<L>Within rests barren darknesse, fruitlesse drough</L>
+<L>Pines in eternal <HI>Night:</HI> The steame of <HI>Hell</HI></L>
+<L>Yeeldes not so lasie ayre: there that's my cell</L>
+<L>From thence a charme which <HI>Ioue</HI> dare not here twic<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter"></L>
+<L>Shall force her to thy bed: but <HI>Syphax</HI> know</L>
+<L>Loue is the highest rebell to our art.</L>
+<L>Therfore I charge thee by the feare of all</L>
+<L>Which thou knowest dreadfull, or more, by our selfe&punc;</L>
+<L>As with swift hast she passeth to thy bed,</L>
+<L>And easie to thy wishes yeelds: speake not one word&punc;</L>
+<L>Nor dare as&punc; thou dost feare thy losse of joyes</L>
+<L>T'admit one light, one light,</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Sy.</SPEAKER>
+<LG>
+<L>As to my Fate<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter"></L>
+<L>I yeeld my guidance.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Eri.</SPEAKER>
+<LG>
+<L>Then when I shall force</L>
+<L>The ayre to musicke and the shads of night</L>
+<L>To forme sweete sounds: make proud thy rais'd delight.</L>
+<L>Meane time behold I go a charme to reare</L>
+<L>Whose potent sound will force our selfe to feare.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Sy.</SPEAKER>
+<LG>
+<L>Whither is <HI>Syphax</HI> heau'd? at length shalls joy</L>
+<L>Hopes more desired then Heauen? Sweet laboring Earth</L>
+<L>Let Heauen be vnform'd with mighty charmes,</L>
+<L>Let <HI>Sophonisba</HI> only fill these armes.</L>
+<L><HI>Ione</HI> weele not enuie thee: Blouds appetite</L>
+<L>Is <HI>Syphax</HI> God: My wisedome is my sense,</L>
+<L>Without a man I hold no excellence.</L>
+<L>Giue me long breath yong beds and sicklesse ease</L>
+<L>For we hold firme thats lawfull which doeth please <STAGE>Infernall Musique softly.</STAGE></L>
+<L>Harke, harke, now rise jnfernall tones</L>
+<L>The depe fetch'd grones</L>
+<PB REF="22">
+<L>Of laboring spirits that attend</L>
+<L><HI>Erichtho.</HI></L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Eri.</SPEAKER>
+<L>Erichtho.</L>
+</SP>
+<STAGE>within.</STAGE>
+<SP>
+<SPEAKER>Sy.</SPEAKER>
+<LG>
+<L>Now cracke the trembling earth and send</L>
+<L>Shreekes that portend</L>
+<L>Affrightment to the Gods which heare</L>
+<L><HI>Erichtho.</HI></L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Eri.</SPEAKER>
+<L>Erichtho</L>
+<STAGE>within</STAGE>
+<STAGE>Atreble Uioll and a base Lute play softlyd within the Canopy.</STAGE>
+<LG>
+<L>Harke harke, now softer melody strikes mute</L>
+<L>Disquiet nature: O thou power of sound</L>
+<L>How thou dost melt me. Harke, now euen Heauen</L>
+<L>Giues vp his soule amongst vs: Now's the time</L>
+<L>When gready expectation strains mine eyes</L>
+<L>For their lou'd object: now <HI>Erichtho</HI> will'd</L>
+<L>Prepare my appetite for loues strict gripes</L>
+<L>O you dear founts of pleasure Bloud and Beauty</L>
+<L>Rayse actiue venus worth fruition</L>
+<L>Of such prouoking sweetnesse. Harke: shee coms&punc; <STAGE>A short song to soft Musique aboue.</STAGE></L>
+<L>Now nuptiall Hymes inforced Spirits sing</L>
+<L>Harke, (<HI>Syphax</HI>) harke: <STAGE>Cantant&punc;</STAGE></L>
+<L>Now Hell and Heauen ringes</L>
+<L>With Musique spigh of <HI>Phoebus:</HI> Peace: <STAGE>Enter Erichtho in the shape of Sophonisba, her face vailed and hasteth in the bed of Syphax.</STAGE></L>
+<L>Shee coms:</L>
+<L>Fury of blouds impatient: <HI>Erichtho</HI></L>
+<L>Boue thunder sit; to thee egregious soule</L>
+<L>Let all flesh bend. <HI>Sophonisba</HI> thy flame</L>
+<L>But equall mine, and weele ioy such delight</L>
+<PB REF="22">
+<L>That Gods shall not admire, but euen spight.</L>
+</LG>
+</SP>
+<STAGE>Syphax hasteneth within the Canopy as to Sophonisbas bed</STAGE>
+</DIV2>
+<TRAILER>Actus Quarti. FINIS.</TRAILER>
+</DIV1>
+<DIV1 N="5" TYPE="act">
+<HEAD>Actus Quinti</HEAD>
+<DIV2 N="1" TYPE="scene">
+<HEAD>Scena Prima.</HEAD>
+<STAGE>A Base Lute and a Treble Violl <HI>play for the Act.</HI></STAGE>
+<STAGE>Syphax drawes the curtaines and discouers Erichtho lying with him.</STAGE>
+<SP>
+<SPEAKER>Eri.</SPEAKER>
+<L>Ha, ha, ha,</L>
+</SP>
+<SP>
+<SPEAKER>Se.</SPEAKER>
+<L>Light, light,</L>
+</SP>
+<SP>
+<SPEAKER>Eri.</SPEAKER>
+<L>Ha, ha,</L>
+</SP>
+<SP>
+<SPEAKER>Sy.</SPEAKER>
+<LG>
+<L>Thou rotten scum of Hell&mdash;</L>
+<L>O my abhorred heat! O loath'd delusion!</L>
+</LG>
+</SP>
+<STAGE>They leape out of the bed Syphax takes him to his sword</STAGE>
+<SP>
+<SPEAKER>Eri.</SPEAKER>
+<LG>
+<L>Why foole of kings, could thy weake soule imagin</L>
+<L>That t'is within the graspe of Heauen or Hell</L>
+<L>To inforce loue? why know Loue doates the Fates</L>
+<L><HI>Ioue</HI> groanes beneath his waight: more ignorant thing,</L>
+<L>Know we <HI>Erichtho,</HI> with athirsty womb</L>
+<L>Haue coueted full threescore Suns for bloud of kings,</L>
+<L>We that can make inraged <HI>Neptune</HI> tosse</L>
+<L>His huge curld lockes without one breath of wind:</L>
+<L>We that can make Heauen slide from <HI>Atlas</HI> shoulder:</L>
+<L>We in the pride and haight of couetous lust</L>
+<L>Haue wisht with wo mans gredines to fill</L>
+<L>Our longing armes with <HI>Syphax</HI> well strong lims:</L>
+<L>And dost thou think if <HI>Philters</HI> or Hels charmes</L>
+<L>Could haue inforc'd thy vse, we would hau'dam'd</L>
+<L>Braine sleightes? no, no, Now are we full</L>
+<L>Of our deare wishes: thy proud heat well wasted</L>
+<L>Hath made our lims grow young: our loue farwell,</L>
+<L>Know he that would force loue, thus seekes his Hell.</L>
+</LG>
+</SP>
+<STAGE>Erichtho slips into the ground as Syphax offers his sword to hir.</STAGE>
+<SP>
+<SPEAKER>Sy.</SPEAKER>
+<LG>
+<L>Can we yet breath? is any plagued like me?</L>
+<L>Are we? lets thinke: O now contempt, my hate</L>
+<L>To the, thy thunder, sulphure and scorn'd name.</L>
+<PB REF="23">
+<L>He whose lifes loath'd, and he who breathes to curse</L>
+<L>His very being; let him thus with me <STAGE>Syphax kneeles at the Aultar</STAGE></L>
+<L>Fall fore an Aultar sacred to black powers,</L>
+<L>And thus dare Heauens: O thou whose blasting flames</L>
+<L>Hurle barren droughes vpon the patient earth,</L>
+<L>And thou gay God of riddles and strange tales</L>
+<L>Hot-brained <HI>Phebus,</HI> all adde if you can</L>
+<L>Something vnto my misery; if ought</L>
+<L>Of plagues lurk in your deepe trench'd browes</L>
+<L>Which yet I know not: let them fall like boltes</L>
+<L>Which wrathfull <HI>Ioue</HI> driues strong in &punc;o my bosom,</L>
+<L>If any chance of war, or newes ill voyc'd,</L>
+<L>Mischeife vnthought of lurke, come gift vs all,</L>
+<L>Heape curse on curse, we can no lower fall.</L>
+</LG>
+</SP>
+<STAGE>Out of the Aultar the ghost of Asdruball ariseth.</STAGE>
+<SP>
+<SPEAKER>Asd.</SPEAKER>
+<L>Lower, lower,</L>
+</SP>
+<SP>
+<SPEAKER>Sy.</SPEAKER>
+<LG>
+<L>What damn'd ayre is form'd</L>
+<L>Into that shape? speake, speake, we cannot quake,</L>
+<L>Our flesh knowes not ignoble tremblinges, speake,</L>
+<L>We dare thy terror: me thinkes Hell and fate</L>
+<L>Should dread a soule with woes made desperate.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>As.</SPEAKER>
+<LG>
+<L>Know me the spirit of great <HI>Asdruball</HI></L>
+<L>Father to <HI>Sophonisba,</HI> whose bad heart</L>
+<L>Made justly most vnfortunate: for know</L>
+<L>I turn'd vnfaithfull, after which the feeld</L>
+<L>Chanc'd to our losse, when of thy men there fell</L>
+<L>6000 soules next fight of <HI>Lybeans</HI> ten.</L>
+<L>After which losse we vnto <HI>Carthage</HI> flying,</L>
+<L>Th'inraged people cride their army fell</L>
+<L>Through my base treason: straight my reuengefull fury</L>
+<L>Makes them persue me, I with resolute hast&punc;</L>
+<L>Made to the graue of all our Auncestors</L>
+<L>Where poyson'd, hop'd my bones should haue long rest.</L>
+<L>But see the violent multitude arriues</L>
+<L>Teare downe our monument, and mee now dead</L>
+<L>Deny a graue: hurle vs among the rockes</L>
+<L>To stanch beasts hunger; therefore thus vngrau'd</L>
+<L>I seeke slow rest: now doest thou know more woes</L>
+<PB REF="23">
+<L>And more must feele: Mortals O feare to sleight</L>
+<L>Your Gods and vowes: <HI>Ioues</HI> arme is of dread might.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Sy.</SPEAKER>
+<L>Yet speake shall I orecome approaching foes.</L>
+</SP>
+<SP>
+<SPEAKER>As.</SPEAKER>
+<L>Spirits of wrath know nothing but their woes.</L>
+</SP>
+<STAGE>Exit&punc;</STAGE>
+<STAGE>Enter Nuntius.</STAGE>
+<SP>
+<SPEAKER>Nuu.</SPEAKER>
+<LG>
+<L>My liedge, my liedge, the scouts of <HI>Cirta</HI> bring intellige~ce</L>
+<L>Of suddaine danger, full ten thousand horse</L>
+<L>Fresh and well <GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">id strong <HI>Massinissa</HI> leades</L>
+<L>As wings to Roman legions that march swift</L>
+<L>Led by that man of conquest&punc; <HI>Scipio,</HI></L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Sy.</SPEAKER>
+<L>Scipio</L>
+</SP>
+<SP>
+<SPEAKER>Nu.</SPEAKER>
+<LG>
+<L>Direct to Cirta. <STAGE>A march far off is heard.</STAGE></L>
+<L>Harke their march is heard euen to the cittye.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Sy.</SPEAKER>
+<LG>
+<L>Helpe, our guard, my armes, bid all our leaders march.</L>
+<L>Beate thicke allarms, I haue seene things which thou</L>
+<L>Wouldst quake to heare,</L>
+<L>Boldnes and strength the shame of slaues bee feare.</L>
+<L>Vp heart, hold sword: though waues roule thee on shelfe,</L>
+<L>Though fortune leaue thee leaue not thou thy selfe.</L>
+</LG>
+</SP>
+<STAGE>Exit arming</STAGE>
+</DIV2>
+<DIV2 N="2" TYPE="scene">
+<STAGE>Scena Secunda.</STAGE>
+<STAGE><HI>Enter</HI> 2. <HI>Pages with targets &amp; Ianelins Lelius &amp; Iugurth with hol|berds. Scipio &amp; Massinissa armed Cornets sounding a march.</HI></STAGE>
+<SP>
+<SPEAKER>Sc.</SPEAKER>
+<L>Stand&punc;</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>Giue the word stand.</L>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<L>Part the fyle.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<LG>
+<L>giue way</L>
+<L><HI>Scipio</HI> by thy great name, but greater vertue,</L>
+<L>By our eternall loue giue me the chance</L>
+<L>Of this dayes battle: Let not thy enuied fame</L>
+<L>Vouchsafe t'appose the Roman legious</L>
+<L>Against one weakened Prince of Lybea</L>
+<L>This quarrels mine: mine bee the stroke of fight</L>
+<L>Let vs and <HI>Syphax</HI> hurle our well forcd dartes</L>
+<L>Each vnto others&punc; breast, O (what should I say)</L>
+<L>Thou beyonde epithete thou whom proude Lords of fortune</L>
+<L>May euen enuye: (alas my ioyes so vaste</L>
+<PB REF="24">
+<L>Makes me seeme lost let vs thunder and lightning</L>
+<L>Strike from our braue armes, looke, looke, sease that hill.</L>
+<L>Harke he comes neare: From thence discerne vs strike</L>
+<L>Fyer worth <HI>Ioue,</HI> mount vp, and not repute</L>
+<L>Mee very proud tho wondrous resolute.</L>
+<L>My cause: my cause, is my bold hartning ods,</L>
+<L>That seeuen fold shield, just armes should fright the Gods</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Sci.</SPEAKER>
+<L>Thy words are full of honour take thy fate,</L>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<LG>
+<L>Which wee do scorne to feare, to <HI>Scipio</HI> state</L>
+<L>Worthy his heart. Now let the forced brasse</L>
+<L>Sound on. <STAGE><HI>Cornets</HI> sound a march <HI>Scipio</HI> leades his traine vp to the mount.</STAGE></L>
+<L><HI>Iugurth</HI> claspe sure our caske</L>
+<L>Arme vs with care, and <HI>Iugurth</HI> if I fall</L>
+<L>Through this dayes malice, or our fathers sinnes</L>
+<L>If it in thy sword lye, breake vp my breast</L>
+<L>And saue my heart that neuer fell nor's adue</L>
+<L>To ought but <HI>Ioue</HI> and <HI>Sophonisba.</HI> Sound</L>
+<L>Sterne hartners vnto woundes and blood, sound loude</L>
+<L>For wee haue named <HI>Sophonisba.</HI></L>
+</LG>
+<STAGE>Cornets a florish</STAGE>
+<STAGE>Cornets a march far of.</STAGE>
+<LG>
+<L>So.</L>
+<L>Harke harke, hee comes, stand bloud, now multiply</L>
+<L>Force more then fury, sound high, sound high, wee strike</L>
+<L>For <HI>Sophonisba.</HI></L>
+</LG>
+</SP>
+<STAGE><HI>Enter Syphax</HI> armd his pages with shields &amp; darts before <HI>Cor+nets</HI> sounding marches.</STAGE>
+<SP>
+<SPEAKER>Sy.</SPEAKER>
+<L>For <HI>Sophonisba.</HI></L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>Syphax.</L>
+</SP>
+<SP>
+<SPEAKER>Sy.</SPEAKER>
+<L>Massinissa.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<LG>
+<L>Be twixt vs too</L>
+<L>Let single fight try all.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Sy</SPEAKER>
+<L>Well vrgd,</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<LG>
+<L>Well graunted</L>
+<L>Of you my stars as I am worthy you</L>
+<L>I implore aide, and O if angels waite</L>
+<L>Vpon good harts my <HI>Genius</HI> bee as strong</L>
+<L>As I am iust.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Sy.</SPEAKER>
+<LG>
+<L>Kinges glory is their wrong.</L>
+<L>Hee that may onely do iust act's a slaue</L>
+<PB REF="24">
+<L>My Gods my arme, my life, my heauen, my graue</L>
+<L>To mee all end.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<LG>
+<L>Giue day Gods, life and death</L>
+<L>To him that onely feares blaspheming breath</L>
+<L>For <HI>Sophonisba.</HI></L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Sy.</SPEAKER>
+<L>For <HI>Sophonisba.</HI></L>
+</SP>
+<STAGE><HI>Cornets</HI> sound a charge <HI>Massinissa</HI> &amp; <HI>Syphax</HI> combate, <HI>Syphax</HI> falles <HI>Massinissa</HI> vn|clasps <HI>Syphax</HI> caske &amp; as reddy to kil him speakes <HI>Syphax.</HI></STAGE>
+<SP>
+<SPEAKER>Sy.</SPEAKER>
+<L>Vnto thy fortune not to thee wee yeeld</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<LG>
+<L>Liues <HI>Sophonisba</HI> yet vnstaind, speake iust</L>
+<L>Yet ours vnforcd?</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Sy</SPEAKER>
+<LG>
+<L>Let my heart fall more low</L>
+<L>Then is my body, if onely to thy glory</L>
+<L>She liues not yet all thine.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<LG>
+<L>Rise, rise, cease strife.</L>
+<L>Heare a most deepe reuenge, from vs take life. <STAGE><HI>Cornets</HI> sounded a <HI>march Scipio</HI> &amp; <HI>Lelius Enter, Scipio</HI> passeth to his thron <HI>Massinissa</HI> prese~ts <HI>Syphax</HI> to <HI>Scipios</HI> feet <HI>Cornets sounding</HI> a flo|rish.</STAGE></L>
+<L>To you all power of strength: and next to thee</L>
+<L>Thou spirit of triumph borne for victory.</L>
+<L>I heaue these handes: March wee to <HI>Cirta</HI> straight,</L>
+<L>My <HI>Sophonisba</HI> with swift hast to winne</L>
+<L>In honor &amp; in loue all meane is sinne&punc; <HI>Ex. Ma.</HI> &amp; <HI>Iug.</HI></L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Sc.</SPEAKER>
+<LG>
+<L>As we are Romes great Generall thus wee press</L>
+<L>Thy Captiue neck&punc; but as still <HI>Scipio</HI></L>
+<L>And sensible of iust humanitie</L>
+<L>We weepe thy bondage: speake thou ill chanc'd man</L>
+<L>What spirit tooke thee when thou wert our friend</L>
+<L>(Thy right hand giuen both to Gods and vs</L>
+<L>With such most passionate vowes and solemne faith)</L>
+<L>Thou fledst with such most foule disloyalty</L>
+<L>To now weak Carthage stre~gthning their bad arms</L>
+<PB REF="25">
+<L>Who lately scornd thee with all lothd abuse</L>
+<L>Who neuer intertaine for loue but vse</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Sy.</SPEAKER>
+<LG>
+<L><HI>Scipio</HI> my fortune is captiud not I</L>
+<L>Therefore Ile speake bold truth&punc; nor once mistrust</L>
+<L>What I shall say, for now beeing wholy yours</L>
+<L>I must not faine, <HI>Sophomsba</HI> t'was shee</L>
+<L>T'was <HI>Sophonisba</HI> that solicited</L>
+<L>My forc'd reuolt, t'was hir resistles sute</L>
+<L>Hir loue to hir deare Carthage'tic'd mee breake</L>
+<L>All faith with men: t'was shee made <HI>Syphax</HI> false</L>
+<L>Shee that lou's Carthage with such violence</L>
+<L>And hath such mouing graces to allure</L>
+<L>That shee will turne a man that once hath sworne</L>
+<L>Himselfe on's fathers bones hir Carthage foe</L>
+<L>To bee that citties Champion and high friend</L>
+<L>Hir Himeneall torch burnt downe my house</L>
+<L>Then was I captiud when hir wanton armes</L>
+<L>There mouing claspt about my neck, O charmes</L>
+<L>Able to turne euen fate: but this in my true griefe</L>
+<L>Is some iustioy, that my loue sotted foe</L>
+<L>Shall sease that plague, that <HI>Massinissas</HI> breast</L>
+<L>Hir handes shall arme, and that ere long youle try</L>
+<L>Shee can force him your foe as well as I,</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Sci.</SPEAKER>
+<LG>
+<L><HI>Lelius, Lelius,</HI> take a choice troupe of horse</L>
+<L>And spur to Cirta. To <HI>Massinissa</HI> thus</L>
+<L><HI>Syphax</HI> pallace&punc; crowne, spoile citties sack</L>
+<L>Be free to him but if our new laughd friend</L>
+<L>Possesse that woman of so mouing art</L>
+<L>Charge him with no lesse waight then his deare vow</L>
+<L>Our loue, all faith, that hee resigne her thee</L>
+<L>As hee shall aunswere Rome will him giue vp</L>
+<L>A Roman prisoner to the Senates doome</L>
+<L>Shee is a Carthaginian, now our lawes</L>
+<L>VVise men preuent not actions, but euer cause</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Sy.</SPEAKER>
+<LG>
+<L>Good malice, so, as liberty so deere</L>
+<L>Proue my reuenge: what I cannot possesse</L>
+<L>Another shall not: thats some happines.</L>
+</LG>
+</SP>
+<STAGE>Exeunt the Cornets flourishing.</STAGE>
+</DIV2>
+<DIV2 N="3" TYPE="scene">
+<STAGE><PB REF="25">Scena tertia, The Cornets afar off sounding a charge, A Souldier wounded at one dore, Enters at the other Sophonisba, two Pa ges before her with lightes, two women bearing vppe her traine.</STAGE>
+<SP>
+<SPEAKER>Sol.</SPEAKER>
+<LG>
+<L>Princes O flie, <HI>Syphax</HI> hath lost the day,</L>
+<L>And captiu'de lies, the Roman Legeons</L>
+<L>Haue seisde the towne, and with inueterate hate,</L>
+<L>Make slaues or murder all: Fier and steele,</L>
+<L>Fury and night hold all: faire Queene O flie,</L>
+<L>We bleede for Carthage, all of Carthage die.</L>
+</LG>
+</SP>
+<STAGE>Exit.</STAGE>
+<STAGE>The Cornets sounding a March, Enter Pages with iauelings and Targets, Massinissa and Iugurth, Massinissas beauer shut.</STAGE>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<LG>
+<L>March to the Pallace. <HI>So&punc;</HI> What ere man thou art</L>
+<L>Of Libea, thy faire armes speake: giue hart,</L>
+<L>To amazde weakenes, heare her, that for long time,</L>
+<L>Hath seene no wished light. <HI>Sophonisba,</HI></L>
+<L>A name for misery much knowne, tis she,</L>
+<L>Intreates of thy gracd sword, this onely boone,</L>
+<L>Let me not kneele to Rome, for though no cause,</L>
+<L>Of mine deserues their hate, though <HI>Massinissa,</HI></L>
+<L>Be ours to hart, yet Roman Generals</L>
+<L>Make proud their triumphs, with what euer captiues</L>
+<L>O tis a Nation which from soule I feare,</L>
+<L>As one well knowing the much grounded hate,</L>
+<L>They beare to <HI>Asdrubal</HI> and Carthage bloud,</L>
+<L>Therefore with teares that wash thy feet, with hands</L>
+<L>Vnusde to beg I claspe thy manlie knees,</L>
+<L>O saue me from their fetters and contempt,</L>
+<L>Their proud insultes, and more then insolence,</L>
+<L>Or if it rest not in thy grace of breath,</L>
+<L>To grant such freedome, giue me long wishd death,</L>
+<L>For tis not much loathde life, that now we craue,</L>
+<L>Onely an vnshamd death, and silent graue</L>
+<PB REF="26">
+<L>We will now daine to bend for.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<LG>
+<L>Rarity <STAGE>Mas. disarmes his head.</STAGE></L>
+<L>By thee and this right hand thou shalt liue free.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<L>We cannot now be wretched.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<LG>
+<L>Stay the sword.</L>
+<L>Let slaughter cease, Soundes soft as <HI>Ledas</HI> breast, <HI>Soft Musique.</HI></L>
+<L>Slide through all eares, this night be loues high feast,</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<LG>
+<L>O're whelme me not with sweetes, let me not drinke,</L>
+<L>Till my breast burst, O <HI>loue</HI> thy Nectar, thinke</L>
+</LG>
+</SP>
+<STAGE>She sinkes into Massi. armes.</STAGE>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>She is orecome with ioy.</L>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<LG>
+<L>Helpe, helpe to beare</L>
+<L>Some happinesse yee powers, I haue ioy to spare,</L>
+<L>Inough to make a God, O <HI>Massinissa.</HI></L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<LG>
+<L>Peace,</L>
+<L>A silent thinking makes full ioyes increase.</L>
+</LG>
+</SP>
+<STAGE>Enter Lelius.</STAGE>
+<SP>
+<SPEAKER>Le.</SPEAKER>
+<L>Massinissa.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>Lelius.</L>
+</SP>
+<SP>
+<SPEAKER>Le.</SPEAKER>
+<L>Thine eare.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>Stand off</L>
+</SP>
+<SP>
+<SPEAKER>Le.</SPEAKER>
+<LG>
+<L>From <HI>Scipio</HI> thus: by thy late vow of faith,</L>
+<L>And mutuall league of endles amity,</L>
+<L>As thou respects his vertue or Romes force,</L>
+<L>Deliuer <HI>Sophonisba</HI> to our hand,</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>Sophonisba?</L>
+</SP>
+<SP>
+<SPEAKER>Le.</SPEAKER>
+<L>Sophonisba.</L>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<LG>
+<L>My Lord,</L>
+<L>Lookes pale, and from his halfe burst eyes a flame,</L>
+<L>Of deepe disquiet breakes, the Gods turne false,</L>
+<L>My sad presage.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>Sophonisba?</L>
+</SP>
+<SP>
+<SPEAKER>Le.</SPEAKER>
+<L>Euen she,</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<LG>
+<L>Shee kilde not <HI>Scipios</HI> father nor his vnkle,</L>
+<L>Great <HI>Cneius.</HI></L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Le.</SPEAKER>
+<L>Carthage did.</L>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<L>to her whats Carthage?</L>
+</SP>
+<SP>
+<SPEAKER>Le.</SPEAKER>
+<LG>
+<L>Know twas her father <HI>Asdrubal</HI> strooke off</L>
+<L>His fathers head, giue place to faith and fate,</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>Tis crosse to honor.</L>
+</SP>
+<SP>
+<SPEAKER>Le.</SPEAKER>
+<LG>
+<L>But tis iust to state,</L>
+<L>So speaketh <HI>Scipio,</HI> doe not thou detaine,</L>
+<L>A Roman prisoner, due to this great triumph,</L>
+<L>As thou shalt answere Rome and him.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<LG>
+<L><HI>Lelius.</HI></L>
+<L>We now are in Romes power, <HI>Lelius,</HI></L>
+<L>View <HI>Massinissa</HI> do, a loathed act,</L>
+<L>Most sinking from that state his hart did keepe,</L>
+<L>Looke <HI>Lelius</HI> looke, see <HI>Mas<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">inissa</HI> weepe,</L>
+<L>Know I haue made a vow more deere to me,</L>
+<PB REF="26">
+<L>Then my soules endles being: she shall rest,</L>
+<L>Free from Romes bondage.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Le.</SPEAKER>
+<LG>
+<L>But dost thou forget,</L>
+<L>Thy vow yet fresh thus breathd: When I desist:</L>
+<L>To be commaunded by thy vertue: <HI>Scipio,</HI></L>
+<L>Or fall from friend of Rome, Reuenging Gods,</L>
+<L>Afflict me with your torture.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<LG>
+<L><HI>Lelius</HI> enough:</L>
+<L>Salute the Roman, tell him wee will act</L>
+<L>What shall amaze him.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Le.</SPEAKER>
+<L>Wilt thou yeeld her then?</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>Shee shall ariue there straight.</L>
+</SP>
+<SP>
+<SPEAKER>Le.</SPEAKER>
+<LG>
+<L>Best fate of men,</L>
+<L>To thee.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<LG>
+<L>and <HI>Scipio:</HI> Haue I liude O Heauens,</L>
+<L>To be inforcedly perfidious?</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<L>What vniust griefe afflicts my worthy Lord,</L>
+</SP>
+<SP>
+<SPEAKER>Ma</SPEAKER>
+<LG>
+<L>Thanke me yee Gods, with much beholdingnes&punc;</L>
+<L>For marke, I doe not curse you:</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<LG>
+<L>Tell mee sweet</L>
+<L>The cause of thy much anguish.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<LG>
+<L>Ha, the cause?</L>
+<L>Lett's see, wreath backe thine armes, bend down thy necke&punc;</L>
+<L>Practise base Praiers, make fit thy selfe for bondage,</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<L>Bondage.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>Bondage, Roman bondage.</L>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<L>No, No.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>How then haue I vowde well to <HI>Scipio?</HI></L>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<L>How then to <HI>Sophonisba?</HI></L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<LG>
+<L>Right which way</L>
+<L>Runne mad impossible distraction,</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<LG>
+<L>Deere Lord thy patience; let it maze all power,</L>
+<L>And list to her in whose sole heart it rests,</L>
+<L>To keepe thy faith vpright.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>Wilt thou be slau'd,</L>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<L>No free.</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>How then keepe I my faith?</L>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<LG>
+<L>My death&punc;</L>
+<L>Giu's helpe to all: From Rome so rest we free,</L>
+<L>So brought to <HI>Scipio,</HI> faith is kept in thee.</L>
+</LG>
+</SP>
+<STAGE>Enter a Page with a bole of wine.</STAGE>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>Thou darst not die, some wine, thou darst not die.</L>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<LG>
+<L>How neere was I v<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter">to the curse of man, Ioye,</L>
+<L>How like was I yet once to haue beene glad:</L>
+<L>He that neere laught may with a constant face,</L>
+<L>Contemne <HI>Ioues</HI> frowne. Happinesse makes vs base. <STAGE>She takes a bole into which Mas. puts poison.</STAGE></L>
+<L>Behold me <HI>Massinissa,</HI> like thy selfe,</L>
+<L>A king and souldier, and I pree thee keepe,</L>
+<PB REF="27">
+<L>My last command,</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>Speake sweet.</L>
+</SP>
+<SP>
+<SPEAKER>So.</SPEAKER>
+<LG>
+<L>Deere doe not weepe</L>
+<L>And now with vndismaid resolue behold,</L>
+<L>To saue <HI>You, you,</HI> (for honor and iust faith.</L>
+<L>Are most true Gods, which we should much adore)</L>
+<L>With euen disdainefull vigour I giue vp,</L>
+<L>An abhord life. <STAGE>She drinks.</STAGE></L>
+<L>You haue beene good to me,</L>
+<L>And I doe thanke thee heauen, O my stars,</L>
+<L>I blesse your goodnes, that with breast vnstaind,</L>
+<L>Faith pure: a Virgin wife, try'de to my glory,</L>
+<L>I die of female faith, the long liu'de story,</L>
+<L>Secure from bondage, and all seruile harmes,</L>
+<L>But more most happy in my husbands armes.</L>
+</LG>
+</SP>
+<STAGE>she sinks</STAGE>
+<SP>
+<STAGE>Iug.</STAGE>
+<L>Massinissa, Massinissa,</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<LG>
+<L>Couetous</L>
+<L>Fame greedy Lady, could no scope of glory,</L>
+<L>No reasonable proportion of goodnes</L>
+<L>Fill thy great breast, but thou must proue immense</L>
+<L>Incomprehence in vertue, what wouldst thou,</L>
+<L>Not onely be admirde, but euen adorde?</L>
+<L>O glory ripe for heauen? Sirs helpe, helpe, helpe,</L>
+<L>Let vs to <HI>Scipio</HI> with what speed you can.</L>
+<L>For piety make haste, whilst yet we are man.</L>
+</LG>
+</SP>
+<STAGE>Exeunt bearing Soph. in a chaire,</STAGE>
+<STAGE>Cornets, A March, Enter Scipio in full state triumphal or|namentes carried before him and Sy. bound at the other dore Lelius.</STAGE>
+<SP>
+<SPEAKER>Sc.</SPEAKER>
+<LG>
+<L>What answers <HI>Massinissa</HI> will he send,</L>
+<L>That <HI>Sophonisba</HI> of so mouing tongs</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Le.</SPEAKER>
+<LG>
+<L>Full of dismaid vnsteddines he stood,</L>
+<L>His right hand lookt in hers, which hand he gaue</L>
+<L>As pledge from Rome, she euer should liue free</L>
+<L>But when I entred, and well vrg'd this vow</L>
+<L>And thy command his great hart sunke with shame:</L>
+<L>His eyes lost spirite, and his heat of life,</L>
+<L>Sanke from his face, as one that stood benumbde,</L>
+<L>All mazde, t'effect, impossibilities,</L>
+<L>For eyther vnto her or <HI>Scipio,</HI></L>
+<PB REF="27">
+<L>He must breake vow, long time he tossd his thoughts</L>
+<L>And as you see a snow ball being rolde</L>
+<L>At first a handfull, yet long bould about,</L>
+<L>Infensibly acquires a mighty globe,</L>
+<L>So his cold griefe through agitation growes,</L>
+<L>And more he thinkes, the more of griefe he knowes</L>
+<L>At last hee seemde to yeeld her.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Sy.</SPEAKER>
+<LG>
+<L>Marke <HI>Scipio,</HI></L>
+<L>Trust him that breaks a vow?</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Sci.</SPEAKER>
+<L>How the~ trust thee?</L>
+</SP>
+<SP>
+<SPEAKER>Sy</SPEAKER>
+<L>O misdoubt him not, when hee's thy slaue like me</L>
+</SP>
+<STAGE>Enter Massinissa all in black,</STAGE>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<L>Scipio,</L>
+</SP>
+<SP>
+<SPEAKER>Sc.</SPEAKER>
+<L>Massinissa,</L>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<L>Generall.</L>
+</SP>
+<SP>
+<SPEAKER>Sc.</SPEAKER>
+<L>King.</L>
+</SP>
+<SP>
+<SPEAKER>Mas.</SPEAKER>
+<LG>
+<L>Liu's there no mercy for one soule of Carthage</L>
+<L>But must see basenes?</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Sc.</SPEAKER>
+<LG>
+<L>Wouldst thou ioy thy peace,</L>
+<L>Deliuer <HI>Sophonisba</HI> straight and cease,</L>
+<L>Do not graspe that which is too hote to hold,</L>
+<L>We grace thy griefe, and hold it with soft sense.</L>
+<L>Inioy good courage, but voide insolence.</L>
+<L>I tell thee Rome and <HI>Scipio</HI> daine to beare,</L>
+<L>So low a breast as for her say, we feare.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<LG>
+<L>Do not, doe notilet not the fright of Nations</L>
+<L>Know so vile termes. Shee rests at thy dispose</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Sy.</SPEAKER>
+<LG>
+<L>To my soule ioy, shall <HI>Sophonisba</HI> then</L>
+<L>With me go bound and waite on <HI>Scipios</HI> wheele?</L>
+<L>VVhen th'whole worlds giddy one man ca~not reele,</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<LG>
+<L>Starue thy leane hopes, and Romans now behold</L>
+<L>A sight would sad the Gods? make Phaebus cold. <STAGE>Orgaine and Recorders play to a single voice: Enter in the mean time the mournful solemnity of Massinissas presenting Sophon. body:</STAGE></L>
+<L>Looke <HI>Scipio,</HI> see what hard shift we make</L>
+<L>To keepe our vowes; here, take I yeeld her thee,</L>
+<L>And <HI>Sophonisba</HI> I keepe vow thou art still free.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Sy.</SPEAKER>
+<LG>
+<L>Burst my vext heart, the torture that most rackes</L>
+<L>An enimie, is his foes royall actes.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Sc.</SPEAKER>
+<LG>
+<L>The glory of thy vertue liue for euer,</L>
+<L>Braue heartes may be obscur'd, but extinct neuer. <STAGE>Scipio adornes Massinissa.</STAGE></L>
+<L>Take from the Generall of <HI>Rome</HI> this crowne,</L>
+<L>This roabe of triumph, and this conquests wreath</L>
+<PB REF="28">
+<L>This scepter, and this hand for euer breath,</L>
+<L><HI>Romes</HI> very minion: Liue worth thy fame</L>
+<L>As far from faintings as from now base name.</L>
+</LG>
+</SP>
+<SP>
+<SPEAKER>Ma.</SPEAKER>
+<LG>
+<L>Thou whom like sparkling steele the strokes of Chance</L>
+<L>Made hard and firme; and like wild fier turnd</L>
+<L>The more cold fate, more bright thy vertue burnd,</L>
+<L>And in whole seas of miseries didst flame.</L>
+<L>On theelou'd creature of a deathlesse fame <STAGE>Massinissa adornes Sophonisba&punc;</STAGE></L>
+<L>Rest all my honour: O thou for whom I drinke</L>
+<L>So deepe of greefe, that he must onely thinke,</L>
+<L>Not dare to speake) that would expresse my woe,</L>
+<L>Small riuers murmur, deepe gulfes silent flow,</L>
+<L>My griefe is here, not here, heaue gently then,</L>
+<L>Womens right wonder, and iust shame of men.</L>
+</LG>
+</SP>
+<STAGE>Cornets a short florish. Exeuntque, manet Ma.</STAGE>
+</DIV2>
+</DIV1>
+<DIV1 TYPE="epilogue">
+<HEAD>EPILOGVS.</HEAD>
+<LG>
+<L>And now with lighter passion, though with most iust feare</L>
+<L>I change my person, and do hether beare</L>
+<L>Anothers voyce, who with a phrase as weak</L>
+<L>As his deserts now will'd me&punc; (thus form'd) speake,</L>
+</LG>
+<LG>
+<L>If wordes well senc'd, best suting subiect graue,</L>
+<L>Noble true story may once boldly craue,</L>
+<L>Acceptance gratious, if he whose fiers,</L>
+<L>Enuy not others nor him selfe admires.</L>
+<L>If sceans exempt from ribaldrie or rage,</L>
+<L>Of taxinges indiscreet, may please the stage,</L>
+<L>If such may hope applause, he not commandes</L>
+<L>Yet craues as due, the iustice of your hands</L>
+<L>But freely he protests how ere it is,</L>
+<L>Or well or ill, or much, not much amisse,</L>
+</LG>
+<LG>
+<L>With constant modesty he doth submit,</L>
+<L>To all, saue those, that haue more tongue then wit.</L>
+</LG>
+</DIV1>
+</BODY>
+<BACK>
+<DIV1 TYPE="apology in lieu of errata">
+<P>After all, let me intreat my Reader not to taxe me, for the fa|shion of the En<GAP DESC="illegible" RESP="OXF" EXTENT="2 letters">ances and Musique of this Tragidy, for know it is printed onely as it was presented by youths, &amp; after the <GAP DESC="illegible" RESP="OXF" EXTENT="2 letters">shion of the priuate stage. Nor let some easily amended <GAP DESC="illegible" RESP="OXF" EXTENT="1 word"> in the Printing afflict thee sinc<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter"> thy owne discours<GAP DESC="illegible" RESP="OXF" EXTENT="1 letter"> will <GAP DESC="illegible" RESP="OXF" EXTENT="1 span"></P>
+<PB REF="28">
+</DIV1>
+</BACK>
+</TEXT>
+</EEBO>
+</ETS>

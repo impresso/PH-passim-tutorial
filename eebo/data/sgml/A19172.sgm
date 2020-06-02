@@ -1,0 +1,2189 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD EEBOPROOF 2.0//EN">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-08-14</DATE>
+<RESPSTMT>
+<NAME>Judith Siefring</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TYPEs to DIVs in order to validate. Proofed title page(s). Checked for TYPE="book". Checked ^s. Reviewed structure. Checked division-marking material at heads and feet of divisions (HEADS, etc.). Checked for signatures. Checked placement and completeness of PBs. Checked for GAPs, #s, @s. Checked spacing of foreign GAPs. Corrected 51 $s of 71. Converted 20 $s to GAP DESC="illegible" RESP="pdcc". Checked for EPIGRAPHs and ARGUMENTs. Checked for startqs, endqs, oes, q;s, and Qs. Checked proofsheets and made corrections found there. Checked for CLOSERs, TRAILERs, and BYLINEs. DONE.</ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="OX" ID="A19172">
+<STC T="S">5582</STC>
+<BIBNO T="umi">99840774</BIBNO>
+<VID>5304</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1">
+<PB REF="1">
+<P>Penelopes Complaint: Or, A Mirrour for wanton Minions.</P>
+<P>Taken out of Homers Odissea, and written in English Verse, By Peter Colse.</P>
+<P><HI>Armat spina rosas, mella tegunt apes.</HI></P>
+<P>LONDON &para;Printed by <HI>H. Iackson</HI> dwelling in Fleetstreet, and are to be sold at his shop vnder Temple-barre gate. 1596.</P>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="2">
+<PB REF="2">
+<HEAD>To the vertuous and chaste Ladie, the Ladie Edith, wife to the right worship|full Sir Rafe Horsey knight, increase of all honourable vertues.</HEAD>
+<P>_PErusing (vertuous Ladie) a Greeke Author, entituled <HI>Odyssea</HI> (writ|ten by <HI>Homer</HI> prince of Greeke po|ets) noting therein, the chast life of the Ladie <HI>Penelope</HI> (in the twen|tie yeers absence of hir louing lord <HI>Vlysses</HI>) I counterfeited a dis|course, in English verses, terming it her Complaint: which treatise, comming to the view, of cer|taine my special friends, I was by them oftentimes encited to publish it. At length weying with my selfe, the shipwracke that noble vertue chastitie is subiect vnto: and seeing an vn|knowne Author, hath of late published a pamphlet called <HI>A|uisa</HI> (ouerslipping so many praiseworthy matrons, hath regi|stred the meanest: I haue presumed vnder your Ladiships pa|tronage, to commit this my <HI>Penelopes</HI> complaint (though vn|perfectly portraied) to the presse: not doubting but the Etimo|logie of so rare a subiect, enchased with the Physiognomie of your excellent chastitie: so worthie a conclusion cannot but be a sufficient argument, both to abolish <HI>Venus</HI> Idolaters, &amp; also to counteruaile the checkes of <HI>Artizans</HI> ill willers, which carpe at al, but correct nothing at al: measuring other mens labours, by their owne idle humors. Thus offering vn|to your Ladiship the firstlings of my scholers crop for a satis|faction of my presumption, and hoping you wil pardon my boldnes, and accept of this my proffered seruice, I commit you to the grace and tuition of the Almightie.</P>
+<CLOSER><SIGNED>Your Ladiships to commaund PETER COLSE.</SIGNED></CLOSER>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="poem">
+<PB REF="3">
+<HEAD>In commendation of the right Worshipfull sir Raufe Horsey knight.</HEAD>
+<LG>
+<L>S _SWeete Muse strike vp thy siluer string,</L>
+<L>I In shrill consort thy shake but straine,</L>
+<L>R Reflecting peales let <HI>Cosmos</HI> ring,</L>
+<L>R Resound <HI>Apolloes</HI> piercing vaine:</L>
+<L>A Arise and rowse thy selfe with speede,</L>
+<L>V Vse no delay but do the deede.</L>
+</LG>
+<LG>
+<L>F Feare not, for <HI>Momus</HI> nor his mates</L>
+<L>E Encounter dare with rare renowne,</L>
+<L>H Honour with Armes defends the states,</L>
+<L>O Of those whom due desert doth crowne,</L>
+<L>R Recount at large what trump of fame,</L>
+<L>S Sounds in the praise of <HI>Horseu</HI> name.</L>
+</LG>
+<LG>
+<L>E Engraude in golden letters write,</L>
+<L>Y Your censure sage with due aduices</L>
+<L>K Knowne trueth ne snaky enuies spite,</L>
+<L>N Nor wrath can touch in any wise,</L>
+<L>I Into thy Poem though there prie,</L>
+<L>G Grose <HI>Zo<GAP DESC="illegible" EXTENT="1 letter">us</HI> with squinted eie.</L>
+</LG>
+<LG>
+<L>H Harsh, and too rude I must confesse</L>
+<L>T The Poem is to moue delight:</L>
+<L>Yet force of duety would no lesse.</L>
+<L>But it present in open sight:</L>
+<L>For what my wit cannot discharge,</L>
+<L>My will surely supplies at large.</L>
+</LG>
+<LG>
+<L>His valour daunts the valiantst heart,</L>
+<L>His wisedome worthy worship winnes,</L>
+<L>His perfect zeale by due desart</L>
+<L>To highest point of honour climes:</L>
+<L>His hand the sword most iustly guides,</L>
+<L>And therewith causes due decides.</L>
+</LG>
+<LG>
+<L>His wit doth Orphanes wrong redresse,</L>
+<L>His hand relieues the needy heart,</L>
+<L>His word the widowes wo doth ease,</L>
+<L>He double doth reward desart:</L>
+<L>He naught attempts in any case</L>
+<L>Whereby he may incurre disgrace.</L>
+</LG>
+<LG>
+<L>His chiefest care his countries loue,</L>
+<L>His chiefest loue his countries care,</L>
+<L>Whose care considered, well doth proue</L>
+<L>His loue, the countrey cannot spare:</L>
+<L>Whom countriemen do so adore,</L>
+<L>That worship neuer man had more.</L>
+</LG>
+<LG>
+<L>To Prince he true lieutenant is,</L>
+<L>To common weale a faithfull knight,</L>
+<L>Her Grace his seruice cannot misse,</L>
+<L>Nor common weale so wo<GAP DESC="illegible" EXTENT="1 letter">thy a wight:</L>
+<L>Whom <HI>Ioue</HI> to Prince and subiects ioy</L>
+<L>Preserue and keepe from all annoy.</L>
+</LG>
+<CLOSER><SIGNED>P. C.</SIGNED></CLOSER>
+<TRAILER>Finis</TRAILER>
+</DIV1>
+<DIV1 TYPE="poem">
+<PB REF="3">
+<HEAD>An Encomion vpon the right worshipful sir Rafe Horsey knight, and the Lady Edith in Saphic verse.</HEAD>
+<LG>
+<L>_IF merites may true, honour <GAP DESC="illegible" EXTENT="2 letters">taine <GAP DESC="illegible" EXTENT="1 word">,</L>
+<L>Or fame aduance worthy renowmed offspring,</L>
+<L>Les Muses sound forth triple tuned harp estrings,</L>
+<L>vnto their honour.</L>
+</LG>
+<LG>
+<L>Whose louely bloud with fauourable aspect</L>
+<L>Nurture and good fortune enhanceth highly</L>
+<L>Vnto bright heauens generously springing,</L>
+<L>theirs be the glory.</L>
+</LG>
+<LG>
+<L>From farre apart those louely doues did ascend,</L>
+<L>Th'one fro th'east with <HI>Phoebus</HI> arose for our good,</L>
+<L>Th' other of west where <HI>Coronaeus</HI> hardy</L>
+<L>camped in old time.</L>
+</LG>
+<LG>
+<L>Gentle their gentilitie knightly adorned,</L>
+<L>Worthy their worships stately well adopted,</L>
+<L>Humble their humanitie highly graced</L>
+<L>with louely nature.</L>
+</LG>
+<LG>
+<L>Whose diuine deedes and tried hearts true meaning</L>
+<L>Duely commented manifest sequences,</L>
+<L>Happy doubtlesse, worthy no doubt the titles</L>
+<L>of their aliance.</L>
+</LG>
+<LG>
+<L>Whose honours vnburied I will entombe,</L>
+<L>For euerlasting ages to looke vpon,</L>
+<L>Cleare of obscurenesse, free of enuies outrage</L>
+<L>will I defend them.</L>
+</LG>
+<LG>
+<L>Happy my Muses, but vnhappy master,</L>
+<L>That can aduance encomions renowmed</L>
+<L>Of others, obscurely lying in hopes graue</L>
+<L>buried himselfe.</L>
+</LG>
+<LG>
+<L>Yet dying, and dead wil I sing due trophees,</L>
+<L>Then trium<GAP DESC="illegible" EXTENT="1 letter">hs shall stately records eternize,</L>
+<L>My Muse shall euer erect monuments to their praise</L>
+<L>vnto the worldes end.</L>
+</LG>
+<CLOSER><SIGNED>P. C.</SIGNED></CLOSER>
+<TRAILER>FINIS.</TRAILER>
+</DIV1>
+<DIV1 TYPE="poem">
+<PB REF="4">
+<HEAD>In commendation of the vertuous, prudent, and chaste virgin, mistris <HI>Grace Horsey,</HI> daughter to the right Worshipfull, sir <HI>Raph Horsey</HI> knight, and the Ladie Edith.</HEAD>
+<LG>
+<L>G _GLorious Nimph, <HI>Diana<GAP DESC="illegible" EXTENT="1 letter">s</HI> darling deere,</L>
+<L>R Rose-garland dresse of damaske red and white,</L>
+<L>A Adorne thou <HI>Vestaes</HI> shrine, her poesies wea<GAP DESC="illegible" EXTENT="1 letter">e,</L>
+<L>C Conserude with sweete of honor, high delight.</L>
+<L>E Enter the Lyons caue he is thy friend,</L>
+<L>Though Dragon swell saint <HI>George</HI> that thee defend.</L>
+</LG>
+<LG>
+<L>H Hunt as <HI>Diana</HI> did, with <HI>Daphne</HI> flie,</L>
+<L>O Outrunne <HI>Apollo,</HI> trust not to his rage,</L>
+<L>R Repose n<GAP DESC="illegible" EXTENT="1 letter"> trust in <HI>Cupids</HI> deitie,</L>
+<L>S Say <HI>Frusira</HI> to his force, make him thy page.</L>
+<L>E Enchase thou vertue with pearles of grace,</L>
+<L>Y Yongsters may wonder at the enterlace.</L>
+</LG>
+<LG>
+<L>What faire? wise? rich? with grace combind?</L>
+<L>A ioy to al that such a grace behold:</L>
+<L>So rare a sympathie is hard to find,</L>
+<L>A gift with fame worthie to be enrold.</L>
+<L>Beautie and chastitie two deadly foes,</L>
+<L>Liue reconciled in her louely browes.</L>
+</LG>
+<LG>
+<L>Faire: looke on her there dwelleth beauties grace:</L>
+<L>Wise: her wit the wisest doth abash</L>
+<L>Sweete: where is sweete but in her sweetest face:</L>
+<L>Rich: to her store al treasure is but trash.</L>
+<L>A Grace she is with such rare Graces dight,</L>
+<L>Tongue, pen, nor art her grace can shew aright.</L>
+</LG>
+<CLOSER><SIGNED>P. C.</SIGNED></CLOSER>
+<TRAILER>Finis.</TRAILER>
+</DIV1>
+<DIV1 TYPE="poem">
+<PB REF="4">
+<HEAD>Candido Lectori hexastichon.</HEAD>
+<L>EN tibi Penelope prudens, &amp; <GAP DESC="foreign">,</L>
+<L>cuius tot vates nomen vbique canunt.</L>
+<L>Si cupis illius niucos cognoscere mores,</L>
+<L>hunc paruum placido perlege fronte librum.</L>
+<L>Nam de Penelope quae doctus dixit Homerus:</L>
+<L>hic plano &amp; pleno carmine (Lector) habes.</L>
+<CLOSER><SIGNED>Ioannes Mayo.</SIGNED></CLOSER>
+</DIV1>
+<DIV1 TYPE="poem">
+<HEAD>Amico suo charissimo P.C. S.D.</HEAD>
+<L>QVid quarit titulos, quid dotes lactat Auisae.</L>
+<L>Anne ea Penelope est aequiparanda tuae?</L>
+<L>Penelope clara est, veneranda fidelis: Auisae</L>
+<L>obscura, obscuro foemina nata loco.</L>
+<L>Penelope satrapae est. coniux illustris: Auisae</L>
+<L>coniux cauponis, filia pandochei.</L>
+<L>Penelope casta est cum sponsus abesset: Auisae</L>
+<L>casta suo sponso nocte di&eacute;que domi.</L>
+<L>Penelopeia annos bis denos mansit: Auisae</L>
+<L>tot (vix credo) dies intenter ata foret.</L>
+<L>Penelopeia procos contum neglexite&punc; Auisae</L>
+<L>Vix septem pretium sustinuitque precem.</L>
+<L>Penelope neuit, pensum confecit: Auisae</L>
+<L>lassauit nunquam pendula tela manus.</L>
+<L>Penelope Graijs, Latijs celebratur: Auisae</L>
+<L>vnus homo laudes, nomen &amp; acta canit.</L>
+<L>Ergo Penelope vigeat, cantetur: Auisa</L>
+<L>nullo Penelope est aequiualenda modo.</L>
+</DIV1>
+<DIV1 TYPE="to the reader">
+<PB REF="5">
+<HEAD>To the Readers.</HEAD>
+<P>_HAuing taken vpon me (Gentlemen) to pipe with <HI>Hiparchion,</HI> though my mu|sicke be not melodious inough to con|tent the proud <HI>Thessalians,</HI> yet I doubt not but poore shepheards will stirre their stumps after my minstrelsie: If the stranes be too harsh, to delight your stately eares (pardon me and accept my mind, and not my musicke) I stretch my strings as I can, desiring rather to teach the simple their vni|forme cinquepace, then effect Courtiers in their lofty galliards, which alter euery day with new de|uises. The cause I haue contriued so pithie a mat|ter, in so plaine a stile, and short verse, is: for that a vaineglorious <HI>Auisa</HI> (seeking by slaunder of her superiors, to eternize her folly) is in the like verse, (by an vnknowen Authour) described: I follow (I say) the same stile, &amp; verse, as neither misliking the methode, nor the matter, had it beene applyed to some worthier subiect. Thus hoping you wil cour|teously accept my <HI>Penelopes Complaint,</HI> I wil short|ly make you amends with her Will, and Testa|ment, in Pentameters, wherein I wil stretch my wits to Ela, to shew my duetie, and satisfie your de|sires: and so farewell.</P>
+<CLOSER><SIGNED>Peter Colse.</SIGNED></CLOSER>
+</DIV1>
+<DIV1 TYPE="poem">
+<PB REF="5" MS="y">
+<HEAD>Penelopes complaint.</HEAD>
+<DIV2 TYPE="part">
+<HEAD>Penelope complaineth of <HI>Vlysses</HI> departure.</HEAD>
+<LG>
+<L>_YOu Nymphs that <HI>Alcidalions brookes,</HI></L>
+<L>And <HI>Paphos</HI> sportes are dispossest:</L>
+<L>Which want the Sun of louely lookes.</L>
+<L>And are displac'd of <HI>Cupids</HI> crest:</L>
+<L>If you haue tried, loues sweete aspect,</L>
+<L>And do lament, your ioyes defect:</L>
+</LG>
+<LG>
+<L>Surcease, your cases to complaine,</L>
+<L>Your losses leaue so much to mone,</L>
+<L>Alas my loues long lacking paine,</L>
+<L>Is more then yours tenne to one:</L>
+<L>But if you needes will puling sit,</L>
+<L>A pew-mate for you am I fit.</L>
+</LG>
+<LG>
+<L>Let foolish <HI>Phillis</HI> cease to faint,</L>
+<L>And for <HI>Demophoon</HI> leaue to mourne:</L>
+<L>Let <HI>Dido</HI> finish her complaint,</L>
+<L>And faithlesse false <HI>Aeneas</HI> scorne:</L>
+<L>For carelesse wights why do you care,</L>
+<L>And causelesse eke so wofull are?</L>
+</LG>
+<LG>
+<L>Leaue off (I say) those causelesse cares,</L>
+<L>Help me bewaile my wretched woe:</L>
+<L>What neede you shed those ruthlesse teares?</L>
+<L>Your passions but of pleasure grow,</L>
+<L>Oh help me seely soule, relate</L>
+<L>My toilesome lamentable state.</L>
+</LG>
+<LG>
+<PB REF="6">
+<L>My loue (alas) and I loue sicke,</L>
+<L>Ten thousand leagues to warres is gone,</L>
+<L>And me hath left here widdow-like,</L>
+<L>In shiuering bed to lie alone:</L>
+<L>Oh now, vnto my paine I proue,</L>
+<L>A dririe lothsome thing is loue.</L>
+</LG>
+<LG>
+<L>Alacke, how am I gallde with griefe,</L>
+<L>Sith that no where I can behold,</L>
+<L>Those louely lookes that of reliefe,</L>
+<L>The locks and keyes and al do hold:</L>
+<L>Whose smiling cheekes and merrie cheere,</L>
+<L>To pleasure sweete the Porters were.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>She sheweth how <HI>Vlisses</HI> fained himselfe mad at his departure, and how he was bewraied by <HI>Palemedes.</HI></HEAD>
+<LG>
+<L><HI>_VLysses,</HI> my <HI>Vlysses</HI> deare,</L>
+<L>Alacke, alacke, and wel away,</L>
+<L>My bedfellow, my friend and pheere,</L>
+<L><HI>Vlysses</HI> mine is wend away:</L>
+<L>To siege of <HI>Troy,</HI> with heauie cheare,</L>
+<L>Against his wil, I dare to sweare.</L>
+</LG>
+<LG>
+<L>Halfe franticke he (vnwilling wretch)</L>
+<L>And mad almost, himselfe did faine,</L>
+<L>He warily his wit did stretch,</L>
+<L>New nuptiall sport so vext his braine.</L>
+<L>Loue tickled so his louely brest,</L>
+<L>That he (poore soule) could take no rest.</L>
+</LG>
+<LG>
+<PB REF="6" MS="y">
+<L>But oft would stare as one amazde,</L>
+<L>Or as the foule amids the fire:</L>
+<L>Yea, grimly oft on me he gazde,</L>
+<L>His flesh so <GAP DESC="illegible" EXTENT="1 letter">umde with loues desire:</L>
+<L>Alacke how oft did he complaine,</L>
+<L>Loues parting was a pinching paine&punc;</L>
+</LG>
+<LG>
+<L>Woe worth the wretch, that did bewray,</L>
+<L>My good <HI>Vlysses</HI> warie wit:</L>
+<L>Foule fare <HI>Palemedes</HI> I say,</L>
+<L>That so his poysoned venome spit.</L>
+<L>But my <HI>Vlysses</HI> wil ere long,</L>
+<L>Reuenge the villaines spightful wrong.</L>
+</LG>
+<LG>
+<L>Meane while (alas) poore worthles wight,</L>
+<L>I want my hearts most chiefest treasure:</L>
+<L>I leade my life in fansies spight,</L>
+<L>And tarry euer Fortunes leasure.</L>
+<L>I harping sit on Hopes sweete string,</L>
+<L>Till Time <HI>Vlysses</HI> home doth bring.</L>
+</LG>
+<LG>
+<L>Adue my ioy, adue my blisse,</L>
+<L>My comfort, and my deare delight,</L>
+<L>By day I shal his presence misse:</L>
+<L>Much more, his absence in the night.</L>
+<L>Of ioy, of blisse, and sweete delight,</L>
+<L>One man at once, depriude me quight.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<PB REF="7">
+<HEAD>She discommendeth her married estate, and she|weth the toile she indures.</HEAD>
+<LG>
+<L>_AH, what a doting foole was I?</L>
+<L>To marry such a manly mate,</L>
+<L>Well taught (alas) now do I trie,</L>
+<L>Too mery was my maiden-state,</L>
+<L>And Angel-like my virgins life,</L>
+<L>But hellish-like, to be a wife.</L>
+</LG>
+<LG>
+<L>With mangled mind, loues worthles ware,</L>
+<L>(Poore wretch) I haue too deerely bought:</L>
+<L>Like seely b<GAP DESC="illegible" EXTENT="1 letter">rd, I saw the snare,</L>
+<L>Yet foolishly my woe I wrought:</L>
+<L>Woe to my selfe t'was my desire,</L>
+<L>To <HI>Iunoes</HI> hests thus to aspire.</L>
+</LG>
+<LG>
+<L>But sith I would the wanton play,</L>
+<L>And enter into wedded state,</L>
+<L>I wish (but all too late) I say,</L>
+<L>That I had chose some meacocke mate,</L>
+<L>As could haue kept but dogges from dore,</L>
+<L>And not a knight that Armes had bore.</L>
+</LG>
+<LG>
+<L>Well mought I thinke, as now I find,</L>
+<L>That long <HI>Vlysses</HI> could not stay</L>
+<L>In <HI>Venus</HI> court, his martiall mind</L>
+<L>And courage stowt would it gainesay:</L>
+<L>Had I at first had this forecast,</L>
+<L>I neede not thus repent at last.</L>
+</LG>
+<LG>
+<PB REF="7" MS="y">
+<L>Had nature me deformed fac'de,</L>
+<L>Or had I not <HI>Vlysses</HI> seene,</L>
+<L>Or had he neuer me embrac'de,</L>
+<L>Or in his bed had I not beene:</L>
+<L>Then maiden-like had bin my care,</L>
+<L>Not widdowlike, thus neede I fare.</L>
+</LG>
+<LG>
+<L>With distaffe thus I neede not drudge,</L>
+<L>Nor yet with wheele haue worne my hand:</L>
+<L>Nor want of sleepe neede I thus grudge,</L>
+<L>Nor tired thus a-twisting stand,</L>
+<L>Nor yet haue busied thus my braine,</L>
+<L>From hastic sutors to refraine.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Shee accuseth <HI>Hellen</HI> of light consent.</HEAD>
+<LG>
+<L>_OH for those routs of roisters ranke,</L>
+<L>Which do my silly soule assault,</L>
+<L>And for this toile I wel may thanke,</L>
+<L>Dame <HI>Hellen</HI> and her foolish fault:</L>
+<L>Her light consent makes al men say,</L>
+<L>The Grecian dames cannot say nay.</L>
+</LG>
+<LG>
+<L>Had <HI>Hellen</HI> felt my loues long lacke,</L>
+<L>So many wearie winters woe,</L>
+<L>Or sunnie summers lustful wracke,</L>
+<L>As I poore wretched woman do:</L>
+<L>Then had there beene some reason why,</L>
+<L>Her louing pheere she should defie.</L>
+</LG>
+<LG>
+<PB REF="8">
+<L>Or she such troopes of wooers had,</L>
+<L>Or halfe the courting I endure,</L>
+<L>Of saucie suters staring mad,</L>
+<L>Her honours breach for to procure:</L>
+<L>Some would haue thought, loue had her won,</L>
+<L>Not lust, to go with <HI>Priams</HI> sonne.</L>
+</LG>
+<LG>
+<L>To one mans sute she did consent,</L>
+<L>And scarce entreated did she yeeld,</L>
+<L>Vnaskd almost, to bed she went,</L>
+<L>Without repulse, she fled the field.</L>
+<L>O vile, vnconstant, fickle dame,</L>
+<L>Vnworthie worthie womens name.</L>
+</LG>
+<LG>
+<L>How wil Sir <HI>Paris</HI> vaunt at <HI>Troy</HI>?</L>
+<L>Of his successe, how wil he boast?</L>
+<L>(Wel let him heed amidst his ioy,</L>
+<L>Lest <HI>Menelaus</HI> marre his roast)</L>
+<L>Both <HI>Troy,</HI> and <HI>Greece</HI> may wel repent,</L>
+<L>Thy peremptorie light consent.</L>
+</LG>
+<LG>
+<L>Fie, what were al your frumps forgot?</L>
+<L>Where were your chaste and chary lookes?</L>
+<L>Were you so farre with fansie shot,</L>
+<L>To trust to beauties hidden hookes?</L>
+<L>Where were your sharpe conceited shifts,</L>
+<L>Your wittie, subtle, shrewish drifts?</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<PB REF="8" MS="y">
+<HEAD>She controlleth <HI>Hellen</HI> for her ill example.</HEAD>
+<LG>
+<L>_HOw dar'st thou looke the <HI>Greekes</HI> in fact,</L>
+<L>When they at <HI>Troy</HI> shal with thee meete?</L>
+<L>Alas, with what disguised grace,</L>
+<L>Wilt thou thy wedded husband greete?</L>
+<L>Alacke, it would haue burst my heart,</L>
+<L>If I had played such a part.</L>
+</LG>
+<LG>
+<L>Fie, <HI>Hellen</HI> fie: thou womans foe,</L>
+<L>Foule fare thy frensie foolish fal:</L>
+<L>Thy wantonnes hath wrought our woe,</L>
+<L>Oh, this thy fault hath shamde vs al.</L>
+<L>Thy follie doth vs crucifie:</L>
+<L>This foule defame can neuer die.</L>
+</LG>
+<LG>
+<L>A thousand prettie damsels peart,</L>
+<L>Haue cause to curle this fact of thine!</L>
+<L>A thousand thousand in their heart,</L>
+<L>Wil wish that <HI>Hellen</HI> had not beene:</L>
+<L>Thy giggish tricke, thy queanish trade,</L>
+<L>A thousand Bridewel birds hath made.</L>
+</LG>
+<LG>
+<L>Thy foule example works such force,</L>
+<L>The brau'st thereby to lust are bent:</L>
+<L>The rich as bad as poore, or worse,</L>
+<L>To brothell houses do frequent.</L>
+<L>False play (say they) is no offence,</L>
+<L>For <HI>Hellen</HI> exercisde it once.</L>
+</LG>
+<LG>
+<PB REF="9">
+<L>This made faire <HI>Ioane</HI> of <HI>Naples</HI> queene,</L>
+<L>So wantonly to tread awry,</L>
+<L>And <HI>Messaline</HI> for to be seene,</L>
+<L>Those tricks in common stowes to trie.</L>
+<L>This damned deede that thou hast done,</L>
+<L>May infants curse that are vnborne.</L>
+</LG>
+<LG>
+<L>Thy toy is growne to such a trade,</L>
+<L>That few or none wil wiue and wed,</L>
+<L>So common now the vse is made,</L>
+<L>That lust, not loue, brings brides to bed.</L>
+<L>For few wil houshold charge endure:</L>
+<L>That Palliardice do put in vre.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Against <HI>Paris</HI> and his trecherie.</HEAD>
+<LG>
+<L>_ALacke how could Sir <HI>Paris</HI> flie,</L>
+<L>His countrey and his owne true loue?</L>
+<L>What heart had he, how durst he trie,</L>
+<L>From natiue soile thus to remoue?</L>
+<L>What had his loue <HI>Oenone</HI> done?</L>
+<L>That he so retchles from her runne.</L>
+</LG>
+<LG>
+<L>What furie forc'd his franticke head?</L>
+<L>To <HI>Troy</HI> had <HI>Hellens</HI> beautie rung?</L>
+<L>What, was he sure at first to speede?</L>
+<L>That thither in such haste he flung?</L>
+<L>Was he so resolute and rash,</L>
+<L>No princely port could him abash?</L>
+</LG>
+<LG>
+<PB REF="9" MS="y">
+<L>What (Deuil) set his ships on saile,</L>
+<L>And hither sent the leachers band?</L>
+<L>Could he vnto no harbour haile,</L>
+<L>But thus at <HI>Lacedemon</HI> land?</L>
+<L>Was there no place for to arriue?</L>
+<L>Must needs the wind him hither driue?</L>
+</LG>
+<LG>
+<L>I would his mother had not knowne,</L>
+<L>His father <HI>Priam,</HI> or that she,</L>
+<L>So foule a firebrand had not borne,</L>
+<L>As he to <HI>Troy</HI> is like to be:</L>
+<L>Would she had dreamed of his death,</L>
+<L>Or wisely she had stopt his breath.</L>
+</LG>
+<LG>
+<L>I would that he had not beene borne,</L>
+<L>Or seas had sunke him downe to hel,</L>
+<L>Would tempests had his tackling torne,</L>
+<L>Or he on craggie rocks had fell:</L>
+<L>Would sea hagges had transformd his hue</L>
+<L>Ere euer <HI>Hellen</HI> did him vew.</L>
+</LG>
+<LG>
+<L>I would (I wish with al my heart)</L>
+<L>That <HI>Leacher</HI> he my ghest had beene,</L>
+<L>I would haue better plaid my part,</L>
+<L>Then did the brainsicke doting queene:</L>
+<L>Had he but sought <HI>Vlysses</HI> place,</L>
+<L>These fingers should haue flead his face.</L>
+</LG>
+<LG>
+<PB REF="10">
+<L>Then should sir <HI>Paris</HI> soone haue felt,</L>
+<L>The furie of my chast desires,</L>
+<L><HI>Vlysses</HI> seene how I had delt,</L>
+<L>The dole that lawles loue requires.</L>
+<L>My good <HI>Vlysses</HI> had beene sure,</L>
+<L>How faithful alwaies I endure,</L>
+</LG>
+<LG>
+<L>My heart had not thus sacrifizde,</L>
+<L>Nor yet such woful incense sent:</L>
+<L>Sorrow had me not thus surprizde,</L>
+<L>Then had I liu'd at hearts content:</L>
+<L>In corners darke I neede not creepe,</L>
+<L>Lie downe to waile, and rise to weepe.</L>
+</LG>
+<LG>
+<L>The world had not felt my outcries,</L>
+<L>The aire my sighes, the earth my teares,</L>
+<L>My prayers had not pearst the skies,</L>
+<L>Nor troubled so celestial eares:</L>
+<L>But sighes and prayers are in vaine,</L>
+<L>My Lord sith they bring not againe.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD><HI>Antinous</HI> interrupting her sighing, offereth his suit.</HEAD>
+<LG>
+<L>FIe Ladie fie: why sigh you so?</L>
+<L>Be of good cheare, what neede you fray</L>
+<L>Those heart bloud suckers wrecke your woe,</L>
+<L>Those farfetcht sighes loues want bewray,</L>
+<L>Heigh ho againe: alas for woe,</L>
+<L>To whom shal this sweete message go.</L>
+</LG>
+<LG>
+<PB REF="10" MS="y">
+<L>Extirpe the monster out of mind,</L>
+<L>Those passions al tread vnder foote,</L>
+<L>Sith that <HI>Vlysses</HI> proues vnkind,</L>
+<L>From of your heart the traitor roote:</L>
+<L>Who would take care for such a knight,</L>
+<L>That leaues his loue in field to fight?</L>
+</LG>
+<LG>
+<L>Let not loues want disturbe your head,</L>
+<L>For by the Stygian lake I sweare:</L>
+<L>I am a Lord, I will thee wed,</L>
+<L>My faith and troth shal soone appeare:</L>
+<L>Else wil I rest your secret friend,</L>
+<L>Those louesicke motions to amend.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Her answere to her wooers.</HEAD>
+<LG>
+<L>_MY Lord: for me take you no care,</L>
+<L>My loues losse I my selfe wil mourne:</L>
+<L>I wonder you so witlesse are,</L>
+<L>To trie by force, the streame to tourne:</L>
+<L>What though my loue doth time prolong,</L>
+<L>With shame shal I requite the wrong?</L>
+</LG>
+<LG>
+<L>Shame followes sinnne, as beames the sunne,</L>
+<L>Amisse wil out though closely done:</L>
+<L>Folly diffame can neuer shunne,</L>
+<L>Reproach breaks out vnthought vpon</L>
+<L>My countenance would me bewray,</L>
+<L>If I amisse should do or say.</L>
+</LG>
+<LG>
+<PB REF="11">
+<L>Shall I my soules shipwracke procure?</L>
+<L>Shal hateful slander spot my name?</L>
+<L>Shall faire speech me to lust allure?</L>
+<L>With pleasure shal I purchase shame?</L>
+<L>Ile rather pine in my complaint,</L>
+<L>Then shame shal crowne me <HI>Cupids</HI> saint.</L>
+</LG>
+<LG>
+<L>I can but thanks afford for loue,</L>
+<L>Your good will for to gratifie:</L>
+<L>Your practise meane I not to proue,</L>
+<L>Your secret friendship I defie,</L>
+<L>Sith (Lordings) you haue misst your aime,</L>
+<L>Leaue off in time, those toyes reclaime.</L>
+</LG>
+<LG>
+<L>For why? it neuer shal be said,</L>
+<L><HI>Penelope</HI> did tread awry:</L>
+<L>Not truely told, she false hath playde,</L>
+<L>Or spotted her pure chastitie.</L>
+<L>My lords, I loath your wanton lure,</L>
+<L>Your faith shal not my fall procure.</L>
+</LG>
+<LG>
+<L>Therefore my Lords and louers al,</L>
+<L>Let me this at your hands obtaine:</L>
+<L>(For feare of that which may befall)</L>
+<L>That you my house a while refraine:</L>
+<L>Vntil my towe be at an end,</L>
+<L>Then I with speede wil for you send.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<PB REF="11" MS="y">
+<HEAD>She complaineth of her wooers misrule, and feareth to write to <HI>Vlysses,</HI> for putting him in a ielousie.</HEAD>
+<LG>
+<L>_WHat shall I say? what shall I doo?</L>
+<L>How diuersly am I perplext?</L>
+<L>With lustie gallants that mee woo,</L>
+<L>How am I silly woman vext?</L>
+<L>What shall I to those roisters say,</L>
+<L>That shameles tempt me night and day?</L>
+</LG>
+<LG>
+<L>From <HI>Samos</HI> sutors to me post,</L>
+<L>And <HI>Zacinth</HI> cutters do me court:</L>
+<L>Besides those of our <HI>Ithac</HI> coast,</L>
+<L>Lads of <HI>Dulichium</HI> do resort.</L>
+<L>What shall I do? what shal I say?</L>
+<L>Those stately gamsters brooke no nay.</L>
+</LG>
+<LG>
+<L>My good <HI>Vlysses</HI> goods they waste,</L>
+<L>And me poore wretch, do they torment:</L>
+<L>Lord-like forsooth is their repast,</L>
+<L>When he poore man is wel content,</L>
+<L>At siege of <HI>Troy,</HI> with souldiers fare,</L>
+<L>Vnwitty of my wofull care.</L>
+</LG>
+<LG>
+<L>If I should to <HI>Vlysses</HI> write,</L>
+<L>And shew him of their careles coyle,</L>
+<L>How earnestly they me incite,</L>
+<L>My constant faith, and troth to foyle:</L>
+<L>I might breede Bees nests in his braine,</L>
+<L>And put him in a ielous vaine.</L>
+</LG>
+<LG>
+<PB REF="12">
+<L>For he is wise, he wil suspect,</L>
+<L>My lightnesse breedes their fond desire,</L>
+<L>Some cause he'le thinke, doth adde effect.</L>
+<L>No smoake appeares without some fire:</L>
+<L>So seldome is there feruent loue,</L>
+<L>But where some kindnes doth it moue.</L>
+</LG>
+<LG>
+<L>Then may he presently for spight</L>
+<L>Acquaint him with some forrein fro:</L>
+<L>My slut (saith he) I wil requite,</L>
+<L>Sith she at home doth serue me so,</L>
+<L>Since so vnrulie she doth range,</L>
+<L>Brow antlers with her Ile exchange,</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>She wisheth <HI>Vlisses</HI> to beware of the cruel Troians.</HEAD>
+<LG>
+<L>_NO, no, my gem and sweetest ioy,</L>
+<L>Thou shalt not neede for me to care,</L>
+<L>Thou busines hast enough at <HI>Troy,</HI></L>
+<L>Looke wisely to thy owne welfare,</L>
+<L>For <HI>Troy</HI> yeeldes many a dogged lad,</L>
+<L>Which makes me sighing sit thus sad.</L>
+</LG>
+<LG>
+<L>Ah how doth feare affright my heart?</L>
+<L>I dreade and yet I neede not doubt,</L>
+<L>Though froward fortune doth him thwart,</L>
+<L>He's warie, valiant, yea and stout,</L>
+<L>And beares the minde he will not stoupe:</L>
+<L>For proudest he in <HI>Troian</HI> troupe.</L>
+</LG>
+<LG>
+<PB REF="12" MS="y">
+<L>Yet (Heartagold) restraine thy heat,</L>
+<L>Be not too forward on thy foes,</L>
+<L>Ah (trueloue) let me thee intreate,</L>
+<L>Be not the first at bloudie blowes:</L>
+<L>Though of thy selfe no care thou make:</L>
+<L>Yet (sweete) of me, some pittie take.</L>
+</LG>
+<LG>
+<L>Beware of hugy <HI>Hectors</HI> hand,</L>
+<L>To swifty <HI>Dolon</HI> take good heede:</L>
+<L>What needst thou fight, which maist command,</L>
+<L>Thy souldiers for to do the deede?</L>
+<L>Let them God <HI>Mars</HI> his mercie trie,</L>
+<L>Stand backe and come not thou too nie.</L>
+</LG>
+<LG>
+<L>Giue <HI>Menelaus</HI> leaue to fight,</L>
+<L>The cause is his, he had the wrong,</L>
+<L>And <HI>Agamemnon</HI> worthie knight,</L>
+<L>The quarrel doth to them belong:</L>
+<L>Let fiery <HI>A<GAP DESC="illegible" EXTENT="1 letter">ax</HI> fight his fill,</L>
+<L>But (if thou loue me) stand thou still.</L>
+</LG>
+<LG>
+<L>Ah let thy consort <HI>Diomede,</HI></L>
+<L>And stout <HI>Achilles</HI> battel wage:</L>
+<L>Let hardy <HI>Hercules</HI> at neede,</L>
+<L>His swelling furie there asswage:</L>
+<L>From battel (sweete) do thou desist,</L>
+<L>Loue thou, and let them fight that list.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<PB REF="13">
+<HEAD>Her supplication to the Gods.</HEAD>
+<LG>
+<L>_THou <HI>Ioue,</HI> Lord of <HI>Olympus</HI> hie,</L>
+<L>If thou wilt heare poore widows griefe,</L>
+<L>Looke down with thy transplendant eie,</L>
+<L>And yeeld vs wretches due reliefe:</L>
+<L>Our loues, our liues, and destinie,</L>
+<L>Do on thy Princely powre relie.</L>
+</LG>
+<LG>
+<L>And thou <HI>Apollo,</HI> which in fight,</L>
+<L>With Thunderclaps, didst <HI>Cyclops</HI> quell:</L>
+<L>In <HI>Greekes</HI> iust quarrel shew thy might,</L>
+<L>Raze and confound those <HI>Troians</HI> fell:</L>
+<L>Which wrong vs with their villanie,</L>
+<L>And triumph in their tyranny.</L>
+</LG>
+<LG>
+<L>And <HI>Iuno</HI>: we do thee implore,</L>
+<L>To tender our vnworthy wrong:</L>
+<L>To vs, our wedded mates restore,</L>
+<L>For we, (alas) haue lackt them long:</L>
+<L>With speede let them returne againe,</L>
+<L>Lest we our bridall beds do staine.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<PB REF="13" MS="y">
+<HEAD>She accuseth <HI>Menelaus</HI> of folly, for making warres for <HI>Hellen.</HI></HEAD>
+<LG>
+<L>_WAs not Prince <HI>Menelaus</HI> mad,</L>
+<L>For strumpet thus to leuie armes?</L>
+<L>This makes the wanton woman glad,</L>
+<L>Yea: she will laugh at those alarmes:</L>
+<L>For war's a play-game, they suppose,</L>
+<L>That neuer tasted bloudie blowes.</L>
+</LG>
+<LG>
+<L>Who would in warres his person trust,</L>
+<L>Which safe in peace at pleasure swimmes?</L>
+<L>For paltrie giglet so vniust,</L>
+<L>What Prince would hazard life and lims?</L>
+<L>At push of pike, assoone doth light,</L>
+<L>A wound on Prince, as worthles wight.</L>
+</LG>
+<LG>
+<L>What if the <HI>Grecians</HI> haue the foile?</L>
+<L>(As warres euent vncertaine is)</L>
+<L>How wil she glorie at thy spoile?</L>
+<L>Thy bane wil be to her a blisse:</L>
+<L>Then shal we widdowes wearie worne,</L>
+<L>A fresh begin to waile and mourne.</L>
+</LG>
+<LG>
+<L>Put case the <HI>Troians</HI> haue the worst,</L>
+<L>(As we al wish for <HI>Hellens</HI> sake)</L>
+<L>The silly people then accurst,</L>
+<L>With outcries wil the aire shake:</L>
+<L>Then shall they wretches dearely buy,</L>
+<L>Their prinkox <HI>Paris</HI> trecherie.</L>
+</LG>
+<LG>
+<PB REF="14">
+<L>What ghastly groanes, wil dead men giue?</L>
+<L>How wil the maimed howling lie?</L>
+<L>How wil the aged fathers grieue?</L>
+<L>How wil the silly infants crie?</L>
+<L>And widdowes (in worst case of al)</L>
+<L>How wil they for their husbands call?</L>
+</LG>
+<LG>
+<L>From fire and sword shal few be free,</L>
+<L>With famine some shal hunger-starue:</L>
+<L>The virgins they deflowr'd shalbe,</L>
+<L>(The Lord vs from such state preserue)</L>
+<L>It grieues my heart to shew the paine,</L>
+<L>They for a strumpet shall sustaine.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>She sheweth <HI>Vlysses</HI> worthines.</HEAD>
+<LG>
+<L><HI>_VLysses</HI> deare, the Gods thee shield,</L>
+<L>And send thee home wel to retourne,</L>
+<L>For loue to thee they all may yeeld,</L>
+<L>Thy like in loue was neuer borne:</L>
+<L>So Angel-like did shine thy face,</L>
+<L>It was a blisse thee to embrace.</L>
+</LG>
+<LG>
+<L>Alacke he was the worthiest,</L>
+<L>The gentlest, and the meck'st of mind:</L>
+<L>The truest, and the faithfullest,</L>
+<L>That of a thousand I could finde:</L>
+<L>The wisest and the wariest,</L>
+<L>And one I lou'd and liked best.</L>
+</LG>
+<LG>
+<PB REF="14" MS="y">
+<L>Ah, good <HI>Vlysses</HI> was my trust,</L>
+<L>With him contented still I stood,</L>
+<L>He hath my loue in clay and dust:</L>
+<L>Ile die for him to do him good.</L>
+<L>To him I gaue my heart and hand:</L>
+<L>Therefore both vow and gift shal stand.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>She bewailes the want of <HI>Vlysses</HI> in the night.</HEAD>
+<LG>
+<L>_ALacke how loathsome is my bed?</L>
+<L>How sore for sleepe my eielids chim?</L>
+<L>What phantasies possesse my head?</L>
+<L>How palsy-sicke is euery lim?</L>
+<L>Such shiuerring ague-fits me shake,</L>
+<L>As make my very heart to quake.</L>
+</LG>
+<LG>
+<L>Such vgly shapes doth <HI>Morpheus</HI> shew,</L>
+<L>Such hips and hawes, and sudden care,</L>
+<L>Doth of those vaine illusions grow,</L>
+<L>Which dreaming represented are:</L>
+<L>Sometimes I sigh, sometimes I start,</L>
+<L>Such terror doth torment my heart.</L>
+</LG>
+<LG>
+<L>I want (poore wretch) in darkesome night,</L>
+<L>The comfort of my dearest friend:</L>
+<L>My sorrowes leach, my hearts delight,</L>
+<L>Whose verie sight my griefe would end:</L>
+<L>Whom if I mought but once embrace,</L>
+<L>I sure should be in happie case.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<PB REF="15">
+<HEAD>Shee sheweth her defect of beautie.</HEAD>
+<LG>
+<L>Alas how tawnie am I turnd?</L>
+<L>How am I wretch transformd in hue?</L>
+<L>How am I scorched, and sunburnd?</L>
+<L>A gastly creature for to vew:</L>
+<L>A mirror I, for beautie was,</L>
+<L>But now a mouster, for disgrace.</L>
+</LG>
+<LG>
+<L>My skinne that cleare as christal was,</L>
+<L>My cheekes that crimson silke did staine,</L>
+<L>My eies like bright transplendant glasse,</L>
+<L>My browes, fraught with each prettie vaine:</L>
+<L>My skinne, my cheeks, my eies and browes,</L>
+<L>Are like to soot, in smoaky house.</L>
+</LG>
+<LG>
+<L>Ah when to <HI>Troy</HI> my true-loue wend,</L>
+<L>He left me shining maiden like,</L>
+<L>But when that he doth backward bend,</L>
+<L>He sure shal find-me beldam-like:</L>
+<L>But <HI>Ioue</HI> I thanke thy glorious grace,</L>
+<L>For this my wrinkling sorrowed face.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD><HI>Penelope</HI> warneth her maides to beware of hot affection.</HEAD>
+<LG>
+<L>AH damsels deare, which see the care,</L>
+<L>Of mistres yours <HI>Penelope</HI>:</L>
+<L>And see how fowly I do fare,</L>
+<L>Be ruld, and take this reede of me:</L>
+<L>Hast not too soone for wedded charge,</L>
+<L>Lest that you wish you liu'd at large:</L>
+</LG>
+<LG>
+<PB REF="15" MS="y">
+<L>Of hot affection eke take heede,</L>
+<L>For often I haue heard it told,</L>
+<L>That hastie liking hath slow speede,</L>
+<L>And loue soone hot, is quickly cold:</L>
+<L>And those that woo, ere wise they are,</L>
+<L>Are won sometime, ere they beware.</L>
+</LG>
+<LG>
+<L>The virgins state, I must confesse,</L>
+<L>Is too too tedious for to beare:</L>
+<L>But widdowes state exceedes excesse,</L>
+<L>So fickle and so fraught with feare:</L>
+<L>Wherefore see that you maides remaine,</L>
+<L>Of euils take the least of twaine.</L>
+</LG>
+<LG>
+<L>For if you (wantons) wedded were,</L>
+<L>(As yet you farre vnworthie are,)</L>
+<L>To one that with my wedded pheere,</L>
+<L>Might euerie way for worth compare:</L>
+<L>What pleasure of him can you take,</L>
+<L>If he your companie forsake.</L>
+</LG>
+<LG>
+<L>Put case that you (my prettie ones)</L>
+<L>Should match with such a brainsicke boy:</L>
+<L>As would not sticke to baste your bones,</L>
+<L>What then? where were your bridall ioy?</L>
+<L>Then might you wish, but al in vaine,</L>
+<L>That you vnwedded were againe.</L>
+</LG>
+<LG>
+<PB REF="16">
+<L>Thus if you wed a worthie knight,</L>
+<L>Then of his death you still wil doubt,</L>
+<L>And if you haue a wretched wight:</L>
+<L>Then wil you wish, his braines were out:</L>
+<L>But either ill for to preuent,</L>
+<L>I wish you vnto none consent.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>The speech of her wooers.</HEAD>
+<LG>
+<L>_AH Princely nymph <HI>Penelope,</HI></L>
+<L>A goddesse, were thou not to coy,</L>
+<L><HI>Pallas</HI> may not compare with thee,</L>
+<L>Nor <HI>Venus</HI> with her blinded boy,</L>
+<L><HI>Mycene</HI> could not thy craft fulfill,</L>
+<L>Nor had <HI>Al<GAP DESC="illegible" EXTENT="1 letter">mena</HI> halfe thy skill.</L>
+</LG>
+<LG>
+<L>Say (sweete <HI>Icarius</HI> daughter deare)</L>
+<L>Do thou no longer vs delay,</L>
+<L>Whom wilt thou take to wedded Pheere,</L>
+<L>That al the rest may post away.</L>
+<L>Either say yea, or else denie:</L>
+<L>Thou must take one, or al defie.</L>
+</LG>
+<LG>
+<L>No worthles wight shal with thee wed,</L>
+<L>Though thou the worst amongst vs chuse,</L>
+<L>Feare not: <HI>Vlysses</HI> he is dead:</L>
+<L>Shew reason if thou vs refuse:</L>
+<L>Say, if thou loathe our Parentage,</L>
+<L>Or dost dislike our personage.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<PB REF="16" MS="y">
+<HEAD>Her answere to her sutors.</HEAD>
+<LG>
+<L>_MY louely youthes, and Lordings all,</L>
+<L>As I haue said, so say I still:</L>
+<L>I can but thanke you great and small,</L>
+<L>For this your kindnes and good will.</L>
+<L>It grieues me (Gallants) to the heart,</L>
+<L>I cannot grant you your desart.</L>
+</LG>
+<LG>
+<L>I loue you all, I do protest,</L>
+<L>As did <HI>Diana Phoebus</HI> faire,</L>
+<L>Who of al woodmen, likde him best,</L>
+<L>But when he lou'd, to loathe him sware:</L>
+<L>So you as friends, I entertaine,</L>
+<L>But louers, I you al disdaine.</L>
+</LG>
+<LG>
+<L>Yea though my loue his bane hath bought,</L>
+<L>(As Gods forebode) yet must you stay,</L>
+<L>Vntil my web be fully wrought,</L>
+<L>For why the world shal neuer say:</L>
+<L>That such a worthie knight as he,</L>
+<L>without a shrowde should buried be.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>The wooers aduised <HI>Telemachus, Vlysses</HI> son, to put his mother out of doore, and inherit the land.</HEAD>
+<LG>
+<L><HI>_TElemachus,</HI> thou foolish lad,</L>
+<L>A Lord thou were, if thou hadst wit:</L>
+<L>Thou hear'st thy father he is dead,</L>
+<L>And we thy friends al can proue it:</L>
+<L>Wherefore it now doth thee behoue,</L>
+<L>That thou thy mother dost remoue.</L>
+</LG>
+<LG>
+<PB REF="17">
+<L>Why dost thou not thy birthright claime,</L>
+<L>And turne the beldame out of doore?</L>
+<L>Thou seest al we at her do aime,</L>
+<L>To do vs right, we thee implore:</L>
+<L>If from thy house, thou her expell,</L>
+<L>We would her wed, and al were wel.</L>
+</LG>
+<LG>
+<L>With scoffing cardes she doth vs load,</L>
+<L>And with faire speeches vs delay:</L>
+<L>And woodcocke-like leades vs to roade,</L>
+<L>Yea like tame fooles, she makes vs stay:</L>
+<L>Thou art the onely cause of this,</L>
+<L>Therefore amend that is amisse.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD><HI>Telemachus</HI> answere to the wooers.</HEAD>
+<LG>
+<L>_ANd is this al that you can say?</L>
+<L>Is this the counsel that you vse?</L>
+<L>Do you your parents so obey?</L>
+<L>Can you your mothers so abuse?</L>
+<L>No force: my father shal not find,</L>
+<L>His <HI>Telemac,</HI> so much vnkind.</L>
+</LG>
+<LG>
+<L>For let my father liue or die,</L>
+<L>If I my mother ill intreate:</L>
+<L>Why then my Graundsire <HI>I cary,</HI></L>
+<L>With vengeance (surely) wil me threat.</L>
+<L>I feare if I should her offend,</L>
+<L>The Lord short life would to me lend.</L>
+</LG>
+<LG>
+<PB REF="17" MS="y">
+<L>Your companies I well could spare:</L>
+<L>Pardon me if I fret and fume,</L>
+<L>I see right little do you care,</L>
+<L>How you my fathers goods consume:</L>
+<L>Except you better you behaue,</L>
+<L>Your absence shortly let me craue.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>She debateth with her selfe of marriage.</HEAD>
+<LG>
+<L>_NOw may I leaue, now may I take,</L>
+<L>Now may I loue, now may I hate,</L>
+<L>I now may chuse, I may forsake,</L>
+<L>Twixt yea, and nay, stands my estate:</L>
+<L>Now may I marrie, for my case,</L>
+<L>Or else may tarrie if I please.</L>
+</LG>
+<LG>
+<L>My husband (hardly) is aliue:</L>
+<L>And though aliue, yet ten to one,</L>
+<L>If euer here he do arriue:</L>
+<L>What foole so long would lie alone?</L>
+<L>Who would a widdow stay so long,</L>
+<L>And nature of her right thus wrong?</L>
+</LG>
+<LG>
+<L><HI>Antinous</HI> my loue doth seeke,</L>
+<L>(A gallant Lordly minded lad)</L>
+<L>And <HI>Eurymac</HI> (fac'd Angel-like)</L>
+<L>To win my loue would be right glad:</L>
+<L>Sith with such sutors I am sped,</L>
+<L>Why should I not poore widdow wed.</L>
+</LG>
+<LG>
+<PB REF="18">
+<L>My father wils me for to wed,</L>
+<L>And that shal stand for my excuse:</L>
+<L>What though I foyle my bridall bed&punc;</L>
+<L><HI>Vlysses</HI> will me not refuse.</L>
+<L>And when againe he doth retourne,</L>
+<L>What care I though he do me scorne.</L>
+</LG>
+<LG>
+<L>But deuilish wretch, how do I dote?</L>
+<L>What hellish hag doth me possesse?</L>
+<L>What? shal I sing <HI>Medeas</HI> note?</L>
+<L>Know good, and follow nothing lesse:</L>
+<L>Shall I that yong a saint haue seemd,</L>
+<L>In age a deuill right be deemd.</L>
+</LG>
+<LG>
+<L>No, no, my constant chastitie,</L>
+<L>The world throughout about shal ring&punc;</L>
+<L>In prayse of chast <HI>Penelope,</HI></L>
+<L>From time, to time, shal al men sing:</L>
+<L>My fame shall mount vnto the skie,</L>
+<L>When <HI>Hellens</HI> vile defamd shall die:</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Her commendation of chastitie.</HEAD>
+<LG>
+<L>_O Chastitie, the cheefest kay,</L>
+<L>Of womens worthie treasury:</L>
+<L>A vertue that's of virgines gay,</L>
+<L>The pure and redoubted dowry.</L>
+<L>A poesy springing fresh for aye,</L>
+<L>A flowre that neuer can decay.</L>
+</LG>
+<LG>
+<PB REF="18" MS="y">
+<L><HI>Diana</HI> it did beautifie,</L>
+<L>And her among the gods enroll:</L>
+<L>And <HI>Gammede</HI> her chastitie,</L>
+<L>Did to the heauens hie extoll.</L>
+<L><HI>Zenobia</HI> with her maiden might,</L>
+<L>Did ramping Lyons put to flight&punc;</L>
+</LG>
+<LG>
+<L>When lawles loue, to luckles end,</L>
+<L>A thousand, thousand, daily brings,</L>
+<L><HI>Diana</HI> to the woodes doth wend,</L>
+<L>And sweetely with hir damsels sings,</L>
+<L><HI>Diana-like,</HI> I wil disdaine,</L>
+<L>Both louers ioy, and louers paine.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>The complaint of her waiting women against the wooers.</HEAD>
+<LG>
+<L>_Ah Madame, if you loue your life,</L>
+<L>Or do regard your chastitie:</L>
+<L>If you wil be <HI>Vlysses</HI> wife,</L>
+<L>Or tender your poore familie:</L>
+<L>Those helhounds al with speede expell,</L>
+<L>Which of your house do make a hel.</L>
+</LG>
+<LG>
+<L><HI>Antinous</HI> he sweares and stares,</L>
+<L>By al the othes he can deuise,</L>
+<L>If you come not, he vnawares,</L>
+<L>Wil you salute in shamefull wise.</L>
+<L>Foule shame shal take them al and some.</L>
+<L>Ere I againe amongst them come.</L>
+</LG>
+<LG>
+<PB REF="19">
+<L>For madame they haue me defilde,</L>
+<L>with cruel shameles villanie:</L>
+<L>Alas I feare I am with childe,</L>
+<L>With trusting to their tyrany.</L>
+<L>Oh would to God I buried were,</L>
+<L>I am so tost with doubtful feare.</L>
+</LG>
+<LG>
+<L>They are so dronken al with wine,</L>
+<L>They care not what they say or do:</L>
+<L>(Sauing your presence) where they dine,</L>
+<L>They do discharge their stomackes too.</L>
+<L>And al that euer they inuent,</L>
+<L>Is but to haue vs wretches shent.</L>
+</LG>
+<LG>
+<L>One sings, <HI>Vlysses</HI> sure is dead,</L>
+<L>Another saies, he feedes the fish,</L>
+<L>Another at him stakes his head,</L>
+<L>Another doth him euil wish.</L>
+<L>Yea some your strangers ill intreate,</L>
+<L>And others do your seruants beate.</L>
+</LG>
+<LG>
+<L>Yet al this wil not them suffice,</L>
+<L>Not al your cates, and costly cheare.</L>
+<L>But they amidst thei Gourmandice,</L>
+<L>Your siluer plate in peeces teare:</L>
+<L>But when <HI>Vlysses</HI> comes, no doubt,</L>
+<L>He wil asswage this reuel rout.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<PB REF="19" MS="y">
+<HEAD>Her speech vnto her sonne <HI>Telemachus.</HI></HEAD>
+<LG>
+<L><HI>TElemachus</HI> (my louely sonne)</L>
+<L>What shall we silly wretches do?</L>
+<L>I see we shall be al vndone,</L>
+<L>Vnlesse thou to thy father go.</L>
+<L>Those Lordings that a wooing come,</L>
+<L>Will eate vs out of house and home.</L>
+</LG>
+<LG>
+<L>Alas I cannot be so rude,</L>
+<L>By cruel meanes their bloud to spill:</L>
+<L>Not yet by force them to extrude,</L>
+<L>That proffer me so much good will:</L>
+<L>Alas their loue I must respect,</L>
+<L>Though their conditions I reiect.</L>
+</LG>
+<LG>
+<L>Thou seest, how wastful eke they are,</L>
+<L>And in our house keepe careles coyle:</L>
+<L>Ther's neither of them al do care,</L>
+<L>Nor what they spend, nor what they spoile.</L>
+<L>Yea now with me they may not match,</L>
+<L>Well's he my sillie maids can catch.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>The reply of her sonne <HI>Telemachus,</HI> then but a childe.</HEAD>
+<LG>
+<L>PEace (mother) fie: what neede you mourne?</L>
+<L>My father will not you forsake:</L>
+<L>Be of good cheare he wil returne,</L>
+<L>No thought for him (good mother) take:</L>
+<L>He will with vs arriue ere long,</L>
+<L>And wil reuenge our wofull wrong.</L>
+</LG>
+<LG>
+<PB REF="20">
+<L>(Ah mother) would I were a man,</L>
+<L>I would so plague these leachers vile,</L>
+<L>Not one of them should scape me <GAP DESC="illegible" EXTENT="1 letter">han,</L>
+<L>They should not thus our house defile:</L>
+<L>O how I would their carcas carue?</L>
+<L>They should not you thus shrewdly serue.</L>
+</LG>
+<LG>
+<L>These trencher flyes me tempt each day,</L>
+<L>To turne you (mother) out of doore:</L>
+<L>The land is mine (these lyars say)</L>
+<L>My father he is de<GAP DESC="illegible" EXTENT="1 letter">d of yore.</L>
+<L>Yet mother, here you still shall rest,</L>
+<L>Of women al I loue you best.</L>
+</LG>
+<LG>
+<L>Oh you may see (sweete mother deare)</L>
+<L>How friendly minded they are bent:</L>
+<L>And eke what louing hearts they beare,</L>
+<L>By this their trecherous intent.</L>
+<L>But I commanded them be gone,</L>
+<L>How say you? was't not stoutly done?</L>
+</LG>
+<LG>
+<L>Wel, though my father he be slaiue,</L>
+<L>(As Gods forbid it should be so)</L>
+<L>And that he neuer come againe,</L>
+<L>Yet one day will I worke their woe.</L>
+<L>My dearest bloud I sure wil spend,</L>
+<L>My fathers house for to defend.</L>
+</LG>
+<LG>
+<PB REF="20" MS="y">
+<L>Meane while (al heart) to <HI>Troy</HI> Ile trudge,</L>
+<L>If you thereto wil but consent,</L>
+<L>To runne or go I wil not grudge,</L>
+<L>Pray (mother) peace, lest they preuent</L>
+<L>My going forth, when I come backe,</L>
+<L>I wil not feare the proudest iacke.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Her Epistle to <HI>Vlysses.</HI></HEAD>
+<LG>
+<L><HI>VLysses</HI> (if thou be aliue)</L>
+<L>Peruse those lines I send to thee,</L>
+<L>(Sweete) let me see thee here arriue,</L>
+<L>Tis booteles for to write to me.</L>
+<L>Not thy epistle be thou sure,</L>
+<L>Thy present sight, my griefe must cure.</L>
+</LG>
+<LG>
+<L>Ah say (sweete heart) and trueloue mine,</L>
+<L>How caust thou lingring stay so long?</L>
+<L>Why cam'st thou not home a this time?</L>
+<L>How canst thou offer me this wrong?</L>
+<L>Say (sluggard) what doth thee restraine,</L>
+<L>That thou dost not returne againe?</L>
+</LG>
+<LG>
+<L>The <HI>Troian</HI> warre is at an end,</L>
+<L>To sinders <HI>Troy</HI> is quite consumde,</L>
+<L>The Argiues al do homeward bend,</L>
+<L>With incense are the Altars fumde.</L>
+<L>Some froe I feare me, holdes thee backe,</L>
+<L>And that's the cause thou art so slacke.</L>
+</LG>
+<LG>
+<PB REF="21">
+<L>To <HI>Pylon</HI> haue I often sent,</L>
+<L>To forrein countries farre and neare:</L>
+<L>My messenger to <HI>Sparta</HI> went,</L>
+<L>But there no certaine newes could heare:</L>
+<L>At <HI>Troy</HI> (they say) thou were not slaine,</L>
+<L>That makes me hope thou com'st againe.</L>
+</LG>
+<LG>
+<L>Ah good <HI>Vlysses</HI> hie thee home,</L>
+<L>For I had sutors long agoe:</L>
+<L>If that thou say, thou wilt not come,</L>
+<L>Then know I what I haue to doe:</L>
+<L>I neede not long a widow liue,</L>
+<L>A hundred gladly would me wiue.</L>
+</LG>
+<LG>
+<L>For of <HI>Dulichium</HI> fifty two,</L>
+<L>Most stately sutors secke my shame:</L>
+<L>Of <HI>Zacinthe,</HI> twentie do mee woo,</L>
+<L>From <HI>Samos</HI> foure and twentie came:</L>
+<L>Besides twelue of our <HI>Ithac</HI> states,</L>
+<L>On whom, <HI>Maedon</HI> the minstrell waites.</L>
+</LG>
+<LG>
+<L>My father eke doth me accuse,</L>
+<L>And saies, I do my wooers wrong:</L>
+<L>And too too much my selfe abuse,</L>
+<L>Sith widdow-like I stay so long.</L>
+<L>But let him daily me reproue,</L>
+<L>From constant faith I wil not moue.</L>
+</LG>
+<LG>
+<PB REF="21" MS="y">
+<L>Yea, let him say, or do his worst,</L>
+<L>I wil be but <HI>Vlysses</HI> wife:</L>
+<L>To him I gaue my faith at first,</L>
+<L>With him Ile end my loue and life.</L>
+<L>To him, ere I wil faile my faith,</L>
+<L>I sure wil die a Martirs death.</L>
+</LG>
+<LG>
+<L>As twentie winters there are gone,</L>
+<L>So twentie more I meane to spend,</L>
+<L>I wil vndoe that I haue done,</L>
+<L>Ten thousand times before I end.</L>
+<L>Yet shal I thinke each houre twaine,</L>
+<L>Vntil you do returne againe.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>She accuseth <HI>Antinous,</HI> that he goeth about to kil her sonne.</HEAD>
+<LG>
+<L><HI>_ANtinous</HI> I haue beene told,</L>
+<L>Thou wert a youth that did excell,</L>
+<L>(Ah true I proue the prouerbe old)</L>
+<L>Report vntruth doth often tell.</L>
+<L>They say, thy like not <HI>Ithac</HI> had,</L>
+<L>I thinke it hath not one so bad.</L>
+</LG>
+<LG>
+<L>How dar'st thou me the mother court,</L>
+<L>And go about my child to kill:</L>
+<L>Thou swear'st and star'st thou mean'st no hurt,</L>
+<L>Yet dost deuise his bloud to spill.</L>
+<L>But you can wake, although you winke,</L>
+<L>And say right wel, though ill you thinke.</L>
+</LG>
+<LG>
+<PB REF="22">
+<L>But take thou heede, and warning good,</L>
+<L>And warning giue to al the rest:</L>
+<L>Beware of spilling princely bloud,</L>
+<L>For vnreueng'd it will not rest.</L>
+<L>Wherefore see that his life you saue,</L>
+<L>If fauour you of me wil haue.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>The reply of <HI>Eurymachus,</HI> in the behalfe of the wooers.</HEAD>
+<LG>
+<L>ASsure your selfe (my dearling sweete)</L>
+<L>Ther's no man here, that wil or shall,</L>
+<L>Him hurt, Ile die first at his feete,</L>
+<L>Before mishap shal him befall.</L>
+<L>Be bold, whilst me aliue you see,</L>
+<L>From sword I sure wil set him free.</L>
+</LG>
+<LG>
+<L>For thine, and for <HI>Vlysses</HI> sake,</L>
+<L><HI>Telemachus</HI> I wil preserue,</L>
+<L>(Who on his knee would oft me take)</L>
+<L>And rost meate often to me carue:</L>
+<L>Ile sheath my sword within his skinne,</L>
+<L>That first to touch him dares beginne.</L>
+</LG>
+<LG>
+<L>Am I not here&punc; what needs thou dread?</L>
+<L>Thou maist command me heart and hand,</L>
+<L>Ile him defend aliue or dead,</L>
+<L>My word and deede, shal f<GAP DESC="illegible" EXTENT="1 letter">rmely stand.</L>
+<L>Wherefore (sweete heart) be of good cheare,</L>
+<L>And cast away this foolish feare.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<PB REF="22" MS="y">
+<HEAD>She bewaileth the sending of her sonne <HI>Telema|chus</HI> to his father.</HEAD>
+<LG>
+<L>_ALas, what haue I (fondling) done?</L>
+<L>How haue I on aduenture sent,</L>
+<L><HI>Telemachus</HI> my onely sonne?</L>
+<L>Ah: for his sake shal I be shent.</L>
+<L>If by this meanes he do miscarrie:</L>
+<L>Then of my life shal I be wearie.</L>
+</LG>
+<LG>
+<L>What will the common people say?</L>
+<L>(As they are prone to speake the worst)</L>
+<L>She, she, her sonne hath sent away,</L>
+<L>(See who would fickle women trust,)</L>
+<L>That she may with hir wooers wed,</L>
+<L>And so defile his fathers bed.</L>
+</LG>
+<LG>
+<L>What dangers dire shal he endure?</L>
+<L>Rocks renting dread, and tempests doubt,</L>
+<L>Of measure hard he shal be sure,</L>
+<L>If prouling Pirates pry him out:</L>
+<L>Or if <HI>Antinous</HI> descry,</L>
+<L>His skil in swimming shal he trie.</L>
+</LG>
+<LG>
+<L>Alas: if my sweete <HI>Temelac,</HI></L>
+<L>(Whom for to shield the Gods I pray)</L>
+<L>On wastfull seas should go to wracke,</L>
+<L>What wil my good <HI>Vlysses</HI> say:</L>
+<L>My life alas I soone should lacke,</L>
+<L>As hearbs to pot he would me hacke.</L>
+</LG>
+<LG>
+<PB REF="23">
+<L>But if it be my destinie:</L>
+<L>I stil wil waile with woful heart,</L>
+<L>Til time doth end this Tragedie,</L>
+<L>Or chance doth cure my carefull smart.</L>
+<L>And I my selfe, my selfe wil hate,</L>
+<L>Til death doth e<GAP DESC="illegible" EXTENT="1 letter">s<GAP DESC="illegible" EXTENT="1 letter"> my dolefull state.</L>
+</LG>
+<LG>
+<L>But see, he comes right wellcome home,</L>
+<L>(Sweete <HI>Telemac</HI> my prettie boy)</L>
+<L>What? is thy father with thee come?</L>
+<L>Tel true, what liues my louely ioy?</L>
+<L>Ah say the truth, and do not faine,</L>
+<L>Will my <HI>Vlysses</HI> come againe?</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD><HI>Telemachus</HI> sheweth his fathers comming: and how he means to be reuenged of his Riuals, and she|weth some of his fathers acts.</HEAD>
+<LG>
+<L>_MY father (as you say) doth liue,</L>
+<L>Loe here, a letter he hath sent,</L>
+<L>And shortly here he will arriue,</L>
+<L>For to returne is his intent.</L>
+<L>But priuily he will you greete,</L>
+<L>That with those Riuals he may meete.</L>
+</LG>
+<LG>
+<L>He sweares he wil torment them all,</L>
+<L>Not one of them shall scape aliue,</L>
+<L>He'll kill and slay, both geat and smal:</L>
+<L>As dogges from doore he wil them driue.</L>
+<L>He sweares he'll see their eies al out,</L>
+<L>Ere he wil feed so soule a rout.</L>
+</LG>
+<LG>
+<PB REF="23" MS="y">
+<L><HI>Eurymachus</HI> he wil take downe,</L>
+<L>And eke <HI>Antinous</HI> swelling pride,</L>
+<L>He'll coxe them all, I hold a crowne,</L>
+<L>For that they do him thus deride,</L>
+<L>He'll teach them better vse their tearmes,</L>
+<L>He'll learne them scoffe a man at armes.</L>
+</LG>
+<LG>
+<L>Though that those lads haue long him loath'd,</L>
+<L>If he in sight should but appeare,</L>
+<L>They al would wish they were vncloathd,</L>
+<L>So that they lighter legged were.</L>
+<L>They'll rather wish for feete that day,</L>
+<L>Then either gold or rich array.</L>
+</LG>
+<LG>
+<L>For he at hazard more hath beene,</L>
+<L>Then taking downe such trencher-knights,</L>
+<L>His prowes at siege of <HI>Troy</HI> was seene,</L>
+<L>He hath subdued worthier wights.</L>
+<L>Yea (mother) he hath beene at hel,</L>
+<L>Where the Prince <HI>Pluto</HI> dire doth dwell.</L>
+</LG>
+<LG>
+<L>He thrust out <HI>Polyphemus</HI> eie,</L>
+<L>For that he did his fellowes eate,</L>
+<L>And he scapt <HI>Circes</HI> sorcerie:</L>
+<L>He feared not God <HI>Neptunes</HI> threat.</L>
+<L>When three daies shiples he did saile,</L>
+<L>His hardy heart did neuer faile.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<PB REF="24">
+<HEAD>Penelope readeth <HI>Vlysses</HI> letter.</HEAD>
+<LG>
+<L>_THy letter when I ouer-looke,</L>
+<L>(<HI>Penelope</HI> my sweetest saint)</L>
+<L>I note the care that thou hast tooke,</L>
+<L>And pittie take of thy complaint.</L>
+<L>Lo: to release thee of thy doome,</L>
+<L>(Sweete heart) at once I write and come.</L>
+</LG>
+<LG>
+<L>Thy faithful hand I quickly found,</L>
+<L>The pledge and token of my troth,</L>
+<L>Whereby to me thou first wert bound,</L>
+<L>And I to thee, by solemne oth.</L>
+<L>So welcome thereof was the sight,</L>
+<L>My heauie heart it made ful light.</L>
+</LG>
+<LG>
+<L>I would to God my sluggardise,</L>
+<L>Which thou so highly dost accuse:</L>
+<L>The <HI>Greekes</HI> at <HI>Troian</HI> enterprise,</L>
+<L>Had holden for a iust excuse:</L>
+<L>Then had I not endured the toile,</L>
+<L>I now sustaine in forrein soyle.</L>
+</LG>
+<LG>
+<L>Then had I staied still with thee,</L>
+<L>When I my selfe did franticke faine:</L>
+<L>It grieu'd me (trust me) to agree,</L>
+<L>The warres so soone should part vs twaine.</L>
+<L>I would, nor could, as thou maist see,</L>
+<L>So lightly leaue thy companie.</L>
+</LG>
+<LG>
+<PB REF="24" MS="y">
+<L>No <HI>Troian</HI> trull doth me retaine,</L>
+<L>For <HI>Troy</HI> to cinders quite is rasde,</L>
+<L><HI>Priam,</HI> and <HI>Paris,</HI> both are slaine,</L>
+<L>And al the countrey quite defasde.</L>
+<L><HI>Sarpedon</HI> slaine, and <HI>Hector</HI> stout,</L>
+<L>And <HI>Mars</HI> so hurt, his guts came out.</L>
+</LG>
+<LG>
+<L>I scotfree scap't, and <HI>Rhesus</HI> slaine,</L>
+<L>His palfreys led I to my tent:</L>
+<L>I feared not the <HI>Thracian</HI> traine,</L>
+<L>But boldly I amidst them went:</L>
+<L>And those that <HI>Diomedes</HI> slue,</L>
+<L>Still by the heeles I from him threw.</L>
+</LG>
+<LG>
+<L>Thou needst not doubt, my life or loue,</L>
+<L>The one the <HI>Troians</HI> could not spill,</L>
+<L>Nor th'other <HI>Mermaids</HI> could remoue:</L>
+<L>To thee it resteth constant still.</L>
+<L>No comfort haue I on the sea,</L>
+<L>But loue, to make me thinke on thee.</L>
+</LG>
+<LG>
+<L><HI>Parthenope</HI> did oft assay,</L>
+<L>Me to her loue for to allure,</L>
+<L>Yet could she not me so betray,</L>
+<L>My toyle I stoutly did endure:</L>
+<L>And when she saw I would not stay,</L>
+<L>She drownd her selfe in surging sea.</L>
+</LG>
+<LG>
+<PB REF="25">
+<L>Nor yet <HI>Calypso</HI> with her skill,</L>
+<L>When in <HI>O<GAP DESC="illegible" EXTENT="1 letter">ygean</HI> Isle I staid,</L>
+<L>Could with her druggs win my good will:</L>
+<L>Though oft so shamefully she assaid.</L>
+<L>Though me immortall she would make,</L>
+<L>Yet could I not thee so forsake.</L>
+</LG>
+<LG>
+<L>And where thou saist, thou sutors hast,</L>
+<L>It is a credit I confesse,</L>
+<L>If they our substance do not wast,</L>
+<L>Nor thee of honour dispossesse:</L>
+<L>Beware lest thou amidst thy wine,</L>
+<L>Dost grant them that is none of thine.</L>
+</LG>
+<LG>
+<L>If to the hundred thou hast had,</L>
+<L>A thousand sutors more thou set,</L>
+<L>Yet haue I had a sturre as bad,</L>
+<L>With lasses, my true loue to get.</L>
+<L>Do Lords the court? a common case,</L>
+<L>Vnaskt, braue Ladies me embrace.</L>
+</LG>
+<LG>
+<L>But (wife) you scarcely did me please,</L>
+<L>When <HI>Telemac</HI> my onely sonne,</L>
+<L>You set on mercie of the seas:</L>
+<L>Confesse a truth it was ill done.</L>
+<L>That loue vngrateful is ywis,</L>
+<L>That to such danger, subiect is.</L>
+</LG>
+<LG>
+<PB REF="25" MS="y">
+<L>But now his course is finished,</L>
+<L>Our danger al is at an end,</L>
+<L>My dolour eke diminished:</L>
+<L>You after me no more shal send:</L>
+<L>For suddenly you shal me see,</L>
+<L>Before those Riuals looke for me.</L>
+</LG>
+<LG>
+<L>Meane while, suppresse thy merrie cheere,</L>
+<L>Let not thy sutors know my mind,</L>
+<L>Vnto their costs I wil appeare:</L>
+<L>The helhounds shal me feele and find.</L>
+<L>Thy countenance see that thou keepe,</L>
+<L>When thou shouldst laugh, see that thou weepe.</L>
+</LG>
+<LG>
+<L>I wil not open warres proclaime,</L>
+<L>Nor yet by force of armes there come,</L>
+<L>Amidst their banket wil I aime,</L>
+<L>To cut them off both al and some.</L>
+<L>And when you see those Riuals slaine,</L>
+<L>Then say that I am come againe.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>The aduice of <HI>Euryclea,</HI> nurse to <HI>Penelope.</HI></HEAD>
+<LG>
+<L>OH daughter deare&punc; my Iem and ioy:</L>
+<L>My comfort, and my onely care,</L>
+<L>Ah, <HI>Ioue</HI> preserue thee from annoy,</L>
+<L>And from those spoiles that, threatned are</L>
+<L>Be charie of thy chastitie,</L>
+<L>Which sutors seeke so shamefully.</L>
+</LG>
+<LG>
+<PB REF="26">
+<L>Thy waiting women they abuse,</L>
+<L>Without remorse or conscience sting,</L>
+<L>And of thy house they make a stewes,</L>
+<L>Thee to dishonour, for to bring.</L>
+<L>Take heede in time I thee aduise,</L>
+<L>wit bought, is at too deare a prise.</L>
+</LG>
+<LG>
+<L>These <GAP DESC="illegible" RESP="pdcc" EXTENT="2 letters">stie Gallants sweare and stare,</L>
+<L>If thou to wed wilt not consent,</L>
+<L>Thy house they'll topsie turuy teare,</L>
+<L>And eke thy heart in peeces rent.</L>
+<L>To hide thy selfe I thinke it best,</L>
+<L>And vnto <HI>Loue</HI> commit the rest.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Her reply to <HI>Euryclea.</HI></HEAD>
+<LG>
+<L>_WHat are they men, or are they not?</L>
+<L>Or are they beasts, or are they worse?</L>
+<L>Are lawes of God, and men, forgot?</L>
+<L>No care of God, nor yet his curse?</L>
+<L>Or dread they not the day of doome?</L>
+<L>That they so beastlike are become.</L>
+</LG>
+<LG>
+<L>Shal men, that God himselfe hath made?</L>
+<L>And do his Image represent,</L>
+<L>By their abhominable trade:</L>
+<L>To be the deuils lims consent?</L>
+<L>O most vnworthie wretches vile,</L>
+<L>That do their vessels so defile.</L>
+</LG>
+<LG>
+<PB REF="26" MS="y">
+<L>Fie: what can they not eate and drinke?</L>
+<L>But they must surfeit shamefully?</L>
+<L>Can they not mischiefe meane or thinke?</L>
+<L>But they must blab it by and by.</L>
+<L>Can they not prettie damsels vse?</L>
+<L>But they their bodies must abuse.</L>
+</LG>
+<LG>
+<L><HI>Aurelianus</HI> here we lacke,</L>
+<L>Or <HI>Iulia</HI> with her sacred lawe:</L>
+<L>Then should those gallants go to wracke,</L>
+<L>Then better would they stand in awe:</L>
+<L>For then the sword or else the tree,</L>
+<L>From shameful force, should set vs free.</L>
+</LG>
+<LG>
+<L>O cursed times, O cruel facts,</L>
+<L>O manners vile, for men vnfit,</L>
+<L>O dismal daies, O hainous acts,</L>
+<L>O helish hagges, of <HI>Plutoes</HI> pit.</L>
+<L>O spightfull, cruel tyrany,</L>
+<L>Enforcing endles misery.</L>
+</LG>
+<LG>
+<L>My tongue doth tremble for to tell,</L>
+<L>The villanie that they inuent,</L>
+<L>My heart (alas) with griefe doth swell,</L>
+<L>To see braue men so beastly bent,</L>
+<L>From this their wicked trechery,</L>
+<L>The Lord aboue deliuer me.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<PB REF="27">
+<HEAD>She bewaileth <HI>Vlysses</HI> long tarrying.</HEAD>
+<LG>
+<L>_HOw doth <HI>Vlysses</HI> time detract?</L>
+<L>How doth he play the cosoning knight,</L>
+<L>He writes <HI>Troy</HI> is alreadie sack't,</L>
+<L>Yet wil he not appeare in sight.</L>
+<L>I feare me he hath caught some doue,</L>
+<L>And keepes her tame, with tills of loue.</L>
+</LG>
+<LG>
+<L>I would I wist he false did play,</L>
+<L>Of spight I would reuenged be:</L>
+<L>But then what would the people say?</L>
+<L>As is the hee, so is the shee:</L>
+<L>No, no, the care I absent take,</L>
+<L>His presence wil the sweeter make.</L>
+</LG>
+<LG>
+<L>Nor wealth, nor woe&punc; nor enuies crosse,</L>
+<L>Nor griefe, nor gaine, nor fortunes fall:</L>
+<L>Nor paine, nor pleasure, lucke or losse,</L>
+<L>Nor treasure, nor yet wretched thrall,</L>
+<L>Shall make me my <HI>Vlysses</HI> loath.</L>
+<L>Nor to him false my faith and troath.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>The speech of her wooers chalenging her by promise.</HEAD>
+<LG>
+<L>COme on (sweet nimph) what answer now?</L>
+<L>Your towe is twist, your web is wrought,</L>
+<L>With speede performe your sacred vow:</L>
+<L>Thy murmring mate his death hath sought:</L>
+<L><HI>Harpyades</HI> haue on him fed,</L>
+<L>The citie-spoiler he is dead.</L>
+</LG>
+<LG>
+<PB REF="27" MS="y">
+<L>Thee for to wed is al our sute,</L>
+<L>And now thy answere we expect:</L>
+<L>Therefore say quicke, be not so mute,</L>
+<L>Which of our sutes wilt thou accept?</L>
+<L>If thou no ready answere make,</L>
+<L>Thy house we neuer wil forsake.</L>
+</LG>
+<LG>
+<L>(Sweete Nimph) resolue vs now with speede,</L>
+<L>Thinke ere thou speake, denie not flat:</L>
+<L>For we are they can do the deede:</L>
+<L>Thou maist refuse thou knowest not what:</L>
+<L>Make readie <HI>Hymaeneus</HI> bed,</L>
+<L>For why, we must and will thee wed.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Her answere to the wooers.</HEAD>
+<LG>
+<L>SWeete Lordings though my web be wrought,</L>
+<L>And al my towe be readie spun,</L>
+<L>Another doubt comes to my thought,</L>
+<L>You know, what worth <HI>Vlysses</HI> won:</L>
+<L>Yow know he was a worthie knight,</L>
+<L>And got him honour for his might.</L>
+</LG>
+<LG>
+<L>It me behoues to draw the latch,</L>
+<L>And of my choyce in time beware,</L>
+<L>Lest I with such a milkesop match,</L>
+<L>As may augment my wonted care.</L>
+<L>Or you in fight for me contend,</L>
+<L>And so the mightie Gods offend.</L>
+</LG>
+<LG>
+<PB REF="28">
+<L>Lo Lordings, this is my decree,</L>
+<L>He that <HI>Vlysses</HI> bowe can bend,</L>
+<L>That worthie wight shall wed with me:</L>
+<L>Away with him I soone wil wend.</L>
+<L>Hold take in hand to bend the bowe,</L>
+<L>Your strength that quickly I may know.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD><HI>Vlysses</HI> being come home, disguiseth himselfe, and soiourning with <HI>Penelope</HI> amongst the woo|ers, maketh this answere.</HEAD>
+<LG>
+<L>_WHy then (faire queene) to win thy loue,</L>
+<L>I silly wretch wil also trie,</L>
+<L>My shriueled sinewes will I proue:</L>
+<L>To win this worthie masterie.</L>
+<L>Had I my youthfull strength and skill,</L>
+<L>I would the act right soone fulfill.</L>
+</LG>
+<LG>
+<L><HI>Eurymachus</HI> I thee beseech,</L>
+<L>And eke <HI>Antinous</HI> I thee pray,</L>
+<L>To giue me leaue my strength to stretch,</L>
+<L>Which gods haue almost tane away:</L>
+<L>Necessitie hath pincht me too,</L>
+<L>A cruel dart it is you know.</L>
+</LG>
+<LG>
+<L>The bowe resigne into my hand,</L>
+<L>I trial of my strength wil make,</L>
+<L>And if the same I cannot bend,</L>
+<L>The prize you shal among you take.</L>
+<L>But if the bowe be by me bent,</L>
+<L>To wed the Nimph is my intent.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<PB REF="28" MS="y">
+<HEAD>The wooers scoffingly checke <HI>Vlysses.</HI></HEAD>
+<LG>
+<L>HOw dar'st thou Palmer thus to prate?</L>
+<L>And with vs yongsters thus compare?</L>
+<L>Content thee with thine owne estate:</L>
+<L>Of Palmery go take thou care:</L>
+<L>Although <HI>Vlysses</HI> bowe thou bend,</L>
+<L>With Baldpate shall she neuer wend,</L>
+</LG>
+<LG>
+<L>But too much wine makes thee thus mad,</L>
+<L>Which wiser men doth brainsicke make,</L>
+<L>And bragge of that they neuer had,</L>
+<L>If out of measure they it take:</L>
+<L>Therefore leaue off to make such strife,</L>
+<L>For her thou shalt not take to wife.</L>
+</LG>
+<LG>
+<L>Leaue off I say: thus to contend,</L>
+<L>If thou wilt banket here at rest,</L>
+<L>We wey not who the bowe doth bend,</L>
+<L>For that we hold but as a iest.</L>
+<L>But if with vs thou so contend,</L>
+<L>Thou soone shalt feele thy fatall end.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>She checketh <HI>Antinous</HI> for abusing her ghests.</HEAD>
+<LG>
+<L><HI>_ANtinous</HI> leaue off I say,</L>
+<L>Our ghests thus euil to intreate,</L>
+<L>Discurteous parts why dost thou play?</L>
+<L>My stranger thus why dost thou threat?</L>
+<L>Their neighbours al they wil abuse,</L>
+<L>That strangers practise to misuse.</L>
+</LG>
+<LG>
+<PB REF="29">
+<L>This stranger is of stature tall,</L>
+<L>And borne of worthie parentage:</L>
+<L>The likeliest amongst you all,</L>
+<L>If force consists in personage:</L>
+<L>Pray giue him leaue his strength to trie,</L>
+<L>Why offer you this iniurie?</L>
+</LG>
+<LG>
+<L>If that <HI>Apollo</HI> giue him powre,</L>
+<L>For manly might the price to win,</L>
+<L>Then wil I waite on him each houre,</L>
+<L>And costly webs array him in:</L>
+<L>My onely ioy I wil him make,</L>
+<L>And him to husband wil I take.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD><HI>Telemachus</HI> wisheth his mother to be silent.</HEAD>
+<LG>
+<L>_FIe: fie: what neede you thus to chaunt,</L>
+<L>Silence doth best become your sex,</L>
+<L>T'is giglet-like, thus for to taunt,</L>
+<L>What thogh those vilains do you vex:</L>
+<L>Yet (mother) you must patience vse,</L>
+<L>And smother vp this vile abuse.</L>
+</LG>
+<LG>
+<L>Vnto your maids your mind disclose,</L>
+<L>And talke of that you haue to doe,</L>
+<L>What neede you counterchecke with those,</L>
+<L>That nothing appertaines you to:</L>
+<L>The<GAP DESC="illegible" EXTENT="1 letter">'ll say you are alreadie won,</L>
+<L>Their companie you cannot shun.</L>
+</LG>
+<LG>
+<PB REF="29" MS="y">
+<L>Sweete (mother) let me answere make,</L>
+<L>That am a man, and know to speake:</L>
+<L>My speech shal make them for to quake,</L>
+<L>Against me dare they not to creake.</L>
+<L>My father absent, I am king,</L>
+<L>New dirges shall they shortly sing.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>The death of her wooers represented vnto hir, in a dreame of an Egle and a flocke of geese.</HEAD>
+<LG>
+<L>WHy dost thou <HI>Morpheus</HI> me annoy&punc;</L>
+<L>What fantasies dost thou intrude?</L>
+<L>Why dost thou me of sleepes sweete ioy,</L>
+<L>With vaine illusions thus delude?</L>
+<L>Those dreames iwis that I endure,</L>
+<L>I doubt but little good procure.</L>
+</LG>
+<LG>
+<L>Last night as I lay in my bed,</L>
+<L>Strecht forth (alas) in slumbring wise,</L>
+<L>Me thought a flocke of geese I fed,</L>
+<L>That al my corne could not suffice.</L>
+<L>To giue them foode I did denie,</L>
+<L>And yet not one away would flie.</L>
+</LG>
+<LG>
+<L>They were a number numberles,</L>
+<L>Whose gagling did me much offend:</L>
+<L>I made them answere answereles,</L>
+<L>And wisht them to the fields to wend:</L>
+<L>Yet would they not be answered so,</L>
+<L>In rest for them I could not go.</L>
+</LG>
+<LG>
+<PB REF="30">
+<L>At last as they were safe in mue,</L>
+<L>A mightie Eagle with them met:</L>
+<L>And them, both great and smal he slue,</L>
+<L>Not one of them could from him get.</L>
+<L>No creature could the spoile preuent,</L>
+<L>The Eagle was so fiercely bent.</L>
+</LG>
+<LG>
+<L>At length when his bloud-thirstie bill,</L>
+<L>Had thus vpon these goselings praide,</L>
+<L>(Me thought) the people for to kill,</L>
+<L>This matchles Eagle al assaide.</L>
+<L>They were so wroath they sware by gis,</L>
+<L>They would dispoile both him and his.</L>
+</LG>
+<LG>
+<L>Ah <HI>Cesta</HI> sweete, I thee implore,</L>
+<L>My doubtful dreame for to dissolue,</L>
+<L>For that which <HI>Morpheus</HI> told of yore.</L>
+<L>I often in my mind reuolue.</L>
+<L>The resolution to me show,</L>
+<L>And endles thanks I wil thee owe.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>She hearing <HI>Vlysses</HI> fighting with her wooers, vnknowen to her, she feareth.</HEAD>
+<LG>
+<L>_HOw doth <HI>Vlysses</HI> me me deride?</L>
+<L>How doth he foolefaine me possesse?</L>
+<L>He promisde to returne with speede,</L>
+<L>But sure he thinks of nothing lesse.</L>
+<L>My eies with looking for him ake,</L>
+<L>with trembling feare my heart doth quake.</L>
+</LG>
+<LG>
+<PB REF="30" MS="y">
+<L>What horror doth my heart oppresse?</L>
+<L>What hurly burly do I heare?</L>
+<L>What sturdy tumults? (God me blesse)</L>
+<L>What's he that plaies the tyrant there?</L>
+<L>Who's he cries out, what's he is slaine?</L>
+<L>Go Girle and see, but hie againe.</L>
+</LG>
+<LG>
+<L>Harke, harke, at daggers point on life,</L>
+<L>Those dronkards with each other fight:</L>
+<L>Why doth my sonne not stint the strife?</L>
+<L>Ah how doth feare my heart affright?</L>
+<L>What is the cause of this their ruth?</L>
+<L>Come quicke (sweete wench) and tel the truth.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>Her maide sheweth the slaughter of her wooers.</HEAD>
+<LG>
+<L>ALas, beblubred al with bloud,</L>
+<L><HI>Antinous</HI> lieth vnder bord,</L>
+<L>Yea <HI>Eurymac</HI> that was so proud,</L>
+<L>Is slaine with dint of sharped sword:</L>
+<L><HI>Pisanders</HI> braines are beaten out,</L>
+<L>And <HI>Polybe</HI> slaine that Champion stout.</L>
+</LG>
+<LG>
+<L><HI>Eurynomus,</HI> he waltring lies,</L>
+<L>And eke <HI>Polidor</HI> worthie knight,</L>
+<L><HI>Amphimedon</HI> for mercie cries:</L>
+<L>And <HI>Liodes</HI> is put to flight.</L>
+<L><HI>Ctesippus</HI> put to deadly paine,</L>
+<L>And eke <HI>Eurydamantus</HI> slaine.</L>
+</LG>
+<LG>
+<PB REF="31">
+<L><HI>Liocritus</HI> that Lordlie lad,</L>
+<L>And <HI>Demoptolemus</HI> is dead,</L>
+<L><HI>Euriades</HI> hath sped as bad,</L>
+<L>His braines are knockt out of his head:</L>
+<L>I thought amidst their stately pride.</L>
+<L>Some stagedie there would be plaide.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>She hearing of the death of her wooers, feareth lest <HI>Vlysses</HI> wil slay her also.</HEAD>
+<LG>
+<L>_ALacke, and are those Lordings slaine?</L>
+<L>Why then my Lord <HI>Vlysses</HI> deare,</L>
+<L><HI>Vlysses</HI> mine, is come againe,</L>
+<L>How am I tost twixt ioy and feare?</L>
+<L>Ah he, tis he hath done this deede:</L>
+<L>Yea, he this Stratageme hath plaied,</L>
+</LG>
+<LG>
+<L>It is <HI>Vlysses</HI> deales such blowes,</L>
+<L>What shal I silly woman doo?</L>
+<L>Ah see, how furiously he glowes,</L>
+<L>I feare he wil torment me too:</L>
+<L>I wil him trie, with weeping eies,</L>
+<L>Him to withdraw from tyranies.</L>
+</LG>
+<LG>
+<L>Fie: cannot twentie yeares suffice,</L>
+<L>Thy wrathful venome for to spit,</L>
+<L>But thou must thus in warlike wise,</L>
+<L>Thy tyrany continue yet?</L>
+<L>Though no wight can thy wrath appease,</L>
+<L>Let me request thee to sureease.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<PB REF="31" MS="y">
+<HEAD><HI>Vlysses</HI> making himselfe knowne, comforteth <HI>Penelope</HI> with these speeches.</HEAD>
+<LG>
+<L>FEare not my iem and hearts delight,</L>
+<L><HI>Penelope</HI> my spotles spouse,</L>
+<L>Those lads no more shal worke our spight,</L>
+<L>They shal no more defile our house.</L>
+<L>Ah I haue seene thy constancie,</L>
+<L>They vertues haue reioyc'd mine eie.</L>
+</LG>
+<LG>
+<L>But oh: what haue I tyrant done,</L>
+<L>(Oh miser borne to endles toyle)</L>
+<L>Now haue I new my care begon,</L>
+<L>By this my pittie-wanting spoyle.</L>
+<L>I merciles haue many slaine.</L>
+<L>For bloud shall I pay bloud againe,</L>
+</LG>
+<LG>
+<L>O furie with repentance fraught,</L>
+<L>(Ah enemie to perfect peace.)</L>
+<L>Thou to confusion hast me brought,</L>
+<L>(Ah furie foe to humane ease.)</L>
+<L>I that my foes haue put to flight,</L>
+<L>Against my friends am forc'd to fight.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD><HI>Penelope</HI> fearing to entertaine <HI>Vlysses,</HI> debateth as followeth.</HEAD>
+<LG>
+<L>_BVtah me wretch (borne but to wo)</L>
+<L>What entertainment shal I giue?</L>
+<L>Him, for my Lord how shal I know?</L>
+<L>T'is hard to know whom to beleeue.</L>
+<L>Ah my <HI>Vlysses</HI> was too kind,</L>
+<L>To beare such a bloud-thirstie mind,</L>
+</LG>
+<LG>
+<PB REF="32">
+<L>But (doting dame) what can I tell,</L>
+<L>May not God <HI>Mars</HI> his furie moue?</L>
+<L>May not <HI>Bellona</HI> make him fell?</L>
+<L>Ah <HI>Mars</HI> makes Turtles Tygers proue:</L>
+<L>And those are ordinary euents,</L>
+<L>To them that do frequent the tents.</L>
+</LG>
+<LG>
+<L>But yet, <HI>Vlysses</HI> welcome home,</L>
+<L>(If thou my Lord <HI>Vlysses</HI> be)</L>
+<L>A thousand times to me welcome,</L>
+<L>Thee safe I do reioyce to see.</L>
+<L>Yet shew (ah good <HI>Vlysses</HI> show)</L>
+<L>Some token that I may thee know.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD><HI>Vlysses</HI> sheweth by euident tokens, he is no cose|ning knight.</HEAD>
+<LG>
+<L>WHy then I am <HI>Laertes</HI> sonne,</L>
+<L>And he that Gods, and men do hate,</L>
+<L>Scomme of the world, by fates foredone,</L>
+<L>Whose death my deedes do calculate,</L>
+<L>Ah I am he, that for thy loue,</L>
+<L>A thousand perills daily proue.</L>
+</LG>
+<LG>
+<L>Yea I am he, that fainde me mad,</L>
+<L>Thee in my armes for to embrace,</L>
+<L>And I am that vnhappie swad,</L>
+<L>That <HI>Palemedes</HI> did disgrace.</L>
+<L>Yea I am he that for thy sake,</L>
+<L>All dangers dare to vndertake.</L>
+</LG>
+<LG>
+<PB REF="32" MS="y">
+<L>Yea I am he, whose damned hand,</L>
+<L>Haue slaine a knot of noble bloud:</L>
+<L>And I am he, thou maist command,</L>
+<L>Aliue or dead, to do thee good.</L>
+<L>Yea I am he that maugre spight,</L>
+<L>Wil alwaies rest thy constant knight.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD>L'enuoy.</HEAD>
+<LG>
+<L>Lo Ladies, <HI>Ioue</HI> reserues a friend,</L>
+<L>For those that tender chastitie,</L>
+<L>But Leachers brought to dolefull end,</L>
+<L>Amidst their chiefe securitie:</L>
+<L><HI>Penelope</HI> for bale had blisse,</L>
+<L>When villanes vengeance could not misse.</L>
+</LG>
+<LG>
+<L>Let Riuals lot learne Lordly youthes,</L>
+<L>To shun the snare of lewd desires,</L>
+<L>Lest lawles loue procure their ruthes,</L>
+<L>With liueles lue that lust requires:</L>
+<L>Lest whilst they recke not what they do,</L>
+<L>Some good <HI>Vlysses</HI> wrecke their woe.</L>
+</LG>
+</DIV2>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

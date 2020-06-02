@@ -1,0 +1,440 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD EEBOPROOF 2.0//EN">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-09-30</DATE>
+<RESPSTMT>
+<NAME>Mona Logarbo</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>*Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate.
+*Checked for GROUP tags.
+*Proofed title page(s).
+*Checked ^s.
+*Checked I / J.
+*Checked oe for ae ligatures.
+*Reviewed structure.
+On PB REF="1," replaced Ps with CLOSER / DATELINE / DATE / SIGNED.
+*Checked placement and completeness of PBs.
+*Checked for duplicate pages.
+*Checked for missing pages.
+*Checked spacing of foreign GAPs.
+*Checked for damage GAPs, #s, @s,  --s, &mdash;, q;s, <ABBR>Esq</ABBR> and UNCLEARs.
+*Corrected $ by inserting the appropriate character.
+*Checked for &amp;cs with incorrect spacing.
+*Check for OPENERs, SALUTEs, CLOSERs, DATEs, DATELINEs, SIGNEDs,  TRAILERs, BYLINEs, etc.
+*Checked for TABLEs and LISTs.
+*Checked for LBs.
+*Checked for startqs, endqs and Qs.
+*Checked proofsheets and made corrections.
+DONE 09-30-03.</ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="A37006">
+<STC T="W">D2762</STC>
+<BIBNO T="oclc">12761875</BIBNO>
+<VID>93515</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="license">
+<PB REF="1">
+<P>Licensed.</P>
+<CLOSER><DATELINE><DATE><HI>Iune</HI> 27. 1688.</DATE></DATELINE>
+<SIGNED>R. P.</SIGNED></CLOSER>
+</DIV1>
+<DIV1 TYPE="title page">
+<PB REF="1">
+<P>A POEM Congratulatory ON THE BIRTH OF THE Young PRINCE, Most Humbly Dedicated to their August MAJESTIES KING <HI>IAMES,</HI> and QUEEN <HI>MARY.</HI></P>
+<P>Written by M^r <HI>D' URFEY.</HI></P>
+<Q>Quo nihil majus meliusve terris Fata donavere, bonique divi, nec dabunt, Quamvis redeant in Aurum Tempora priscum.</Q>
+<BIBL>Horace Lib. 4. Ode 2.</BIBL>
+<P><HI>LONDON,</HI></P>
+<P>Printed for <HI>Ioseph Knight</HI> and <HI>Francis Saunders,</HI> at the <HI>Blue Anchor,</HI> in the Lower Walk of the <HI>New Exchange,</HI> 1688&punc;</P>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="poem">
+<PB REF="2">
+<PB N="1" REF="2">
+<HEAD>A POEM Congratulatory ON THE BIRTH OF THE Young PRINCE.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>AS in a sullen Clowdy backward Spring,</L>
+<L>The Husbandman as Clowdy does appear;</L>
+<L>Mourning to see his Plants no Blossoms bring,</L>
+<L>To Crown the Beauty of the ripening Year.</L>
+</LG>
+<LG N="2">
+<PB N="2" REF="3">
+<HEAD>II.</HEAD>
+<L>The Sun o' th' suddain dissipates his fears,</L>
+<L>From whose kind heat each Plant a Soul obtains;</L>
+<L>His griefs are turn'd to Joy, to Smiles his Tears,</L>
+<L>Seeing (though late) the Off-spring of his Pains.</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>So when your People, Sir, that wish'd your Fame,</L>
+<L>And knew that Kings, though Sacred, Mortal are;</L>
+<L>Doubted an Heir to your Immortal Name,</L>
+<L>And Night might come without an Evening Star.</L>
+</LG>
+<LG N="4">
+<HEAD>IV.</HEAD>
+<L>When Ominous Mistrust fill'd every Breast,</L>
+<L>And Sadness there did like a Chaos show;</L>
+<L>Th' Eternal dash'd the Darkness from the East,</L>
+<L>And said, Let there be Light, and it was so.</L>
+</LG>
+<LG N="5">
+<HEAD>V.</HEAD>
+<L>Then kindled Atoms form'd a Beam so bright,</L>
+<L>The dazling Joy three Kingdoms did adorn;</L>
+<L>All Nature seem'd to revel in delight,</L>
+<L>That happy Minute when the <HI>Prince</HI> was Born.</L>
+</LG>
+<LG N="6">
+<PB N="3" REF="3">
+<HEAD>VI.</HEAD>
+<L>Each friendly Star shot his propitious Ray,</L>
+<L>And blest the Morning of his Royal Birth,</L>
+<L>Foretelling the Meridian of his Day</L>
+<L>Would spread his Glory through the spacious Earth.</L>
+</LG>
+<LG N="7">
+<HEAD>VII.</HEAD>
+<L>Amazing Pleasure the Beholders seis'd,</L>
+<L>When Goddess Nature first expos'd a Boy;</L>
+<L>The Gracious Mother in her Pangs was pleas'd:</L>
+<L>But who can speak the Mighty Father's Joy?</L>
+</LG>
+<LG N="8">
+<HEAD>VIII.</HEAD>
+<L>Such was their Joy who by the Rainbow knew</L>
+<L>The sinful World should delug'd be no more;</L>
+<L>Such hers, who at the Blessed Virgins view</L>
+<L>Perceiv'd the Mighty Prophet that she bore.</L>
+</LG>
+<LG N="9">
+<HEAD>IX.</HEAD>
+<L>Hail then, Great <HI>Monarch,</HI> Parent of us all;</L>
+<L>Glad Father of an Off-spring now more dear:</L>
+<L>Permit me grov'ling at thy Feet to fall,</L>
+<L>And shew my Hearts true Joy and Duty there.</L>
+</LG>
+<LG N="10">
+<PB N="4" REF="4">
+<HEAD>X.</HEAD>
+<L>No hollow Sounds of Temporizing Love,</L>
+<L>Nor byass'd Duty taints my Loyal Breast;</L>
+<L>A solid Faith does my Allegiance move;</L>
+<L>And what I now, I always have exprest.</L>
+</LG>
+<LG N="11">
+<HEAD>XI.</HEAD>
+<L>Duty compell'd's an Artificial Cheat,</L>
+<L>A Dull false Pebble clos'd in Metal base;</L>
+<L>'Tis Inclination always best can set</L>
+<L>A Gem so proper for a Monarch's Grace.</L>
+</LG>
+<LG N="12">
+<HEAD>XII.</HEAD>
+<L>A Loyalty, that Care nor yet Distress,</L>
+<L>Nor Friends Allurements, Threats of Foes, nor Fear,</L>
+<L>Not proffer'd Wealth, Reproof, nor yet Disgrace</L>
+<L>Can alter, is the Gem we ought to wear.</L>
+</LG>
+<LG N="13">
+<HEAD>XIII.</HEAD>
+<L>Since Kings can do no wrong, what strange Decree</L>
+<L>Is that, which can Allegiance backward draw?</L>
+<L>Duty Chief Point should of Religion be,</L>
+<L>And an Obedience Passive should be Law.</L>
+</LG>
+<LG N="14">
+<PB N="5" REF="4">
+<HEAD>XIV.</HEAD>
+<L>The Curr that snarls at Edicts of his King,</L>
+<L>Methinks should streight set up a <HI>Monarch</HI> School;</L>
+<L>And perfect in the knack of Governing,</L>
+<L>Teach his Anointed Sovereign how to Rule.</L>
+</LG>
+<LG N="15">
+<HEAD>XV.</HEAD>
+<L>Desire him to give up his Regal Power,</L>
+<L>And veil his Judgment to <HI>Plebeian</HI> Tricks;</L>
+<L>Thus let the awful Lyon reign no more,</L>
+<L>Because the Ass would vent his Politicks.</L>
+</LG>
+<LG N="16">
+<HEAD>XVI.</HEAD>
+<L>Let such as he repine at that blest day,</L>
+<L>That gave this best of Blessings to our view;</L>
+<L>Whilst I in Hymns of Joy all Glory pay,</L>
+<L>To Heaven first, and then, Great Sir, to You.</L>
+</LG>
+<LG N="17">
+<HEAD>XVII.</HEAD>
+<L>Next, Hayl most bright, and most ador'd of <HI>Queens,</HI></L>
+<L>To whom all Sects do publick praise allow;</L>
+<L>Opinions most precise subdue their Spleens,</L>
+<L>And <HI>Ave Maries</HI> are most proper now.</L>
+</LG>
+<LG N="18">
+<PB N="6" REF="5">
+<HEAD>XVIII.</HEAD>
+<L>To You by Heaven ordain'd the Sacred Mold,</L>
+<L>That to Enrich us this bright Medal Coyn'd;</L>
+<L>More dear than Diamond Rocks, or Worlds of Gold,</L>
+<L>What thanks, ah! what Addresses shall we find!</L>
+</LG>
+<LG N="19">
+<HEAD>XIX.</HEAD>
+<L>Like needy Bankrupts wasted is our Store,</L>
+<L>Which wishes to supply can never serve:</L>
+<L>All Pens too worthless are, all Words too poor,</L>
+<L>T' express the mighty Praise that You deserve.</L>
+</LG>
+<LG N="20">
+<HEAD>XX.</HEAD>
+<L>Well have your strict Religious Vows been paid</L>
+<L>To Heaven, since your chief Suit is granted there;</L>
+<L>Who would not be by your Example led,</L>
+<L>If Gifts like This are the Effect of Prayer?</L>
+</LG>
+<LG N="21">
+<HEAD>XXI.</HEAD>
+<L>And who the Crowded Paths of Court has trod,</L>
+<L>That your untir'd Devotion has not seen?</L>
+<L>Ador'd by Men, and so belov'd of God,</L>
+<L>You more of Saint discover than of <HI>Queen.</HI></L>
+</LG>
+<LG N="22">
+<PB N="7" REF="5">
+<HEAD>XXII.</HEAD>
+<L>With Pity stor'd and every Royal Grace,</L>
+<L>So well You Your Majestick Part have plaid;</L>
+<L>What were great Bounty in another place,</L>
+<L>To you seems as a Debt but justly paid.</L>
+</LG>
+<LG N="23">
+<HEAD>XXIII.</HEAD>
+<L>Uncommon Vertue gains uncommon Grace,</L>
+<L>Well may the <HI>Stoick</HI> grant her Life is pure,</L>
+<L>Whose pious thoughts so firm in Heaven are plac'd,</L>
+<L>No Worldly Pomp, or Grandeur can allure.</L>
+</LG>
+<LG N="24">
+<HEAD>XXIV.</HEAD>
+<L>Who can too loud your Joy and Fortune sing,</L>
+<L>A Joy that o're all other far prevails;</L>
+<L>Since Bounteous Heaven has sent the only thing</L>
+<L>You wanted upon Earth, <HI>A Prince of Wales?</HI></L>
+</LG>
+<LG N="25">
+<HEAD>XXV.</HEAD>
+<L>A Rising Sun to influence this Isle,</L>
+<L>Divinely form'd, all Heroe from the Womb;</L>
+<L>Methinks I see the Royal Infant smile,</L>
+<L>As if he knew his Glorious Fate to come.</L>
+</LG>
+<LG N="26">
+<PB N="8" REF="6">
+<HEAD>XXVI.</HEAD>
+<L>A Fate that my Prophetick Soul Divines,</L>
+<L>O're Foreign Nations shall extend its Power;</L>
+<L>Whilst to Obedience Home-born Rage declines,</L>
+<L>And English Rebels shall be found no more.</L>
+</LG>
+<LG N="27">
+<HEAD>XXVII.</HEAD>
+<L>His very Name has proud Sedition hush'd,</L>
+<L>And Babling Faction has no more to say;</L>
+<L>His Infant Glory has their Envy crush'd,</L>
+<L>Whilst press'd by Fear dissembled Love they pay.</L>
+</LG>
+<LG N="28">
+<HEAD>XXVIII.</HEAD>
+<L>Upon his Foes th'Illustrious Babe does smile,</L>
+<L>Though at his Feet pale Treachery bows down,</L>
+<L>As if he knew and scorn'd each subtle wile</L>
+<L>Design'd against him, or his Fathers Crown.</L>
+</LG>
+<LG N="29">
+<HEAD>XXIX.</HEAD>
+<L><HI>Alcides</HI> so in his large Cradle lay,</L>
+<L>Strangling Rebellious Vipers with his hand;</L>
+<L>By Envy sent t' oppose his future sway,</L>
+<L>Who ere his Birth was modell'd for Command.</L>
+</LG>
+<LG N="30">
+<PB N="9" REF="6">
+<HEAD>XXX.</HEAD>
+<L>To Natures Care belongs the Common Mould,</L>
+<L>Slight second Causes form <HI>Plebeian</HI> Earth;</L>
+<L>But when a King is Cast, a Senate's call'd,</L>
+<L>And Angels sit in Council at his Birth.</L>
+</LG>
+<LG N="31">
+<HEAD>XXXI.</HEAD>
+<L>Wit, Valour, Beauty, Fortunate Success,</L>
+<L>Each Heavenly Officer in order brings;</L>
+<L>And by Command from the Eternal, Bless</L>
+<L>This Mighty Off-spring of the best of Kings.</L>
+</LG>
+<LG N="32">
+<HEAD>XXXII.</HEAD>
+<L>Thus though your Reign, Great Sir, in broils began,</L>
+<L>Till <HI>Phaeton</HI> came tumbling from the Sky;</L>
+<L>Bringing the Stubborn Rabble Headlong down,</L>
+<L>To Curse a Lunatick that soar'd too high;</L>
+</LG>
+<LG N="33">
+<HEAD>XXXIII.</HEAD>
+<L>With real Joy may all your People see</L>
+<L>What wondrous Blessings Heaven had in store,</L>
+<L>That from Lifes greatest dangers set you free</L>
+<L>Of stormy Sea, and the more stormy shore.</L>
+</LG>
+<LG N="34">
+<PB N="10" REF="7">
+<HEAD>XXXIV.</HEAD>
+<L>And now to Close all Blessings up in one,</L>
+<L>And give your Royal Heart true Cause of Bliss;</L>
+<L>Great Providence presents you with a Son,</L>
+<L>And to your Kingdoms boundless Happiness.</L>
+</LG>
+<LG N="35">
+<HEAD>XXXV.</HEAD>
+<L>All Joy to <HI>Caesar</HI> then, and to the Queen,</L>
+<L>And to <HI>Augusta</HI><NOTE N="*" PLACE="foot">London.</NOTE>, if true Joy she knows;</L>
+<L>Though to her shame she has once Wav'ring been,</L>
+<L>And to her Mighty Lord a Faithless Spowse.</L>
+</LG>
+<LG N="36">
+<HEAD>XXXVI.</HEAD>
+<L>Pamper'd and Proud, of a true City Race,</L>
+<L>Under Devotions Veil contriving ill;</L>
+<L>Wrong is the Zeal Allegiance does not Grace,</L>
+<L>And false the Church that teaches to Rebel.</L>
+</LG>
+<LG N="37">
+<HEAD>XXXVII.</HEAD>
+<L>Our <HI>Holy Matron</HI> ne're such Doctrine taught,</L>
+<L>Her Principles of Faith all Loyal are;</L>
+<L>Founded on Truth, and from Tradition wrought,</L>
+<L>Clear as the Light, and shining as a Star.</L>
+</LG>
+<LG N="38">
+<PB N="11" REF="7">
+<HEAD>XXXVIII.</HEAD>
+<L>Enthusiastick Schism the humour leads</L>
+<L>Of such as can no Monarchy endure;</L>
+<L>Effects of sickly Brains, and empty Heads,</L>
+<L>And Treasonous Railing is, they think, a Cure.</L>
+</LG>
+<LG N="39">
+<HEAD>XXXIX.</HEAD>
+<L>The Wise man speaks no ill, but hopes all right,</L>
+<L>Nor looks too near the Sun left sight should fail;</L>
+<L>So th' brave not Conquering his Foe in fight,</L>
+<L>Allows it base behind his back to rail.</L>
+</LG>
+<LG N="40">
+<HEAD>XL.</HEAD>
+<L>But Carping <HI>Momus</HI> in each Age must be</L>
+<L>A <HI>Zany</HI> plac'd to make a Monarch sport;</L>
+<L>The Fop and Parasite we often see,</L>
+<L>Are two Essential Figures in a Court.</L>
+</LG>
+<LG N="41">
+<HEAD>XLI.</HEAD>
+<L>Yet useful Law and Learning flourish there,</L>
+<L>But above all the Souldier leads the Van;</L>
+<L>Whilst humble Poetry brings up the Rear,</L>
+<L>And ever to his grief is hindmost Man.</L>
+</LG>
+<LG N="42">
+<PB N="12" REF="8">
+<HEAD>XLII.</HEAD>
+<L>Inspiring Poetry that decks the Mind</L>
+<L>With Reasons richest Phrase to speak to Kings;</L>
+<L>And as a Gift peculiar was design'd,</L>
+<L>To treat of Mighty Heroes mighty things.</L>
+</LG>
+<LG N="43">
+<HEAD>XLIII.</HEAD>
+<L>Wits truest Mirrour where it sees its Face,</L>
+<L>Adorn'd with modest, as with Beauteous Charms;</L>
+<L>And own'd by all th' Illustrious Roman Race,</L>
+<L>Embellishment for Kings as well as Arms:</L>
+</LG>
+<LG N="44">
+<HEAD>XLIV.</HEAD>
+<L>Now lonely walks with sad dejected look,</L>
+<L>Whom Ignorance beholds with scornful Eyes;</L>
+<L>As if it were a shame to know a Book,</L>
+<L>And a disgraceful scandal to be Wise.</L>
+</LG>
+<LG N="45">
+<HEAD>XLV.</HEAD>
+<L>But you, Great Sir, the English Muses King,</L>
+<L>Cheer their Cold hopes with Beams of Royal Grace;</L>
+<L>Else perish'd were the Fam'd <HI>Castalian</HI> Spring,</L>
+<L>And wholly Ruin'd Great <HI>Apollo</HI>'s Race.</L>
+</LG>
+<LG N="46">
+<PB N="13" REF="8">
+<HEAD>XLVI.</HEAD>
+<L>A common genius common Souls Inspires,</L>
+<L>Coyn'd off in hast, each to his post is hurl'd;</L>
+<L>Poets have part of that Coelestial Fire,</L>
+<L>That makes a King contemn the sordid World.</L>
+</LG>
+<LG N="47">
+<HEAD>XLVII.</HEAD>
+<L>With Wealth and Arms your Empire, Sir, is blest;</L>
+<L>With Noble Arts I hope will flourish too:</L>
+<L>The English Imitate old Romans best,</L>
+<L>And we the Fam'd <HI>Augustus</HI> find in You.</L>
+</LG>
+<LG N="48">
+<HEAD>XLVIII.</HEAD>
+<L>And may this Royal Babe, Your Kingdoms Joy,</L>
+<L>The Richest Gem, that does Your Crown Adorn,</L>
+<L>His Youth by Grace and Vertue dignify,</L>
+<L>That all may Bless the Minute He was Born.</L>
+</LG>
+<LG N="49">
+<HEAD>XLIX.</HEAD>
+<L>May his Great Valour o're the World be known,</L>
+<L>Whilst blest Success each Glorious Act Proclaims;</L>
+<L>May History be fill'd with his Renown,</L>
+<L>And the Fourth <NOTE N="*" PLACE="foot"><HI>Edward</HI> the <HI>Black Prince,</HI> who won the Battails of <HI>Cressy</HI> and <HI>Poictiers,</HI> &amp;c. and took the French King Prisoner.</NOTE> <HI>Edward</HI> Vail to the Third <HI>Iames.</HI></L>
+</LG>
+<LG N="50">
+<PB N="14" REF="9">
+<HEAD>L.</HEAD>
+<L>And may Your Sacred Self live long and Reign,</L>
+<L>With Your Bright <HI>Consort</HI> sharing lasting Joy;</L>
+<L>May Heaven inform the Genial Bed again,</L>
+<L>And soon produce a second Royal Boy.</L>
+</LG>
+<LG N="51">
+<HEAD>LI.</HEAD>
+<L>May Golden Peace with Pleasure guild Your Days,</L>
+<L>From Rebels free, and Treasons Hellish Arts;</L>
+<L>Health, Fame and Unity, Your Grandeur raise,</L>
+<L><HI>Kings then Reign best, that govern Subjects Hearts.</HI></L>
+</LG>
+<TRAILER>FINIS.</TRAILER>
+<PB REF="9">
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

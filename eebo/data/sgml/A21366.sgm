@@ -1,0 +1,776 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD EEBOPROOF 2.0//EN">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-09-22</DATE>
+<RESPSTMT>
+<NAME>Dan Haig</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TYPEs to DIVs in order to validate. Proofed title page(s). Checked for N=""s. Checked for GROUP tags. Checked ^s. Reviewed structure. Checked division-marking material at heads and feet of divisions (HEADS,  CLOSER, OPENER, ARGUMENT, EPIGRAPH, SIGNED, BYLINE, etc.). Checked for signatures. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Converted 482 $s to GAP DESC="illegible" RESP="[vendor name]". Checked spacing of foreign GAPs.  Checked for LBs. Checked for startqs, endqs, oes, q;s, and Qs. Checked proofsheets and made corrections found there.  Checked for FIGUREs and decorated initials. Checked for missing-page GAPs. Revalidated. </ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="A21366">
+<STC T="S">77</STC>
+<BIBNO T="umi">99849640</BIBNO>
+<VID>14800</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1">
+<PB REF="1">
+<P>A Reproofe / 
+spoken and geeuen-fourth
+by <HI>ABIA NAZARENVS</HI> / against all
+false Christians / seducing Ypocrites / and
+Enemies of the Trueth and Loue.
+Wher-withall their false Deuices / Punnishment / 
+and Condemnation&middot; together with the Con|uertion
+from their Abhominations&middot; and
+their Preseruation in the Godly|nes,
+is figured-fourth before
+their Eyes.</P>
+<P>Translated out of Nether-saxon.</P>
+<P><FIGURE>
+</FIGURE></P>
+<Q>Like as Iannes and Iambres vvithstood Moses, euenso <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">o These [namely, the Enemies of HN, and of the Loue of Christ] also resist the Trueth.</Q>
+<BIBL>2. Timo. 3. c.</BIBL>
+<Q>They slaunder that vvhich they knovv not, &amp; vvhat they
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ovve naturallie, therin do they &lsemicol;like as Beastes vvhich are
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ithout reason; destroy themselues.</Q>
+<BIBL>2. Pet. 2. c. Iude. 1. c.</BIBL>
+<Q>VVoe vnto them, for they go the VVay of Cain.</Q>
+<BIBL>Gen. <GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> Iudae. 1. c.</BIBL>
+<Q>And for Lukers sake, they fall into the Errous
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> Balaam.</Q>
+<BIBL>Num. 24. Iudae. 1. c.</BIBL>
+<Q>They perrish or vanish avvay in the Vprour of Chore.</Q>
+<BIBL>Leuit. 10.</BIBL>
+<Q>And are vvith their straunge Fire, like as Nadab
+and Abihu, consumed or brought to nothing by the Lordes ire.</Q>
+<BIBL>Num. 16. Iudae. 1. c.</BIBL>
+<P>Imprinted in the Yeare of our Lorde, <HI>M.D.LXXIX.</HI></P>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="2">
+<PB REF="2">
+<HEAD>An Epistle writen and sent vnto the
+Communialtie of Loue, by the cho|sen
+Minister in thesame.</HEAD>
+<P>IN-as-much as that ther
+is Mercie chaunced vnto me / 
+through the Loue of God the
+Father, so is my Spirit incli|ned
+to thesame Spirit of God
+the Father, and also to y^e Ser|<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ice
+of my Neighbour: and that altogether to
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">hesame Loue.</P>
+<P><GAP DESC="illegible" RESP="tech" EXTENT="1 letter">. To the Communialtie in the Loue, vnto
+whom wee wish in the Lorde / much Felicitie,
+Health, and Saluation.</P>
+<P><GAP DESC="illegible" RESP="tech" EXTENT="1 letter">. MY Beloued in the Lorde, the cause of
+my writing of this Epistle vnto you, is
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">o geeue your Loues to vnderstand, that the
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">orde through his elected Minister HN, hath
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">cripturelie setfourth and declared in full and
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">mple maner / the Mans Falling awaye<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> tho|<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ough
+the Disobedience; from his God, and
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">lso his right Conuertion<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> by Repentaunce;
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">nto God: and in like maner how hee should
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">e instructed, to his Growing-vp in the God|<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">nes / 
+euen vnto the euerlasting Life. Hee hath
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">so brought-fourth<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> through thesame his elec|<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">d
+Minister; certen Epistles of Correction
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">nd Exhortatio~ out of heartie Loue, to a pluc|<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ing
+vnder the Obedience of the Loue, and to
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">epentaunce for y^e Sinnes, vnto them which
+<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">ink themselues wise, and therfore blaspheam
+<PB REF="3">
+our Seruice &amp; our Communialtie in the Lou<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+Othersom also / as Exhortations, to warne th<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+Louers of the Trueth / of all false Visions an<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+Spirites, which makevp themselues out of th<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+wicked World / in this last daungerous Tim<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"></P>
+<P>4. In conclusion, ther is sufficient to answe<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+eueryone, of what Minde ether Opinion soe<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">uer
+hee be, if hee will be answered by y^e Trut<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+And therfore wee need to doo no more, but <GAP DESC="illegible" RESP="tech" EXTENT="1 word">
+make-manifest those-same Exhortations / <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+conuenient time, as the cause doth require it.</P>
+<P>5. Notwithstanding, although wee<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> th<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">rough
+the Goodnes of the Lorde; doo our d<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ligence
+to make-manifest the Woorkes of th<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+Lorde, to his Laude and Praise, and to y^e Con+uerting
+of Sinners from their Sinnes, and to in<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">duce
+or leade them to an vpright Life / bo<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+before God and Men, Yet are wee counted <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+iudged for Seducers: and are slaundered wit<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+all Wickednes, and bruted for Euel-dooer<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+And thissame is assuredlie a great Miserie vpo<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+the Earth.</P>
+<P>6. Whoso then can now in this wicke<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+Time / perceaue such wicked Deedes, The<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+may also perceaue therout, that thissame Tim<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+is euenlike as was the Time of <HI>Noe</HI> in the for<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">mer
+corrupted World, and as the Time of <HI>Lo<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"></HI>
+in <HI>Sodom</HI> and <HI>Gomor:</HI> and that in thesame Tim<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+all Iniquitie and Falshod doth beare-swaye.</P>
+<P>7. They may farder note and perceaue, th<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+in this self-same Time / the World is couere<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+ouer with the Darknesses of <HI>Egipt,</HI> with th<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+Plagues of <HI>Phara<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">,</HI> with the Ignoraunce of th<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+<PB REF="3">
+<HI><GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ananites,</HI> with the Contention and Discord of
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">e intangled <HI>Babel,</HI> with the Deceit and Insti|<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">tion
+of the false God seruices of <HI>Ieroboam,</HI> with
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> wicked Enterprise or Deuice of <HI>Iezabel,</HI> with
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">e sectuarish Spitefulnes of the Scripture-lear|<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ed
+and of the <HI>Pharisees</HI> and <HI>Saducees,</HI> with the
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">mbition of <HI>Pilate,</HI> and with the Tirannie of
+<GAP DESC="illegible" RESP="tech" EXTENT="1 word">, as also with all heathenish Instabilitie: and
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">at the Destruction is hard-at-hand.</P>
+<P>FOr-as-much then <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">my Beloued in the
+Lorde; as that ther are now so manye
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">rrible and abhominable Euels risenvpp in
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ese Dayes: wherby wee see that the Abho|<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">nation
+of Desolation possesseth the Holie,
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">erof ther is prophecied by the Lorde <HI>Iesus
+<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">ist:</HI> and that ther are also false <HI>Christes</HI> and
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">se Propheates, euen as ther were manye in
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">se Dayes, which madevp themselues <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">when
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> Lorde <HI>Iesus</HI> was personallie vpo~ the Earth;
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ellious<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ie and blaspheamouslie: So are ther
+<GAP DESC="illegible" RESP="tech" EXTENT="1 word"> now in this last Daye <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">which is the Com|<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">-againe
+of the Lorde <HI>Iesus Christ,</HI> with the
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">y Thowsandes of his Sainctes, according
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">he Promises; many Offallers, Aduersaries,
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> Resisters, which makevp themselues re|<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">iouslie
+and blaspheamouslie / against the
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">de and his most-holie Seruice of Loue: of
+which som of them haue made-manifest
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">selues, and their Names / by their slaun|<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">us
+Bookes: namelie these are knowne vn|<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">
+in England, <HI>Stephan Bateman</HI> (in his Booke
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">uled <HI>The golden Booke of the leaden Gods:</HI> and
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">hn Rogers Booke / <HI>To the Reader) Iohn Rogers</HI>
+<PB REF="4">
+(in his Booke intituled <HI>The Displaying of the Fam<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">lie
+of Loue</HI>) and <HI>Iohn Knewstub</HI> and his Compan<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">ons
+(in his Booke intituled 1. <HI>Knewstub against <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+Heresies of</HI> HN) together with their slaundero<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+Blaspheamies, Cainish bloud-thirstie Tira<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">+nie,
+and extreeme Persecution / for to shead <GAP DESC="illegible" RESP="tech" EXTENT="1 word">
+innocent and giltles Bloud.</P>
+<P>9. For which occasio~ / wee are forced <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">th<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">rough
+the Loue which wee haue vnto G<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+and our Neighbour; to translate this Epistle
+Reproofe and Exhortation heerafter follo<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">+ing out
+of the Woorkes which are gon-fou<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+through <HI>Abia Nazarenus,</HI> a Fellow-elder w<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+HN in the Familie of Loue: wherby it mou<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+be knowne, how the Lorde hath mooued
+elected Elders, to write against the Blasph<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">mers,
+Backbyters, and Slaunderers. &amp;c. <GAP DESC="illegible" RESP="tech" EXTENT="1 word">
+therfore wee will not contend with them,
+submit our cause vnto the Almightie, and h<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+vpon his Goodnes.</P>
+<P>10. Howbeit wee haue thought it goo<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+make-manifest their Names / which are <GAP DESC="illegible" RESP="tech" EXTENT="1 word">
+pheamous Writers: desiring the Goodwi<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+which loue God &amp; his Righteousnes, to <GAP DESC="illegible" RESP="tech" EXTENT="1 word">
+intercession with vs vnto the almightie <GAP DESC="illegible" RESP="tech" EXTENT="1 word">
+head, with these or such-like Wordes. and <GAP DESC="illegible" RESP="tech" EXTENT="1 letter"></P>
+<P>11. O God, prepare the Heartes of y^e <GAP DESC="illegible" RESP="tech" EXTENT="2 letters">ple
+to the Lowmyndednes,<NOTE PLACE="marg">A Prepa|ratiue.</NOTE> that
+mought stand in Meekmyndednes subm<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+to the Loue, and loue the Coming of thy <GAP DESC="illegible" RESP="tech" EXTENT="1 word">
+in his Lordlynes: through whom the <GAP DESC="illegible" RESP="tech" EXTENT="1 word">
+passe of the Earth shall be iudged with
+<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">eousnes: which also shall trouble all Mig<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+<PB REF="4">
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">iolence, and bring it vnder his Obedience.
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">nd geeue-ouer or render vnto thee <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">O al|<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ightie
+God; the Kingdom, that thou maist
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">e all in all.</P>
+<P><GAP DESC="illegible" RESP="tech" EXTENT="1 letter">2. O God geeue this into the Heartes of y^e
+Maiestrates for to beholde, and illuminate all
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">inges, Princes, Lords, and Gouernours / with
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">y godlie Wisdom, that they mought feare
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">y holie Name&punc; stand submitted to thy Loue
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">nd her Seruice&punc; and so turne them away from
+<GAP DESC="illegible" RESP="tech" EXTENT="1 word"> Violence and Misvse: that the World may
+<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">so be inhabited <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">to thy Praise; in the Loue
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">nd in all Trueth: and that all Men <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">in true
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">epentaunce for their Sinnes; may be turned
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">nto thee&punc; and the horrible Plagues of y^e Vn|<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">odlines
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">which are com ouer the World for
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">er Sinnes cause; ceasse or holde-vp.</P>
+<P><GAP DESC="illegible" RESP="tech" EXTENT="1 letter">. O God, let vs now finde Grace before
+<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">ine Eyes, like as the Citie of <HI>Niniue</HI> in times|<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ast,
+which thou receauedst to mercie: That
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ee perish not now all as <HI>Sodom</HI> and <HI>Gomor.</HI> For
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ur Sinnes are many&punc; and <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">aboue measure; be|<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">m
+manifolde.</P>
+<P><GAP DESC="illegible" RESP="tech" EXTENT="1 letter">. O Lorde and God <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">O heauenlie Father;
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">are I beseech thee / the Prayer of the Poore,
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">nd leade vs in thy Wayes. Gather vs together
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">on thy Pathes, and make our Heartes agree
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> one Band of thy Loue, as One in all, and All
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> one / which loue the Right and Righteous|<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">s.
+Clense our Mindes from all vngodlie Be|<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">g,
+and breake all the Counsaile of Vngodli|<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">es,
+to thend that the Wickednes gouerne not
+wayes, and euermore.</P>
+<P><PB REF="5">
+15. BEhold, my Beloued: This is my frin<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">lie
+Exhortatio~ vnto you, that yee wi<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+submit you vnder the mightie Hande of th<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+Lorde, and hope vpon his Goodnes: abyding
+the Lord-his leasure, and putting your confi<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">dence
+in Him / according to his Promises.</P>
+<P>16. But if the Blaspheamers will not leaue<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+of fro~ their Blaspheamie, nor take any Coun<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">saile
+out of the Woorde and Woorkes of th<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+Lorde, which are figured-fourth in the Seruic<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+of Loue / to their Reformation, so will we
+then be blameles of their Destruction: for a<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+much as wee haue figured-fourth y^e Counsail
+of the Lorde before them, to their Reforma<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">tion
+and Preseruation, in all our former Ser<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">uice
+of the Loue, and now in this Exhortatio<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+heere-after following.</P>
+<P>17. The Loue of God the Father <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">throug<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+the Reuelation of the Coming of our Lord
+<HI>Iesu Christ;</HI> be with you, my Beloued: and ill<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">minate
+your Spirit, in a true Knowledg of th<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+Life / in the Spirit, for to see liuinglie <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">with
+right Deserning; and to knowe the secre<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+Counsaile &amp; Will of God, for that yee monug
+iudg <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">with a right Iudgment; according
+to the Trueth. That graunt vs
+the almyghtie Lorde / 
+through his Loue.</P>
+<P>AMEN.</P>
+<EPIGRAPH>
+<Q>O Lorde God / Father and Lorde of my Life, let <GAP DESC="illegible" RESP="tech" EXTENT="1 word">
+not com among the Blaspheamers, and let mee not <GAP DESC="illegible" RESP="tech" EXTENT="1 word">
+among them.</Q>
+<BIBL>Eccli. 23.</BIBL>
+</EPIGRAPH>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="text">
+<PB REF="5">
+<HEAD>This is the Reproofe spo|ken
+and setfourth b<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> Abia / a Fel|lowe-elder
+with HN in the Familie of
+Loue / against all seducing <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">pocrites / which go-<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ourth
+against the Familie of Loue / for to seduce the
+Single-mynded.</HEAD>
+<ARGUMENT>
+<P>Wher-withall their Falshod / which they <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">to their owne Destr<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ction; s<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ew-fourth against the gra|tious Woorde of the holie Spirit of the Loue
+of Iesu Christ, and against Gods elected Mi|nisters
+/ as also <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">to their Preseruation in the
+Godlines; the Conuertion from their Abhomi|nations
+/ is figured-fourth before their Eyes.</P>
+</ARGUMENT>
+<DIV2 N="1" TYPE="chapter">
+<HEAD>The First Chapiter.</HEAD>
+<P>_O Yee false Heartes / 
+yee Ypocrites / together
+with all yee presumpteous
+vnsent Teachers / Wherfore
+do yee thus trouble and mo|lest
+the Littleones / and the
+single-minded Elect of God / 
+for to withdrawe them with your false and vnclene
+Doctrine of the goodthinking Knowledg / from the
+Single-mindednes which they haue to the pure
+Doctrine of the Seruice of the Loue of <HI>Iesu Christ:</HI>
+and so to leade them away and to estraunge them / 
+from the mercifull Grace of our heauenlie Father&punc;
+from the Safe-making of our Lorde <HI>Iesu Christ<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"></HI>
+<PB REF="6">
+and from the Loue of the Holie-gost / whervnto they
+haue humblie &amp; obedientlie geeuen-ouer themselues.</P>
+<P>2. Woe vnto you and your Presumption / yee
+false and seducing Spirites. yee sathanish Houndes
+and renting Wolues. yee Generations of Vypers
+and <HI>Cains</HI> Ministers. Yea woe vnto you, yee
+Nestes of Dragons and Habitations of Deuels / 
+together with all yee wicked Heartes of the Scrip|ture-learned:
+For yee and your Fathers haue be|trayed
+Gods Propheates&middot; as also <HI>Iesu Christ</HI>
+and his Witnesses. hauing falslie accused and de|famed
+them: and euenso &lsemicol;through the Handes or
+Power of Sinners; persecuted and killed them.</P>
+<P>3. O Thou wicked Nature / and yee Childre~
+of <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">nbeleef / which forsake the Purging
+in <HI>Iesu Christ</HI> / through the Beleef / and the vpright
+Beeing of the Loue of <HI>Iesu Christ,</HI> and expell the|same
+out of your Heartes / together with the Ac|complishing
+of the true Oblation or Godseruice in
+the Holie / to the Slaying and Burying of your
+Sinnes / and to the Renewing of your Spirit and
+Minde: Is it not Wickednes and Euel-fact e|nough
+for you / that yee haue turned-away your|selues
+from the Requiring of y^e Loue and her Ser|uice
+/ and from the faithfull Sheepe or Children of
+thesame&middot; made your Portion with the Goates&middot; pol|luted
+yourselues in all Vnbeleef / contrarie to the
+Safe-making of our Lorde <HI>Iesus Christ</HI> and his
+holie Spirit of Loue&middot; prepared you to Vessels of
+the Wrath of God&middot; and &lsemicol;with your false Iudg|mentes
+and Blaspheaming of the Holie-gost; pluc|ked
+vpon your owne Neckes / the dreedfull Iudg|ment
+and wrathfull Woord of the Lorde <HI>[Depart
+<PB REF="6">
+from mee / yee Curssed, into the euerlasting
+Fire / which is prepared for the Deuell and his
+Angels or Messengers]</HI> But that yee must also
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">with your false Doctrine and vncleane Lippes;
+pursue and persecute the Elect <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">the faithfull Childre~
+of the Loue of <HI>Iesu Christ<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">,</HI> for to robbe them of
+their Inheritaunce of the Kingdom of God and of
+the Loue of <HI>Christ,</HI> to holde them captiue in your
+damnable Beeing or Estate / and that yee mought
+make them partakers with you and all wicked Spi|rites
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">if it were possible that yee could seduce them;
+of your Damnation.</P>
+<P>4. For verelie / till vnto thesame Iudgment of
+this your Condemnation / yee are <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">O yee Children
+of the Deuell / and Members of <HI>Antichrist;</HI> helde
+bound with the Bandes or Chaines of Darknes / 
+to thende that the God of Heauen should <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">in this
+Daye of his righteous Iudgment; make-manifest
+and bring his Vengeaunce ouer you / to your Re|compencing
+with the Fire of Hell.</P>
+<P>5. Yea / euen-thus will the God of Heauen pre|sentlie
+in this Day / openlie bring-fourth and make-knowne
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">before your Eyes / and before all Eyes of
+Vnderstanding; the Hardnes of your Heartes / 
+with your Lyes &amp; Blaspheaminges of God / which
+yee haue spoken against God the Father and his
+mercifull Grace&punc; and against <HI>Christ</HI> and his Righ|teous-making
+from the Sinne&punc; as also against the
+holie Spirit and his Making-aliue in the Loue.</P>
+<P>6. Euen-thus will presentlie in this Day of the
+righteous Iudgment of God <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">O yee presumpteous
+Blaspheamers of the Holie-gost and his Familie
+of Loue; all the Woe of the Vngodlie com ouer
+<PB REF="7">
+you / to your Rewarding.</P>
+<P>7. FOr-that-cause looke now into your Abho|minations
+/ and marke how yee haue sepe|rated
+yourselues with y^e Goates / from the Sheep / 
+with the which yee shall also (if so be that yee do not
+whollie turne you away therfrom / and repent) be
+constrained to beare your Sentence of Condemna|tion.
+Therfore looke now rightlie into it / and re|pent
+/ ereuer the Vengeaunce of God fall vpon you.
+Yea looke well into it / how yee haue madevp your|selues
+with your false Iudgmentes / against God-his
+righteous Iudgment / and against the holie
+Spirit of the Loue of <HI>Iesu Christ,</HI> and his Com|munialtie
+of Holyones: In such wise / that yee haue
+also indeuoured you / to seduce God-his elected Ho|lyones
+/ and to make the gratious Woorde <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">which
+God hath raised-vp by vs / according to his Pro|mises;
+and the Ministers of thesame Woord / hor|rible
+and despised / before all Goodwillingones to
+the Righteousnes: and so then to pluck them away
+from the Communialtie of Loue / and to leade them
+with you <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">in your Chaines or Bandes of Darknes;
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">nto Damnation / to thentent that they should not
+by any-meanes be taught <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">through the Obedience
+of the Seruice of Loue; to the Kingdom of Heauen / 
+which yee shuttoo before Many / and com not ther|in
+yourselues<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> but that they should remaine with
+you / ther-without.</P>
+<P>8. Yea euen-thus / with your Falshod and for|ged
+Lyes / and with your subtile Slaunders and
+flattering Woordes / yee com-fourth so knowledg|full
+/ and occupie also <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">according to the Similitude
+or Figuring-fourth of the Scriptures; such a co|loured
+<PB REF="7">
+Shew of Christianitie / for to leade-astraye / 
+that yee should <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">if it were possible; seduce also the
+Elect / with your false or coloured Christianitie.</P>
+<P>9. But no: Yee are not able in this Daye of
+Loue / to seduce the Elect / nor to accomplish your
+Seduction, with the Holyones of God of the Fa|milie
+of Loue: For y^e liuing God of Heauen <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">which
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">s their God&punc; and their Defender from all Seduc|tion;
+goeth so stedfas<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">lie <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">in his Seruice of Loue;
+with his true Light of the heauenlie Cleernes of <HI>Ie|su
+Christ</HI> / before them all which are his faithfull
+Childre~ of Loue / and geeueth them daylie <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">through
+his holie and gratious Woord; such a cleere Di|uersitie
+in their Heartes: and the true Light of all
+the Righteous and Holyones of God / is so naked|<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ie
+distincted vnto them / from the Darknesses of the
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">alse Light of all y^e Vnrighteous / and false Heartes
+of the Scripture-learned or of the vnsent Pr<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ach|<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">rs / 
+That it is not possible that yee should seduce
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">hem (if they holde them constantlie on the Ser|<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ice
+of Loue) from the Waye of the Loue of <HI>Iesu
+Christ:</HI> nether-yet that yee should be able <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">yee wic|<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ed
+Generations of <HI>Cain,</HI> and yee false Prophetes
+of <HI>Iezabel;</HI> to destroy or keep-back in them / Gods
+Trueth and Righteousnes.</P>
+<P><GAP DESC="illegible" RESP="tech" EXTENT="1 letter">0. Verelie our Lorde and Sauiour / <HI>Iesus
+Christ,</HI> hath well and rightlie spoken and prophe|<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ied
+of your subtile Falshod and dec<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">itfull Signes
+and Wonders for to leade-astray: In such wise / 
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">hat the Elect should also <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">if it were possible; th<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">|<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ough
+your subtile Falshod and loftie Knowledg / 
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">elead into Errour.</P>
+<P><GAP DESC="illegible" RESP="tech" EXTENT="1 letter">1. But for the Elects-sake / the Dayes are now
+<PB REF="8">
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">hortened: For God will presentlie in this Day <GAP DESC="illegible" RESP="tech" EXTENT="1 word">
+his Loue &lsemicol;in y^e which Hee will keep his Iudgment
+execute his righteous Iudgment: and will euen<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">
+glorifie his Elect / in his Righteousnes or Perfec<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">tion / 
+and make them ioyfull &lsemicol;with his euerlastin<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+Li<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">e; in his Kingdom of Heauens: as also mak<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+manifest all false Deuices which are practi<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ed for <GAP DESC="illegible" RESP="tech" EXTENT="1 word">
+leade-astray: and condemne you / with the Vngod<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">lie
+and Blaspheamers of the holie Spirit of Loue
+and with all Children of the Deuell / in the Hel<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+where-as &lsemicol;in the beholding of their Vngodlynes
+all Woe / Wringing-of-handes / and Gnashing <GAP DESC="illegible" RESP="tech" EXTENT="1 word">
+Teeth shall take-holde of them / euerlastinglie.</P>
+<P>12. FOr-that-cause ought eueryone to look
+well to it / what hee iudgeth for euell an<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+blaspheameth: and to haue a good regarde on th<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+Matiers which concerne God or his Seruice / fo<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+to vnderstand those-same first well and aright / ac<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">cording
+to the Trueth / ereuer hee iudg them for e<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">uell / 
+and slaunder or despise them. For it will con<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+very heauelie vpon them / which stretch-out the<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+Handes to Gods Sanctuarie / for to take-holde <GAP DESC="illegible" RESP="tech" EXTENT="1 word">
+thesame with vncleane Handes / and to resist an<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+blaspheame &lsemicol;with vncleane Heartes / and with vn<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">circumcised
+Tunges and Lippes; Gods Work<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+with his Holyones or Children of Loue.</P>
+</DIV2>
+<DIV2 N="2" TYPE="chapter">
+<HEAD>The Second Chapiter.</HEAD>
+<P>OH &lsemicol;alas; how many-maner <GAP DESC="illegible" RESP="tech" EXTENT="1 word">
+false heartes are ther now! which do <GAP DESC="illegible" RESP="tech" EXTENT="1 word">
+&lsemicol;eueryone with hys craftie Knowledg<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+makeup themselues against God and <GAP DESC="illegible" RESP="tech" EXTENT="1 word">
+<PB REF="8">
+Seruice of Loue / and are not ashamed to spew|<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">urth
+their horrible Lyes &amp; Blaspheamies against
+Gods gratious Woord and his Seruice of Loue.</P>
+<P><GAP DESC="illegible" RESP="tech" EXTENT="1 letter">. And then cometh fourth the one Partie from
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">he one syde&punc; and the other Partie from the other
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">yde / vnto the Goodwilling to the Loue of <HI>Iesu
+Christ,</HI> and saye vnto them: <Q>Yea as I heare / yee
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ade also the Bookes of the Familie of Loue / which
+<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">re setfourth by <HI>HN:</HI> Hee writeth <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">verelie; many
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">xcellent Matiers / wherin hee resiteth much of the
+Loue / and teacheth Men <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ther-withall; to the vp|<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ight
+Beeing of <HI>Christ:</HI></Q></P>
+<P><Q>But what is that to the purpose: Ther lyeth
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">reat Falshod hidden ther-vnder: wee knowe what
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ee haue found-out by thesame. Therfore take yee
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">eed therof / and looke well to it / that yee be not se|<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">uced
+therwith&punc; nor drawen to y^e Familie of Loue.
+<GAP DESC="illegible" RESP="tech" EXTENT="1 word"> warne you of the horrible Seduction / and of the
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">rronious Bookes of <HI>HN:</HI> to thend that yee be not
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">lucked with the Familie of Loue / into horrible Er|<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">urs.</Q>
+And so they do then spew-fourth many for|<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ed
+Lyes / and beas<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">lie Matiers / wherwith they do
+<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">cuse and defame the Familie of Loue&punc; as also <HI>HN</HI>
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">nd the Elders which minister the holie and graci|<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">s
+Woorde / in the Familie of Loue / for to make
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">enso with their false Defamations / the Familie
+<GAP DESC="illegible" RESP="tech" EXTENT="1 word"> Loue / wherin God liueth and walketh&punc; together
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ith <HI>HN</HI> God-his elected Minister<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> and the El|<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ers
+in the Familie of Loue / horrible and despised
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">fore all People.</P>
+<P><GAP DESC="illegible" RESP="tech" EXTENT="1 letter">. Beholde / such venemous Foode of Death
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ontrary to the wholsom Foode of Life and of the
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">rueth of God; can the Deuell prepare / through
+<PB REF="9">
+his Ministers and Ministrices / and through <GAP DESC="illegible" RESP="tech" EXTENT="1 word">
+false Heartes of the Scripture-learned / and <GAP DESC="illegible" RESP="tech" EXTENT="1 word">
+Ministers of the false Godseruices of <HI>Cain:</HI> <GAP DESC="illegible" RESP="tech" EXTENT="1 word">
+they knowe then how to couer thesame Falsho<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+vnder a Shew of Holynes and of Loue which th<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+beare vnto Men / to thend that they should not fa<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+to fulfill the Measure of the Iniquitie of their F<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">thers / 
+and that the Dayes which reach to the<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+Condemnation / mought be shortened.</P>
+<P>5. WOe vnto you / yee false Heartes: <GAP DESC="illegible" RESP="tech" EXTENT="1 word">
+presentlie in thys Daye shall all yo<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+Lyes and forged false Testimonies <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">which yee yo<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+selues haue made very filthie / with your vnclea<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+Dirt; be condemned in the hellish Fire: For th<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">same
+your false Testimonies are brought-four<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+out of the earthlie Ingeniousnes and Generat<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">
+of the Deuell: and yee haue exalted yourselues <GAP DESC="illegible" RESP="tech" EXTENT="1 word">
+your earthlie Ingeniousnes; so hie / with thesam<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+and with the Workes of the Fleash / to a great E<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">timation
+with Men / and planted your false Se<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+so fast in the Heartes of Men / that yee haue vtte<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+lie expeiled ther-out the God of Life / the safe-maki<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+<HI>Christ,</HI> and the Holy-gost of the heritable Rich<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+of the h<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ouenlie Bewtie&punc; also lead many men <GAP DESC="illegible" RESP="tech" EXTENT="1 word">
+vnto Des<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ruction&punc; and brought many in<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">o gre<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+Heauynes and greeuous Miscrie: and haue eue<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+so ther-through / prepared the Iudgment of yo<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+Condemnation / the-sooner ouer yourselues.</P>
+<P>6. Therfore shall also presentl<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">e <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">through <GAP DESC="illegible" RESP="tech" EXTENT="1 word">
+your Fall; many vpright Heartes be able ligh<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+to perceaue / that yee are thesame Messengers of <GAP DESC="illegible" RESP="tech" EXTENT="1 word">
+Deuell / which are gon-fourth against God and <GAP DESC="illegible" RESP="tech" EXTENT="1 word">
+Seruice of Loue / and against his Trueth / for
+<PB REF="9">
+seduce <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">with your vncleane Dirt and painted Ho|lynes;
+the simple Heartes / fro~ the Familie of Loue
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">like-as yee haue don vnto many other ignorant
+Men / which walke without the Howse and Ser|uice
+of Loue; and to pluck them into your Snares.
+But verelie it shall not auaile you in this Daye of
+Loue / by the Faithfulones of the Familie of Loue / 
+to spread-abrode your seducing Seedes any far|der.
+For your false Practises&punc; and your Fall / are
+now well perceaued of the vpright Heartes.</P>
+<P>7. Yea consider well theron <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">O yee goodwilling
+Heartes to the Righteousnes; how slylie these
+Messengers of the Deuell com vnto you. this
+Broode of <HI>Lucifer.</HI> these Resisters of the Trueth / 
+as <HI>Iannes</HI> and <HI>Iambres.</HI> these false Ministers of
+the Priestes-office / as <HI>Nadab</HI> and <HI>Abihu.</HI> these
+Seditious-persons / as the Company of <HI>Chore.</HI>
+and these vnsent bloud-thirstie Preachers / as the
+Priestes of <HI>Iezabel:</HI> Consider (I saye) aduisedlie
+theron / how subtillie they shew-fourth themselues / 
+and can paint their false Nature / with an Angels-colour / 
+to thentent that one should not perceaue the
+Falshod of their wicked Heartes&punc; and the Lustes
+and Desires of their Whordom and Adulterie / 
+wherof their Eyes and Heartes are full: and that
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">hey mought euenso vnder a coloured Couering / 
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">loke their Vncleannes of Whordom and Adulte|<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ie / 
+together with their abhominable Idolatrie and
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">alse Godseruices&punc; as also lay those-same their Ab|<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ominations
+and Vncleannes / vpon the Neckes
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">f the Single-mynded and Good-willingones to
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">he Loue of <HI>Iesu Christ,</HI> or report such-thinges of
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">hem&punc; and so accuse and defame them therwithall.</P>
+<P><PB REF="10">
+8. BEholde / yee that haue Eyes for to per|ceaue
+/ such false Heartes and contentious
+Deuels-messengers / which seeke not the Peace o<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+<HI>Christ</HI> nor the Concorde in the Loue. but bring-i<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+all Renting and Dissention or Breach / are driuen-fourth
+by the false Spirit of <HI>Antichrist,</HI> and by th<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+lying Ingeniousnes of the Fleash / for to practise al<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+Deceit and Falshod / according to the Workes <GAP DESC="illegible" RESP="tech" EXTENT="1 word">
+the Deuell / and also to seduce the simple single-min<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ded
+Heartes / like-as they do the Vnfaithfull and
+Waueringones in the Beleef / vnto their Errour.</P>
+<P>9. And if then the Deuell cannot accomplish o<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+bring thesame to-passe <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">at full; through his Belia<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">lish
+Men / so bringeth hee thesame also into th<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+Handes of the false Women / which are inclined t<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+such wicked Workes / and haue cra<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">tie Subtiltie
+to accomplish the false Deuices of the Deuell.</P>
+<P>10. Euen-thus verelie / do they all deale wit<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+Deceit and Falshod / which go-out from the wicke<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+World: and also all those which h<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ue geeuen the<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+thervnto. And so doth eueryone of them diligentli<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+applye him / to sowe euery-where his Mischeef an<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+contentious Seedes. and to spew-fourth all Blas<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">pheamie / 
+against God and his Familie of Loue.</P>
+</DIV2>
+<DIV2 N="3" TYPE="chapter">
+<HEAD>The Third Chapiter.</HEAD>
+<P><GAP DESC="illegible" RESP="tech" EXTENT="1 letter">Hy on you / yee whorish Genera<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">tions
+and adulterous Children of the vn<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">cleane
+and defiled Bed: How are yee thu<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">seeing that yee yourselues are so vnclen<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+growen to such Presumption! that yee com vn<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">
+the Elect of God and Children of Loue / and <GAP DESC="illegible" RESP="tech" EXTENT="1 word">
+<PB REF="10">
+vpon you as also indeuour you / for to mingle your
+Vncleannes of the Hedghogs-filthines and Swi|nes-dung / 
+among our pure and heauenlie Foode / 
+or to bring it in besides thesame / and to feede our
+sweet-hearted Children of the Loue ther-withall / 
+like as yee haue don / towardes the Vnfaithfull and
+vnto many Worldlie-mynded. Phy / phy on the
+stincking Dirt of your Vncleannes.</P>
+<P>2. Verelie / like as the Dirt of your Vncleannes
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">s a filthie Stinck before God / euenso is it also a fil|thie
+Stinck in our Noses.</P>
+<P>3. And although yee garnish thesame your stinc|<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ing
+Dirt <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">when as yee bring thesame vnto vs;
+with Roses and Lillies / and with many-maner of
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">aire Flowers / and strew it ouer with Rosemary|<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">eaues
+and Cinamon / yet doth neuerthelesse the
+Sunne of Righteousnes <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">with his bright &amp; whot
+Shyning; make the Stinck of thesame / manifest
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">efore vs. Yea so manifest / that all those that haue
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ynded the Loue and her Seruice / with vpright
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">nd faithfull Heartes / and shewe all Obedience
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">owardes thesame / haue a great Lothsomnes of the
+Stinck of thesame Dirt.</P>
+<P><GAP DESC="illegible" RESP="tech" EXTENT="1 letter">. For the holie and gratious Woord of God / 
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">hich is heald-fourth before vs in liuing Power
+through the holie Spirit of y^e Loue of <HI>Iesu Christ,</HI>
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">nd through God-his elected Minister <HI>HN;</HI> in the
+Seruice of Loue / and which is <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">as the true Bread
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">f Life / that is com vnto vs from Heauen; admini|<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">red
+to a liuing Foode of our Soules / is so reue|<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">nd
+and so godlie for vs to heare and to feed-of / 
+<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">d wee haue also turned our Lust and Loue so
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">hollie thervnto / that wee abhor and haue a great
+<PB REF="11">
+Lothsomnes / to heare of any-thing els. Yea and
+much-more a Lothsomnes / to receaue or inioy any|thing
+of any straunge Spirites / or of anyone which
+is a Straunger vnto the Familie of Loue.</P>
+<P>5. THerfore / seeing that <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ee com not fourth
+out of the Familie of Loue / nor haue not
+Gods Woorde nor Spirit / in liuing Power by
+you. but onlie the Imaginatio~ of your Knowledg / 
+or the dead Letter / which all false Heartes of the
+Scripture-learned / occupie to Contention and Di<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">|corde:
+So bide then hardelie with your garnished
+Dirt / by yourselues: For heere by the Faithfull
+and Electedones in the Familie of Loue / it is al-to-well
+knowne.</P>
+<P>6. But if yee desire to repent / and to com by vs
+in Sorrowfulnes <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">or your Sinnes / for to be con|uerted
+and made-sa<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">e from all your Abhominati|ons&punc;
+and taught and instructed aright / in the Way
+of the Trueth of <HI>Iesu Christ:</HI> and so then to liue
+vprightlie in all Trueth of God and <HI>Christ:</HI> So
+forsake it then all that yee haue taken to you / with|out
+the gratious Woorde of God and the Requi|ring
+of his Seruice of Loue / and seperate you whol|lie
+therfrom: and assemble you than euenso to our
+Communialtie of Sainctes / to Vnitie of Heart in
+the Loue / so shall yee then be receaued of vs with
+Ioye: And thus in y^e Repentaunce / let yourselues
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">vnder the Obedience of the Loue and her Seruice<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+be wasshed and cleansed from all your Sinnes / 
+with the holie and pure Waters of the holie Spirit
+of Loue: and be than taught with the pure Doc<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">trine
+of y^e holie and gratious Woord / to the King<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">dom
+of the God of Heauens / and nourrished-vp <GAP DESC="illegible" RESP="tech" EXTENT="1 word">
+<PB REF="11">
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ncient Elders and Fathers of the Fa<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ilie of
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">oue; in the holie and godlie Vnderstanding / to
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">end that yee mought knowe and obserue / all that
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">hich pleaseth God / and is resonable and edifying
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ith Men&punc; also confesse and publish-fourth the safe-<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">aking
+Beleef of <HI>Christ</HI> and his vpright Fruites
+<GAP DESC="illegible" RESP="tech" EXTENT="1 word"> Righteousnes&punc; and out of thesame Treasure of
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ur Heartes&punc; rightlie bring-fourth <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">out of the true
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">oue o<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"> <HI>Iesu Christ;</HI> the New and the Olde / to a
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">od Instruction of other moe.</P>
+<P>FOr-that-cause <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">according to the Counsaile
+of the holie Scripture; becom yee No<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">rned-about to obedient Childre~ / and borne anew / 
+<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">t of the Water and out of the Holie-go<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">t: and
+<GAP DESC="illegible" RESP="tech" EXTENT="1 word"> then <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">as new-borne Children; the pure vncor|<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">pted
+Milke / out of the virginlie Breastes of the
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">oue: To thend that yee mought euenso after-that
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">hen-as yee are entred into the Begining of the
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ristian Doctrine&punc; and nourrished-vp to y^e Young|<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">anship
+of the holie Vnderstanding; be fead with
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">e strong Meate of the gratious Woorde&punc; and
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">nd by the Holie-gost of Loue / into all Trueth and
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">haritie.</P>
+<P>Thus haue a good and right regarde vnto
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">e Sentences of the Wisdom / and receaue the|<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">me / 
+to the Renewing of your Vnderstanding / 
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">nd to Goodwillingnes to the vpright Righteous|<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">s:
+and indeuour you not first / to pluck-out the
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">plin<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">er out of anothers Eye / ereuer yee haue plu<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">d
+the Beame out of your owne Eye. Nether-yet
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">plye you also to be a Teacher / so long as the
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">octrine to the Kingdom of Heauen / is yeat need|<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ll
+for yourselues.</P>
+<P><PB REF="12">
+9. Applye you not also to liue / nether-yet <GAP DESC="illegible" RESP="tech" EXTENT="1 word">
+shew or witnes the Life vnto another / ereuer th<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+yee yourselues are passed-thorowe the Death&punc; an<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+gon-thorowe the small Waye which leadeth vn<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">
+Life.</P>
+<P>10. Likewise take not vpon you / to euangeli
+the <HI>Euangelie</HI> of the Kingdom vnto anyman / e<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">cept
+that yee haue in the Obedience of the Requ<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ring
+of the Loue / receaued the Kingdom of Heaue<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+seene with your Eyes <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">in the vpright Beeing
+<HI>Christ;</HI> the Life which is euerlasting&punc; heard th<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+same <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">in y^e Renewing of your Spirit and Mind
+with your Eares&punc; and handled or felt it <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">in the v<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+right Righteousnes &amp; Holines; with your hande<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"></P>
+<P>11. Also speake not of any Mysteries of God <GAP DESC="illegible" RESP="tech" EXTENT="1 word">
+his Kingdom / except that yee haue so learned th<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+same Mysterie / in the Seruice of Loue / and that
+be profitable for to be declared &amp; fruitfull to hear<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+and stretch to all Concord / Peace / &amp; Righteousnes<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"></P>
+<P>12. Likewise take not vpon you to minister an<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+Seruices of <HI>Christ,</HI> nor to witnes or preach t<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+Knowledg of <HI>Christ</HI> according to the Spirit / e<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">cept
+that yee haue first obedientlie fulfilled the Se<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">uices
+of <HI>Christ</HI> and his Doctrine / and that <HI>Chri<GAP DESC="illegible" RESP="tech" EXTENT="2 letters"></HI>
+haue his Shape in you: and that euenso <HI>Chri<GAP DESC="illegible" RESP="tech" EXTENT="2 letters"></HI>
+himself / speake thesame Testimonies through you<GAP DESC="illegible" RESP="tech" EXTENT="1 letter"></P>
+<P>13. Fardermore / be not diligent to teach t<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+Trueth vnto anyone / except that yee haue first b<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+obedient vnto the Trueth and her Requiring&punc; <GAP DESC="illegible" RESP="tech" EXTENT="1 word">
+are taught by the holie Spirit of Trueth / in t<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+Seruice of Loue&punc; as also knowne to be meet a<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+ordained by the Elders in the holie Vnderstandi<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">
+of the Trueth / to the Ministration of the True<GAP DESC="illegible" RESP="tech" EXTENT="2 letters"></P>
+<P><PB REF="12">
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">e not also blowen hether-and-thether with
+<GAP DESC="illegible" RESP="tech" EXTENT="1 word"> Windes or Spirites which rule in the Ayre / 
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ther suffer yourselues to be driuen / by the Spi|<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">es
+of Knowledg / which haue their Working in
+<GAP DESC="illegible" RESP="tech" EXTENT="1 word"> Children of Men which knowe not God / nor
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">t their trust in Him.</P>
+<P>But ground and stablish you on the euerlast|<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">g
+fast-standing Foundation of <HI>Iesu Christ:</HI> and
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">sider in your Vnderstanding / that yee are in
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">th-wise called vnto <HI>Christ</HI> / through the holie <HI>Eu|<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">gelie</HI>
+of <HI>Christ,</HI> for to haue an vpright Beeing
+<HI>Christ,</HI> and so then to buyld vpon Him.</P>
+<P>THus let eueryone looke well to it / and
+holde a sharp Watch ouer himself / that
+<GAP DESC="illegible" RESP="tech" EXTENT="1 word"> be not lead-astray by his owne Knowledg / so
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ll hee not then also seduce an other. But let eue|<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">one
+hold himself obedientlie on the pure Doctrine
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">he gratious Woord and Seruice of Loue: For
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">oso letteth not himself obedientlie / be taught and
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">ected to the true Light of the euerlasting Life / vn|<GAP DESC="illegible" RESP="tech" EXTENT="2 letters">
+the Doctrine of the gratious Woord and Ser|<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">e
+of Loue / nether-yet dealeth and walketh faith|fullie
+vnder the Obedience of Loue / hee shall
+not be able to teach or leade other right|lie.
+but they shall <GAP DESC="illegible" RESP="tech" EXTENT="1 letter">like-as y^e Blinde
+which leade each-other; fall
+together into the Gulf
+or Pit of Destruc+tion.</P>
+<TRAILER>Take it effectuallie to heart.
+<GAP DESC="illegible" RESP="tech" EXTENT="1 letter">HARITAS EXTORSIT PER ABIA.</TRAILER>
+</DIV2>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

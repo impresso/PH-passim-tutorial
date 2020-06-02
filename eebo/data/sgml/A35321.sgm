@@ -1,0 +1,4344 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD EEBOPROOF 2.0//EN">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-08-06</DATE>
+<RESPSTMT>
+<NAME>Judith Siefring</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TYPEs to DIVs in order to validate. Proofed title page(s).  Checked ^s. Reviewed structure. Checked division-marking material at heads and feet of divisions (HEADS, etc.). Checked for signatures. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected 5 $s of 7. Converted 2 $s to GAP DESC="illegible" RESP="tech". Checked spacing of foreign GAPs. Checked for EPIGRAPHs and ARGUMENTs. Checked for startqs, endqs, oes, q;s, and Qs. Checked proofsheets and made corrections found there. Checked for CLOSERs, TRAILERs, and BYLINEs. DONE.</ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="OX" ID="A35321">
+<STC T="W">C744</STC>
+<BIBNO T="oclc">12259197</BIBNO>
+<VID>57764</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1">
+<PB REF="1">
+<P>THE
+English Princess,
+OR,
+THE DEATH OF
+RICHARD THE III.
+A
+TRAGEDY.
+Written in the Year 1666, and Acted at his Highness
+the Duke of <HI>York</HI>'s Theatre.</P>
+<Q><P>Nec minimum meru&ecirc;re decus vestigia Graeca
+Ausi deserere, &amp; laudare domestica facta.</P>
+<BIBL>Horat. de Art. Poet.</BIBL></Q>
+<P><TEXT LANG="eng">
+<BODY>
+<DIV1 TYPE="license">
+<P>LICENSED,</P>
+<CLOSER><DATELINE><DATE>May 22. 1667.</DATE></DATELINE> 
+<SIGNED> Roger L'Estrange.</SIGNED></CLOSER>
+</DIV1>
+</BODY>
+</TEXT></P>
+<P><HI>LONDON,</HI>
+Printed for <HI>Thomas Dring,</HI> and are to be sold at his Shop
+at the Sign of the <HI>George</HI> in <HI>Fleetstreet,</HI> neer St. <HI>Dun|stans</HI>-Church.
+1667.</P>
+</DIV1>
+<DIV1 TYPE="prologue">
+<PB REF="2">
+<PB REF="2">
+<HEAD>PROLOGUE.</HEAD>
+<L>YOu must to day your Appetite prepare</L>
+<L>For a plain English Treat of homely Fare:</L>
+<L>We neither <HI>Bisque,</HI> nor <HI>Olli&agrave;s</HI> shall advance</L>
+<L>From Spanish Novel, or from French Romance;</L>
+<L>Nor shall we charm your Ears, or feast your Eyes</L>
+<L>With Turkey-Works, or Indian Rarityes:</L>
+<L>But to plain <HI>Hollinshead</HI> and down-right <HI>Stow</HI></L>
+<L>We the coarse Web of our Contrivance owe.</L>
+<L>Since Laces, Ribbands, and such Modish geer</L>
+<L>Fetcht from abroad are now forbidden here,</L>
+<L>Amongst those Forreign Toys (for ought we know)</L>
+<L>Fine Plots for Plays may be included too.</L>
+<L><HI>Greece,</HI> the first Mistress of the Tragick Muse,</L>
+<L>To grace her Stage, did her own Heroes chuse;</L>
+<L>Their Pens adorn'd their Native Swords; and thus</L>
+<L>What was not <HI>Grecian</HI> past for Barbarous.</L>
+<L>On us our Country the same duty lays,</L>
+<L>And English Wit should English Valour raise.</L>
+<L>Why should our Land to any Land submit</L>
+<L>In choice of Heroes, or in height of Wit?</L>
+<L>This made him write, who never writ till now,</L>
+<L>Only to shew what better Pens should do.</L>
+<L>And for his Pains he hopes he shall be thought</L>
+<L>(Though a bad Poet,) a good Patriot.</L>
+</DIV1>
+<DIV1 TYPE="dramatis personae">
+<PB REF="3">
+<LIST>
+<HEAD>The Persons.</HEAD>
+<ITEM>King <HI>Richard</HI> the third.</ITEM>
+<ITEM>Queen Dowager of <HI>Edward</HI> the fourth.</ITEM>
+<ITEM>Princess <HI>Elizabeth,</HI> Daughter of <HI>Edward</HI> the fourth.</ITEM>
+<ITEM>Earl of <HI>Richmond,</HI> Crown'd <HI>Henry</HI> the seventh.</ITEM>
+<ITEM><HI>Earl of</HI> Oxford. <HI>Lord</HI> Lovel.</ITEM>
+<ITEM><HI>Lord</HI> Stanly. <HI>Sir</HI> William Catesby.</ITEM>
+<ITEM>Lord <HI>Strange</HI> his Son. <HI>Sir</HI> Richard Ratclife.</ITEM>
+<ITEM><HI>Lord</HI> Chandew <HI>of</HI> Bretany. Miles Forrest.</ITEM>
+<ITEM><HI>Sir</HI> William Stanly. <HI>The Priour of</HI> Litchfield.</ITEM>
+<ITEM>Mrs. <HI>Stanly.</HI> A Captain. A Lieutenant.</ITEM>
+<ITEM><HI>Charlot,</HI> Page to the Princess. Souldiers, Guards, and Ar|tendants.</ITEM>
+</LIST>
+<P>The Scenes are laid in the Head-quarters of King <HI>Richard,</HI>
+and the Earl of <HI>Richmond,</HI> when they are in sight of
+one another.</P>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 N="1" TYPE="act">
+<PB N="1" REF="3">
+<HEAD>THE
+English Princess,
+OR,
+THE DEATH OF
+RICHARD III.</HEAD>
+<HEAD TYPE="sub">A
+TRAGEDY.</HEAD>
+<HEAD>ACTUS I.</HEAD>
+<DIV2 N="1" TYPE="scene">
+<STAGE>Enter King, Lord <HI>Lovel,</HI> Sir <HI>William Catesby,</HI> Sir <HI>Richard
+Ratclife,</HI> with Guards and Attendants.</STAGE>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>THe World must now confess, that Monarchs are</L>
+<L>Of him, who rules above, the cheifest care:</L>
+<L>For <HI>Richmond,</HI> whom in vain so long I sought,</L>
+<L>Whom I with half my Realm had gladly bought,</L>
+<L>Is (past retreat) brought home to my own door:</L>
+<L>Heaven could not give me, nor I covet more!</L>
+<L>Fond Boy! what madness with such fatal speed</L>
+<L>Under my Justice hastens thee to bleed?</L>
+<L>I owe thy Frenzy to my kinder Stars,</L>
+<L>Who thus conclude my dangers, and my wars.</L>
+</SP>
+<SP>
+<SPEAKER>L. Lovel.</SPEAKER>
+<L>The Powers above are now ambitious grown</L>
+<L>To bribe your Favour, and preserve your Throne;</L>
+<L><PB N="2" REF="4">
+They give you <HI>Richmond;</HI> and in giving him</L>
+<L>They from the power of chance your Crown redeem:</L>
+<L>Should the world joyn this Kingdom to devour,</L>
+<L>It would not weaken, but declare your power.</L>
+</SP>
+<SP>
+<SPEAKER>Catesby.</SPEAKER>
+<L>Tumultuous, and Unarm'd their Forces are,</L>
+<L>And fit to make a riot, not a war:</L>
+<L>The Crown tempts <HI>Richmond,</HI> like a silly Fly,</L>
+<L>Which dazled with the flame does in it dy.</L>
+<L>As Justice here below, so Heaven does blind</L>
+<L>Their eyes, whose execution is design'd.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>I both his rashness and his weakness know;</L>
+<L>But those, who now are weak, may stronger grow;</L>
+<L>I therefore have such preparations made,</L>
+<L>As form an Army fitter to invade</L>
+<L>Whole Kingdoms, then to quell a giddy Rout</L>
+<L>Of half-starv'd Fugitives, newly thrust out</L>
+<L>From Forreign Lands: Poor Worms! they shall not long</L>
+<L>Attend their Fate. Treason though ne're so young,</L>
+<L>And weak, should not be dally'd with, but must,</L>
+<L>When first it buds, and in the shell be crush't.</L>
+</SP>
+<SP>
+<SPEAKER>Ratclife.</SPEAKER>
+<L>Great Sir, these Fugitives will soon afford</L>
+<L>More bus'ness for your Heads-man, then your Sword:</L>
+<L>But 'tis not now their number, nor their armes,</L>
+<L>That they confide in; they have other charms,</L>
+<L>Which draw into their Circle, and bewitch</L>
+<L>All those, whom either discontent, or Itch</L>
+<L>Of novelty makes apt to be undone;</L>
+<L>The Lady <HI>El'sabeth's</HI> weak right they own</L>
+<L>To ground their Treason on: they boldly frame</L>
+<L>All Orders, Warrants, Summons in her Name.</L>
+<L>And thus the easie <HI>Welch</HI> (a Nation soon</L>
+<L>Stirr'd up, and then again as soon laid down)</L>
+<L>Caught with this Quail-pipe to their Camp resort,</L>
+<L>And with Provisions the lean Troops support.</L>
+</SP>
+<SP>
+<SPEAKER>Catesby.</SPEAKER>
+<L>Young <HI>Richmond</HI> does himself her Champion own,</L>
+<L>And brags, his bus'ness is to place the Crown</L>
+<L>On that young Lady's head, at least to dy</L>
+<L>In the attempt,</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>O rare Knight-Errantry!</L>
+<L><PB N="3" REF="4">
+By these degrees he would himself prefer</L>
+<L>First to espouse her Quarrel, and then Her.</L>
+<L>But this bold Youth shall feel, that he is more</L>
+<L>Out-match't in Wit, and Policy, then Powe:</L>
+<L>She shall be crown'd, and marry'd; but by thee,</L>
+<L>Young Fool! nor crown'd, nor marry'd shall she be;</L>
+<L>For when she wears a Crown, thoul't want a Head;</L>
+<L>Thou in thy Grave, she in her Ma<GAP DESC="illegible" EXTENT="3 letters">age-Bed</L>
+<L>At the same time shall lye.</L>
+</SP>
+<SP>
+<SPEAKER>Catesby.</SPEAKER>
+<L>Sir, will you give</L>
+<L>Me leave to ask how your pretentions thrive,</L>
+<L>And what impression they have made upon</L>
+<L>That Lady's heart? She cannot be all Stone,</L>
+<L>And still make answer with a sullen No,</L>
+<L>When so much Power, and Eloquence shall woo.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Something tow'rds Conquest in the Siege is done,</L>
+<L>For in the Queen I have the out-works won;</L>
+<L>But the main Fort is such a stubborn Rock,</L>
+<L>As does all Parlies, and all Stormings mock.</L>
+</SP>
+<SP>
+<SPEAKER>L. Lovel.</SPEAKER>
+<L>The Mother gain'd is more then half the day;</L>
+<L>A Daughter's duty must not disobey,</L>
+<L>And the two greatest Powers at once withstand</L>
+<L>Both of a Mother, and a King's Command.</L>
+</SP>
+<SP>
+<SPEAKER>Catesby.</SPEAKER>
+<L>This present juncture of affairs requires</L>
+<L>A speedy answer to your just desires:</L>
+<L>You must those strict Formalities lay by,</L>
+<L>Which custom pays to Virgin Modesty;</L>
+<L>For now the publick safety does perswade</L>
+<L>To court her like a Widow, not a Maid.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>I know, how much depends on this dispatch;</L>
+<L>The Peace of Nations rests upon our match:</L>
+<L>I, and the Kingdom can no longer stay;</L>
+<L>And if she will not love, she must obey.</L>
+</SP>
+<STAGE>Enter <HI>Lord</HI> Stanly.</STAGE>
+</DIV2>
+<DIV2 N="2" TYPE="scene">
+<PB N="4" REF="5">
+<HEAD>SCENA II.</HEAD>
+<STAGE>King, <HI>Lord</HI> Stanly, <HI>Lord</HI> Lovel, Catesby, Ratclife,
+<HI>and Lord</HI> Strange, <HI>&amp;c.</HI></STAGE>
+<SP>
+<SPEAKER>Catesby.</SPEAKER>
+<L>Sir, my Lord <HI>Stanly</HI> arriv'd.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>My best</L>
+<L>Of Friends! O, let me lodge thee in my breast,</L>
+<L>The Person of the World most coveted!</L>
+<L>For my occasions want thy Hand, and Head,</L>
+<L>Thy Councel, and thy Action.</L>
+</SP>
+<SP>
+<SPEAKER>L. Stanly.</SPEAKER>
+<L>Sir, to you</L>
+<L>All, that I can, all, that I am, is due.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>You now may shew it, <HI>Stanly</HI> in defence</L>
+<L>Of your best Friend; For <HI>Richmond</HI> with pretence</L>
+<L>Of right as weak, as his starv'd Forces are,</L>
+<L>Invades the Land; whom nothing but despair,</L>
+<L>Or hunger could have thrust on this design,</L>
+<L>Unless some Traitors here should with him joyn.</L>
+</SP>
+<SP>
+<SPEAKER>L. Stanly.</SPEAKER>
+<L>Poor Mushrom! His short date of Life is out,</L>
+<L>Since all his hopes are in the fickle Rout;</L>
+<L>Whose Favour is more various, then the Winds,</L>
+<L>Whose Fortunes are more desp'rate, then their Minds.</L>
+<L>But when your conqu'ring Army comes in sight,</L>
+<L>You'l find them fit for slaughter, not for fight.</L>
+<L>Of this a signal proof now brought me hither;</L>
+<L>For having notice there was drawn together</L>
+<L>A numerous body of the Borderers</L>
+<L>'Twixt <HI>Cheshire,</HI> and <HI>North-Wales;</HI> urg'd by my fears,</L>
+<L>Lest, unsupprest at first, this little Flame</L>
+<L>Grown wider might become too fierce to tame,</L>
+<L>I strait did hasten to their Rendezvous;</L>
+<L>And, lest I should the fair advantage lose,</L>
+<L>I did not for your Royal Order wait:</L>
+<L>And, Sir, the issue was proportionate</L>
+<L>Both to my Zeal, and Justice of your cause:</L>
+<L>For now our Swords have left them to your Laws.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>My Lord, this service to the full does shew</L>
+<L>How much a King may to his Subject owe:</L>
+<L><PB N="5" REF="5">
+For <HI>Richmond</HI> these, and these had <HI>Richmond</HI> prop't,</L>
+<L>Had not your Hand this budding Treason crop't.</L>
+<L>And now, my Lord, I hope, your Forces are</L>
+<L>Advancing hither; For I ill can spare</L>
+<L>About my Person, and within my call</L>
+<L>Such Troops, as yours, and such a General.</L>
+</SP>
+<SP>
+<SPEAKER>L. Stanly.</SPEAKER>
+<L>You are my Sov'raign (Sir) a double way;</L>
+<L>Your Wisdom, and your Power bear equal sway:</L>
+<L>But, Sir, I fear th' effect, if we should joyn,</L>
+<L>And all our Strength within one Camp confine.</L>
+<L>You know, the Power by the Invader brought</L>
+<L>(Compar'd to yours) will scarce deserve your thought,</L>
+<L>Much less your Fear: He all his hopes does place</L>
+<L>Upon the Risings of the Populace,</L>
+<L>And thinks, his Snow-ball rowling to, and fro,</L>
+<L>Though slender yet, to Bulk and Weight may grow:</L>
+<L>If this be true, judge how important then</L>
+<L>Divided Bodies are of chosen Men,</L>
+<L>Who by their several motions may prevent</L>
+<L>Risings, and Succours to the Rebels sent.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>So let it be: I must confess, my Lord,</L>
+<L>Your reasons are convincing, as your Sword.</L>
+<L>Honour's your Mistress; and I clearly see,</L>
+<L>You mean to rob me of the Victorie,</L>
+<L>And make her wholly yours.</L>
+</SP>
+<SP>
+<SPEAKER>L. Stanly.</SPEAKER>
+<L>Sir, I design</L>
+<L>The Glory to be yours, the Hazard mine.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Hazard, and Glory are so linkt together,</L>
+<L>That without both I can pretend to neither,</L>
+<L>But how does your indulgent Lady bear</L>
+<L>This rash Invasion of her Son? I fear,</L>
+<L>That Treason countenanc'd by Nature may</L>
+<L>In a weak Mother's heart too strongly sway.</L>
+</SP>
+<SP>
+<SPEAKER>L. Stanly.</SPEAKER>
+<L>The secrets of her Mind she only knows;</L>
+<L>I her, but not her Passions did espouse.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>I dread her, as a dang'rous Enemy,</L>
+<L>Who in the arms of my best Friend does lye.</L>
+</SP>
+<SP>
+<SPEAKER>L. Stanly.</SPEAKER>
+<L>Her thoughts are free, but by a trusty Guard</L>
+<L>From all disloyal Acts her Person's bar'd:</L>
+<L><PB N="6" REF="6">
+Nature her self shall be divorc't from me.</L>
+<L>When she rebels against my Loyaltie.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>My Lord, your great Example may improve</L>
+<L>All my best Subjects in their Faith, and Love.</L>
+<L>And here you have a Son fit to inherit</L>
+<L>All that is yours: So far his early Merit</L>
+<L>Into my Favour is advanc'd, that I</L>
+<L>Am not at ease without his Company;</L>
+<L>He shall remain, though you are forc't from hence;</L>
+<L>His stay must your departure recompence.</L>
+</SP>
+<SP>
+<SPEAKER>L. Strange.</SPEAKER>
+<STAGE>apart.</STAGE>
+<L> His meaning is, I must his Pris'ner be:</L>
+<L>Love is the foulest Mask of Crueltie!</L>
+</SP>
+<SP>
+<SPEAKER>L Stanly.</SPEAKER>
+<L>I doubt, your Favour's too much antedate</L>
+<L>His Merit.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Fear it not. My Lord, 'tis late:</L>
+<L>Whilst you stay here, some of your time I know,</L>
+<L>You must on Bus'ness, and your Friends bestow.</L>
+<STAGE>Exit.</STAGE>
+</SP>
+<STAGE>L^d. Stanly <HI>and</HI> Strange.</STAGE>
+</DIV2>
+<DIV2 N="3" TYPE="scene">
+<HEAD>SCENA III.</HEAD>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Unhappy fate of Monarchs! that we must</L>
+<L>Often depend on those, we most distrust.</L>
+<L>But of this Loyal Rhet'rick (pray) how much</L>
+<L>In your opinions will endure the touch?</L>
+</SP>
+<SP>
+<SPEAKER>Catesby.</SPEAKER>
+<L>Sir, I believe 'tis in his Power to be</L>
+<L>Your greatest Friend, or your worst Enemie:</L>
+<L>The softness of his words makes but that sound</L>
+<L>With which all hollow Bosoms most abound;</L>
+<L>But his late Actions, I confess, have gain'd</L>
+<L>My Faith to think his honesty not feign'd:</L>
+<L>The rising Borderers by him supprest,</L>
+<L>That he is sound at heart give ample test.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Methinks, his great unwillingness to joyn</L>
+<L>Forces together argues some design:</L>
+<L>And yet I must confess his reasons are</L>
+<L>Of weight, and fitted to the Rules of War.</L>
+</SP>
+<SP>
+<SPEAKER>L. Lovell.</SPEAKER>
+<L>Sir, my Lord <HI>Strange</HI> will for his Father be</L>
+<L>A good collateral securitie;</L>
+<L><PB N="7" REF="6">
+He sets such value on his young Son's Head,</L>
+<L>That he'll ne're pawn it to be forfeited.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>I know this bus'ness has a smiling face;</L>
+<L>But <HI>Lovell,</HI> watchful prudence cannot trace</L>
+<L>The subtle ways of a dissembling Heart:</L>
+<L>I am well read in that mysterious Art,</L>
+<L>And can discern where all my danger lyes:</L>
+<L>Mines have destroy'd more Towns, than Batteries.</L>
+</SP>
+<STAGE>Enter <HI>Sir</HI> William Stanly.</STAGE>
+</DIV2>
+<DIV2 N="4" TYPE="scene">
+<HEAD>SCENA IV.</HEAD>
+<SP>
+<SPEAKER>Sir William Stanly.</SPEAKER>
+<L>Sir, the rash Foe all your desires fulfills</L>
+<L>The Native Fortresses of <HI>Wales,</HI> the Hills,</L>
+<L>Which only could his certain Fate prolong,</L>
+<L>He madly ha's forsaken; and the Throng</L>
+<L>Have crost the <HI>Severn.</HI></L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Happy news! at last</L>
+<L>Our little <HI>Caesar Rubicon</HI> ha's past.</L>
+<L>Either he acts the part of a mad Lover,</L>
+<L>Or hopes, his Rashness may his Weakness cover.</L>
+</SP>
+<SP>
+<SPEAKER>Sir Will. Stanly.</SPEAKER>
+<L>Let him come on, he, what he seeks shall have,</L>
+<L>Since English ground best likes him for a Grave.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Sir <HI>William Stanly</HI> 'tis beneath your Fame</L>
+<L>In War to fly at such ignoble Game:</L>
+<L>These Vipers want their Teeth. But I must ask</L>
+<L>Your powerful aid in a much harder task.</L>
+</SP>
+<SP>
+<SPEAKER>Sir Will. Stanly.</SPEAKER>
+<L>Nothing is hard to me, when you command.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Confirm me in that hope. I understand,</L>
+<L>You o're your Sister have no little power;</L>
+<L>She waits upon the Saint whom I adore.</L>
+<L>Procure her Mediation for my Love;</L>
+<L>If she in the design successful prove,</L>
+<L>You shall be less my Subject, then my Friend;</L>
+<L>My Gratitude shall all your Hopes transcend.</L>
+</SP>
+<SP>
+<SPEAKER>Sir Will. Stanly.</SPEAKER>
+<L>Reward did never yet my duty move;</L>
+<L>And I am no good Advocate for Love.</L>
+<L>But, Sir, my prompt Obedience shall fulfil</L>
+<L>All your Commands, and help my want of skill.</L>
+</SP>
+<SP>
+<PB N="8" REF="7">
+<SPEAKER>King.</SPEAKER>
+<L>That Love, from her which you obtain for me,</L>
+<L>With double Int'rest shall rewarded be.</L>
+</SP>
+<STAGE>[Exit King, Lovel, Catesby, Ratclife.</STAGE>
+<SP>
+<SPEAKER>Sir Wil. Stanly</SPEAKER>
+<STAGE>solus.</STAGE>
+<L> When Nature form'd this Monster, she design'd</L>
+<L>No less, then the destruction of Mankind.</L>
+<L>His Enemies but poorly satisfie</L>
+<L>The Hunger of his Rage, which seeks supply</L>
+<L>E'en from his nearest Blood, and his own Bed:</L>
+<L>His Wife was poyson'd, and his Nephews bled</L>
+<L>To feed the Wolf. His Friends are kept alive,</L>
+<L>As <HI>Indians</HI> cramm'd for Sacrifice survive.</L>
+<L>And now this Monster both in Crimes and Shape,</L>
+<L>On fairest Innocence designs a Rape.</L>
+<STAGE>Enter the Princess crossing the Stage from her own lodgings to the
+Queen's Appartment: In passing by Sir <HI>Will. Stanly</HI> speaks to
+his Sister waiting upon the Princess.</STAGE>
+<L>Sister, a word. <HI>Mrs. Stanly.</HI> I instantly will come.</L>
+</SP>
+<STAGE>Mrs. <HI>Stanly</HI> leaves the Princess in the Queens Appartment, and
+returns to her Brother.</STAGE>
+</DIV2>
+<DIV2 N="5" TYPE="scene">
+<HEAD>SCENA V.</HEAD>
+<SP>
+<SPEAKER>Mrs. Stan.</SPEAKER>
+<L>Now, Brother, what's your will?</L>
+</SP>
+<SP>
+<SPEAKER>Sir W. Stan.</SPEAKER>
+<L>I hope, this Room</L>
+<L>Is private, and secure.</L>
+</SP>
+<SP>
+<SPEAKER>Mrs. Stanly.</SPEAKER>
+<L>You need not fear</L>
+<L>An ambush; no close Spies can harbour here.</L>
+<L>But whence this Caution?</L>
+</SP>
+<SP>
+<SPEAKER>Sir Will. Stanly.</SPEAKER>
+<L>Wonder not; I bring</L>
+<L>A strict Commission for you from the King.</L>
+<L>You must his Mistress gain; then happy we!</L>
+<L>I shall a Prince, and you a Princess be.</L>
+</SP>
+<SP>
+<SPEAKER>Mrs Stanly.</SPEAKER>
+<L>'Tis the great Art of Kings for their Intents</L>
+<L>To make right choice of proper Instruments;</L>
+<L>But ours ha's grosly fail'd in his own Trade.</L>
+<L>Pray, bid him chuse again.</L>
+</SP>
+<SP>
+<SPEAKER>Sir Will. Stanly.</SPEAKER>
+<L>You can perswade</L>
+<L>The Princess.</L>
+</SP>
+<SP>
+<SPEAKER>Mrs. Stanly.</SPEAKER>
+<L>No: I love him not so well,</L>
+<L>Nor her so little.</L>
+</SP>
+<SP>
+<SPEAKER>Sir Will. Stanly.</SPEAKER>
+<L>But have Gifts no Spell</L>
+<L>To charm your Heart, and dazel your young Eyes?</L>
+</SP>
+<SP>
+<PB N="9" REF="7">
+<SPEAKER>Mrs. Stanly.</SPEAKER>
+<L>Him, and his Gifts I equally despise.</L>
+</SP>
+<SP>
+<SPEAKER>Sir Will. Stanly.</SPEAKER>
+<L>You serve your Mistress, making her a Queen.</L>
+</SP>
+<SP>
+<SPEAKER>Mrs. Stanly.</SPEAKER>
+<L>Brother, you know her not: But, had you been</L>
+<L>In presence at her secret Vows to day,</L>
+<L>You would not dare to think what now you say.</L>
+<L>Her Honour, and Revenge she values so,</L>
+<L>That she for them will Crown and Life forgo.</L>
+</SP>
+<SP>
+<SPEAKER>Sir Will. Stanly.</SPEAKER>
+<L>You have her favour, and at least may try,</L>
+<L>If she will yield a little and comply.</L>
+</SP>
+<SP>
+<SPEAKER>Mrs. Stanly.</SPEAKER>
+<L>Such is her Horrour of him, that no Age</L>
+<L>Did so much Beauty see with so much Rage.</L>
+<L>This undertaking would too dearly cost,</L>
+<L>For, next the Tyrant, she would hate me most.</L>
+</SP>
+<SP>
+<SPEAKER>Sir Will. Stanly.</SPEAKER>
+<L>Sister, with equal Joy great proofs I find</L>
+<L>Both of your faithful, and her generous Mind.</L>
+<L>And now suppose, that I a Champion show,</L>
+<L>Who will, and can destroy her powerful Foe;</L>
+<L>May this bold undertaker hope to prove,</L>
+<L>As in her cause, successful in her Love?</L>
+</SP>
+<SP>
+<SPEAKER>Mrs. Stanly.</SPEAKER>
+<L>In common Justice she can do no less,</L>
+<L>Then love the Authour of such happiness.</L>
+</SP>
+<SP>
+<SPEAKER>Sir Will. Stanly.</SPEAKER>
+<L>Will she that powerful Passion for him own,</L>
+<L>Which mingles Souls, and makes two Lovers one?</L>
+<L>So high a work should be as highly paid;</L>
+<L>Who kills the Dragon must enjoy the Maid.</L>
+</SP>
+<SP>
+<SPEAKER>Mrs. Stanly.</SPEAKER>
+<L>Now you come on too fast: For he must wear</L>
+<L>Of Royalty the sacred Character,</L>
+<L>Who without Sacriledge attempts to be</L>
+<L>At such a holy shrine Love's Votarie.</L>
+</SP>
+<SP>
+<SPEAKER>Sir Will. Stanly.</SPEAKER>
+<L>Sister, you talk in a Romantick strain;</L>
+<L>Pray, spare your Metaphors, and be more plain.</L>
+</SP>
+<SP>
+<SPEAKER>Mrs. Stanly.</SPEAKER>
+<L>Brother, the Queen, and Princess!</L>
+</SP>
+<STAGE>[Enter the
+Queen, and the Princess.]</STAGE>
+<SP>
+<SPEAKER>Sir Will. Stanly.</SPEAKER>
+<L>Let us go,</L>
+<L>For I have much to say, and you to do.</L>
+</SP>
+<SP>
+<SPEAKER>Princess.</SPEAKER>
+<L>Madam, your pardon and your leave I pray</L>
+<L>To speak one word with her.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Daughter, you may.</L>
+</SP>
+<STAGE>The Princess talks in private with Mrs. <HI>Stanly,</HI> and the Queen
+advanceth forwards upon the Stage.</STAGE>
+<SP>
+<PB N="10" REF="8">
+<SPEAKER>Queen.</SPEAKER>
+<L>To what extremes am I reduc'd by fate?</L>
+<L>I give to him, whom mortally I hate,</L>
+<L>Her, whom my heart loves most! It must be so:</L>
+<L>To save a child, I must oblige a Foe!</L>
+<L>The unconcern'd may the World's Censure weigh;</L>
+<L>I Nature, and Necessity obey.</L>
+<L>Let Honour's Laws be scan'd by Rules of Art;</L>
+<L>None, but poor Mothers know a Mothers Heart!</L>
+</SP>
+<STAGE>The Princess comes forwards to the Queen.</STAGE>
+<STAGE>[Exeunt <HI>Sir</HI> William Stanly <HI>and</HI> Mistris Stanly.</STAGE>
+</DIV2>
+<DIV2 N="6" TYPE="scene">
+<HEAD>SCENA VI.</HEAD>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Well may our Patience, Daughter, be admir'd,</L>
+<L>Which ha's the Tyrant and Heaven's Anger tir'd.</L>
+<L>For in the King you now a Lover meet,</L>
+<L>Who lays himself, and Scepter at your feet.</L>
+<L>My Heart with swelling Joy is larger grown,</L>
+<L>To think my Blood shall repossess the Throne;</L>
+<L>To see our wither'd Hopes spring forth a new,</L>
+<L>Whilst all our Ruines are repair'd in you.</L>
+</SP>
+<SP>
+<SPEAKER>Prin.</SPEAKER>
+<L>Madam, your Joy more then my own; I prize,</L>
+<L>When from a lawful cause your Joy does rise:</L>
+<L>But, Madam, yet I cannot find our Fate</L>
+<L>Of the old Rigour does the least abate.</L>
+<L>Till Heaven's slow Justice shall ordain a way</L>
+<L>With his own Blood to make this Tyrant pay</L>
+<L>What he so barb'rously ha's spilt of ours,</L>
+<L>In wonted Sorrows we must spend our Hours:</L>
+<L>Of the least joy should we be guilty found,</L>
+<L>We both our Honour, and our Duty wound.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Long have we mourn'd the Dead, yet all our grief</L>
+<L>To them, or to our selves brings no Relief:</L>
+<L>To their cold Ashes 'twere a fond respect,</L>
+<L>The safety of the Living to neglect.</L>
+</SP>
+<SP>
+<SPEAKER>Prin.</SPEAKER>
+<L>If that safe way to Infamy shall lead,</L>
+<L>I rather chuse the Paths of Death to tread.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>The name of Infamy can it deserve,</L>
+<L><PB N="11" REF="8">
+To follow Nature, and our selves preserve?</L>
+</SP>
+<SP>
+<SPEAKER>Prin.</SPEAKER>
+<L>Nature abho'rs, that you should call him Son,</L>
+<L>Who ha's your Children rob'd of Life, and Throne.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Do not those wounds of Fate to mind recall;</L>
+<L>Because we much have lost, must we lose all?</L>
+<L>If we have suffer'd Ship-wrack, and our best</L>
+<L>Vessels are sunk, shall we not save the rest?</L>
+</SP>
+<SP>
+<SPEAKER>Prin.</SPEAKER>
+<L>Alas! are the rest sav'd, when you commit</L>
+<L>Them to that Tempest, which the others split?</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Repentance turns that Tempest to a Calm.</L>
+</SP>
+<SP>
+<SPEAKER>Prin.</SPEAKER>
+<L>That Calm may soon relapse, and grow the same</L>
+<L>Tempest again, swelling the Purple Flood</L>
+<L>Both with the Brother's, and the Sister's Blood:</L>
+<L>A Calm and Tempest mingle in this Wooer,</L>
+<L>The Calm betrays, the Tempest does devour.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Trust to a Mother's Judgment. The sure test</L>
+<L>Of Princes meanings is their Interest.</L>
+<L>That very Cause, which mov'd his Crueltie</L>
+<L>Against my Sons, inclines him now to be</L>
+<L>As kind to you: his Passion must be true;</L>
+<L>In courting you he courts his Safety too.</L>
+</SP>
+<SP>
+<SPEAKER>Prin.</SPEAKER>
+<L>Shall then the Butcher of our Familie</L>
+<L>By me, and by my love protected be?</L>
+<L>Two Paricides did his foul hands imbrue,</L>
+<L>When he his Soveraign in his Nephew slew.</L>
+<L>Shall I be Instrumental to make good</L>
+<L>His Power cemented by my Brothers Blood?</L>
+<L>No Madam; If it be my Fate to prove</L>
+<L>The object of his Cruelty, or Love,</L>
+<L>It shall not be my choice to have a Room</L>
+<L>In his loath'd Bed, but in my Brother's Tomb.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>'Tis true, a Sister's Love in some degree</L>
+<L>May these transports of Passion justifie;</L>
+<L>Yet in a Sister's Love you should not smother</L>
+<L>The duty, which you owe a tender Mother.</L>
+<L>My Sorrows, as my losses, are not less,</L>
+<L>Then yours, though I their angry noise suppress;</L>
+<L>And though I suffer not with blind Despair</L>
+<L><PB N="12" REF="9">
+A Mother's Grief to drown a Mother's care.</L>
+<L>Daughter, submit: When I prescribe the way</L>
+<L>Of safety, you in Duty must obey.</L>
+</SP>
+<SP>
+<SPEAKER>Prin.</SPEAKER>
+<L>The way prescrib'd does not to safety carry;</L>
+<L>This Tyrant's Bed makes a bad Sanctuary.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Were you a private Person, did you stand</L>
+<L>Secure out of the reach of his Command,</L>
+<L>I should agree with you; But 'tis your Fate,</L>
+<L>His Love to suffer, or to feel his Hate:</L>
+<L>No middle way can these Extreams avoid,</L>
+<L>By him you must be marry'd, or destroy'd.</L>
+</SP>
+<SP>
+<SPEAKER>Prin.</SPEAKER>
+<L>Joyn'd with my Brothers in their silent Grave,</L>
+<L>Losing my Life, I shall my Honour save.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>When you abandon Reason's steddy ground,</L>
+<L>Honour is nothing, but an empty sound,</L>
+<L>'Tis a false light, at which fools gazing stand,</L>
+<L>Till they themselves on their own shallows strand.</L>
+</SP>
+<STAGE>[Enter a Servant.</STAGE>
+<SP>
+<SPEAKER>Serv.</SPEAKER>
+<L>Madam, the King does in your Lodgings wait.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Tell him I come. Before it be too late,</L>
+<STAGE>[Exit Servant.</STAGE>
+<L>Preserve yourself, and me; live, and obey:</L>
+<L>Throw not your Life, Heavens chiefest gift, away.</L>
+<STAGE>[Exit Queen.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Prin.</SPEAKER>
+<L>A Mother, and a Tyrant joyn to force</L>
+<L>My plighted heart to an unjust Divorce:</L>
+<L>But, <HI>Richmond!</HI> the Temptation of a Crown</L>
+<L>Shall not divert me, nor a Tyrant's frown:</L>
+<L>I'le follow thee, whom powerful Heaven does lead</L>
+<L>To save the living, and revenge the Dead.</L>
+<STAGE>[Exit Princess.</STAGE>
+</SP>
+</DIV2>
+</DIV1>
+<DIV1 N="2" TYPE="act">
+<DIV2 N="1" TYPE="scene">
+<PB N="13" REF="9">
+<HEAD>ACTUS II.
+SCENA PRIMA.</HEAD>
+<STAGE>Enter Sir William Stanly <HI>and</HI> Mrs. Stanly.</STAGE>
+<SP>
+<SPEAKER>Mrs. Stanly.</SPEAKER>
+<L>Run not so fast: you tread on slippery Ice,</L>
+<L>And on both sides lyes a vast Precipice.</L>
+</SP>
+<SP>
+<SPEAKER>Sir Will. Stanly.</SPEAKER>
+<L>My Stars have led me on to hazard all;</L>
+<L>And rather, then turn back again, I'le fall.</L>
+</SP>
+<SP>
+<SPEAKER>Mrs. Stanly.</SPEAKER>
+<L>The Rash will perish, and they fall unmourn'd;</L>
+<L>And losing Life, their memory is scorn'd.</L>
+<L>Attempts upon the King must fatal prove;</L>
+<L>Much more your Aims at the great Princess Love&punc;</L>
+<L>Against so Potent Foes what can you do,</L>
+<L>The King, great <HI>Richmond,</HI> and the Princess too?</L>
+</SP>
+<SP>
+<SPEAKER>Sir Will. Stanly.</SPEAKER>
+<L>Those Rivals shortly may themselves destroy,</L>
+<L>And then why may not I the Prize enjoy?</L>
+<L>When on their Ruines I shall raised be,</L>
+<L>It will be level ground 'twixt her, and me.</L>
+</SP>
+<SP>
+<SPEAKER>Mrs. Stanly.</SPEAKER>
+<L>Do not your thoughts on these Chimeras spend,</L>
+<L>Impossible both in their means and End.</L>
+<L>Could you as speedily in fact subdue</L>
+<L>All those great Powers, as now in thought you do,</L>
+<L>Yet you might sooner scale high Heaven, then gain</L>
+<L>That Love, which wild ambition would obtain.</L>
+</SP>
+<SP>
+<SPEAKER>Sir Will. Stanly.</SPEAKER>
+<L>If to my courage she her lost Crown owe,</L>
+<L>I may partake the Gift which I bestow.</L>
+<L>Our Souls have equal Fineness: you mistake,</L>
+<L>Thinking, our drossie Parts the Difference make.</L>
+</SP>
+<SP>
+<SPEAKER>Mrs. Stanly.</SPEAKER>
+<L>Have you the Tyrant's strength? who are alone</L>
+<L>In Passion strong, which we our Weakness owne.</L>
+<L>Consult your Reason: 'Tis a dangerous thing,</L>
+<L>Poor Subject! to be Rival to thy King.</L>
+</SP>
+<SP>
+<SPEAKER>Sir Will. Stanly.</SPEAKER>
+<L>To Cowards talk of Danger&punc; Love, and Fear</L>
+<L>In the same Heart Joint-Tenants never were.</L>
+</SP>
+<SP>
+<PB N="14" REF="10">
+<SPEAKER>Mrs. Stanly.</SPEAKER>
+<L>Dear Brother, these sick Fancies, pray, remove:</L>
+<L>Know this last secret; She does <HI>Richmond</HI> love.</L>
+</SP>
+<SP>
+<SPEAKER>Sir Will. Stanly.</SPEAKER>
+<L>Too late you tell me this, when in one Flood</L>
+<L>The Poyson runs about me with my Blood.</L>
+</SP>
+<SP>
+<SPEAKER>Mrs. Stanly.</SPEAKER>
+<L>Love and all madness, Brother, ever raign</L>
+<L>Much lesse about the Heart, then in the Brain:</L>
+<L>Lovers may blame their Stars, or <HI>Cupid's</HI> Bow;</L>
+<L>Here dwells the Heat, whence their Distempers grow.</L>
+<STAGE>[Points to her head.]</STAGE>
+<L>Those, who are most possest with this Disease,</L>
+<L>By Sleep, and cooling med'cines found their Ease.</L>
+</SP>
+<SP>
+<SPEAKER>Sir Will. Stanly.</SPEAKER>
+<L>This sharpness, Sister, ought to be forborn;</L>
+<L>My Sufferings ask your Pity, not your Scorn.</L>
+</SP>
+<STAGE>[Enter the Princess <HI>and</HI> Charlot.</STAGE>
+<SP>
+<SPEAKER>Mrs Stanly.</SPEAKER>
+<L>Here comes the Princess. Brother, pray, retire:</L>
+<L>I wish, my Tears could quench your Raging Fire.</L>
+<STAGE>[Exit <HI>Sir</HI> William Stanly.</STAGE>
+</SP>
+</DIV2>
+<DIV2 N="2" TYPE="scene">
+<HEAD>SCENA II.</HEAD>
+<STAGE>Princess, Mrs. Stanly, Charlot&punc;</STAGE>
+<SP>
+<SPEAKER>Charlot.</SPEAKER>
+<L>Madam, yield not to these transports of Grief,</L>
+<L>Until the cause proves worthy your Belief:</L>
+<L>My Judgment thinks him true.</L>
+</SP>
+<SP>
+<SPEAKER>Princess.</SPEAKER>
+<L>Thou art a Fool,</L>
+<L>And of thine own plain Heart dost make a Rule</L>
+<L>To measure others by: That sudden Joy,</L>
+<L>Spred through the Court, too clearly does destroy</L>
+<L>All promis'd Hopes from this perfidious Lord.</L>
+</SP>
+<SP>
+<SPEAKER>Char.</SPEAKER>
+<L>My tender years small Judgment can afford:</L>
+<L>But grant, this Lord were true, yet he must use</L>
+<L>These Arts, and the misjudging world abuse.</L>
+<L>His Loyal Purposes would not succeed,</L>
+<L>Unlesse in this dark Method he proceed.</L>
+</SP>
+<SP>
+<SPEAKER>Mrs Stanly.</SPEAKER>
+<L>The Tyrant to that Height of Power is grown,</L>
+<L>That open Force can never pull him down;</L>
+<L>He's to be conquer'd only by Surprise:</L>
+<L>Those Arts must work his Fall, which made him rise.</L>
+<L>Who this Wild Bore adventures to destroy,</L>
+<L><PB N="15" REF="10">
+Must Toiles, and Weapons both at once employ.</L>
+</SP>
+<SP>
+<SPEAKER>Prin.</SPEAKER>
+<L>With raging Forces to destroy our Friends,</L>
+<L>Is a strange method to effect our ends.</L>
+</SP>
+<SP>
+<SPEAKER>Mrs. Stanly.</SPEAKER>
+<L>Dark minds we must in Darkness overthrow;</L>
+<L>To blind the King, we must be blinded too.</L>
+</SP>
+<SP>
+<SPEAKER>Char.</SPEAKER>
+<L>A Publick Errour must our Work secure;</L>
+<L>Madam, with Patience then you may endure</L>
+<L>Unpromising, and false Appearances,</L>
+<L>Which must be bad to gain a good Success.</L>
+</SP>
+<SP>
+<SPEAKER>Prin.</SPEAKER>
+<L>Thy pretty Logick ha's a charming sound,</L>
+<L>But the foundation wants a steady ground.</L>
+<L>Can <HI>Stanly</HI> be for <HI>Richmond,</HI> and invade</L>
+<L>The Friendly Succours rising to his aid?</L>
+<L>The mystery I dread: This treach'rous Lord</L>
+<L>Revolts from Honour, and has broke his Word:</L>
+<L>Private Concern within his narrow Soul</L>
+<L>Does all the Care of Publick good controul;</L>
+<L>And his unworthy Fear for his young Son</L>
+<L>(The Court's great Pledge) our bus'ness has undone.</L>
+</SP>
+<SP>
+<SPEAKER>Mrs. Stanly.</SPEAKER>
+<L>Ah, Madam, do not make this cruel haste!</L>
+<L>With antedated Grief your Heart you waste.</L>
+<L>He is my Brother; and my Blood I'm sure,</L>
+<L>'Gainst you no Taint of Treason will endure.</L>
+</SP>
+<SP>
+<SPEAKER>Prin.</SPEAKER>
+<L>All hopes are past; and we must ruin'd be,</L>
+<L>Since the whole World takes part with Tyrannie.</L>
+<L>Poor <HI>Richmond</HI> hastens to his Fatal End,</L>
+<L>Lost by his Courage, and a Treacherous Friend.</L>
+</SP>
+<STAGE>[Enter L<HI>^d</HI> Stanly.</STAGE>
+<SP>
+<SPEAKER>Mrs. Stanly.</SPEAKER>
+<L>Behold my Brother! It is he, that must</L>
+<L>Make your Grief causless, and your Fears unjust.</L>
+</SP>
+</DIV2>
+<DIV2 N="3" TYPE="scene">
+<HEAD>SCEN. III.</HEAD>
+<SP>
+<SPEAKER>L. Stanly.</SPEAKER>
+<L>Madam, I hope, you'l pardon my delay</L>
+<L>In waiting on you this preposterous way;</L>
+<L>Paying my first Debt last: which your Concern</L>
+<L>Only can justify.</L>
+</SP>
+<SP>
+<SPEAKER>Princess.</SPEAKER>
+<L>By what I learn</L>
+<L>From the World's Voice, I rather disallow</L>
+<L>Your hasty boldness to approch me now.</L>
+</SP>
+<SP>
+<PB N="16" REF="11">
+<SPEAKER>L. Stanly.</SPEAKER>
+<L>Humble Petitioners without Offence</L>
+<L>(Though led by their own Wants) approch their Prince:</L>
+<L>I whom your Service brings, may with lesse blame,</L>
+<L>And better Title the like Freedom claim.</L>
+</SP>
+<SP>
+<SPEAKER>Prin.</SPEAKER>
+<L>Place not on my Account what you have done:</L>
+<L>I, and the Tyrant are not yet all one.</L>
+</SP>
+<SP>
+<SPEAKER>L. Stanly.</SPEAKER>
+<L>You seem all one (pray, pardon what I say)</L>
+<L>When with Reproch my Services you pay.</L>
+</SP>
+<SP>
+<SPEAKER>Prin.</SPEAKER>
+<L>If other Payment you expect, pray go</L>
+<L>To him, for whom these Services you do.</L>
+</SP>
+<SP>
+<SPEAKER>L, Stanly.</SPEAKER>
+<L>I never let to hire my Honesty;</L>
+<L>I neither paid, nor yet reproch't would be.</L>
+</SP>
+<SP>
+<SPEAKER>Prin.</SPEAKER>
+<L>Are you so touch't in Honour, my good Lord;</L>
+<L>Who so apparently have broke your Word?</L>
+</SP>
+<SP>
+<SPEAKER>L. Stanly.</SPEAKER>
+<L>May I endure yours and your Vassals scorn,</L>
+<L>When I infringe that Faith, which I have sworn.</L>
+</SP>
+<SP>
+<SPEAKER>Princess.</SPEAKER>
+<L>These purging Imprecations let alone,</L>
+<L>You have the Tyrant's thanks for what is done.</L>
+</SP>
+<SP>
+<SPEAKER>L, Stanly.</SPEAKER>
+<L>I have deceiv'd the Tyrant and you too;</L>
+<L>And I am thankt by him, reprocht by you:</L>
+<L>Yet this deceit of mine may him dethrone,</L>
+<L>And, Madam, render you your Fathers Crown.</L>
+<L>Thus blind all Censures are, until we know</L>
+<L>Those hidden Roots, whence outward Actions grow.</L>
+</SP>
+<SP>
+<SPEAKER>Princess.</SPEAKER>
+<L>Pray, end these Mysteries: Who did oppose</L>
+<L>Those Loyal Borderers, that lately rose</L>
+<L>Against the King? all Aids you did prevent</L>
+<L>By that unseas'nable discouragement.</L>
+</SP>
+<SP>
+<SPEAKER>L, Stanly.</SPEAKER>
+<L>I did suppress them, Madam; But 'twas I,</L>
+<L>That rais'd them too.</L>
+</SP>
+<SP>
+<SPEAKER>Princess.</SPEAKER>
+<L>I cannot yet descry</L>
+<L>At what you aim.</L>
+</SP>
+<SP>
+<SPEAKER>L. Stanly.</SPEAKER>
+<L>Pray know, that by my own</L>
+<L>Confed' rates all that rising was begun;</L>
+<L>Which I contriv'd only to be supprest:</L>
+<L>This Art I us'd, that in the Jealous breast</L>
+<L>Of our suspitious Tyrant I might gain</L>
+<L>Such Trust, as will our purposes obtain.</L>
+<L>And, that you may reserve no Jealous thought,</L>
+<L>Here my Credential Letters I have brought,</L>
+</SP>
+<STAGE>He delivers a Letter to the Princess, who reads it out.</STAGE>
+<LETTER>
+<PB N="17" REF="11">
+<OPENER><SALUTE>Madam;</SALUTE></OPENER>
+<P>The time draws neer, in which I shall either restore you
+to the Inheritance of your Fathers Crown, or dye a Martyr in your
+cause. My Devotion to your Person, and the Iustice of your Claim;
+raise my hopes into an Assurance of Success. In the mean time by the
+hands of my Lord <HI>Stanly,</HI> your conceal'd and faithful Servant, be
+pleased to accept this earnest of his Constancy, who is Madam, Your
+most devoted Servant.</P>
+<CLOSER><SIGNED>Richmond.</SIGNED></CLOSER>
+</LETTER>
+<SP>
+<SPEAKER>Princess.</SPEAKER>
+<L>My Lord, I know the hand; and what to you</L>
+<L>I did impute, that Blame becomes my due.</L>
+<L>Errours of Passion, not of Will, may find.</L>
+<L>An easie Pardon in a generous Mind.</L>
+</SP>
+<SP>
+<SPEAKER>L. Stanly.</SPEAKER>
+<L>Madam your goodness now confounds me more</L>
+<L>Then your unkind reproaches did before;</L>
+<L>But your concernments now require my haste,</L>
+<L>And make the price of Time too great to waste.</L>
+<L>Yet, ere I part, I must with Joy relate</L>
+<L>Of our improving Cause the prosp'rous state;</L>
+<L>For your great Chief advances with a Power</L>
+<L>Resolv'd and Numerous, growing every hour;</L>
+<L>Which still receives by a supply'd access</L>
+<L>Of the Heroick <HI>Welch</HI> a fair encrease.</L>
+<L>And, Madam, from this Camp you soon will see</L>
+<L>His Flying Colours brave the Enemie.</L>
+</SP>
+<SP>
+<SPEAKER>Princess.</SPEAKER>
+<L>His hasty Succours may advance too late.</L>
+</SP>
+<SP>
+<SPEAKER>L. Stan.</SPEAKER>
+<L>Too late? how can that be?</L>
+</SP>
+<SP>
+<SPEAKER>Prin.</SPEAKER>
+<L>The Tyrant's hate</L>
+<L>By a most Fatal Metamorphosis</L>
+<L>Does in Love's Image his ill shape disguise;</L>
+<L>Of which I dread the dismal consequence.</L>
+</SP>
+<SP>
+<SPEAKER>L. Stanly.</SPEAKER>
+<L>The thoughts of his own Danger, and Defence</L>
+<L>Will soon allay the crafty Lover's Heats.</L>
+</SP>
+<SP>
+<SPEAKER>Princess.</SPEAKER>
+<L>Whilst I am in his Power, no Fatal threats,</L>
+<L>That aim at him, can make my safety better;</L>
+<L>For, when his danger's great, mine must be greater.</L>
+<L>His bloody Temper urg'd by Jealousie</L>
+<L>Will all his former cruelties outvie.</L>
+</SP>
+<SP>
+<SPEAKER>L. Stanly.</SPEAKER>
+<L>Madam, can Heaven for such a Tyrant's sake</L>
+<L>Pervert their Justice, and you Guilty make?</L>
+<L>But is it true, that now the Queen does prove</L>
+<L><PB N="18" REF="12">
+A Mediatour for the Tyrant's Love?</L>
+</SP>
+<SP>
+<SPEAKER>Princess.</SPEAKER>
+<L>It is too true: A Mothers tender heart</L>
+<L>Does for my safety take the Tyrant's part.</L>
+</SP>
+<SP>
+<SPEAKER>L. Stanly.</SPEAKER>
+<L>Ha's she forgot, what Guardian he has been</L>
+<L>To her two Sons? Ha's she not lately seen</L>
+<L>What Husband to his Wife he prov'd? and can</L>
+<L>A Mother give a Daughter to this man?</L>
+</SP>
+<SP>
+<SPEAKER>Princess.</SPEAKER>
+<L>My Lord, she is my Mother; pray, forbear.</L>
+</SP>
+<SP>
+<SPEAKER>L. Stanly.</SPEAKER>
+<L>I must not speak what you are loth to hear.</L>
+</SP>
+<SP>
+<SPEAKER>Princess.</SPEAKER>
+<L>I fear, my Lord, that our great bus'ness may</L>
+<L>Suffer some damage by your longer stay;</L>
+<L>And yet one minute more you must attend,</L>
+<L>Whilst I an answer to this Letter send.</L>
+</SP>
+<SP>
+<SPEAKER>L. Stanly.</SPEAKER>
+<L>Your sight with no mean Joy my heart does bless.</L>
+</SP>
+<SP>
+<SPEAKER>Mrs. Stanly.</SPEAKER>
+<L>Brother, your kindness makes my happiness.</L>
+</SP>
+<STAGE>Exeunt Princess and Mrs. <HI>Stanly.</HI></STAGE>
+</DIV2>
+<DIV2 N="4" TYPE="scene">
+<HEAD>SCEN. IV.</HEAD>
+<STAGE><HI>Lord</HI> Stanly, Charlot.</STAGE>
+<SP>
+<SPEAKER>L. Stanly.</SPEAKER>
+<L>Sir, by the noble <HI>Richmond</HI>'s strict commands</L>
+<L>I am to leave this Letter in your hands.</L>
+<L>You are intirely happy in his grace;</L>
+<L>I find you there possess an envyed place.</L>
+</SP>
+<SP>
+<SPEAKER>Charlot.</SPEAKER>
+<L>I may presume, that for so poor a thing,</L>
+<L>As <HI>Charlot,</HI> Envy cannot find a sting.</L>
+</SP>
+<SP>
+<SPEAKER>L. Stanly.</SPEAKER>
+<L>Your Person I confess, should alwaies prove</L>
+<L>The subject not of envy, but of love:</L>
+<L>Nature does court you; and her Favourite</L>
+<L>Is for a Prince his kindness ever fit.</L>
+</SP>
+<SP>
+<SPEAKER>Charlot.</SPEAKER>
+<L>My Lord, you quite mistake me; I was worse,</L>
+<L>Then nothing, till my Essence from that Source</L>
+<L>Of goodness was deriv'd: From him I own</L>
+<L>Being, and Happiness. So the kind Sun</L>
+<L>Smiles on a Clod of Earth after a showre,</L>
+<L>And then prefers that Dirt into a Flower.</L>
+</SP>
+<SP>
+<SPEAKER>L. Stanly.</SPEAKER>
+<L>Your Person, and your Gratitude both shew</L>
+<L><PB N="19" REF="12">
+Your Patron just, when he is kind to you:</L>
+<L>I find, the Royal Princess too does seem</L>
+<L>To give you the same place in her esteem.</L>
+</SP>
+<SP>
+<SPEAKER>Charlot.</SPEAKER>
+<L>She does her gracious countenance afford</L>
+<L>To a slight Toy sent to her from my Lord.</L>
+</SP>
+<SP>
+<SPEAKER>L. Stanly.</SPEAKER>
+<L>But in this jealous Court what Industry</L>
+<L>Has thus preserv'd you from each watchful spy?</L>
+</SP>
+<SP>
+<SPEAKER>Charlot.</SPEAKER>
+<L>Their bus'ness is above, I keep below:</L>
+<L>Besides French Pages are the Fashion now.</L>
+<L>But pray, my noble Lord, what numbers join</L>
+<L>Of French Nobless to favour our Design?</L>
+</SP>
+<SP>
+<SPEAKER>L. Stanly.</SPEAKER>
+<L>I durst not publick in their Camp appear,</L>
+<L>But of a <HI>Breton</HI> Lord much Fame I hear;</L>
+<STAGE>[Charlot <HI>starts.</HI>]</STAGE>
+<L>He's <HI>Chandew</HI> call'd. What's this? something I find</L>
+<L>By your chang'd face, has discompos'd your mind.</L>
+</SP>
+<SP>
+<SPEAKER>Charlot.</SPEAKER>
+<L>My Lord, I hope you will not think it strange,</L>
+<L>That in my troubled breast you see this change:</L>
+<L>Impressions, such as these, are often wrought,</L>
+<L>When absent Friends and Country fill our thought.</L>
+<L>Such fits will quickly vanish. But I fear,</L>
+<L>That our attendance we too long forbear.</L>
+</SP>
+<SP>
+<SPEAKER>L. Stanly.</SPEAKER>
+<L><HI>Charlot,</HI> 'tis well advis'd; Pray, shew the way.</L>
+</SP>
+<STAGE><HI>Exeunt</HI> L. Stanly and Charlot.</STAGE>
+<STAGE>Enter again <HI>Charlot</HI> reading the Letter.</STAGE>
+<LETTER>
+<P>My <HI>Charlot,</HI> I beg the continuance of thy kindness, in being the
+faithful Interpreter and Promoter of my Passion to our adored Prin|cess.
+&mdash;</P>
+</LETTER>
+<STAGE><HI>Charlot</HI> shuts the Letter suddenly.</STAGE>
+<SP>
+<SPEAKER>Charlot.</SPEAKER>
+<L>Dear Paper! I to thee this Homage pay,</L>
+<STAGE>[kisses the
+Letter]</STAGE>
+<L>Though I in thy contents already find</L>
+<L>A Warrant for my execution sign'd;</L>
+<L>Which I must serve upon my self, and be</L>
+<L>The instrument of my own Destinie.</L>
+<L>Though I am thus condemn'd, yet I not grudge</L>
+<L>To kiss the Sentence, and adore the Judge.</L>
+<L>I only pray, my Punishment may be</L>
+<L>Kept secret, and exempt from infamie:</L>
+<L>Alas! my hopes are vain; for how can I</L>
+<L><PB N="20" REF="13">
+Conceal a Daughter from a Fathers eye?</L>
+<L>My Fault's too great for Pardon, I allow;</L>
+<L>Yet I as great a Penance undergo:</L>
+<L>Since I assist my Rival to possess</L>
+<L>That, which possest, destroys my Happiness.</L>
+<L>Grant, Heaven! at least, that I may part from hence</L>
+<L>As clear in Honour, as in Innocence.</L>
+<STAGE>[Exit Charlot.</STAGE>
+</SP>
+</DIV2>
+<DIV2 N="5" TYPE="scene">
+<HEAD>SCEN. V.</HEAD>
+<STAGE>Enter King, Queen, L<HI>^d</HI> Strange, <HI>and</HI> Attendants.</STAGE>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Well, Madam; will she yield?</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>I did not spare</L>
+<L>My labour to reduce her, nor my care.</L>
+<L>Patience must this to happy issue bring.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Patience is not the Virtue of a King.</L>
+<L>It will concern you, and your Daughter too,</L>
+<L>Not to become too tedious.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Sir, you woo</L>
+<L>In a strange Language.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>I must change my course.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Nothing does less consist with Love, then Force.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Call <HI>Stanly,</HI> and his Sister. The Idle may</L>
+<L>In lingring Courtship trifle out the Day:</L>
+<L>Slow Treaties will to stormings him oblige,</L>
+<L>Who leisure wants to take the Fort by Siege.</L>
+</SP>
+<SP>
+<SPEAKER>Princess.</SPEAKER>
+<L>In exigents of State, or Rage of War</L>
+<L>Sudden dispatch, and Force conducing are;</L>
+<L>But Sir, in love-concernments they destroy</L>
+<L>The chiefest Blessing, that you would enjoy.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Madam, these tedious forms destructive grow;</L>
+<L>The safety of my Crown they overthrow.</L>
+<L>Like a bold Suitour <HI>Richmond</HI> marches on,</L>
+<L>And by pretending Love to Strength is grown:</L>
+<L>When Kingdoms such Convulsion-fits endure,</L>
+<L>We must not complement about the Cure.</L>
+<STAGE>[Enter Sir Will. <HI>Stanly</HI></STAGE>
+<L><HI>Stanly,</HI> have you perform'd, what I enjoyn'd?</L>
+</SP>
+<SP>
+<SPEAKER>Sir W. Stan.</SPEAKER>
+<L>I have obey'd you,</L>
+</SP>
+<SP>
+<SPEAKER>Sir. <HI>King.</HI></SPEAKER>
+<L>But do you find</L>
+<L>Good Symptoms of Success?</L>
+</SP>
+<SP>
+<SPEAKER>Mrs. Stanly.</SPEAKER>
+<L>What shall I say?</L>
+</SP>
+<STAGE>[apart.</STAGE>
+<SP>
+<SPEAKER>Sir W. Stan.</SPEAKER>
+<L>Sir I have done my part.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Then I must lay,</L>
+<L><PB N="21" REF="13">
+Madam, the blame on you, if my design</L>
+<STAGE>[To Mrs. Stanly.</STAGE>
+<L>Miscarry.</L>
+</SP>
+<SP>
+<SPEAKER>Mrs. Stanly.</SPEAKER>
+<L>Sir, unless the Fault be mine,</L>
+<L>Your Justice will not punish me with blame.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>I do not like this Prologue. Does my Flame</L>
+<L>Yet warm her Breast?</L>
+</SP>
+<SP>
+<SPEAKER>Mrs. Stanly.</SPEAKER>
+<L>Sir, she condemns your haste:</L>
+<L>And says, her time of mourning is not past</L>
+<L>For her two Brothers; and she thinks, that you</L>
+<L>(Your Queen scarce cold) should be a mourner too:</L>
+<L>Then she concludes it would great Scandal move,</L>
+<L>If two so deep in Sorrow should make Love.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>She thinks, it is too soon for me to woo;</L>
+<L>But does she think it so for <HI>Richmond</HI> too?</L>
+<L>Madam, you know her Bosom; pray, be free:</L>
+<L>Is she not warm to him, and cold to me?</L>
+</SP>
+<SP>
+<SPEAKER>Mrs. Stanly.</SPEAKER>
+<L>Sir, you mistake the Temper of her Heart;</L>
+<L>Where grief holds all, Love can pretend no part.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>If she be free from Love, her Duty may</L>
+<L>With less reluctancy her King obey.</L>
+<L>I wish, I had more cause to thank your care</L>
+<L>In my concerns. Madam, your Brothers are</L>
+<L>My greatest Friends: methinks, you should inherit</L>
+<L>With their high Blood some of their loyal merit:</L>
+<L>Madam, be kind; and let me not despair,</L>
+<L>That Heaven ha's made you good as well as fair.</L>
+<L>Madam, I will attend your Daughter strait,</L>
+<STAGE>[To the Queen.</STAGE>
+<L>To learn of her mine, and the Kingdoms Fate.</L>
+</SP>
+<STAGE>[Exit King.</STAGE>
+<SP>
+<SPEAKER>L. Strange.</SPEAKER>
+<L>Uncle farewel: would I might stay with you.</L>
+</SP>
+<SP>
+<SPEAKER>Sir W. Stan.</SPEAKER>
+<L>You must obey your King and Father too.</L>
+<STAGE>[Exit
+Strange.</STAGE>
+</SP>
+</DIV2>
+<DIV2 N="6" TYPE="scene">
+<HEAD>SCENA VI.</HEAD>
+<STAGE>Queen, Sir Will. <HI>Stanly,</HI> Mrs. <HI>Stanly.</HI></STAGE>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Did you not mark, how his contracted brow</L>
+<L>Did curle like Waves, which to a Tempest grow?</L>
+</SP>
+<SP>
+<SPEAKER>Sir W. Stan.</SPEAKER>
+<L>Madam, this gath'ring Storm (if not withstood)</L>
+<L>Will end in a Prodigious Rain of Blood.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Too well I know the Ills, these Signs presage;</L>
+<L><PB N="22" REF="14">
+This Storm on me, and mine will shortly rage.</L>
+<L>How often, cruel man! must I be stain</L>
+<L>In every Child, and yet not end my Pain?</L>
+<L>Ere thou didst tear away each tender shoot,</L>
+<L>Would thou hadst laid thy Hatchet to the Root!</L>
+</SP>
+<SP>
+<SPEAKER>Sir Will. Stanly.</SPEAKER>
+<L>Madam, he wants the Bowels of a Man,</L>
+<L>Who sees your Grief, and does not all he can,</L>
+<L>In your Redress: When you my Sword command,</L>
+<L>'Twixt him, and yours I will a Bulwark stand.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Sir, were your offer more, then complement,</L>
+<L>I should such kindness to its worth resent:</L>
+<L>But by his favours you are prepossest,</L>
+<L>And wear the Tyrant's Chains, though not opprest.</L>
+</SP>
+<SP>
+<SPEAKER>Sir Will. Stan.</SPEAKER>
+<L>Those seeming favours, which he does impart,</L>
+<L>Are no true marks of kindness, but of Art:</L>
+<L>When he propitious to my Vows appears,</L>
+<L>He does but sacrifice to his own Fears.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Alas! I am not worth a new design</L>
+<L>Of farther ruine: You need not combine</L>
+<L>By subtle ways to draw me to my woe;</L>
+<L>I am past falling now, Ily so low.</L>
+</SP>
+<SP>
+<SPEAKER>Sir Will. Stanly.</SPEAKER>
+<L>Let all in Heaven and Earth, who sacred be,</L>
+<L>The great, and good, be Witnesses for me,</L>
+<L>That I to you, and yours will loyal prove.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Such ardent Zeal, and such a sudden Love</L>
+<L>From him, who seem'd a Foe, must well be scan'd,</L>
+<L>Ere they by Force of Words my Faith command.</L>
+</SP>
+<SP>
+<SPEAKER>Mrs. Stanly.</SPEAKER>
+<L>I know my brother's Int'rest, and his Heart;</L>
+<L>His Passion wears no false disguise of Art.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>If his deep Vows, and those confirm'd by you,</L>
+<L>Should move my willing heart to think them true;</L>
+<L>What means has he from threatning Storms to free</L>
+<L>The small remainder of my Familie?</L>
+</SP>
+<SP>
+<SPEAKER>Sir William Stanly.</SPEAKER>
+<L>None can be sav'd unless they first believe:</L>
+<L>Madam the great deceiver I'le deceive.</L>
+<L>You cannot see the depths of my design,</L>
+<L>But you shall hear it when I spring the Mine.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>These mighty Promises advanc'd by you</L>
+<L><PB N="23" REF="14">
+Ask time for thanks, and for acceptance too.</L>
+<STAGE>[Exit Queen.</STAGE>
+</SP>
+</DIV2>
+<DIV2 N="7" TYPE="scene">
+<HEAD>SCENA VII.</HEAD>
+<STAGE>Sir William Stanly, Mrs. Stanly.</STAGE>
+<SP>
+<SPEAKER>Mrs. Stanly.</SPEAKER>
+<L>Brother, what's your Design? I fear, you move</L>
+<L>In these Attempts provok't by your rash Love.</L>
+</SP>
+<SP>
+<SPEAKER>Sir Will. Stan.</SPEAKER>
+<L>Though Love be the great Cause, yet I should do</L>
+<L>The same by Honour mov'd and Justice too.</L>
+</SP>
+<SP>
+<SPEAKER>Mrs. Stanly.</SPEAKER>
+<L>To save true Princes from a Tyrant's doom</L>
+<L>Is that, which may a <HI>Stanly</HI> well become:</L>
+<L>But with unlawful Passion to invade</L>
+<L>What mutual Vows and Heaven have sacred made,</L>
+<L>Will all the Glory of your Life deface,</L>
+<L>And tarnish all the Lustre of our Race.</L>
+<L>Do you not see the great Design of Fate,</L>
+<L>That peacefully would quench the fierce Debate,</L>
+<L>In which this harrass'd Land too long ha's bled,</L>
+<L>By planting these two Roses in one Bed?</L>
+</SP>
+<SP>
+<SPEAKER>Sir Will. Stanly.</SPEAKER>
+<L>The truth of what you say I know too well;</L>
+<L>But Love against my Reason does rebel.</L>
+<L>The Enterprise less difficult will prove</L>
+<L>To vanquish <HI>Richard,</HI> then to conquer Love.</L>
+</SP>
+<SP>
+<SPEAKER>Mrs. Stanly.</SPEAKER>
+<L>Such hopeless Love no longer entertain;</L>
+<L>The Saint, whom you adore, you but prophane:</L>
+<L>It will both mortal, and unglorious be,</L>
+<L>To touch the Fruit of this Forbidden Tree.</L>
+</SP>
+<SP>
+<SPEAKER>Sir Will. Stanly.</SPEAKER>
+<L>Though between me, and my Pretentions lyes</L>
+<L>A Chaos void of Possibilities,</L>
+<L>Yet I must on: Those things, I mean to do,</L>
+<L>Shall make you say, I did not rashly wooe.</L>
+<L>If Love's Religion Merit will allow,</L>
+<L>He may find Grace, who ha's perform'd his Vow.</L>
+</SP>
+<STAGE>[Exeunt.</STAGE>
+</DIV2>
+</DIV1>
+<DIV1 N="3" TYPE="act">
+<DIV2 N="1" TYPE="scene">
+<PB N="24" REF="15">
+<HEAD>ACTUS TERTIUS.
+SCEN. I.</HEAD>
+<STAGE>Enter King, Princess, L<HI>^d</HI> Strange, <HI>Guards,
+and</HI> Attendants.</STAGE>
+<SP>
+<SPEAKER>L^d Strange</SPEAKER>
+<L><STAGE>apart.]</STAGE> The Tyrant now will our poor Princess bait</L>
+<L>With Kindness far more Cruel, then his Hate.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Madam, be pleas'd to let your Guards withdraw.</L>
+</SP>
+<SP>
+<SPEAKER>Prin.</SPEAKER>
+<L>My Guards? And must their Pris'ner give them Law?</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Madam, your are their Queen. Both these and I,</L>
+<L>And with us all the Nation prostrate lye,</L>
+<L>Begging the Honour of your Government.</L>
+</SP>
+<SP>
+<SPEAKER>Prin.</SPEAKER>
+<L>What you in pleasant Rallery present,</L>
+<L>Your serious Conscience knows, is all my Due;</L>
+<L>This with the rest I must endure from you:</L>
+<L>And to the will of Heaven I can resign</L>
+<L>What you have ravish'd both from me, and mine:</L>
+<L>But though you tye my Person, as your Slave,</L>
+<L>Yet let my Thoughts the common Freedom have;</L>
+<L>The Thoughts of Pris'ners cannot be confin'd:</L>
+<L>No fetter'd Slave can love against his mind.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Though I confess, that for the Publick Good</L>
+<L>And safety of the Realm I have drawn blood</L>
+<L>(Heaven knows!) against my will, yet, Madam, you</L>
+<L>Are grown the greater Tyrant of us two.</L>
+<L>The Realm's inflam'd, and wounded; you may quench:</L>
+<L>This Inflamation, and the Bleeding stench.</L>
+<L>Though I am much unworthy of your Love,</L>
+<L>Yet <HI>England</HI>'s Safety should your Pity move.</L>
+<L>Madam, your love vouchsaf'd to me ha's Charms,</L>
+<L>Which can dissolve all Enmities, and Arms:</L>
+<L>All our Divisions close; the War is done,</L>
+<L>When Right, and Power consent to joyn in one.</L>
+</SP>
+<SP>
+<SPEAKER>Prin.</SPEAKER>
+<L>Sir, could your cruel Rhet'rick rudely chuse</L>
+<L><PB N="25" REF="15">
+No Subject, but Compassion to abuse?</L>
+<L>Is Pity that, which you pretend to teach?</L>
+<L>O Sir! that you had practis'd what you preach!</L>
+<L>Then had you not the Royal Plants cut down,</L>
+<L>To clear your Passage to the sacred Crown.</L>
+<L>The Blood you spilt, provokes Heaven's striking Flame,</L>
+<L>Whose long Forbearance takes but surer aim.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Madam, I need not fear a Punishment</L>
+<L>Out of the Clouds: Heaven spares the Innocent:</L>
+<L>The Thunder, which I dread, does only lye</L>
+<L>In your contracted Brow, or angry Eye.</L>
+<L>Repeal that Censure, which misjudging Grief</L>
+<L>Lays on the Guiltless, and gives small Relief</L>
+<L>To your great Losses, making those my Crimes,</L>
+<L>Which were effects of the distracted times.</L>
+<L>I mourn'd as much, as you, the hasty Fate</L>
+<L>Of that lamented Pair, whose lives short Date</L>
+<L>I rather would have lengthen'd with my own,</L>
+<L>To be their Subject, then to wear their Crown.</L>
+</SP>
+<SP>
+<SPEAKER>Prin.</SPEAKER>
+<L>You robb'd me of my Blood, and Regal Due;</L>
+<L>Would you deprive me of my Sense too?</L>
+<L>My Reason is reverst! with me, alas!</L>
+<L><HI>Richard</HI> the third for a mild Prince must passe!</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Did you believe me Cruel at that rate,</L>
+<L>Which you pretend, you would not tempt your Fate</L>
+<L>By Provocations able to engage</L>
+<L>Patience it self into a bloody Rage.</L>
+<L>But, Madam, you are safe; I shall endure</L>
+<L>All your Distempers, and attend their Cure:</L>
+<L>Your Int'rest must at last your Passion sway.</L>
+</SP>
+<SP>
+<SPEAKER>Prin.</SPEAKER>
+<L>My Int'rest shall my Honour still obey;</L>
+<L>Which abhors him, who does usurp my Crown</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Madam, by Title justly 'tis your own:</L>
+<L>Take it, and wear it. When I put it on,</L>
+<L>I sav'd the Crown for you, you for the Crown.</L>
+</SP>
+<SP>
+<SPEAKER>Prin.</SPEAKER>
+<L>I fear, your words contain lesse Truth, then Art;</L>
+<L>For seldom ha's your Tongue exprest your Heart.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>My Tongue speaks truth: I only beg the grace</L>
+<L><PB N="26" REF="16">
+To be your Subject in the foremost place;</L>
+<L>That is, your Husband.</L>
+</SP>
+<SP>
+<SPEAKER>Princess.</SPEAKER>
+<L>I expected this,</L>
+<L>In these fair Flowers to hear the Serpent hiss.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>When common Persons marry, Passion may</L>
+<L>Direct their Choice, whilst Fancy bears the sway;</L>
+<L>But with great Princes the wise Rules of State</L>
+<L>Must be as binding, as the Laws of Fate:</L>
+<L>Their Inclinations by those Rules must move;</L>
+<L>The Publick Good's the center of their Love.</L>
+</SP>
+<SP>
+<SPEAKER>Prin.</SPEAKER>
+<L>For Publick Good, what you usurp, resign:</L>
+<L>Make me not yours by Force, but give me Mine.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>You say too much: I see, you'l rather prove</L>
+<L>The Subject of my Justice, then my Love.</L>
+<L>Th' Invader <HI>Richmond</HI> is your lov'd Gallant,</L>
+<L>Whose Treason does not your allowance want.</L>
+<L>Prepare for marriage, or a Funeral;</L>
+<L>To be my Wife, or not to be at all.</L>
+<L>Madam, you shall be crown'd; Chuse and be wise;</L>
+<L>Either for Empire, or for Sacrifice.</L>
+</SP>
+<SP>
+<SPEAKER>Prin.</SPEAKER>
+<L>Spoke like your self: I knew, the mask of Lover</L>
+<L>Would soon drop off, which did the Tyrant cover.</L>
+<STAGE>[Exit Prin.</STAGE>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Through Rocks of Opposition this alone</L>
+<STAGE>[Pointing to
+his sword]</STAGE>
+<L>Ha's hew'd my Passage to the craggy Throne.</L>
+<L>These hands (the sharpest scythe of time) mow'd down</L>
+<L>All, that grew up between me, and the Crown.</L>
+<L>I did my Greatness to a Height advance</L>
+<L>Above the Stormy Region of wild Chance:</L>
+<L>And shall frail Woman, Natures slightest thing,</L>
+<L>Out-brave the Power of Death, and such a King?</L>
+<L>I am but able to destroy, and kill;</L>
+<L>She can do more, for she enjoys her Will.</L>
+<L>Contempt of Life does all Power overthrow;</L>
+<L>'Tis Fear, makes Gods above, and Kings below.</L>
+</SP>
+<STAGE>[Enter the Queen.</STAGE>
+</DIV2>
+<DIV2 N="2" TYPE="scene">
+<HEAD>SCENA II.</HEAD>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Can it be true, Sir, that your Fatal breath</L>
+<L>Has cruelly pronounc'd my Daughters Death?</L>
+<L><PB N="27" REF="16">
+Can you so suddenly degenerate</L>
+<L>From Love's soft Passion to a mortal Hate?</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Madam, more, then my Life, I still love Her;</L>
+<L>But I the Kingdom's weal to both prefer.</L>
+<L>Complain not of the Hardship you endure,</L>
+<L>Since your own hands contain a present Cure.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>When Love his message to a Virgin brings,</L>
+<L>Slow Patience lends him Feet, and clips his Wings.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>With Patience, like Love's Martyr, I have born</L>
+<L>Not only her Denials, but her Scorn:</L>
+<L>It is not Modesty, which makes her Cold;</L>
+<L>Her Heart instead of Love does malice hold:</L>
+<L>A guilty Passion she does clearly show</L>
+<L>To him, who is her King's, and Country's Foe.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>If she stood so inclin'd, how can you doubt,</L>
+<L>But that a Mother's Eye would find it out?</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Whether that ignorance, which now you show,</L>
+<L>Be Real, or Affected, you best know:</L>
+<L>To me her words, and Actions both declare</L>
+<L>Which way her Inclinations byass'd are.</L>
+<L>The Traytour <HI>Richmond</HI> holds so large a Part</L>
+<L>Within her Bosom, as excludes my Heart:</L>
+<L>But in few hours I will Possession get,</L>
+<L>And drive him thence, or else destroy the Seat.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>O Sir! pass not a Judgment so severe,</L>
+<L>Till the suggested Crime does more appear.</L>
+<L>If she refuse the Courtship of a Crown,</L>
+<L>She cannot stoop a meaner Flame to owne;</L>
+<L>And quit the Glory of a Queen, to live</L>
+<L>The obscure Wife of a poor Fugitive.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>But this starv'd Snake warm'd by her special Grace</L>
+<L>Invades the Land, and rises in my Face.</L>
+<L>Madam, your Daughter's Choice will quickly show,</L>
+<L>Whether his Crimes belong to her, and you.</L>
+<L>To morrow's Sun shall light her to my Throne,</L>
+<L>Or on her Treason see due Justice done.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Be not so hasty to pronounce her Fate;</L>
+<L>Can her not loving be a Crime of State?</L>
+</SP>
+<SP>
+<PB N="28" REF="17">
+<SPEAKER>King.</SPEAKER>
+<L>Madam, we lose but time, whilst you apply</L>
+<L>To the improper place your Remedy:</L>
+<L>For the malignant part of this Disease</L>
+<L>Lyes only in your Daughter's Stubborness:</L>
+<L>Cure that, and she no longer will be seen</L>
+<L>Her King's just Pris'ner, but the Nation's Queen.</L>
+<STAGE>[Exit King.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Which shall I call the Cruel, or the Mild,</L>
+<L>This bloody Tyrant, or my Stubborn Child?</L>
+<L>Both are alike resolv'd, and act their Part</L>
+<L>To break, and tear a tender Mothers Heart.</L>
+<L>She no Concern for Life does seem to owne,</L>
+<L>But Death accepts more gladly, then the Crown.</L>
+<L>I find the Charm, which does this Spirit raise;</L>
+<L><HI>Richmond,</HI> as Sovereign in her Bosom sways.</L>
+</SP>
+<STAGE>[Enter Sir Will, Stanly.</STAGE>
+</DIV2>
+<DIV2 N="3" TYPE="scene">
+<HEAD>SCEN. III.</HEAD>
+<STAGE>Queen, <HI>Sir</HI> William Stanly.</STAGE>
+<SP>
+<SPEAKER>Sir W. Stanly.</SPEAKER>
+<L>Madam, I come my Destiny to learn,</L>
+<L>Which wholly now depends on your Concern.</L>
+<L>The Danger of the Princess draws too near;</L>
+<L>The Tyrant does all marks of Fury wear.</L>
+<L>VVill you accept my Service?</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Sir, I must</L>
+<L>Confess, your faithful zeal deserves my Trust.</L>
+<L>Now I believe, you are ordain'd to be</L>
+<L>The great Preserver of my Familie.</L>
+</SP>
+<SP>
+<SPEAKER>Sir W. Stanly.</SPEAKER>
+<L>Madam, your fair Esteem I will make good,</L>
+<L>And seal my Promise with my dearest Blood.</L>
+<L>But now that we may take a speedy Course</L>
+<L>By secret Practice, or by open Force</L>
+<L>To disappoint the Tyrant, and pursue</L>
+<L>The Bus'ness of your Safety, I must sue</L>
+<L>For my Admission to the Princess Ear:</L>
+<L>Some needful Orders I must have from her,</L>
+<L>Of high Importance to our work in hand.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Your Merit, and our Danger, Sir, command</L>
+<L><PB N="29" REF="17">
+Your speedy satisfaction: But the King</L>
+<L>Must be at farther Distance, e're I bring</L>
+<L>You two together. His great Jealousie</L>
+<L>With highest Caution must attended be.</L>
+<L>Let us retire, and study, how we may</L>
+<L>Make perfect your Design the safest Way.</L>
+</SP>
+<SP>
+<SPEAKER>Sir W. Stanly.</SPEAKER>
+<L>Madam, you walk apace from your Distress:</L>
+<L>Designs well modell'd seldom want success.</L>
+<L>The Foolish Crowd, who outsides only view,</L>
+<L>Give that to Fortune, which is Wisdom's Due.</L>
+</SP>
+<STAGE>[Exeunt.</STAGE>
+</DIV2>
+<DIV2 N="4" TYPE="scene">
+<HEAD>SCENA IV.</HEAD>
+<STAGE>Enter Mrs. Stanly, and Charlot.</STAGE>
+<SP>
+<SPEAKER>Char.</SPEAKER>
+<L>He robs her both of Crown, and Libertie!</L>
+<L>Can he the Gaoler of his Mistris be?</L>
+<L>To promise Love, and thus to break his Vow,</L>
+<L>Is all the Treason, that a King can do.</L>
+</SP>
+<SP>
+<SPEAKER>Mrs. Stanly.</SPEAKER>
+<L>He, like the worst of Thieves, means farther ill;</L>
+<L>For Tyrants after robbing always kill.</L>
+<L>The Sacrilegious Monster will devour</L>
+<L>The Saint, whom he so lately did adore.</L>
+</SP>
+<SP>
+<SPEAKER>Char.</SPEAKER>
+<L>Avert it powerful Heaven! such Cruelty</L>
+<L>Must not live long, nor so much Vertue dye.</L>
+<L>Her glorious Champion now draws neer, and he</L>
+<L>Killing the Gaoler will the Pris'ner free.</L>
+<L>And, Madam, to divert the painful thought</L>
+<L>Of her Restraint, I have some musick brought:</L>
+<L>Musick I know, will not ungrateful be</L>
+<L>To her, whose Soul is perfect Harmony.</L>
+</SP>
+<SP>
+<SPEAKER>Mrs. Stanly.</SPEAKER>
+<L>In this you will our Princess highly please;</L>
+<L>And at this distance she can hear with Ease.</L>
+</SP>
+<LG>
+<PB N="30" REF="18">
+<HEAD>SONG.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>TYrant thou seek'st in vain</L>
+<L>With her pure Blood thy guilty Sword to stain:</L>
+<L>Heaven does that Sacred Blood design</L>
+<L>To be the Source of an Immortal Line.</L>
+<L>Death will not dare to touch that Heart,</L>
+<L>Which Love ha's chosen for his Dart.</L>
+</LG>
+<LG>
+<HEAD>Chorus.</HEAD>
+<L>Fair Innocence, and Beauty are</L>
+<L>Of watchful Heaven the chiefest care:</L>
+<L>But the devouring Monster shall</L>
+<L>A Sacrifice to Iustice fall.</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L><HI>Richmond</HI> does flye to your Redress;</L>
+<L>(Love's Messengers can do no less.)</L>
+<L>His Sword shall with one Blow</L>
+<L>Cut off your Fetters, and the Tyrant too.</L>
+<L>All Resistance vain will prove</L>
+<L>When Valour is inspir'd by Love.</L>
+</LG>
+<LG>
+<HEAD>Chorus.</HEAD>
+<L>Tyrants by Heaven and Earth are curst;</L>
+<L>They swell with Blood, until they burst:</L>
+<L>But Lovers are wise Nature's eare;</L>
+<L>What Iyrants ruine, they repair.</L>
+</LG>
+</LG>
+<SP>
+<SPEAKER>Charlot.</SPEAKER>
+<L>This will the trouble of her thoughts allay:</L>
+<L>'Tis time to give attendance; let's away.</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+</DIV2>
+<DIV2 N="5" TYPE="scene">
+<PB N="31" REF="18">
+<HEAD>SCEN. V.</HEAD>
+<STAGE>[The Scene changeth to the Earl of <HI>Richmond</HI>'s Quarters.]</STAGE>
+<STAGE>Enter Earl of <HI>Richmond,</HI> Earl of <HI>Oxford,</HI>
+Lord <HI>Chandew,</HI> and Officers, &amp;c.</STAGE>
+<SP>
+<SPEAKER>Richmond.</SPEAKER>
+<L>My Lords, the World must now be taught by you</L>
+<L>What a good Cause, and a good Sword can do.</L>
+<L>When Valour leagu'd with Justice goes to fight,</L>
+<L>Both Heaven, and Earth their Forces then unite:</L>
+<L>Such Union can no more resisted be,</L>
+<L>Then Men can save themselves from Destinie.</L>
+<L>The odds of number on the Tyrant's side</L>
+<L>Are but the Signs, which shew his Fear, and Pride.</L>
+<L>They are the fairer Mark: Usurpers must</L>
+<L>In multitude of Guards repose their trust.</L>
+<L>But, whilst with numbers they their Camp o'recharge,</L>
+<L>They but our Fame, and Booty more enlarge.</L>
+</SP>
+<SP>
+<SPEAKER>Oxford.</SPEAKER>
+<L>When we engage with such a guilty Foe,</L>
+<L>Heaven's Justice adds more weight to every blow.</L>
+<L>We only to their swift Destruction move,</L>
+<L>Who are condemn'd already from above.</L>
+</SP>
+<SP>
+<SPEAKER>Chandew.</SPEAKER>
+<L>The Plains of <HI>Redmore</HI> seem to be the place,</L>
+<L>Where our Just Valour must the Guilty face.</L>
+<L>Where Conquest will a noble Harvest yield,</L>
+<L>And turn to Groves of Laurel <HI>Bosworth</HI> Field.</L>
+</SP>
+<SP>
+<SPEAKER>Oxford.</SPEAKER>
+<L>'Tis true we deal with a destructive Foe,</L>
+<L>(The neerest of his Blood have found him so)</L>
+<L>But his pernicious Hands more practis'd are</L>
+<L>In private Murther, then in open War.</L>
+</SP>
+<SP>
+<SPEAKER>Chandew.</SPEAKER>
+<L>Each common Souldier makes the cause his own,</L>
+<L>As if none were concern'd but he alone.</L>
+<L>But 'tis not strange to see the Souldier fir'd</L>
+<L>To such a Height, when by your Flame inspir'd.</L>
+</SP>
+<SP>
+<SPEAKER>Richmond.</SPEAKER>
+<L>My Lords, I to your courteous praise agree;</L>
+<L>They may be high, because you heighten'd me.</L>
+<L><PB N="32" REF="19">
+The Priour of <HI>Litchfield,</HI> Sir, is lighted here,</L>
+<STAGE>Enter Souldier.</STAGE>
+<L>And humbly craves the favour of your Ear.</L>
+</SP>
+<SP>
+<SPEAKER>Oxford.</SPEAKER>
+<L>'Tis he you sent for, Sir; whose Name is high</L>
+<L>For Learning, Pious Life, and Prophecy.</L>
+</SP>
+<SP>
+<SPEAKER>Richmond.</SPEAKER>
+<L>Those Leaders most shall prosper, who advise</L>
+<L>With Heaven e're they begin their Enterprise.</L>
+</SP>
+<STAGE>[Exeunt Oxford,
+and Chandew.</STAGE>
+</DIV2>
+<DIV2 N="6" TYPE="scene">
+<HEAD>SCEN. VI.</HEAD>
+<STAGE>Earl of <HI>Richmond,</HI> Priour of <HI>Litchfield.</HI></STAGE>
+<SP>
+<SPEAKER>Richmond.</SPEAKER>
+<L>Excuse me, Father; for I think it rude</L>
+<L>To call you to a Camp from Solitude.</L>
+<L>I am inform'd, that you to private ears</L>
+<L>Foretold Events, which cur'd my Partie's fears.</L>
+<L>Your Power with Heaven is such, as may obtain,</L>
+<L>What otherwise I should despair to gain.</L>
+<L>This, Father, is the cause of my address.</L>
+</SP>
+<SP>
+<SPEAKER>Priour.</SPEAKER>
+<L>Then, Sir, thank Heaven; for you shall have success.</L>
+</SP>
+<SP>
+<SPEAKER>Richmond.</SPEAKER>
+<L>Now I believe, the publick Voice is true,</L>
+<L>Which does ascribe Prophetick Force to you.</L>
+</SP>
+<SP>
+<SPEAKER>Priour.</SPEAKER>
+<L>That Light dwells not in Sinners: I should be</L>
+<L>Charg'd with the worst of Crimes, Hypocrisie,</L>
+<L>If I pretended to that holy Fire,</L>
+<L>Which does the cleaner Hearts of Saints inspire.</L>
+<L>But' mongst the Records of our Priory</L>
+<L>Th' Authentick works of the wise <HI>Gildas</HI> lye;</L>
+<L>Whose holy Life, and whose Prophetick Fire</L>
+<L>The Ages past with rev'rence did admire.</L>
+<L>In his large Volume I shall only trace</L>
+<L>What does concern your Person, and your Race.</L>
+</SP>
+<SP>
+<SPEAKER>Richmond.</SPEAKER>
+<L>The Authours Value heighten'd by your Praise.</L>
+<L>Does expectation to assurance raise.</L>
+</SP>
+<SP>
+<SPEAKER>Priour.</SPEAKER>
+<L>First he runso're the Conquests of this Land</L>
+<L>By <HI>Saxons, Danes,</HI> and by a <HI>Norman</HI> hand:</L>
+<L>Then mentions the two Roses; and in brief</L>
+<L>Foretels th' Event of that Intestine Strife,</L>
+<L>Which has the noblest Blood of <HI>England</HI> cost,</L>
+<L><PB N="33" REF="19">
+And the best Provinces of <HI>France</HI> has lost.</L>
+<L>Our Authour next upon the present state</L>
+<L>Of our own times more largely does dilate:</L>
+<L>And savs the sury of a Savage Boar</L>
+<L>Shall his own Blood, and then this Land devour.</L>
+<L>Then he describes the Man (and you are he)</L>
+<L>Who must redeem this Realm from Tyrannie;</L>
+<L>Who after Conquest shall by force of Love</L>
+<L>More then by War, our happiness improve.</L>
+<L>For peaceful <HI>England</HI> shall the Roses find</L>
+<L>No more in battel, but in marriage joyn'd.</L>
+</SP>
+<SP>
+<SPEAKER>Richmond.</SPEAKER>
+<L>What can be more? shall I successful prove</L>
+<L>In all my hopes of Empire, and of Love?</L>
+</SP>
+<SP>
+<SPEAKER>Priour.</SPEAKER>
+<L>Sir, much remains behind; your Race shall do</L>
+<L>Things yet more worthy of themselves and you;</L>
+<L>They shall an Union make of louder Fame,</L>
+<L>And of two Kingdoms one great Empire frame.</L>
+<L>But after this a Tempest does succeed,</L>
+<L>Which Hell shall with contagious Vapours feed;</L>
+<L>This Tempest will produce a deed so black,</L>
+<L>That Murther then shall an example lack.</L>
+<L>But from this dark Eclipse a Prince will rise,</L>
+<L>Who shall all Vertues of your Race comprise.</L>
+<L>Forreign, and Native Foes he shall o'recome,</L>
+<L>With force abroad, with lenity at home.</L>
+<L>Though in our sep'rate World, this happy Land</L>
+<L>The center of his Power will fixed stand,</L>
+<L>Yet here the wide Circumf'rence must not end,</L>
+<L>But with the Ocean joyntly shall extend.</L>
+<L>Let Envious, and ungrateful Nations joyn</L>
+<L>His Birth-right to usurp, or to confine;</L>
+<L>When they invade his Empire on the Main,</L>
+<L>They will but act the Gyants War again:</L>
+<L>And when his Sea-Dominion they dispute,</L>
+<L>His Thunder shall those Sons of Earth confute.</L>
+</SP>
+<SP>
+<SPEAKER>Richmond.</SPEAKER>
+<L>These great and glorious things whilst you recite,</L>
+<L>You fill my Soul with Wonder, and Delight.</L>
+<L>Your Sccuts, Sir, are return'd, and bring you word,</L>
+<STAGE>[Enter Soldier.</STAGE>
+<L><PB N="34" REF="20">
+That the Usurper's men have past the Ford.</L>
+</SP>
+<SP>
+<SPEAKER>Richmond.</SPEAKER>
+<L>There's for thy News: I wish th' Allarum true.</L>
+<L>Father, we now must part; yet we'l pursue</L>
+<L>The same great End, though in a diff'rent way;</L>
+<L>For I must go to fight, and you to pray.</L>
+</SP>
+<STAGE>[Exit Priour.</STAGE>
+<STAGE>[Enter Oxford and Chandew.</STAGE>
+</DIV2>
+<DIV2 N="7" TYPE="scene">
+<HEAD>SCEN. VII.</HEAD>
+<STAGE>Richmond, Oxford, Chandew.</STAGE>
+<SP>
+<SPEAKER>Oxford.</SPEAKER>
+<L>We both have view'd the Foe within our ken;</L>
+<L>And we are certain, they are <HI>Stanly's</HI> men.</L>
+<L>Their Number's not five thousand; And their Post</L>
+<L>Is not so fixt, but that it may be lost.</L>
+<L>Sir, we may force their Quarters; And on these</L>
+<L>Begin the Number of your Victories.</L>
+</SP>
+<SP>
+<SPEAKER>Richmond.</SPEAKER>
+<L>No, my dear <HI>Oxford;</HI> Those, whom now you see,</L>
+<L>Must be unseen, and need not conquer'd be,</L>
+<L>For they are ours already. But this must</L>
+<L>A Secret be for yours, and <HI>Chandew's</HI> Trust.</L>
+<L>From their so neer advancing you may learn,</L>
+<L>That the next Sun will end our great Concern.</L>
+<L>My Lords, we have but little time to spare;</L>
+<L>Our Arms, and men we must with speed prepare.</L>
+</SP>
+<SP>
+<SPEAKER>Oxford.</SPEAKER>
+<L>With Joy your Orders we shall all obey;</L>
+<L>Our zeal to serve you suffers by Delay.</L>
+</SP>
+<STAGE>[Exeunt.</STAGE>
+<STAGE>[The Scene is Changed to the Princess Lodging.]</STAGE>
+</DIV2>
+</DIV1>
+<DIV1 N="4" TYPE="act">
+<DIV2 N="1" TYPE="scene">
+<HEAD>ACTUS QUARTUS.
+SCEN. PRIMA.</HEAD>
+<STAGE>Enter Sir Will. Stanly, Mrs. Stanly, L<HI>^d</HI> Strange.</STAGE>
+<SP>
+<SPEAKER>Sir W. Stanly.</SPEAKER>
+<L>Nephew, pray leave us: If the Guards should see</L>
+<L>Our close Converse, we should suspected be:</L>
+</SP>
+<SP>
+<PB N="35" REF="20">
+<SPEAKER>L^d Strange.</SPEAKER>
+<L>I am the Witty Tyrant's Cruel sport,</L>
+<L>Fetter'd in Silk, condemn'd to be at Court.</L>
+</SP>
+<STAGE>[Exit Strange.</STAGE>
+<SP>
+<SPEAKER>Sir W. Stanly.</SPEAKER>
+<L>Sister, pray tell the Queen, by her Command</L>
+<L>That I wait here to kiss the Princess hand.</L>
+</SP>
+<SP>
+<SPEAKER>Mrs. Stanly.</SPEAKER>
+<L>If you reveal your madness, you will lose</L>
+<L>The Glory of that Rescue, you propose;</L>
+<L>For such a daring Lover she'l despise</L>
+<L>More, then she hates her rudest Enemies.</L>
+</SP>
+<SP>
+<SPEAKER>Sir W. Stanly.</SPEAKER>
+<L>So far my sense with your advice accords,</L>
+<L>That I'le shew Deeds more daring, then my Words.</L>
+<L>Pray, go. O Coward Heart! shall sudden fear</L>
+<STAGE>[Exit Mrs. Stanly.</STAGE>
+<L>Possess my Breast, that was a Stranger there?</L>
+<L>Must I now tremble at a Woman's sight,</L>
+<L>Who was not born for Terrour, but Delight?</L>
+<L>Thus Natures Law is by Love's Power controll'd,</L>
+<L>Which men disheartens, and makes Women Bold.</L>
+</SP>
+<STAGE>[Enter Princess.</STAGE>
+</DIV2>
+<DIV2 N="2" TYPE="scene">
+<HEAD>SCEN. II.</HEAD>
+<STAGE>Princess, Sir William Stanly.</STAGE>
+<SP>
+<SPEAKER>Mrs. Stanly.</SPEAKER>
+<L>Madam I humbly beg, that I may have</L>
+<L>Leave to expose my Life, your Life to save.</L>
+<L>My Zeal has long lain speechless, though not weak;</L>
+<L>And 'tis your Danger now, that makes it speak.</L>
+</SP>
+<SP>
+<SPEAKER>Prin.</SPEAKER>
+<L>Sir by the Queen's Advertisement I learn,</L>
+<L>How great a sense you have in my Concern.</L>
+<L>You have a Brother too, whose Constant Love</L>
+<L>By many secret Tryals I approve:</L>
+<L>And, though Court-Favours on his Person shine,</L>
+<L>His Outside is the King's, his Inside mine.</L>
+</SP>
+<SP>
+<SPEAKER>Sir W. Stanly.</SPEAKER>
+<L>'Tis my Misfortune, Madam, that I must</L>
+<L>More, then my own, to others Merit trust:</L>
+<L>And yet ere long I may deserve your Ear</L>
+<L>Without the help of an Interpreter:</L>
+<L>I in your Favour should to none submit,</L>
+<L>If more, then all the World, I merit it.</L>
+<L><PB N="36" REF="21">I hope, if I relieve your present State,</L>
+<L>You will my Love by my Performance rate.</L>
+</SP>
+<SP>
+<SPEAKER>Prin.</SPEAKER>
+<L>Your Language too mysterious is; more plain</L>
+<L>Expressions sooner will my Credit gain.</L>
+<L>In your pretended Love you must not vye</L>
+<L>With those, who wish me well by Natures tye.</L>
+</SP>
+<SP>
+<SPEAKER>Sir W. Stanly.</SPEAKER>
+<L>Madam, There is a Love which does outgo</L>
+<L>All that of Sisters, and of Mothers too.</L>
+</SP>
+<SP>
+<SPEAKER>Prin.</SPEAKER>
+<L>Hold Sir; These aiery Notions pray forbear:</L>
+<L>For I am deaf to what I should not hear.</L>
+<L>Give me no Cause to make a Foe of him,</L>
+<L>Whose Friendship to my House I would esteem:</L>
+<L>For I the Tyrant's Rage shall more approve,</L>
+<L>Then the rude Boldness of a Subject's Love.</L>
+</SP>
+<SP>
+<SPEAKER>Sir W. Stanly.</SPEAKER>
+<L>So far from us below you are remov'd,</L>
+<L>As makes you fit to be ador'd, not lov'd;</L>
+<L>Yet from such Love, as does Heaven's Favour gain,</L>
+<L>I need not, Madam, as from Sin, abstain:</L>
+<L>If Heavenly objects you resemble most,</L>
+<L>Can Heaven be gain'd, and you the same way lost?</L>
+</SP>
+<SP>
+<SPEAKER>Prin.</SPEAKER>
+<L>Hold Sir; This vain Discourse does ill become</L>
+<L>Her, who is newly summon'd to her Tomb.</L>
+</SP>
+<SP>
+<SPEAKER>Sir W. Stanly.</SPEAKER>
+<L>Madam, those Summons' you shall ne're obey;</L>
+<L>I, or the Tyrant first shall lead the Way:</L>
+<L>Your Death design'd shall forfeit him his Crown;</L>
+<L>The Grave, he digs for you, shall be his own.</L>
+</SP>
+<SP>
+<SPEAKER>Prin.</SPEAKER>
+<L>What sure Foundation, Sir, can I descry</L>
+<L>Of this bold Promise, which you raise so high?</L>
+</SP>
+<SP>
+<SPEAKER>Sir W. Stanly.</SPEAKER>
+<L>Foundations, Madam, are laid under Ground;</L>
+<L>And mine, though not expos'd to View, are sound.</L>
+<L>By painful Flattery, and by long Address</L>
+<L>I to the Tyrant's Bosom have Access:</L>
+<L>And Death by Steel or Poyson is his Due,</L>
+<L>Who forms a black Design to murther you.</L>
+</SP>
+<SP>
+<SPEAKER>Prin.</SPEAKER>
+<L>Those Southern Arts to stab, or poyson Foes,</L>
+<L>Become the Climates, where such Poyson grows:</L>
+<L>He, that is born of a true English Race,</L>
+<L>Never destroys a Foe, but to his Face.</L>
+</SP>
+<SP>
+<PB N="37" REF="21">
+<SPEAKER>Sir W. Stanly.</SPEAKER>
+<L>But, Madam, can you give your Life away,</L>
+<L>And to the Tyrant be a willing Prey?</L>
+</SP>
+<SP>
+<SPEAKER>Prin.</SPEAKER>
+<L>To see him fairly kill'd, I would resign</L>
+<L>All Right to what he holds, and should be mine.</L>
+</SP>
+<SP>
+<SPEAKER>Sir W. Stanly.</SPEAKER>
+<L>Verst in the World, but yet not knowing you,</L>
+<L>Madam, I ne're till now, true Honour knew:</L>
+<L>I am your Convert; and so taught, I may</L>
+<L>Ere long to perfect Glory find the way.</L>
+<L>And, Madam, for a Tryal, I this Vow</L>
+<L>Here solemnly declare to Heaven, and you;</L>
+<L>The Tyrant shall be slain, and you releast</L>
+<L>Nobly by him, whom, Madam, you love best.</L>
+<L>In the Suns Eye, and in the open Field</L>
+<L>Fierce <HI>Richard</HI> shall by <HI>Richmond's</HI> Sword be kill'd.</L>
+<L>You, Honour's Mistris, when this Work is done,</L>
+<L>Without Reproch your Proselite may owne.</L>
+</SP>
+<SP>
+<SPEAKER>Prin.</SPEAKER>
+<L>I fear, you take great pleasure to surprise</L>
+<L>My thoughts with Riddles, and dark Prophecies:</L>
+<L>I shall refer my Faith to their Event;</L>
+<L>Now my last hours must otherwise be spent.</L>
+<STAGE>[Exit Princess.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Sir W. Stanly.</SPEAKER>
+<L>As Chymists vex themselves, and Nature too,</L>
+<L>When her Elixir they in vain pursue;</L>
+<L>And yet their toyl does other Secrets find,</L>
+<L>Which improve Art, and benefit Mankind;</L>
+<L>So, though a hidden Love I seek in vain,</L>
+<L>Yet in the Pursuit I shall Glory gain.</L>
+<STAGE>[Exit.</STAGE>
+</SP>
+<STAGE>The Scene is changed to a Field adjoyning to <HI>Richmond</HI>'s Quarters.</STAGE>
+</DIV2>
+<DIV2 N="3" TYPE="scene">
+<HEAD>SCEN. III.</HEAD>
+<STAGE>Enter Earl of <HI>Richmond,</HI> Lord <HI>Stanly.</HI></STAGE>
+<SP>
+<SPEAKER>Richmond.</SPEAKER>
+<L>Talk not of Victory; Heaven can confer</L>
+<L>No Blessing on that Man, who loseth Her.</L>
+</SP>
+<SP>
+<SPEAKER>L. Stanly.</SPEAKER>
+<L>I know, the Tyrant, when all hopes are past,</L>
+<L>Reserves that bloody Stroke for the last Cast:</L>
+<L>Surprise him with a Charge; that may prevent</L>
+<L><PB N="38" REF="22">
+The Execution of his dire Intent.</L>
+</SP>
+<SP>
+<SPEAKER>Richmond.</SPEAKER>
+<L>Could I destroy with the same ease and speed,</L>
+<L>Him, and his Camp, as he can make her bleed,</L>
+<L>Your Counsel then were good; But else her Fate</L>
+<L>By my Attache I should accelerate:</L>
+<L>The bloody Tyrant, stung with Jealousie,</L>
+<L>Will, prest by Danger, twice revenged be,</L>
+<L>Including me in Her: He cannot chuse,</L>
+<L>But hastily destroy what he must lose.</L>
+</SP>
+<SP>
+<SPEAKER>L^d Stanly.</SPEAKER>
+<L>It still has been the Care of Providence</L>
+<L>From sudden strokes to shelter Innocence.</L>
+</SP>
+<SP>
+<SPEAKER>Richmond.</SPEAKER>
+<L>I Providence adore; But to expect</L>
+<L>A Miracle, and so the means neglect,</L>
+<L>When now the Danger of her Life is near,</L>
+<L>Were to deserve the mischief, which we fear.</L>
+</SP>
+<SP>
+<SPEAKER>L^d Stanly.</SPEAKER>
+<L>No way, but Conquest, can prevent her Doom.</L>
+</SP>
+<SP>
+<SPEAKER>Richmond.</SPEAKER>
+<L>I'le yield my self a Pris'ner in her Room.</L>
+</SP>
+<SP>
+<SPEAKER>L^d Stanly.</SPEAKER>
+<L>Can the Restraint of her Preserver be</L>
+<L>The safest way to set the Pris'ner free?</L>
+</SP>
+<SP>
+<SPEAKER>Richmond.</SPEAKER>
+<L>'Tis all the way; because the Tyrant's Fear</L>
+<L>Of <HI>Richmond</HI> makes his Cruelty to Her:</L>
+<L>When I am in his gripe, his Appetite</L>
+<L>Will in my Blood, more, then in hers, delight.</L>
+</SP>
+<SP>
+<SPEAKER>L^d Stanly.</SPEAKER>
+<L>Sir you mistake him; both will please him best:</L>
+<L>By drinking Blood the Thirst is still encreast.</L>
+<L>Sir, your important Life you freely may</L>
+<L>Lay out for her; But throw it not away.</L>
+</SP>
+<SP>
+<SPEAKER>Richmond.</SPEAKER>
+<L>I am resolv'd, that secretly to night</L>
+<L>You shall convey me to the Princess sight.</L>
+</SP>
+<SP>
+<SPEAKER>Stanly.</SPEAKER>
+<L>Shall I conduct you, where you Death must meet?</L>
+<L>Here let me rather perish at your Feet!</L>
+</SP>
+<SP>
+<SPEAKER>Richmond.</SPEAKER>
+<L>O friend! my Love in this great Exigent</L>
+<L>Must Dangers seek, which yours would fain prevent:</L>
+<L>Nor can those Dangers be avoided here;</L>
+<L>My Life, and Safety are confin'd in Her;</L>
+<L>Come, guide me to the Princess that I may,</L>
+<L>If not secure her Life, her Death delay:</L>
+<L>And be assur'd, my Lord, that her Commands</L>
+<L><PB N="39" REF="22">
+With your Advice shall wholly guide my hands.</L>
+</SP>
+<SP>
+<SPEAKER>L^d Stanly.</SPEAKER>
+<L>Sir I both yours, and her Discretion know;</L>
+<L>And on your Terms propos'd I yield to go:</L>
+<L>But this great Enterprise you must disguise</L>
+<L>As well to your best Friends, as Enemies;</L>
+<L>For, should it be divulg'd, your Absence here</L>
+<L>May prove as fatal, as your Presence there.</L>
+</SP>
+<SP>
+<SPEAKER>Richmond.</SPEAKER>
+<L>Take me, my Lord, and rule me, as you please.</L>
+<L>You (unsuspected yet) may gain with ease</L>
+<L>Admission to the Tyrant's Court; and I</L>
+<L>May pass, helpt by the Night's Obscurity,</L>
+<L>And a long Absence, for your Officer.</L>
+<L>Besides, my Lord, our Camps now joyn so neer,</L>
+<L>That our Return may both prevent the Day,</L>
+<L>And all Reports of being gone away.</L>
+</SP>
+<SP>
+<SPEAKER>L^d Stanly.</SPEAKER>
+<L>Reason and Love, when Danger they descry,</L>
+<L>Did never yet make use of the same Eye:</L>
+<L>For now this Hazard, which your soaring Love</L>
+<L>Lessens to Nothing, does my Horrour move.</L>
+<L>But, since it is my Duty to obey,</L>
+<L>Let's not encrease your Danger by Delay.</L>
+</SP>
+<SP>
+<SPEAKER>Richmond.</SPEAKER>
+<L>On you my Hopes, and Happiness relye;</L>
+<L>You are the Ruler of my Destiny.</L>
+</SP>
+<STAGE>The Scene is changed to <HI>Richmond's</HI> Quarters.</STAGE>
+</DIV2>
+<DIV2 N="4" TYPE="scene">
+<HEAD>SCENA IV.</HEAD>
+<STAGE>Enter Earl of Oxford, Lord Chandew.</STAGE>
+<SP>
+<SPEAKER>Oxford.</SPEAKER>
+<L>Twice through our Quarters I have walk'd the Round,</L>
+<L>And to my Wonder, have not <HI>Richmond</HI> found:</L>
+<L>Can he his Person in a Season hid,</L>
+<L>When the next Day must Royalty decide?</L>
+<L>The knowledge of his absence from the Camp</L>
+<L>Would all the Courage of our Army damp.</L>
+</SP>
+<SP>
+<SPEAKER>Chandew.</SPEAKER>
+<L>In Common Souldiers I did never see</L>
+<L><PB N="40" REF="23">
+Minds so prepar'd for Fight, and Victorie.</L>
+</SP>
+<SP>
+<SPEAKER>Oxford,</SPEAKER>
+<L>My Lord, this Land does yield a sturdy breod,</L>
+<L>Which, when they are well fed will freely bleed:</L>
+<L>You <HI>French</HI> have question'd, if they eat, or fight</L>
+<L>With greater appetite, or more delight?</L>
+</SP>
+<SP>
+<SPEAKER>Chandew.</SPEAKER>
+<L>I must allow, though yet a stranger here,</L>
+<L>That your Clime only such a Race does bear.</L>
+<L><HI>French</HI> courage is to Noble Blood confin'd;</L>
+<L>The rest are Slaves in Body, and in Mind.</L>
+</SP>
+<STAGE>[Enter Officer and delivers a Message. Exit.]</STAGE>
+<SP>
+<SPEAKER>Oxford.</SPEAKER>
+<L>My Lord, this message does encrease my Fear;</L>
+<L>We nothing yet can of our Gen'ral hear.</L>
+</SP>
+<SP>
+<SPEAKER>Chandew.</SPEAKER>
+<L>Heaven give him safety; and I only crave,</L>
+<L>He may a Conquest find, and I a Grave.</L>
+</SP>
+<SP>
+<SPEAKER>Oxford.</SPEAKER>
+<L>By sudden starts you shew a smother'd grief:</L>
+<L>Unvented Sorrows seldom find relief.</L>
+</SP>
+<SP>
+<SPEAKER>Chandew.</SPEAKER>
+<L>I long have wisht to empty in your Breast</L>
+<L>A grief, which may be pity'd, not redrest:</L>
+<L>A grief, whose lenitive is such a Pain,</L>
+<L>As strongest Nature hardly can sustain:</L>
+<L>A Daughter's Death is all the Favour now,</L>
+<L>That Heaven's Compassion can a Parent shew.</L>
+</SP>
+<SP>
+<SPEAKER>Oxford.</SPEAKER>
+<L>What most you love, you hope and wish to lose:</L>
+<L>What sadder Object can your Fears propose?</L>
+</SP>
+<SP>
+<SPEAKER>Chandew.</SPEAKER>
+<L>Here you the height of my affliction see;</L>
+<L>I hope her Death, I fear her Infamie.</L>
+</SP>
+<SP>
+<SPEAKER>Oxford.</SPEAKER>
+<L>Your Grief concludes too fast; you cannot know,</L>
+<L>But that she's safe in Life, and Honour too.</L>
+</SP>
+<SP>
+<SPEAKER>Chandew.</SPEAKER>
+<L>My Lord, when I have told my Story out,</L>
+<L>I shall too easily remove the doubt.</L>
+<L>That Daughter, who did once make all my Joy,</L>
+<L>And all my Happiness does now destroy,</L>
+<L>Did so forsake me in a Fatal Night,</L>
+<L>That she twelve Moons has wasted out of sight:</L>
+<L>And this with Horrour does my Grief renew,</L>
+<L>For, if by Force surpris'd, she's murther'd too.</L>
+<L>If not; I dread an uncompell'd Escape</L>
+<L>More, then the mischief of a bloody Rape,</L>
+</SP>
+<SP>
+<PB N="41" REF="23">
+<SPEAKER>Oxford.</SPEAKER>
+<L>In this sad Story I confess, there are</L>
+<L>Just grounds of Fear, but not of your despair:</L>
+<L>Those motives, which induc'd her to withdraw,</L>
+<L>Perhaps may do no wrong to Honour's Law:</L>
+<L>For, if she lives, she does a Mind derive</L>
+<L>From you, which cannot loss of Fame survive.</L>
+</SP>
+<SP>
+<SPEAKER>Chandew.</SPEAKER>
+<L>Your Friendship puts a favourable Gloss</L>
+<L>On actions, which imply her Honour's loss.</L>
+<L>But in this strait of Time I will forbear</L>
+<L>To make you longer a Joynt-sufferer.</L>
+</SP>
+<SP>
+<SPEAKER>Oxford.</SPEAKER>
+<L>The Night does waste; and to the publick Eye</L>
+<L>'Tis fit our General's absence we supply.</L>
+</SP>
+<STAGE>[Exeunt.</STAGE>
+</DIV2>
+<DIV2 N="5" TYPE="scene">
+<HEAD>SCEN V.</HEAD>
+<STAGE>[The Scene is changed to the King's quarters.]</STAGE>
+<STAGE>Enter King, L. Lovel, Sir William Catesby.</STAGE>
+<SP>
+<SPEAKER>Catesby.</SPEAKER>
+<L><HI>Miles Forrest</HI> is his Name; a fellow stout,</L>
+<L>And yet so dull, he never felt a doubt;</L>
+<L>Nor questions deeds ill relisht by the Laws:</L>
+<L>He weighs reward, but measures not the Cause.</L>
+<L>'Twas he, Sir, who out-went your swift commands,</L>
+<L>When the two Brothers fell by his bold hands.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>I, that's a Friend. Go, <HI>Catesby,</HI> call him in.</L>
+<STAGE>[Exit Catesby:</STAGE>
+<L>My Justice on the Princess must begin:</L>
+<L>Her favour'd Int'rest has a double sting;</L>
+<L>For she can make, and can unmake a King.</L>
+<STAGE>[Enter Catesby, and Forrest.</STAGE>
+<L>O fellow-Souldier, welcome! Nay; come near:</L>
+<L>What Office in our Army do you bear?</L>
+</SP>
+<SP>
+<SPEAKER>Forrest.</SPEAKER>
+<L>I am Lieutenant to Lord <HI>Lovel</HI>'s Troop.</L>
+</SP>
+<SP>
+<SPEAKER>Catesby.</SPEAKER>
+<L>He does by more, then common service, hope,</L>
+<L>That he already has your Favour won,</L>
+<L>And merits to do more by what is done.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Employment, and Reward he shall not miss;</L>
+<L>The first old Company, that falls, is his.</L>
+<L>And that his present wants I may relieve,</L>
+<L><HI>Catesby,</HI> let him two hundred Marks receive.</L>
+</SP>
+<SP>
+<PB N="42" REF="24">
+<SPEAKER>Forrest.</SPEAKER>
+<L>An't please you, I can't talk, but I can do;</L>
+<L>I can spur on through good, and bad ways too.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>I like him; he's a blunt, plain, honest man.</L>
+</SP>
+<SP>
+<SPEAKER>Catesby.</SPEAKER>
+<L>Sir, he'l talk little, but do all he can.</L>
+</SP>
+<SP>
+<SPEAKER>King. Catesby,</SPEAKER>
+<L>I shall employ him in a deed,</L>
+<L>Wherein he'l shew, he's hearty by his speed.</L>
+<L>Necessity of State will not allow</L>
+<L>Leisure for Scruples, which from Conscience grow:</L>
+<L>Who fellow Conscience, often come too late.</L>
+</SP>
+<SP>
+<SPEAKER>Forrest.</SPEAKER>
+<L>Sir, as to good, or bad look you to that.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Well spoken: go, and from our <HI>Catesby</HI> be</L>
+<L>Instructed; your reward expect from me.</L>
+</SP>
+<STAGE>[Exit Forrest.</STAGE>
+<SP>
+<SPEAKER>Lovel.</SPEAKER>
+<L>Sir, with your Person's safety can no way</L>
+<L>Be found, this Execution to delay?</L>
+<L>Her bleeding, when in publick understood,</L>
+<L>Will cause a Fever in the Peoples Blood.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>If I prevail, I am above the harms</L>
+<L>Of sudden Tumults, or intestine arms.</L>
+<L>If I am lost; <HI>Richmond</HI> my Throne may have;</L>
+<L>But he shall find his Mistress in her Grave.</L>
+</SP>
+<SP>
+<SPEAKER>Lovel.</SPEAKER>
+<L>Your Strength so far transcends your Enemies,</L>
+<L>That such precautions you may well despise.</L>
+</SP>
+<STAGE>[Enter L. Stanly.</STAGE>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>My Lord, I am transported with your sight.</L>
+</SP>
+<SP>
+<SPEAKER>L. Stanly.</SPEAKER>
+<L>Your Souldiers now want but the morning's light,</L>
+<L>To charge the Enemy, who, past retreat,</L>
+<L>Are opportunely lodg'd for a defeat.</L>
+<L>I come, led by my Duty, and my Care,</L>
+<L>For your last Orders in this great affair.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Our Councel's call'd, and suddenly will sit;</L>
+<L>You shall receive your Orders, when we meet.</L>
+</SP>
+<SP>
+<SPEAKER>L. Stanly.</SPEAKER>
+<L>Sir, in these Quarters I am much surpris'd,</L>
+<L>Hearing, the Princess is so ill advis'd;</L>
+<L>I had the honour once of her esteem;</L>
+<L>And now would fain serve you, and her redeem.</L>
+<L>Be pleas'd to grant me free access, to try</L>
+<L>How far I may induce her to comply.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>After so many tryals, your Success</L>
+<L>I question; but I yield to your address.</L>
+</SP>
+<SP>
+<PB N="43" REF="24">
+<SPEAKER>L^d Stanly.</SPEAKER>
+<L>Sir, though I lose my Pains, I'le lose no Time.</L>
+<STAGE>[Exi^t
+L^d Stanly.</STAGE>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Is not that Subject guilty of a Crime</L>
+<L>Deserving Death, who makes his Prince affraid?</L>
+</SP>
+<SP>
+<SPEAKER>Catesby.</SPEAKER>
+<L>It is the worst high Treason to invade</L>
+<L>The chiefest Right belonging to the Throne:</L>
+<L>All should a Monarch fear, but he fear none.</L>
+</SP>
+<SP>
+<SPEAKER>King. Catesby,</SPEAKER>
+<L>I must on your great Care relye,</L>
+<L>That his young Son may not escape your Eye.</L>
+</SP>
+<SP>
+<SPEAKER>Catesby.</SPEAKER>
+<L>Sir, he is strictly watch'd.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>When we decide</L>
+<L>The Field, he in these Quarters must abide:</L>
+<L>If with the Father we should trust the Son</L>
+<L>In open Battel, we should Hazard run.</L>
+</SP>
+<SP>
+<SPEAKER>L^d Lovel.</SPEAKER>
+<L>You make your Creatures useless, when your Care</L>
+<L>Acts all the painful Bus'nes of the War.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Mark these: the stubborn Princess, when I send</L>
+<STAGE>[To Catesby.</STAGE>
+<STAGE>The King shews two Rings to <HI>Catesby.</HI></STAGE>
+<L>This Ruby, must her Life's short story end,</L>
+<L>And this when you receive, young <HI>Strange</HI> must dye.</L>
+</SP>
+<SP>
+<SPEAKER>Catesby.</SPEAKER>
+<L>When you command, my Duty must comply.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>I came not lazily to wear the Crown,</L>
+<L>But 'twas with watchful labour made my own;</L>
+<L>And so I'le keep it. Princes are not wise,</L>
+<L>Who sleep themselves, and trust their Servants Eyes.</L>
+<L>But, if at last I must my Power resign,</L>
+<L>It shall be Fortunes Errour, and not mine.</L>
+</SP>
+<SP>
+<SPEAKER>L^d Lovel.</SPEAKER>
+<L>Where so much strength, and Conduct joyn in one,</L>
+<L>Fortune is but an idle looker on.</L>
+</SP>
+<STAGE>The Scene is changed to the Princess Lodging.</STAGE>
+</DIV2>
+<DIV2 N="6" TYPE="scene">
+<HEAD>SCEN. VI.</HEAD>
+<STAGE>Enter, Princess, Mrs. Stanly, Charlot.</STAGE>
+<SP>
+<SPEAKER>Prin.</SPEAKER>
+<L>When I am dead, let noble <HI>Richmond</HI> know,</L>
+<L>That dying I did court the Tyrant's Blow:</L>
+<L>To keep my Faith, my Person is destroy'd;</L>
+<L>I by a Grave the Tyrant's Bed avoid.</L>
+</SP>
+<SP>
+<PB N="44" REF="25">
+<SPEAKER>Charlot.</SPEAKER>
+<L>It doubly would to us your Death transfer,</L>
+<L>If I should tell, and he this message hear:</L>
+<L>Madam, to me it were a happier Doom,</L>
+<L>If I might kindly perish in your Room.</L>
+</SP>
+<SP>
+<SPEAKER>Prin.</SPEAKER>
+<L>To me Death's Face more dreadful did appear</L>
+<L>Far off, then now, when it approcheth near.</L>
+<L>Death is a debt, which all to Nature pay;</L>
+<L>They clear it best, who dye the noblest way.</L>
+</SP>
+<SP>
+<SPEAKER>Mrs. Stanly.</SPEAKER>
+<L>Heaven has design'd you for a Publick Good;</L>
+<L>Your Greatness yet lyes folded in the bud:</L>
+<L>No Tyrant's hand shall crop it whilst it grows;</L>
+<L>You shall ripe Glory at the full disclose.</L>
+</SP>
+<SP>
+<SPEAKER>Prin.</SPEAKER>
+<L>Your Kindness now does sound like flattery;</L>
+<L>Truth only should be spoke to those that dye.</L>
+<L>You need not cast these mists before my eyes;</L>
+<L>I can my Danger see without surprise.</L>
+<L>I only grieve, that I must leave behind</L>
+<L>A Parent grown by too much love unkind.</L>
+<L>A Mothers Tenderness makes our contest;</L>
+<L>She loves my Safety, I my Honour best.</L>
+</SP>
+</DIV2>
+<DIV2 N="7" TYPE="scene">
+<HEAD>SCENA VII.</HEAD>
+<STAGE>Enter Earl of Richmond, L<HI>^d</HI> Stanly, and Officer of the Guards.</STAGE>
+<SP>
+<SPEAKER>Officer.</SPEAKER>
+<L>Though my Commission peremptory was,</L>
+<L>Yet you (my Lord) upon your Word shall pass.</L>
+</SP>
+<SP>
+<SPEAKER>L^d Stanly.</SPEAKER>
+<L>I know a Souldier's charge; and would forbear</L>
+<L>Without full warrant to adventure here.</L>
+</SP>
+<STAGE>Exit Officer.</STAGE>
+<SP>
+<SPEAKER>Prin.</SPEAKER>
+<L>What may this vision mean, which does my eyes</L>
+<L>At once with Horrour, and Delight surprise?</L>
+<L>But, since the faithful <HI>Stanly</HI> does appear,</L>
+<L>I cannot think him brought a Pris'ner here.</L>
+</SP>
+<SP>
+<SPEAKER>Richmond.</SPEAKER>
+<L>Led by the Duty of my Love, I come</L>
+<L>Resolving to divert, or share your Doom.</L>
+</SP>
+<SP>
+<SPEAKER>Prin.</SPEAKER>
+<L>Ah! what can you divert by coming here</L>
+<L>Disguis'd, and not an open Conquerer?</L>
+<L>When you your Danger rashly thus encrease,</L>
+<L><PB N="45" REF="25">
+How can you hope to make my Sufferings less?</L>
+</SP>
+<SP>
+<SPEAKER>Charlot apart.</SPEAKER>
+<L><STAGE>[apart.</STAGE> What does his cruel Passion mean to do?</L>
+<L>He'l lose himself, and for my Rival too!</L>
+</SP>
+<SP>
+<SPEAKER>Richmond.</SPEAKER>
+<L>Let not my Hazard, Madam, waste your care:</L>
+<L>Can I be safe, when you in Danger are?</L>
+<L>When you are gone, what have I more to do?</L>
+<L>All Cause of living perisheth with you.</L>
+</SP>
+<SP>
+<SPEAKER>Prin.</SPEAKER>
+<L>Weak minds may throw away their Lives in vain,</L>
+<L>And have Recourse to Death for fear of Pain:</L>
+<L>If this were Courage, Women would not do it;</L>
+<L>Those, who dare least, are still most subject to it.</L>
+</SP>
+<SP>
+<SPEAKER>Richmond.</SPEAKER>
+<L>On your account I owne my want of Heart;</L>
+<L>Here Fortune wounds me in my tend' rest part.</L>
+<L>All other Storms of Fate my Soul could bear:</L>
+<L>Only your Danger, Madam, makes me fear.</L>
+</SP>
+<SP>
+<SPEAKER>Prin.</SPEAKER>
+<L>Is it an Honour, you reserve for me,</L>
+<L>To be the cause of your Apostacie</L>
+<L>From that high Courage, which has rais'd your Fame?</L>
+<L>You must not cast such Scandal on our Flame.</L>
+<L>By your Concern for me you must be more,</L>
+<L>And not be less, then what you were before.</L>
+</SP>
+<SP>
+<SPEAKER>Richmond.</SPEAKER>
+<L>Ah! Madam, whilst my Fears you thus reprove,</L>
+<L>You shew your self a Stranger grown to Love;</L>
+<L>Your own Experience else had made it clear,</L>
+<L>That Lovers Hearts are never void of fear.</L>
+<L>Who thus are unconcern'd, act not the part</L>
+<L>Of a Couragious, but a hard'ned Heart.</L>
+</SP>
+<SP>
+<SPEAKER>Charlot.</SPEAKER>
+<L>If his be hard, 'tis only hard to me.</L>
+</SP>
+<STAGE>apart.</STAGE>
+<SP>
+<SPEAKER>Prin.</SPEAKER>
+<L>I blame not your Concern to set me free,</L>
+<L>But your Despair, which makes you thus neglect</L>
+<L>The only Means, which can my Life protect;</L>
+<L>For if my Danger may diverted be,</L>
+<L>Your Conqu'ring Sword must force my Liberty.</L>
+</SP>
+<SP>
+<SPEAKER>Richmond.</SPEAKER>
+<L>How can I draw my Sword, when I descry</L>
+<L>Your Fatal Ruine in my Victory?</L>
+<L>The Monster balted, and then Furious grown,</L>
+<L>Will all his Rage discharge on you alone.</L>
+<L>But what we cannot by a Rescue gain,</L>
+<L><PB N="46" REF="26">
+Perhaps by an Exchange we may obtain:</L>
+<L>The Tyrant, jealous of the Chance of War,</L>
+<L>Will, to be siez'd of me, your Person spare.</L>
+<L>I humbly beg this Favour at your Feet,</L>
+<L>In which your Safety, and my Glory meet.</L>
+</SP>
+<SP>
+<SPEAKER>Princess.</SPEAKER>
+<L>By such a change I shall a loser be;</L>
+<L>The Ransome over-buys my Libertie.</L>
+<L>Whilst you the Height of Love in this express,</L>
+<L>You teach my Gratitude to do no less;</L>
+<L>Which will not let you here usurp my Room,</L>
+<L>Nor yield, that you shall rob me of my Doom.</L>
+</SP>
+<SP>
+<SPEAKER>Richmond.</SPEAKER>
+<L>Has Heaven but mockt us with such excellence,</L>
+<L>Only to shew it, and then snatch it hence?</L>
+<L>Can Providence want Power, or Will to save</L>
+<L>Vertue her self from the devouring Grave?</L>
+</SP>
+<SP>
+<SPEAKER>Princess.</SPEAKER>
+<L>Take heed! your Passion does unruly grow</L>
+<L>Against your Reason, and Religion too;</L>
+<L>Sir, when you injure those, you injure me:</L>
+<L>You must obey, not argue Heaven's decree;</L>
+<L>And both our losses with a Courage bear.</L>
+<L>Worthy of me, and of a Conquerer.</L>
+</SP>
+<SP>
+<SPEAKER>Rich.</SPEAKER>
+<L>What shall I do? when Heaven, and Love combine,</L>
+<L>To make the Danger yours, the Terrour mine:</L>
+<L>You are the Person hurt, and I complain;</L>
+<L>Yours is the Wound, and mine is all the Pain.</L>
+</SP>
+<SP>
+<SPEAKER>Princess.</SPEAKER>
+<L>These soft expressions of your kindness might</L>
+<L>In some more proper Season move delight;</L>
+<L>But they offend me now, when you should be</L>
+<L>Preparing in the Field for Victorie.</L>
+<L>Pray, Sir, depart; For you by Conquest must</L>
+<L>With Laurel crown my Temples, or my Dust.</L>
+</SP>
+<SP>
+<SPEAKER>Richmond.</SPEAKER>
+<L>If this perfection (Heaven!) so like your own,</L>
+<L>Must only fill a Tomb, and not the Throne,</L>
+<L>How will our Faith subsist, how shall we know,</L>
+<L>That those above have thoughts of us below?</L>
+</SP>
+<SP>
+<SPEAKER>Princess.</SPEAKER>
+<L>When you expect a Favour, 'tis not just,</L>
+<L>Nor safe, that you the giver should mistrust.</L>
+<L>Let my example now instruct your mind;</L>
+<L><PB N="47" REF="26">
+Be much resolv'd, and yet as much resign'd.</L>
+<L>So Heaven preserve you, Sir! my Presence may</L>
+<L>Perhaps be guilty of your longer stay.</L>
+<STAGE>[Exit Princess.</STAGE>
+</SP>
+<SP>
+<SPEAKER>L. Stanly.</SPEAKER>
+<L>The Princess is retir'd; pray, Sir, make haste;</L>
+<L>The Night's your shelter, and begins to waste.</L>
+</SP>
+<SP>
+<SPEAKER>Richmond.</SPEAKER>
+<L>My Lord, I go: only a word from thee,</L>
+<L>My faithful Boy, which may my Cordial be.</L>
+<STAGE>[To Charlot.</STAGE>
+<L>Say; does our Mistress with an open Ear,</L>
+<L>When thou dost speak for me, thy pleading hear?</L>
+<L>And yet alas! What ease will it impart,</L>
+<L>To lose her Person, and to gain her Heart?</L>
+</SP>
+<SP>
+<SPEAKER>Charlot.</SPEAKER>
+<L>Your Highness now may well these questions spare,</L>
+<L>Since her own Words did all her Thoughts declare.</L>
+</SP>
+<STAGE>[Enter Mrs. Stan.</STAGE>
+<SP>
+<SPEAKER>Mrs. Stan.</SPEAKER>
+<L>Pray, Sir, depart; the Princess fears your stay.</L>
+</SP>
+<SP>
+<SPEAKER>Richmond.</SPEAKER>
+<L>O! who from Heaven, and Her would haste away?</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+</DIV2>
+<DIV2 N="8" TYPE="scene">
+<HEAD>SCEN. VIII.</HEAD>
+<STAGE>[The Scene is changed to the Kings Lodging.</STAGE>
+<STAGE>[The Curtain is let down.]</STAGE>
+<STAGE>Enter Catesby, and Ratclife at one of the Doors before the Curtain.</STAGE>
+<SP>
+<SPEAKER>Catesby.</SPEAKER>
+<L>You waited the first Watch; did the King rest?</L>
+</SP>
+<SP>
+<SPEAKER>Ratclife.</SPEAKER>
+<L>His Bosom lodgeth an unquiet Guest.</L>
+</SP>
+<SP>
+<SPEAKER>Catesby.</SPEAKER>
+<L>During the second watch, I tended him;</L>
+<L>He often walk'd in Sleep, guided by Dream.</L>
+<STAGE>Enter <HI>Lovel</HI> at the other Door before the Curtain.</STAGE>
+<L>Who are you? Stand: this is forbidden Ground.</L>
+</SP>
+<SP>
+<SPEAKER>Lovel.</SPEAKER>
+<L>A friend,</L>
+</SP>
+<SP>
+<SPEAKER>Lovel. Ratclife.</SPEAKER>
+<L>O! he has walk'd the Round.</L>
+</SP>
+<SP>
+<SPEAKER>Lovel. Ratclife,</SPEAKER>
+<L>I left the King much discompos'd,</L>
+<L>His Mind still waking, though his Eyes were clos'd.</L>
+<L>How is he now?</L>
+</SP>
+<SP>
+<SPEAKER>Ratclife.</SPEAKER>
+<L>He starts; then calls on those,</L>
+<L>Who with more quiet in their Graves repose:</L>
+<L>This, when I watcht, I did with Horrour see.</L>
+</SP>
+<SP>
+<SPEAKER>Lovel.</SPEAKER>
+<L>This does with what I saw too well agree.</L>
+<L>When he sleeps best his Cares seem all awake:</L>
+<L>Ill-boding Fate does these disquiets make!</L>
+</SP>
+<SP>
+<PB N="48" REF="27">
+<SPEAKER>Catseby.</SPEAKER>
+<L>He dreams; is that so strange? you seem to me</L>
+<L>By your Concern to dream as much, as he.</L>
+<L>Can his crude Fumes of ill concocted meat</L>
+<L>Such Womens Fears in men of Arms beget?</L>
+<L>These apprehensions misbecome that Night,</L>
+<L>Whose following Day must be employ'd in Fight.</L>
+</SP>
+<SP>
+<SPEAKER>Lovel.</SPEAKER>
+<L>Your Admonitions, Sir, you may forbear;</L>
+<L>Our care is more, then yours, but not our Fear.</L>
+<L>He cry'd, Prince <HI>Edward's</HI> kill'd; then he did grone</L>
+<L>For the like Murther on the Father done.</L>
+<L>Then mention'd <HI>Clarence, Rivers, Vaughan, Grey,</HI></L>
+<L>And call'd them his Ambitions bloody Prey.</L>
+<L>Next his late Queen, <HI>Hastings,</HI> and <HI>Buckingham,</HI></L>
+<L>And last of all he did his Nephews name.</L>
+<L>Then he awak'd, and starting from his Couch,</L>
+<L>Bade me depart, and not till call'd, approch.</L>
+</SP>
+<SP>
+<SPEAKER>Catesby.</SPEAKER>
+<L>My Lord, this only shews his Active Mind,</L>
+<L>Which with his outward Parts Sleep cannot bind.</L>
+<L>His Restlessness does all our Quiet bring:</L>
+<L>Happy are Subjects of a watchful King!</L>
+</SP>
+<SP>
+<SPEAKER>Lovel.</SPEAKER>
+<L>Perhaps such Dreams may not deserve our Fears;</L>
+<L>Yet Dreams sometimes are Fates ill Messengers.</L>
+<L>But Midnight is now past; and Nature may</L>
+<L>Need rest to bear the Labour of the Day.</L>
+</SP>
+</DIV2>
+<DIV2 N="9" TYPE="scene">
+<HEAD>SCENA IX.</HEAD>
+<STAGE>The Curtain is opened. The King appeares in a distracted
+posture, newly risen from his Bed, walking in his Dream
+with a dagger in his hand, and surrounded by the Ghosts of
+those whom he had formerly killed.</STAGE>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L><HI>Forrest!</HI> Rogue, Traitour! can thy Coward hands</L>
+<L>Tremble, and faulter, when thy King commands?</L>
+<L>They are not dead; they walk, they threaten me:</L>
+<L>Dispatch; Kill them again, or I'le kill thee.</L>
+<L>Varlet, make haste; Go poyson, strangle, drown</L>
+<L>My Brother, Nephews, Wife, to save my Crown.</L>
+<L><PB N="49" REF="27">
+Small Victims may less Deities become;</L>
+<L>To Soveraign Power belongs a Hecatome.</L>
+<L>My Breath shall raise a Storm, my Hand a Flood,</L>
+<L>And make this Isle float in a Sea of Blood.</L>
+<L>Hah! Ghosts? there are no Ghosts, nor ever were,</L>
+<L>But in the Tales of Priests, or Womens Fear.</L>
+<L>If you be Ghosts, to your dark Mansions go:</L>
+<L>If you be Ghosts, 'twas I that made you so.</L>
+<L>I of your Substance these pale Nothings made;</L>
+<L>How dare you then your Conquerour invade?</L>
+<L>Go home, dark Vagabonds! must I not have</L>
+<L>Rest in my Bed, nor you Rest in your Grave?</L>
+<L>What Magick can Night-Vapours thus condense</L>
+<L>To Forms, which cheat, and terrifie the Sense?</L>
+<L>Saint <HI>Henry!</HI> get thee hence to thy cold Bed;</L>
+<L>So tame, alive? so fierce, now thou art Dead?</L>
+<L>A holy King did not the Throne become;</L>
+<L>Thy Godliness prepar'd thee for a Tomb.</L>
+<L>I did from <HI>Tewksbery</HI> dispatch thy Heir,</L>
+<L>In the next World to be thy Harbinger:</L>
+<L>Would you have staid behind, when he was gone?</L>
+<L>A Father ought not to out-live his Son.</L>
+<L>Hah! Brother? Wife? Stand off! No tyes of Blood</L>
+<L>Are by aspiring Monarchs understood:</L>
+<L>They to secure my Crown did Life resign;</L>
+<L>She in a Cup, he in a Butt of Wine.</L>
+<L>Peace, Conscience! I long since have conquer'd thee:</L>
+<L>Yet still thou art dispos'd to Mutinie.</L>
+<L>Oft have I par'd thy Branches; but thy Root</L>
+<L>Does lye so deep, I cannot tear it out.</L>
+<L>Of Soveraign Power it is the only Curse,</L>
+<L>To be Successful, and then feel Remorse.</L>
+</SP>
+<STAGE>The Curtain falls.</STAGE>
+</DIV2>
+</DIV1>
+<DIV1 N="5" TYPE="act">
+<DIV2 N="1" TYPE="scene">
+<PB N="50" REF="28">
+<HEAD>ACTUS V.
+SCEN. PRIMA.</HEAD>
+<STAGE>Enter L<HI>^d</HI> Stanly, Sir Will. Stanly, Servant.</STAGE>
+<SP>
+<SPEAKER>L^d Stanly.</SPEAKER>
+<L>O Tyrant Honour! why dost thou impose</L>
+<L>A Law, which that of Nature overthrows?</L>
+<L>Heaven does my Vertue too severely try,</L>
+<L>When to save others, my own Son must dye.</L>
+</SP>
+<SP>
+<SPEAKER>Sir W. Stanly.</SPEAKER>
+<L>For common service common Minds suffice;</L>
+<L>Heaven tryes the Great by great Extremities.</L>
+<L>Honour's hard Tasks are only fit for you;</L>
+<L>Who must subdue your Foes, and Nature too.</L>
+</SP>
+<SP>
+<SPEAKER>L^d Stanly.</SPEAKER>
+<L>Brother, I know the Duty, which my Blood</L>
+<L>To Nature, and to Honour must make good:</L>
+<L>And in their Civil War I shall not make</L>
+<L>A long dispute, which side I ought to take:</L>
+<L>Nor shall my Sorrows their just Bounds exceed;</L>
+<L>I'le grieve for Nature, but for Honour bleed.</L>
+</SP>
+<SP>
+<SPEAKER>Sir W. Stan.</SPEAKER>
+<L>The same high Thoughts you to your Son transfer;</L>
+<L>In whose green age ripe Honour does appear:</L>
+<L>His Courage does the Tyrant's Rage defie;</L>
+<L>All his Fear is, lest he should tamely die:</L>
+<L>And, when he must receive the Fatal Blow,</L>
+<L>He would his Valour, not his Patience show.</L>
+</SP>
+<SP>
+<SPEAKER>L^d Stanly.</SPEAKER>
+<L>He must no Actor, but a Sufferer be;</L>
+<L>And quietly submit to Heaven's decree.</L>
+</SP>
+<SP>
+<SPEAKER>Sir W. Stanly.</SPEAKER>
+<L>His generous thoughts a high attempt contrive,</L>
+<L>Which after Death may keep his Fame alive;</L>
+<L>For he would give the World, when he must dye,</L>
+<L>Exemplar Courage for a Legacy.</L>
+</SP>
+<SP>
+<SPEAKER>L^d Stanly.</SPEAKER>
+<L>Alas! we can expect no great Success</L>
+<L>From his weak Age, and from his Conduct less.</L>
+</SP>
+<SP>
+<SPEAKER>Sir W. Stanly.</SPEAKER>
+<L>He has not weakly laid his great Design,</L>
+<L>For, when the Armies shall in Battel joyn,</L>
+<L><PB N="51" REF="28">
+The Field will drain the Quarters; and then he</L>
+<L>Hopes, that his Sword may set the Princess free:</L>
+<L>For the remaining Guards will be intent</L>
+<L>On their own safety and the War's Event.</L>
+</SP>
+<SP>
+<SPEAKER>L. Stanly.</SPEAKER>
+<L>That Enterprise will need a stronger Hand,</L>
+<L>And Head, then his, to act, and give Command.</L>
+</SP>
+<SP>
+<SPEAKER>Sir W. Stanly.</SPEAKER>
+<L>I with a Party in disguise have sent</L>
+<L>A Leader, who his rashness may prevent.</L>
+</SP>
+<SP>
+<SPEAKER>L. Stanly.</SPEAKER>
+<L>May he succeed! but Brother, now with care</L>
+<L>We must our bus'ness in the Field prepare.</L>
+</SP>
+<SP>
+<SPEAKER>Sir W. Stanly.</SPEAKER>
+<L>Your Army I have plac'd in such a Line,</L>
+<L>That they with either Camp may easily joyn;</L>
+<L>And to amuse the Tyrant, from that side,</L>
+<L>Where <HI>Richmond</HI> lyes, strong Trenches both divide.</L>
+</SP>
+<SP>
+<SPEAKER>L. Stanly.</SPEAKER>
+<L>'Tis well design'd: For, if we should declare</L>
+<L>By early Deeds, what our Intentions are,</L>
+<L>Before the Fight to Heat, and Tumult grows,</L>
+<L>We rashly should our dearest Pledges lose.</L>
+</SP>
+<SP>
+<SPEAKER>Sir W. Stan.</SPEAKER>
+<L>This is most true.</L>
+</SP>
+<SP>
+<SPEAKER>L. Stan.</SPEAKER>
+<L>When we engage, your Wing</L>
+<L>Must to our <HI>Richmond</HI> timely Succour bring.</L>
+</SP>
+<SP>
+<SPEAKER>Sir Wil. Stan.</SPEAKER>
+<L>The Tyrant's Batteries are all pointed there.</L>
+</SP>
+<SP>
+<SPEAKER>L. Stanly.</SPEAKER>
+<L>And I will charge brave <HI>Norfolk</HI> in the Reer.</L>
+</SP>
+<SP>
+<SPEAKER>Sir Wil. Stanly.</SPEAKER>
+<L>I shall your Orders punctually obey.</L>
+</SP>
+<SP>
+<SPEAKER>L. Stan.</SPEAKER>
+<L>Our Army wants our presence; let's away.</L>
+<STAGE>[Ex. L. Stan.</STAGE>
+</SP>
+<SP>
+<SPEAKER>S. W. Stan.</SPEAKER>
+<L>Where are those Arms? <HI>Ser.</HI> Here Sir. <HI>S. W. Stan.</HI> without delay</L>
+<L>Those to my Tent, this to young <HI>Strange</HI> convey.</L>
+<STAGE>Delivers a Letter.</STAGE>
+<STAGE>Ex. Ser.</STAGE>
+<L><HI>Richmond!</HI> In happy Love thou conquer'st me,</L>
+<L>But I in Glory will out-rival thee:</L>
+<L>Drest in thy Shape I will thy Mistress woo;</L>
+<L>And, whilst I court thy danger, court her too.</L>
+<L>Strange Charm of Love! Must I my Life employ</L>
+<L>For him, who does my Happiness destroy?</L>
+<L>I only am unjust, Poor <HI>Strange!</HI> to thee;</L>
+<L>For all thy Danger should belong to me:</L>
+<L>And yet a nobler Cause cannot engage</L>
+<L>Thy blooming Valour at thy tender Age.</L>
+<L>He is most happy, who her Love obtains,</L>
+<L><PB N="52" REF="29">
+But he, who dyes for her, more Glory gains.</L>
+<STAGE>[Exit Sir W. Stan.</STAGE>
+</SP>
+</DIV2>
+<DIV2 N="2" TYPE="scene">
+<HEAD>SCEN. II.</HEAD>
+<STAGE>[The Scene is changed to the Princess Lodgings.]</STAGE>
+<STAGE>Enter Charlot.</STAGE>
+<SP>
+<SPEAKER>Charlot.</SPEAKER>
+<L>If my great Rival dye, why from her Grave</L>
+<L>May not my Love a Resurrection have?</L>
+<L>No, no! Him, whom I love I so will serve,</L>
+<L>That what I can't enjoy, I may deserve.</L>
+<L>For him none shall do more, nor more endure;</L>
+<L>I'le lose my self, my Rival to secure.</L>
+</SP>
+<SP>
+<SPEAKER>Enter <HI>Princess.</HI></SPEAKER>
+<L><HI>Charlot,</HI> farewel: my Guards now surly grow,</L>
+<L>And nearer wait, which Death's approch does show.</L>
+</SP>
+<SP>
+<SPEAKER>Charlot.</SPEAKER>
+<L>Madam, you must not dye; For yet we may</L>
+<L>The Tyrant's hasty Cruelties delay.</L>
+<L>Let us exchange our habits; In your room</L>
+<L>I'le plant my self, and intercept your Doom.</L>
+</SP>
+<SP>
+<SPEAKER>Princess.</SPEAKER>
+<L>Ah Boy! how strange a Love dost thou express?</L>
+<L>I'le never ruine thee by my release.</L>
+</SP>
+<SP>
+<SPEAKER>Charlot.</SPEAKER>
+<L>Madam, I charge you by the powerful Name</L>
+<L>Of your great Lover, and your mutual Flame,</L>
+<L>To take my Life's Oblation, and allow,</L>
+<L>What I to you, and to your <HI>Richmond</HI> vow.</L>
+<L>I am resolv'd, though you my Suit deny,</L>
+<L>Not to out-live the Minute, when you dye.</L>
+<L>And, since I this have vow'd, let me not spend</L>
+<L>My Life in vain, which may your Life defend.</L>
+<L>Undress you, Madam, and prepare to flye.</L>
+</SP>
+<SP>
+<SPEAKER>Princess.</SPEAKER>
+<L>Flye? Your Example bids me stay, and dye.</L>
+</SP>
+<SP>
+<SPEAKER>Charlot.</SPEAKER>
+<L>To ease the Ship in Storms, what Freight is first</L>
+<L>Thrown over Board, the choicest, or the worst?</L>
+</SP>
+<SP>
+<SPEAKER>Princess.</SPEAKER>
+<L>This question puts a Period to our strife;</L>
+<L>It bids me Honour save, and lose my Life.</L>
+</SP>
+<SP>
+<SPEAKER>Charlot.</SPEAKER>
+<L>Madam, you build on a mistaken ground;</L>
+<L><PB N="53" REF="29">
+Reason must Honour's darker Loves expound:</L>
+<L>Subjects, who for their Prince themselves undo,</L>
+<L>In the most glorious way their Duty shew:</L>
+<L>But Princes, in whose Life the Publick lives,</L>
+<L>Should save what Heaven for Publick safety gives.</L>
+</SP>
+<SP>
+<SPEAKER>Princess.</SPEAKER>
+<L>Who can the Brightness of thy Vertue doubt?</L>
+<L>And when it shines so clear, would put it out?</L>
+</SP>
+<SP>
+<SPEAKER>Charlot.</SPEAKER>
+<L>Less will my Danger be, then yours, when I</L>
+<L>Am seis'd for you; For you, when seis'd, must dye:</L>
+<L>But, when the Murd'rers find a Stranger, they</L>
+<L>Will pause awhile, and for new Orders stay.</L>
+<L>Then the Field gain'd may make us both secure.</L>
+</SP>
+<SP>
+<SPEAKER>Princess.</SPEAKER>
+<L>But, <HI>Charlot,</HI> in what place can I be sure</L>
+<L>Of safety, when my Shape I change for yours?</L>
+</SP>
+<SP>
+<SPEAKER>Charlot.</SPEAKER>
+<L>The Neighb'ring Cloister will for some few hours</L>
+<L>(I having newly gain'd the Abbess) be</L>
+<L>Your Refuge, till your Champion sets you free.</L>
+</SP>
+<SP>
+<SPEAKER>Princess.</SPEAKER>
+<L>Thy Kindness and thy Reasons conquer me;</L>
+<L>And yet too much I hazard, vent'ring thee!</L>
+</SP>
+<SP>
+<SPEAKER>Charlot.</SPEAKER>
+<L>Waste not your time in scruples; Pray, be gone:</L>
+<L>Our work must end before the Fight's begun.</L>
+</SP>
+<STAGE>Exeunt.</STAGE>
+</DIV2>
+<DIV2 N="3" TYPE="scene">
+<HEAD>SCENA III.</HEAD>
+<STAGE>Enter L<HI>^d</HI> Strange, Mrs. Stanly.</STAGE>
+<SP>
+<SPEAKER>Mrs. Stanly.</SPEAKER>
+<L>Nephew, your hasty Courage I must chide;</L>
+<STAGE>L^d Strange holds a letter open in his hand.</STAGE>
+<L>This letter now must all your Actions guide.</L>
+</SP>
+<SP>
+<SPEAKER>Strange.</SPEAKER>
+<L>Delays encrease the Hazard, we would shun:</L>
+<L>By swift Dispatch our Danger we out-run.</L>
+</SP>
+<SP>
+<SPEAKER>Mrs. Stanly.</SPEAKER>
+<L>Hasty Beginnings halt before they end.</L>
+</SP>
+<SP>
+<SPEAKER>Strange.</SPEAKER>
+<L>But does the Princess know, what we intend?</L>
+</SP>
+<SP>
+<SPEAKER>Mrs. Stanly.</SPEAKER>
+<L>Should I this Enterprise to her disclose,</L>
+<L>She might in Honour Scruples interpose.</L>
+</SP>
+<SP>
+<SPEAKER>Strange.</SPEAKER>
+<L>Must she be sav'd against her own Consent,</L>
+<L>Lest, knowing it, she should the means prevent?</L>
+</SP>
+<SP>
+<SPEAKER>Mrs. Stanly.</SPEAKER>
+<L>But to conceal it, is the safest way.</L>
+<L><PB N="54" REF="30">
+Think, how her Person you may best convey;</L>
+<L>Whilst I the Abbess speedily prepare,</L>
+<L>To take the Kingdom's Pledge into her Care.</L>
+<L>And, pray, be watchful lest the searching Eye</L>
+<L>Of <HI>Catesby</HI> should our Enterprise descry.</L>
+<L>The Captain, whom my Brother sent, you must</L>
+<L>With all the Conduct of this Bus'ness trust.</L>
+</SP>
+<SP>
+<SPEAKER>Strange.</SPEAKER>
+<L>With you the dull, and slow are only Wise;</L>
+<L>The Phlegme of so much Caution I despise.</L>
+</SP>
+<SP>
+<SPEAKER>Mrs. Stan.</SPEAKER>
+<L>Your own distemper'd Heat does judge him Cold;</L>
+<L>For you are more too Young, then he too Old.</L>
+</SP>
+<STAGE>[Enter Captain.</STAGE>
+<SP>
+<SPEAKER>Cap.</SPEAKER>
+<L>My Lord, the Armies are engag'd; and now</L>
+<L>You may your Ardour in your Actions shew.</L>
+<L>Whilst <HI>Stanly's</HI> Name does in the Field afford</L>
+<L>Originals to lengthen Fames Record,</L>
+<L>Your growing Valour here in narrower space</L>
+<L>May living Copies of their Glory trace.</L>
+</SP>
+<SP>
+<SPEAKER>Strange.</SPEAKER>
+<L>Captain, you have restor'd my Libertie;</L>
+<L>And now my Freedom shall the Princess free.</L>
+</SP>
+<SP>
+<SPEAKER>Mrs. Stanly.</SPEAKER>
+<L>May thy brave Courage with success be blest;</L>
+<L>Whilst I prepare to lodge our Royal Guest.</L>
+</SP>
+<STAGE>[Exeunt several ways.</STAGE>
+</DIV2>
+<DIV2 N="4" TYPE="scene">
+<HEAD>SCEN. IV.</HEAD>
+<STAGE>Enter Catesby, Forrest, Lieutenant <HI>and</HI> Soldiers.</STAGE>
+<SP>
+<SPEAKER>Catesby.</SPEAKER>
+<L>The King has made you his great Confident;</L>
+<L>And now your Fortune may your Hopes prevent.</L>
+<L>When you receive the Sign, strike quick, and sure.</L>
+</SP>
+<SP>
+<SPEAKER>Forrest.</SPEAKER>
+<L>Give but the Word, and think the Deed secure.</L>
+<L>The little Worm, call'd Conscience, wants a sting:</L>
+<L>Hell may be feign'd; I'm certain of the King.</L>
+<L>And, since his mind is known, what need we stay.</L>
+<L>For tedious Orders?</L>
+</SP>
+<SP>
+<SPEAKER>Catesby.</SPEAKER>
+<L>Hold; you must obey</L>
+<L>The Rules prescrib'd; and watchfully attend,</L>
+<L>Till I your Orders from the Army send.</L>
+<STAGE>[Exit Catesby.</STAGE>
+</SP>
+<SP>
+<SPEAKER>Leiutenant.</SPEAKER>
+<L>Good Master Captain, teach your old Cam'rade</L>
+<L>The fine new knack to be a Captain made.</L>
+<L>None, by your Worship's leave, could ever see</L>
+<L><PB N="55" REF="30">
+Your bashful Valour face an Enemie.</L>
+</SP>
+<SP>
+<SPEAKER>Forrest.</SPEAKER>
+<L>My Courage by the King is known and try'd.</L>
+</SP>
+<SP>
+<SPEAKER>Lieutenant.</SPEAKER>
+<L>Kings may know more then all the World beside.</L>
+<L>You can shew Bruises of your Tavern-Wars;</L>
+<L>And turn the Ale-wifes Scratches into Scars.</L>
+</SP>
+<SP>
+<SPEAKER>Forrest.</SPEAKER>
+<L>Lieutenant, you will halt in your Career,</L>
+<L>When Neck, and Heels shall feel your Officer.</L>
+<L>Were it not for the bus'ness now in hand&mdash;</L>
+</SP>
+<SP>
+<SPEAKER>Lieutenant.</SPEAKER>
+<L>You would do much! I should not idle stand.</L>
+<L>Go, go, complain; that I may be cashier'd;</L>
+<L>I'd rather starve, then be thus Officer'd.</L>
+</SP>
+<SP>
+<SPEAKER>Forrest.</SPEAKER>
+<L>Stand.</L>
+</SP>
+<STAGE>The Princess in <HI>Charlot</HI>'s attire crosseth the Stage with her Handker|cher
+before her Eyes, as if she were weeping.]</STAGE>
+<SP>
+<SPEAKER>Lieutenant.</SPEAKER>
+<L>'Tis the Lady's Page.</L>
+</SP>
+<SP>
+<SPEAKER>Forrest.</SPEAKER>
+<L>Then let him pass.</L>
+<L>Poor Rogue! he shortly will be turn'd to Grass.</L>
+</SP>
+<SP>
+<SPEAKER>Lieutenant.</SPEAKER>
+<L>Must all the Princess Family disband?</L>
+</SP>
+<SP>
+<SPEAKER>Forrest.</SPEAKER>
+<L>When the Tree falls, how can the Ivy stand?</L>
+<STAGE>A noise of Swords in the Princess Lodgings.</STAGE>
+<L>Swords in the Princess lodgings! quickly go,</L>
+<L>And see how matters pass.</L>
+</SP>
+<SP>
+<SPEAKER>Lieutenant.</SPEAKER>
+<L>You must come too:</L>
+<L>When danger calls, you send your Messenger.</L>
+<L>A Pox on those, that cannot hide their fear!</L>
+</SP>
+<STAGE>[He thrusts Forrest in before him.</STAGE>
+</DIV2>
+<DIV2 N="5" TYPE="scene">
+<HEAD>SCEN. V.</HEAD>
+<STAGE>Enter Queen.</STAGE>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Heaven! If my Child must not your mercy find,</L>
+<L>Let me, when she departs, not stay behind!</L>
+<L>I can endure no more: The hand of Fate</L>
+<L>On tir'd-out Nature lays too great a Weight.</L>
+</SP>
+<STAGE>Enter Lord Strange leading Charlot in the Princess dress.</STAGE>
+<SP>
+<SPEAKER>L. Strange.</SPEAKER>
+<L>Now, Madam, pray look up: trust your own Eyes:</L>
+<STAGE>To Charlot suppos'd to be the Princess.</STAGE>
+<L>Your Servants guard you, not your Enemies.</L>
+<L>Madam, you come in a most happy hour;</L>
+<STAGE>To the Queen.</STAGE>
+<L>To rule her Fears we need a Mothers Power.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>I wonder not, that she's amaz'd; for I</L>
+<L><PB N="56" REF="31">Mistrust my Sense in this Delivery.</L>
+<L>Come, Daughter, give my Eyes the Joy to see</L>
+<L>My dearest Captive set at libertie.</L>
+</SP>
+<SP>
+<SPEAKER>Charlot.</SPEAKER>
+<L>I, Madam, who your pleasure thus obey,</L>
+<STAGE>[Charlot unvails.</STAGE>
+<L>Am not your Daughter; she's convey'd away:</L>
+<L>And you the means of her Escape may guess,</L>
+<L>When you behold me in my borrow'd Dress:</L>
+<L>As mine abus'd our Friends, so her Disguise</L>
+<L>More happily deceiv'd our Enemies.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>Her absence does my former pain repeat,</L>
+<L>Ah! bring me to the place of her retreat.</L>
+</SP>
+<SP>
+<SPEAKER>Charlot.</SPEAKER>
+<L>You'l find her at the Cloister fix't in Prayer:</L>
+<L>Heaven, and Religion now her Guardians are.</L>
+</SP>
+<SP>
+<SPEAKER>Strange.</SPEAKER>
+<L><HI>Charlot</HI> I little thought, I could by thee</L>
+<L>In this bold Rescue so transcended be.</L>
+<L>Madam, as faithful Guards, we shall attend</L>
+<STAGE>To the Queen.</STAGE>
+<L>Your Person; and the Princess Life defend.</L>
+</SP>
+<STAGE>[Exeunt.</STAGE>
+</DIV2>
+<DIV2 N="6" TYPE="scene">
+<HEAD>SCEN. VI.</HEAD>
+<STAGE>The Scene is changed to Bosworth-Field.</STAGE>
+<STAGE>Enter King, Lovel, Ratclife, and Souldiers.</STAGE>
+<STAGE>Richmond's Standard taken by the King is carried in Triumph before him.</STAGE>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Behold the Traitor's Standard! here we see,</L>
+<L>Heaven gives an earnest of full Victorie.</L>
+</SP>
+<SP>
+<SPEAKER>Lovel.</SPEAKER>
+<L>You the great <HI>Brandon</HI> <GAP DESC="illegible" EXTENT="1 letter">lew; you this have gain'd:</L>
+<L>We owe the day, Sir, to your single hand.</L>
+<L>No Monarch's story boasts so high a deed;</L>
+<L>As Kings all men surpass, you Kings exceed.</L>
+</SP>
+<SP>
+<SPEAKER>Ratclife.</SPEAKER>
+<L>You all the glorious marks of Conquest wear,</L>
+<L>And greater, then your self, this day appear.</L>
+<L>I saw stout <HI>Cheyny</HI> fall by your strong hand;</L>
+<L>That sturdy Oak could not your Thunder stand.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L><HI>Richmond</HI> was next; I had him in my Eye;</L>
+<L>But he was shelter'd by my Victory.</L>
+<L><PB N="57" REF="31">
+Such heaps of Bodies did obstruct my way,</L>
+<L>That my own Conquest did my Conquest stay,</L>
+<L>And <HI>Richmond</HI> for the safety of his Head</L>
+<L>Ow'd less unto the Living, then the Dead.</L>
+</SP>
+<STAGE>[A Charge is sounded.</STAGE>
+<SP>
+<SPEAKER>Lovel.</SPEAKER>
+<L>Hark! a fresh Charge they sound! these desp'rate men</L>
+<L>Rally their broken Force, to break again.</L>
+</SP>
+<SP>
+<SPEAKER>Enter <HI>Souldier.</HI></SPEAKER>
+<L>Treason, Sir, Treason! <HI>Stanly</HI>'s false Brigade</L>
+<L>Have left your Colours, and our Men invade:</L>
+<L><HI>Richmond</HI> in person leads them on; and all,</L>
+<L>That have oppos'd them, either flye, or fall.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Perfidious Slaves! <HI>Ratclife,</HI> without delay</L>
+<L>These Fatal Rings to <HI>Catesby</HI>'s hands convey.</L>
+<L>I'le blast the Fruit of all their Victory:</L>
+<L><HI>Strange,</HI> and the Princess shall together dye.</L>
+<L>Come; shew me <HI>Richmond:</HI> for I'le break through all</L>
+<STAGE>[To the Sould.</STAGE>
+<L>His Guards, and crush the Traytor with my fall.</L>
+<STAGE>[Exit King, &amp;c.</STAGE>
+</SP>
+<STAGE>Enter King, and Sir W. <HI>Stan.</HI> habited like <HI>Richmond</HI> at several doors.</STAGE>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Ha! is it he? now Fortune, thou art kind!</L>
+</SP>
+<SP>
+<SPEAKER>Sir W. Stanly.</SPEAKER>
+<L>Enjoy your wish; For <HI>Richmond</HI> here you find.</L>
+<L>Come, Sir, dispatch this work the shortest way:</L>
+<L>Our single hands will best decide the day.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Agree'd: of all my Stars I ask no more!</L>
+<L>Thou art the only Saint, whom I implore.</L>
+<STAGE>[kissing his Sword.</STAGE>
+<STAGE>They fight.</STAGE>
+<STAGE>Enter <HI>Rich.</HI></STAGE>
+<L>What Vision's this, which does abuse my eye?</L>
+<STAGE>[with Souldiers. Richmond interposeth.</STAGE>
+<L>Have I a Ghost, that walks before I dye?</L>
+<L>Who ere thou art (bold Champion) shew thy Face:</L>
+<L>Thou dost usurp my Person, and my place.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>The Dragon's Teeth are sown in <HI>Bosworth</HI> Field,</L>
+<L>Which does a Harvest of arm'd <HI>Richmonds</HI> yield!</L>
+</SP>
+<STAGE>[Sir William <HI>Stanly</HI> pulls up the Vizour of his Helmet.</STAGE>
+<SP>
+<SPEAKER>Rich.</SPEAKER>
+<L><HI>Sir</HI> William Stanly!</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Traytor! thy false heart</L>
+<L>Shall taste my vengeance.</L>
+</SP>
+<SP>
+<SPEAKER>Richmond.</SPEAKER>
+<L>Hold, Sir; let my part</L>
+<L>Be acted first: you needs must know this Face:</L>
+<L>The Shadow to the substance must give place.</L>
+</SP>
+<SP>
+<SPEAKER>Sir W. Stan.</SPEAKER>
+<L>Great Sir, the Law of Arms proclaims my right;</L>
+<L>My Sword began it, and must end the Fight.</L>
+</SP>
+<SP>
+<PB N="58" REF="32">
+<SPEAKER>Richmond.</SPEAKER>
+<L>Not a word more; or I shall look on you,</L>
+<L>As on the worst Usurper of the two.</L>
+</SP>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>End your contention: both employ'd shall be.</L>
+</SP>
+<SP>
+<SPEAKER>Rich.</SPEAKER>
+<L>This Sword, and Justice otherwise decree.</L>
+<STAGE>[They fight.</STAGE>
+<L>How great thy Fame had bin, hadst thou been good!</L>
+<STAGE>[the King fals.</STAGE>
+<L>Pursue the flying; but spare <HI>English</HI> Blood.</L>
+</SP>
+<STAGE>Ex. Sould. in pursuit.</STAGE>
+<SP>
+<SPEAKER>King.</SPEAKER>
+<L>Fate! art thou just? what Crime is laid on me,</L>
+<L>But the resemblace of thy Tyranny?</L>
+<L>Since I must lose my Throne, I only crave,</L>
+<L>That nothing may be found beyond the Grave.</L>
+</SP>
+<STAGE>[dyes.</STAGE>
+<SP>
+<SPEAKER>Rich.</SPEAKER>
+<L>Remove the Corps. Heaven, thou art just, and good!</L>
+<L>So Tyrants rise, and so they fall in Blood.</L>
+<L>My gallant likeness, you must now reveal</L>
+<L>The cause of this extravagance of Zeal.</L>
+</SP>
+<SP>
+<SPEAKER>Sir W. Stan.</SPEAKER>
+<L>Great Sir, I took your shape, because I knew,</L>
+<L>The Tyrant's Rage did chiefly aim at you.</L>
+<L>My Loyal care made me ambitious grow</L>
+<L>To rob you of your danger, and your Foe.</L>
+</SP>
+<SP>
+<SPEAKER>Richmond.</SPEAKER>
+<L>My Person you in Fight so well became,</L>
+<L>That, what was like, I wish, had been the same.</L>
+</SP>
+<SP>
+<SPEAKER>Enter <HI>Oxford.</HI></SPEAKER>
+<L>Sir, all the bus'ness of the War is done:</L>
+<L>The Living and the Dead your Conquest own:</L>
+<L>The yielding Foe makes useless all our Swords,</L>
+<L>And for your Mercy only work affords.</L>
+</SP>
+<SP>
+<SPEAKER>Richmond.</SPEAKER>
+<L>My Lord, when we are Dust, our Race will know,</L>
+<L>How much this Day I to your Conduct owe:</L>
+<L>The Name of <HI>Vere</HI> to me, and mine shall be</L>
+<L>As high in Honour, as in Loyaltie.</L>
+<STAGE>[Enter Lord <HI>Stanly.</HI></STAGE>
+<L>O, my dear Friend! must I rejoyce, or grieve</L>
+<L>In this great Triumph? does the Princess live?</L>
+</SP>
+<SP>
+<SPEAKER>L^d Stanly.</SPEAKER>
+<L>Sir, she does live; and her past dangers prove</L>
+<L>The glorious Marks, and Trophies of her Love:</L>
+<L>Her faithful Page has all our Zeal out-done,</L>
+<L>And to redeem her Life, expos'd his own:</L>
+<L>My <HI>George</HI> his high Intentions did express;</L>
+<L>But only <HI>Charlot</HI>'s Courage had Success.</L>
+</SP>
+<SP>
+<SPEAKER>Richmond.</SPEAKER>
+<L>Heaven can my Joys no farther now improve,</L>
+<L>Since I am blest in Conquest, and in Love.</L>
+<L><PB N="59" REF="32">
+My faithful <HI>Stanly,</HI> I shall need your care</L>
+<L>To prosecute the Bus'ness of the War:</L>
+<L>For I, my Lords, no longer can forbear</L>
+<L>To see her free, whose glorious Chains I wear.</L>
+</SP>
+<STAGE>[Exeunt omnes.</STAGE>
+<STAGE>The Scene is changed to the Cloister, where the Princess was retired.</STAGE>
+</DIV2>
+<DIV2 N="7" TYPE="scene">
+<HEAD>SCEN. VII&punc;</HEAD>
+<STAGE>Enter Lord Strange, Charlot.</STAGE>
+<SP>
+<SPEAKER>L^d Strange.</SPEAKER>
+<L><HI>Charlot,</HI> such Faith, and Courage joyn'd in you</L>
+<L>Deserv'd to finish what I aim'd to do.</L>
+</SP>
+<SP>
+<SPEAKER>Charlot.</SPEAKER>
+<L>My Lord, th' Event of my Design should be</L>
+<L>Justly ascrib'd to Fortune, not to me.</L>
+</SP>
+<SP>
+<SPEAKER>Strange.</SPEAKER>
+<L>Thy modesty does but encrease thy Glory,</L>
+<L>And leaves to future Age an useful Story.</L>
+</SP>
+<SP>
+<SPEAKER>Charlot.</SPEAKER>
+<L>What I have done deserves no memory;</L>
+<L>I little did, because I did not dye&punc;</L>
+<L>And now, my Lord, it were my happiest Lot,</L>
+<L>If I by all the World might be forgot.</L>
+</SP>
+<SP>
+<SPEAKER>Stran.</SPEAKER>
+<L>What means these words? Would you the world forsake,</L>
+<L>When your brave Deed does it so Happy make?</L>
+<L>Foul Crimes have made their Authours desperate:</L>
+<L>But can the Good, and Prosperous their Lives hate?</L>
+<L>Your Life's my Gift; Dispose not of my Due;</L>
+<L>For, as you sav'd the Princess, I sav'd you.</L>
+</SP>
+<SP>
+<SPEAKER>Charlot.</SPEAKER>
+<L>You did defeat me in my Souls chief Aim</L>
+<L>Of leaving Life with a reprochless Name.</L>
+</SP>
+<SP>
+<SPEAKER>Strange.</SPEAKER>
+<L>Some hidden Mystery lies folded here!</L>
+<L>But hark! the glorious <HI>Richmond</HI> does draw neer.</L>
+</SP>
+<STAGE>[The Trumpets sound.</STAGE>
+<SP>
+<SPEAKER>Charlot.</SPEAKER>
+<L>What shall I do? my shame will open lye</L>
+<STAGE>[to himself.</STAGE>
+<L>To all the World, and to a Parent's Eye.</L>
+<L>In these Extremes what can my Honour save?</L>
+<L>Relieve me, Heaven! or hide me in a Grave!</L>
+</SP>
+</DIV2>
+<DIV2 N="8" TYPE="scene">
+<PB N="60" REF="33">
+<HEAD>SCEN. VIII.</HEAD>
+<STAGE><HI>Enter Earl of</HI> Richmond, Oxford, Chandew, <HI>and Attendants.</HI></STAGE>
+<SP>
+<SPEAKER>Richmond.</SPEAKER>
+<L><STAGE>To Strange.]</STAGE> <HI>George,</HI> thou art now unpawn'd; thy courage shewn</L>
+<L>In our Concern speaks thee a <HI>Stanly's</HI> Son.</L>
+<L>My dearest Boy, rise up: thy Actions may</L>
+<STAGE>[To Charlot.</STAGE>
+<L>Dispute with mine the Glory of the Day.</L>
+<L>'Twould make a Monarch Bankrupt to bestow</L>
+<L>That just Reward, which to thy Faith I owe.</L>
+</SP>
+<SP>
+<SPEAKER>Chandew.</SPEAKER>
+<L><STAGE>To himself.]</STAGE> What do my Eyes behold? It must be she;</L>
+<L>And her Disguise reveals her Infamie.</L>
+</SP>
+<SP>
+<SPEAKER>Richmond.</SPEAKER>
+<L><STAGE>To Charlot.]</STAGE> Why speak'st thou not? when all the World's become</L>
+<L>So loud in praising thee, canst thou be dumb?</L>
+</SP>
+<SP>
+<SPEAKER>Chandew.</SPEAKER>
+<L>Must she needs chuse the most Conspicuous Place</L>
+<L>Of the whole Earth, to blazon my Disgrace?</L>
+</SP>
+<SP>
+<SPEAKER>Richmond.</SPEAKER>
+<L>What sudden damp does on thy spirits seise?</L>
+</SP>
+<SP>
+<SPEAKER>Chandew.</SPEAKER>
+<L><STAGE>To himself.]</STAGE> Death of my Honour, and my Souls Disease!</L>
+<L>Thou art a Blot upon my Name, which I</L>
+<L>Will rase out with thy Life.</L>
+</SP>
+<SP>
+<SPEAKER>Oxford.</SPEAKER>
+<L>Sir I descry</L>
+<L>A strange transport in my Lord <HI>Chandew</HI> too.</L>
+</SP>
+<SP>
+<SPEAKER>Richmond.</SPEAKER>
+<L>What Mysteries are these? my Lord, are you</L>
+<L>Concern'd in that brave Youth?</L>
+</SP>
+<SP>
+<SPEAKER>Chandew.</SPEAKER>
+<L>Sir 'tis a Stray;</L>
+<L>From my Enclosures it has broke away.&mdash;</L>
+</SP>
+<SP>
+<SPEAKER>Richmond.</SPEAKER>
+<L>My Lord, be well advis'd: if you would gain</L>
+<L>My Credit, and our former Love maintain,</L>
+<L>Reproch him not.</L>
+</SP>
+<SP>
+<SPEAKER>Chandew.</SPEAKER>
+<L>I cannot much delight,</L>
+<L>To bring that Creatures shame to publick sight:</L>
+<L>But, Sir, in equal Justice you will give</L>
+<L>To the right Owner's hands a Fugitive.</L>
+</SP>
+<SP>
+<SPEAKER>Richmond.</SPEAKER>
+<L>You must not your displeasure thus express,</L>
+<L>If you expect, I shall my Claim release.</L>
+<L><STAGE>Charlot kneeling to my L^d Chandew.]</STAGE> Sir, I am yours; and have deserv'd your Hate:</L>
+<L>O, let my Death end this unkind debate!</L>
+<L>Take me, and take my Life; for 'tis your due</L>
+<L>First, as your Gift, and now by forfeit too.</L>
+</SP>
+<SP>
+<SPEAKER>Chandew.</SPEAKER>
+<L>Since thou hast murder'd thy whole Family</L>
+<STAGE><PB N="61" REF="33">
+[Offering to kill Charlot.</STAGE>
+<L>In their best Life (their Honour) thou shalt dye.</L>
+</SP>
+<SP>
+<SPEAKER>Rich.</SPEAKER>
+<L>Hold <HI>Chandew,</HI> hold. What means this furious Heat?</L>
+<L>In which you both your self, and me forget.</L>
+<L>'Tis well, your merit weighs my anger down.</L>
+</SP>
+<SP>
+<SPEAKER>Chandew.</SPEAKER>
+<L>Pardon my Passion thus unruly grown:</L>
+<L>It did my strength of Reason quite subdue.</L>
+</SP>
+<SP>
+<SPEAKER>Rich.</SPEAKER>
+<L>More, then my Pardon does belong to you.</L>
+<L>But I am wrackt with Doubts: Rise, Boy, and free</L>
+<L>My tortur'd Thoughts from this Perplexitie.</L>
+</SP>
+<SP>
+<SPEAKER>Charlot.</SPEAKER>
+<L>O Sir; if I must here my Sins confess,</L>
+<L>This Posture most becomes my Guiltiness:</L>
+<L>And I this low submission doubly owe</L>
+<L>In presence of my Prince, and Father too.</L>
+</SP>
+<SP>
+<SPEAKER>Rich.</SPEAKER>
+<L>My Lord, are you his Father?</L>
+</SP>
+<SP>
+<SPEAKER>Chandew.</SPEAKER>
+<L>Sir, that Name</L>
+<L>Turns my whole Life to Sorrow, and to Shame.</L>
+</SP>
+<SP>
+<SPEAKER>Rich.</SPEAKER>
+<L>Rather to Glory, and to Happiness;</L>
+<L>A better Son cannot a Parent bless.</L>
+</SP>
+<SP>
+<SPEAKER>Oxford.</SPEAKER>
+<L>Sir, I perceive, where all our Errour lyes;</L>
+<L><HI>Charlot,</HI> suppos'd his Son, his Daughter is.</L>
+</SP>
+<SP>
+<SPEAKER>Rich.</SPEAKER>
+<L>I am opprest with Wonder! <HI>Charlot,</HI> rise:</L>
+<L>Whilst thy disputed Sex deludes our eyes,</L>
+<L>Thou dost to me a Guardian Angel seem,</L>
+<L>Which did the Princess sacred Life redeem.</L>
+</SP>
+</DIV2>
+<DIV2 N="9" TYPE="scene">
+<HEAD>SCEN. IX.</HEAD>
+<STAGE>Enter Queen, Princess, <HI>and</HI> Attendants.</STAGE>
+<SP>
+<SPEAKER>Rich.</SPEAKER>
+<L>Madam, at last Propitious Heaven affords</L>
+<L>Success to the Endeavour of our Swords.</L>
+<L>We at your Royal Feet our Persons lay,</L>
+<L>And all the mighty Trophies of the Day.</L>
+</SP>
+<SP>
+<SPEAKER>Princess.</SPEAKER>
+<L>Sir, these Submissions must not come from you:</L>
+<L>No Homage from a Conqu'rer can be due.</L>
+<L>Your Laurel should in Justice be a Crown,</L>
+<L>For all by double Conquest is your own.</L>
+</SP>
+<SP>
+<SPEAKER>Rich.</SPEAKER>
+<L>How gloriously your Servants you reward!</L>
+</SP>
+<SP>
+<PB N="62" REF="34">
+<SPEAKER>Princess.</SPEAKER>
+<L>No, Sir; from that I am by Duty bar'd:</L>
+<L>A Parent's leave must first the Gift allow,</L>
+<L>Ere I the merited Reward bestow.</L>
+</SP>
+<SP>
+<SPEAKER>Richmond.</SPEAKER>
+<L><STAGE>To the Queen.]</STAGE> Sway'd by my Love to her, whom you love best&punc;</L>
+<L>I have unduly my Respects addrest;</L>
+<L>This Madam, for her sake, you'l not reprove:</L>
+<L>All Laws of Ceremony yield to Love.</L>
+</SP>
+<SP>
+<SPEAKER>Queen.</SPEAKER>
+<L>What you oblige me in, needs no Excuse:</L>
+<L>And, Sir, I were unjust, should I refuse</L>
+<L>My vote to such a Publick Happiness.</L>
+<L>May all the Powers above this Union bless!</L>
+<L><STAGE>Richmond to the Queen. To the Prin.]</STAGE> I must with humble adoration kiss</L>
+<L>The Hand, which does confer so high a bliss.</L>
+<L>Now, Madam, what say you?</L>
+</SP>
+<SP>
+<SPEAKER>Princess.</SPEAKER>
+<L>I must obey.</L>
+</SP>
+<SP>
+<SPEAKER>Rich.</SPEAKER>
+<L>Succeeding Times shall magnify this Day,</L>
+<L>Whose Fruitful Joys shall flow to distant Age,</L>
+<L>And rescue Nations from Rebellious Rage.</L>
+<L>But, Madam, in this Publick Jubilee</L>
+<L><HI>Charlot</HI>'s Concerns must not neglected be:</L>
+<L>This Fav'rite to us both does newly find</L>
+<L>A Noble Father in my greatest Friend;</L>
+<L>And (what is yet more strange) that Fathers Eye</L>
+<L>Does here a Daughter, not a Son descry.</L>
+</SP>
+<SP>
+<SPEAKER>Princess.</SPEAKER>
+<L>I'm lost in wonder: but what ere he be&punc;</L>
+<L>No Sex can equal his great Loyaltie.</L>
+<L>Now <HI>Charlot,</HI> ease my Mind, which longs to know</L>
+<L>The secret Cause, whence all these Wonders flow.</L>
+</SP>
+<SP>
+<SPEAKER>Charlot.</SPEAKER>
+<L>Can any thing, but Love, such Wonders do,</L>
+<L>As have disguis'd the Soul, and Body too?</L>
+<L>Madam, I drunk my Poyson when my Eye</L>
+<L>Did first his Image, whom you love, descry.</L>
+<L>I was too young to weigh, how far above</L>
+<L>The level of my Birth I rais'd my love.</L>
+<L>My wounded Heart in <HI>Bretany</HI> first bled;</L>
+<L>And, when our Exile thence to <HI>Paris</HI> fled,</L>
+<L>Leaving my Home, my Parents, and my Shape,</L>
+<L>To follow him I made a bold Escape:</L>
+<L>And to his Service I soon gain'd access,</L>
+<L><PB N="63" REF="34">
+Helpt by Industrious Love, and this feign'd dress.</L>
+</SP>
+<SP>
+<SPEAKER>Princess.</SPEAKER>
+<L><HI>Charlot,</HI> no History shall ever show</L>
+<L>So brave a Rival, and so kind a Foe.</L>
+<L>Pity, and Envy both attend thy Fate;</L>
+<L>Thou art more Generous, I more Fortunate.</L>
+</SP>
+<SP>
+<SPEAKER>Richmond.</SPEAKER>
+<L>Ah, gentle <HI>Charlot!</HI> in a high degree</L>
+<L>Thou hast at once oblig'd, and punish'd me:</L>
+<L>The Torment of great minds I undergo,</L>
+<L>Paying so little, where so much I owe.</L>
+</SP>
+<SP>
+<SPEAKER>Strange.</SPEAKER>
+<L>Sir, I want Merit; but your Goodness may</L>
+<L>For Service yet to come advance my pay:</L>
+<L>Grant me your Favour in my great design</L>
+<L>Of off' ring my Devotions at this Shrine.</L>
+<L>I long have known her, and with envious Eyes</L>
+<L>Have seen above my own her Vertue rise:</L>
+<L>But, Madam, now a double change we find;</L>
+<STAGE>[To Charlot.</STAGE>
+<L>For your Sex alter'd has transform'd my Mind:</L>
+<L>My Jealousie grows Love; and what before</L>
+<L>With Envy I beheld, I now adore.</L>
+</SP>
+<SP>
+<SPEAKER>Richmond.</SPEAKER>
+<L>Thy Passion makes me happy; and I know,</L>
+<L>Your Father's Judgement will this choice allow.</L>
+<L>Her Fortune, as her Birth, shall equal you:</L>
+<L>Who marries her, marries our Favour too.</L>
+<L><HI>Chandew,</HI> I hope, that in this happy Bride,</L>
+<L>Your scrup'lous Honour now is satisfi'd.</L>
+</SP>
+<SP>
+<SPEAKER>Chandew.</SPEAKER>
+<L>Not only satisfi'd, but much encreast;</L>
+<L>Where I unhappy was, I now am blest.</L>
+</SP>
+<SP>
+<SPEAKER>Charlot.</SPEAKER>
+<L>How much must I to such Indulgence owe,</L>
+<L>As on the Guilty does Reward bestow?</L>
+<L>But, Sir, no Power can former Vows release&punc;</L>
+<L>Which bar me from this proffer'd happiness.</L>
+<L>Ambitious Flames will ever upwards tend;</L>
+<L>They may their Object lose, but ne're descend.</L>
+<L>Mine still shall rise, and in a Cloister chuse</L>
+<L>The lasting Love of an Immortal Spouse.</L>
+</SP>
+<SP>
+<SPEAKER>Strange.</SPEAKER>
+<L>Ah! leave us not: Heaven wants you less, then we.</L>
+</SP>
+<SP>
+<SPEAKER>Princess.</SPEAKER>
+<L>Vertue will leave that Land, which loseth thee.</L>
+</SP>
+<SP>
+<SPEAKER>Charlot.</SPEAKER>
+<L>All Vertue stays, when you are left behind.</L>
+<L>Madam, in vain you urge my setled Mind.</L>
+</SP>
+</DIV2>
+<DIV2 N="10" TYPE="scene">
+<PB N="64" REF="35">
+<HEAD>SCEN. X.</HEAD>
+<STAGE>Enter L. Stanly.</STAGE>
+<SP>
+<SPEAKER>L. Stanly.</SPEAKER>
+<L>The Field does want you, Sir; The Souldiers call</L>
+<L>With loud Impatience for their General.</L>
+<L>In this days Booty they the Crown have found;</L>
+<L>And all cry out, that <HI>Richmond</HI> must be crown'd.</L>
+</SP>
+<SP>
+<SPEAKER>Richmond.</SPEAKER>
+<L>My Lord, they should their duty better know;</L>
+<L>For common Hands must not the Crown bestow.</L>
+</SP>
+<SP>
+<SPEAKER>L. Stanly.</SPEAKER>
+<L>High swelling Torrents you as soon may swage,</L>
+<L>As stop the Current of their Loyal Rage.</L>
+</SP>
+<SP>
+<SPEAKER>Princess.</SPEAKER>
+<L>Come, Sir, these Mutineers I long to see;</L>
+<L>For I must joyn in the Conspiracie.</L>
+</SP>
+<SP>
+<SPEAKER>Richmond.</SPEAKER>
+<L>He, Madam, who to you has rais'd his aim,</L>
+<L>To more, then Crowns, and Scepters lays a Claim.</L>
+</SP>
+<STAGE>[Enter Sir William <HI>Stanly</HI> bringing the Crown, with Officers and
+Souldiers in a Military Pomp.]</STAGE>
+<SP>
+<SPEAKER>Sir W. Stanly.</SPEAKER>
+<L>Behold the noblest Spoil of <HI>Bosworth</HI> Field!</L>
+<L>This is the Fruit which now your Laurels yield.</L>
+</SP>
+<SP>
+<SPEAKER>Richmond.</SPEAKER>
+<L>To this great Trophy, Madam, you are born,</L>
+<L>Which by a Royal Beauty must be worn.</L>
+</SP>
+<SP>
+<SPEAKER>Princess.</SPEAKER>
+<L>The Crown is yours, because in Battel found;</L>
+<L>And, Sir, as Conquerour you must be crown'd.</L>
+</SP>
+<SP>
+<SPEAKER>Richmond.</SPEAKER>
+<L>By right of Conquest it belongs to you;</L>
+<L>For you did first the Conquerour subdue.</L>
+</SP>
+<SP>
+<SPEAKER>Sir W. Stanly.</SPEAKER>
+<L>Madam, pray order my obedient hand,</L>
+<L>Which waits to place it by your high Command.</L>
+</SP>
+<SP>
+<SPEAKER>Princess.</SPEAKER>
+<L>Come Sir; you must submit to this great Weight,</L>
+<STAGE>[The Princess, and Sir William <HI>Stanly.</HI> put the Crown on the
+Earl of <HI>Richmond</HI>'s Head.</STAGE>
+<STAGE>The People cry, Long live King <HI>Henry</HI> the 7.</STAGE>
+<L>Impos'd by us and by the Hand of Fate.</L>
+</SP>
+<SP>
+<SPEAKER>King Henry 7^t^h.</SPEAKER>
+<L>Since Madam I must yield to wear the Crown,</L>
+<L>By this Submission I your Title owne.</L>
+<L>I wear it, as a publick Mark to shew</L>
+<L>My Power to these, my Fealty to you.</L>
+</SP>
+<SP>
+<PB N="65" REF="35">
+<SPEAKER><HI>Sir</HI> W. Stanly.</SPEAKER>
+<L><STAGE>To the Princess.]</STAGE> <HI>Richard</HI> is slain, <HI>Richmond</HI> is crown'd: and now</L>
+<L>I have perform'd the chiefest of my Vow.</L>
+<L>I shall hereafter only Glory woo,</L>
+<L>And all that Glory place in serving you.</L>
+</SP>
+<SP>
+<SPEAKER>Princess.</SPEAKER>
+<L>That your great Merit recompens'd may be,</L>
+<L>I give you all, that's undispos'd of me:</L>
+<L>This seems a Gift, but it does substance want;</L>
+<L>All was convey'd by a preceding Grant.</L>
+</SP>
+<SP>
+<SPEAKER><HI>Sir</HI> W. Stanly.</SPEAKER>
+<L>Madam, did not the fulness of your Joys</L>
+<L>The weight of my afflictions counterpoise,</L>
+<L>I should in all the Triumphs, which adorn</L>
+<L>Our shining Conquest, be condemn'd to mourn.</L>
+<L>My misery with others Joy begins,</L>
+<L>Losing as much, as mighty <HI>Richmond</HI> wins.</L>
+</SP>
+<SP>
+<SPEAKER>Princess.</SPEAKER>
+<L>In Honour nobly gain'd the Generous mind</L>
+<L>Does all the Charms of Love, and Empire find.</L>
+</SP>
+<SP>
+<SPEAKER>K. Hen. 7^t^h.</SPEAKER>
+<L>Were I not safe both in myself, and Her,</L>
+<L><HI>Stanly,</HI> thy dang'rous merit I should fear;</L>
+<L>Yet such a Rival no distrust can move,</L>
+<L>Who did usurp my danger, not my Love.</L>
+</SP>
+<SP>
+<SPEAKER>Princess.</SPEAKER>
+<L>His Sister's merits too must be confest,</L>
+<L>Whose Faith shin'd out, when I was most distrest.</L>
+</SP>
+<STAGE>[Enter Priour with his Companions.</STAGE>
+<SP>
+<SPEAKER>Priour.</SPEAKER>
+<L>The Church with Hymns answers the Peoples voice:</L>
+<L>Both Heaven and Earth at your success rejoice.</L>
+<L>I have a Blessing from the Clergy brought,</L>
+<L>Who pray'd with no less ardour than you fought.</L>
+</SP>
+<SP>
+<SPEAKER>K. Hen. 7.</SPEAKER>
+<L>We scarce have subject left for farther Prayer;</L>
+<L>Our Wishes by our Joys exhausted are.</L>
+<L>Nor will Heaven's Bounty in our Persons end;</L>
+<L>On all our Race these Blessings shall descend.</L>
+</SP>
+<TRAILER>FINIS&punc;</TRAILER>
+</DIV2>
+</DIV1>
+</BODY>
+<BACK>
+<DIV1 TYPE="epilogue">
+<PB REF="36">
+<HEAD>EPILOGUE.</HEAD>
+<L><HI>RIchard</HI> is dead; and now begins your Reign:</L>
+<L>Let not the Tyrant live in you again.</L>
+<L>For though one Tyrant be a Nation's Curse,</L>
+<L>Yet Commonwealths of Tyrants are much worse:</L>
+<L>Their Name is Legion; And a <HI>Rump</HI> (you know)</L>
+<L>In Cruelty all <HI>Richards</HI> does outgo.</L>
+<L>First then by Acts of Grace your Power declare:</L>
+<L>Newly install'd, all Princes gracious are;</L>
+<L>All lesser Crimes within their Pardon fall;</L>
+<L>And Po&euml;ts Sins are not held Capital.</L>
+<L>For your own sake you must some Mercy shew:</L>
+<L>Act not the Tyrant's Part, lest we act you.</L>
+<L>A formal Critick with his wise Grimace</L>
+<L>Will on the Stage appear with no ill grace:</L>
+<L>Most of that Trade in this Censorious Age</L>
+<L>Have little of the Po&euml;t, but his Rage:</L>
+<L>Perhaps old <HI>Johnson</HI>'s Gall may fill their Pen;</L>
+<L>But where's the Iudgment, and the Salt of <HI>Ben?</HI></L>
+<L>Yet for himself our Authour does declare</L>
+<L>All that sit here, his Lawful Iudges are:</L>
+<L>For 'tis but just, that in our lawless days,</L>
+<L>Since all Men write, all Men should judge of Plays.</L>
+<PB REF="36">
+</DIV1>
+</BACK>
+</TEXT>
+</EEBO>
+</ETS>

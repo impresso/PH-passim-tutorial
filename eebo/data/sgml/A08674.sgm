@@ -1,0 +1,3113 @@
+<!DOCTYPE ETS PUBLIC "-//UMDLPS//DTD EEBOPROOF 2.0//EN">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE>
+<DATE>2003-07-23</DATE>
+<RESPSTMT>
+<NAME>Sara Gothard</NAME>
+<RESP>MURP</RESP>
+</RESPSTMT>
+<ITEM>Added TYPEs to DIVs in order to validate. Proofed title page(s). Checked for TYPE="book". Checked ^s. Reviewed structure. Checked division-marking material at heads and feet of divisions (HEADS, etc.). Checked for signatures. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected 115 $s of 115. Converted _0_ $s to GAP DESC="illegible" RESP="pdcc". Checked spacing of foreign GAPs. Checked for EPIGRAPHs and ARGUMENTs. Checked for startqs, endqs, oes, q;s, and Qs. Checked proofsheets and made corrections found there. Checked for CLOSERs, TRAILERs, and BYLINEs. Sample:15 minutes. Proofing: 60 minutes. Tag review and corrections: ** minutes.   Moved the verse summaries of elegies to heads of each DIV and tagged each as argument.   Deleted improper use of Epigraph.  Enclosed title page text within FIGURE. Inserted "GAP DESC="missing" EXTENT="1+ pages" where pages appear to be missing between elegies. DONE.</ITEM>
+</CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="A08674">
+<STC T="S">18979</STC>
+<BIBNO T="umi">99849041</BIBNO>
+<VID>14172</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="poem">
+<PB REF="1">
+<HEAD>The Explanation of the Frontispice.</HEAD>
+<LG>
+<L><HI>AVgustus Caesar</HI> in the front doth stand,</L>
+<L>Who banisht <HI>Ovid</HI> to the <HI>Ponticke</HI> land.</L>
+<L>One side shewes <HI>Rome,</HI> the other doth present,</L>
+<L>The Shippe which carried him to Banishment.</L>
+<L>A happy Pyramid it selfe doth raise,</L>
+<L>Built on those Bookes from whence he got his praise.</L>
+<L>The sable Pyramid doth likewise show,</L>
+<L>That his ruine from the Art of Love did grow.</L>
+<L>Beneath poore <HI>Ovid</HI> rests his weary head</L>
+<L>Vpon his Coffin, when all hope was fled.</L>
+<L>And thereupon his wreath of Bayes doth lie,</L>
+<L>To shew he did in <HI>Pontus</HI> banisht die.</L>
+<L>But yet his Muse new life to him doth give,</L>
+<L>And by his lines sweete <HI>Ovid</HI> still doth live.</L>
+</LG>
+<LG>
+<L>Vade Liber mundo, Dominus fuit exul, &amp; inde</L>
+<L>Disce pati a Domino, fer mala, vade Liber.</L>
+</LG>
+</DIV1>
+<DIV1 TYPE="engraved title page">
+<PB REF="1" MS="y">
+<P><FIGURE>
+<HEAD>Augustus Caesar</HEAD>
+<HEAD>Hence grew my fame</HEAD>
+<HEAD>Hence my ruine came</HEAD>
+<HEAD>In Pontus I <UNCLEAR>Did bannisht dye</UNCLEAR></HEAD>
+<P>OVIDS TRISTIA</P>
+<P>Containinge fiue Bookes of mournfull Elegies which hee sweetly composed in the midst of his aduersitie, while hee liu'd in Tomos a Cittie of Pontus where hee dyed after seauen yeares Banishment from Rome.</P>
+<P>Translated into English by W. S. Ve<GAP DESC="illegible" EXTENT="1 letter">iam pr<GAP DESC="illegible" EXTENT="1 letter"> laude pet<GAP DESC="illegible" EXTENT="1 letter"></P>
+<P>London Printed for Fra: Groue and are to bee sould at his shopp on Snowe hill neere the Sarazens head. 1633.</P>
+</FIGURE></P>
+</DIV1>
+<DIV1 TYPE="dedication">
+<PB REF="2">
+<P><GAP DESC="missing" EXTENT="1+ pages">
+to your protection this translati|on of <HI>Ovids</HI> Elegies, who I thinke was even rockt in his cradle by the Muses, and fed with Sugar and Helliconian water, which made him have so sweet a veine of Poetry. So that the name of <HI>Ovid</HI> is a sufficient commendati|on for any worke of his, if my English can but like the Eccho, send backe the soft Musicke of his lines. And indeede if he write best of love that hath beene in love; and that there is a certaine <GAP DESC="foreign"> or efficacie in his words that feeles the affection; I doubt not but my owne sorrow hath learnt me how to translate <HI>Ovids</HI> sorrow. For I confesse I was ne|ver in Fortunes Books, and there|fore am not much indebted to her, neyther doe I care for her frownes; but I am greeved for one who is my brother in mis|fortune,
+<PB REF="2">
+who is <HI>exul in patria,</HI> be|ing enforced to let that skill and experience which he hath gotten abroad in marine affaires, and which hath beene approved of both by the English and Dutch nations in severall long voyages, lye dead in him for want of im|ployment which is the life of practicall knowledge: and though he must be compelled by his pre|sent fates to accept of the imploy|ment of forraine nations, yet if a way might be opened unto him he is more willing (as he is bound by dutie) to serve his native King and Countrey, which desire of his I know your generous dispo|sition cannot but cherish, and ap|prove of my love towards him. This Booke <HI>Ovid</HI> sent to the Cit|ty of <HI>Rome</HI> as appeares by the first verse, <HI>Parve nec invideo, &amp;c.</HI> and I am now to send it forth into a
+<PB REF="3">
+Citty abounding with Critticks, and therefore it desires your wor|thy patronage and defence; for which (if <HI>Ovid</HI> lived) he would make his fluent Muse expresse his thankefulnesse: But I for any fa|vour which you shall shew unto this translation, must acknowledge my selfe bound unto your vertue, which I wish may shine forth in prosperous actions, untill your fame be equall to <HI>Caesars</HI> who ba|nisht <HI>Ovid.</HI></P>
+<CLOSER><SIGNED><HI>The Servant of your Vertues,</HI> W. SALTONSTALL.</SIGNED></CLOSER>
+</DIV1>
+<DIV1 TYPE="to the reader">
+<PB REF="3">
+<HEAD>To the Reader.</HEAD>
+<P>_IT is now growne a common cu|stome to seeke thy good will by an Epistle, and therein to move thy affection to be favourable to the present worke, wherein I neede not bestow any great paines, for this is a translation of <HI>Ovids</HI> last booke which he writ in banishment; and therefore if you would set before your eyes the present estate wherein he then lived, it would exceedingly move your pitty towards him. Ima|gine that you saw <HI>Ovid</HI> in the Land of <HI>Pontus,</HI> where he whose companie was so much desired, was now banisht from all companie; he that was once the Darling of the Muses, now made the subject of miserie; he that dranke choise wines, now drinks spring water; he that wore a wreath of Bayes, now weares a wreath of Cypresse: and to conclude, he that was once so famous, was now
+<GAP DESC="missing" EXTENT="1+ pages"></P>
+</DIV1>
+<DIV1 TYPE="epigram">
+<PB REF="4">
+<HEAD><HI>Angelus Politianus</HI> his Epigram on the banish|ment and death of <HI>Ovid.</HI></HEAD>
+<L>THe <HI>Romane</HI> Poet lies in the <HI>Euxine</HI> shore,</L>
+<L>And barbarous earth the Poet covers o're:</L>
+<L>Him that did write of love that land doth hide,</L>
+<L>Through which the <HI>Isters</HI> colder streame doth glide.</L>
+<L>And wert not asham'd to be (O <HI>Rome</HI>)</L>
+<L>More cruell than the <HI>Getes</HI> to such a sonne?</L>
+<L>Oh Muses, while he sicke in <HI>Scythia</HI> lay,</L>
+<L>Who was there that his sicknesse could allay?</L>
+<L>Or keepe his cold limbes in the bed by force,</L>
+<L>Or passe away the day with some discourse?</L>
+<L>Or that could feele his pulse when it did beate,</L>
+<L>Or apply to him warme things to cherish heate?</L>
+<L>Or close his eyes even swimming round with death,</L>
+<L>And in his mouth receive his latest breath?</L>
+<L>There were none, for his ancient friends then were</L>
+<L>In thee O <HI>Rome,</HI> from <HI>Pontus</HI> distant farre.</L>
+<L>His Wife and Nephewes were farre off, together</L>
+<L>His daughter went not with her banisht father.</L>
+<L>The <HI>B<GAP DESC="illegible" EXTENT="1 letter">ssi</HI> and <HI>Coralli</HI> were in these partes,</L>
+<L>And the skin-wearing <HI>Getes</HI> wirh stony hearts.</L>
+<L>The <HI>Sarmatian</HI> riding on his horse was there,</L>
+<L>To comfort him with lookes that dreadfull were.</L>
+<L>Yet when he was dead, the <HI>Bessi</HI> wept, the <HI>Gete,</HI></L>
+<L>And stout <HI>Sarmatians</HI> did their faces beate.</L>
+<L><PB REF="4">Woods, mountaines, beasts, a mourning day did keepe,</L>
+<L>And <HI>Isters</HI> pearly streame they say did weepe.</L>
+<L>Some say that frozen <HI>Pontus</HI> did begin</L>
+<L>To melt, with teares of Sea-nymphes shed for him.</L>
+<L>Light <HI>Cupids</HI> with their mother <HI>Venus</HI> ranne,</L>
+<L>And vvith torches set the funerall pile on flame:</L>
+<L>And while his body did consume and burne,</L>
+<L>They put his ashes in a closed Vrne:</L>
+<L>And on his Tombe-stone these words graven were,</L>
+<L>He that did teach the Art of love lyes here.</L>
+<L>Then <HI>Venus</HI> with her white hand did bedew</L>
+<L>His grave, while she sweet Nectar on him threw.</L>
+<L>The Muses brought their Poet many a verse,</L>
+<L>Which I am farre unworthy to rehearse.</L>
+</DIV1>
+<DIV1 TYPE="poem">
+<HEAD><HI>Iulius Scaligers</HI> Verses on <HI>Ovid,</HI> wherein he maketh <HI>Ovid</HI> speake to <HI>Augustus.</HI></HEAD>
+<L>I Would thy cruelty had in me begunne,</L>
+<L>Nor by murders steps to ruine me hadst come.</L>
+<L>If my wanton youth did move thy discontent,</L>
+<L>Thou mayst condemne thy selfe to banishment.</L>
+<L>For such foule deeds thy private roomes do staine,</L>
+<L>That men condemned ne're did act the same.</L>
+<L>Could not my wit, nor gentlenesse thee restraine&punc;</L>
+<L>Nor sweete tongue second to <HI>Apollo's</HI> vaine?</L>
+<L>My straine hath made the ancient Poets soft,</L>
+<L>And to the new the waight of things hath tought.</L>
+<L>I then did lye when as I praysed thee,</L>
+<L>For this my banishment was deserv'd by mee.</L>
+<GAP DESC="missing" EXTENT="1+ pages">
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 N="1" TYPE="book">
+<PB REF="5">
+<GAP DESC="missing" EXTENT="1+ pages">
+<DIV2 N="4" TYPE="elegy">
+<LG>
+<L>Nor shame those blots which on thy face appeares;</L>
+<L>For some may thinke they were made with my teares,</L>
+<L>Goe booke, salute the Citie in my name,</L>
+<L>For on thy feete I will goe backe againe;</L>
+<L>And if by chance among the common crew,</L>
+<L>Some mindefull of me aske thee, how I doe?</L>
+<L>Returne this answer, tell them that I live,</L>
+<L>And that my god this life doth freely give.</L>
+<L>But if they more doe seeke, then silent be,</L>
+<L>And speake not that should not be read in thee.</L>
+<L>Then the angrie reader will repeate my fault,</L>
+<L>While by the people I am guilty thought.</L>
+<L>Defend me not though they my fault repeat,</L>
+<L>An ill cause by defence is made more great.</L>
+<L>Some thou shalt finde will sigh, 'cause I am gone,</L>
+<L>And reade these verses with wet cheekes alone.</L>
+<L>Who often wishes, <HI>Caesar</HI> would but please,</L>
+<L>Some lighter punishment might his wrath appease.</L>
+<L>And I doe pray he may n'ere wretched be,</L>
+<L>That wishes <HI>Caesar</HI> thus should pitty me.</L>
+<L>But may his wishes come to passe, that I</L>
+<L>At last may in my native countrey dye.</L>
+<L>But booke, I know, thou shalt receive much blame,</L>
+<L>And be thought inferior unto <HI>Ovids</HI> vaine:</L>
+<L>Yet every judge the time and matter weighes;</L>
+<L>The time considered, thou deservest praise.</L>
+<L>Smooth verses from a quiet minde doe flow:</L>
+<L>My times are overcast with suddaine woe.</L>
+<L>Verses require much leasure and sweet ease:</L>
+<L>But I am tost by winds, and angry Seas.</L>
+<L>Verses were never made in feare, while I</L>
+<L>Doe looke each minute by the sword to dye.</L>
+<L>So that an equall judge may well approve</L>
+<L>These lines of mine, and reade them with much love.</L>
+<L><PB REF="5">Had <HI>Homer</HI> beene distress'd so many wayes,</L>
+<L>It would his sharpe discerning wit amaze&punc;</L>
+<L>Then booke be carelesse of all idle fame;</L>
+<L>For to displease thy Reader, is no shame,</L>
+<L>Since fortune hath not so kind to me beene,</L>
+<L>That thou theit idle praise shouldst so esteeme:</L>
+<L>When I was happy, I did covet fame,</L>
+<L>And had a great desire to get a name.</L>
+<L>But now both verse and study I doe hate,</L>
+<L>Since they have brought me to this banisht state.</L>
+<L>Yet goe my booke, thee in my place I assigne,</L>
+<L>And would to God I could not call thee mine.</L>
+<L>Though as a stranger thou dost come to Rome,</L>
+<L>Thou canst not to the people come unknowne:</L>
+<L>Hadst thou no title, yet thy sable hew,</L>
+<L>If thou deny me, will thy author shew.</L>
+<L>Yet enter secretly, least some doe disdaine</L>
+<L>My verse, which is not now esteem'd by fame.</L>
+<L>And if by chance some when they heare me nam'd&punc;</L>
+<L>Doe cast thee by out of their scornefull hand,</L>
+<L>Tell them that I doe teach no rules of love,</L>
+<L>That worke was long since punisht from above.</L>
+<L>Perhaps thou dost imagine thou art sent,</L>
+<L>To <HI>Caesars</HI> Court, which is not my intent:</L>
+<L>Aspire not thou unto those seates divine,</L>
+<L>From whence the Thunder did on me decline.</L>
+<L>Though once the Gods more favourable were,</L>
+<L>Yet now their just deserved wrath I feare.</L>
+<L>The fearefull Dove once strucke, still after springs,</L>
+<L>When she doth heare the Haukes large spreading wings&punc;</L>
+<L>And from the fold the Lambe dare never stray<GAP DESC="illegible" EXTENT="2 letters">&punc;</L>
+<L>That from the Woolfe hath gotten once away.</L>
+<L>Nor would young <HI>Phaethon</HI> desire <GAP DESC="illegible" EXTENT="1 word"></L>
+<L>His fathers steeds, if he were now <GAP DESC="illegible" EXTENT="1 word"></L>
+<L><PB REF="6">Since on my face the angry waves doe breake.</L>
+<L>And now the southerne winds so cruell are,</L>
+<L>They will not let the Gods even heare my prayer,</L>
+<L>But coupling mischeefes, with their rufling gales,</L>
+<L>They take away my prayers, and drive our sailes;</L>
+<L>The waves like mountaines now are rowled on,</L>
+<L>Which even seeme to touch the starrie throane.</L>
+<L>And by and by deepe valleys doe appeare,</L>
+<L>As if that hell it selfe dissolved were.</L>
+<L>Nothing but ayre and water can I see,</L>
+<L>And both of them doe seeme to threaten me;</L>
+<L>Whiles divers winds their forces doe display,</L>
+<L>The sea is doubtfull which he should obey.</L>
+<L>For now the winde comes from the purple East,</L>
+<L>And so againe it bloweth from the West.</L>
+<L>Then Boreas flies out from the Northerne Waine,</L>
+<L>While Southerne winds doe beate him backe againe.</L>
+<L>Our Pilat knew not whether he should steare,</L>
+<L>Art failes him, lost in his amazed feare.</L>
+<L>Perish we must, all hope of life is past,</L>
+<L>And while I speake the angry billowes slasht</L>
+<L>Into my face, and with their waves did fill</L>
+<L>My mouth while I continued praying still.</L>
+<L>I know my wife at home doth now lament,</L>
+<L>And grieve to thinke upon my banishment:</L>
+<L>Yet knowes shee not how I am tossed here,</L>
+<L>And little thinkes the that I am so neare</L>
+<L>Vnto my death, and were she heere with me,</L>
+<L>My griefe for her a second death would be.</L>
+<L>Now though I dye, yet while that she is safe,</L>
+<L>I shall survive in her my other halfe:</L>
+<L>But now quick lightning breaketh through the Cloud,</L>
+<L>And following Thunder roareth out aloud.</L>
+<L>And now the waves upon the ship doe boate,</L>
+<L><PB REF="6">Like bullets, and as one wave doth retreate,</L>
+<L>Another comes that doth exceede the rest,</L>
+<L>And thus their furie is by turnes exprest.</L>
+<L>I feare not death, yet I doe greeve that I</L>
+<L>Should here by shipwracke in this manner dye.</L>
+<L>Happy is he whom sicknesse doth invade,</L>
+<L>Whose body in the solid earth is laid:</L>
+<L>And having made his will, in his grave may rest,</L>
+<L>Nor shall the fishes on his body feast.</L>
+<L>And yet suppose my death deserved be,</L>
+<L>Shall all the rest be punisht here for me?</L>
+<L>O yee greene gods who doe the sea command,</L>
+<L>Take off from us your heavy threatning hand.</L>
+<L>And let me beare this wretched life of mine,</L>
+<L>Vnto that place which <HI>Caesar</HI> did assigne.</L>
+<L>If you desire with death to punish me,</L>
+<L>My fault was jug'd not worthy death to be:</L>
+<L>Had <HI>Caesar</HI> meant to take my life away,</L>
+<L>He neede not use your helpe who all doth sway.</L>
+<L>For if that he doe please my blood to spill,</L>
+<L>My life is but a tenure at his will.</L>
+<L>But you whom I did never yet offend,</L>
+<L>Have pitty on me, and to mercy bend:</L>
+<L>For though you save me in this great distresse,</L>
+<L>Yet you shall see my ruine ne're the lesse.</L>
+<L>And if the winds and seas did favour me,</L>
+<L>I should no lesse a banisht man still be.</L>
+<L>I am not greedy, riches to obtaine,</L>
+<L>Nor doe I plough the sea in hope of gaine.</L>
+<L>I goe not to <HI>Athens,</HI> where I once have beene</L>
+<L>Or <HI>Asian</HI> townes which I have never seene,</L>
+<L>Nor unto <HI>Alexandria</HI> doe I goe,</L>
+<L>To see how <HI>Nilus</HI> seaven streames doe flow:</L>
+<L>I wish a gentle wind, which may so stand,</L>
+<L><PB REF="7">It was the deepest silence of the night,</L>
+<L>And <HI>Luna</HI> in her chariot shined bright:</L>
+<L>When looking on the Cappitols high frame,</L>
+<L>Which joyned was unto our house in vaine:</L>
+<L>You gods (quoth I) whom these faire seats enfold,</L>
+<L>And temples which I ne're shall more behold:</L>
+<L>And all yee gods of Rome whom I must leave,</L>
+<L>These my last tenderd prayers to you receive;</L>
+<L>Though wounded I the buckler use too late,</L>
+<L>Le<GAP DESC="illegible" EXTENT="1 letter"> exile ease me of the peoples hate.</L>
+<L>Tell <HI>Caesar</HI> though I sinn'd by ignorance,</L>
+<L>There was no wickednesse in my offence.</L>
+<L>And as you know so let him know the same,</L>
+<L>That so his wrath may be appeas'd againe.</L>
+<L>With larger prayers my wife did then beseech</L>
+<L>The gods, untill that sobs cut off her speech.</L>
+<L>Then falling downe with flowing haire long spred,</L>
+<L>Shee kist the harth whereon the fire lay dead;</L>
+<L>And to our Penates pourd forth many a word,</L>
+<L>Which for her husband now no helpe afford,</L>
+<L>Now growing night did haste delay againe,</L>
+<L>And <HI>Arctos</HI> now had turnd about her Waine,</L>
+<L>And loath was I to leave my countrey sight,</L>
+<L>Yet this for exile was my sentenc'd night.</L>
+<L>If any urgd my haste I would reply,</L>
+<L>Alasse consider whither, whence I fly.</L>
+<L>And then my selfe with flattory would beguile:</L>
+<L>And thinke no houre did limit my exile.</L>
+<L>Thrice went I forth, and thrice returning finde,</L>
+<L>Slow paces were indulgent to my minde;</L>
+<L>Oft having bid farewell, I spake againe,</L>
+<L>And many parting kisses gave in vaine.</L>
+<L>Then looking backe upon my children deare,</L>
+<L>The <GAP DESC="illegible" EXTENT="1 word"> repeated charge I gave them there.</L>
+<L><PB REF="7">Why make we hast? tis just to seeke delay,</L>
+<L>Since I am sent from <HI>Rome</HI> to <HI>Scythia.</HI></L>
+<L>For I must leave my children, house and wife,</L>
+<L>Who while I live must leade a widdowes life.</L>
+<L>And you my loving friends that present be,</L>
+<L>And were like <HI>Theseus</HI> faithfull unto me:</L>
+<L>Let us imbrace, and use times little store,</L>
+<L>Perhaps I never shall imbrace you more.</L>
+<L>And then my words to action did give place,</L>
+<L>While I each friend did lovingly imbrace.</L>
+<L>But while I speake and teares bedew'd my eyes,</L>
+<L>The fatall morning starre began to rise.</L>
+<L>My heart was so divided therewithall,</L>
+<L>As if my limbes would from my body fall.</L>
+<L>So <HI>Priam</HI> griev'd when he too late did finde,</L>
+<L>The <HI>Grecian</HI> horse with armed men was linde.</L>
+<L>Then sorrow was in one lowde cry exprest:</L>
+<L>And every one began to knocke his breast;</L>
+<L>And now my wife her armes about me cast,</L>
+<L>And while I wept she spoke these words at last.</L>
+<L>Thou shalt not goe alone, for I will be</L>
+<L>Thy wife in banishment and follow thee:</L>
+<L>In the same ship with thee Ile goe aboard,</L>
+<L>And one land shall to us one life afford.</L>
+<L>Thee unto exile <HI>Caesars</HI> wrath commandes,</L>
+<L>Me love, which love to me for <HI>Caesars</HI> stands.</L>
+<L>This shee repeats which shee had spoke before,</L>
+<L>And could not be perswaded to give ore.</L>
+<L>Till at rhe last when I my haire had rent,</L>
+<L>Forth like some living funerall I went:</L>
+<L>And after (as I heard) when night grew on,</L>
+<L>Being mad with griefe, shee threw her selfe along</L>
+<L>Vpon the ground, while as her haire now lies,</L>
+<L>Soild in the dust: and when that shee did rise,</L>
+<L><PB REF="8">Of <HI>Nisus</HI> love who should the story know?</L>
+<L>For as the fire the yellow gold doth try,</L>
+<L>So love is proved by adversitie.</L>
+<L>While Fortune helpes us, and on us doth smile,</L>
+<L>They will attend upon our wealth that while:</L>
+<L>But if shee frowne, they fly, and scarce of any,</L>
+<L>Shall he be knowne that had of friends so many:</L>
+<L>This which before I from examples drew,</L>
+<L>In my owne fortune now is proved true.</L>
+<L>Since of my friends so few remaining be,</L>
+<L>The rest did love my fortune and not me.</L>
+<L>Then let those few aide me distrest the more,</L>
+<L>And bring my ship with safety to the shoare:</L>
+<L>And let not any feare to be my friend,</L>
+<L>Least that his love great <HI>Caesars</HI> might offend.</L>
+<L>For faithfulnesse in friendship he doth love:</L>
+<L>And in his enemies he doth it approve.</L>
+<L>My case is better, since that no attempt</L>
+<L>'Gainst him, but folly wrought my banishment.</L>
+<L>Be watchfull then in my behalfe, and see,</L>
+<L>If that his anger may appeased be.</L>
+<L>If any wish I should my griefes reherse,</L>
+<L>They are to many too be shew'd in verse.</L>
+<L>My griefes are more than starrs within the skies,</L>
+<L>Or little mo<GAP DESC="illegible" EXTENT="1 letter">es which in the dust arise.</L>
+<L>For to my sorrowes none can credit give,</L>
+<L>Posterity will scarce the same beleeve.</L>
+<L>Besides those other griefes which ought to have,</L>
+<L>Within my secret thoughts a silent grave.</L>
+<L>Had I voice and brest could ne're be tyr'd,</L>
+<L>More mouthes and tongues than ever griefe desir'd:</L>
+<L>Yet could not I expresse the same in words,</L>
+<L>My griefe so large a theame to me affords.</L>
+<L>You learned Poets leave off now to write,</L>
+<L><PB REF="8"><HI>Vlysses</HI> troubles, and my woes recite.</L>
+<L>I sufferd more, he wanderd many yeeres,</L>
+<L>In comming home from <HI>Troy</HI> as it appeares.</L>
+<L>We sayld so farre to the Sarmatian shoare,</L>
+<L>Till we discoverd starres unknowne before.</L>
+<L>With him a faithfull troope of Grecians went,</L>
+<L>My friends forsooke me in my banishment.</L>
+<L>To bring him home his happy sayles were spred,</L>
+<L>While I even from my native countrey fled.</L>
+<L>Nor doe I saile frrm <HI>Ithaca,</HI> from whence,</L>
+<L>It would not greeve me to be banisht thence:</L>
+<L>But even from Rome which doth the gods enfold,</L>
+<L>And from seaven hills doth all the world behold.</L>
+<L>He had a body hardned to endure,</L>
+<L>To labour I my selfe did ne're inure,</L>
+<L>In the sterne warres great paines he daily tooke,</L>
+<L>But I was still devoted to my booke.</L>
+<L>One god opposing me, no god brought ayde,</L>
+<L>But him <HI>Bellona</HI> helpt the warlike Maide.</L>
+<L>And since that <HI>Neptune</HI> is than <HI>Iove</HI> farre lesse,</L>
+<L>Him <HI>Neptune,</HI> but great <HI>Iove</HI> doth me oppresse.</L>
+<L>Besides, some fictions doe his labours grace,</L>
+<L>Which in our griefes sad storie have no place.</L>
+<L>And lastly though at last, his home he found,</L>
+<L>And landed on the welcome long sought ground.</L>
+<L>But ne're shall I my native countrey see,</L>
+<L>Vntill the angry gods appeased be.</L>
+</LG>
+</DIV2>
+<DIV2 N="5" TYPE="elegy">
+<ARGUMENT>
+<LG>
+<L>Vnto his wife whose faithfull love,</L>
+<L>And constancie he doth approve.</L>
+</LG>
+</ARGUMENT>
+<HEAD>ELEGIE V.</HEAD>
+<LG>
+<L><HI>APollo Lyde</HI> never lov'd so well,</L>
+<L>Nor did <HI>Philetas</HI> love so much excell</L>
+<GAP DESC="missing" EXTENT="1+ pages">
+<L><PB REF="9">Vnto the Reader put in mind of me.</L>
+<L>Yet they with patience can be read of none,</L>
+<L>That to the world are uncorrected showne,</L>
+<L>Snatcht from the forge before they could be fram'd,</L>
+<L>Deprived of my last life-giving hand.</L>
+<L>For praise I pardon crave, it shall suffice,</L>
+<L>If Reader thou do not my Verse despise.</L>
+<L>Yet in the front these verses placed bee,</L>
+<L>If with thy liking it at least agree:</L>
+<L>Who meetes this Orphan Volumne poore in worth,</L>
+<L>Within your City harborage afford</L>
+<L>To win more favour, not by him set forth,</L>
+<L>But ravisht from the funerall of his Lord:</L>
+<L>This therefore which presents its owne defect,</L>
+<L>At pleasure with a friendly hand correct.</L>
+</LG>
+</DIV2>
+<DIV2 N="7" TYPE="elegy">
+<ARGUMENT>
+<LG>
+<L>To his unconstant friend, whose love</L>
+<L>He findes doth now unconstant prove,</L>
+<L>And like a Glow-worme seemes to shine,</L>
+<L>But yeelds no bea<GAP DESC="illegible" EXTENT="1 letter">e in hardest time.</L>
+</LG>
+</ARGUMENT>
+<HEAD>ELEGIE VII.</HEAD>
+<LG>
+<L>LEt Rivers now flow backe unto their Spring,</L>
+<L>And let the Sunne from West his course begin:</L>
+<L>The earth shall now with shining starres be fill'd,</L>
+<L>The skies unto the furrowing plough shall yeeld.</L>
+<L>The water shall send forth a smoaking flame,</L>
+<L>The fire shall yeeld forth water backe againe.</L>
+<L>All things shall go against old natures force,</L>
+<L>And no part of the world shall keepe his course.</L>
+<L>This I presage because I am deceiv'd</L>
+<L>Of him whose love most faithfull I beleev'd.</L>
+<L><PB REF="9">What made thy hollow thoughts so soone reject me,</L>
+<L>What didst thou feare when fortune did afflict me,</L>
+<L>That thou wouldst never comfort me at all,</L>
+<L>Or mourne at my living funerall?</L>
+<L>That name of friendship which should holy be,</L>
+<L>Is not esteem'd or reckoned of by thee.</L>
+<L>What had it beene to have seene a maim'd friend,</L>
+<L>And with the rest some words of comfort lend?</L>
+<L>And if no teares for me thou couldst have shed,</L>
+<L>With fained pittie mightst have something sed.</L>
+<L>Thou mightst have done as some who I ne're knew,</L>
+<L>And in the common voyce have bid adew:</L>
+<L>And lastly, while thou mightest, take the paine</L>
+<L>To see my face ne're to be seene againe.</L>
+<L>And mightst have then (which ne're shall more befall)</L>
+<L>Give and receive a farewell last of all.</L>
+<L>Which others did whom no strick<GAP DESC="illegible" EXTENT="1 letter"> league did binde,</L>
+<L>And made their teares the witnesse of their minde.</L>
+<L>For were not we in love joyn'd each to other,</L>
+<L>By length of time and living both together?</L>
+<L>My businesse and my sports were knowne to thee,</L>
+<L>And so were thy affaires well knowne to mee.</L>
+<L>Did not I know thee well at <HI>Rome</HI> of late,</L>
+<L>Whom I for mirth-sake did associate?</L>
+<L>Are these things vanisht into empty winde,</L>
+<L>Drown'd in the <HI>Lethe</HI> of a faithlesse minde?</L>
+<L>I do not thinke that thou wert borne at <HI>Rome</HI>&punc;</L>
+<L>(Whither alasse I never more shall come.)</L>
+<L>But on some Rocke here in the Pontick land,</L>
+<L>Or Scythian Mountaines that so wildly stand:</L>
+<L>And veines of flint are every where disperst</L>
+<L>In slender branches through thy Iron brest.</L>
+<L>And su<GAP DESC="illegible" EXTENT="1 letter">e thy Nurse some cruell Tiger was</L>
+<L>Who gave thee sucke as shee along did passe:</L>
+<GAP DESC="missing" EXTENT="1+ pages">
+<L><PB REF="10">In that thy vertues have such publication.</L>
+<L>Would I had kept in darkenesse out of sight,</L>
+<L>My studies, which I wish had ne're knowne light:</L>
+<L>For as thy fame from eloquence doth grow,</L>
+<L>So from my Verse, my ruine first did flow.</L>
+<L>Thou knowst my life, and how I did abstaine</L>
+<L>From those same Arts of love which I did frame:</L>
+<L>Thou knowst I writ it in my younger dayes,</L>
+<L>In jesting manner, not to merrit praise.</L>
+<L>Though I dare nothing urge in my defence,</L>
+<L>I thinke I may excuse my late offence.</L>
+<L>Excuse me then, nor 'ere forsake thy friend,</L>
+<L>But as thou hast begun so also end.</L>
+</LG>
+</DIV2>
+<DIV2 N="9" TYPE="elegy">
+<ARGUMENT>
+<LG>
+<L><HI>Ovid</HI> here his ship doth praise,</L>
+<L>That carried him through many Seas.</L>
+</LG>
+</ARGUMENT>
+<HEAD>ELEGIE IX.</HEAD>
+<L>YEllow Minerva doth my ship maintaine,</L>
+<L>Which of her painted Helmet beares the name,</L>
+<L>For with the least winde shee will nimbly sayle,</L>
+<L>And go with Oares when as the wind doth faile.</L>
+<L>She will out-saile her company outright,</L>
+<L>And fetch up any ship that is in sight.</L>
+<L>She can endure the waves which on her beate,</L>
+<L>Yet will she never open any leake.</L>
+<L>I boarded her in the Corinthian bay,</L>
+<L>From whence she stoutly brought me on my way,</L>
+<L>By <HI>Pallas</HI> helpe, by whom she was protected,</L>
+<L>Through many dangerous seas she was directed:</L>
+<L>And may she now cut through the Pontick strand,</L>
+<L>And bring me safely to the Getick Land.</L>
+<L><PB REF="10">Who when that she had carried me at last,</L>
+<L>Through the Ionian seas, when we had past</L>
+<L>Along those coasts, we stood to the left hand,</L>
+<L>And so we came unto the Imbrian land,</L>
+<L>Then, with a gentle winde she sailed on,</L>
+<L>And toucht at <HI>Samos</HI> as she went along.</L>
+<L>Vpon the other side there stands a wood,</L>
+<L>Thus farre my ship did bring me through the flood,</L>
+<L>Through the <HI>Bistonians</HI> fields on foote I went,</L>
+<L>And then from <HI>Hellespont</HI> her course she bent:</L>
+<L>For to <HI>Dardania</HI> she her course intended,</L>
+<L>And <HI>Lampsace</HI> which <HI>Priapus</HI> defended.</L>
+<L>So to the walles of <HI>Cyricon</HI> she came,</L>
+<L>Which the <HI>Maeonian</HI> people first did frame.</L>
+<L>Thence to <HI>Constantinople</HI> was her way,</L>
+<L>Where as two seas do meete within one bay.</L>
+<L>Now may my other ship with a strong gale,</L>
+<L>Passe by the moving Iles, while she doth sayle</L>
+<L>By the <HI>Thymian</HI> bay, while her course doth fall,</L>
+<L>To come hard by <HI>Anchiolus</HI> high wall.</L>
+<L>Then to <HI>Messembria, Odesson,</HI> and the Tower,</L>
+<L>Which is defended by god <HI>Bacchus</HI> power:</L>
+<L>And to <HI>Megara</HI> which did first receave.</L>
+<L><HI>Alcathous,</HI> who did his Countrey leave.</L>
+<L>So to <HI>Miletus</HI> which is the place assign'd,</L>
+<L>To which by <HI>Caesars</HI> wrath I am confin'd.</L>
+<L>Where for an offering of a greater price,</L>
+<L>A Lambe to <HI>Pallas</HI> I will sacrifice.</L>
+<L>And you two brothers that are stellify'd,</L>
+<L>I pray that you my ship may gently guide:</L>
+<L>One ship to <HI>Cyanean</HI> Iles is bound,</L>
+<L>The other goes to the <HI>Bistouian</HI> ground:</L>
+<L>And therefore grant the winde may fitly stand,</L>
+<L>To bring them safely to a diverse land.</L>
+</DIV2>
+</DIV1>
+<DIV1 N="2" TYPE="book">
+<PB REF="11">
+<HEAD>LIB. II.</HEAD>
+<ARGUMENT>
+<L>Vnto Caesar he excuses</L>
+<L>Himselfe, and condemnes his Muses:</L>
+<L>And many Poets doth recite,</L>
+<L>Who in their times did loosely write;</L>
+<L>Yet in that age were never sent,</L>
+<L>Though like in fault, to banishment.</L>
+</ARGUMENT>
+<L>WHat have I to doe with you my unhappy book?</L>
+<L>On who~ as on my ruine I must look.</L>
+<L>Why doe I returne unto my Muse againe,</L>
+<L><GAP DESC="illegible" EXTENT="1 word"> not enough one punishment to obtaine?</L>
+<L>It was my verse that first did overthrow me,</L>
+<L>And made both men and women wish to know me.</L>
+<L>It was my verse that made great <HI>Caesar</HI> deeme</L>
+<L>My life to be such as my verse did seeme.</L>
+<L>Amongst my chiefest faults I must rehearse,</L>
+<L>My love of studdy, and my looser verse:</L>
+<L>In which while I my fruitlesse labour spent,</L>
+<L>I gained nothing but sad banishment.</L>
+<L>Those learned Sisters I should therefore hate,</L>
+<L>Who their adorers still doe ruinate.</L>
+<L>Yet such my madnesse is, that folly armes me</L>
+<L>To strike my foore against that store that harmes me;</L>
+<L>Even as some beaten fencer after tries</L>
+<L>To regaine honour by a second prize.</L>
+<L>Or as some torne ship that newly came</L>
+<L>To shoare, yet after stands to Sea againe;</L>
+<L><PB REF="11">Perhaps as <HI>Telephus</HI> was healed by a sword,</L>
+<L>So that which hurt me shall like helpe affoord:</L>
+<L>And that my Verse his mov'd wrath may appease,</L>
+<L>Since verses have great power the gods to please.</L>
+<L><HI>Caesar</HI> hath bidden each <HI>Italian</HI> Dame,</L>
+<L>To sing some verses to great <HI>Opis</HI> name:</L>
+<L>And unto <HI>Phoebus</HI> when he set forth playes</L>
+<L>To him, once seene within an age of dayes;</L>
+<L>So may my verse, great <HI>Caesars</HI> now obtaine,</L>
+<L>By examples to appease thy wrath againe.</L>
+<L>Iust is thy wrath, which I will ne're deny,</L>
+<L>Such shamefull words, from my mouth do not fly:</L>
+<L>And this offence makes me for pardon cry,</L>
+<L>Since faults are objects of thy clemency.</L>
+<L><HI>Iove</HI> would be soone disarm'd, if he should send</L>
+<L>His thunderbolts as oft as men offend.</L>
+<L>Now though his thunders make the world to feare,</L>
+<L>It breakes the Clouds, and makes the ayre more cleare:</L>
+<L>Whom therefore father of the gods we name,</L>
+<L>Than <HI>Iove</HI> none greater doth the world containe.</L>
+<L>Thou <HI>Pater patriae</HI> too art call'd, then be</L>
+<L>Like to those gods in name and clemencie:</L>
+<L>And so thou art, for no more moderate hand,</L>
+<L>Could hold the raines of Empire and command.</L>
+<L>Thy enemy once overcome in field</L>
+<L>Thou pardonst, which he victor would not yeeld.</L>
+<L>And some thou didst with honours dignifie,</L>
+<L>That have attempted gainst thy Majestie.</L>
+<L>Thy warres on one day did begin and cease,</L>
+<L>While both sides brought their offerings unto peace:</L>
+<L>That as the Victor in the vanquisht Foe,</L>
+<L>The vanquisht in the Victor gloried so.</L>
+<L>My case is better, since I ne're did joyne</L>
+<L>With those who did in armes gainst thee combine:</L>
+<L><PB REF="12">Yet now this house which by my Muse was rais'd,</L>
+<L>Is by one fault of mine againe disgrac'd:</L>
+<L>Yet fallen so as it it selfe may reare,</L>
+<L>If <HI>Caesars</HI> wrath would once more mild appeare:</L>
+<L>Whose mercy in my sentence was exprest,</L>
+<L><GAP DESC="illegible" EXTENT="1 letter">a<GAP DESC="illegible" EXTENT="2 letters">e short of that my feare did first suggest.</L>
+<L>Whose anger reacht not to this life of ours,</L>
+<L>But with great mildnesse us'd thy Princely powers:</L>
+<L>And thou my forfeit goods to me didst give,</L>
+<L>And with my life didst grant me meanes to live.</L>
+<L>Nor by the Senates sentence was I sent,</L>
+<L>Or private judgement into banishment:</L>
+<L>But didst thy selfe pronounce those heavy words,</L>
+<L>Whose execution full revenge affords.</L>
+<L>Besides, thy edict forcing my exile,</L>
+<L><GAP DESC="illegible" EXTENT="1 letter">id with great favour my late fault enstile:</L>
+<L>Whereby I am not banisht, but confind,</L>
+<L>And misery is in gentle words assignd.</L>
+<L>For there's no punishment though ne're so strickt,</L>
+<L>Can more than thy displeasure me afflict.</L>
+<L>Yet sometimes angry gods appeased are,</L>
+<L>And when the clouds are gon, the day is faire.</L>
+<L>I have seene the Ealme loaden with Vines againe,</L>
+<L>That had before beene strooken by <HI>Ioves</HI> flame.</L>
+<L>Therefore Ile hope, since thou canst not deny,</L>
+<L>To grant me this even in my misery.</L>
+<L>Thy mercy makes me hope, till I reflect</L>
+<L>Vpon my fault which doth all hope reject.</L>
+<L>And as the rage of seas by winds incens'd,</L>
+<L>Is not with equall fury still commenc'd:</L>
+<L>But that sometimes a quiet calme it hath,</L>
+<L>And seemes to have laid by his former wrath:</L>
+<L>Even so my various thoughts doe make me fare,</L>
+<L>Now calm'd by hope, then troubled with despaire.</L>
+<L><PB REF="12">By those same gods that grant thee long to raigne,</L>
+<L>That thou mayst still maintaine the Roman<GAP DESC="illegible" EXTENT="1 letter"> name:</L>
+<L>And by thy Countrey happy in thy fate,</L>
+<L>Where I a subject were of thine of late:</L>
+<L>May so the City render thee due love,</L>
+<L>For thy great acts which do thy mind approve.</L>
+<L>So may thy <HI>Livia</HI> live here many yeares,</L>
+<L>Who onely worthy of thy love appeares:</L>
+<L>Whom nature kept for thee, else there had beene,</L>
+<L>None worthy to have beene thy Royall Queene.</L>
+<L>So may thy Sonne grow up, and with his Father,</L>
+<L>Rule this same Empire happily together.</L>
+<L>And by his acts and thine which time can't hide,</L>
+<L>May both your ofsprings so be stellified.</L>
+<L>May victory so accustom'd to thy Tent,</L>
+<L>Come to his colours, and herselfe present:</L>
+<L>And fly about him with displayed wings,</L>
+<L>While she a Lawrell wreath to crowne him brings.</L>
+<L>To whom thou dost thy warres command resigne,</L>
+<L>And givest him that fortune that was thine:</L>
+<L>While thou thy selfe at home in peace dost raigne,</L>
+<L>Thy other selfe doth forraine warres maintaine.</L>
+<L>May he returne a victor o're his foe,</L>
+<L>And on his plumed horse in tryumph goe.</L>
+<L>Oh spare me therefore, and do now lay by,</L>
+<L>Thy thunder which hath bred my misery.</L>
+<L>Spare me thou <HI>Pater patriae,</HI> let that name,</L>
+<L>Give me some hope to please thee once againe.</L>
+<L>I sue not to repeale my banishment,</L>
+<L>Though unto greater sutes the gods assent.</L>
+<L>For if thou wouldst some milder place assigne</L>
+<L>Of exile, it would ease this griefe of minde.</L>
+<L>For here I suffer even the worst of woes,</L>
+<L>While I do live amongst the barbarous foes:</L>
+<L>Being sent unto <HI>Danubius</HI> sevenfold streame,</L>
+<L><PB REF="13">Of vices knowledge she may learne the skill.</L>
+<L>Let her the Annales take (though most severe)</L>
+<L>The fault of <HI>Ilia</HI> will thereby appeare.</L>
+<L>And in the Aeneads reade as in the other,</L>
+<L>How wanton <HI>Venus</HI> was <HI>Aeneas</HI> mother.</L>
+<L>And I will shew beneath in every kind,</L>
+<L>That there's no verse but may corrupt the mind.</L>
+<L>Yet every booke is not for this to blame,</L>
+<L>Since nothing profits, but may hurt againe.</L>
+<L>Than fire what better? yet he that doth desire,</L>
+<L>To burne a house, doth arme himselfe with fire.</L>
+<L>Health giving physicke, health doth oft empaire,</L>
+<L>Some hearbs are wholesome, and some poyson are.</L>
+<L>The theefe and traveller swords weare, to the end,</L>
+<L>Th'one may assault, the other may defend.</L>
+<L>Though eloquence should pleade the honest cause,</L>
+<L>It may defend the guilty by the lawes.</L>
+<L>So if my verse be read with a good mind,</L>
+<L>Thou shalt be sure in it no hurt to finde.</L>
+<L>He therefore erres who led by selfe conceit,</L>
+<L>Doth misinterpret what so e're I write,</L>
+<L>Why are there Cloisters? wherein maids do walke,</L>
+<L>That with their Lovers they may meete and talke.</L>
+<L>The Temple though most sacred, let her shunne,</L>
+<L>That with an evill mind doth thither come.</L>
+<L>For in <HI>Ioves</HI> temple her thoughts will suggest,</L>
+<L>How many maids by <HI>Iove</HI> have beene opprest:</L>
+<L>And thinke in <HI>Iunoe's</HI> temples when she's praying,</L>
+<L>How <HI>Iuno</HI> injur'd was by <HI>Ioves</HI> oft straying,</L>
+<L>And <HI>Pallas</HI> seene, she thinkes some faulty birth,</L>
+<L>Made her to hide <HI>Ericthon</HI> borne of earth:</L>
+<L>If she come to <HI>Marses</HI> temple, o're the gate,</L>
+<L>There standeth <HI>Venus</HI> with her cunning Mate.</L>
+<L>In <HI>Isis</HI> temple she revolveth how,</L>
+<L><PB REF="13">Poore <HI>Io</HI> was transform'd into a Cow.</L>
+<L>And something then her wandring fancy moves,</L>
+<L>To thinke of <HI>Venus</HI> and <HI>Anchises</HI> loves.</L>
+<L><HI>Iasus</HI> and <HI>Ceres</HI> next her thoughts encite,</L>
+<L>And pale <HI>Endimion</HI> the Moones favorite:</L>
+<L>For though these statues were for prayer assign'd,</L>
+<L>Yet every thing corrupts an evill mind:</L>
+<L>And my first leafe bids them not to reade that Art,</L>
+<L>Which I to Harlots onely did impart.</L>
+<L>And since in maydens it is thought a crime,</L>
+<L>For to presse farther than the Priests assigne:</L>
+<L>Is she not faulty then, who not forbeares</L>
+<L>To reade my verses, prohibited chast eares?</L>
+<L>Matrons to view those pictures are content,</L>
+<L>Which various shapes of venery present:</L>
+<L>And Vestall Virgins do peruse the same,</L>
+<L>For which the Author doth receive no blame.</L>
+<L>Yet why did I that wanton veine approve?</L>
+<L>Why doth my Booke perswade them unto love?</L>
+<L>It was my fault which I do here confesse,</L>
+<L>My wit and judgement did therein transgresse.</L>
+<L>Why did not I of <HI>Troyes</HI> sad ruine tell,</L>
+<L>(That vexed theame) which by the <HI>Graecians</HI> fell.</L>
+<L>Or <HI>Thebes</HI> seven Gates which severally kept,</L>
+<L>Where by mutuall wounds those brothers dye and slept.</L>
+<L>An ample subject warlike <HI>Rome</HI> afforded,</L>
+<L>Whose acts I might have piously recorded.</L>
+<L>And though great <HI>Caesars</HI> deeds abroad are knowne,</L>
+<L>Yet by my verse some part I might have showne:</L>
+<L>For as the Sunnes bright rayes do draw the sight,</L>
+<L>So might thy acts my willing Muse encite.</L>
+<L>Yet 'twas no fault to plough a little field,</L>
+<L>Knowing that theame doth fertile matter yeeld.</L>
+<L>For though the Cock-boate through the Lake do rowe.</L>
+<L><PB REF="14">Whose treacherous Hostesse sought his life in vaine.</L>
+<L>What of <HI>Hermione</HI> or the <HI>Arcadian</HI> maid,</L>
+<L><HI>Phoebe</HI> whose course the <HI>Latmian</HI> Lover staid.</L>
+<L>Or what of <HI>Danae,</HI> by <HI>Iove</HI> a mother growne,</L>
+<L>And <HI>Hercules</HI> got in two nights joynd in one.</L>
+<L>To these adde <HI>Iole, Pyrrhus,</HI> and that boy,</L>
+<L>Sweete <HI>Hylas,</HI> with <HI>Paris,</HI> firebrand unto <HI>Troy.</HI></L>
+<L>And should I here recite loves tragicke flames,</L>
+<L>My booke would scarce containe their very names.</L>
+<L>Thus Tragedies to wanton laughter bend,</L>
+<L>And many shamefull words in them they blend.</L>
+<L>Some blamelesse have <HI>Achilles</HI> acts defac't,</L>
+<L>And by soft measures have his deeds disgrac't.</L>
+<L>Though <HI>Aristides</HI> his owne faults compil'd,</L>
+<L>Yet <HI>Aristides</HI> was not straight exil'd.</L>
+<L><HI>Eubius</HI> did write an impure history,</L>
+<L>And does describe unwholesome venerie:</L>
+<L>Nor he that Sybarin luxuries composed,</L>
+<L>Nor he that his owne sinfull acts disclosed.</L>
+<L>These in the libraries by some bounteous hand,</L>
+<L>To publike use doe there devoted stand.</L>
+<L>By strangers pens I neede not seeke defence,</L>
+<L>Our owne bookes with such liberty dispence:</L>
+<L>For though grave <HI>Ennius</HI> of warres tumults writ,</L>
+<L>Whose artlesse workes doe shew an able wit:</L>
+<L>The cause of fire <HI>Lucretius</HI> doth explaine,</L>
+<L>And how three causes did this world frame:</L>
+<L>Wanton <HI>Catullus</HI> yet his Muse did taske,</L>
+<L>To praise his mistris, whom he then did maske.</L>
+<L>Vnder the name of <HI>Lesbia,</HI> and so strove,</L>
+<L>In verse to publish his owne wanton love.</L>
+<L>And with like licence <HI>Calvus</HI> too assaies,</L>
+<L>For to set forth his pleasure divers wayes,</L>
+<L>Why should I mention <HI>Memn<GAP DESC="illegible" EXTENT="1 letter">as</HI> wanton vaine?</L>
+<L><PB REF="14">Who to each filthy act doth give a name;</L>
+<L>And <HI>Cinna</HI> striving by his verse to please:</L>
+<L><HI>Cornificus</HI> may be well rankt with these,</L>
+<L>And he that did commend to after fame,</L>
+<L>His love disguised by <HI>Metellus</HI> name.</L>
+<L>And he that sailed for the Fleece of gold,</L>
+<L>His secret thefts of love doth oft unfold.</L>
+<L><HI>Hortensius</HI> too, and <HI>Servius</HI> writ as bad,</L>
+<L>Who'd thinke my fault so great examples had?</L>
+<L><HI>Sisenna, Aristides</HI> workes translates,</L>
+<L>And oft in wanton jests expatiates.</L>
+<L>For praising <HI>Lycoris</HI> none doth <HI>Gallus</HI> blame,</L>
+<L>If that hls tongue in wine he could containe.</L>
+<L><HI>Tibullus</HI> writes that womens oathes are wind,</L>
+<L>Who can with outward shewes their husbands blind.</L>
+<L>Teaching them how their keepers to beguile,</L>
+<L>While he himselfe is cosen'd by that wile.</L>
+<L>That he would take occasion for to try</L>
+<L>Her ring, that he might touch her hand thereby.</L>
+<L>By private tokens he would talke sometime,</L>
+<L>And on the table draw a wanton signe:</L>
+<L>Teaching what oyles that blewnesse shall expell,</L>
+<L>Which by much kissing on their lips doth dwell.</L>
+<L>And unto husbands does strickt rules commend,</L>
+<L>If they be honest, wives will not offend.</L>
+<L>And when the dog doth barke, to know before,</L>
+<L>That 'tis their Lover that stands at the doore.</L>
+<L>And many notes of love-thefts he doth leave,</L>
+<L>And teacheth wives their husbands to deceave.</L>
+<L>Yet is <HI>Tibullus</HI> read and famous growne,</L>
+<L>And unto thee (great <HI>Caesar</HI>) he was knowne.</L>
+<L>And though <HI>Propertius</HI> did like precepts give,</L>
+<L>Yet his cleere fame doth still unstained live.</L>
+<L>To these did I succeede, for Ile suppresse,</L>
+<L><PB REF="15">Than where he brings him to Queene <HI>Dido's</HI> bed.</L>
+<L>Yet in his youth he did commend faire <HI>Phillis,</HI></L>
+<L>And sports himselfe in praising <HI>Amorillis.</HI></L>
+<L>And though I formerly in that same vaine</L>
+<L>Offended, yet I now do beare the blame.</L>
+<L>I had writ verses, when before thee I,</L>
+<L>Amongst the other horsemen passed by:</L>
+<L>And now my age doth even beare the blame,</L>
+<L>Of those things which my younger yeeres did frame.</L>
+<L>My faulty bookes are now reveng'd at last,</L>
+<L>And I am punisht for a fault that's past.</L>
+<L>Yet all my workes are not so light and vaine,</L>
+<L>Sometimes I lanch'd into the deeper maine.</L>
+<L>And in six bookes <HI>Romes</HI> Holydayes have shew'd,</L>
+<L>Where with the Month each Volumne doth conclude.</L>
+<L>And to thy sacred name did dedicate</L>
+<L>That worke, though left unperfect by my fate.</L>
+<L>Besides, I stately Tragedies have writ,</L>
+<L>And with high words the Tragicke stile did fit.</L>
+<L>Besides, of changed shapes my Muse did chant,</L>
+<L>Though they my last life-giving hand did want.</L>
+<L>And would thy anger were but so appeas'd,</L>
+<L>As that to reade my verse thou wouldst be pleas'd:</L>
+<L>My verse, where from the infant birth of things,</L>
+<L>My Muse her worke unto thy owne time brings.</L>
+<L>Thou shouldst behold the strength of every line,</L>
+<L>Wherein I strive to praise both thee and thine.</L>
+<L>Nor are my verses mingled so with gall,</L>
+<L>As that my lines should be Satyricall.</L>
+<L>Amongst the vulgar people none yet found,</L>
+<L>Themselves once toucht; my Muse my selfe doth wound,</L>
+<L>Therefore each generous mind I do beleeve,</L>
+<L>Will not rejoyce, but at my ill fate grieve:</L>
+<L>No<GAP DESC="illegible" EXTENT="1 letter"> yet will triumph o're my wretched state,</L>
+<L><PB REF="15">Who ne're was proud even in my better fate.</L>
+<L>O therefore let these reasons change thy minde,</L>
+<L>That in distresse I may thy favour finde:</L>
+<L>Not to returne, though that perhaps may be,</L>
+<L>When thou in time at last maist pardon me.</L>
+<L>But I intreat thee to remove me hence,</L>
+<L>To safer exile fitting my offence.</L>
+</DIV1>
+<DIV1 N="3" TYPE="book">
+<HEAD>LIB. III.</HEAD>
+<ARGUMENT>
+<L>The Booke doth to the Reader shew,</L>
+<L>That he is loath to come to view:</L>
+<L>And tells how he was entertaind</L>
+<L>By some, while others him disdaind.</L>
+</ARGUMENT>
+<LG>
+<L>I Am that Booke who fearefully doe come,</L>
+<L>Even from a banisht man to visit Rome:</L>
+<L>And comming weary from a forraigne land,</L>
+<L>Good Reader let me rest within thy hand.</L>
+<L>Doe not thou feare or be asham'd of me,</L>
+<L>Since no love verses in this paper be.</L>
+<L>My master now by fortune is opprest,</L>
+<L>It is no time for him to write in jest.</L>
+<L>Though in his youth he had a wanton vaine,</L>
+<L>Yet now he doth condemne that worke againe.</L>
+<L>Behold! here's nothing but sad mourning lines,</L>
+<L>So that my verse agreeth with his times.</L>
+<L>And that my second verse is lame in strength,</L>
+<L>Short feet do cause it, or the journeys length.</L>
+<L>Nor are my rough leaves cover'd o're with yellow,</L>
+<L>For I my Authors fortune meane to follow.</L>
+</LG>
+<DIV2 N="2" TYPE="elegy">
+<PB REF="16">
+<ARGUMENT>
+<LG>
+<L>In Swan-like Tunes he doth deplore</L>
+<L>His exile, and knocks at the dore</L>
+<L>Of Death, desiring hasty fate,</L>
+<L>His wretched life would terminate.</L>
+</LG>
+</ARGUMENT>
+<HEAD>ELEGIE II.</HEAD>
+<LG>
+<L>WAs it my fate that I should <HI>Scythia</HI> see,</L>
+<L>And the land whose Zenith is the Axeltree?</L>
+<L>And would not you sweet Muses nor <HI>Apollo,</HI></L>
+<L>Helpe me, who did your holy rites still follow?</L>
+<L>Could not my harmelesse verses me excuse,</L>
+<L>And life more serious than my jesting Muse?</L>
+<L>But that I must when I the seas had past,</L>
+<L>Vnto the Ponticke land be brought at last.</L>
+<L>And I that still my selfe from care withdrew,</L>
+<L>Loving soft ease, and no rough labour knew:</L>
+<L>Having past great dangers both by sea and land,</L>
+<L>Here worst of miseries is by me sustain'd.</L>
+<L>Yet I endure these evils, for I find,</L>
+<L>My body doth receive strength from my mind</L>
+<L>And in my passage to my sad exile,</L>
+<L>I with my study did my cares beguise.</L>
+<L>But when I did my journeys end attaine,</L>
+<L>And that unto the hated shore I came.</L>
+<L>Then from mine eyes a showre of teares did flow,</L>
+<L>Like water running from the melted snow.</L>
+<L>And then my house and <HI>Rome</HI> comes in my mind,</L>
+<L>And every thing that I had left behind.</L>
+<L>A <GAP DESC="illegible" EXTENT="2 letters">tle that I should knocke still at the Grave,</L>
+<L>To be let in, yet can no entrance have.</L>
+<L><PB REF="16">Why have I still escaped from the sword,</L>
+<L>Could not the Sea to me a death afford?</L>
+<L>You gods who constant are in your just ire,</L>
+<L>And doe with <HI>Caesar</HI> in revenge conspire,</L>
+<L>I do beseech you hasten on my fate,</L>
+<L>And bid death open unto me the gate.</L>
+</LG>
+</DIV2>
+<DIV2 N="3" TYPE="elegy">
+<ARGUMENT>
+<LG>
+<L>He lets his wife here understand,</L>
+<L>Of his sicknesse in a forraine land:</L>
+<L>Then writes his Epitaph, with intent,</L>
+<L>To make his bookes his monument.</L>
+</LG>
+</ARGUMENT>
+<HEAD>ELEGIE III.</HEAD>
+<LG>
+<L>THat this my Letter by a strangers hand</L>
+<L>Is writ, the cause my sicknesse understand.</L>
+<L>For in the worlds farthest part I lye,</L>
+<L>Sicke and uncertaine of recovery.</L>
+<L>What comfort can within that climate shine,</L>
+<L>On which the Getes and Sauramats confine?</L>
+<L>My nature does not with the soyle agree,</L>
+<L>The ayre and water do seeme strange to me.</L>
+<L>My shelter poore, my dyet here is bad,</L>
+<L>No health-restoring Physicke can be had.</L>
+<L>No friend to comfort me, who will assay,</L>
+<L>With some discourse to passe the time away.</L>
+<L>But here upon my bed of sicknesse cast,</L>
+<L>I thinke of many things which now are past.</L>
+<L>And thou my dearest wife above the rest,</L>
+<L>Dost hold the chiefest place within my brest:</L>
+<L>Thy absent name is mentioned still by me,</L>
+<L>And every day and night I thinke on thee.</L>
+<L><PB REF="17">Sometimes I speake things without sence or wit,</L>
+<L>That I may name thee in my franticke fit.</L>
+<L>If I should swound, and that no heating wine,</L>
+<L>Could give life to this faultring tongue of mine:</L>
+<L>To heare of thy approach would make me live,</L>
+<L>Thy very presence would new vigor give.</L>
+<L>Thus I most doubtfull of my life am growne,</L>
+<L>But thou perhaps livst merrily at home.</L>
+<L>No, I dare say, that thou my deerest wife,</L>
+<L>Dost in my absence leade a mourning life.</L>
+<L>Yet if the number of my yeares be done,</L>
+<L>And that my hasty thred of life is spun:</L>
+<L>You gods you might with ease have let me have,</L>
+<L>Within my native land a happy grave.</L>
+<L>If that you would have let my death prevent</L>
+<L>My fatall journey unto banishment;</L>
+<L>Then had I dy'd in my integrity,</L>
+<L>But now I here a banisht man must dye.</L>
+<L>And shall I here resigne my weary breath,</L>
+<L>The place makes me unhappy in my death.</L>
+<L>Vpon my bed I shall not fall asleepe,</L>
+<L>And none upon my coffin here shall weepe.</L>
+<L>Nor shall my wives teares while that they do fall</L>
+<L>Vpon my face, me unto life recall.</L>
+<L>I shall not make my will, nor with sad cryes,</L>
+<L>No friendly hand shall close my dying eyes.</L>
+<L>Without a Tombe or Funerall I shall be,</L>
+<L>While as the barbarous earth doth cover me.</L>
+<L>Which when thou hearst, be not with griefe opprest,</L>
+<L>Nor do not thou for sorrow beate thy brest.</L>
+<L>Why shouldst thou wring thy tender hands in vaine,</L>
+<L>Or call upon thy wretched husbands name?</L>
+<L>Te<GAP DESC="illegible" EXTENT="2 letters"> not thy cheekes, nor cut thy haire for mee,</L>
+<L>For I am not (good wife) now tooke from thee.</L>
+<L><PB REF="17">When I was banisht then I dy'd, alasse,</L>
+<L>For banishment than death more heavy was.</L>
+<L>Now I would have thee to rejoyce (good wife)</L>
+<L>Since all my griefe is ended with my life.</L>
+<L>And beare thy sorrowes with a valiant heart:</L>
+<L>Mishaps have taught thee how to play thy part.</L>
+<L>And with my body may my soule expire,</L>
+<L>That so no part may scape the greedy fire.</L>
+<L>For if to <HI>Pythagoras</HI> we may credit give,</L>
+<L>Who saith the soule eternally doth live:</L>
+<L>My soule mongst the Sarmatick shades shall stray,</L>
+<L>And to the cruell ghosts ne're find the way.</L>
+<L>Yet let my ashes be put in an Vrne,</L>
+<L>So being dead I shall againe returne.</L>
+<L>This lawfull is, the <HI>Theban</HI> being dead,</L>
+<L>His loving sister saw him buried,</L>
+<L>And let sweet powders round my bones be laid,</L>
+<L>And so unto some secret place convai'd:</L>
+<L>Graving these verses on a Marble stone,</L>
+<L>In letters to be read by every one.</L>
+<L>"I <HI>Ovid</HI> that did write of wanton love,</L>
+<L>"Lye here, my verse my overthrow did prove.</L>
+<L>"Thou that hast beene in love and passest by&punc;</L>
+<L>"Pray still that <HI>Ovids</HI> bones may softly lye.</L>
+<L>This Epitaph shall suffice, since my bookes be,</L>
+<L>A farre more lasting monument to me.</L>
+<L>Which though they hurt me, yet shall raise my name,</L>
+<L>And give their Author everlasting fame.</L>
+<L>Yet let thy love in funerall guifts be shew'd,</L>
+<L>And bring sweete Garlands with thy teares be dew'd.</L>
+<L>Those ashes which the funerall fire shall leave,</L>
+<L>Will in their Vrne thy pious love perceive.</L>
+<L>More would I write, but that my voyce is spent,</L>
+<L>Nor can my dry tongue speake what I invent.</L>
+<L><PB REF="18">Then take my last words to thee; live in health.</L>
+<L>Which though I send to thee, I want my selfe.</L>
+</LG>
+</DIV2>
+<DIV2 N="4" TYPE="elegy">
+<ARGUMENT>
+<LG>
+<L>Ovid doth his friend advise,</L>
+<L>A life of greatnesse to despise:</L>
+<L>Since thunder doth the hill assaile,</L>
+<L>While quiet peace lives in the vale.</L>
+</LG>
+</ARGUMENT>
+<HEAD>ELEGIE IIII.</HEAD>
+<LG>
+<L>MY alwayes dearest friend, but then most knowne,</L>
+<L>When I by adverse fortune was orethrowne:</L>
+<L>If thou wilt take the counsell of a friend,</L>
+<L>Live to thy selfe, doe not too high ascend.</L>
+<L>Since thunder from the highest tower doth come;</L>
+<L>Live to thy selffe and glittering titles shunne.</L>
+<L>For though the beames of greatnesse may us warme,</L>
+<L>Yet greatest men have greatest power to harme.</L>
+<L>The naked sayle-yard feares no stormes at all,</L>
+<L>And greatest Sayles more dangerous are than small:</L>
+<L>The floting corke upon the waves doth swimme,</L>
+<L>While heavy Lead doth sinke the Net therein.</L>
+<L>Of these things had some friend admonisht me,</L>
+<L>Perhaps I had beene still at <HI>Rome</HI> with thee.</L>
+<L>While as a gentle wind did drive me on,</L>
+<L>My boate through quiet streames did run along.</L>
+<L>Hee that by chance doth fall upon the plaine,</L>
+<L>He falleth so that he may rise againe.</L>
+<L>But when <HI>Elpenor</HI> from a high house fell,</L>
+<L>His ghost went downe to <HI>Pluto</HI> king of hell.</L>
+<L>Though <HI>Dedalus</HI> his wings did him sustaine,</L>
+<L><GAP DESC="illegible" EXTENT="1+ words"><HI>Icarus</HI> gave the sea his name;</L>
+<L><PB REF="18">Because that he flew high, the other low,</L>
+<L>While both of them their wings abroad did throw:</L>
+<L>The man that unto sollitude is bent,</L>
+<L>Doth live most happy if he be content.</L>
+<L><HI>Eumenes</HI> of his sonne was not deprived,</L>
+<L>Vntill that he <HI>Achilles</HI> horses guided:</L>
+<L>And <HI>Phaethon</HI> had not dyed in the flame,</L>
+<L>If that his father could his will restraine.</L>
+<L>Then feare thou still to take the higher way,</L>
+<L>And in thy course draw in thy sayles I pray.</L>
+<L>Thou worthy art to live most fortunate,</L>
+<L>And to enjoy a candide happy fate.</L>
+<L>Thy gentle love deserves these prayers of mine,</L>
+<L>Since thou didst cleave to me in every time:</L>
+<L>I saw how that thy griefe for me was showne,</L>
+<L>Even in thy lookes most like unto my owne.</L>
+<L>I saw thy teares which on my face did fall,</L>
+<L>And with my teares I drunke thy words withall.</L>
+<L>Now to thy absent friend thou yeeld'st releefe,</L>
+<L>Thereby to lighten this my heavy greefe:</L>
+<L>Live thou unenvy'd, honour crowne thy end,</L>
+<L>For thou art worthy of a noble friend.</L>
+<L>And love thy <HI>Ovids</HI> name which cannot be,</L>
+<L>Banisht though <HI>Scythis</HI> now containeth me:</L>
+<L>For me a land neare to the Beare doth hold,</L>
+<L>Whereas the earth is frozen up with cold.</L>
+<L>Heere <HI>Bosphorus</HI> and <HI>Tanais</HI> doe remaine,</L>
+<L>And places which have scarcely any name.</L>
+<L>Vnhabitable cold doth dwell beyond,</L>
+<L>For I am neare unto the farthest land.</L>
+<L>My countrey and my wife are absent farre,</L>
+<L>And with them two all things that dearest are.</L>
+<L>Yet though with them I cannot present be,</L>
+<L>Within my fancie I their shape doe see.</L>
+<L><PB REF="19">My house, the City stand before my eyes,</L>
+<L>And all my actions in their place do rise.</L>
+<L>My wives deere Image doth it selfe present,</L>
+<L>Which doth encrease and lighten discontent.</L>
+<L>Her absence grieveth me, but then againe,</L>
+<L>My comfort is, she constant doth remaine.</L>
+<L>And you my friends do cleave unto my brest,</L>
+<L>Whose names I wish by me might be exprest.</L>
+<L>But wary feare doth my desire restraine,</L>
+<L>And you I thinke do even wish the same.</L>
+<L>For though that heretofore you pleased were,</L>
+<L>When as your names did in my verse appeare:</L>
+<L>Yet now Ile talke with you within my brest,</L>
+<L>Nor shall your feares by my verse be encreast.</L>
+<L>Nor shall my verse disclose a secret friend,</L>
+<L>Love secretly, and love me to the end:</L>
+<L>And know though we by absence be disjoynd,</L>
+<L>Yet you are alwayes present in my mind.</L>
+<L>Then strive to ease those griefes which I sustaine,</L>
+<L>And lend your hand to helpe me up againe.</L>
+<L>So may your fortune prosperous remaine,</L>
+<L>And never have just cause to aske the same.</L>
+</LG>
+</DIV2>
+<DIV2 N="5" TYPE="elegy">
+<ARGUMENT>
+<LG>
+<L>By a fained name he doth commend.</L>
+<L>One <HI>C<GAP DESC="illegible" EXTENT="1 letter">rus</HI> that had beene his friend:</L>
+<L>And then doth mittigate his fault,</L>
+<L><GAP DESC="illegible" EXTENT="1 word"> error him to ruine brought.</L>
+</LG>
+</ARGUMENT>
+<HEAD>ELEGIE V.</HEAD>
+<LG>
+<L>MY use of friendship with thee was but small,</L>
+<L>And if thou wilt, thou maist say none at all:</L>
+<L><PB REF="19">But that thy love most faithfull I did finde,</L>
+<L>When as my ship sayl'd with a prosperous winde.</L>
+<L>When once I fell, then all did shun my wracke,</L>
+<L>And all my friends on me did turne their backe.</L>
+<L>Yet thou when I was strooken with <HI>Ioves</HI> flame,</L>
+<L>Didst visite me and to my house then came:</L>
+<L>And in thy fresh acquaintance thou didst show,</L>
+<L>More love than all my ancient friends would doe.</L>
+<L>I saw thy amazed countnance at that time,</L>
+<L>Thy face be dewed with teares more pale than mine.</L>
+<L>And seeing teares to fall at each word, my eares</L>
+<L>Did drinke thy words, my mouth did drinke thy teares:</L>
+<L>Thou didst embrace my necke, and then betwixt</L>
+<L>Some loving kisses with thy sighes were mixt.</L>
+<L>Now absent thou defendest mo againe,</L>
+<L>Thou knowest that <HI>Carus</HI> is a fained name:</L>
+<L>And many tokens of thy love appeare,</L>
+<L>Which I in memory will ever beare.</L>
+<L>The gods still make thee able to defend</L>
+<L>Thy friends unto a farre more happy end.</L>
+<L>To know how I doe live if thou require,</L>
+<L>As it is likely that thou dost desire:</L>
+<L>I have some hope, which do not take from me,</L>
+<L>That those offended powers will pleased be.</L>
+<L>Which being vaine, or if it may befall,</L>
+<L>Do thou allow my hope though it be small.</L>
+<L>Bestow thy eloquence upon that theame,</L>
+<L>To shew it may fall out as I do meane.</L>
+<L>The greatest men are placeable in wrath,</L>
+<L>A generous mind a gentle anger hath.</L>
+<L>When Beasts unto the Lyon prostrate lye,</L>
+<L>He ends the combat with his enemy.</L>
+<L>But Wolves and Beares their yeelding foes do kill,</L>
+<L>And the inferior beasts are cruell still.</L>
+<L><PB REF="20">Who like <HI>Achilles</HI>? yet even he appeares,</L>
+<L>To be much mov'd with <HI>Dardanus</HI> sad teares.</L>
+<L><HI>Emathions</HI> clemency is best declar'd,</L>
+<L>Even by those funerall rites which he prepar'd.</L>
+<L>And that I may not mans calm'd anger show,</L>
+<L>Even <HI>Iuno's</HI> sonne in law was once her foe.</L>
+<L>Lastly, I needs must hope, since at this time,</L>
+<L>I am not punisht for a haynous cryme.</L>
+<L>I did not plot against great <HI>Caesars</HI> life,</L>
+<L>To ruine him by sowing civill strife:</L>
+<L>I never yet did rayle against the time,</L>
+<L>Or spake against him in my cups of wine:</L>
+<L>But am punisht for beholding of a fault,</L>
+<L>Which I through ignorance beheld, unsought.</L>
+<L>Yet all my fault I cannot well defend,</L>
+<L>Though in part thereof I did no ill intend.</L>
+<L>So that I hope that he will pleased be,</L>
+<L>To grant an easier banishment to me.</L>
+<L>I wish the morning starre that brings the day,</L>
+<L>Would bring this newes and quickly post away.</L>
+</LG>
+</DIV2>
+<DIV2 N="6" TYPE="elegy">
+<ARGUMENT>
+<LG>
+<L>His friends fidelity he doth praise,</L>
+<L>And to excuse himselfe assayes:</L>
+<L>Desiring if he have any grace</L>
+<L>At <HI>Rome,</HI> to use it in his case.</L>
+</LG>
+</ARGUMENT>
+<HEAD>ELEGIE VI.</HEAD>
+<LG>
+<L>O<GAP DESC="illegible" EXTENT="1 span"> of friendship thou wilt not conceale,</L>
+<L>Or if thou wouldst, it would it selfe reveale.</L>
+<L>For while we might, none was more deare to me,</L>
+<L>And I do know I was belov'd of thee.</L>
+<L><PB REF="20">And this our love was to the people knowne,</L>
+<L>So that our love more than our selves was knowne:</L>
+<L>The candor of thy minde is easily seene,</L>
+<L>Of him who for thy friend thou dost esteeme.</L>
+<L>Thou nothing from my knowledge didst conceale,</L>
+<L>And I my secrets did to thee reveale:</L>
+<L>For all my heart and secrets thou didst know,</L>
+<L>Except that which wrought my overthrow.</L>
+<L>Which hadst thou knowne, thou wouldst have counseld me</L>
+<L>So well that I should never banisht be.</L>
+<L>But 'twas my fate drew on my punishment,</L>
+<L>And crossed me in any good intent.</L>
+<L>Yet whether that I might this evill shunne,</L>
+<L>And reason cannot fortune overcome:</L>
+<L>Yet thou to me my old acquaintance art,</L>
+<L>And of my love thou holdst the greatest part.</L>
+<L>Be mindfull then, and if thou gracious be</L>
+<L>At Court, then try what thou canst do for me.</L>
+<L>That <HI>Caesar</HI> being unto mildnesse bent,</L>
+<L>May change the place of my sad punishment:</L>
+<L>Even as I did no wickednesse devise,</L>
+<L>Since that my fault from error did arise.</L>
+<L>It would be tedious, nor safe to unfold,</L>
+<L>By what chance these eyes did that act behold.</L>
+<L>Such shamefull deeds as do the eare affright,</L>
+<L>Should be concealed in eternall night.</L>
+<L>I must confesse therefore my former fault,</L>
+<L>Yet no reward by my offence I sought:</L>
+<L>And for my fault I may my folly blame,</L>
+<L>If to my fault thou wilt give a true name,</L>
+<L>If this be false, then further banish me,</L>
+<L>These places like unto <HI>Romes</HI> Suburbs be.</L>
+</LG>
+</DIV2>
+<DIV2 N="8" TYPE="elegy">
+<PB REF="21">
+<ARGUMENT>
+<LG>
+<L>The Letter here he doth command,</L>
+<L>To fly unto Perhillas hand:</L>
+<L>And sheweth that the Muses give</L>
+<L>Immortall fame which still shall live.</L>
+</LG>
+</ARGUMENT>
+<HEAD>ELEGIE VIII.</HEAD>
+<LG>
+<L>GOe thou my letter being writ so fast,</L>
+<L>And to salute <HI>Perhilla</HI> make thou hast:</L>
+<L>To sit hard by her mother shee still uses,</L>
+<L>Or else to be amongst her bookes and Muses:</L>
+<L>What ere shee does, when shee knowes thou art come,</L>
+<L>Sheele aske thee how I doe that am undone?</L>
+<L>Tell her I live, but wish I did not so,</L>
+<L>Since length of time can never ease my woe.</L>
+<L>Yet to my Muse I now returned am,</L>
+<L>Making my words in verse to flow againe:</L>
+<L>And aske her why shee doth her minde apply,</L>
+<L>To common studdies not sweet Poesy.</L>
+<L>Since nature first did make thee chaste and faire,</L>
+<L>Giving thee wit with other things most rare.</L>
+<L>I first to thee the Muses spring did show,</L>
+<L>Least that sweet water should at waste stil flow.</L>
+<L>For in thy virgin yeares thy wit I spy'd,</L>
+<L>And was as 'twere thy father and thy guide.</L>
+<L>Then if those fires still in thy brest doe dwell,</L>
+<L>There's none but <HI>Lesbia</HI> that can thee excell:</L>
+<L>But I doe feare that since I am orethrowne,</L>
+<L>That now thy brest is dull and heavy growne:</L>
+<L>For while we might we both did reade our lines,</L>
+<L>I was thy judge and master oftentimes.</L>
+<L><PB REF="21">And to thy verse I an eare would lend,</L>
+<L>And make thee blush, when thou didst make an end.</L>
+<L>And yet perhaps it may be thou dost shunne,</L>
+<L>All bookes because my ruine thence did come:</L>
+<L>Feare not <HI>Perhilla,</HI> but all feare remove,</L>
+<L>So that thy writings doe not teach to love:</L>
+<L>Then learned maide no cause of sloath still frame,</L>
+<L>But to thy sacred art returne againe.</L>
+<L>That comely face will soone be spoild with yeares,</L>
+<L>While aged wrinckles in thy brow appeares.</L>
+<L>Old age will lay hold on thy outward grace,</L>
+<L>Which commeth on still with a silent pace.</L>
+<L>To have beene faire it will a griefe then be,</L>
+<L>And thou wilt thinke thy glasse doth flatter thee.</L>
+<L>Thy wealth is small, though thou deservest more,</L>
+<L>But yet suppose thou hadst of wealth great store:</L>
+<L>Yet fortune when shee lists doth give and take,</L>
+<L>And of rich <HI>Craesus</HI> she can <HI>I<GAP DESC="illegible" EXTENT="1 letter">us</HI> make.</L>
+<L>All things are subject to mortality,</L>
+<L>Except the minde and ingenuity.</L>
+<L>For though I want my countrey, friends, and home,</L>
+<L>And all things tooke from me that could be gon:</L>
+<L>Yet still my Muses doe with me remaine,</L>
+<L>And <HI>Caesar</HI> cannot take away my vaine:</L>
+<L>Who though he should me of my life deprive,</L>
+<L>Yet shall my fame when I am dead survive.</L>
+<L>While Rome on seven hills doth stand in sight,</L>
+<L>My workes shall still be read with much delight:</L>
+<L>Then of thy studdie make this happie use,</L>
+<L>To shunne the power of death even by thy muse.</L>
+</LG>
+</DIV2>
+<DIV2 N="8" TYPE="elegy">
+<ARGUMENT>
+<LG>
+<L>His countrey he desires to see,</L>
+<L>If Caesar would so pleased be.</L>
+<L><PB REF="22">Then mournfully be doth complaine,</L>
+<L>And shewes what griefe he doth sustaine.</L>
+</LG>
+</ARGUMENT>
+<HEAD>ELEGIE. VIII.</HEAD>
+<LG>
+<L>I Wish I could <HI>Triptoleusus</HI> waine ascend,</L>
+<L>Who first did seede unto the earth commend:</L>
+<L>Or guide <HI>Medea's</HI> Dragons through the ayre,</L>
+<L>With which the once from <HI>Corinth</HI> did repaire:</L>
+<L>I wish that I had <HI>Perseus</HI> wings to flie,</L>
+<L>Or <HI>Dedalus</HI> his wings to cut the skie:</L>
+<L>That while the ayre did yeeld unto my flight,</L>
+<L>I might enjoy againe my Countryes sight:</L>
+<L>And see my poore forsaken house againe,</L>
+<L>My wife, and those few friends that do remaine.</L>
+<L>But why dost thou so foolishly require,</L>
+<L>When thou canst ne're attaine to thy desire?</L>
+<L>In stead of wishes, unto <HI>Caesar</HI> send,</L>
+<L>And strive to please him whom thou didst offend.</L>
+<L>I<GAP DESC="illegible" EXTENT="1 letter"> he repeale thy banishment, his word,</L>
+<L>Can give thee wings to fly like to a birde.</L>
+<L>Perhaps when once his wrath doth milder grow,</L>
+<L>He to my sute will then some favour show:</L>
+<L>And I beseech him now in the meane time,</L>
+<L>Some easier place of exile to assigne.</L>
+<L>This ayre and clymate both contrary be,</L>
+<L><GAP DESC="illegible" EXTENT="1 word"> sicknesse seazeth here on me.</L>
+<L>Either my sicke mind makes my body ill,</L>
+<L>Or else the ayre doth some disease instill.</L>
+<L>Since I to <HI>Pontus</HI> came, each night I dreame,</L>
+<L>I do distast my meate, my limbs grow leane.</L>
+<L>Like that pale colour which in leaves is seene,</L>
+<L>When they by Autumns frost have nipped beene:</L>
+<L>So do I looke being pin'd away with griefe,</L>
+<L>Having no <GAP DESC="illegible" EXTENT="2 letters">iend to yeeld me some releefe.</L>
+<L><PB REF="22">For I am sicke in body and in minde,</L>
+<L>In both of which I equall paine doe finde.</L>
+<L>Me thinkes my fortune stands before my eyes,</L>
+<L>In a sad shape repleat with miseries.</L>
+<L>When I behold the people and the place,</L>
+<L>Comparing pastime with my present case:</L>
+<L>Then I am willing to resigne my breath,</L>
+<L>Wishing I had beene punished with death:</L>
+<L>But yet since that he was more milder bent,</L>
+<L>Let him now grant me milder banishment.</L>
+</LG>
+</DIV2>
+<DIV2 N="9" TYPE="elegy">
+<ARGUMENT>
+<LG>
+<L>Ovid briefely doth explaine,</L>
+<L>How Tomos first did get that name.</L>
+</LG>
+</ARGUMENT>
+<HEAD>ELEGIE IX.</HEAD>
+<LG>
+<L>ARe here some Citties (who can it beleeve)</L>
+<L>That from the Greekes did first their names receive?</L>
+<L>While husbandmen even from Miletus came,</L>
+<L>And mongst the Getes did graecian houses frame.</L>
+<L>Yet this same place doth anciently retaine,</L>
+<L>Still from <HI>Absyrtus</HI> murder this same name:</L>
+<L>For in that ship which <HI>Pallas</HI> name did beare,</L>
+<L>And in those unknowne Seas her course did steare.</L>
+<L>While fierce <HI>Medea</HI> from her father fled,</L>
+<L>Vnto these shoares her fatall sayles shee spread:</L>
+<L>Which from a hill one veiwing on the land,</L>
+<L>Cryes out, <HI>Medeas</HI> sayles doe hither stand.</L>
+<L>The <HI>Myniae</HI> trembled, and without delay,</L>
+<L>Vntie their ropes and all their anchors waigh:</L>
+<L>While that <HI>Medea</HI> strooke her guilty breast,</L>
+<L>With that same hand which had in blood beene drest.</L>
+<L><PB REF="23">And though her former courage did remaine,</L>
+<L>Yet still her blood in palenesse went and came&punc;</L>
+<L>But when she saw the sayles, we are betray'd</L>
+<L>Quoth she, my fathers course must be delayd</L>
+<L>By some new Art: while thus she doth devise,</L>
+<L>By fatall chance her brother she espies.</L>
+<L>And having spy'd him, now quoth she tis done,</L>
+<L>For from his death my safety now shall come.</L>
+<L>And with a sword she ran him through the side,</L>
+<L>Who little thought by her hand to have dy'd.</L>
+<L>Then teares his Limbes in peeces, and on the ground,</L>
+<L>She scatters them, that so they may be found</L>
+<L>In many places: and that her father may</L>
+<L>Not passe by it, she places in the way</L>
+<L>His bleeding head, and both his pale cold hands,</L>
+<L>Which set upon a rocke before him stands.</L>
+<L>And while that horrid sight did stop her father,</L>
+<L>He stayd his course those scatterd limbes to gather,</L>
+<L>Whence <HI>Tomos</HI> got that name, because that here,</L>
+<L><HI>Medea</HI> first her brothers limbes did teare.</L>
+</LG>
+</DIV2>
+<DIV2 N="10" TYPE="elegy">
+<ARGUMENT>
+<LG>
+<L><HI>Ovid</HI> lively doth describe,</L>
+<L>The Countrey where be doth abide:</L>
+<L>Which in this short mappe you may view,</L>
+<L>Which he in bannishment then drew.</L>
+</LG>
+</ARGUMENT>
+<HEAD>ELEGIE X.</HEAD>
+<LG>
+<L>IF any yet do thinke of <HI>Nasoes</HI> name,</L>
+<L>Which yet within the City doth remaine:</L>
+<L>Know that I live within a barbarous land,</L>
+<L>Which neere unto the Northerne pole doth stand.</L>
+<L><PB REF="23">The <HI>Sauromates</HI> and <HI>Getes</HI> do hemme me in,</L>
+<L>Whose ruder names my verse do not beseeme.</L>
+<L>While the ayre is warme, we then defended are,</L>
+<L>By <HI>Ister</HI> whose faire streame keepes backe the warre:</L>
+<L>But when that <HI>Boreas</HI> once doth fly abroade,</L>
+<L>Those Countryes he with heavy snow doth loade.</L>
+<L>Nor doth the snow dissolve by Sunne or raine,</L>
+<L>But the Northwind doth make it still remaine:</L>
+<L>New snow doth fall on that which fell before,</L>
+<L>While that the earth is doubly covered o're.</L>
+<L>Such is the Northw<GAP DESC="illegible" EXTENT="1 letter">nds force when it doth blow,</L>
+<L>That Towers and houses it doth overthrow.</L>
+<L>The people we are short mantles 'gainst the cold,</L>
+<L>So that their faces you can scarse behold.</L>
+<L>From their Icy haire a ruffling sound is heard,</L>
+<L>A hoary frost doth shine upon their beard.</L>
+<L>The frozen wine doth keepe the vessels shape,</L>
+<L>And in stead of draughts, they peeces of it take.</L>
+<L>Of Rivers frozen, what should I heere tell?</L>
+<L>Or yet of water digged from the well:</L>
+<L>For <HI>Ister</HI> which with <HI>Nile</HI> may equall bee,</L>
+<L>Whose many mouthes do fall into the Sea,</L>
+<L>His blue waves hidden o're with ice doth keepe,</L>
+<L>And so unseene into the sea doth creepe.</L>
+<L>Where ships did sayle, their feete they now do set,</L>
+<L>And on the ice the horses hoofe doth beat.</L>
+<L>The <HI>Sarmatian</HI> Oxen draw their waggons over,</L>
+<L>New bridges which the running water cover:</L>
+<L>'Tis strange, yet lying brings me no reward,</L>
+<L>And therefore my report you may regard.</L>
+<L>We have seene when as the ice the sea did cover,</L>
+<L>While that a shell of ice did glaze it over:</L>
+<L>And on the frozen sea have often g<GAP DESC="illegible" EXTENT="2+ letters">,</L>
+<L>While with a dry foote we could walke thereon.</L>
+<L><PB REF="24">And had <HI>Leander</HI> such a shoare descri'd,</L>
+<L>Then in that narrow Sea he had not dy'd.</L>
+<L>The crooked Dolphins cannot then repaire,</L>
+<L>Vnto the upper waves to take the ayre:</L>
+<L>And though that <HI>Boreas</HI> blustring wings were heard,</L>
+<L>Yet no waves in the frozen sea appeard.</L>
+<L>The ships were frozen up that there did ride,</L>
+<L>Nor could the Oares the stifned waves divide.</L>
+<L>We have seene the fish within the Ice lye bound,</L>
+<L>While that in some of them some life was found.</L>
+<L>If <HI>Boreas</HI> therefore with too powerfull force,</L>
+<L>Doe freeze the Sea or stop the Rivers course:</L>
+<L>When <HI>Ister</HI> by dry winds is once congeald,</L>
+<L>The barbarous foe no longer is conceald.</L>
+<L>Who skilfull in their horsemanship and Bow,</L>
+<L>Doe waste the countrey wheresoere they goe.</L>
+<L>While some do flye, and none defend the fields,</L>
+<L>Their unkept wealth some little pillage yeelds.</L>
+<L>Their riches is their cattle and their waines,</L>
+<L>And that which their poore Cottages containes:</L>
+<L>And some that by the foe are captive tooke,</L>
+<L>D<GAP DESC="illegible" EXTENT="1 letter">e leave their countrey with a back-cast looke.</L>
+<L>Some by the barbed arrowes here doe dye,</L>
+<L>Who with their poysond heads doe swiftly fly.</L>
+<L><GAP DESC="illegible" EXTENT="1 word"> which they cannot take they spoyle the same,</L>
+<L>And make their harmelesse Cottages to <GAP DESC="illegible" EXTENT="2 letters">ame:</L>
+<L>When they have peace they stand in feare of warre,</L>
+<L><GAP DESC="illegible" EXTENT="1+ words"> the fields by no man ploughed are.</L>
+<L><GAP DESC="illegible" EXTENT="1 span"> is not hid in the leavy shade,</L>
+<L><GAP DESC="illegible" EXTENT="1 span"> vessels <GAP DESC="illegible" EXTENT="1 word"> with wine new made.</L>
+<L><GAP DESC="illegible" EXTENT="1 span"> <GAP DESC="illegible" EXTENT="1 letter">ould not heere an Apple finde,</L>
+<L><GAP DESC="illegible" EXTENT="1 span"> his sweet-heart in the rinde:</L>
+<L>Here the n<GAP DESC="illegible" EXTENT="1 letter">ked fields have neyther leafe nor tree,</L>
+<L><GAP DESC="illegible" EXTENT="1 span"> markt <GAP DESC="illegible" EXTENT="1 word"> for miserie.</L>
+<L><PB REF="24">And though the world hath such a large extent,</L>
+<L>This land is found out for my punishment.</L>
+</LG>
+</DIV2>
+<DIV2 N="11" TYPE="elegy">
+<ARGUMENT>
+<LG>
+<L>Sweete <HI>Ovid</HI> is enforc'd to write,</L>
+<L>Gainst one who rayld at him in spight:</L>
+<L>Whom mildly here he doth reprove,</L>
+<L>And unto pitty doth him move.</L>
+</LG>
+</ARGUMENT>
+<HEAD>ELEGIE XI.</HEAD>
+<LG>
+<L>THou that my sad misfortune dost contemne,</L>
+<L>And cruelly dost alwayes me condemne,</L>
+<L>Wert nursed on the rockes by some wilde beast,</L>
+<L>And I may say, thou hast a flinty brest.</L>
+<L>O whither can thy wrath extended be,</L>
+<L>Or what is wanting to my miserie?</L>
+<L>The barbarous shores of <HI>Pontus</HI> me enfold,</L>
+<L>And here thr Northerne Beare I do behold.</L>
+<L>The peoples speech I understand not here,</L>
+<L>And every place is full of carefull feare.</L>
+<L>For as the Hart persu'd by Beares doth shake,</L>
+<L>Or as a Lambe hemm'd in by wolves doth quake:</L>
+<L>So when these nations do me round enclose,</L>
+<L>I am afraid, being compass'd in with foes.</L>
+<L>Suppose it were no punishment to me,</L>
+<L>Of wife and children thus depriv'd to be:</L>
+<L>Though nothing troubled me but <HI>Caesars</HI> wrath,</L>
+<L>Sufficient punishment his anger hath.</L>
+<L>Yet there are some who handles my greene wounds,</L>
+<L>And to speake against me have let loose their tongues.</L>
+<L>In an easie matter every one can speake,</L>
+<L>And little strength a bruised thing can breake,</L>
+<L><PB REF="25">It shewes some strength to throw downe wals w^c^h stand,</L>
+<L>When falling Towers yeeld to the weakest hand.</L>
+<L>Why dost thou persecute my empty shade?</L>
+<L>Or why dost thou my grave with stones invade?</L>
+<L>Though <HI>Hector</HI> in the warrs did shew his force,</L>
+<L>It was not <HI>Hector</HI> that behind a horse</L>
+<L>Was drawne about; nor am I now the same,</L>
+<L>And nothing but my shaddow doth remaine:</L>
+<L>Why dost thou rayle on me with words so foule?</L>
+<L>I pray thee doe not seeke to vex my soule.</L>
+<L>Suppose my faults were true, my chiefest fault,</L>
+<L>Was not by wickednesse but errour wrought:</L>
+<L>Then glut thy anger with my punishment,</L>
+<L>For we are sent to grievous banishment.</L>
+<L>A murtherer would lament my unhappy fate,</L>
+<L>Thou thinkst me not enough unfortunate.</L>
+<L>More cruell than <HI>Busiris,</HI> or that man,</L>
+<L>Who first to make a brasen Bull began.</L>
+<L>And on the <HI>Sicilian</HI> Tyrant it bestow'd,</L>
+<L>While thus in words his Art to him he show'd</L>
+<L>This worke O King may farre more usefull be</L>
+<L>Than the outward shape doth seeme to promise thee</L>
+<L>For looke, the Bulls side may be open'd so,</L>
+<L>That whom thou meanst to kill, thou needs but throw</L>
+<L>Into his belly, and beeing clos'd therein,</L>
+<L>Put fire beneath, and then he will begin</L>
+<L>To <GAP DESC="illegible" EXTENT="1 word"> and make a groaning noyse as though</L>
+<L>The br<GAP DESC="illegible" EXTENT="1 letter">sen Bull it selfe began to Lowe:</L>
+<L>Therefore to recompence my gift againe,</L>
+<L>Let my reward be equall to my paine.</L>
+<L><HI>Phalaris</HI> reply'd, since that thou didst invent,</L>
+<L>This cruell torment for a punishment:</L>
+<L>Thou first shalt feele it, and so being throwne</L>
+<L>Into the Bull, he there began to groane.</L>
+<L><PB REF="25">But from <HI>Sicilia</HI> I returne againe,</L>
+<L>Of thee that railest on me I must complaine:</L>
+<L>If thou desirest to quench thy thirst with blood,</L>
+<L>And that to heare my griefe would do thee good:</L>
+<L>I have suffer'd so much both by sea and land,</L>
+<L>That thou wouldst grieve the same to understand.</L>
+<L><HI>Vlysses</HI> was not in so great distresse,</L>
+<L>Since <HI>Neptunes</HI> anger is than <HI>Ioves</HI> farre lesse.</L>
+<L>Then do not thou rip up my faults againe,</L>
+<L>And from my bleeding wound thy hands refraine.</L>
+<L>Let time my former fault in darknesse cover,</L>
+<L>That this same wound may once be skinned over.</L>
+<L>Sith Fortune throwes downe whom she doth advance,</L>
+<L>Be thou afraid of her uncertaine chance.</L>
+<L>And since thou hast a great desire to pry,</L>
+<L>And wouldst be glad to know my misery:</L>
+<L>My fortune is of misery most full,</L>
+<L>For <HI>Caesars</HI> wrath all ill with it doth pull.</L>
+<L>And if thou thinkst I do the same augment,</L>
+<L>I wish that thou mightst feele my punishment.</L>
+</LG>
+</DIV2>
+<DIV2 N="12" TYPE="elegy">
+<ARGUMENT>
+<LG>
+<L>Though it be Spring-time every where,</L>
+<L>No Spring in <HI>Tomos</HI> doth appeare:</L>
+<L>Which makes him pray here to be sent,</L>
+<L>Vnto some milder banishment.</L>
+</LG>
+</ARGUMENT>
+<HEAD>ELEGIE XII.</HEAD>
+<LG>
+<L>NOw <HI>Zephyrus</HI> warmes the ayre, the yeare is runne,</L>
+<L>And the long seeming winter now is done:</L>
+<L>The Ramme which bore faire <HI>Hellen</HI> once away,</L>
+<L>Hath made the darke night equall to the day.</L>
+<L>Now boyes and girles do sweet Violets get,</L>
+<L>Which in the Countrey often grow unset:</L>
+<L><PB REF="26">Faire colour'd flowers in the Meddowes spring,</L>
+<L>And now the Birds their untaught notes doe sing:</L>
+<L>The Swallow now doth build her little nest,</L>
+<L>Vnder some beame, wherein her egges may rest.</L>
+<L>The seede which long since in the ground was laid,</L>
+<L>Is now shot forth into a tender blade.</L>
+<L>And now young buds upon the vine appeare,</L>
+<L>Although the <HI>Getick</HI> shoare no tree doth beare.</L>
+<L>Tis there vacation, and the warres of Court</L>
+<L>Doe now give place to Playes and other sport:</L>
+<L>Now they doe tilt, and feates of armes assay,</L>
+<L>Now with the ball and with the top they play.</L>
+<L>Young men annointed now with oyle begin,</L>
+<L>To bathe their limbes within the virgin spring:</L>
+<L>The scene doth flourish, and new straines are found,</L>
+<L>Which make the three Theaters to resound.</L>
+<L>O foure times happy sure and more is he,</L>
+<L>That to injoy the Citty now is free.</L>
+<L>But here I see the snow melt with the Sunne,</L>
+<L>The undigged waters now begin to run:</L>
+<L>The sea is not frozen, not doth the swaine,</L>
+<L>Over the <HI>Ister</HI> drive his creaking waine.</L>
+<L>Yet when that any ships doe hither sayle,</L>
+<L>And Anchor at our shoare, then without faile,</L>
+<L>I run to the Master, and after salutation,</L>
+<L>I aske him whence he comes and of what nation.</L>
+<L>And tis a wonder if he be not one,</L>
+<L>That from some neighbour countrey then doth come:</L>
+<L>From <HI>Italy</HI> few ships doe ever stand,</L>
+<L>To come unto this haven-wanting land.</L>
+<L>Whether his language Greeke or Latine be,</L>
+<L>The latter is most welcome unto me:</L>
+<L>If any from <HI>Propontis</HI> here arrive,</L>
+<L>While a northwinde his spreading sayles doth drive:</L>
+<L><PB REF="26">He may enforme me of the common fame&punc;</L>
+<L>And orderly he may relate the same:</L>
+<L>For of Great <HI>Caesars</HI> triumphs I doe heare,</L>
+<L>And of those vowes to <HI>Iove</HI> performed were.</L>
+<L>And how rebelling <HI>Germany</HI> in the end,</L>
+<L>Beneath our Captaines feete her head did bend:</L>
+<L>He that shall tell me these things here exprest,</L>
+<L>I will invite him home to be my guest:</L>
+<L>Alasse, does <HI>Ovids</HI> hovse alone now stand?</L>
+<L>Being seated here within the <HI>Stirian</HI> land:</L>
+<L>May <HI>Caesar</HI> make this house of mine to bee,</L>
+<L>Onely an Inne of punishment to me.</L>
+</LG>
+</DIV2>
+<DIV2 N="13" TYPE="elegy">
+<ARGUMENT>
+<LG>
+<L>Against his birth-day he doth complaine,</L>
+<L>Which was now return'd in vaine.</L>
+</LG>
+</ARGUMENT>
+<HEAD>ELEGIE XIII.</HEAD>
+<LG>
+<L>BEhold my birth-day (for why was I borne?)</L>
+<L>Doth vainely unto me againe returne,</L>
+<L>Hard hearted day, why dost thou still extend</L>
+<L>My yeares, to which thou should'st have put an end?</L>
+<L>If thou hadst any care of me or shame,</L>
+<L>Thou wouldst not thus have followed me in vaine:</L>
+<L>But in that place have given me my death,</L>
+<L>Wherein my childhood first I drew my breath.</L>
+<L>And with my friends that now at <HI>Rome</HI> doe dwell,</L>
+<L>Thou mightst at once have tooke thy last farewell.</L>
+<L>What's <HI>Pontus</HI> unto thee? or art thou sent,</L>
+<L>By <HI>Caesars</HI> wrath with me to banishment?</L>
+<L>Dost thou expect thy wonted honour here?</L>
+<L>While I a white robe on my shoulders weare:</L>
+<L>Or that faire garlands should environd round,</L>
+<L>The smoaking Altar with sweet incense crown'd?</L>
+<L><PB REF="27">Offering such gifts as may befit the day,</L>
+<L>While for thy prosperous returne I pray.</L>
+<L>But now I doe not live in such a time,</L>
+<L>That when thou com'st I should to mirth incline.</L>
+<L>A funerall Altar doth become me now,</L>
+<L>That may be stucke round with the cypresse bough.</L>
+<L>Now incense to the gods were cast away,</L>
+<L>While in my depth of griefe I cannot pray.</L>
+<L>Yet one request upon this day ile name,</L>
+<L>That to this place thou ne're returne againe,</L>
+<L>Whilst in the farthest Ponticke shoare I live,</L>
+<L>Which falsely some the name of <HI>Euxine</HI> give.</L>
+</LG>
+</DIV2>
+<DIV2 N="14" TYPE="elegy">
+<ARGUMENT>
+<LG>
+<L>Here he writes unto his friend,</L>
+<L>That he would his bookes defend.</L>
+</LG>
+</ARGUMENT>
+<HEAD>ELEGIE XIIII.</HEAD>
+<L>THou chiefe of learned men, what maketh thee,</L>
+<L>A friend unto my idle veine to be?</L>
+<L>When I was safe then thou my lynes didst praise,</L>
+<L>And being absent thou my fame dost raise.</L>
+<L>And all my verses thou dost entertaine,</L>
+<L>Except the Art of love which I did frame.</L>
+<L>Since then thou lovest the new Poets straine,</L>
+<L>Within the City still keepe up my name.</L>
+<L>For I and not my bookes am banisht thence,</L>
+<L>Which they could not deserve by my offence.</L>
+<L>The father of't is banished we see,</L>
+<L>While as his children in the Citty be:</L>
+<L>My verses now are like to <HI>Pallas</HI> borne,</L>
+<L>Without a mother; and being so forlorne,</L>
+<L>I send them unto thee, for they bereft</L>
+<L>Of father, now unto thy charge are left.</L>
+<L>Three sonnes of mine by me destroyed were,</L>
+<L>But of the rest see that thou have a care&punc;</L>
+<L><PB REF="27">And fifteene bookes of changed shapes there lyes,</L>
+<L>Being ravisht from their masters obsequies.</L>
+<L>That worke I had unto perfection brought,</L>
+<L>If that I had not my owne ruine wrought:</L>
+<L>Which uncorrected now the people have.</L>
+<L>If any thing of mine the people crave,</L>
+<L>Let this among my other bookes now stand,</L>
+<L>Being sent unto thee from a forraigne land.</L>
+<L>Which who so reades, let him but waigh againe,</L>
+<L>The time and place wherein I did it frame:</L>
+<L>He will pardon me when he shall understand,</L>
+<L>That I was banisht in a barbarous land.</L>
+<L>And will admire that in my adverse time,</L>
+<L>With a sad hand I could draw forth a line.</L>
+<L>Misfortunes have depriv'd me of my straine,</L>
+<L>Although before I ne're had a rich vaine.</L>
+<L>Yet whatsoere it was, even now it lyes,</L>
+<L>Dryed up for want of any exercise:</L>
+<L>Here are no bookes to feede me with delight,</L>
+<L>But in stead of bookes the bowes doe me affright.</L>
+<L>Heere's none to whom I may my lines reherse,</L>
+<L>That can both heare and understand my verse.</L>
+<L>I have no place where I may walke alone,</L>
+<L>But with the Getes shut up in walls of stone:</L>
+<L>Sometimes I aske for such a places name,</L>
+<L>But there is none can answer me againe.</L>
+<L>And when I faine would speake, I must confesse,</L>
+<L>I want fit words my minde for to expresse.</L>
+<L>The <HI>Scythian</HI> language doth my eare affright,</L>
+<L>So that the <HI>Geticke</HI> tongue I sure could write:</L>
+<L>I feare least you within this booke should see,</L>
+<L>That Ponticke words with Latine mingled be.</L>
+<L>Yet reade it, and thereto a pardon give,</L>
+<L>When thou considerst in what state I live.</L>
+<PB REF="28">
+<GAP DESC="duplicate" EXTENT="1 page">
+<PB REF="28">
+<GAP DESC="duplicate" EXTENT="1 page">
+</DIV2>
+</DIV1>
+<DIV1 N="4" TYPE="book">
+<PB REF="29">
+<HEAD>LIB. IIII.</HEAD>
+<DIV2 N="1" TYPE="elegy">
+<ARGUMENT>
+<LG>
+<L>To excuse his bookes he doth begin,</L>
+<L>And shewes how his Muse did comfort him.</L>
+</LG>
+</ARGUMENT>
+<HEAD>ELEGIE. I.</HEAD>
+<LG>
+<L>IF any faults are in these bookes of mine,</L>
+<L>Have them excused Reader by their time.</L>
+<L>I sought no fame, but onely some releefe,</L>
+<L>That so my mind might not thinke on her griefe.</L>
+<L>Even as the Ditcher bound with fetters strong,</L>
+<L>Will lighten heavy labour with a song:</L>
+<L>And he will sing that with a bended side,</L>
+<L>Doth draw the slow boate up against the tide:</L>
+<L>And he that at the Oare doth tug with paine,</L>
+<L>Doth sing while he puts backe his oare againe.</L>
+<L>The weary Shepheard sitting on a hill,</L>
+<L>Doth please his sheepe with piping on his quill:</L>
+<L>And every maid within the Contrey bred,</L>
+<L>Will sing while she is drawing forth her thred.</L>
+<L><HI>Achilles</HI> being sad for <HI>Brisis</HI> losse,</L>
+<L>The <HI>Haemonian</HI> harpe did soften that same crosse.</L>
+<L>While <HI>Orpheus</HI> for his wife much griefe did shew,</L>
+<L>With his sweet tunes the woods and stones he drew.</L>
+<L>So did my Muse delight me as I went,</L>
+<L>And bore me company in my banishment.</L>
+<L>She feard no trechery, nor the Souldiers hand,</L>
+<L>Nor yet the wind, or sea, or barbarous land.</L>
+<L><PB REF="29">She knew what error first my ruine brought,</L>
+<L>And that there was no wickednesse in my fault:</L>
+<L>And since from her my fault did first proceed,</L>
+<L>She is made guilty with me of that deed.</L>
+<L>Yet still the feare of harme me so affrights,</L>
+<L>I scarse dare touch the Muses holy rites.</L>
+<L>But now a sudden fury doth me move,</L>
+<L>And being hurt by verse, yet verse I love.</L>
+<L>Even as <HI>Vlysses</HI> tooke delight to taste,</L>
+<L>The Lote tree which did hurt him at the last.</L>
+<L>The Lover feeles his losse, yet does delight</L>
+<L>In it, and seekes to feede his appetite.</L>
+<L>So Bookes delight me which did me confound,</L>
+<L>Loving the Dart which gave me this same wound.</L>
+<L>Perhaps this study may a fury seeme,</L>
+<L>And yet to many it hath usefull beene.</L>
+<L>It makes the mind that it cannot retaine,</L>
+<L>Her griefe in sight, but doth forget the same.</L>
+<L>As she ne're felt the wound which <HI>Bacchus</HI> gave,</L>
+<L>But wildly on the Idean hils did rave:</L>
+<L>So when a sacred fire my brest doth warme,</L>
+<L>My higher fancy doth all sorrow scorne.</L>
+<L>It feeles no banishment, or <HI>Ponticke</HI> shore,</L>
+<L>Nor thinkes the gods are angrie any more:</L>
+<L>And as if I should drinke dull <HI>Lethes</HI> water,</L>
+<L>I have no sence of any sorrow after.</L>
+<L>Needs must those goddesses then honour'd be,</L>
+<L>Who from their <HI>Helicon</HI> did come with me.</L>
+<L>And for to follow me they still did please,</L>
+<L>Either by foote, by shipping, or by seas.</L>
+<L>And may they gracious unto me abide,</L>
+<L>Since that the gods are all on <HI>Caesars</HI> side:</L>
+<L>While those griefes which they heape on me are more,</L>
+<L>Than fish in seas, or sands upon the shoare.</L>
+<L><PB REF="30">The flowers in spring-time thou mayst sooner tell,</L>
+<L>Or Autumns apples, or the snow that fell,</L>
+<L>Than all my griefes being tossed too and fro,</L>
+<L>While I unto the <HI>Euxine</HI> shore do go:</L>
+<L>Where come, I found no change of miserie,</L>
+<L>As if ill fortune still did follow me.</L>
+<L>My thred of life in one course heere doth runne,</L>
+<L>Of blacke and dismall wooll this thred is spunne.</L>
+<L>Though I omit my dangers and my griefe,</L>
+<L>I have seene such miseries as are past beleefe.</L>
+<L>Amongst the barbarous <HI>Getes</HI> how can he live?</L>
+<L>To whom the people once such praise did give.</L>
+<L>How grievous is it to be lockt within,</L>
+<L>A walled Towne, and yet scarce safe therein?</L>
+<L>For in my youth all warre I did detest,</L>
+<L>And never handled weapons but in jest.</L>
+<L>Now in my hands a sword and shield I beare,</L>
+<L>And on my gray haires I a helmet weare.</L>
+<L>For when the watchman standing in his place,</L>
+<L>Doth give some signe, then all do arme apace.</L>
+<L>The enemie with his poyson'd shafts and bow,</L>
+<L>On their proud Steeds about the walles do go:</L>
+<L>And as the Wolfe doth beare a sheepe away,</L>
+<L>Into the woods, which from the fold did stray:</L>
+<L>So those that once are strayd beyond the gate,</L>
+<L>The f<GAP DESC="illegible" EXTENT="1 letter">e comes on them, and doth take them straight.</L>
+<L>Then like a captive they his necke do chaine,</L>
+<L>Or else with poyson'd arrowes he is slaine.</L>
+<L>In this place I a dweller am become,</L>
+<L>A lasse my time of life too slow doth runne.</L>
+<L>Yet to my verse I do returne againe,</L>
+<L>My friendly Muse doth me in griefe sustaine:</L>
+<L>Yet there is none to whom I may recite</L>
+<L>My verse, or heare the Latin which I write,</L>
+<L><PB REF="30">But to my selfe I do both write and reade,</L>
+<L>And then to judge my selfe I do proceede.</L>
+<L>Oft I have said, why do I take this vaine?</L>
+<L>Or shall the <HI>Getes</HI> delight in <HI>Ovids</HI> name?</L>
+<L>Oft while I write my eyes to weeping set,</L>
+<L>And every letter with my teares is wet:</L>
+<L>And then my heart renewes her griefe againe,</L>
+<L>While on my bosome, showres of teares do raine.</L>
+<L>When as my former state comes in my thought,</L>
+<L>Thinking to what my fortune hath me brought:</L>
+<L>Oft my mad hand, even angry with my vaine,</L>
+<L>Hath cast my verses into the quicke flame.</L>
+<L>Then since of many, these few do remaine,</L>
+<L>Who e're thou art, with pardon reade the same.</L>
+<L>And <HI>Rome</HI> do thou take in good part each line,</L>
+<L>Though each verse be no better than my time.</L>
+</LG>
+</DIV2>
+<DIV2 N="2" TYPE="elegy">
+<ARGUMENT>
+<LG>
+<L>He grieves that he could not present be,</L>
+<L>At the tryumph of conquer'd <HI>Germanie.</HI></L>
+</LG>
+</ARGUMENT>
+<HEAD>ELEGIE. II.</HEAD>
+<LG>
+<L>NOw haughty <HI>Germany</HI> (as the world hath done)</L>
+<L>May kneele to <HI>Caesar,</HI> being overcome.</L>
+<L>Now the high palaces are with garlands dight,</L>
+<L>And smoaking incense turnes the day to night.</L>
+<L>Now the white sacrifice by the axe is slaine,</L>
+<L>And with his purple blood the earth doth staine.</L>
+<L>And both the conquering <HI>Caesars</HI> do prepare,</L>
+<L>To give the gods those gifts which promis'd were.</L>
+<L>And all the youngmen borne under his name,</L>
+<L>Do pray that still his progeny may raigne.</L>
+<L>And <HI>Livia,</HI> since the gods her sonne did save,</L>
+<L>Presents those gifts which they deserve to have.</L>
+<L><PB REF="31">The Matrons, and those free from bad desire,</L>
+<L>Who living Virgins, keepe the vestall fire:</L>
+<L>The people, and the Senate too are glad,</L>
+<L>And Gentry, mongst whom once a name I had.</L>
+<L>These publike joyes to me here are unknowne,</L>
+<L>And but a weake report doth hither come.</L>
+<L>But on these triumphs may the people looke,</L>
+<L>And reade what townes were by such captaines tooke:</L>
+<L>While as the captive kings to encrease the show,</L>
+<L>Before the plumed horses chained goe.</L>
+<L>With countenances to their fortune chang'd,</L>
+<L>Once terrible, now from themselves estrangd.</L>
+<L>While some desire their cause and names to know,</L>
+<L>One knowing little thus describes the show.</L>
+<L>He that in yonder purple roabe doth shine,</L>
+<L>Was captaine of the warre, and next to him,</L>
+<L>He whose sad eyes fixt on the ground appeare,</L>
+<L>Bore not that looke when he his armes did beare&punc;</L>
+<L>That cruell man whose eyes still burning are,</L>
+<L>By counsell did incite them unto warre.</L>
+<L>This fellow did false ambushments provide,</L>
+<L>Whose shaggy haire his ougly face doth hide.</L>
+<L>This fellow kill'd the captives which he tooke,</L>
+<L>Although the gods such offerings did not brooke.</L>
+<L>These Mountaines, Rivers, Castels, which you see,</L>
+<L>Where fill'd with blood of men which slaughterd be:</L>
+<L>Here <HI>Drus<GAP DESC="illegible" EXTENT="1 letter">s</HI> did his honour first obtaine,</L>
+<L>Being worthy of that house from whence he came.</L>
+<L>Here <HI>R<GAP DESC="illegible" EXTENT="3 letters">e</HI> with blood of men was colour'd over,</L>
+<L>While no greene reedes his winding bankes did cover.</L>
+<L>Behold how <HI>Germany</HI> with her long haire spred,</L>
+<L>S<GAP DESC="illegible" EXTENT="1 letter">ts at his feete who hath her conquered:</L>
+<L>And to the Romane axe her necke doth yeeld,</L>
+<L>Her hands being chain'd which once did beare a shield.</L>
+<L><PB REF="31"><GAP DESC="illegible" EXTENT="1 page"></L>
+<PB REF="32">
+<GAP DESC="duplicate" EXTENT="1 page">
+<L><PB REF="32">And above these Great <HI>Caesar</HI> thou art carryed,</L>
+<L>Through all the people in thy conquering Chariot:</L>
+<L>Thy subjects by loud shoots their love doe shew,</L>
+<L>While all the way with sweetest flowers they strew</L>
+<L>Thy temples crowned with Phoebean bayes,</L>
+<L>The souldier singeth <HI>Io</HI> to thy praise.</L>
+<L>While thy foure Chariot horses by the way,</L>
+<L>Heated with noyse do often stop and stay.</L>
+<L>Then to the Tower and Temples favoring thee,</L>
+<L>Thou goest, where gifts to <HI>Iove</HI> shall offerd be.</L>
+<L>These things I can within my minde review,</L>
+<L>For it hath power, an absent place to shew.</L>
+<L>Through spatious lands it can most freely stray,</L>
+<L>And unto heaven finde the ready way.</L>
+<L>By helpe whereof the City I do see,</L>
+<L>That of this good I may partaker be.</L>
+<L>It shewes the Ivory Chariots which doe shine,</L>
+<L>So I shall be at home even for a time:</L>
+<L>The happy people shall be hold this sight,</L>
+<L>And for to see their captaine take delight.</L>
+<L>But I must see it by imagination,</L>
+<L>My eares shall tast the fruit of the relation:</L>
+<L>For being banisht to a forraingne land,</L>
+<L>To tell me of it here is none at hand.</L>
+<L>Yet he that this late triumph tells to me,</L>
+<L>When ere I heare him I shall joyfull be:</L>
+<L>And on that day no sorrow I will show,</L>
+<L>For publike joy exceedes a private woe.</L>
+</LG>
+</DIV2>
+<DIV2 N="3" TYPE="elegy">
+<ARGUMENT>
+<LG>
+<L>Ovid seemeth to speake here,</L>
+<L>To the constellations of the Beare.</L>
+</LG>
+</ARGUMENT>
+<HEAD>ELEGIE III.</HEAD>
+<LG>
+<L>YOu great and lesser beasts, whereof the one</L>
+<L>Guides <HI>Graecian</HI> ships, the other <HI>Sydonian</HI>:</L>
+<L><PB REF="33">Which fro~ your Poles view all things which you please,</L>
+<L>And never set beneath the westerne Seas:</L>
+<L>And while that you encompasse in the skie,</L>
+<L>Your circle from the earth is seene on high.</L>
+<L>Looke on these walls, ore which as they report,</L>
+<L><HI>Remus</HI> leapt over in his merry sport.</L>
+<L>And looke with shining beames upon my wife,</L>
+<L>And tell me if she leade a constant life.</L>
+<L>Alas, why doubt I in a matter cleare?</L>
+<L>Why doe I waver betweene hope and feare?</L>
+<L>Beleeve as thou desirst, that all is well,</L>
+<L>Perswade thy selfe she doth in faith excell.</L>
+<L>And what the fixed starres cannot unfold,</L>
+<L>Tell to thy selfe and be thou thus resolv'd:</L>
+<L>That as thou thinkst on her, so shee againe</L>
+<L>Doth thinke on thee, and with her keepes thy name:</L>
+<L>And in her minde thy countenance doth review,</L>
+<L>And while shee lives that she her love will shew.</L>
+<L>When thy griev'd minde doth on thy sorrow light,</L>
+<L>Doth gentle sleepe forsake thy bosome quite?</L>
+<L>Doth thy cold bed renew thy cares afresh,</L>
+<L>And make thee thinke on me in my distresse?</L>
+<L>Doe nights seeme long while sorrowes inward burne,</L>
+<L>Doe thy sides ake while thou dost often turne?</L>
+<L>Yet I beleeve that now thou dost no lesse,</L>
+<L>And that thy sorrow doth thy love expresse.</L>
+<L>Thou greev'st no lesse than did that <HI>Theban</HI> wife,</L>
+<L>To see brave <HI>Hectors</HI> body voyd of life,</L>
+<L>Drawne by <HI>Thessalian</HI> horses; yet I cannot tell,</L>
+<L>What passion in thy minde I wish to dwell.</L>
+<L>If thou art sad, then I am greev'd for thee,</L>
+<L>That of thy sorrow I the cause should be:</L>
+<L><GAP DESC="illegible" EXTENT="1 word"> gentle wife doe thou lament thy losses,</L>
+<L><GAP DESC="illegible" EXTENT="1 span"> the time to thinke upon my crosses.</L>
+<L><PB REF="33">Weepe for my fall, to weepe is some releefe,</L>
+<L>For that doth ease and carry out our griefe.</L>
+<L>And would thou could'st lament my death, not life,</L>
+<L>That so by death I might have left my wife.</L>
+<L>Then in my countrey I had dy'd, and dead,</L>
+<L>Thy teares upon my corpes had then beene shed.</L>
+<L>And thou had'st clos'd my eyes up with thy hand,</L>
+<L>While looking unto heaven they did stand:</L>
+<L>In an auncient Tombe my ashes had beene spred,</L>
+<L>And had beene buried where I first was bred.</L>
+<L>Lastly, I then had dyed without blame,</L>
+<L>But now my banishment is to me a shame.</L>
+<L>Yet wretched am I if thou blushest than,</L>
+<L>When thou art call'd wife to a banisht man.</L>
+<L>Wretched am I if thou that name decline,</L>
+<L>Wretched am I if thou sham'st to be mine:</L>
+<L>Where is that time wherein thou took'st a pride,</L>
+<L>In <HI>Ovids</HI> name, and to be <HI>Ovids</HI> bride?</L>
+<L>Where is that time wherein these words you spake,</L>
+<L>That you in being mine did pleasure take:</L>
+<L>Like a good wife in me you did delight,</L>
+<L>And love encreas'd my valew in your sight.</L>
+<L>And unto you so pretious was I then,</L>
+<L>That you preferred me before all men:</L>
+<L>Then thinke it no disgrace that thou art nam'd</L>
+<L>My wife, for which thou maist be greev'd, not sham'd.</L>
+<L>When rash <HI>Capaneus</HI> in the warres did fall,</L>
+<L><HI>Evadne</HI> blusht not at his fault at all.</L>
+<L>Though <HI>Iupiter</HI> did fire with fire suppresse,</L>
+<L>Yet <HI>Phaethon</HI> was beloved ne're the lesse:</L>
+<L>And <HI>Semele</HI> did not lose old <HI>Cadmus</HI> love,</L>
+<L>Because she perisht by her suite to <HI>Iove.</HI></L>
+<L>Then since that I am strucken with <HI>Ioves</HI> flame,</L>
+<L>Let not a crimson blush thy faire cheeke staine.</L>
+<L><PB REF="34">But with fresh courage rather me defend,</L>
+<L>That for a good wife I may thee commend:</L>
+<L>Shew now thy vertue in adversitie,</L>
+<L>The way to glory through hard wayes doth lie.</L>
+<L>Who would talke of <HI>Hector,</HI> had <HI>Troy</HI> happy beene,</L>
+<L>For vertue in adversitie is seene.</L>
+<L><HI>Typhis</HI> Art failes when no waves are seene,</L>
+<L>In health <HI>Apollo's</HI> Art hath no esteeme.</L>
+<L>That vertue which before time lay conceal'd,</L>
+<L>In trouble doth appeare, and is reveal'd.</L>
+<L>My fortune gives thee scope to raise thy fame,</L>
+<L>And by thy vertue to advance the name.</L>
+<L>Then use the time, for these unhappy dayes,</L>
+<L>Do open a faire way for to get praise.</L>
+</LG>
+</DIV2>
+<DIV2 N="4" TYPE="elegy">
+<ARGUMENT>
+<LG>
+<L>He writes to his friend in his distresse,</L>
+<L>Whose name by signes he doth expresse.</L>
+</LG>
+</ARGUMENT>
+<HEAD>ELEGIE IIII.</HEAD>
+<LG>
+<L>O Friend, though thou a Gentleman art borne,</L>
+<L>Yet thou by vertue dost thy birth adorne.</L>
+<L>Thy fathers courtesie shineth in thy mind,</L>
+<L>And yet this courtesie is with courage joyn'd.</L>
+<L>In thee thy fathers eloquence doth dwell,</L>
+<L>Whom none could in the <HI>Romane</HI> Court excell.</L>
+<L>Then since by signes I am enforc'd to name thee,</L>
+<L>I hope for praising you, you will not blame mee:</L>
+<L>'Tis not my fault, your gifts do it proclaime,</L>
+<L>Be what you seem, and I deserve no blame.</L>
+<L>Besides, my love in verse exprest, I trust,</L>
+<L>Shall not harme thee since <HI>Caesar</HI> is most just:</L>
+<L>Our Countryes father, and so milde that he,</L>
+<L>Su<GAP DESC="illegible" EXTENT="1 letter">fers his name within my verse to be.</L>
+<L><PB REF="34">Nor can he now forbid it if he would,</L>
+<L><HI>Caesar</HI> is publike, and a common good.</L>
+<L><HI>Iupiter</HI> sometimes lets the Poets praise</L>
+<L>His acts, that so their wit his deeds may raise.</L>
+<L>Thy case by two examples good doth seeme,</L>
+<L>The one beleev'd a god, the other seene:</L>
+<L>Or else Ile take the fault, and to it stand,</L>
+<L>To stay my Letter was not in thy hand.</L>
+<L>Nor thus by writing have I newly err'd,</L>
+<L>With whom by words I often have conferr'd.</L>
+<L>Then friend lest thou be blam'd, thou needst not feare,</L>
+<L>For it is I that must the envy beare.</L>
+<L>For if you'l not dissemble a knowne truth,</L>
+<L>I lov'd your father even from my youth.</L>
+<L>And you know how he did approve my wit,</L>
+<L>More than in my owne judgement I thought fit.</L>
+<L>And oftentimes he would speake of my verse,</L>
+<L>And grace them while he did the same rehearse.</L>
+<L>Nor do I give these faire words unto thee,</L>
+<L>But to thy father who first loved mee.</L>
+<L>Nor do I flatter, since my lives acts past</L>
+<L>I can defend, except it be the last.</L>
+<L>And yet my fault no wicked crime can bee,</L>
+<L>If that my griefes be not unknowne to thee.</L>
+<L>It was an error brought me to this state,</L>
+<L>Then suffer me now to forget my fate.</L>
+<L>Breake not my wounds which yet scarse closed are,</L>
+<L>Since rest it selfe can hardly helpe my care.</L>
+<L>And though to suffer justly I am thought,</L>
+<L>There was no wicked purpose in my fault.</L>
+<L>Which <HI>Caesar</HI> knowing, suffer'd me to live,</L>
+<L>Nor to another my goods did he give.</L>
+<L>And this same banishment perhaps shall cease,</L>
+<L>When length of time his anger shall appease,</L>
+<L><PB REF="35">And now I pray he would me hence remove,</L>
+<L>(If this request would not immodest prove:)</L>
+<L>To some more quiet banishment, where I</L>
+<L>Might live farre from the cruell enemie.</L>
+<L>And such is <HI>Caesars</HI> clemency that he</L>
+<L>Would grant it, if some askt this boone for me.</L>
+<L>The shores of the Euxine sea do me containe,</L>
+<L>Which heretofore the Axine they did name.</L>
+<L>The seas are tossed with a blustring winde,</L>
+<L>Nor can strange ships any safe harbour finde.</L>
+<L>And round about blood eating men do live,</L>
+<L>Thus sea and land do equall terror give.</L>
+<L>Not farre off stands that cursed altar where,</L>
+<L>All strangers to <HI>Diana</HI> offerd were.</L>
+<L>These bloody kingdomes once King <HI>Thoas</HI> had,</L>
+<L>Not envy'd nor desir'd, they were so bad.</L>
+<L>Here the faire <HI>Ipigenia</HI> did devise,</L>
+<L>To please her goddesse with this sacrifice:</L>
+<L>Whither assoone as mad <HI>Orestes</HI> came,</L>
+<L>Tormented with his owne distracted braine;</L>
+<L>And <HI>Phoceus</HI> with him his companion,</L>
+<L>Who two in body, were in mind but one:</L>
+<L>To this sad altar they were bound, which stood</L>
+<L>Before a paire of gates embru'd with blood:</L>
+<L>Yet in themselves no feare of death they had,</L>
+<L>But one friend for the others death was sad.</L>
+<L>The Priest with faulchion drawne stood ready there,</L>
+<L>With a course fillet bound about his haire.</L>
+<L>But when she knew her brothers voyce, she came,</L>
+<L>And did embrace him that should have beene slaine:</L>
+<L>And being glad, she left the place, and then</L>
+<L>She chang'd the rites, which <HI>Dian</HI> did contemne.</L>
+<L>Vnto this farthest region I am come,</L>
+<L>Which even gods and men do likewise shunne.</L>
+<L><PB REF="35">These barbarous rites neare my countrey are maintain'd,</L>
+<L>If a barbarous countrey may be <HI>Ovids</HI> land:</L>
+<L>May those winds beare me backe, which tooke <HI>Orestes</HI> hence,</L>
+<L>When <HI>Caesar</HI> is appeased for my offence.</L>
+</LG>
+</DIV2>
+<DIV2 N="5" TYPE="elegy">
+<ARGUMENT>
+<LG>
+<L>His griefe to his friend he doth reveale,</L>
+<L>Whose name he on purpose doth conceale.</L>
+</LG>
+</ARGUMENT>
+<HEAD>ELEGIE V.</HEAD>
+<LG>
+<L>O Chiefest friend mongst those were loved of me,</L>
+<L>The onely sanctuary to my miserie:</L>
+<L>By whose sweet speech my soule reviv'd againe,</L>
+<L>As oyle powr'd in, revives the watching flame.</L>
+<L>Who did'st not feare a faithfull porte to open,</L>
+<L>And refuge to my ship with thunder broken:</L>
+<L>With whose revenues I suppli'd should be,</L>
+<L>If <HI>Caesar</HI> had tooke my owne goods from me.</L>
+<L>While violence of the time doth carry me,</L>
+<L>Thy name's almost slipt out of memory:</L>
+<L>Yet thou dost know't, and touched with the flame</L>
+<L>Of praise, dost wish thou mightst thy selfe proclaime:</L>
+<L>If thou would'st suffer it, I thy name would give,</L>
+<L>And make them that they should thy fame beleeve.</L>
+<L>I feare my gratefull verse should hurtfull be,</L>
+<L>Or unseasonable honour should but hinder thee.</L>
+<L>Since this is safe, rejoyce within thy minde,</L>
+<L>That I remember thee that thou wert kinde:</L>
+<L>And as thou dost, to helpe with Oares strive,</L>
+<L>Till <HI>Caesar</HI> pleas'd, some gentler wind arrive.</L>
+<L>And still beare up my head which none can save,</L>
+<L>But he that plung'd me in the stygian wave:</L>
+<L>And which is rare, be constant to the end,</L>
+<L>In every office of a stedfast friend.</L>
+<L><PB REF="36">So may thy fortune happily proceede,</L>
+<L>That thou no helpe, but others thine may neede:</L>
+<L>May so thy wife in goodnesse equall thee,</L>
+<L>And in thy bed may discord sildome be:</L>
+<L>May thy kindreds love be unto thee no other,</L>
+<L>Than that was shew'd to <HI>Castor</HI> by his brother.</L>
+<L>May so thy sonne be like thee, and in's prime,</L>
+<L>By his carriage may they know him to be thine:</L>
+<L>May thy daughter make thee a fatherlaw to be,</L>
+<L>And give the name of grandfather to thee.</L>
+</LG>
+</DIV2>
+<DIV2 N="6" TYPE="elegy">
+<ARGUMENT>
+<LG>
+<L>Though time all things doth asswage,</L>
+<L>Yet his sorrow more doth rage:</L>
+<L>So that being tyrd, at length,</L>
+<L>To beare his griefe he had no strength.</L>
+</LG>
+</ARGUMENT>
+<HEAD>ELEGIE VI.</HEAD>
+<LG>
+<L>IN time the Oxe endures the labouring plough,</L>
+<L>And to the crooked yoake his necke doth bow:</L>
+<L>In time the horse doth to the raynes submit,</L>
+<L>And gently takes into his mouth the bit.</L>
+<L>In time the <HI>Affrick</HI> Lions oulder grow,</L>
+<L>Nor do they still their former fiercenesse show.</L>
+<L>Time makes the grape to swell untill the skin</L>
+<L>Can scarce containe the wine that is within.</L>
+<L>Time brings the seed unto an eare at last,</L>
+<L>And maketh apples to be sweet in tast.</L>
+<L>Time weares the ploughthare that doth cut the clay,</L>
+<L>The Adamant and Flint it weares away.</L>
+<L>This by degrees fierce anger doth appease,</L>
+<L>It lessens sorrow, and sad hearts doth ease.</L>
+<L>Thus length of time can every thing impaire,</L>
+<L>Except it be the burden of my care.</L>
+<L><PB REF="36">Since I was banisht corne hath twice beene thresht,</L>
+<L>The grapes have twice with naked feete beene prest:</L>
+<L>Yet in this time no patience can I gaine,</L>
+<L>My minde most freshly doth her griefe retaine.</L>
+<L>Even as old Oxen often shunne the yoake,</L>
+<L>And the horse will not be bridled that was broke:</L>
+<L>My present griefe is worse than that before,</L>
+<L>Which by delay encreases more and more.</L>
+<L>Present griefes better knowne than past griefes are,</L>
+<L>And being better knowne they bring more care.</L>
+<L>Besids tis something when we bring fresh strength,</L>
+<L>And are not tyr'd before with griefes sad length:</L>
+<L>The new wrastler on the yellow sand is stronger,</L>
+<L>Than he whose armes are tyr'd with striving longer:</L>
+<L>The unwounded Fencer better is than he,</L>
+<L>Within whose blood the weapons dyed be.</L>
+<L>A new built ship resists the windes fell power,</L>
+<L>When an old ones broken with the smallest shower.</L>
+<L>And we more patiently before did beare,</L>
+<L>Those sorrowes which by time encreased are:</L>
+<L>Beleeve it, I grow faint, and I am sure,</L>
+<L>My body will not long these griefes endure:</L>
+<L>My strength nor colour doth not now abide,</L>
+<L>And my leane skin my bones can scarcely hide.</L>
+<L>My body and my minde too is not well,</L>
+<L>Which on the thought of griefe doth alway dwell:</L>
+<L>The Citty and my friends both absent are,</L>
+<L>And wife, than whom ther's none to me so deare.</L>
+<L>But the <HI>Scythians</HI> and a rout of <HI>Getes</HI> here be,</L>
+<L>Both absent things and present trouble me:</L>
+<L>One hope there is which yeelds me some releefe,</L>
+<L>That death will give an end unto my griefe.</L>
+<GAP DESC="missing" EXTENT="1+ pages">
+<L><PB REF="37">The Chariot of my life was overthrowne,</L>
+<L>When it unto the goale was almost come.</L>
+<L>And gainst me have enforc'd him to be wrath,</L>
+<L>Than whom the world none more milder hath:</L>
+<L>Though my offence orecame his clemency,</L>
+<L>To grant me life he never did denie.</L>
+<L>But neare the north Pole I my life must leade,</L>
+<L>In the land which by the <HI>Euxine</HI> Sea doth spred.</L>
+<L>Had the <HI>Delphian</HI> Oracle told these things to me,</L>
+<L>That place had seemed then most vaine to be.</L>
+<L>Ther's nothing though the <HI>Adamant</HI> it containe,</L>
+<L>That can be stronger than <HI>Ioves</HI> sudden flame.</L>
+<L>Ther's nothing is so high or plac'd above</L>
+<L>Danger, but that it is set under <HI>Iove.</HI></L>
+<L>Though part of my griefe did come by my one fault,</L>
+<L>Yet <HI>Caesars</HI> wrath my utter ruine wrought:</L>
+<L>But be you now admonish'd by my fate,</L>
+<L>To please that man who equalls gods in state.</L>
+</LG>
+</DIV2>
+<DIV2 N="9" TYPE="elegy">
+<ARGUMENT>
+<LG>
+<L>Here he doth admonish one,</L>
+<L>That he proceede not to doe him wrong.</L>
+</LG>
+</ARGUMENT>
+<HEAD>ELEGIE IX.</HEAD>
+<LG>
+<L>SInce thou art content I will conceale thy name,</L>
+<L>And drench thy deedes in Lethaean waves againe:</L>
+<L>And thy late teares our mercy shall orecome,</L>
+<L>So thou repent of that which thou hast done.</L>
+<L>But if hatred of us still thy bosome warmes,</L>
+<L>My unhappy griefe must take up forced armes:</L>
+<L>Though I am banisht to the farthest lands,</L>
+<L>My anger may from thence reach out her hands.</L>
+<L>All right of lawes great <HI>Caesar</HI> did me grant,</L>
+<L>My punishment is my countrey for to want.</L>
+<L><PB REF="37">And if he live, we may hope our returne,</L>
+<L>The Oake looks green which lightning once did burne</L>
+<L>If I had no power to revenge, at length</L>
+<L>The Muses then would lend me helpe and strength.</L>
+<L>Though in the <HI>Scythian</HI> coasts I here doe lye,</L>
+<L>Whereas the starrie signes are ever drye:</L>
+<L>Yet through large spatious lands my praise shall goe,</L>
+<L>And all the world my sad complaint shall know.</L>
+<L>What we speake in the west, unto the East shall flye,</L>
+<L>And the East shall heare my Westerne harmonie.</L>
+<L>Beyond both lands and seas they shall heare me,</L>
+<L>In a loud voyce shall my lamenting be.</L>
+<L>Nor shall the present age thee onely blame,</L>
+<L>But of posterity thou shalt be the shame:</L>
+<L>I am now despos'd to fight, though I have not blowne</L>
+<L>The trumpet, and I wish no cause were knowne.</L>
+<L>Though the Circk cease, the Bull doth cast aloofe</L>
+<L>The sand, and beats the earth with his hard hoofe,</L>
+<L>And now my Muse sound the retraite againe,</L>
+<L>While that he may dissemble his owne name.</L>
+</LG>
+</DIV2>
+<DIV2 N="10" TYPE="elegy">
+<ARGUMENT>
+<LG>
+<L>In this sweete Elegie at last,</L>
+<L>Ovid shew's his life that's past:</L>
+<L>Describes his birth, and does rehearse,</L>
+<L>How he tooke delight in verse.</L>
+</LG>
+</ARGUMENT>
+<HEAD>ELEGIE X.</HEAD>
+<L>POsterity receive me with delight,</L>
+<L>For it is I that once of love did write:</L>
+<L><HI>Sulmo</HI> my countrey is, where cold springs rise,</L>
+<L>And fifteene miles it from the Citty lies.</L>
+<L>Heere was I borne, and as you know right well,</L>
+<L>When both the Consuls by like fortune fell.</L>
+<L><PB REF="38">My second daughter did two husbands take,</L>
+<L>And twice a grandfather of me did make.</L>
+<L>My father now his life even finisht had,</L>
+<L>While nine times foure yeares he to mine did adde.</L>
+<L>I wept for him, as he would hove done for me,</L>
+<L>And then my mother dyed presently.</L>
+<L>Happy and timely to the grave they went,</L>
+<L>Because they dy'd before my banishment:</L>
+<L>And I am happy, since while they did live,</L>
+<L>They had no cause at all for me to greeve.</L>
+<L>If ought remaine unto the dead but names,</L>
+<L>And the thin Ghost doe scape the funerall flames;</L>
+<L>If you my parents heare some sad report,</L>
+<L>And that my faults are in the stygian court:</L>
+<L>Know then (whom to deceive is not my intent)</L>
+<L>Error, not wickednesse caus'd my banishment.</L>
+<L>Thus much to the dead, to you I now returne,</L>
+<L>That the actions of my life would faine discerne:</L>
+<L>Now whitenesse, when my best yeares spended were,</L>
+<L>Came on and mingled with my ancient haire.</L>
+<L>The horseman with Pisae in Olive crown'd,</L>
+<L>Hath since my birth gotten prizes renown'd.</L>
+<L>When as the Emperours wrath doth me command,</L>
+<L>To <HI>To<GAP DESC="illegible" EXTENT="1 letter">os</HI> which by Euxine Sea doth stand.</L>
+<L>I neede not shew the cause of my sad fall,</L>
+<L>Which is already too well knowne to all.</L>
+<L>What should I shew the trecherous intent,</L>
+<L>Of friends and servants, bad as banishment:</L>
+<L>Yet my minde scornd to yeeld to griefe at length,</L>
+<L>And shew'd herselfe invincible in strength.</L>
+<L>And forgetting of my quiet life, I than</L>
+<L>To take armes in my unwonted hand began:</L>
+<L>In more perrills I by sea and land have beene,</L>
+<L>Than starres betweene the shining Poles are seene.</L>
+<L><PB REF="38">At last I arrived at the <HI>Gettick</HI> coast,</L>
+<L>Ioynd to <HI>Sarmatia,</HI> being with errors tost.</L>
+<L>Though noise of warres do round about me rage,</L>
+<L>Yet by my verse I did my greefe asswage.</L>
+<L>Though there be none that can my words receive,</L>
+<L>Yet thus I doe the day alone deceive.</L>
+<L>In that I live and labour still betweene,</L>
+<L>And that the time doth not to me long seeme:</L>
+<L>Thanks Muse to thee, for thou dost yeeld releefe,</L>
+<L>Thou art the ease, and medcine of my griefe.</L>
+<L>Thou art my guide, from <HI>Isther</HI> me dost bring,</L>
+<L>And placest me in the Heliconian spring.</L>
+<L>And hast given me in my life time a great name,</L>
+<L>Which after death is given still by fame.</L>
+<L>Envy which doth at present things repine,</L>
+<L>Hath never bitten any worke of mine.</L>
+<L>Though many Poets in this age forth came,</L>
+<L>Yet fame was never envyous to my name.</L>
+<L>I prefer'd many who of me still sed</L>
+<L>No lesse, and through the world I am red:</L>
+<L>If Poets any truth do prophesie,</L>
+<L>I shall not all be earth when I do dye,</L>
+<L>If favour or my verse gave me this fame,</L>
+<L>Kind Reader I do thanke the for the same.</L>
+</DIV2>
+</DIV1>
+<DIV1 N="5" TYPE="book">
+<HEAD>LIB. V.</HEAD>
+<DIV2 N="1" TYPE="elegy">
+<ARGUMENT>
+<LG>
+<L>He writeth here unto his friend,</L>
+<L>To whom he doth this booke commend.</L>
+</LG>
+</ARGUMENT>
+<HEAD>ELEGIE I.</HEAD>
+<LG>
+<L>THis booke which commeth from the <HI>Gettick</HI> shoate,</L>
+<L>Adde thou (my friend) unto the other foure,</L>
+<L><PB REF="39">For this is like unto the Poets times,</L>
+<L>And thou shalt finde no sweetnesse in my lines.</L>
+<L>My verse and fortune full of sorrow be,</L>
+<L>My matter with my writing doth agree:</L>
+<L>Being happy, in a pleasant veine I writ,</L>
+<L>But now alasse I doe repent of it.</L>
+<L>But when I fell, my sad chance I proclame,</L>
+<L>And I my selfe the argument doe frame:</L>
+<L>Even as the Swan that on the banke doth lye,</L>
+<L>Bewailes herselfe when she is neare to dye:</L>
+<L>So I beeing cast on the <HI>Sarmattick</HI> shoare,</L>
+<L>My owne sad funerall doe her<GAP DESC="illegible" EXTENT="1 letter"> deplore.</L>
+<L>If any do in wanton verse delight,</L>
+<L>I advise him not to reade what I doe write:</L>
+<L><HI>Gallus</HI> and sweet <HI>Propertius</HI> fitter be,</L>
+<L>Whose names do flourish still in memorie.</L>
+<L>And in their number would I might not fall,</L>
+<L>Alasse why hath my Muse even spoke at all?</L>
+<L>But now to <HI>Scythia</HI> for a punishment,</L>
+<L>He that did write of quiverd love is sent:</L>
+<L>Yet I have bent my friends unto my vaine,</L>
+<L>And bid them to be mindefull of my name.</L>
+<L>If some would know why I so much do sing</L>
+<L>Of griefe, ascribe it to my suffering:</L>
+<L>We doe not now compose with will and Art,</L>
+<L>Sorrow doth to the matter wit impart.</L>
+<L>How small a part of griefe is in my verse,</L>
+<L>Hee's happy that his sufferings can rehearse:</L>
+<L>As shrubs in wood, or sands which <HI>Tyber</HI> guild,</L>
+<L>Or the soft blades of grasse in <HI>Marsses</HI> field</L>
+<L>So many miseries doe we now endure,</L>
+<L>Of which my Muses are the onely cure:</L>
+<L>If thou aske when <HI>Ovid</HI> ends his weeping lines,</L>
+<L>I answer, when I doe finde better times.</L>
+<L><PB REF="39">Shee this complaint from a full spring affords,</L>
+<L>They are not mine but my misfortunes words:</L>
+<L>If to me my wife and countrey thou restore,</L>
+<L>I shall be merry as I was before.</L>
+<L>If <HI>Caesars</HI> wrath to me become more milde,</L>
+<L>Ile give thee verses that with mirth are fill'd</L>
+<L>Yet shall my writing not jest so againe,</L>
+<L>Though once it ranne out in a wanton vaine.</L>
+<L>Ile sing what shall by <HI>Caesar</HI> be approv'd,</L>
+<L>If that I might be from the <HI>Getes</HI> remov'd:</L>
+<L>Till then sad matter in my bookes shall be,</L>
+<L>This pipe doth unto funeralls agree.</L>
+<L>But thou maist say, twere better for to cover</L>
+<L>Thy griefes, and strive in silence them to smother.</L>
+<L>Thou wouldst have torments, yet no groanes resound,</L>
+<L>Thou bidst him not to weepe that hath a wound.</L>
+<L>In that Bull which <HI>Perillus</HI> once did frame,</L>
+<L><HI>Phalleris</HI> suffer'd them to roare and complaine.</L>
+<L>And <HI>Priams</HI> teares <HI>Achilles</HI> did not blame,</L>
+<L>But thou more cruell wouldst my teares restraine.</L>
+<L>When <HI>Dian Niobe</HI> did childlesse leave,</L>
+<L>Shee did not bid her that shee should not grieve:</L>
+<L>Tis something by words to ease sorrowes vaine,</L>
+<L>Which maketh <HI>Progne</HI> alwayes to complaine.</L>
+<L>This made <HI>Paeantius</HI> in a cold cave lye,</L>
+<L>Wearying the <HI>Lemnian</HI> rockes even with his cry.</L>
+<L>Sorrow conceald doth choake and inward swell,</L>
+<L>Restraint to gather strength doth it compell.</L>
+<L>Then pardon me, or leave my workes even quite,</L>
+<L>If they harme thee which doe mee much delight:</L>
+<L>But yet they can be hurtfull unto none,</L>
+<L>Which onely have their Author overthrowne.</L>
+<L>I confesse they are ill, who bids thee take them then?</L>
+<L>Or who forbids thee lay them downe agen:</L>
+<L><PB REF="40">Yet that they may be read at last of thee,</L>
+<L>More barbarous than the place they cannot be.</L>
+<L><HI>Rome</HI> with her Poets should not me compare,</L>
+<L>Though mongst the Sauroumates I witty were:</L>
+<L>Lastly I seeke no glorie to obtaine,</L>
+<L>Nor that which spurrs up wit, aspiring fame.</L>
+<L>I would not have my minde to waste with care,</L>
+<L>Which still breake in though they forbidden are:</L>
+<L>This makes me write, but if you aske why I send</L>
+<L>These bookes, it is to visit you my friend.</L>
+</LG>
+</DIV2>
+<DIV2 N="2" TYPE="elegy">
+<ARGUMENT>
+<LG>
+<L>He bids his wife not to feare,</L>
+<L>To entreat Caesar that he would heare</L>
+<L>His case, and after be content,</L>
+<L>To grant him milder banishment:</L>
+</LG>
+</ARGUMENT>
+<HEAD>ELEGIE II.</HEAD>
+<LG>
+<L>WHen a letter comes from <HI>Pontus</HI> art thou pale?</L>
+<L>Why does thy hand in opening it even faile?</L>
+<L>Feare not, I am well, my body which I long</L>
+<L>Did ne're inure to paines, now groweth strong:</L>
+<L>And being vext, by use doth waxe more hard,</L>
+<L>Or that to be sicke, time is now debard:</L>
+<L>And yet my minde of strength doth get no more,</L>
+<L>My affections are the same they were before.</L>
+<L>Those wounds which I thought time would close againe,</L>
+<L>As if they were new made put me to paine:</L>
+<L>Time hath some power to heale a little crosse,</L>
+<L>But greater sorrowes do by time grow worse.</L>
+<L><HI>P<GAP DESC="illegible" EXTENT="4 letters">tius</HI> ten whole yeares that wound did feede,</L>
+<L>Which from the poyson'd Snake did first proceede:</L>
+<L>Let part then of my greefe his wrath appease,</L>
+<L>And let him <GAP DESC="illegible" EXTENT="2 letters">ke some drops from the full Seas.</L>
+<L><PB REF="40">Though he take off much, yet much remaine still shall,</L>
+<L>Part of my punishment will be like to all.</L>
+<L>As shells on shoare, or flowers on beds of Roses,</L>
+<L>Or as the graines which Poppie first discloses:</L>
+<L>As beasts in woods, or fish in waters swims,</L>
+<L>Or birds doe beate the gentle ayre with wings:</L>
+<L>So many are my griefes, and I as well</L>
+<L>The drops of the <HI>Icarian</HI> Sea may tell.</L>
+<L>Though I hide my dangers both by Sea and land,</L>
+<L>And how my life was sought by every hand:</L>
+<L>In the barbarous part of all the world I lye,</L>
+<L>Which is encompassed by the enemie.</L>
+<L>Since my crime is not bloody, I should be</L>
+<L>Conveyed hence, if thou didst care for me.</L>
+<L>That god on whom the Roman power doth lye,</L>
+<L>Hath beene most milde unto his enemie.</L>
+<L>Why dost thou doubt? goe and entreat for me:</L>
+<L>Than <HI>Caesar</HI> no man can more gentle be.</L>
+<L>What shall I doe if thou dost me forsake?</L>
+<L>And from the broken yoake thy necke dost take,</L>
+<L>And whence shall I some comfort now provide?</L>
+<L>Since that my ship doth at no anchor ride.</L>
+<L>He shall see, and to the Altar I will runne,</L>
+<L>The Altar which no hands at all doth shunne.</L>
+<L>I absent to the absent powers will speake,</L>
+<L>If that a man to <HI>Iove</HI> his minde may breake:</L>
+<L>Thou Ruler of the Empire in whose safetie,</L>
+<L>The gods doe shew their care of <HI>Italie</HI>:</L>
+<L>The glory and example of thy land,</L>
+<L>Great as the world which thou dost command:</L>
+<L>So dwell on earth, that heaven may thee desire,</L>
+<L>And slowly to the promis'd starres aspire.</L>
+<L>Spare me, and take some thunder backe againe,</L>
+<L>Enough of punishment will still remaine.</L>
+<L><PB REF="41">Thy wrath is milde, thou gantedst me to live.</L>
+<L>And the right of a Citizen to me didst give.</L>
+<L>Nor was my substance given away, and than,</L>
+<L>Thy edicts calls me not a banisht man.</L>
+<L>All which I feard, cause I did thee incense,</L>
+<L>But thy wrath was more milde than my offence.</L>
+<L>To banish me to <HI>Pontus</HI> thou didst please,</L>
+<L>While that my ship did cut the <HI>Scythian</HI> seas.</L>
+<L>Thus sent, at the <HI>Euxine</HI> shores I landed straight,</L>
+<L>Which under the cold Pole are scituate.</L>
+<L>Nor with the cold ayre here more vex'd am I,</L>
+<L>Nor hoary frost which on the clods doth lie:</L>
+<L>Or that they are ignorant of the Lattine tongue,</L>
+<L>And <HI>Graecian</HI> speech by <HI>Getick</HI> is orecome:</L>
+<L>As that I am encompas'd round with warre,</L>
+<L>So that within the walls we scarce safe are:</L>
+<L>Sometimes ther's peace, but yet no trust therein,</L>
+<L>We feare the warres untill the warres begin.</L>
+<L>So <GAP DESC="illegible" EXTENT="1 letter"> remove, may Charibdis me devoure,</L>
+<L>And send me downe unto the Stygian power.</L>
+<L>In <HI>Aetna's</HI> scorching flame ile burne with ease,</L>
+<L>Or be throwne into the Leucadian Seas:</L>
+<L>For to be miserable I doe not refuse,</L>
+<L>But yet a safer misery I would chuse.</L>
+</LG>
+</DIV2>
+<DIV2 N="3" TYPE="elegy">
+<ARGUMENT>
+<LG>
+<L>To Bacchus that he would but speake</L>
+<L>To Caesar, and for him entreate.</L>
+</LG>
+</ARGUMENT>
+<HEAD>ELEGIE III.</HEAD>
+<LG>
+<L><HI>BAcchus,</HI> this day the Poets keepe to thee,</L>
+<L>If in the time <GAP DESC="illegible" EXTENT="1 letter"> not deceived be:</L>
+<L>Tying sweet garlands round about their head,</L>
+<L><GAP DESC="illegible" EXTENT="1 word"> much in praise of wine by them is sed.</L>
+<L><PB REF="41">Mongst whom while I was suffered by my fate,</L>
+<L>I made up one, whom thou didst  <GAP DESC="illegible" EXTENT="1 word"> then hate:</L>
+<L>But now plac'd under the starres of the B<GAP DESC="illegible" EXTENT="4 letters"></L>
+<L><HI>Sarmatia</HI> holds me to the Getes so neare.</L>
+<L>I that did lead a life from labour free,</L>
+<L>In my studdie, or in the Muses companie:</L>
+<L>Now <HI>Gettick</HI> weapons l<GAP DESC="illegible" EXTENT="1 letter">sh on every hand,</L>
+<L>Having suffered much before by Sea and Land&punc;</L>
+<L>Whether fate or angry gods did this assigne,</L>
+<L>Or that the <HI>Parcae</HI> frownd at my birth time?</L>
+<L>Yet by thy power thou shouldst have helped me,</L>
+<L>One of the adorers of thy Ivie tree.</L>
+<L>Or can no god ever alter that decree,</L>
+<L>Which once the fatall Ladies prophecie?</L>
+<L>Thou by desert in heaven a seate dost hold,</L>
+<L>And mad'st thy way through labours manifold.</L>
+<L>Nor did thy countrey alwayes thee containe,</L>
+<L>But to the Getes and snowy <HI>Strymo<GAP DESC="illegible" EXTENT="1 letter"></HI> came:</L>
+<L>To <HI>Persis</HI> and to <HI>Ganges</HI> wandring streame.</L>
+<L>And all those waters Indians drinke uncleane.</L>
+<L>The <HI>Parcae</HI> that the fatall threds doe spin,</L>
+<L>To the twice borne, twice this decree did sing:</L>
+<L>If I by the example of the gods may goe,</L>
+<L>A hard estate of life doth keepe me low.</L>
+<L>And in as heavy a manner as he I fell,</L>
+<L>Whom <HI>Iove</HI> for bragging did from <HI>Thebes</HI> expell.</L>
+<L>When thou heardst thy Poet was thus thunder-strooke,</L>
+<L>For thy mothers sake some griefe thou mightst have tooke.</L>
+<L>And looking on thy Poets, might'st say thus,</L>
+<L>One here is wanting that much honor'd us:</L>
+<L>Helpe <HI>Bacchus,</HI> and may so a double vine,</L>
+<L>Burden the Elme, the grapes being full of wine.</L>
+<L>So may the <HI>Bacchae</HI> with the <HI>Satyres</HI> be,</L>
+<L>Ready to make an amazed cry to thee.</L>
+<L><PB REF="42">And may <HI>Lycurgus</HI> bones be hardly prest,</L>
+<L>And <HI>Pentheus</HI> ghost from torment never rest.</L>
+<L>So may thy wives cleere crowne within the skie</L>
+<L>Shine ever, and excell those starres are nie.</L>
+<L>Come hither and helpe me in my sad estate,</L>
+<L>Remember I was one of thine of late.</L>
+<L>The gods have one society, strive to encline</L>
+<L>Great <HI>Caesars</HI> power by that same power of thine.</L>
+<L>And you Poets that my fellow students be,</L>
+<L>Take wine, and after pray the same for me.</L>
+<L>And let some of you when <HI>Ovids</HI> name he heares,</L>
+<L>Set downe the cup and mingle it with teares:</L>
+<L>Saying when he doth all the rest espie,</L>
+<L>Where's <HI>Ovid</HI> once one of our companie?</L>
+<L>Doe this if my candor did deserve your love,</L>
+<L>Or if I ne're did any line reprove.</L>
+<L>If while I reverence former men that writ,</L>
+<L>I am held equall not beneath in witt:</L>
+<L>If with <HI>Apollos</HI> favour you would frame</L>
+<L>A verse, then keepe among you still my name.</L>
+</LG>
+</DIV2>
+<DIV2 N="4" TYPE="elegy">
+<ARGUMENT>
+<LG>
+<L>This letter here doth descrie,</L>
+<L>Ovids greefe and misery:</L>
+<L>And it praiseth much a friend,</L>
+<L>That was constant to the end.</L>
+</LG>
+</ARGUMENT>
+<HEAD>ELEGIE IIII.</HEAD>
+<LG>
+<L>I <HI>Ovids</HI> letter from Euxine land</L>
+<L>Am come, being tyred both by Sea and land:</L>
+<L>Who weeping sayd, goe thou and visite <HI>Rome,</HI></L>
+<L>Thy state is better than my fatall doome.</L>
+<L>Weeping he writ me, nor at his mouth would wet</L>
+<L><GAP DESC="illegible" EXTENT="1 word"> seale which to his moist cheekes he did set.</L>
+<L><PB REF="42">If any one my cause of griefe would know,</L>
+<L>He wishes I the summe to him should show:</L>
+<L>He sees no leaves in woods, in fields no grasse,</L>
+<L>Nor how the water in full streames doth passe.</L>
+<L>He may aske why <HI>Priam</HI> griev'd for <HI>Hectors</HI> sake,</L>
+<L>Why <HI>Philoctetes</HI> gron'd stung by a Snake:</L>
+<L>Would the gods would put him into such a state,</L>
+<L>That he should have no cause to waile his fate.</L>
+<L>Yet as he ought he indures his miseries,</L>
+<L>Nor like a wilde horse from his bridle flyes.</L>
+<L>He hopes that <HI>Caesars</HI> wrath will not still last,</L>
+<L>Knowing no wickednesse in his faults thats past:</L>
+<L>He calls to minde great <HI>Caesars</HI> clemency,</L>
+<L>Which by himselfe he doth exemplifie.</L>
+<L>For that he keepes his wealth, and still doth live,</L>
+<L>And is a Citizen; all this he doth give:</L>
+<L>Yet thee (if thou beleev'st me) he doth beare,</L>
+<L>Alwayes in minde and above all things deare.</L>
+<L>His <HI>Patroclus</HI> and <HI>Pylades</HI> thou shalt be,</L>
+<L>His <HI>Theseus</HI> and <HI>Euryalus</HI> he calls thee:</L>
+<L>Nor doth he wish his countrey more to see,</L>
+<L>And those things which with it now absent be,</L>
+<L>Than to see thy face, than honey sweeter still,</L>
+<L>With which the Attick Bee the hive doth fill.</L>
+<L>Oft being sad, the time to minde he doth call,</L>
+<L>And greeves that death did not prevent his fall.</L>
+<L>When some my sudden misery did shunne,</L>
+<L>Nor to the threshold of my house would come.</L>
+<L>He remembers thou most faithfull didst remaine,</L>
+<L>If any two or three a few do name.</L>
+<L>And though amazed he did then perceive,</L>
+<L>That thou as much as he himselfe didst greeve.</L>
+<L>Thy words and sighes he usually declares,</L>
+<L>And how his bosome was wet with thy teares.</L>
+<L><PB REF="43">Of which he sayes he will be mindfull ever,</L>
+<L>Whether he see day, or the earth him cover:</L>
+<L>He would sweare even by his head and thine,</L>
+<L>Which as his owne he esteemed at that time:</L>
+<L>He shall returne thy love full thankes againe,</L>
+<L>Nor shall thy Oxen plough the shoare in vaine:</L>
+<L>Defend a banisht man; I aske what he</L>
+<L>Himselfe doth not aske, that hath well knowen thee.</L>
+</LG>
+</DIV2>
+<DIV2 N="5" TYPE="elegy">
+<ARGUMENT>
+<LG>
+<L>His wives birth he doth celebrate,</L>
+<L>And prayes she may be fortunate.</L>
+</LG>
+</ARGUMENT>
+<HEAD>ELEGIE V.</HEAD>
+<LG>
+<L>MY wives birth day due honour doth expect,</L>
+<L>My hands doe not those holy rites neglect:</L>
+<L>Thus <HI>Vlysses</HI> in the farthest part of all</L>
+<L>The world, did keepe a solemne festivall&punc;</L>
+<L>Let now my tongue forget past griefes againe,</L>
+<L>Which I feare hath forgot good words to frame.</L>
+<L>That garment which I once a yeare do take,</L>
+<L>He weare being white and unlike to my fate.</L>
+<L>And a greene Altar shall of turfe be made,</L>
+<L>And a Garland round about the Altar layd:</L>
+<L>Boy give me incense making a fat flame,</L>
+<L>And wine that in the fire may hisse againe.</L>
+<L>Birthday I wish that thou maist still come here</L>
+<L>Prosperous, and unlike to mine appeare:</L>
+<L>If any ill fate hover ore my wife,</L>
+<L>Let me endure it in my wretched life:</L>
+<L>And let my ship bruis'd with a grievous storme,</L>
+<L>Sayle on her way through safe Seas without harme.</L>
+<L>In her house and countrey let her take delight,</L>
+<L>Tis enough that these are taken from my sight.</L>
+<L><PB REF="43">Though in her husband she unhappy be,</L>
+<L>Let her other part of life from clouds be free:</L>
+<L>May she live and love her absent husband now,</L>
+<L>And spend those latter yeares which fates allow,</L>
+<L>And mine too, but I feare my fate would give,</L>
+<L>Some infection to those yeares which she doth live:</L>
+<L>Nothing is certaine, for who'd thinke that I,</L>
+<L>Should mongst the <HI>Geres</HI> keepe this solemnitie?</L>
+<L>Looke how the winde towards <HI>Italie</HI> now drives,</L>
+<L>The smoake that from the Incense dotha rise:</L>
+<L>There is sense in the clouds, which fire doth show,</L>
+<L>But what it doth portend I doe not know.</L>
+<L>When those brothers once did sacrificing stand,</L>
+<L>Who after were slaine by each others hand:</L>
+<L>In two parts the blacke flame did upward goe,</L>
+<L>As if it were by them commanded so.</L>
+<L>I remember once I said it could not be,</L>
+<L>And <HI>Calimachus</HI> was not beleev'd of me;</L>
+<L>Now I beleeve, since thou wise smoake dost bend,</L>
+<L>For the North, and towards <HI>Italie</HI> dost ascend.</L>
+<L>This is the day, which if it had not beene,</L>
+<L>No feastday had of wretched me beene seene.</L>
+<L>This day brought vertues that most equall were,</L>
+<L>To those same men whose fames did shine most cleare:</L>
+<L>Chastitie and constancie with her were borne,</L>
+<L>But no joyes began upon that day forlorne.</L>
+<L>But labour, cares, and sad adversity,</L>
+<L>And like a widdow all alone to lye:</L>
+<L>Yet goodnesse by adversity is tride,</L>
+<L>And prais'd that doth in hardest times abide.</L>
+<L>Had <HI>Vlysses</HI> seene no troubles in his dayes,</L>
+<L><HI>Penelope</HI> had beene happie without praise:</L>
+<L><HI>Evadne</HI> had layne in the earth unknowne,</L>
+<L>If her husband conquerour from <HI>Thebes</HI> had come.</L>
+<L><PB REF="44">Of <HI>Pelias</HI> daughters one is prais'd by fame,</L>
+<L>Because shee married an unhappy man.</L>
+<L>Had another first gon on the <HI>Trojan</HI> shoare,</L>
+<L>Of <HI>Laodameia</HI> we should heare no more:</L>
+<L>And that affection had beene still unknowne,</L>
+<L>If that a faire winde in my sailes had blowne.</L>
+<L>You gods and <HI>Caesar,</HI> which to you shall goe,</L>
+<L>When he hath liv'd out <HI>Nestors</HI> yeares below:</L>
+<L>Spare not me who due punishment receive,</L>
+<L>But her that doth unworthily now greeve.</L>
+</LG>
+</DIV2>
+<DIV2 N="6" TYPE="elegy">
+<ARGUMENT>
+<LG>
+<L>Heere he doth entreat his friend,</L>
+<L>Not to leave him in the end.</L>
+</LG>
+</ARGUMENT>
+<HEAD>ELEGIE VI.</HEAD>
+<LG>
+<L>THou that wert once the hope of my affaires,</L>
+<L>A refuge and a haven to my cares,</L>
+<L>Dost thou forget thy friend in miserie?</L>
+<L>That pious office dost thou now lay by?</L>
+<L>My burden thou should'st not have undergone,</L>
+<L>If in this time thou would'st have laid it downe:</L>
+<L><HI>Palinurus</HI> thou in the Sea dost leave my barke,</L>
+<L>Flye not, but be thou faithfull in thy Arte,</L>
+<L><HI>Autom<GAP DESC="illegible" EXTENT="1 letter">don</HI> in the battell never fled,</L>
+<L>Nor left <HI>Achilles</HI> horse unmaniged.</L>
+<L><HI>Podali<GAP DESC="illegible" EXTENT="1+ letters"></HI> whom he tooke to cure, would still,</L>
+<L>Give him that helpe he promis'd by his skill.</L>
+<L>Better not take than to thrust forth a guest,</L>
+<L>Let my hand on thy Altar firmely rest:</L>
+<L>To maintaine me at first thou didst intend,</L>
+<L>Me and thy judgement doe thou now defend.</L>
+<L>If that there be no new offence of mine,</L>
+<L>To make thee change thy faith for any crime:</L>
+<L><PB REF="44">My breath which I in <HI>Scythia</HI> fetch so slow,</L>
+<L>I wish may first out of my body goe:</L>
+<L>Ere any fault of mine thy brest doe move,</L>
+<L>Or that I seeme lesse worthy of thy love.</L>
+<L>We are not so by unjust fates opprest,</L>
+<L>That length of miserie should disturbe my breast:</L>
+<L>Suppose it were, how often did <HI>Orestes.</HI></L>
+<L>Speake froward words against his Pylades.</L>
+<L>Nay it is true that he did strike his friend,</L>
+<L>Yet in friendship he continued to the end.</L>
+<L>In this the wretched with the rich are even,</L>
+<L>That unto both much flattery is given.</L>
+<L>We give the way unto the blinde, and those</L>
+<L>Who are feard because they weare the purple cloathes.</L>
+<L>You should spare my fortune though you spare not me,</L>
+<L>There is no place now angry for to be:</L>
+<L>Chuse the least sorrow which I doe sustaine,</L>
+<L>Tis more than that whereof thou dost complaine.</L>
+<L>As Ditches hidden are with many a reede,</L>
+<L>Or as the Bees which doe on <HI>Hybla</HI> feede:</L>
+<L>Or like those graines which by the Ants are found,</L>
+<L>And in a small path carried under ground.</L>
+<L>Even such a troope of sorrowes compasse me,</L>
+<L>Beleeve me, my complaint might greater be:</L>
+<L>He that is not content herewith, may powre</L>
+<L>Water to the Sea, or sands unto the shoare.</L>
+<L>There fore thy unseasonable rage appease&punc;</L>
+<L>Nor leave my sailes in the midst of the seas.</L>
+</LG>
+</DIV2>
+<DIV2 N="7" TYPE="elegy">
+<ARGUMENT>
+<LG>
+<L>His miseries he here repeates,</L>
+<L>With the manners and habit of the Getes.</L>
+</LG>
+</ARGUMENT>
+<HEAD>ELEGIE VII.</HEAD>
+<LG>
+<L>THis letter which thou readst, from thence did come,</L>
+<L>Where <HI>Ister</HI> into the greene sea doth runne.</L>
+</LG>
+<GAP DESC="missing" EXTENT="1+ pages">
+</DIV2>
+<DIV2 N="8" TYPE="elegy">
+<PB REF="45">
+<ARGUMENT>
+<LG>
+<L>To enveigh against one he doth begin,</L>
+<L>Who had railed first at him.</L>
+</LG>
+</ARGUMENT>
+<HEAD>ELEGIE. VIII.</HEAD>
+<LG>
+<L>THough I am fallen, yet I am not beneath thee,</L>
+<L>Than which there's nothing can inferiour be.</L>
+<L>What makes thee wicked man, to stomacke mee,</L>
+<L>Insulting in that which may happe to thee.</L>
+<L>Cannot my miseries make thee soft and milde.</L>
+<L>For which the beasts would weepe though they are wilde.</L>
+<L>Fearst thou not fortune, on a Globe that stands,</L>
+<L>Nor yet that hated goddesses commands?</L>
+<L><HI>Rhamnutia</HI> will on thee revenged be,</L>
+<L>Because thou tread'st upon my miserie.</L>
+<L>I have seene a shipwracke, and men cast away,</L>
+<L>Yet that the water was just ne're did say.</L>
+<L>Who once deny'd the poore some broken meate,</L>
+<L>Is glad himselfe of begged bread th eate.</L>
+<L>Fortune doth rove with an unconstanc pace,</L>
+<L>And ne're remaineth certaine in one place.</L>
+<L>Now she is merry, then sullen by and by,</L>
+<L>And constant in nothing but inconstancy.</L>
+<L>We flourisht once, but soone that flower did fade,</L>
+<L>And this our sudden blaze of straw was made.</L>
+<L>Yet least thou cruelly rejoyce in vaine,</L>
+<L>I have some hope to please the gods againe.</L>
+<L>My fault is not wicked, though it merrit blame,</L>
+<L>And envy is wanting to increase my shame.</L>
+<L>Besides, from Sunne rising till he downe doth goe,</L>
+<L>The world a milder man can never show.</L>
+<L>And though he cannot be o'recome by strength,</L>
+<L>Entreaty makes his heart grow soft at length.</L>
+<L>And like the gods to whom he shall go at last,</L>
+<L>Will pardon me, and give more than I aske.</L>
+<L><PB REF="45">If you count the faire and fowle dayes in a yeare,</L>
+<L>You shall finde the day hath oftner beene cleare:</L>
+<L>Then least thou joy in my ruine any more,</L>
+<L>Thinke <HI>Caesar</HI> may me once againe restore.</L>
+<L>Thinke that the Prince appeas'd, it may come to passe,</L>
+<L>That in the Citty thou maist see my face:</L>
+<L>And see thee banisht for a worse fault than this,</L>
+<L>Which is the next unto my former wish.</L>
+</LG>
+</DIV2>
+<DIV2 N="9" TYPE="elegy">
+<ARGUMENT>
+<LG>
+<L>He shewes why his friend he dares not name,</L>
+<L>Or mention him for feare of blame.</L>
+</LG>
+</ARGUMENT>
+<HEAD>ELEGIE IX.</HEAD>
+<LG>
+<L>IF thou would'st let thy name be in my verse,</L>
+<L>How often then should I thy name reherse.</L>
+<L>For thou the subject of my song should'st be,</L>
+<L>And each leafe of my Booke should mention thee.</L>
+<L>My love to thee through the Citty should be spread,</L>
+<L>If banisht, I am in the Citty read:</L>
+<L>The present age and latter should know thee,</L>
+<L>If that my writings beare antiquity.</L>
+<L>And the Learned Reader praise to thee should give,</L>
+<L>And be honour'd while that I thy Poet live.</L>
+<L>Tis <HI>Caesars</HI> guift that we doe breath this ayre,</L>
+<L>After the gods thankes unto thee due are.</L>
+<L>He gave me life, and thou dost it maintaine,</L>
+<L>That so I may enjoy that gift againe.</L>
+<L>When some to see my ruine were dismaid,</L>
+<L>And some I thinke for company were dismai'd,</L>
+<L>And beheld my shipwrack from some hill on land,</L>
+<L>And to me swimming would not reach their hand:</L>
+<L>Thou caldst me halfe dead from the <HI>Stygian</HI> water,</L>
+<L>And mad'st me to remember this hereafter.</L>
+<GAP DESC="missing" EXTENT="1+ pages">
+<L><PB REF="46">Hard <HI>Lachesis</HI> thou gav'st too long a thred</L>
+<L>Of life to me, under an ill starre bred:</L>
+<L>That my countries sight and friends I now do want,</L>
+<L>And thus in <HI>Scythia</HI> doe make my complaint.</L>
+<L>Both grievous are, I have deserv'd from <HI>Rome</HI></L>
+<L>To be banisht, not to such a place to come:</L>
+<L>What speake I madly? I deserv'd to dye,</L>
+<L>When I offended <HI>Caesars</HI> majestie.</L>
+</LG>
+</DIV2>
+<DIV2 N="11" TYPE="elegy">
+<ARGUMENT>
+<LG>
+<L>To his wife 'cause some did her defame,</L>
+<L>And call her wife to a banisht man.</L>
+</LG>
+</ARGUMENT>
+<HEAD>ELEGIE XI.</HEAD>
+<LG>
+<L>THy Letter which thou sendst me doth complaine,</L>
+<L>That some one call'd thee wife to a banisht man:</L>
+<L>I griev'd, not that my life is ill spoke by,</L>
+<L>Who now have us'd to suffer valiantly:</L>
+<L>But that I am a cause of shame to thee,</L>
+<L>And I thinke thou blushest at my misery.</L>
+<L>Endure, thou hast suffered more even for my sake,</L>
+<L>When the Princes wrath me from thee first did take.</L>
+<L>Hee's deceiv'd who calleth me a banisht man,</L>
+<L>My fault a gentler punishment did attaine:</L>
+<L>Our ship though broke is not orewhelm'd or drown'd,</L>
+<L>It beares up still, though it no Porte hath found.</L>
+<L>My life, my wealth, my right he doth not take,</L>
+<L>Which I deserv'd to lose for my faults sake.</L>
+<L>To ofend him was a punishment farre more,</L>
+<L>I wish my funerall houre had gone before:</L>
+<L>But because no wickednesse was in my fault,</L>
+<L>To banish me he onely fittest thought.</L>
+<L>As to those whose numbers cannot reckond be,</L>
+<L>So <HI>Caesars</HI> Majestie was milde to me.</L>
+<L><PB REF="46">Therefore my verses by right as they may,</L>
+<L>O <HI>Caesar,</HI> doe sing forth thy praise alway:</L>
+<L>I beseech the gods to shut up heavens gate,</L>
+<L>And let thee be a god on earth in state.</L>
+<L>But thou that calld'st me thus a banisht man,</L>
+<L>Encrease not my sorrow with a fained name.</L>
+</LG>
+</DIV2>
+<DIV2 N="12" TYPE="elegy">
+<ARGUMENT>
+<LG>
+<L>To his friend who wisht him to delight</L>
+<L>Himselfe, while he did verses write.</L>
+</LG>
+</ARGUMENT>
+<HEAD>ELEGIE XII.</HEAD>
+<LG>
+<L>THou writ'st that I should passe the time away,</L>
+<L>With studdy least my minde with rust decay:</L>
+<L>Tis hard (my friend) verse is a merry taske,</L>
+<L>And it a quiet minde doth alwayes aske.</L>
+<L>Our fate is droven by adverse winde,</L>
+<L>No chance more sad than mine can be assign'd:</L>
+<L>Thou wouldst have <HI>Priam</HI> at his sonnes death jest,</L>
+<L>And <HI>Niobe</HI> dance as it were at a feast.</L>
+<L>Ought I to studdie or else to lament?</L>
+<L>That alone unto the farthest <HI>Getes</HI> am sent.</L>
+<L>Give me a brest with so much strength sustained,</L>
+<L>Such as <HI>Anytus</HI> had, as it is famed.</L>
+<L>So great a waight would sinke his wit at length;</L>
+<L><HI>Ioves</HI> anger is above all humane strength.</L>
+<L>That old man which <HI>Apollo</HI> wise did call,</L>
+<L>In such a case would not have writ at all.</L>
+<L>Though I forget my countrey and my selfe,</L>
+<L>And have no sense at all of my lost wealth:</L>
+<L>To doe my office feare doth me forbid,</L>
+<L>Being compass'd in with foes on every side.</L>
+<L>Besides, my vaine growes dull being rusted o're,</L>
+<L>And now it is farre lesser than before,</L>
+<L><PB REF="47">The field if that it be not daily till'd,</L>
+<L>Will nothing elss but thornes and knot grasse yeeld.</L>
+<L>The horse having long stood still will badly runne,</L>
+<L>And be last of those that from the lists do come.</L>
+<L>The boate that hath long out of water beene,</L>
+<L>Growes rotten, and the chinkes thereof are seene.</L>
+<L>Then hope not I that had an humble vaine,</L>
+<L>Can ere returne like to my selfe againe.</L>
+<L>My wit by my long suffering is decay'd,</L>
+<L>And part of my former vigor now doth fade.</L>
+<L>Sometimes my tables in my hand I take,</L>
+<L>And I my words to runne in feete would make.</L>
+<L>I can write no verses but such as you see,</L>
+<L>Fitting the place and their Authors miserie.</L>
+<L>And lastly, glory gives strength to a straine.</L>
+<L>And love of praise, doth make a fruitfull vaine.</L>
+<L>I was allur'd with hope of fame before,</L>
+<L>While as a prosperous winde my sailes out bore.</L>
+<L>But now in glory I take not delight,</L>
+<L>I had rather be unknowne if that I might:</L>
+<L>Because that some my verse at first did like,</L>
+<L>Wouldst thou have me therefore proceed to write?</L>
+<L>M<GAP DESC="illegible" EXTENT="1 letter">y I speake it with your leave, you Sisters nine,</L>
+<L>You chiefly caus'd this banishment of mine.</L>
+<L>As the maker of the Bull in it did smart,</L>
+<L>So I am also punisht by my Art.</L>
+<L>And now with verse I ought for to have done,</L>
+<L>And being shipwrackt I the sea should shunne.</L>
+<L>Suppose that study I should againe assay,</L>
+<L>This place is unfit for verses any way.</L>
+<L>Here are no bookes nor none to lend an eare,</L>
+<L>Nor none can understand me if they heare.</L>
+<L>All places here both rude and wilde are found,</L>
+<L>And filled with the fearefull <HI>Gettick</HI> sound.</L>
+<L><PB REF="47">I have forgot in Latin for to speake,</L>
+<L>And I have learnt the language of the <HI>G<GAP DESC="illegible" EXTENT="2 letters">e.</HI></L>
+<L>Yet to speake truth, I cannot so restraine</L>
+<L>My Muse, but sometime she <GAP DESC="illegible" EXTENT="1 letter"> verse will frame.</L>
+<L>I write, and then I burne those bookes againe,</L>
+<L>And thus my studdy endeth in a flame.</L>
+<L>I cannot make a verse, nor do desire,</L>
+<L>Which makes me put my labour in the fire.</L>
+<L>No part of my invention to you came,</L>
+<L>But that which was stole or snatch'd from the flame.</L>
+<L>And would that Art too hard beene burnt for me,</L>
+<L>Which brought the Author unto miserie.</L>
+</LG>
+</DIV2>
+<DIV2 N="13" TYPE="elegy">
+<ARGUMENT>
+<LG>
+<L>Here he doth accuse his friend,</L>
+<L>Because he did no letters send.</L>
+</LG>
+</ARGUMENT>
+<HEAD>ELEGIE XIII.</HEAD>
+<LG>
+<L>FRom the <HI>Getticke</HI> land thy <HI>Ovid</HI> sends thee health,</L>
+<L>If one can send what he doth want himselfe:</L>
+<L>For my mind from my body infected is,</L>
+<L>Least any part of me should torment misse.</L>
+<L>A paine in my side me many dayes hold,</L>
+<L>Which I had gotten by the winters cold.</L>
+<L>If thou art well, then we in part are well,</L>
+<L>For thou didst underprop me when I fell.</L>
+<L>Thou gav'st the many pledges of thy heart,</L>
+<L>And didst defend me still in every part.</L>
+<L>'Tis thy fault that letters thou dost seldome send,</L>
+<L>Thou performedst deeds, deny'st words to thy friend.</L>
+<L>Pray mend this fault, which if you shall correct,</L>
+<L>In thee alone there will be no defect.</L>
+<L><PB REF="48">I doe not neede thy death, shew love to me,</L>
+<L>And thence thou shalt get fame most easily.</L>
+<L>Nor thinke I exhort thee, cause that thou dost faile,</L>
+<L>Though the ship goe with oares, we put on saile.</L>
+<L>He that exhorts, doth praise what thou dost doe,</L>
+<L>And by exhorting doth his liking shew.</L>
+</LG>
+</DIV2>
+<TRAILER>FINIS.</TRAILER>
+<PB REF="48" MS="y">
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>
