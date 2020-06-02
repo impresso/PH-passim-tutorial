@@ -7,7 +7,7 @@ This is the accompanying code for the ProgrammingHistorian lesson on passim. Thi
 - Data is in `data`:
 	- `sgml` contains the original EEBO TCP files in SGML
 	- `txt` contains the textual content of the SGML files 
--`ref` contains the King James Bible from Project Gutenberg
+- `ref` contains the King James Bible from Project Gutenberg
 - The already-prepared input file for passim is in this directory: `passim_in.json`. Due to size restrictions on Github's side, it is limited to 200 books picked randomly. A full compressed version is available as `passim_in.json.gz`.
 
 ### How-to
