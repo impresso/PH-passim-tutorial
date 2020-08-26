@@ -9,7 +9,7 @@ Data come from two different sources (see respective READMEs for license stateme
 
 The Jupyter notebook [`explore-passim-output.ipynb`](./explore-passim-output.ipynb) contains an example of how to load `passim`'s JSON output into a `pandas` `DataFrame` to compute some statistics.
 
-To run the notebook as well as the scripts contained in [`eebo/code/*.py`](eebo/code/*.py) make sure that you install the required dependencies into a new virtual environment (created by using `conda`, `pyenv`, `venv`, etc.):
+To run the notebook as well as the script [`eebo/code/main.py`](eebo/code/*.py) make sure that you install the required dependencies into a new virtual environment (created by using `conda`, `pyenv`, `venv`, etc.):
 
 ```bash
 pip install -r requirements.txt
