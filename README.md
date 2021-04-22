@@ -1,5 +1,7 @@
 # README
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/impresso/PH-passim-tutorial/HEAD)
+
 This repository contains the sample data for the [Programming Historian](https://programminghistorian.org/)'s lesson *Detecting Text Reuse with Passim*, written by [Matteo Romanello](https://github.com/mromanello) and [Simon Hengchen](http://github.com/faustusdotbe) (currently in [preparation](https://github.com/programminghistorian/ph-submissions/issues/294)).
 
 Data come from two different sources (see respective READMEs for license statements and further details):
